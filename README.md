@@ -9,11 +9,20 @@ Affinity 시리즈의 한글화를 위하여. (기존 시스템의 비효율성�
   * [Affinity Photo on the Mac App Store](https://itunes.apple.com/app/affinity-photo/id824183456)
   * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id)
 ## Start
-다음 명령어를 통해 번역된 자료를 다운로드합니다.
+Terminal.app에서 다음 명령어를 입력합니다. 번역된 자료를 다운로드할 수 있습니다.
 ```sh
 cd ~/Downloads/
 git clone https://github.com/Teiming/Affinity-in-Korean.git
-sudo ~/Downloads/Affinity-in-Korean/Install.sh
+```
+### Affinity Designer
+Affinity Designer를 번역하기 위해 다음 명령어를 입력합니다.
+```sh
+sudo ~/Downloads/Affinity-in-Korean/Translate-Affinity-Designer.sh
+```
+### Affinity Photo
+Affinity Photo를 번역하기 위해 다음 명령어를 입력합니다.
+```sh
+sudo ~/Downloads/Affinity-in-Korean/Translate-Affinity-Photo.sh
 ```
 ## Feedback
 번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.
