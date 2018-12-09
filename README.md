@@ -3,9 +3,11 @@ Affinity 시리즈의 한글화를 위하여. (기존 시스템의 비효율성�
 * 최신 버전 구매
   * [Affinity Designer for desktop - Professional graphic design software](https://affinity.serif.com/designer/desktop)
   * [Affinity Photo for desktop - Professional image editing software](https://affinity.serif.com/photo/desktop)
+  * [Affinity Publisher for desktop](https://affinity.serif.com/publisher/desktop)
 * LTS 버전 구매
   * [Affinity Designer on the Mac App Store](https://itunes.apple.com/app/affinity-designer/id824171161)
   * [Affinity Photo on the Mac App Store](https://itunes.apple.com/app/affinity-photo/id824183456)
+  * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id)
 ## Start
 다음 명령어를 통해 번역된 자료를 다운로드합니다.
 ```sh
