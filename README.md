@@ -13,6 +13,7 @@ Affinity 시리즈의 한글화를 위하여. (기존 시스템의 비효율성�
 ```sh
 cd ~/Downloads/
 git clone https://github.com/Teiming/Affinity-in-Korean.git
+sudo ~/Downloads/Affinity-in-Korean/Install.sh
 ```
 ## Feedback
 번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.
