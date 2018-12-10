@@ -435,7 +435,7 @@
 				<integer>13</integer>
 			</dict>
 		</dict>
-		<string>Paste</string>
+		<string>붙이기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -616,7 +616,7 @@
 				<integer>29</integer>
 			</dict>
 		</dict>
-		<string>Create Slice</string>
+		<string>슬라이스 생성</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -690,7 +690,7 @@
 				<integer>33</integer>
 			</dict>
 		</dict>
-		<string>Find in Layers Page</string>
+		<string>레이어 페이지에서 찾기</string>
 		<string>selectExportableMenu</string>
 		<dict>
 			<key>$class</key>
@@ -883,7 +883,7 @@
 				<integer>39</integer>
 			</dict>
 		</dict>
-		<string>Cut</string>
+		<string>오려두기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -918,7 +918,7 @@
 				<integer>41</integer>
 			</dict>
 		</dict>
-		<string>Copy</string>
+		<string>복사</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1025,7 +1025,7 @@
 				<integer>45</integer>
 			</dict>
 		</dict>
-		<string>Group</string>
+		<string>그룹</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1060,7 +1060,7 @@
 				<integer>47</integer>
 			</dict>
 		</dict>
-		<string>Ungroup</string>
+		<string>그룹 해제</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1095,7 +1095,7 @@
 				<integer>49</integer>
 			</dict>
 		</dict>
-		<string>Ungroup All</string>
+		<string>모든 그룹 해제</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1168,7 +1168,7 @@
 				<integer>52</integer>
 			</dict>
 		</dict>
-		<string>Rotate Left</string>
+		<string>왼쪽으로 회전</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1203,7 +1203,7 @@
 				<integer>54</integer>
 			</dict>
 		</dict>
-		<string>Rotate Right</string>
+		<string>오른쪽으로 회전</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1238,7 +1238,7 @@
 				<integer>56</integer>
 			</dict>
 		</dict>
-		<string>Reset Rotation</string>
+		<string>회전 재설정</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1326,7 +1326,7 @@
 				<integer>59</integer>
 			</dict>
 		</dict>
-		<string>Arrange</string>
+		<string>순서</string>
 		<string>submenuAction:</string>
 		<dict>
 			<key>$class</key>
@@ -1405,7 +1405,7 @@
 				<integer>64</integer>
 			</dict>
 		</dict>
-		<string>Move to Front</string>
+		<string>맨 앞으로 가져오기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1440,7 +1440,7 @@
 				<integer>66</integer>
 			</dict>
 		</dict>
-		<string>Move Forward One</string>
+		<string>앞으로 가져오기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1475,7 +1475,7 @@
 				<integer>68</integer>
 			</dict>
 		</dict>
-		<string>Move Back One</string>
+		<string>뒤로 보내기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1510,7 +1510,7 @@
 				<integer>70</integer>
 			</dict>
 		</dict>
-		<string>Move to Back</string>
+		<string>맨 뒤로 보내기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1560,7 +1560,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>Alignment</string>
+		<string>정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1650,7 +1650,7 @@
 				<integer>76</integer>
 			</dict>
 		</dict>
-		<string>Align Left</string>
+		<string>왼쪽 정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1685,7 +1685,7 @@
 				<integer>78</integer>
 			</dict>
 		</dict>
-		<string>Align Centre</string>
+		<string>가로 가운데 정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1720,7 +1720,7 @@
 				<integer>80</integer>
 			</dict>
 		</dict>
-		<string>Align Right</string>
+		<string>오른쪽 정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1793,7 +1793,7 @@
 				<integer>83</integer>
 			</dict>
 		</dict>
-		<string>Align Top</string>
+		<string>위쪽 정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1828,7 +1828,7 @@
 				<integer>85</integer>
 			</dict>
 		</dict>
-		<string>Align Middle</string>
+		<string>세로 가운데 정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1863,7 +1863,7 @@
 				<integer>87</integer>
 			</dict>
 		</dict>
-		<string>Align Bottom</string>
+		<string>아래쪽 정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1913,7 +1913,7 @@
 				<integer>89</integer>
 			</dict>
 		</dict>
-		<string>Geometry</string>
+		<string>기하</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1995,7 +1995,7 @@
 				<integer>93</integer>
 			</dict>
 		</dict>
-		<string>Add</string>
+		<string>추가</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2030,7 +2030,7 @@
 				<integer>95</integer>
 			</dict>
 		</dict>
-		<string>Subtract</string>
+		<string>제거</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2065,7 +2065,7 @@
 				<integer>97</integer>
 			</dict>
 		</dict>
-		<string>Intersect</string>
+		<string>교차</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2100,7 +2100,7 @@
 				<integer>99</integer>
 			</dict>
 		</dict>
-		<string>Divide</string>
+		<string>분할</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2135,7 +2135,7 @@
 				<integer>101</integer>
 			</dict>
 		</dict>
-		<string>Combine</string>
+		<string>배타</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2185,7 +2185,7 @@
 				<integer>103</integer>
 			</dict>
 		</dict>
-		<string>Transform</string>
+		<string>변형</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2267,7 +2267,7 @@
 				<integer>107</integer>
 			</dict>
 		</dict>
-		<string>Rotate Left</string>
+		<string>왼쪽으로 회전</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2302,7 +2302,7 @@
 				<integer>109</integer>
 			</dict>
 		</dict>
-		<string>Rotate Right</string>
+		<string>오른쪽으로 회전</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2375,7 +2375,7 @@
 				<integer>112</integer>
 			</dict>
 		</dict>
-		<string>Flip Horizontal</string>
+		<string>가로 뒤집기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2410,7 +2410,7 @@
 				<integer>114</integer>
 			</dict>
 		</dict>
-		<string>Flip Vertical</string>
+		<string>세로 뒤집기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2483,7 +2483,7 @@
 				<integer>117</integer>
 			</dict>
 		</dict>
-		<string>Layer Effects…</string>
+		<string>레이어 효과…</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2556,7 +2556,7 @@
 				<integer>120</integer>
 			</dict>
 		</dict>
-		<string>Convert to Curves</string>
+		<string>곡선으로 전환</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2591,7 +2591,7 @@
 				<integer>122</integer>
 			</dict>
 		</dict>
-		<string>Rasterise…</string>
+		<string>래스터화…</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2664,7 +2664,7 @@
 				<integer>125</integer>
 			</dict>
 		</dict>
-		<string>Create Style</string>
+		<string>스타일 생성</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2752,7 +2752,7 @@
 				<integer>128</integer>
 			</dict>
 		</dict>
-		<string>Add to Swatches…</string>
+		<string>견본에 추가…</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2770,7 +2770,7 @@
 				<integer>130</integer>
 			</dict>
 		</dict>
-		<string>Add to Swatches…</string>
+		<string>견본에 추가…</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2843,7 +2843,7 @@
 				<integer>133</integer>
 			</dict>
 		</dict>
-		<string>From Fill</string>
+		<string>칠</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2878,7 +2878,7 @@
 				<integer>135</integer>
 			</dict>
 		</dict>
-		<string>From Line</string>
+		<string>획</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2913,7 +2913,7 @@
 				<integer>137</integer>
 			</dict>
 		</dict>
-		<string>From Both</string>
+		<string>모두</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2986,7 +2986,7 @@
 				<integer>140</integer>
 			</dict>
 		</dict>
-		<string>From Fill As Global</string>
+		<string>칠 (전역)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3021,7 +3021,7 @@
 				<integer>142</integer>
 			</dict>
 		</dict>
-		<string>From Line As Global</string>
+		<string>획 (전역)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3056,7 +3056,7 @@
 				<integer>144</integer>
 			</dict>
 		</dict>
-		<string>From Both As Global</string>
+		<string>모두 (전역)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3129,7 +3129,7 @@
 				<integer>147</integer>
 			</dict>
 		</dict>
-		<string>Find in Layers Panel</string>
+		<string>레이어 목록에서 찾기</string>
 		<string>selectMenu</string>
 		<dict>
 			<key>$class</key>
@@ -3218,7 +3218,7 @@
 				<integer>153</integer>
 			</dict>
 		</dict>
-		<string>Find in Slice Page</string>
+		<string>슬라이스 페이지에서 찾기</string>
 		<string>sliceMenu</string>
 		<dict>
 			<key>$class</key>
@@ -3355,7 +3355,7 @@
 				<integer>159</integer>
 			</dict>
 		</dict>
-		<string>Zoom In</string>
+		<string>확대</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3390,7 +3390,7 @@
 				<integer>161</integer>
 			</dict>
 		</dict>
-		<string>Zoom Out</string>
+		<string>축소</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3463,7 +3463,7 @@
 				<integer>164</integer>
 			</dict>
 		</dict>
-		<string>Zoom to Fit</string>
+		<string>화면 크기에 맞추기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3536,7 +3536,7 @@
 				<integer>167</integer>
 			</dict>
 		</dict>
-		<string>Rotate Left</string>
+		<string>왼쪽으로 회전</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3571,7 +3571,7 @@
 				<integer>169</integer>
 			</dict>
 		</dict>
-		<string>Rotate Right</string>
+		<string>오른쪽으로 회전</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3606,7 +3606,7 @@
 				<integer>171</integer>
 			</dict>
 		</dict>
-		<string>Reset Rotation</string>
+		<string>회전 재설정</string>
 		<dict>
 			<key>$class</key>
 			<dict>

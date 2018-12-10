@@ -24,4 +24,4 @@ else
     /usr/bin/sed -f PhotoDictionary "$PATH" > Photo/$NAME.temp && /bin/mv Photo/$NAME.temp Photo/$NAME
   fi
 fi
-~/Affinity-in-Korean/LogWrite
+./LogWrite
