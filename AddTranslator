@@ -4,8 +4,8 @@ echo "번역"
 read KOR
 cd ~/Affinity-in-Korean/
 exp=$(echo "s/>$ENG</>$KOR</")
-echo $exp >> DesignerDictionary
-echo $exp >> PhotoDictionary
-/bin/cat DesignerDictionary | /usr/bin/sort | /usr/bin/uniq > DesignerDictionary.temp && /bin/mv DesignerDictionary.temp DesignerDictionary
-/bin/cat PhotoDictionary | /usr/bin/sort | /usr/bin/uniq > PhotoDictionary.temp && /bin/mv PhotoDictionary.temp PhotoDictionary
-diff DesignerDictionary PhotoDictionary > Log/DesignerDictionary-PhotoDictionary.log
+echo $exp >> DictonaryDesigner
+echo $exp >> DictonaryPhoto
+/bin/cat DictonaryDesigner | /usr/bin/sort | /usr/bin/uniq > DictonaryDesigner.temp && /bin/mv DictonaryDesigner.temp DictonaryDesigner
+/bin/cat DictonaryPhoto | /usr/bin/sort | /usr/bin/uniq > DictonaryPhoto.temp && /bin/mv DictonaryPhoto.temp DictonaryPhoto
+diff DictonaryDesigner DictonaryPhoto > Log/DictonaryDesigner-DictonaryPhoto.log
