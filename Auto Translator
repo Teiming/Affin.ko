@@ -1,3 +1,4 @@
+# /bin/bash
 cd ~/Affinity-in-Korean/
 echo "command_file을 정렬합니다."
 /bin/cat command_file | /usr/bin/sort | /usr/bin/uniq > command_file.temp && /bin/mv command_file.temp command_file
@@ -12,22 +13,22 @@ echo "번역할 파일을 입력합니다."
 read PATH
 echo $PATH
 path=$(echo $PATH | /usr/bin/sed -e "s/ /\\\ /")
-NAME=$(echo $path | /usr/bin/sed -e "s/^.*\///")
+NAME=$(echo "$PATH" | /usr/bin/sed -e "s/^.*\///")
 echo $NAME"을(를) 번역합니다."
 
 if [ $APP -eq 1 ]
 then
   if [ $WHERE -eq 1 ]
   then
-    /usr/bin/sed -f command_file $path > Designer.Frameworks/$NAME.temp && /bin/mv $NAME.temp $NAME
+    /usr/bin/sed -f command_file "$PATH" > Designer.Frameworks/$NAME
   else
-    /usr/bin/sed -f command_file $path > Designer/$NAME.temp && /bin/mv $NAME.temp $NAME
+    /usr/bin/sed -f command_file "$PATH" > Designer/$NAME
   fi
 else
   if [ $WHERE -eq 1 ]
   then
-    /usr/bin/sed -f command_file $path > Photo.Frameworks/$NAME.temp && /bin/mv $NAME.temp $NAME
+    /usr/bin/sed -f command_file "$PATH" > Photo.Frameworks/$NAME
   else
-    /usr/bin/sed -f command_file $path > Photo/$NAME.temp && /bin/mv $NAME.temp $NAME
+    /usr/bin/sed -f command_file "$PATH" > Photo/$NAME
   fi
 fi
