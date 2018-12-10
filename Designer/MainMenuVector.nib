@@ -1932,7 +1932,7 @@
 				<integer>66</integer>
 			</dict>
 		</dict>
-		<string>전체화면</string>
+		<string>전체 화면 시작</string>
 		<string>f</string>
 		<dict>
 			<key>$class</key>
@@ -2269,7 +2269,7 @@
 				<integer>95</integer>
 			</dict>
 		</dict>
-		<string>Designer 가리기</string>
+		<string>가리기</string>
 		<string>hide:</string>
 		<dict>
 			<key>$class</key>
@@ -2327,7 +2327,7 @@
 				<integer>99</integer>
 			</dict>
 		</dict>
-		<string>Designer에 관하여…</string>
+		<string>About…</string>
 		<string>showAboutDialog:</string>
 		<dict>
 			<key>$class</key>
@@ -4422,7 +4422,7 @@
 				<integer>266</integer>
 			</dict>
 		</dict>
-		<string>가운데 정렬</string>
+		<string>가로 가운데 정렬</string>
 		<string>alignCentre:</string>
 		<dict>
 			<key>$class</key>
@@ -8678,7 +8678,7 @@
 				<integer>573</integer>
 			</dict>
 		</dict>
-		<string>위로 정렬</string>
+		<string>위쪽 정렬</string>
 		<string>doAlignTop:</string>
 		<dict>
 			<key>$class</key>
@@ -11074,7 +11074,7 @@
 				<integer>743</integer>
 			</dict>
 		</dict>
-		<string>픽셀 페르소나</string>
+		<string>그림 페르소나</string>
 		<string>pixelPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -11251,7 +11251,7 @@
 				<integer>756</integer>
 			</dict>
 		</dict>
-		<string>아래로 정렬</string>
+		<string>아래쪽 정렬</string>
 		<string>doAlignBottom:</string>
 		<dict>
 			<key>$class</key>
@@ -11956,7 +11956,7 @@
 				<integer>807</integer>
 			</dict>
 		</dict>
-		<string>시계방향으로 회전</string>
+		<string>오른쪽으로 회전</string>
 		<string>doRotateClockwise:</string>
 		<dict>
 			<key>$class</key>
@@ -15834,7 +15834,7 @@
 				<integer>1077</integer>
 			</dict>
 		</dict>
-		<string>반시계방향으로 회전</string>
+		<string>왼쪽으로 회전</string>
 		<string>doRotateAnticlockwise:</string>
 		<dict>
 			<key>$class</key>
@@ -21017,7 +21017,7 @@
 				<integer>1254</integer>
 			</dict>
 		</dict>
-		<string>자간</string>
+		<string>공간</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21586,8 +21586,8 @@
 				<integer>1274</integer>
 			</dict>
 		</dict>
-		<string>줄간격</string>
-		<string>줄간격</string>
+		<string>Paragraph Leading</string>
+		<string>Paragraph Leading</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21702,7 +21702,7 @@
 			</dict>
 		</dict>
 		<string>텍스트 스타일</string>
-		<string>Text Styles</string>
+		<string>텍스트 스타일</string>
 		<dict>
 			<key>$class</key>
 			<dict>

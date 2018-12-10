@@ -1,100 +1,4 @@
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/AboutDialog.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/AboutDialog.nib
-< 	<string>NSKeyedArchiver</string>
-< 		<string>$null</string>
-< 		<string>AboutDialogWindowController</string>
-< 				<string>NSCustomObject</string>
-< 				<string>NSObject</string>
-< 			<string>NSCustomObject</string>
-< 		<string>{{1306.5, 633.5}, {587, 511}}</string>
-< 		<string>Window</string>
-< 		<string>AboutDialogWindow</string>
-< 		<string>{587, 511}</string>
-< 		<string></string>
-< 		<string>.AppleSystemUIFont</string>
-< 				<string>NSFont</string>
-< 				<string>NSObject</string>
-< 			<string>NSFont</string>
-< 		<string>NSImage</string>
-< 		<string>DesignerSplash</string>
-< 				<string>NSCustomResource</string>
-< 				<string>NSObject</string>
-< 			<string>NSCustomResource</string>
-< 		<string></string>
-< 				<string>NSButtonCell</string>
-< 				<string>NSActionCell</string>
-< 				<string>NSCell</string>
-< 				<string>NSObject</string>
-< 			<string>NSButtonCell</string>
-< 				<string>NSButton</string>
-< 				<string>NSControl</string>
-< 				<string>NSView</string>
-< 				<string>NSResponder</string>
-< 				<string>NSObject</string>
-< 			<string>NSButton</string>
-< 		<string>{{217, 223}, {152, 13}}</string>
-< 		<string>{251, 750}</string>
-< 		<string>Version</string>
-< 		<string>Helvetica-Light</string>
-< 		<string>System</string>
-< 		<string>controlColor</string>
-< 				<string>NSMutableData</string>
-< 				<string>NSData</string>
-< 				<string>NSObject</string>
-< 			<string>NSMutableData</string>
-< 				<string>NSColorSpace</string>
-< 				<string>NSObject</string>
-< 			<string>NSColorSpace</string>
-< 				<string>NSColor</string>
-< 				<string>NSObject</string>
-< 			<string>NSColor</string>
-< 				<string>NSTextFieldCell</string>
-< 				<string>NSActionCell</string>
-< 				<string>NSCell</string>
-< 				<string>NSObject</string>
-< 			<string>NSTextFieldCell</string>
-< 				<string>NSTextField</string>
-< 				<string>NSControl</string>
-< 				<string>NSView</string>
-< 				<string>NSResponder</string>
-< 				<string>NSObject</string>
-< 			<string>NSTextField</string>
-< 				<string>NSMutableArray</string>
-< 				<string>NSArray</string>
-< 				<string>NSObject</string>
-< 			<string>NSMutableArray</string>
-< 		<string>{587, 511}</string>
-< 				<string>NSView</string>
-< 				<string>NSResponder</string>
-< 				<string>NSObject</string>
-< 			<string>NSView</string>
-< 		<string>{{0, 0}, {3200, 1778}}</string>
-< 		<string>{10000000000000, 10000000000000}</string>
-< 		<string>{0, 0}</string>
-< 				<string>NSWindowTemplate</string>
-< 				<string>NSObject</string>
-< 			<string>NSWindowTemplate</string>
-< 				<string>NSMutableSet</string>
-< 				<string>NSSet</string>
-< 				<string>NSObject</string>
-< 			<string>NSMutableSet</string>
-< 		<string>m_versionString</string>
-< 				<string>NSNibOutletConnector</string>
-< 				<string>NSNibConnector</string>
-< 				<string>NSObject</string>
-< 			<string>NSNibOutletConnector</string>
-< 		<string>window</string>
-< 		<string>orderOut:</string>
-< 				<string>NSNibControlConnector</string>
-< 				<string>NSNibConnector</string>
-< 				<string>NSObject</string>
-< 			<string>NSNibControlConnector</string>
-< 		<string>NSApplication</string>
-< 				<string>NSArray</string>
-< 				<string>NSObject</string>
-< 			<string>NSArray</string>
-< 				<string>NSIBObjectData</string>
-< 				<string>NSObject</string>
-< 			<string>NSIBObjectData</string>
+Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: AboutDialog.nib
 diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/ContextMenu.nib
 < 		<string>Paste</string>
 > 		<string>붙이기</string>
@@ -1235,7 +1139,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Zoom</string>
 > 		<string>맞추기</string>
 < 		<string>Toggle Full Screen</string>
-> 		<string>전체화면</string>
+> 		<string>전체 화면 시작</string>
 < 		<string>Hide Others</string>
 > 		<string>기타 가리기</string>
 < 		<string>Preferences…</string>
@@ -1245,9 +1149,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Show All</string>
 > 		<string>모두 보기</string>
 < 		<string>Hide</string>
-> 		<string>Designer 가리기</string>
-< 		<string>About…</string>
-> 		<string>Designer에 관하여…</string>
+> 		<string>가리기</string>
 < 		<string>Redo</string>
 > 		<string>실행 취소</string>
 < 		<string>Copy</string>
@@ -1309,7 +1211,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Align Left</string>
 > 		<string>왼쪽 정렬</string>
 < 		<string>Align Centre</string>
-> 		<string>가운데 정렬</string>
+> 		<string>가로 가운데 정렬</string>
 < 		<string>Justify Centre</string>
 > 		<string>가운데 균등 정렬</string>
 < 		<string>Align Right</string>
@@ -1425,7 +1327,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Align Centre</string>
 > 		<string>가로 가운데 정렬</string>
 < 		<string>Align Top</string>
-> 		<string>위로 정렬</string>
+> 		<string>위쪽 정렬</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>새로운 픽셀 레이어</string>
 < 		<string>Clip to Canvas</string>
@@ -1491,13 +1393,13 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Revert</string>
 > 		<string>되돌리기</string>
 < 		<string>Pixel Persona</string>
-> 		<string>픽셀 페르소나</string>
+> 		<string>그림 페르소나</string>
 < 		<string>Separated Mode</string>
 > 		<string>분리 모드</string>
 < 		<string>Precise Lower Baseline</string>
 > 		<string>기준선 정밀하게 내리기</string>
 < 		<string>Align Bottom</string>
-> 		<string>아래로 정렬</string>
+> 		<string>아래쪽 정렬</string>
 < 		<string>Update Paragraph Style</string>
 > 		<string>문단 스타일 업데이트</string>
 < 		<string>Gradient Map</string>
@@ -1515,7 +1417,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Invert Pixel Selection</string>
 > 		<string>픽셀 선택 항목 반전</string>
 < 		<string>Rotate Right</string>
-> 		<string>시계방향으로 회전</string>
+> 		<string>오른쪽으로 회전</string>
 < 		<string>Shadows / Highlights</string>
 > 		<string>그림자 / 빛</string>
 < 		<string>Bigger</string>
@@ -1633,7 +1535,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Find in Layers Panel</string>
 > 		<string>레이어 목록에서 찾기</string>
 < 		<string>Rotate Left</string>
-> 		<string>반시계방향으로 회전</string>
+> 		<string>왼쪽으로 회전</string>
 < 		<string>Justify All</string>
 > 		<string>양쪽 균등 정렬</string>
 < 		<string>Smaller</string>
@@ -1701,7 +1603,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Size</string>
 > 		<string>크기</string>
 < 		<string>Spacing</string>
-> 		<string>자간</string>
+> 		<string>공간</string>
 < 		<string>Ligatures</string>
 > 		<string>합자</string>
 < 		<string>Baseline</string>
@@ -1712,11 +1614,9 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>대문자화</string>
 < 		<string>Alignment</string>
 > 		<string>정렬</string>
-< 		<string>Paragraph Leading</string>
-< 		<string>Paragraph Leading</string>
-> 		<string>줄간격</string>
-> 		<string>줄간격</string>
 < 		<string>Text Styles</string>
+< 		<string>Text Styles</string>
+> 		<string>텍스트 스타일</string>
 > 		<string>텍스트 스타일</string>
 < 		<string>Insert Character</string>
 < 		<string>Insert Character</string>
@@ -1852,74 +1752,5 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/objectst
 > 	<string>스타일</string>
 < 	<string>Sunset</string>
 > 	<string>석양</string>
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/raster_brushes.strings
-< 	<string>Airbrush</string>
-< 	<string>Assorted</string>
-< 	<string>Basic</string>
-< 	<string>Brush 1</string>
-< 	<string>Brush 2</string>
-< 	<string>Brush 3</string>
-< 	<string>Brush 4</string>
-< 	<string>Brush 5</string>
-< 	<string>Brush 6</string>
-< 	<string>Brush 7</string>
-< 	<string>Brush 8</string>
-< 	<string>Drawing</string>
-< 	<string>Drawing 1</string>
-< 	<string>Drawing 2</string>
-< 	<string>Drawing 3</string>
-< 	<string>Drawing 4</string>
-< 	<string>Drawing 5</string>
-< 	<string>Drawing 6</string>
-< 	<string>Effect 4</string>
-< 	<string>Effect Brush</string>
-< 	<string>Effects</string>
-< 	<string>Effects 1</string>
-< 	<string>Effects 2</string>
-< 	<string>Effects 3</string>
-< 	<string>Grunge 1</string>
-< 	<string>Grunge 2</string>
-< 	<string>Grunge 3</string>
-< 	<string>Grunge 4</string>
-< 	<string>Grunge 5</string>
-< 	<string>Grunge 6</string>
-< 	<string>Grunge 7</string>
-< 	<string>Grunge 8</string>
-< 	<string>Grunge 9</string>
-< 	<string>Grunge Brush</string>
-< 	<string>Heavy Paint</string>
-< 	<string>Light Brush</string>
-< 	<string>Paint 1</string>
-< 	<string>Paint 10</string>
-< 	<string>Paint 11</string>
-< 	<string>Paint 12</string>
-< 	<string>Paint 13</string>
-< 	<string>Paint 14</string>
-< 	<string>Paint 15</string>
-< 	<string>Paint 2</string>
-< 	<string>Paint 3</string>
-< 	<string>Paint 4</string>
-< 	<string>Paint 5</string>
-< 	<string>Paint 6</string>
-< 	<string>Paint 7</string>
-< 	<string>Paint 8</string>
-< 	<string>Paint 9</string>
-< 	<string>Paint Brush</string>
-< 	<string>Painting</string>
-< 	<string>Round Brush</string>
-< 	<string>Round Light Brush</string>
-< 	<string>Round Soft Brush</string>
-< 	<string>Soft Brush</string>
-< 	<string>Solid Brush</string>
-< 	<string>Spray 1</string>
-< 	<string>Spray 2</string>
-< 	<string>Spray 3</string>
-< 	<string>Spray 4</string>
-< 	<string>Spray 5</string>
-< 	<string>Spray 6</string>
-< 	<string>Spray 7</string>
-< 	<string>Spray 8</string>
-< 	<string>Spray-paints</string>
-< 	<string>Texture</string>
-< 	<string>Texture Brush</string>
+Files /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brushes.strings and /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/raster_brushes.strings are identical
 Files /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brushes.strings and /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/vector_brushes.strings are identical
