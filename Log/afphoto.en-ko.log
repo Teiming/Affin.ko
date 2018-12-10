@@ -2440,9 +2440,9 @@ Files /Applications/Affinity Photo.app/Contents/Resources/en.lproj/macros.string
 Files /Applications/Affinity Photo.app/Contents/Resources/en.lproj/objectstyles.strings and /Applications/Affinity Photo.app/Contents/Resources/ko.lproj/objectstyles.strings are identical
 Files /Applications/Affinity Photo.app/Contents/Resources/en.lproj/raster_brushes.strings and /Applications/Affinity Photo.app/Contents/Resources/ko.lproj/raster_brushes.strings are identical
 diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/tone_map.strings /Applications/Affinity Photo.app/Contents/Resources/ko.lproj/tone_map.strings
-29,30c29,30
+29,30d28
 < 	<key>Default</key>
 < 	<string>Default</string>
----
+92a91,92
 > 	<key>기본값</key>
 > 	<string>기본값</string>

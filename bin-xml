@@ -1,11 +1,14 @@
 sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/*
+sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Resources/en-US.lproj/*
 sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Resources/ja.lproj/*
 sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/*
 sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
+sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en-US.lproj/*
 sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
 sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/*
 
 sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/*
+sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Resources/en-US.lproj/*
 sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Resources/ja.lproj/*
 sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj/*
 sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*

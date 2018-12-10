@@ -1,4 +1,6 @@
 s/>Actual Size</>실제 크기</
+s/>Add Colour to Swatch</>색상을 견본에 추가</
+s/>Add Global Colour…</>전역 색상 추가…</
 s/>Add to Swatches…</>견본에 추가…</
 s/>Add</>추가</
 s/>Affinity Photo Help</>Affinity Photo 도움말</
@@ -18,10 +20,14 @@ s/>Align Vertical Centres</>세로 가운데 정렬</
 s/>Align</>정렬하기</
 s/>Alignment</>정렬</
 s/>All Caps</>모두 대문자</
+s/>Alphabetical</>알파벳</
 s/>Always Show Selection in Layers Panel </>항상 레이어 목록에서 선택 항목 나타내기</
 s/>Apple Colour Picker...</>Apple 색상 선택기...</
 s/>Apply</>적용</
 s/>Arrange</>순서</
+s/>As Application Palette</>응용프로그램 팔레트로</
+s/>As Document Palette</>문서 팔레트로</
+s/>As System Palette</>시스템 팔레트로</
 s/>Assistant Manager…</>손쉬운 사용 관리자…</
 s/>Assistant Options</>손쉬운 사용 설정</
 s/>Auto Colours</>자동 색상</
@@ -89,6 +95,7 @@ s/>Convert to Text Path</>텍스트 경로로 전환</
 s/>Copy</>복사</
 s/>Create Character Style</>문자 스타일 생성</
 s/>Create Compound</>결합 생성</
+s/>Create Palette From Document</>문서로부터 팔레트 생성</
 s/>Create Paragraph Style</>문단 스타일 생성</
 s/>Create Slice</>슬라이스 생성</
 s/>Create Style</>스타일 생성</
@@ -101,8 +108,12 @@ s/>Decrease</>줄이기</
 s/>Default</>기본값</
 s/>Defaults</>기본값</
 s/>Delete Character Style</>문자 스타일 지우기</
+s/>Delete Colour</>색상 지우기</
+s/>Delete Palette</>팔레트 지우기</
 s/>Delete Paragraph Style</>문단 스타일 지우기</
 s/>Delete</>지우기</
+s/>Depth:</>깊이:</
+s/>Depth</>깊이</
 s/>Desaturate</>채도 낮추기</
 s/>Deselect</>선택 해제</
 s/>Detach and Delete All Styles</>모든 스타일 벗기고 삭제</
@@ -168,6 +179,7 @@ s/>Hide Others</>기타 가리기</
 s/>Hide Studio</>작업실 가리기</
 s/>Hide</>가리기</
 s/>Hold</>유지</
+s/>Home</>홈</
 s/>Ignore Misspelt Word</>철자 오류 무시</
 s/>Ignore Text Wraps</>줄바꿈 무시</
 s/>Import Text Styles…</>문자 스타일 불러오기…</
@@ -194,6 +206,7 @@ s/>Justify Centre</>가운데 균등 정렬</
 s/>Justify Left</>왼쪽 균등 정렬</
 s/>Justify Right</>오른쪽 균등 정렬</
 s/>Justify</>맞춤</
+s/>Keyboard Shortcuts</>키보드 단축키</
 s/>Layer Effects…</>레이어 효과…</
 s/>Layer</>레이어</
 s/>Layout Persona</>구조 페르소나</
@@ -219,6 +232,7 @@ s/>Mesh</>그물</
 s/>Metal</>금속</
 s/>Minimize</>최소화</
 s/>Mirror</>거울</
+s/>Miscellaneous</>기타</
 s/>Move Back One</>뒤로 보내기</
 s/>Move By Whole Pixels</>전체 픽셀 이동</
 s/>Move Forward One</>앞으로 가져오기</
@@ -244,7 +258,8 @@ s/>Non-Breaking Space</>줄 바꿈 없는 공백</
 s/>None</>없음</
 s/>On App Screen</>응용프로그램 화면</
 s/>Onyx</>오닉스</
-s/>Opacity:</>투명도:</
+s/>Opacity:</>불투명도:</
+s/>Opacity</>불투명도</
 s/>Open Recent</>최근 사용 열기</
 s/>Open…</>열기…</
 s/>Order</>순서</
@@ -258,6 +273,7 @@ s/>Paste Inside</>안으로 붙이기</
 s/>Paste Style</>스타일 붙이기</
 s/>Paste Without Format</>포맷 없이 붙이기</
 s/>Paste</>붙이기</
+s/>Percentage</>백분율</
 s/>Performance</>성능</
 s/>Persona</>페르소나</
 s/>Personas</>페르소나</
@@ -279,6 +295,7 @@ s/>Precise Increase</>정밀하게 늘리기</
 s/>Precise Lower Baseline</>기준선 정밀하게 내리기</
 s/>Precise Raise Baseline</>기준선 정밀하게 올리기</
 s/>Precise Smaller</>정밀하게 줄이기</
+s/>Preferences</>환경설정</
 s/>Preferences…</>환경설정…</
 s/>Print…</>인쇄…</
 s/>Promote Group to Layer</>그룹을 레이어로 승격</
@@ -289,10 +306,13 @@ s/>Raise Baseline</>기준선 올리기</
 s/>Rasterise to Mask</>마스크 래스터화</
 s/>Rasterise…</>래스터화…</
 s/>Reapply Text Styles</>텍스트 스타일 재적용</
+s/>Recent:</>최근 사용 항목:</
+s/>Recent</>최근 사용 항목</
 s/>Recolour</>재색상</
 s/>Redo</>실행 취소</
 s/>Refine Edges…</>모서리 다듬기…</
 s/>Release Compound</>결합 해제</
+s/>Rename Palette...</>팔레트 이름 변경...</
 s/>Reset Rotation</>회전 재설정</
 s/>Reset Selection Box</>선택 항목 상자 재설정</
 s/>Reset Studio</>작업실 재설정</
@@ -330,6 +350,8 @@ s/>Separated Mode</>분리 모드</
 s/>Services</>서비스</
 s/>Set No Character Style</>문자 스타일 벗기기</
 s/>Set No Paragraph Style</>문단 스타일 벗기기</
+s/>Set as Default for</>기본값으로 설정하기</
+s/>Shades</>음영</
 s/>Shadows \/ Highlights</>그림자 \/ 빛</
 s/>Share</>공유</
 s/>Show All</>모두 보기</
@@ -359,6 +381,7 @@ s/>Snapping Options</>스내핑 설정</
 s/>Snapping</>스내핑</
 s/>Soft Hyphen</>하이픈</
 s/>Soft Proof</>미리보기</
+s/>Sort</>정렬</
 s/>Space Horizontally</>가로 공간</
 s/>Space Vertically</>세로 공간</
 s/>Spacing</>공간</
@@ -383,6 +406,7 @@ s/>Sync Before</>이전 항목 동기화</
 s/>Synchronise Defaults</>기본값 동기화</
 s/>Synchronise defaults from selection</>선택 항목에서 기본값 동기화</
 s/>Synchronise from Selection</>선택 항목에서 기본값 동기화</
+s/>System</>시스템</
 s/>Tables</>표</
 s/>Text Styles</>텍스트 스타일</
 s/>Text Wrap</>줄바꿈</
@@ -397,6 +421,8 @@ s/>Toggle UI</>UI 가리기</
 s/>Tonal Range</>색조 영역</
 s/>Tone Mapping Persona</>톤 맵핑 페르소나</
 s/>Tone Mapping</>톤 맵핑</
+s/>Tones</>색조</
+s/>Tools</>도구</
 s/>Top</>위로</
 s/>Transform</>변형</
 s/>Tutorial...</>튜토리얼...</
