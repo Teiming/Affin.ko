@@ -1,4 +1,3 @@
-# /bin/bash
 cd ~/Affinity-in-Korean/
 /bin/cat command_file | /usr/bin/sort | /usr/bin/uniq > command_file.temp && /bin/mv command_file.temp command_file
 echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."
