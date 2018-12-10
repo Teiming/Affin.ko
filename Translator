@@ -1,8 +1,6 @@
 echo "번역할 파일을 입력합니다."
-read nib
-echo $nib"를 번역합니다."
-sed -e "s/>Colour</>색상</g" $nib
-sed -e "s/>Cut</>오려두기</g" $nib
-sed -e "s/>Copy</>복사</g" $nib
-sed -e "s/>Paste</>붙이기</g" $nib
+read PATH
+echo $PATH"를 번역합니다."
+/usr/bin/sed -f ~/Downloads/Affinity-in-Korean/command_file $PATH > $PATH.temp && /bin/mv $PATH.temp $PATH
+echo "번역이 끝났습니다. return을 눌러 프로그램을 종료합니다."
 read
