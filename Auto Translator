@@ -1,10 +1,28 @@
 cd ~/Affinity-in-Korean/
 echo "command_file을 정렬합니다."
 /bin/cat command_file | /usr/bin/sort | /usr/bin/uniq > command_file.temp && /bin/mv command_file.temp command_file
-echo "번역할 파일을 입력합니다."
 echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."
 read APP
 echo "Frameworks를 번역하려면 1을 입력하세요."
+read WHERE
+echo "번역할 파일을 입력합니다."
 read PATH
-echo $PATH"를 번역합니다."
-/usr/bin/sed -f ~/Downloads/Affinity-in-Korean/command_file $PATH > $PATH.temp && /bin/mv $PATH.temp $PATH
+NAME=$(echo $PATH | /usr/bin/sed -e "s/^.*\///")
+echo $NAME"을(를) 번역합니다."
+
+if [ $APP -eq 1 ]
+then
+  if [ $WHERE -eq 1 ]
+  then
+    /usr/bin/sed -f /command_file $PATH > Designer.Frameworks/$NAME.temp && /bin/mv $NAME.temp $NAME
+  else
+    /usr/bin/sed -f /command_file $PATH > Designer/$NAME.temp && /bin/mv $NAME.temp $NAME
+  fi
+else
+  if [ $WHERE -eq 1 ]
+  then
+    /usr/bin/sed -f /command_file $PATH > Photo.Frameworks/$NAME.temp && /bin/mv $NAME.temp $NAME
+  else
+    /usr/bin/sed -f /command_file $PATH > Photo/$NAME.temp && /bin/mv $NAME.temp $NAME
+  fi
+fi
