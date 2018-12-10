@@ -262,6 +262,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>색상</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Layer Name:</string>
+> 		<string>레이어 이름:</string>
+< 		<string>Layer Colour:</string>
+> 		<string>레이어 색상:</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LensBlurEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LensDistortionEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LightingEffect.nib
@@ -270,7 +274,1283 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyMaskPage.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyMeshPage.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LoadOptionsWindow.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: Localizable.strings
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Localizable.strings
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>After</string>
+> 	<string>이후</string>
+< 	<string>After</string>
+> 	<string>이후</string>
+< 	<string>Align Bottom</string>
+> 	<string>아래쪽 정렬</string>
+< 	<string>Align Bottom</string>
+> 	<string>아래쪽 정렬</string>
+< 	<string>Align Bottom</string>
+> 	<string>아래쪽 정렬</string>
+< 	<string>Align Centre</string>
+> 	<string>가로 가운데 정렬</string>
+< 	<string>Align Centre</string>
+> 	<string>가로 가운데 정렬</string>
+< 	<string>Align Centre</string>
+> 	<string>가로 가운데 정렬</string>
+< 	<string>Align Left</string>
+> 	<string>왼쪽 정렬</string>
+< 	<string>Align Left</string>
+> 	<string>왼쪽 정렬</string>
+< 	<string>Align Left</string>
+> 	<string>왼쪽 정렬</string>
+< 	<string>Align Middle</string>
+> 	<string>세로 가운데 정렬</string>
+< 	<string>Align Middle</string>
+> 	<string>세로 가운데 정렬</string>
+< 	<string>Align Middle</string>
+> 	<string>세로 가운데 정렬</string>
+< 	<string>Align Right</string>
+> 	<string>오른쪽 정렬</string>
+< 	<string>Align Right</string>
+> 	<string>오른쪽 정렬</string>
+< 	<string>Align Right</string>
+> 	<string>오른쪽 정렬</string>
+< 	<string>Align Top</string>
+> 	<string>위쪽 정렬</string>
+< 	<string>Align Top</string>
+> 	<string>위쪽 정렬</string>
+< 	<string>Align Top</string>
+> 	<string>위쪽 정렬</string>
+< 	<string>Align</string>
+> 	<string>정렬하기</string>
+< 	<string>Alignment</string>
+> 	<string>정렬</string>
+< 	<string>Alignment</string>
+> 	<string>정렬</string>
+< 	<string>Alignment</string>
+> 	<string>정렬</string>
+< 	<string>Alignment</string>
+> 	<string>정렬</string>
+< 	<string>All Caps</string>
+> 	<string>모두 대문자</string>
+< 	<string>All Caps</string>
+> 	<string>모두 대문자</string>
+< 	<string>All Caps</string>
+> 	<string>모두 대문자</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Arrange</string>
+> 	<string>순서</string>
+< 	<string>Arrange</string>
+> 	<string>순서</string>
+< 	<string>Arrange</string>
+> 	<string>순서</string>
+< 	<string>Auto Colours</string>
+> 	<string>자동 색상</string>
+< 	<string>Auto Colours</string>
+> 	<string>자동 색상</string>
+< 	<string>Auto Colours</string>
+> 	<string>자동 색상</string>
+< 	<string>Auto Contrast</string>
+> 	<string>자동 대비</string>
+< 	<string>Auto Contrast</string>
+> 	<string>자동 대비</string>
+< 	<string>Auto Contrast</string>
+> 	<string>자동 대비</string>
+< 	<string>Auto Contrast</string>
+> 	<string>자동 대비</string>
+< 	<string>Auto Levels</string>
+> 	<string>자동 레벨</string>
+< 	<string>Auto Levels</string>
+> 	<string>자동 레벨</string>
+< 	<string>Auto Levels</string>
+> 	<string>자동 레벨</string>
+< 	<string>Auto Levels</string>
+> 	<string>자동 레벨</string>
+< 	<string>Auto White Balance</string>
+> 	<string>자동 화이트 밸런스</string>
+< 	<string>Auto White Balance</string>
+> 	<string>자동 화이트 밸런스</string>
+< 	<string>Auto White Balance</string>
+> 	<string>자동 화이트 밸런스</string>
+< 	<string>Auto White Balance</string>
+> 	<string>자동 화이트 밸런스</string>
+< 	<string>Back One</string>
+> 	<string>뒤로 보내기</string>
+< 	<string>Baseline</string>
+> 	<string>기준선</string>
+< 	<string>Basic</string>
+> 	<string>기본</string>
+< 	<string>Basic</string>
+> 	<string>기본</string>
+< 	<string>Basic</string>
+> 	<string>기본</string>
+< 	<string>Basic</string>
+> 	<string>기본</string>
+< 	<string>Before</string>
+> 	<string>이전</string>
+< 	<string>Before</string>
+> 	<string>이전</string>
+< 	<string>Behind</string>
+> 	<string>뒤로</string>
+< 	<string>Black &amp; White</string>
+> 	<string>흑백</string>
+< 	<string>Black &amp; White</string>
+> 	<string>흑백</string>
+< 	<string>Black &amp; White</string>
+> 	<string>흑백</string>
+< 	<string>Black &amp; White</string>
+> 	<string>흑백</string>
+< 	<string>Black</string>
+> 	<string>검정</string>
+< 	<string>Black</string>
+> 	<string>검정</string>
+< 	<string>Black</string>
+> 	<string>검정</string>
+< 	<string>Black</string>
+> 	<string>검정</string>
+< 	<string>Bold</string>
+> 	<string>볼드체</string>
+< 	<string>Bold</string>
+> 	<string>볼드체</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Brightness / Contrast</string>
+> 	<string>명암 / 대비</string>
+< 	<string>Brightness / Contrast</string>
+> 	<string>명암 / 대비</string>
+< 	<string>Brightness / Contrast</string>
+> 	<string>명암 / 대비</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Channel Mixer</string>
+> 	<string>채널 혼합</string>
+< 	<string>Channel Mixer</string>
+> 	<string>채널 혼합</string>
+< 	<string>Channel Mixer</string>
+> 	<string>채널 혼합</string>
+< 	<string>Check Spelling While Typing</string>
+> 	<string>작성하는 동안 철자 확인</string>
+< 	<string>Click</string>
+> 	<string>클릭</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Colour Balance</string>
+> 	<string>색상 밸런스</string>
+< 	<string>Colour Balance</string>
+> 	<string>색상 밸런스</string>
+< 	<string>Colour Balance</string>
+> 	<string>색상 밸런스</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colours</string>
+> 	<string>색상</string>
+< 	<string>Colours</string>
+> 	<string>색상</string>
+< 	<string>Colours</string>
+> 	<string>색상</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
+< 	<string>Context</string>
+> 	<string>문단</string>
+< 	<string>Context</string>
+> 	<string>문단</string>
+< 	<string>Convert to Curves</string>
+> 	<string>곡선으로 전환</string>
+< 	<string>Convert to Curves</string>
+> 	<string>곡선으로 전환</string>
+< 	<string>Convert to Curves</string>
+> 	<string>곡선으로 전환</string>
+< 	<string>Copy</string>
+> 	<string>복사</string>
+< 	<string>Copy</string>
+> 	<string>복사</string>
+< 	<string>Create Slice</string>
+> 	<string>슬라이스 생성</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Cut</string>
+> 	<string>오려두기</string>
+< 	<string>Cut</string>
+> 	<string>오려두기</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Defaults</string>
+> 	<string>기본값</string>
+< 	<string>Defaults</string>
+> 	<string>기본값</string>
+< 	<string>Defaults</string>
+> 	<string>기본값</string>
+< 	<string>Defaults</string>
+> 	<string>기본값</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Depth</string>
+> 	<string>깊이</string>
+< 	<string>Depth</string>
+> 	<string>깊이</string>
+< 	<string>Desaturate</string>
+> 	<string>채도 낮추기</string>
+< 	<string>Desaturate</string>
+> 	<string>채도 낮추기</string>
+< 	<string>Desaturate</string>
+> 	<string>채도 낮추기</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Develop Persona</string>
+> 	<string>개발 페르소나</string>
+< 	<string>Develop</string>
+> 	<string>개발</string>
+< 	<string>Develop</string>
+> 	<string>개발</string>
+< 	<string>Develop</string>
+> 	<string>개발</string>
+< 	<string>Develop</string>
+> 	<string>개발</string>
+< 	<string>Distribute</string>
+> 	<string>분배</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
+< 	<string>Document Setup…</string>
+> 	<string>문서 설정…</string>
+< 	<string>Drag</string>
+> 	<string>드래그</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
+< 	<string>Edit</string>
+> 	<string>편집</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Factory Reset</string>
+> 	<string>기본값 재설정</string>
+< 	<string>Flip Horizontal</string>
+> 	<string>가로 뒤집기</string>
+< 	<string>Flip Horizontal</string>
+> 	<string>가로 뒤집기</string>
+< 	<string>Flip Vertical</string>
+> 	<string>세로 뒤집기</string>
+< 	<string>Flip Vertical</string>
+> 	<string>세로 뒤집기</string>
+< 	<string>Forward One</string>
+> 	<string>앞으로 가져오기</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>Geometry</string>
+> 	<string>기하</string>
+< 	<string>Gradient Map</string>
+> 	<string>그레이디언트 맵</string>
+< 	<string>Gradient Map</string>
+> 	<string>그레이디언트 맵</string>
+< 	<string>Gradient Map</string>
+> 	<string>그레이디언트 맵</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Help</string>
+> 	<string>도움말</string>
+< 	<string>Help</string>
+> 	<string>도움말</string>
+< 	<string>Hold</string>
+> 	<string>유지</string>
+< 	<string>Home</string>
+> 	<string>홈</string>
+< 	<string>Home</string>
+> 	<string>홈</string>
+< 	<string>Inside</string>
+> 	<string>안으로</string>
+< 	<string>Inside</string>
+> 	<string>안으로</string>
+< 	<string>Inside</string>
+> 	<string>안으로</string>
+< 	<string>Inside</string>
+> 	<string>안으로</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Invert Selection</string>
+> 	<string>선택 항목 반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Italic</string>
+> 	<string>이탤릭체</string>
+< 	<string>Justify</string>
+> 	<string>맞춤</string>
+< 	<string>Justify</string>
+> 	<string>맞춤</string>
+< 	<string>Large</string>
+> 	<string>크게</string>
+< 	<string>Large</string>
+> 	<string>크게</string>
+< 	<string>Layer</string>
+> 	<string>레이어</string>
+< 	<string>Layer</string>
+> 	<string>레이어</string>
+< 	<string>Layout</string>
+> 	<string>구조</string>
+< 	<string>Lens Filter</string>
+> 	<string>렌즈 필터</string>
+< 	<string>Lens Filter</string>
+> 	<string>렌즈 필터</string>
+< 	<string>Lens Filter</string>
+> 	<string>렌즈 필터</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Library</string>
+> 	<string>라이브러리</string>
+< 	<string>Ligatures</string>
+> 	<string>합자</string>
+< 	<string>Liquify Persona</string>
+> 	<string>액화 페르소나</string>
+< 	<string>Liquify</string>
+> 	<string>액화</string>
+< 	<string>Liquify</string>
+> 	<string>액화</string>
+< 	<string>Liquify</string>
+> 	<string>액화</string>
+< 	<string>Lock</string>
+> 	<string>잠금</string>
+< 	<string>Lock</string>
+> 	<string>잠금</string>
+< 	<string>Mask All</string>
+> 	<string>모두 마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Medium</string>
+> 	<string>중간</string>
+< 	<string>Mesh</string>
+> 	<string>그물</string>
+< 	<string>Mesh</string>
+> 	<string>그물</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Miscellaneous</string>
+> 	<string>기타</string>
+< 	<string>Move To Front</string>
+> 	<string>맨 앞으로 가져오기</string>
+< 	<string>Move to Back</string>
+> 	<string>맨 뒤로 보내기</string>
+< 	<string>Move to Front</string>
+> 	<string>맨 앞으로 가져오기</string>
+< 	<string>New Layer</string>
+> 	<string>새로운 레이어</string>
+< 	<string>New Layer</string>
+> 	<string>새로운 레이어</string>
+< 	<string>New Layer</string>
+> 	<string>새로운 레이어</string>
+< 	<string>New Layer</string>
+> 	<string>새로운 레이어</string>
+< 	<string>New Pixel Layer</string>
+> 	<string>새로운 픽셀 레이어</string>
+< 	<string>New Pixel Layer</string>
+> 	<string>새로운 픽셀 레이어</string>
+< 	<string>New Pixel Layer</string>
+> 	<string>새로운 픽셀 레이어</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity:</string>
+> 	<string>불투명도:</string>
+< 	<string>Opacity:</string>
+> 	<string>불투명도:</string>
+< 	<string>Order</string>
+> 	<string>순서</string>
+< 	<string>Outline</string>
+> 	<string>윤곽</string>
+< 	<string>Outline</string>
+> 	<string>윤곽</string>
+< 	<string>Panorama Persona</string>
+> 	<string>파노라마 페르소나</string>
+< 	<string>Panorama</string>
+> 	<string>파노라마</string>
+< 	<string>Paste FX</string>
+> 	<string>효과 붙이기</string>
+< 	<string>Paste Inside</string>
+> 	<string>안으로 붙이기</string>
+< 	<string>Paste Style</string>
+> 	<string>스타일 붙이기</string>
+< 	<string>Paste</string>
+> 	<string>붙이기</string>
+< 	<string>Paste</string>
+> 	<string>붙이기</string>
+< 	<string>Percentage</string>
+> 	<string>백분율</string>
+< 	<string>Performance</string>
+> 	<string>성능</string>
+< 	<string>Photo</string>
+> 	<string>사진</string>
+< 	<string>Photo</string>
+> 	<string>사진</string>
+< 	<string>Photo</string>
+> 	<string>사진</string>
+< 	<string>Pixel</string>
+> 	<string>픽셀</string>
+< 	<string>Pixel</string>
+> 	<string>픽셀</string>
+< 	<string>Pixel</string>
+> 	<string>픽셀</string>
+< 	<string>Pixels</string>
+> 	<string>픽셀</string>
+< 	<string>Pixels</string>
+> 	<string>픽셀</string>
+< 	<string>Pixels</string>
+> 	<string>픽셀</string>
+< 	<string>Pixels</string>
+> 	<string>픽셀</string>
+< 	<string>Posterise</string>
+> 	<string>포스터화</string>
+< 	<string>Posterise</string>
+> 	<string>포스터화</string>
+< 	<string>Posterise</string>
+> 	<string>포스터화</string>
+< 	<string>Preferences…</string>
+> 	<string>환경설정…</string>
+< 	<string>Recent</string>
+> 	<string>최근 사용 항목</string>
+< 	<string>Recent</string>
+> 	<string>최근 사용 항목</string>
+< 	<string>Recolour</string>
+> 	<string>재색상</string>
+< 	<string>Recolour</string>
+> 	<string>재색상</string>
+< 	<string>Recolour</string>
+> 	<string>재색상</string>
+< 	<string>Redo</string>
+> 	<string>다시 실행</string>
+< 	<string>Redo</string>
+> 	<string>다시 실행</string>
+< 	<string>Redo</string>
+> 	<string>다시 실행</string>
+< 	<string>Redo</string>
+> 	<string>다시 실행</string>
+< 	<string>Rename Palette...</string>
+> 	<string>팔레트 이름 변경...</string>
+< 	<string>Reset Selection Box</string>
+> 	<string>선택 항목 상자 재설정</string>
+< 	<string>Retina Pixels</string>
+> 	<string>레티나 픽셀</string>
+< 	<string>Revert</string>
+> 	<string>되돌리기</string>
+< 	<string>Rotate Anticlockwise</string>
+> 	<string>반시계방향으로 회전</string>
+< 	<string>Rotate Anticlockwise</string>
+> 	<string>반시계방향으로 회전</string>
+< 	<string>Rotate Clockwise</string>
+> 	<string>시계방향으로 회전</string>
+< 	<string>Rotate Clockwise</string>
+> 	<string>시계방향으로 회전</string>
+< 	<string>Save</string>
+> 	<string>저장</string>
+< 	<string>Save</string>
+> 	<string>저장</string>
+< 	<string>Save</string>
+> 	<string>저장</string>
+< 	<string>Save</string>
+> 	<string>저장</string>
+< 	<string>Select All</string>
+> 	<string>전체 선택</string>
+< 	<string>Select All</string>
+> 	<string>전체 선택</string>
+< 	<string>Select All</string>
+> 	<string>전체 선택</string>
+< 	<string>Select All</string>
+> 	<string>전체 선택</string>
+< 	<string>Select</string>
+> 	<string>선택</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selective Colour</string>
+> 	<string>색상 선택</string>
+< 	<string>Selective Colour</string>
+> 	<string>색상 선택</string>
+< 	<string>Selective Colour</string>
+> 	<string>색상 선택</string>
+< 	<string>Shadows / Highlights</string>
+> 	<string>그림자 / 빛</string>
+< 	<string>Shadows / Highlights</string>
+> 	<string>그림자 / 빛</string>
+< 	<string>Shadows / Highlights</string>
+> 	<string>그림자 / 빛</string>
+< 	<string>Shadows / Highlights</string>
+> 	<string>그림자 / 빛</string>
+< 	<string>Show All</string>
+> 	<string>모두 보기</string>
+< 	<string>Show Grid</string>
+> 	<string>격자선 나타내기</string>
+< 	<string>Show Guides</string>
+> 	<string>안내선 나타내기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Small Caps</string>
+> 	<string>작은 대문자</string>
+< 	<string>Small Caps</string>
+> 	<string>작은 대문자</string>
+< 	<string>Small Caps</string>
+> 	<string>작은 대문자</string>
+< 	<string>Small</string>
+> 	<string>작게</string>
+< 	<string>Small</string>
+> 	<string>작게</string>
+< 	<string>Snapping</string>
+> 	<string>스내핑</string>
+< 	<string>Soft Proof</string>
+> 	<string>미리보기</string>
+< 	<string>Soft Proof</string>
+> 	<string>미리보기</string>
+< 	<string>Soft Proof</string>
+> 	<string>미리보기</string>
+< 	<string>Space Horizontally</string>
+> 	<string>가로 공간</string>
+< 	<string>Space Vertically</string>
+> 	<string>세로 공간</string>
+< 	<string>Spacing</string>
+> 	<string>공간</string>
+< 	<string>Spacing</string>
+> 	<string>공간</string>
+< 	<string>Spacing</string>
+> 	<string>공간</string>
+< 	<string>Split</string>
+> 	<string>분할</string>
+< 	<string>Strikeout</string>
+> 	<string>취소선</string>
+< 	<string>Style</string>
+> 	<string>스타일</string>
+< 	<string>Style</string>
+> 	<string>스타일</string>
+< 	<string>Style</string>
+> 	<string>스타일</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Sync After</string>
+> 	<string>이후 항목 동기화</string>
+< 	<string>Sync After</string>
+> 	<string>이후 항목 동기화</string>
+< 	<string>Sync Before</string>
+> 	<string>이전 항목 동기화</string>
+< 	<string>Sync Before</string>
+> 	<string>이전 항목 동기화</string>
+< 	<string>Synchronise from Selection</string>
+> 	<string>선택 항목에서 기본값 동기화</string>
+< 	<string>System</string>
+> 	<string>시스템</string>
+< 	<string>Text Styles</string>
+> 	<string>텍스트 스타일</string>
+< 	<string>Text Styles</string>
+> 	<string>텍스트 스타일</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Tone Mapping Persona</string>
+> 	<string>톤 맵핑 페르소나</string>
+< 	<string>Tone Mapping</string>
+> 	<string>톤 맵핑</string>
+< 	<string>Tones</string>
+> 	<string>색조</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Transform</string>
+> 	<string>변형</string>
+< 	<string>Transform</string>
+> 	<string>변형</string>
+< 	<string>Transform</string>
+> 	<string>변형</string>
+< 	<string>Underline</string>
+> 	<string>밑줄</string>
+< 	<string>Underline</string>
+> 	<string>밑줄</string>
+< 	<string>Underline</string>
+> 	<string>밑줄</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Ungroup</string>
+> 	<string>그룹 해제</string>
+< 	<string>Ungroup</string>
+> 	<string>그룹 해제</string>
+< 	<string>Ungroup</string>
+> 	<string>그룹 해제</string>
+< 	<string>Union</string>
+> 	<string>병합</string>
+< 	<string>Unlock All</string>
+> 	<string>모두 잠금 해제</string>
+< 	<string>Unlock</string>
+> 	<string>잠금 해제</string>
+< 	<string>Vector</string>
+> 	<string>벡터</string>
+< 	<string>Vector</string>
+> 	<string>벡터</string>
+< 	<string>Vector</string>
+> 	<string>벡터</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>View</string>
+> 	<string>뷰</string>
+< 	<string>White Balance</string>
+> 	<string>화이트 밸런스</string>
+< 	<string>White Balance</string>
+> 	<string>화이트 밸런스</string>
+< 	<string>White Balance</string>
+> 	<string>화이트 밸런스</string>
+< 	<string>White Balance</string>
+> 	<string>화이트 밸런스</string>
+< 	<string>White</string>
+> 	<string>하양</string>
+< 	<string>Width:</string>
+> 	<string>두께:</string>
+< 	<string>Width:</string>
+> 	<string>두께:</string>
+< 	<string>Width:</string>
+> 	<string>두께:</string>
+< 	<string>Width:</string>
+> 	<string>두께:</string>
+< 	<string>Window</string>
+> 	<string>윈도우</string>
+< 	<string>Window</string>
+> 	<string>윈도우</string>
+< 	<string>Yes</string>
+> 	<string>예</string>
+< 	<string>Yes</string>
+> 	<string>예</string>
+< 	<string>Yes</string>
+> 	<string>예</string>
+< 	<string>Yes</string>
+> 	<string>예</string>
+< 	<string>Zoom</string>
+> 	<string>맞추기</string>
+< 	<string>Zoom</string>
+> 	<string>맞추기</string>
+< 	<string>Zoom</string>
+> 	<string>맞추기</string>
+< 	<string>Zoom</string>
+> 	<string>맞추기</string>
+< 	<string>Zoom to Fit</string>
+> 	<string>화면 크기에 맞추기</string>
+< 	<string>Zoom to Selection</string>
+> 	<string>선택 항목에 맞추기</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroCategoryItemView.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroEditViewController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroEffect.nib
@@ -312,29 +1592,7 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PerspectiveEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PinchPunchEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PixelateEffect.nib
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Preferences.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
-< 		<string>General</string>
-> 		<string>일반</string>
-< 		<string>Colour</string>
-> 		<string>색상</string>
-< 		<string>Performance</string>
-> 		<string>성능</string>
-< 		<string>Metal</string>
-> 		<string>금속</string>
-< 		<string>Tools</string>
-> 		<string>도구</string>
-< 		<string>Save</string>
-> 		<string>저장</string>
-< 		<string>Keyboard Shortcuts</string>
-> 		<string>키보드 단축키</string>
-< 		<string>Add</string>
-> 		<string>추가</string>
-< 		<string>Miscellaneous</string>
-> 		<string>기타</string>
-< 		<string>Miscellaneous</string>
-> 		<string>기타</string>
-< 		<string>Close</string>
-> 		<string>닫기</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: Preferences.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PresetsPage.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PressureViewController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PrintersMarksAccessoryView.nib

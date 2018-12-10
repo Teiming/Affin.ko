@@ -4136,6 +4136,8 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<string>Drag curve segment</string>
 	<key>Drag handle [Perspective tool history item]</key>
 	<string>Drag handle</string>
+	<key>Drag to place your image. [Image Imported Toast]</key>
+	<string>Drag to place your image.</string>
 	<key>Dtl [Short page title]</key>
 	<string>Dtl</string>
 	<key>Dual plane [Reflectable enum]</key>
@@ -4513,6 +4515,10 @@ Attribute names must be unique</string>
 	<key>Expand selection [Command description]</key>
 	<string>Expand selection</string>
 	<key>Expand stroke [Command description]</key>
+	<string>Expand stroke</string>
+	<key>Expand stroke [Main Controls Tooltip]</key>
+	<string>Expand stroke</string>
+	<key>Expand stroke [Main Controls]</key>
 	<string>Expand stroke</string>
 	<key>Expand stroke core command [Command description]</key>
 	<string>Expand stroke core command</string>
@@ -5676,6 +5682,8 @@ The documents will need to be saved before they can be closed.</string>
 	<string>Ignore mis-spelt word: "%1"</string>
 	<key>Image Brush [Brush type]</key>
 	<string>Image Brush</string>
+	<key>Image Imported [Image Imported Toast]</key>
+	<string>Image Imported</string>
 	<key>Image [Apply image tool reflection]</key>
 	<string>Image</string>
 	<key>Image [ImageNode name]</key>
@@ -6938,6 +6946,8 @@ The documents will need to be saved before they can be closed.</string>
 	<string>Max Dimension</string>
 	<key>Max paragraph space [Command description]</key>
 	<string>Max paragraph space</string>
+	<key>Max-Fit [Constraints page]</key>
+	<string>Max-Fit</string>
 	<key>Maximum Blur Tool [Tool description]</key>
 	<string>Maximum Blur Tool</string>
 	<key>Maximum Blur [Command description]</key>
@@ -7112,6 +7122,8 @@ The documents will need to be saved before they can be closed.</string>
 	<string>Millimetres</string>
 	<key>Millimetres [Unit Types]</key>
 	<string>Millimetres</string>
+	<key>Min-Fit [Constraints page]</key>
+	<string>Min-Fit</string>
 	<key>Minimum Blur Tool [Tool description]</key>
 	<string>Minimum Blur Tool</string>
 	<key>Minimum Blur [Command description]</key>
@@ -8518,6 +8530,8 @@ The documents will need to be saved before they can be closed.</string>
 	<string>Pixels: %1</string>
 	<key>Place Image Tool [Tool description]</key>
 	<string>Place Image Tool</string>
+	<key>Place Image [Main Controls]</key>
+	<string>Place Image</string>
 	<key>Place Tool [Tool description]</key>
 	<string>Place Tool</string>
 	<key>Place [Main Controls Tooltip]</key>
