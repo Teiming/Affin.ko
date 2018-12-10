@@ -419,7 +419,7 @@ How do you want to proceed?
 	<key>%lu Vector Brushes into %@ [Import Brushes]</key>
 	<string>%lu Vector Brushes into %@</string>
 	<key>'%1' selected.  [Hintline]</key>
-	<string>'%1' selected. </string>
+	<string>'%1' 선택됨. </string>
 	<key>(Document will be rasterised) [Vector export warning]</key>
 	<string>(Document will be rasterised)</string>
 	<key>(Nothing will be rasterised) [Vector export warning]</key>
@@ -1995,9 +1995,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Body [Text style]</key>
 	<string>Body</string>
 	<key>Bold [Font weight]</key>
-	<string>볼드체</string>
+	<string>강조</string>
 	<key>Bold [Text tool context toolbar control tooltip]</key>
-	<string>볼드체</string>
+	<string>강조</string>
 	<key>Bopomofo Extended [Glyph Ranges]</key>
 	<string>Bopomofo Extended</string>
 	<key>Bopomofo [Glyph Ranges]</key>
@@ -2493,7 +2493,7 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Channels [Reflected name]</key>
 	<string>Channels</string>
 	<key>Character Style [Text style]</key>
-	<string>Character Style</string>
+	<string>문자 스타일</string>
 	<key>Character Variant %1 [OpenType feature description]</key>
 	<string>Character Variant %1</string>
 	<key>Character Variants [OpenType feature]</key>
@@ -4265,11 +4265,11 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Ellipse Tool [Tool description]</key>
 	<string>Ellipse Tool</string>
 	<key>Ellipse [Ellipse context toolbar]</key>
-	<string>Ellipse</string>
+	<string>타원</string>
 	<key>Ellipse [Main Controls]</key>
-	<string>Ellipse</string>
+	<string>타원</string>
 	<key>Ellipse [Shape name]</key>
-	<string>Ellipse</string>
+	<string>타원</string>
 	<key>Elliptical Marquee Tool [Main Controls Tooltip]</key>
 	<string>Elliptical Marquee Tool</string>
 	<key>Elliptical Marquee Tool [Main Controls]</key>
@@ -4849,7 +4849,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Fill mask [Fill mask undo name]</key>
 	<string>Fill mask</string>
 	<key>Fill: [Context Toolbar - Fill - Label]</key>
-	<string>Fill:</string>
+	<string>칠:</string>
 	<key>Fills [Preferences misc search term]</key>
 	<string>Fills</string>
 	<key>Fills [Reset fills]</key>
@@ -4991,7 +4991,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Font: %1 [Command description]</key>
 	<string>Font: %1</string>
 	<key>Font: [Text Context toolbar Font Label]</key>
-	<string>Font:</string>
+	<string>서체:</string>
 	<key>Fonts [Fonts Flyout]</key>
 	<string>Fonts</string>
 	<key>Fonts [Preferences Page]</key>
@@ -5979,7 +5979,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>It is not possible to create assets from this document. [Restricted document message]</key>
 	<string>It is not possible to create assets from this document.</string>
 	<key>Italic [Text tool context toolbar control tooltip]</key>
-	<string>이탤릭체</string>
+	<string>기울임</string>
 	<key>Italic: %1 [Command description]</key>
 	<string>Italic: %1</string>
 	<key>JPEG (Best quality) [ExportPreset]</key>
@@ -6181,7 +6181,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Lanczos3 [Sampler type]</key>
 	<string>Lanczos3</string>
 	<key>Language [Preferences general search term]</key>
-	<string>Language</string>
+	<string>언어</string>
 	<key>Language: %1 [Command description]</key>
 	<string>Language: %1</string>
 	<key>Lao [Glyph Ranges]</key>
@@ -8311,19 +8311,19 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Pen Tool [Tool description]</key>
 	<string>Pen Tool</string>
 	<key>Pen [Main Controls Tooltip]</key>
-	<string>Pen</string>
+	<string>펜</string>
 	<key>Pen [Main Controls]</key>
-	<string>Pen</string>
+	<string>펜</string>
 	<key>Pen [Pen Context ToolBar Name]</key>
-	<string>Pen</string>
+	<string>펜</string>
 	<key>Pen [Reflectable enum]</key>
-	<string>Pen</string>
+	<string>펜</string>
 	<key>Pencil Tool [Main Controls Tooltip]</key>
 	<string>연필 도구</string>
 	<key>Pencil Tool [Tool description]</key>
 	<string>연필 도구</string>
 	<key>Pencil [Pencil Context toolbar name]</key>
-	<string>Pencil</string>
+	<string>연필</string>
 	<key>Pending [Batch item status]</key>
 	<string>Pending</string>
 	<key>Percentage [Unit Types]</key>
@@ -9115,11 +9115,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Rectangle Tool [Tool description]</key>
 	<string>Rectangle Tool</string>
 	<key>Rectangle [Main Controls]</key>
-	<string>Rectangle</string>
+	<string>직사각형</string>
 	<key>Rectangle [Rectangle context toolbar]</key>
-	<string>Rectangle</string>
+	<string>직사각형</string>
 	<key>Rectangle [Shape name]</key>
-	<string>Rectangle</string>
+	<string>직사각형</string>
 	<key>Rectangular Marquee Tool [Main Controls Tooltip]</key>
 	<string>Rectangular Marquee Tool</string>
 	<key>Rectangular Marquee Tool [Main Controls]</key>
@@ -11115,21 +11115,21 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Shear Tool [Tool description]</key>
 	<string>Shear Tool</string>
 	<key>Shear [Command description]</key>
-	<string>Shear</string>
+	<string>기울임</string>
 	<key>Shear [Filters Page]</key>
-	<string>Shear</string>
+	<string>기울임</string>
 	<key>Shear [Filters]</key>
-	<string>Shear</string>
+	<string>기울임</string>
 	<key>Shear [Main Controls Tooltip]</key>
-	<string>Shear</string>
+	<string>기울임</string>
 	<key>Shear [Main Controls]</key>
-	<string>Shear</string>
+	<string>기울임</string>
 	<key>Shear [Reflected property]</key>
-	<string>Shear</string>
+	<string>기울임</string>
 	<key>Shear [Text Position Panel]</key>
-	<string>Shear</string>
+	<string>기울임</string>
 	<key>Shear [Transform Page]</key>
-	<string>Shear</string>
+	<string>기울임</string>
 	<key>Shear of selection [Constant description]</key>
 	<string>Shear of selection</string>
 	<key>Shininess [Phong bevel filter effect tool reflection]</key>
@@ -11795,7 +11795,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Stroke alignment: Outside [Command description]</key>
 	<string>Stroke alignment: Outside</string>
 	<key>Stroke: [Context Toolbar - Stroke - Label]</key>
-	<string>Stroke:</string>
+	<string>획:</string>
 	<key>Strong Emphasis [Text style]</key>
 	<string>Strong Emphasis</string>
 	<key>Strong [Text style]</key>
@@ -12847,11 +12847,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Type: [Transperency ToolBar Fill Type Label]</key>
 	<string>Type:</string>
 	<key>Typography [Character Panel]</key>
-	<string>Typography</string>
+	<string>타이포그래피</string>
 	<key>Typography [Text styles]</key>
-	<string>Typography</string>
+	<string>타이포그래피</string>
 	<key>Typography [Typography Panel]</key>
-	<string>Typography</string>
+	<string>타이포그래피</string>
 	<key>UCR [Reflectable property]</key>
 	<string>UCR</string>
 	<key>UI Gamma [Preferences user interface search term]</key>
@@ -14139,9 +14139,9 @@ View point with that name already exists.</string>
 	<key>|DRAG| to move path %1 start, |PRIMARY| to move path, |SECONDARY| to move end symmetrically. |TERTIARY| to ignore snapping. [Hintline]</key>
 	<string>|DRAG| to move path %1 start, |PRIMARY| to move path, |SECONDARY| to move end symmetrically. |TERTIARY| to ignore snapping.</string>
 	<key>|DRAG| to move selection. [Hintline]</key>
-	<string>|DRAG| to move selection.</string>
+	<string>|DRAG|해서 선택 항목을 움직입니다.</string>
 	<key>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection. [Hintline]</key>
-	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>
+	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>
 	<key>|DRAG| to move starting point of new curve. |TERTIARY| to ignore snapping. [Hintline]</key>
 	<string>|DRAG| to move starting point of new curve. |TERTIARY| to ignore snapping.</string>
 	<key>|DRAG| to move the current blemish area. [Hintline]</key>

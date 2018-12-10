@@ -77,15 +77,49 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushEditPanel.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushItemView.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CameraShakeBlurEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CategoryViewCategory.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelRasterSelectionItemView.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CameraShakeBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CameraShakeBlurEffect.nib
+< 		<string>Cancel</string>
+> 		<string>취소</string>
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Apply</string>
+> 		<string>적용</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CategoryViewCategory.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CategoryViewCategory.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ChannelItemView.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelRasterSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ChannelRasterSelectionItemView.nib
+< 		<string>Invert</string>
+> 		<string>반전</string>
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Select All</string>
+> 		<string>전체 선택</string>
+< 		<string>Deselect</string>
+> 		<string>선택 해제</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSelectionItemView.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSeparatorItemView.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSpareSelectionItemView.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CharacterPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CharacterPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CharacterPage.nib
+< 		<string>Typography</string>
+> 		<string>타이포그래피</string>
+< 		<string>Language</string>
+> 		<string>언어</string>
+< 		<string>Show Typography</string>
+> 		<string>타이포그래피 작업실</string>
+< 		<string>Baseline</string>
+> 		<string>기준선</string>
+< 		<string>Character Style</string>
+> 		<string>문자 스타일</string>
+< 		<string>Shear</string>
+> 		<string>기울임</string>
+< 		<string>Vertical Scale</string>
+> 		<string>세로 배율</string>
+< 		<string>Vertical Scale</string>
+> 		<string>세로 배율</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ClarityEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ClearUserDataWindowController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloneBrushSourceItemView.nib
@@ -383,6 +417,8 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyMeshPage.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LoadOptionsWindow.nib
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Localizable.strings
+< 	<string>'%1' selected. </string>
+> 	<string>'%1' 선택됨. </string>
 < 	<string>Add Document Snapshot</string>
 > 	<string>문서 스냅샷 추가</string>
 < 	<string>Add</string>
@@ -604,9 +640,9 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Black</string>
 > 	<string>검정</string>
 < 	<string>Bold</string>
-> 	<string>볼드체</string>
+> 	<string>강조</string>
 < 	<string>Bold</string>
-> 	<string>볼드체</string>
+> 	<string>강조</string>
 < 	<string>Bottom</string>
 > 	<string>아래</string>
 < 	<string>Bottom</string>
@@ -725,6 +761,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>채널 혼합</string>
 < 	<string>Channel Mixer</string>
 > 	<string>채널 혼합</string>
+< 	<string>Character Style</string>
+> 	<string>문자 스타일</string>
 < 	<string>Check Spelling While Typing</string>
 > 	<string>작성하는 동안 철자 확인</string>
 < 	<string>Click</string>
@@ -949,6 +987,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>편집</string>
 < 	<string>Effects</string>
 > 	<string>효과</string>
+< 	<string>Ellipse</string>
+> 	<string>타원</string>
+< 	<string>Ellipse</string>
+> 	<string>타원</string>
+< 	<string>Ellipse</string>
+> 	<string>타원</string>
 < 	<string>Emboss</string>
 > 	<string>양각</string>
 < 	<string>Emboss</string>
@@ -1025,6 +1069,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>기본값 재설정</string>
 < 	<string>Failed to open TIFF file</string>
 > 	<string>Tiff 파일을 열지 못했습니다.</string>
+< 	<string>Fill:</string>
+> 	<string>칠:</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>가로 뒤집기</string>
 < 	<string>Flip Horizontal</string>
@@ -1033,6 +1079,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>세로 뒤집기</string>
 < 	<string>Flip Vertical</string>
 > 	<string>세로 뒤집기</string>
+< 	<string>Font:</string>
+> 	<string>서체:</string>
 < 	<string>Forward One</string>
 > 	<string>앞으로 가져오기</string>
 < 	<string>General</string>
@@ -1142,11 +1190,13 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Invert</string>
 > 	<string>반전</string>
 < 	<string>Italic</string>
-> 	<string>이탤릭체</string>
+> 	<string>기울임</string>
 < 	<string>Justify</string>
 > 	<string>맞춤</string>
 < 	<string>Justify</string>
 > 	<string>맞춤</string>
+< 	<string>Language</string>
+> 	<string>언어</string>
 < 	<string>Large</string>
 > 	<string>크게</string>
 < 	<string>Large</string>
@@ -1455,10 +1505,20 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>붙이기</string>
 < 	<string>Paste</string>
 > 	<string>붙이기</string>
+< 	<string>Pen</string>
+> 	<string>펜</string>
+< 	<string>Pen</string>
+> 	<string>펜</string>
+< 	<string>Pen</string>
+> 	<string>펜</string>
+< 	<string>Pen</string>
+> 	<string>펜</string>
 < 	<string>Pencil Tool</string>
 > 	<string>연필 도구</string>
 < 	<string>Pencil Tool</string>
 > 	<string>연필 도구</string>
+< 	<string>Pencil</string>
+> 	<string>연필</string>
 < 	<string>Percentage</string>
 > 	<string>백분율</string>
 < 	<string>Performance</string>
@@ -1511,6 +1571,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>재색상</string>
 < 	<string>Recolour</string>
 > 	<string>재색상</string>
+< 	<string>Rectangle</string>
+> 	<string>직사각형</string>
+< 	<string>Rectangle</string>
+> 	<string>직사각형</string>
+< 	<string>Rectangle</string>
+> 	<string>직사각형</string>
 < 	<string>Redo %@</string>
 > 	<string>%@ 다시 실행</string>
 < 	<string>Redo</string>
@@ -1603,6 +1669,22 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>그림자 / 빛</string>
 < 	<string>Shadows / Highlights</string>
 > 	<string>그림자 / 빛</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
 < 	<string>Show All</string>
 > 	<string>모두 보기</string>
 < 	<string>Show Grid</string>
@@ -1665,6 +1747,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>획</string>
 < 	<string>Stroke</string>
 > 	<string>획</string>
+< 	<string>Stroke:</string>
+> 	<string>획:</string>
 < 	<string>Style</string>
 > 	<string>스타일</string>
 < 	<string>Style</string>
@@ -1817,6 +1901,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>변형</string>
 < 	<string>Transform</string>
 > 	<string>변형</string>
+< 	<string>Typography</string>
+> 	<string>타이포그래피</string>
+< 	<string>Typography</string>
+> 	<string>타이포그래피</string>
+< 	<string>Typography</string>
+> 	<string>타이포그래피</string>
 < 	<string>Underline</string>
 > 	<string>밑줄</string>
 < 	<string>Underline</string>
@@ -1937,6 +2027,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>화면 크기에 맞추기</string>
 < 	<string>Zoom to Selection</string>
 > 	<string>선택 항목에 맞추기</string>
+< 	<string>|DRAG| to move selection.</string>
+> 	<string>|DRAG|해서 선택 항목을 움직입니다.</string>
+< 	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>
+> 	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroCategoryItemView.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroEditViewController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroEffect.nib

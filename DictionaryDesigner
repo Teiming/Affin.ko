@@ -1,3 +1,4 @@
+s/>'%1' selected. </>'%1' 선택됨. </
 s/>Actual Size</>실제 크기</
 s/>Add Colour to Swatch</>색상을 견본에 추가</
 s/>Add Document Snapshot</>문서 스냅샷 추가</
@@ -72,7 +73,7 @@ s/>Black 95%</>검정 95%</
 s/>Black to transparent</>검정에서 투명</
 s/>Black to white</>검정에서 하양</
 s/>Black</>검정</
-s/>Bold</>볼드체</
+s/>Bold</>강조</
 s/>Bottom</>아래</
 s/>Brightness \/ Contrast</>명암 \/ 대비</
 s/>Bring All to Front</>모두 앞으로 가져오기</
@@ -83,6 +84,7 @@ s/>Cancel</>취소</
 s/>Capitalisation</>대문자화</
 s/>Centre</>가운데</
 s/>Channel Mixer</>채널 혼합</
+s/>Character Style</>문자 스타일</
 s/>Character Traits</>문자 특성</
 s/>Check Spelling While Typing</>작성하는 동안 철자 확인</
 s/>Check Spelling</>철자 확인</
@@ -160,6 +162,7 @@ s/>Edit All Layers</>모든 레이어 편집</
 s/>Edit in Photo…</>Photo에서 편집…</
 s/>Edit</>편집</
 s/>Effects</>효과</
+s/>Ellipse</>타원</
 s/>Em Dash</>전각 줄표</
 s/>Em Space</>전각 공백</
 s/>Emboss</>양각</
@@ -185,11 +188,13 @@ s/>Feather…</>깃털…</
 s/>Figure Dash</>숫자 줄표</
 s/>File</>파일</
 s/>Fill Mode</>채우기 모드</
+s/>Fill:</>칠:</
 s/>Find in Layers Page</>레이어 페이지에서 찾기</
 s/>Find in Layers Panel</>레이어 목록에서 찾기</
 s/>Find in Slice Page</>슬라이스 페이지에서 찾기</
 s/>Flip Horizontal</>가로 뒤집기</
 s/>Flip Vertical</>세로 뒤집기</
+s/>Font:</>서체:</
 s/>Force Pixel Alignment</>강제 픽셀 정렬</
 s/>Forward One</>앞으로 가져오기</
 s/>From Both As Global</>모두 (전역)</
@@ -242,13 +247,14 @@ s/>Intersect</>교차</
 s/>Invert Pixel Selection</>픽셀 선택 항목 반전</
 s/>Invert Selection</>선택 항목 반전</
 s/>Invert</>반전</
-s/>Italic</>이탤릭체</
+s/>Italic</>기울임</
 s/>Justify All</>양쪽 균등 정렬</
 s/>Justify Centre</>가운데 균등 정렬</
 s/>Justify Left</>왼쪽 균등 정렬</
 s/>Justify Right</>오른쪽 균등 정렬</
 s/>Justify</>맞춤</
 s/>Keyboard Shortcuts</>키보드 단축키</
+s/>Language</>언어</
 s/>Large</>크게</
 s/>Layer Colour:</>레이어 색상:</
 s/>Layer Effects</>레이어 효과</
@@ -333,7 +339,9 @@ s/>Paste Inside</>안으로 붙이기</
 s/>Paste Style</>스타일 붙이기</
 s/>Paste Without Format</>포맷 없이 붙이기</
 s/>Paste</>붙이기</
+s/>Pen</>펜</
 s/>Pencil Tool</>연필 도구</
+s/>Pencil</>연필</
 s/>Percentage</>백분율</
 s/>Performance</>성능</
 s/>Persona</>페르소나</
@@ -375,6 +383,7 @@ s/>Reapply Text Styles</>텍스트 스타일 재적용</
 s/>Recent:</>최근 사용 항목:</
 s/>Recent</>최근 사용 항목</
 s/>Recolour</>재색상</
+s/>Rectangle</>직사각형</
 s/>Redo %@</>%@ 다시 실행</
 s/>Redo</>다시 실행</
 s/>Refine Edges…</>모서리 다듬기…</
@@ -431,6 +440,7 @@ s/>Shades</>음영</
 s/>Shadow:</>그림자:</
 s/>Shadows \/ Highlights</>그림자 \/ 빛</
 s/>Share</>공유</
+s/>Shear</>기울임</
 s/>Show All</>모두 보기</
 s/>Show All</>모두 나타내기</
 s/>Show Character</>서체 작업실</
@@ -474,6 +484,7 @@ s/>Split View</>분할 뷰 모드</
 s/>Split View</>분할 뷰</
 s/>Split</>분할</
 s/>Strikeout</>취소선</
+s/>Stroke:</>획:</
 s/>Stroke</>획</
 s/>Studio</>작업실</
 s/>Style</>스타일</
@@ -514,6 +525,7 @@ s/>Top</>위로</
 s/>Transform</>변형</
 s/>Transparent background</>투명한 배경</
 s/>Tutorial...</>튜토리얼...</
+s/>Typography</>타이포그래피</
 s/>Underline</>밑줄</
 s/>Undo %@</>%@ 실행 취소</
 s/>Undo</>실행 취소</
@@ -530,6 +542,7 @@ s/>Use Default</>기준선 재설정</
 s/>Use None</>합자 없음</
 s/>Vector</>벡터</
 s/>Vertical Alignment</>세로 정렬</
+s/>Vertical Scale</>세로 배율</
 s/>Vibrance</>활기</
 s/>View Mode</>뷰 모드</
 s/>View</>뷰</
@@ -553,3 +566,12 @@ s/>Zoom to Fit</>화면 크기에 맞추기</
 s/>Zoom to Selection</>선택 항목에 맞추기</
 s/>Zoom:</>맞추기:</
 s/>Zoom</>맞추기</
+s/>[No Style]</>[스타일 없음]</
+s/>[No change]</>[변화 없음]</
+s/>[No changes]</>[변화 없음]</
+s/>[Same Style]</>[같은 스타일]</
+s/>[replace]</>[교체]</
+s/>[user]</>[사용자]</
+s/>n\/a</>없음</
+s/>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</
+s/>|DRAG| to move selection.</>|DRAG|해서 선택 항목을 움직입니다.</
