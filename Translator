@@ -1,8 +1,8 @@
 echo "번역할 파일을 입력합니다."
 read nib
 echo $nib"를 번역합니다."
-sed "s/>Colour</>색상<" $nib
-sed "s/>Cut</>오려두기<" $nib
-sed "s/>Copy</>복사<" $nib
-sed "s/>Paste</>붙이기<" $nib
+sed "s/>Colour</>색상</" $nib
+sed "s/>Cut</>오려두기</" $nib
+sed "s/>Copy</>복사</" $nib
+sed "s/>Paste</>붙이기</" $nib
 read
