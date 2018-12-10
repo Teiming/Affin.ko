@@ -2499,11 +2499,11 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Character Variants [OpenType feature]</key>
 	<string>Character Variants</string>
 	<key>Character [Character button]</key>
-	<string>Character</string>
+	<string>문자</string>
 	<key>Character [Page Title]</key>
-	<string>Character</string>
+	<string>문자</string>
 	<key>Character [Text styles]</key>
-	<string>Character</string>
+	<string>문자</string>
 	<key>Character fill [Command description]</key>
 	<string>Character fill</string>
 	<key>Character outline [Command description]</key>
@@ -7293,11 +7293,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Move To Front [Main Controls]</key>
 	<string>맨 앞으로 가져오기</string>
 	<key>Move Tool [Main Controls Tooltip]</key>
-	<string>Move Tool</string>
+	<string>이동 도구</string>
 	<key>Move Tool [Main Controls]</key>
-	<string>Move Tool</string>
+	<string>이동 도구</string>
 	<key>Move Tool [Tool description]</key>
-	<string>Move Tool</string>
+	<string>이동 도구</string>
 	<key>Move [Command description]</key>
 	<string>Move</string>
 	<key>Move [Marquee Tool Modifier]</key>
@@ -7607,11 +7607,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Node Actions [Reflected property]</key>
 	<string>Node Actions</string>
 	<key>Node Tool [Main Controls Tooltip]</key>
-	<string>Node Tool</string>
+	<string>마디 도구</string>
 	<key>Node Tool [Pen Brush Tool Modifier]</key>
-	<string>Node Tool</string>
+	<string>마디 도구</string>
 	<key>Node Tool [Tool description]</key>
-	<string>Node Tool</string>
+	<string>마디 도구</string>
 	<key>Node Type [Reflected property]</key>
 	<string>Node Type</string>
 	<key>Node [Main Controls]</key>
@@ -8307,9 +8307,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Pen Mode [Pen tool context toolbar control tooltip]</key>
 	<string>Pen Mode</string>
 	<key>Pen Tool [Main Controls Tooltip]</key>
-	<string>Pen Tool</string>
+	<string>펜 도구</string>
 	<key>Pen Tool [Tool description]</key>
-	<string>Pen Tool</string>
+	<string>펜 도구</string>
 	<key>Pen [Main Controls Tooltip]</key>
 	<string>펜</string>
 	<key>Pen [Main Controls]</key>
@@ -12783,9 +12783,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Trial Expired [App run check]</key>
 	<string>Trial Expired</string>
 	<key>Triangle Tool [Main Controls Tooltip]</key>
-	<string>Triangle Tool</string>
+	<string>삼각형 도구</string>
 	<key>Triangle Tool [Tool description]</key>
-	<string>Triangle Tool</string>
+	<string>삼각형 도구</string>
 	<key>Triangle [Main Controls]</key>
 	<string>Triangle</string>
 	<key>Triangle [Shape name]</key>
@@ -13331,11 +13331,11 @@ View point with that name already exists.</string>
 	<key>View Rotation [View tool reflection]</key>
 	<string>View Rotation</string>
 	<key>View Tool [Main Controls Tooltip]</key>
-	<string>View Tool</string>
+	<string>뷰 도구</string>
 	<key>View Tool [Main Controls]</key>
-	<string>View Tool</string>
+	<string>뷰 도구</string>
 	<key>View Tool [Tool description]</key>
-	<string>View Tool</string>
+	<string>뷰 도구</string>
 	<key>View [OCIO reflection]</key>
 	<string>뷰</string>
 	<key>View zoom level as percentage [Pan tool context Toolbar Zoom Slider Tooltip]</key>
@@ -13727,7 +13727,7 @@ View point with that name already exists.</string>
 	<key>[user] [style default name]</key>
 	<string>[user]</string>
 	<key>a [Apply image tool reflection lower]</key>
-	<string>a</string>
+	<string>[변화 없음]</string>
 	<key>above [Macro select panel]</key>
 	<string>above</string>
 	<key>b [Apply image tool reflection lower]</key>
@@ -13773,15 +13773,15 @@ View point with that name already exists.</string>
 	<key>kB [Short Unit Types]</key>
 	<string>kB</string>
 	<key>m [Short Unit Types]</key>
-	<string>m</string>
+	<string>[같은 스타일]</string>
 	<key>mm [Short Unit Types]</key>
 	<string>mm</string>
 	<key>n/a [DevelopFocusPage]</key>
-	<string>n/a</string>
+	<string>없음</string>
 	<key>n/a [Exif Page]</key>
-	<string>n/a</string>
+	<string>없음</string>
 	<key>n/a [XMPPage]</key>
-	<string>n/a</string>
+	<string>없음</string>
 	<key>pt [Short Unit Types]</key>
 	<string>pt</string>
 	<key>px [Short Unit Types]</key>

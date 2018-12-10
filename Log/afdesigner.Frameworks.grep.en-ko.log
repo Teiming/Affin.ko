@@ -763,6 +763,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>채널 혼합</string>
 < 	<string>Character Style</string>
 > 	<string>문자 스타일</string>
+< 	<string>Character</string>
+> 	<string>문자</string>
+< 	<string>Character</string>
+> 	<string>문자</string>
+< 	<string>Character</string>
+> 	<string>문자</string>
 < 	<string>Check Spelling While Typing</string>
 > 	<string>작성하는 동안 철자 확인</string>
 < 	<string>Click</string>
@@ -1311,6 +1317,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>기타</string>
 < 	<string>Move To Front</string>
 > 	<string>맨 앞으로 가져오기</string>
+< 	<string>Move Tool</string>
+> 	<string>이동 도구</string>
+< 	<string>Move Tool</string>
+> 	<string>이동 도구</string>
+< 	<string>Move Tool</string>
+> 	<string>이동 도구</string>
 < 	<string>Move to Back</string>
 > 	<string>맨 뒤로 보내기</string>
 < 	<string>Move to Front</string>
@@ -1363,6 +1375,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>아니오</string>
 < 	<string>No</string>
 > 	<string>아니오</string>
+< 	<string>Node Tool</string>
+> 	<string>마디 도구</string>
+< 	<string>Node Tool</string>
+> 	<string>마디 도구</string>
+< 	<string>Node Tool</string>
+> 	<string>마디 도구</string>
 < 	<string>None</string>
 > 	<string>없음</string>
 < 	<string>None</string>
@@ -1505,6 +1523,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>붙이기</string>
 < 	<string>Paste</string>
 > 	<string>붙이기</string>
+< 	<string>Pen Tool</string>
+> 	<string>펜 도구</string>
+< 	<string>Pen Tool</string>
+> 	<string>펜 도구</string>
 < 	<string>Pen</string>
 > 	<string>펜</string>
 < 	<string>Pen</string>
@@ -1901,6 +1923,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>변형</string>
 < 	<string>Transform</string>
 > 	<string>변형</string>
+< 	<string>Triangle Tool</string>
+> 	<string>삼각형 도구</string>
+< 	<string>Triangle Tool</string>
+> 	<string>삼각형 도구</string>
 < 	<string>Typography</string>
 > 	<string>타이포그래피</string>
 < 	<string>Typography</string>
@@ -1963,6 +1989,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>활기</string>
 < 	<string>Vibrance</string>
 > 	<string>활기</string>
+< 	<string>View Tool</string>
+> 	<string>뷰 도구</string>
+< 	<string>View Tool</string>
+> 	<string>뷰 도구</string>
+< 	<string>View Tool</string>
+> 	<string>뷰 도구</string>
 < 	<string>View</string>
 > 	<string>뷰</string>
 < 	<string>Web</string>
@@ -2027,6 +2059,16 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>화면 크기에 맞추기</string>
 < 	<string>Zoom to Selection</string>
 > 	<string>선택 항목에 맞추기</string>
+< 	<string>a</string>
+> 	<string>[변화 없음]</string>
+< 	<string>m</string>
+> 	<string>[같은 스타일]</string>
+< 	<string>n/a</string>
+> 	<string>없음</string>
+< 	<string>n/a</string>
+> 	<string>없음</string>
+< 	<string>n/a</string>
+> 	<string>없음</string>
 < 	<string>|DRAG| to move selection.</string>
 > 	<string>|DRAG|해서 선택 항목을 움직입니다.</string>
 < 	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>

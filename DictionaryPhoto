@@ -1,3 +1,5 @@
+s/> [Locked]</> [잠금]</
+s/> [Modified]</> [변경]</
 s/>'%1' selected. </>'%1' 선택됨. </
 s/>Actual Size</>실제 크기</
 s/>Add Colour to Swatch</>색상을 견본에 추가</
@@ -29,6 +31,7 @@ s/>Angle:</>각도:</
 s/>Angle</>각도</
 s/>Apple Colour Picker...</>Apple 색상 선택기...</
 s/>Apply</>적용</
+s/>Area:</>영역:</
 s/>Arrange</>순서</
 s/>Artboard Tool</>아트보드 도구</
 s/>As Application Palette</>응용프로그램 팔레트로</
@@ -42,6 +45,7 @@ s/>Auto Levels</>자동 레벨</
 s/>Auto White Balance</>자동 화이트 밸런스</
 s/>Auto-scroll</>자동 스크롤</
 s/>Back One</>뒤로 보내기</
+s/>Background</>배경</
 s/>Balance</>밸런스</
 s/>Baseline</>기준선</
 s/>Basic</>기본</
@@ -86,6 +90,7 @@ s/>Centre</>가운데</
 s/>Channel Mixer</>채널 혼합</
 s/>Character Style</>문자 스타일</
 s/>Character Traits</>문자 특성</
+s/>Character</>문자</
 s/>Check Spelling While Typing</>작성하는 동안 철자 확인</
 s/>Check Spelling</>철자 확인</
 s/>Clear Menu</>메뉴 지우기</
@@ -106,6 +111,7 @@ s/>Context</>문단</
 s/>Convert Artboard to Object</>아트보드를 오브젝트로 전환</
 s/>Convert Object to Artboard</>오브젝트를 아트보드로 전환</
 s/>Convert to Curves</>곡선으로 전환</
+s/>Convert to Donut</>도넛으로 전환</
 s/>Convert to Text Frame</>텍스트 액자로 전환</
 s/>Convert to Text Path</>텍스트 경로로 전환</
 s/>Copy</>복사</
@@ -135,6 +141,7 @@ s/>Delete</>지우기</
 s/>Depth:</>깊이:</
 s/>Depth</>깊이</
 s/>Desaturate</>채도 낮추기</
+s/>Deselect All</>모두 선택 해제</
 s/>Deselect</>선택 해제</
 s/>Detach and Delete All Styles</>모든 스타일 벗기고 삭제</
 s/>Develop Persona</>개발 페르소나</
@@ -154,6 +161,10 @@ s/>Divide</>분할</
 s/>Dock Tools</>도구 고정</
 s/>Document Setup…</>문서 설정…</
 s/>Document Units:</>문서 단위:</
+s/>Don't export layers hidden by Export persona</>출력 페르소나에서 숨긴 레이어는 출력하지 않음.</
+s/>Done</>완료</
+s/>Donut Tool</>도넛 도구</
+s/>Donut</>도넛</
 s/>Drag</>드래그</
 s/>Draw Persona</>그림 페르소나</
 s/>Duplicate</>복제</
@@ -173,12 +184,14 @@ s/>Enhancement</>개선</
 s/>Entropy</>엔트로피</
 s/>Equations</>수식</
 s/>Erase</>지우기</
+s/>Estimated File Size:</>예상 파일 크기:</
 s/>Europe</>유럽</
 s/>Everything</>모두</
 s/>Expand Stroke</>획 펼치기</
 s/>Expand stroke</>획 펼치기</
 s/>Export LUT</>LUT 출력</
 s/>Export Persona</>출력 페르소나</
+s/>Export</>출력</
 s/>Export…</>출력…</
 s/>Exposure:</>노출:</
 s/>Exposure</>노출</
@@ -291,10 +304,12 @@ s/>Metal</>금속</
 s/>Minimize</>최소화</
 s/>Mirror</>거울</
 s/>Miscellaneous</>기타</
+s/>Modified</>변경</
 s/>Move Back One</>뒤로 보내기</
 s/>Move By Whole Pixels</>전체 픽셀 이동</
 s/>Move Forward One</>앞으로 가져오기</
 s/>Move To Front</>맨 앞으로 가져오기</
+s/>Move Tool</>이동 도구</
 s/>Move selection back one level</>뒤로 보내기</
 s/>Move selection forward one level</>앞으로 가져오기</
 s/>Move selection to the back</>맨 뒤로 보내기</
@@ -313,8 +328,10 @@ s/>New Pixel Layer</>새로운 픽셀 레이어</
 s/>New View</>새로운 뷰</
 s/>New</>신규</
 s/>News</>뉴스</
+s/>No Selection</>선택 항목 없음</
 s/>No Snapshot</>스냅샷 없음</
 s/>No</>아니오</
+s/>Node Tool</>마디 도구</
 s/>Non-Breaking Hyphen</>줄 바꿈 없는 하이픈</
 s/>Non-Breaking Space</>줄 바꿈 없는 공백</
 s/>None</>없음</
@@ -331,6 +348,7 @@ s/>Outer</>외부</
 s/>Outline view mode</>윤곽 뷰 모드</
 s/>Outline</>윤곽</
 s/>Outline…</>윤곽…</
+s/>Page</>페이지</
 s/>Panorama Persona</>파노라마 페르소나</
 s/>Panorama</>파노라마</
 s/>Paragraph</>문단</
@@ -339,6 +357,7 @@ s/>Paste Inside</>안으로 붙이기</
 s/>Paste Style</>스타일 붙이기</
 s/>Paste Without Format</>포맷 없이 붙이기</
 s/>Paste</>붙이기</
+s/>Pen Tool</>펜 도구</
 s/>Pen</>펜</
 s/>Pencil Tool</>연필 도구</
 s/>Pencil</>연필</
@@ -352,6 +371,7 @@ s/>Pixel Align</>픽셀 정렬</
 s/>Pixel Persona</>그림 페르소나</
 s/>Pixel Persona</>픽셀 페르소나</
 s/>Pixel Size</>픽셀 크기</
+s/>Pixel Tool</>픽셀 도구</
 s/>Pixel view mode</>픽셀 뷰 모드</
 s/>Pixel</>픽셀</
 s/>Pixels (Retina)</>픽셀 (레티나)</
@@ -383,6 +403,7 @@ s/>Reapply Text Styles</>텍스트 스타일 재적용</
 s/>Recent:</>최근 사용 항목:</
 s/>Recent</>최근 사용 항목</
 s/>Recolour</>재색상</
+s/>Rectangle Tool</>직사각형 도구</
 s/>Rectangle</>직사각형</
 s/>Redo %@</>%@ 다시 실행</
 s/>Redo</>다시 실행</
@@ -392,6 +413,8 @@ s/>Release Compound</>결합 해제</
 s/>Remove Profile</>프로파일 지우기</
 s/>Remove</>지우기</
 s/>Rename Palette...</>팔레트 이름 변경...</
+s/>Reset Adjustments</>조정 재설정</
+s/>Reset Keyboard Shortcuts</>키보드 단축키 재설정</
 s/>Reset Rotation</>회전 재설정</
 s/>Reset Selection Box</>선택 항목 상자 재설정</
 s/>Reset Studio</>작업실 재설정</
@@ -407,6 +430,7 @@ s/>Rotate Anticlockwise</>반시계방향으로 회전</
 s/>Rotate Clockwise</>시계방향으로 회전</
 s/>Rotate Left</>왼쪽으로 회전</
 s/>Rotate Right</>오른쪽으로 회전</
+s/>Rounded Rectangle Tool</>둥근 직사각형 도구</
 s/>Salmon</>연어</
 s/>Save As…</>다른 이름으로 저장…</
 s/>Save History With Document</>편집 기록 저장</
@@ -526,6 +550,7 @@ s/>Tools</>도구</
 s/>Top</>위로</
 s/>Transform</>변형</
 s/>Transparent background</>투명한 배경</
+s/>Triangle Tool</>삼각형 도구</
 s/>Tutorial...</>튜토리얼...</
 s/>Typography</>타이포그래피</
 s/>Underline</>밑줄</
@@ -537,6 +562,8 @@ s/>Union toolbar button</>병합 툴바 버튼</
 s/>Union</>병합</
 s/>Unlock All</>모두 잠금 해제</
 s/>Unlock</>잠금 해제</
+s/>Untitled</>이름 없음</
+s/>Update "%@"</>"%@"를 갱신</
 s/>Update Character Style</>문자 스타일 업데이트</
 s/>Update Paragraph Style</>문단 스타일 업데이트</
 s/>Use All</>모두 합자</
@@ -547,6 +574,7 @@ s/>Vertical Alignment</>세로 정렬</
 s/>Vertical Scale</>세로 배율</
 s/>Vibrance</>활기</
 s/>View Mode</>뷰 모드</
+s/>View Tool</>뷰 도구</
 s/>View</>뷰</
 s/>Views</>뷰</
 s/>Web</>웹</
@@ -574,6 +602,9 @@ s/>[No changes]</>[변화 없음]</
 s/>[Same Style]</>[같은 스타일]</
 s/>[replace]</>[교체]</
 s/>[user]</>[사용자]</
+s/>background</>배경</
+s/>dash</>줄표</
+s/>kB</>KB</
 s/>n\/a</>없음</
 s/>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</>선택 항목을 움직이려면 |DRAG|. 다른 대상을 선택하려면 |CLICK|. 선택 해제하려면 빈 공간을 |CLICK|</
 s/>|DRAG| to move selection.</>선택 항목을 움직이려면 |DRAG|.</
