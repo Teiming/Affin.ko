@@ -3298,27 +3298,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Text Wrap</string>
 ---
 > 		<string>줄바꿈</string>
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Startup.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/Startup.nib
-169c169
-< 		<string>Window</string>
----
-> 		<string>윈도우</string>
-1262c1262
-< 		<string>Hide Others</string>
----
-> 		<string>기타 가리기</string>
-1317c1317
-< 		<string>Show All</string>
----
-> 		<string>모두 보기</string>
-1646c1646
-< 		<string>Preferences…</string>
----
-> 		<string>환경설정…</string>
-1739c1739
-< 		<string>Services</string>
----
-> 		<string>서비스</string>
+Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: Startup.nib
 diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/assets.strings
 42c42
 < 	<string>Context</string>
