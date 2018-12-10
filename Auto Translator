@@ -13,15 +13,15 @@ if [ $APP -eq 1 ]
 then
   if [ $WHERE -eq 1 ]
   then
-    /usr/bin/sed -f command_file "$PATH" > Designer.Frameworks/$NAME
+    /usr/bin/sed -f command_file "$PATH" > Designer.Frameworks/$NAME.temp && /bin/mv Designer.Frameworks/$NAME.temp Designer.Frameworks/$NAME
   else
-    /usr/bin/sed -f command_file "$PATH" > Designer/$NAME
+    /usr/bin/sed -f command_file "$PATH" > Designer/$NAME.temp && /bin/mv Designer/$NAME.temp Designer/$NAME
   fi
 else
   if [ $WHERE -eq 1 ]
   then
-    /usr/bin/sed -f command_file "$PATH" > Photo.Frameworks/$NAME
+    /usr/bin/sed -f command_file "$PATH" > Photo.Frameworks/$NAME.temp && /bin/mv Photo.Frameworks/$NAME.temp Photo.Frameworks/$NAME
   else
-    /usr/bin/sed -f command_file "$PATH" > Photo/$NAME
+    /usr/bin/sed -f command_file "$PATH" > Photo/$NAME.temp && /bin/mv Photo/$NAME.temp Photo/$NAME
   fi
 fi
