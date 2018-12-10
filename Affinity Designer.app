@@ -1,0 +1,1 @@
+/Applications/Affinity Designer.app/Contents/

@@ -1,5 +1,10 @@
-cd ~/Downloads/Affinity-in-Korean/
+cd ~/Affinity-in-Korean/
+echo "command_file을 정렬합니다."
+/bin/cat command_file | /usr/bin/sort | /usr/bin/uniq > command_file.temp && /bin/mv command_file.temp command_file
 echo "번역할 파일을 입력합니다."
+echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."
+read APP
+echo "Frameworks를 번역하려면 1을 입력하세요."
 read PATH
 echo $PATH"를 번역합니다."
 /usr/bin/sed -f ~/Downloads/Affinity-in-Korean/command_file $PATH > $PATH.temp && /bin/mv $PATH.temp $PATH
