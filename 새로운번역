@@ -1,0 +1,7 @@
+echo "원문 (대소문자 구별,띄어쓰기 필수)"
+read ENG
+echo "번역"
+read KOR
+exp=$(echo "s/>$ENG</>$KOR</")
+echo $exp >> ~/Affinity-in-Korean/DesignerDictionary
+echo $exp >> ~/Affinity-in-Korean/PhotoDictionary
