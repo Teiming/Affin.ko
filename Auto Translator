@@ -12,7 +12,6 @@ echo $WHERE
 echo "번역할 파일을 입력합니다."
 read PATH
 echo $PATH
-path=$(echo $PATH | /usr/bin/sed -e "s/ /\\\ /")
 NAME=$(echo "$PATH" | /usr/bin/sed -e "s/^.*\///")
 echo $NAME"을(를) 번역합니다."
 
