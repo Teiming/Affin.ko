@@ -1,3 +1,5 @@
+Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: AboutDialog.nib
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/ContextMenu.nib
 < 		<string>Paste</string>
 > 		<string>ペースト</string>
 < 		<string>Create Slice</string>
@@ -111,6 +113,7 @@
 > 		<string>右に回転</string>
 < 		<string>Reset Rotation</string>
 > 		<string>回転をリセット</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/Localizable.strings
 < 	<string>Add Document Snapshot</string>
 > 	<string>ドキュメントのスナップショットを追加</string>
 < 	<string>Add</string>
@@ -845,6 +848,7 @@
 > 	<string>ズームイン</string>
 < 	<string>Zoom Out</string>
 > 	<string>ズームアウト</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDesignerExport.nib /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/MainMenuDesignerExport.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -1035,6 +1039,7 @@
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPixel.nib /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/MainMenuPixel.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -1433,6 +1438,7 @@
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVector.nib /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/MainMenuVector.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -2055,6 +2061,8 @@
 < 		<string>Text Wrap</string>
 > 		<string>テキストの回り込み</string>
 > 		<string>テキストの回り込み</string>
+Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: Startup.nib
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/assets.strings
 < 	<string>Accept</string>
 > 	<string>承諾</string>
 < 	<string>Activity</string>
@@ -2281,6 +2289,7 @@
 > 	<string>徒歩</string>
 < 	<string>Windows</string>
 > 	<string>ウィンドウ</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/fills.strings
 < 	<string>Black</string>
 > 	<string>黒</string>
 < 	<string>Black 10%</string>
@@ -2337,6 +2346,7 @@
 > 	<string>白から黒</string>
 < 	<string>White to transparent</string>
 > 	<string>白から透明</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/objectstyles.strings
 < 	<string>Default</string>
 > 	<string>デフォルト</string>
 < 	<string>Glass</string>
@@ -2353,6 +2363,7 @@
 > 	<string>スタイル</string>
 < 	<string>Sunset</string>
 > 	<string>夕焼け</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/raster_brushes.strings
 < 	<string>Airbrush</string>
 > 	<string>エアーブラシ</string>
 < 	<string>Assorted</string>
@@ -2491,6 +2502,7 @@
 > 	<string>テクスチャ</string>
 < 	<string>Texture Brush</string>
 > 	<string>テクスチャブラシ</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/vector_brushes.strings
 < 	<string>Assorted</string>
 > 	<string>アソート</string>
 < 	<string>Basic</string>

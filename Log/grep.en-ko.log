@@ -1,3 +1,5 @@
+Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: AboutDialog.nib
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/ContextMenu.nib
 < 		<string>Paste</string>
 > 		<string>붙이기</string>
 < 		<string>Create Slice</string>
@@ -106,6 +108,7 @@
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/Localizable.strings
 < 	<string>Add</string>
 > 	<string>추가</string>
 < 	<string>Add</string>
@@ -592,6 +595,7 @@
 > 	<string>확대</string>
 < 	<string>Zoom Out</string>
 > 	<string>축소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDesignerExport.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuDesignerExport.nib
 < 		<string>Open Recent</string>
 > 		<string>최근 사용 열기</string>
 < 		<string>Clear Menu</string>
@@ -754,6 +758,12 @@
 > 		<string>모두 앞으로 가져오기</string>
 < 		<string>Help</string>
 > 		<string>도움말</string>
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: MainMenuDevelop.nib
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: MainMenuHDR.nib
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: MainMenuLiquify.nib
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: MainMenuPanorama.nib
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: MainMenuPhotoExport.nib
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPixel.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuPixel.nib
 < 		<string>Open Recent</string>
 > 		<string>최근 사용 열기</string>
 < 		<string>Views</string>
@@ -1110,6 +1120,8 @@
 > 		<string>모두 앞으로 가져오기</string>
 < 		<string>Help</string>
 > 		<string>도움말</string>
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: MainMenuRaster.nib
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVector.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuVector.nib
 < 		<string>Open Recent</string>
 > 		<string>최근 사용 열기</string>
 < 		<string>Clear Menu</string>
@@ -1656,6 +1668,9 @@
 > 		<string>도움말</string>
 < 		<string>Text Wrap</string>
 > 		<string>줄바꿈</string>
+Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: Startup.nib
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: adjustments.strings
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/assets.strings
 < 	<string>Context</string>
 > 	<string>문단</string>
 < 	<string>Context (with options)</string>
@@ -1664,6 +1679,7 @@
 > 	<string>뉴스</string>
 < 	<string>Tables</string>
 > 	<string>표</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/fills.strings
 < 	<string>Black</string>
 > 	<string>검정</string>
 < 	<string>Black 10%</string>
@@ -1720,6 +1736,8 @@
 > 	<string>하양에서 검정</string>
 < 	<string>White to transparent</string>
 > 	<string>하양에서 투명</string>
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: macros.strings
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/objectstyles.strings
 < 	<string>Default</string>
 > 	<string>기본값</string>
 < 	<string>Glass</string>
@@ -1736,3 +1754,6 @@
 > 	<string>스타일</string>
 < 	<string>Sunset</string>
 > 	<string>석양</string>
+Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: raster_brushes.strings
+Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: tone_map.strings
+Files /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brushes.strings and /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/vector_brushes.strings are identical
