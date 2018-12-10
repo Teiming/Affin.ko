@@ -1,6 +1,6 @@
 echo "번역할 파일을 입력합니다."
 read PATH
 echo $PATH"를 번역합니다."
-/usr/bin/sed -f ~/Downloads/Affinity-in-Korean/command_file $PATH > $PATH.temp && /bin/mv $PATH.temp $PATH
+/usr/bin/sed -f ~/Downloads/Affinity-in-Korean/command_file $PATH > ~/Downloads/Affinity-in-Korean/$PATH.temp && /bin/mv ~/Downloads/Affinity-in-Korean/$PATH.temp ~/Downloads/Affinity-in-Korean/$PATH
 echo "번역이 끝났습니다. return을 눌러 프로그램을 종료합니다."
 read
