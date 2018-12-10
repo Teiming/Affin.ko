@@ -225,9 +225,173 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: InformationPage.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: KeyboardShortcutWindowController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: KeywordsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LayerItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LayerPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LayerPropertiesViewController.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerItemView.nib
+1393c1393
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1850c1850
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+2084c2084
+< 		<string>Intersect</string>
+---
+> 		<string>교차</string>
+2502c2502
+< 		<string>Subtract</string>
+---
+> 		<string>제거</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerPage.nib
+3601c3601
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+3626c3626
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+5174c5174
+< 		<string>Cut</string>
+---
+> 		<string>오려두기</string>
+5212c5212
+< 		<string>Copy</string>
+---
+> 		<string>복사</string>
+5250c5250
+< 		<string>Paste</string>
+---
+> 		<string>붙이기</string>
+5324c5324
+< 		<string>Hide</string>
+---
+> 		<string>가리기</string>
+5359c5359
+< 		<string>Lock</string>
+---
+> 		<string>잠금</string>
+5467c5467
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+5505c5505
+< 		<string>Duplicate</string>
+---
+> 		<string>복제</string>
+5807c5807
+< 		<string>Rasterise…</string>
+---
+> 		<string>래스터화…</string>
+5880c5880
+< 		<string>New Layer</string>
+---
+> 		<string>새로운 레이어</string>
+5915c5915
+< 		<string>New Pixel Layer</string>
+---
+> 		<string>새로운 픽셀 레이어</string>
+7367c7367
+< 		<string>Group</string>
+---
+> 		<string>그룹</string>
+7405c7405
+< 		<string>Ungroup</string>
+---
+> 		<string>그룹 해제</string>
+7479c7479
+< 		<string>Rasterise…</string>
+---
+> 		<string>래스터화…</string>
+7586c7586
+< 		<string>New Pixel Layer</string>
+---
+> 		<string>새로운 픽셀 레이어</string>
+8617c8617
+< 		<string>Rasterise…</string>
+---
+> 		<string>래스터화…</string>
+8724c8724
+< 		<string>New Pixel Layer</string>
+---
+> 		<string>새로운 픽셀 레이어</string>
+9028c9028
+< 		<string>Levels</string>
+---
+> 		<string>레벨</string>
+9063c9063
+< 		<string>White Balance</string>
+---
+> 		<string>화이트 밸런스</string>
+9133c9133
+< 		<string>Recolour</string>
+---
+> 		<string>재색상</string>
+9238c9238
+< 		<string>Posterise</string>
+---
+> 		<string>포스터화</string>
+9273c9273
+< 		<string>Vibrance</string>
+---
+> 		<string>활기</string>
+9308c9308
+< 		<string>Exposure</string>
+---
+> 		<string>노출</string>
+9343c9343
+< 		<string>Shadows / Highlights</string>
+---
+> 		<string>그림자 / 빛</string>
+9378c9378
+< 		<string>Threshold</string>
+---
+> 		<string>역치</string>
+9413c9413
+< 		<string>Curves</string>
+---
+> 		<string>곡선</string>
+9448c9448
+< 		<string>Channel Mixer</string>
+---
+> 		<string>채널 혼합</string>
+9483c9483
+< 		<string>Gradient Map</string>
+---
+> 		<string>그레이디언트 맵</string>
+9518c9518
+< 		<string>Selective Colour</string>
+---
+> 		<string>색상 선택</string>
+9553c9553
+< 		<string>Colour Balance</string>
+---
+> 		<string>색상 밸런스</string>
+9588c9588
+< 		<string>Invert</string>
+---
+> 		<string>반전</string>
+9623c9623
+< 		<string>Soft Proof</string>
+---
+> 		<string>미리보기</string>
+9693c9693
+< 		<string>Lens Filter</string>
+---
+> 		<string>렌즈 필터</string>
+14449c14449
+< 		<string>Edit All Layers</string>
+---
+> 		<string>모든 레이어 편집</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPropertiesViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerPropertiesViewController.nib
+296c296
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+509c509
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LensBlurEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LensDistortionEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LightingEffect.nib
@@ -395,10 +559,22 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>As System Palette</string>
 ---
 > 		<string>시스템 팔레트로</string>
+3077c3077
+< 		<string>Small</string>
+---
+> 		<string>작게</string>
+3147c3147
+< 		<string>Large</string>
+---
+> 		<string>크게</string>
 3197c3197
 < 		<string>Sort</string>
 ---
 > 		<string>정렬</string>
+3267c3267
+< 		<string>Alphabetical</string>
+---
+> 		<string>알파벳</string>
 3302c3302
 < 		<string>Colour</string>
 ---
@@ -423,6 +599,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>System</string>
 ---
 > 		<string>시스템</string>
+4823c4823
+< 		<string>Recent:</string>
+---
+> 		<string>최근 사용 항목:</string>
+5372c5372
+< 		<string>Delete Colour</string>
+---
+> 		<string>색상 지우기</string>
 5885c5885
 < 		<string>Shades</string>
 ---
