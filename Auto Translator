@@ -25,3 +25,4 @@ else
     /usr/bin/sed -f photodic "$PATH" > Photo/$NAME.temp && /bin/mv Photo/$NAME.temp Photo/$NAME
   fi
 fi
+logWriter.sh
