@@ -18,14 +18,16 @@ git clone https://github.com/Teiming/Affinity-in-Korean.git
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-sudo ~/Affinity-in-Korean/Translate-Affinity-Designer.sh
+chmod +x DesignerSync
+sudo DesignerSync
 ```
 ### Affinity Photo
 다음 명령어를 입력하고 Affinity Photo를 번역합니다. 번역은 자주 갱신됩니다. 최신 번역을 이용하고 싶다면 명령어를 다시 입력합니다.
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-sudo ~/Affinity-in-Korean/Translate-Affinity-Photo.sh
+chmod +x PhotoSync
+sudo PhotoSync
 ```
 ## Feedback
 번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.
