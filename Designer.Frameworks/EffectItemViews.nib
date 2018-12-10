@@ -5120,7 +5120,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Bevel / Emboss</string>
+		<string>음각 / 양각</string>
 		<string>{290, 111}</string>
 		<string>PhongBevelEffectItem</string>
 		<string>m_doEffectsDialogButton</string>
@@ -5905,7 +5905,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Colour Overlay</string>
+		<string>색상 씌우기</string>
 		<string>{290, 110}</string>
 		<string>ColourOverlayEffectItem</string>
 		<string>m_colourButton</string>
@@ -7573,7 +7573,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Outer Glow</string>
+		<string>외부 광채</string>
 		<string>{290, 137}</string>
 		<string>OuterGlowEffectItem</string>
 		<string>m_colourButton</string>
@@ -8297,7 +8297,7 @@
 				<integer>192</integer>
 			</dict>
 		</dict>
-		<string>Angle</string>
+		<string>각도</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8971,7 +8971,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Outer Shadow</string>
+		<string>외부 그림자</string>
 		<string>{290, 242}</string>
 		<string>OuterShadowEffectItem</string>
 		<string>m_angleControl</string>
@@ -10093,7 +10093,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Inner Glow</string>
+		<string>내부 광채</string>
 		<string>{290, 141}</string>
 		<string>InnerGlowEffectItem</string>
 		<string>m_colourButton</string>
@@ -12473,7 +12473,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Inner Shadow</string>
+		<string>내부 그림자</string>
 		<string>{290, 241}</string>
 		<string>InnerShadowEffectItem</string>
 		<string>m_angleControl</string>
@@ -13223,7 +13223,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Gradient Overlay</string>
+		<string>그레이디언트 씌우기</string>
 		<string>{290, 91}</string>
 		<string>GradientOverlayEffectItem</string>
 		<string>m_doEffectsDialogButton</string>

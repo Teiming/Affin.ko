@@ -24,9 +24,12 @@ s/>Alignment</>정렬</
 s/>All Caps</>모두 대문자</
 s/>Alphabetical</>알파벳</
 s/>Always Show Selection in Layers Panel </>항상 레이어 목록에서 선택 항목 나타내기</
+s/>Angle:</>각도:</
+s/>Angle</>각도</
 s/>Apple Colour Picker...</>Apple 색상 선택기...</
 s/>Apply</>적용</
 s/>Arrange</>순서</
+s/>Artboard Tool</>아트보드 도구</
 s/>As Application Palette</>응용프로그램 팔레트로</
 s/>As Document Palette</>문서 팔레트로</
 s/>As System Palette</>시스템 팔레트로</
@@ -44,6 +47,7 @@ s/>Basic</>기본</
 s/>Before \/ After</>이전 \/ 이후</
 s/>Before</>이전</
 s/>Behind</>뒤로</
+s/>Bevel \/ Emboss</>음각 \/ 양각</
 s/>Bigger</>늘리기</
 s/>Black &amp; White</>흑백</
 s/>Black 10%</>검정 10%</
@@ -87,6 +91,8 @@ s/>Click</>클릭</
 s/>Clip to Canvas</>캔버스에 클립</
 s/>Close</>닫기</
 s/>Colour Balance</>색상 밸런스</
+s/>Colour Overlay</>색상 씌우기</
+s/>Colour Picker Tool</>색상 선택기 도구</
 s/>Colour Range</>색상 영역</
 s/>Colour:</>색상:</
 s/>Colour</>색상</
@@ -149,13 +155,14 @@ s/>Document Units:</>문서 단위:</
 s/>Drag</>드래그</
 s/>Draw Persona</>그림 페르소나</
 s/>Duplicate</>복제</
+s/>Edge</>모서리</
 s/>Edit All Layers</>모든 레이어 편집</
 s/>Edit in Photo…</>Photo에서 편집…</
 s/>Edit</>편집</
 s/>Effects</>효과</
 s/>Em Dash</>전각 줄표</
 s/>Em Space</>전각 공백</
-s/>Emboss</>질감</
+s/>Emboss</>양각</
 s/>Emphasis</>강조</
 s/>En Dash</>반각 줄표</
 s/>En Space</>반각 공백</
@@ -194,7 +201,9 @@ s/>From Line</>획</
 s/>General</>일반</
 s/>Geometry</>기하</
 s/>Glass</>유리</
+s/>Glow</>광채</
 s/>Gradient Map</>그레이디언트 맵</
+s/>Gradient Overlay</>그레이디언트 씌우기</
 s/>Gradients</>그레이디언트</
 s/>Greys</>회색</
 s/>Grid and Axis Manager…</>격자선 관리자…</
@@ -214,6 +223,9 @@ s/>Import Text Styles…</>문자 스타일 불러오기…</
 s/>In Place</>제자리에</
 s/>Include Margins</>여백 포함</
 s/>Increase</>늘리기</
+s/>Inner Glow</>내부 광채</
+s/>Inner Shadow</>내부 그림자</
+s/>Inner</>내부</
 s/>Insert Behind</>뒤로 삽입</
 s/>Insert Character</>문자 삽입</
 s/>Insert Filler Text</>Lorem Ipsum</
@@ -239,6 +251,7 @@ s/>Justify</>맞춤</
 s/>Keyboard Shortcuts</>키보드 단축키</
 s/>Large</>크게</
 s/>Layer Colour:</>레이어 색상:</
+s/>Layer Effects</>레이어 효과</
 s/>Layer Effects…</>레이어 효과…</
 s/>Layer Name:</>레이어 이름:</
 s/>Layer</>레이어</
@@ -306,6 +319,9 @@ s/>Opacity</>불투명도</
 s/>Open Recent</>최근 사용 열기</
 s/>Open…</>열기…</
 s/>Order</>순서</
+s/>Outer Glow</>외부 광채</
+s/>Outer Shadow</>외부 그림자</
+s/>Outer</>외부</
 s/>Outline view mode</>윤곽 뷰 모드</
 s/>Outline</>윤곽</
 s/>Outline…</>윤곽…</
@@ -317,6 +333,7 @@ s/>Paste Inside</>안으로 붙이기</
 s/>Paste Style</>스타일 붙이기</
 s/>Paste Without Format</>포맷 없이 붙이기</
 s/>Paste</>붙이기</
+s/>Pencil Tool</>연필 도구</
 s/>Percentage</>백분율</
 s/>Performance</>성능</
 s/>Persona</>페르소나</
@@ -333,6 +350,8 @@ s/>Pixels (Retina)</>픽셀 (레티나)</
 s/>Pixels</>픽셀</
 s/>Place…</>다른 문서 넣기…</
 s/>Plugin</>플러그인</
+s/>Portrait</>세로방향</
+s/>Position:</>위치:</
 s/>Posterise</>포스터화</
 s/>Precise Bigger</>정밀하게 늘리기</
 s/>Precise Decrease</>정밀하게 줄이기</
@@ -361,6 +380,7 @@ s/>Redo</>다시 실행</
 s/>Refine Edges…</>모서리 다듬기…</
 s/>Reflect</>반사</
 s/>Release Compound</>결합 해제</
+s/>Remove Profile</>프로파일 지우기</
 s/>Remove</>지우기</
 s/>Rename Palette...</>팔레트 이름 변경...</
 s/>Reset Rotation</>회전 재설정</
@@ -410,6 +430,7 @@ s/>Set No Character Style</>문자 스타일 벗기기</
 s/>Set No Paragraph Style</>문단 스타일 벗기기</
 s/>Set as Default for</>기본값으로 설정하기</
 s/>Shades</>음영</
+s/>Shadow:</>그림자:</
 s/>Shadows \/ Highlights</>그림자 \/ 빛</
 s/>Share</>공유</
 s/>Show All</>모두 보기</
@@ -515,6 +536,7 @@ s/>Vibrance</>활기</
 s/>View Mode</>뷰 모드</
 s/>View</>뷰</
 s/>Views</>뷰</
+s/>Web</>웹</
 s/>Welcome...</>환영...</
 s/>White Balance</>화이트 밸런스</
 s/>White to black</>하양에서 검정</
@@ -523,10 +545,12 @@ s/>White</>하양</
 s/>Width:</>두께:</
 s/>Window</>윈도우</
 s/>Yellow</>노랑</
+s/>Yes</>네</
 s/>Yes</>예</
 s/>Zero Width Space</>폭 없는 공백</
 s/>Zoom In</>확대</
 s/>Zoom Out</>축소</
+s/>Zoom Tool</>맞추기 도구</
 s/>Zoom to Fit</>화면 크기에 맞추기</
 s/>Zoom to Selection</>선택 항목에 맞추기</
 s/>Zoom:</>맞추기:</

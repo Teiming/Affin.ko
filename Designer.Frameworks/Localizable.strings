@@ -1233,21 +1233,21 @@ The document must now be closed.</string>
 	<key>Ancient Symbols [Glyph Ranges]</key>
 	<string>Ancient Symbols</string>
 	<key>Angle [Brush Editor]</key>
-	<string>Angle</string>
+	<string>각도</string>
 	<key>Angle [Gradient overlay filter effect tool reflection]</key>
-	<string>Angle</string>
+	<string>각도</string>
 	<key>Angle [Reflectable property]</key>
-	<string>Angle</string>
+	<string>각도</string>
 	<key>Angle [Reflected property]</key>
-	<string>Angle</string>
+	<string>각도</string>
 	<key>Angle [Shadow filter effect tool reflection]</key>
-	<string>Angle</string>
+	<string>각도</string>
 	<key>Angle [Shape tool reflection]</key>
-	<string>Angle</string>
+	<string>각도</string>
 	<key>Angle of the callout tail [Constant description]</key>
 	<string>Angle of the callout tail</string>
 	<key>Angle: [Angle context toolbar]</key>
-	<string>Angle:</string>
+	<string>각도:</string>
 	<key>Annotation Form %d [OpenType feature]</key>
 	<string>Annotation Form %d</string>
 	<key>Annotation Forms [OpenType feature description]</key>
@@ -1481,11 +1481,11 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Artboard Background Grey Level [Interface Preferences]</key>
 	<string>Artboard Background Grey Level</string>
 	<key>Artboard Tool [Main Controls Tooltip]</key>
-	<string>Artboard Tool</string>
+	<string>아트보드 도구</string>
 	<key>Artboard Tool [Main Controls]</key>
-	<string>Artboard Tool</string>
+	<string>아트보드 도구</string>
 	<key>Artboard Tool [Tool description]</key>
-	<string>Artboard Tool</string>
+	<string>아트보드 도구</string>
 	<key>Artboard [Artboard Tool Context Toolbar Name]</key>
 	<string>Artboard</string>
 	<key>Artboard [Artboard description]</key>
@@ -2827,9 +2827,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Colour Overlay Filter Effect Tool [Tool description]</key>
 	<string>Colour Overlay Filter Effect Tool</string>
 	<key>Colour Picker Tool [Main Controls Tooltip]</key>
-	<string>Colour Picker Tool</string>
+	<string>색상 선택기 도구</string>
 	<key>Colour Picker Tool [Tool description]</key>
-	<string>Colour Picker Tool</string>
+	<string>색상 선택기 도구</string>
 	<key>Colour Profiles [Preferences colour profiles search term]</key>
 	<string>Colour Profiles</string>
 	<key>Colour Replacement Brush Tool [Main Controls Tooltip]</key>
@@ -4205,11 +4205,11 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Edge Threshold [Reflected property]</key>
 	<string>Edge Threshold</string>
 	<key>Edge [Effect settings control title]</key>
-	<string>Edge</string>
+	<string>모서리</string>
 	<key>Edge [Effect settings control tooltip]</key>
-	<string>Edge</string>
+	<string>모서리</string>
 	<key>Edge [Inner glow origin]</key>
-	<string>Edge</string>
+	<string>모서리</string>
 	<key>Edit "%@" [Text style]</key>
 	<string>Edit "%@"</string>
 	<key>Edit Adjustment [Layer Context Menu]</key>
@@ -4305,19 +4305,19 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Emboss Tool [Tool description]</key>
 	<string>Emboss Tool</string>
 	<key>Emboss [Bevel / Emboss type]</key>
-	<string>Emboss</string>
+	<string>양각</string>
 	<key>Emboss [Bevel/Emboss type]</key>
-	<string>Emboss</string>
+	<string>양각</string>
 	<key>Emboss [Command description]</key>
-	<string>Emboss</string>
+	<string>양각</string>
 	<key>Emboss [Filters Page]</key>
-	<string>Emboss</string>
+	<string>양각</string>
 	<key>Emboss [Filters]</key>
-	<string>Emboss</string>
+	<string>양각</string>
 	<key>Emboss [Main Controls Tooltip]</key>
-	<string>Emboss</string>
+	<string>양각</string>
 	<key>Emboss [Main Controls]</key>
-	<string>Emboss</string>
+	<string>양각</string>
 	<key>Emphasis [Text style]</key>
 	<string>강조</string>
 	<key>Enable Node Tool Snapping Options [Command description]</key>
@@ -5173,9 +5173,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Global [Reflected property]</key>
 	<string>Global</string>
 	<key>Glow [Blend Modes]</key>
-	<string>Glow</string>
+	<string>광채</string>
 	<key>Glow [Reflectable enum]</key>
-	<string>Glow</string>
+	<string>광채</string>
 	<key>Glow: Bad data [PSDError]</key>
 	<string>Glow: Bad data</string>
 	<key>Gly [Short page title]</key>
@@ -5209,9 +5209,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Gradient Overlay Filter Effect Tool [Tool description]</key>
 	<string>Gradient Overlay Filter Effect Tool</string>
 	<key>Gradient Overlay [Develop Overlays Page]</key>
-	<string>Gradient Overlay</string>
+	<string>그레이디언트 씌우기</string>
 	<key>Gradient Overlay [Tone Map Overlays]</key>
-	<string>Gradient Overlay</string>
+	<string>그레이디언트 씌우기</string>
 	<key>Gradient Tool [Main Controls Tooltip]</key>
 	<string>Gradient Tool</string>
 	<key>Gradient [Gradient overlay filter effect tool reflection]</key>
@@ -5789,9 +5789,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Inner Shadow Offset Tool [Tool description]</key>
 	<string>Inner Shadow Offset Tool</string>
 	<key>Inner [Bevel / Emboss type]</key>
-	<string>Inner</string>
+	<string>내부</string>
 	<key>Inner [Bevel/Emboss type]</key>
-	<string>Inner</string>
+	<string>내부</string>
 	<key>Inner circle: [Inner circle tooltip]</key>
 	<string>Inner circle:</string>
 	<key>Inner offset: [Context toolbar]</key>
@@ -8011,9 +8011,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Outer Shadow Offset Tool [Tool description]</key>
 	<string>Outer Shadow Offset Tool</string>
 	<key>Outer [Bevel / Emboss type]</key>
-	<string>Outer</string>
+	<string>외부</string>
 	<key>Outer [Bevel/Emboss type]</key>
-	<string>Outer</string>
+	<string>외부</string>
 	<key>Outer circle: [Outer circle tooltip]</key>
 	<string>Outer circle:</string>
 	<key>Outlier [Stack group reflection]</key>
@@ -8319,9 +8319,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Pen [Reflectable enum]</key>
 	<string>Pen</string>
 	<key>Pencil Tool [Main Controls Tooltip]</key>
-	<string>Pencil Tool</string>
+	<string>연필 도구</string>
 	<key>Pencil Tool [Tool description]</key>
-	<string>Pencil Tool</string>
+	<string>연필 도구</string>
 	<key>Pencil [Pencil Context toolbar name]</key>
 	<string>Pencil</string>
 	<key>Pending [Batch item status]</key>
@@ -9233,9 +9233,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Remove Plane [Perspective projection tool reflection]</key>
 	<string>Remove Plane</string>
 	<key>Remove Profile [Bevel / Emboss filter effect tool reflection]</key>
-	<string>Remove Profile</string>
+	<string>프로파일 지우기</string>
 	<key>Remove Profile [Phong bevel filter effect tool reflection]</key>
-	<string>Remove Profile</string>
+	<string>프로파일 지우기</string>
 	<key>Remove Styles From Characters [Text style]</key>
 	<string>Remove Styles From Characters</string>
 	<key>Remove Styles From Paragraphs [Text style]</key>
@@ -13371,11 +13371,11 @@ View point with that name already exists.</string>
 	<key>Warp mesh [Warp mesh name]</key>
 	<string>Warp mesh</string>
 	<key>Web [Document Preset]</key>
-	<string>Web</string>
+	<string>웹</string>
 	<key>Web [Font category]</key>
-	<string>Web</string>
+	<string>웹</string>
 	<key>Web [New Document Page]</key>
-	<string>Web</string>
+	<string>웹</string>
 	<key>Web colours [Export Page]</key>
 	<string>Web colours</string>
 	<key>WebP [File format]</key>
@@ -13597,13 +13597,13 @@ View point with that name already exists.</string>
 	<key>Yellow saturation [Reflectable property]</key>
 	<string>Yellow saturation</string>
 	<key>Yes [Panorama]</key>
-	<string>예</string>
+	<string>네</string>
 	<key>Yes [RAW Warning]</key>
-	<string>예</string>
+	<string>네</string>
 	<key>Yes [Tone Map]</key>
-	<string>예</string>
+	<string>네</string>
 	<key>Yes [button text]</key>
-	<string>예</string>
+	<string>네</string>
 	<key>Yi Radicals [Glyph Ranges]</key>
 	<string>Yi Radicals</string>
 	<key>Yi Syllables [Glyph Ranges]</key>
@@ -13679,7 +13679,7 @@ View point with that name already exists.</string>
 	<key>Zoom Blur [Main Controls]</key>
 	<string>Zoom Blur</string>
 	<key>Zoom Tool [Tool description]</key>
-	<string>Zoom Tool</string>
+	<string>맞추기 도구</string>
 	<key>Zoom [Preferences tools search term]</key>
 	<string>맞추기</string>
 	<key>Zoom [Reflectable property]</key>

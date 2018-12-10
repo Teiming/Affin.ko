@@ -28,8 +28,9 @@ else
     /usr/bin/sudo ./SyncPhoto
   fi
 fi
+echo "log를 작성합니다."
 ./LogWrite
-echo "다시 시작은 1, 종료는 0을 입력하세요."
+echo "작성이 끝났습니다. 다시 시작은 1, 종료는 0을 입력하세요."
 read RESTART
 if [ $RESTART -eq 1 ]
 then

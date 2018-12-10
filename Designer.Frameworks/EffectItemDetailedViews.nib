@@ -4361,7 +4361,7 @@
 			</dict>
 		</dict>
 		<string>SchemeButtonCell</string>
-		<string>Remove Profile</string>
+		<string>프로파일 지우기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6053,7 +6053,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>Colour Overlay</string>
+		<string>색상 씌우기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6347,7 +6347,7 @@
 			</dict>
 		</dict>
 		<string>SchemeButtonCell</string>
-		<string>Remove Profile</string>
+		<string>프로파일 지우기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6508,7 +6508,7 @@
 				<integer>50</integer>
 			</dict>
 		</dict>
-		<string>Shadow:</string>
+		<string>그림자:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7957,7 +7957,7 @@
 				<integer>131</integer>
 			</dict>
 		</dict>
-		<string>Inner</string>
+		<string>내부</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8076,7 +8076,7 @@
 				<integer>400</integer>
 			</dict>
 		</dict>
-		<string>Outer</string>
+		<string>외부</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8123,7 +8123,7 @@
 				<integer>402</integer>
 			</dict>
 		</dict>
-		<string>Emboss</string>
+		<string>양각</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8277,7 +8277,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>Bevel / Emboss</string>
+		<string>음각 / 양각</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9334,7 +9334,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>Outer Glow</string>
+		<string>외부 광채</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10810,7 +10810,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>Outer Shadow</string>
+		<string>외부 그림자</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12115,7 +12115,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>Inner Glow</string>
+		<string>내부 광채</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -17433,7 +17433,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>Inner Shadow</string>
+		<string>내부 그림자</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -19408,7 +19408,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>Gradient Overlay</string>
+		<string>그레이디언트 씌우기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
