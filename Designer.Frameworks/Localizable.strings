@@ -653,7 +653,7 @@ The document must now be closed.</string>
 	<key>Add Document Palette [Swatches]</key>
 	<string>Add Document Palette</string>
 	<key>Add Document Snapshot [add snapshot input sheet title]</key>
-	<string>Add Document Snapshot</string>
+	<string>문서 스냅샷 추가</string>
 	<key>Add Frame Text [Frame Text Command Name]</key>
 	<string>Add Frame Text</string>
 	<key>Add Gaussian blur layer [Command description]</key>
@@ -1729,11 +1729,11 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Bake Corners [Corner tool reflection]</key>
 	<string>Bake Corners</string>
 	<key>Balance [Develop Overlays Page]</key>
-	<string>Balance</string>
+	<string>밸런스</string>
 	<key>Balance [Reflectable property]</key>
-	<string>Balance</string>
+	<string>밸런스</string>
 	<key>Balance [Reflected property]</key>
-	<string>Balance</string>
+	<string>밸런스</string>
 	<key>Balance columns [Command description]</key>
 	<string>Balance columns</string>
 	<key>Balinese [Glyph Ranges]</key>
@@ -2893,7 +2893,7 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Colour space [Reflected property]</key>
 	<string>Colour space</string>
 	<key>Colour: [Context Toolbar - Colour - Label]</key>
-	<string>Colour:</string>
+	<string>색상:</string>
 	<key>Colourmetric [Preferences colour profiles search term]</key>
 	<string>Colourmetric</string>
 	<key>Colours [Develop Details Page]</key>
@@ -2993,9 +2993,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Constraints Group [ConstraintsGroupNode name]</key>
 	<string>Constraints Group</string>
 	<key>Constraints [Constraints Page]</key>
-	<string>Constraints</string>
+	<string>제약</string>
 	<key>Constraints [Page Title]</key>
-	<string>Constraints</string>
+	<string>제약</string>
 	<key>Context Menu [Preferences tools search term]</key>
 	<string>Context Menu</string>
 	<key>Context [Main Controls Tooltip]</key>
@@ -3355,13 +3355,13 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Custom Ratio [Raster crop toolbar]</key>
 	<string>Custom Ratio</string>
 	<key>Custom [Export Page]</key>
-	<string>Custom</string>
+	<string>사용자화</string>
 	<key>Custom [Paragraph Spacing Panel]</key>
-	<string>Custom</string>
+	<string>사용자화</string>
 	<key>Custom [Slice Options Page]</key>
-	<string>Custom</string>
+	<string>사용자화</string>
 	<key>Custom [Snapping page]</key>
-	<string>Custom</string>
+	<string>사용자화</string>
 	<key>Customize Toolbar... [Customize Toolbar]</key>
 	<string>Customize Toolbar...</string>
 	<key>Cut [Command description]</key>
@@ -3861,7 +3861,7 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Device [New Document Page]</key>
 	<string>Device</string>
 	<key>Devices [Document Preset]</key>
-	<string>Devices</string>
+	<string>기기</string>
 	<key>Diagonals [Raster Crop]</key>
 	<string>Diagonals</string>
 	<key>Diagonals [Raster crop toolbar]</key>
@@ -4693,7 +4693,7 @@ Attribute names must be unique</string>
 	<key>Failed to open RAW file [Open document failure title]</key>
 	<string>Failed to open RAW file</string>
 	<key>Failed to open TIFF file [Open document failure title]</key>
-	<string>Failed to open TIFF file</string>
+	<string>Tiff 파일을 열지 못했습니다.</string>
 	<key>Failed to open document [Open document failure title]</key>
 	<string>Failed to open document</string>
 	<key>Failed to open file [Open document failure title]</key>
@@ -5605,11 +5605,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>History Studio [Studio View]</key>
 	<string>History Studio</string>
 	<key>History [Page title]</key>
-	<string>History</string>
+	<string>편집 기록</string>
 	<key>History [Reflectable enum]</key>
-	<string>History</string>
+	<string>편집 기록</string>
 	<key>History [Reflected attribute]</key>
-	<string>History</string>
+	<string>편집 기록</string>
 	<key>History snapshot [Snapshot description]</key>
 	<string>History snapshot</string>
 	<key>Hold [Status bar key modifier]</key>
@@ -6235,9 +6235,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Layers Studio [Studio View]</key>
 	<string>Layers Studio</string>
 	<key>Layers [Layer page]</key>
-	<string>Layers</string>
+	<string>레이어</string>
 	<key>Layers [Page title]</key>
-	<string>Layers</string>
+	<string>레이어</string>
 	<key>Layers clipped to groups not supported [PSDImport]</key>
 	<string>Layers clipped to groups not supported</string>
 	<key>Layout [Main Controls Tooltip]</key>
@@ -6961,9 +6961,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Maximum Blur [Main Controls]</key>
 	<string>Maximum Blur</string>
 	<key>Maximum [Paragraph Justification]</key>
-	<string>Maximum</string>
+	<string>최대</string>
 	<key>Maximum [Stack group reflection]</key>
-	<string>Maximum</string>
+	<string>최대</string>
 	<key>Maximum letter spacing: %1 %% [Command description]</key>
 	<string>Maximum letter spacing: %1 %%</string>
 	<key>Maximum word spacing: %1 %% [Command description]</key>
@@ -7407,7 +7407,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Navigator Studio [Studio View]</key>
 	<string>Navigator Studio</string>
 	<key>Navigator [Page title]</key>
-	<string>Navigator</string>
+	<string>네비게이터</string>
 	<key>Nearest Neighbour [Page Setup]</key>
 	<string>Nearest Neighbour</string>
 	<key>Nearest Neighbour [Resize tool reflection]</key>
@@ -7443,7 +7443,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>New Document Palette [Document Palette From Document]</key>
 	<string>New Document Palette</string>
 	<key>New Document [Document View]</key>
-	<string>New Document</string>
+	<string>신규 문서</string>
 	<key>New Empty Mask Layer [Layer Page]</key>
 	<string>New Empty Mask Layer</string>
 	<key>New Empty Mask Layer [Main Controls]</key>
@@ -7562,8 +7562,8 @@ The documents will need to be saved before they can be closed.</string>
 	<string>No Selection</string>
 	<key>No Selection [slice tool context toolbar selection label]</key>
 	<string>No Selection</string>
-	<key>No Snapshot</key>
-	<string>No Snapshot</string>
+	<key>스냅샷 없음</key>
+	<string>스냅샷 없음</string>
 	<key>No Strikethrough [Character page]</key>
 	<string>No Strikethrough</string>
 	<key>No Style Name [Alert]</key>
@@ -8223,15 +8223,15 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Paragraph Style [Text style]</key>
 	<string>Paragraph Style</string>
 	<key>Paragraph [Hard break description]</key>
-	<string>Paragraph</string>
+	<string>문단</string>
 	<key>Paragraph [Page Title]</key>
-	<string>Paragraph</string>
+	<string>문단</string>
 	<key>Paragraph [Paragraph Page]</key>
-	<string>Paragraph</string>
+	<string>문단</string>
 	<key>Paragraph [Paragraph button]</key>
-	<string>Paragraph</string>
+	<string>문단</string>
 	<key>Paragraph [Text styles]</key>
-	<string>Paragraph</string>
+	<string>문단</string>
 	<key>Paragraph style: %1 [Command description]</key>
 	<string>Paragraph style: %1</string>
 	<key>Parameter A [Apply image tool reflection]</key>
@@ -8625,7 +8625,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Please start recording before applying adjustments. [Toast description]</key>
 	<string>Please start recording before applying adjustments.</string>
 	<key>Plugin [Command description]</key>
-	<string>Plugin</string>
+	<string>플러그인</string>
 	<key>Plugins [Preferences plugins search term]</key>
 	<string>Plugins</string>
 	<key>Point (1x1) [Colour Picker Tool Context Bar]</key>
@@ -8785,13 +8785,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Print (Press Ready) [New Document Page]</key>
 	<string>Print (Press Ready)</string>
 	<key>Print [Document Preset]</key>
-	<string>Print</string>
+	<string>인쇄</string>
 	<key>Print [Main Controls Tooltip]</key>
-	<string>Print</string>
+	<string>인쇄</string>
 	<key>Print [Main Controls]</key>
-	<string>Print</string>
+	<string>인쇄</string>
 	<key>Print [New Document Page]</key>
-	<string>Print</string>
+	<string>인쇄</string>
 	<key>Print item [Command description]</key>
 	<string>Print item</string>
 	<key>Printers Marks [Printing Accessory Panel]</key>
@@ -9891,7 +9891,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Saving PSD '%1' [Saving Documents]</key>
 	<string>Saving PSD '%1'</string>
 	<key>Saving TIFF [Batch item status]</key>
-	<string>Saving TIFF</string>
+	<string>TIFF 저장중</string>
 	<key>Saving as Layered TIFF '%1' [Saving Documents]</key>
 	<string>Saving as Layered TIFF '%1'</string>
 	<key>Saving copy [Save a copy message]</key>
@@ -11405,13 +11405,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Snapping timed out [Snapping tooltip]</key>
 	<string>Snapping timed out</string>
 	<key>Snapshot [DevelopSnapshotsPage]</key>
-	<string>Snapshot</string>
+	<string>스냅샷</string>
 	<key>Snapshots Studio [Studio View]</key>
-	<string>Snapshots Studio</string>
+	<string>스냅샷 작업실</string>
 	<key>Snapshots [Page title]</key>
-	<string>Snapshots</string>
+	<string>스냅샷</string>
 	<key>Snp [Short page title]</key>
-	<string>Snp</string>
+	<string>스냅</string>
 	<key>Soft Light [Blend Modes]</key>
 	<string>Soft Light</string>
 	<key>Soft Proof Tool [Tool description]</key>
@@ -11817,9 +11817,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Styles Studio [Studio View]</key>
 	<string>Styles Studio</string>
 	<key>Styles [Page title]</key>
-	<string>Styles</string>
+	<string>스타일</string>
 	<key>Styles [Styles page]</key>
-	<string>Styles</string>
+	<string>스타일</string>
 	<key>Stylistic Alternate %d [OpenType feature]</key>
 	<string>Stylistic Alternate %d</string>
 	<key>Stylistic Alternates [OpenType feature description]</key>
@@ -11953,11 +11953,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Symbol [Group Node name (when it is the top level of a symbol)]</key>
 	<string>Symbol</string>
 	<key>Symbols Studio [Studio View]</key>
-	<string>Symbols Studio</string>
+	<string>상징 작업실</string>
 	<key>Symbols [Page title]</key>
-	<string>Symbols</string>
+	<string>상징</string>
 	<key>Symbols [Symbols page]</key>
-	<string>Symbols</string>
+	<string>상징</string>
 	<key>Sync After [Main Controls Tooltip]</key>
 	<string>이후 항목 동기화</string>
 	<key>Sync After [Main Controls]</key>
@@ -13579,17 +13579,17 @@ View point with that name already exists.</string>
 	<key>Yellow / Blue [Reflected property]</key>
 	<string>Yellow / Blue</string>
 	<key>Yellow [CMYK Channel name]</key>
-	<string>Yellow</string>
+	<string>노랑</string>
 	<key>Yellow [CMYK Slider View]</key>
-	<string>Yellow</string>
+	<string>노랑</string>
 	<key>Yellow [Develop Overlays Page]</key>
-	<string>Yellow</string>
+	<string>노랑</string>
 	<key>Yellow [Raster selective colour reflection]</key>
-	<string>Yellow</string>
+	<string>노랑</string>
 	<key>Yellow [Reflectable property]</key>
-	<string>Yellow</string>
+	<string>노랑</string>
 	<key>Yellow [Reflected property]</key>
-	<string>Yellow</string>
+	<string>노랑</string>
 	<key>Yellow hue [Reflectable property]</key>
 	<string>Yellow hue</string>
 	<key>Yellow luminosity [Reflectable property]</key>
