@@ -5,7 +5,7 @@ echo "정렬 완료."
 echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."
 read APP
 echo $APP
-echo "Frameworks를 번역하려면 1을 입력하세요."
+echo "Frameworks를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
 read WHERE
 echo $WHERE
 echo "번역할 파일을 입력합니다."
