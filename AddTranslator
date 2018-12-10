@@ -1,0 +1,10 @@
+echo "원문 (대소문자 구별,띄어쓰기 필수)"
+read ENG
+echo "번역"
+read KOR
+cd ~/Affinity-in-Korean/
+exp=$(echo "s/>$ENG</>$KOR</")
+echo $exp >> DesignerDictionary
+echo $exp >> PhotoDictionary
+/bin/cat DesignerDictionary | /usr/bin/sort | /usr/bin/uniq > DesignerDictionary.temp && /bin/mv DesignerDictionary.temp DesignerDictionary
+/bin/cat PhotoDictionary | /usr/bin/sort | /usr/bin/uniq > PhotoDictionary.temp && /bin/mv PhotoDictionary.temp PhotoDictionary

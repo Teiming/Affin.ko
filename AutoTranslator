@@ -1,5 +1,4 @@
 cd ~/Affinity-in-Korean/
-/bin/cat command_file | /usr/bin/sort | /usr/bin/uniq > command_file.temp && /bin/mv command_file.temp command_file
 echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."
 read APP
 echo "Frameworks를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
