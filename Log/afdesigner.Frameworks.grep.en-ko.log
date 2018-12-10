@@ -157,7 +157,9 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FrequencySeparationEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GaussianEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GeolocationViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GlyphBrowserPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GlyphBrowserPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GlyphBrowserPage.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GradientEditorController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GradientEditorView.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GridsViewController.nib
@@ -1673,7 +1675,15 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MotionBlurEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NavigatorPage.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewBatchPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewDocPanel MultiSpread.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel MultiSpread.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewDocPanel MultiSpread.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Default</string>
+> 		<string>기본값</string>
+< 		<string>Photo</string>
+> 		<string>사진</string>
+< 		<string>Cancel</string>
+> 		<string>취소</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewDocPanel.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewFocusMergePanel.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewHDRMergePanel.nib
@@ -1684,7 +1694,7 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenImageAccessoryViewController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenTypeWindowController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OutlineSelection.nib
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PageSetup.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PageSetup.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Page Setup.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Page Setup.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Default</string>

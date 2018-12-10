@@ -74,6 +74,7 @@ s/>Brightness \/ Contrast</>명암 \/ 대비</
 s/>Bring All to Front</>모두 앞으로 가져오기</
 s/>Brush</>붓</
 s/>Brushes</>붓</
+s/>Button</>버튼</
 s/>Cancel</>취소</
 s/>Capitalisation</>대문자화</
 s/>Centre</>가운데</
@@ -106,7 +107,9 @@ s/>Create Paragraph Style</>문단 스타일 생성</
 s/>Create Slice from the currently selected object</>지금 선택된 대상으로부터 슬라이스 생성</
 s/>Create Slice</>슬라이스 생성</
 s/>Create Style</>스타일 생성</
+s/>Create artboard</>아트보드 생성</
 s/>Curves</>곡선</
+s/>Custom</>사용자화</
 s/>Customise Toolbar…</>툴바 사용자화…</
 s/>Customise Tools…</>도구 사용자화…</
 s/>Cut</>오려두기</
@@ -127,6 +130,7 @@ s/>Deselect</>선택 해제</
 s/>Detach and Delete All Styles</>모든 스타일 벗기고 삭제</
 s/>Develop Persona</>개발 페르소나</
 s/>Develop</>개발</
+s/>Devices</>기기</
 s/>Distribute Bottom Edges</>아래쪽 분배</
 s/>Distribute Horizontal Centres</>가로 가운데 분배</
 s/>Distribute Horizontally</>가로 분배</
@@ -140,6 +144,7 @@ s/>Divide toolbar button</>분할 툴바 버튼</
 s/>Divide</>분할</
 s/>Dock Tools</>도구 고정</
 s/>Document Setup…</>문서 설정…</
+s/>Document Units:</>문서 단위:</
 s/>Drag</>드래그</
 s/>Draw Persona</>그림 페르소나</
 s/>Duplicate</>복제</
@@ -153,6 +158,7 @@ s/>Emphasis</>강조</
 s/>En Dash</>반각 줄표</
 s/>En Space</>반각 공백</
 s/>Enhancement</>개선</
+s/>Colour:</>색상:</
 s/>Entropy</>엔트로피</
 s/>Equations</>수식</
 s/>Erase</>지우기</
@@ -166,6 +172,7 @@ s/>Export…</>출력…</
 s/>Exposure:</>노출:</
 s/>Exposure</>노출</
 s/>Factory Reset</>기본값 재설정</
+s/>Failed to open TIFF file</>Tiff 파일을 열지 못했습니다.</
 s/>Feather…</>깃털…</
 s/>Figure Dash</>숫자 줄표</
 s/>File</>파일</
@@ -204,6 +211,7 @@ s/>Ignore Misspelt Word</>철자 오류 무시</
 s/>Ignore Text Wraps</>줄바꿈 무시</
 s/>Import Text Styles…</>문자 스타일 불러오기…</
 s/>In Place</>제자리에</
+s/>Include Margins</>여백 포함</
 s/>Increase</>늘리기</
 s/>Insert Behind</>뒤로 삽입</
 s/>Insert Character</>문자 삽입</
@@ -252,6 +260,9 @@ s/>Loosen</>넓게</
 s/>Lower Baseline</>기준선 내리기</
 s/>Mask All</>모두 마스크</
 s/>Mask</>마스크</
+s/>Maximum height</>최대 높이</
+s/>Maximum width</>최대 두께</
+s/>Maximum</>최대</
 s/>Media Browser…</>미디어 브라우저…</
 s/>Medium</>중간</
 s/>Merge All Windows</>모든 윈도우 합치기</
@@ -275,6 +286,7 @@ s/>Move to Previous View Point</>이전 뷰 포인트로 이동</
 s/>Navigator</>네비게이터</
 s/>New Adjustment</>새로운 조정</
 s/>New Document From Snapshot</>스냅샷으로부터 신규 문서</
+s/>New Document</>신규 문서</
 s/>New From Clipboard</>클립보드에서 신규</
 s/>New Layer</>새로운 레이어</
 s/>New Pixel Layer</>새로운 픽셀 레이어</
@@ -319,6 +331,7 @@ s/>Pixel</>픽셀</
 s/>Pixels (Retina)</>픽셀 (레티나)</
 s/>Pixels</>픽셀</
 s/>Place…</>다른 문서 넣기…</
+s/>Plugin</>플러그인</
 s/>Posterise</>포스터화</
 s/>Precise Bigger</>정밀하게 늘리기</
 s/>Precise Decrease</>정밀하게 줄이기</
@@ -328,6 +341,8 @@ s/>Precise Raise Baseline</>기준선 정밀하게 올리기</
 s/>Precise Smaller</>정밀하게 줄이기</
 s/>Preferences</>환경설정</
 s/>Preferences…</>환경설정…</
+s/>Preserve aspect ratio</>종횡비 유지</
+s/>Print</>인쇄</
 s/>Print…</>인쇄…</
 s/>Promote Group to Layer</>그룹을 레이어로 승격</
 s/>Quick Mask</>빠른 마스크</
@@ -366,7 +381,13 @@ s/>Salmon</>연어</
 s/>Save As…</>다른 이름으로 저장…</
 s/>Save History With Document</>편집 기록 저장</
 s/>Save Text Styles as Default</>문자 스타일을 기본값으로 저장</
+s/>Save as AFPhoto</>AFPhoto</
+s/>Save as JPEG</>JPEG(으)로 저장</
+s/>Save as OpenEXR</>OpenEXR로 저장</
+s/>Save as PNG</>PNG(으)로 저장</
+s/>Save as TIFF</>TIFF로 저장</
 s/>Save</>저장</
+s/>Saving TIFF</>TIFF 저장중</
 s/>Select All</>전체 선택</
 s/>Select Blues</>파랑 선택</
 s/>Select Greens</>초록 선택</
@@ -471,6 +492,7 @@ s/>Tones</>색조</
 s/>Tools</>도구</
 s/>Top</>위로</
 s/>Transform</>변형</
+s/>Transparent background</>투명한 배경</
 s/>Tutorial...</>튜토리얼...</
 s/>Underline</>밑줄</
 s/>Undo %@</>%@ 실행 취소</
@@ -506,4 +528,5 @@ s/>Zoom In</>확대</
 s/>Zoom Out</>축소</
 s/>Zoom to Fit</>화면 크기에 맞추기</
 s/>Zoom to Selection</>선택 항목에 맞추기</
+s/>Zoom:</>맞추기:</
 s/>Zoom</>맞추기</
