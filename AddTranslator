@@ -8,3 +8,4 @@ echo $exp >> DesignerDictionary
 echo $exp >> PhotoDictionary
 /bin/cat DesignerDictionary | /usr/bin/sort | /usr/bin/uniq > DesignerDictionary.temp && /bin/mv DesignerDictionary.temp DesignerDictionary
 /bin/cat PhotoDictionary | /usr/bin/sort | /usr/bin/uniq > PhotoDictionary.temp && /bin/mv PhotoDictionary.temp PhotoDictionary
+diff DesignerDictionary PhotoDictionary > Log/DesignerDictionary-PhotoDictionary.log
