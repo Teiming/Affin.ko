@@ -29,3 +29,12 @@ else
   fi
 fi
 ./LogWrite
+echo "다시 시작은 1, 종료는 0을 입력하세요."
+read RESTART
+if [ $RESTART -eq 1 ]
+then
+  ./AutoTranslator
+  exit
+else
+  exit
+fi

@@ -478,7 +478,7 @@
 				<integer>10</integer>
 			</dict>
 		</dict>
-		<string>Open Recent</string>
+		<string>최근 사용 열기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -529,7 +529,7 @@
 				<integer>13</integer>
 			</dict>
 		</dict>
-		<string>Clear Menu</string>
+		<string>메뉴 지우기</string>
 		<string></string>
 		<dict>
 			<key>$class</key>
@@ -668,7 +668,7 @@
 				<integer>30</integer>
 			</dict>
 		</dict>
-		<string>Views</string>
+		<string>뷰</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -717,7 +717,7 @@
 				<integer>34</integer>
 			</dict>
 		</dict>
-		<string>Studio</string>
+		<string>작업실</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -782,7 +782,7 @@
 				<integer>37</integer>
 			</dict>
 		</dict>
-		<string>Show Left Studio</string>
+		<string>왼쪽 작업실 나타내기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -817,7 +817,7 @@
 				<integer>39</integer>
 			</dict>
 		</dict>
-		<string>Show Right Studio</string>
+		<string>오른쪽 작업실 나타내기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -893,7 +893,7 @@
 				<integer>43</integer>
 			</dict>
 		</dict>
-		<string>Hide Studio</string>
+		<string>작업실 가리기</string>
 		<string>H</string>
 		<dict>
 			<key>$class</key>
@@ -929,7 +929,7 @@
 				<integer>46</integer>
 			</dict>
 		</dict>
-		<string>Reset Studio</string>
+		<string>작업실 재설정</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -974,7 +974,7 @@
 				<integer>49</integer>
 			</dict>
 		</dict>
-		<string>Share</string>
+		<string>공유</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1063,7 +1063,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>Separated Mode</string>
+		<string>분리 모드</string>
 		<string>switchToProMode:</string>
 		<dict>
 			<key>$classes</key>
@@ -1126,7 +1126,7 @@
 				<integer>60</integer>
 			</dict>
 		</dict>
-		<string>Minimize</string>
+		<string>최소화</string>
 		<string>miniaturizeAll:</string>
 		<dict>
 			<key>$class</key>
@@ -1181,7 +1181,7 @@
 				<integer>64</integer>
 			</dict>
 		</dict>
-		<string>Zoom</string>
+		<string>맞추기</string>
 		<string>zoom:</string>
 		<dict>
 			<key>$class</key>
@@ -1258,7 +1258,7 @@
 				<integer>414</integer>
 			</dict>
 		</dict>
-		<string>Hide Others</string>
+		<string>기타 가리기</string>
 		<string>h</string>
 		<string>hideOtherApplications:</string>
 		<dict>
@@ -1319,7 +1319,7 @@
 				<integer>74</integer>
 			</dict>
 		</dict>
-		<string>Preferences…</string>
+		<string>환경설정…</string>
 		<string>,</string>
 		<string>showPreferences:</string>
 		<dict>
@@ -1380,7 +1380,7 @@
 				<integer>79</integer>
 			</dict>
 		</dict>
-		<string>Quit</string>
+		<string>Photo 종료</string>
 		<string>q</string>
 		<dict>
 			<key>$class</key>
@@ -1449,7 +1449,7 @@
 				<integer>86</integer>
 			</dict>
 		</dict>
-		<string>Show All</string>
+		<string>모두 보기</string>
 		<string>unhideAllApplications:</string>
 		<dict>
 			<key>$class</key>
@@ -1504,7 +1504,7 @@
 				<integer>90</integer>
 			</dict>
 		</dict>
-		<string>Hide</string>
+		<string>가리기</string>
 		<string>hide:</string>
 		<dict>
 			<key>$class</key>
@@ -1639,7 +1639,7 @@
 				<integer>429</integer>
 			</dict>
 		</dict>
-		<string>Save As…</string>
+		<string>다른 이름으로 저장…</string>
 		<string>S</string>
 		<dict>
 			<key>$class</key>
@@ -1713,7 +1713,7 @@
 				<integer>106</integer>
 			</dict>
 		</dict>
-		<string>Save</string>
+		<string>저장</string>
 		<string>s</string>
 		<string>saveDocument:</string>
 		<dict>
@@ -1774,7 +1774,7 @@
 				<integer>111</integer>
 			</dict>
 		</dict>
-		<string>Close</string>
+		<string>닫기</string>
 		<string>w</string>
 		<string>closeView:</string>
 		<dict>
@@ -1835,7 +1835,7 @@
 				<integer>116</integer>
 			</dict>
 		</dict>
-		<string>New</string>
+		<string>신규</string>
 		<string>n</string>
 		<string>newDocument:</string>
 		<dict>
@@ -1896,7 +1896,7 @@
 				<integer>121</integer>
 			</dict>
 		</dict>
-		<string>Open…</string>
+		<string>열기…</string>
 		<string>o</string>
 		<string>openDocument:</string>
 		<dict>
@@ -1957,7 +1957,7 @@
 				<integer>126</integer>
 			</dict>
 		</dict>
-		<string>Print…</string>
+		<string>인쇄…</string>
 		<string>p</string>
 		<string>print:</string>
 		<dict>
@@ -2051,7 +2051,7 @@
 				<integer>449</integer>
 			</dict>
 		</dict>
-		<string>Customise Tools…</string>
+		<string>도구 사용자화…</string>
 		<string>showToolsCustomisation:</string>
 		<dict>
 			<key>$class</key>
@@ -2111,7 +2111,7 @@
 				<integer>138</integer>
 			</dict>
 		</dict>
-		<string>Customise Toolbar…</string>
+		<string>툴바 사용자화…</string>
 		<string>showToolbarCustomisation:</string>
 		<dict>
 			<key>$class</key>
@@ -2171,7 +2171,7 @@
 				<integer>142</integer>
 			</dict>
 		</dict>
-		<string>Show Toolbar</string>
+		<string>툴바 나타내기</string>
 		<string>t</string>
 		<string>toggleToolbar:</string>
 		<dict>
@@ -2232,7 +2232,7 @@
 				<integer>147</integer>
 			</dict>
 		</dict>
-		<string>Zoom to Fit</string>
+		<string>화면 크기에 맞추기</string>
 		<string>0</string>
 		<dict>
 			<key>$class</key>
@@ -2365,7 +2365,7 @@
 				<integer>159</integer>
 			</dict>
 		</dict>
-		<string>Show Margins</string>
+		<string>여백선 나타내기</string>
 		<string>showMargins:</string>
 		<dict>
 			<key>$class</key>
@@ -2425,7 +2425,7 @@
 				<integer>163</integer>
 			</dict>
 		</dict>
-		<string>Show Guides</string>
+		<string>안내선 나타내기</string>
 		<string>;</string>
 		<string>showGuides:</string>
 		<dict>
@@ -2486,7 +2486,7 @@
 				<integer>168</integer>
 			</dict>
 		</dict>
-		<string>Show Grid</string>
+		<string>격자선 나타내기</string>
 		<string>'</string>
 		<string>showGrid:</string>
 		<dict>
@@ -2545,7 +2545,7 @@
 				<integer>173</integer>
 			</dict>
 		</dict>
-		<string>New View</string>
+		<string>새로운 뷰</string>
 		<string>doNewView:</string>
 		<dict>
 			<key>$class</key>
@@ -2605,7 +2605,7 @@
 				<integer>177</integer>
 			</dict>
 		</dict>
-		<string>Export…</string>
+		<string>출력…</string>
 		<string>showExportPanel:</string>
 		<dict>
 			<key>$class</key>
@@ -2663,7 +2663,7 @@
 				<integer>181</integer>
 			</dict>
 		</dict>
-		<string>Snapping Manager…</string>
+		<string>스내핑 관리자…</string>
 		<string>doSnappingOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -2723,7 +2723,7 @@
 				<integer>185</integer>
 			</dict>
 		</dict>
-		<string>Zoom In</string>
+		<string>확대</string>
 		<string>+</string>
 		<string>doZoomIn:</string>
 		<dict>
@@ -2784,7 +2784,7 @@
 				<integer>190</integer>
 			</dict>
 		</dict>
-		<string>Zoom Out</string>
+		<string>축소</string>
 		<string>-</string>
 		<string>doZoomOut:</string>
 		<dict>
@@ -2843,7 +2843,7 @@
 				<integer>195</integer>
 			</dict>
 		</dict>
-		<string>Assistant Manager…</string>
+		<string>손쉬운 사용 관리자…</string>
 		<string>doAssistantOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -2949,7 +2949,7 @@
 				<integer>203</integer>
 			</dict>
 		</dict>
-		<string>Show Rulers</string>
+		<string>눈금자 나타내기</string>
 		<string>r</string>
 		<string>toggleRulers:</string>
 		<dict>
@@ -3010,7 +3010,7 @@
 				<integer>208</integer>
 			</dict>
 		</dict>
-		<string>Toggle Full Screen</string>
+		<string>전체 화면 시작</string>
 		<string>f</string>
 		<string>toggleFullScreen:</string>
 		<dict>
@@ -3130,7 +3130,7 @@
 				<integer>218</integer>
 			</dict>
 		</dict>
-		<string>Photo Persona</string>
+		<string>사진 페르소나</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3225,7 +3225,7 @@
 				<integer>471</integer>
 			</dict>
 		</dict>
-		<string>Affinity Photo Help</string>
+		<string>Affinity Photo 도움말</string>
 		<string>?</string>
 		<string>showHelp:</string>
 		<dict>
@@ -3361,7 +3361,7 @@
 				<integer>440</integer>
 			</dict>
 		</dict>
-		<string>Redo</string>
+		<string>실행 취소</string>
 		<string>Z</string>
 		<string>doRedo:</string>
 		<dict>
@@ -3415,7 +3415,7 @@
 				<integer>240</integer>
 			</dict>
 		</dict>
-		<string>Delete</string>
+		<string>지우기</string>
 		<string></string>
 		<string>deleteBackward:</string>
 		<dict>
@@ -3476,7 +3476,7 @@
 				<integer>245</integer>
 			</dict>
 		</dict>
-		<string>Actual Size</string>
+		<string>실제 크기</string>
 		<string>8</string>
 		<string>doZoomToPrintSize:</string>
 		<dict>
@@ -3623,7 +3623,7 @@
 				<integer>257</integer>
 			</dict>
 		</dict>
-		<string>Toggle UI</string>
+		<string>UI 가리기</string>
 		<string>	</string>
 		<string>hideAllUI:</string>
 		<dict>
@@ -3682,7 +3682,7 @@
 				<integer>262</integer>
 			</dict>
 		</dict>
-		<string>Welcome...</string>
+		<string>환영...</string>
 		<string>showWelcome:</string>
 		<dict>
 			<key>$class</key>
@@ -3740,7 +3740,7 @@
 				<integer>266</integer>
 			</dict>
 		</dict>
-		<string>Show Tools</string>
+		<string>도구 나타내기</string>
 		<string>toggleToolsUI:</string>
 		<dict>
 			<key>$class</key>
@@ -3800,7 +3800,7 @@
 				<integer>270</integer>
 			</dict>
 		</dict>
-		<string>Undo</string>
+		<string>실행 취소</string>
 		<string>z</string>
 		<string>doUndo:</string>
 		<dict>
@@ -3859,7 +3859,7 @@
 				<integer>275</integer>
 			</dict>
 		</dict>
-		<string>Show Context Toolbar</string>
+		<string>상황별 툴바 나타내기</string>
 		<string>toggleContextToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -3919,7 +3919,7 @@
 				<integer>279</integer>
 			</dict>
 		</dict>
-		<string>Pixel Size</string>
+		<string>픽셀 크기</string>
 		<string>9</string>
 		<string>doZoomToPixelSize:</string>
 		<dict>
@@ -4036,7 +4036,7 @@
 				<integer>288</integer>
 			</dict>
 		</dict>
-		<string>Apple Colour Picker...</string>
+		<string>Apple 색상 선택기...</string>
 		<string>showAppleColourPicker:</string>
 		<dict>
 			<key>$class</key>
@@ -4094,7 +4094,7 @@
 				<integer>292</integer>
 			</dict>
 		</dict>
-		<string>Develop Persona</string>
+		<string>개발 페르소나</string>
 		<string>developPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -4149,7 +4149,7 @@
 				<integer>296</integer>
 			</dict>
 		</dict>
-		<string>Copy</string>
+		<string>복사</string>
 		<string>c</string>
 		<string>copy:</string>
 		<dict>
@@ -4372,7 +4372,7 @@
 				<integer>445</integer>
 			</dict>
 		</dict>
-		<string>Deselect</string>
+		<string>선택 해제</string>
 		<string>d</string>
 		<string>doDeselect:</string>
 		<dict>
@@ -4428,7 +4428,7 @@
 				<integer>319</integer>
 			</dict>
 		</dict>
-		<string>Cut</string>
+		<string>오려두기</string>
 		<string>x</string>
 		<string>cut:</string>
 		<dict>
@@ -4487,7 +4487,7 @@
 				<integer>324</integer>
 			</dict>
 		</dict>
-		<string>Tone Mapping Persona</string>
+		<string>톤 맵핑 페르소나</string>
 		<string>HDRPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -4545,7 +4545,7 @@
 				<integer>328</integer>
 			</dict>
 		</dict>
-		<string>Merge All Windows</string>
+		<string>모든 윈도우 합치기</string>
 		<string>mergeAllWindows:</string>
 		<dict>
 			<key>$class</key>
@@ -4603,7 +4603,7 @@
 				<integer>332</integer>
 			</dict>
 		</dict>
-		<string>Rotate Right</string>
+		<string>오른쪽으로 회전</string>
 		<string>doRotateRight:</string>
 		<dict>
 			<key>$class</key>
@@ -4663,7 +4663,7 @@
 				<integer>336</integer>
 			</dict>
 		</dict>
-		<string>Zoom to Selection</string>
+		<string>선택 항목에 맞추기</string>
 		<string>doZoomToSelection:</string>
 		<dict>
 			<key>$class</key>
@@ -4723,7 +4723,7 @@
 				<integer>340</integer>
 			</dict>
 		</dict>
-		<string>New From Clipboard</string>
+		<string>클립보드에서 신규</string>
 		<string>N</string>
 		<dict>
 			<key>$class</key>
@@ -4853,7 +4853,7 @@
 				<integer>352</integer>
 			</dict>
 		</dict>
-		<string>Paste</string>
+		<string>붙이기</string>
 		<string>v</string>
 		<string>paste:</string>
 		<dict>
@@ -4935,7 +4935,7 @@
 				<integer>359</integer>
 			</dict>
 		</dict>
-		<string>Support...</string>
+		<string>지원...</string>
 		<string>showSupport:</string>
 		<dict>
 			<key>$class</key>
@@ -4993,7 +4993,7 @@
 				<integer>363</integer>
 			</dict>
 		</dict>
-		<string>Liquify Persona</string>
+		<string>액화 페르소나</string>
 		<string>liquifyPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -5114,7 +5114,7 @@
 				<integer>372</integer>
 			</dict>
 		</dict>
-		<string>Select Previous</string>
+		<string>이전 항목 선택</string>
 		<string>[</string>
 		<string>doSelectPrev:</string>
 		<dict>
@@ -5173,7 +5173,7 @@
 				<integer>377</integer>
 			</dict>
 		</dict>
-		<string>Tutorial...</string>
+		<string>튜토리얼...</string>
 		<string>showTutorials:</string>
 		<dict>
 			<key>$class</key>
@@ -5228,7 +5228,7 @@
 				<integer>381</integer>
 			</dict>
 		</dict>
-		<string>Select All</string>
+		<string>전체 선택</string>
 		<string>a</string>
 		<string>selectAll:</string>
 		<dict>
@@ -5287,7 +5287,7 @@
 				<integer>386</integer>
 			</dict>
 		</dict>
-		<string>Reset Rotation</string>
+		<string>회전 재설정</string>
 		<string>doResetRotation:</string>
 		<dict>
 			<key>$class</key>
@@ -5345,7 +5345,7 @@
 				<integer>390</integer>
 			</dict>
 		</dict>
-		<string>Rotate Left</string>
+		<string>왼쪽으로 회전</string>
 		<string>doRotateLeft:</string>
 		<dict>
 			<key>$class</key>
@@ -5461,7 +5461,7 @@
 				<integer>398</integer>
 			</dict>
 		</dict>
-		<string>Dock Tools</string>
+		<string>도구 고정</string>
 		<string>dockTools:</string>
 		<dict>
 			<key>$class</key>
@@ -5521,7 +5521,7 @@
 				<integer>402</integer>
 			</dict>
 		</dict>
-		<string>Select Next</string>
+		<string>다음 항목 선택</string>
 		<string>]</string>
 		<string>doSelectNext:</string>
 		<dict>
@@ -6272,7 +6272,7 @@
 				<integer>414</integer>
 			</dict>
 		</dict>
-		<string>Persona</string>
+		<string>페르소나</string>
 		<string>submenuAction:</string>
 		<dict>
 			<key>$class</key>
@@ -6517,7 +6517,7 @@
 				<integer>421</integer>
 			</dict>
 		</dict>
-		<string>Services</string>
+		<string>서비스</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6682,7 +6682,7 @@
 				<integer>429</integer>
 			</dict>
 		</dict>
-		<string>File</string>
+		<string>파일</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7172,7 +7172,7 @@
 				<integer>440</integer>
 			</dict>
 		</dict>
-		<string>Edit</string>
+		<string>편집</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7346,7 +7346,7 @@
 				<integer>445</integer>
 			</dict>
 		</dict>
-		<string>Select</string>
+		<string>선택</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7468,7 +7468,7 @@
 				<integer>449</integer>
 			</dict>
 		</dict>
-		<string>View</string>
+		<string>뷰</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8130,7 +8130,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>Window</string>
+		<string>윈도우</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8287,7 +8287,7 @@
 				<integer>468</integer>
 			</dict>
 		</dict>
-		<string>Bring All to Front</string>
+		<string>모두 앞으로 가져오기</string>
 		<string>_NSWindowsMenu</string>
 		<dict>
 			<key>$class</key>
@@ -8340,7 +8340,7 @@
 				<integer>471</integer>
 			</dict>
 		</dict>
-		<string>Help</string>
+		<string>도움말</string>
 		<dict>
 			<key>$class</key>
 			<dict>

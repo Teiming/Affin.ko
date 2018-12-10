@@ -1895,7 +1895,7 @@
 				<integer>25</integer>
 			</dict>
 		</dict>
-		<string>Views</string>
+		<string>뷰</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1964,7 +1964,7 @@
 				<integer>32</integer>
 			</dict>
 		</dict>
-		<string>Studio</string>
+		<string>작업실</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2029,7 +2029,7 @@
 				<integer>35</integer>
 			</dict>
 		</dict>
-		<string>Show Left Studio</string>
+		<string>왼쪽 작업실 나타내기</string>
 		<string></string>
 		<dict>
 			<key>$class</key>
@@ -2065,7 +2065,7 @@
 				<integer>38</integer>
 			</dict>
 		</dict>
-		<string>Show Right Studio</string>
+		<string>오른쪽 작업실 나타내기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2140,7 +2140,7 @@
 				<integer>41</integer>
 			</dict>
 		</dict>
-		<string>Hide Studio</string>
+		<string>작업실 가리기</string>
 		<string>H</string>
 		<dict>
 			<key>$class</key>
@@ -2176,7 +2176,7 @@
 				<integer>44</integer>
 			</dict>
 		</dict>
-		<string>Reset Studio</string>
+		<string>작업실 재설정</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2314,7 +2314,7 @@
 				<integer>55</integer>
 			</dict>
 		</dict>
-		<string>Share</string>
+		<string>공유</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2412,7 +2412,7 @@
 				<integer>63</integer>
 			</dict>
 		</dict>
-		<string>Open Recent</string>
+		<string>최근 사용 열기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2461,7 +2461,7 @@
 				<integer>66</integer>
 			</dict>
 		</dict>
-		<string>Clear Menu</string>
+		<string>메뉴 지우기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2535,7 +2535,7 @@
 				<integer>1976</integer>
 			</dict>
 		</dict>
-		<string>Minimize</string>
+		<string>최소화</string>
 		<string>miniaturizeAll:</string>
 		<dict>
 			<key>$classes</key>
@@ -2600,7 +2600,7 @@
 				<integer>75</integer>
 			</dict>
 		</dict>
-		<string>Zoom</string>
+		<string>맞추기</string>
 		<string>zoom:</string>
 		<dict>
 			<key>$class</key>
@@ -2677,7 +2677,7 @@
 				<integer>1744</integer>
 			</dict>
 		</dict>
-		<string>Hide Others</string>
+		<string>기타 가리기</string>
 		<string>h</string>
 		<string>hideOtherApplications:</string>
 		<dict>
@@ -2738,7 +2738,7 @@
 				<integer>85</integer>
 			</dict>
 		</dict>
-		<string>Preferences…</string>
+		<string>환경설정…</string>
 		<string>,</string>
 		<string>showPreferences:</string>
 		<dict>
@@ -2799,7 +2799,7 @@
 				<integer>90</integer>
 			</dict>
 		</dict>
-		<string>Quit</string>
+		<string>Photo 종료</string>
 		<string>q</string>
 		<dict>
 			<key>$class</key>
@@ -2868,7 +2868,7 @@
 				<integer>97</integer>
 			</dict>
 		</dict>
-		<string>Show All</string>
+		<string>모두 보기</string>
 		<string>unhideAllApplications:</string>
 		<dict>
 			<key>$class</key>
@@ -2923,7 +2923,7 @@
 				<integer>101</integer>
 			</dict>
 		</dict>
-		<string>Hide</string>
+		<string>가리기</string>
 		<string>hide:</string>
 		<dict>
 			<key>$class</key>
@@ -3058,7 +3058,7 @@
 				<integer>1775</integer>
 			</dict>
 		</dict>
-		<string>Redo</string>
+		<string>실행 취소</string>
 		<string>Z</string>
 		<dict>
 			<key>$class</key>
@@ -3127,7 +3127,7 @@
 				<integer>117</integer>
 			</dict>
 		</dict>
-		<string>Copy</string>
+		<string>복사</string>
 		<string>c</string>
 		<string>copy:</string>
 		<dict>
@@ -3183,7 +3183,7 @@
 				<integer>122</integer>
 			</dict>
 		</dict>
-		<string>Paste</string>
+		<string>붙이기</string>
 		<string>v</string>
 		<string>paste:</string>
 		<dict>
@@ -3239,7 +3239,7 @@
 				<integer>127</integer>
 			</dict>
 		</dict>
-		<string>Cut</string>
+		<string>오려두기</string>
 		<string>x</string>
 		<string>cut:</string>
 		<dict>
@@ -3300,7 +3300,7 @@
 				<integer>132</integer>
 			</dict>
 		</dict>
-		<string>Undo</string>
+		<string>실행 취소</string>
 		<string>z</string>
 		<string>doUndo:</string>
 		<dict>
@@ -3451,7 +3451,7 @@
 				<integer>1759</integer>
 			</dict>
 		</dict>
-		<string>Save As…</string>
+		<string>다른 이름으로 저장…</string>
 		<string>S</string>
 		<string>saveAsDocument:</string>
 		<dict>
@@ -3512,7 +3512,7 @@
 				<integer>149</integer>
 			</dict>
 		</dict>
-		<string>Save</string>
+		<string>저장</string>
 		<string>s</string>
 		<string>saveDocument:</string>
 		<dict>
@@ -3571,7 +3571,7 @@
 				<integer>154</integer>
 			</dict>
 		</dict>
-		<string>Save History With Document</string>
+		<string>편집 기록 저장</string>
 		<string>saveWithHistory:</string>
 		<dict>
 			<key>$class</key>
@@ -3631,7 +3631,7 @@
 				<integer>158</integer>
 			</dict>
 		</dict>
-		<string>New</string>
+		<string>신규</string>
 		<string>n</string>
 		<string>newDocument:</string>
 		<dict>
@@ -3692,7 +3692,7 @@
 				<integer>163</integer>
 			</dict>
 		</dict>
-		<string>Open…</string>
+		<string>열기…</string>
 		<string>o</string>
 		<string>openDocument:</string>
 		<dict>
@@ -3753,7 +3753,7 @@
 				<integer>168</integer>
 			</dict>
 		</dict>
-		<string>Print…</string>
+		<string>인쇄…</string>
 		<string>p</string>
 		<string>print:</string>
 		<dict>
@@ -3829,7 +3829,7 @@
 				<integer>1961</integer>
 			</dict>
 		</dict>
-		<string>Customise Tools…</string>
+		<string>도구 사용자화…</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3902,7 +3902,7 @@
 				<integer>180</integer>
 			</dict>
 		</dict>
-		<string>Customise Toolbar…</string>
+		<string>툴바 사용자화…</string>
 		<string>showToolbarCustomisation:</string>
 		<dict>
 			<key>$class</key>
@@ -3962,7 +3962,7 @@
 				<integer>184</integer>
 			</dict>
 		</dict>
-		<string>Show Toolbar</string>
+		<string>툴바 나타내기</string>
 		<string>t</string>
 		<string>toggleToolbar:</string>
 		<dict>
@@ -4045,7 +4045,7 @@
 				<integer>1989</integer>
 			</dict>
 		</dict>
-		<string>Affinity Photo Help</string>
+		<string>Affinity Photo 도움말</string>
 		<string>?</string>
 		<string>showHelp:</string>
 		<dict>
@@ -4239,7 +4239,7 @@
 				<integer>204</integer>
 			</dict>
 		</dict>
-		<string>New Layer</string>
+		<string>새로운 레이어</string>
 		<string>N</string>
 		<string>addRasterLayer:</string>
 		<dict>
@@ -4757,7 +4757,7 @@
 				<integer>1923</integer>
 			</dict>
 		</dict>
-		<string>Ungroup</string>
+		<string>그룹 해제</string>
 		<string>G</string>
 		<string>unGroup:</string>
 		<dict>
@@ -4818,7 +4818,7 @@
 				<integer>245</integer>
 			</dict>
 		</dict>
-		<string>Group</string>
+		<string>그룹</string>
 		<string>g</string>
 		<string>group:</string>
 		<dict>
@@ -4879,7 +4879,7 @@
 				<integer>250</integer>
 			</dict>
 		</dict>
-		<string>Deselect</string>
+		<string>선택 해제</string>
 		<string>d</string>
 		<string>doDeselect:</string>
 		<dict>
@@ -4998,7 +4998,7 @@
 				<integer>259</integer>
 			</dict>
 		</dict>
-		<string>Invert Pixel Selection</string>
+		<string>픽셀 선택 항목 반전</string>
 		<string>I</string>
 		<string>doInvertSelection:</string>
 		<dict>
@@ -5054,7 +5054,7 @@
 				<integer>264</integer>
 			</dict>
 		</dict>
-		<string>Select All</string>
+		<string>전체 선택</string>
 		<string>selectAll:</string>
 		<dict>
 			<key>$class</key>
@@ -5439,7 +5439,7 @@
 				<integer>291</integer>
 			</dict>
 		</dict>
-		<string>Place…</string>
+		<string>다른 문서 넣기…</string>
 		<string>addEmbeddedDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -5574,7 +5574,7 @@
 				<integer>300</integer>
 			</dict>
 		</dict>
-		<string>Zoom to Fit</string>
+		<string>화면 크기에 맞추기</string>
 		<string>0</string>
 		<dict>
 			<key>$class</key>
@@ -5724,7 +5724,7 @@
 				<integer>1911</integer>
 			</dict>
 		</dict>
-		<string>Select Reds</string>
+		<string>빨강 선택</string>
 		<string>doSelectReds:</string>
 		<dict>
 			<key>$class</key>
@@ -5782,7 +5782,7 @@
 				<integer>317</integer>
 			</dict>
 		</dict>
-		<string>Select Greens</string>
+		<string>초록 선택</string>
 		<string>doSelectGreens:</string>
 		<dict>
 			<key>$class</key>
@@ -5840,7 +5840,7 @@
 				<integer>321</integer>
 			</dict>
 		</dict>
-		<string>Select Blues</string>
+		<string>파랑 선택</string>
 		<string>doSelectBlues:</string>
 		<dict>
 			<key>$class</key>
@@ -5915,7 +5915,7 @@
 				<integer>1914</integer>
 			</dict>
 		</dict>
-		<string>Select Midtones</string>
+		<string>중간 선택</string>
 		<string>doSelectMidtones:</string>
 		<dict>
 			<key>$class</key>
@@ -5973,7 +5973,7 @@
 				<integer>330</integer>
 			</dict>
 		</dict>
-		<string>Select Shadows</string>
+		<string>그림자 선택</string>
 		<string>doSelectShadows:</string>
 		<dict>
 			<key>$class</key>
@@ -6031,7 +6031,7 @@
 				<integer>334</integer>
 			</dict>
 		</dict>
-		<string>Select Highlights</string>
+		<string>빛 선택</string>
 		<string>doSelectHighlights:</string>
 		<dict>
 			<key>$class</key>
@@ -6091,7 +6091,7 @@
 				<integer>338</integer>
 			</dict>
 		</dict>
-		<string>Grow / Shrink…</string>
+		<string>팽창 / 수축…</string>
 		<string>b</string>
 		<string>growShrinkSelection:</string>
 		<dict>
@@ -6150,7 +6150,7 @@
 				<integer>343</integer>
 			</dict>
 		</dict>
-		<string>Show Margins</string>
+		<string>여백선 나타내기</string>
 		<string>showMargins:</string>
 		<dict>
 			<key>$class</key>
@@ -6210,7 +6210,7 @@
 				<integer>347</integer>
 			</dict>
 		</dict>
-		<string>Show Guides</string>
+		<string>안내선 나타내기</string>
 		<string>;</string>
 		<string>showGuides:</string>
 		<dict>
@@ -6273,7 +6273,7 @@
 				<integer>352</integer>
 			</dict>
 		</dict>
-		<string>Show Grid</string>
+		<string>격자선 나타내기</string>
 		<string>'</string>
 		<string>showGrid:</string>
 		<dict>
@@ -6390,7 +6390,7 @@
 				<integer>361</integer>
 			</dict>
 		</dict>
-		<string>New View</string>
+		<string>새로운 뷰</string>
 		<string>doNewView:</string>
 		<dict>
 			<key>$class</key>
@@ -7363,7 +7363,7 @@
 				<integer>430</integer>
 			</dict>
 		</dict>
-		<string>Refine Edges…</string>
+		<string>모서리 다듬기…</string>
 		<string>r</string>
 		<string>refineSelection:</string>
 		<dict>
@@ -8005,7 +8005,7 @@
 				<integer>476</integer>
 			</dict>
 		</dict>
-		<string>Select Sampled Colour…</string>
+		<string>표본 색상 선택…</string>
 		<string>selectSampledColour:</string>
 		<dict>
 			<key>$class</key>
@@ -8196,7 +8196,7 @@
 				<integer>489</integer>
 			</dict>
 		</dict>
-		<string>Auto Levels</string>
+		<string>자동 레벨</string>
 		<string>autoLevels:</string>
 		<dict>
 			<key>$class</key>
@@ -8375,7 +8375,7 @@
 				<integer>502</integer>
 			</dict>
 		</dict>
-		<string>Snapping Manager…</string>
+		<string>스내핑 관리자…</string>
 		<string>doSnappingOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -8488,7 +8488,7 @@
 				<integer>510</integer>
 			</dict>
 		</dict>
-		<string>Paste Style</string>
+		<string>스타일 붙이기</string>
 		<string>pasteStyle:</string>
 		<dict>
 			<key>$class</key>
@@ -8548,7 +8548,7 @@
 				<integer>514</integer>
 			</dict>
 		</dict>
-		<string>Zoom In</string>
+		<string>확대</string>
 		<string>+</string>
 		<string>doZoomIn:</string>
 		<dict>
@@ -8609,7 +8609,7 @@
 				<integer>519</integer>
 			</dict>
 		</dict>
-		<string>Zoom Out</string>
+		<string>축소</string>
 		<string>-</string>
 		<string>doZoomOut:</string>
 		<dict>
@@ -8668,7 +8668,7 @@
 				<integer>524</integer>
 			</dict>
 		</dict>
-		<string>Assistant Manager…</string>
+		<string>손쉬운 사용 관리자…</string>
 		<string>doAssistantOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -8786,7 +8786,7 @@
 				<integer>532</integer>
 			</dict>
 		</dict>
-		<string>Media Browser…</string>
+		<string>미디어 브라우저…</string>
 		<string>M</string>
 		<dict>
 			<key>$class</key>
@@ -9022,7 +9022,7 @@
 				<integer>551</integer>
 			</dict>
 		</dict>
-		<string>Show Rulers</string>
+		<string>눈금자 나타내기</string>
 		<string>toggleRulers:</string>
 		<dict>
 			<key>$class</key>
@@ -9349,7 +9349,7 @@
 				<integer>1781</integer>
 			</dict>
 		</dict>
-		<string>Revert</string>
+		<string>되돌리기</string>
 		<string>revertDefaults:</string>
 		<dict>
 			<key>$class</key>
@@ -9407,7 +9407,7 @@
 				<integer>578</integer>
 			</dict>
 		</dict>
-		<string>Align Left</string>
+		<string>왼쪽 정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9497,7 +9497,7 @@
 				<integer>1793</integer>
 			</dict>
 		</dict>
-		<string>Precise Bigger</string>
+		<string>정밀하게 늘리기</string>
 		<string>&gt;</string>
 		<dict>
 			<key>$class</key>
@@ -9719,7 +9719,7 @@
 				<integer>1821</integer>
 			</dict>
 		</dict>
-		<string>Update Paragraph Style</string>
+		<string>문단 스타일 업데이트</string>
 		<string>paragraphStyleFromSelection:</string>
 		<dict>
 			<key>$class</key>
@@ -9794,7 +9794,7 @@
 				<integer>1897</integer>
 			</dict>
 		</dict>
-		<string>Combine</string>
+		<string>배타</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9882,7 +9882,7 @@
 				<integer>1828</integer>
 			</dict>
 		</dict>
-		<string>En Space</string>
+		<string>반각 공백</string>
 		<string>insertEnSpace:</string>
 		<dict>
 			<key>$class</key>
@@ -10034,7 +10034,7 @@
 				<integer>1784</integer>
 			</dict>
 		</dict>
-		<string>Show Character</string>
+		<string>서체 작업실</string>
 		<string>showFontsOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -10092,7 +10092,7 @@
 				<integer>628</integer>
 			</dict>
 		</dict>
-		<string>Merge All Windows</string>
+		<string>모든 윈도우 합치기</string>
 		<string>mergeAllWindows:</string>
 		<dict>
 			<key>$class</key>
@@ -10210,7 +10210,7 @@
 				<integer>636</integer>
 			</dict>
 		</dict>
-		<string>Flip Horizontal</string>
+		<string>가로 뒤집기</string>
 		<string></string>
 		<string>flipCanvasHorizontal:</string>
 		<dict>
@@ -10349,7 +10349,7 @@
 				<integer>1803</integer>
 			</dict>
 		</dict>
-		<string>Superscript</string>
+		<string>윗첨자</string>
 		<string>toggleSuperscript:</string>
 		<dict>
 			<key>$class</key>
@@ -10467,7 +10467,7 @@
 				<integer>655</integer>
 			</dict>
 		</dict>
-		<string>Actual Size</string>
+		<string>실제 크기</string>
 		<string>8</string>
 		<string>doZoomToPrintSize:</string>
 		<dict>
@@ -10775,7 +10775,7 @@
 				<integer>677</integer>
 			</dict>
 		</dict>
-		<string>Reveal in Finder</string>
+		<string>Finder에서 찾기</string>
 		<string>revealInFinder:</string>
 		<dict>
 			<key>$class</key>
@@ -10906,7 +10906,7 @@
 				<integer>1807</integer>
 			</dict>
 		</dict>
-		<string>None</string>
+		<string>없음</string>
 		<string>noCaps:</string>
 		<dict>
 			<key>$class</key>
@@ -11043,7 +11043,7 @@
 				<integer>1796</integer>
 			</dict>
 		</dict>
-		<string>Tighten More</string>
+		<string>더 좁게</string>
 		<string></string>
 		<string>decreaseCharacterSpacingMore:</string>
 		<dict>
@@ -11160,7 +11160,7 @@
 				<integer>705</integer>
 			</dict>
 		</dict>
-		<string>Grid and Axis Manager…</string>
+		<string>격자선 관리자…</string>
 		<string>showGridsManager:</string>
 		<dict>
 			<key>$class</key>
@@ -11281,7 +11281,7 @@
 				<integer>714</integer>
 			</dict>
 		</dict>
-		<string>En Dash</string>
+		<string>반각 줄표</string>
 		<string>insertEnDash:</string>
 		<dict>
 			<key>$class</key>
@@ -11339,7 +11339,7 @@
 				<integer>718</integer>
 			</dict>
 		</dict>
-		<string>Show Context Toolbar</string>
+		<string>상황별 툴바 나타내기</string>
 		<string>toggleContextToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -11620,7 +11620,7 @@
 				<integer>1816</integer>
 			</dict>
 		</dict>
-		<string>Decrease</string>
+		<string>줄이기</string>
 		<string></string>
 		<string>decreaseLeading:</string>
 		<dict>
@@ -11754,7 +11754,7 @@
 				<integer>1836</integer>
 			</dict>
 		</dict>
-		<string>Centre</string>
+		<string>가운데</string>
 		<string>alignYCentre:</string>
 		<dict>
 			<key>$class</key>
@@ -11812,7 +11812,7 @@
 				<integer>752</integer>
 			</dict>
 		</dict>
-		<string>Insert Text from File…</string>
+		<string>파일에서 텍스트 삽입하기…</string>
 		<string>insertTextFile:</string>
 		<dict>
 			<key>$class</key>
@@ -11892,7 +11892,7 @@
 				<integer>1789</integer>
 			</dict>
 		</dict>
-		<string>Strikeout</string>
+		<string>취소선</string>
 		<string>toggleStrikeout:</string>
 		<dict>
 			<key>$class</key>
@@ -12127,7 +12127,7 @@
 				<integer>774</integer>
 			</dict>
 		</dict>
-		<string>Synchronise from Selection</string>
+		<string>선택 항목에서 기본값 동기화</string>
 		<string>syncDefaults:</string>
 		<dict>
 			<key>$class</key>
@@ -12185,7 +12185,7 @@
 				<integer>778</integer>
 			</dict>
 		</dict>
-		<string>Auto Colours</string>
+		<string>자동 색상</string>
 		<string>autoColours:</string>
 		<dict>
 			<key>$class</key>
@@ -12243,7 +12243,7 @@
 				<integer>782</integer>
 			</dict>
 		</dict>
-		<string>Save Text Styles as Default</string>
+		<string>문자 스타일을 기본값으로 저장</string>
 		<string>setStylesAsDefault:</string>
 		<dict>
 			<key>$class</key>
@@ -12417,7 +12417,7 @@
 				<integer>794</integer>
 			</dict>
 		</dict>
-		<string>Liquify Persona</string>
+		<string>액화 페르소나</string>
 		<string>liquifyPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -12477,7 +12477,7 @@
 				<integer>798</integer>
 			</dict>
 		</dict>
-		<string>Duplicate</string>
+		<string>복제</string>
 		<string>j</string>
 		<string>duplicateObjects:</string>
 		<dict>
@@ -12715,7 +12715,7 @@
 				<integer>816</integer>
 			</dict>
 		</dict>
-		<string>Unlock</string>
+		<string>잠금 해제</string>
 		<string>setEditable:</string>
 		<dict>
 			<key>$class</key>
@@ -12831,7 +12831,7 @@
 				<integer>824</integer>
 			</dict>
 		</dict>
-		<string>Bottom</string>
+		<string>아래</string>
 		<string>alignYBottom:</string>
 		<dict>
 			<key>$class</key>
@@ -12947,7 +12947,7 @@
 				<integer>832</integer>
 			</dict>
 		</dict>
-		<string>Factory Reset</string>
+		<string>기본값 재설정</string>
 		<string>resetToFactoryDefaults:</string>
 		<dict>
 			<key>$class</key>
@@ -13063,7 +13063,7 @@
 				<integer>840</integer>
 			</dict>
 		</dict>
-		<string>Zero Width Space</string>
+		<string>폭 없는 공백</string>
 		<string>insertZeroWidthSpace:</string>
 		<dict>
 			<key>$class</key>
@@ -13431,7 +13431,7 @@
 				<integer>866</integer>
 			</dict>
 		</dict>
-		<string>Divide</string>
+		<string>분할</string>
 		<string>boolOpDivide:</string>
 		<dict>
 			<key>$class</key>
@@ -13547,7 +13547,7 @@
 				<integer>874</integer>
 			</dict>
 		</dict>
-		<string>Create Character Style</string>
+		<string>문자 스타일 생성</string>
 		<string>createCharacterStyle:</string>
 		<dict>
 			<key>$class</key>
@@ -13607,7 +13607,7 @@
 				<integer>878</integer>
 			</dict>
 		</dict>
-		<string>Flip Vertical</string>
+		<string>세로 뒤집기</string>
 		<string></string>
 		<string>flipCanvasVertical:</string>
 		<dict>
@@ -13666,7 +13666,7 @@
 				<integer>883</integer>
 			</dict>
 		</dict>
-		<string>Intersect</string>
+		<string>교차</string>
 		<string>boolOpIntersect:</string>
 		<dict>
 			<key>$class</key>
@@ -13726,7 +13726,7 @@
 				<integer>887</integer>
 			</dict>
 		</dict>
-		<string>Loosen</string>
+		<string>넓게</string>
 		<string></string>
 		<string>increaseCharacterSpacing:</string>
 		<dict>
@@ -13785,7 +13785,7 @@
 				<integer>892</integer>
 			</dict>
 		</dict>
-		<string>Move to Previous View Point</string>
+		<string>이전 뷰 포인트로 이동</string>
 		<string>previousViewPoint:</string>
 		<dict>
 			<key>$class</key>
@@ -13843,7 +13843,7 @@
 				<integer>896</integer>
 			</dict>
 		</dict>
-		<string>Import Text Styles…</string>
+		<string>문자 스타일 불러오기…</string>
 		<string>importStyles:</string>
 		<dict>
 			<key>$class</key>
@@ -13901,7 +13901,7 @@
 				<integer>900</integer>
 			</dict>
 		</dict>
-		<string>Auto White Balance</string>
+		<string>자동 화이트 밸런스</string>
 		<string>autoWhiteBalance:</string>
 		<dict>
 			<key>$class</key>
@@ -14040,7 +14040,7 @@
 				<integer>910</integer>
 			</dict>
 		</dict>
-		<string>Rotate Right</string>
+		<string>오른쪽으로 회전</string>
 		<string>doRotateRight:</string>
 		<dict>
 			<key>$class</key>
@@ -14121,7 +14121,7 @@
 				<integer>916</integer>
 			</dict>
 		</dict>
-		<string>Underline</string>
+		<string>밑줄</string>
 		<string>toggleUnderline:</string>
 		<dict>
 			<key>$class</key>
@@ -14179,7 +14179,7 @@
 				<integer>920</integer>
 			</dict>
 		</dict>
-		<string>Separated Mode</string>
+		<string>분리 모드</string>
 		<string>switchToProMode:</string>
 		<dict>
 			<key>$class</key>
@@ -14474,7 +14474,7 @@
 				<integer>941</integer>
 			</dict>
 		</dict>
-		<string>Precise Decrease</string>
+		<string>정밀하게 줄이기</string>
 		<string></string>
 		<string>decreaseLeadingMore:</string>
 		<dict>
@@ -14530,7 +14530,7 @@
 				<integer>946</integer>
 			</dict>
 		</dict>
-		<string>Paste Without Format</string>
+		<string>포맷 없이 붙이기</string>
 		<string>pasteUnformatted:</string>
 		<dict>
 			<key>$class</key>
@@ -14588,7 +14588,7 @@
 				<integer>950</integer>
 			</dict>
 		</dict>
-		<string>Update Character Style</string>
+		<string>문자 스타일 업데이트</string>
 		<string>glyphStyleFromSelection:</string>
 		<dict>
 			<key>$class</key>
@@ -14648,7 +14648,7 @@
 				<integer>954</integer>
 			</dict>
 		</dict>
-		<string>Precise Smaller</string>
+		<string>정밀하게 줄이기</string>
 		<string>&lt;</string>
 		<string>decreaseTextHeightMore:</string>
 		<dict>
@@ -14724,7 +14724,7 @@
 				<integer>1811</integer>
 			</dict>
 		</dict>
-		<string>Align Centre</string>
+		<string>가로 가운데 정렬</string>
 		<string>alignCentre:</string>
 		<dict>
 			<key>$class</key>
@@ -14782,7 +14782,7 @@
 				<integer>964</integer>
 			</dict>
 		</dict>
-		<string>Align Right</string>
+		<string>오른쪽 정렬</string>
 		<string>doAlignRight:</string>
 		<dict>
 			<key>$class</key>
@@ -14840,7 +14840,7 @@
 				<integer>968</integer>
 			</dict>
 		</dict>
-		<string>Reapply Text Styles</string>
+		<string>텍스트 스타일 재적용</string>
 		<string>reapplyTextStyles:</string>
 		<dict>
 			<key>$class</key>
@@ -14915,7 +14915,7 @@
 				<integer>1985</integer>
 			</dict>
 		</dict>
-		<string>On App Screen</string>
+		<string>응용프로그램 화면</string>
 		<string>cleanUpFloatingPanelsOnAppScreen:</string>
 		<dict>
 			<key>$class</key>
@@ -14975,7 +14975,7 @@
 				<integer>977</integer>
 			</dict>
 		</dict>
-		<string>Toggle Full Screen</string>
+		<string>전체 화면 시작</string>
 		<string>f</string>
 		<string>toggleFullScreen:</string>
 		<dict>
@@ -15034,7 +15034,7 @@
 				<integer>982</integer>
 			</dict>
 		</dict>
-		<string>Show Text Styles</string>
+		<string>텍스트 스타일 작업실</string>
 		<string>showTextStylePage:</string>
 		<dict>
 			<key>$class</key>
@@ -15210,7 +15210,7 @@
 				<integer>994</integer>
 			</dict>
 		</dict>
-		<string>Bigger</string>
+		<string>늘리기</string>
 		<string>increaseTextHeight:</string>
 		<dict>
 			<key>$class</key>
@@ -15287,7 +15287,7 @@
 				<integer>1840</integer>
 			</dict>
 		</dict>
-		<string>Spelling Options…</string>
+		<string>철자 설정…</string>
 		<string>showSpelling:</string>
 		<dict>
 			<key>$class</key>
@@ -15421,7 +15421,7 @@
 				<integer>1009</integer>
 			</dict>
 		</dict>
-		<string>Align Bottom</string>
+		<string>아래쪽 정렬</string>
 		<string>doAlignBottom:</string>
 		<dict>
 			<key>$class</key>
@@ -15537,7 +15537,7 @@
 				<integer>1017</integer>
 			</dict>
 		</dict>
-		<string>Justify Right</string>
+		<string>오른쪽 균등 정렬</string>
 		<string>alignJustifyRight:</string>
 		<dict>
 			<key>$class</key>
@@ -15653,7 +15653,7 @@
 				<integer>1026</integer>
 			</dict>
 		</dict>
-		<string>Export…</string>
+		<string>출력…</string>
 		<string>showExportPanel:</string>
 		<dict>
 			<key>$class</key>
@@ -15711,7 +15711,7 @@
 				<integer>1030</integer>
 			</dict>
 		</dict>
-		<string>Toggle UI</string>
+		<string>UI 가리기</string>
 		<string>	</string>
 		<string>hideAllUI:</string>
 		<dict>
@@ -15770,7 +15770,7 @@
 				<integer>1035</integer>
 			</dict>
 		</dict>
-		<string>Justify Left</string>
+		<string>왼쪽 균등 정렬</string>
 		<string>alignJustifyLeft:</string>
 		<dict>
 			<key>$class</key>
@@ -15828,7 +15828,7 @@
 				<integer>1039</integer>
 			</dict>
 		</dict>
-		<string>Outline…</string>
+		<string>윤곽…</string>
 		<string>outlineSelection:</string>
 		<dict>
 			<key>$class</key>
@@ -15888,7 +15888,7 @@
 				<integer>1043</integer>
 			</dict>
 		</dict>
-		<string>Precise Increase</string>
+		<string>정밀하게 늘리기</string>
 		<string></string>
 		<string>increaseLeadingMore:</string>
 		<dict>
@@ -16065,7 +16065,7 @@
 				<integer>1056</integer>
 			</dict>
 		</dict>
-		<string>Move To Front</string>
+		<string>맨 앞으로 가져오기</string>
 		<string>]</string>
 		<string>doMoveToFront:</string>
 		<dict>
@@ -16124,7 +16124,7 @@
 				<integer>1061</integer>
 			</dict>
 		</dict>
-		<string>Always Show Selection in Layers Panel </string>
+		<string>항상 레이어 목록에서 선택 항목 나타내기</string>
 		<string>toggleAlwaysShowSelectionInLayersPanel:</string>
 		<dict>
 			<key>$class</key>
@@ -16419,7 +16419,7 @@
 				<integer>1082</integer>
 			</dict>
 		</dict>
-		<string>Move Back One</string>
+		<string>뒤로 보내기</string>
 		<string>[</string>
 		<string>doMoveBackOne:</string>
 		<dict>
@@ -16478,7 +16478,7 @@
 				<integer>1087</integer>
 			</dict>
 		</dict>
-		<string>Use Default</string>
+		<string>기준선 재설정</string>
 		<string>defaultCharacterSpacing:</string>
 		<dict>
 			<key>$class</key>
@@ -16536,7 +16536,7 @@
 				<integer>1091</integer>
 			</dict>
 		</dict>
-		<string>Show Glyph Browser</string>
+		<string>문자 탐색 작업실</string>
 		<string>showGlyphBrowserPage:</string>
 		<dict>
 			<key>$class</key>
@@ -16594,7 +16594,7 @@
 				<integer>1095</integer>
 			</dict>
 		</dict>
-		<string>Welcome...</string>
+		<string>환영...</string>
 		<string>showWelcome:</string>
 		<dict>
 			<key>$class</key>
@@ -16886,7 +16886,7 @@
 				<integer>1115</integer>
 			</dict>
 		</dict>
-		<string>Em Space</string>
+		<string>전각 공백</string>
 		<string>insertEmSpace:</string>
 		<dict>
 			<key>$class</key>
@@ -17005,7 +17005,7 @@
 				<integer>1124</integer>
 			</dict>
 		</dict>
-		<string>Flip Vertical</string>
+		<string>세로 뒤집기</string>
 		<string>doFlipVertical:</string>
 		<dict>
 			<key>$class</key>
@@ -17063,7 +17063,7 @@
 				<integer>1128</integer>
 			</dict>
 		</dict>
-		<string>Figure Dash</string>
+		<string>숫자 줄표</string>
 		<string>insertFigureDash:</string>
 		<dict>
 			<key>$class</key>
@@ -17181,7 +17181,7 @@
 				<integer>1136</integer>
 			</dict>
 		</dict>
-		<string>Unlock All</string>
+		<string>모두 잠금 해제</string>
 		<string>unlockAll:</string>
 		<dict>
 			<key>$class</key>
@@ -17239,7 +17239,7 @@
 				<integer>1140</integer>
 			</dict>
 		</dict>
-		<string>Guides Manager…</string>
+		<string>안내선 관리자…</string>
 		<string>showGuidesManager:</string>
 		<dict>
 			<key>$class</key>
@@ -17528,7 +17528,7 @@
 				<integer>1159</integer>
 			</dict>
 		</dict>
-		<string>Soft Hyphen</string>
+		<string>하이픈</string>
 		<string>toggleSoftHyphen:</string>
 		<dict>
 			<key>$class</key>
@@ -17586,7 +17586,7 @@
 				<integer>1163</integer>
 			</dict>
 		</dict>
-		<string>Flip Horizontal</string>
+		<string>가로 뒤집기</string>
 		<string>doFlipHorizontal:</string>
 		<dict>
 			<key>$class</key>
@@ -17704,7 +17704,7 @@
 				<integer>1171</integer>
 			</dict>
 		</dict>
-		<string>Invert</string>
+		<string>반전</string>
 		<string>invert:</string>
 		<dict>
 			<key>$class</key>
@@ -18051,7 +18051,7 @@
 				<integer>1194</integer>
 			</dict>
 		</dict>
-		<string>Smooth…</string>
+		<string>부드럽게…</string>
 		<string>smoothSelection:</string>
 		<dict>
 			<key>$class</key>
@@ -18167,7 +18167,7 @@
 				<integer>1202</integer>
 			</dict>
 		</dict>
-		<string>Apple Colour Picker...</string>
+		<string>Apple 색상 선택기...</string>
 		<string>showAppleColourPicker:</string>
 		<dict>
 			<key>$class</key>
@@ -18225,7 +18225,7 @@
 				<integer>1206</integer>
 			</dict>
 		</dict>
-		<string>Add</string>
+		<string>추가</string>
 		<string>boolOpUnion:</string>
 		<dict>
 			<key>$class</key>
@@ -18416,7 +18416,7 @@
 				<integer>1800</integer>
 			</dict>
 		</dict>
-		<string>Use All</string>
+		<string>모두 합자</string>
 		<string>allLigatures:</string>
 		<dict>
 			<key>$class</key>
@@ -18534,7 +18534,7 @@
 				<integer>1227</integer>
 			</dict>
 		</dict>
-		<string>Justify</string>
+		<string>맞춤</string>
 		<string>alignYJustify:</string>
 		<dict>
 			<key>$class</key>
@@ -18843,7 +18843,7 @@
 				<integer>1248</integer>
 			</dict>
 		</dict>
-		<string>Tutorial...</string>
+		<string>튜토리얼...</string>
 		<string>showTutorials:</string>
 		<dict>
 			<key>$class</key>
@@ -18901,7 +18901,7 @@
 				<integer>1252</integer>
 			</dict>
 		</dict>
-		<string>Show Paragraph</string>
+		<string>문단 작업실</string>
 		<string>showParagraphsOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -19016,7 +19016,7 @@
 				<integer>1259</integer>
 			</dict>
 		</dict>
-		<string>Ignore Misspelt Word</string>
+		<string>철자 오류 무시</string>
 		<string>ignoreMisSpeltWord:</string>
 		<dict>
 			<key>$class</key>
@@ -19132,7 +19132,7 @@
 				<integer>1267</integer>
 			</dict>
 		</dict>
-		<string>Check Spelling While Typing</string>
+		<string>작성하는 동안 철자 확인</string>
 		<string>toggleCheckSpellingWhileTyping:</string>
 		<dict>
 			<key>$class</key>
@@ -19250,7 +19250,7 @@
 				<integer>1275</integer>
 			</dict>
 		</dict>
-		<string>Close</string>
+		<string>닫기</string>
 		<string>w</string>
 		<string>closeView:</string>
 		<dict>
@@ -19426,7 +19426,7 @@
 				<integer>1287</integer>
 			</dict>
 		</dict>
-		<string>Show Tools</string>
+		<string>도구 나타내기</string>
 		<string>toggleToolsUI:</string>
 		<dict>
 			<key>$class</key>
@@ -19484,7 +19484,7 @@
 				<integer>1291</integer>
 			</dict>
 		</dict>
-		<string>Use None</string>
+		<string>합자 없음</string>
 		<string>noLigatures:</string>
 		<dict>
 			<key>$class</key>
@@ -19600,7 +19600,7 @@
 				<integer>1299</integer>
 			</dict>
 		</dict>
-		<string>Rasterise…</string>
+		<string>래스터화…</string>
 		<string>rasterise:</string>
 		<dict>
 			<key>$class</key>
@@ -19713,7 +19713,7 @@
 				<integer>1307</integer>
 			</dict>
 		</dict>
-		<string>Paste Inside</string>
+		<string>안으로 붙이기</string>
 		<string>pasteInside:</string>
 		<dict>
 			<key>$class</key>
@@ -19771,7 +19771,7 @@
 				<integer>1311</integer>
 			</dict>
 		</dict>
-		<string>Bold</string>
+		<string>볼드체</string>
 		<string>toggleBold:</string>
 		<dict>
 			<key>$class</key>
@@ -19887,7 +19887,7 @@
 				<integer>1319</integer>
 			</dict>
 		</dict>
-		<string>Set No Paragraph Style</string>
+		<string>문단 스타일 벗기기</string>
 		<string>setNoParagraphStyle:</string>
 		<dict>
 			<key>$class</key>
@@ -20005,7 +20005,7 @@
 				<integer>1327</integer>
 			</dict>
 		</dict>
-		<string>Line Break</string>
+		<string>줄바꿈</string>
 		<string>insertLineSeparator:</string>
 		<dict>
 			<key>$class</key>
@@ -20063,7 +20063,7 @@
 				<integer>1331</integer>
 			</dict>
 		</dict>
-		<string>Set No Character Style</string>
+		<string>문자 스타일 벗기기</string>
 		<string>setNoCharacterStyle:</string>
 		<dict>
 			<key>$class</key>
@@ -20179,7 +20179,7 @@
 				<integer>1339</integer>
 			</dict>
 		</dict>
-		<string>Reset Rotation</string>
+		<string>회전 재설정</string>
 		<string>doResetRotation:</string>
 		<dict>
 			<key>$class</key>
@@ -20239,7 +20239,7 @@
 				<integer>1343</integer>
 			</dict>
 		</dict>
-		<string>Subscript</string>
+		<string>아랫첨자</string>
 		<string>toggleSubscript:</string>
 		<dict>
 			<key>$class</key>
@@ -20473,7 +20473,7 @@
 				<integer>1359</integer>
 			</dict>
 		</dict>
-		<string>Create Style</string>
+		<string>스타일 생성</string>
 		<string>addObjectStyle:</string>
 		<dict>
 			<key>$class</key>
@@ -20531,7 +20531,7 @@
 				<integer>1363</integer>
 			</dict>
 		</dict>
-		<string>Delete Character Style</string>
+		<string>문자 스타일 지우기</string>
 		<string>deleteCurrentCharacterStyle:</string>
 		<dict>
 			<key>$class</key>
@@ -20880,7 +20880,7 @@
 				<integer>1386</integer>
 			</dict>
 		</dict>
-		<string>Pixel Size</string>
+		<string>픽셀 크기</string>
 		<string>9</string>
 		<string>doZoomToPixelSize:</string>
 		<dict>
@@ -20941,7 +20941,7 @@
 				<integer>1391</integer>
 			</dict>
 		</dict>
-		<string>Lock</string>
+		<string>잠금</string>
 		<string>setUneditable:</string>
 		<dict>
 			<key>$class</key>
@@ -21060,7 +21060,7 @@
 				<integer>1400</integer>
 			</dict>
 		</dict>
-		<string>Check Spelling</string>
+		<string>철자 확인</string>
 		<string>checkSpelling:</string>
 		<dict>
 			<key>$class</key>
@@ -21120,7 +21120,7 @@
 				<integer>1404</integer>
 			</dict>
 		</dict>
-		<string>Non-Breaking Space</string>
+		<string>줄 바꿈 없는 공백</string>
 		<string> </string>
 		<string>insertNonBreakingSpace:</string>
 		<dict>
@@ -21250,7 +21250,7 @@
 				<integer>1415</integer>
 			</dict>
 		</dict>
-		<string>Align Middle</string>
+		<string>세로 가운데 정렬</string>
 		<string>doAlignVert:</string>
 		<dict>
 			<key>$class</key>
@@ -21308,7 +21308,7 @@
 				<integer>1419</integer>
 			</dict>
 		</dict>
-		<string>Justify All</string>
+		<string>양쪽 균등 정렬</string>
 		<string>alignJustifyAll:</string>
 		<dict>
 			<key>$class</key>
@@ -21482,7 +21482,7 @@
 				<integer>1431</integer>
 			</dict>
 		</dict>
-		<string>Align Centre</string>
+		<string>가로 가운데 정렬</string>
 		<string>doAlignHorz:</string>
 		<dict>
 			<key>$class</key>
@@ -21658,7 +21658,7 @@
 				<integer>1443</integer>
 			</dict>
 		</dict>
-		<string>Move Forward One</string>
+		<string>앞으로 가져오기</string>
 		<string>doMoveForwardOne:</string>
 		<dict>
 			<key>$class</key>
@@ -21832,7 +21832,7 @@
 				<integer>1455</integer>
 			</dict>
 		</dict>
-		<string>Justify Centre</string>
+		<string>가운데 균등 정렬</string>
 		<string>alignJustifyCentre:</string>
 		<dict>
 			<key>$class</key>
@@ -21948,7 +21948,7 @@
 				<integer>1463</integer>
 			</dict>
 		</dict>
-		<string>Subtract</string>
+		<string>제거</string>
 		<string>boolOpSubtract:</string>
 		<dict>
 			<key>$class</key>
@@ -22180,7 +22180,7 @@
 				<integer>1479</integer>
 			</dict>
 		</dict>
-		<string>Italic</string>
+		<string>이탤릭체</string>
 		<string>toggleItalic:</string>
 		<dict>
 			<key>$class</key>
@@ -22238,7 +22238,7 @@
 				<integer>1483</integer>
 			</dict>
 		</dict>
-		<string>Auto Contrast</string>
+		<string>자동 대비</string>
 		<string>autoContrast:</string>
 		<dict>
 			<key>$class</key>
@@ -22412,7 +22412,7 @@
 				<integer>1495</integer>
 			</dict>
 		</dict>
-		<string>Align Top</string>
+		<string>위쪽 정렬</string>
 		<string>doAlignTop:</string>
 		<dict>
 			<key>$class</key>
@@ -22472,7 +22472,7 @@
 				<integer>1499</integer>
 			</dict>
 		</dict>
-		<string>Smaller</string>
+		<string>줄이기</string>
 		<string>decreaseTextHeight:</string>
 		<dict>
 			<key>$class</key>
@@ -22646,7 +22646,7 @@
 				<integer>1511</integer>
 			</dict>
 		</dict>
-		<string>Dock Tools</string>
+		<string>도구 고정</string>
 		<string>dockTools:</string>
 		<dict>
 			<key>$class</key>
@@ -22823,7 +22823,7 @@
 				<integer>1524</integer>
 			</dict>
 		</dict>
-		<string>Rotate Left</string>
+		<string>왼쪽으로 회전</string>
 		<string>doRotateLeft:</string>
 		<dict>
 			<key>$class</key>
@@ -22883,7 +22883,7 @@
 				<integer>1528</integer>
 			</dict>
 		</dict>
-		<string>Show Typography</string>
+		<string>타이포그래피 작업실</string>
 		<string>T</string>
 		<string>showOpenTypeOptions:</string>
 		<dict>
@@ -22942,7 +22942,7 @@
 				<integer>1533</integer>
 			</dict>
 		</dict>
-		<string>Support...</string>
+		<string>지원...</string>
 		<string>showSupport:</string>
 		<dict>
 			<key>$class</key>
@@ -23115,7 +23115,7 @@
 				<integer>1544</integer>
 			</dict>
 		</dict>
-		<string>Move to Next View Point</string>
+		<string>다음 뷰 포인트로 이동</string>
 		<string>nextViewPoint:</string>
 		<dict>
 			<key>$class</key>
@@ -23173,7 +23173,7 @@
 				<integer>1548</integer>
 			</dict>
 		</dict>
-		<string>Insert Filler Text</string>
+		<string>Lorem Ipsum</string>
 		<string>toggleFillerText:</string>
 		<dict>
 			<key>$class</key>
@@ -23231,7 +23231,7 @@
 				<integer>1552</integer>
 			</dict>
 		</dict>
-		<string>Non-Breaking Hyphen</string>
+		<string>줄 바꿈 없는 하이픈</string>
 		<string>insertNonBreakingHyphen:</string>
 		<dict>
 			<key>$class</key>
@@ -23349,7 +23349,7 @@
 				<integer>1560</integer>
 			</dict>
 		</dict>
-		<string>Tighten</string>
+		<string>좁게</string>
 		<string></string>
 		<string>decreaseCharacterSpacing:</string>
 		<dict>
@@ -23821,7 +23821,7 @@
 				<integer>1594</integer>
 			</dict>
 		</dict>
-		<string>Create Paragraph Style</string>
+		<string>문단 스타일 생성</string>
 		<string>createParagraphStyle:</string>
 		<dict>
 			<key>$class</key>
@@ -23995,7 +23995,7 @@
 				<integer>1606</integer>
 			</dict>
 		</dict>
-		<string>Delete Paragraph Style</string>
+		<string>문단 스타일 지우기</string>
 		<string>deleteCurrentParagraphStyle:</string>
 		<dict>
 			<key>$class</key>
@@ -24113,7 +24113,7 @@
 				<integer>1614</integer>
 			</dict>
 		</dict>
-		<string>Em Dash</string>
+		<string>전각 줄표</string>
 		<string>insertEmDash:</string>
 		<dict>
 			<key>$class</key>
@@ -24229,7 +24229,7 @@
 				<integer>1622</integer>
 			</dict>
 		</dict>
-		<string>All Caps</string>
+		<string>모두 대문자</string>
 		<string>allCaps:</string>
 		<dict>
 			<key>$class</key>
@@ -24282,7 +24282,7 @@
 				<integer>1626</integer>
 			</dict>
 		</dict>
-		<string>Delete</string>
+		<string>지우기</string>
 		<string>deleteBackward:</string>
 		<dict>
 			<key>$class</key>
@@ -24340,7 +24340,7 @@
 				<integer>1630</integer>
 			</dict>
 		</dict>
-		<string>Export Persona</string>
+		<string>출력 페르소나</string>
 		<string>exportPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -24453,7 +24453,7 @@
 				<integer>1638</integer>
 			</dict>
 		</dict>
-		<string>Paste FX</string>
+		<string>효과 붙이기</string>
 		<string>pasteFX:</string>
 		<dict>
 			<key>$class</key>
@@ -24571,7 +24571,7 @@
 				<integer>1646</integer>
 			</dict>
 		</dict>
-		<string>New From Clipboard</string>
+		<string>클립보드에서 신규</string>
 		<string>pasteToNewDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -24862,7 +24862,7 @@
 				<integer>1665</integer>
 			</dict>
 		</dict>
-		<string>Increase</string>
+		<string>늘리기</string>
 		<string></string>
 		<string>increaseLeading:</string>
 		<dict>
@@ -24921,7 +24921,7 @@
 				<integer>1670</integer>
 			</dict>
 		</dict>
-		<string>Detach and Delete All Styles</string>
+		<string>모든 스타일 벗기고 삭제</string>
 		<string>detachAndDeleteAll:</string>
 		<dict>
 			<key>$class</key>
@@ -25098,7 +25098,7 @@
 				<integer>1683</integer>
 			</dict>
 		</dict>
-		<string>Small Caps</string>
+		<string>작은 대문자</string>
 		<string>smallCaps:</string>
 		<dict>
 			<key>$class</key>
@@ -25214,7 +25214,7 @@
 				<integer>1691</integer>
 			</dict>
 		</dict>
-		<string>Develop Persona</string>
+		<string>개발 페르소나</string>
 		<string>developPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -25272,7 +25272,7 @@
 				<integer>1695</integer>
 			</dict>
 		</dict>
-		<string>Tone Mapping Persona</string>
+		<string>톤 맵핑 페르소나</string>
 		<string>HDRPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -25332,7 +25332,7 @@
 				<integer>1699</integer>
 			</dict>
 		</dict>
-		<string>Loosen More</string>
+		<string>더 넓게</string>
 		<string></string>
 		<string>increaseCharacterSpacingMore:</string>
 		<dict>
@@ -25627,7 +25627,7 @@
 				<integer>1720</integer>
 			</dict>
 		</dict>
-		<string>Feather…</string>
+		<string>깃털…</string>
 		<string></string>
 		<string>featherSelection:</string>
 		<dict>
@@ -25686,7 +25686,7 @@
 				<integer>1725</integer>
 			</dict>
 		</dict>
-		<string>Top</string>
+		<string>위로</string>
 		<string>alignYTop:</string>
 		<dict>
 			<key>$class</key>
@@ -28384,7 +28384,7 @@
 				<integer>1744</integer>
 			</dict>
 		</dict>
-		<string>Persona</string>
+		<string>페르소나</string>
 		<string>submenuAction:</string>
 		<dict>
 			<key>$class</key>
@@ -28629,7 +28629,7 @@
 				<integer>1751</integer>
 			</dict>
 		</dict>
-		<string>Services</string>
+		<string>서비스</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28794,7 +28794,7 @@
 				<integer>1759</integer>
 			</dict>
 		</dict>
-		<string>File</string>
+		<string>파일</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29534,7 +29534,7 @@
 				<integer>1775</integer>
 			</dict>
 		</dict>
-		<string>Edit</string>
+		<string>편집</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29786,7 +29786,7 @@
 				<integer>1781</integer>
 			</dict>
 		</dict>
-		<string>Defaults</string>
+		<string>기본값</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29862,7 +29862,7 @@
 				<integer>1784</integer>
 			</dict>
 		</dict>
-		<string>Text</string>
+		<string>문자</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30076,8 +30076,8 @@
 				<integer>1788</integer>
 			</dict>
 		</dict>
-		<string>Character Traits</string>
-		<string>Character Traits</string>
+		<string>문자 특성</string>
+		<string>문자 특성</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30154,7 +30154,7 @@
 				<integer>1793</integer>
 			</dict>
 		</dict>
-		<string>Size</string>
+		<string>크기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30230,7 +30230,7 @@
 				<integer>1796</integer>
 			</dict>
 		</dict>
-		<string>Spacing</string>
+		<string>공간</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30356,7 +30356,7 @@
 				<integer>1800</integer>
 			</dict>
 		</dict>
-		<string>Ligatures</string>
+		<string>합자</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30428,7 +30428,7 @@
 				<integer>1803</integer>
 			</dict>
 		</dict>
-		<string>Baseline</string>
+		<string>기준선</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30500,8 +30500,8 @@
 				<integer>1806</integer>
 			</dict>
 		</dict>
-		<string>Capitalisation</string>
-		<string>Capitalisation</string>
+		<string>대문자화</string>
+		<string>대문자화</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30611,7 +30611,7 @@
 				<integer>1811</integer>
 			</dict>
 		</dict>
-		<string>Alignment</string>
+		<string>정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30856,8 +30856,8 @@
 				<integer>1820</integer>
 			</dict>
 		</dict>
-		<string>Text Styles</string>
-		<string>Text Styles</string>
+		<string>텍스트 스타일</string>
+		<string>텍스트 스타일</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31083,8 +31083,8 @@
 				<integer>1827</integer>
 			</dict>
 		</dict>
-		<string>Insert Character</string>
-		<string>Insert Character</string>
+		<string>문자 삽입</string>
+		<string>문자 삽입</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31348,8 +31348,8 @@
 				<integer>1835</integer>
 			</dict>
 		</dict>
-		<string>Vertical Alignment</string>
-		<string>Vertical Alignment</string>
+		<string>세로 정렬</string>
+		<string>세로 정렬</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31463,7 +31463,7 @@
 				<integer>1840</integer>
 			</dict>
 		</dict>
-		<string>Spelling</string>
+		<string>철자</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32308,7 +32308,7 @@
 				<integer>1864</integer>
 			</dict>
 		</dict>
-		<string>Layer</string>
+		<string>레이어</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33593,7 +33593,7 @@
 				<integer>1897</integer>
 			</dict>
 		</dict>
-		<string>Geometry</string>
+		<string>기하</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33673,7 +33673,7 @@
 				<integer>1900</integer>
 			</dict>
 		</dict>
-		<string>Select</string>
+		<string>선택</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34012,8 +34012,8 @@
 				<integer>1910</integer>
 			</dict>
 		</dict>
-		<string>Colour Range</string>
-		<string>Colour Range</string>
+		<string>색상 영역</string>
+		<string>색상 영역</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34085,7 +34085,7 @@
 				<integer>1914</integer>
 			</dict>
 		</dict>
-		<string>Tonal Range</string>
+		<string>색조 영역</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34306,7 +34306,7 @@
 				<integer>1923</integer>
 			</dict>
 		</dict>
-		<string>Arrange</string>
+		<string>순서</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35405,7 +35405,7 @@
 				<integer>1955</integer>
 			</dict>
 		</dict>
-		<string>Colours</string>
+		<string>색상</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35654,7 +35654,7 @@
 				<integer>1961</integer>
 			</dict>
 		</dict>
-		<string>View</string>
+		<string>뷰</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36378,7 +36378,7 @@
 				<integer>1976</integer>
 			</dict>
 		</dict>
-		<string>Window</string>
+		<string>윈도우</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36545,7 +36545,7 @@
 				<integer>1981</integer>
 			</dict>
 		</dict>
-		<string>Bring All to Front</string>
+		<string>모두 앞으로 가져오기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36707,7 +36707,7 @@
 				<integer>1989</integer>
 			</dict>
 		</dict>
-		<string>Help</string>
+		<string>도움말</string>
 		<dict>
 			<key>$class</key>
 			<dict>
