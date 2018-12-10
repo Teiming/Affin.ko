@@ -1,6 +1,8 @@
 s/>Actual Size</>실제 크기</
 s/>Add Colour to Swatch</>색상을 견본에 추가</
+s/>Add Document Snapshot</>문서 스냅샷 추가</
 s/>Add Global Colour…</>전역 색상 추가…</
+s/>Add Snapshot</>스냅샷 추가</
 s/>Add to Swatches…</>견본에 추가…</
 s/>Add</>추가</
 s/>Affinity Photo Help</>Affinity Photo 도움말</
@@ -36,6 +38,7 @@ s/>Auto Levels</>자동 레벨</
 s/>Auto White Balance</>자동 화이트 밸런스</
 s/>Auto-scroll</>자동 스크롤</
 s/>Back One</>뒤로 보내기</
+s/>Balance</>밸런스</
 s/>Baseline</>기준선</
 s/>Basic</>기본</
 s/>Before \/ After</>이전 \/ 이후</
@@ -88,6 +91,7 @@ s/>Colour</>색상</
 s/>Colours</>색상</
 s/>Combine toolbar button</>배타 툴바 버튼</
 s/>Combine</>배타</
+s/>Constraints</>제약</
 s/>Context</>문단</
 s/>Convert Artboard to Object</>아트보드를 오브젝트로 전환</
 s/>Convert Object to Artboard</>오브젝트를 아트보드로 전환</
@@ -114,6 +118,7 @@ s/>Delete Character Style</>문자 스타일 지우기</
 s/>Delete Colour</>색상 지우기</
 s/>Delete Palette</>팔레트 지우기</
 s/>Delete Paragraph Style</>문단 스타일 지우기</
+s/>Delete Snapshot</>스냅샷 지우기</
 s/>Delete</>지우기</
 s/>Depth:</>깊이:</
 s/>Depth</>깊이</
@@ -192,6 +197,7 @@ s/>Help</>도움말</
 s/>Hide Others</>기타 가리기</
 s/>Hide Studio</>작업실 가리기</
 s/>Hide</>가리기</
+s/>History</>편집 기록</
 s/>Hold</>유지</
 s/>Home</>홈</
 s/>Ignore Misspelt Word</>철자 오류 무시</
@@ -227,6 +233,7 @@ s/>Layer Colour:</>레이어 색상:</
 s/>Layer Effects…</>레이어 효과…</
 s/>Layer Name:</>레이어 이름:</
 s/>Layer</>레이어</
+s/>Layers</>레이어</
 s/>Layout Persona</>구조 페르소나</
 s/>Layout</>구조</
 s/>Learn Spelling</>철자 학습</
@@ -265,13 +272,16 @@ s/>Move to Back</>맨 뒤로 보내기</
 s/>Move to Front</>맨 앞으로 가져오기</
 s/>Move to Next View Point</>다음 뷰 포인트로 이동</
 s/>Move to Previous View Point</>이전 뷰 포인트로 이동</
+s/>Navigator</>네비게이터</
 s/>New Adjustment</>새로운 조정</
+s/>New Document From Snapshot</>스냅샷으로부터 신규 문서</
 s/>New From Clipboard</>클립보드에서 신규</
 s/>New Layer</>새로운 레이어</
 s/>New Pixel Layer</>새로운 픽셀 레이어</
 s/>New View</>새로운 뷰</
 s/>New</>신규</
 s/>News</>뉴스</
+s/>No Snapshot</>스냅샷 없음</
 s/>No</>아니오</
 s/>Non-Breaking Hyphen</>줄 바꿈 없는 하이픈</
 s/>Non-Breaking Space</>줄 바꿈 없는 공백</
@@ -288,6 +298,7 @@ s/>Outline</>윤곽</
 s/>Outline…</>윤곽…</
 s/>Panorama Persona</>파노라마 페르소나</
 s/>Panorama</>파노라마</
+s/>Paragraph</>문단</
 s/>Paste FX</>효과 붙이기</
 s/>Paste Inside</>안으로 붙이기</
 s/>Paste Style</>스타일 붙이기</
@@ -339,6 +350,7 @@ s/>Rename Palette...</>팔레트 이름 변경...</
 s/>Reset Rotation</>회전 재설정</
 s/>Reset Selection Box</>선택 항목 상자 재설정</
 s/>Reset Studio</>작업실 재설정</
+s/>Restore Snapshot</>스냅샷 복원</
 s/>Retina Pixels</>레티나 픽셀</
 s/>Retina pixel view mode</>레티나 픽셀 뷰 모드</
 s/>Reveal in Finder</>Finder에서 찾기</
@@ -404,6 +416,10 @@ s/>Smooth…</>부드럽게…</
 s/>Snapping Manager…</>스내핑 관리자…</
 s/>Snapping Options</>스내핑 설정</
 s/>Snapping</>스내핑</
+s/>Snapshot</>스냅샷</
+s/>Snapshots Studio</>스냅샷 작업실</
+s/>Snapshots</>스냅샷</
+s/>Snp</>스냅</
 s/>Soft Hyphen</>하이픈</
 s/>Soft Proof</>미리보기</
 s/>Sort</>정렬</
@@ -420,6 +436,7 @@ s/>Strikeout</>취소선</
 s/>Stroke</>획</
 s/>Studio</>작업실</
 s/>Style</>스타일</
+s/>Styles</>스타일</
 s/>Subscript</>아랫첨자</
 s/>Subtract toolbar button</>제거 툴바 버튼</
 s/>Subtract</>제거</
@@ -428,6 +445,8 @@ s/>Superscript</>윗첨자</
 s/>Support...</>지원...</
 s/>Swatches</>견본</
 s/>Switch to Next View</>다음 뷰로 전환</
+s/>Symbols Studio</>상징 작업실</
+s/>Symbols</>상징</
 s/>Sync After</>이후 항목 동기화</
 s/>Sync Before</>이전 항목 동기화</
 s/>Synchronise Defaults</>기본값 동기화</
@@ -480,6 +499,7 @@ s/>White to transparent</>하양에서 투명</
 s/>White</>하양</
 s/>Width:</>두께:</
 s/>Window</>윈도우</
+s/>Yellow</>노랑</
 s/>Yes</>예</
 s/>Zero Width Space</>폭 없는 공백</
 s/>Zoom In</>확대</

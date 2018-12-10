@@ -2135,17 +2135,17 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Brushes Studio [Studio View]</key>
 	<string>Brushes Studio</string>
 	<key>Brushes [Brushes New Category Name]</key>
-	<string>Brushes</string>
+	<string>붓</string>
 	<key>Brushes [Main Controls Tooltip]</key>
-	<string>Brushes</string>
+	<string>붓</string>
 	<key>Brushes [Main Controls]</key>
-	<string>Brushes</string>
+	<string>붓</string>
 	<key>Brushes [Page title]</key>
-	<string>Brushes</string>
+	<string>붓</string>
 	<key>Brushes [Preferences misc search term]</key>
-	<string>Brushes</string>
+	<string>붓</string>
 	<key>Brushes [Reset brushes]</key>
-	<string>Brushes</string>
+	<string>붓</string>
 	<key>Brushes restored to factory settings [Reset brushes]</key>
 	<string>Brushes restored to factory settings</string>
 	<key>Bsc [Short page title]</key>
@@ -4253,7 +4253,7 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Effects Studio [Studio View]</key>
 	<string>Effects Studio</string>
 	<key>Effects [Page title]</key>
-	<string>Effects</string>
+	<string>효과</string>
 	<key>Elevation [Bevel / Emboss filter effect tool reflection]</key>
 	<string>Elevation</string>
 	<key>Elevation [Lighting reflection]</key>
@@ -4319,7 +4319,7 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Emboss [Main Controls]</key>
 	<string>Emboss</string>
 	<key>Emphasis [Text style]</key>
-	<string>Emphasis</string>
+	<string>강조</string>
 	<key>Enable Node Tool Snapping Options [Command description]</key>
 	<string>Enable Node Tool Snapping Options</string>
 	<key>Enable Snapping [Command description]</key>
@@ -4423,23 +4423,23 @@ Attribute names must be unique</string>
 	<key>Entire document [Printing Accessory Panel]</key>
 	<string>Entire document</string>
 	<key>Entropy [Stack group reflection]</key>
-	<string>Entropy</string>
+	<string>엔트로피</string>
 	<key>Equation Colour Space [Apply image tool reflection]</key>
 	<string>Equation Colour Space</string>
 	<key>Equation Transform Tool [Tool description]</key>
 	<string>Equation Transform Tool</string>
 	<key>Equations [Apply image tool reflection]</key>
-	<string>Equations</string>
+	<string>수식</string>
 	<key>Equations [Command description]</key>
-	<string>Equations</string>
+	<string>수식</string>
 	<key>Equations [Filters Page]</key>
-	<string>Equations</string>
+	<string>수식</string>
 	<key>Equations [Filters]</key>
-	<string>Equations</string>
+	<string>수식</string>
 	<key>Equations [Main Controls Tooltip]</key>
-	<string>Equations</string>
+	<string>수식</string>
 	<key>Equations [Main Controls]</key>
-	<string>Equations</string>
+	<string>수식</string>
 	<key>Equirectangular Projection Tool [Tool description]</key>
 	<string>Equirectangular Projection Tool</string>
 	<key>Equirectangular Projection [Main Controls]</key>
@@ -4467,15 +4467,15 @@ Attribute names must be unique</string>
 	<key>Erase White Paper [Main Controls]</key>
 	<string>Erase White Paper</string>
 	<key>Erase [Blend Modes]</key>
-	<string>Erase</string>
+	<string>지우기</string>
 	<key>Erase [Main Controls Tooltip]</key>
-	<string>Erase</string>
+	<string>지우기</string>
 	<key>Erase [Main Controls]</key>
-	<string>Erase</string>
+	<string>지우기</string>
 	<key>Erase [Raster pixel tool reflection]</key>
-	<string>Erase</string>
+	<string>지우기</string>
 	<key>Erase [Reflected enum]</key>
-	<string>Erase</string>
+	<string>지우기</string>
 	<key>Errors occured while exporting [Export errors]</key>
 	<string>Errors occured while exporting</string>
 	<key>Errors occured while saving [Export errors]</key>
@@ -4487,13 +4487,13 @@ Attribute names must be unique</string>
 	<key>Ethiopic [Glyph Ranges]</key>
 	<string>Ethiopic</string>
 	<key>Europe [Assistant Options View]</key>
-	<string>Europe</string>
+	<string>유럽</string>
 	<key>Even Page [Hard break description]</key>
 	<string>Even Page</string>
 	<key>Even [Select Tool - Paths Group Spacing - even]</key>
 	<string>Even</string>
 	<key>Everything [Export Page]</key>
-	<string>Everything</string>
+	<string>모두</string>
 	<key>Exabytes [Unit Types]</key>
 	<string>Exabytes</string>
 	<key>Exactly [Leading Combo]</key>
@@ -4515,11 +4515,11 @@ Attribute names must be unique</string>
 	<key>Expand selection [Command description]</key>
 	<string>Expand selection</string>
 	<key>Expand stroke [Command description]</key>
-	<string>Expand stroke</string>
+	<string>획 펼치기</string>
 	<key>Expand stroke [Main Controls Tooltip]</key>
-	<string>Expand stroke</string>
+	<string>획 펼치기</string>
 	<key>Expand stroke [Main Controls]</key>
-	<string>Expand stroke</string>
+	<string>획 펼치기</string>
 	<key>Expand stroke core command [Command description]</key>
 	<string>Expand stroke core command</string>
 	<key>Expanded [Font width]</key>
@@ -4539,9 +4539,9 @@ Attribute names must be unique</string>
 	<key>Export Brushes… [export brushes string]</key>
 	<string>Export Brushes…</string>
 	<key>Export LUT [Main Controls Tooltip]</key>
-	<string>Export LUT</string>
+	<string>LUT 출력</string>
 	<key>Export LUT [Main Controls]</key>
-	<string>Export LUT</string>
+	<string>LUT 출력</string>
 	<key>Export Options [Page title]</key>
 	<string>Export Options</string>
 	<key>Export Single Item [Slices page message title]</key>
@@ -4607,7 +4607,7 @@ Attribute names must be unique</string>
 	<key>Exposure mode: [Camera Page]</key>
 	<string>Exposure mode:</string>
 	<key>Exposure: [Camera Page]</key>
-	<string>Exposure:</string>
+	<string>노출:</string>
 	<key>Extend Mode [Reflected property]</key>
 	<string>Extend Mode</string>
 	<key>Extend curve [Command description]</key>
@@ -6287,21 +6287,21 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Left Point [Shape tool reflection]</key>
 	<string>Left Point</string>
 	<key>Left [Alignment title]</key>
-	<string>Left</string>
+	<string>왼쪽</string>
 	<key>Left [Alignment tool reflection]</key>
-	<string>Left</string>
+	<string>왼쪽</string>
 	<key>Left [Paragraph control title]</key>
-	<string>Left</string>
+	<string>왼쪽</string>
 	<key>Left [Side context toolbar]</key>
-	<string>Left</string>
+	<string>왼쪽</string>
 	<key>Left [Slice tool context toolbar control title]</key>
-	<string>Left</string>
+	<string>왼쪽</string>
 	<key>Left [Slice tool context toolbar control tooltip]</key>
-	<string>Left</string>
+	<string>왼쪽</string>
 	<key>Left [Slice tool reflection]</key>
-	<string>Left</string>
+	<string>왼쪽</string>
 	<key>Left [Text align type]</key>
-	<string>Left</string>
+	<string>왼쪽</string>
 	<key>Left curve [Left curve context toolbar]</key>
 	<string>Left curve</string>
 	<key>Left curve: [Left curve context toolbar]</key>
@@ -9155,7 +9155,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Red saturation [Reflectable property]</key>
 	<string>Red saturation</string>
 	<key>Redo %@ [Menu]</key>
-	<string>Redo %@</string>
+	<string>%@ 다시 실행</string>
 	<key>Redo [Command description]</key>
 	<string>다시 실행</string>
 	<key>Redo [Main Controls Tooltip]</key>
@@ -9571,21 +9571,21 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Right Point [Shape tool reflection]</key>
 	<string>Right Point</string>
 	<key>Right [Alignment title]</key>
-	<string>Right</string>
+	<string>오른쪽</string>
 	<key>Right [Alignment tool reflection]</key>
-	<string>Right</string>
+	<string>오른쪽</string>
 	<key>Right [Paragraph control title]</key>
-	<string>Right</string>
+	<string>오른쪽</string>
 	<key>Right [Side context toolbar]</key>
-	<string>Right</string>
+	<string>오른쪽</string>
 	<key>Right [Slice tool context toolbar control title]</key>
-	<string>Right</string>
+	<string>오른쪽</string>
 	<key>Right [Slice tool context toolbar control tooltip]</key>
-	<string>Right</string>
+	<string>오른쪽</string>
 	<key>Right [Slice tool reflection]</key>
-	<string>Right</string>
+	<string>오른쪽</string>
 	<key>Right [Text align type]</key>
-	<string>Right</string>
+	<string>오른쪽</string>
 	<key>Right curve [Right curve context toolbar]</key>
 	<string>Right curve</string>
 	<key>Right curve: [Right curve context toolbar]</key>
@@ -11783,11 +11783,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Stroke Studio [Studio View]</key>
 	<string>Stroke Studio</string>
 	<key>Stroke [Fill Context]</key>
-	<string>Stroke</string>
+	<string>획</string>
 	<key>Stroke [Page Title]</key>
-	<string>Stroke</string>
+	<string>획</string>
 	<key>Stroke [Stroke Page]</key>
-	<string>Stroke</string>
+	<string>획</string>
 	<key>Stroke alignment: Centre [Command description]</key>
 	<string>Stroke alignment: Centre</string>
 	<key>Stroke alignment: Inside [Command description]</key>
@@ -11929,11 +11929,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Swatch category '%@' already exists [Import style category alert message]</key>
 	<string>Swatch category '%@' already exists</string>
 	<key>Swatches [Colour Page]</key>
-	<string>Swatches</string>
+	<string>견본</string>
 	<key>Swatches [Page title]</key>
-	<string>Swatches</string>
+	<string>견본</string>
 	<key>Swatches [Swatches Page]</key>
-	<string>Swatches</string>
+	<string>견본</string>
 	<key>Swicth to black and white fills [Command description]</key>
 	<string>Swicth to black and white fills</string>
 	<key>Switch [Noise-Alpha slider on colour page]</key>
@@ -12951,7 +12951,7 @@ View point with that name already exists.</string>
 	<key>Underline colour [Command description]</key>
 	<string>Underline colour</string>
 	<key>Undo %@ [Menu]</key>
-	<string>Undo %@</string>
+	<string>%@ 실행 취소</string>
 	<key>Undo Brush Tool [Main Controls Tooltip]</key>
 	<string>Undo Brush Tool</string>
 	<key>Undo Brush Tool [Raster undo brush, no source warning message title]</key>

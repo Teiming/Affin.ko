@@ -861,6 +861,30 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Brush</string>
 ---
 > 	<string>붓</string>
+2138c2138
+< 	<string>Brushes</string>
+---
+> 	<string>붓</string>
+2140c2140
+< 	<string>Brushes</string>
+---
+> 	<string>붓</string>
+2142c2142
+< 	<string>Brushes</string>
+---
+> 	<string>붓</string>
+2144c2144
+< 	<string>Brushes</string>
+---
+> 	<string>붓</string>
+2146c2146
+< 	<string>Brushes</string>
+---
+> 	<string>붓</string>
+2148c2148
+< 	<string>Brushes</string>
+---
+> 	<string>붓</string>
 2288c2288
 < 	<string>Cancel</string>
 ---
@@ -1405,6 +1429,90 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Edit</string>
 ---
 > 	<string>편집</string>
+4256c4256
+< 	<string>Effects</string>
+---
+> 	<string>효과</string>
+4322c4322
+< 	<string>Emphasis</string>
+---
+> 	<string>강조</string>
+4426c4426
+< 	<string>Entropy</string>
+---
+> 	<string>엔트로피</string>
+4432c4432
+< 	<string>Equations</string>
+---
+> 	<string>수식</string>
+4434c4434
+< 	<string>Equations</string>
+---
+> 	<string>수식</string>
+4436c4436
+< 	<string>Equations</string>
+---
+> 	<string>수식</string>
+4438c4438
+< 	<string>Equations</string>
+---
+> 	<string>수식</string>
+4440c4440
+< 	<string>Equations</string>
+---
+> 	<string>수식</string>
+4442c4442
+< 	<string>Equations</string>
+---
+> 	<string>수식</string>
+4470c4470
+< 	<string>Erase</string>
+---
+> 	<string>지우기</string>
+4472c4472
+< 	<string>Erase</string>
+---
+> 	<string>지우기</string>
+4474c4474
+< 	<string>Erase</string>
+---
+> 	<string>지우기</string>
+4476c4476
+< 	<string>Erase</string>
+---
+> 	<string>지우기</string>
+4478c4478
+< 	<string>Erase</string>
+---
+> 	<string>지우기</string>
+4490c4490
+< 	<string>Europe</string>
+---
+> 	<string>유럽</string>
+4496c4496
+< 	<string>Everything</string>
+---
+> 	<string>모두</string>
+4518c4518
+< 	<string>Expand stroke</string>
+---
+> 	<string>획 펼치기</string>
+4520c4520
+< 	<string>Expand stroke</string>
+---
+> 	<string>획 펼치기</string>
+4522c4522
+< 	<string>Expand stroke</string>
+---
+> 	<string>획 펼치기</string>
+4542c4542
+< 	<string>Export LUT</string>
+---
+> 	<string>LUT 출력</string>
+4544c4544
+< 	<string>Export LUT</string>
+---
+> 	<string>LUT 출력</string>
 4590c4590
 < 	<string>Exposure</string>
 ---
@@ -1437,6 +1545,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
+4610c4610
+< 	<string>Exposure:</string>
+---
+> 	<string>노출:</string>
 4656c4656
 < 	<string>Factory Reset</string>
 ---
@@ -1669,6 +1781,38 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Layout</string>
 ---
 > 	<string>구조</string>
+6290c6290
+< 	<string>Left</string>
+---
+> 	<string>왼쪽</string>
+6292c6292
+< 	<string>Left</string>
+---
+> 	<string>왼쪽</string>
+6294c6294
+< 	<string>Left</string>
+---
+> 	<string>왼쪽</string>
+6296c6296
+< 	<string>Left</string>
+---
+> 	<string>왼쪽</string>
+6298c6298
+< 	<string>Left</string>
+---
+> 	<string>왼쪽</string>
+6300c6300
+< 	<string>Left</string>
+---
+> 	<string>왼쪽</string>
+6302c6302
+< 	<string>Left</string>
+---
+> 	<string>왼쪽</string>
+6304c6304
+< 	<string>Left</string>
+---
+> 	<string>왼쪽</string>
 6350c6350
 < 	<string>Lens Filter</string>
 ---
@@ -2261,6 +2405,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Recolour</string>
 ---
 > 	<string>재색상</string>
+9158c9158
+< 	<string>Redo %@</string>
+---
+> 	<string>%@ 다시 실행</string>
 9160c9160
 < 	<string>Redo</string>
 ---
@@ -2293,6 +2441,38 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Revert</string>
 ---
 > 	<string>되돌리기</string>
+9574c9574
+< 	<string>Right</string>
+---
+> 	<string>오른쪽</string>
+9576c9576
+< 	<string>Right</string>
+---
+> 	<string>오른쪽</string>
+9578c9578
+< 	<string>Right</string>
+---
+> 	<string>오른쪽</string>
+9580c9580
+< 	<string>Right</string>
+---
+> 	<string>오른쪽</string>
+9582c9582
+< 	<string>Right</string>
+---
+> 	<string>오른쪽</string>
+9584c9584
+< 	<string>Right</string>
+---
+> 	<string>오른쪽</string>
+9586c9586
+< 	<string>Right</string>
+---
+> 	<string>오른쪽</string>
+9588c9588
+< 	<string>Right</string>
+---
+> 	<string>오른쪽</string>
 9626c9626
 < 	<string>Rotate Anticlockwise</string>
 ---
@@ -2493,6 +2673,18 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Strikeout</string>
 ---
 > 	<string>취소선</string>
+11786c11786
+< 	<string>Stroke</string>
+---
+> 	<string>획</string>
+11788c11788
+< 	<string>Stroke</string>
+---
+> 	<string>획</string>
+11790c11790
+< 	<string>Stroke</string>
+---
+> 	<string>획</string>
 11806c11806
 < 	<string>Style</string>
 ---
@@ -2625,6 +2817,18 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Superscript</string>
 ---
 > 	<string>윗첨자</string>
+11932c11932
+< 	<string>Swatches</string>
+---
+> 	<string>견본</string>
+11934c11934
+< 	<string>Swatches</string>
+---
+> 	<string>견본</string>
+11936c11936
+< 	<string>Swatches</string>
+---
+> 	<string>견본</string>
 11962c11962
 < 	<string>Sync After</string>
 ---
@@ -2777,6 +2981,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Underline</string>
 ---
 > 	<string>밑줄</string>
+12954c12954
+< 	<string>Undo %@</string>
+---
+> 	<string>%@ 실행 취소</string>
 12968c12968
 < 	<string>Undo</string>
 ---
@@ -2990,7 +3198,27 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenImageAccessoryViewController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenTypeWindowController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OutlineSelection.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: Page Setup.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PageSetup.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PageSetup.nib
+604c604
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+4683c4683
+< 		<string>Default</string>
+---
+> 		<string>기본값</string>
+5770c5770
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+7643c7643
+< 		<string>Photo</string>
+---
+> 		<string>사진</string>
+8642c8642
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PageSetupWindowController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PagesPage.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PaletteModel.nib
@@ -3025,10 +3253,38 @@ Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ShadowsHighlightsEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ShearEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SmoothSelection.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SnappingOptions.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnappingOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnappingOptions.nib
+224c224
+< 		<string>Snapping</string>
+---
+> 		<string>스내핑</string>
+376c376
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SnappingOptionsViewController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SnapshotItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SnapshotsPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnapshotsPage.nib
+1055c1055
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2754c2754
+< 		<string>Add Snapshot</string>
+---
+> 		<string>스냅샷 추가</string>
+2786c2786
+< 		<string>Delete Snapshot</string>
+---
+> 		<string>스냅샷 지우기</string>
+2809c2809
+< 		<string>New Document From Snapshot</string>
+---
+> 		<string>스냅샷으로부터 신규 문서</string>
+2832c2832
+< 		<string>Restore Snapshot</string>
+---
+> 		<string>스냅샷 복원</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SpellingWindowController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SphereEffect.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: StockPage.nib
