@@ -1,1 +1,1 @@
-cp ~/Downloads/Affinity-in-Korean/*.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/
+cp ~/Downloads/Affinity-in-Korean/ /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/
