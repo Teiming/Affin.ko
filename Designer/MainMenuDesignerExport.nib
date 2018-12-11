@@ -1255,7 +1255,7 @@
 			</dict>
 		</dict>
 		<string>기타 가리기</string>
-		<string>h</string>
+		<string>[변화 없음]</string>
 		<string>hideOtherApplications:</string>
 		<dict>
 			<key>$class</key>
@@ -1445,7 +1445,7 @@
 				<integer>86</integer>
 			</dict>
 		</dict>
-		<string>모두 나타내기</string>
+		<string>모두 보기</string>
 		<string>unhideAllApplications:</string>
 		<dict>
 			<key>$class</key>
@@ -1500,7 +1500,7 @@
 				<integer>90</integer>
 			</dict>
 		</dict>
-		<string>Designer 가리기</string>
+		<string>가리기</string>
 		<string>hide:</string>
 		<dict>
 			<key>$class</key>
@@ -1558,7 +1558,7 @@
 				<integer>94</integer>
 			</dict>
 		</dict>
-		<string>Designer에 관하여…</string>
+		<string>Affinity Designer에 관하여…</string>
 		<string>showAboutDialog:</string>
 		<dict>
 			<key>$class</key>
@@ -1636,7 +1636,7 @@
 			</dict>
 		</dict>
 		<string>다른 이름으로 저장…</string>
-		<string>S</string>
+		<string>[스타일 없음]</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1710,7 +1710,7 @@
 			</dict>
 		</dict>
 		<string>저장</string>
-		<string>s</string>
+		<string>[변화 없음]</string>
 		<string>saveDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -1832,7 +1832,7 @@
 			</dict>
 		</dict>
 		<string>신규</string>
-		<string>n</string>
+		<string>[변화 없음]</string>
 		<string>newDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -1893,7 +1893,7 @@
 			</dict>
 		</dict>
 		<string>열기…</string>
-		<string>o</string>
+		<string>[스타일 없음]</string>
 		<string>openDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -1954,7 +1954,7 @@
 			</dict>
 		</dict>
 		<string>인쇄…</string>
-		<string>p</string>
+		<string>[교체]</string>
 		<string>print:</string>
 		<dict>
 			<key>$class</key>
@@ -2168,7 +2168,7 @@
 			</dict>
 		</dict>
 		<string>툴바 나타내기</string>
-		<string>t</string>
+		<string>[스타일 없음]</string>
 		<string>toggleToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -2679,7 +2679,7 @@
 			</dict>
 		</dict>
 		<string>픽셀</string>
-		<string>y</string>
+		<string>[스타일 없음]</string>
 		<string>showPixelPreview:</string>
 		<dict>
 			<key>$class</key>
@@ -3082,7 +3082,7 @@
 			</dict>
 		</dict>
 		<string>눈금자 나타내기</string>
-		<string>r</string>
+		<string>[교체]</string>
 		<string>toggleRulers:</string>
 		<dict>
 			<key>$class</key>
@@ -3277,7 +3277,7 @@
 			</dict>
 		</dict>
 		<string>전체 선택</string>
-		<string>a</string>
+		<string>[변화 없음]</string>
 		<string>selectAll:</string>
 		<dict>
 			<key>$class</key>
@@ -3508,7 +3508,7 @@
 				<integer>439</integer>
 			</dict>
 		</dict>
-		<string>Redo</string>
+		<string>다시 실행</string>
 		<string>Z</string>
 		<string>doRedo:</string>
 		<dict>
@@ -3619,7 +3619,7 @@
 			</dict>
 		</dict>
 		<string>복사</string>
-		<string>c</string>
+		<string>[변화 없음]</string>
 		<string>copy:</string>
 		<dict>
 			<key>$class</key>
@@ -4180,7 +4180,7 @@
 				<integer>300</integer>
 			</dict>
 		</dict>
-		<string>Undo</string>
+		<string>실행 취소</string>
 		<string>z</string>
 		<string>doUndo:</string>
 		<dict>
@@ -4477,7 +4477,7 @@
 			</dict>
 		</dict>
 		<string>클립보드에서 신규</string>
-		<string>N</string>
+		<string>[스타일 없음]</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5168,7 +5168,7 @@
 				<integer>376</integer>
 			</dict>
 		</dict>
-		<string>Clip to Canvas</string>
+		<string>캔버스에 클립</string>
 		<string>\</string>
 		<string>setClipToPage:</string>
 		<dict>

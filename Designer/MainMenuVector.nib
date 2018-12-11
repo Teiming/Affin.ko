@@ -2024,7 +2024,7 @@
 			</dict>
 		</dict>
 		<string>기타 가리기</string>
-		<string>h</string>
+		<string>[변화 없음]</string>
 		<string>hideOtherApplications:</string>
 		<dict>
 			<key>$class</key>
@@ -2327,7 +2327,7 @@
 				<integer>99</integer>
 			</dict>
 		</dict>
-		<string>About…</string>
+		<string>Affinity Designer에 관하여…</string>
 		<string>showAboutDialog:</string>
 		<dict>
 			<key>$class</key>
@@ -2404,7 +2404,7 @@
 				<integer>1234</integer>
 			</dict>
 		</dict>
-		<string>실행 취소</string>
+		<string>다시 실행</string>
 		<string>Z</string>
 		<string>doRedo:</string>
 		<dict>
@@ -2461,7 +2461,7 @@
 			</dict>
 		</dict>
 		<string>복사</string>
-		<string>c</string>
+		<string>[변화 없음]</string>
 		<string>copy:</string>
 		<dict>
 			<key>$class</key>
@@ -2707,7 +2707,7 @@
 			</dict>
 		</dict>
 		<string>전체 선택</string>
-		<string>a</string>
+		<string>[변화 없음]</string>
 		<string>selectAll:</string>
 		<dict>
 			<key>$class</key>
@@ -2839,7 +2839,7 @@
 			</dict>
 		</dict>
 		<string>다른 이름으로 저장…</string>
-		<string>S</string>
+		<string>[스타일 없음]</string>
 		<string>saveAsDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -3080,7 +3080,7 @@
 			</dict>
 		</dict>
 		<string>신규</string>
-		<string>n</string>
+		<string>[변화 없음]</string>
 		<string>newDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -3141,7 +3141,7 @@
 			</dict>
 		</dict>
 		<string>열기…</string>
-		<string>o</string>
+		<string>[스타일 없음]</string>
 		<string>openDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -3202,7 +3202,7 @@
 			</dict>
 		</dict>
 		<string>인쇄…</string>
-		<string>p</string>
+		<string>[교체]</string>
 		<string>print:</string>
 		<dict>
 			<key>$class</key>
@@ -3416,7 +3416,7 @@
 			</dict>
 		</dict>
 		<string>툴바 나타내기</string>
-		<string>t</string>
+		<string>[스타일 없음]</string>
 		<string>toggleToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -3638,7 +3638,7 @@
 			</dict>
 		</dict>
 		<string>그룹</string>
-		<string>g</string>
+		<string>[변화 없음]</string>
 		<string>group:</string>
 		<dict>
 			<key>$class</key>
@@ -4150,7 +4150,7 @@
 			</dict>
 		</dict>
 		<string>픽셀</string>
-		<string>y</string>
+		<string>[스타일 없음]</string>
 		<string>showPixelPreview:</string>
 		<dict>
 			<key>$class</key>
@@ -4211,7 +4211,7 @@
 			</dict>
 		</dict>
 		<string>잠금</string>
-		<string>l</string>
+		<string>[스타일 없음]</string>
 		<string>setUneditable:</string>
 		<dict>
 			<key>$class</key>
@@ -4541,7 +4541,7 @@
 			</dict>
 		</dict>
 		<string>오른쪽 정렬</string>
-		<string>r</string>
+		<string>[교체]</string>
 		<string>alignRight:</string>
 		<dict>
 			<key>$class</key>
@@ -4625,7 +4625,7 @@
 				<integer>1247</integer>
 			</dict>
 		</dict>
-		<string>볼드체</string>
+		<string>강조</string>
 		<string>b</string>
 		<string>toggleBold:</string>
 		<dict>
@@ -4686,7 +4686,7 @@
 				<integer>285</integer>
 			</dict>
 		</dict>
-		<string>이탤릭체</string>
+		<string>기울임</string>
 		<string>i</string>
 		<string>toggleItalic:</string>
 		<dict>
@@ -4748,7 +4748,7 @@
 			</dict>
 		</dict>
 		<string>밑줄</string>
-		<string>u</string>
+		<string>[사용자]</string>
 		<string>toggleUnderline:</string>
 		<dict>
 			<key>$class</key>
@@ -6747,7 +6747,7 @@
 			</dict>
 		</dict>
 		<string>줄 바꿈 없는 공백</string>
-		<string> </string>
+		<string>[스타일 없음]</string>
 		<string>insertNonBreakingSpace:</string>
 		<dict>
 			<key>$class</key>
@@ -8739,7 +8739,7 @@
 			</dict>
 		</dict>
 		<string>새로운 픽셀 레이어</string>
-		<string>N</string>
+		<string>[스타일 없음]</string>
 		<string>addRasterLayer:</string>
 		<dict>
 			<key>$class</key>
@@ -10781,7 +10781,7 @@
 			</dict>
 		</dict>
 		<string>곡선</string>
-		<string>m</string>
+		<string>[같은 스타일]</string>
 		<string>addCurvesAdjustmentRasterLayer:</string>
 		<dict>
 			<key>$class</key>
@@ -11074,7 +11074,7 @@
 				<integer>743</integer>
 			</dict>
 		</dict>
-		<string>그림 페르소나</string>
+		<string>픽셀 페르소나</string>
 		<string>pixelPersona:</string>
 		<dict>
 			<key>$class</key>
@@ -13258,7 +13258,7 @@
 				<integer>897</integer>
 			</dict>
 		</dict>
-		<string>In Place</string>
+		<string>제자리에</string>
 		<string>cleanUpFloatingPanelsInPlace:</string>
 		<dict>
 			<key>$class</key>
@@ -13611,7 +13611,7 @@
 				<integer>922</integer>
 			</dict>
 		</dict>
-		<string>획 확장</string>
+		<string>획 펼치기</string>
 		<string>expandStroke:</string>
 		<dict>
 			<key>$class</key>
@@ -16949,7 +16949,7 @@
 				<integer>869</integer>
 			</dict>
 		</dict>
-		<string>s</string>
+		<string>[변화 없음]</string>
 		<string>saveDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -21586,8 +21586,8 @@
 				<integer>1274</integer>
 			</dict>
 		</dict>
-		<string>Paragraph Leading</string>
-		<string>Paragraph Leading</string>
+		<string>줄 간격</string>
+		<string>줄 간격</string>
 		<dict>
 			<key>$class</key>
 			<dict>

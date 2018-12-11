@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Add Document Snapshot [Raster]</key>
-	<string>Add Document Snapshot</string>
+	<string>문서 스냅샷 추가</string>
 	<key>Add [Operations - Add Title]</key>
 	<string>추가</string>
 	<key>Add [Operations - Add Tooltip]</key>
@@ -235,7 +235,7 @@ Do you still want to enable "Save With History"?</string>
 	<key>Export Persona [Export Persona]</key>
 	<string>출력 페르소나</string>
 	<key>Export [Persona Name]</key>
-	<string>Export</string>
+	<string>출력</string>
 	<key>Fade %@… [Raster menu]</key>
 	<string>Fade %@…</string>
 	<key>Fade… [Raster menu]</key>
@@ -403,7 +403,7 @@ Do you still want to enable "Save With History"?</string>
 	<key>OK [OK]</key>
 	<string>OK</string>
 	<key>Opacity: [Brush opacity context toolbar]</key>
-	<string>투명도:</string>
+	<string>불투명도:</string>
 	<key>Order [Object z-order]</key>
 	<string>순서</string>
 	<key>Outline [View Mode - Outline - Title]</key>
@@ -427,11 +427,11 @@ Do you still want to enable "Save With History"?</string>
 	<key>Pixel Align [Pixel Align - Title]</key>
 	<string>픽셀 정렬</string>
 	<key>Pixel Persona [Pixel Persona Title]</key>
-	<string>그림 페르소나</string>
+	<string>픽셀 페르소나</string>
 	<key>Pixel Persona [Pixel Persona ToolTip]</key>
-	<string>그림 페르소나</string>
+	<string>픽셀 페르소나</string>
 	<key>Pixel Persona [Pixel Persona]</key>
-	<string>그림 페르소나</string>
+	<string>픽셀 페르소나</string>
 	<key>Pixel [Persona Name]</key>
 	<string>픽셀</string>
 	<key>Pixel view mode [View Mode - Pixel view mode - Tooltip]</key>
@@ -563,7 +563,7 @@ Do you still want to enable "Save With History"?</string>
 	<key>Spacing [Spacing button group]</key>
 	<string>공간</string>
 	<key>Split View [Split View button group]</key>
-	<string>분할 뷰</string>
+	<string>분할 뷰 모드</string>
 	<key>Split [SplitView - Split - Title]</key>
 	<string>분할</string>
 	<key>Split [SplitView - Split - Tooltip]</key>
@@ -743,7 +743,7 @@ Do you still want to enable "Save With History"?</string>
 	<key>Width: [Brush width context toolbar]</key>
 	<string>두께:</string>
 	<key>Yes [Save with History]</key>
-	<string>예</string>
+	<string>네</string>
 	<key>Zoom In [Accelerator key]</key>
 	<string>확대</string>
 	<key>Zoom Out [Accelerator key]</key>

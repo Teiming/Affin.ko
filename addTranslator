@@ -3,9 +3,9 @@ read ENG
 echo "번역"
 read KOR
 cd ~/Affinity-in-Korean/
-ENG1=$(echo $ENG | sed -e "s/ \/ / \\\\\/ /")
-KOR1=$(echo $KOR | sed -e "s/ \/ / \\\\\/ /")
-exp=$(echo "s/>$ENG1</>$KOR1</")
+ENG1=$(echo $ENG | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
+KOR1=$(echo $KOR | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
+exp=$(echo "s/g>$ENG1</g>$KOR1</")
 echo $exp >> DictionaryDesigner
 echo $exp >> DictionaryPhoto
 /bin/cat DictionaryDesigner | /usr/bin/sort | /usr/bin/uniq > DictionaryDesigner.temp && /bin/mv DictionaryDesigner.temp DictionaryDesigner

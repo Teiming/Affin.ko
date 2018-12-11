@@ -1,4 +1,12 @@
-Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: AboutDialog.nib
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/AboutDialog.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/AboutDialog.nib
+169c169
+< 		<string>Window</string>
+---
+> 		<string>윈도우</string>
+515c515
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/ContextMenu.nib
 438c438
 < 		<string>Paste</string>
@@ -31,7 +39,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextM
 1098c1098
 < 		<string>Ungroup All</string>
 ---
-> 		<string>모두 그룹 해제</string>
+> 		<string>모든 그룹 해제</string>
 1171c1171
 < 		<string>Rotate Left</string>
 ---
@@ -123,11 +131,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextM
 2270c2270
 < 		<string>Rotate Left</string>
 ---
-> 		<string>반시계방향으로 회전</string>
+> 		<string>왼쪽으로 회전</string>
 2305c2305
 < 		<string>Rotate Right</string>
 ---
-> 		<string>시계방향으로 회전</string>
+> 		<string>오른쪽으로 회전</string>
 2378c2378
 < 		<string>Flip Horizontal</string>
 ---
@@ -217,6 +225,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextM
 ---
 > 		<string>회전 재설정</string>
 diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/Localizable.strings
+6c6
+< 	<string>Add Document Snapshot</string>
+---
+> 	<string>문서 스냅샷 추가</string>
 8c8
 < 	<string>Add</string>
 ---
@@ -605,6 +617,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localiza
 < 	<string>Export Persona</string>
 ---
 > 	<string>출력 페르소나</string>
+238c238
+< 	<string>Export</string>
+---
+> 	<string>출력</string>
 248c248
 < 	<string>Flip Horizontal</string>
 ---
@@ -868,7 +884,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localiza
 406c406
 < 	<string>Opacity:</string>
 ---
-> 	<string>투명도:</string>
+> 	<string>불투명도:</string>
 408c408
 < 	<string>Order</string>
 ---
@@ -916,15 +932,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localiza
 430c430
 < 	<string>Pixel Persona</string>
 ---
-> 	<string>그림 페르소나</string>
+> 	<string>픽셀 페르소나</string>
 432c432
 < 	<string>Pixel Persona</string>
 ---
-> 	<string>그림 페르소나</string>
+> 	<string>픽셀 페르소나</string>
 434c434
 < 	<string>Pixel Persona</string>
 ---
-> 	<string>그림 페르소나</string>
+> 	<string>픽셀 페르소나</string>
 436c436
 < 	<string>Pixel</string>
 ---
@@ -1076,7 +1092,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localiza
 566c566
 < 	<string>Split View</string>
 ---
-> 	<string>분할 뷰</string>
+> 	<string>분할 뷰 모드</string>
 568c568
 < 	<string>Split</string>
 ---
@@ -1180,7 +1196,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localiza
 746c746
 < 	<string>Yes</string>
 ---
-> 	<string>예</string>
+> 	<string>네</string>
 748c748
 < 	<string>Zoom In</string>
 ---
@@ -1238,10 +1254,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Zoom</string>
 ---
 > 		<string>맞추기</string>
-1257c1257
+1257,1258c1257,1258
 < 		<string>Hide Others</string>
+< 		<string>h</string>
 ---
 > 		<string>기타 가리기</string>
+> 		<string>[변화 없음]</string>
 1318c1318
 < 		<string>Preferences…</string>
 ---
@@ -1253,39 +1271,49 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 1448c1448
 < 		<string>Show All</string>
 ---
-> 		<string>모두 나타내기</string>
+> 		<string>모두 보기</string>
 1503c1503
 < 		<string>Hide</string>
 ---
-> 		<string>Designer 가리기</string>
+> 		<string>가리기</string>
 1561c1561
 < 		<string>About…</string>
 ---
-> 		<string>Designer에 관하여…</string>
-1638c1638
+> 		<string>Affinity Designer에 관하여…</string>
+1638,1639c1638,1639
 < 		<string>Save As…</string>
+< 		<string>S</string>
 ---
 > 		<string>다른 이름으로 저장…</string>
-1712c1712
+> 		<string>[스타일 없음]</string>
+1712,1713c1712,1713
 < 		<string>Save</string>
+< 		<string>s</string>
 ---
 > 		<string>저장</string>
+> 		<string>[변화 없음]</string>
 1773c1773
 < 		<string>Close</string>
 ---
 > 		<string>닫기</string>
-1834c1834
+1834,1835c1834,1835
 < 		<string>New</string>
+< 		<string>n</string>
 ---
 > 		<string>신규</string>
-1895c1895
+> 		<string>[변화 없음]</string>
+1895,1896c1895,1896
 < 		<string>Open…</string>
+< 		<string>o</string>
 ---
 > 		<string>열기…</string>
-1956c1956
+> 		<string>[스타일 없음]</string>
+1956,1957c1956,1957
 < 		<string>Print…</string>
+< 		<string>p</string>
 ---
 > 		<string>인쇄…</string>
+> 		<string>[교체]</string>
 2050c2050
 < 		<string>Customise Tools…</string>
 ---
@@ -1294,10 +1322,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Customise Toolbar…</string>
 ---
 > 		<string>툴바 사용자화…</string>
-2170c2170
+2170,2171c2170,2171
 < 		<string>Show Toolbar</string>
+< 		<string>t</string>
 ---
 > 		<string>툴바 나타내기</string>
+> 		<string>[스타일 없음]</string>
 2231c2231
 < 		<string>Zoom to Fit</string>
 ---
@@ -1322,10 +1352,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Export…</string>
 ---
 > 		<string>출력…</string>
-2681c2681
+2681,2682c2681,2682
 < 		<string>Pixels</string>
+< 		<string>y</string>
 ---
 > 		<string>픽셀</string>
+> 		<string>[스타일 없음]</string>
 2740c2740
 < 		<string>Snapping Manager…</string>
 ---
@@ -1346,18 +1378,22 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Vector</string>
 ---
 > 		<string>벡터</string>
-3084c3084
+3084,3085c3084,3085
 < 		<string>Show Rulers</string>
+< 		<string>r</string>
 ---
 > 		<string>눈금자 나타내기</string>
+> 		<string>[교체]</string>
 3145c3145
 < 		<string>Toggle Full Screen</string>
 ---
 > 		<string>전체 화면 시작</string>
-3279c3279
+3279,3280c3279,3280
 < 		<string>Select All</string>
+< 		<string>a</string>
 ---
 > 		<string>전체 선택</string>
+> 		<string>[변화 없음]</string>
 3362c3362
 < 		<string>Affinity Designer Help</string>
 ---
@@ -1366,14 +1402,20 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Pixel Persona</string>
 ---
 > 		<string>픽셀 페르소나</string>
+3511c3511
+< 		<string>Redo</string>
+---
+> 		<string>다시 실행</string>
 3565c3565
 < 		<string>Delete</string>
 ---
 > 		<string>지우기</string>
-3621c3621
+3621,3622c3621,3622
 < 		<string>Copy</string>
+< 		<string>c</string>
 ---
 > 		<string>복사</string>
+> 		<string>[변화 없음]</string>
 3682c3682
 < 		<string>Actual Size</string>
 ---
@@ -1402,6 +1444,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Show Tools</string>
 ---
 > 		<string>도구 나타내기</string>
+4183c4183
+< 		<string>Undo</string>
+---
+> 		<string>실행 취소</string>
 4242c4242
 < 		<string>Grid and Axis Manager…</string>
 ---
@@ -1418,10 +1464,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Pixel Size</string>
 ---
 > 		<string>픽셀 크기</string>
-4479c4479
+4479,4480c4479,4480
 < 		<string>New From Clipboard</string>
+< 		<string>N</string>
 ---
 > 		<string>클립보드에서 신규</string>
+> 		<string>[스타일 없음]</string>
 4551c4551
 < 		<string>Apple Colour Picker...</string>
 ---
@@ -1454,6 +1502,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Support...</string>
 ---
 > 		<string>지원...</string>
+5171c5171
+< 		<string>Clip to Canvas</string>
+---
+> 		<string>캔버스에 클립</string>
 5227c5227
 < 		<string>Cut</string>
 ---
@@ -1519,6 +1571,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Open Recent</string>
 ---
 > 		<string>최근 사용 열기</string>
+900c900
+< 		<string>Clear Menu</string>
+---
+> 		<string>메뉴 지우기</string>
 1039c1039
 < 		<string>Views</string>
 ---
@@ -1555,10 +1611,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Zoom</string>
 ---
 > 		<string>맞추기</string>
-1571c1571
+1571,1572c1571,1572
 < 		<string>Hide Others</string>
+< 		<string>h</string>
 ---
 > 		<string>기타 가리기</string>
+> 		<string>[변화 없음]</string>
 1632c1632
 < 		<string>Preferences…</string>
 ---
@@ -1574,15 +1632,21 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 1830c1830
 < 		<string>Hide</string>
 ---
-> 		<string>Designer 가리기</string>
+> 		<string>가리기</string>
 1888c1888
 < 		<string>About…</string>
 ---
-> 		<string>Designer에 관하여…</string>
-2034c2034
+> 		<string>Affinity Designer에 관하여…</string>
+1965c1965
+< 		<string>Redo</string>
+---
+> 		<string>다시 실행</string>
+2034,2035c2034,2035
 < 		<string>Copy</string>
+< 		<string>c</string>
 ---
 > 		<string>복사</string>
+> 		<string>[변화 없음]</string>
 2090c2090
 < 		<string>Paste</string>
 ---
@@ -1591,18 +1655,30 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Cut</string>
 ---
 > 		<string>오려두기</string>
-2280c2280
-< 		<string>Select All</string>
+2207c2207
+< 		<string>Undo</string>
 ---
-> 		<string>모두 선택</string>
+> 		<string>실행 취소</string>
+2280,2281c2280,2281
+< 		<string>Select All</string>
+< 		<string>a</string>
+---
+> 		<string>전체 선택</string>
+> 		<string>[변화 없음]</string>
 2334c2334
 < 		<string>Delete</string>
 ---
 > 		<string>지우기</string>
-2412c2412
+2412,2413c2412,2413
 < 		<string>Save As…</string>
+< 		<string>S</string>
 ---
 > 		<string>다른 이름으로 저장…</string>
+> 		<string>[스타일 없음]</string>
+2471c2471
+< 		<string>Edit in Photo…</string>
+---
+> 		<string>Photo에서 편집…</string>
 2531c2531
 < 		<string>Close</string>
 ---
@@ -1611,18 +1687,24 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Document Setup…</string>
 ---
 > 		<string>문서 설정…</string>
-2653c2653
+2653,2654c2653,2654
 < 		<string>New</string>
+< 		<string>n</string>
 ---
 > 		<string>신규</string>
-2714c2714
+> 		<string>[변화 없음]</string>
+2714,2715c2714,2715
 < 		<string>Open…</string>
+< 		<string>o</string>
 ---
 > 		<string>열기…</string>
-2775c2775
+> 		<string>[스타일 없음]</string>
+2775,2776c2775,2776
 < 		<string>Print…</string>
+< 		<string>p</string>
 ---
 > 		<string>인쇄…</string>
+> 		<string>[교체]</string>
 2869c2869
 < 		<string>Customise Tools…</string>
 ---
@@ -1631,10 +1713,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Customise Toolbar…</string>
 ---
 > 		<string>툴바 사용자화…</string>
-2989c2989
+2989,2990c2989,2990
 < 		<string>Show Toolbar</string>
+< 		<string>t</string>
 ---
 > 		<string>툴바 나타내기</string>
+> 		<string>[스타일 없음]</string>
 3072c3072
 < 		<string>Affinity Designer Help</string>
 ---
@@ -1643,10 +1727,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Ungroup</string>
 ---
 > 		<string>그룹 해제</string>
-3211c3211
+3211,3212c3211,3212
 < 		<string>Group</string>
+< 		<string>g</string>
 ---
 > 		<string>그룹</string>
+> 		<string>[변화 없음]</string>
 3272c3272
 < 		<string>Duplicate</string>
 ---
@@ -1675,10 +1761,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Export…</string>
 ---
 > 		<string>출력…</string>
-3783c3783
+3783,3784c3783,3784
 < 		<string>Pixels</string>
+< 		<string>y</string>
 ---
 > 		<string>픽셀</string>
+> 		<string>[스타일 없음]</string>
 3842c3842
 < 		<string>Place…</string>
 ---
@@ -1715,10 +1803,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Media Browser…</string>
 ---
 > 		<string>미디어 브라우저…</string>
-4432c4432
+4432,4433c4432,4433
 < 		<string>Show Rulers</string>
+< 		<string>r</string>
 ---
 > 		<string>눈금자 나타내기</string>
+> 		<string>[교체]</string>
 4491c4491
 < 		<string>Outline…</string>
 ---
@@ -1819,18 +1909,22 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Support...</string>
 ---
 > 		<string>지원...</string>
-6171c6171
+6171,6172c6171,6172
 < 		<string>New Pixel Layer</string>
+< 		<string>N</string>
 ---
 > 		<string>새로운 픽셀 레이어</string>
+> 		<string>[스타일 없음]</string>
 6232c6232
 < 		<string>Pixel Size</string>
 ---
 > 		<string>픽셀 크기</string>
-6293c6293
+6293,6294c6293,6294
 < 		<string>Unlock All</string>
+< 		<string>l</string>
 ---
 > 		<string>모두 잠금 해제</string>
+> 		<string>[스타일 없음]</string>
 6352c6352
 < 		<string>Export Persona</string>
 ---
@@ -1879,10 +1973,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Align Right</string>
 ---
 > 		<string>오른쪽 정렬</string>
-7140c7140
+7140,7141c7140,7141
 < 		<string>Curves</string>
+< 		<string>m</string>
 ---
 > 		<string>곡선</string>
+> 		<string>[같은 스타일]</string>
 7199c7199
 < 		<string>Single View</string>
 ---
@@ -1938,7 +2034,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 8081c8081
 < 		<string>Rotate Right</string>
 ---
-> 		<string>시계방향으로 회전</string>
+> 		<string>오른쪽으로 회전</string>
 8197c8197
 < 		<string>Shadows / Highlights</string>
 ---
@@ -1991,6 +2087,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Paste Without Format</string>
 ---
 > 		<string>포맷 없이 붙이기</string>
+9033c9033
+< 		<string>Clip to Canvas</string>
+---
+> 		<string>캔버스에 클립</string>
 9092c9092
 < 		<string>Space Vertically</string>
 ---
@@ -2074,7 +2174,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 10308c10308
 < 		<string>Rotate Left</string>
 ---
-> 		<string>반시계방향으로 회전</string>
+> 		<string>왼쪽으로 회전</string>
 10366c10366
 < 		<string>Distribute Horizontally</string>
 ---
@@ -2123,10 +2223,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Soft Proof</string>
 ---
 > 		<string>미리보기</string>
-11071c11071
+11071,11072c11071,11072
 < 		<string>Save</string>
+< 		<string>s</string>
 ---
 > 		<string>저장</string>
+> 		<string>[변화 없음]</string>
 11190c11190
 < 		<string>Space Horizontally</string>
 ---
@@ -2187,9 +2289,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Insertion</string>
 ---
 > 		<string>삽입</string>
-14815c14815
+14815,14816c14815,14816
+< 		<string>New Adjustment</string>
 < 		<string>New Adjustment</string>
 ---
+> 		<string>새로운 조정</string>
 > 		<string>새로운 조정</string>
 15262c15262
 < 		<string>Select</string>
@@ -2274,10 +2378,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Toggle Full Screen</string>
 ---
 > 		<string>전체 화면 시작</string>
-2026c2026
+2026,2027c2026,2027
 < 		<string>Hide Others</string>
+< 		<string>h</string>
 ---
 > 		<string>기타 가리기</string>
+> 		<string>[변화 없음]</string>
 2087c2087
 < 		<string>Preferences…</string>
 ---
@@ -2294,14 +2400,20 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Hide</string>
 ---
 > 		<string>가리기</string>
+2330c2330
+< 		<string>About…</string>
+---
+> 		<string>Affinity Designer에 관하여…</string>
 2407c2407
 < 		<string>Redo</string>
 ---
-> 		<string>실행 취소</string>
-2463c2463
+> 		<string>다시 실행</string>
+2463,2464c2463,2464
 < 		<string>Copy</string>
+< 		<string>c</string>
 ---
 > 		<string>복사</string>
+> 		<string>[변화 없음]</string>
 2519c2519
 < 		<string>Paste</string>
 ---
@@ -2314,18 +2426,22 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Undo</string>
 ---
 > 		<string>실행 취소</string>
-2709c2709
+2709,2710c2709,2710
 < 		<string>Select All</string>
+< 		<string>a</string>
 ---
 > 		<string>전체 선택</string>
+> 		<string>[변화 없음]</string>
 2763c2763
 < 		<string>Delete</string>
 ---
 > 		<string>지우기</string>
-2841c2841
+2841,2842c2841,2842
 < 		<string>Save As…</string>
+< 		<string>S</string>
 ---
 > 		<string>다른 이름으로 저장…</string>
+> 		<string>[스타일 없음]</string>
 2900c2900
 < 		<string>Edit in Photo…</string>
 ---
@@ -2338,18 +2454,24 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Document Setup…</string>
 ---
 > 		<string>문서 설정…</string>
-3082c3082
+3082,3083c3082,3083
 < 		<string>New</string>
+< 		<string>n</string>
 ---
 > 		<string>신규</string>
-3143c3143
+> 		<string>[변화 없음]</string>
+3143,3144c3143,3144
 < 		<string>Open…</string>
+< 		<string>o</string>
 ---
 > 		<string>열기…</string>
-3204c3204
+> 		<string>[스타일 없음]</string>
+3204,3205c3204,3205
 < 		<string>Print…</string>
+< 		<string>p</string>
 ---
 > 		<string>인쇄…</string>
+> 		<string>[교체]</string>
 3298c3298
 < 		<string>Customise Tools…</string>
 ---
@@ -2358,10 +2480,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Customise Toolbar…</string>
 ---
 > 		<string>툴바 사용자화…</string>
-3418c3418
+3418,3419c3418,3419
 < 		<string>Show Toolbar</string>
+< 		<string>t</string>
 ---
 > 		<string>툴바 나타내기</string>
+> 		<string>[스타일 없음]</string>
 3501c3501
 < 		<string>Affinity Designer Help</string>
 ---
@@ -2370,10 +2494,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Ungroup</string>
 ---
 > 		<string>그룹 해제</string>
-3640c3640
+3640,3641c3640,3641
 < 		<string>Group</string>
+< 		<string>g</string>
 ---
 > 		<string>그룹</string>
+> 		<string>[변화 없음]</string>
 3701c3701
 < 		<string>Duplicate</string>
 ---
@@ -2398,14 +2524,18 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>New View</string>
 ---
 > 		<string>새로운 뷰</string>
-4152c4152
+4152,4153c4152,4153
 < 		<string>Pixels</string>
+< 		<string>y</string>
 ---
 > 		<string>픽셀</string>
-4213c4213
+> 		<string>[스타일 없음]</string>
+4213,4214c4213,4214
 < 		<string>Lock</string>
+< 		<string>l</string>
 ---
 > 		<string>잠금</string>
+> 		<string>[스타일 없음]</string>
 4274c4274
 < 		<string>Unlock</string>
 ---
@@ -2422,22 +2552,26 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Justify Centre</string>
 ---
 > 		<string>가운데 균등 정렬</string>
-4543c4543
+4543,4544c4543,4544
 < 		<string>Align Right</string>
+< 		<string>r</string>
 ---
 > 		<string>오른쪽 정렬</string>
+> 		<string>[교체]</string>
 4628c4628
 < 		<string>Bold</string>
 ---
-> 		<string>볼드체</string>
+> 		<string>강조</string>
 4689c4689
 < 		<string>Italic</string>
 ---
-> 		<string>이탤릭체</string>
-4750c4750
+> 		<string>기울임</string>
+4750,4751c4750,4751
 < 		<string>Underline</string>
+< 		<string>u</string>
 ---
 > 		<string>밑줄</string>
+> 		<string>[사용자]</string>
 4826c4826
 < 		<string>Use Default</string>
 ---
@@ -2542,10 +2676,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Soft Hyphen</string>
 ---
 > 		<string>하이픈</string>
-6749c6749
+6749,6750c6749,6750
 < 		<string>Non-Breaking Space</string>
+< 		<string> </string>
 ---
 > 		<string>줄 바꿈 없는 공백</string>
+> 		<string>[스타일 없음]</string>
 6825c6825
 < 		<string>None</string>
 ---
@@ -2650,10 +2786,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Align Top</string>
 ---
 > 		<string>위쪽 정렬</string>
-8741c8741
+8741,8742c8741,8742
 < 		<string>New Pixel Layer</string>
+< 		<string>N</string>
 ---
 > 		<string>새로운 픽셀 레이어</string>
+> 		<string>[스타일 없음]</string>
 8800c8800
 < 		<string>Clip to Canvas</string>
 ---
@@ -2762,10 +2900,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Tighten More</string>
 ---
 > 		<string>더 좁게</string>
-10783c10783
+10783,10784c10783,10784
 < 		<string>Curves</string>
+< 		<string>m</string>
 ---
 > 		<string>곡선</string>
+> 		<string>[같은 스타일]</string>
 10842c10842
 < 		<string>Single View</string>
 ---
@@ -2781,7 +2921,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 11077c11077
 < 		<string>Pixel Persona</string>
 ---
-> 		<string>그림 페르소나</string>
+> 		<string>픽셀 페르소나</string>
 11135c11135
 < 		<string>Separated Mode</string>
 ---
@@ -2902,6 +3042,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Export…</string>
 ---
 > 		<string>출력…</string>
+13261c13261
+< 		<string>In Place</string>
+---
+> 		<string>제자리에</string>
 13321c13321
 < 		<string>Precise Raise Baseline</string>
 ---
@@ -2925,7 +3069,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 13614c13614
 < 		<string>Expand Stroke</string>
 ---
-> 		<string>획 확장</string>
+> 		<string>획 펼치기</string>
 13672c13672
 < 		<string>Create Compound</string>
 ---
@@ -3122,6 +3266,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Soft Proof</string>
 ---
 > 		<string>미리보기</string>
+16952c16952
+< 		<string>s</string>
+---
+> 		<string>[변화 없음]</string>
 17010c17010
 < 		<string>Behind</string>
 ---
@@ -3218,6 +3366,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Alignment</string>
 ---
 > 		<string>정렬</string>
+21589,21590c21589,21590
+< 		<string>Paragraph Leading</string>
+< 		<string>Paragraph Leading</string>
+---
+> 		<string>줄 간격</string>
+> 		<string>줄 간격</string>
 21704,21705c21704,21705
 < 		<string>Text Styles</string>
 < 		<string>Text Styles</string>
@@ -3298,20 +3452,68 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Text Wrap</string>
 ---
 > 		<string>줄바꿈</string>
-Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: Startup.nib
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Startup.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/Startup.nib
+169c169
+< 		<string>Window</string>
+---
+> 		<string>윈도우</string>
+547c547
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1133c1133
+< 		<string>h</string>
+---
+> 		<string>[변화 없음]</string>
+1262c1262
+< 		<string>Hide Others</string>
+---
+> 		<string>기타 가리기</string>
+1317c1317
+< 		<string>Show All</string>
+---
+> 		<string>모두 보기</string>
+1646c1646
+< 		<string>Preferences…</string>
+---
+> 		<string>환경설정…</string>
+1739c1739
+< 		<string>Services</string>
+---
+> 		<string>서비스</string>
 diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/assets.strings
+14c14
+< 	<string>Add</string>
+---
+> 	<string>추가</string>
+36c36
+< 	<string>Cancel</string>
+---
+> 	<string>취소</string>
 42c42
 < 	<string>Context</string>
 ---
 > 	<string>문단</string>
-44c44
-< 	<string>Context (with options)</string>
+52c52
+< 	<string>Delete</string>
 ---
-> 	<string>문단 (with options)</string>
+> 	<string>지우기</string>
+124c124
+< 	<string>New</string>
+---
+> 	<string>신규</string>
+126c126
+< 	<string>New Document</string>
+---
+> 	<string>신규 문서</string>
 130c130
 < 	<string>News</string>
 ---
 > 	<string>뉴스</string>
+180c180
+< 	<string>Share</string>
+---
+> 	<string>공유</string>
 194c194
 < 	<string>Tables</string>
 ---
@@ -3462,5 +3664,17 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/objectst
 < 	<string>Sunset</string>
 ---
 > 	<string>석양</string>
-Files /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brushes.strings and /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/raster_brushes.strings are identical
-Files /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brushes.strings and /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/vector_brushes.strings are identical
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/raster_brushes.strings
+10c10
+< 	<string>Basic</string>
+---
+> 	<string>기본</string>
+46c46
+< 	<string>Effects</string>
+---
+> 	<string>효과</string>
+diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/vector_brushes.strings
+8c8
+< 	<string>Basic</string>
+---
+> 	<string>기본</string>
