@@ -2029,7 +2029,7 @@
 				<integer>35</integer>
 			</dict>
 		</dict>
-		<string>왼쪽 작업실 나타내기</string>
+		<string>왼쪽 작업실 보기</string>
 		<string></string>
 		<dict>
 			<key>$class</key>
@@ -2065,7 +2065,7 @@
 				<integer>38</integer>
 			</dict>
 		</dict>
-		<string>오른쪽 작업실 나타내기</string>
+		<string>오른쪽 작업실 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3962,7 +3962,7 @@
 				<integer>184</integer>
 			</dict>
 		</dict>
-		<string>툴바 나타내기</string>
+		<string>툴바 보기</string>
 		<string>t</string>
 		<string>toggleToolbar:</string>
 		<dict>
@@ -6150,7 +6150,7 @@
 				<integer>343</integer>
 			</dict>
 		</dict>
-		<string>여백선 나타내기</string>
+		<string>여백선 보기</string>
 		<string>showMargins:</string>
 		<dict>
 			<key>$class</key>
@@ -6210,7 +6210,7 @@
 				<integer>347</integer>
 			</dict>
 		</dict>
-		<string>안내선 나타내기</string>
+		<string>안내선 보기</string>
 		<string>;</string>
 		<string>showGuides:</string>
 		<dict>
@@ -6273,7 +6273,7 @@
 				<integer>352</integer>
 			</dict>
 		</dict>
-		<string>격자선 나타내기</string>
+		<string>격자선 보기</string>
 		<string>'</string>
 		<string>showGrid:</string>
 		<dict>
@@ -7050,7 +7050,7 @@
 				<integer>407</integer>
 			</dict>
 		</dict>
-		<string>Merge Visible</string>
+		<string>보이는 항목 병합</string>
 		<string>E</string>
 		<string>mergeVisible:</string>
 		<dict>
@@ -9022,7 +9022,7 @@
 				<integer>551</integer>
 			</dict>
 		</dict>
-		<string>눈금자 나타내기</string>
+		<string>눈금자 보기</string>
 		<string>toggleRulers:</string>
 		<dict>
 			<key>$class</key>
@@ -10034,7 +10034,7 @@
 				<integer>1784</integer>
 			</dict>
 		</dict>
-		<string>서체 작업실</string>
+		<string>문자 보기</string>
 		<string>showFontsOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -10966,7 +10966,7 @@
 				<integer>691</integer>
 			</dict>
 		</dict>
-		<string>Merge Selected</string>
+		<string>선택 항목 병합</string>
 		<string>mergeSelected:</string>
 		<dict>
 			<key>$class</key>
@@ -11102,7 +11102,7 @@
 				<integer>701</integer>
 			</dict>
 		</dict>
-		<string>Recolour Adjustment</string>
+		<string>재색상 조정</string>
 		<string>addRecolourAdjustmentRasterLayer:</string>
 		<dict>
 			<key>$class</key>
@@ -11339,7 +11339,7 @@
 				<integer>718</integer>
 			</dict>
 		</dict>
-		<string>상황별 툴바 나타내기</string>
+		<string>상황별 툴바 보기</string>
 		<string>toggleContextToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -12243,7 +12243,7 @@
 				<integer>782</integer>
 			</dict>
 		</dict>
-		<string>문자 스타일을 기본값으로 저장</string>
+		<string>텍스트 스타일을 기본값으로 저장</string>
 		<string>setStylesAsDefault:</string>
 		<dict>
 			<key>$class</key>
@@ -13843,7 +13843,7 @@
 				<integer>896</integer>
 			</dict>
 		</dict>
-		<string>문자 스타일 불러오기…</string>
+		<string>텍스트 스타일 입력…</string>
 		<string>importStyles:</string>
 		<dict>
 			<key>$class</key>
@@ -14239,7 +14239,7 @@
 				<integer>924</integer>
 			</dict>
 		</dict>
-		<string>Rotate 90° Anticlockwise</string>
+		<string>반시계방향으로 90° 회전</string>
 		<string></string>
 		<string>rotateCanvasAnticlockwise:</string>
 		<dict>
@@ -14298,7 +14298,7 @@
 				<integer>929</integer>
 			</dict>
 		</dict>
-		<string>Show All Text</string>
+		<string>모든 텍스트 보기</string>
 		<string>showAllText:</string>
 		<dict>
 			<key>$class</key>
@@ -14840,7 +14840,7 @@
 				<integer>968</integer>
 			</dict>
 		</dict>
-		<string>텍스트 스타일 재적용</string>
+		<string>텍스트 스타일 다시 적용</string>
 		<string>reapplyTextStyles:</string>
 		<dict>
 			<key>$class</key>
@@ -15034,7 +15034,7 @@
 				<integer>982</integer>
 			</dict>
 		</dict>
-		<string>텍스트 스타일 작업실</string>
+		<string>텍스트 스타일 보기</string>
 		<string>showTextStylePage:</string>
 		<dict>
 			<key>$class</key>
@@ -16124,7 +16124,7 @@
 				<integer>1061</integer>
 			</dict>
 		</dict>
-		<string>항상 레이어 목록에서 선택 항목 나타내기</string>
+		<string>레이어 패널에서 선택 항목 항상 보기 </string>
 		<string>toggleAlwaysShowSelectionInLayersPanel:</string>
 		<dict>
 			<key>$class</key>
@@ -16536,7 +16536,7 @@
 				<integer>1091</integer>
 			</dict>
 		</dict>
-		<string>문자 탐색 작업실</string>
+		<string>문자 브라우저 보기</string>
 		<string>showGlyphBrowserPage:</string>
 		<dict>
 			<key>$class</key>
@@ -16594,7 +16594,7 @@
 				<integer>1095</integer>
 			</dict>
 		</dict>
-		<string>환영...</string>
+		<string>Welcome...</string>
 		<string>showWelcome:</string>
 		<dict>
 			<key>$class</key>
@@ -16712,7 +16712,7 @@
 				<integer>1103</integer>
 			</dict>
 		</dict>
-		<string>Show Pixel Selection</string>
+		<string>픽셀 선택 항목 보기</string>
 		<string>toggleForceHideMarchingAnts:</string>
 		<dict>
 			<key>$class</key>
@@ -18167,7 +18167,7 @@
 				<integer>1202</integer>
 			</dict>
 		</dict>
-		<string>Apple 색상 선택기...</string>
+		<string>Apple Colour Picker...</string>
 		<string>showAppleColourPicker:</string>
 		<dict>
 			<key>$class</key>
@@ -18843,7 +18843,7 @@
 				<integer>1248</integer>
 			</dict>
 		</dict>
-		<string>튜토리얼...</string>
+		<string>Tutorial...</string>
 		<string>showTutorials:</string>
 		<dict>
 			<key>$class</key>
@@ -18901,7 +18901,7 @@
 				<integer>1252</integer>
 			</dict>
 		</dict>
-		<string>문단 작업실</string>
+		<string>문단 보기</string>
 		<string>showParagraphsOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -19426,7 +19426,7 @@
 				<integer>1287</integer>
 			</dict>
 		</dict>
-		<string>도구 나타내기</string>
+		<string>도구 보기</string>
 		<string>toggleToolsUI:</string>
 		<dict>
 			<key>$class</key>
@@ -21001,7 +21001,7 @@
 				<integer>1395</integer>
 			</dict>
 		</dict>
-		<string>Rotate 90° Clockwise</string>
+		<string>시계방향으로 90° 회전</string>
 		<string></string>
 		<string>rotateCanvasClockwise:</string>
 		<dict>
@@ -21424,7 +21424,7 @@
 				<integer>1427</integer>
 			</dict>
 		</dict>
-		<string>Rotate 90° Clockwise</string>
+		<string>시계방향으로 90° 회전</string>
 		<string>doRotateClockwise:</string>
 		<dict>
 			<key>$class</key>
@@ -21890,7 +21890,7 @@
 				<integer>1459</integer>
 			</dict>
 		</dict>
-		<string>Hide All Text</string>
+		<string>모든 텍스트 숨기기</string>
 		<string>hideAllText:</string>
 		<dict>
 			<key>$class</key>
@@ -22296,7 +22296,7 @@
 				<integer>1487</integer>
 			</dict>
 		</dict>
-		<string>Margins…</string>
+		<string>여백…</string>
 		<string>showMarginsPanel:</string>
 		<dict>
 			<key>$class</key>
@@ -22472,7 +22472,7 @@
 				<integer>1499</integer>
 			</dict>
 		</dict>
-		<string>줄이기</string>
+		<string>더 작게</string>
 		<string>decreaseTextHeight:</string>
 		<dict>
 			<key>$class</key>
@@ -22883,7 +22883,7 @@
 				<integer>1528</integer>
 			</dict>
 		</dict>
-		<string>타이포그래피 작업실</string>
+		<string>타이포그래피 보기</string>
 		<string>T</string>
 		<string>showOpenTypeOptions:</string>
 		<dict>
@@ -22942,7 +22942,7 @@
 				<integer>1533</integer>
 			</dict>
 		</dict>
-		<string>지원...</string>
+		<string>Support...</string>
 		<string>showSupport:</string>
 		<dict>
 			<key>$class</key>
@@ -23644,7 +23644,7 @@
 				<integer>1581</integer>
 			</dict>
 		</dict>
-		<string>Merge Down</string>
+		<string>아래 항목 병합</string>
 		<string>e</string>
 		<string>mergeDown:</string>
 		<dict>
@@ -24745,7 +24745,7 @@
 				<integer>1658</integer>
 			</dict>
 		</dict>
-		<string>Rotate 90° Anticlockwise</string>
+		<string>반시계방향으로 90° 회전</string>
 		<string>doRotateAnticlockwise:</string>
 		<dict>
 			<key>$class</key>
@@ -29862,7 +29862,7 @@
 				<integer>1784</integer>
 			</dict>
 		</dict>
-		<string>문자</string>
+		<string>텍스트</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31661,7 +31661,7 @@
 				<integer>1846</integer>
 			</dict>
 		</dict>
-		<string>Document</string>
+		<string>문서</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31907,8 +31907,8 @@
 				<integer>1852</integer>
 			</dict>
 		</dict>
-		<string>Colour Format</string>
-		<string>Colour Format</string>
+		<string>색상 포맷</string>
+		<string>색상 포맷</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34012,8 +34012,8 @@
 				<integer>1910</integer>
 			</dict>
 		</dict>
-		<string>색상 영역</string>
-		<string>색상 영역</string>
+		<string>색상 범위</string>
+		<string>색상 범위</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34085,7 +34085,7 @@
 				<integer>1914</integer>
 			</dict>
 		</dict>
-		<string>색조 영역</string>
+		<string>색조 범위</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34157,8 +34157,8 @@
 				<integer>1917</integer>
 			</dict>
 		</dict>
-		<string>Alpha Range</string>
-		<string>Alpha Range</string>
+		<string>알파 범위</string>
+		<string>알파 범위</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34660,7 +34660,7 @@
 				<integer>1931</integer>
 			</dict>
 		</dict>
-		<string>Filters</string>
+		<string>필터</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35056,7 +35056,7 @@
 				<integer>1942</integer>
 			</dict>
 		</dict>
-		<string>Distort</string>
+		<string>왜곡</string>
 		<dict>
 			<key>$class</key>
 			<dict>

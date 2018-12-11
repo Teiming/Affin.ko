@@ -730,7 +730,7 @@
 				<integer>37</integer>
 			</dict>
 		</dict>
-		<string>왼쪽 작업실 나타내기</string>
+		<string>왼쪽 작업실 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -765,7 +765,7 @@
 				<integer>39</integer>
 			</dict>
 		</dict>
-		<string>오른쪽 작업실 나타내기</string>
+		<string>오른쪽 작업실 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2020,7 +2020,7 @@
 				<integer>133</integer>
 			</dict>
 		</dict>
-		<string>툴바 나타내기</string>
+		<string>툴바 보기</string>
 		<string>t</string>
 		<string>toggleToolbar:</string>
 		<dict>
@@ -2928,7 +2928,7 @@
 				<integer>403</integer>
 			</dict>
 		</dict>
-		<string>지원...</string>
+		<string>Support...</string>
 		<string>showSupport:</string>
 		<dict>
 			<key>$class</key>
@@ -3240,7 +3240,7 @@
 				<integer>232</integer>
 			</dict>
 		</dict>
-		<string>상황별 툴바 나타내기</string>
+		<string>상황별 툴바 보기</string>
 		<string>toggleContextToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -3300,7 +3300,7 @@
 				<integer>236</integer>
 			</dict>
 		</dict>
-		<string>눈금자 나타내기</string>
+		<string>눈금자 보기</string>
 		<string>r</string>
 		<dict>
 			<key>$class</key>
@@ -3735,7 +3735,7 @@
 				<integer>272</integer>
 			</dict>
 		</dict>
-		<string>여백선 나타내기</string>
+		<string>여백선 보기</string>
 		<string>showMargins:</string>
 		<dict>
 			<key>$class</key>
@@ -4033,7 +4033,7 @@
 				<integer>294</integer>
 			</dict>
 		</dict>
-		<string>Show Pixel Selection</string>
+		<string>픽셀 선택 항목 보기</string>
 		<string>toggleForceHideMarchingAnts:</string>
 		<dict>
 			<key>$class</key>
@@ -4151,7 +4151,7 @@
 				<integer>302</integer>
 			</dict>
 		</dict>
-		<string>안내선 나타내기</string>
+		<string>안내선 보기</string>
 		<string>;</string>
 		<string>showGuides:</string>
 		<dict>
@@ -4326,7 +4326,7 @@
 				<integer>315</integer>
 			</dict>
 		</dict>
-		<string>도구 나타내기</string>
+		<string>도구 보기</string>
 		<string>toggleToolsUI:</string>
 		<dict>
 			<key>$class</key>
@@ -4384,7 +4384,7 @@
 				<integer>319</integer>
 			</dict>
 		</dict>
-		<string>튜토리얼...</string>
+		<string>Tutorial...</string>
 		<string>showTutorials:</string>
 		<dict>
 			<key>$class</key>
@@ -4617,7 +4617,7 @@
 				<integer>336</integer>
 			</dict>
 		</dict>
-		<string>환영...</string>
+		<string>Welcome...</string>
 		<string>showWelcome:</string>
 		<dict>
 			<key>$class</key>
@@ -4763,7 +4763,7 @@
 				<integer>347</integer>
 			</dict>
 		</dict>
-		<string>격자선 나타내기</string>
+		<string>격자선 보기</string>
 		<string>'</string>
 		<string>showGrid:</string>
 		<dict>

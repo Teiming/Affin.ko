@@ -55,7 +55,6 @@ sudo ./SyncPhotoFrameworks_Beta
 ```sh
 sudo ln -s ~/Affinity-in-Korean/addTranslator /usr/local/bin/addTranslator
 sudo ln -s ~/Affinity-in-Korean/autoTranslator /usr/local/bin/autoTranslator
-sudo ln -s ~/Affinity-in-Korean/autoTranslator_Beta /usr/local/bin/autoTranslator_Beta
 ```
 ## Feedback
 번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.

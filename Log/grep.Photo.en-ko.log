@@ -92,7 +92,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu
 < 		<string>From Both As Global</string>
 > 		<string>모두 (전역)</string>
 < 		<string>Find in Layers Panel</string>
-> 		<string>레이어 목록에서 찾기</string>
+> 		<string>레이어 패널에서 찾기</string>
 < 		<string>Find in Slice Page</string>
 > 		<string>슬라이스 페이지에서 찾기</string>
 < 		<string>Zoom In</string>
@@ -588,6 +588,8 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable
 > 	<string>활기</string>
 < 	<string>View Mode</string>
 > 	<string>뷰 모드</string>
+< 	<string>Welcome to Affinity Photo.
+> 	<string>Affinity Photo에 어서오세요.
 < 	<string>Width:</string>
 > 	<string>두께:</string>
 < 	<string>Width:</string>
@@ -608,9 +610,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDev
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -648,13 +650,11 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDev
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Zoom In</string>
 > 		<string>확대</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
 < 		<string>Rotate Right</string>
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Rotate Left</string>
@@ -666,21 +666,19 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDev
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
 < 		<string>Zoom to Fit</string>
 > 		<string>화면 크기에 맞추기</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Media Browser…</string>
 > 		<string>미디어 브라우저…</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
 < 		<string>Snapping Manager…</string>
 > 		<string>스내핑 관리자…</string>
 < 		<string>Zoom Out</string>
@@ -696,15 +694,15 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDev
 < 		<string>Cut</string>
 > 		<string>오려두기</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>New From Clipboard</string>
 > 		<string>클립보드에서 신규</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
+> 		<string>눈금자 보기</string>
+< 		<string>Show Pixel Selection</string>
+> 		<string>픽셀 선택 항목 보기</string>
 < 		<string>Merge All Windows</string>
 > 		<string>모든 윈도우 합치기</string>
 < 		<string>Pixel Size</string>
@@ -737,9 +735,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -777,7 +775,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Cut</string>
@@ -788,16 +786,14 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR
 > 		<string>붙이기</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>Zoom Out</string>
 > 		<string>축소</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Affinity Photo Help</string>
@@ -809,29 +805,27 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>Zoom In</string>
 > 		<string>확대</string>
 < 		<string>Rotate Left</string>
 > 		<string>왼쪽으로 회전</string>
 < 		<string>New From Clipboard</string>
 > 		<string>클립보드에서 신규</string>
+< 		<string>Show Pixel Selection</string>
+> 		<string>픽셀 선택 항목 보기</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Rotate Right</string>
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
+> 		<string>도구 보기</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
 < 		<string>Media Browser…</string>
 > 		<string>미디어 브라우저…</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>Merge All Windows</string>
 > 		<string>모든 윈도우 합치기</string>
 < 		<string>Persona</string>
@@ -860,9 +854,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiq
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -900,7 +894,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiq
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Cut</string>
@@ -915,8 +909,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiq
 > 		<string>붙이기</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>Zoom Out</string>
@@ -924,9 +916,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiq
 < 		<string>New From Clipboard</string>
 > 		<string>클립보드에서 신규</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Affinity Photo Help</string>
@@ -938,33 +930,31 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiq
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>Zoom In</string>
 > 		<string>확대</string>
 < 		<string>Photo Persona</string>
 > 		<string>사진 페르소나</string>
 < 		<string>Rotate Left</string>
 > 		<string>왼쪽으로 회전</string>
+< 		<string>Show Pixel Selection</string>
+> 		<string>픽셀 선택 항목 보기</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Rotate Right</string>
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
+> 		<string>도구 보기</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
 < 		<string>Export Persona</string>
 > 		<string>출력 페르소나</string>
 < 		<string>Tone Mapping Persona</string>
 > 		<string>톤 맵핑 페르소나</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
 < 		<string>Media Browser…</string>
 > 		<string>미디어 브라우저…</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>Persona</string>
 > 		<string>페르소나</string>
 < 		<string>Services</string>
@@ -991,9 +981,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPan
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -1031,7 +1021,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPan
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Cut</string>
@@ -1044,16 +1034,14 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPan
 > 		<string>붙이기</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>Zoom Out</string>
 > 		<string>축소</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Affinity Photo Help</string>
@@ -1065,7 +1053,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPan
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>Zoom In</string>
 > 		<string>확대</string>
 < 		<string>Photo Persona</string>
@@ -1077,23 +1065,19 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPan
 < 		<string>Merge All Windows</string>
 > 		<string>모든 윈도우 합치기</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Rotate Right</string>
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
+> 		<string>도구 보기</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
 < 		<string>Export Persona</string>
 > 		<string>출력 페르소나</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
 < 		<string>Media Browser…</string>
 > 		<string>미디어 브라우저…</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>Persona</string>
 > 		<string>페르소나</string>
 < 		<string>Services</string>
@@ -1120,9 +1104,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPho
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -1164,15 +1148,15 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPho
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>Zoom to Fit</string>
 > 		<string>화면 크기에 맞추기</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Export…</string>
@@ -1186,7 +1170,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPho
 < 		<string>Assistant Manager…</string>
 > 		<string>손쉬운 사용 관리자…</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Photo Persona</string>
@@ -1201,18 +1185,14 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPho
 > 		<string>실제 크기</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 < 		<string>Undo</string>
 > 		<string>실행 취소</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
-< 		<string>Apple Colour Picker...</string>
-> 		<string>Apple 색상 선택기...</string>
 < 		<string>Develop Persona</string>
 > 		<string>개발 페르소나</string>
 < 		<string>Copy</string>
@@ -1233,14 +1213,10 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPho
 > 		<string>클립보드에서 신규</string>
 < 		<string>Paste</string>
 > 		<string>붙이기</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
 < 		<string>Liquify Persona</string>
 > 		<string>액화 페르소나</string>
 < 		<string>Select Previous</string>
 > 		<string>이전 항목 선택</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
 < 		<string>Select All</string>
 > 		<string>전체 선택</string>
 < 		<string>Reset Rotation</string>
@@ -1275,9 +1251,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -1333,7 +1309,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>Affinity Photo Help</string>
 > 		<string>Affinity Photo 도움말</string>
 < 		<string>New Layer</string>
@@ -1367,13 +1343,15 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Grow / Shrink…</string>
 > 		<string>팽창 / 수축…</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
+< 		<string>Merge Visible</string>
+> 		<string>보이는 항목 병합</string>
 < 		<string>Refine Edges…</string>
 > 		<string>모서리 다듬기…</string>
 < 		<string>Select Sampled Colour…</string>
@@ -1393,7 +1371,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Media Browser…</string>
 > 		<string>미디어 브라우저…</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 < 		<string>Revert</string>
 > 		<string>되돌리기</string>
 < 		<string>Align Left</string>
@@ -1407,7 +1385,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>En Space</string>
 > 		<string>반각 공백</string>
 < 		<string>Show Character</string>
-> 		<string>서체 작업실</string>
+> 		<string>문자 보기</string>
 < 		<string>Merge All Windows</string>
 > 		<string>모든 윈도우 합치기</string>
 < 		<string>Flip Horizontal</string>
@@ -1420,14 +1398,18 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>Finder에서 찾기</string>
 < 		<string>None</string>
 > 		<string>없음</string>
+< 		<string>Merge Selected</string>
+> 		<string>선택 항목 병합</string>
 < 		<string>Tighten More</string>
 > 		<string>더 좁게</string>
+< 		<string>Recolour Adjustment</string>
+> 		<string>재색상 조정</string>
 < 		<string>Grid and Axis Manager…</string>
 > 		<string>격자선 관리자…</string>
 < 		<string>En Dash</string>
 > 		<string>반각 줄표</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Decrease</string>
 > 		<string>줄이기</string>
 < 		<string>Centre</string>
@@ -1441,7 +1423,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Auto Colours</string>
 > 		<string>자동 색상</string>
 < 		<string>Save Text Styles as Default</string>
-> 		<string>문자 스타일을 기본값으로 저장</string>
+> 		<string>텍스트 스타일을 기본값으로 저장</string>
 < 		<string>Liquify Persona</string>
 > 		<string>액화 페르소나</string>
 < 		<string>Duplicate</string>
@@ -1467,7 +1449,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Move to Previous View Point</string>
 > 		<string>이전 뷰 포인트로 이동</string>
 < 		<string>Import Text Styles…</string>
-> 		<string>문자 스타일 불러오기…</string>
+> 		<string>텍스트 스타일 입력…</string>
 < 		<string>Auto White Balance</string>
 > 		<string>자동 화이트 밸런스</string>
 < 		<string>Rotate Right</string>
@@ -1476,6 +1458,10 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>밑줄</string>
 < 		<string>Separated Mode</string>
 > 		<string>분리 모드</string>
+< 		<string>Rotate 90° Anticlockwise</string>
+> 		<string>반시계방향으로 90° 회전</string>
+< 		<string>Show All Text</string>
+> 		<string>모든 텍스트 보기</string>
 < 		<string>Precise Decrease</string>
 > 		<string>정밀하게 줄이기</string>
 < 		<string>Paste Without Format</string>
@@ -1489,13 +1475,13 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Align Right</string>
 > 		<string>오른쪽 정렬</string>
 < 		<string>Reapply Text Styles</string>
-> 		<string>텍스트 스타일 재적용</string>
+> 		<string>텍스트 스타일 다시 적용</string>
 < 		<string>On App Screen</string>
 > 		<string>응용프로그램 화면</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Show Text Styles</string>
-> 		<string>텍스트 스타일 작업실</string>
+> 		<string>텍스트 스타일 보기</string>
 < 		<string>Bigger</string>
 > 		<string>늘리기</string>
 < 		<string>Spelling Options…</string>
@@ -1517,15 +1503,15 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Move To Front</string>
 > 		<string>맨 앞으로 가져오기</string>
 < 		<string>Always Show Selection in Layers Panel </string>
-> 		<string>항상 레이어 목록에서 선택 항목 나타내기</string>
+> 		<string>레이어 패널에서 선택 항목 항상 보기 </string>
 < 		<string>Move Back One</string>
 > 		<string>뒤로 보내기</string>
 < 		<string>Use Default</string>
 > 		<string>기준선 재설정</string>
 < 		<string>Show Glyph Browser</string>
-> 		<string>문자 탐색 작업실</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
+> 		<string>문자 브라우저 보기</string>
+< 		<string>Show Pixel Selection</string>
+> 		<string>픽셀 선택 항목 보기</string>
 < 		<string>Em Space</string>
 > 		<string>전각 공백</string>
 < 		<string>Flip Vertical</string>
@@ -1546,18 +1532,14 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>반전</string>
 < 		<string>Smooth…</string>
 > 		<string>부드럽게…</string>
-< 		<string>Apple Colour Picker...</string>
-> 		<string>Apple 색상 선택기...</string>
 < 		<string>Add</string>
 > 		<string>추가</string>
 < 		<string>Use All</string>
 > 		<string>모두 합자</string>
 < 		<string>Justify</string>
 > 		<string>맞춤</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
 < 		<string>Show Paragraph</string>
-> 		<string>문단 작업실</string>
+> 		<string>문단 보기</string>
 < 		<string>Ignore Misspelt Word</string>
 > 		<string>철자 오류 무시</string>
 < 		<string>Check Spelling While Typing</string>
@@ -1565,7 +1547,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Close</string>
 > 		<string>닫기</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 < 		<string>Use None</string>
 > 		<string>합자 없음</string>
 < 		<string>Rasterise…</string>
@@ -1592,6 +1574,8 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>픽셀 크기</string>
 < 		<string>Lock</string>
 > 		<string>잠금</string>
+< 		<string>Rotate 90° Clockwise</string>
+> 		<string>시계방향으로 90° 회전</string>
 < 		<string>Check Spelling</string>
 > 		<string>철자 확인</string>
 < 		<string>Non-Breaking Space</string>
@@ -1600,30 +1584,34 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>세로 가운데 정렬</string>
 < 		<string>Justify All</string>
 > 		<string>양쪽 균등 정렬</string>
+< 		<string>Rotate 90° Clockwise</string>
+> 		<string>시계방향으로 90° 회전</string>
 < 		<string>Align Centre</string>
 > 		<string>가로 가운데 정렬</string>
 < 		<string>Move Forward One</string>
 > 		<string>앞으로 가져오기</string>
 < 		<string>Justify Centre</string>
 > 		<string>가운데 균등 정렬</string>
+< 		<string>Hide All Text</string>
+> 		<string>모든 텍스트 숨기기</string>
 < 		<string>Subtract</string>
 > 		<string>제거</string>
 < 		<string>Italic</string>
 > 		<string>기울임</string>
 < 		<string>Auto Contrast</string>
 > 		<string>자동 대비</string>
+< 		<string>Margins…</string>
+> 		<string>여백…</string>
 < 		<string>Align Top</string>
 > 		<string>위쪽 정렬</string>
 < 		<string>Smaller</string>
-> 		<string>줄이기</string>
+> 		<string>더 작게</string>
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
 < 		<string>Rotate Left</string>
 > 		<string>왼쪽으로 회전</string>
 < 		<string>Show Typography</string>
-> 		<string>타이포그래피 작업실</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
+> 		<string>타이포그래피 보기</string>
 < 		<string>Move to Next View Point</string>
 > 		<string>다음 뷰 포인트로 이동</string>
 < 		<string>Insert Filler Text</string>
@@ -1632,6 +1620,8 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>줄 바꿈 없는 하이픈</string>
 < 		<string>Tighten</string>
 > 		<string>좁게</string>
+< 		<string>Merge Down</string>
+> 		<string>아래 항목 병합</string>
 < 		<string>Create Paragraph Style</string>
 > 		<string>문단 스타일 생성</string>
 < 		<string>Delete Paragraph Style</string>
@@ -1648,6 +1638,8 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>효과 붙이기</string>
 < 		<string>New From Clipboard</string>
 > 		<string>클립보드에서 신규</string>
+< 		<string>Rotate 90° Anticlockwise</string>
+> 		<string>반시계방향으로 90° 회전</string>
 < 		<string>Increase</string>
 > 		<string>늘리기</string>
 < 		<string>Detach and Delete All Styles</string>
@@ -1677,7 +1669,7 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 < 		<string>Defaults</string>
 > 		<string>기본값</string>
 < 		<string>Text</string>
-> 		<string>문자</string>
+> 		<string>텍스트</string>
 < 		<string>Character Traits</string>
 < 		<string>Character Traits</string>
 > 		<string>문자 특성</string>
@@ -1714,8 +1706,14 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>세로 정렬</string>
 < 		<string>Spelling</string>
 > 		<string>철자</string>
+< 		<string>Document</string>
+> 		<string>문서</string>
 < 		<string>Restore Snapshot</string>
 > 		<string>스냅샷 복원</string>
+< 		<string>Colour Format</string>
+< 		<string>Colour Format</string>
+> 		<string>색상 포맷</string>
+> 		<string>색상 포맷</string>
 < 		<string>Layer</string>
 > 		<string>레이어</string>
 < 		<string>Geometry</string>
@@ -1724,12 +1722,20 @@ diff -s /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRas
 > 		<string>선택</string>
 < 		<string>Colour Range</string>
 < 		<string>Colour Range</string>
-> 		<string>색상 영역</string>
-> 		<string>색상 영역</string>
+> 		<string>색상 범위</string>
+> 		<string>색상 범위</string>
 < 		<string>Tonal Range</string>
-> 		<string>색조 영역</string>
+> 		<string>색조 범위</string>
+< 		<string>Alpha Range</string>
+< 		<string>Alpha Range</string>
+> 		<string>알파 범위</string>
+> 		<string>알파 범위</string>
 < 		<string>Arrange</string>
 > 		<string>순서</string>
+< 		<string>Filters</string>
+> 		<string>필터</string>
+< 		<string>Distort</string>
+> 		<string>왜곡</string>
 < 		<string>Colours</string>
 > 		<string>색상</string>
 < 		<string>View</string>
