@@ -1822,7 +1822,7 @@
 				<integer>75</integer>
 			</dict>
 		</dict>
-		<string>Move Inside</string>
+		<string>안으로 가져오기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1857,7 +1857,7 @@
 				<integer>77</integer>
 			</dict>
 		</dict>
-		<string>Move Outside</string>
+		<string>밖으로 보내기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2494,7 +2494,7 @@
 				<integer>108</integer>
 			</dict>
 		</dict>
-		<string>Combine</string>
+		<string>배타</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4330,7 +4330,7 @@
 				<integer>196</integer>
 			</dict>
 		</dict>
-		<string>늘리기</string>
+		<string>더 크게</string>
 		<string>&gt;</string>
 		<dict>
 			<key>$class</key>
@@ -4406,7 +4406,7 @@
 				<integer>202</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 늘리기</string>
+		<string>조금씩 더 크게</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4443,7 +4443,7 @@
 				<integer>204</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 줄이기</string>
+		<string>조금씩 더 작게</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5454,7 +5454,7 @@
 				<integer>259</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 늘리기</string>
+		<string>조금씩 늘리기</string>
 		<string></string>
 		<dict>
 			<key>$class</key>
@@ -5492,7 +5492,7 @@
 				<integer>262</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 줄이기</string>
+		<string>조금씩 줄이기</string>
 		<string></string>
 		<dict>
 			<key>$class</key>
@@ -10631,7 +10631,7 @@
 				<integer>564</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 늘리기</string>
+		<string>조금씩 더 크게</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10668,7 +10668,7 @@
 				<integer>566</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 줄이기</string>
+		<string>조금씩 더 작게</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10868,7 +10868,7 @@
 				<integer>577</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 늘리기</string>
+		<string>조금씩 늘리기</string>
 		<string></string>
 		<dict>
 			<key>$class</key>
@@ -10906,7 +10906,7 @@
 				<integer>580</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 줄이기</string>
+		<string>조금씩 줄이기</string>
 		<string></string>
 		<dict>
 			<key>$classes</key>

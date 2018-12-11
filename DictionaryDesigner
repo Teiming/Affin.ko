@@ -7,6 +7,7 @@ s/g>About…</g>Affinity Designer에 관하여…</
 s/g>Actual Size</g>실제 크기</
 s/g>Add Chord to Swatch</g>견본에 코드 추가</
 s/g>Add Colour to Swatch</g>견본에 색상 추가</
+s/g>Add Crop Preset</g>크롭 프리셋 추가</
 s/g>Add Document Snapshot</g>문서 스냅샷 추가</
 s/g>Add Global Colour…</g>전역 색상 추가…</
 s/g>Add Snapshot</g>스냅샷 추가</
@@ -91,8 +92,8 @@ s/g>Bold</g>강조</
 s/g>Bottom</g>아래</
 s/g>Brightness \/ Contrast</g>명암 \/ 대비</
 s/g>Bring All to Front</g>모두 앞으로 가져오기</
-s/g>Brush</g>붓</
-s/g>Brushes</g>붓</
+s/g>Brush</g>브러시</
+s/g>Brushes</g>브러시</
 s/g>Button</g>버튼</
 s/g>Cancel</g>취소</
 s/g>Capitalisation</g>대문자화</
@@ -144,6 +145,8 @@ s/g>Create Slice from the currently selected object</g>지금 선택된 대상�
 s/g>Create Slice</g>슬라이스 생성</
 s/g>Create Style</g>스타일 생성</
 s/g>Create artboard</g>아트보드 생성</
+s/g>Crop Tool</g>크롭 도구</
+s/g>Crop</g>크롭</
 s/g>Curves</g>곡선</
 s/g>Custom</g>사용자화</
 s/g>Customise Toolbar…</g>툴바 사용자화…</
@@ -333,6 +336,7 @@ s/g>Layers</g>레이어</
 s/g>Layout Persona</g>구조 페르소나</
 s/g>Layout</g>구조</
 s/g>Learn Spelling</g>철자 학습</
+s/g>Left Margin:</g>왼쪽 여백</
 s/g>Left</g>왼쪽</
 s/g>Lens Filter</g>렌즈 필터</
 s/g>Levels</g>레벨</
@@ -422,6 +426,7 @@ s/g>Outer</g>외부</
 s/g>Outline view mode</g>윤곽 뷰 모드</
 s/g>Outline</g>윤곽</
 s/g>Outline…</g>윤곽…</
+s/g>Page Preset:</g>페이지 프리셋:</
 s/g>Page</g>페이지</
 s/g>Panorama Persona</g>파노라마 페르소나</
 s/g>Panorama</g>파노라마</
@@ -494,6 +499,7 @@ s/g>Remove Profile</g>프로파일 지우기</
 s/g>Remove</g>지우기</
 s/g>Rename Palette…</g>팔레트 이름 변경…</
 s/g>Reset Adjustments</g>조정 재설정</
+s/g>Reset Crop Tool Presets</g>크롭 도구 프리셋 재설정</
 s/g>Reset Fonts</g>서체 재설정</
 s/g>Reset Keyboard Shortcuts</g>키보드 단축키 재설정</
 s/g>Reset Rotation</g>회전 재설정</
@@ -509,6 +515,7 @@ s/g>Reveal in Finder</g>Finder에서 찾기</
 s/g>Revert Defaults</g>기본값 되돌리기</
 s/g>Revert defaults</g>기본값 되돌리기</
 s/g>Revert</g>되돌리기</
+s/g>Right Margin:</g>오른쪽 여백:</
 s/g>Right</g>오른쪽</
 s/g>Rotate 90° Anticlockwise</g>반시계방향으로 90° 회전</
 s/g>Rotate 90° Clockwise</g>시계방향으로 90° 회전</
@@ -668,7 +675,9 @@ s/g>Use All</g>모두 합자</
 s/g>Use Default</g>기준선 재설정</
 s/g>Use None</g>합자 없음</
 s/g>User Forums</g>사용자 포럼</
-s/g>Vector Brush Tool</g>벡터 붓 도구</
+s/g>Vector Brush Tool</g>벡터 브러시 도구</
+s/g>Vector Crop Tool</g>벡터 크롭 도구</
+s/g>Vector Erase Brush Tool</g>벡터 지우기 브러시 도구</
 s/g>Vector</g>벡터</
 s/g>Vertical Alignment</g>세로 정렬</
 s/g>Vertical Scale</g>세로 배율</

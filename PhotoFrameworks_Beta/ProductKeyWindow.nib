@@ -167,7 +167,7 @@
 				<integer>10</integer>
 			</dict>
 		</dict>
-		<string>{{861, 442}, {838, 533}}</string>
+		<string>{{421, 247}, {838, 533}}</string>
 		<string></string>
 		<string>ProductKeyWindow</string>
 		<dict>
@@ -786,6 +786,8 @@
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
+			<key>NSPreferredMaxLayoutWidth</key>
+			<real>496</real>
 			<key>NSSuperview</key>
 			<dict>
 				<key>CF$UID</key>
@@ -1566,6 +1568,8 @@
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
+			<key>NSPreferredMaxLayoutWidth</key>
+			<real>496</real>
 			<key>NSSuperview</key>
 			<dict>
 				<key>CF$UID</key>
@@ -2480,6 +2484,8 @@
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
+			<key>NSPreferredMaxLayoutWidth</key>
+			<real>496</real>
 			<key>NSSuperview</key>
 			<dict>
 				<key>CF$UID</key>
@@ -3348,6 +3354,8 @@
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
+			<key>NSPreferredMaxLayoutWidth</key>
+			<real>496</real>
 			<key>NSSuperview</key>
 			<dict>
 				<key>CF$UID</key>
@@ -3826,6 +3834,8 @@
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
+			<key>NSPreferredMaxLayoutWidth</key>
+			<real>496</real>
 			<key>NSSuperview</key>
 			<dict>
 				<key>CF$UID</key>
@@ -4193,6 +4203,8 @@
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
+			<key>NSPreferredMaxLayoutWidth</key>
+			<real>496</real>
 			<key>NSSuperview</key>
 			<dict>
 				<key>CF$UID</key>
@@ -4455,6 +4467,8 @@
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
+			<key>NSPreferredMaxLayoutWidth</key>
+			<real>496</real>
 			<key>NSSuperview</key>
 			<dict>
 				<key>CF$UID</key>
@@ -4641,6 +4655,8 @@
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
+			<key>NSPreferredMaxLayoutWidth</key>
+			<real>496</real>
 			<key>NSSuperview</key>
 			<dict>
 				<key>CF$UID</key>
@@ -5476,7 +5492,7 @@
 			<string>NSTabView</string>
 		</dict>
 		<string>{838, 533}</string>
-		<string>{{0, 0}, {2560, 1417}}</string>
+		<string>{{0, 0}, {1680, 1027}}</string>
 		<string>{10000000000000, 10000000000000}</string>
 		<string>{0, 0}</string>
 		<dict>

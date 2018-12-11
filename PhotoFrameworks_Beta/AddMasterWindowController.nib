@@ -1714,7 +1714,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>세로방향</string>
+		<string>세로 방향</string>
 		<string>_portraitButton</string>
 		<dict>
 			<key>$class</key>
@@ -2704,7 +2704,7 @@
 				<integer>142</integer>
 			</dict>
 		</dict>
-		<string>Page Preset:</string>
+		<string>페이지 프리셋:</string>
 		<string>SchemeTextField</string>
 		<string>{{22, 140}, {150, 16}}</string>
 		<dict>
@@ -3445,7 +3445,7 @@
 				<integer>142</integer>
 			</dict>
 		</dict>
-		<string>Left Margin:</string>
+		<string>왼쪽 여백</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3668,7 +3668,7 @@
 				<integer>142</integer>
 			</dict>
 		</dict>
-		<string>Right Margin:</string>
+		<string>오른쪽 여백:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4638,7 +4638,7 @@
 			</dict>
 		</dict>
 		<string>SchemeButtonCell</string>
-		<string>OK</string>
+		<string>확인</string>
 		<string></string>
 		<string>{480, 309}</string>
 		<string>{{0, 0}, {2880, 1620}}</string>

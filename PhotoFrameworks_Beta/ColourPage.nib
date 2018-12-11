@@ -1917,7 +1917,7 @@
 				<integer>113</integer>
 			</dict>
 		</dict>
-		<string>Copy Colour to Clipboard as Hex</string>
+		<string>Hex로 색상 복사</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2218,7 +2218,7 @@
 				<integer>128</integer>
 			</dict>
 		</dict>
-		<string>Analogous</string>
+		<string>유사</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2431,7 +2431,7 @@
 				<integer>139</integer>
 			</dict>
 		</dict>
-		<string>Tints</string>
+		<string>하양 혼합</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2466,7 +2466,7 @@
 				<integer>141</integer>
 			</dict>
 		</dict>
-		<string>음영</string>
+		<string>검정 혼합</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2501,7 +2501,7 @@
 				<integer>143</integer>
 			</dict>
 		</dict>
-		<string>색조</string>
+		<string>회색 혼합</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -4254,7 +4254,7 @@
 				<integer>250</integer>
 			</dict>
 		</dict>
-		<string>Hue</string>
+		<string>색채</string>
 		<string>_popUpItemAction:</string>
 		<dict>
 			<key>$class</key>
@@ -4302,7 +4302,7 @@
 				<integer>253</integer>
 			</dict>
 		</dict>
-		<string>Saturation</string>
+		<string>채도</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4349,7 +4349,7 @@
 				<integer>255</integer>
 			</dict>
 		</dict>
-		<string>Lightness</string>
+		<string>밝기</string>
 		<dict>
 			<key>$classes</key>
 			<array>

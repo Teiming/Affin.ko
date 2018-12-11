@@ -385,9 +385,9 @@ How do you want to proceed?
 	<key>%1 x %2 px [RasterCropTool tool output size]</key>
 	<string>%1 x %2 px</string>
 	<key>%1 |CLICK|+|TERTIARY| to preserve frame formatting. [Hintline]</key>
-	<string>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</string>
+	<string>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</string>
 	<key>%1 |CLICK|+|TERTIARY| to preserve path formatting. [Hintline]</key>
-	<string>%1 |CLICK|+|TERTIARY| to preserve path formatting.</string>
+	<string>%1 |CLICK|+|TERTIARY|해서 경로 포맷을 유지합니다.</string>
 	<key>%1 × %2px, %3MP, %4 [Widt x Height etc. readout]</key>
 	<string>%1 × %2px, %3MP, %4</string>
 	<key>%1 × %2px, %3MP, %4 [Width x Height etc. readout]</key>
@@ -503,7 +503,7 @@ How do you want to proceed?
 	<key>%lu Vector Brushes into %@ [Import Brushes]</key>
 	<string>%lu Vector Brushes into %@</string>
 	<key>'%1' selected.  [Hintline]</key>
-	<string>'%1' 선택됨. </string>
+	<string>'%1' 선택함. </string>
 	<key>'%1' selected. |DRAG| to move the content within the Picture Frame. [Hintline]</key>
 	<string>'%1' selected. |DRAG| to move the content within the Picture Frame.</string>
 	<key>(Document will be rasterised) [Vector export warning]</key>
@@ -791,7 +791,7 @@ The document must now be closed.</string>
 	<key>Add Category [add category string]</key>
 	<string>Add Category</string>
 	<key>Add Crop Preset [Raster Crop]</key>
-	<string>Add Crop Preset</string>
+	<string>크롭 프리셋 추가</string>
 	<key>Add Details Preset [Details preset sheet message]</key>
 	<string>Add Details Preset</string>
 	<key>Add Document Palette [Swatches]</key>
@@ -1995,15 +1995,15 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Automatic (based on selection) [Preferences Page]</key>
 	<string>Automatic (based on selection)</string>
 	<key>Automatic [Brush Controller Option - Automatic]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Export Page]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Fit Type]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Grid and snapping node button label]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Grid and snapping node button tooltip]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic list [Command description]</key>
 	<string>Automatic list</string>
 	<key>Automatically Refine [Reflected property]</key>
@@ -2647,21 +2647,21 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Brush Tool [Main Controls Tooltip]</key>
 	<string>Brush Tool</string>
 	<key>Brush [Brush Context Toolbar Name]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brush [Brush Manager Title]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brush [Brush type]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brush [Options reflection]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brush [Page title]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brush [Preferences user interface search term]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brush [Raster brush tool reflection]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brush [Reflected property]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brush overlay [DevelopOverlaysPage]</key>
 	<string>Brush overlay</string>
 	<key>Brush overlay [ToneMapOverlaysPage]</key>
@@ -2677,17 +2677,17 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Brushes Studio [Studio View]</key>
 	<string>Brushes Studio</string>
 	<key>Brushes [Brushes New Category Name]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brushes [Main Controls Tooltip]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brushes [Main Controls]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brushes [Page title]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brushes [Preferences misc search term]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brushes [Reset brushes]</key>
-	<string>붓</string>
+	<string>브러시</string>
 	<key>Brushes restored to factory settings [Reset brushes]</key>
 	<string>Brushes restored to factory settings</string>
 	<key>Bsc [Short page title]</key>
@@ -3025,9 +3025,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Center weighted average [XMP state]</key>
 	<string>Center weighted average</string>
 	<key>Centimetres [Preferences user interface search term]</key>
-	<string>Centimetres</string>
+	<string>센티미터</string>
 	<key>Centimetres [Unit Types]</key>
-	<string>Centimetres</string>
+	<string>센티미터</string>
 	<key>Central Yupik [Typography language]</key>
 	<string>Central Yupik</string>
 	<key>Centre  [TabStop description]</key>
@@ -3655,15 +3655,15 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Columns: [Text Context Toolbar - Columns Label]</key>
 	<string>Columns:</string>
 	<key>Combine [Combine nodes command name]</key>
-	<string>Combine</string>
+	<string>배타</string>
 	<key>Combine [Geometry Operations]</key>
-	<string>Combine</string>
+	<string>배타</string>
 	<key>Combine [Main Controls Tooltip]</key>
-	<string>Combine</string>
+	<string>배타</string>
 	<key>Combine [Main Controls]</key>
-	<string>Combine</string>
+	<string>배타</string>
 	<key>Combine [Object Page]</key>
-	<string>Combine</string>
+	<string>배타</string>
 	<key>Combining Diacritical Marks For Symbols [Glyph Ranges]</key>
 	<string>Combining Diacritical Marks For Symbols</string>
 	<key>Combining Diacritical Marks Supplement [Glyph Ranges]</key>
@@ -3725,13 +3725,13 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Confirm access to export folder [Exportable items]</key>
 	<string>Confirm access to export folder</string>
 	<key>Conical [Fill Type]</key>
-	<string>Conical</string>
+	<string>원뿔형</string>
 	<key>Conical [Gradient overlay filter effect tool reflection]</key>
-	<string>Conical</string>
+	<string>원뿔형</string>
 	<key>Conical [Transparency Type]</key>
-	<string>Conical</string>
+	<string>원뿔형</string>
 	<key>Conical [fill tool reflection]</key>
-	<string>Conical</string>
+	<string>원뿔형</string>
 	<key>Constant was not the correct size (either pure or vector) [Parser Error]</key>
 	<string>Constant was not the correct size (either pure or vector)</string>
 	<key>Constrain [Fill Tool Modifier]</key>
@@ -4143,9 +4143,9 @@ The input RGB value should contain a bump map encoded vector.</string>
 	<key>Crop Size: [Raster Crop]</key>
 	<string>Crop Size:</string>
 	<key>Crop Tool [Main Controls Tooltip]</key>
-	<string>Crop Tool</string>
+	<string>크롭 도구</string>
 	<key>Crop Tool [Tool description]</key>
-	<string>Crop Tool</string>
+	<string>크롭 도구</string>
 	<key>Crop method: [Raster Crop]</key>
 	<string>Crop method:</string>
 	<key>Crop to bounds [Panorama reflection]</key>
@@ -4551,7 +4551,7 @@ The input RGB value should contain a bump map encoded vector.</string>
 	<key>Delete "%@" [Text style]</key>
 	<string>Delete "%@"</string>
 	<key>Delete %1 [Command description]</key>
-	<string>Delete %1</string>
+	<string>%1 지우기</string>
 	<key>Delete %lu Pages [Pages Page]</key>
 	<string>Delete %lu Pages</string>
 	<key>Delete Artboard (Keeping Contents) [Command description]</key>
@@ -5149,13 +5149,13 @@ The input RGB value should contain a bump map encoded vector.</string>
 	<key>Don't Return [Return document option]</key>
 	<string>Don't Return</string>
 	<key>Don't Save [Don't Save]</key>
-	<string>Don't Save</string>
+	<string>저장하지 않음</string>
 	<key>Don't Save [Save option]</key>
-	<string>Don't Save</string>
+	<string>저장하지 않음</string>
 	<key>Don't open recovery file [Don't open autosave]</key>
 	<string>Don't open recovery file</string>
 	<key>Don't restore [Autosave option]</key>
-	<string>Don't restore</string>
+	<string>복원하지 않음</string>
 	<key>Don't set [Brush Editor]</key>
 	<string>Don't set</string>
 	<key>Done [Toolbar palette done button]</key>
@@ -6045,9 +6045,9 @@ Attribute names must be unique</string>
 	<key>Feature Protection [Reflected property]</key>
 	<string>Feature Protection</string>
 	<key>Feet [Preferences user interface search term]</key>
-	<string>Feet</string>
+	<string>피트</string>
 	<key>Feet [Unit Types]</key>
-	<string>Feet</string>
+	<string>피트</string>
 	<key>Field Blur Tool [Tool description]</key>
 	<string>Field Blur Tool</string>
 	<key>Field Blur [Command description]</key>
@@ -6403,19 +6403,19 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Fractions [Character Page]</key>
 	<string>Fractions</string>
 	<key>Frame Text Tool [Main Controls Tooltip]</key>
-	<string>Frame Text Tool</string>
+	<string>액자 텍스트도구</string>
 	<key>Frame Text Tool [Tool description]</key>
-	<string>Frame Text Tool</string>
+	<string>액자 텍스트도구</string>
 	<key>Frame Text [Frame Text name]</key>
-	<string>Frame Text</string>
+	<string>액자 텍스트</string>
 	<key>Frame Text [Main Controls]</key>
-	<string>Frame Text</string>
+	<string>액자 텍스트</string>
 	<key>Frame [Content type]</key>
-	<string>Frame</string>
+	<string>액자</string>
 	<key>Frame [Hard break description]</key>
-	<string>Frame</string>
+	<string>액자</string>
 	<key>Frame setup [Command description]</key>
-	<string>Frame setup</string>
+	<string>액자 설정</string>
 	<key>Frame text insets [Command description]</key>
 	<string>Frame text insets</string>
 	<key>Frame text ruler [ToolRuler button]</key>
@@ -6493,13 +6493,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Galician [Typography language]</key>
 	<string>Galician</string>
 	<key>Gamma [Layer Options Page]</key>
-	<string>Gamma</string>
+	<string>감마</string>
 	<key>Gamma [Reflectable property]</key>
-	<string>Gamma</string>
+	<string>감마</string>
 	<key>Gamma [Reflected property]</key>
-	<string>Gamma</string>
+	<string>감마</string>
 	<key>Gamma [View tool reflection]</key>
-	<string>Gamma</string>
+	<string>감마</string>
 	<key>Gamut Alarm [Soft proof reflection]</key>
 	<string>Gamut Alarm</string>
 	<key>Gamut Check [Adjustment touch bar]</key>
@@ -6779,7 +6779,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Guides Tool [Tool description]</key>
 	<string>Guides Tool</string>
 	<key>Guides [Main Controls]</key>
-	<string>Guides</string>
+	<string>안내선</string>
 	<key>Gujarati [Glyph Ranges]</key>
 	<string>Gujarati</string>
 	<key>Gujarati [Typography language]</key>
@@ -6835,8 +6835,10 @@ The documents will need to be saved before they can be closed.</string>
 	<key>HSL Shift Tool [Tool description]</key>
 	<string>HSL Shift Tool</string>
 	<key>HSL Sliders [Colour Model]</key>
-	<string>HSL Sliders</string>
+	<string>HSL 슬라이더</string>
 	<key>HSL [Adjustment name]</key>
+	<string>HSL</string>
+	<key>HSL [Colour format]</key>
 	<string>HSL</string>
 	<key>HSL [Main Controls Tooltip]</key>
 	<string>HSL</string>
@@ -7175,19 +7177,19 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Hover to copy the node. [Hintline]</key>
 	<string>Hover to copy the node.</string>
 	<key>Hue [Blend Modes]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [Brush Editor]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [Develop Lens Page]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [HSL Channel name]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [HSL Slider]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [Reflectable enum]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [Reflected property]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hungarian [Typography language]</key>
 	<string>Hungarian</string>
 	<key>Hyperfocal: [Camera Page]</key>
@@ -7339,9 +7341,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Inari Sami [Typography language]</key>
 	<string>Inari Sami</string>
 	<key>Inches [Preferences user interface search term]</key>
-	<string>Inches</string>
+	<string>인치</string>
 	<key>Inches [Unit Types]</key>
-	<string>Inches</string>
+	<string>인치</string>
 	<key>Include all text frames [TOC Page]</key>
 	<string>Include all text frames</string>
 	<key>Include in export [Command description]</key>
@@ -7711,9 +7713,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Isolated Forms [OpenType feature description]</key>
 	<string>Isolated Forms</string>
 	<key>Isometric [Grid Type Option - Isometric]</key>
-	<string>Isometric</string>
+	<string>등각투상</string>
 	<key>Isometric [Page Title]</key>
-	<string>Isometric</string>
+	<string>등각투상</string>
 	<key>It is not possible to create assets from this document. [Restricted document message]</key>
 	<string>It is not possible to create assets from this document.</string>
 	<key>Italian [Typography language]</key>
@@ -8245,7 +8247,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Left Margin [New Document Page]</key>
 	<string>Left Margin</string>
 	<key>Left Margin: [Page margins]</key>
-	<string>Left Margin:</string>
+	<string>왼쪽 여백</string>
 	<key>Left Point [Shape tool reflection]</key>
 	<string>Left Point</string>
 	<key>Left [Alignment title]</key>
@@ -8419,11 +8421,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Lighting [Main Controls]</key>
 	<string>Lighting</string>
 	<key>Lightness [LAB Channel name]</key>
-	<string>Lightness</string>
+	<string>밝기</string>
 	<key>Lightness [LAB Slider]</key>
-	<string>Lightness</string>
+	<string>밝기</string>
 	<key>Lightness [Reflected property]</key>
-	<string>Lightness</string>
+	<string>밝기</string>
 	<key>Lights [Lighting reflection]</key>
 	<string>Lights</string>
 	<key>Ligurian [Typography language]</key>
@@ -8473,25 +8475,25 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Linear Light [Blend Modes]</key>
 	<string>Linear Light</string>
 	<key>Linear [Bevel / Emboss filter effect tool reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Develop tool (overlay gradient) reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Fill Type]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Gradient overlay filter effect tool reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Phong bevel filter effect tool reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Reflectable property]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Reflected property]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [ToneMap tool (overlay gradient) reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Transparency Type]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [fill tool reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear burn [Reflectable enum]</key>
 	<string>Linear burn</string>
 	<key>Linear light [Reflectable enum]</key>
@@ -9249,29 +9251,29 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Menus [Preferences keyboard shortcut search term]</key>
 	<string>Menus</string>
 	<key>Merge Down [Command description]</key>
-	<string>아래 항목 병합</string>
+	<string>아래 항목 통합</string>
 	<key>Merge Down [Layer Page]</key>
-	<string>아래 항목 병합</string>
+	<string>아래 항목 통합</string>
 	<key>Merge Down [Main Controls]</key>
-	<string>아래 항목 병합</string>
+	<string>아래 항목 통합</string>
 	<key>Merge Layer [Select tool reflection]</key>
 	<string>Merge Layer</string>
 	<key>Merge Selected [Layer Page]</key>
-	<string>선택 항목 병합</string>
+	<string>선택 항목 통합</string>
 	<key>Merge Selected [Main Controls]</key>
-	<string>선택 항목 병합</string>
+	<string>선택 항목 통합</string>
 	<key>Merge Visible [Layer Page]</key>
-	<string>보이는 항목 병합</string>
+	<string>보이는 항목 통합</string>
 	<key>Merge Visible [Main Controls]</key>
-	<string>보이는 항목 병합</string>
+	<string>보이는 항목 통합</string>
 	<key>Merge [Live filter dialog label]</key>
-	<string>Merge</string>
+	<string>통합</string>
 	<key>Merge [Main Controls Tooltip]</key>
-	<string>Merge</string>
+	<string>통합</string>
 	<key>Merge [Main Controls]</key>
-	<string>Merge</string>
+	<string>통합</string>
 	<key>Merge [Reflected action]</key>
-	<string>Merge</string>
+	<string>통합</string>
 	<key>Merge cells [Merge Cells button]</key>
 	<string>Merge cells</string>
 	<key>Merge curves [Command description]</key>
@@ -9333,9 +9335,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Metering mode: [Camera Page]</key>
 	<string>Metering mode:</string>
 	<key>Metres [Preferences user interface search term]</key>
-	<string>Metres</string>
+	<string>미터</string>
 	<key>Metres [Unit Types]</key>
-	<string>Metres</string>
+	<string>미터</string>
 	<key>Mewati [Typography language]</key>
 	<string>Mewati</string>
 	<key>Miao [Typography script]</key>
@@ -9601,9 +9603,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Move Forward [Main Controls]</key>
 	<string>Move Forward</string>
 	<key>Move Inside [Command description]</key>
-	<string>Move Inside</string>
+	<string>안으로 가져오기</string>
 	<key>Move Outside [Command description]</key>
-	<string>Move Outside</string>
+	<string>밖으로 보내기</string>
 	<key>Move Pages [Command description]</key>
 	<string>Move Pages</string>
 	<key>Move Rotation Centre [Command description]</key>
@@ -10131,15 +10133,15 @@ Same as negz(v).</string>
 	<key>Noise Tool [Tool description]</key>
 	<string>Noise Tool</string>
 	<key>Noise [Colour Page Label]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Noise [Colour Page]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Noise [Filters Page]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Noise [Main Controls]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Noise [Noise-Alpha slider on colour page]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Non - Plane 0 [Glyph Ranges]</key>
 	<string>Non - Plane 0</string>
 	<key>Non Breaking Hyphen [Menu glyph name]</key>
@@ -10341,21 +10343,21 @@ Same as negz(v).</string>
 	<key>OCIO [OCIO reflection]</key>
 	<string>OCIO</string>
 	<key>OK [Button name]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Choice]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Exportable items]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Font Status]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [OK]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Paste to new document]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Resource Manager]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Telemetry Page]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OSX Application Icon [Export presets]</key>
 	<string>OSX Application Icon</string>
 	<key>OSX Application Icon part - 1024px (512x512 @2x) [Export presets]</key>
@@ -11473,7 +11475,7 @@ Same as negz(v).</string>
 	<key>Portable Network Graphic [File format]</key>
 	<string>Portable Network Graphic</string>
 	<key>Portrait [Fit Type]</key>
-	<string>세로방향</string>
+	<string>세로 방향</string>
 	<key>Portuguese [Typography language]</key>
 	<string>Portuguese</string>
 	<key>Position [Tab Stop Panel]</key>
@@ -11746,8 +11748,10 @@ Same as negz(v).</string>
 	<string>RGB 8-bit</string>
 	<key>RGB Cube [Reflectable enum]</key>
 	<string>RGB Cube</string>
+	<key>RGB Hex [Colour format]</key>
+	<string>RGB Hex</string>
 	<key>RGB Sliders [Colour Model]</key>
-	<string>RGB Sliders</string>
+	<string>RGB 슬라이더</string>
 	<key>RGB Unbounded [ColourSpace]</key>
 	<string>RGB Unbounded</string>
 	<key>RGB [Apply image tool reflection]</key>
@@ -12431,7 +12435,7 @@ Same as negz(v).</string>
 	<key>Restore Master Presets to Category [Preset Manager]</key>
 	<string>Restore Master Presets to Category</string>
 	<key>Restore [Autosave option]</key>
-	<string>Restore</string>
+	<string>복원</string>
 	<key>Restore auto slice rect [Command description]</key>
 	<string>Restore auto slice rect</string>
 	<key>Restore snapshot [Command description]</key>
@@ -12441,7 +12445,7 @@ Same as negz(v).</string>
 	<key>Restore unsaved documents [Command description]</key>
 	<string>Restore unsaved documents</string>
 	<key>Restore unsaved file? [Message box title]</key>
-	<string>Restore unsaved file?</string>
+	<string>저장하지 않은 파일을 복원하겠습니까?</string>
 	<key>Restore unsaved files? [Message box title]</key>
 	<string>Restore unsaved files?</string>
 	<key>Result [Telemetry Page]</key>
@@ -12921,7 +12925,7 @@ v can be scalar or vector.</string>
 	<key>Right Margin [New Document Page]</key>
 	<string>Right Margin</string>
 	<key>Right Margin: [Page margins]</key>
-	<string>Right Margin:</string>
+	<string>오른쪽 여백:</string>
 	<key>Right Point [Shape tool reflection]</key>
 	<string>Right Point</string>
 	<key>Right Triangle [Menu glyph name]</key>
@@ -13237,33 +13241,33 @@ v can be scalar or vector.</string>
 	<key>Saturate [Sponge Brush Mode]</key>
 	<string>Saturate</string>
 	<key>Saturation [Blend Modes]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Brush Editor]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Develop Basic Page]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Develop Overlays Page]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [HSL Channel name]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [HSL Slider]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Intent]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Preferences Page]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Reflectable enum]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Reflectable property]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Reflected property]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Saturation brush mode]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Soft proof intent]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Toning Basic Page]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saurashtra [Glyph Ranges]</key>
 	<string>Saurashtra</string>
 	<key>Saurashtra [Typography script]</key>
@@ -15003,9 +15007,9 @@ v can be scalar or vector.</string>
 	<key>Small caps [OpenType feature command description]</key>
 	<string>Small caps</string>
 	<key>Smallest [Preferences control title]</key>
-	<string>Smallest</string>
+	<string>가장 작게</string>
 	<key>Smallest [Preferences control tooltip]</key>
-	<string>Smallest</string>
+	<string>가장 작게</string>
 	<key>Smart Mode [Pen tool context toolbar control title]</key>
 	<string>Smart Mode</string>
 	<key>Smart Mode [Pen tool context toolbar control tooltip]</key>
@@ -16767,7 +16771,7 @@ Same as swapyz(v).</string>
 	<key>Tones Studio [Studio View]</key>
 	<string>Tones Studio</string>
 	<key>Tones [Page title]</key>
-	<string>색조</string>
+	<string>회색 혼합</string>
 	<key>Tonga [Typography language]</key>
 	<string>Tonga</string>
 	<key>Tongan [Typography language]</key>
@@ -17535,13 +17539,13 @@ View point with that name already exists.</string>
 	<key>Variation Selectors [Glyph Ranges]</key>
 	<string>Variation Selectors</string>
 	<key>Vector Brush Tool [Main Controls Tooltip]</key>
-	<string>Vector Brush Tool</string>
+	<string>벡터 브러시 도구</string>
 	<key>Vector Brush Tool [Tool description]</key>
-	<string>Vector Brush Tool</string>
+	<string>벡터 브러시 도구</string>
 	<key>Vector Crop Tool [Main Controls Tooltip]</key>
-	<string>Vector Crop Tool</string>
+	<string>벡터 크롭 도구</string>
 	<key>Vector Crop Tool [Tool description]</key>
-	<string>Vector Crop Tool</string>
+	<string>벡터 크롭 도구</string>
 	<key>Vector Layer [Layer Page]</key>
 	<string>Vector Layer</string>
 	<key>Vector [Main Controls Tooltip]</key>
@@ -17913,9 +17917,9 @@ View point with that name already exists.</string>
 	<key>Yapese [Typography language]</key>
 	<string>Yapese</string>
 	<key>Yards [Preferences user interface search term]</key>
-	<string>Yards</string>
+	<string>야드</string>
 	<key>Yards [Unit Types]</key>
-	<string>Yards</string>
+	<string>야드</string>
 	<key>Yellow (Blacks) [Reflectable property]</key>
 	<string>Yellow (Blacks)</string>
 	<key>Yellow (Blues) [Reflectable property]</key>
@@ -18374,16 +18378,16 @@ Would you like to link your images to reduce the document size?</string>
 	<string>|CLICK| to select node. |DRAG| to adjust the node's corner radius. |SECONDARY| to use Node Tool.</string>
 	<key>|CLICK| to select row. [Hintline]</key>
 	<string>|CLICK| to select row.</string>
-	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true conical. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping. [Hintline]</key>
-	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true conical. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping.</string>
-	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true conical. |DRAG| to move fill shear point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping. [Hintline]</key>
-	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true conical. |DRAG| to move fill shear point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping.</string>
-	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true radial. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |TERTIARY| to ignore snapping. [Hintline]</key>
-	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true radial. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |TERTIARY| to ignore snapping.</string>
-	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear and proportions. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|QUATERNARY| to rotate fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping. [Hintline]</key>
-	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear and proportions. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|QUATERNARY| to rotate fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping.</string>
-	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear and scale. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|QUATERNARY| to rotate fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping. [Hintline]</key>
-	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear and scale. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|QUATERNARY| to rotate fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping.</string>
+	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true conical. |DOUBLECLICK|+|QUATERNARY| to reset fill scale. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping. [Hintline]</key>
+	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true conical. |DOUBLECLICK|+|QUATERNARY| to reset fill scale. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping.</string>
+	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true conical. |DOUBLECLICK|+|QUATERNARY| to reset fill scale. |DRAG| to move fill shear point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping. [Hintline]</key>
+	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true conical. |DOUBLECLICK|+|QUATERNARY| to reset fill scale. |DRAG| to move fill shear point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping.</string>
+	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true radial. |DOUBLECLICK|+|QUATERNARY| to reset fill scale. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |TERTIARY| to ignore snapping. [Hintline]</key>
+	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill back to true radial. |DOUBLECLICK|+|QUATERNARY| to reset fill scale. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |TERTIARY| to ignore snapping.</string>
+	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear and proportions. |DOUBLECLICK|+|QUATERNARY| to reset fill proportions. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|QUATERNARY| to rotate fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping. [Hintline]</key>
+	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear and proportions. |DOUBLECLICK|+|QUATERNARY| to reset fill proportions. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|QUATERNARY| to rotate fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping.</string>
+	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear and scale. |DOUBLECLICK|+|QUATERNARY| to reset fill scale. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|QUATERNARY| to rotate fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping. [Hintline]</key>
+	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear and scale. |DOUBLECLICK|+|QUATERNARY| to reset fill scale. |DRAG| to move fill end point. |PRIMARY| to align to axis. |QUATERNARY| to constrain. |SECONDARY| to move fill. |PRIMARY|+|QUATERNARY| to rotate fill. |PRIMARY|+|SECONDARY| to move fill on axis. |SECONDARY|+|QUATERNARY| to move single handle. |TERTIARY| to ignore snapping.</string>
 	<key>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear. |DRAG| to move fill shear point. |PRIMARY| to align to axis. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |TERTIARY| to ignore snapping. [Hintline]</key>
 	<string>|CLICK| to select stop. |DOUBLECLICK| to reset fill shear. |DRAG| to move fill shear point. |PRIMARY| to align to axis. |SECONDARY| to move fill. |PRIMARY|+|SECONDARY| to move fill on axis. |TERTIARY| to ignore snapping.</string>
 	<key>|CLICK| to select stop. |DRAG| to adjust stop position. |PRIMARY| to adjust all stops proportionally (or use |QUATERNARY| to adjust left stops only or |SECONDARY| to adjust right stops only). |TERTIARY| to ignore snapping. [Hintline]</key>

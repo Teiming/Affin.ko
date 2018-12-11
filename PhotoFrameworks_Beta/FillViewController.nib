@@ -839,7 +839,7 @@
 				<integer>49</integer>
 			</dict>
 		</dict>
-		<string>RGB Sliders</string>
+		<string>RGB 슬라이더</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1019,7 +1019,7 @@
 				<integer>52</integer>
 			</dict>
 		</dict>
-		<string>RGB Hex Sliders</string>
+		<string>RGB Hex 슬라이더</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1116,7 +1116,7 @@
 				<integer>55</integer>
 			</dict>
 		</dict>
-		<string>HSL Sliders</string>
+		<string>HSL 슬라이더</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1402,7 +1402,7 @@
 				<integer>65</integer>
 			</dict>
 		</dict>
-		<string>Hue</string>
+		<string>색채</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1449,7 +1449,7 @@
 				<integer>67</integer>
 			</dict>
 		</dict>
-		<string>Lightness</string>
+		<string>밝기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1496,7 +1496,7 @@
 				<integer>69</integer>
 			</dict>
 		</dict>
-		<string>Saturation</string>
+		<string>채도</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1878,7 +1878,7 @@
 				<integer>100</integer>
 			</dict>
 		</dict>
-		<string>Noise</string>
+		<string>잡음</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2709,7 +2709,7 @@
 				<integer>128</integer>
 			</dict>
 		</dict>
-		<string>Linear</string>
+		<string>선형</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2850,7 +2850,7 @@
 				<integer>134</integer>
 			</dict>
 		</dict>
-		<string>Conical</string>
+		<string>원뿔형</string>
 		<dict>
 			<key>$class</key>
 			<dict>

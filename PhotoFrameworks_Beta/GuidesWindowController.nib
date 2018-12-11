@@ -166,7 +166,7 @@
 			</dict>
 		</dict>
 		<string>{{196, 240}, {717, 324}}</string>
-		<string>Guides</string>
+		<string>안내선</string>
 		<string>SchemeWindow</string>
 		<dict>
 			<key>$class</key>
@@ -932,7 +932,7 @@
 				<integer>30</integer>
 			</dict>
 		</dict>
-		<string>Column Guides</string>
+		<string>열 안내선</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3196,7 +3196,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Percent</string>
+		<string>백분율</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3616,7 +3616,7 @@
 				<integer>30</integer>
 			</dict>
 		</dict>
-		<string>Rows:</string>
+		<string>열:</string>
 		<dict>
 			<key>$class</key>
 			<dict>

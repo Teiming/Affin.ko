@@ -5013,7 +5013,7 @@
 				<integer>81</integer>
 			</dict>
 		</dict>
-		<string>Left Margin:</string>
+		<string>왼쪽 여백</string>
 		<string>m_leftBleedLabel</string>
 		<dict>
 			<key>$class</key>
@@ -5125,7 +5125,7 @@
 				<integer>81</integer>
 			</dict>
 		</dict>
-		<string>Left Margin:</string>
+		<string>왼쪽 여백</string>
 		<string>m_leftMarginLabel</string>
 		<dict>
 			<key>$class</key>
@@ -5313,7 +5313,7 @@
 			</dict>
 		</dict>
 		<string>SchemeButtonCell</string>
-		<string>OK</string>
+		<string>확인</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5442,7 +5442,7 @@
 				<integer>81</integer>
 			</dict>
 		</dict>
-		<string>Right Margin:</string>
+		<string>오른쪽 여백:</string>
 		<string>m_rightBleedLabel</string>
 		<dict>
 			<key>$class</key>
@@ -5554,7 +5554,7 @@
 				<integer>81</integer>
 			</dict>
 		</dict>
-		<string>Right Margin:</string>
+		<string>오른쪽 여백:</string>
 		<string>m_rightMarginLabel</string>
 		<dict>
 			<key>$class</key>
@@ -6655,7 +6655,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>세로방향</string>
+		<string>세로 방향</string>
 		<string>{470, 199}</string>
 		<dict>
 			<key>$classes</key>
@@ -9631,7 +9631,7 @@
 				<integer>81</integer>
 			</dict>
 		</dict>
-		<string>Page Preset:</string>
+		<string>페이지 프리셋:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
