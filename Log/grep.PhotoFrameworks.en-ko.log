@@ -105,6 +105,8 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 		<string>시스템</string>
 < 		<string>Last Selected</string>
 > 		<string>마지막 선택 항목</string>
+< 		<string>Space</string>
+> 		<string>공백</string>
 < 		<string>Last Selected</string>
 > 		<string>마지막 선택 항목</string>
 < 		<string>Done</string>
@@ -1023,6 +1025,8 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 		<string>교차</string>
 < 		<string>Subtract</string>
 > 		<string>제거</string>
+< 		<string>Xor</string>
+> 		<string>배타</string>
 < 		<string>Mean</string>
 > 		<string>평균</string>
 < 		<string>Maximum</string>
@@ -1246,6 +1250,14 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>조정</string>
 < 	<string>Adjustment</string>
 > 	<string>조정</string>
+< 	<string>Advanced</string>
+> 	<string>고급</string>
+< 	<string>Advanced</string>
+> 	<string>고급</string>
+< 	<string>Advanced</string>
+> 	<string>고급</string>
+< 	<string>Advanced</string>
+> 	<string>고급</string>
 < 	<string>After</string>
 > 	<string>이후</string>
 < 	<string>After</string>
@@ -1626,12 +1638,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>색상</string>
 < 	<string>Colours</string>
 > 	<string>색상</string>
-< 	<string>Combine</string>
-> 	<string>배타</string>
-< 	<string>Combine</string>
-> 	<string>배타</string>
-< 	<string>Combine</string>
-> 	<string>배타</string>
 < 	<string>Constraints</string>
 > 	<string>제약</string>
 < 	<string>Constraints</string>
@@ -1912,6 +1918,8 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>필터</string>
 < 	<string>Filters</string>
 > 	<string>필터</string>
+< 	<string>Flexible Space</string>
+> 	<string>유연한 공백</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>가로 뒤집기</string>
 < 	<string>Flip Horizontal</string>
@@ -1940,6 +1948,8 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>광채</string>
 < 	<string>Glow</string>
 > 	<string>광채</string>
+< 	<string>Glyph Browser</string>
+> 	<string>글리프 브라우저</string>
 < 	<string>Gradient Map</string>
 > 	<string>그레이디언트 맵</string>
 < 	<string>Gradient Map</string>
@@ -2703,9 +2713,15 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 < 	<string>Soft Proof</string>
 > 	<string>미리보기</string>
 < 	<string>Space Horizontally</string>
-> 	<string>가로 공간</string>
+> 	<string>가로 공백</string>
 < 	<string>Space Vertically</string>
-> 	<string>세로 공간</string>
+> 	<string>세로 공백</string>
+< 	<string>Space</string>
+> 	<string>공백</string>
+< 	<string>Space</string>
+> 	<string>공백</string>
+< 	<string>Space</string>
+> 	<string>공백</string>
 < 	<string>Spacing</string>
 > 	<string>공간</string>
 < 	<string>Spacing</string>
@@ -2920,8 +2936,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>그룹 해제</string>
 < 	<string>Ungroup</string>
 > 	<string>그룹 해제</string>
-< 	<string>Union</string>
-> 	<string>병합</string>
 < 	<string>Unlock All</string>
 > 	<string>모두 잠금 해제</string>
 < 	<string>Unlock</string>

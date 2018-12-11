@@ -222,6 +222,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>Last Selected</string>
 ---
 > 		<string>마지막 선택 항목</string>
+1685c1685
+< 		<string>Space</string>
+---
+> 		<string>공백</string>
 2500c2500
 < 		<string>Last Selected</string>
 ---
@@ -2176,6 +2180,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>Subtract</string>
 ---
 > 		<string>제거</string>
+2560c2560
+< 		<string>Xor</string>
+---
+> 		<string>배타</string>
 2720c2720
 < 		<string>Mean</string>
 ---
@@ -2652,6 +2660,22 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Adjustment</string>
 ---
 > 	<string>조정</string>
+1148c1148
+< 	<string>Advanced</string>
+---
+> 	<string>고급</string>
+1150c1150
+< 	<string>Advanced</string>
+---
+> 	<string>고급</string>
+1152c1152
+< 	<string>Advanced</string>
+---
+> 	<string>고급</string>
+1154c1154
+< 	<string>Advanced</string>
+---
+> 	<string>고급</string>
 1180c1180
 < 	<string>After</string>
 ---
@@ -3472,26 +3496,6 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Colours</string>
 ---
 > 	<string>색상</string>
-3658c3658
-< 	<string>Combine</string>
----
-> 	<string>배타</string>
-3660c3660
-< 	<string>Combine</string>
----
-> 	<string>배타</string>
-3662c3662
-< 	<string>Combine</string>
----
-> 	<string>배타</string>
-3664c3664
-< 	<string>Combine</string>
----
-> 	<string>배타</string>
-3666c3666
-< 	<string>Combine</string>
----
-> 	<string>배타</string>
 3752c3752
 < 	<string>Constraints</string>
 ---
@@ -4152,6 +4156,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Filters</string>
 ---
 > 	<string>필터</string>
+6242c6242
+< 	<string>Flexible Space</string>
+---
+> 	<string>유연한 공백</string>
 6246c6246
 < 	<string>Flip Horizontal</string>
 ---
@@ -4212,6 +4220,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Glow</string>
 ---
 > 	<string>광채</string>
+6612c6612
+< 	<string>Glyph Browser</string>
+---
+> 	<string>글리프 브라우저</string>
 6632c6632
 < 	<string>Gradient Map</string>
 ---
@@ -5951,11 +5963,23 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 15236c15236
 < 	<string>Space Horizontally</string>
 ---
-> 	<string>가로 공간</string>
+> 	<string>가로 공백</string>
 15248c15248
 < 	<string>Space Vertically</string>
 ---
-> 	<string>세로 공간</string>
+> 	<string>세로 공백</string>
+15250c15250
+< 	<string>Space</string>
+---
+> 	<string>공백</string>
+15252c15252
+< 	<string>Space</string>
+---
+> 	<string>공백</string>
+15254c15254
+< 	<string>Space</string>
+---
+> 	<string>공백</string>
 15264c15264
 < 	<string>Spacing</string>
 ---

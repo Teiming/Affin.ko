@@ -935,13 +935,13 @@ The document must now be closed.</string>
 	<key>Adjustments [Main Controls Tooltip]</key>
 	<string>Adjustments</string>
 	<key>Advanced [Grid and snapping node button label]</key>
-	<string>Advanced</string>
+	<string>고급</string>
 	<key>Advanced [Grid and snapping node button tooltip]</key>
-	<string>Advanced</string>
+	<string>고급</string>
 	<key>Advanced [Histogram advanced toggle]</key>
-	<string>Advanced</string>
+	<string>고급</string>
 	<key>Advanced [Reflected property]</key>
-	<string>Advanced</string>
+	<string>고급</string>
 	<key>Aegean Numbers [Glyph Ranges]</key>
 	<string>Aegean Numbers</string>
 	<key>Affine Tool [Tool description]</key>
@@ -2915,11 +2915,11 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Columns: [Text Context Toolbar - Columns Label]</key>
 	<string>Columns:</string>
 	<key>Combine [Combine nodes command name]</key>
-	<string>배타</string>
+	<string>Combine</string>
 	<key>Combine [Main Controls Tooltip]</key>
-	<string>배타</string>
+	<string>Combine</string>
 	<key>Combine [Main Controls]</key>
-	<string>배타</string>
+	<string>Combine</string>
 	<key>Combining Diacritical Marks For Symbols [Glyph Ranges]</key>
 	<string>Combining Diacritical Marks For Symbols</string>
 	<key>Combining Diacritical Marks Supplement [Glyph Ranges]</key>
@@ -4893,7 +4893,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Flattened and Saving Image '%1' [Saving Documents]</key>
 	<string>Flattened and Saving Image '%1'</string>
 	<key>Flexible Space [Flexible Space]</key>
-	<string>Flexible Space</string>
+	<string>유연한 공백</string>
 	<key>Flip Horizontal [Command description]</key>
 	<string>가로 뒤집기</string>
 	<key>Flip Horizontal [Main Controls]</key>
@@ -5177,7 +5177,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Glyph %1 [Tooltip]</key>
 	<string>Glyph %1</string>
 	<key>Glyph Browser [Page title]</key>
-	<string>Glyph Browser</string>
+	<string>글리프 브라우저</string>
 	<key>Glyph [Paragraph control title]</key>
 	<string>Glyph</string>
 	<key>Golden Spiral [Raster Crop]</key>
@@ -11493,7 +11493,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Space Before [Paragraph Spacing Panel]</key>
 	<string>Space Before</string>
 	<key>Space Horizontally [Alignment tooltip]</key>
-	<string>가로 공간</string>
+	<string>가로 공백</string>
 	<key>Space Nodes Horizontally [Command description]</key>
 	<string>Space Nodes Horizontally</string>
 	<key>Space Nodes Vertically [Command description]</key>
@@ -11505,13 +11505,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Space Slices [Command description]</key>
 	<string>Space Slices</string>
 	<key>Space Vertically [Alignment tooltip]</key>
-	<string>세로 공간</string>
+	<string>세로 공백</string>
 	<key>Space [Alignment title]</key>
-	<string>Space</string>
+	<string>공백</string>
 	<key>Space [Command description]</key>
-	<string>Space</string>
+	<string>공백</string>
 	<key>Space [Space]</key>
-	<string>Space</string>
+	<string>공백</string>
 	<key>Space after: %1 [Command description]</key>
 	<string>Space after: %1</string>
 	<key>Space before: %1 [Command description]</key>
@@ -12997,7 +12997,7 @@ View point with that name already exists.</string>
 	<key>Unified Canadian Aboriginal Syllabics [Glyph Ranges]</key>
 	<string>Unified Canadian Aboriginal Syllabics</string>
 	<key>Union [Union nodes command name]</key>
-	<string>병합</string>
+	<string>Union</string>
 	<key>Units [Preferences user interface search term]</key>
 	<string>Units</string>
 	<key>Units [Resize tool reflection]</key>

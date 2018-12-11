@@ -3,13 +3,15 @@ s/g> \[Modified]</g> \[변경]</
 s/g>'%1' selected. </g>'%1' 선택됨. </
 s/g>About…</g>Affinity Photo에 관하여…</
 s/g>Actual Size</g>실제 크기</
-s/g>Add Colour to Swatch</g>색상을 견본에 추가</
+s/g>Add Chord to Swatch</g>견본에 코드 추가</
+s/g>Add Colour to Swatch</g>견본에 색상 추가</
 s/g>Add Document Snapshot</g>문서 스냅샷 추가</
 s/g>Add Global Colour…</g>전역 색상 추가…</
 s/g>Add Snapshot</g>스냅샷 추가</
 s/g>Add to Swatches…</g>견본에 추가…</
 s/g>Add</g>추가</
 s/g>Adjustment</g>조정</
+s/g>Advanced</g>고급</
 s/g>Affinity Photo Help</g>Affinity Photo 도움말</
 s/g>After</g>이후</
 s/g>Align Bottom Edges</g>아래쪽 정렬</
@@ -36,7 +38,11 @@ s/g>Apple Colour Picker...</g>Apple 색상 선택기...</
 s/g>Apply</g>적용</
 s/g>Area:</g>영역:</
 s/g>Arrange</g>순서</
+s/g>Artboard</g>아트보드</
 s/g>Artboard Tool</g>아트보드 도구</
+s/g>Corner</g>꼭짓점</
+s/g>Corner:</g>꼭짓점:</
+s/g>Corner Tool</g>꼭짓점 도구</
 s/g>As Application Palette</g>응용프로그램 팔레트로</
 s/g>As Document Palette</g>문서 팔레트로</
 s/g>As System Palette</g>시스템 팔레트로</
@@ -110,8 +116,7 @@ s/g>Colour Range</g>색상 범위</
 s/g>Colour:</g>색상:</
 s/g>Colour</g>색상</
 s/g>Colours</g>색상</
-s/g>Combine toolbar button</g>배타 툴바 버튼</
-s/g>Combine</g>배타</
+s/g>Complementary</g>보색</
 s/g>Connect</g>접속</
 s/g>Constraints</g>제약</
 s/g>Context</g>문단</
@@ -136,6 +141,7 @@ s/g>Customise Toolbar…</g>툴바 사용자화…</
 s/g>Customise Tools…</g>도구 사용자화…</
 s/g>Cut</g>오려두기</
 s/g>Cycle View Mode</g>뷰 모드 순환</
+s/g>Dark</g>다크</
 s/g>Decrease</g>줄이기</
 s/g>Default</g>기본값</
 s/g>Defaults</g>기본값</
@@ -217,6 +223,7 @@ s/g>Filters</g>필터</
 s/g>Find in Layers Page</g>레이어 페이지에서 찾기</
 s/g>Find in Layers Panel</g>레이어 패널에서 찾기</
 s/g>Find in Slice Page</g>슬라이스 페이지에서 찾기</
+s/g>Flexible Space</g>유연한 공백</
 s/g>Flip Horizontal</g>가로 뒤집기</
 s/g>Flip Vertical</g>세로 뒤집기</
 s/g>Font:</g>서체:</
@@ -305,6 +312,7 @@ s/g>Levels</g>레벨</
 s/g>Library Persona</g>라이브러리 페르소나</
 s/g>Library</g>라이브러리</
 s/g>Ligatures</g>합자</
+s/g>Light</g>라이트</
 s/g>Line Break</g>줄바꿈</
 s/g>Liquify Persona</g>액화 페르소나</
 s/g>Liquify</g>액화</
@@ -409,6 +417,7 @@ s/g>Pixels (Retina)</g>픽셀 (레티나)</
 s/g>Pixels</g>픽셀</
 s/g>Place…</g>다른 문서 넣기…</
 s/g>Plugin</g>플러그인</
+s/g>Points</g>포인트</
 s/g>Portrait</g>세로방향</
 s/g>Position:</g>위치:</
 s/g>Posterise</g>포스터화</
@@ -537,9 +546,11 @@ s/g>Snapshots</g>스냅샷</
 s/g>Snp</g>스냅</
 s/g>Soft Hyphen</g>하이픈</
 s/g>Soft Proof</g>미리보기</
+s/g>Software Update</g>소프트웨어 업데이트</
 s/g>Sort</g>정렬</
-s/g>Space Horizontally</g>가로 공간</
-s/g>Space Vertically</g>세로 공간</
+s/g>Space Horizontally</g>가로 공백</
+s/g>Space Vertically</g>세로 공백</
+s/g>Space</g>공백</
 s/g>Spacing</g>공간</
 s/g>Spacing</g>자간</
 s/g>Spelling Options…</g>철자 설정…</
@@ -599,8 +610,6 @@ s/g>Undo %@</g>%@ 실행 취소</
 s/g>Undo</g>실행 취소</
 s/g>Ungroup All</g>모든 그룹 해제</
 s/g>Ungroup</g>그룹 해제</
-s/g>Union toolbar button</g>병합 툴바 버튼</
-s/g>Union</g>병합</
 s/g>Unlock All</g>모두 잠금 해제</
 s/g>Unlock</g>잠금 해제</
 s/g>Untitled</g>이름 없음</
@@ -631,6 +640,8 @@ s/g>White to transparent</g>하양에서 투명</
 s/g>White</g>하양</
 s/g>Width:</g>두께:</
 s/g>Window</g>윈도우</
+s/g>Xor toolbar button</g>배타 툴바 버튼</
+s/g>Xor</g>배타</
 s/g>Yellow</g>노랑</
 s/g>Yes</g>네</
 s/g>Yes</g>예</
