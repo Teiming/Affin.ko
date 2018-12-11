@@ -419,7 +419,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensPage.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopLensPage.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
-Only in /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopMapPage.nib
+diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopMapPage.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopMapPage.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlayItemView.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopOverlayItemView.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -1688,7 +1690,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>도넛</string>
 < 	<string>Drag</string>
 > 	<string>드래그</string>
-> 	<string>Drag to place your image.</string>
 < 	<string>Duplicate</string>
 > 	<string>복제</string>
 < 	<string>Duplicate</string>
@@ -1758,8 +1759,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 < 	<string>Everything</string>
 > 	<string>모두</string>
 < 	<string>Expand stroke</string>
-> 	<string>획 펼치기</string>
-> 	<string>획 펼치기</string>
 > 	<string>획 펼치기</string>
 < 	<string>Export LUT</string>
 > 	<string>LUT 출력</string>
@@ -1865,7 +1864,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>홈</string>
 < 	<string>Home</string>
 > 	<string>홈</string>
-> 	<string>Image Imported</string>
 < 	<string>Inner</string>
 > 	<string>내부</string>
 < 	<string>Inner</string>
@@ -2000,7 +1998,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>마스크</string>
 < 	<string>Mask</string>
 > 	<string>마스크</string>
-> 	<string>Max-Fit</string>
 < 	<string>Maximum</string>
 > 	<string>최대</string>
 < 	<string>Maximum</string>
@@ -2011,7 +2008,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>그물</string>
 < 	<string>Mesh</string>
 > 	<string>그물</string>
-> 	<string>Min-Fit</string>
 < 	<string>Mirror</string>
 > 	<string>거울</string>
 < 	<string>Mirror</string>
@@ -2314,7 +2310,6 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>픽셀</string>
 < 	<string>Pixels</string>
 > 	<string>픽셀</string>
-> 	<string>Place Image</string>
 < 	<string>Plugin</string>
 > 	<string>플러그인</string>
 < 	<string>Posterise</string>
@@ -2858,9 +2853,9 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 < 	<string>[replace]</string>
 > 	<string>[교체]</string>
 < 	<string>[user]</string>
-> 	<string>\[사용자]</string>
+> 	<string>[사용자]</string>
 < 	<string>[user]</string>
-> 	<string>\[사용자]</string>
+> 	<string>[사용자]</string>
 < 	<string>background</string>
 > 	<string>배경</string>
 < 	<string>dash</string>

@@ -774,7 +774,11 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 < 		<string>System</string>
 ---
 > 		<string>시스템</string>
-Only in /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopMapPage.nib
+diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopMapPage.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopMapPage.nib
+1596c1596
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlayItemView.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopOverlayItemView.nib
 320c320
 < 		<string>System</string>
@@ -3235,2386 +3239,2367 @@ diff -s /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framewor
 < 	<string>Drag</string>
 ---
 > 	<string>드래그</string>
-4138a4139,4140
-> 	<key>Drag to place your image. [Image Imported Toast]</key>
-> 	<string>Drag to place your image.</string>
-4148c4150
+4148c4148
 < 	<string>Duplicate</string>
 ---
 > 	<string>복제</string>
-4150c4152
+4150c4150
 < 	<string>Duplicate</string>
 ---
 > 	<string>복제</string>
-4152c4154
+4152c4152
 < 	<string>Duplicate</string>
 ---
 > 	<string>복제</string>
-4154c4156
+4154c4154
 < 	<string>Duplicate</string>
 ---
 > 	<string>복제</string>
-4206c4208
+4206c4206
 < 	<string>Edge</string>
 ---
 > 	<string>모서리</string>
-4208c4210
+4208c4208
 < 	<string>Edge</string>
 ---
 > 	<string>모서리</string>
-4210c4212
+4210c4210
 < 	<string>Edge</string>
 ---
 > 	<string>모서리</string>
-4232c4234
+4232c4232
 < 	<string>Edit</string>
 ---
 > 	<string>편집</string>
-4254c4256
+4254c4254
 < 	<string>Effects</string>
 ---
 > 	<string>효과</string>
-4266c4268
+4266c4266
 < 	<string>Ellipse</string>
 ---
 > 	<string>타원</string>
-4268c4270
+4268c4268
 < 	<string>Ellipse</string>
 ---
 > 	<string>타원</string>
-4270c4272
+4270c4270
 < 	<string>Ellipse</string>
 ---
 > 	<string>타원</string>
-4306c4308
+4306c4306
 < 	<string>Emboss</string>
 ---
 > 	<string>양각</string>
-4308c4310
+4308c4308
 < 	<string>Emboss</string>
 ---
 > 	<string>양각</string>
-4310c4312
+4310c4310
 < 	<string>Emboss</string>
 ---
 > 	<string>양각</string>
-4312c4314
+4312c4312
 < 	<string>Emboss</string>
 ---
 > 	<string>양각</string>
-4314c4316
+4314c4314
 < 	<string>Emboss</string>
 ---
 > 	<string>양각</string>
-4316c4318
+4316c4316
 < 	<string>Emboss</string>
 ---
 > 	<string>양각</string>
-4318c4320
+4318c4318
 < 	<string>Emboss</string>
 ---
 > 	<string>양각</string>
-4320c4322
+4320c4320
 < 	<string>Emphasis</string>
 ---
 > 	<string>강조</string>
-4424c4426
+4424c4424
 < 	<string>Entropy</string>
 ---
 > 	<string>엔트로피</string>
-4430c4432
+4430c4430
 < 	<string>Equations</string>
 ---
 > 	<string>수식</string>
-4432c4434
+4432c4432
 < 	<string>Equations</string>
 ---
 > 	<string>수식</string>
-4434c4436
+4434c4434
 < 	<string>Equations</string>
 ---
 > 	<string>수식</string>
-4436c4438
+4436c4436
 < 	<string>Equations</string>
 ---
 > 	<string>수식</string>
-4438c4440
+4438c4438
 < 	<string>Equations</string>
 ---
 > 	<string>수식</string>
-4440c4442
+4440c4440
 < 	<string>Equations</string>
 ---
 > 	<string>수식</string>
-4468c4470
+4468c4468
 < 	<string>Erase</string>
 ---
 > 	<string>지우기</string>
-4470c4472
+4470c4470
 < 	<string>Erase</string>
 ---
 > 	<string>지우기</string>
-4472c4474
+4472c4472
 < 	<string>Erase</string>
 ---
 > 	<string>지우기</string>
-4474c4476
+4474c4474
 < 	<string>Erase</string>
 ---
 > 	<string>지우기</string>
-4476c4478
+4476c4476
 < 	<string>Erase</string>
 ---
 > 	<string>지우기</string>
-4488c4490
+4488c4488
 < 	<string>Europe</string>
 ---
 > 	<string>유럽</string>
-4494c4496
+4494c4494
 < 	<string>Everything</string>
 ---
 > 	<string>모두</string>
-4516c4518,4522
+4516c4516
 < 	<string>Expand stroke</string>
 ---
 > 	<string>획 펼치기</string>
-> 	<key>Expand stroke [Main Controls Tooltip]</key>
-> 	<string>획 펼치기</string>
-> 	<key>Expand stroke [Main Controls]</key>
-> 	<string>획 펼치기</string>
-4536c4542
+4536c4536
 < 	<string>Export LUT</string>
 ---
 > 	<string>LUT 출력</string>
-4538c4544
+4538c4538
 < 	<string>Export LUT</string>
 ---
 > 	<string>LUT 출력</string>
-4550c4556
+4550c4550
 < 	<string>Export</string>
 ---
 > 	<string>출력</string>
-4552c4558
+4552c4552
 < 	<string>Export</string>
 ---
 > 	<string>출력</string>
-4554c4560
+4554c4554
 < 	<string>Export</string>
 ---
 > 	<string>출력</string>
-4556c4562
+4556c4556
 < 	<string>Export</string>
 ---
 > 	<string>출력</string>
-4558c4564
+4558c4558
 < 	<string>Export</string>
 ---
 > 	<string>출력</string>
-4584c4590
+4584c4584
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
-4586c4592
+4586c4586
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
-4588c4594
+4588c4588
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
-4590c4596
+4590c4590
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
-4592c4598
+4592c4592
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
-4594c4600
+4594c4594
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
-4596c4602
+4596c4596
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
-4598c4604
+4598c4598
 < 	<string>Exposure</string>
 ---
 > 	<string>노출</string>
-4604c4610
+4604c4604
 < 	<string>Exposure:</string>
 ---
 > 	<string>노출:</string>
-4650c4656
+4650c4650
 < 	<string>Factory Reset</string>
 ---
 > 	<string>기본값 재설정</string>
-4690c4696
+4690c4690
 < 	<string>Failed to open TIFF file</string>
 ---
 > 	<string>Tiff 파일을 열지 못했습니다.</string>
-4846c4852
+4846c4846
 < 	<string>Fill:</string>
 ---
 > 	<string>칠:</string>
-4898c4904
+4898c4898
 < 	<string>Flip Horizontal</string>
 ---
 > 	<string>가로 뒤집기</string>
-4900c4906
+4900c4900
 < 	<string>Flip Horizontal</string>
 ---
 > 	<string>가로 뒤집기</string>
-4902c4908
+4902c4902
 < 	<string>Flip Vertical</string>
 ---
 > 	<string>세로 뒤집기</string>
-4904c4910
+4904c4904
 < 	<string>Flip Vertical</string>
 ---
 > 	<string>세로 뒤집기</string>
-4988c4994
+4988c4988
 < 	<string>Font:</string>
 ---
 > 	<string>서체:</string>
-5024c5030
+5024c5024
 < 	<string>Forward One</string>
 ---
 > 	<string>앞으로 가져오기</string>
-5124c5130
+5124c5124
 < 	<string>General</string>
 ---
 > 	<string>일반</string>
-5126c5132
+5126c5126
 < 	<string>General</string>
 ---
 > 	<string>일반</string>
-5128c5134
+5128c5128
 < 	<string>General</string>
 ---
 > 	<string>일반</string>
-5130c5136
+5130c5130
 < 	<string>General</string>
 ---
 > 	<string>일반</string>
-5132c5138
+5132c5132
 < 	<string>General</string>
 ---
 > 	<string>일반</string>
-5138c5144
+5138c5138
 < 	<string>Geometry</string>
 ---
 > 	<string>기하</string>
-5170c5176
+5170c5170
 < 	<string>Glow</string>
 ---
 > 	<string>광채</string>
-5172c5178
+5172c5172
 < 	<string>Glow</string>
 ---
 > 	<string>광채</string>
-5194c5200
+5194c5194
 < 	<string>Gradient Map</string>
 ---
 > 	<string>그레이디언트 맵</string>
-5196c5202
+5196c5196
 < 	<string>Gradient Map</string>
 ---
 > 	<string>그레이디언트 맵</string>
-5198c5204
+5198c5198
 < 	<string>Gradient Map</string>
 ---
 > 	<string>그레이디언트 맵</string>
-5206c5212
+5206c5206
 < 	<string>Gradient Overlay</string>
 ---
 > 	<string>그레이디언트 씌우기</string>
-5208c5214
+5208c5208
 < 	<string>Gradient Overlay</string>
 ---
 > 	<string>그레이디언트 씌우기</string>
-5306c5312
+5306c5306
 < 	<string>Group</string>
 ---
 > 	<string>그룹</string>
-5308c5314
+5308c5308
 < 	<string>Group</string>
 ---
 > 	<string>그룹</string>
-5310c5316
+5310c5310
 < 	<string>Group</string>
 ---
 > 	<string>그룹</string>
-5312c5318
+5312c5312
 < 	<string>Group</string>
 ---
 > 	<string>그룹</string>
-5314c5320
+5314c5314
 < 	<string>Group</string>
 ---
 > 	<string>그룹</string>
-5316c5322
+5316c5316
 < 	<string>Group</string>
 ---
 > 	<string>그룹</string>
-5508c5514
+5508c5508
 < 	<string>Help</string>
 ---
 > 	<string>도움말</string>
-5510c5516
+5510c5510
 < 	<string>Help</string>
 ---
 > 	<string>도움말</string>
-5602c5608
+5602c5602
 < 	<string>History</string>
 ---
 > 	<string>편집 기록</string>
-5604c5610
+5604c5604
 < 	<string>History</string>
 ---
 > 	<string>편집 기록</string>
-5606c5612
+5606c5606
 < 	<string>History</string>
 ---
 > 	<string>편집 기록</string>
-5610c5616
+5610c5610
 < 	<string>Hold</string>
 ---
 > 	<string>유지</string>
-5616c5622
+5616c5616
 < 	<string>Home</string>
 ---
 > 	<string>홈</string>
-5618c5624
+5618c5618
 < 	<string>Home</string>
 ---
 > 	<string>홈</string>
-5678a5685,5686
-> 	<key>Image Imported [Image Imported Toast]</key>
-> 	<string>Image Imported</string>
-5784c5792
+5784c5784
 < 	<string>Inner</string>
 ---
 > 	<string>내부</string>
-5786c5794
+5786c5786
 < 	<string>Inner</string>
 ---
 > 	<string>내부</string>
-5836c5844
+5836c5836
 < 	<string>Inside</string>
 ---
 > 	<string>안으로</string>
-5838c5846
+5838c5838
 < 	<string>Inside</string>
 ---
 > 	<string>안으로</string>
-5840c5848
+5840c5840
 < 	<string>Inside</string>
 ---
 > 	<string>안으로</string>
-5842c5850
+5842c5842
 < 	<string>Inside</string>
 ---
 > 	<string>안으로</string>
-5888c5896
+5888c5888
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5890c5898
+5890c5890
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5892c5900
+5892c5892
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5894c5902
+5894c5894
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5896c5904
+5896c5896
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5898c5906
+5898c5898
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5900c5908
+5900c5900
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5902c5910
+5902c5902
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5904c5912
+5904c5904
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5906c5914
+5906c5906
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5908c5916
+5908c5908
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5910c5918
+5910c5910
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5912c5920
+5912c5912
 < 	<string>Intersect</string>
 ---
 > 	<string>교차</string>
-5938c5946
+5938c5938
 < 	<string>Invert Selection</string>
 ---
 > 	<string>선택 항목 반전</string>
-5942c5950
+5942c5942
 < 	<string>Invert</string>
 ---
 > 	<string>반전</string>
-5944c5952
+5944c5944
 < 	<string>Invert</string>
 ---
 > 	<string>반전</string>
-5946c5954
+5946c5946
 < 	<string>Invert</string>
 ---
 > 	<string>반전</string>
-5948c5956
+5948c5948
 < 	<string>Invert</string>
 ---
 > 	<string>반전</string>
-5950c5958
+5950c5950
 < 	<string>Invert</string>
 ---
 > 	<string>반전</string>
-5952c5960
+5952c5952
 < 	<string>Invert</string>
 ---
 > 	<string>반전</string>
-5974c5982
+5974c5974
 < 	<string>Italic</string>
 ---
 > 	<string>기울임</string>
-6046c6054
+6046c6046
 < 	<string>Justify</string>
 ---
 > 	<string>맞춤</string>
-6048c6056
+6048c6048
 < 	<string>Justify</string>
 ---
 > 	<string>맞춤</string>
-6176c6184
+6176c6176
 < 	<string>Language</string>
 ---
 > 	<string>언어</string>
-6184c6192
+6184c6184
 < 	<string>Large</string>
 ---
 > 	<string>크게</string>
-6186c6194
+6186c6186
 < 	<string>Large</string>
 ---
 > 	<string>크게</string>
-6214c6222
+6214c6214
 < 	<string>Layer</string>
 ---
 > 	<string>레이어</string>
-6216c6224
+6216c6216
 < 	<string>Layer</string>
 ---
 > 	<string>레이어</string>
-6230c6238
+6230c6230
 < 	<string>Layers</string>
 ---
 > 	<string>레이어</string>
-6232c6240
+6232c6232
 < 	<string>Layers</string>
 ---
 > 	<string>레이어</string>
-6236c6244
+6236c6236
 < 	<string>Layout</string>
 ---
 > 	<string>구조</string>
-6282c6290
+6282c6282
 < 	<string>Left</string>
 ---
 > 	<string>왼쪽</string>
-6284c6292
+6284c6284
 < 	<string>Left</string>
 ---
 > 	<string>왼쪽</string>
-6286c6294
+6286c6286
 < 	<string>Left</string>
 ---
 > 	<string>왼쪽</string>
-6288c6296
+6288c6288
 < 	<string>Left</string>
 ---
 > 	<string>왼쪽</string>
-6290c6298
+6290c6290
 < 	<string>Left</string>
 ---
 > 	<string>왼쪽</string>
-6292c6300
+6292c6292
 < 	<string>Left</string>
 ---
 > 	<string>왼쪽</string>
-6294c6302
+6294c6294
 < 	<string>Left</string>
 ---
 > 	<string>왼쪽</string>
-6296c6304
+6296c6296
 < 	<string>Left</string>
 ---
 > 	<string>왼쪽</string>
-6342c6350
+6342c6342
 < 	<string>Lens Filter</string>
 ---
 > 	<string>렌즈 필터</string>
-6344c6352
+6344c6344
 < 	<string>Lens Filter</string>
 ---
 > 	<string>렌즈 필터</string>
-6346c6354
+6346c6346
 < 	<string>Lens Filter</string>
 ---
 > 	<string>렌즈 필터</string>
-6364c6372
+6364c6364
 < 	<string>Levels</string>
 ---
 > 	<string>레벨</string>
-6366c6374
+6366c6366
 < 	<string>Levels</string>
 ---
 > 	<string>레벨</string>
-6368c6376
+6368c6368
 < 	<string>Levels</string>
 ---
 > 	<string>레벨</string>
-6370c6378
+6370c6370
 < 	<string>Levels</string>
 ---
 > 	<string>레벨</string>
-6372c6380
+6372c6372
 < 	<string>Levels</string>
 ---
 > 	<string>레벨</string>
-6376c6384
+6376c6376
 < 	<string>Library</string>
 ---
 > 	<string>라이브러리</string>
-6378c6386
+6378c6378
 < 	<string>Ligatures</string>
 ---
 > 	<string>합자</string>
-6512c6520
+6512c6512
 < 	<string>Liquify Persona</string>
 ---
 > 	<string>액화 페르소나</string>
-6556c6564
+6556c6556
 < 	<string>Liquify</string>
 ---
 > 	<string>액화</string>
-6558c6566
+6558c6558
 < 	<string>Liquify</string>
 ---
 > 	<string>액화</string>
-6560c6568
+6560c6560
 < 	<string>Liquify</string>
 ---
 > 	<string>액화</string>
-6740c6748
+6740c6740
 < 	<string>Lock</string>
 ---
 > 	<string>잠금</string>
-6742c6750
+6742c6742
 < 	<string>Lock</string>
 ---
 > 	<string>잠금</string>
-6872c6880
+6872c6872
 < 	<string>Mask All</string>
 ---
 > 	<string>모두 마스크</string>
-6876c6884
+6876c6876
 < 	<string>Mask</string>
 ---
 > 	<string>마스크</string>
-6878c6886
+6878c6878
 < 	<string>Mask</string>
 ---
 > 	<string>마스크</string>
-6880c6888
+6880c6880
 < 	<string>Mask</string>
 ---
 > 	<string>마스크</string>
-6882c6890
+6882c6882
 < 	<string>Mask</string>
 ---
 > 	<string>마스크</string>
-6884c6892
+6884c6884
 < 	<string>Mask</string>
 ---
 > 	<string>마스크</string>
-6940a6949,6950
-> 	<key>Max-Fit [Constraints page]</key>
-> 	<string>Max-Fit</string>
-6954c6964
+6954c6954
 < 	<string>Maximum</string>
 ---
 > 	<string>최대</string>
-6956c6966
+6956c6956
 < 	<string>Maximum</string>
 ---
 > 	<string>최대</string>
-6992c7002
+6992c6992
 < 	<string>Medium</string>
 ---
 > 	<string>중간</string>
-7044c7054
+7044c7044
 < 	<string>Mesh</string>
 ---
 > 	<string>그물</string>
-7046c7056
+7046c7046
 < 	<string>Mesh</string>
 ---
 > 	<string>그물</string>
-7114a7125,7126
-> 	<key>Min-Fit [Constraints page]</key>
-> 	<string>Min-Fit</string>
-7138c7150
+7138c7138
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7140c7152
+7140c7140
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7142c7154
+7142c7142
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7144c7156
+7144c7144
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7146c7158
+7146c7146
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7148c7160
+7148c7148
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7150c7162
+7150c7150
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7152c7164
+7152c7152
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7154c7166
+7154c7154
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7156c7168
+7156c7156
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7158c7170
+7158c7158
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7160c7172
+7160c7160
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7162c7174
+7162c7162
 < 	<string>Mirror</string>
 ---
 > 	<string>거울</string>
-7180c7192
+7180c7180
 < 	<string>Miscellaneous</string>
 ---
 > 	<string>기타</string>
-7230c7242
+7230c7230
 < 	<string>Modified</string>
 ---
 > 	<string>변경</string>
-7282c7294
+7282c7282
 < 	<string>Move To Front</string>
 ---
 > 	<string>맨 앞으로 가져오기</string>
-7284c7296
+7284c7284
 < 	<string>Move Tool</string>
 ---
 > 	<string>이동 도구</string>
-7286c7298
+7286c7286
 < 	<string>Move Tool</string>
 ---
 > 	<string>이동 도구</string>
-7288c7300
+7288c7288
 < 	<string>Move Tool</string>
 ---
 > 	<string>이동 도구</string>
-7352c7364
+7352c7352
 < 	<string>Move to Back</string>
 ---
 > 	<string>맨 뒤로 보내기</string>
-7354c7366
+7354c7354
 < 	<string>Move to Front</string>
 ---
 > 	<string>맨 앞으로 가져오기</string>
-7398c7410
+7398c7398
 < 	<string>Navigator</string>
 ---
 > 	<string>네비게이터</string>
-7434c7446
+7434c7434
 < 	<string>New Document</string>
 ---
 > 	<string>신규 문서</string>
-7456c7468
+7456c7456
 < 	<string>New Layer</string>
 ---
 > 	<string>새로운 레이어</string>
-7458c7470
+7458c7458
 < 	<string>New Layer</string>
 ---
 > 	<string>새로운 레이어</string>
-7460c7472
+7460c7460
 < 	<string>New Layer</string>
 ---
 > 	<string>새로운 레이어</string>
-7462c7474
+7462c7462
 < 	<string>New Layer</string>
 ---
 > 	<string>새로운 레이어</string>
-7474c7486
+7474c7474
 < 	<string>New Pixel Layer</string>
 ---
 > 	<string>새로운 픽셀 레이어</string>
-7476c7488
+7476c7476
 < 	<string>New Pixel Layer</string>
 ---
 > 	<string>새로운 픽셀 레이어</string>
-7478c7490
+7478c7478
 < 	<string>New Pixel Layer</string>
 ---
 > 	<string>새로운 픽셀 레이어</string>
-7490c7502
+7490c7490
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7492c7504
+7492c7492
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7494c7506
+7494c7494
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7496c7508
+7496c7496
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7498c7510
+7498c7498
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7500c7512
+7500c7500
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7502c7514
+7502c7502
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7504c7516
+7504c7504
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7506c7518
+7506c7506
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7508c7520
+7508c7508
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7548c7560
+7548c7548
 < 	<string>No Selection</string>
 ---
 > 	<string>선택 항목 없음</string>
-7550c7562
+7550c7550
 < 	<string>No Selection</string>
 ---
 > 	<string>선택 항목 없음</string>
-7552c7564
+7552c7552
 < 	<string>No Selection</string>
 ---
 > 	<string>선택 항목 없음</string>
-7554c7566
+7554c7554
 < 	<string>No Snapshot</string>
 ---
 > 	<string>스냅샷 없음</string>
-7562c7574
+7562c7562
 < 	<string>No</string>
 ---
 > 	<string>아니오</string>
-7564c7576
+7564c7564
 < 	<string>No</string>
 ---
 > 	<string>아니오</string>
-7566c7578
+7566c7566
 < 	<string>No</string>
 ---
 > 	<string>아니오</string>
-7568c7580
+7568c7568
 < 	<string>No</string>
 ---
 > 	<string>아니오</string>
-7598c7610
+7598c7598
 < 	<string>Node Tool</string>
 ---
 > 	<string>마디 도구</string>
-7600c7612
+7600c7600
 < 	<string>Node Tool</string>
 ---
 > 	<string>마디 도구</string>
-7602c7614
+7602c7602
 < 	<string>Node Tool</string>
 ---
 > 	<string>마디 도구</string>
-7634c7646
+7634c7634
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7636c7648
+7636c7636
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7638c7650
+7638c7638
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7640c7652
+7640c7640
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7642c7654
+7642c7642
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7644c7656
+7644c7644
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7646c7658
+7646c7646
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7648c7660
+7648c7648
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7650c7662
+7650c7650
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7652c7664
+7652c7652
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7654c7666
+7654c7654
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7656c7668
+7656c7656
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7658c7670
+7658c7658
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7660c7672
+7660c7660
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7662c7674
+7662c7662
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7664c7676
+7664c7664
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7666c7678
+7666c7666
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7668c7680
+7668c7668
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7670c7682
+7670c7670
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7672c7684
+7672c7672
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7674c7686
+7674c7674
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7676c7688
+7676c7676
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7678c7690
+7678c7678
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7680c7692
+7680c7680
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7682c7694
+7682c7682
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7684c7696
+7684c7684
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7686c7698
+7686c7686
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7688c7700
+7688c7688
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7690c7702
+7690c7690
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7692c7704
+7692c7692
 < 	<string>None</string>
 ---
 > 	<string>없음</string>
-7870c7882
+7870c7870
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7872c7884
+7872c7872
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7874c7886
+7874c7874
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7876c7888
+7876c7876
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7878c7890
+7878c7878
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7880c7892
+7880c7880
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7882c7894
+7882c7882
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7884c7896
+7884c7884
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7886c7898
+7886c7886
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7888c7900
+7888c7888
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7890c7902
+7890c7890
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7892c7904
+7892c7892
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7894c7906
+7894c7894
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7896c7908
+7896c7896
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7898c7910
+7898c7898
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7900c7912
+7900c7900
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7902c7914
+7902c7902
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7904c7916
+7904c7904
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7906c7918
+7906c7906
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7908c7920
+7908c7908
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7910c7922
+7910c7910
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7912c7924
+7912c7912
 < 	<string>Opacity</string>
 ---
 > 	<string>불투명도</string>
-7914c7926
+7914c7914
 < 	<string>Opacity:</string>
 ---
 > 	<string>불투명도:</string>
-7916c7928
+7916c7916
 < 	<string>Opacity:</string>
 ---
 > 	<string>불투명도:</string>
-7966c7978
+7966c7966
 < 	<string>Order</string>
 ---
 > 	<string>순서</string>
-8002c8014
+8002c8002
 < 	<string>Outer</string>
 ---
 > 	<string>외부</string>
-8004c8016
+8004c8004
 < 	<string>Outer</string>
 ---
 > 	<string>외부</string>
-8016c8028
+8016c8016
 < 	<string>Outline</string>
 ---
 > 	<string>윤곽</string>
-8018c8030
+8018c8018
 < 	<string>Outline</string>
 ---
 > 	<string>윤곽</string>
-8142c8154
+8142c8142
 < 	<string>Page</string>
 ---
 > 	<string>페이지</string>
-8144c8156
+8144c8144
 < 	<string>Page</string>
 ---
 > 	<string>페이지</string>
-8146c8158
+8146c8146
 < 	<string>Page</string>
 ---
 > 	<string>페이지</string>
-8148c8160
+8148c8148
 < 	<string>Page</string>
 ---
 > 	<string>페이지</string>
-8150c8162
+8150c8150
 < 	<string>Page</string>
 ---
 > 	<string>페이지</string>
-8192c8204
+8192c8192
 < 	<string>Panorama Persona</string>
 ---
 > 	<string>파노라마 페르소나</string>
-8196c8208
+8196c8196
 < 	<string>Panorama</string>
 ---
 > 	<string>파노라마</string>
-8206c8218
+8206c8206
 < 	<string>Paragraph Leading</string>
 ---
 > 	<string>줄 간격</string>
-8214c8226
+8214c8214
 < 	<string>Paragraph</string>
 ---
 > 	<string>문단</string>
-8216c8228
+8216c8216
 < 	<string>Paragraph</string>
 ---
 > 	<string>문단</string>
-8218c8230
+8218c8218
 < 	<string>Paragraph</string>
 ---
 > 	<string>문단</string>
-8220c8232
+8220c8220
 < 	<string>Paragraph</string>
 ---
 > 	<string>문단</string>
-8222c8234
+8222c8222
 < 	<string>Paragraph</string>
 ---
 > 	<string>문단</string>
-8242c8254
+8242c8242
 < 	<string>Paste FX</string>
 ---
 > 	<string>효과 붙이기</string>
-8244c8256
+8244c8244
 < 	<string>Paste Inside</string>
 ---
 > 	<string>안으로 붙이기</string>
-8246c8258
+8246c8246
 < 	<string>Paste Style</string>
 ---
 > 	<string>스타일 붙이기</string>
-8250c8262
+8250c8250
 < 	<string>Paste</string>
 ---
 > 	<string>붙이기</string>
-8252c8264
+8252c8252
 < 	<string>Paste</string>
 ---
 > 	<string>붙이기</string>
-8298c8310
+8298c8298
 < 	<string>Pen Tool</string>
 ---
 > 	<string>펜 도구</string>
-8300c8312
+8300c8300
 < 	<string>Pen Tool</string>
 ---
 > 	<string>펜 도구</string>
-8302c8314
+8302c8302
 < 	<string>Pen</string>
 ---
 > 	<string>펜</string>
-8304c8316
+8304c8304
 < 	<string>Pen</string>
 ---
 > 	<string>펜</string>
-8306c8318
+8306c8306
 < 	<string>Pen</string>
 ---
 > 	<string>펜</string>
-8308c8320
+8308c8308
 < 	<string>Pen</string>
 ---
 > 	<string>펜</string>
-8310c8322
+8310c8310
 < 	<string>Pencil Tool</string>
 ---
 > 	<string>연필 도구</string>
-8312c8324
+8312c8312
 < 	<string>Pencil Tool</string>
 ---
 > 	<string>연필 도구</string>
-8314c8326
+8314c8314
 < 	<string>Pencil</string>
 ---
 > 	<string>연필</string>
-8318c8330
+8318c8318
 < 	<string>Percentage</string>
 ---
 > 	<string>백분율</string>
-8328c8340
+8328c8328
 < 	<string>Performance</string>
 ---
 > 	<string>성능</string>
-8402c8414
+8402c8402
 < 	<string>Photo</string>
 ---
 > 	<string>사진</string>
-8404c8416
+8404c8404
 < 	<string>Photo</string>
 ---
 > 	<string>사진</string>
-8406c8418
+8406c8406
 < 	<string>Photo</string>
 ---
 > 	<string>사진</string>
-8470c8482
+8470c8470
 < 	<string>Pixel Tool</string>
 ---
 > 	<string>픽셀 도구</string>
-8472c8484
+8472c8472
 < 	<string>Pixel Tool</string>
 ---
 > 	<string>픽셀 도구</string>
-8476c8488
+8476c8476
 < 	<string>Pixel</string>
 ---
 > 	<string>픽셀</string>
-8478c8490
+8478c8478
 < 	<string>Pixel</string>
 ---
 > 	<string>픽셀</string>
-8480c8492
+8480c8480
 < 	<string>Pixel</string>
 ---
 > 	<string>픽셀</string>
-8510c8522
+8510c8510
 < 	<string>Pixels</string>
 ---
 > 	<string>픽셀</string>
-8512c8524
+8512c8512
 < 	<string>Pixels</string>
 ---
 > 	<string>픽셀</string>
-8514c8526
+8514c8514
 < 	<string>Pixels</string>
 ---
 > 	<string>픽셀</string>
-8516c8528
+8516c8516
 < 	<string>Pixels</string>
 ---
 > 	<string>픽셀</string>
-8520a8533,8534
-> 	<key>Place Image [Main Controls]</key>
-> 	<string>Place Image</string>
-8614c8628
+8614c8614
 < 	<string>Plugin</string>
 ---
 > 	<string>플러그인</string>
-8690c8704
+8690c8690
 < 	<string>Posterise</string>
 ---
 > 	<string>포스터화</string>
-8692c8706
+8692c8692
 < 	<string>Posterise</string>
 ---
 > 	<string>포스터화</string>
-8694c8708
+8694c8694
 < 	<string>Posterise</string>
 ---
 > 	<string>포스터화</string>
-8702c8716
+8702c8702
 < 	<string>Preferences…</string>
 ---
 > 	<string>환경설정…</string>
-8774c8788
+8774c8774
 < 	<string>Print</string>
 ---
 > 	<string>인쇄</string>
-8776c8790
+8776c8776
 < 	<string>Print</string>
 ---
 > 	<string>인쇄</string>
-8778c8792
+8778c8778
 < 	<string>Print</string>
 ---
 > 	<string>인쇄</string>
-8780c8794
+8780c8780
 < 	<string>Print</string>
 ---
 > 	<string>인쇄</string>
-9072c9086
+9072c9072
 < 	<string>Recent</string>
 ---
 > 	<string>최근 사용 항목</string>
-9074c9088
+9074c9074
 < 	<string>Recent</string>
 ---
 > 	<string>최근 사용 항목</string>
-9082c9096
+9082c9082
 < 	<string>Recolour</string>
 ---
 > 	<string>재색상</string>
-9084c9098
+9084c9084
 < 	<string>Recolour</string>
 ---
 > 	<string>재색상</string>
-9086c9100
+9086c9086
 < 	<string>Recolour</string>
 ---
 > 	<string>재색상</string>
-9100c9114
+9100c9100
 < 	<string>Rectangle Tool</string>
 ---
 > 	<string>직사각형 도구</string>
-9102c9116
+9102c9102
 < 	<string>Rectangle Tool</string>
 ---
 > 	<string>직사각형 도구</string>
-9104c9118
+9104c9104
 < 	<string>Rectangle</string>
 ---
 > 	<string>직사각형</string>
-9106c9120
+9106c9106
 < 	<string>Rectangle</string>
 ---
 > 	<string>직사각형</string>
-9108c9122
+9108c9108
 < 	<string>Rectangle</string>
 ---
 > 	<string>직사각형</string>
-9144c9158
+9144c9144
 < 	<string>Redo %@</string>
 ---
 > 	<string>%@ 다시 실행</string>
-9146c9160
+9146c9146
 < 	<string>Redo</string>
 ---
 > 	<string>다시 실행</string>
-9148c9162
+9148c9148
 < 	<string>Redo</string>
 ---
 > 	<string>다시 실행</string>
-9150c9164
+9150c9150
 < 	<string>Redo</string>
 ---
 > 	<string>다시 실행</string>
-9152c9166
+9152c9152
 < 	<string>Redo</string>
 ---
 > 	<string>다시 실행</string>
-9176c9190
+9176c9176
 < 	<string>Reflect</string>
 ---
 > 	<string>반사</string>
-9178c9192
+9178c9178
 < 	<string>Reflect</string>
 ---
 > 	<string>반사</string>
-9222c9236
+9222c9222
 < 	<string>Remove Profile</string>
 ---
 > 	<string>프로파일 지우기</string>
-9224c9238
+9224c9224
 < 	<string>Remove Profile</string>
 ---
 > 	<string>프로파일 지우기</string>
-9234c9248
+9234c9234
 < 	<string>Remove</string>
 ---
 > 	<string>지우기</string>
-9286c9300
+9286c9286
 < 	<string>Rename Palette...</string>
 ---
 > 	<string>팔레트 이름 변경...</string>
-9410c9424
+9410c9410
 < 	<string>Reset Selection Box</string>
 ---
 > 	<string>선택 항목 상자 재설정</string>
-9412c9426
+9412c9412
 < 	<string>Reset</string>
 ---
 > 	<string>재설정</string>
-9414c9428
+9414c9414
 < 	<string>Reset</string>
 ---
 > 	<string>재설정</string>
-9416c9430
+9416c9416
 < 	<string>Reset</string>
 ---
 > 	<string>재설정</string>
-9418c9432
+9418c9418
 < 	<string>Reset</string>
 ---
 > 	<string>재설정</string>
-9420c9434
+9420c9420
 < 	<string>Reset</string>
 ---
 > 	<string>재설정</string>
-9422c9436
+9422c9422
 < 	<string>Reset</string>
 ---
 > 	<string>재설정</string>
-9424c9438
+9424c9424
 < 	<string>Reset</string>
 ---
 > 	<string>재설정</string>
-9494c9508
+9494c9494
 < 	<string>Retina Pixels</string>
 ---
 > 	<string>레티나 픽셀</string>
-9538c9552
+9538c9538
 < 	<string>Revert</string>
 ---
 > 	<string>되돌리기</string>
-9560c9574
+9560c9560
 < 	<string>Right</string>
 ---
 > 	<string>오른쪽</string>
-9562c9576
+9562c9562
 < 	<string>Right</string>
 ---
 > 	<string>오른쪽</string>
-9564c9578
+9564c9564
 < 	<string>Right</string>
 ---
 > 	<string>오른쪽</string>
-9566c9580
+9566c9566
 < 	<string>Right</string>
 ---
 > 	<string>오른쪽</string>
-9568c9582
+9568c9568
 < 	<string>Right</string>
 ---
 > 	<string>오른쪽</string>
-9570c9584
+9570c9570
 < 	<string>Right</string>
 ---
 > 	<string>오른쪽</string>
-9572c9586
+9572c9572
 < 	<string>Right</string>
 ---
 > 	<string>오른쪽</string>
-9574c9588
+9574c9574
 < 	<string>Right</string>
 ---
 > 	<string>오른쪽</string>
-9612c9626
+9612c9612
 < 	<string>Rotate Anticlockwise</string>
 ---
 > 	<string>반시계방향으로 회전</string>
-9614c9628
+9614c9614
 < 	<string>Rotate Anticlockwise</string>
 ---
 > 	<string>반시계방향으로 회전</string>
-9620c9634
+9620c9620
 < 	<string>Rotate Clockwise</string>
 ---
 > 	<string>시계방향으로 회전</string>
-9622c9636
+9622c9622
 < 	<string>Rotate Clockwise</string>
 ---
 > 	<string>시계방향으로 회전</string>
-9696c9710
+9696c9696
 < 	<string>Rounded Rectangle Tool</string>
 ---
 > 	<string>둥근 직사각형 도구</string>
-9824c9838
+9824c9824
 < 	<string>Save</string>
 ---
 > 	<string>저장</string>
-9826c9840
+9826c9826
 < 	<string>Save</string>
 ---
 > 	<string>저장</string>
-9828c9842
+9828c9828
 < 	<string>Save</string>
 ---
 > 	<string>저장</string>
-9830c9844
+9830c9830
 < 	<string>Save</string>
 ---
 > 	<string>저장</string>
-9880c9894
+9880c9880
 < 	<string>Saving TIFF</string>
 ---
 > 	<string>TIFF 저장중</string>
-9992c10006
+9992c9992
 < 	<string>Select All</string>
 ---
 > 	<string>전체 선택</string>
-9994c10008
+9994c9994
 < 	<string>Select All</string>
 ---
 > 	<string>전체 선택</string>
-9996c10010
+9996c9996
 < 	<string>Select All</string>
 ---
 > 	<string>전체 선택</string>
-9998c10012
+9998c9998
 < 	<string>Select All</string>
 ---
 > 	<string>전체 선택</string>
-10046c10060
+10046c10046
 < 	<string>Select</string>
 ---
 > 	<string>선택</string>
-10162c10176
+10162c10162
 < 	<string>Selection</string>
 ---
 > 	<string>선택 항목</string>
-10164c10178
+10164c10164
 < 	<string>Selection</string>
 ---
 > 	<string>선택 항목</string>
-10166c10180
+10166c10166
 < 	<string>Selection</string>
 ---
 > 	<string>선택 항목</string>
-10168c10182
+10168c10168
 < 	<string>Selection</string>
 ---
 > 	<string>선택 항목</string>
-10170c10184
+10170c10170
 < 	<string>Selection</string>
 ---
 > 	<string>선택 항목</string>
-10172c10186
+10172c10172
 < 	<string>Selection</string>
 ---
 > 	<string>선택 항목</string>
-10194c10208
+10194c10194
 < 	<string>Selective Colour</string>
 ---
 > 	<string>색상 선택</string>
-10196c10210
+10196c10196
 < 	<string>Selective Colour</string>
 ---
 > 	<string>색상 선택</string>
-10198c10212
+10198c10198
 < 	<string>Selective Colour</string>
 ---
 > 	<string>색상 선택</string>
-11014c11028
+11014c11014
 < 	<string>Shadows / Highlights</string>
 ---
 > 	<string>그림자 / 빛</string>
-11016c11030
+11016c11016
 < 	<string>Shadows / Highlights</string>
 ---
 > 	<string>그림자 / 빛</string>
-11018c11032
+11018c11018
 < 	<string>Shadows / Highlights</string>
 ---
 > 	<string>그림자 / 빛</string>
-11020c11034
+11020c11020
 < 	<string>Shadows / Highlights</string>
 ---
 > 	<string>그림자 / 빛</string>
-11104c11118
+11104c11104
 < 	<string>Shear</string>
 ---
 > 	<string>기울임</string>
-11106c11120
+11106c11106
 < 	<string>Shear</string>
 ---
 > 	<string>기울임</string>
-11108c11122
+11108c11108
 < 	<string>Shear</string>
 ---
 > 	<string>기울임</string>
-11110c11124
+11110c11110
 < 	<string>Shear</string>
 ---
 > 	<string>기울임</string>
-11112c11126
+11112c11112
 < 	<string>Shear</string>
 ---
 > 	<string>기울임</string>
-11114c11128
+11114c11114
 < 	<string>Shear</string>
 ---
 > 	<string>기울임</string>
-11116c11130
+11116c11116
 < 	<string>Shear</string>
 ---
 > 	<string>기울임</string>
-11118c11132
+11118c11118
 < 	<string>Shear</string>
 ---
 > 	<string>기울임</string>
-11130c11144
+11130c11130
 < 	<string>Show All</string>
 ---
 > 	<string>모두 보기</string>
-11134c11148
+11134c11134
 < 	<string>Show Grid</string>
 ---
 > 	<string>격자선 나타내기</string>
-11136c11150
+11136c11136
 < 	<string>Show Guides</string>
 ---
 > 	<string>안내선 나타내기</string>
-11194c11208
+11194c11194
 < 	<string>Size</string>
 ---
 > 	<string>크기</string>
-11196c11210
+11196c11196
 < 	<string>Size</string>
 ---
 > 	<string>크기</string>
-11198c11212
+11198c11198
 < 	<string>Size</string>
 ---
 > 	<string>크기</string>
-11200c11214
+11200c11200
 < 	<string>Size</string>
 ---
 > 	<string>크기</string>
-11202c11216
+11202c11202
 < 	<string>Size</string>
 ---
 > 	<string>크기</string>
-11284c11298
+11284c11284
 < 	<string>Small Caps</string>
 ---
 > 	<string>작은 대문자</string>
-11286c11300
+11286c11286
 < 	<string>Small Caps</string>
 ---
 > 	<string>작은 대문자</string>
-11288c11302
+11288c11288
 < 	<string>Small Caps</string>
 ---
 > 	<string>작은 대문자</string>
-11294c11308
+11294c11294
 < 	<string>Small</string>
 ---
 > 	<string>작게</string>
-11296c11310
+11296c11296
 < 	<string>Small</string>
 ---
 > 	<string>작게</string>
-11390c11404
+11390c11390
 < 	<string>Snapping</string>
 ---
 > 	<string>스내핑</string>
-11394c11408
+11394c11394
 < 	<string>Snapshot</string>
 ---
 > 	<string>스냅샷</string>
-11396c11410
+11396c11396
 < 	<string>Snapshots Studio</string>
 ---
 > 	<string>스냅샷 작업실</string>
-11398c11412
+11398c11398
 < 	<string>Snapshots</string>
 ---
 > 	<string>스냅샷</string>
-11400c11414
+11400c11400
 < 	<string>Snp</string>
 ---
 > 	<string>스냅</string>
-11406c11420
+11406c11406
 < 	<string>Soft Proof</string>
 ---
 > 	<string>미리보기</string>
-11408c11422
+11408c11408
 < 	<string>Soft Proof</string>
 ---
 > 	<string>미리보기</string>
-11410c11424
+11410c11410
 < 	<string>Soft Proof</string>
 ---
 > 	<string>미리보기</string>
-11496c11510
+11496c11496
 < 	<string>Space Horizontally</string>
 ---
 > 	<string>가로 공간</string>
-11508c11522
+11508c11508
 < 	<string>Space Vertically</string>
 ---
 > 	<string>세로 공간</string>
-11524c11538
+11524c11524
 < 	<string>Spacing</string>
 ---
 > 	<string>공간</string>
-11526c11540
+11526c11526
 < 	<string>Spacing</string>
 ---
 > 	<string>공간</string>
-11528c11542
+11528c11528
 < 	<string>Spacing</string>
 ---
 > 	<string>공간</string>
-11602c11616
+11602c11602
 < 	<string>Split</string>
 ---
 > 	<string>분할</string>
-11762c11776
+11762c11762
 < 	<string>Strikeout</string>
 ---
 > 	<string>취소선</string>
-11772c11786
+11772c11772
 < 	<string>Stroke</string>
 ---
 > 	<string>획</string>
-11774c11788
+11774c11774
 < 	<string>Stroke</string>
 ---
 > 	<string>획</string>
-11776c11790
+11776c11776
 < 	<string>Stroke</string>
 ---
 > 	<string>획</string>
-11784c11798
+11784c11784
 < 	<string>Stroke:</string>
 ---
 > 	<string>획:</string>
-11792c11806
+11792c11792
 < 	<string>Style</string>
 ---
 > 	<string>스타일</string>
-11794c11808
+11794c11794
 < 	<string>Style</string>
 ---
 > 	<string>스타일</string>
-11796c11810
+11796c11796
 < 	<string>Style</string>
 ---
 > 	<string>스타일</string>
-11806c11820
+11806c11806
 < 	<string>Styles</string>
 ---
 > 	<string>스타일</string>
-11808c11822
+11808c11808
 < 	<string>Styles</string>
 ---
 > 	<string>스타일</string>
-11822c11836
+11822c11822
 < 	<string>Subscript</string>
 ---
 > 	<string>아랫첨자</string>
-11824c11838
+11824c11824
 < 	<string>Subscript</string>
 ---
 > 	<string>아랫첨자</string>
-11826c11840
+11826c11826
 < 	<string>Subscript</string>
 ---
 > 	<string>아랫첨자</string>
-11828c11842
+11828c11828
 < 	<string>Subscript</string>
 ---
 > 	<string>아랫첨자</string>
-11830c11844
+11830c11830
 < 	<string>Subscript</string>
 ---
 > 	<string>아랫첨자</string>
-11832c11846
+11832c11832
 < 	<string>Subscript</string>
 ---
 > 	<string>아랫첨자</string>
-11836c11850
+11836c11836
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11838c11852
+11838c11838
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11840c11854
+11840c11840
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11842c11856
+11842c11842
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11844c11858
+11844c11844
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11846c11860
+11846c11846
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11848c11862
+11848c11848
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11850c11864
+11850c11850
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11852c11866
+11852c11852
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11854c11868
+11854c11854
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11856c11870
+11856c11856
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11858c11872
+11858c11858
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11860c11874
+11860c11860
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11862c11876
+11862c11862
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11864c11878
+11864c11864
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11866c11880
+11866c11866
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11868c11882
+11868c11868
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11870c11884
+11870c11870
 < 	<string>Subtract</string>
 ---
 > 	<string>제거</string>
-11876c11890
+11876c11876
 < 	<string>Superscript</string>
 ---
 > 	<string>윗첨자</string>
-11878c11892
+11878c11878
 < 	<string>Superscript</string>
 ---
 > 	<string>윗첨자</string>
-11880c11894
+11880c11880
 < 	<string>Superscript</string>
 ---
 > 	<string>윗첨자</string>
-11882c11896
+11882c11882
 < 	<string>Superscript</string>
 ---
 > 	<string>윗첨자</string>
-11884c11898
+11884c11884
 < 	<string>Superscript</string>
 ---
 > 	<string>윗첨자</string>
-11886c11900
+11886c11886
 < 	<string>Superscript</string>
 ---
 > 	<string>윗첨자</string>
-11918c11932
+11918c11918
 < 	<string>Swatches</string>
 ---
 > 	<string>견본</string>
-11920c11934
+11920c11920
 < 	<string>Swatches</string>
 ---
 > 	<string>견본</string>
-11922c11936
+11922c11922
 < 	<string>Swatches</string>
 ---
 > 	<string>견본</string>
-11942c11956
+11942c11942
 < 	<string>Symbols Studio</string>
 ---
 > 	<string>상징 작업실</string>
-11944c11958
+11944c11944
 < 	<string>Symbols</string>
 ---
 > 	<string>상징</string>
-11946c11960
+11946c11946
 < 	<string>Symbols</string>
 ---
 > 	<string>상징</string>
-11948c11962
+11948c11948
 < 	<string>Sync After</string>
 ---
 > 	<string>이후 항목 동기화</string>
-11950c11964
+11950c11950
 < 	<string>Sync After</string>
 ---
 > 	<string>이후 항목 동기화</string>
-11952c11966
+11952c11952
 < 	<string>Sync Before</string>
 ---
 > 	<string>이전 항목 동기화</string>
-11954c11968
+11954c11954
 < 	<string>Sync Before</string>
 ---
 > 	<string>이전 항목 동기화</string>
-11968c11982
+11968c11968
 < 	<string>Synchronise from Selection</string>
 ---
 > 	<string>선택 항목에서 기본값 동기화</string>
-11978c11992
+11978c11978
 < 	<string>System</string>
 ---
 > 	<string>시스템</string>
-12124c12138
+12124c12124
 < 	<string>Text Styles</string>
 ---
 > 	<string>텍스트 스타일</string>
-12126c12140
+12126c12126
 < 	<string>Text Styles</string>
 ---
 > 	<string>텍스트 스타일</string>
-12128c12142
+12128c12128
 < 	<string>Text</string>
 ---
 > 	<string>문자</string>
-12130c12144
+12130c12130
 < 	<string>Text</string>
 ---
 > 	<string>문자</string>
-12132c12146
+12132c12132
 < 	<string>Text</string>
 ---
 > 	<string>문자</string>
-12134c12148
+12134c12134
 < 	<string>Text</string>
 ---
 > 	<string>문자</string>
-12136c12150
+12136c12136
 < 	<string>Text</string>
 ---
 > 	<string>문자</string>
-12464c12478
+12464c12464
 < 	<string>Threshold</string>
 ---
 > 	<string>역치</string>
-12466c12480
+12466c12466
 < 	<string>Threshold</string>
 ---
 > 	<string>역치</string>
-12468c12482
+12468c12468
 < 	<string>Threshold</string>
 ---
 > 	<string>역치</string>
-12470c12484
+12470c12470
 < 	<string>Threshold</string>
 ---
 > 	<string>역치</string>
-12472c12486
+12472c12472
 < 	<string>Threshold</string>
 ---
 > 	<string>역치</string>
-12474c12488
+12474c12474
 < 	<string>Threshold</string>
 ---
 > 	<string>역치</string>
-12652c12666
+12652c12652
 < 	<string>Tone Mapping Persona</string>
 ---
 > 	<string>톤 맵핑 페르소나</string>
-12654c12668
+12654c12654
 < 	<string>Tone Mapping</string>
 ---
 > 	<string>톤 맵핑</string>
-12660c12674
+12660c12660
 < 	<string>Tones</string>
 ---
 > 	<string>색조</string>
-12662c12676
+12662c12662
 < 	<string>Tools</string>
 ---
 > 	<string>도구</string>
-12664c12678
+12664c12664
 < 	<string>Tools</string>
 ---
 > 	<string>도구</string>
-12666c12680
+12666c12666
 < 	<string>Tools</string>
 ---
 > 	<string>도구</string>
-12668c12682
+12668c12668
 < 	<string>Tools</string>
 ---
 > 	<string>도구</string>
-12670c12684
+12670c12670
 < 	<string>Tools</string>
 ---
 > 	<string>도구</string>
-12690c12704
+12690c12690
 < 	<string>Top</string>
 ---
 > 	<string>위로</string>
-12692c12706
+12692c12692
 < 	<string>Top</string>
 ---
 > 	<string>위로</string>
-12694c12708
+12694c12694
 < 	<string>Top</string>
 ---
 > 	<string>위로</string>
-12696c12710
+12696c12696
 < 	<string>Top</string>
 ---
 > 	<string>위로</string>
-12698c12712
+12698c12698
 < 	<string>Top</string>
 ---
 > 	<string>위로</string>
-12728c12742
+12728c12728
 < 	<string>Transform</string>
 ---
 > 	<string>변형</string>
-12730c12744
+12730c12730
 < 	<string>Transform</string>
 ---
 > 	<string>변형</string>
-12732c12746
+12732c12732
 < 	<string>Transform</string>
 ---
 > 	<string>변형</string>
-12772c12786
+12772c12772
 < 	<string>Triangle Tool</string>
 ---
 > 	<string>삼각형 도구</string>
-12774c12788
+12774c12774
 < 	<string>Triangle Tool</string>
 ---
 > 	<string>삼각형 도구</string>
-12836c12850
+12836c12836
 < 	<string>Typography</string>
 ---
 > 	<string>타이포그래피</string>
-12838c12852
+12838c12838
 < 	<string>Typography</string>
 ---
 > 	<string>타이포그래피</string>
-12840c12854
+12840c12840
 < 	<string>Typography</string>
 ---
 > 	<string>타이포그래피</string>
-12932c12946
+12932c12932
 < 	<string>Underline</string>
 ---
 > 	<string>밑줄</string>
-12934c12948
+12934c12934
 < 	<string>Underline</string>
 ---
 > 	<string>밑줄</string>
-12936c12950
+12936c12936
 < 	<string>Underline</string>
 ---
 > 	<string>밑줄</string>
-12940c12954
+12940c12940
 < 	<string>Undo %@</string>
 ---
 > 	<string>%@ 실행 취소</string>
-12954c12968
+12954c12954
 < 	<string>Undo</string>
 ---
 > 	<string>실행 취소</string>
-12956c12970
+12956c12956
 < 	<string>Undo</string>
 ---
 > 	<string>실행 취소</string>
-12958c12972
+12958c12958
 < 	<string>Undo</string>
 ---
 > 	<string>실행 취소</string>
-12960c12974
+12960c12960
 < 	<string>Undo</string>
 ---
 > 	<string>실행 취소</string>
-12962c12976
+12962c12962
 < 	<string>Undo</string>
 ---
 > 	<string>실행 취소</string>
-12984c12998
+12984c12984
 < 	<string>Ungroup</string>
 ---
 > 	<string>그룹 해제</string>
-12986c13000
+12986c12986
 < 	<string>Ungroup</string>
 ---
 > 	<string>그룹 해제</string>
-12988c13002
+12988c12988
 < 	<string>Ungroup</string>
 ---
 > 	<string>그룹 해제</string>
-13000c13014
+13000c13000
 < 	<string>Union</string>
 ---
 > 	<string>병합</string>
-13122c13136
+13122c13122
 < 	<string>Unlock All</string>
 ---
 > 	<string>모두 잠금 해제</string>
-13124c13138
+13124c13124
 < 	<string>Unlock</string>
 ---
 > 	<string>잠금 해제</string>
-13174c13188
+13174c13174
 < 	<string>Untitled</string>
 ---
 > 	<string>이름 없음</string>
-13176c13190
+13176c13176
 < 	<string>Untitled</string>
 ---
 > 	<string>이름 없음</string>
-13178c13192
+13178c13178
 < 	<string>Untitled</string>
 ---
 > 	<string>이름 없음</string>
-13180c13194
+13180c13180
 < 	<string>Untitled</string>
 ---
 > 	<string>이름 없음</string>
-13184c13198
+13184c13184
 < 	<string>Update "%@"</string>
 ---
 > 	<string>"%@"를 갱신</string>
-13260c13274
+13260c13260
 < 	<string>Vector</string>
 ---
 > 	<string>벡터</string>
-13262c13276
+13262c13262
 < 	<string>Vector</string>
 ---
 > 	<string>벡터</string>
-13264c13278
+13264c13264
 < 	<string>Vector</string>
 ---
 > 	<string>벡터</string>
-13294c13308
+13294c13294
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13296c13310
+13296c13296
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13298c13312
+13298c13298
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13300c13314
+13300c13300
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13302c13316
+13302c13302
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13304c13318
+13304c13304
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13306c13320
+13306c13306
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13308c13322
+13308c13308
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13310c13324
+13310c13310
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13312c13326
+13312c13312
 < 	<string>Vibrance</string>
 ---
 > 	<string>활기</string>
-13320c13334
+13320c13320
 < 	<string>View Tool</string>
 ---
 > 	<string>뷰 도구</string>
-13322c13336
+13322c13322
 < 	<string>View Tool</string>
 ---
 > 	<string>뷰 도구</string>
-13324c13338
+13324c13324
 < 	<string>View Tool</string>
 ---
 > 	<string>뷰 도구</string>
-13326c13340
+13326c13326
 < 	<string>View</string>
 ---
 > 	<string>뷰</string>
-13360c13374
+13360c13360
 < 	<string>Web</string>
 ---
 > 	<string>웹</string>
-13362c13376
+13362c13362
 < 	<string>Web</string>
 ---
 > 	<string>웹</string>
-13364c13378
+13364c13364
 < 	<string>Web</string>
 ---
 > 	<string>웹</string>
-13390c13404
+13390c13390
 < 	<string>White Balance</string>
 ---
 > 	<string>화이트 밸런스</string>
-13392c13406
+13392c13392
 < 	<string>White Balance</string>
 ---
 > 	<string>화이트 밸런스</string>
-13394c13408
+13394c13394
 < 	<string>White Balance</string>
 ---
 > 	<string>화이트 밸런스</string>
-13396c13410
+13396c13396
 < 	<string>White Balance</string>
 ---
 > 	<string>화이트 밸런스</string>
-13402c13416
+13402c13402
 < 	<string>White</string>
 ---
 > 	<string>하양</string>
-13458c13472
+13458c13458
 < 	<string>Width:</string>
 ---
 > 	<string>두께:</string>
-13460c13474
+13460c13460
 < 	<string>Width:</string>
 ---
 > 	<string>두께:</string>
-13462c13476
+13462c13462
 < 	<string>Width:</string>
 ---
 > 	<string>두께:</string>
-13464c13478
+13464c13464
 < 	<string>Width:</string>
 ---
 > 	<string>두께:</string>
-13466c13480
+13466c13466
 < 	<string>Window</string>
 ---
 > 	<string>윈도우</string>
-13468c13482
+13468c13468
 < 	<string>Window</string>
 ---
 > 	<string>윈도우</string>
-13568c13582
+13568c13568
 < 	<string>Yellow</string>
 ---
 > 	<string>노랑</string>
-13570c13584
+13570c13570
 < 	<string>Yellow</string>
 ---
 > 	<string>노랑</string>
-13572c13586
+13572c13572
 < 	<string>Yellow</string>
 ---
 > 	<string>노랑</string>
-13574c13588
+13574c13574
 < 	<string>Yellow</string>
 ---
 > 	<string>노랑</string>
-13576c13590
+13576c13576
 < 	<string>Yellow</string>
 ---
 > 	<string>노랑</string>
-13578c13592
+13578c13578
 < 	<string>Yellow</string>
 ---
 > 	<string>노랑</string>
-13586c13600
+13586c13586
 < 	<string>Yes</string>
 ---
 > 	<string>네</string>
-13588c13602
+13588c13588
 < 	<string>Yes</string>
 ---
 > 	<string>네</string>
-13590c13604
+13590c13590
 < 	<string>Yes</string>
 ---
 > 	<string>네</string>
-13592c13606
+13592c13592
 < 	<string>Yes</string>
 ---
 > 	<string>네</string>
-13668c13682
+13668c13668
 < 	<string>Zoom Tool</string>
 ---
 > 	<string>맞추기 도구</string>
-13670c13684
+13670c13670
 < 	<string>Zoom</string>
 ---
 > 	<string>맞추기</string>
-13672c13686
+13672c13672
 < 	<string>Zoom</string>
 ---
 > 	<string>맞추기</string>
-13674c13688
+13674c13674
 < 	<string>Zoom</string>
 ---
 > 	<string>맞추기</string>
-13676c13690
+13676c13676
 < 	<string>Zoom</string>
 ---
 > 	<string>맞추기</string>
-13680c13694
+13680c13680
 < 	<string>Zoom to Fit</string>
 ---
 > 	<string>화면 크기에 맞추기</string>
-13682c13696
+13682c13682
 < 	<string>Zoom to Selection</string>
 ---
 > 	<string>선택 항목에 맞추기</string>
-13686c13700
+13686c13686
 < 	<string>[No Style]</string>
 ---
 > 	<string>[스타일 없음]</string>
-13688c13702
+13688c13688
 < 	<string>[No change]</string>
 ---
 > 	<string>[변화 없음]</string>
-13690c13704
+13690c13690
 < 	<string>[No changes]</string>
 ---
 > 	<string>[변화 없음]</string>
-13696c13710
+13696c13696
 < 	<string>[Same Style]</string>
 ---
 > 	<string>[같은 스타일]</string>
-13708c13722
+13708c13708
 < 	<string>[replace]</string>
 ---
 > 	<string>[교체]</string>
-13710c13724
+13710c13710
 < 	<string>[replace]</string>
 ---
 > 	<string>[교체]</string>
-13712c13726
+13712c13712
 < 	<string>[user]</string>
 ---
-> 	<string>\[사용자]</string>
-13714c13728
+> 	<string>[사용자]</string>
+13714c13714
 < 	<string>[user]</string>
 ---
-> 	<string>\[사용자]</string>
-13722c13736
+> 	<string>[사용자]</string>
+13722c13722
 < 	<string>background</string>
 ---
 > 	<string>배경</string>
-13730c13744
+13730c13730
 < 	<string>dash</string>
 ---
 > 	<string>줄표</string>
-13760c13774
+13760c13760
 < 	<string>kB</string>
 ---
 > 	<string>KB</string>
-13766c13780
+13766c13766
 < 	<string>n/a</string>
 ---
 > 	<string>없음</string>
-13768c13782
+13768c13768
 < 	<string>n/a</string>
 ---
 > 	<string>없음</string>
-13770c13784
+13770c13770
 < 	<string>n/a</string>
 ---
 > 	<string>없음</string>
-14128c14142
+14128c14128
 < 	<string>|DRAG| to move selection.</string>
 ---
 > 	<string>|DRAG|해서 선택 항목을 움직입니다.</string>
-14130c14144
+14130c14130
 < 	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>
 ---
 > 	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>

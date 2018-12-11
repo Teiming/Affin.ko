@@ -2363,7 +2363,7 @@
 				<integer>59</integer>
 			</dict>
 		</dict>
-		<string>Restore Snapshot</string>
+		<string>스냅샷 복원</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2799,7 +2799,7 @@
 				<integer>90</integer>
 			</dict>
 		</dict>
-		<string>Photo 종료</string>
+		<string>Affinity Photo 종료</string>
 		<string>q</string>
 		<dict>
 			<key>$class</key>
@@ -2981,7 +2981,7 @@
 				<integer>105</integer>
 			</dict>
 		</dict>
-		<string>About…</string>
+		<string>Affinity Photo에 관하여…</string>
 		<string>showAboutDialog:</string>
 		<dict>
 			<key>$class</key>
@@ -3058,7 +3058,7 @@
 				<integer>1775</integer>
 			</dict>
 		</dict>
-		<string>실행 취소</string>
+		<string>다시 실행</string>
 		<string>Z</string>
 		<dict>
 			<key>$class</key>
@@ -17413,7 +17413,7 @@
 				<integer>1152</integer>
 			</dict>
 		</dict>
-		<string>In Place</string>
+		<string>제자리에</string>
 		<string>cleanUpFloatingPanelsInPlace:</string>
 		<dict>
 			<key>$class</key>
@@ -19771,7 +19771,7 @@
 				<integer>1311</integer>
 			</dict>
 		</dict>
-		<string>볼드체</string>
+		<string>강조</string>
 		<string>toggleBold:</string>
 		<dict>
 			<key>$class</key>
@@ -22180,7 +22180,7 @@
 				<integer>1479</integer>
 			</dict>
 		</dict>
-		<string>이탤릭체</string>
+		<string>기울임</string>
 		<string>toggleItalic:</string>
 		<dict>
 			<key>$class</key>
@@ -25567,7 +25567,7 @@
 				<integer>1716</integer>
 			</dict>
 		</dict>
-		<string>Add Snapshot</string>
+		<string>스냅샷 추가</string>
 		<string>addDocumentSnapshot:</string>
 		<dict>
 			<key>$class</key>
@@ -30741,8 +30741,8 @@
 				<integer>1815</integer>
 			</dict>
 		</dict>
-		<string>Paragraph Leading</string>
-		<string>Paragraph Leading</string>
+		<string>줄 간격</string>
+		<string>줄 간격</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31819,7 +31819,7 @@
 				<integer>1849</integer>
 			</dict>
 		</dict>
-		<string>Restore Snapshot</string>
+		<string>스냅샷 복원</string>
 		<dict>
 			<key>$class</key>
 			<dict>
