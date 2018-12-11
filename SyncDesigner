@@ -3,3 +3,5 @@ echo "동기화를 시작합니다."
 echo "로그를 기록합니다."
 /usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Resources/ja.lproj/ > ~/Affinity-in-Korean/Log/afdesigner.en-ja.log
 /usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/ > ~/Affinity-in-Korean/Log/afdesigner.en-ko.log
+/usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/afdesigner.en-ja.log
+/usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/afdesigner.en-ko.log
