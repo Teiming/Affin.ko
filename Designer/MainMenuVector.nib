@@ -6319,7 +6319,7 @@
 				<integer>405</integer>
 			</dict>
 		</dict>
-		<string>Apple Colour Picker...</string>
+		<string>Apple 색상 선택기...</string>
 		<string>showAppleColourPicker:</string>
 		<dict>
 			<key>$class</key>
@@ -9390,7 +9390,7 @@
 				<integer>624</integer>
 			</dict>
 		</dict>
-		<string>가로 공간</string>
+		<string>가로 공백</string>
 		<string>doSpaceHorz:</string>
 		<dict>
 			<key>$class</key>
@@ -10544,7 +10544,7 @@
 				<integer>705</integer>
 			</dict>
 		</dict>
-		<string>세로 공간</string>
+		<string>세로 공백</string>
 		<string>doSpaceVert:</string>
 		<dict>
 			<key>$class</key>
@@ -15014,7 +15014,7 @@
 				<integer>1019</integer>
 			</dict>
 		</dict>
-		<string>배타</string>
+		<string>Combine</string>
 		<string>boolOpXor:</string>
 		<dict>
 			<key>$class</key>

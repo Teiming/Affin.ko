@@ -14,11 +14,12 @@ then
     echo "Frameworks를 번역합니다."
     if [ $BETA -eq 1 ]
     then
+      echo "Beta를 번역합니다."
       for (( i = 1; i <= 242; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks_Beta/"$NAME".temp && /bin/mv DesignerFrameworks_Beta/"$NAME".temp DesignerFrameworks_Beta/"$NAME"
+        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks_Beta/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncDesignerFrameworks_Beta
@@ -27,7 +28,7 @@ then
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
+        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncDesignerFrameworks
@@ -35,23 +36,30 @@ then
   else
     if [ $BETA -eq 1 ]
     then
+      echo "Beta를 번역합니다."
       for (( i = 1; i <= 12; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Designer_Beta/"$NAME".temp && /bin/mv Designer_Beta/"$NAME".temp Designer_Beta/"$NAME"
+        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Designer_Beta/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncDesigner_Beta
+      echo "로그를 기록합니다."
+      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.Designer.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.Designer.en-ko.log
     else
       for (( i = 1; i <= 12; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/"$NAME" > Designer/"$NAME".temp && /bin/mv Designer/"$NAME".temp Designer/"$NAME"
+        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/"$NAME" > Designer/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncDesigner
+      echo "로그를 기록합니다."
+      /usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Designer.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Designer.en-ko.log
     fi
   fi
 else
@@ -66,7 +74,7 @@ else
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoFrameworks_Beta/"$NAME".temp && /bin/mv PhotoFrameworks_Beta/"$NAME".temp PhotoFrameworks_Beta/"$NAME"
+        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoFrameworks_Beta/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncPhotoFrameworks_Beta
@@ -75,7 +83,7 @@ else
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoFrameworks/"$NAME".temp && /bin/mv PhotoFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
+        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoFrameworks/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncPhotoFrameworks
@@ -88,7 +96,7 @@ else
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Photo_Beta/"$NAME".temp && /bin/mv Photo_Beta/"$NAME".temp Photo_Beta/"$NAME"
+        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Photo_Beta/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncPhoto_Beta
@@ -97,7 +105,7 @@ else
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/"$NAME" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"
+        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/"$NAME" > Photo/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncPhoto

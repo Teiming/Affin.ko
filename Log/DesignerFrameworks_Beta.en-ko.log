@@ -692,7 +692,23 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 1993c1993
 < 		<string>Add Colour to Swatch</string>
 ---
-> 		<string>색상을 견본에 추가</string>
+> 		<string>견본에 색상 추가</string>
+2043c2043
+< 		<string>Add Chord to Swatch</string>
+---
+> 		<string>견본에 코드 추가</string>
+2062c2062
+< 		<string>Add Chord to Swatch</string>
+---
+> 		<string>견본에 코드 추가</string>
+2151c2151
+< 		<string>Complementary</string>
+---
+> 		<string>보색</string>
+2221c2221
+< 		<string>Analogous</string>
+---
+> 		<string>유사</string>
 2469c2469
 < 		<string>Shades</string>
 ---
@@ -939,6 +955,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>System</string>
 ---
 > 		<string>시스템</string>
+2046c2046
+< 		<string>Points</string>
+---
+> 		<string>포인트</string>
 diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensItemViews.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopLensItemViews.nib
 4445c4445
 < 		<string>System</string>
@@ -2884,6 +2904,14 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Artboard Tool</string>
 ---
 > 	<string>아트보드 도구</string>
+1822c1822
+< 	<string>Artboard</string>
+---
+> 	<string>아트보드</string>
+1824c1824
+< 	<string>Artboard</string>
+---
+> 	<string>아트보드</string>
 1918c1918
 < 	<string>Auto Colours</string>
 ---
@@ -3496,6 +3524,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Colours</string>
 ---
 > 	<string>색상</string>
+3688c3688
+< 	<string>Complementary</string>
+---
+> 	<string>보색</string>
 3752c3752
 < 	<string>Constraints</string>
 ---
@@ -3540,6 +3572,22 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Copy</string>
 ---
 > 	<string>복사</string>
+3964c3964
+< 	<string>Corner Tool</string>
+---
+> 	<string>꼭짓점 도구</string>
+3966c3966
+< 	<string>Corner Tool</string>
+---
+> 	<string>꼭짓점 도구</string>
+3972c3972
+< 	<string>Corner</string>
+---
+> 	<string>꼭짓점</string>
+3976c3976
+< 	<string>Corner:</string>
+---
+> 	<string>꼭짓점:</string>
 4006c4006
 < 	<string>Create Character Style</string>
 ---
@@ -3596,6 +3644,14 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Cut</string>
 ---
 > 	<string>오려두기</string>
+4412c4412
+< 	<string>Dark</string>
+---
+> 	<string>다크</string>
+4414c4414
+< 	<string>Dark</string>
+---
+> 	<string>다크</string>
 4474c4474
 < 	<string>Default</string>
 ---
@@ -3848,6 +3904,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Document</string>
 ---
 > 	<string>문서</string>
+5158c5158
+< 	<string>Don't restore</string>
+---
+> 	<string>복원하지 않음</string>
 5162c5162
 < 	<string>Done</string>
 ---
@@ -4640,6 +4700,22 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Ligatures</string>
 ---
 > 	<string>합자</string>
+8388c8388
+< 	<string>Light</string>
+---
+> 	<string>라이트</string>
+8390c8390
+< 	<string>Light</string>
+---
+> 	<string>라이트</string>
+8392c8392
+< 	<string>Light</string>
+---
+> 	<string>라이트</string>
+8394c8394
+< 	<string>Light</string>
+---
+> 	<string>라이트</string>
 8448c8448
 < 	<string>Line Break</string>
 ---
@@ -5420,6 +5496,22 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Plugin</string>
 ---
 > 	<string>플러그인</string>
+11428c11428
+< 	<string>Points</string>
+---
+> 	<string>포인트</string>
+11430c11430
+< 	<string>Points</string>
+---
+> 	<string>포인트</string>
+11432c11432
+< 	<string>Points</string>
+---
+> 	<string>포인트</string>
+11434c11434
+< 	<string>Points</string>
+---
+> 	<string>포인트</string>
 11476c11476
 < 	<string>Portrait</string>
 ---
@@ -5636,6 +5728,14 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 	<string>Reset</string>
 ---
 > 	<string>재설정</string>
+12434c12434
+< 	<string>Restore</string>
+---
+> 	<string>복원</string>
+12444c12444
+< 	<string>Restore unsaved file?</string>
+---
+> 	<string>저장하지 않은 파일을 복원하겠습니까?</string>
 12456c12456
 < 	<string>Retina Pixels</string>
 ---
@@ -7093,7 +7193,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 6658c6658
 < 		<string>Portrait</string>
 ---
-> 		<string>세로방향</string>
+> 		<string>세로 방향</string>
 6730c6730
 < 		<string>Layout</string>
 ---
@@ -7170,7 +7270,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 3859c3859
 < 		<string>Portrait</string>
 ---
-> 		<string>세로방향</string>
+> 		<string>세로 방향</string>
 4974c4974
 < 		<string>Transparent background</string>
 ---
@@ -7426,7 +7526,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 5463c5463
 < 		<string>Portrait</string>
 ---
-> 		<string>세로방향</string>
+> 		<string>세로 방향</string>
 5525c5525
 < 		<string>Dimensions</string>
 ---
@@ -7500,7 +7600,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 2736c2736
 < 		<string>Portrait</string>
 ---
-> 		<string>세로방향</string>
+> 		<string>세로 방향</string>
 3648c3648
 < 		<string>Dimensions:</string>
 ---
@@ -7747,6 +7847,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>Factory Reset</string>
 ---
 > 		<string>기본값 재설정</string>
+27790c27790
+< 		<string>Software Update</string>
+---
+> 		<string>소프트웨어 업데이트</string>
 27823c27823
 < 		<string>Miscellaneous</string>
 ---

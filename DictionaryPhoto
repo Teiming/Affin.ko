@@ -32,17 +32,15 @@ s/g>All Caps</g>모두 대문자</
 s/g>Alpha Range</g>알파 범위</
 s/g>Alphabetical</g>알파벳</
 s/g>Always Show Selection in Layers Panel </g>레이어 패널에서 선택 항목 항상 보기 </
+s/g>Analogous</g>유사</
 s/g>Angle:</g>각도:</
 s/g>Angle</g>각도</
 s/g>Apple Colour Picker...</g>Apple 색상 선택기...</
 s/g>Apply</g>적용</
 s/g>Area:</g>영역:</
 s/g>Arrange</g>순서</
-s/g>Artboard</g>아트보드</
 s/g>Artboard Tool</g>아트보드 도구</
-s/g>Corner</g>꼭짓점</
-s/g>Corner:</g>꼭짓점:</
-s/g>Corner Tool</g>꼭짓점 도구</
+s/g>Artboard</g>아트보드</
 s/g>As Application Palette</g>응용프로그램 팔레트로</
 s/g>As Document Palette</g>문서 팔레트로</
 s/g>As System Palette</g>시스템 팔레트로</
@@ -127,6 +125,9 @@ s/g>Convert to Donut</g>도넛으로 전환</
 s/g>Convert to Text Frame</g>텍스트 액자로 전환</
 s/g>Convert to Text Path</g>텍스트 경로로 전환</
 s/g>Copy</g>복사</
+s/g>Corner Tool</g>꼭짓점 도구</
+s/g>Corner:</g>꼭짓점:</
+s/g>Corner</g>꼭짓점</
 s/g>Create Character Style</g>문자 스타일 생성</
 s/g>Create Compound</g>결합 생성</
 s/g>Create Palette From Document</g>문서로부터 팔레트 생성</
@@ -179,6 +180,7 @@ s/g>Document Setup…</g>문서 설정…</
 s/g>Document Units:</g>문서 단위:</
 s/g>Document</g>문서</
 s/g>Don't export layers hidden by Export persona</g>출력 페르소나에서 숨긴 레이어는 출력하지 않음.</
+s/g>Don't restore</g>복원하지 않음</
 s/g>Done</g>완료</
 s/g>Donut Tool</g>도넛 도구</
 s/g>Donut</g>도넛</
@@ -418,7 +420,7 @@ s/g>Pixels</g>픽셀</
 s/g>Place…</g>다른 문서 넣기…</
 s/g>Plugin</g>플러그인</
 s/g>Points</g>포인트</
-s/g>Portrait</g>세로방향</
+s/g>Portrait</g>세로 방향</
 s/g>Position:</g>위치:</
 s/g>Posterise</g>포스터화</
 s/g>Precise Bigger</g>정밀하게 늘리기</
@@ -462,6 +464,8 @@ s/g>Reset Selection Box</g>선택 항목 상자 재설정</
 s/g>Reset Studio</g>작업실 재설정</
 s/g>Reset</g>재설정</
 s/g>Restore Snapshot</g>스냅샷 복원</
+s/g>Restore unsaved file?</g>저장하지 않은 파일을 복원하겠습니까?</
+s/g>Restore</g>복원</
 s/g>Retina Pixels</g>레티나 픽셀</
 s/g>Retina pixel view mode</g>레티나 픽셀 뷰 모드</
 s/g>Reveal in Finder</g>Finder에서 찾기</

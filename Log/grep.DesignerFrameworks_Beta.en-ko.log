@@ -370,7 +370,15 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>Percentage</string>
 > 		<string>백분율</string>
 < 		<string>Add Colour to Swatch</string>
-> 		<string>색상을 견본에 추가</string>
+> 		<string>견본에 색상 추가</string>
+< 		<string>Add Chord to Swatch</string>
+> 		<string>견본에 코드 추가</string>
+< 		<string>Add Chord to Swatch</string>
+> 		<string>견본에 코드 추가</string>
+< 		<string>Complementary</string>
+> 		<string>보색</string>
+< 		<string>Analogous</string>
+> 		<string>유사</string>
 < 		<string>Shades</string>
 > 		<string>음영</string>
 < 		<string>Tones</string>
@@ -507,6 +515,8 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 		<string>없음</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Points</string>
+> 		<string>포인트</string>
 diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensItemViews.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopLensItemViews.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -1528,6 +1538,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 	<string>아트보드 도구</string>
 < 	<string>Artboard Tool</string>
 > 	<string>아트보드 도구</string>
+< 	<string>Artboard</string>
+> 	<string>아트보드</string>
+< 	<string>Artboard</string>
+> 	<string>아트보드</string>
 < 	<string>Auto Colours</string>
 > 	<string>자동 색상</string>
 < 	<string>Auto Colours</string>
@@ -1834,6 +1848,8 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 	<string>색상</string>
 < 	<string>Colours</string>
 > 	<string>색상</string>
+< 	<string>Complementary</string>
+> 	<string>보색</string>
 < 	<string>Constraints</string>
 > 	<string>제약</string>
 < 	<string>Constraints</string>
@@ -1856,6 +1872,14 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 	<string>복사</string>
 < 	<string>Copy</string>
 > 	<string>복사</string>
+< 	<string>Corner Tool</string>
+> 	<string>꼭짓점 도구</string>
+< 	<string>Corner Tool</string>
+> 	<string>꼭짓점 도구</string>
+< 	<string>Corner</string>
+> 	<string>꼭짓점</string>
+< 	<string>Corner:</string>
+> 	<string>꼭짓점:</string>
 < 	<string>Create Character Style</string>
 > 	<string>문자 스타일 생성</string>
 < 	<string>Create Paragraph Style</string>
@@ -1884,6 +1908,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 	<string>오려두기</string>
 < 	<string>Cut</string>
 > 	<string>오려두기</string>
+< 	<string>Dark</string>
+> 	<string>다크</string>
+< 	<string>Dark</string>
+> 	<string>다크</string>
 < 	<string>Default</string>
 > 	<string>기본값</string>
 < 	<string>Default</string>
@@ -2010,6 +2038,8 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 	<string>문서</string>
 < 	<string>Document</string>
 > 	<string>문서</string>
+< 	<string>Don't restore</string>
+> 	<string>복원하지 않음</string>
 < 	<string>Done</string>
 > 	<string>완료</string>
 < 	<string>Donut Tool</string>
@@ -2406,6 +2436,14 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 	<string>라이브러리</string>
 < 	<string>Ligatures</string>
 > 	<string>합자</string>
+< 	<string>Light</string>
+> 	<string>라이트</string>
+< 	<string>Light</string>
+> 	<string>라이트</string>
+< 	<string>Light</string>
+> 	<string>라이트</string>
+< 	<string>Light</string>
+> 	<string>라이트</string>
 < 	<string>Line Break</string>
 > 	<string>줄바꿈</string>
 < 	<string>Liquify Persona</string>
@@ -2796,6 +2834,14 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 	<string>픽셀</string>
 < 	<string>Plugin</string>
 > 	<string>플러그인</string>
+< 	<string>Points</string>
+> 	<string>포인트</string>
+< 	<string>Points</string>
+> 	<string>포인트</string>
+< 	<string>Points</string>
+> 	<string>포인트</string>
+< 	<string>Points</string>
+> 	<string>포인트</string>
 < 	<string>Portrait</string>
 > 	<string>세로방향</string>
 < 	<string>Posterise</string>
@@ -2904,6 +2950,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 	<string>재설정</string>
 < 	<string>Reset</string>
 > 	<string>재설정</string>
+< 	<string>Restore</string>
+> 	<string>복원</string>
+< 	<string>Restore unsaved file?</string>
+> 	<string>저장하지 않은 파일을 복원하겠습니까?</string>
 < 	<string>Retina Pixels</string>
 > 	<string>레티나 픽셀</string>
 < 	<string>Revert</string>
@@ -3643,7 +3693,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>Default</string>
 > 		<string>기본값</string>
 < 		<string>Portrait</string>
-> 		<string>세로방향</string>
+> 		<string>세로 방향</string>
 < 		<string>Layout</string>
 > 		<string>구조</string>
 < 		<string>Transparent background</string>
@@ -3682,7 +3732,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>Default</string>
 > 		<string>기본값</string>
 < 		<string>Portrait</string>
-> 		<string>세로방향</string>
+> 		<string>세로 방향</string>
 < 		<string>Transparent background</string>
 > 		<string>투명한 배경</string>
 < 		<string>Colour Format:</string>
@@ -3816,7 +3866,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>Default</string>
 > 		<string>기본값</string>
 < 		<string>Portrait</string>
-> 		<string>세로방향</string>
+> 		<string>세로 방향</string>
 < 		<string>Dimensions</string>
 > 		<string>치수</string>
 < 		<string>Colour Format:</string>
@@ -3854,7 +3904,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Portrait</string>
-> 		<string>세로방향</string>
+> 		<string>세로 방향</string>
 < 		<string>Dimensions:</string>
 > 		<string>치수:</string>
 < 		<string>Dimensions</string>
@@ -3985,6 +4035,8 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.
 > 		<string>플러그인</string>
 < 		<string>Factory Reset</string>
 > 		<string>기본값 재설정</string>
+< 		<string>Software Update</string>
+> 		<string>소프트웨어 업데이트</string>
 < 		<string>Miscellaneous</string>
 > 		<string>기타</string>
 < 		<string>Miscellaneous</string>

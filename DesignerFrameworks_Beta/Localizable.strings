@@ -5155,7 +5155,7 @@ The input RGB value should contain a bump map encoded vector.</string>
 	<key>Don't open recovery file [Don't open autosave]</key>
 	<string>Don't open recovery file</string>
 	<key>Don't restore [Autosave option]</key>
-	<string>Don't restore</string>
+	<string>복원하지 않음</string>
 	<key>Don't set [Brush Editor]</key>
 	<string>Don't set</string>
 	<key>Done [Toolbar palette done button]</key>
@@ -12431,7 +12431,7 @@ Same as negz(v).</string>
 	<key>Restore Master Presets to Category [Preset Manager]</key>
 	<string>Restore Master Presets to Category</string>
 	<key>Restore [Autosave option]</key>
-	<string>Restore</string>
+	<string>복원</string>
 	<key>Restore auto slice rect [Command description]</key>
 	<string>Restore auto slice rect</string>
 	<key>Restore snapshot [Command description]</key>
@@ -12441,7 +12441,7 @@ Same as negz(v).</string>
 	<key>Restore unsaved documents [Command description]</key>
 	<string>Restore unsaved documents</string>
 	<key>Restore unsaved file? [Message box title]</key>
-	<string>Restore unsaved file?</string>
+	<string>저장하지 않은 파일을 복원하겠습니까?</string>
 	<key>Restore unsaved files? [Message box title]</key>
 	<string>Restore unsaved files?</string>
 	<key>Result [Telemetry Page]</key>
