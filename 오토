@@ -13,7 +13,7 @@ then
   if [ $WHERE -eq 1 ]
   then
     /usr/bin/sed -f DictionaryDesigner "$PATH" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
-    /usr/bin/sudo ./SyncDesigner
+    /usr/bin/sudo ./SyncDesignerFrameworks
   else
     /usr/bin/sed -f DictionaryDesigner "$PATH" > Designer/"$NAME".temp && /bin/mv Designer/"$NAME".temp Designer/"$NAME"
     /usr/bin/sudo ./SyncDesigner
@@ -22,7 +22,7 @@ else
   if [ $WHERE -eq 1 ]
   then
     /usr/bin/sed -f DictionaryPhoto "$PATH" > PhotoFrameworks/"$NAME".temp && /bin/mv PhotoFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
-    /usr/bin/sudo ./SyncPhoto
+    /usr/bin/sudo ./SyncPhotoFrameworks
   else
     /usr/bin/sed -f DictionaryPhoto "$PATH" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"
     /usr/bin/sudo ./SyncPhoto
