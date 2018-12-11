@@ -1518,7 +1518,7 @@
 				<integer>37</integer>
 			</dict>
 		</dict>
-		<string>왼쪽 작업실 나타내기</string>
+		<string>왼쪽 작업실 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1553,7 +1553,7 @@
 				<integer>39</integer>
 			</dict>
 		</dict>
-		<string>오른쪽 작업실 나타내기</string>
+		<string>오른쪽 작업실 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2145,7 +2145,7 @@
 				<integer>84</integer>
 			</dict>
 		</dict>
-		<string>Designer 종료</string>
+		<string>Affinity Designer 종료</string>
 		<string>q</string>
 		<dict>
 			<key>$class</key>
@@ -3415,7 +3415,7 @@
 				<integer>186</integer>
 			</dict>
 		</dict>
-		<string>툴바 나타내기</string>
+		<string>툴바 보기</string>
 		<string>t</string>
 		<string>toggleToolbar:</string>
 		<dict>
@@ -3892,7 +3892,7 @@
 				<integer>225</integer>
 			</dict>
 		</dict>
-		<string>여백선 나타내기</string>
+		<string>여백선 보기</string>
 		<string>showMargins:</string>
 		<dict>
 			<key>$class</key>
@@ -3952,7 +3952,7 @@
 				<integer>229</integer>
 			</dict>
 		</dict>
-		<string>안내선 나타내기</string>
+		<string>안내선 보기</string>
 		<string>;</string>
 		<string>showGuides:</string>
 		<dict>
@@ -4013,7 +4013,7 @@
 				<integer>234</integer>
 			</dict>
 		</dict>
-		<string>격자선 나타내기</string>
+		<string>격자선 보기</string>
 		<string>'</string>
 		<string>showGrid:</string>
 		<dict>
@@ -6081,7 +6081,7 @@
 				<integer>1242</integer>
 			</dict>
 		</dict>
-		<string>서체 작업실</string>
+		<string>문자 보기</string>
 		<string>showFontsOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -6261,7 +6261,7 @@
 				<integer>401</integer>
 			</dict>
 		</dict>
-		<string>눈금자 나타내기</string>
+		<string>눈금자 보기</string>
 		<string>toggleRulers:</string>
 		<dict>
 			<key>$class</key>
@@ -6319,7 +6319,7 @@
 				<integer>405</integer>
 			</dict>
 		</dict>
-		<string>Apple 색상 선택기...</string>
+		<string>Apple Colour Picker...</string>
 		<string>showAppleColourPicker:</string>
 		<dict>
 			<key>$class</key>
@@ -8105,7 +8105,7 @@
 				<integer>533</integer>
 			</dict>
 		</dict>
-		<string>문자 탐색 작업실</string>
+		<string>문자 브라우저 보기</string>
 		<string>showGlyphBrowserPage:</string>
 		<dict>
 			<key>$class</key>
@@ -8238,7 +8238,7 @@
 				<integer>542</integer>
 			</dict>
 		</dict>
-		<string>상황별 툴바 나타내기</string>
+		<string>상황별 툴바 보기</string>
 		<string>toggleContextToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -9960,7 +9960,7 @@
 				<integer>665</integer>
 			</dict>
 		</dict>
-		<string>문자 스타일 불러오기…</string>
+		<string>텍스트 스타일 입력…</string>
 		<string>importStyles:</string>
 		<dict>
 			<key>$class</key>
@@ -10486,7 +10486,7 @@
 				<integer>701</integer>
 			</dict>
 		</dict>
-		<string>환영...</string>
+		<string>Welcome...</string>
 		<string>showWelcome:</string>
 		<dict>
 			<key>$class</key>
@@ -12248,7 +12248,7 @@
 				<integer>827</integer>
 			</dict>
 		</dict>
-		<string>지원...</string>
+		<string>Support...</string>
 		<string>showSupport:</string>
 		<dict>
 			<key>$class</key>
@@ -12498,7 +12498,7 @@
 				<integer>845</integer>
 			</dict>
 		</dict>
-		<string>텍스트 스타일 재적용</string>
+		<string>텍스트 스타일 다시 적용</string>
 		<string>reapplyTextStyles:</string>
 		<dict>
 			<key>$class</key>
@@ -12556,7 +12556,7 @@
 				<integer>849</integer>
 			</dict>
 		</dict>
-		<string>문단 작업실</string>
+		<string>문단 보기</string>
 		<string>showParagraphsOptions:</string>
 		<dict>
 			<key>$class</key>
@@ -13377,7 +13377,7 @@
 				<integer>906</integer>
 			</dict>
 		</dict>
-		<string>튜토리얼...</string>
+		<string>Tutorial...</string>
 		<string>showTutorials:</string>
 		<dict>
 			<key>$class</key>
@@ -13958,7 +13958,7 @@
 				<integer>945</integer>
 			</dict>
 		</dict>
-		<string>문자 스타일을 기본값으로 저장</string>
+		<string>텍스트 스타일을 기본값으로 저장</string>
 		<string>setStylesAsDefault:</string>
 		<dict>
 			<key>$class</key>
@@ -14307,7 +14307,7 @@
 				<integer>968</integer>
 			</dict>
 		</dict>
-		<string>타이포그래피 작업실</string>
+		<string>타이포그래피 보기</string>
 		<string>T</string>
 		<string>showOpenTypeOptions:</string>
 		<dict>
@@ -15072,7 +15072,7 @@
 				<integer>1023</integer>
 			</dict>
 		</dict>
-		<string>텍스트 스타일 작업실</string>
+		<string>텍스트 스타일 보기</string>
 		<string>showTextStylePage:</string>
 		<dict>
 			<key>$class</key>
@@ -15776,7 +15776,7 @@
 				<integer>1073</integer>
 			</dict>
 		</dict>
-		<string>레이어 목록에서 찾기</string>
+		<string>레이어 패널에서 찾기</string>
 		<string>doFindInLayerPage:</string>
 		<dict>
 			<key>$class</key>
@@ -15952,7 +15952,7 @@
 				<integer>1085</integer>
 			</dict>
 		</dict>
-		<string>줄이기</string>
+		<string>더 작게</string>
 		<string>decreaseTextHeight:</string>
 		<dict>
 			<key>$class</key>
@@ -16538,7 +16538,7 @@
 				<integer>1125</integer>
 			</dict>
 		</dict>
-		<string>도구 나타내기</string>
+		<string>도구 보기</string>
 		<string>toggleToolsUI:</string>
 		<dict>
 			<key>$class</key>
@@ -17247,7 +17247,7 @@
 				<integer>1176</integer>
 			</dict>
 		</dict>
-		<string>항상 레이어 목록에서 선택 항목 나타내기</string>
+		<string>레이어 패널에서 선택 항목 항상 보기 </string>
 		<string>toggleAlwaysShowSelectionInLayersPanel:</string>
 		<dict>
 			<key>$class</key>
@@ -20661,7 +20661,7 @@
 				<integer>1242</integer>
 			</dict>
 		</dict>
-		<string>문자</string>
+		<string>텍스트</string>
 		<dict>
 			<key>$class</key>
 			<dict>

@@ -2597,7 +2597,7 @@
 			</dict>
 		</dict>
 		<string>SchemeButtonCell</string>
-		<string>Remove</string>
+		<string>지우기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8259,7 +8259,7 @@
 				<integer>50</integer>
 			</dict>
 		</dict>
-		<string>Type:</string>
+		<string>종류:</string>
 		<string>{400, 332}</string>
 		<string>8</string>
 		<string>BevelEmbossSettingsView</string>
@@ -14317,7 +14317,7 @@
 		<string>{{238, 107}, {65, 65}}</string>
 		<string>AngleControl</string>
 		<string>{368, 197}</string>
-		<string>Gradient</string>
+		<string>그레이디언트</string>
 		<dict>
 			<key>$class</key>
 			<dict>

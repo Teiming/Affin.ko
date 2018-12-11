@@ -97,7 +97,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextM
 < 		<string>From Both As Global</string>
 > 		<string>모두 (전역)</string>
 < 		<string>Find in Layers Panel</string>
-> 		<string>레이어 목록에서 찾기</string>
+> 		<string>레이어 패널에서 찾기</string>
 < 		<string>Find in Slice Page</string>
 > 		<string>슬라이스 페이지에서 찾기</string>
 < 		<string>Zoom In</string>
@@ -613,9 +613,9 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -633,7 +633,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Preferences…</string>
 > 		<string>환경설정…</string>
 < 		<string>Quit</string>
-> 		<string>Designer 종료</string>
+> 		<string>Affinity Designer 종료</string>
 < 		<string>Show All</string>
 > 		<string>모두 보기</string>
 < 		<string>Hide</string>
@@ -657,15 +657,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>Zoom to Fit</string>
 > 		<string>화면 크기에 맞추기</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Export…</string>
@@ -683,7 +683,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Vector</string>
 > 		<string>벡터</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Select All</string>
@@ -702,8 +702,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>실제 크기</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
 < 		<string>Rotate Left</string>
 > 		<string>왼쪽으로 회전</string>
 < 		<string>Select Next</string>
@@ -711,21 +709,19 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Merge All Windows</string>
 > 		<string>모든 윈도우 합치기</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 < 		<string>Undo</string>
 > 		<string>실행 취소</string>
 < 		<string>Grid and Axis Manager…</string>
 > 		<string>격자선 관리자…</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>New From Clipboard</string>
 > 		<string>클립보드에서 신규</string>
-< 		<string>Apple Colour Picker...</string>
-> 		<string>Apple 색상 선택기...</string>
 < 		<string>Deselect</string>
 > 		<string>선택 해제</string>
 < 		<string>Rotate Right</string>
@@ -738,16 +734,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>이전 항목 선택</string>
 < 		<string>Draw Persona</string>
 > 		<string>그림 페르소나</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>캔버스에 클립</string>
 < 		<string>Cut</string>
 > 		<string>오려두기</string>
 < 		<string>Paste</string>
 > 		<string>붙이기</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
 < 		<string>Outline</string>
 > 		<string>윤곽</string>
 < 		<string>Dock Tools</string>
@@ -782,9 +774,9 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -800,7 +792,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Preferences…</string>
 > 		<string>환경설정…</string>
 < 		<string>Quit</string>
-> 		<string>Designer 종료</string>
+> 		<string>Affinity Designer 종료</string>
 < 		<string>Show All</string>
 > 		<string>모두 보기</string>
 < 		<string>Hide</string>
@@ -840,7 +832,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>Affinity Designer Help</string>
 > 		<string>Affinity Designer 도움말</string>
 < 		<string>Ungroup</string>
@@ -852,11 +844,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Zoom to Fit</string>
 > 		<string>화면 크기에 맞추기</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Export…</string>
@@ -882,7 +874,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Media Browser…</string>
 > 		<string>미디어 브라우저…</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 < 		<string>Outline…</string>
 > 		<string>윤곽…</string>
 < 		<string>Select Highlights</string>
@@ -897,16 +889,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>재색상</string>
 < 		<string>Distribute Vertically</string>
 > 		<string>세로 분배</string>
-< 		<string>Apple Colour Picker...</string>
-> 		<string>Apple 색상 선택기...</string>
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Merge All Windows</string>
 > 		<string>모든 윈도우 합치기</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Move to Previous View Point</string>
 > 		<string>이전 뷰 포인트로 이동</string>
 < 		<string>Select Reds</string>
@@ -931,8 +921,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>부드럽게…</string>
 < 		<string>Feather…</string>
 > 		<string>깃털…</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>새로운 픽셀 레이어</string>
 < 		<string>Pixel Size</string>
@@ -955,12 +943,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Brightness / Contrast</string>
 > 		<string>명암 / 대비</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
 < 		<string>Select Greens</string>
 > 		<string>초록 선택</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
 < 		<string>Align Right</string>
 > 		<string>오른쪽 정렬</string>
 < 		<string>Curves</string>
@@ -998,7 +982,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Lock</string>
 > 		<string>잠금</string>
 < 		<string>Find in Layers Panel</string>
-> 		<string>레이어 목록에서 찾기</string>
+> 		<string>레이어 패널에서 찾기</string>
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
 < 		<string>Behind</string>
@@ -1127,10 +1111,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>선택</string>
 < 		<string>Colour Range</string>
 < 		<string>Colour Range</string>
-> 		<string>색상 영역</string>
-> 		<string>색상 영역</string>
+> 		<string>색상 범위</string>
+> 		<string>색상 범위</string>
 < 		<string>Tonal Range</string>
-> 		<string>색조 영역</string>
+> 		<string>색조 범위</string>
 < 		<string>View</string>
 > 		<string>뷰</string>
 < 		<string>View Mode</string>
@@ -1151,9 +1135,9 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Studio</string>
 > 		<string>작업실</string>
 < 		<string>Show Left Studio</string>
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 < 		<string>Show Right Studio</string>
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 < 		<string>Hide Studio</string>
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
@@ -1171,7 +1155,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Preferences…</string>
 > 		<string>환경설정…</string>
 < 		<string>Quit</string>
-> 		<string>Designer 종료</string>
+> 		<string>Affinity Designer 종료</string>
 < 		<string>Show All</string>
 > 		<string>모두 보기</string>
 < 		<string>Hide</string>
@@ -1211,7 +1195,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 < 		<string>Affinity Designer Help</string>
 > 		<string>Affinity Designer 도움말</string>
 < 		<string>Ungroup</string>
@@ -1223,11 +1207,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Zoom to Fit</string>
 > 		<string>화면 크기에 맞추기</string>
 < 		<string>Show Margins</string>
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 < 		<string>Show Guides</string>
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 < 		<string>Show Grid</string>
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Pixels</string>
@@ -1283,13 +1267,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Vector</string>
 > 		<string>벡터</string>
 < 		<string>Show Character</string>
-> 		<string>서체 작업실</string>
+> 		<string>문자 보기</string>
 < 		<string>Media Browser…</string>
 > 		<string>미디어 브라우저…</string>
 < 		<string>Show Rulers</string>
-> 		<string>눈금자 나타내기</string>
-< 		<string>Apple Colour Picker...</string>
-> 		<string>Apple 색상 선택기...</string>
+> 		<string>눈금자 보기</string>
 < 		<string>Line Break</string>
 > 		<string>줄바꿈</string>
 < 		<string>Em Space</string>
@@ -1337,11 +1319,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Show Glyph Browser</string>
-> 		<string>문자 탐색 작업실</string>
+> 		<string>문자 브라우저 보기</string>
 < 		<string>Synchronise from Selection</string>
 > 		<string>선택 항목에서 기본값 동기화</string>
 < 		<string>Show Context Toolbar</string>
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 < 		<string>Precise Decrease</string>
 > 		<string>정밀하게 줄이기</string>
 < 		<string>Paste FX</string>
@@ -1391,7 +1373,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Intersect</string>
 > 		<string>교차</string>
 < 		<string>Import Text Styles…</string>
-> 		<string>문자 스타일 불러오기…</string>
+> 		<string>텍스트 스타일 입력…</string>
 < 		<string>Move to Front</string>
 > 		<string>맨 앞으로 가져오기</string>
 < 		<string>Rotate Right</string>
@@ -1404,8 +1386,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>보기</string>
 < 		<string>Brightness / Contrast</string>
 > 		<string>명암 / 대비</string>
-< 		<string>Welcome...</string>
-> 		<string>환영...</string>
 < 		<string>Space Vertically</string>
 > 		<string>세로 공간</string>
 < 		<string>Create Character Style</string>
@@ -1452,8 +1432,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>늘리기</string>
 < 		<string>Export Persona</string>
 > 		<string>출력 페르소나</string>
-< 		<string>Support...</string>
-> 		<string>지원...</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
 < 		<string>Justify</string>
@@ -1461,9 +1439,9 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>On App Screen</string>
 > 		<string>응용프로그램 화면</string>
 < 		<string>Reapply Text Styles</string>
-> 		<string>텍스트 스타일 재적용</string>
+> 		<string>텍스트 스타일 다시 적용</string>
 < 		<string>Show Paragraph</string>
-> 		<string>문단 작업실</string>
+> 		<string>문단 보기</string>
 < 		<string>Distribute Vertically</string>
 > 		<string>세로 분배</string>
 < 		<string>Reveal in Finder</string>
@@ -1486,8 +1464,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>제자리에</string>
 < 		<string>Precise Raise Baseline</string>
 > 		<string>기준선 정밀하게 올리기</string>
-< 		<string>Tutorial...</string>
-> 		<string>튜토리얼...</string>
 < 		<string>Convert Object to Artboard</string>
 > 		<string>오브젝트를 아트보드로 전환</string>
 < 		<string>Spelling Options…</string>
@@ -1503,7 +1479,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Create Paragraph Style</string>
 > 		<string>문단 스타일 생성</string>
 < 		<string>Save Text Styles as Default</string>
-> 		<string>문자 스타일을 기본값으로 저장</string>
+> 		<string>텍스트 스타일을 기본값으로 저장</string>
 < 		<string>Justify Right</string>
 > 		<string>오른쪽 균등 정렬</string>
 < 		<string>Lens Filter</string>
@@ -1513,7 +1489,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Bottom</string>
 > 		<string>아래</string>
 < 		<string>Show Typography</string>
-> 		<string>타이포그래피 작업실</string>
+> 		<string>타이포그래피 보기</string>
 < 		<string>Save History With Document</string>
 > 		<string>편집 기록 저장</string>
 < 		<string>Layer Effects…</string>
@@ -1539,7 +1515,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Combine</string>
 > 		<string>배타</string>
 < 		<string>Show Text Styles</string>
-> 		<string>텍스트 스타일 작업실</string>
+> 		<string>텍스트 스타일 보기</string>
 < 		<string>Convert to Text Frame</string>
 > 		<string>텍스트 액자로 전환</string>
 < 		<string>Loosen</string>
@@ -1563,13 +1539,13 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Em Dash</string>
 > 		<string>전각 줄표</string>
 < 		<string>Find in Layers Panel</string>
-> 		<string>레이어 목록에서 찾기</string>
+> 		<string>레이어 패널에서 찾기</string>
 < 		<string>Rotate Left</string>
 > 		<string>왼쪽으로 회전</string>
 < 		<string>Justify All</string>
 > 		<string>양쪽 균등 정렬</string>
 < 		<string>Smaller</string>
-> 		<string>줄이기</string>
+> 		<string>더 작게</string>
 < 		<string>Move Forward One</string>
 > 		<string>앞으로 가져오기</string>
 < 		<string>Update Character Style</string>
@@ -1583,7 +1559,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Ungroup All</string>
 > 		<string>모든 그룹 해제</string>
 < 		<string>Show Tools</string>
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 < 		<string>Channel Mixer</string>
 > 		<string>채널 혼합</string>
 < 		<string>Black &amp; White</string>
@@ -1603,7 +1579,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Precise Increase</string>
 > 		<string>정밀하게 늘리기</string>
 < 		<string>Always Show Selection in Layers Panel </string>
-> 		<string>항상 레이어 목록에서 선택 항목 나타내기</string>
+> 		<string>레이어 패널에서 선택 항목 항상 보기 </string>
 < 		<string>Delete Character Style</string>
 > 		<string>문자 스타일 지우기</string>
 < 		<string>Select Next</string>
@@ -1625,7 +1601,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Defaults</string>
 > 		<string>기본값</string>
 < 		<string>Text</string>
-> 		<string>문자</string>
+> 		<string>텍스트</string>
 < 		<string>Character Traits</string>
 < 		<string>Character Traits</string>
 > 		<string>문자 특성</string>

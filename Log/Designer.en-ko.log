@@ -1,4 +1,3 @@
-Only in /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/: .temp
 diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/AboutDialog.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/AboutDialog.nib
 169c169
 < 		<string>Window</string>
@@ -196,7 +195,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextM
 3132c3132
 < 		<string>Find in Layers Panel</string>
 ---
-> 		<string>레이어 목록에서 찾기</string>
+> 		<string>레이어 패널에서 찾기</string>
 3221c3221
 < 		<string>Find in Slice Page</string>
 ---
@@ -1226,11 +1225,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 781c781
 < 		<string>Show Left Studio</string>
 ---
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 816c816
 < 		<string>Show Right Studio</string>
 ---
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 892c892
 < 		<string>Hide Studio</string>
 ---
@@ -1266,7 +1265,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 1379c1379
 < 		<string>Quit</string>
 ---
-> 		<string>Designer 종료</string>
+> 		<string>Affinity Designer 종료</string>
 1448c1448
 < 		<string>Show All</string>
 ---
@@ -1314,7 +1313,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 2170c2170
 < 		<string>Show Toolbar</string>
 ---
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 2231c2231
 < 		<string>Zoom to Fit</string>
 ---
@@ -1322,15 +1321,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 2364c2364
 < 		<string>Show Margins</string>
 ---
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 2424c2424
 < 		<string>Show Guides</string>
 ---
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 2485c2485
 < 		<string>Show Grid</string>
 ---
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 2544c2544
 < 		<string>New View</string>
 ---
@@ -1366,7 +1365,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 3084c3084
 < 		<string>Show Rulers</string>
 ---
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 3145c3145
 < 		<string>Toggle Full Screen</string>
 ---
@@ -1403,10 +1402,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Toggle UI</string>
 ---
 > 		<string>UI 가리기</string>
-3888c3888
-< 		<string>Welcome...</string>
----
-> 		<string>환영...</string>
 3946c3946
 < 		<string>Rotate Left</string>
 ---
@@ -1422,7 +1417,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 4123c4123
 < 		<string>Show Tools</string>
 ---
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 4183c4183
 < 		<string>Undo</string>
 ---
@@ -1434,7 +1429,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 4300c4300
 < 		<string>Show Context Toolbar</string>
 ---
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 4358c4358
 < 		<string>Reset Rotation</string>
 ---
@@ -1447,10 +1442,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>New From Clipboard</string>
 ---
 > 		<string>클립보드에서 신규</string>
-4551c4551
-< 		<string>Apple Colour Picker...</string>
----
-> 		<string>Apple 색상 선택기...</string>
 4611c4611
 < 		<string>Deselect</string>
 ---
@@ -1475,10 +1466,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Draw Persona</string>
 ---
 > 		<string>그림 페르소나</string>
-5113c5113
-< 		<string>Support...</string>
----
-> 		<string>지원...</string>
 5171c5171
 < 		<string>Clip to Canvas</string>
 ---
@@ -1491,10 +1478,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Paste</string>
 ---
 > 		<string>붙이기</string>
-5342c5342
-< 		<string>Tutorial...</string>
----
-> 		<string>튜토리얼...</string>
 5425c5425
 < 		<string>Outline</string>
 ---
@@ -1563,11 +1546,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 1153c1153
 < 		<string>Show Left Studio</string>
 ---
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 1188c1188
 < 		<string>Show Right Studio</string>
 ---
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 1264c1264
 < 		<string>Hide Studio</string>
 ---
@@ -1599,7 +1582,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 1706c1706
 < 		<string>Quit</string>
 ---
-> 		<string>Designer 종료</string>
+> 		<string>Affinity Designer 종료</string>
 1775c1775
 < 		<string>Show All</string>
 ---
@@ -1679,7 +1662,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 2989c2989
 < 		<string>Show Toolbar</string>
 ---
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 3072c3072
 < 		<string>Affinity Designer Help</string>
 ---
@@ -1703,15 +1686,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 3466c3466
 < 		<string>Show Margins</string>
 ---
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 3526c3526
 < 		<string>Show Guides</string>
 ---
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 3587c3587
 < 		<string>Show Grid</string>
 ---
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 3646c3646
 < 		<string>New View</string>
 ---
@@ -1763,7 +1746,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 4432c4432
 < 		<string>Show Rulers</string>
 ---
-> 		<string>눈금자 나타내기</string>
+> 		<string>눈금자 보기</string>
 4491c4491
 < 		<string>Outline…</string>
 ---
@@ -1792,10 +1775,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Distribute Vertically</string>
 ---
 > 		<string>세로 분배</string>
-4983c4983
-< 		<string>Apple Colour Picker...</string>
----
-> 		<string>Apple 색상 선택기...</string>
 5058c5058
 < 		<string>Flip Vertical</string>
 ---
@@ -1807,11 +1786,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 5174c5174
 < 		<string>Show Tools</string>
 ---
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 5232c5232
 < 		<string>Show Context Toolbar</string>
 ---
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 5290c5290
 < 		<string>Move to Previous View Point</string>
 ---
@@ -1860,10 +1839,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Feather…</string>
 ---
 > 		<string>깃털…</string>
-6111c6111
-< 		<string>Support...</string>
----
-> 		<string>지원...</string>
 6171c6171
 < 		<string>New Pixel Layer</string>
 ---
@@ -1908,18 +1883,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Brightness / Contrast</string>
 ---
 > 		<string>명암 / 대비</string>
-6904c6904
-< 		<string>Welcome...</string>
----
-> 		<string>환영...</string>
 6962c6962
 < 		<string>Select Greens</string>
 ---
 > 		<string>초록 선택</string>
-7020c7020
-< 		<string>Tutorial...</string>
----
-> 		<string>튜토리얼...</string>
 7080c7080
 < 		<string>Align Right</string>
 ---
@@ -1995,7 +1962,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 8315c8315
 < 		<string>Find in Layers Panel</string>
 ---
-> 		<string>레이어 목록에서 찾기</string>
+> 		<string>레이어 패널에서 찾기</string>
 8373c8373
 < 		<string>Dock Tools</string>
 ---
@@ -2250,12 +2217,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Colour Range</string>
 < 		<string>Colour Range</string>
 ---
-> 		<string>색상 영역</string>
-> 		<string>색상 영역</string>
+> 		<string>색상 범위</string>
+> 		<string>색상 범위</string>
 15539c15539
 < 		<string>Tonal Range</string>
 ---
-> 		<string>색조 영역</string>
+> 		<string>색조 범위</string>
 15651c15651
 < 		<string>View</string>
 ---
@@ -2296,11 +2263,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 1521c1521
 < 		<string>Show Left Studio</string>
 ---
-> 		<string>왼쪽 작업실 나타내기</string>
+> 		<string>왼쪽 작업실 보기</string>
 1556c1556
 < 		<string>Show Right Studio</string>
 ---
-> 		<string>오른쪽 작업실 나타내기</string>
+> 		<string>오른쪽 작업실 보기</string>
 1632c1632
 < 		<string>Hide Studio</string>
 ---
@@ -2336,7 +2303,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 2148c2148
 < 		<string>Quit</string>
 ---
-> 		<string>Designer 종료</string>
+> 		<string>Affinity Designer 종료</string>
 2217c2217
 < 		<string>Show All</string>
 ---
@@ -2416,7 +2383,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 3418c3418
 < 		<string>Show Toolbar</string>
 ---
-> 		<string>툴바 나타내기</string>
+> 		<string>툴바 보기</string>
 3501c3501
 < 		<string>Affinity Designer Help</string>
 ---
@@ -2440,15 +2407,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 3895c3895
 < 		<string>Show Margins</string>
 ---
-> 		<string>여백선 나타내기</string>
+> 		<string>여백선 보기</string>
 3955c3955
 < 		<string>Show Guides</string>
 ---
-> 		<string>안내선 나타내기</string>
+> 		<string>안내선 보기</string>
 4016c4016
 < 		<string>Show Grid</string>
 ---
-> 		<string>격자선 나타내기</string>
+> 		<string>격자선 보기</string>
 4075c4075
 < 		<string>New View</string>
 ---
@@ -2560,7 +2527,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 6084c6084
 < 		<string>Show Character</string>
 ---
-> 		<string>서체 작업실</string>
+> 		<string>문자 보기</string>
 6144c6144
 < 		<string>Media Browser…</string>
 ---
@@ -2568,11 +2535,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 6264c6264
 < 		<string>Show Rulers</string>
 ---
-> 		<string>눈금자 나타내기</string>
-6322c6322
-< 		<string>Apple Colour Picker...</string>
----
-> 		<string>Apple 색상 선택기...</string>
+> 		<string>눈금자 보기</string>
 6399c6399
 < 		<string>Line Break</string>
 ---
@@ -2668,7 +2631,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 8108c8108
 < 		<string>Show Glyph Browser</string>
 ---
-> 		<string>문자 탐색 작업실</string>
+> 		<string>문자 브라우저 보기</string>
 8183c8183
 < 		<string>Synchronise from Selection</string>
 ---
@@ -2676,7 +2639,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 8241c8241
 < 		<string>Show Context Toolbar</string>
 ---
-> 		<string>상황별 툴바 나타내기</string>
+> 		<string>상황별 툴바 보기</string>
 8318c8318
 < 		<string>Precise Decrease</string>
 ---
@@ -2776,7 +2739,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 9963c9963
 < 		<string>Import Text Styles…</string>
 ---
-> 		<string>문자 스타일 불러오기…</string>
+> 		<string>텍스트 스타일 입력…</string>
 10023c10023
 < 		<string>Move to Front</string>
 ---
@@ -2801,10 +2764,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Brightness / Contrast</string>
 ---
 > 		<string>명암 / 대비</string>
-10489c10489
-< 		<string>Welcome...</string>
----
-> 		<string>환영...</string>
 10547c10547
 < 		<string>Space Vertically</string>
 ---
@@ -2897,10 +2856,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Export Persona</string>
 ---
 > 		<string>출력 페르소나</string>
-12251c12251
-< 		<string>Support...</string>
----
-> 		<string>지원...</string>
 12309c12309
 < 		<string>Toggle UI</string>
 ---
@@ -2916,11 +2871,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 12501c12501
 < 		<string>Reapply Text Styles</string>
 ---
-> 		<string>텍스트 스타일 재적용</string>
+> 		<string>텍스트 스타일 다시 적용</string>
 12559c12559
 < 		<string>Show Paragraph</string>
 ---
-> 		<string>문단 작업실</string>
+> 		<string>문단 보기</string>
 12617c12617
 < 		<string>Distribute Vertically</string>
 ---
@@ -2965,10 +2920,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Precise Raise Baseline</string>
 ---
 > 		<string>기준선 정밀하게 올리기</string>
-13380c13380
-< 		<string>Tutorial...</string>
----
-> 		<string>튜토리얼...</string>
 13438c13438
 < 		<string>Convert Object to Artboard</string>
 ---
@@ -3000,7 +2951,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 13961c13961
 < 		<string>Save Text Styles as Default</string>
 ---
-> 		<string>문자 스타일을 기본값으로 저장</string>
+> 		<string>텍스트 스타일을 기본값으로 저장</string>
 14019c14019
 < 		<string>Justify Right</string>
 ---
@@ -3020,7 +2971,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 14310c14310
 < 		<string>Show Typography</string>
 ---
-> 		<string>타이포그래피 작업실</string>
+> 		<string>타이포그래피 보기</string>
 14369c14369
 < 		<string>Save History With Document</string>
 ---
@@ -3072,7 +3023,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 15075c15075
 < 		<string>Show Text Styles</string>
 ---
-> 		<string>텍스트 스타일 작업실</string>
+> 		<string>텍스트 스타일 보기</string>
 15133c15133
 < 		<string>Convert to Text Frame</string>
 ---
@@ -3120,7 +3071,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 15779c15779
 < 		<string>Find in Layers Panel</string>
 ---
-> 		<string>레이어 목록에서 찾기</string>
+> 		<string>레이어 패널에서 찾기</string>
 15837c15837
 < 		<string>Rotate Left</string>
 ---
@@ -3132,7 +3083,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 15955c15955
 < 		<string>Smaller</string>
 ---
-> 		<string>줄이기</string>
+> 		<string>더 작게</string>
 16015c16015
 < 		<string>Move Forward One</string>
 ---
@@ -3160,7 +3111,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 16541c16541
 < 		<string>Show Tools</string>
 ---
-> 		<string>도구 나타내기</string>
+> 		<string>도구 보기</string>
 16657c16657
 < 		<string>Channel Mixer</string>
 ---
@@ -3200,7 +3151,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 17250c17250
 < 		<string>Always Show Selection in Layers Panel </string>
 ---
-> 		<string>항상 레이어 목록에서 선택 항목 나타내기</string>
+> 		<string>레이어 패널에서 선택 항목 항상 보기 </string>
 17308c17308
 < 		<string>Delete Character Style</string>
 ---
@@ -3244,7 +3195,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 20664c20664
 < 		<string>Text</string>
 ---
-> 		<string>문자</string>
+> 		<string>텍스트</string>
 20866,20867c20866,20867
 < 		<string>Character Traits</string>
 < 		<string>Character Traits</string>

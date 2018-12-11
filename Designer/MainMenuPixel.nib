@@ -1150,7 +1150,7 @@
 				<integer>37</integer>
 			</dict>
 		</dict>
-		<string>왼쪽 작업실 나타내기</string>
+		<string>왼쪽 작업실 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1185,7 +1185,7 @@
 				<integer>39</integer>
 			</dict>
 		</dict>
-		<string>오른쪽 작업실 나타내기</string>
+		<string>오른쪽 작업실 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1703,7 +1703,7 @@
 				<integer>77</integer>
 			</dict>
 		</dict>
-		<string>Designer 종료</string>
+		<string>Affinity Designer 종료</string>
 		<string>q</string>
 		<dict>
 			<key>$class</key>
@@ -2986,7 +2986,7 @@
 				<integer>181</integer>
 			</dict>
 		</dict>
-		<string>툴바 나타내기</string>
+		<string>툴바 보기</string>
 		<string>t</string>
 		<string>toggleToolbar:</string>
 		<dict>
@@ -3463,7 +3463,7 @@
 				<integer>220</integer>
 			</dict>
 		</dict>
-		<string>여백선 나타내기</string>
+		<string>여백선 보기</string>
 		<string>showMargins:</string>
 		<dict>
 			<key>$class</key>
@@ -3523,7 +3523,7 @@
 				<integer>224</integer>
 			</dict>
 		</dict>
-		<string>안내선 나타내기</string>
+		<string>안내선 보기</string>
 		<string>;</string>
 		<string>showGuides:</string>
 		<dict>
@@ -3584,7 +3584,7 @@
 				<integer>229</integer>
 			</dict>
 		</dict>
-		<string>격자선 나타내기</string>
+		<string>격자선 보기</string>
 		<string>'</string>
 		<string>showGrid:</string>
 		<dict>
@@ -4429,7 +4429,7 @@
 				<integer>294</integer>
 			</dict>
 		</dict>
-		<string>눈금자 나타내기</string>
+		<string>눈금자 보기</string>
 		<string>r</string>
 		<string>toggleRulers:</string>
 		<dict>
@@ -4980,7 +4980,7 @@
 				<integer>334</integer>
 			</dict>
 		</dict>
-		<string>Apple 색상 선택기...</string>
+		<string>Apple Colour Picker...</string>
 		<string>showAppleColourPicker:</string>
 		<dict>
 			<key>$class</key>
@@ -5171,7 +5171,7 @@
 				<integer>347</integer>
 			</dict>
 		</dict>
-		<string>도구 나타내기</string>
+		<string>도구 보기</string>
 		<string>toggleToolsUI:</string>
 		<dict>
 			<key>$class</key>
@@ -5229,7 +5229,7 @@
 				<integer>351</integer>
 			</dict>
 		</dict>
-		<string>상황별 툴바 나타내기</string>
+		<string>상황별 툴바 보기</string>
 		<string>toggleContextToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -6108,7 +6108,7 @@
 				<integer>411</integer>
 			</dict>
 		</dict>
-		<string>지원...</string>
+		<string>Support...</string>
 		<string>showSupport:</string>
 		<dict>
 			<key>$class</key>
@@ -6901,7 +6901,7 @@
 				<integer>470</integer>
 			</dict>
 		</dict>
-		<string>환영...</string>
+		<string>Welcome...</string>
 		<string>showWelcome:</string>
 		<dict>
 			<key>$class</key>
@@ -7017,7 +7017,7 @@
 				<integer>478</integer>
 			</dict>
 		</dict>
-		<string>튜토리얼...</string>
+		<string>Tutorial...</string>
 		<string>showTutorials:</string>
 		<dict>
 			<key>$class</key>
@@ -8312,7 +8312,7 @@
 				<integer>571</integer>
 			</dict>
 		</dict>
-		<string>레이어 목록에서 찾기</string>
+		<string>레이어 패널에서 찾기</string>
 		<string>doFindInLayerPage:</string>
 		<dict>
 			<key>$class</key>
@@ -15463,8 +15463,8 @@
 				<integer>884</integer>
 			</dict>
 		</dict>
-		<string>색상 영역</string>
-		<string>색상 영역</string>
+		<string>색상 범위</string>
+		<string>색상 범위</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15536,7 +15536,7 @@
 				<integer>888</integer>
 			</dict>
 		</dict>
-		<string>색조 영역</string>
+		<string>색조 범위</string>
 		<dict>
 			<key>$class</key>
 			<dict>
