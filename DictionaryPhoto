@@ -1,6 +1,7 @@
 s/> [Locked]</> [잠금]</
 s/> [Modified]</> [변경]</
 s/>'%1' selected. </>'%1' 선택됨. </
+s/>About…</>Affinity Photo에 관하여…</
 s/>Actual Size</>실제 크기</
 s/>Add Colour to Swatch</>색상을 견본에 추가</
 s/>Add Document Snapshot</>문서 스냅샷 추가</
@@ -351,6 +352,7 @@ s/>Outline…</>윤곽…</
 s/>Page</>페이지</
 s/>Panorama Persona</>파노라마 페르소나</
 s/>Panorama</>파노라마</
+s/>Paragraph Leading</>줄 간격</
 s/>Paragraph</>문단</
 s/>Paste FX</>효과 붙이기</
 s/>Paste Inside</>안으로 붙이기</
@@ -368,7 +370,6 @@ s/>Personas</>페르소나</
 s/>Photo Persona</>사진 페르소나</
 s/>Photo</>사진</
 s/>Pixel Align</>픽셀 정렬</
-s/>Pixel Persona</>그림 페르소나</
 s/>Pixel Persona</>픽셀 페르소나</
 s/>Pixel Size</>픽셀 크기</
 s/>Pixel Tool</>픽셀 도구</
@@ -435,11 +436,11 @@ s/>Salmon</>연어</
 s/>Save As…</>다른 이름으로 저장…</
 s/>Save History With Document</>편집 기록 저장</
 s/>Save Text Styles as Default</>문자 스타일을 기본값으로 저장</
-s/>Save as AFPhoto</>AFPhoto</
+s/>Save as AFPhoto</>AFPhoto(으)로 저장</
 s/>Save as JPEG</>JPEG(으)로 저장</
-s/>Save as OpenEXR</>OpenEXR로 저장</
+s/>Save as OpenEXR</>OpenEXR(으)로 저장</
 s/>Save as PNG</>PNG(으)로 저장</
-s/>Save as TIFF</>TIFF로 저장</
+s/>Save as TIFF</>TIFF(으)로 저장</
 s/>Save</>저장</
 s/>Saving TIFF</>TIFF 저장중</
 s/>Select All</>전체 선택</
@@ -606,5 +607,5 @@ s/>background</>배경</
 s/>dash</>줄표</
 s/>kB</>KB</
 s/>n\/a</>없음</
-s/>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</>선택 항목을 움직이려면 |DRAG|. 다른 대상을 선택하려면 |CLICK|. 선택 해제하려면 빈 공간을 |CLICK|</
-s/>|DRAG| to move selection.</>선택 항목을 움직이려면 |DRAG|.</
+s/>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</
+s/>|DRAG| to move selection.</>|DRAG|해서 선택 항목을 움직입니다.</

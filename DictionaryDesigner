@@ -1,6 +1,7 @@
 s/> [Locked]</> [잠금]</
 s/> [Modified]</> [변경]</
 s/>'%1' selected. </>'%1' 선택됨. </
+s/>About…</>Affinity Designer에 관하여…</
 s/>Actual Size</>실제 크기</
 s/>Add Colour to Swatch</>색상을 견본에 추가</
 s/>Add Document Snapshot</>문서 스냅샷 추가</
@@ -351,6 +352,7 @@ s/>Outline…</>윤곽…</
 s/>Page</>페이지</
 s/>Panorama Persona</>파노라마 페르소나</
 s/>Panorama</>파노라마</
+s/>Paragraph Leading</>줄 간격</
 s/>Paragraph</>문단</
 s/>Paste FX</>효과 붙이기</
 s/>Paste Inside</>안으로 붙이기</
@@ -368,7 +370,6 @@ s/>Personas</>페르소나</
 s/>Photo Persona</>사진 페르소나</
 s/>Photo</>사진</
 s/>Pixel Align</>픽셀 정렬</
-s/>Pixel Persona</>그림 페르소나</
 s/>Pixel Persona</>픽셀 페르소나</
 s/>Pixel Size</>픽셀 크기</
 s/>Pixel Tool</>픽셀 도구</
@@ -408,8 +409,10 @@ s/>Rectangle</>직사각형</
 s/>Redo %@</>%@ 다시 실행</
 s/>Redo</>다시 실행</
 s/>Refine Edges…</>모서리 다듬기…</
+s/>Reflect</>반사</
 s/>Release Compound</>결합 해제</
 s/>Remove Profile</>프로파일 지우기</
+s/>Remove</>지우기</
 s/>Rename Palette...</>팔레트 이름 변경...</
 s/>Reset Adjustments</>조정 재설정</
 s/>Reset Keyboard Shortcuts</>키보드 단축키 재설정</
