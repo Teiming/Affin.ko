@@ -1,4 +1,25 @@
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AddPageWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/: .temp
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AddPageWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AddPageWindowController.nib
+894c894
+< 		<string>Include Margins</string>
+---
+> 		<string>여백 포함</string>
+1590c1590
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2200c2200
+< 		<string>Portrait</string>
+---
+> 		<string>세로방향</string>
+3059c3059
+< 		<string>Transparent background</string>
+---
+> 		<string>투명한 배경</string>
+4976c4976
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdjustmentItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AdjustmentItemView.nib
 541c541
 < 		<string>System</string>
@@ -74,6 +95,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Copy</string>
 ---
 > 		<string>복사</string>
+23325c23325
+< 		<string>Position:</string>
+---
+> 		<string>위치:</string>
 23579c23579
 < 		<string>Colour:</string>
 ---
@@ -122,21 +147,181 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Balance</string>
 ---
 > 		<string>밸런스</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AdvancedBlendingController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AffineEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AlignViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ApplyImageEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AssetsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AssistantOptions.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BatchJobItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BatchJobSubItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BatchPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BilateralEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BlendModePropertiesViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BoxEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushEditPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdvancedBlendingController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AdvancedBlendingController.nib
+527c527
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AffineEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AffineEffect.nib
+541c541
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+711c711
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+1170c1170
+< 		<string>Mirror</string>
+---
+> 		<string>거울</string>
+1323c1323
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AlignViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AlignViewController.nib
+549c549
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+3008c3008
+< 		<string>Done</string>
+---
+> 		<string>완료</string>
+3146c3146
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ApplyImageEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ApplyImageEffect.nib
+670c670
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1211c1211
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+4708c4708
+< 		<string>Equations</string>
+---
+> 		<string>수식</string>
+4813c4813
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+4919c4919
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AssetsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AssetsPage.nib
+876c876
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+1421c1421
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AssistantOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AssistantOptions.nib
+1060c1060
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+4067c4067
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchJobItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BatchJobItemView.nib
+707c707
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchJobSubItemView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BatchJobSubItemView.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BatchPage.nib
+507c507
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BilateralEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BilateralEffect.nib
+497c497
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+667c667
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+902c902
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BlendModePropertiesViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BlendModePropertiesViewController.nib
+491c491
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1349c1349
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+1438c1438
+< 		<string>Colour:</string>
+---
+> 		<string>색상:</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BoxEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BoxEffect.nib
+503c503
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+869c869
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1004c1004
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushEditPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BrushEditPanel.nib
+700c700
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+870c870
+< 		<string>Duplicate</string>
+---
+> 		<string>복제</string>
+1392c1392
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+4821c4821
+< 		<string>Custom</string>
+---
+> 		<string>사용자화</string>
+4911c4911
+< 		<string>General</string>
+---
+> 		<string>일반</string>
+5866c5866
+< 		<string>None</string>
+---
+> 		<string>없음</string>
+6064c6064
+< 		<string>Angle</string>
+---
+> 		<string>각도</string>
+15223c15223
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+16575c16575
+< 		<string>Invert</string>
+---
+> 		<string>반전</string>
+18303c18303
+< 		<string>Stroke</string>
+---
+> 		<string>획</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BrushItemView.nib
+389c389
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BrushPage.nib
+1979c1979
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CameraShakeBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CameraShakeBlurEffect.nib
 453c453
 < 		<string>Cancel</string>
@@ -177,10 +362,34 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Deselect</string>
 ---
 > 		<string>선택 해제</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSelectionItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSeparatorItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSpareSelectionItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelsPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ChannelSelectionItemView.nib
+514c514
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+887c887
+< 		<string>Invert</string>
+---
+> 		<string>반전</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSeparatorItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ChannelSeparatorItemView.nib
+399c399
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSpareSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ChannelSpareSelectionItemView.nib
+689c689
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1174c1174
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ChannelsPage.nib
+576c576
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CharacterPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CharacterPage.nib
 1119c1119
 < 		<string>Typography</string>
@@ -214,57 +423,497 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Vertical Scale</string>
 ---
 > 		<string>세로 배율</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ClarityEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ClearUserDataWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloneBrushSourceItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloneBrushSourcesPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloudConflictPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloudUpdatePanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourCMYKSliderView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourEditor.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourGreySliderView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourHLSwatchModel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourHSLSliderView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourHSSwatchModel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourLABSliderView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourPickerPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourPickerViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourRGBHexSliderView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourRGBSliderView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourSLSwatchModel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourTintSliderView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourWheelModel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ConstraintsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CreatePaletteFromImageWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CustomBlurEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DebugPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DeformEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DefringeEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DenoiseEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DepthOfFieldEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopAssistantOptions.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopBasicItemViews.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopBasicPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopCameraItemViews.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopCameraPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopDetailsItemViews.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopDetailsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopFocusPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopLensItemViews.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopLensPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopOverlayItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopOverlaysPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopSnapshotItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopSnapshotsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopTonesItemViews.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopTonesPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DiffuseEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DiffuseGlowEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DisplacementMapEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DocumentMarginsWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DocumentSetupWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DustScratchEffect.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ClarityEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ClarityEffect.nib
+503c503
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+869c869
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1004c1004
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ClearUserDataWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ClearUserDataWindowController.nib
+438c438
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1054c1054
+< 		<string>Reset Studio</string>
+---
+> 		<string>작업실 재설정</string>
+1934c1934
+< 		<string>Reset Adjustments</string>
+---
+> 		<string>조정 재설정</string>
+2374c2374
+< 		<string>Reset Keyboard Shortcuts</string>
+---
+> 		<string>키보드 단축키 재설정</string>
+2590c2590
+< 		<string>Select All</string>
+---
+> 		<string>전체 선택</string>
+2739c2739
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+2951c2951
+< 		<string>Deselect All</string>
+---
+> 		<string>모두 선택 해제</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloneBrushSourceItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CloneBrushSourceItemView.nib
+342c342
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloneBrushSourcesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CloneBrushSourcesPage.nib
+1193c1193
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloudConflictPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CloudConflictPanel.nib
+759c759
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloudUpdatePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CloudUpdatePanel.nib
+327c327
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourCMYKSliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourCMYKSliderView.nib
+1347c1347
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourEditor.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourEditor.nib
+388c388
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1148c1148
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+1676c1676
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourGreySliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourGreySliderView.nib
+668c668
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourHLSwatchModel.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourHLSwatchModel.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourHSLSliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourHSLSliderView.nib
+1124c1124
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1472c1472
+< 		<string>S</string>
+---
+> 		<string>[스타일 없음]</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourHSSwatchModel.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourHSSwatchModel.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourLABSliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourLABSliderView.nib
+1122c1122
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourPage.nib
+514c514
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1835c1835
+< 		<string>Percentage</string>
+---
+> 		<string>백분율</string>
+1981c1981
+< 		<string>Add Colour to Swatch</string>
+---
+> 		<string>색상을 견본에 추가</string>
+2457c2457
+< 		<string>Shades</string>
+---
+> 		<string>음영</string>
+2492c2492
+< 		<string>Tones</string>
+---
+> 		<string>색조</string>
+3690c3690
+< 		<string>Opacity</string>
+---
+> 		<string>불투명도</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPickerPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourPickerPanel.nib
+1138c1138
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+3156c3156
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPickerViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourPickerViewController.nib
+1317c1317
+< 		<string>Swatches</string>
+---
+> 		<string>견본</string>
+1512c1512
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourRGBHexSliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourRGBHexSliderView.nib
+1051c1051
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourRGBSliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourRGBSliderView.nib
+1122c1122
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourSLSwatchModel.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourSLSwatchModel.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourTintSliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourTintSliderView.nib
+713c713
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourWheelModel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ColourWheelModel.nib
+347c347
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ConstraintsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ConstraintsPage.nib
+336c336
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CreatePaletteFromImageWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CreatePaletteFromImageWindowController.nib
+657c657
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1898c1898
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CustomBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CustomBlurEffect.nib
+1808c1808
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2404c2404
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+2526c2526
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DebugPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DebugPage.nib
+579c579
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DeformEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DeformEffect.nib
+519c519
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+885c885
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1445c1445
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DefringeEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DefringeEffect.nib
+553c553
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+723c723
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+839c839
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DenoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DenoiseEffect.nib
+611c611
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1244c1244
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1379c1379
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DepthOfFieldEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DepthOfFieldEffect.nib
+571c571
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1008c1008
+< 		<string>Vibrance</string>
+---
+> 		<string>활기</string>
+1204c1204
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1339c1339
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopAssistantOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopAssistantOptions.nib
+962c962
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2758c2758
+< 		<string>Europe</string>
+---
+> 		<string>유럽</string>
+3874c3874
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopBasicItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopBasicItemViews.nib
+3408c3408
+< 		<string>Vibrance</string>
+---
+> 		<string>활기</string>
+3449c3449
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+5571c5571
+< 		<string>Exposure</string>
+---
+> 		<string>노출</string>
+6659c6659
+< 		<string>White Balance</string>
+---
+> 		<string>화이트 밸런스</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopBasicPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopBasicPage.nib
+357c357
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopCameraItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopCameraItemViews.nib
+2101c2101
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopCameraPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopCameraPage.nib
+357c357
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopDetailsItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopDetailsItemViews.nib
+2672c2672
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+3460c3460
+< 		<string>Colours</string>
+---
+> 		<string>색상</string>
+4476c4476
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopDetailsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopDetailsPage.nib
+357c357
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopFocusPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopFocusPage.nib
+309c309
+< 		<string>n/a</string>
+---
+> 		<string>없음</string>
+360c360
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopLensItemViews.nib
+3752c3752
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+5203c5203
+< 		<string>Threshold</string>
+---
+> 		<string>역치</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopLensPage.nib
+357c357
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlayItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopOverlayItemView.nib
+320c320
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlaysPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopOverlaysPage.nib
+1356c1356
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2339c2339
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopSnapshotItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopSnapshotItemView.nib
+320c320
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopSnapshotsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopSnapshotsPage.nib
+939c939
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2655c2655
+< 		<string>Add Snapshot</string>
+---
+> 		<string>스냅샷 추가</string>
+2687c2687
+< 		<string>Delete Snapshot</string>
+---
+> 		<string>스냅샷 지우기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopTonesItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopTonesItemViews.nib
+3562c3562
+< 		<string>Yellow</string>
+---
+> 		<string>노랑</string>
+3603c3603
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+4421c4421
+< 		<string>Black &amp; White</string>
+---
+> 		<string>흑백</string>
+5823c5823
+< 		<string>Balance</string>
+---
+> 		<string>밸런스</string>
+7488c7488
+< 		<string>Curves</string>
+---
+> 		<string>곡선</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopTonesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopTonesPage.nib
+357c357
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DiffuseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DiffuseEffect.nib
+503c503
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+869c869
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1087c1087
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DiffuseGlowEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DiffuseGlowEffect.nib
+587c587
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1024c1024
+< 		<string>Threshold</string>
+---
+> 		<string>역치</string>
+1113c1113
+< 		<string>Opacity</string>
+---
+> 		<string>불투명도</string>
+1220c1220
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1355c1355
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DisplacementMapEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DisplacementMapEffect.nib
+846c846
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1284c1284
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1512c1512
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DocumentMarginsWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DocumentMarginsWindowController.nib
+534c534
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1720c1720
+< 		<string>Include Margins</string>
+---
+> 		<string>여백 포함</string>
+2171c2171
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DocumentSetupWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DocumentSetupWindowController.nib
+466c466
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+1579c1579
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2926c2926
+< 		<string>Default</string>
+---
+> 		<string>기본값</string>
+3526c3526
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+3766c3766
+< 		<string>Document Units:</string>
+---
+> 		<string>문서 단위:</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DustScratchEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DustScratchEffect.nib
+626c626
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1288c1288
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1410c1410
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectItemDetailedViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectItemDetailedViews.nib
 1642c1642
 < 		<string>System</string>
@@ -334,6 +983,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Outer Glow</string>
 ---
 > 		<string>외부 광채</string>
+9822c9822
+< 		<string>Angle:</string>
+---
+> 		<string>각도:</string>
 10564c10564
 < 		<string>Opacity:</string>
 ---
@@ -431,12 +1084,52 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Gradient Overlay</string>
 ---
 > 		<string>그레이디언트 씌우기</string>
+15172c15172
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
+15204c15204
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
+15227c15227
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
+15250c15250
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
+15273c15273
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
+15296c15296
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
+15319c15319
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
+15342c15342
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
+15365c15365
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectsPage.nib
 427c427
 < 		<string>System</string>
 ---
 > 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsSettings.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectsSettings.nib
+169c169
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
 752c752
 < 		<string>System</string>
 ---
@@ -450,51 +1143,563 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>System</string>
 ---
 > 		<string>시스템</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: EmbossEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: EquationTransformEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportCubePanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportFileItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportLayerItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportLayerPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportListConflicts.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportOptionsPresetDetail.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportOptionsView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportableItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportableItemsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportablePathView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportableScalePathView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FFTDenoiseEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FadeRewindEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FeatherSelection.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FieldBlurEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FilesystemPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FillEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FillViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FontFamilyViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FontManagerWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FrequencySeparationEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GaussianEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GeolocationViewController.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EmbossEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EmbossEffect.nib
+310c310
+< 		<string>Emboss</string>
+---
+> 		<string>양각</string>
+559c559
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1014c1014
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1552c1552
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EquationTransformEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EquationTransformEffect.nib
+334c334
+< 		<string>Equations</string>
+---
+> 		<string>수식</string>
+611c611
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1412c1412
+< 		<string>Equations</string>
+---
+> 		<string>수식</string>
+1643c1643
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1778c1778
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+2548c2548
+< 		<string>Mirror</string>
+---
+> 		<string>거울</string>
+3183c3183
+< 		<string>y</string>
+---
+> 		<string>[스타일 없음]</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportCubePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportCubePanel.nib
+1040c1040
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1897c1897
+< 		<string>Export</string>
+---
+> 		<string>출력</string>
+2063c2063
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportFileItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportFileItemView.nib
+377c377
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportLayerItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportLayerItemView.nib
+966c966
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportLayerPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportLayerPage.nib
+579c579
+< 		<string>Create Slice</string>
+---
+> 		<string>슬라이스 생성</string>
+1117c1117
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2378c2378
+< 		<string>Create Slice from the currently selected object</string>
+---
+> 		<string>지금 선택된 대상으로부터 슬라이스 생성</string>
+2410c2410
+< 		<string>Edit All Layers</string>
+---
+> 		<string>모든 레이어 편집</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportListConflicts.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportListConflicts.nib
+319c319
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+522c522
+< 		<string>Export</string>
+---
+> 		<string>출력</string>
+1038c1038
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportOptionsPresetDetail.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportOptionsPresetDetail.nib
+580c580
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportOptionsView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportOptionsView.nib
+3481c3481
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+8224c8224
+< 		<string>None</string>
+---
+> 		<string>없음</string>
+12602c12602
+< 		<string>Button</string>
+---
+> 		<string>버튼</string>
+13712c13712
+< 		<string>Black &amp; White</string>
+---
+> 		<string>흑백</string>
+14045c14045
+< 		<string>Custom</string>
+---
+> 		<string>사용자화</string>
+26145c26145
+< 		<string>Everything</string>
+---
+> 		<string>모두</string>
+33479c33479
+< 		<string>Vector</string>
+---
+> 		<string>벡터</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportPage.nib
+753c753
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportWindowController.nib
+693c693
+< 		<string>Don't export layers hidden by Export persona</string>
+---
+> 		<string>출력 페르소나에서 숨긴 레이어는 출력하지 않음.</string>
+1055c1055
+< 		<string>Export</string>
+---
+> 		<string>출력</string>
+1416c1416
+< 		<string>Area:</string>
+---
+> 		<string>영역:</string>
+1441c1441
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+15033c15033
+< 		<string>Estimated File Size:</string>
+---
+> 		<string>예상 파일 크기:</string>
+15243c15243
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportableItemView.nib
+984c984
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableItemsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportableItemsPage.nib
+2139c2139
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+4940c4940
+< 		<string>Copy</string>
+---
+> 		<string>복사</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportablePathView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportablePathView.nib
+366c366
+< 		<string>Done</string>
+---
+> 		<string>완료</string>
+536c536
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+668c668
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableScalePathView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportableScalePathView.nib
+442c442
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+1098c1098
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2726c2726
+< 		<string>Done</string>
+---
+> 		<string>완료</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FFTDenoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FFTDenoiseEffect.nib
+545c545
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+855c855
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1340c1340
+< 		<string>Width:</string>
+---
+> 		<string>두께:</string>
+1577c1577
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+2433c2433
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FadeRewindEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FadeRewindEffect.nib
+522c522
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+888c888
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+1444c1444
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FeatherSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FeatherSelection.nib
+494c494
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+854c854
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+972c972
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FieldBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FieldBlurEffect.nib
+559c559
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1329c1329
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1464c1464
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FilesystemPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FilesystemPage.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FillEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FillEffect.nib
+449c449
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+928c928
+< 		<string>History</string>
+---
+> 		<string>편집 기록</string>
+1022c1022
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1699c1699
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+1841c1841
+< 		<string>Button</string>
+---
+> 		<string>버튼</string>
+1957c1957
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FillViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FillViewController.nib
+1908c1908
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+3158c3158
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+3542c3542
+< 		<string>Colour:</string>
+---
+> 		<string>색상:</string>
+3792c3792
+< 		<string>Position:</string>
+---
+> 		<string>위치:</string>
+3897c3897
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+4002c4002
+< 		<string>Copy</string>
+---
+> 		<string>복사</string>
+5329c5329
+< 		<string>Recent:</string>
+---
+> 		<string>최근 사용 항목:</string>
+6937c6937
+< 		<string>None</string>
+---
+> 		<string>없음</string>
+7005c7005
+< 		<string>Swatches</string>
+---
+> 		<string>견본</string>
+7039c7039
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FontFamilyViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FontFamilyViewController.nib
+511c511
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FontManagerWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FontManagerWindowController.nib
+955c955
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1815c1815
+< 		<string>Text</string>
+---
+> 		<string>문자</string>
+3043c3043
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FrequencySeparationEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/FrequencySeparationEffect.nib
+499c499
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1084c1084
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1273c1273
+< 		<string>Mirror</string>
+---
+> 		<string>거울</string>
+1378c1378
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GaussianEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GaussianEffect.nib
+503c503
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+869c869
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1004c1004
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GeolocationViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GeolocationViewController.nib
+328c328
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GlyphBrowserPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GlyphBrowserPage.nib
 959c959
 < 		<string>System</string>
 ---
 > 		<string>시스템</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GradientEditorController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GradientEditorView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GridsViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GridsViewControllerAdvance.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GridsWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GrowShrinkSelection.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GuidesWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HDRPreviewPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HalftoneEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HazeRemovalEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HighPassEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HistogramPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HistoryItemView.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GradientEditorController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GradientEditorController.nib
+361c361
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+732c732
+< 		<string>Colour:</string>
+---
+> 		<string>색상:</string>
+773c773
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1246c1246
+< 		<string>Position:</string>
+---
+> 		<string>위치:</string>
+1496c1496
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+2518c2518
+< 		<string>Copy</string>
+---
+> 		<string>복사</string>
+2623c2623
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GradientEditorView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GradientEditorView.nib
+368c368
+< 		<string>Copy</string>
+---
+> 		<string>복사</string>
+571c571
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+812c812
+< 		<string>Colour:</string>
+---
+> 		<string>색상:</string>
+837c837
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1311c1311
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+1423c1423
+< 		<string>Position:</string>
+---
+> 		<string>위치:</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GridsViewController.nib
+487c487
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsViewControllerAdvance.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GridsViewControllerAdvance.nib
+843c843
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1488c1488
+< 		<string>Angle:</string>
+---
+> 		<string>각도:</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GridsWindowController.nib
+509c509
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+757c757
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1372c1372
+< 		<string>Button</string>
+---
+> 		<string>버튼</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GrowShrinkSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GrowShrinkSelection.nib
+502c502
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+862c862
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+980c980
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GuidesWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GuidesWindowController.nib
+386c386
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2180c2180
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HDRPreviewPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HDRPreviewPage.nib
+1502c1502
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1930c1930
+< 		<string>Exposure</string>
+---
+> 		<string>노출</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HalftoneEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HalftoneEffect.nib
+585c585
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+755c755
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+1501c1501
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+1648c1648
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HazeRemovalEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HazeRemovalEffect.nib
+523c523
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1184c1184
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1319c1319
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HighPassEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HighPassEffect.nib
+515c515
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+881c881
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1016c1016
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistogramPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HistogramPage.nib
+1246c1246
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2324c2324
+< 		<string>Layer</string>
+---
+> 		<string>레이어</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistoryItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HistoryItemView.nib
+576c576
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistoryPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HistoryPage.nib
 665c665
 < 		<string>System</string>
@@ -504,11 +1709,39 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Position:</string>
 ---
 > 		<string>위치:</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ICCProfilePanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: InfoItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: InformationPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: KeyboardShortcutWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: KeywordsPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ICCProfilePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ICCProfilePanel.nib
+682c682
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1518c1518
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/InfoItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/InfoItemView.nib
+625c625
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/InformationPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/InformationPage.nib
+376c376
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/KeyboardShortcutWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/KeyboardShortcutWindowController.nib
+179c179
+< 		<string>Keyboard Shortcuts</string>
+---
+> 		<string>키보드 단축키</string>
+721c721
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2513c2513
+< 		<string>Save</string>
+---
+> 		<string>저장</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/KeywordsPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/KeywordsPage.nib are identical
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerItemView.nib
 1393c1393
 < 		<string>System</string>
@@ -518,6 +1751,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Add</string>
 ---
 > 		<string>추가</string>
+2003c2003
+< 		<string>Entropy</string>
+---
+> 		<string>엔트로피</string>
 2084c2084
 < 		<string>Intersect</string>
 ---
@@ -526,7 +1763,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Subtract</string>
 ---
 > 		<string>제거</string>
+2932c2932
+< 		<string>Maximum</string>
+---
+> 		<string>최대</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerPage.nib
+3048c3048
+< 		<string>Auto-scroll</string>
+---
+> 		<string>자동 스크롤</string>
 3601c3601
 < 		<string>Opacity:</string>
 ---
@@ -539,10 +1784,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Cut</string>
 ---
 > 		<string>오려두기</string>
-5212c5212
+5212,5213c5212,5213
 < 		<string>Copy</string>
+< 		<string>c</string>
 ---
 > 		<string>복사</string>
+> 		<string>[변화 없음]</string>
 5250c5250
 < 		<string>Paste</string>
 ---
@@ -563,6 +1810,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Duplicate</string>
 ---
 > 		<string>복제</string>
+5694c5694
+< 		<string>e</string>
+---
+> 		<string>[스타일 없음]</string>
 5807c5807
 < 		<string>Rasterise…</string>
 ---
@@ -575,10 +1826,16 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>New Pixel Layer</string>
 ---
 > 		<string>새로운 픽셀 레이어</string>
-7367c7367
+6632c6632
+< 		<string>r</string>
+---
+> 		<string>[교체]</string>
+7367,7368c7367,7368
 < 		<string>Group</string>
+< 		<string>g</string>
 ---
 > 		<string>그룹</string>
+> 		<string>[변화 없음]</string>
 7405c7405
 < 		<string>Ungroup</string>
 ---
@@ -667,6 +1924,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Edit All Layers</string>
 ---
 > 		<string>모든 레이어 편집</string>
+14472c14472
+< 		<string>Layer Effects</string>
+---
+> 		<string>레이어 효과</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPropertiesViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerPropertiesViewController.nib
 296c296
 < 		<string>Colour</string>
@@ -684,14 +1945,118 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Layer Colour:</string>
 ---
 > 		<string>레이어 색상:</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LensBlurEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LensDistortionEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LightingEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LinePage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyBrushPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyMaskPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyMeshPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LoadOptionsWindow.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LensBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LensBlurEffect.nib
+619c619
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1709c1709
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1844c1844
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LensDistortionEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LensDistortionEffect.nib
+469c469
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+722c722
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+838c838
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LightingEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LightingEffect.nib
+1021c1021
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1795c1795
+< 		<string>Colour:</string>
+---
+> 		<string>색상:</string>
+4599c4599
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+4913c4913
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+5074c5074
+< 		<string>Copy</string>
+---
+> 		<string>복사</string>
+5565c5565
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+5671c5671
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LinePage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LinePage.nib
+478c478
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2959c2959
+< 		<string>Width:</string>
+---
+> 		<string>두께:</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyBrushPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LiquifyBrushPage.nib
+1483c1483
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1911c1911
+< 		<string>Opacity</string>
+---
+> 		<string>불투명도</string>
+2089c2089
+< 		<string>Size</string>
+---
+> 		<string>크기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyMaskPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LiquifyMaskPage.nib
+488c488
+< 		<string>Mask All</string>
+---
+> 		<string>모두 마스크</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyMeshPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LiquifyMeshPage.nib
+1119c1119
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1802c1802
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+2067c2067
+< 		<string>Opacity</string>
+---
+> 		<string>불투명도</string>
+2156c2156
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LoadOptionsWindow.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LoadOptionsWindow.nib
+637c637
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2467c2467
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+4869c4869
+< 		<string>View</string>
+---
+> 		<string>뷰</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Localizable.strings
 422c422
 < 	<string>'%1' selected. </string>
@@ -1061,6 +2426,30 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Back One</string>
 ---
 > 	<string>뒤로 보내기</string>
+1710c1710
+< 	<string>Background</string>
+---
+> 	<string>배경</string>
+1712c1712
+< 	<string>Background</string>
+---
+> 	<string>배경</string>
+1714c1714
+< 	<string>Background</string>
+---
+> 	<string>배경</string>
+1716c1716
+< 	<string>Background</string>
+---
+> 	<string>배경</string>
+1718c1718
+< 	<string>Background</string>
+---
+> 	<string>배경</string>
+1720c1720
+< 	<string>Background</string>
+---
+> 	<string>배경</string>
 1732c1732
 < 	<string>Balance</string>
 ---
@@ -1565,6 +2954,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Convert to Curves</string>
 ---
 > 	<string>곡선으로 전환</string>
+3102c3102
+< 	<string>Convert to Donut</string>
+---
+> 	<string>도넛으로 전환</string>
+3104c3104
+< 	<string>Convert to Donut</string>
+---
+> 	<string>도넛으로 전환</string>
 3142c3142
 < 	<string>Copy</string>
 ---
@@ -1805,6 +3202,18 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Document Setup…</string>
 ---
 > 	<string>문서 설정…</string>
+4082c4082
+< 	<string>Done</string>
+---
+> 	<string>완료</string>
+4084c4084
+< 	<string>Donut Tool</string>
+---
+> 	<string>도넛 도구</string>
+4086c4086
+< 	<string>Donut</string>
+---
+> 	<string>도넛</string>
 4134c4134
 < 	<string>Drag</string>
 ---
@@ -1965,6 +3374,26 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Export LUT</string>
 ---
 > 	<string>LUT 출력</string>
+4556c4556
+< 	<string>Export</string>
+---
+> 	<string>출력</string>
+4558c4558
+< 	<string>Export</string>
+---
+> 	<string>출력</string>
+4560c4560
+< 	<string>Export</string>
+---
+> 	<string>출력</string>
+4562c4562
+< 	<string>Export</string>
+---
+> 	<string>출력</string>
+4564c4564
+< 	<string>Export</string>
+---
+> 	<string>출력</string>
 4590c4590
 < 	<string>Exposure</string>
 ---
@@ -2489,6 +3918,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Miscellaneous</string>
 ---
 > 	<string>기타</string>
+7242c7242
+< 	<string>Modified</string>
+---
+> 	<string>변경</string>
 7294c7294
 < 	<string>Move To Front</string>
 ---
@@ -2589,10 +4022,20 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>New</string>
 ---
 > 	<string>신규</string>
-7565,7566c7565,7566
+7560c7560
+< 	<string>No Selection</string>
+---
+> 	<string>선택 항목 없음</string>
+7562c7562
+< 	<string>No Selection</string>
+---
+> 	<string>선택 항목 없음</string>
+7564,7566c7564,7566
+< 	<string>No Selection</string>
 < 	<key>No Snapshot</key>
 < 	<string>No Snapshot</string>
 ---
+> 	<string>선택 항목 없음</string>
 > 	<key>스냅샷 없음</key>
 > 	<string>스냅샷 없음</string>
 7574c7574
@@ -2859,6 +4302,26 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Outline</string>
 ---
 > 	<string>윤곽</string>
+8154c8154
+< 	<string>Page</string>
+---
+> 	<string>페이지</string>
+8156c8156
+< 	<string>Page</string>
+---
+> 	<string>페이지</string>
+8158c8158
+< 	<string>Page</string>
+---
+> 	<string>페이지</string>
+8160c8160
+< 	<string>Page</string>
+---
+> 	<string>페이지</string>
+8162c8162
+< 	<string>Page</string>
+---
+> 	<string>페이지</string>
 8204c8204
 < 	<string>Panorama Persona</string>
 ---
@@ -2963,6 +4426,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Photo</string>
 ---
 > 	<string>사진</string>
+8482c8482
+< 	<string>Pixel Tool</string>
+---
+> 	<string>픽셀 도구</string>
+8484c8484
+< 	<string>Pixel Tool</string>
+---
+> 	<string>픽셀 도구</string>
 8488c8488
 < 	<string>Pixel</string>
 ---
@@ -3047,6 +4518,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Recolour</string>
 ---
 > 	<string>재색상</string>
+9114c9114
+< 	<string>Rectangle Tool</string>
+---
+> 	<string>직사각형 도구</string>
+9116c9116
+< 	<string>Rectangle Tool</string>
+---
+> 	<string>직사각형 도구</string>
 9118c9118
 < 	<string>Rectangle</string>
 ---
@@ -3151,6 +4630,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Rotate Clockwise</string>
 ---
 > 	<string>시계방향으로 회전</string>
+9710c9710
+< 	<string>Rounded Rectangle Tool</string>
+---
+> 	<string>둥근 직사각형 도구</string>
 9838c9838
 < 	<string>Save</string>
 ---
@@ -3787,6 +5270,26 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>Unlock</string>
 ---
 > 	<string>잠금 해제</string>
+13188c13188
+< 	<string>Untitled</string>
+---
+> 	<string>이름 없음</string>
+13190c13190
+< 	<string>Untitled</string>
+---
+> 	<string>이름 없음</string>
+13192c13192
+< 	<string>Untitled</string>
+---
+> 	<string>이름 없음</string>
+13194c13194
+< 	<string>Untitled</string>
+---
+> 	<string>이름 없음</string>
+13198c13198
+< 	<string>Update "%@"</string>
+---
+> 	<string>"%@"를 갱신</string>
 13274c13274
 < 	<string>Vector</string>
 ---
@@ -3983,6 +5486,18 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>a</string>
 ---
 > 	<string>[변화 없음]</string>
+13736c13736
+< 	<string>background</string>
+---
+> 	<string>배경</string>
+13744c13744
+< 	<string>dash</string>
+---
+> 	<string>줄표</string>
+13774c13774
+< 	<string>kB</string>
+---
+> 	<string>KB</string>
 13776c13776
 < 	<string>m</string>
 ---
@@ -4007,22 +5522,170 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>
 ---
 > 	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroCategoryItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroEditViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroSelectLayerPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacrosItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacrosPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MainWindow.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MatteEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MaximumEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MedianEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MergeTextStyles.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MinimumEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MirrorEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MotionBlurEffect.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroCategoryItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacroCategoryItemView.nib
+391c391
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroEditViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacroEditViewController.nib
+333c333
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacroEffect.nib
+452c452
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+622c622
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacroItemView.nib
+726c726
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1114c1114
+< 		<string>Edit</string>
+---
+> 		<string>편집</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacroPage.nib
+2022c2022
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+4480c4480
+< 		<string>Export</string>
+---
+> 		<string>출력</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroSelectLayerPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacroSelectLayerPanel.nib
+919c919
+< 		<string>Select</string>
+---
+> 		<string>선택</string>
+1057c1057
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacrosItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacrosItemView.nib
+379c379
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacrosPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacrosPage.nib
+368c368
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+1142c1142
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MainWindow.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MainWindow.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MatteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MatteEffect.nib
+755c755
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1096c1096
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+1297c1297
+< 		<string>Button</string>
+---
+> 		<string>버튼</string>
+1429c1429
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1547c1547
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MaximumEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MaximumEffect.nib
+286c286
+< 		<string>Maximum</string>
+---
+> 		<string>최대</string>
+515c515
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1100c1100
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1234c1234
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MedianEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MedianEffect.nib
+469c469
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+639c639
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+838c838
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MergeTextStyles.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MergeTextStyles.nib
+727c727
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+5309c5309
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MinimumEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MinimumEffect.nib
+515c515
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1064c1064
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1198c1198
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MirrorEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MirrorEffect.nib
+294c294
+< 		<string>Mirror</string>
+---
+> 		<string>거울</string>
+535c535
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1281c1281
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1416c1416
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MotionBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MotionBlurEffect.nib
+519c519
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+974c974
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1109c1109
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NavigatorPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NavigatorPage.nib
 905c905
 < 		<string>Add</string>
@@ -4036,7 +5699,59 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>System</string>
 ---
 > 		<string>시스템</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewBatchPanel.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewBatchPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewBatchPanel.nib
+858c858
+< 		<string>Plugin</string>
+---
+> 		<string>플러그인</string>
+905c905
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+3417c3417
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+3627c3627
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+5402c5402
+< 		<string>Save as JPEG</string>
+---
+> 		<string>JPEG(으)로 저장</string>
+5502c5502
+< 		<string>Save as PNG</string>
+---
+> 		<string>PNG(으)로 저장</string>
+5602c5602
+< 		<string>Save as AFPhoto</string>
+---
+> 		<string>AFPhoto(으)로 저장</string>
+6596c6596
+< 		<string>Save as TIFF</string>
+---
+> 		<string>TIFF(으)로 저장</string>
+7189c7189
+< 		<string>Save as OpenEXR</string>
+---
+> 		<string>OpenEXR(으)로 저장</string>
+7578c7578
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+9312c9312
+< 		<string>Maximum height</string>
+---
+> 		<string>최대 높이</string>
+9344c9344
+< 		<string>Maximum width</string>
+---
+> 		<string>최대 두께</string>
+9367c9367
+< 		<string>Preserve aspect ratio</string>
+---
+> 		<string>종횡비 유지</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel MultiSpread.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewDocPanel MultiSpread.nib
 674c674
 < 		<string>System</string>
@@ -4046,6 +5761,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Default</string>
 ---
 > 		<string>기본값</string>
+3534c3534
+< 		<string>Portrait</string>
+---
+> 		<string>세로방향</string>
 4635c4635
 < 		<string>Transparent background</string>
 ---
@@ -4070,6 +5789,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Photo</string>
 ---
 > 		<string>사진</string>
+6585c6585
+< 		<string>Web</string>
+---
+> 		<string>웹</string>
 6632c6632
 < 		<string>Devices</string>
 ---
@@ -4099,6 +5822,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Default</string>
 ---
 > 		<string>기본값</string>
+3589c3589
+< 		<string>Portrait</string>
+---
+> 		<string>세로방향</string>
 4692c4692
 < 		<string>Transparent background</string>
 ---
@@ -4123,6 +5850,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Photo</string>
 ---
 > 		<string>사진</string>
+6398c6398
+< 		<string>Web</string>
+---
+> 		<string>웹</string>
 6445c6445
 < 		<string>Devices</string>
 ---
@@ -4143,70 +5874,582 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Colour:</string>
 ---
 > 		<string>색상:</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewFocusMergePanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewHDRMergePanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewPanoramaPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewStackPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NoiseEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenAccessoryViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenImageAccessoryViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenTypeWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OutlineSelection.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewFocusMergePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewFocusMergePanel.nib
+483c483
+< 		<string>Plugin</string>
+---
+> 		<string>플러그인</string>
+556c556
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1645c1645
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+2487c2487
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewHDRMergePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewHDRMergePanel.nib
+1239c1239
+< 		<string>Plugin</string>
+---
+> 		<string>플러그인</string>
+1286c1286
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2716c2716
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+3547c3547
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewPanoramaPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewPanoramaPanel.nib
+359c359
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+821c821
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2935c2935
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewStackPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewStackPanel.nib
+1092c1092
+< 		<string>Plugin</string>
+---
+> 		<string>플러그인</string>
+1139c1139
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2301c2301
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+3132c3132
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NoiseEffect.nib
+527c527
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+893c893
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1028c1028
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenAccessoryViewController.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/OpenAccessoryViewController.nib are identical
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenImageAccessoryViewController.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/OpenImageAccessoryViewController.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenTypeWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/OpenTypeWindowController.nib
+169c169
+< 		<string>Typography</string>
+---
+> 		<string>타이포그래피</string>
+703c703
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1653c1653
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+6510c6510
+< 		<string>Ligatures</string>
+---
+> 		<string>합자</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OutlineSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/OutlineSelection.nib
+518c518
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+878c878
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+996c996
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+1593c1593
+< 		<string>Centre</string>
+---
+> 		<string>가운데</string>
+1756c1756
+< 		<string>Inside</string>
+---
+> 		<string>안으로</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Page Setup.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Page Setup.nib
 604c604
 < 		<string>System</string>
 ---
 > 		<string>시스템</string>
+2870c2870
+< 		<string>Include Margins</string>
+---
+> 		<string>여백 포함</string>
 4683c4683
 < 		<string>Default</string>
 ---
 > 		<string>기본값</string>
+5210c5210
+< 		<string>Portrait</string>
+---
+> 		<string>세로방향</string>
+5768c5768
+< 		<string>Transparent background</string>
+---
+> 		<string>투명한 배경</string>
 5770c5770
 < 		<string>Colour</string>
 ---
 > 		<string>색상</string>
+7272c7272
+< 		<string>Custom</string>
+---
+> 		<string>사용자화</string>
+7551c7551
+< 		<string>Print</string>
+---
+> 		<string>인쇄</string>
 7643c7643
 < 		<string>Photo</string>
 ---
 > 		<string>사진</string>
+7690c7690
+< 		<string>Web</string>
+---
+> 		<string>웹</string>
+7737c7737
+< 		<string>Devices</string>
+---
+> 		<string>기기</string>
+8537c8537
+< 		<string>Document Units:</string>
+---
+> 		<string>문서 단위:</string>
 8642c8642
 < 		<string>Cancel</string>
 ---
 > 		<string>취소</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PageSetupWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PagesPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PaletteModel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PalettisationView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PanoramaItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PanoramaSourceItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ParagraphPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PerlinNoiseEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PerspectiveEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PinchPunchEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PixelateEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: Preferences.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PresetsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PressureViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PrintersMarksAccessoryView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PrintingAccessoryViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ProfileEditorView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ProgressPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RadialBlurEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RasteriseOptionsPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RefineSelection.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RemoveVignetteEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ResizeCanvasPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ResizePanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ResizePixelArtPanel.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ResourceManagerWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RippleEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SaveAccessoryViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ScanningController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SelectDocument.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SelectSampledColour.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ShadowsHighlightsEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ShearEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SmoothSelection.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PageSetupWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PageSetupWindowController.nib
+1175c1175
+< 		<string>Include Margins</string>
+---
+> 		<string>여백 포함</string>
+1935c1935
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2536c2536
+< 		<string>Portrait</string>
+---
+> 		<string>세로방향</string>
+3562c3562
+< 		<string>Transparent background</string>
+---
+> 		<string>투명한 배경</string>
+5865c5865
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+6509c6509
+< 		<string>Custom</string>
+---
+> 		<string>사용자화</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PagesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PagesPage.nib
+576c576
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1914c1914
+< 		<string>Duplicate</string>
+---
+> 		<string>복제</string>
+2022c2022
+< 		<string>Edit</string>
+---
+> 		<string>편집</string>
+2393c2393
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PaletteModel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PaletteModel.nib
+834c834
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PalettisationView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PalettisationView.nib
+647c647
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1115c1115
+< 		<string>None</string>
+---
+> 		<string>없음</string>
+3641c3641
+< 		<string>Button</string>
+---
+> 		<string>버튼</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PanoramaItemView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PanoramaItemView.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PanoramaSourceItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PanoramaSourceItemView.nib
+515c515
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ParagraphPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ParagraphPage.nib
+1610c1610
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+3300c3300
+< 		<string>Spacing</string>
+---
+> 		<string>공간</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PerlinNoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PerlinNoiseEffect.nib
+583c583
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+931c931
+< 		<string>Zoom</string>
+---
+> 		<string>맞추기</string>
+1216c1216
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1528c1528
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PerspectiveEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PerspectiveEffect.nib
+1161c1161
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2159c2159
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+2265c2265
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PinchPunchEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PinchPunchEffect.nib
+531c531
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+986c986
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1121c1121
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PixelateEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PixelateEffect.nib
+469c469
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+639c639
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+838c838
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Preferences.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
+169c169
+< 		<string>Preferences</string>
+---
+> 		<string>환경설정</string>
+590c590
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1106c1106
+< 		<string>Home</string>
+---
+> 		<string>홈</string>
+1173c1173
+< 		<string>General</string>
+---
+> 		<string>일반</string>
+5826c5826
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+5859c5859
+< 		<string>Performance</string>
+---
+> 		<string>성능</string>
+8182c8182
+< 		<string>Metal</string>
+---
+> 		<string>금속</string>
+12361c12361
+< 		<string>Tools</string>
+---
+> 		<string>도구</string>
+16338c16338
+< 		<string>Save</string>
+---
+> 		<string>저장</string>
+16854c16854
+< 		<string>Keyboard Shortcuts</string>
+---
+> 		<string>키보드 단축키</string>
+17876c17876
+< 		<string>Add</string>
+---
+> 		<string>추가</string>
+19146c19146
+< 		<string>Plugin</string>
+---
+> 		<string>플러그인</string>
+20257c20257
+< 		<string>Miscellaneous</string>
+---
+> 		<string>기타</string>
+20952c20952
+< 		<string>Miscellaneous</string>
+---
+> 		<string>기타</string>
+21104c21104
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PresetsPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PresetsPage.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PressureViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PressureViewController.nib
+879c879
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PrintersMarksAccessoryView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PrintersMarksAccessoryView.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PrintingAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PrintingAccessoryViewController.nib
+602c602
+< 		<string>Actual Size</string>
+---
+> 		<string>실제 크기</string>
+814c814
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ProfileEditorView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ProfileEditorView.nib
+470c470
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ProgressPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ProgressPanel.nib
+305c305
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+533c533
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RadialBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/RadialBlurEffect.nib
+452c452
+< 		<string>Angle</string>
+---
+> 		<string>각도</string>
+503c503
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+869c869
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1004c1004
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RasteriseOptionsPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/RasteriseOptionsPanel.nib
+636c636
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RefineSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/RefineSelection.nib
+616c616
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2505c2505
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+3027c3027
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+3323c3323
+< 		<string>Selection</string>
+---
+> 		<string>선택 항목</string>
+3370c3370
+< 		<string>Mask</string>
+---
+> 		<string>마스크</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RemoveVignetteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/RemoveVignetteEffect.nib
+503c503
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+869c869
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1087c1087
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizeCanvasPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ResizeCanvasPanel.nib
+524c524
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1867c1867
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ResizePanel.nib
+556c556
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2545c2545
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizePixelArtPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ResizePixelArtPanel.nib
+520c520
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2089c2089
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResourceManagerWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ResourceManagerWindowController.nib
+1025c1025
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1622c1622
+< 		<string>Page</string>
+---
+> 		<string>페이지</string>
+1932c1932
+< 		<string>Size</string>
+---
+> 		<string>크기</string>
+2578c2578
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RippleEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/RippleEffect.nib
+503c503
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+869c869
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1004c1004
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SaveAccessoryViewController.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SaveAccessoryViewController.nib are identical
+Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ScanningController.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ScanningController.nib are identical
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SelectDocument.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SelectDocument.nib
+475c475
+< 		<string>Plugin</string>
+---
+> 		<string>플러그인</string>
+548c548
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1807c1807
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SelectSampledColour.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SelectSampledColour.nib
+471c471
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+926c926
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1531c1531
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ShadowsHighlightsEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ShadowsHighlightsEffect.nib
+358c358
+< 		<string>Shadows / Highlights</string>
+---
+> 		<string>그림자 / 빛</string>
+643c643
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1098c1098
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1233c1233
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ShearEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ShearEffect.nib
+270c270
+< 		<string>Shear</string>
+---
+> 		<string>기울임</string>
+457c457
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+710c710
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SmoothSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SmoothSelection.nib
+494c494
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+854c854
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+972c972
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnappingOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnappingOptions.nib
 224c224
 < 		<string>Snapping</string>
@@ -4216,8 +6459,16 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Close</string>
 ---
 > 		<string>닫기</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SnappingOptionsViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SnapshotItemView.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnappingOptionsViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnappingOptionsViewController.nib
+830c830
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnapshotItemView.nib
+576c576
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnapshotsPage.nib
 1055c1055
 < 		<string>System</string>
@@ -4239,11 +6490,55 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Restore Snapshot</string>
 ---
 > 		<string>스냅샷 복원</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SpellingWindowController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SphereEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: StockPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: StyleItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: StylesPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SpellingWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SpellingWindowController.nib
+179c179
+< 		<string>Spelling</string>
+---
+> 		<string>철자</string>
+371c371
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+1099c1099
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1560c1560
+< 		<string>Selection</string>
+---
+> 		<string>선택 항목</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SphereEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SphereEffect.nib
+531c531
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+986c986
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1121c1121
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StockPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/StockPage.nib
+1271c1271
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StyleItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/StyleItemView.nib
+305c305
+< 		<string>Style</string>
+---
+> 		<string>스타일</string>
+356c356
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StylesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/StylesPage.nib
+1037c1037
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SwatchesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SwatchesPage.nib
 1928c1928
 < 		<string>Add Global Colour…</string>
@@ -4289,6 +6584,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Small</string>
 ---
 > 		<string>작게</string>
+3112c3112
+< 		<string>Medium</string>
+---
+> 		<string>중간</string>
 3147c3147
 < 		<string>Large</string>
 ---
@@ -4341,32 +6640,372 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Tones</string>
 ---
 > 		<string>색조</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SymbolItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SymbolsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TextFramePage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TextStyleEditor.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TextStylesPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TextWrappingDialogController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToastPanelController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapItemViews.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapOverlayItemView.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapOverlaysPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapPresetsPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToolUIPaletteViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToolbarPalette.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TransformPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TransparencyEditorController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TransparencyViewController.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TwirlEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: UnsharpMaskEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: VignetteEffect.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: WaveformPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SymbolItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SymbolItemView.nib
+344c344
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SymbolsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SymbolsPage.nib
+742c742
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextFramePage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TextFramePage.nib
+453c453
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+754c754
+< 		<string>General</string>
+---
+> 		<string>일반</string>
+1165c1165
+< 		<string>Vertical Alignment</string>
+---
+> 		<string>세로 정렬</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextStyleEditor.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TextStyleEditor.nib
+705c705
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2221c2221
+< 		<string>General</string>
+---
+> 		<string>일반</string>
+3207c3207
+< 		<string>Paragraph</string>
+---
+> 		<string>문단</string>
+3334c3334
+< 		<string>Character</string>
+---
+> 		<string>문자</string>
+3439c3439
+< 		<string>Group</string>
+---
+> 		<string>그룹</string>
+4851c4851
+< 		<string>Italic</string>
+---
+> 		<string>기울임</string>
+8850c8850
+< 		<string>Colour</string>
+---
+> 		<string>색상</string>
+14725c14725
+< 		<string>Default</string>
+---
+> 		<string>기본값</string>
+15531c15531
+< 		<string>Superscript</string>
+---
+> 		<string>윗첨자</string>
+15633c15633
+< 		<string>Subscript</string>
+---
+> 		<string>아랫첨자</string>
+20111c20111
+< 		<string>Alignment</string>
+---
+> 		<string>정렬</string>
+24396c24396
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextStylesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TextStylesPage.nib
+2545c2545
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+3622c3622
+< 		<string>Detach and Delete All Styles</string>
+---
+> 		<string>모든 스타일 벗기고 삭제</string>
+5538c5538
+< 		<string>Create Character Style</string>
+---
+> 		<string>문자 스타일 생성</string>
+5593c5593
+< 		<string>Create Paragraph Style</string>
+---
+> 		<string>문단 스타일 생성</string>
+5685c5685
+< 		<string>Update Character Style</string>
+---
+> 		<string>문자 스타일 업데이트</string>
+5708c5708
+< 		<string>Update Paragraph Style</string>
+---
+> 		<string>문단 스타일 업데이트</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextWrappingDialogController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TextWrappingDialogController.nib
+169c169
+< 		<string>Text Wrap</string>
+---
+> 		<string>줄바꿈</string>
+1293c1293
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1637c1637
+< 		<string>None</string>
+---
+> 		<string>없음</string>
+1967c1967
+< 		<string>Tight</string>
+---
+> 		<string>좁게</string>
+2077c2077
+< 		<string>Inside</string>
+---
+> 		<string>안으로</string>
+2187c2187
+< 		<string>Edge</string>
+---
+> 		<string>모서리</string>
+4473c4473
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToastPanelController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToastPanelController.nib
+772c772
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+888c888
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToneMapItemViews.nib
+4907c4907
+< 		<string>Vibrance</string>
+---
+> 		<string>활기</string>
+4948c4948
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+6874c6874
+< 		<string>Exposure</string>
+---
+> 		<string>노출</string>
+7513c7513
+< 		<string>Medium</string>
+---
+> 		<string>중간</string>
+9785c9785
+< 		<string>Colours</string>
+---
+> 		<string>색상</string>
+10966c10966
+< 		<string>White Balance</string>
+---
+> 		<string>화이트 밸런스</string>
+12865c12865
+< 		<string>Curves</string>
+---
+> 		<string>곡선</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapOverlayItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToneMapOverlayItemView.nib
+663c663
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapOverlaysPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToneMapOverlaysPage.nib
+1356c1356
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+2339c2339
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToneMapPage.nib
+536c536
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapPresetsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToneMapPresetsPage.nib
+1389c1389
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToolUIPaletteViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToolUIPaletteViewController.nib
+1055c1055
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1761c1761
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToolbarPalette.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToolbarPalette.nib
+889c889
+< 		<string>Show</string>
+---
+> 		<string>보기</string>
+914c914
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1837c1837
+< 		<string>Done</string>
+---
+> 		<string>완료</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TransformPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TransformPage.nib
+1137c1137
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TransparencyEditorController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TransparencyEditorController.nib
+361c361
+< 		<string>Close</string>
+---
+> 		<string>닫기</string>
+724c724
+< 		<string>Position:</string>
+---
+> 		<string>위치:</string>
+765c765
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1265c1265
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+2303c2303
+< 		<string>Copy</string>
+---
+> 		<string>복사</string>
+2408c2408
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TransparencyViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TransparencyViewController.nib
+389c389
+< 		<string>Copy</string>
+---
+> 		<string>복사</string>
+592c592
+< 		<string>Delete</string>
+---
+> 		<string>지우기</string>
+929c929
+< 		<string>Position:</string>
+---
+> 		<string>위치:</string>
+954c954
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1632c1632
+< 		<string>Opacity:</string>
+---
+> 		<string>불투명도:</string>
+2948c2948
+< 		<string>None</string>
+---
+> 		<string>없음</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TwirlEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TwirlEffect.nib
+527c527
+< 		<string>Angle</string>
+---
+> 		<string>각도</string>
+578c578
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1033c1033
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1276c1276
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/UnsharpMaskEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/UnsharpMaskEffect.nib
+559c559
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1014c1014
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1149c1149
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+1394c1394
+< 		<string>Threshold</string>
+---
+> 		<string>역치</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/VignetteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/VignetteEffect.nib
+536c536
+< 		<string>Exposure</string>
+---
+> 		<string>노출</string>
+587c587
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1517c1517
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1652c1652
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/WaveformPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/WaveformPage.nib
+432c432
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
 diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/WelcomeWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/WelcomeWindowController.nib
+533c533
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1395c1395
+< 		<string>New Document</string>
+---
+> 		<string>신규 문서</string>
 1680c1680
 < 		<string>Close</string>
 ---
 > 		<string>닫기</string>
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: XMPPage.nib
-Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ZMapBlurEffect.nib
+5502c5502
+< 			<key>Preferences</key>
+---
+> 			<key>환경설정</key>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/XMPPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/XMPPage.nib
+912c912
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+4171c4171
+< 		<string>Exposure</string>
+---
+> 		<string>노출</string>
+4270c4270
+< 		<string>Size</string>
+---
+> 		<string>크기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ZMapBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ZMapBlurEffect.nib
+702c702
+< 		<string>System</string>
+---
+> 		<string>시스템</string>
+1140c1140
+< 		<string>Apply</string>
+---
+> 		<string>적용</string>
+1246c1246
+< 		<string>Cancel</string>
+---
+> 		<string>취소</string>
+1707c1707
+< 		<string>Invert</string>
+---
+> 		<string>반전</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ZoomBlurEffect.nib

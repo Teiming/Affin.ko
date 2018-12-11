@@ -2867,7 +2867,7 @@
 		</dict>
 		<string>SchemeCheckboxCell</string>
 		<string>NSButtonCell</string>
-		<string>Include Margins</string>
+		<string>여백 포함</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5207,7 +5207,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Portrait</string>
+		<string>세로방향</string>
 		<string>{450, 218}</string>
 		<string>{{0, 42}, {450, 218}}</string>
 		<dict>
@@ -5765,7 +5765,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Transparent background</string>
+		<string>투명한 배경</string>
 		<string>{450, 218}</string>
 		<string>색상</string>
 		<dict>
@@ -7269,7 +7269,7 @@
 				<integer>409</integer>
 			</dict>
 		</dict>
-		<string>Custom</string>
+		<string>사용자화</string>
 		<string>presetPopUp</string>
 		<dict>
 			<key>$class</key>
@@ -7548,7 +7548,7 @@
 				<integer>423</integer>
 			</dict>
 		</dict>
-		<string>Print</string>
+		<string>인쇄</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7687,7 +7687,7 @@
 				<integer>429</integer>
 			</dict>
 		</dict>
-		<string>Web</string>
+		<string>웹</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7734,7 +7734,7 @@
 				<integer>431</integer>
 			</dict>
 		</dict>
-		<string>Devices</string>
+		<string>기기</string>
 		<string>typePopup</string>
 		<dict>
 			<key>$class</key>
@@ -8534,7 +8534,7 @@
 				<integer>78</integer>
 			</dict>
 		</dict>
-		<string>Document Units:</string>
+		<string>문서 단위:</string>
 		<dict>
 			<key>$class</key>
 			<dict>

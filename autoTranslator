@@ -3,20 +3,20 @@ echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 
 read APP
 echo "Frameworks를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
 read WHERE
-echo "번역할 파일을 입력합니다."
-read PATH
-NAME=$(echo $PATH | /usr/bin/sed -e "s/^.*\///")
-echo $NAME"을(를) 번역합니다."
+# echo "번역할 파일을 입력합니다."
+# read PATH
+# NAME=$(echo $PATH | /usr/bin/sed -e "s/^.*\///")
+# echo $NAME"을(를) 번역합니다."
 
 if [ $APP -eq 1 ]
 then
   if [ $WHERE -eq 1 ]
   then
-    for (( i = 0; i < 242; i++ ))
+    for (( i = 1; i < 243; i++ ))
     do
-      /bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p
+      NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
     done
-    /usr/bin/sed -f DictionaryDesigner "$PATH" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
     /usr/bin/sudo ./SyncDesignerFrameworks
   else
     /usr/bin/sed -f DictionaryDesigner "$PATH" > Designer/"$NAME".temp && /bin/mv Designer/"$NAME".temp Designer/"$NAME"
@@ -25,7 +25,11 @@ then
 else
   if [ $WHERE -eq 1 ]
   then
-    /usr/bin/sed -f DictionaryPhoto "$PATH" > PhotoFrameworks/"$NAME".temp && /bin/mv PhotoFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
+    for (( i = 1; i < 243; i++ ))
+    do
+      NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
+    done
     /usr/bin/sudo ./SyncPhotoFrameworks
   else
     /usr/bin/sed -f DictionaryPhoto "$PATH" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"

@@ -1707,17 +1707,17 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Background Grey Level [Interface Preferences]</key>
 	<string>Background Grey Level</string>
 	<key>Background [Background layer name]</key>
-	<string>Background</string>
+	<string>배경</string>
 	<key>Background [Background snapshot name]</key>
-	<string>Background</string>
+	<string>배경</string>
 	<key>Background [Preferences user interface search term]</key>
-	<string>Background</string>
+	<string>배경</string>
 	<key>Background [Refine selection panel control title]</key>
-	<string>Background</string>
+	<string>배경</string>
 	<key>Background [Refine selection panel control tooltip]</key>
-	<string>Background</string>
+	<string>배경</string>
 	<key>Background [Reflectable enum]</key>
-	<string>Background</string>
+	<string>배경</string>
 	<key>Background colour [Raster pixel tool reflection]</key>
 	<string>Background colour</string>
 	<key>Bad file signature [PSDError]</key>
@@ -3099,9 +3099,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Convert to Curves [Shape tool reflection]</key>
 	<string>곡선으로 전환</string>
 	<key>Convert to Donut [Ellipse Shape - Convert to Donut - Button Name]</key>
-	<string>Convert to Donut</string>
+	<string>도넛으로 전환</string>
 	<key>Convert to Donut [Shape tool reflection]</key>
-	<string>Convert to Donut</string>
+	<string>도넛으로 전환</string>
 	<key>Convert to Live Filter [Effect reflection]</key>
 	<string>Convert to Live Filter</string>
 	<key>Convert to Live Filter [History item]</key>
@@ -4079,11 +4079,11 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Don't set [Brush Editor]</key>
 	<string>Don't set</string>
 	<key>Done [Toolbar palette done button]</key>
-	<string>Done</string>
+	<string>완료</string>
 	<key>Donut Tool [Tool description]</key>
-	<string>Donut Tool</string>
+	<string>도넛 도구</string>
 	<key>Donut [Shape name]</key>
-	<string>Donut</string>
+	<string>도넛</string>
 	<key>Dot [Reflectable enum]</key>
 	<string>Dot</string>
 	<key>Double Star Tool [Main Controls Tooltip]</key>
@@ -4553,15 +4553,15 @@ Attribute names must be unique</string>
 	<key>Export Styles… [export category string]</key>
 	<string>Export Styles…</string>
 	<key>Export [Export cube panel export button]</key>
-	<string>Export</string>
+	<string>출력</string>
 	<key>Export [Exportable items]</key>
-	<string>Export</string>
+	<string>출력</string>
 	<key>Export [Main Controls Tooltip]</key>
-	<string>Export</string>
+	<string>출력</string>
 	<key>Export [Main Controls]</key>
-	<string>Export</string>
+	<string>출력</string>
 	<key>Export [export]</key>
-	<string>Export</string>
+	<string>출력</string>
 	<key>Export document [Command description]</key>
 	<string>Export document</string>
 	<key>Export document as XAML [Export document as XAML command name]</key>
@@ -7239,7 +7239,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Model: [Raster paint mixer brush toolbar]</key>
 	<string>Model:</string>
 	<key>Modified [Resource Manager]</key>
-	<string>Modified</string>
+	<string>변경</string>
 	<key>Modifier Nudge Distance [Tools Preferences]</key>
 	<string>Modifier Nudge Distance</string>
 	<key>Modifier Tone Letters [Glyph Ranges]</key>
@@ -7557,11 +7557,11 @@ The documents will need to be saved before they can be closed.</string>
 	<key>No Panoramas Found [Message box title]</key>
 	<string>No Panoramas Found</string>
 	<key>No Selection [Slice Options page]</key>
-	<string>No Selection</string>
+	<string>선택 항목 없음</string>
 	<key>No Selection [Tool selection description]</key>
-	<string>No Selection</string>
+	<string>선택 항목 없음</string>
 	<key>No Selection [slice tool context toolbar selection label]</key>
-	<string>No Selection</string>
+	<string>선택 항목 없음</string>
 	<key>스냅샷 없음</key>
 	<string>스냅샷 없음</string>
 	<key>No Strikethrough [Character page]</key>
@@ -8151,15 +8151,15 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Page Setup… [Select tool context toolbar]</key>
 	<string>Page Setup…</string>
 	<key>Page [Document Setup]</key>
-	<string>Page</string>
+	<string>페이지</string>
 	<key>Page [Exportable items]</key>
-	<string>Page</string>
+	<string>페이지</string>
 	<key>Page [Hard break description]</key>
-	<string>Page</string>
+	<string>페이지</string>
 	<key>Page [Slice type]</key>
-	<string>Page</string>
+	<string>페이지</string>
 	<key>Page [slice tool context toolbar selection label]</key>
-	<string>Page</string>
+	<string>페이지</string>
 	<key>Page layouts [SnappingPreset]</key>
 	<string>Page layouts</string>
 	<key>Page layouts with objects [SnappingPreset]</key>
@@ -8479,9 +8479,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Pixel Selection [Channels page]</key>
 	<string>Pixel Selection</string>
 	<key>Pixel Tool [Main Controls Tooltip]</key>
-	<string>Pixel Tool</string>
+	<string>픽셀 도구</string>
 	<key>Pixel Tool [Tool description]</key>
-	<string>Pixel Tool</string>
+	<string>픽셀 도구</string>
 	<key>Pixel Undo Brush [Raster pixel undo brush command name]</key>
 	<string>Pixel Undo Brush</string>
 	<key>Pixel [Main Controls Tooltip]</key>
@@ -9111,9 +9111,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Recovery save [Save type]</key>
 	<string>Recovery save</string>
 	<key>Rectangle Tool [Main Controls Tooltip]</key>
-	<string>Rectangle Tool</string>
+	<string>직사각형 도구</string>
 	<key>Rectangle Tool [Tool description]</key>
-	<string>Rectangle Tool</string>
+	<string>직사각형 도구</string>
 	<key>Rectangle [Main Controls]</key>
 	<string>직사각형</string>
 	<key>Rectangle [Rectangle context toolbar]</key>
@@ -9707,7 +9707,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Round [Rect Tool Corner Type]</key>
 	<string>Round</string>
 	<key>Rounded Rectangle Tool [Tool description]</key>
-	<string>Rounded Rectangle Tool</string>
+	<string>둥근 직사각형 도구</string>
 	<key>Rounded Rectangle [Shape name]</key>
 	<string>Rounded Rectangle</string>
 	<key>Rounded [Corner tool context toolbar control title]</key>
@@ -13185,17 +13185,17 @@ View point with that name already exists.</string>
 	<key>Unsupported properties [Export Page]</key>
 	<string>Unsupported properties</string>
 	<key>Untitled [Add document fill category default prefix]</key>
-	<string>Untitled</string>
+	<string>이름 없음</string>
 	<key>Untitled [Document View]</key>
-	<string>Untitled</string>
+	<string>이름 없음</string>
 	<key>Untitled [Main View]</key>
-	<string>Untitled</string>
+	<string>이름 없음</string>
 	<key>Untitled [New Project Name]</key>
-	<string>Untitled</string>
+	<string>이름 없음</string>
 	<key>Untitled.affinity_liquify_mesh [Mesh export default]</key>
 	<string>Untitled.affinity_liquify_mesh</string>
 	<key>Update "%@" [Text style]</key>
-	<string>Update "%@"</string>
+	<string>"%@"를 갱신</string>
 	<key>Update FFT Preview [Command description]</key>
 	<string>Update FFT Preview</string>
 	<key>Update Fine histogram [Command description]</key>
@@ -13733,7 +13733,7 @@ View point with that name already exists.</string>
 	<key>b [Apply image tool reflection lower]</key>
 	<string>b</string>
 	<key>background [SlicePage default export name]</key>
-	<string>background</string>
+	<string>배경</string>
 	<key>below [Macro select panel]</key>
 	<string>below</string>
 	<key>cat [Short Unit Types]</key>
@@ -13741,7 +13741,7 @@ View point with that name already exists.</string>
 	<key>cm [Short Unit Types]</key>
 	<string>cm</string>
 	<key>dash [LineStyle description]</key>
-	<string>dash</string>
+	<string>줄표</string>
 	<key>deg [Short Unit Types]</key>
 	<string>deg</string>
 	<key>ft [Short Unit Types]</key>
@@ -13771,7 +13771,7 @@ View point with that name already exists.</string>
 	<key>in [Short Unit Types]</key>
 	<string>in</string>
 	<key>kB [Short Unit Types]</key>
-	<string>kB</string>
+	<string>KB</string>
 	<key>m [Short Unit Types]</key>
 	<string>[같은 스타일]</string>
 	<key>mm [Short Unit Types]</key>

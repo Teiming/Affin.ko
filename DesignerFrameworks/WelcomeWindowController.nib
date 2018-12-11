@@ -530,7 +530,7 @@
 			<key>NSColorSpace</key>
 			<integer>6</integer>
 		</dict>
-		<string>System</string>
+		<string>시스템</string>
 		<string>controlColor</string>
 		<dict>
 			<key>$class</key>
@@ -1392,7 +1392,7 @@
 				<integer>83</integer>
 			</dict>
 		</dict>
-		<string>New Document</string>
+		<string>신규 문서</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5499,7 +5499,7 @@
 			</dict>
 			<key>NSvFlags</key>
 			<integer>-2147483392</integer>
-			<key>Preferences</key>
+			<key>환경설정</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>304</integer>

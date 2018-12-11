@@ -1,5 +1,7 @@
 # Affinity-in-Korean
 Affinity 시리즈 한글화 프로젝트
+- 일본식 한자 표기는 지양하고 있습니다.
+- 마땅히 대체할 단어가 없다면 최대한 원문 그대로 표기하고 있습니다.
 * 최신 버전 구매
   * [Affinity Designer for desktop - Professional graphic design software](https://affinity.serif.com/designer/desktop)
   * [Affinity Photo for desktop - Professional image editing software](https://affinity.serif.com/photo/desktop)
@@ -47,7 +49,7 @@ git pull
 sudo ./SyncPhoto_Beta
 sudo ./SyncPhotoFrameworks_Beta
 ```
-## Tips
+### Tips
 다음 명령어를 입력하면 addTranslator, autoTranslator를 손쉽게 이용할 수 있습니다.
 ```sh
 sudo ln ~/Affinity-in-Korean/addTranslator /usr/local/bin/addTranslator
