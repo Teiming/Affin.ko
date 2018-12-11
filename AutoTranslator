@@ -12,7 +12,7 @@ if [ $APP -eq 1 ]
 then
   if [ $WHERE -eq 1 ]
   then
-    /usr/bin/sed -f DictionaryDesigner "$PATH" > Designer.Frameworks/"$NAME".temp && /bin/mv Designer.Frameworks/"$NAME".temp Designer.Frameworks/"$NAME"
+    /usr/bin/sed -f DictionaryDesigner "$PATH" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
     /usr/bin/sudo ./SyncDesigner
   else
     /usr/bin/sed -f DictionaryDesigner "$PATH" > Designer/"$NAME".temp && /bin/mv Designer/"$NAME".temp Designer/"$NAME"
@@ -21,15 +21,13 @@ then
 else
   if [ $WHERE -eq 1 ]
   then
-    /usr/bin/sed -f DictionaryPhoto "$PATH" > Photo.Frameworks/"$NAME".temp && /bin/mv Photo.Frameworks/"$NAME".temp Photo.Frameworks/"$NAME"
+    /usr/bin/sed -f DictionaryPhoto "$PATH" > PhotoFrameworks/"$NAME".temp && /bin/mv PhotoFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
     /usr/bin/sudo ./SyncPhoto
   else
     /usr/bin/sed -f DictionaryPhoto "$PATH" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"
     /usr/bin/sudo ./SyncPhoto
   fi
 fi
-echo "log를 작성합니다."
-./LogWrite
 echo "작성이 끝났습니다. 다시 시작은 1, 종료는 0을 입력하세요."
 read RESTART
 if [ $RESTART -eq 1 ]

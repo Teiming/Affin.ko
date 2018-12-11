@@ -1,0 +1,39 @@
+cd ~/Affinity-in-Korean/
+echo "Affinity Designer_Beta를 번역하려면 1, Affinity Photo_Beta를 번역하려면 2를 입력하세요."
+read APP
+echo "Frameworks를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
+read WHERE
+echo "번역할 파일을 입력합니다."
+read PATH
+NAME=$(echo $PATH | /usr/bin/sed -e "s/^.*\///")
+echo $NAME"을(를) 번역합니다."
+
+if [ $APP -eq 1 ]
+then
+  if [ $WHERE -eq 1 ]
+  then
+    /usr/bin/sed -f DictionaryDesigner "$PATH" > DesignerFrameworks_Beta/"$NAME".temp && /bin/mv DesignerFrameworks_Beta/"$NAME".temp DesignerFrameworks_Beta/"$NAME"
+    /usr/bin/sudo ./SyncDesigner
+  else
+    /usr/bin/sed -f DictionaryDesigner "$PATH" > Designer_Beta/"$NAME".temp && /bin/mv Designer_Beta/"$NAME".temp Designer_Beta/"$NAME"
+    /usr/bin/sudo ./SyncDesigner
+  fi
+else
+  if [ $WHERE -eq 1 ]
+  then
+    /usr/bin/sed -f DictionaryPhoto "$PATH" > PhotoFrameworks_Beta/"$NAME".temp && /bin/mv PhotoFrameworks_Beta/"$NAME".temp PhotoFrameworks_Beta/"$NAME"
+    /usr/bin/sudo ./SyncPhoto
+  else
+    /usr/bin/sed -f DictionaryPhoto "$PATH" > Photo_Beta/"$NAME".temp && /bin/mv Photo_Beta/"$NAME".temp Photo_Beta/"$NAME"
+    /usr/bin/sudo ./SyncPhoto
+  fi
+fi
+echo "작성이 끝났습니다. 다시 시작은 1, 종료는 0을 입력하세요."
+read RESTART
+if [ $RESTART -eq 1 ]
+then
+  ./AutoTranslator_Beta
+  exit
+else
+  exit
+fi
