@@ -1,7 +1,7 @@
 # 번역할 순서
 ## Affinity Designer
 ### Main
-완료.
+Done.
 ### Frameworks
 >Preferences.nib
 >SwatchesPage.nib
