@@ -51,6 +51,7 @@ s/g>Auto Contrast</g>자동 대비</
 s/g>Auto Levels</g>자동 레벨</
 s/g>Auto White Balance</g>자동 화이트 밸런스</
 s/g>Auto-scroll</g>자동 스크롤</
+s/g>Automatic</g>자동</
 s/g>Back One</g>뒤로 보내기</
 s/g>Background</g>배경</
 s/g>Balance</g>밸런스</
@@ -93,6 +94,7 @@ s/g>Brushes</g>붓</
 s/g>Button</g>버튼</
 s/g>Cancel</g>취소</
 s/g>Capitalisation</g>대문자화</
+s/g>Centimetres</g>센티미터</
 s/g>Centre</g>가운데</
 s/g>Channel Mixer</g>채널 혼합</
 s/g>Character Style</g>문자 스타일</
@@ -142,6 +144,7 @@ s/g>Customise Toolbar…</g>툴바 사용자화…</
 s/g>Customise Tools…</g>도구 사용자화…</
 s/g>Cut</g>오려두기</
 s/g>Cycle View Mode</g>뷰 모드 순환</
+s/g>Daily</g>매일</
 s/g>Dark</g>다크</
 s/g>Decrease</g>줄이기</
 s/g>Default</g>기본값</
@@ -217,6 +220,7 @@ s/g>Exposure</g>노출</
 s/g>Factory Reset</g>기본값 재설정</
 s/g>Failed to open TIFF file</g>Tiff 파일을 열지 못했습니다.</
 s/g>Feather…</g>깃털…</
+s/g>Feet</g>피트</
 s/g>Figure Dash</g>숫자 줄표</
 s/g>File</g>파일</
 s/g>Fill Mode</g>채우기 모드</
@@ -248,6 +252,7 @@ s/g>Gradient</g>그레이디언트</
 s/g>Gradients</g>그레이디언트</
 s/g>Greys</g>회색</
 s/g>Grid and Axis Manager…</g>격자선 관리자…</
+s/g>Grid type:</g>격자 종류:</
 s/g>Group</g>그룹</
 s/g>Grow \/ Shrink…</g>팽창 \/ 수축…</
 s/g>Guides Manager…</g>안내선 관리자…</
@@ -266,6 +271,7 @@ s/g>Ignore Misspelt Word</g>철자 오류 무시</
 s/g>Ignore Text Wraps</g>줄바꿈 무시</
 s/g>Import Text Styles…</g>텍스트 스타일 입력…</
 s/g>In Place</g>제자리에</
+s/g>Inches</g>인치</
 s/g>Include Margins</g>여백 포함</
 s/g>Increase</g>늘리기</
 s/g>Inner Glow</g>내부 광채</
@@ -341,6 +347,7 @@ s/g>Merge Selected</g>선택 항목 병합</
 s/g>Merge Visible</g>보이는 항목 병합</
 s/g>Mesh</g>그물</
 s/g>Metal</g>금속</
+s/g>Metres</g>미터</
 s/g>Min:</g>최소:</
 s/g>Minimize</g>최소화</
 s/g>Mirror</g>거울</
@@ -376,6 +383,7 @@ s/g>Node Tool</g>마디 도구</
 s/g>Non-Breaking Hyphen</g>줄 바꿈 없는 하이픈</
 s/g>Non-Breaking Space</g>줄 바꿈 없는 공백</
 s/g>None</g>없음</
+s/g>OK</g>확인</
 s/g>On App Screen</g>응용프로그램 화면</
 s/g>Onyx</g>오닉스</
 s/g>Opacity:</g>불투명도:</
@@ -458,6 +466,7 @@ s/g>Remove Profile</g>프로파일 지우기</
 s/g>Remove</g>지우기</
 s/g>Rename Palette…</g>팔레트 이름 변경…</
 s/g>Reset Adjustments</g>조정 재설정</
+s/g>Reset Fonts</g>서체 재설정</
 s/g>Reset Keyboard Shortcuts</g>키보드 단축키 재설정</
 s/g>Reset Rotation</g>회전 재설정</
 s/g>Reset Selection Box</g>선택 항목 상자 재설정</
@@ -511,7 +520,7 @@ s/g>Services</g>서비스</
 s/g>Set No Character Style</g>문자 스타일 벗기기</
 s/g>Set No Paragraph Style</g>문단 스타일 벗기기</
 s/g>Set as Default for</g>기본값으로 설정하기</
-s/g>Shades</g>음영</
+s/g>Shades</g>검정 혼합</
 s/g>Shadow:</g>그림자:</
 s/g>Shadows \/ Highlights</g>그림자 \/ 빛</
 s/g>Share</g>공유</
@@ -540,6 +549,7 @@ s/g>Size</g>크기</
 s/g>Small Caps</g>작은 대문자</
 s/g>Small</g>작게</
 s/g>Smaller</g>더 작게</
+s/g>Smallest</g>가장 작게</
 s/g>Smooth…</g>부드럽게…</
 s/g>Snapping Manager…</g>스내핑 관리자…</
 s/g>Snapping Options</g>스내핑 설정</
@@ -593,13 +603,14 @@ s/g>Threshold</g>역치</
 s/g>Tight</g>좁게</
 s/g>Tighten More</g>더 좁게</
 s/g>Tighten</g>좁게</
+s/g>Tints</g>하양 혼합</
 s/g>Toggle Full Screen</g>전체 화면 시작</
 s/g>Toggle Full Screen</g>전체화면</
 s/g>Toggle UI</g>UI 가리기</
 s/g>Tonal Range</g>색조 범위</
 s/g>Tone Mapping Persona</g>톤 맵핑 페르소나</
 s/g>Tone Mapping</g>톤 맵핑</
-s/g>Tones</g>색조</
+s/g>Tones</g>회색 혼합</
 s/g>Tools</g>도구</
 s/g>Top Margin:</g>위쪽 여백:</
 s/g>Top</g>위로</
@@ -646,6 +657,7 @@ s/g>Width:</g>두께:</
 s/g>Window</g>윈도우</
 s/g>Xor toolbar button</g>배타 툴바 버튼</
 s/g>Xor</g>배타</
+s/g>Yards</g>야드</
 s/g>Yellow</g>노랑</
 s/g>Yes</g>네</
 s/g>Yes</g>예</

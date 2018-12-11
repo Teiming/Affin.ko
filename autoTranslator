@@ -15,7 +15,7 @@ then
     if [ $BETA -eq 1 ]
     then
       echo "Beta를 번역합니다."
-      for (( i = 1; i <= 242; i++ ))
+      for (( i = 1; i <= 304; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
@@ -40,7 +40,7 @@ then
       for (( i = 1; i <= 12; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
         /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Designer_Beta/"$NAME"
         echo "번역이 끝났습니다."
       done
@@ -52,7 +52,7 @@ then
       for (( i = 1; i <= 12; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
         /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/"$NAME" > Designer/"$NAME"
         echo "번역이 끝났습니다."
       done
@@ -73,7 +73,7 @@ else
       for (( i = 1; i <= 243; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
         /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoFrameworks_Beta/"$NAME"
         echo "번역이 끝났습니다."
       done
@@ -82,7 +82,7 @@ else
       for (( i = 1; i <= 243; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
         /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoFrameworks/"$NAME"
         echo "번역이 끝났습니다."
       done
