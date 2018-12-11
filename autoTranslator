@@ -12,6 +12,10 @@ if [ $APP -eq 1 ]
 then
   if [ $WHERE -eq 1 ]
   then
+    for (( i = 0; i < 242; i++ ))
+    do
+      /bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p
+    done
     /usr/bin/sed -f DictionaryDesigner "$PATH" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
     /usr/bin/sudo ./SyncDesignerFrameworks
   else
