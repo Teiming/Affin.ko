@@ -13,6 +13,7 @@ then
     for (( i = 1; i <= 242; i++ ))
     do
       NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      echo $NAME"을 번역합니다."
       /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
     done
     /usr/bin/sudo ./SyncDesignerFrameworks
@@ -20,6 +21,7 @@ then
     for (( i = 1; i <= 12; i++ ))
     do
       NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      echo $NAME"을 번역합니다."
       /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/"$NAME" > Designer/"$NAME".temp && /bin/mv Designer/"$NAME".temp Designer/"$NAME"
     done
     /usr/bin/sudo ./SyncDesigner
@@ -30,6 +32,7 @@ else
     for (( i = 1; i <= 243; i++ ))
     do
       NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      echo $NAME"을 번역합니다."
       /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
     done
     /usr/bin/sudo ./SyncPhotoFrameworks
@@ -37,6 +40,7 @@ else
     for (( i = 1; i <= 12; i++ ))
     do
       NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      echo $NAME"을 번역합니다."
       /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/"$NAME" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"
     done
     /usr/bin/sudo ./SyncPhoto
