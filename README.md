@@ -8,6 +8,10 @@ Affinity 시리즈의 한글화를 위하여. (기존 시스템의 비효율성�
   * [Affinity Designer on the Mac App Store](https://itunes.apple.com/app/affinity-designer/id824171161)
   * [Affinity Photo on the Mac App Store](https://itunes.apple.com/app/affinity-photo/id824183456)
   <!-- * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id) -->
+* 베타 프로그램
+  * [Affinity Designer Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Designer%20Beta.dmg)
+  * [Affinity Phto Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Photo%20Beta.dmg)
+  * [Affinity Publisher Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Publisher%20Beta.dmg)
 ## Start
 Terminal.app에서 다음 명령어를 입력합니다. 번역된 자료를 다운로드할 수 있습니다.
 ```sh
