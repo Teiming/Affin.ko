@@ -1,6 +1,6 @@
 cd ~/Affinity-in-Korean/
 echo "Beta를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
-read Beta
+read BETA
 echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."
 read APP
 echo "Frameworks를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
@@ -10,13 +10,24 @@ if [ $APP -eq 1 ]
 then
   if [ $WHERE -eq 1 ]
   then
-    for (( i = 1; i <= 242; i++ ))
-    do
-      NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-      echo $NAME"을 번역합니다."
-      /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
-    done
-    /usr/bin/sudo ./SyncDesignerFrameworks
+    if [ $BETA -eq 1 ]
+    then
+      for (( i = 1; i <= 242; i++ ))
+      do
+        NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+        echo $NAME"을 번역합니다."
+        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks_Beta/"$NAME".temp && /bin/mv DesignerFrameworks_Beta/"$NAME".temp DesignerFrameworks_Beta/"$NAME"
+      done
+      /usr/bin/sudo ./SyncDesignerFrameworks_Beta
+    else
+      for (( i = 1; i <= 242; i++ ))
+      do
+        NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+        echo $NAME"을 번역합니다."
+        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
+      done
+      /usr/bin/sudo ./SyncDesignerFrameworks
+    fi
   else
     for (( i = 1; i <= 12; i++ ))
     do
@@ -31,9 +42,9 @@ else
   then
     for (( i = 1; i <= 243; i++ ))
     do
-      NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
       echo $NAME"을 번역합니다."
-      /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
+      /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoFrameworks/"$NAME".temp && /bin/mv PhotoFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
     done
     /usr/bin/sudo ./SyncPhotoFrameworks
   else
