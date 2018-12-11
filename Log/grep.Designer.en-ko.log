@@ -629,9 +629,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Zoom</string>
 > 		<string>맞추기</string>
 < 		<string>Hide Others</string>
-< 		<string>h</string>
 > 		<string>기타 가리기</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Preferences…</string>
 > 		<string>환경설정…</string>
 < 		<string>Quit</string>
@@ -643,35 +641,23 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>About…</string>
 > 		<string>Affinity Designer에 관하여…</string>
 < 		<string>Save As…</string>
-< 		<string>S</string>
 > 		<string>다른 이름으로 저장…</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Save</string>
-< 		<string>s</string>
 > 		<string>저장</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Close</string>
 > 		<string>닫기</string>
 < 		<string>New</string>
-< 		<string>n</string>
 > 		<string>신규</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Open…</string>
-< 		<string>o</string>
 > 		<string>열기…</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Print…</string>
-< 		<string>p</string>
 > 		<string>인쇄…</string>
-> 		<string>[교체]</string>
 < 		<string>Customise Tools…</string>
 > 		<string>도구 사용자화…</string>
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-< 		<string>t</string>
 > 		<string>툴바 나타내기</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Zoom to Fit</string>
 > 		<string>화면 크기에 맞추기</string>
 < 		<string>Show Margins</string>
@@ -685,9 +671,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Export…</string>
 > 		<string>출력…</string>
 < 		<string>Pixels</string>
-< 		<string>y</string>
 > 		<string>픽셀</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Snapping Manager…</string>
 > 		<string>스내핑 관리자…</string>
 < 		<string>Zoom In</string>
@@ -699,15 +683,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Vector</string>
 > 		<string>벡터</string>
 < 		<string>Show Rulers</string>
-< 		<string>r</string>
 > 		<string>눈금자 나타내기</string>
-> 		<string>[교체]</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Select All</string>
-< 		<string>a</string>
 > 		<string>전체 선택</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Affinity Designer Help</string>
 > 		<string>Affinity Designer 도움말</string>
 < 		<string>Pixel Persona</string>
@@ -717,9 +697,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Delete</string>
 > 		<string>지우기</string>
 < 		<string>Copy</string>
-< 		<string>c</string>
 > 		<string>복사</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Actual Size</string>
 > 		<string>실제 크기</string>
 < 		<string>Toggle UI</string>
@@ -745,9 +723,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>New From Clipboard</string>
-< 		<string>N</string>
 > 		<string>클립보드에서 신규</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Apple Colour Picker...</string>
 > 		<string>Apple 색상 선택기...</string>
 < 		<string>Deselect</string>
@@ -820,9 +796,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Zoom</string>
 > 		<string>맞추기</string>
 < 		<string>Hide Others</string>
-< 		<string>h</string>
 > 		<string>기타 가리기</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Preferences…</string>
 > 		<string>환경설정…</string>
 < 		<string>Quit</string>
@@ -836,9 +810,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Redo</string>
 > 		<string>다시 실행</string>
 < 		<string>Copy</string>
-< 		<string>c</string>
 > 		<string>복사</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Paste</string>
 > 		<string>붙이기</string>
 < 		<string>Cut</string>
@@ -846,15 +818,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Undo</string>
 > 		<string>실행 취소</string>
 < 		<string>Select All</string>
-< 		<string>a</string>
 > 		<string>전체 선택</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Delete</string>
 > 		<string>지우기</string>
 < 		<string>Save As…</string>
-< 		<string>S</string>
 > 		<string>다른 이름으로 저장…</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Edit in Photo…</string>
 > 		<string>Photo에서 편집…</string>
 < 		<string>Close</string>
@@ -862,33 +830,23 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Document Setup…</string>
 > 		<string>문서 설정…</string>
 < 		<string>New</string>
-< 		<string>n</string>
 > 		<string>신규</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Open…</string>
-< 		<string>o</string>
 > 		<string>열기…</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Print…</string>
-< 		<string>p</string>
 > 		<string>인쇄…</string>
-> 		<string>[교체]</string>
 < 		<string>Customise Tools…</string>
 > 		<string>도구 사용자화…</string>
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-< 		<string>t</string>
 > 		<string>툴바 나타내기</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Affinity Designer Help</string>
 > 		<string>Affinity Designer 도움말</string>
 < 		<string>Ungroup</string>
 > 		<string>그룹 해제</string>
 < 		<string>Group</string>
-< 		<string>g</string>
 > 		<string>그룹</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Duplicate</string>
 > 		<string>복제</string>
 < 		<string>Zoom to Fit</string>
@@ -904,9 +862,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Export…</string>
 > 		<string>출력…</string>
 < 		<string>Pixels</string>
-< 		<string>y</string>
 > 		<string>픽셀</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Place…</string>
 > 		<string>다른 문서 넣기…</string>
 < 		<string>Snapping Manager…</string>
@@ -926,9 +882,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Media Browser…</string>
 > 		<string>미디어 브라우저…</string>
 < 		<string>Show Rulers</string>
-< 		<string>r</string>
 > 		<string>눈금자 나타내기</string>
-> 		<string>[교체]</string>
 < 		<string>Outline…</string>
 > 		<string>윤곽…</string>
 < 		<string>Select Highlights</string>
@@ -980,15 +934,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Support...</string>
 > 		<string>지원...</string>
 < 		<string>New Pixel Layer</string>
-< 		<string>N</string>
 > 		<string>새로운 픽셀 레이어</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>Unlock All</string>
-< 		<string>l</string>
 > 		<string>모두 잠금 해제</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Export Persona</string>
 > 		<string>출력 페르소나</string>
 < 		<string>Rotate Left</string>
@@ -1014,9 +964,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Align Right</string>
 > 		<string>오른쪽 정렬</string>
 < 		<string>Curves</string>
-< 		<string>m</string>
 > 		<string>곡선</string>
-> 		<string>[같은 스타일]</string>
 < 		<string>Single View</string>
 > 		<string>단일 뷰 모드</string>
 < 		<string>Inside</string>
@@ -1140,9 +1088,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Soft Proof</string>
 > 		<string>미리보기</string>
 < 		<string>Save</string>
-< 		<string>s</string>
 > 		<string>저장</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Space Horizontally</string>
 > 		<string>가로 공간</string>
 < 		<string>Save History With Document</string>
@@ -1221,9 +1167,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Hide Others</string>
-< 		<string>h</string>
 > 		<string>기타 가리기</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Preferences…</string>
 > 		<string>환경설정…</string>
 < 		<string>Quit</string>
@@ -1237,9 +1181,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Redo</string>
 > 		<string>다시 실행</string>
 < 		<string>Copy</string>
-< 		<string>c</string>
 > 		<string>복사</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Paste</string>
 > 		<string>붙이기</string>
 < 		<string>Cut</string>
@@ -1247,15 +1189,11 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Undo</string>
 > 		<string>실행 취소</string>
 < 		<string>Select All</string>
-< 		<string>a</string>
 > 		<string>전체 선택</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Delete</string>
 > 		<string>지우기</string>
 < 		<string>Save As…</string>
-< 		<string>S</string>
 > 		<string>다른 이름으로 저장…</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Edit in Photo…</string>
 > 		<string>Photo에서 편집…</string>
 < 		<string>Close</string>
@@ -1263,33 +1201,23 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Document Setup…</string>
 > 		<string>문서 설정…</string>
 < 		<string>New</string>
-< 		<string>n</string>
 > 		<string>신규</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Open…</string>
-< 		<string>o</string>
 > 		<string>열기…</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Print…</string>
-< 		<string>p</string>
 > 		<string>인쇄…</string>
-> 		<string>[교체]</string>
 < 		<string>Customise Tools…</string>
 > 		<string>도구 사용자화…</string>
 < 		<string>Customise Toolbar…</string>
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
-< 		<string>t</string>
 > 		<string>툴바 나타내기</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Affinity Designer Help</string>
 > 		<string>Affinity Designer 도움말</string>
 < 		<string>Ungroup</string>
 > 		<string>그룹 해제</string>
 < 		<string>Group</string>
-< 		<string>g</string>
 > 		<string>그룹</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Duplicate</string>
 > 		<string>복제</string>
 < 		<string>Zoom to Fit</string>
@@ -1303,13 +1231,9 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>New View</string>
 > 		<string>새로운 뷰</string>
 < 		<string>Pixels</string>
-< 		<string>y</string>
 > 		<string>픽셀</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Lock</string>
-< 		<string>l</string>
 > 		<string>잠금</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Unlock</string>
 > 		<string>잠금 해제</string>
 < 		<string>Align Left</string>
@@ -1319,17 +1243,13 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Justify Centre</string>
 > 		<string>가운데 균등 정렬</string>
 < 		<string>Align Right</string>
-< 		<string>r</string>
 > 		<string>오른쪽 정렬</string>
-> 		<string>[교체]</string>
 < 		<string>Bold</string>
 > 		<string>강조</string>
 < 		<string>Italic</string>
 > 		<string>기울임</string>
 < 		<string>Underline</string>
-< 		<string>u</string>
 > 		<string>밑줄</string>
-> 		<string>[사용자]</string>
 < 		<string>Use Default</string>
 > 		<string>기준선 재설정</string>
 < 		<string>Superscript</string>
@@ -1383,9 +1303,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Soft Hyphen</string>
 > 		<string>하이픈</string>
 < 		<string>Non-Breaking Space</string>
-< 		<string> </string>
 > 		<string>줄 바꿈 없는 공백</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>None</string>
 > 		<string>없음</string>
 < 		<string>Small Caps</string>
@@ -1439,9 +1357,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Align Top</string>
 > 		<string>위쪽 정렬</string>
 < 		<string>New Pixel Layer</string>
-< 		<string>N</string>
 > 		<string>새로운 픽셀 레이어</string>
-> 		<string>[스타일 없음]</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>캔버스에 클립</string>
 < 		<string>Delete Paragraph Style</string>
@@ -1497,9 +1413,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Tighten More</string>
 > 		<string>더 좁게</string>
 < 		<string>Curves</string>
-< 		<string>m</string>
 > 		<string>곡선</string>
-> 		<string>[같은 스타일]</string>
 < 		<string>Single View</string>
 > 		<string>단일 뷰 모드</string>
 < 		<string>Divide</string>
@@ -1680,8 +1594,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>활기</string>
 < 		<string>Soft Proof</string>
 > 		<string>미리보기</string>
-< 		<string>s</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Behind</string>
 > 		<string>뒤로</string>
 < 		<string>Outline</string>
@@ -1785,8 +1697,6 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Startup.
 > 		<string>윈도우</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
-< 		<string>h</string>
-> 		<string>[변화 없음]</string>
 < 		<string>Hide Others</string>
 > 		<string>기타 가리기</string>
 < 		<string>Show All</string>

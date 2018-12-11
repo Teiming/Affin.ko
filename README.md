@@ -1,7 +1,8 @@
 # Affinity-in-Korean
 Affinity 시리즈 한글화 프로젝트
-- 일본식 한자 표기는 지양하고 있습니다.
-- 마땅히 대체할 단어가 없다면 최대한 원문 그대로 표기하고 있습니다.
+>일본식 한자 표기는 지양하고 있습니다.
+>마땅히 대체할 단어가 없다면 최대한 원문 그대로 표기하고 있습니다.
+
 * 최신 버전 구매
   * [Affinity Designer for desktop - Professional graphic design software](https://affinity.serif.com/designer/desktop)
   * [Affinity Photo for desktop - Professional image editing software](https://affinity.serif.com/photo/desktop)
@@ -52,9 +53,9 @@ sudo ./SyncPhotoFrameworks_Beta
 ### Tips
 다음 명령어를 입력하면 addTranslator, autoTranslator를 손쉽게 이용할 수 있습니다.
 ```sh
-sudo ln ~/Affinity-in-Korean/addTranslator /usr/local/bin/addTranslator
-sudo ln ~/Affinity-in-Korean/autoTranslator /usr/local/bin/autoTranslator
-sudo ln ~/Affinity-in-Korean/autoTranslator_Beta /usr/local/bin/autoTranslator_Beta
+sudo ln -f ~/Affinity-in-Korean/addTranslator /usr/local/bin/addTranslator
+sudo ln -f ~/Affinity-in-Korean/autoTranslator /usr/local/bin/autoTranslator
+sudo ln -f ~/Affinity-in-Korean/autoTranslator_Beta /usr/local/bin/autoTranslator_Beta
 ```
 ## Feedback
 번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.

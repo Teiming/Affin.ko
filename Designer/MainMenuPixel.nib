@@ -1569,7 +1569,7 @@
 			</dict>
 		</dict>
 		<string>기타 가리기</string>
-		<string>[변화 없음]</string>
+		<string>h</string>
 		<string>hideOtherApplications:</string>
 		<dict>
 			<key>$class</key>
@@ -2032,7 +2032,7 @@
 			</dict>
 		</dict>
 		<string>복사</string>
-		<string>[변화 없음]</string>
+		<string>c</string>
 		<string>copy:</string>
 		<dict>
 			<key>$class</key>
@@ -2278,7 +2278,7 @@
 			</dict>
 		</dict>
 		<string>전체 선택</string>
-		<string>[변화 없음]</string>
+		<string>a</string>
 		<string>selectAll:</string>
 		<dict>
 			<key>$class</key>
@@ -2410,7 +2410,7 @@
 			</dict>
 		</dict>
 		<string>다른 이름으로 저장…</string>
-		<string>[스타일 없음]</string>
+		<string>S</string>
 		<string>saveAsDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -2651,7 +2651,7 @@
 			</dict>
 		</dict>
 		<string>신규</string>
-		<string>[변화 없음]</string>
+		<string>n</string>
 		<string>newDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -2712,7 +2712,7 @@
 			</dict>
 		</dict>
 		<string>열기…</string>
-		<string>[스타일 없음]</string>
+		<string>o</string>
 		<string>openDocument:</string>
 		<dict>
 			<key>$class</key>
@@ -2773,7 +2773,7 @@
 			</dict>
 		</dict>
 		<string>인쇄…</string>
-		<string>[교체]</string>
+		<string>p</string>
 		<string>print:</string>
 		<dict>
 			<key>$class</key>
@@ -2987,7 +2987,7 @@
 			</dict>
 		</dict>
 		<string>툴바 나타내기</string>
-		<string>[스타일 없음]</string>
+		<string>t</string>
 		<string>toggleToolbar:</string>
 		<dict>
 			<key>$class</key>
@@ -3209,7 +3209,7 @@
 			</dict>
 		</dict>
 		<string>그룹</string>
-		<string>[변화 없음]</string>
+		<string>g</string>
 		<string>group:</string>
 		<dict>
 			<key>$class</key>
@@ -3781,7 +3781,7 @@
 			</dict>
 		</dict>
 		<string>픽셀</string>
-		<string>[스타일 없음]</string>
+		<string>y</string>
 		<string>showPixelPreview:</string>
 		<dict>
 			<key>$class</key>
@@ -4430,7 +4430,7 @@
 			</dict>
 		</dict>
 		<string>눈금자 나타내기</string>
-		<string>[교체]</string>
+		<string>r</string>
 		<string>toggleRulers:</string>
 		<dict>
 			<key>$class</key>
@@ -6169,7 +6169,7 @@
 			</dict>
 		</dict>
 		<string>새로운 픽셀 레이어</string>
-		<string>[스타일 없음]</string>
+		<string>N</string>
 		<string>addRasterLayer:</string>
 		<dict>
 			<key>$class</key>
@@ -6291,7 +6291,7 @@
 			</dict>
 		</dict>
 		<string>모두 잠금 해제</string>
-		<string>[스타일 없음]</string>
+		<string>l</string>
 		<string>unlockAll:</string>
 		<dict>
 			<key>$class</key>
@@ -7138,7 +7138,7 @@
 			</dict>
 		</dict>
 		<string>곡선</string>
-		<string>[같은 스타일]</string>
+		<string>m</string>
 		<string>addCurvesAdjustmentRasterLayer:</string>
 		<dict>
 			<key>$class</key>
@@ -11069,7 +11069,7 @@
 			</dict>
 		</dict>
 		<string>저장</string>
-		<string>[변화 없음]</string>
+		<string>s</string>
 		<string>saveDocument:</string>
 		<dict>
 			<key>$class</key>
