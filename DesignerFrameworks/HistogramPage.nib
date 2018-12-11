@@ -2053,7 +2053,7 @@
 				<integer>88</integer>
 			</dict>
 		</dict>
-		<string>Std. Dev.: -</string>
+		<string>표준편차: -</string>
 		<string>stddevText</string>
 		<dict>
 			<key>$class</key>
@@ -2615,7 +2615,7 @@
 				<integer>88</integer>
 			</dict>
 		</dict>
-		<string>Max:</string>
+		<string>최대:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2704,7 +2704,7 @@
 				<integer>88</integer>
 			</dict>
 		</dict>
-		<string>Min:</string>
+		<string>최소:</string>
 		<string>{478, 248}</string>
 		<string>NSView</string>
 		<string>view</string>

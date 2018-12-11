@@ -5210,7 +5210,7 @@
 			</dict>
 		</dict>
 		<string>복사</string>
-		<string>[변화 없음]</string>
+		<string>c</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5690,8 +5690,8 @@
 				<integer>296</integer>
 			</dict>
 		</dict>
-		<string>Merge Down</string>
-		<string>[스타일 없음]</string>
+		<string>아래 항목 병합</string>
+		<string>e</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5730,7 +5730,7 @@
 				<integer>299</integer>
 			</dict>
 		</dict>
-		<string>Merge Visible</string>
+		<string>보이는 항목 병합</string>
 		<string>E</string>
 		<dict>
 			<key>$class</key>
@@ -6629,7 +6629,7 @@
 			</dict>
 		</dict>
 		<string>Release Mask</string>
-		<string>[교체]</string>
+		<string>r</string>
 		<string>maskMenu</string>
 		<dict>
 			<key>$class</key>
@@ -7289,7 +7289,7 @@
 				<integer>359</integer>
 			</dict>
 		</dict>
-		<string>Merge Visible</string>
+		<string>보이는 항목 병합</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7365,7 +7365,7 @@
 			</dict>
 		</dict>
 		<string>그룹</string>
-		<string>[변화 없음]</string>
+		<string>g</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8392,7 +8392,7 @@
 				<integer>400</integer>
 			</dict>
 		</dict>
-		<string>Merge Down</string>
+		<string>아래 항목 병합</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8431,7 +8431,7 @@
 				<integer>402</integer>
 			</dict>
 		</dict>
-		<string>Merge Visible</string>
+		<string>보이는 항목 병합</string>
 		<dict>
 			<key>$class</key>
 			<dict>

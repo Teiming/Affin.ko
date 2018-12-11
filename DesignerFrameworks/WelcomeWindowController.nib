@@ -166,7 +166,7 @@
 			</dict>
 		</dict>
 		<string>{{541, 307}, {838, 563}}</string>
-		<string>Welcome</string>
+		<string>환영</string>
 		<string>SchemeWindow</string>
 		<dict>
 			<key>$class</key>
@@ -1818,7 +1818,7 @@
 		</dict>
 		<string>SchemeCheckboxCell</string>
 		<string>NSButtonCell</string>
-		<string>Show this Panel on Startup</string>
+		<string>시작할 때 이 패널 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2441,7 +2441,7 @@
 			MTgA
 			</data>
 		</dict>
-		<string>View Samples</string>
+		<string>샘플 보기</string>
 		<integer>14</integer>
 		<integer>15</integer>
 		<dict>
@@ -2654,7 +2654,7 @@
 			MTgA
 			</data>
 		</dict>
-		<string>View Tutorials</string>
+		<string>튜토리얼 보기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2780,7 +2780,7 @@
 			MTgA
 			</data>
 		</dict>
-		<string>Connect</string>
+		<string>접속</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3476,7 +3476,7 @@
 				<integer>196</integer>
 			</dict>
 		</dict>
-		<string>User Forums</string>
+		<string>사용자 포럼</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5499,7 +5499,7 @@
 			</dict>
 			<key>NSvFlags</key>
 			<integer>-2147483392</integer>
-			<key>환경설정</key>
+			<key>Preferences</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>304</integer>
