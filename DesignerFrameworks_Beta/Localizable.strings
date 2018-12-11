@@ -1819,9 +1819,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Artboard Tool [Tool description]</key>
 	<string>아트보드 도구</string>
 	<key>Artboard [Artboard Tool Context Toolbar Name]</key>
-	<string>Artboard</string>
+	<string>아트보드</string>
 	<key>Artboard [Artboard description]</key>
-	<string>Artboard</string>
+	<string>아트보드</string>
 	<key>Artboard: [Select Tool - Embedded Document - Choose Artboard]</key>
 	<string>Artboard:</string>
 	<key>Artboards [Export Page]</key>
@@ -3685,7 +3685,7 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Comorian [Typography language]</key>
 	<string>Comorian</string>
 	<key>Complementary [Reflected property]</key>
-	<string>Complementary</string>
+	<string>보색</string>
 	<key>Compose text command [Command description]</key>
 	<string>Compose text command</string>
 	<key>Composite %@ [Channels page]</key>
@@ -3961,19 +3961,19 @@ The input RGB value should contain a bump map encoded vector.</string>
 	<key>Copyright: [Camera Page]</key>
 	<string>Copyright:</string>
 	<key>Corner Tool [Main Controls Tooltip]</key>
-	<string>Corner Tool</string>
+	<string>꼭짓점 도구</string>
 	<key>Corner Tool [Tool description]</key>
-	<string>Corner Tool</string>
+	<string>꼭짓점 도구</string>
 	<key>Corner Type [Corner tool reflection]</key>
 	<string>Corner Type</string>
 	<key>Corner Type [Shape tool reflection]</key>
 	<string>Corner Type</string>
 	<key>Corner [Corner Tool context Toolbar Name]</key>
-	<string>Corner</string>
+	<string>꼭짓점</string>
 	<key>Corner type: [Corner Tool context Toolbar]</key>
 	<string>Corner type:</string>
 	<key>Corner: [Corner style context toolbar]</key>
-	<string>Corner:</string>
+	<string>꼭짓점:</string>
 	<key>Cornish [Typography language]</key>
 	<string>Cornish</string>
 	<key>Correct accidental use of caps lock [AutoCorrect]</key>
@@ -4409,9 +4409,9 @@ The input RGB value should contain a bump map encoded vector.</string>
 	<key>Dark UI [Preferences user interface search term]</key>
 	<string>Dark UI</string>
 	<key>Dark [Preferences control title]</key>
-	<string>Dark</string>
+	<string>다크</string>
 	<key>Dark [Preferences control tooltip]</key>
-	<string>Dark</string>
+	<string>다크</string>
 	<key>Darken Border [Raster Crop]</key>
 	<string>Darken Border</string>
 	<key>Darken Border [Raster crop toolbar]</key>
@@ -8385,13 +8385,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Light UI [Preferences user interface search term]</key>
 	<string>Light UI</string>
 	<key>Light [Font weight]</key>
-	<string>Light</string>
+	<string>라이트</string>
 	<key>Light [Preferences control title]</key>
-	<string>Light</string>
+	<string>라이트</string>
 	<key>Light [Preferences control tooltip]</key>
-	<string>Light</string>
+	<string>라이트</string>
 	<key>Light [Reflected property]</key>
-	<string>Light</string>
+	<string>라이트</string>
 	<key>Light field depth [Command description]</key>
 	<string>Light field depth</string>
 	<key>Lighten [Blend Modes]</key>
@@ -11425,13 +11425,13 @@ Same as negz(v).</string>
 	<key>Point radius: [Point radius context toolbar]</key>
 	<string>Point radius:</string>
 	<key>Points [Preferences tools search term]</key>
-	<string>Points</string>
+	<string>포인트</string>
 	<key>Points [Preferences user interface search term]</key>
-	<string>Points</string>
+	<string>포인트</string>
 	<key>Points [Shape tool reflection]</key>
-	<string>Points</string>
+	<string>포인트</string>
 	<key>Points [Unit Types]</key>
-	<string>Points</string>
+	<string>포인트</string>
 	<key>Points: [Points context toolbar]</key>
 	<string>Points:</string>
 	<key>Polar To Rectangular [Command description]</key>

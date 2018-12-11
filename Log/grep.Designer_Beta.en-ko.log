@@ -60,8 +60,6 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Con
 > 		<string>교차</string>
 < 		<string>Divide</string>
 > 		<string>분할</string>
-< 		<string>Combine</string>
-> 		<string>배타</string>
 < 		<string>Transform</string>
 > 		<string>변형</string>
 < 		<string>Rotate Left</string>
@@ -622,17 +620,17 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Loc
 < 	<string>Snapping</string>
 > 	<string>스내핑</string>
 < 	<string>Space Horizontally</string>
-> 	<string>가로 공간</string>
+> 	<string>가로 공백</string>
 < 	<string>Space Horizontally</string>
-> 	<string>가로 공간</string>
+> 	<string>가로 공백</string>
 < 	<string>Space Horizontally</string>
-> 	<string>가로 공간</string>
+> 	<string>가로 공백</string>
 < 	<string>Space Vertically</string>
-> 	<string>세로 공간</string>
+> 	<string>세로 공백</string>
 < 	<string>Space Vertically</string>
-> 	<string>세로 공간</string>
+> 	<string>세로 공백</string>
 < 	<string>Space Vertically</string>
-> 	<string>세로 공간</string>
+> 	<string>세로 공백</string>
 < 	<string>Spacing</string>
 > 	<string>공간</string>
 < 	<string>Split View</string>
@@ -685,6 +683,14 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Loc
 > 	<string>두께:</string>
 < 	<string>Width:</string>
 > 	<string>두께:</string>
+< 	<string>Xor</string>
+> 	<string>배타</string>
+< 	<string>Xor</string>
+> 	<string>배타</string>
+< 	<string>Xor</string>
+> 	<string>배타</string>
+< 	<string>Xor</string>
+> 	<string>배타</string>
 < 	<string>Yes</string>
 > 	<string>네</string>
 < 	<string>Zoom In</string>
@@ -812,6 +818,8 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 > 		<string>픽셀 크기</string>
 < 		<string>New From Clipboard</string>
 > 		<string>클립보드에서 신규</string>
+< 		<string>Apple Colour Picker...</string>
+> 		<string>Apple 색상 선택기...</string>
 < 		<string>Deselect</string>
 > 		<string>선택 해제</string>
 < 		<string>Rotate Right</string>
@@ -981,6 +989,8 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 > 		<string>재색상</string>
 < 		<string>Distribute Vertically</string>
 > 		<string>세로 분배</string>
+< 		<string>Apple Colour Picker...</string>
+> 		<string>Apple 색상 선택기...</string>
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Merge All Windows</string>
@@ -1104,7 +1114,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>Clip to Canvas</string>
 > 		<string>캔버스에 클립</string>
 < 		<string>Space Vertically</string>
-> 		<string>세로 공간</string>
+> 		<string>세로 공백</string>
 < 		<string>Top</string>
 > 		<string>위로</string>
 < 		<string>Flip Horizontal</string>
@@ -1133,8 +1143,6 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 > 		<string>화이트 밸런스</string>
 < 		<string>Rasterise to Mask</string>
 > 		<string>마스크 래스터화</string>
-< 		<string>Combine</string>
-> 		<string>배타</string>
 < 		<string>Show</string>
 > 		<string>보기</string>
 < 		<string>Pixels (Retina)</string>
@@ -1172,7 +1180,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>Save</string>
 > 		<string>저장</string>
 < 		<string>Space Horizontally</string>
-> 		<string>가로 공간</string>
+> 		<string>가로 공백</string>
 < 		<string>Save History With Document</string>
 > 		<string>편집 기록 저장</string>
 < 		<string>Select Next</string>
@@ -1364,6 +1372,8 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 > 		<string>문자 보기</string>
 < 		<string>Show Rulers</string>
 > 		<string>눈금자 보기</string>
+< 		<string>Apple Colour Picker...</string>
+> 		<string>Apple 색상 선택기...</string>
 < 		<string>Line Break</string>
 > 		<string>줄바꿈</string>
 < 		<string>Em Space</string>
@@ -1453,7 +1463,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>Select Previous</string>
 > 		<string>이전 항목 선택</string>
 < 		<string>Space Horizontally</string>
-> 		<string>가로 공간</string>
+> 		<string>가로 공백</string>
 < 		<string>Inside</string>
 > 		<string>안으로</string>
 < 		<string>Justify Left</string>
@@ -1485,7 +1495,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>Welcome...</string>
 > 		<string>환영...</string>
 < 		<string>Space Vertically</string>
-> 		<string>세로 공간</string>
+> 		<string>세로 공백</string>
 < 		<string>Create Character Style</string>
 > 		<string>문자 스타일 생성</string>
 < 		<string>Tighten More</string>
@@ -1614,8 +1624,6 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 > 		<string>화이트 밸런스</string>
 < 		<string>Move to Previous View Point</string>
 > 		<string>이전 뷰 포인트로 이동</string>
-< 		<string>Combine</string>
-> 		<string>배타</string>
 < 		<string>Show Text Styles</string>
 > 		<string>텍스트 스타일 보기</string>
 < 		<string>Convert to Text Frame</string>
@@ -1792,8 +1800,12 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/ass
 > 	<string>취소</string>
 < 	<string>Context</string>
 > 	<string>문단</string>
+< 	<string>Dark</string>
+> 	<string>다크</string>
 < 	<string>Delete</string>
 > 	<string>지우기</string>
+< 	<string>Light</string>
+> 	<string>라이트</string>
 < 	<string>New</string>
 > 	<string>신규</string>
 < 	<string>New Document</string>

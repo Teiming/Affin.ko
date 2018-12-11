@@ -104,12 +104,3 @@ else
     fi
   fi
 fi
-echo "작성이 끝났습니다. 다시 시작은 1, 종료는 0을 입력하세요."
-read RESTART
-if [ $RESTART -eq 1 ]
-then
-  ./autoTranslator
-  exit
-else
-  exit
-fi

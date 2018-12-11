@@ -120,10 +120,6 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Con
 < 		<string>Divide</string>
 ---
 > 		<string>분할</string>
-2497c2497
-< 		<string>Combine</string>
----
-> 		<string>배타</string>
 2655c2655
 < 		<string>Transform</string>
 ---
@@ -1244,27 +1240,27 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Loc
 662c662
 < 	<string>Space Horizontally</string>
 ---
-> 	<string>가로 공간</string>
+> 	<string>가로 공백</string>
 664c664
 < 	<string>Space Horizontally</string>
 ---
-> 	<string>가로 공간</string>
+> 	<string>가로 공백</string>
 666c666
 < 	<string>Space Horizontally</string>
 ---
-> 	<string>가로 공간</string>
+> 	<string>가로 공백</string>
 668c668
 < 	<string>Space Vertically</string>
 ---
-> 	<string>세로 공간</string>
+> 	<string>세로 공백</string>
 670c670
 < 	<string>Space Vertically</string>
 ---
-> 	<string>세로 공간</string>
+> 	<string>세로 공백</string>
 672c672
 < 	<string>Space Vertically</string>
 ---
-> 	<string>세로 공간</string>
+> 	<string>세로 공백</string>
 674c674
 < 	<string>Spacing</string>
 ---
@@ -1369,6 +1365,22 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Loc
 < 	<string>Width:</string>
 ---
 > 	<string>두께:</string>
+906c906
+< 	<string>Xor</string>
+---
+> 	<string>배타</string>
+908c908
+< 	<string>Xor</string>
+---
+> 	<string>배타</string>
+910c910
+< 	<string>Xor</string>
+---
+> 	<string>배타</string>
+912c912
+< 	<string>Xor</string>
+---
+> 	<string>배타</string>
 914c914
 < 	<string>Yes</string>
 ---
@@ -1622,6 +1634,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>New From Clipboard</string>
 ---
 > 		<string>클립보드에서 신규</string>
+4571c4571
+< 		<string>Apple Colour Picker...</string>
+---
+> 		<string>Apple 색상 선택기...</string>
 4631c4631
 < 		<string>Deselect</string>
 ---
@@ -1959,6 +1975,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>Distribute Vertically</string>
 ---
 > 		<string>세로 분배</string>
+4947c4947
+< 		<string>Apple Colour Picker...</string>
+---
+> 		<string>Apple 색상 선택기...</string>
 5022c5022
 < 		<string>Flip Vertical</string>
 ---
@@ -2206,7 +2226,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 9303c9303
 < 		<string>Space Vertically</string>
 ---
-> 		<string>세로 공간</string>
+> 		<string>세로 공백</string>
 9361c9361
 < 		<string>Top</string>
 ---
@@ -2263,10 +2283,6 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>Rasterise to Mask</string>
 ---
 > 		<string>마스크 래스터화</string>
-10271c10271
-< 		<string>Combine</string>
----
-> 		<string>배타</string>
 10329c10329
 < 		<string>Show</string>
 ---
@@ -2342,7 +2358,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 11519c11519
 < 		<string>Space Horizontally</string>
 ---
-> 		<string>가로 공간</string>
+> 		<string>가로 공백</string>
 11697c11697
 < 		<string>Save History With Document</string>
 ---
@@ -2720,6 +2736,10 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>Show Rulers</string>
 ---
 > 		<string>눈금자 보기</string>
+6246c6246
+< 		<string>Apple Colour Picker...</string>
+---
+> 		<string>Apple 색상 선택기...</string>
 6323c6323
 < 		<string>Line Break</string>
 ---
@@ -2899,7 +2919,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 9574c9574
 < 		<string>Space Horizontally</string>
 ---
-> 		<string>가로 공간</string>
+> 		<string>가로 공백</string>
 9690c9690
 < 		<string>Inside</string>
 ---
@@ -2963,7 +2983,7 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 10786c10786
 < 		<string>Space Vertically</string>
 ---
-> 		<string>세로 공간</string>
+> 		<string>세로 공백</string>
 10844c10844
 < 		<string>Create Character Style</string>
 ---
@@ -3220,10 +3240,6 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Mai
 < 		<string>Move to Previous View Point</string>
 ---
 > 		<string>이전 뷰 포인트로 이동</string>
-15494c15494
-< 		<string>Combine</string>
----
-> 		<string>배타</string>
 15552c15552
 < 		<string>Show Text Styles</string>
 ---
@@ -3560,10 +3576,18 @@ diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/ass
 < 	<string>Context</string>
 ---
 > 	<string>문단</string>
+48c48
+< 	<string>Dark</string>
+---
+> 	<string>다크</string>
 52c52
 < 	<string>Delete</string>
 ---
 > 	<string>지우기</string>
+92c92
+< 	<string>Light</string>
+---
+> 	<string>라이트</string>
 124c124
 < 	<string>New</string>
 ---
