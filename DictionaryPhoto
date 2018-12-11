@@ -9,6 +9,7 @@ s/g>Add Global Colour…</g>전역 색상 추가…</
 s/g>Add Snapshot</g>스냅샷 추가</
 s/g>Add to Swatches…</g>견본에 추가…</
 s/g>Add</g>추가</
+s/g>Adjustment</g>조정</
 s/g>Affinity Photo Help</g>Affinity Photo 도움말</
 s/g>After</g>이후</
 s/g>Align Bottom Edges</g>아래쪽 정렬</
@@ -26,11 +27,12 @@ s/g>Align Vertical Centres</g>세로 가운데 정렬</
 s/g>Align</g>정렬하기</
 s/g>Alignment</g>정렬</
 s/g>All Caps</g>모두 대문자</
+s/g>Alpha Range</g>알파 범위</
 s/g>Alphabetical</g>알파벳</
-s/g>Always Show Selection in Layers Panel </g>항상 레이어 목록에서 선택 항목 나타내기</
+s/g>Always Show Selection in Layers Panel </g>레이어 패널에서 선택 항목 항상 보기 </
 s/g>Angle:</g>각도:</
 s/g>Angle</g>각도</
-s/g>Apple Colour Picker...</g>Apple 색상 선택기...</
+s/g>Apple Colour Picker…</g>Apple 색상 선택기…</
 s/g>Apply</g>적용</
 s/g>Area:</g>영역:</
 s/g>Arrange</g>순서</
@@ -99,14 +101,17 @@ s/g>Click</g>클릭</
 s/g>Clip to Canvas</g>캔버스에 클립</
 s/g>Close</g>닫기</
 s/g>Colour Balance</g>색상 밸런스</
+s/g>Colour Format:</g>색상 포맷</
+s/g>Colour Format</g>색상 포맷</
 s/g>Colour Overlay</g>색상 씌우기</
 s/g>Colour Picker Tool</g>색상 선택기 도구</
-s/g>Colour Range</g>색상 영역</
+s/g>Colour Range</g>색상 범위</
 s/g>Colour:</g>색상:</
 s/g>Colour</g>색상</
 s/g>Colours</g>색상</
 s/g>Combine toolbar button</g>배타 툴바 버튼</
 s/g>Combine</g>배타</
+s/g>Connect</g>접속</
 s/g>Constraints</g>제약</
 s/g>Context</g>문단</
 s/g>Convert Artboard to Object</g>아트보드를 오브젝트로 전환</
@@ -148,6 +153,9 @@ s/g>Detach and Delete All Styles</g>모든 스타일 벗기고 삭제</
 s/g>Develop Persona</g>개발 페르소나</
 s/g>Develop</g>개발</
 s/g>Devices</g>기기</
+s/g>Dimensions:</g>치수:</
+s/g>Dimensions</g>치수</
+s/g>Distort</g>왜곡</
 s/g>Distribute Bottom Edges</g>아래쪽 분배</
 s/g>Distribute Horizontal Centres</g>가로 가운데 분배</
 s/g>Distribute Horizontally</g>가로 분배</
@@ -171,7 +179,7 @@ s/g>Draw Persona</g>그림 페르소나</
 s/g>Duplicate</g>복제</
 s/g>Edge</g>모서리</
 s/g>Edit All Layers</g>모든 레이어 편집</
-s/g>Edit in Photo…</g>Photo에서 편집…</
+s/g>Edit in Designer…</g>Designer에서 편집…</
 s/g>Edit</g>편집</
 s/g>Effects</g>효과</
 s/g>Ellipse</g>타원</
@@ -203,8 +211,9 @@ s/g>Figure Dash</g>숫자 줄표</
 s/g>File</g>파일</
 s/g>Fill Mode</g>채우기 모드</
 s/g>Fill:</g>칠:</
+s/g>Filters</g>필터</
 s/g>Find in Layers Page</g>레이어 페이지에서 찾기</
-s/g>Find in Layers Panel</g>레이어 목록에서 찾기</
+s/g>Find in Layers Panel</g>레이어 패널에서 찾기</
 s/g>Find in Slice Page</g>슬라이스 페이지에서 찾기</
 s/g>Flip Horizontal</g>가로 뒤집기</
 s/g>Flip Vertical</g>세로 뒤집기</
@@ -223,6 +232,7 @@ s/g>Glass</g>유리</
 s/g>Glow</g>광채</
 s/g>Gradient Map</g>그레이디언트 맵</
 s/g>Gradient Overlay</g>그레이디언트 씌우기</
+s/g>Gradient</g>그레이디언트</
 s/g>Gradients</g>그레이디언트</
 s/g>Greys</g>회색</
 s/g>Grid and Axis Manager…</g>격자선 관리자…</
@@ -230,15 +240,19 @@ s/g>Group</g>그룹</
 s/g>Grow \/ Shrink…</g>팽창 \/ 수축…</
 s/g>Guides Manager…</g>안내선 관리자…</
 s/g>Help</g>도움말</
+s/g>Hide All Text</g>모든 텍스트 숨기기</
 s/g>Hide Others</g>기타 가리기</
 s/g>Hide Studio</g>작업실 가리기</
 s/g>Hide</g>가리기</
+s/g>Histogram</g>히스토그램</
 s/g>History</g>편집 기록</
 s/g>Hold</g>유지</
 s/g>Home</g>홈</
+s/g>Icon Only</g>아이콘만</
+s/g>Icon and Text</g>아이콘과 텍스트</
 s/g>Ignore Misspelt Word</g>철자 오류 무시</
 s/g>Ignore Text Wraps</g>줄바꿈 무시</
-s/g>Import Text Styles…</g>문자 스타일 불러오기…</
+s/g>Import Text Styles…</g>텍스트 스타일 입력…</
 s/g>In Place</g>제자리에</
 s/g>Include Margins</g>여백 포함</
 s/g>Increase</g>늘리기</
@@ -269,7 +283,10 @@ s/g>Justify Right</g>오른쪽 균등 정렬</
 s/g>Justify</g>맞춤</
 s/g>Keyboard Shortcuts</g>키보드 단축키</
 s/g>Language</g>언어</
+s/g>Large Icons</g>큰 아이콘</
 s/g>Large</g>크게</
+s/g>Largest</g>가장 크게</
+s/g>Last Selected</g>마지막 선택 항목</
 s/g>Layer Colour:</g>레이어 색상:</
 s/g>Layer Effects</g>레이어 효과</
 s/g>Layer Effects…</g>레이어 효과…</
@@ -292,16 +309,23 @@ s/g>Lock</g>잠금</
 s/g>Loosen More</g>더 넓게</
 s/g>Loosen</g>넓게</
 s/g>Lower Baseline</g>기준선 내리기</
+s/g>Margins…</g>여백…</
 s/g>Mask All</g>모두 마스크</
 s/g>Mask</g>마스크</
+s/g>Max:</g>최대:</
 s/g>Maximum height</g>최대 높이</
 s/g>Maximum width</g>최대 두께</
 s/g>Maximum</g>최대</
+s/g>Mean: %1</g>평균: %1</
+s/g>Mean:</g>평균:</
+s/g>Mean</g>평균</
 s/g>Media Browser…</g>미디어 브라우저…</
+s/g>MediaBox</g>미디어 상자</
 s/g>Medium</g>중간</
 s/g>Merge All Windows</g>모든 윈도우 합치기</
 s/g>Mesh</g>그물</
 s/g>Metal</g>금속</
+s/g>Min:</g>최소:</
 s/g>Minimize</g>최소화</
 s/g>Mirror</g>거울</
 s/g>Miscellaneous</g>기타</
@@ -396,11 +420,12 @@ s/g>Print…</g>인쇄…</
 s/g>Promote Group to Layer</g>그룹을 레이어로 승격</
 s/g>Quick Mask</g>빠른 마스크</
 s/g>Quit</g>Affinity Photo 종료</
+s/g>Radius</g>반지름</
 s/g>Rainbow</g>무지개</
 s/g>Raise Baseline</g>기준선 올리기</
 s/g>Rasterise to Mask</g>마스크 래스터화</
 s/g>Rasterise…</g>래스터화…</
-s/g>Reapply Text Styles</g>텍스트 스타일 재적용</
+s/g>Reapply Text Styles</g>텍스트 스타일 다시 적용</
 s/g>Recent:</g>최근 사용 항목:</
 s/g>Recent</g>최근 사용 항목</
 s/g>Recolour</g>재색상</
@@ -413,7 +438,7 @@ s/g>Reflect</g>반사</
 s/g>Release Compound</g>결합 해제</
 s/g>Remove Profile</g>프로파일 지우기</
 s/g>Remove</g>지우기</
-s/g>Rename Palette...</g>팔레트 이름 변경...</
+s/g>Rename Palette…</g>팔레트 이름 변경…</
 s/g>Reset Adjustments</g>조정 재설정</
 s/g>Reset Keyboard Shortcuts</g>키보드 단축키 재설정</
 s/g>Reset Rotation</g>회전 재설정</
@@ -428,6 +453,8 @@ s/g>Revert Defaults</g>기본값 되돌리기</
 s/g>Revert defaults</g>기본값 되돌리기</
 s/g>Revert</g>되돌리기</
 s/g>Right</g>오른쪽</
+s/g>Rotate 90° Anticlockwise</g>반시계방향으로 90° 회전</
+s/g>Rotate 90° Clockwise</g>시계방향으로 90° 회전</
 s/g>Rotate Anticlockwise</g>반시계방향으로 회전</
 s/g>Rotate Clockwise</g>시계방향으로 회전</
 s/g>Rotate Left</g>왼쪽으로 회전</
@@ -436,7 +463,7 @@ s/g>Rounded Rectangle Tool</g>둥근 직사각형 도구</
 s/g>Salmon</g>연어</
 s/g>Save As…</g>다른 이름으로 저장…</
 s/g>Save History With Document</g>편집 기록 저장</
-s/g>Save Text Styles as Default</g>문자 스타일을 기본값으로 저장</
+s/g>Save Text Styles as Default</g>텍스트 스타일을 기본값으로 저장</
 s/g>Save as AFPhoto</g>AFPhoto(으)로 저장</
 s/g>Save as JPEG</g>JPEG(으)로 저장</
 s/g>Save as OpenEXR</g>OpenEXR(으)로 저장</
@@ -469,28 +496,30 @@ s/g>Shadow:</g>그림자:</
 s/g>Shadows \/ Highlights</g>그림자 \/ 빛</
 s/g>Share</g>공유</
 s/g>Shear</g>기울임</
+s/g>Show All Text</g>모든 텍스트 보기</
 s/g>Show All</g>모두 보기</
-s/g>Show All</g>모두 나타내기</
-s/g>Show Character</g>서체 작업실</
-s/g>Show Context Toolbar</g>상황별 툴바 나타내기</
-s/g>Show Glyph Browser</g>문자 탐색 작업실</
-s/g>Show Grid</g>격자선 나타내기</
-s/g>Show Guides</g>안내선 나타내기</
-s/g>Show Left Studio</g>왼쪽 작업실 나타내기</
-s/g>Show Margins</g>여백선 나타내기</
-s/g>Show Paragraph</g>문단 작업실</
-s/g>Show Right Studio</g>오른쪽 작업실 나타내기</
-s/g>Show Rulers</g>눈금자 나타내기</
-s/g>Show Text Styles</g>텍스트 스타일 작업실</
-s/g>Show Toolbar</g>툴바 나타내기</
-s/g>Show Tools</g>도구 나타내기</
-s/g>Show Typography</g>타이포그래피 작업실</
+s/g>Show Character</g>문자 보기</
+s/g>Show Context Toolbar</g>상황별 툴바 보기</
+s/g>Show Glyph Browser</g>문자 브라우저 보기</
+s/g>Show Grid</g>격자선 보기</
+s/g>Show Guides</g>안내선 보기</
+s/g>Show Left Studio</g>왼쪽 작업실 보기</
+s/g>Show Margins</g>여백선 보기</
+s/g>Show Paragraph</g>문단 보기</
+s/g>Show Pixel Selection</g>픽셀 선택 항목 보기</
+s/g>Show Right Studio</g>오른쪽 작업실 보기</
+s/g>Show Rulers</g>눈금자 보기</
+s/g>Show Text Styles</g>텍스트 스타일 보기</
+s/g>Show Toolbar</g>툴바 보기</
+s/g>Show Tools</g>도구 보기</
+s/g>Show Typography</g>타이포그래피 보기</
+s/g>Show this Panel on Startup</g>시작할 때 이 패널 보기</
 s/g>Show</g>보기</
 s/g>Single View</g>단일 뷰 모드</
 s/g>Size</g>크기</
 s/g>Small Caps</g>작은 대문자</
 s/g>Small</g>작게</
-s/g>Smaller</g>줄이기</
+s/g>Smaller</g>더 작게</
 s/g>Smooth…</g>부드럽게…</
 s/g>Snapping Manager…</g>스내핑 관리자…</
 s/g>Snapping Options</g>스내핑 설정</
@@ -511,6 +540,7 @@ s/g>Spelling</g>철자</
 s/g>Split View</g>분할 뷰 모드</
 s/g>Split View</g>분할 뷰</
 s/g>Split</g>분할</
+s/g>Std. Dev.: -</g>표준편차: -</
 s/g>Strikeout</g>취소선</
 s/g>Stroke:</g>획:</
 s/g>Stroke</g>획</
@@ -522,7 +552,7 @@ s/g>Subtract toolbar button</g>제거 툴바 버튼</
 s/g>Subtract</g>제거</
 s/g>Sunset</g>석양</
 s/g>Superscript</g>윗첨자</
-s/g>Support...</g>지원...</
+s/g>Support…</g>지원…</
 s/g>Swatches</g>견본</
 s/g>Switch to Next View</g>다음 뷰로 전환</
 s/g>Symbols Studio</g>상징 작업실</
@@ -536,7 +566,7 @@ s/g>System</g>시스템</
 s/g>Tables</g>표</
 s/g>Text Styles</g>텍스트 스타일</
 s/g>Text Wrap</g>줄바꿈</
-s/g>Text</g>문자</
+s/g>Text</g>텍스트</
 s/g>Threshold</g>역치</
 s/g>Tight</g>좁게</
 s/g>Tighten More</g>더 좁게</
@@ -544,16 +574,18 @@ s/g>Tighten</g>좁게</
 s/g>Toggle Full Screen</g>전체 화면 시작</
 s/g>Toggle Full Screen</g>전체화면</
 s/g>Toggle UI</g>UI 가리기</
-s/g>Tonal Range</g>색조 영역</
+s/g>Tonal Range</g>색조 범위</
 s/g>Tone Mapping Persona</g>톤 맵핑 페르소나</
 s/g>Tone Mapping</g>톤 맵핑</
 s/g>Tones</g>색조</
 s/g>Tools</g>도구</
+s/g>Top Margin:</g>위쪽 여백:</
 s/g>Top</g>위로</
 s/g>Transform</g>변형</
 s/g>Transparent background</g>투명한 배경</
 s/g>Triangle Tool</g>삼각형 도구</
-s/g>Tutorial...</g>튜토리얼...</
+s/g>Tutorial…</g>튜토리얼…</
+s/g>Type:</g>종류:</
 s/g>Typography</g>타이포그래피</
 s/g>Underline</g>밑줄</
 s/g>Undo %@</g>%@ 실행 취소</
@@ -571,16 +603,21 @@ s/g>Update Paragraph Style</g>문단 스타일 업데이트</
 s/g>Use All</g>모두 합자</
 s/g>Use Default</g>기준선 재설정</
 s/g>Use None</g>합자 없음</
+s/g>User Forums</g>사용자 포럼</
 s/g>Vector</g>벡터</
 s/g>Vertical Alignment</g>세로 정렬</
 s/g>Vertical Scale</g>세로 배율</
 s/g>Vibrance</g>활기</
 s/g>View Mode</g>뷰 모드</
+s/g>View Samples</g>표본 보기</
 s/g>View Tool</g>뷰 도구</
+s/g>View Tutorials</g>튜토리얼 보기</
 s/g>View</g>뷰</
 s/g>Views</g>뷰</
 s/g>Web</g>웹</
-s/g>Welcome...</g>환영...</
+s/g>Welcome to Affinity Photo./g>Affinity Photo에 어서오세요./
+s/g>Welcome</g>환영</
+s/g>Welcome…</g>환영…</
 s/g>White Balance</g>화이트 밸런스</
 s/g>White to black</g>하양에서 검정</
 s/g>White to transparent</g>하양에서 투명</
@@ -610,3 +647,4 @@ s/g>kB</g>KB</
 s/g>n\/a</g>없음</
 s/g>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</g>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</
 s/g>|DRAG| to move selection.</g>|DRAG|해서 선택 항목을 움직입니다.</
+s/g>… or drag the default set into the toolbar.</g>… 또는 기본값 설정을 툴바로 드래그합니다.</
