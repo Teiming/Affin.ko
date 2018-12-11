@@ -1,38 +1,44 @@
 cd ~/Affinity-in-Korean/
+echo "Beta를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
+read Beta
 echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."
 read APP
 echo "Frameworks를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
 read WHERE
-# echo "번역할 파일을 입력합니다."
-# read PATH
-# NAME=$(echo $PATH | /usr/bin/sed -e "s/^.*\///")
-# echo $NAME"을(를) 번역합니다."
 
 if [ $APP -eq 1 ]
 then
   if [ $WHERE -eq 1 ]
   then
-    for (( i = 1; i < 243; i++ ))
+    for (( i = 1; i <= 242; i++ ))
     do
       NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
       /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp DesignerFrameworks/"$NAME"
     done
     /usr/bin/sudo ./SyncDesignerFrameworks
   else
-    /usr/bin/sed -f DictionaryDesigner "$PATH" > Designer/"$NAME".temp && /bin/mv Designer/"$NAME".temp Designer/"$NAME"
+    for (( i = 1; i <= 12; i++ ))
+    do
+      NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/"$NAME" > Designer/"$NAME".temp && /bin/mv Designer/"$NAME".temp Designer/"$NAME"
+    done
     /usr/bin/sudo ./SyncDesigner
   fi
 else
   if [ $WHERE -eq 1 ]
   then
-    for (( i = 1; i < 243; i++ ))
+    for (( i = 1; i <= 243; i++ ))
     do
       NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
       /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME".temp && /bin/mv DesignerFrameworks/"$NAME".temp PhotoFrameworks/"$NAME"
     done
     /usr/bin/sudo ./SyncPhotoFrameworks
   else
-    /usr/bin/sed -f DictionaryPhoto "$PATH" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"
+    for (( i = 1; i <= 12; i++ ))
+    do
+      NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+      /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/"$NAME" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"
+    done
     /usr/bin/sudo ./SyncPhoto
   fi
 fi
@@ -40,7 +46,7 @@ echo "작성이 끝났습니다. 다시 시작은 1, 종료는 0을 입력하세
 read RESTART
 if [ $RESTART -eq 1 ]
 then
-  ./AutoTranslator
+  ./autoTranslator
   exit
 else
   exit
