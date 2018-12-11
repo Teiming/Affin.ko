@@ -1,4 +1,4 @@
-cd ~/Affinity-in-Korean/
+sudo cd ~/Affinity-in-Korean/
 echo "Beta를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
 read BETA
 echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."

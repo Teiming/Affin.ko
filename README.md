@@ -53,8 +53,8 @@ sudo ./SyncPhotoFrameworks_Beta
 ### Tips
 다음 명령어를 입력하면 addTranslator, autoTranslator를 손쉽게 이용할 수 있습니다.
 ```sh
-sudo ln -s ~/Affinity-in-Korean/addTranslator /usr/local/bin/addTranslator
-sudo ln -s ~/Affinity-in-Korean/autoTranslator /usr/local/bin/autoTranslator
+sudo ln -sf ~/Affinity-in-Korean/addTranslator /usr/local/bin/addTranslator
+sudo ln -sf ~/Affinity-in-Korean/autoTranslator /usr/local/bin/autoTranslator
 ```
 ## Feedback
 번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.
