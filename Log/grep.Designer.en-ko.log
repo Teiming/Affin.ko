@@ -702,6 +702,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>실제 크기</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
+< 		<string>Welcome...</string>
+> 		<string>환영...</string>
 < 		<string>Rotate Left</string>
 > 		<string>왼쪽으로 회전</string>
 < 		<string>Select Next</string>
@@ -734,12 +736,16 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>이전 항목 선택</string>
 < 		<string>Draw Persona</string>
 > 		<string>그림 페르소나</string>
+< 		<string>Support...</string>
+> 		<string>지원...</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>캔버스에 클립</string>
 < 		<string>Cut</string>
 > 		<string>오려두기</string>
 < 		<string>Paste</string>
 > 		<string>붙이기</string>
+< 		<string>Tutorial...</string>
+> 		<string>튜토리얼...</string>
 < 		<string>Outline</string>
 > 		<string>윤곽</string>
 < 		<string>Dock Tools</string>
@@ -921,6 +927,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>부드럽게…</string>
 < 		<string>Feather…</string>
 > 		<string>깃털…</string>
+< 		<string>Support...</string>
+> 		<string>지원...</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>새로운 픽셀 레이어</string>
 < 		<string>Pixel Size</string>
@@ -943,8 +951,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Brightness / Contrast</string>
 > 		<string>명암 / 대비</string>
+< 		<string>Welcome...</string>
+> 		<string>환영...</string>
 < 		<string>Select Greens</string>
 > 		<string>초록 선택</string>
+< 		<string>Tutorial...</string>
+> 		<string>튜토리얼...</string>
 < 		<string>Align Right</string>
 > 		<string>오른쪽 정렬</string>
 < 		<string>Curves</string>
@@ -1319,7 +1331,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Show Glyph Browser</string>
-> 		<string>문자 브라우저 보기</string>
+> 		<string>글리프 브라우저 보기</string>
 < 		<string>Synchronise from Selection</string>
 > 		<string>선택 항목에서 기본값 동기화</string>
 < 		<string>Show Context Toolbar</string>
@@ -1386,6 +1398,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>보기</string>
 < 		<string>Brightness / Contrast</string>
 > 		<string>명암 / 대비</string>
+< 		<string>Welcome...</string>
+> 		<string>환영...</string>
 < 		<string>Space Vertically</string>
 > 		<string>세로 공간</string>
 < 		<string>Create Character Style</string>
@@ -1432,6 +1446,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>늘리기</string>
 < 		<string>Export Persona</string>
 > 		<string>출력 페르소나</string>
+< 		<string>Support...</string>
+> 		<string>지원...</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
 < 		<string>Justify</string>
@@ -1464,6 +1480,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>제자리에</string>
 < 		<string>Precise Raise Baseline</string>
 > 		<string>기준선 정밀하게 올리기</string>
+< 		<string>Tutorial...</string>
+> 		<string>튜토리얼...</string>
 < 		<string>Convert Object to Artboard</string>
 > 		<string>오브젝트를 아트보드로 전환</string>
 < 		<string>Spelling Options…</string>

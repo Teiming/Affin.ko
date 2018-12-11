@@ -1402,6 +1402,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Toggle UI</string>
 ---
 > 		<string>UI 가리기</string>
+3888c3888
+< 		<string>Welcome...</string>
+---
+> 		<string>환영...</string>
 3946c3946
 < 		<string>Rotate Left</string>
 ---
@@ -1466,6 +1470,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Draw Persona</string>
 ---
 > 		<string>그림 페르소나</string>
+5113c5113
+< 		<string>Support...</string>
+---
+> 		<string>지원...</string>
 5171c5171
 < 		<string>Clip to Canvas</string>
 ---
@@ -1478,6 +1486,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Paste</string>
 ---
 > 		<string>붙이기</string>
+5342c5342
+< 		<string>Tutorial...</string>
+---
+> 		<string>튜토리얼...</string>
 5425c5425
 < 		<string>Outline</string>
 ---
@@ -1839,6 +1851,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Feather…</string>
 ---
 > 		<string>깃털…</string>
+6111c6111
+< 		<string>Support...</string>
+---
+> 		<string>지원...</string>
 6171c6171
 < 		<string>New Pixel Layer</string>
 ---
@@ -1883,10 +1899,18 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Brightness / Contrast</string>
 ---
 > 		<string>명암 / 대비</string>
+6904c6904
+< 		<string>Welcome...</string>
+---
+> 		<string>환영...</string>
 6962c6962
 < 		<string>Select Greens</string>
 ---
 > 		<string>초록 선택</string>
+7020c7020
+< 		<string>Tutorial...</string>
+---
+> 		<string>튜토리얼...</string>
 7080c7080
 < 		<string>Align Right</string>
 ---
@@ -2631,7 +2655,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 8108c8108
 < 		<string>Show Glyph Browser</string>
 ---
-> 		<string>문자 브라우저 보기</string>
+> 		<string>글리프 브라우저 보기</string>
 8183c8183
 < 		<string>Synchronise from Selection</string>
 ---
@@ -2764,6 +2788,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Brightness / Contrast</string>
 ---
 > 		<string>명암 / 대비</string>
+10489c10489
+< 		<string>Welcome...</string>
+---
+> 		<string>환영...</string>
 10547c10547
 < 		<string>Space Vertically</string>
 ---
@@ -2856,6 +2884,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Export Persona</string>
 ---
 > 		<string>출력 페르소나</string>
+12251c12251
+< 		<string>Support...</string>
+---
+> 		<string>지원...</string>
 12309c12309
 < 		<string>Toggle UI</string>
 ---
@@ -2920,6 +2952,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Precise Raise Baseline</string>
 ---
 > 		<string>기준선 정밀하게 올리기</string>
+13380c13380
+< 		<string>Tutorial...</string>
+---
+> 		<string>튜토리얼...</string>
 13438c13438
 < 		<string>Convert Object to Artboard</string>
 ---
