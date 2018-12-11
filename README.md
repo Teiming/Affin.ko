@@ -1,5 +1,5 @@
 # Affinity-in-Korean
-Affinity 시리즈의 한글화를 위하여. (기존 시스템의 비효율성을 개선하고자 새롭게 시작한 프로젝트입니다.)
+Affinity 시리즈 한글화 프로젝트
 * 최신 버전 구매
   * [Affinity Designer for desktop - Professional graphic design software](https://affinity.serif.com/designer/desktop)
   * [Affinity Photo for desktop - Professional image editing software](https://affinity.serif.com/photo/desktop)
@@ -10,7 +10,7 @@ Affinity 시리즈의 한글화를 위하여. (기존 시스템의 비효율성�
   <!-- * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id) -->
 * 베타 프로그램
   * [Affinity Designer Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Designer%20Beta.dmg)
-  * [Affinity Photo Customer Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Photo%20Customer%20Beta.dmg)
+  * [Affinity Photo Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Photo%20Customer%20Beta.dmg)
 ## Start
 Terminal.app에서 다음 명령어를 입력합니다. 번역된 자료를 다운로드할 수 있습니다.
 ```sh
@@ -25,7 +25,7 @@ git pull
 sudo ./SyncDesigner
 sudo ./SyncDesignerFrameworks
 ```
-Beta 프로그램은 다음 명령어를 입력합니다.
+베타 프로그램은 다음 명령어를 입력합니다.
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
@@ -40,7 +40,7 @@ git pull
 sudo ./SyncPhoto
 sudo ./SyncPhotoFrameworks
 ```
-Beta 프로그램은 다음 명령어를 입력합니다.
+베타 프로그램은 다음 명령어를 입력합니다.
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
