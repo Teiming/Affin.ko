@@ -1,0 +1,1 @@
+/Applications/Affinity Photo Beta.app/Contents/

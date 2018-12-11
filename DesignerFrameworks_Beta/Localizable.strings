@@ -1995,15 +1995,15 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Automatic (based on selection) [Preferences Page]</key>
 	<string>Automatic (based on selection)</string>
 	<key>Automatic [Brush Controller Option - Automatic]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Export Page]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Fit Type]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Grid and snapping node button label]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Grid and snapping node button tooltip]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic list [Command description]</key>
 	<string>Automatic list</string>
 	<key>Automatically Refine [Reflected property]</key>
@@ -3025,9 +3025,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Center weighted average [XMP state]</key>
 	<string>Center weighted average</string>
 	<key>Centimetres [Preferences user interface search term]</key>
-	<string>Centimetres</string>
+	<string>센티미터</string>
 	<key>Centimetres [Unit Types]</key>
-	<string>Centimetres</string>
+	<string>센티미터</string>
 	<key>Central Yupik [Typography language]</key>
 	<string>Central Yupik</string>
 	<key>Centre  [TabStop description]</key>
@@ -6045,9 +6045,9 @@ Attribute names must be unique</string>
 	<key>Feature Protection [Reflected property]</key>
 	<string>Feature Protection</string>
 	<key>Feet [Preferences user interface search term]</key>
-	<string>Feet</string>
+	<string>피트</string>
 	<key>Feet [Unit Types]</key>
-	<string>Feet</string>
+	<string>피트</string>
 	<key>Field Blur Tool [Tool description]</key>
 	<string>Field Blur Tool</string>
 	<key>Field Blur [Command description]</key>
@@ -7339,9 +7339,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Inari Sami [Typography language]</key>
 	<string>Inari Sami</string>
 	<key>Inches [Preferences user interface search term]</key>
-	<string>Inches</string>
+	<string>인치</string>
 	<key>Inches [Unit Types]</key>
-	<string>Inches</string>
+	<string>인치</string>
 	<key>Include all text frames [TOC Page]</key>
 	<string>Include all text frames</string>
 	<key>Include in export [Command description]</key>
@@ -9333,9 +9333,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Metering mode: [Camera Page]</key>
 	<string>Metering mode:</string>
 	<key>Metres [Preferences user interface search term]</key>
-	<string>Metres</string>
+	<string>미터</string>
 	<key>Metres [Unit Types]</key>
-	<string>Metres</string>
+	<string>미터</string>
 	<key>Mewati [Typography language]</key>
 	<string>Mewati</string>
 	<key>Miao [Typography script]</key>
@@ -10341,21 +10341,21 @@ Same as negz(v).</string>
 	<key>OCIO [OCIO reflection]</key>
 	<string>OCIO</string>
 	<key>OK [Button name]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Choice]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Exportable items]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Font Status]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [OK]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Paste to new document]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Resource Manager]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Telemetry Page]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OSX Application Icon [Export presets]</key>
 	<string>OSX Application Icon</string>
 	<key>OSX Application Icon part - 1024px (512x512 @2x) [Export presets]</key>
@@ -11473,7 +11473,7 @@ Same as negz(v).</string>
 	<key>Portable Network Graphic [File format]</key>
 	<string>Portable Network Graphic</string>
 	<key>Portrait [Fit Type]</key>
-	<string>세로방향</string>
+	<string>세로 방향</string>
 	<key>Portuguese [Typography language]</key>
 	<string>Portuguese</string>
 	<key>Position [Tab Stop Panel]</key>
@@ -15003,9 +15003,9 @@ v can be scalar or vector.</string>
 	<key>Small caps [OpenType feature command description]</key>
 	<string>Small caps</string>
 	<key>Smallest [Preferences control title]</key>
-	<string>Smallest</string>
+	<string>가장 작게</string>
 	<key>Smallest [Preferences control tooltip]</key>
-	<string>Smallest</string>
+	<string>가장 작게</string>
 	<key>Smart Mode [Pen tool context toolbar control title]</key>
 	<string>Smart Mode</string>
 	<key>Smart Mode [Pen tool context toolbar control tooltip]</key>
@@ -16767,7 +16767,7 @@ Same as swapyz(v).</string>
 	<key>Tones Studio [Studio View]</key>
 	<string>Tones Studio</string>
 	<key>Tones [Page title]</key>
-	<string>색조</string>
+	<string>회색 혼합</string>
 	<key>Tonga [Typography language]</key>
 	<string>Tonga</string>
 	<key>Tongan [Typography language]</key>
@@ -17911,9 +17911,9 @@ View point with that name already exists.</string>
 	<key>Yapese [Typography language]</key>
 	<string>Yapese</string>
 	<key>Yards [Preferences user interface search term]</key>
-	<string>Yards</string>
+	<string>야드</string>
 	<key>Yards [Unit Types]</key>
-	<string>Yards</string>
+	<string>야드</string>
 	<key>Yellow (Blacks) [Reflectable property]</key>
 	<string>Yellow (Blacks)</string>
 	<key>Yellow (Blues) [Reflectable property]</key>

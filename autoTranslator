@@ -18,26 +18,32 @@ then
       for (( i = 1; i <= 304; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
         /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks_Beta/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncDesignerFrameworks_Beta
+      echo "로그를 기록합니다."
+      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.DesignerFrameworks.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.DesignerFrameworks.en-ko.log
     else
       for (( i = 1; i <= 242; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
         /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncDesignerFrameworks
+      echo "로그를 기록합니다."
+      /usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/DesignerFrameworks.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/DesignerFrameworks.en-ko.log
     fi
   else
     if [ $BETA -eq 1 ]
     then
       echo "Beta를 번역합니다."
-      for (( i = 1; i <= 12; i++ ))
+      for (( i = 1; i <= 14; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
@@ -70,7 +76,7 @@ else
     if [ $BETA -eq 1 ]
     then
       echo "Beta를 번역합니다."
-      for (( i = 1; i <= 243; i++ ))
+      for (( i = 1; i <= 304; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
@@ -92,7 +98,7 @@ else
     if [ $BETA -eq 1 ]
     then
       echo "Beta를 번역합니다."
-      for (( i = 1; i <= 12; i++ ))
+      for (( i = 1; i <= 17; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
@@ -101,7 +107,7 @@ else
       done
       /usr/bin/sudo ./SyncPhoto_Beta
     else
-      for (( i = 1; i <= 12; i++ ))
+      for (( i = 1; i <= 14; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         echo $i"." $NAME"을 번역합니다."
