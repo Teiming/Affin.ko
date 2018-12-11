@@ -66,6 +66,10 @@ diff -s /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/Contex
 > 		<string>분할</string>
 < 		<string>Combine</string>
 > 		<string>배타</string>
+< 		<string>Merge curves</string>
+> 		<string>곡선 통합</string>
+< 		<string>Separate curves</string>
+> 		<string>곡선 분리</string>
 < 		<string>Transform</string>
 > 		<string>변형</string>
 < 		<string>Rotate Left</string>
@@ -1399,6 +1403,8 @@ diff -s /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMe
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
 > 		<string>작업실 재설정</string>
+< 		<string>Plugins</string>
+> 		<string>플러그인</string>
 < 		<string>Share</string>
 > 		<string>공유</string>
 < 		<string>Restore Snapshot</string>
@@ -1553,6 +1559,8 @@ diff -s /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMe
 > 		<string>상황별 툴바 보기</string>
 < 		<string>Decrease</string>
 > 		<string>줄이기</string>
+< 		<string>Merge curves</string>
+> 		<string>곡선 통합</string>
 < 		<string>Centre</string>
 > 		<string>가운데</string>
 < 		<string>Insert Text from File…</string>
@@ -1757,6 +1765,8 @@ diff -s /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMe
 > 		<string>위쪽 정렬</string>
 < 		<string>Smaller</string>
 > 		<string>더 작게</string>
+< 		<string>Separate curves</string>
+> 		<string>곡선 분리</string>
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
 < 		<string>Rotate Left</string>
