@@ -1,3466 +1,2306 @@
-Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: AboutDialog.nib
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/ContextMenu.nib
-438c438
-< 		<string>Paste</string>
----
-> 		<string>붙이기</string>
-619c619
-< 		<string>Create Slice</string>
----
-> 		<string>슬라이스 생성</string>
-693c693
-< 		<string>Find in Layers Page</string>
----
-> 		<string>레이어 페이지에서 찾기</string>
-886c886
-< 		<string>Cut</string>
----
-> 		<string>오려두기</string>
-921c921
-< 		<string>Copy</string>
----
-> 		<string>복사</string>
-1028c1028
-< 		<string>Group</string>
----
-> 		<string>그룹</string>
-1063c1063
-< 		<string>Ungroup</string>
----
-> 		<string>그룹 해제</string>
-1098c1098
-< 		<string>Ungroup All</string>
----
-> 		<string>모두 그룹 해제</string>
-1171c1171
-< 		<string>Rotate Left</string>
----
-> 		<string>왼쪽으로 회전</string>
-1206c1206
-< 		<string>Rotate Right</string>
----
-> 		<string>오른쪽으로 회전</string>
-1241c1241
-< 		<string>Reset Rotation</string>
----
-> 		<string>회전 재설정</string>
-1329c1329
-< 		<string>Arrange</string>
----
-> 		<string>순서</string>
-1408c1408
-< 		<string>Move to Front</string>
----
-> 		<string>맨 앞으로 가져오기</string>
-1443c1443
-< 		<string>Move Forward One</string>
----
-> 		<string>앞으로 가져오기</string>
-1478c1478
-< 		<string>Move Back One</string>
----
-> 		<string>뒤로 보내기</string>
-1513c1513
-< 		<string>Move to Back</string>
----
-> 		<string>맨 뒤로 보내기</string>
-1563c1563
-< 		<string>Alignment</string>
----
-> 		<string>정렬</string>
-1653c1653
-< 		<string>Align Left</string>
----
-> 		<string>왼쪽 정렬</string>
-1688c1688
-< 		<string>Align Centre</string>
----
-> 		<string>가로 가운데 정렬</string>
-1723c1723
-< 		<string>Align Right</string>
----
-> 		<string>오른쪽 정렬</string>
-1796c1796
-< 		<string>Align Top</string>
----
-> 		<string>위쪽 정렬</string>
-1831c1831
-< 		<string>Align Middle</string>
----
-> 		<string>세로 가운데 정렬</string>
-1866c1866
-< 		<string>Align Bottom</string>
----
-> 		<string>아래쪽 정렬</string>
-1916c1916
-< 		<string>Geometry</string>
----
-> 		<string>기하</string>
-1998c1998
-< 		<string>Add</string>
----
-> 		<string>추가</string>
-2033c2033
-< 		<string>Subtract</string>
----
-> 		<string>제거</string>
-2068c2068
-< 		<string>Intersect</string>
----
-> 		<string>교차</string>
-2103c2103
-< 		<string>Divide</string>
----
-> 		<string>분할</string>
-2138c2138
-< 		<string>Combine</string>
----
-> 		<string>배타</string>
-2188c2188
-< 		<string>Transform</string>
----
-> 		<string>변형</string>
-2270c2270
-< 		<string>Rotate Left</string>
----
-> 		<string>반시계방향으로 회전</string>
-2305c2305
-< 		<string>Rotate Right</string>
----
-> 		<string>시계방향으로 회전</string>
-2378c2378
-< 		<string>Flip Horizontal</string>
----
-> 		<string>가로 뒤집기</string>
-2413c2413
-< 		<string>Flip Vertical</string>
----
-> 		<string>세로 뒤집기</string>
-2486c2486
-< 		<string>Layer Effects…</string>
----
-> 		<string>레이어 효과…</string>
-2559c2559
-< 		<string>Convert to Curves</string>
----
-> 		<string>곡선으로 전환</string>
-2594c2594
-< 		<string>Rasterise…</string>
----
-> 		<string>래스터화…</string>
-2667c2667
-< 		<string>Create Style</string>
----
-> 		<string>스타일 생성</string>
-2755c2755
-< 		<string>Add to Swatches…</string>
----
-> 		<string>견본에 추가…</string>
-2773c2773
-< 		<string>Add to Swatches…</string>
----
-> 		<string>견본에 추가…</string>
-2846c2846
-< 		<string>From Fill</string>
----
-> 		<string>칠</string>
-2881c2881
-< 		<string>From Line</string>
----
-> 		<string>획</string>
-2916c2916
-< 		<string>From Both</string>
----
-> 		<string>모두</string>
-2989c2989
-< 		<string>From Fill As Global</string>
----
-> 		<string>칠 (전역)</string>
-3024c3024
-< 		<string>From Line As Global</string>
----
-> 		<string>획 (전역)</string>
-3059c3059
-< 		<string>From Both As Global</string>
----
-> 		<string>모두 (전역)</string>
-3132c3132
-< 		<string>Find in Layers Panel</string>
----
-> 		<string>레이어 목록에서 찾기</string>
-3221c3221
-< 		<string>Find in Slice Page</string>
----
-> 		<string>슬라이스 페이지에서 찾기</string>
-3358c3358
-< 		<string>Zoom In</string>
----
-> 		<string>확대</string>
-3393c3393
-< 		<string>Zoom Out</string>
----
-> 		<string>축소</string>
-3466c3466
-< 		<string>Zoom to Fit</string>
----
-> 		<string>화면 크기에 맞추기</string>
-3539c3539
-< 		<string>Rotate Left</string>
----
-> 		<string>왼쪽으로 회전</string>
-3574c3574
-< 		<string>Rotate Right</string>
----
-> 		<string>오른쪽으로 회전</string>
-3609c3609
-< 		<string>Reset Rotation</string>
----
-> 		<string>회전 재설정</string>
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/Localizable.strings
-8c8
-< 	<string>Add</string>
----
-> 	<string>추가</string>
-10c10
-< 	<string>Add</string>
----
-> 	<string>추가</string>
-12c12
-< 	<string>Add</string>
----
-> 	<string>추가</string>
-14c14
-< 	<string>After</string>
----
-> 	<string>이후</string>
-16c16
-< 	<string>Align Bottom Edges</string>
----
-> 	<string>아래쪽 정렬</string>
-18c18
-< 	<string>Align Bottom Edges</string>
----
-> 	<string>아래쪽 정렬</string>
-20c20
-< 	<string>Align Bottom Edges</string>
----
-> 	<string>아래쪽 정렬</string>
-22c22
-< 	<string>Align Horizontal Centres</string>
----
-> 	<string>가로 가운데 정렬</string>
-24c24
-< 	<string>Align Horizontal Centres</string>
----
-> 	<string>가로 가운데 정렬</string>
-26c26
-< 	<string>Align Horizontal Centres</string>
----
-> 	<string>가로 가운데 정렬</string>
-28c28
-< 	<string>Align Left Edges</string>
----
-> 	<string>왼쪽 정렬</string>
-30c30
-< 	<string>Align Left Edges</string>
----
-> 	<string>왼쪽 정렬</string>
-32c32
-< 	<string>Align Left Edges</string>
----
-> 	<string>왼쪽 정렬</string>
-34c34
-< 	<string>Align Left Edges</string>
----
-> 	<string>왼쪽 정렬</string>
-36c36
-< 	<string>Align Right Edges</string>
----
-> 	<string>오른쪽 정렬</string>
-38c38
-< 	<string>Align Right Edges</string>
----
-> 	<string>오른쪽 정렬</string>
-40c40
-< 	<string>Align Right Edges</string>
----
-> 	<string>오른쪽 정렬</string>
-42c42
-< 	<string>Align Top Edges</string>
----
-> 	<string>위쪽 정렬</string>
-44c44
-< 	<string>Align Top Edges</string>
----
-> 	<string>위쪽 정렬</string>
-46c46
-< 	<string>Align Top Edges</string>
----
-> 	<string>위쪽 정렬</string>
-48c48
-< 	<string>Align Vertical Centres</string>
----
-> 	<string>세로 가운데 정렬</string>
-50c50
-< 	<string>Align Vertical Centres</string>
----
-> 	<string>세로 가운데 정렬</string>
-52c52
-< 	<string>Align Vertical Centres</string>
----
-> 	<string>세로 가운데 정렬</string>
-54c54
-< 	<string>Align</string>
----
-> 	<string>정렬하기</string>
-56c56
-< 	<string>Align</string>
----
-> 	<string>정렬하기</string>
-58c58
-< 	<string>Alignment</string>
----
-> 	<string>정렬</string>
-60c60
-< 	<string>Alignment</string>
----
-> 	<string>정렬</string>
-62c62
-< 	<string>Apply</string>
----
-> 	<string>적용</string>
-64c64
-< 	<string>Arrange</string>
----
-> 	<string>순서</string>
-66c66
-< 	<string>Arrange</string>
----
-> 	<string>순서</string>
-68c68
-< 	<string>Assistant Options</string>
----
-> 	<string>손쉬운 사용 설정</string>
-70c70
-< 	<string>Assistant Options</string>
----
-> 	<string>손쉬운 사용 설정</string>
-72c72
-< 	<string>Auto Colours</string>
----
-> 	<string>자동 색상</string>
-74c74
-< 	<string>Auto Colours</string>
----
-> 	<string>자동 색상</string>
-76c76
-< 	<string>Auto Contrast</string>
----
-> 	<string>자동 대비</string>
-78c78
-< 	<string>Auto Contrast</string>
----
-> 	<string>자동 대비</string>
-80c80
-< 	<string>Auto Levels</string>
----
-> 	<string>자동 레벨</string>
-82c82
-< 	<string>Auto Levels</string>
----
-> 	<string>자동 레벨</string>
-84c84
-< 	<string>Auto Levels</string>
----
-> 	<string>자동 레벨</string>
-86c86
-< 	<string>Auto White Balance</string>
----
-> 	<string>자동 화이트 밸런스</string>
-88c88
-< 	<string>Auto White Balance</string>
----
-> 	<string>자동 화이트 밸런스</string>
-90c90
-< 	<string>Auto White Balance</string>
----
-> 	<string>자동 화이트 밸런스</string>
-92c92
-< 	<string>Back One</string>
----
-> 	<string>뒤로 보내기</string>
-94c94
-< 	<string>Back One</string>
----
-> 	<string>뒤로 보내기</string>
-96c96
-< 	<string>Back One</string>
----
-> 	<string>뒤로 보내기</string>
-98c98
-< 	<string>Back One</string>
----
-> 	<string>뒤로 보내기</string>
-100c100
-< 	<string>Before / After</string>
----
-> 	<string>이전 / 이후</string>
-102c102
-< 	<string>Before</string>
----
-> 	<string>이전</string>
-104c104
-< 	<string>Brush</string>
----
-> 	<string>붓</string>
-106c106
-< 	<string>Cancel</string>
----
-> 	<string>취소</string>
-126c126
-< 	<string>Click</string>
----
-> 	<string>클릭</string>
-130c130
-< 	<string>Combine</string>
----
-> 	<string>배타</string>
-132c132
-< 	<string>Combine</string>
----
-> 	<string>배타</string>
-134c134
-< 	<string>Combine</string>
----
-> 	<string>배타</string>
-136c136
-< 	<string>Combine toolbar button</string>
----
-> 	<string>배타 툴바 버튼</string>
-142c142
-< 	<string>Cycle View Mode</string>
----
-> 	<string>뷰 모드 순환</string>
-144c144
-< 	<string>Defaults</string>
----
-> 	<string>기본값</string>
-146c146
-< 	<string>Desaturate</string>
----
-> 	<string>채도 낮추기</string>
-148c148
-< 	<string>Deselect</string>
----
-> 	<string>선택 해제</string>
-150c150
-< 	<string>Deselect</string>
----
-> 	<string>선택 해제</string>
-152c152
-< 	<string>Develop Persona</string>
----
-> 	<string>개발 페르소나</string>
-154c154
-< 	<string>Develop Persona</string>
----
-> 	<string>개발 페르소나</string>
-156c156
-< 	<string>Develop Persona</string>
----
-> 	<string>개발 페르소나</string>
-158c158
-< 	<string>Develop</string>
----
-> 	<string>개발</string>
-160c160
-< 	<string>Develop</string>
----
-> 	<string>개발</string>
-164c164
-< 	<string>Distribute Bottom Edges</string>
----
-> 	<string>아래쪽 분배</string>
-166c166
-< 	<string>Distribute Bottom Edges</string>
----
-> 	<string>아래쪽 분배</string>
-168c168
-< 	<string>Distribute Bottom Edges</string>
----
-> 	<string>아래쪽 분배</string>
-170c170
-< 	<string>Distribute Horizontal Centres</string>
----
-> 	<string>가로 가운데 분배</string>
-172c172
-< 	<string>Distribute Horizontal Centres</string>
----
-> 	<string>가로 가운데 분배</string>
-174c174
-< 	<string>Distribute Horizontal Centres</string>
----
-> 	<string>가로 가운데 분배</string>
-176c176
-< 	<string>Distribute Left Edges</string>
----
-> 	<string>왼쪽 분배</string>
-178c178
-< 	<string>Distribute Left Edges</string>
----
-> 	<string>왼쪽 분배</string>
-180c180
-< 	<string>Distribute Left Edges</string>
----
-> 	<string>왼쪽 분배</string>
-182c182
-< 	<string>Distribute Right Edges</string>
----
-> 	<string>오른쪽 분배</string>
-184c184
-< 	<string>Distribute Right Edges</string>
----
-> 	<string>오른쪽 분배</string>
-186c186
-< 	<string>Distribute Right Edges</string>
----
-> 	<string>오른쪽 분배</string>
-188c188
-< 	<string>Distribute Top Edges</string>
----
-> 	<string>위쪽 분배</string>
-190c190
-< 	<string>Distribute Top Edges</string>
----
-> 	<string>위쪽 분배</string>
-192c192
-< 	<string>Distribute Top Edges</string>
----
-> 	<string>위쪽 분배</string>
-194c194
-< 	<string>Distribute Vertical Centres</string>
----
-> 	<string>세로 가운데 분배</string>
-196c196
-< 	<string>Distribute Vertical Centres</string>
----
-> 	<string>세로 가운데 분배</string>
-198c198
-< 	<string>Distribute Vertical Centres</string>
----
-> 	<string>세로 가운데 분배</string>
-200c200
-< 	<string>Distribute</string>
----
-> 	<string>분배</string>
-202c202
-< 	<string>Distribute</string>
----
-> 	<string>분배</string>
-204c204
-< 	<string>Divide</string>
----
-> 	<string>분할</string>
-206c206
-< 	<string>Divide</string>
----
-> 	<string>분할</string>
-208c208
-< 	<string>Divide</string>
----
-> 	<string>분할</string>
-210c210
-< 	<string>Divide toolbar button</string>
----
-> 	<string>분할 툴바 버튼</string>
-212c212
-< 	<string>Drag</string>
----
-> 	<string>드래그</string>
-214c214
-< 	<string>Draw Persona</string>
----
-> 	<string>그림 페르소나</string>
-216c216
-< 	<string>Draw Persona</string>
----
-> 	<string>그림 페르소나</string>
-218c218
-< 	<string>Draw Persona</string>
----
-> 	<string>그림 페르소나</string>
-228c228
-< 	<string>Enhancement</string>
----
-> 	<string>개선</string>
-232c232
-< 	<string>Export Persona</string>
----
-> 	<string>출력 페르소나</string>
-234c234
-< 	<string>Export Persona</string>
----
-> 	<string>출력 페르소나</string>
-236c236
-< 	<string>Export Persona</string>
----
-> 	<string>출력 페르소나</string>
-248c248
-< 	<string>Flip Horizontal</string>
----
-> 	<string>가로 뒤집기</string>
-250c250
-< 	<string>Flip Horizontal</string>
----
-> 	<string>가로 뒤집기</string>
-252c252
-< 	<string>Flip Horizontal</string>
----
-> 	<string>가로 뒤집기</string>
-254c254
-< 	<string>Flip Horizontal</string>
----
-> 	<string>가로 뒤집기</string>
-256c256
-< 	<string>Flip Vertical</string>
----
-> 	<string>세로 뒤집기</string>
-258c258
-< 	<string>Flip Vertical</string>
----
-> 	<string>세로 뒤집기</string>
-260c260
-< 	<string>Flip Vertical</string>
----
-> 	<string>세로 뒤집기</string>
-262c262
-< 	<string>Flip Vertical</string>
----
-> 	<string>세로 뒤집기</string>
-266c266
-< 	<string>Force Pixel Alignment</string>
----
-> 	<string>강제 픽셀 정렬</string>
-268c268
-< 	<string>Forward One</string>
----
-> 	<string>앞으로 가져오기</string>
-270c270
-< 	<string>Forward One</string>
----
-> 	<string>앞으로 가져오기</string>
-272c272
-< 	<string>Forward One</string>
----
-> 	<string>앞으로 가져오기</string>
-274c274
-< 	<string>Forward One</string>
----
-> 	<string>앞으로 가져오기</string>
-276c276
-< 	<string>Geometry</string>
----
-> 	<string>기하</string>
-284c284
-< 	<string>Hold</string>
----
-> 	<string>유지</string>
-292c292
-< 	<string>Insert Behind</string>
----
-> 	<string>뒤로 삽입</string>
-294c294
-< 	<string>Insert Inside</string>
----
-> 	<string>안으로 삽입</string>
-296c296
-< 	<string>Insert Top</string>
----
-> 	<string>위로 삽입</string>
-298c298
-< 	<string>Insert at the top of the layer</string>
----
-> 	<string>위로 삽입</string>
-300c300
-< 	<string>Insert behind the selection</string>
----
-> 	<string>뒤로 삽입</string>
-302c302
-< 	<string>Insert inside the selection</string>
----
-> 	<string>안으로 삽입</string>
-304c304
-< 	<string>Insertion</string>
----
-> 	<string>삽입</string>
-306c306
-< 	<string>Intersect</string>
----
-> 	<string>교차</string>
-308c308
-< 	<string>Intersect</string>
----
-> 	<string>교차</string>
-310c310
-< 	<string>Intersect</string>
----
-> 	<string>교차</string>
-312c312
-< 	<string>Intersect toolbar button</string>
----
-> 	<string>교차 툴바 버튼</string>
-316c316
-< 	<string>Invert Selection</string>
----
-> 	<string>선택 항목 반전</string>
-318c318
-< 	<string>Invert Selection</string>
----
-> 	<string>선택 항목 반전</string>
-320c320
-< 	<string>Layout Persona</string>
----
-> 	<string>구조 페르소나</string>
-322c322
-< 	<string>Layout Persona</string>
----
-> 	<string>구조 페르소나</string>
-324c324
-< 	<string>Layout Persona</string>
----
-> 	<string>구조 페르소나</string>
-326c326
-< 	<string>Layout Persona</string>
----
-> 	<string>구조 페르소나</string>
-328c328
-< 	<string>Layout</string>
----
-> 	<string>구조</string>
-330c330
-< 	<string>Learn Spelling</string>
----
-> 	<string>철자 학습</string>
-332c332
-< 	<string>Library Persona</string>
----
-> 	<string>라이브러리 페르소나</string>
-334c334
-< 	<string>Library</string>
----
-> 	<string>라이브러리</string>
-336c336
-< 	<string>Liquify Persona</string>
----
-> 	<string>액화 페르소나</string>
-338c338
-< 	<string>Liquify Persona</string>
----
-> 	<string>액화 페르소나</string>
-340c340
-< 	<string>Liquify Persona</string>
----
-> 	<string>액화 페르소나</string>
-342c342
-< 	<string>Liquify</string>
----
-> 	<string>액화</string>
-350c350
-< 	<string>Mask All</string>
----
-> 	<string>모두 마스크</string>
-352c352
-< 	<string>Mask</string>
----
-> 	<string>마스크</string>
-354c354
-< 	<string>Mesh</string>
----
-> 	<string>그물</string>
-356c356
-< 	<string>Mirror</string>
----
-> 	<string>거울</string>
-358c358
-< 	<string>Mirror</string>
----
-> 	<string>거울</string>
-362c362
-< 	<string>Move By Whole Pixels</string>
----
-> 	<string>전체 픽셀 이동</string>
-364c364
-< 	<string>Move By Whole Pixels</string>
----
-> 	<string>전체 픽셀 이동</string>
-366c366
-< 	<string>Move To Front</string>
----
-> 	<string>맨 앞으로 가져오기</string>
-368c368
-< 	<string>Move selection back one level</string>
----
-> 	<string>뒤로 보내기</string>
-370c370
-< 	<string>Move selection back one level</string>
----
-> 	<string>뒤로 보내기</string>
-372c372
-< 	<string>Move selection forward one level</string>
----
-> 	<string>앞으로 가져오기</string>
-374c374
-< 	<string>Move selection forward one level</string>
----
-> 	<string>앞으로 가져오기</string>
-376c376
-< 	<string>Move selection to the back</string>
----
-> 	<string>맨 뒤로 보내기</string>
-378c378
-< 	<string>Move selection to the back</string>
----
-> 	<string>맨 뒤로 보내기</string>
-380c380
-< 	<string>Move selection to the front</string>
----
-> 	<string>맨 앞으로 가져오기</string>
-382c382
-< 	<string>Move selection to the front</string>
----
-> 	<string>맨 앞으로 가져오기</string>
-384c384
-< 	<string>Move to Back</string>
----
-> 	<string>맨 뒤로 보내기</string>
-386c386
-< 	<string>Move to Back</string>
----
-> 	<string>맨 뒤로 보내기</string>
-388c388
-< 	<string>Move to Front</string>
----
-> 	<string>맨 앞으로 가져오기</string>
-390c390
-< 	<string>Move to Front</string>
----
-> 	<string>맨 앞으로 가져오기</string>
-392c392
-< 	<string>Move to Front</string>
----
-> 	<string>맨 앞으로 가져오기</string>
-394c394
-< 	<string>Move to Front</string>
----
-> 	<string>맨 앞으로 가져오기</string>
-396c396
-< 	<string>No</string>
----
-> 	<string>아니오</string>
-400c400
-< 	<string>None</string>
----
-> 	<string>없음</string>
-402c402
-< 	<string>None</string>
----
-> 	<string>없음</string>
-406c406
-< 	<string>Opacity:</string>
----
-> 	<string>투명도:</string>
-408c408
-< 	<string>Order</string>
----
-> 	<string>순서</string>
-410c410
-< 	<string>Outline</string>
----
-> 	<string>윤곽</string>
-412c412
-< 	<string>Outline view mode</string>
----
-> 	<string>윤곽 뷰 모드</string>
-414c414
-< 	<string>Panorama Persona</string>
----
-> 	<string>파노라마 페르소나</string>
-416c416
-< 	<string>Panorama</string>
----
-> 	<string>파노라마</string>
-418c418
-< 	<string>Personas</string>
----
-> 	<string>페르소나</string>
-420c420
-< 	<string>Photo Persona</string>
----
-> 	<string>사진 페르소나</string>
-422c422
-< 	<string>Photo Persona</string>
----
-> 	<string>사진 페르소나</string>
-424c424
-< 	<string>Photo Persona</string>
----
-> 	<string>사진 페르소나</string>
-426c426
-< 	<string>Photo</string>
----
-> 	<string>사진</string>
-428c428
-< 	<string>Pixel Align</string>
----
-> 	<string>픽셀 정렬</string>
-430c430
-< 	<string>Pixel Persona</string>
----
-> 	<string>그림 페르소나</string>
-432c432
-< 	<string>Pixel Persona</string>
----
-> 	<string>그림 페르소나</string>
-434c434
-< 	<string>Pixel Persona</string>
----
-> 	<string>그림 페르소나</string>
-436c436
-< 	<string>Pixel</string>
----
-> 	<string>픽셀</string>
-438c438
-< 	<string>Pixel view mode</string>
----
-> 	<string>픽셀 뷰 모드</string>
-440c440
-< 	<string>Pixels</string>
----
-> 	<string>픽셀</string>
-462c462
-< 	<string>Quick Mask</string>
----
-> 	<string>빠른 마스크</string>
-468c468
-< 	<string>Reset Selection Box</string>
----
-> 	<string>선택 항목 상자 재설정</string>
-470c470
-< 	<string>Retina Pixels</string>
----
-> 	<string>레티나 픽셀</string>
-472c472
-< 	<string>Retina pixel view mode</string>
----
-> 	<string>레티나 픽셀 뷰 모드</string>
-474c474
-< 	<string>Retina pixel view mode</string>
----
-> 	<string>레티나 픽셀 뷰 모드</string>
-476c476
-< 	<string>Revert Defaults</string>
----
-> 	<string>기본값 되돌리기</string>
-478c478
-< 	<string>Revert defaults</string>
----
-> 	<string>기본값 되돌리기</string>
-480c480
-< 	<string>Rotate Anticlockwise</string>
----
-> 	<string>반시계방향으로 회전</string>
-482c482
-< 	<string>Rotate Anticlockwise</string>
----
-> 	<string>반시계방향으로 회전</string>
-484c484
-< 	<string>Rotate Anticlockwise</string>
----
-> 	<string>반시계방향으로 회전</string>
-486c486
-< 	<string>Rotate Anticlockwise</string>
----
-> 	<string>반시계방향으로 회전</string>
-488c488
-< 	<string>Rotate Clockwise</string>
----
-> 	<string>시계방향으로 회전</string>
-490c490
-< 	<string>Rotate Clockwise</string>
----
-> 	<string>시계방향으로 회전</string>
-492c492
-< 	<string>Rotate Clockwise</string>
----
-> 	<string>시계방향으로 회전</string>
-494c494
-< 	<string>Rotate Clockwise</string>
----
-> 	<string>시계방향으로 회전</string>
-504c504
-< 	<string>Select All</string>
----
-> 	<string>전체 선택</string>
-506c506
-< 	<string>Select All</string>
----
-> 	<string>전체 선택</string>
-508c508
-< 	<string>Selection</string>
----
-> 	<string>선택 항목</string>
-510c510
-< 	<string>Send To Back</string>
----
-> 	<string>맨 뒤로 보내기</string>
-512c512
-< 	<string>Send to Back</string>
----
-> 	<string>맨 뒤로 보내기</string>
-514c514
-< 	<string>Send to Back</string>
----
-> 	<string>맨 뒤로 보내기</string>
-516c516
-< 	<string>Send to Back</string>
----
-> 	<string>맨 뒤로 보내기</string>
-542c542
-< 	<string>Snapping Options</string>
----
-> 	<string>스내핑 설정</string>
-544c544
-< 	<string>Snapping Options</string>
----
-> 	<string>스내핑 설정</string>
-546c546
-< 	<string>Snapping</string>
----
-> 	<string>스내핑</string>
-548c548
-< 	<string>Snapping</string>
----
-> 	<string>스내핑</string>
-550c550
-< 	<string>Snapping</string>
----
-> 	<string>스내핑</string>
-552c552
-< 	<string>Space Horizontally</string>
----
-> 	<string>가로 공간</string>
-554c554
-< 	<string>Space Horizontally</string>
----
-> 	<string>가로 공간</string>
-556c556
-< 	<string>Space Horizontally</string>
----
-> 	<string>가로 공간</string>
-558c558
-< 	<string>Space Vertically</string>
----
-> 	<string>세로 공간</string>
-560c560
-< 	<string>Space Vertically</string>
----
-> 	<string>세로 공간</string>
-562c562
-< 	<string>Space Vertically</string>
----
-> 	<string>세로 공간</string>
-564c564
-< 	<string>Spacing</string>
----
-> 	<string>공간</string>
-566c566
-< 	<string>Split View</string>
----
-> 	<string>분할 뷰</string>
-568c568
-< 	<string>Split</string>
----
-> 	<string>분할</string>
-570c570
-< 	<string>Split</string>
----
-> 	<string>분할</string>
-574c574
-< 	<string>Subtract</string>
----
-> 	<string>제거</string>
-576c576
-< 	<string>Subtract</string>
----
-> 	<string>제거</string>
-578c578
-< 	<string>Subtract</string>
----
-> 	<string>제거</string>
-580c580
-< 	<string>Subtract</string>
----
-> 	<string>제거</string>
-582c582
-< 	<string>Subtract toolbar button</string>
----
-> 	<string>제거 툴바 버튼</string>
-590c590
-< 	<string>Switch to Next View</string>
----
-> 	<string>다음 뷰로 전환</string>
-592c592
-< 	<string>Sync After</string>
----
-> 	<string>이후 항목 동기화</string>
-594c594
-< 	<string>Sync After</string>
----
-> 	<string>이후 항목 동기화</string>
-596c596
-< 	<string>Sync Before</string>
----
-> 	<string>이전 항목 동기화</string>
-598c598
-< 	<string>Sync Before</string>
----
-> 	<string>이전 항목 동기화</string>
-600c600
-< 	<string>Synchronise Defaults</string>
----
-> 	<string>기본값 동기화</string>
-602c602
-< 	<string>Synchronise defaults from selection</string>
----
-> 	<string>선택 항목에서 기본값 동기화</string>
-716c716
-< 	<string>Tone Mapping Persona</string>
----
-> 	<string>톤 맵핑 페르소나</string>
-718c718
-< 	<string>Tone Mapping Persona</string>
----
-> 	<string>톤 맵핑 페르소나</string>
-720c720
-< 	<string>Tone Mapping Persona</string>
----
-> 	<string>톤 맵핑 페르소나</string>
-722c722
-< 	<string>Tone Mapping</string>
----
-> 	<string>톤 맵핑</string>
-724c724
-< 	<string>Transform</string>
----
-> 	<string>변형</string>
-728c728
-< 	<string>Union</string>
----
-> 	<string>병합</string>
-730c730
-< 	<string>Union toolbar button</string>
----
-> 	<string>병합 툴바 버튼</string>
-734c734
-< 	<string>Vibrance</string>
----
-> 	<string>활기</string>
-736c736
-< 	<string>View Mode</string>
----
-> 	<string>뷰 모드</string>
-742c742
-< 	<string>Width:</string>
----
-> 	<string>두께:</string>
-744c744
-< 	<string>Width:</string>
----
-> 	<string>두께:</string>
-746c746
-< 	<string>Yes</string>
----
-> 	<string>예</string>
-748c748
-< 	<string>Zoom In</string>
----
-> 	<string>확대</string>
-750c750
-< 	<string>Zoom Out</string>
----
-> 	<string>축소</string>
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDesignerExport.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuDesignerExport.nib
-477c477
-< 		<string>Open Recent</string>
----
-> 		<string>최근 사용 열기</string>
-528c528
-< 		<string>Clear Menu</string>
----
-> 		<string>메뉴 지우기</string>
-667c667
-< 		<string>Views</string>
----
-> 		<string>뷰</string>
-716c716
-< 		<string>Studio</string>
----
-> 		<string>작업실</string>
-781c781
-< 		<string>Show Left Studio</string>
----
-> 		<string>왼쪽 작업실 나타내기</string>
-816c816
-< 		<string>Show Right Studio</string>
----
-> 		<string>오른쪽 작업실 나타내기</string>
-892c892
-< 		<string>Hide Studio</string>
----
-> 		<string>작업실 가리기</string>
-928c928
-< 		<string>Reset Studio</string>
----
-> 		<string>작업실 재설정</string>
-973c973
-< 		<string>Share</string>
----
-> 		<string>공유</string>
-1062c1062
-< 		<string>Separated Mode</string>
----
-> 		<string>분리 모드</string>
-1125c1125
-< 		<string>Minimize</string>
----
-> 		<string>최소화</string>
-1180c1180
-< 		<string>Zoom</string>
----
-> 		<string>맞추기</string>
-1257c1257
-< 		<string>Hide Others</string>
----
-> 		<string>기타 가리기</string>
-1318c1318
-< 		<string>Preferences…</string>
----
-> 		<string>환경설정…</string>
-1379c1379
-< 		<string>Quit</string>
----
-> 		<string>Designer 종료</string>
-1448c1448
-< 		<string>Show All</string>
----
-> 		<string>모두 나타내기</string>
-1503c1503
-< 		<string>Hide</string>
----
-> 		<string>Designer 가리기</string>
-1561c1561
-< 		<string>About…</string>
----
-> 		<string>Designer에 관하여…</string>
-1638c1638
-< 		<string>Save As…</string>
----
-> 		<string>다른 이름으로 저장…</string>
-1712c1712
-< 		<string>Save</string>
----
-> 		<string>저장</string>
-1773c1773
-< 		<string>Close</string>
----
-> 		<string>닫기</string>
-1834c1834
-< 		<string>New</string>
----
-> 		<string>신규</string>
-1895c1895
-< 		<string>Open…</string>
----
-> 		<string>열기…</string>
-1956c1956
-< 		<string>Print…</string>
----
-> 		<string>인쇄…</string>
-2050c2050
-< 		<string>Customise Tools…</string>
----
-> 		<string>도구 사용자화…</string>
-2110c2110
-< 		<string>Customise Toolbar…</string>
----
-> 		<string>툴바 사용자화…</string>
-2170c2170
-< 		<string>Show Toolbar</string>
----
-> 		<string>툴바 나타내기</string>
-2231c2231
-< 		<string>Zoom to Fit</string>
----
-> 		<string>화면 크기에 맞추기</string>
-2364c2364
-< 		<string>Show Margins</string>
----
-> 		<string>여백선 나타내기</string>
-2424c2424
-< 		<string>Show Guides</string>
----
-> 		<string>안내선 나타내기</string>
-2485c2485
-< 		<string>Show Grid</string>
----
-> 		<string>격자선 나타내기</string>
-2544c2544
-< 		<string>New View</string>
----
-> 		<string>새로운 뷰</string>
-2604c2604
-< 		<string>Export…</string>
----
-> 		<string>출력…</string>
-2681c2681
-< 		<string>Pixels</string>
----
-> 		<string>픽셀</string>
-2740c2740
-< 		<string>Snapping Manager…</string>
----
-> 		<string>스내핑 관리자…</string>
-2800c2800
-< 		<string>Zoom In</string>
----
-> 		<string>확대</string>
-2861c2861
-< 		<string>Zoom Out</string>
----
-> 		<string>축소</string>
-2920c2920
-< 		<string>Assistant Manager…</string>
----
-> 		<string>손쉬운 사용 관리자…</string>
-2978c2978
-< 		<string>Vector</string>
----
-> 		<string>벡터</string>
-3084c3084
-< 		<string>Show Rulers</string>
----
-> 		<string>눈금자 나타내기</string>
-3145c3145
-< 		<string>Toggle Full Screen</string>
----
-> 		<string>전체 화면 시작</string>
-3279c3279
-< 		<string>Select All</string>
----
-> 		<string>전체 선택</string>
-3362c3362
-< 		<string>Affinity Designer Help</string>
----
-> 		<string>Affinity Designer 도움말</string>
-3421c3421
-< 		<string>Pixel Persona</string>
----
-> 		<string>픽셀 페르소나</string>
-3565c3565
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AddPageWindowController.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdjustmentItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AdjustmentItemView.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdjustmentPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/AdjustmentPage.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Adjustments.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Adjustments.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
 < 		<string>Delete</string>
----
 > 		<string>지우기</string>
-3621c3621
-< 		<string>Copy</string>
----
-> 		<string>복사</string>
-3682c3682
-< 		<string>Actual Size</string>
----
-> 		<string>실제 크기</string>
-3829c3829
-< 		<string>Toggle UI</string>
----
-> 		<string>UI 가리기</string>
-3888c3888
-< 		<string>Welcome...</string>
----
-> 		<string>환영...</string>
-3946c3946
-< 		<string>Rotate Left</string>
----
-> 		<string>왼쪽으로 회전</string>
-4006c4006
-< 		<string>Select Next</string>
----
-> 		<string>다음 항목 선택</string>
-4065c4065
-< 		<string>Merge All Windows</string>
----
-> 		<string>모든 윈도우 합치기</string>
-4123c4123
-< 		<string>Show Tools</string>
----
-> 		<string>도구 나타내기</string>
-4242c4242
-< 		<string>Grid and Axis Manager…</string>
----
-> 		<string>격자선 관리자…</string>
-4300c4300
-< 		<string>Show Context Toolbar</string>
----
-> 		<string>상황별 툴바 나타내기</string>
-4358c4358
-< 		<string>Reset Rotation</string>
----
-> 		<string>회전 재설정</string>
-4418c4418
-< 		<string>Pixel Size</string>
----
-> 		<string>픽셀 크기</string>
-4479c4479
-< 		<string>New From Clipboard</string>
----
-> 		<string>클립보드에서 신규</string>
-4551c4551
-< 		<string>Apple Colour Picker...</string>
----
-> 		<string>Apple 색상 선택기...</string>
-4611c4611
-< 		<string>Deselect</string>
----
-> 		<string>선택 해제</string>
-4693c4693
-< 		<string>Rotate Right</string>
----
-> 		<string>오른쪽으로 회전</string>
-4814c4814
-< 		<string>Pixels (Retina)</string>
----
-> 		<string>픽셀 (레티나)</string>
-4875c4875
-< 		<string>Zoom to Selection</string>
----
-> 		<string>선택 항목에 맞추기</string>
-4935c4935
-< 		<string>Select Previous</string>
----
-> 		<string>이전 항목 선택</string>
-5055c5055
-< 		<string>Draw Persona</string>
----
-> 		<string>그림 페르소나</string>
-5113c5113
-< 		<string>Support...</string>
----
-> 		<string>지원...</string>
-5227c5227
-< 		<string>Cut</string>
----
-> 		<string>오려두기</string>
-5283c5283
-< 		<string>Paste</string>
----
-> 		<string>붙이기</string>
-5342c5342
-< 		<string>Tutorial...</string>
----
-> 		<string>튜토리얼...</string>
-5425c5425
-< 		<string>Outline</string>
----
-> 		<string>윤곽</string>
-5483c5483
-< 		<string>Dock Tools</string>
----
-> 		<string>도구 고정</string>
-6254c6254
-< 		<string>Persona</string>
----
-> 		<string>페르소나</string>
-6491c6491
-< 		<string>Services</string>
----
-> 		<string>서비스</string>
-6656c6656
-< 		<string>File</string>
----
-> 		<string>파일</string>
-7082c7082
-< 		<string>Edit</string>
----
-> 		<string>편집</string>
-7256c7256
-< 		<string>Select</string>
----
-> 		<string>선택</string>
-7378c7378
-< 		<string>View</string>
----
-> 		<string>뷰</string>
-7682c7682
-< 		<string>View Mode</string>
----
-> 		<string>뷰 모드</string>
-8212c8212
-< 		<string>Window</string>
----
-> 		<string>윈도우</string>
-8369c8369
-< 		<string>Bring All to Front</string>
----
-> 		<string>모두 앞으로 가져오기</string>
-8422c8422
-< 		<string>Help</string>
----
-> 		<string>도움말</string>
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPixel.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuPixel.nib
-849c849
-< 		<string>Open Recent</string>
----
-> 		<string>최근 사용 열기</string>
-1039c1039
-< 		<string>Views</string>
----
-> 		<string>뷰</string>
-1088c1088
-< 		<string>Studio</string>
----
-> 		<string>작업실</string>
-1153c1153
-< 		<string>Show Left Studio</string>
----
-> 		<string>왼쪽 작업실 나타내기</string>
-1188c1188
-< 		<string>Show Right Studio</string>
----
-> 		<string>오른쪽 작업실 나타내기</string>
-1264c1264
-< 		<string>Hide Studio</string>
----
-> 		<string>작업실 가리기</string>
-1300c1300
-< 		<string>Reset Studio</string>
----
-> 		<string>작업실 재설정</string>
-1345c1345
-< 		<string>Share</string>
----
-> 		<string>공유</string>
-1429c1429
-< 		<string>Minimize</string>
----
-> 		<string>최소화</string>
-1494c1494
-< 		<string>Zoom</string>
----
-> 		<string>맞추기</string>
-1571c1571
-< 		<string>Hide Others</string>
----
-> 		<string>기타 가리기</string>
-1632c1632
-< 		<string>Preferences…</string>
----
-> 		<string>환경설정…</string>
-1706c1706
-< 		<string>Quit</string>
----
-> 		<string>Designer 종료</string>
-1775c1775
-< 		<string>Show All</string>
----
-> 		<string>모두 보기</string>
-1830c1830
-< 		<string>Hide</string>
----
-> 		<string>Designer 가리기</string>
-1888c1888
-< 		<string>About…</string>
----
-> 		<string>Designer에 관하여…</string>
-2034c2034
-< 		<string>Copy</string>
----
-> 		<string>복사</string>
-2090c2090
-< 		<string>Paste</string>
----
-> 		<string>붙이기</string>
-2146c2146
-< 		<string>Cut</string>
----
-> 		<string>오려두기</string>
-2280c2280
-< 		<string>Select All</string>
----
-> 		<string>모두 선택</string>
-2334c2334
-< 		<string>Delete</string>
----
-> 		<string>지우기</string>
-2412c2412
-< 		<string>Save As…</string>
----
-> 		<string>다른 이름으로 저장…</string>
-2531c2531
-< 		<string>Close</string>
----
-> 		<string>닫기</string>
-2592c2592
-< 		<string>Document Setup…</string>
----
-> 		<string>문서 설정…</string>
-2653c2653
-< 		<string>New</string>
----
-> 		<string>신규</string>
-2714c2714
-< 		<string>Open…</string>
----
-> 		<string>열기…</string>
-2775c2775
-< 		<string>Print…</string>
----
-> 		<string>인쇄…</string>
-2869c2869
-< 		<string>Customise Tools…</string>
----
-> 		<string>도구 사용자화…</string>
-2929c2929
-< 		<string>Customise Toolbar…</string>
----
-> 		<string>툴바 사용자화…</string>
-2989c2989
-< 		<string>Show Toolbar</string>
----
-> 		<string>툴바 나타내기</string>
-3072c3072
-< 		<string>Affinity Designer Help</string>
----
-> 		<string>Affinity Designer 도움말</string>
-3150c3150
-< 		<string>Ungroup</string>
----
-> 		<string>그룹 해제</string>
-3211c3211
-< 		<string>Group</string>
----
-> 		<string>그룹</string>
-3272c3272
-< 		<string>Duplicate</string>
----
-> 		<string>복제</string>
-3333c3333
-< 		<string>Zoom to Fit</string>
----
-> 		<string>화면 크기에 맞추기</string>
-3466c3466
-< 		<string>Show Margins</string>
----
-> 		<string>여백선 나타내기</string>
-3526c3526
-< 		<string>Show Guides</string>
----
-> 		<string>안내선 나타내기</string>
-3587c3587
-< 		<string>Show Grid</string>
----
-> 		<string>격자선 나타내기</string>
-3646c3646
-< 		<string>New View</string>
----
-> 		<string>새로운 뷰</string>
-3706c3706
-< 		<string>Export…</string>
----
-> 		<string>출력…</string>
-3783c3783
-< 		<string>Pixels</string>
----
-> 		<string>픽셀</string>
-3842c3842
-< 		<string>Place…</string>
----
-> 		<string>다른 문서 넣기…</string>
-3900c3900
-< 		<string>Snapping Manager…</string>
----
-> 		<string>스내핑 관리자…</string>
-3955c3955
-< 		<string>Paste Style</string>
----
-> 		<string>스타일 붙이기</string>
-4016c4016
-< 		<string>Zoom In</string>
----
-> 		<string>확대</string>
-4077c4077
-< 		<string>Zoom Out</string>
----
-> 		<string>축소</string>
-4136c4136
-< 		<string>Rasterise…</string>
----
-> 		<string>래스터화…</string>
-4194c4194
-< 		<string>Assistant Manager…</string>
----
-> 		<string>손쉬운 사용 관리자…</string>
-4252c4252
-< 		<string>Vector</string>
----
-> 		<string>벡터</string>
-4312c4312
-< 		<string>Media Browser…</string>
----
-> 		<string>미디어 브라우저…</string>
-4432c4432
-< 		<string>Show Rulers</string>
----
-> 		<string>눈금자 나타내기</string>
-4491c4491
-< 		<string>Outline…</string>
----
-> 		<string>윤곽…</string>
-4566c4566
-< 		<string>Select Highlights</string>
----
-> 		<string>빛 선택</string>
-4643c4643
-< 		<string>Move Back One</string>
----
-> 		<string>뒤로 보내기</string>
-4715c4715
-< 		<string>Create Compound</string>
----
-> 		<string>결합 생성</string>
-4775c4775
-< 		<string>Release Compound</string>
----
-> 		<string>결합 해제</string>
-4850c4850
-< 		<string>Recolour</string>
----
-> 		<string>재색상</string>
-4925c4925
-< 		<string>Distribute Vertically</string>
----
-> 		<string>세로 분배</string>
-4983c4983
-< 		<string>Apple Colour Picker...</string>
----
-> 		<string>Apple 색상 선택기...</string>
-5058c5058
-< 		<string>Flip Vertical</string>
----
-> 		<string>세로 뒤집기</string>
-5116c5116
-< 		<string>Merge All Windows</string>
----
-> 		<string>모든 윈도우 합치기</string>
-5174c5174
-< 		<string>Show Tools</string>
----
-> 		<string>도구 나타내기</string>
-5232c5232
-< 		<string>Show Context Toolbar</string>
----
-> 		<string>상황별 툴바 나타내기</string>
-5290c5290
-< 		<string>Move to Previous View Point</string>
----
-> 		<string>이전 뷰 포인트로 이동</string>
-5365c5365
-< 		<string>Select Reds</string>
----
-> 		<string>빨강 선택</string>
-5425c5425
-< 		<string>Align Centre</string>
----
-> 		<string>가로 가운데 정렬</string>
-5483c5483
-< 		<string>Align Top</string>
----
-> 		<string>위쪽 정렬</string>
-5598c5598
-< 		<string>Colour Balance</string>
----
-> 		<string>색상 밸런스</string>
-5673c5673
-< 		<string>Divide</string>
----
-> 		<string>분할</string>
-5744c5744
-< 		<string>Refine Edges…</string>
----
-> 		<string>모서리 다듬기…</string>
-5819c5819
-< 		<string>Default</string>
----
-> 		<string>기본값</string>
-5877c5877
-< 		<string>Split View</string>
----
-> 		<string>분할 뷰 모드</string>
-5937c5937
-< 		<string>Select Previous</string>
----
-> 		<string>이전 항목 선택</string>
-5995c5995
-< 		<string>Smooth…</string>
----
-> 		<string>부드럽게…</string>
-6053c6053
-< 		<string>Feather…</string>
----
-> 		<string>깃털…</string>
-6111c6111
-< 		<string>Support...</string>
----
-> 		<string>지원...</string>
-6171c6171
-< 		<string>New Pixel Layer</string>
----
-> 		<string>새로운 픽셀 레이어</string>
-6232c6232
-< 		<string>Pixel Size</string>
----
-> 		<string>픽셀 크기</string>
-6293c6293
-< 		<string>Unlock All</string>
----
-> 		<string>모두 잠금 해제</string>
-6352c6352
-< 		<string>Export Persona</string>
----
-> 		<string>출력 페르소나</string>
-6410c6410
-< 		<string>Rotate Left</string>
----
-> 		<string>왼쪽으로 회전</string>
-6468c6468
-< 		<string>Intersect</string>
----
-> 		<string>교차</string>
-6526c6526
-< 		<string>Select Sampled Colour…</string>
----
-> 		<string>표본 색상 선택…</string>
-6581c6581
-< 		<string>Paste FX</string>
----
-> 		<string>효과 붙이기</string>
-6641c6641
-< 		<string>Move to Front</string>
----
-> 		<string>맨 앞으로 가져오기</string>
-6700c6700
-< 		<string>Rotate Right</string>
----
-> 		<string>오른쪽으로 회전</string>
-6758c6758
-< 		<string>Brightness / Contrast</string>
----
-> 		<string>명암 / 대비</string>
-6904c6904
-< 		<string>Welcome...</string>
----
-> 		<string>환영...</string>
-6962c6962
-< 		<string>Select Greens</string>
----
-> 		<string>초록 선택</string>
-7020c7020
-< 		<string>Tutorial...</string>
----
-> 		<string>튜토리얼...</string>
-7080c7080
-< 		<string>Align Right</string>
----
-> 		<string>오른쪽 정렬</string>
-7140c7140
-< 		<string>Curves</string>
----
-> 		<string>곡선</string>
-7199c7199
-< 		<string>Single View</string>
----
-> 		<string>단일 뷰 모드</string>
-7257c7257
-< 		<string>Inside</string>
----
-> 		<string>안으로</string>
-7315c7315
-< 		<string>Separated Mode</string>
----
-> 		<string>분리 모드</string>
-7373c7373
-< 		<string>Align Bottom</string>
----
-> 		<string>아래쪽 정렬</string>
-7491c7491
-< 		<string>Unlock</string>
----
-> 		<string>잠금 해제</string>
-7550c7550
-< 		<string>Gradient Map</string>
----
-> 		<string>그레이디언트 맵</string>
-7610c7610
-< 		<string>Zoom to Selection</string>
----
-> 		<string>선택 항목에 맞추기</string>
-7668c7668
-< 		<string>Guides Manager…</string>
----
-> 		<string>안내선 관리자…</string>
-7726c7726
-< 		<string>Toggle UI</string>
----
-> 		<string>UI 가리기</string>
-7785c7785
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
 < 		<string>Exposure</string>
----
 > 		<string>노출</string>
-7843c7843
-< 		<string>Select Midtones</string>
----
-> 		<string>중간 선택</string>
-7903c7903
-< 		<string>Invert Pixel Selection</string>
----
-> 		<string>픽셀 선택 항목 반전</string>
-7962c7962
-< 		<string>Reset Rotation</string>
----
-> 		<string>회전 재설정</string>
-8081c8081
-< 		<string>Rotate Right</string>
----
-> 		<string>시계방향으로 회전</string>
-8197c8197
-< 		<string>Shadows / Highlights</string>
----
-> 		<string>그림자 / 빛</string>
-8257c8257
-< 		<string>Lock</string>
----
-> 		<string>잠금</string>
-8315c8315
-< 		<string>Find in Layers Panel</string>
----
-> 		<string>레이어 목록에서 찾기</string>
-8373c8373
-< 		<string>Dock Tools</string>
----
-> 		<string>도구 고정</string>
-8431c8431
-< 		<string>Behind</string>
----
-> 		<string>뒤로</string>
-8509c8509
-< 		<string>Paste Inside</string>
----
-> 		<string>안으로 붙이기</string>
-8628c8628
-< 		<string>Grid and Axis Manager…</string>
----
-> 		<string>격자선 관리자…</string>
-8686c8686
-< 		<string>Invert</string>
----
-> 		<string>반전</string>
-8744c8744
-< 		<string>Threshold</string>
----
-> 		<string>역치</string>
-8804c8804
-< 		<string>New Layer</string>
----
-> 		<string>새로운 레이어</string>
-8862c8862
-< 		<string>Draw Persona</string>
----
-> 		<string>그림 페르소나</string>
-8920c8920
-< 		<string>Select Shadows</string>
----
-> 		<string>그림자 선택</string>
-8975c8975
-< 		<string>Paste Without Format</string>
----
-> 		<string>포맷 없이 붙이기</string>
-9092c9092
-< 		<string>Space Vertically</string>
----
-> 		<string>세로 공간</string>
-9150c9150
-< 		<string>Top</string>
----
-> 		<string>위로</string>
-9208c9208
-< 		<string>Flip Horizontal</string>
----
-> 		<string>가로 뒤집기</string>
-9268c9268
-< 		<string>Actual Size</string>
----
-> 		<string>실제 크기</string>
-9329c9329
-< 		<string>Align Left</string>
----
-> 		<string>왼쪽 정렬</string>
-9387c9387
-< 		<string>Layer Effects…</string>
----
-> 		<string>레이어 효과…</string>
-9445c9445
-< 		<string>Align Middle</string>
----
-> 		<string>세로 가운데 정렬</string>
-9503c9503
-< 		<string>Add</string>
----
-> 		<string>추가</string>
-9563c9563
-< 		<string>Toggle Full Screen</string>
----
-> 		<string>전체 화면 시작</string>
-9624c9624
-< 		<string>Move to Back</string>
----
-> 		<string>맨 뒤로 보내기</string>
-9684c9684
-< 		<string>Deselect</string>
----
-> 		<string>선택 해제</string>
-9745c9745
-< 		<string>Outline</string>
----
-> 		<string>윤곽</string>
-9803c9803
-< 		<string>Promote Group to Layer</string>
----
-> 		<string>그룹을 레이어로 승격</string>
-9861c9861
-< 		<string>White Balance</string>
----
-> 		<string>화이트 밸런스</string>
-9942c9942
-< 		<string>Rasterise to Mask</string>
----
-> 		<string>마스크 래스터화</string>
-10000c10000
-< 		<string>Combine</string>
----
-> 		<string>배타</string>
-10058c10058
-< 		<string>Show</string>
----
-> 		<string>보기</string>
-10118c10118
-< 		<string>Pixels (Retina)</string>
----
-> 		<string>픽셀 (레티나)</string>
-10177c10177
 < 		<string>Posterise</string>
----
 > 		<string>포스터화</string>
-10237c10237
-< 		<string>New From Clipboard</string>
----
-> 		<string>클립보드에서 신규</string>
-10308c10308
-< 		<string>Rotate Left</string>
----
-> 		<string>반시계방향으로 회전</string>
-10366c10366
-< 		<string>Distribute Horizontally</string>
----
-> 		<string>가로 분배</string>
-10426c10426
-< 		<string>Move Forward One</string>
----
-> 		<string>앞으로 가져오기</string>
-10484c10484
-< 		<string>Reveal in Finder</string>
----
-> 		<string>Finder에서 찾기</string>
-10542c10542
-< 		<string>Selective Colour</string>
----
-> 		<string>색상 선택</string>
-10600c10600
-< 		<string>Move to Next View Point</string>
----
-> 		<string>다음 뷰 포인트로 이동</string>
-10658c10658
-< 		<string>Grow / Shrink…</string>
----
-> 		<string>팽창 / 수축…</string>
-10718c10718
-< 		<string>Ungroup All</string>
----
-> 		<string>모든 그룹 해제</string>
-10776c10776
-< 		<string>Channel Mixer</string>
----
-> 		<string>채널 혼합</string>
-10836c10836
-< 		<string>Black &amp; White</string>
----
-> 		<string>흑백</string>
-10895c10895
-< 		<string>Subtract</string>
----
-> 		<string>제거</string>
-10953c10953
-< 		<string>Vibrance</string>
----
-> 		<string>활기</string>
-11011c11011
-< 		<string>Soft Proof</string>
----
-> 		<string>미리보기</string>
-11071c11071
-< 		<string>Save</string>
----
-> 		<string>저장</string>
-11190c11190
-< 		<string>Space Horizontally</string>
----
-> 		<string>가로 공간</string>
-11368c11368
-< 		<string>Save History With Document</string>
----
-> 		<string>편집 기록 저장</string>
-11428c11428
-< 		<string>Select Next</string>
----
-> 		<string>다음 항목 선택</string>
-11486c11486
 < 		<string>Levels</string>
----
 > 		<string>레벨</string>
-11544c11544
-< 		<string>Select Blues</string>
----
-> 		<string>파랑 선택</string>
-12801c12801
-< 		<string>Persona</string>
----
-> 		<string>페르소나</string>
-13038c13038
-< 		<string>Services</string>
----
-> 		<string>서비스</string>
-13203c13203
-< 		<string>File</string>
----
-> 		<string>파일</string>
-13783c13783
-< 		<string>Edit</string>
----
-> 		<string>편집</string>
-13933c13933
-< 		<string>Layer</string>
----
-> 		<string>레이어</string>
-14201c14201
-< 		<string>Arrange</string>
----
-> 		<string>순서</string>
-14277c14277
-< 		<string>Alignment</string>
----
-> 		<string>정렬</string>
-14503c14503
-< 		<string>Geometry</string>
----
-> 		<string>기하</string>
-14583c14583
-< 		<string>Transform</string>
----
-> 		<string>변형</string>
-14701c14701
-< 		<string>Insertion</string>
----
-> 		<string>삽입</string>
-14815c14815
-< 		<string>New Adjustment</string>
----
-> 		<string>새로운 조정</string>
-15262c15262
-< 		<string>Select</string>
----
-> 		<string>선택</string>
-15466,15467c15466,15467
-< 		<string>Colour Range</string>
-< 		<string>Colour Range</string>
----
-> 		<string>색상 영역</string>
-> 		<string>색상 영역</string>
-15539c15539
+< 		<string>Vibrance</string>
+> 		<string>활기</string>
+< 		<string>Threshold</string>
+> 		<string>역치</string>
+< 		<string>Curves</string>
+> 		<string>곡선</string>
+< 		<string>White Balance</string>
+> 		<string>화이트 밸런스</string>
+< 		<string>White Balance</string>
+> 		<string>화이트 밸런스</string>
+< 		<string>Channel Mixer</string>
+> 		<string>채널 혼합</string>
+< 		<string>Yellow</string>
+> 		<string>노랑</string>
+< 		<string>Black &amp; White</string>
+> 		<string>흑백</string>
+< 		<string>Soft Proof</string>
+> 		<string>미리보기</string>
+< 		<string>Copy</string>
+> 		<string>복사</string>
+< 		<string>Colour:</string>
+> 		<string>색상:</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Gradient Map</string>
+> 		<string>그레이디언트 맵</string>
+< 		<string>Colour</string>
+> 		<string>색상</string>
+< 		<string>Black</string>
+> 		<string>검정</string>
+< 		<string>Selective Colour</string>
+> 		<string>색상 선택</string>
+< 		<string>Recolour</string>
+> 		<string>재색상</string>
+< 		<string>Shadows / Highlights</string>
+> 		<string>그림자 / 빛</string>
 < 		<string>Tonal Range</string>
----
 > 		<string>색조 영역</string>
-15651c15651
-< 		<string>View</string>
----
-> 		<string>뷰</string>
-15975c15975
-< 		<string>View Mode</string>
----
-> 		<string>뷰 모드</string>
-16593c16593
-< 		<string>Window</string>
----
-> 		<string>윈도우</string>
-16752c16752
-< 		<string>Bring All to Front</string>
----
-> 		<string>모두 앞으로 가져오기</string>
-16805c16805
-< 		<string>Help</string>
----
-> 		<string>도움말</string>
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVector.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuVector.nib
-1217c1217
-< 		<string>Open Recent</string>
----
-> 		<string>최근 사용 열기</string>
-1268c1268
-< 		<string>Clear Menu</string>
----
-> 		<string>메뉴 지우기</string>
-1407c1407
-< 		<string>Views</string>
----
-> 		<string>뷰</string>
-1456c1456
-< 		<string>Studio</string>
----
-> 		<string>작업실</string>
-1521c1521
-< 		<string>Show Left Studio</string>
----
-> 		<string>왼쪽 작업실 나타내기</string>
-1556c1556
-< 		<string>Show Right Studio</string>
----
-> 		<string>오른쪽 작업실 나타내기</string>
-1632c1632
-< 		<string>Hide Studio</string>
----
-> 		<string>작업실 가리기</string>
-1668c1668
-< 		<string>Reset Studio</string>
----
-> 		<string>작업실 재설정</string>
-1713c1713
-< 		<string>Share</string>
----
-> 		<string>공유</string>
-1810c1810
-< 		<string>Minimize</string>
----
-> 		<string>최소화</string>
-1875c1875
-< 		<string>Zoom</string>
----
-> 		<string>맞추기</string>
-1935c1935
-< 		<string>Toggle Full Screen</string>
----
-> 		<string>전체 화면 시작</string>
-2026c2026
-< 		<string>Hide Others</string>
----
-> 		<string>기타 가리기</string>
-2087c2087
-< 		<string>Preferences…</string>
----
-> 		<string>환경설정…</string>
-2148c2148
-< 		<string>Quit</string>
----
-> 		<string>Designer 종료</string>
-2217c2217
-< 		<string>Show All</string>
----
-> 		<string>모두 보기</string>
-2272c2272
-< 		<string>Hide</string>
----
-> 		<string>가리기</string>
-2407c2407
-< 		<string>Redo</string>
----
-> 		<string>실행 취소</string>
-2463c2463
-< 		<string>Copy</string>
----
-> 		<string>복사</string>
-2519c2519
-< 		<string>Paste</string>
----
-> 		<string>붙이기</string>
-2575c2575
-< 		<string>Cut</string>
----
-> 		<string>오려두기</string>
-2636c2636
-< 		<string>Undo</string>
----
-> 		<string>실행 취소</string>
-2709c2709
-< 		<string>Select All</string>
----
-> 		<string>전체 선택</string>
-2763c2763
-< 		<string>Delete</string>
----
-> 		<string>지우기</string>
-2841c2841
-< 		<string>Save As…</string>
----
-> 		<string>다른 이름으로 저장…</string>
-2900c2900
-< 		<string>Edit in Photo…</string>
----
-> 		<string>Photo에서 편집…</string>
-2960c2960
-< 		<string>Close</string>
----
-> 		<string>닫기</string>
-3021c3021
-< 		<string>Document Setup…</string>
----
-> 		<string>문서 설정…</string>
-3082c3082
-< 		<string>New</string>
----
-> 		<string>신규</string>
-3143c3143
-< 		<string>Open…</string>
----
-> 		<string>열기…</string>
-3204c3204
-< 		<string>Print…</string>
----
-> 		<string>인쇄…</string>
-3298c3298
-< 		<string>Customise Tools…</string>
----
-> 		<string>도구 사용자화…</string>
-3358c3358
-< 		<string>Customise Toolbar…</string>
----
-> 		<string>툴바 사용자화…</string>
-3418c3418
-< 		<string>Show Toolbar</string>
----
-> 		<string>툴바 나타내기</string>
-3501c3501
-< 		<string>Affinity Designer Help</string>
----
-> 		<string>Affinity Designer 도움말</string>
-3579c3579
-< 		<string>Ungroup</string>
----
-> 		<string>그룹 해제</string>
-3640c3640
-< 		<string>Group</string>
----
-> 		<string>그룹</string>
-3701c3701
-< 		<string>Duplicate</string>
----
-> 		<string>복제</string>
-3762c3762
-< 		<string>Zoom to Fit</string>
----
-> 		<string>화면 크기에 맞추기</string>
-3895c3895
-< 		<string>Show Margins</string>
----
-> 		<string>여백선 나타내기</string>
-3955c3955
-< 		<string>Show Guides</string>
----
-> 		<string>안내선 나타내기</string>
-4016c4016
-< 		<string>Show Grid</string>
----
-> 		<string>격자선 나타내기</string>
-4075c4075
-< 		<string>New View</string>
----
-> 		<string>새로운 뷰</string>
-4152c4152
-< 		<string>Pixels</string>
----
-> 		<string>픽셀</string>
-4213c4213
-< 		<string>Lock</string>
----
-> 		<string>잠금</string>
-4274c4274
-< 		<string>Unlock</string>
----
-> 		<string>잠금 해제</string>
-4352c4352
-< 		<string>Align Left</string>
----
-> 		<string>왼쪽 정렬</string>
-4425c4425
-< 		<string>Align Centre</string>
----
-> 		<string>가로 가운데 정렬</string>
-4483c4483
-< 		<string>Justify Centre</string>
----
-> 		<string>가운데 균등 정렬</string>
-4543c4543
-< 		<string>Align Right</string>
----
-> 		<string>오른쪽 정렬</string>
-4628c4628
-< 		<string>Bold</string>
----
-> 		<string>볼드체</string>
-4689c4689
-< 		<string>Italic</string>
----
-> 		<string>이탤릭체</string>
-4750c4750
-< 		<string>Underline</string>
----
-> 		<string>밑줄</string>
-4826c4826
-< 		<string>Use Default</string>
----
-> 		<string>기준선 재설정</string>
-4886c4886
-< 		<string>Superscript</string>
----
-> 		<string>윗첨자</string>
-4947c4947
-< 		<string>Subscript</string>
----
-> 		<string>아랫첨자</string>
-5023c5023
-< 		<string>Use None</string>
----
-> 		<string>합자 없음</string>
-5214c5214
-< 		<string>Tighten</string>
----
-> 		<string>좁게</string>
-5275c5275
-< 		<string>Loosen More</string>
----
-> 		<string>더 넓게</string>
-5334c5334
-< 		<string>Create Style</string>
----
-> 		<string>스타일 생성</string>
-5394c5394
-< 		<string>Convert to Curves</string>
----
-> 		<string>곡선으로 전환</string>
-5466c5466
-< 		<string>Place…</string>
----
-> 		<string>다른 문서 넣기…</string>
-5524c5524
-< 		<string>Snapping Manager…</string>
----
-> 		<string>스내핑 관리자…</string>
-5579c5579
-< 		<string>Paste Style</string>
----
-> 		<string>스타일 붙이기</string>
-5640c5640
-< 		<string>Zoom In</string>
----
-> 		<string>확대</string>
-5700c5700
-< 		<string>Zoom Out</string>
----
-> 		<string>축소</string>
-5758c5758
-< 		<string>Rasterise…</string>
----
-> 		<string>래스터화…</string>
-5816c5816
-< 		<string>Assistant Manager…</string>
----
-> 		<string>손쉬운 사용 관리자…</string>
-5874c5874
-< 		<string>Vector</string>
----
-> 		<string>벡터</string>
-6084c6084
-< 		<string>Show Character</string>
----
-> 		<string>서체 작업실</string>
-6144c6144
-< 		<string>Media Browser…</string>
----
-> 		<string>미디어 브라우저…</string>
-6264c6264
-< 		<string>Show Rulers</string>
----
-> 		<string>눈금자 나타내기</string>
-6322c6322
-< 		<string>Apple Colour Picker...</string>
----
-> 		<string>Apple 색상 선택기...</string>
-6399c6399
-< 		<string>Line Break</string>
----
-> 		<string>줄바꿈</string>
-6457c6457
-< 		<string>Em Space</string>
----
-> 		<string>전각 공백</string>
-6515c6515
-< 		<string>En Space</string>
----
-> 		<string>반각 공백</string>
-6573c6573
-< 		<string>Non-Breaking Hyphen</string>
----
-> 		<string>줄 바꿈 없는 하이픈</string>
-6631c6631
-< 		<string>Zero Width Space</string>
----
-> 		<string>폭 없는 공백</string>
-6689c6689
-< 		<string>Soft Hyphen</string>
----
-> 		<string>하이픈</string>
-6749c6749
-< 		<string>Non-Breaking Space</string>
----
-> 		<string>줄 바꿈 없는 공백</string>
-6825c6825
-< 		<string>None</string>
----
-> 		<string>없음</string>
-6883c6883
-< 		<string>Small Caps</string>
----
-> 		<string>작은 대문자</string>
-6941c6941
-< 		<string>All Caps</string>
----
-> 		<string>모두 대문자</string>
-6999c6999
-< 		<string>Reset Rotation</string>
----
-> 		<string>회전 재설정</string>
-7134c7134
-< 		<string>Set No Paragraph Style</string>
----
-> 		<string>문단 스타일 벗기기</string>
-7209c7209
-< 		<string>Ignore Text Wraps</string>
----
-> 		<string>줄바꿈 무시</string>
-7286c7286
-< 		<string>Move Back One</string>
----
-> 		<string>뒤로 보내기</string>
-7355c7355
-< 		<string>Paste Inside</string>
----
-> 		<string>안으로 붙이기</string>
-7503c7503
-< 		<string>Unlock All</string>
----
-> 		<string>모두 잠금 해제</string>
-7578c7578
-< 		<string>Recolour</string>
----
-> 		<string>재색상</string>
-7636c7636
-< 		<string>Insert Filler Text</string>
----
-> 		<string>Lorem Ipsum</string>
-7694c7694
-< 		<string>Tight</string>
----
-> 		<string>좁게</string>
-7754c7754
-< 		<string>Lower Baseline</string>
----
-> 		<string>기준선 내리기</string>
-7813c7813
-< 		<string>Strikeout</string>
----
-> 		<string>취소선</string>
-7890c7890
-< 		<string>Precise Bigger</string>
----
-> 		<string>정밀하게 늘리기</string>
-8050c8050
-< 		<string>Flip Vertical</string>
----
-> 		<string>세로 뒤집기</string>
-8108c8108
-< 		<string>Show Glyph Browser</string>
----
-> 		<string>문자 탐색 작업실</string>
-8183c8183
-< 		<string>Synchronise from Selection</string>
----
-> 		<string>선택 항목에서 기본값 동기화</string>
-8241c8241
-< 		<string>Show Context Toolbar</string>
----
-> 		<string>상황별 툴바 나타내기</string>
-8318c8318
-< 		<string>Precise Decrease</string>
----
-> 		<string>정밀하게 줄이기</string>
-8374c8374
-< 		<string>Paste FX</string>
----
-> 		<string>효과 붙이기</string>
-8432c8432
 < 		<string>Colour Balance</string>
----
 > 		<string>색상 밸런스</string>
-8507c8507
-< 		<string>Distribute Horizontally</string>
----
-> 		<string>가로 분배</string>
-8565c8565
-< 		<string>Figure Dash</string>
----
-> 		<string>숫자 줄표</string>
-8623c8623
-< 		<string>Align Centre</string>
----
-> 		<string>가로 가운데 정렬</string>
-8681c8681
-< 		<string>Align Top</string>
----
-> 		<string>위쪽 정렬</string>
-8741c8741
-< 		<string>New Pixel Layer</string>
----
-> 		<string>새로운 픽셀 레이어</string>
-8800c8800
-< 		<string>Clip to Canvas</string>
----
-> 		<string>캔버스에 클립</string>
-8859c8859
-< 		<string>Delete Paragraph Style</string>
----
-> 		<string>문단 스타일 지우기</string>
-8919c8919
-< 		<string>New From Clipboard</string>
----
-> 		<string>클립보드에서 신규</string>
-9007c9007
-< 		<string>Check Spelling</string>
----
-> 		<string>철자 확인</string>
-9065c9065
-< 		<string>Split View</string>
----
-> 		<string>분할 뷰 모드</string>
-9140c9140
-< 		<string>Top</string>
----
-> 		<string>위로</string>
-9215c9215
-< 		<string>Default</string>
----
-> 		<string>기본값</string>
-9275c9275
-< 		<string>Release Compound</string>
----
-> 		<string>결합 해제</string>
-9335c9335
-< 		<string>Select Previous</string>
----
-> 		<string>이전 항목 선택</string>
-9393c9393
-< 		<string>Space Horizontally</string>
----
-> 		<string>가로 공간</string>
-9509c9509
-< 		<string>Inside</string>
----
-> 		<string>안으로</string>
-9650c9650
-< 		<string>Justify Left</string>
----
-> 		<string>왼쪽 균등 정렬</string>
-9709c9709
-< 		<string>Detach and Delete All Styles</string>
----
-> 		<string>모든 스타일 벗기고 삭제</string>
-9769c9769
-< 		<string>En Dash</string>
----
-> 		<string>반각 줄표</string>
-9829c9829
-< 		<string>Decrease</string>
----
-> 		<string>줄이기</string>
-9905c9905
-< 		<string>Intersect</string>
----
-> 		<string>교차</string>
-9963c9963
-< 		<string>Import Text Styles…</string>
----
-> 		<string>문자 스타일 불러오기…</string>
-10023c10023
-< 		<string>Move to Front</string>
----
-> 		<string>맨 앞으로 가져오기</string>
-10082c10082
-< 		<string>Rotate Right</string>
----
-> 		<string>오른쪽으로 회전</string>
-10142c10142
-< 		<string>New Layer</string>
----
-> 		<string>새로운 레이어</string>
-10200c10200
-< 		<string>Rotate Left</string>
----
-> 		<string>왼쪽으로 회전</string>
-10258c10258
-< 		<string>Show</string>
----
-> 		<string>보기</string>
-10316c10316
-< 		<string>Brightness / Contrast</string>
----
-> 		<string>명암 / 대비</string>
-10489c10489
-< 		<string>Welcome...</string>
----
-> 		<string>환영...</string>
-10547c10547
-< 		<string>Space Vertically</string>
----
-> 		<string>세로 공간</string>
-10605c10605
-< 		<string>Create Character Style</string>
----
-> 		<string>문자 스타일 생성</string>
-10665c10665
-< 		<string>Tighten More</string>
----
-> 		<string>더 좁게</string>
-10783c10783
-< 		<string>Curves</string>
----
-> 		<string>곡선</string>
-10842c10842
-< 		<string>Single View</string>
----
-> 		<string>단일 뷰 모드</string>
-10900c10900
-< 		<string>Divide</string>
----
-> 		<string>분할</string>
-11019c11019
-< 		<string>Revert</string>
----
-> 		<string>되돌리기</string>
-11077c11077
-< 		<string>Pixel Persona</string>
----
-> 		<string>그림 페르소나</string>
-11135c11135
-< 		<string>Separated Mode</string>
----
-> 		<string>분리 모드</string>
-11195c11195
-< 		<string>Precise Lower Baseline</string>
----
-> 		<string>기준선 정밀하게 내리기</string>
-11254c11254
-< 		<string>Align Bottom</string>
----
-> 		<string>아래쪽 정렬</string>
-11312c11312
-< 		<string>Update Paragraph Style</string>
----
-> 		<string>문단 스타일 업데이트</string>
-11428c11428
-< 		<string>Gradient Map</string>
----
-> 		<string>그레이디언트 맵</string>
-11486c11486
-< 		<string>Guides Manager…</string>
----
-> 		<string>안내선 관리자…</string>
-11544c11544
-< 		<string>Exposure</string>
----
-> 		<string>노출</string>
-11604c11604
-< 		<string>Raise Baseline</string>
----
-> 		<string>기준선 올리기</string>
-11723c11723
-< 		<string>Precise Smaller</string>
----
-> 		<string>정밀하게 줄이기</string>
-11782c11782
-< 		<string>Set No Character Style</string>
----
-> 		<string>문자 스타일 벗기기</string>
-11842c11842
-< 		<string>Invert Pixel Selection</string>
----
-> 		<string>픽셀 선택 항목 반전</string>
-11959c11959
-< 		<string>Rotate Right</string>
----
-> 		<string>오른쪽으로 회전</string>
-12017c12017
-< 		<string>Shadows / Highlights</string>
----
-> 		<string>그림자 / 빛</string>
-12077c12077
-< 		<string>Bigger</string>
----
-> 		<string>늘리기</string>
-12135c12135
-< 		<string>Export Persona</string>
----
-> 		<string>출력 페르소나</string>
-12251c12251
-< 		<string>Support...</string>
----
-> 		<string>지원...</string>
-12309c12309
-< 		<string>Toggle UI</string>
----
-> 		<string>UI 가리기</string>
-12368c12368
-< 		<string>Justify</string>
----
-> 		<string>맞춤</string>
-12443c12443
-< 		<string>On App Screen</string>
----
-> 		<string>응용프로그램 화면</string>
-12501c12501
-< 		<string>Reapply Text Styles</string>
----
-> 		<string>텍스트 스타일 재적용</string>
-12559c12559
-< 		<string>Show Paragraph</string>
----
-> 		<string>문단 작업실</string>
-12617c12617
-< 		<string>Distribute Vertically</string>
----
-> 		<string>세로 분배</string>
-12675c12675
-< 		<string>Reveal in Finder</string>
----
-> 		<string>Finder에서 찾기</string>
-12733c12733
-< 		<string>Move to Next View Point</string>
----
-> 		<string>다음 뷰 포인트로 이동</string>
-12791c12791
-< 		<string>Invert</string>
----
-> 		<string>반전</string>
-12849c12849
-< 		<string>Save</string>
----
-> 		<string>저장</string>
-12909c12909
-< 		<string>Increase</string>
----
-> 		<string>늘리기</string>
-12968c12968
-< 		<string>Threshold</string>
----
-> 		<string>역치</string>
-13143c13143
-< 		<string>Promote Group to Layer</string>
----
-> 		<string>그룹을 레이어로 승격</string>
-13203c13203
-< 		<string>Export…</string>
----
-> 		<string>출력…</string>
-13321c13321
-< 		<string>Precise Raise Baseline</string>
----
-> 		<string>기준선 정밀하게 올리기</string>
-13380c13380
-< 		<string>Tutorial...</string>
----
-> 		<string>튜토리얼...</string>
-13438c13438
-< 		<string>Convert Object to Artboard</string>
----
-> 		<string>오브젝트를 아트보드로 전환</string>
-13498c13498
-< 		<string>Spelling Options…</string>
----
-> 		<string>철자 설정…</string>
-13556c13556
-< 		<string>Convert Artboard to Object</string>
----
-> 		<string>아트보드를 오브젝트로 전환</string>
-13614c13614
-< 		<string>Expand Stroke</string>
----
-> 		<string>획 확장</string>
-13672c13672
-< 		<string>Create Compound</string>
----
-> 		<string>결합 생성</string>
-13845c13845
-< 		<string>Merge All Windows</string>
----
-> 		<string>모든 윈도우 합치기</string>
-13903c13903
-< 		<string>Create Paragraph Style</string>
----
-> 		<string>문단 스타일 생성</string>
-13961c13961
-< 		<string>Save Text Styles as Default</string>
----
-> 		<string>문자 스타일을 기본값으로 저장</string>
-14019c14019
-< 		<string>Justify Right</string>
----
-> 		<string>오른쪽 균등 정렬</string>
-14077c14077
 < 		<string>Lens Filter</string>
----
 > 		<string>렌즈 필터</string>
-14135c14135
-< 		<string>Flip Horizontal</string>
----
-> 		<string>가로 뒤집기</string>
-14193c14193
-< 		<string>Bottom</string>
----
-> 		<string>아래</string>
-14310c14310
-< 		<string>Show Typography</string>
----
-> 		<string>타이포그래피 작업실</string>
-14369c14369
-< 		<string>Save History With Document</string>
----
-> 		<string>편집 기록 저장</string>
-14427c14427
-< 		<string>Layer Effects…</string>
----
-> 		<string>레이어 효과…</string>
-14485c14485
-< 		<string>Align Middle</string>
----
-> 		<string>세로 가운데 정렬</string>
-14543c14543
-< 		<string>Add</string>
----
-> 		<string>추가</string>
-14603c14603
-< 		<string>Zoom to Selection</string>
----
-> 		<string>선택 항목에 맞추기</string>
-14661c14661
-< 		<string>Use All</string>
----
-> 		<string>모두 합자</string>
-14721c14721
-< 		<string>Pixel Size</string>
----
-> 		<string>픽셀 크기</string>
-14782c14782
-< 		<string>Move to Back</string>
----
-> 		<string>맨 뒤로 보내기</string>
-14842c14842
+< 		<string>Balance</string>
+> 		<string>밸런스</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AdvancedBlendingController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AffineEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AlignViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ApplyImageEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AssetsPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: AssistantOptions.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BatchJobItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BatchJobSubItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BatchPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BilateralEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BlendModePropertiesViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BoxEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushEditPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: BrushPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CameraShakeBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CameraShakeBlurEffect.nib
+< 		<string>Cancel</string>
+> 		<string>취소</string>
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Apply</string>
+> 		<string>적용</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CategoryViewCategory.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CategoryViewCategory.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ChannelItemView.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelRasterSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ChannelRasterSelectionItemView.nib
+< 		<string>Invert</string>
+> 		<string>반전</string>
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Select All</string>
+> 		<string>전체 선택</string>
 < 		<string>Deselect</string>
----
 > 		<string>선택 해제</string>
-14901c14901
-< 		<string>White Balance</string>
----
-> 		<string>화이트 밸런스</string>
-14959c14959
-< 		<string>Move to Previous View Point</string>
----
-> 		<string>이전 뷰 포인트로 이동</string>
-15017c15017
-< 		<string>Combine</string>
----
-> 		<string>배타</string>
-15075c15075
-< 		<string>Show Text Styles</string>
----
-> 		<string>텍스트 스타일 작업실</string>
-15133c15133
-< 		<string>Convert to Text Frame</string>
----
-> 		<string>텍스트 액자로 전환</string>
-15193c15193
-< 		<string>Loosen</string>
----
-> 		<string>넓게</string>
-15252c15252
-< 		<string>Centre</string>
----
-> 		<string>가운데</string>
-15312c15312
-< 		<string>Pixels (Retina)</string>
----
-> 		<string>픽셀 (레티나)</string>
-15371c15371
-< 		<string>Posterise</string>
----
-> 		<string>포스터화</string>
-15429c15429
-< 		<string>Grid and Axis Manager…</string>
----
-> 		<string>격자선 관리자…</string>
-15487c15487
-< 		<string>Check Spelling While Typing</string>
----
-> 		<string>작성하는 동안 철자 확인</string>
-15545c15545
-< 		<string>Dock Tools</string>
----
-> 		<string>도구 고정</string>
-15603c15603
-< 		<string>Rasterise to Mask</string>
----
-> 		<string>마스크 래스터화</string>
-15661c15661
-< 		<string>Factory Reset</string>
----
-> 		<string>기본값 재설정</string>
-15721c15721
-< 		<string>Em Dash</string>
----
-> 		<string>전각 줄표</string>
-15779c15779
-< 		<string>Find in Layers Panel</string>
----
-> 		<string>레이어 목록에서 찾기</string>
-15837c15837
-< 		<string>Rotate Left</string>
----
-> 		<string>왼쪽으로 회전</string>
-15895c15895
-< 		<string>Justify All</string>
----
-> 		<string>양쪽 균등 정렬</string>
-15955c15955
-< 		<string>Smaller</string>
----
-> 		<string>줄이기</string>
-16015c16015
-< 		<string>Move Forward One</string>
----
-> 		<string>앞으로 가져오기</string>
-16073c16073
-< 		<string>Update Character Style</string>
----
-> 		<string>문자 스타일 업데이트</string>
-16131c16131
-< 		<string>Insert Text from File…</string>
----
-> 		<string>파일에서 텍스트 삽입하기…</string>
-16189c16189
-< 		<string>Ignore Misspelt Word</string>
----
-> 		<string>철자 오류 무시</string>
-16362c16362
-< 		<string>Selective Colour</string>
----
-> 		<string>색상 선택</string>
-16483c16483
-< 		<string>Ungroup All</string>
----
-> 		<string>모든 그룹 해제</string>
-16541c16541
-< 		<string>Show Tools</string>
----
-> 		<string>도구 나타내기</string>
-16657c16657
-< 		<string>Channel Mixer</string>
----
-> 		<string>채널 혼합</string>
-16717c16717
-< 		<string>Black &amp; White</string>
----
-> 		<string>흑백</string>
-16776c16776
-< 		<string>Subtract</string>
----
-> 		<string>제거</string>
-16834c16834
-< 		<string>Vibrance</string>
----
-> 		<string>활기</string>
-16892c16892
-< 		<string>Soft Proof</string>
----
-> 		<string>미리보기</string>
-17010c17010
-< 		<string>Behind</string>
----
-> 		<string>뒤로</string>
-17070c17070
-< 		<string>Outline</string>
----
-> 		<string>윤곽</string>
-17130c17130
-< 		<string>Actual Size</string>
----
-> 		<string>실제 크기</string>
-17191c17191
-< 		<string>Precise Increase</string>
----
-> 		<string>정밀하게 늘리기</string>
-17250c17250
-< 		<string>Always Show Selection in Layers Panel </string>
----
-> 		<string>항상 레이어 목록에서 선택 항목 나타내기</string>
-17308c17308
-< 		<string>Delete Character Style</string>
----
-> 		<string>문자 스타일 지우기</string>
-17368c17368
-< 		<string>Select Next</string>
----
-> 		<string>다음 항목 선택</string>
-17480c17480
-< 		<string>Paste Without Format</string>
----
-> 		<string>포맷 없이 붙이기</string>
-17538c17538
-< 		<string>Levels</string>
----
-> 		<string>레벨</string>
-17596c17596
-< 		<string>Convert to Text Path</string>
----
-> 		<string>텍스트 경로로 전환</string>
-19408c19408
-< 		<string>Persona</string>
----
-> 		<string>페르소나</string>
-19645c19645
-< 		<string>Services</string>
----
-> 		<string>서비스</string>
-19810c19810
-< 		<string>File</string>
----
-> 		<string>파일</string>
-20390c20390
-< 		<string>Edit</string>
----
-> 		<string>편집</string>
-20588c20588
-< 		<string>Defaults</string>
----
-> 		<string>기본값</string>
-20664c20664
-< 		<string>Text</string>
----
-> 		<string>문자</string>
-20866,20867c20866,20867
-< 		<string>Character Traits</string>
-< 		<string>Character Traits</string>
----
-> 		<string>문자 특성</string>
-> 		<string>문자 특성</string>
-20944c20944
-< 		<string>Size</string>
----
-> 		<string>크기</string>
-21020c21020
-< 		<string>Spacing</string>
----
-> 		<string>공간</string>
-21146c21146
-< 		<string>Ligatures</string>
----
-> 		<string>합자</string>
-21218c21218
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSelectionItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSeparatorItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelSpareSelectionItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ChannelsPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CharacterPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CharacterPage.nib
+< 		<string>Typography</string>
+> 		<string>타이포그래피</string>
+< 		<string>Language</string>
+> 		<string>언어</string>
+< 		<string>Show Typography</string>
+> 		<string>타이포그래피 작업실</string>
 < 		<string>Baseline</string>
----
 > 		<string>기준선</string>
-21348,21349c21348,21349
-< 		<string>Capitalisation</string>
-< 		<string>Capitalisation</string>
----
-> 		<string>대문자화</string>
-> 		<string>대문자화</string>
-21459c21459
-< 		<string>Alignment</string>
----
-> 		<string>정렬</string>
-21704,21705c21704,21705
-< 		<string>Text Styles</string>
-< 		<string>Text Styles</string>
----
-> 		<string>텍스트 스타일</string>
-> 		<string>텍스트 스타일</string>
-21931,21932c21931,21932
-< 		<string>Insert Character</string>
-< 		<string>Insert Character</string>
----
-> 		<string>문자 삽입</string>
-> 		<string>문자 삽입</string>
-22196,22197c22196,22197
-< 		<string>Vertical Alignment</string>
-< 		<string>Vertical Alignment</string>
----
-> 		<string>세로 정렬</string>
-> 		<string>세로 정렬</string>
-22311c22311
-< 		<string>Spelling</string>
----
-> 		<string>철자</string>
-22473c22473
-< 		<string>Layer</string>
----
-> 		<string>레이어</string>
-22769c22769
-< 		<string>Arrange</string>
----
-> 		<string>순서</string>
-23070c23070
-< 		<string>Geometry</string>
----
-> 		<string>기하</string>
-23150c23150
-< 		<string>Transform</string>
----
-> 		<string>변형</string>
-23268c23268
-< 		<string>Insertion</string>
----
-> 		<string>삽입</string>
-23382,23383c23382,23383
-< 		<string>New Adjustment</string>
-< 		<string>New Adjustment</string>
----
-> 		<string>새로운 조정</string>
-> 		<string>새로운 조정</string>
-23839c23839
-< 		<string>Fill Mode</string>
----
-> 		<string>채우기 모드</string>
-23909c23909
-< 		<string>Select</string>
----
-> 		<string>선택</string>
-24035c24035
-< 		<string>View</string>
----
-> 		<string>뷰</string>
-24359c24359
-< 		<string>View Mode</string>
----
-> 		<string>뷰 모드</string>
-24977c24977
-< 		<string>Window</string>
----
-> 		<string>윈도우</string>
-25144c25144
-< 		<string>Bring All to Front</string>
----
-> 		<string>모두 앞으로 가져오기</string>
-25304c25304
-< 		<string>Help</string>
----
-> 		<string>도움말</string>
-25612c25612
-< 		<string>Text Wrap</string>
----
-> 		<string>줄바꿈</string>
-Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: Startup.nib
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/assets.strings
-42c42
-< 	<string>Context</string>
----
-> 	<string>문단</string>
-44c44
-< 	<string>Context (with options)</string>
----
-> 	<string>문단 (with options)</string>
-130c130
-< 	<string>News</string>
----
-> 	<string>뉴스</string>
-194c194
-< 	<string>Tables</string>
----
-> 	<string>표</string>
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/fills.strings
-6c6
+< 		<string>Character Style</string>
+> 		<string>문자 스타일</string>
+< 		<string>Shear</string>
+> 		<string>기울임</string>
+< 		<string>Vertical Scale</string>
+> 		<string>세로 배율</string>
+< 		<string>Vertical Scale</string>
+> 		<string>세로 배율</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ClarityEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ClearUserDataWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloneBrushSourceItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloneBrushSourcesPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloudConflictPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CloudUpdatePanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourCMYKSliderView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourEditor.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourGreySliderView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourHLSwatchModel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourHSLSliderView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourHSSwatchModel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourLABSliderView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourPickerPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourPickerViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourRGBHexSliderView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourRGBSliderView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourSLSwatchModel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourTintSliderView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ColourWheelModel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ConstraintsPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CreatePaletteFromImageWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: CustomBlurEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DebugPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DeformEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DefringeEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DenoiseEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DepthOfFieldEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopAssistantOptions.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopBasicItemViews.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopBasicPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopCameraItemViews.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopCameraPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopDetailsItemViews.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopDetailsPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopFocusPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopLensItemViews.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopLensPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopOverlayItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopOverlaysPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopSnapshotItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopSnapshotsPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopTonesItemViews.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DevelopTonesPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DiffuseEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DiffuseGlowEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DisplacementMapEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DocumentMarginsWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DocumentSetupWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: DustScratchEffect.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectItemDetailedViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectItemDetailedViews.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Add</string>
+> 		<string>추가</string>
+< 		<string>Colour:</string>
+> 		<string>색상:</string>
+< 		<string>Remove Profile</string>
+> 		<string>프로파일 지우기</string>
+< 		<string>Depth:</string>
+> 		<string>깊이:</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Colour Overlay</string>
+> 		<string>색상 씌우기</string>
+< 		<string>Remove Profile</string>
+> 		<string>프로파일 지우기</string>
+< 		<string>Shadow:</string>
+> 		<string>그림자:</string>
+< 		<string>Invert</string>
+> 		<string>반전</string>
+< 		<string>Inner</string>
+> 		<string>내부</string>
+< 		<string>Outer</string>
+> 		<string>외부</string>
+< 		<string>Emboss</string>
+> 		<string>양각</string>
+< 		<string>Bevel / Emboss</string>
+> 		<string>음각 / 양각</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Outer Glow</string>
+> 		<string>외부 광채</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Outer Shadow</string>
+> 		<string>외부 그림자</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Inner Glow</string>
+> 		<string>내부 광채</string>
+< 		<string>Centre</string>
+> 		<string>가운데</string>
+< 		<string>Inside</string>
+> 		<string>안으로</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Outline</string>
+> 		<string>윤곽</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Inner Shadow</string>
+> 		<string>내부 그림자</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>Gradient Overlay</string>
+> 		<string>그레이디언트 씌우기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectItemViews.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Opacity</string>
+> 		<string>불투명도</string>
+< 		<string>Bevel / Emboss</string>
+> 		<string>음각 / 양각</string>
+< 		<string>Colour</string>
+> 		<string>색상</string>
+< 		<string>Colour Overlay</string>
+> 		<string>색상 씌우기</string>
+< 		<string>Outer Glow</string>
+> 		<string>외부 광채</string>
+< 		<string>Angle</string>
+> 		<string>각도</string>
+< 		<string>Outer Shadow</string>
+> 		<string>외부 그림자</string>
+< 		<string>Inner Glow</string>
+> 		<string>내부 광채</string>
+< 		<string>Outline</string>
+> 		<string>윤곽</string>
+< 		<string>Inner Shadow</string>
+> 		<string>내부 그림자</string>
+< 		<string>Gradient Overlay</string>
+> 		<string>그레이디언트 씌우기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectsPage.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsSettings.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectsSettings.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Close</string>
+> 		<string>닫기</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsSettingsListItem.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectsSettingsListItem.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: EmbossEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: EquationTransformEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportCubePanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportFileItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportLayerItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportLayerPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportListConflicts.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportOptionsPresetDetail.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportOptionsView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportableItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportableItemsPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportablePathView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportableScalePathView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FFTDenoiseEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FadeRewindEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FeatherSelection.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FieldBlurEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FilesystemPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FillEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FillViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FontFamilyViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FontManagerWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FrequencySeparationEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GaussianEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GeolocationViewController.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GlyphBrowserPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GlyphBrowserPage.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GradientEditorController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GradientEditorView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GridsViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GridsViewControllerAdvance.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GridsWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GrowShrinkSelection.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: GuidesWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HDRPreviewPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HalftoneEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HazeRemovalEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HighPassEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HistogramPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: HistoryItemView.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistoryPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HistoryPage.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Position:</string>
+> 		<string>위치:</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ICCProfilePanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: InfoItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: InformationPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: KeyboardShortcutWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: KeywordsPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerItemView.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Add</string>
+> 		<string>추가</string>
+< 		<string>Intersect</string>
+> 		<string>교차</string>
+< 		<string>Subtract</string>
+> 		<string>제거</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerPage.nib
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Cut</string>
+> 		<string>오려두기</string>
+< 		<string>Copy</string>
+> 		<string>복사</string>
+< 		<string>Paste</string>
+> 		<string>붙이기</string>
+< 		<string>Hide</string>
+> 		<string>가리기</string>
+< 		<string>Lock</string>
+> 		<string>잠금</string>
+< 		<string>Delete</string>
+> 		<string>지우기</string>
+< 		<string>Duplicate</string>
+> 		<string>복제</string>
+< 		<string>Rasterise…</string>
+> 		<string>래스터화…</string>
+< 		<string>New Layer</string>
+> 		<string>새로운 레이어</string>
+< 		<string>New Pixel Layer</string>
+> 		<string>새로운 픽셀 레이어</string>
+< 		<string>Group</string>
+> 		<string>그룹</string>
+< 		<string>Ungroup</string>
+> 		<string>그룹 해제</string>
+< 		<string>Rasterise…</string>
+> 		<string>래스터화…</string>
+< 		<string>New Pixel Layer</string>
+> 		<string>새로운 픽셀 레이어</string>
+< 		<string>Rasterise…</string>
+> 		<string>래스터화…</string>
+< 		<string>New Pixel Layer</string>
+> 		<string>새로운 픽셀 레이어</string>
+< 		<string>Levels</string>
+> 		<string>레벨</string>
+< 		<string>White Balance</string>
+> 		<string>화이트 밸런스</string>
+< 		<string>Recolour</string>
+> 		<string>재색상</string>
+< 		<string>Posterise</string>
+> 		<string>포스터화</string>
+< 		<string>Vibrance</string>
+> 		<string>활기</string>
+< 		<string>Exposure</string>
+> 		<string>노출</string>
+< 		<string>Shadows / Highlights</string>
+> 		<string>그림자 / 빛</string>
+< 		<string>Threshold</string>
+> 		<string>역치</string>
+< 		<string>Curves</string>
+> 		<string>곡선</string>
+< 		<string>Channel Mixer</string>
+> 		<string>채널 혼합</string>
+< 		<string>Gradient Map</string>
+> 		<string>그레이디언트 맵</string>
+< 		<string>Selective Colour</string>
+> 		<string>색상 선택</string>
+< 		<string>Colour Balance</string>
+> 		<string>색상 밸런스</string>
+< 		<string>Invert</string>
+> 		<string>반전</string>
+< 		<string>Soft Proof</string>
+> 		<string>미리보기</string>
+< 		<string>Lens Filter</string>
+> 		<string>렌즈 필터</string>
+< 		<string>Edit All Layers</string>
+> 		<string>모든 레이어 편집</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPropertiesViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerPropertiesViewController.nib
+< 		<string>Colour</string>
+> 		<string>색상</string>
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Layer Name:</string>
+> 		<string>레이어 이름:</string>
+< 		<string>Layer Colour:</string>
+> 		<string>레이어 색상:</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LensBlurEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LensDistortionEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LightingEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LinePage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyBrushPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyMaskPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LiquifyMeshPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: LoadOptionsWindow.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Localizable.strings
+< 	<string>'%1' selected. </string>
+> 	<string>'%1' 선택됨. </string>
+< 	<string>Add Document Snapshot</string>
+> 	<string>문서 스냅샷 추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>After</string>
+> 	<string>이후</string>
+< 	<string>After</string>
+> 	<string>이후</string>
+< 	<string>Align Bottom</string>
+> 	<string>아래쪽 정렬</string>
+< 	<string>Align Bottom</string>
+> 	<string>아래쪽 정렬</string>
+< 	<string>Align Bottom</string>
+> 	<string>아래쪽 정렬</string>
+< 	<string>Align Centre</string>
+> 	<string>가로 가운데 정렬</string>
+< 	<string>Align Centre</string>
+> 	<string>가로 가운데 정렬</string>
+< 	<string>Align Centre</string>
+> 	<string>가로 가운데 정렬</string>
+< 	<string>Align Left</string>
+> 	<string>왼쪽 정렬</string>
+< 	<string>Align Left</string>
+> 	<string>왼쪽 정렬</string>
+< 	<string>Align Left</string>
+> 	<string>왼쪽 정렬</string>
+< 	<string>Align Middle</string>
+> 	<string>세로 가운데 정렬</string>
+< 	<string>Align Middle</string>
+> 	<string>세로 가운데 정렬</string>
+< 	<string>Align Middle</string>
+> 	<string>세로 가운데 정렬</string>
+< 	<string>Align Right</string>
+> 	<string>오른쪽 정렬</string>
+< 	<string>Align Right</string>
+> 	<string>오른쪽 정렬</string>
+< 	<string>Align Right</string>
+> 	<string>오른쪽 정렬</string>
+< 	<string>Align Top</string>
+> 	<string>위쪽 정렬</string>
+< 	<string>Align Top</string>
+> 	<string>위쪽 정렬</string>
+< 	<string>Align Top</string>
+> 	<string>위쪽 정렬</string>
+< 	<string>Align</string>
+> 	<string>정렬하기</string>
+< 	<string>Alignment</string>
+> 	<string>정렬</string>
+< 	<string>Alignment</string>
+> 	<string>정렬</string>
+< 	<string>Alignment</string>
+> 	<string>정렬</string>
+< 	<string>Alignment</string>
+> 	<string>정렬</string>
+< 	<string>All Caps</string>
+> 	<string>모두 대문자</string>
+< 	<string>All Caps</string>
+> 	<string>모두 대문자</string>
+< 	<string>All Caps</string>
+> 	<string>모두 대문자</string>
+< 	<string>Angle</string>
+> 	<string>각도</string>
+< 	<string>Angle</string>
+> 	<string>각도</string>
+< 	<string>Angle</string>
+> 	<string>각도</string>
+< 	<string>Angle</string>
+> 	<string>각도</string>
+< 	<string>Angle</string>
+> 	<string>각도</string>
+< 	<string>Angle</string>
+> 	<string>각도</string>
+< 	<string>Angle:</string>
+> 	<string>각도:</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
+< 	<string>Arrange</string>
+> 	<string>순서</string>
+< 	<string>Arrange</string>
+> 	<string>순서</string>
+< 	<string>Arrange</string>
+> 	<string>순서</string>
+< 	<string>Artboard Tool</string>
+> 	<string>아트보드 도구</string>
+< 	<string>Artboard Tool</string>
+> 	<string>아트보드 도구</string>
+< 	<string>Artboard Tool</string>
+> 	<string>아트보드 도구</string>
+< 	<string>Auto Colours</string>
+> 	<string>자동 색상</string>
+< 	<string>Auto Colours</string>
+> 	<string>자동 색상</string>
+< 	<string>Auto Colours</string>
+> 	<string>자동 색상</string>
+< 	<string>Auto Contrast</string>
+> 	<string>자동 대비</string>
+< 	<string>Auto Contrast</string>
+> 	<string>자동 대비</string>
+< 	<string>Auto Contrast</string>
+> 	<string>자동 대비</string>
+< 	<string>Auto Contrast</string>
+> 	<string>자동 대비</string>
+< 	<string>Auto Levels</string>
+> 	<string>자동 레벨</string>
+< 	<string>Auto Levels</string>
+> 	<string>자동 레벨</string>
+< 	<string>Auto Levels</string>
+> 	<string>자동 레벨</string>
+< 	<string>Auto Levels</string>
+> 	<string>자동 레벨</string>
+< 	<string>Auto White Balance</string>
+> 	<string>자동 화이트 밸런스</string>
+< 	<string>Auto White Balance</string>
+> 	<string>자동 화이트 밸런스</string>
+< 	<string>Auto White Balance</string>
+> 	<string>자동 화이트 밸런스</string>
+< 	<string>Auto White Balance</string>
+> 	<string>자동 화이트 밸런스</string>
+< 	<string>Back One</string>
+> 	<string>뒤로 보내기</string>
+< 	<string>Balance</string>
+> 	<string>밸런스</string>
+< 	<string>Balance</string>
+> 	<string>밸런스</string>
+< 	<string>Balance</string>
+> 	<string>밸런스</string>
+< 	<string>Baseline</string>
+> 	<string>기준선</string>
+< 	<string>Basic</string>
+> 	<string>기본</string>
+< 	<string>Basic</string>
+> 	<string>기본</string>
+< 	<string>Basic</string>
+> 	<string>기본</string>
+< 	<string>Basic</string>
+> 	<string>기본</string>
+< 	<string>Before</string>
+> 	<string>이전</string>
+< 	<string>Before</string>
+> 	<string>이전</string>
+< 	<string>Behind</string>
+> 	<string>뒤로</string>
+< 	<string>Black &amp; White</string>
+> 	<string>흑백</string>
+< 	<string>Black &amp; White</string>
+> 	<string>흑백</string>
+< 	<string>Black &amp; White</string>
+> 	<string>흑백</string>
+< 	<string>Black &amp; White</string>
+> 	<string>흑백</string>
 < 	<string>Black</string>
----
 > 	<string>검정</string>
-8c8
-< 	<string>Black 10%</string>
----
-> 	<string>검정 10%</string>
-10c10
-< 	<string>Black 15%</string>
----
-> 	<string>검정 15%</string>
-12c12
-< 	<string>Black 20%</string>
----
-> 	<string>검정 20%</string>
-14c14
-< 	<string>Black 25%</string>
----
-> 	<string>검정 25%</string>
-16c16
-< 	<string>Black 30%</string>
----
-> 	<string>검정 30%</string>
-18c18
-< 	<string>Black 35%</string>
----
-> 	<string>검정 35%</string>
-20c20
-< 	<string>Black 40%</string>
----
-> 	<string>검정 40%</string>
-22c22
-< 	<string>Black 45%</string>
----
-> 	<string>검정 45%</string>
-24c24
-< 	<string>Black 5%</string>
----
-> 	<string>검정 5%</string>
-26c26
-< 	<string>Black 50%</string>
----
-> 	<string>검정 50%</string>
-28c28
-< 	<string>Black 55%</string>
----
-> 	<string>검정 55%</string>
-30c30
-< 	<string>Black 60%</string>
----
-> 	<string>검정 60%</string>
-32c32
-< 	<string>Black 65%</string>
----
-> 	<string>검정 65%</string>
-34c34
-< 	<string>Black 70%</string>
----
-> 	<string>검정 70%</string>
-36c36
-< 	<string>Black 75%</string>
----
-> 	<string>검정 75%</string>
-38c38
-< 	<string>Black 80%</string>
----
-> 	<string>검정 80%</string>
-40c40
-< 	<string>Black 85%</string>
----
-> 	<string>검정 85%</string>
-42c42
-< 	<string>Black 90%</string>
----
-> 	<string>검정 90%</string>
-44c44
-< 	<string>Black 95%</string>
----
-> 	<string>검정 95%</string>
-46c46
-< 	<string>Black to transparent</string>
----
-> 	<string>검정에서 투명</string>
-48c48
-< 	<string>Black to white</string>
----
-> 	<string>검정에서 하양</string>
-50c50
-< 	<string>Colours</string>
----
+< 	<string>Black</string>
+> 	<string>검정</string>
+< 	<string>Black</string>
+> 	<string>검정</string>
+< 	<string>Black</string>
+> 	<string>검정</string>
+< 	<string>Bold</string>
+> 	<string>강조</string>
+< 	<string>Bold</string>
+> 	<string>강조</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
+< 	<string>Brightness / Contrast</string>
+> 	<string>명암 / 대비</string>
+< 	<string>Brightness / Contrast</string>
+> 	<string>명암 / 대비</string>
+< 	<string>Brightness / Contrast</string>
+> 	<string>명암 / 대비</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brush</string>
+> 	<string>붓</string>
+< 	<string>Brushes</string>
+> 	<string>붓</string>
+< 	<string>Brushes</string>
+> 	<string>붓</string>
+< 	<string>Brushes</string>
+> 	<string>붓</string>
+< 	<string>Brushes</string>
+> 	<string>붓</string>
+< 	<string>Brushes</string>
+> 	<string>붓</string>
+< 	<string>Brushes</string>
+> 	<string>붓</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
+< 	<string>Channel Mixer</string>
+> 	<string>채널 혼합</string>
+< 	<string>Channel Mixer</string>
+> 	<string>채널 혼합</string>
+< 	<string>Channel Mixer</string>
+> 	<string>채널 혼합</string>
+< 	<string>Character Style</string>
+> 	<string>문자 스타일</string>
+< 	<string>Character</string>
+> 	<string>문자</string>
+< 	<string>Character</string>
+> 	<string>문자</string>
+< 	<string>Character</string>
+> 	<string>문자</string>
+< 	<string>Check Spelling While Typing</string>
+> 	<string>작성하는 동안 철자 확인</string>
+< 	<string>Click</string>
+> 	<string>클릭</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
+< 	<string>Colour Balance</string>
+> 	<string>색상 밸런스</string>
+< 	<string>Colour Balance</string>
+> 	<string>색상 밸런스</string>
+< 	<string>Colour Balance</string>
+> 	<string>색상 밸런스</string>
+< 	<string>Colour Picker Tool</string>
+> 	<string>색상 선택기 도구</string>
+< 	<string>Colour Picker Tool</string>
+> 	<string>색상 선택기 도구</string>
+< 	<string>Colour</string>
 > 	<string>색상</string>
-52c52
-< 	<string>Gradients</string>
----
-> 	<string>그레이디언트</string>
-54c54
-< 	<string>Greys</string>
----
-> 	<string>회색</string>
-362c362
-< 	<string>White</string>
----
-> 	<string>하양</string>
-364c364
-< 	<string>White to black</string>
----
-> 	<string>하양에서 검정</string>
-366c366
-< 	<string>White to transparent</string>
----
-> 	<string>하양에서 투명</string>
-diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/objectstyles.strings
-6c6
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
+< 	<string>Colour:</string>
+> 	<string>색상:</string>
+< 	<string>Colours</string>
+> 	<string>색상</string>
+< 	<string>Colours</string>
+> 	<string>색상</string>
+< 	<string>Colours</string>
+> 	<string>색상</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
+< 	<string>Constraints</string>
+> 	<string>제약</string>
+< 	<string>Constraints</string>
+> 	<string>제약</string>
+< 	<string>Context</string>
+> 	<string>문단</string>
+< 	<string>Context</string>
+> 	<string>문단</string>
+< 	<string>Convert to Curves</string>
+> 	<string>곡선으로 전환</string>
+< 	<string>Convert to Curves</string>
+> 	<string>곡선으로 전환</string>
+< 	<string>Convert to Curves</string>
+> 	<string>곡선으로 전환</string>
+< 	<string>Copy</string>
+> 	<string>복사</string>
+< 	<string>Copy</string>
+> 	<string>복사</string>
+< 	<string>Create Slice</string>
+> 	<string>슬라이스 생성</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Custom</string>
+> 	<string>사용자화</string>
+< 	<string>Custom</string>
+> 	<string>사용자화</string>
+< 	<string>Custom</string>
+> 	<string>사용자화</string>
+< 	<string>Custom</string>
+> 	<string>사용자화</string>
+< 	<string>Cut</string>
+> 	<string>오려두기</string>
+< 	<string>Cut</string>
+> 	<string>오려두기</string>
 < 	<string>Default</string>
----
 > 	<string>기본값</string>
-8c8
-< 	<string>Glass</string>
----
-> 	<string>유리</string>
-10c10
-< 	<string>Metal</string>
----
-> 	<string>금속</string>
-12c12
-< 	<string>Onyx</string>
----
-> 	<string>오닉스</string>
-14c14
-< 	<string>Rainbow</string>
----
-> 	<string>무지개</string>
-16c16
-< 	<string>Salmon</string>
----
-> 	<string>연어</string>
-18c18
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Defaults</string>
+> 	<string>기본값</string>
+< 	<string>Defaults</string>
+> 	<string>기본값</string>
+< 	<string>Defaults</string>
+> 	<string>기본값</string>
+< 	<string>Defaults</string>
+> 	<string>기본값</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Depth</string>
+> 	<string>깊이</string>
+< 	<string>Depth</string>
+> 	<string>깊이</string>
+< 	<string>Desaturate</string>
+> 	<string>채도 낮추기</string>
+< 	<string>Desaturate</string>
+> 	<string>채도 낮추기</string>
+< 	<string>Desaturate</string>
+> 	<string>채도 낮추기</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Deselect</string>
+> 	<string>선택 해제</string>
+< 	<string>Develop Persona</string>
+> 	<string>개발 페르소나</string>
+< 	<string>Develop</string>
+> 	<string>개발</string>
+< 	<string>Develop</string>
+> 	<string>개발</string>
+< 	<string>Develop</string>
+> 	<string>개발</string>
+< 	<string>Develop</string>
+> 	<string>개발</string>
+< 	<string>Devices</string>
+> 	<string>기기</string>
+< 	<string>Distribute</string>
+> 	<string>분배</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
+< 	<string>Document Setup…</string>
+> 	<string>문서 설정…</string>
+< 	<string>Drag</string>
+> 	<string>드래그</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
+< 	<string>Edge</string>
+> 	<string>모서리</string>
+< 	<string>Edge</string>
+> 	<string>모서리</string>
+< 	<string>Edge</string>
+> 	<string>모서리</string>
+< 	<string>Edit</string>
+> 	<string>편집</string>
+< 	<string>Effects</string>
+> 	<string>효과</string>
+< 	<string>Ellipse</string>
+> 	<string>타원</string>
+< 	<string>Ellipse</string>
+> 	<string>타원</string>
+< 	<string>Ellipse</string>
+> 	<string>타원</string>
+< 	<string>Emboss</string>
+> 	<string>양각</string>
+< 	<string>Emboss</string>
+> 	<string>양각</string>
+< 	<string>Emboss</string>
+> 	<string>양각</string>
+< 	<string>Emboss</string>
+> 	<string>양각</string>
+< 	<string>Emboss</string>
+> 	<string>양각</string>
+< 	<string>Emboss</string>
+> 	<string>양각</string>
+< 	<string>Emboss</string>
+> 	<string>양각</string>
+< 	<string>Emphasis</string>
+> 	<string>강조</string>
+< 	<string>Entropy</string>
+> 	<string>엔트로피</string>
+< 	<string>Equations</string>
+> 	<string>수식</string>
+< 	<string>Equations</string>
+> 	<string>수식</string>
+< 	<string>Equations</string>
+> 	<string>수식</string>
+< 	<string>Equations</string>
+> 	<string>수식</string>
+< 	<string>Equations</string>
+> 	<string>수식</string>
+< 	<string>Equations</string>
+> 	<string>수식</string>
+< 	<string>Erase</string>
+> 	<string>지우기</string>
+< 	<string>Erase</string>
+> 	<string>지우기</string>
+< 	<string>Erase</string>
+> 	<string>지우기</string>
+< 	<string>Erase</string>
+> 	<string>지우기</string>
+< 	<string>Erase</string>
+> 	<string>지우기</string>
+< 	<string>Europe</string>
+> 	<string>유럽</string>
+< 	<string>Everything</string>
+> 	<string>모두</string>
+< 	<string>Expand stroke</string>
+> 	<string>획 펼치기</string>
+< 	<string>Expand stroke</string>
+> 	<string>획 펼치기</string>
+< 	<string>Expand stroke</string>
+> 	<string>획 펼치기</string>
+< 	<string>Export LUT</string>
+> 	<string>LUT 출력</string>
+< 	<string>Export LUT</string>
+> 	<string>LUT 출력</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure</string>
+> 	<string>노출</string>
+< 	<string>Exposure:</string>
+> 	<string>노출:</string>
+< 	<string>Factory Reset</string>
+> 	<string>기본값 재설정</string>
+< 	<string>Failed to open TIFF file</string>
+> 	<string>Tiff 파일을 열지 못했습니다.</string>
+< 	<string>Fill:</string>
+> 	<string>칠:</string>
+< 	<string>Flip Horizontal</string>
+> 	<string>가로 뒤집기</string>
+< 	<string>Flip Horizontal</string>
+> 	<string>가로 뒤집기</string>
+< 	<string>Flip Vertical</string>
+> 	<string>세로 뒤집기</string>
+< 	<string>Flip Vertical</string>
+> 	<string>세로 뒤집기</string>
+< 	<string>Font:</string>
+> 	<string>서체:</string>
+< 	<string>Forward One</string>
+> 	<string>앞으로 가져오기</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>General</string>
+> 	<string>일반</string>
+< 	<string>Geometry</string>
+> 	<string>기하</string>
+< 	<string>Glow</string>
+> 	<string>광채</string>
+< 	<string>Glow</string>
+> 	<string>광채</string>
+< 	<string>Gradient Map</string>
+> 	<string>그레이디언트 맵</string>
+< 	<string>Gradient Map</string>
+> 	<string>그레이디언트 맵</string>
+< 	<string>Gradient Map</string>
+> 	<string>그레이디언트 맵</string>
+< 	<string>Gradient Overlay</string>
+> 	<string>그레이디언트 씌우기</string>
+< 	<string>Gradient Overlay</string>
+> 	<string>그레이디언트 씌우기</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Help</string>
+> 	<string>도움말</string>
+< 	<string>Help</string>
+> 	<string>도움말</string>
+< 	<string>History</string>
+> 	<string>편집 기록</string>
+< 	<string>History</string>
+> 	<string>편집 기록</string>
+< 	<string>History</string>
+> 	<string>편집 기록</string>
+< 	<string>Hold</string>
+> 	<string>유지</string>
+< 	<string>Home</string>
+> 	<string>홈</string>
+< 	<string>Home</string>
+> 	<string>홈</string>
+< 	<string>Inner</string>
+> 	<string>내부</string>
+< 	<string>Inner</string>
+> 	<string>내부</string>
+< 	<string>Inside</string>
+> 	<string>안으로</string>
+< 	<string>Inside</string>
+> 	<string>안으로</string>
+< 	<string>Inside</string>
+> 	<string>안으로</string>
+< 	<string>Inside</string>
+> 	<string>안으로</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
+< 	<string>Invert Selection</string>
+> 	<string>선택 항목 반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Invert</string>
+> 	<string>반전</string>
+< 	<string>Italic</string>
+> 	<string>기울임</string>
+< 	<string>Justify</string>
+> 	<string>맞춤</string>
+< 	<string>Justify</string>
+> 	<string>맞춤</string>
+< 	<string>Language</string>
+> 	<string>언어</string>
+< 	<string>Large</string>
+> 	<string>크게</string>
+< 	<string>Large</string>
+> 	<string>크게</string>
+< 	<string>Layer</string>
+> 	<string>레이어</string>
+< 	<string>Layer</string>
+> 	<string>레이어</string>
+< 	<string>Layers</string>
+> 	<string>레이어</string>
+< 	<string>Layers</string>
+> 	<string>레이어</string>
+< 	<string>Layout</string>
+> 	<string>구조</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Lens Filter</string>
+> 	<string>렌즈 필터</string>
+< 	<string>Lens Filter</string>
+> 	<string>렌즈 필터</string>
+< 	<string>Lens Filter</string>
+> 	<string>렌즈 필터</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Levels</string>
+> 	<string>레벨</string>
+< 	<string>Library</string>
+> 	<string>라이브러리</string>
+< 	<string>Ligatures</string>
+> 	<string>합자</string>
+< 	<string>Liquify Persona</string>
+> 	<string>액화 페르소나</string>
+< 	<string>Liquify</string>
+> 	<string>액화</string>
+< 	<string>Liquify</string>
+> 	<string>액화</string>
+< 	<string>Liquify</string>
+> 	<string>액화</string>
+< 	<string>Lock</string>
+> 	<string>잠금</string>
+< 	<string>Lock</string>
+> 	<string>잠금</string>
+< 	<string>Mask All</string>
+> 	<string>모두 마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Mask</string>
+> 	<string>마스크</string>
+< 	<string>Maximum</string>
+> 	<string>최대</string>
+< 	<string>Maximum</string>
+> 	<string>최대</string>
+< 	<string>Medium</string>
+> 	<string>중간</string>
+< 	<string>Mesh</string>
+> 	<string>그물</string>
+< 	<string>Mesh</string>
+> 	<string>그물</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Miscellaneous</string>
+> 	<string>기타</string>
+< 	<string>Move To Front</string>
+> 	<string>맨 앞으로 가져오기</string>
+< 	<string>Move Tool</string>
+> 	<string>이동 도구</string>
+< 	<string>Move Tool</string>
+> 	<string>이동 도구</string>
+< 	<string>Move Tool</string>
+> 	<string>이동 도구</string>
+< 	<string>Move to Back</string>
+> 	<string>맨 뒤로 보내기</string>
+< 	<string>Move to Front</string>
+> 	<string>맨 앞으로 가져오기</string>
+< 	<string>Navigator</string>
+> 	<string>네비게이터</string>
+< 	<string>New Document</string>
+> 	<string>신규 문서</string>
+< 	<string>New Layer</string>
+> 	<string>새로운 레이어</string>
+< 	<string>New Layer</string>
+> 	<string>새로운 레이어</string>
+< 	<string>New Layer</string>
+> 	<string>새로운 레이어</string>
+< 	<string>New Layer</string>
+> 	<string>새로운 레이어</string>
+< 	<string>New Pixel Layer</string>
+> 	<string>새로운 픽셀 레이어</string>
+< 	<string>New Pixel Layer</string>
+> 	<string>새로운 픽셀 레이어</string>
+< 	<string>New Pixel Layer</string>
+> 	<string>새로운 픽셀 레이어</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>New</string>
+> 	<string>신규</string>
+< 	<string>No Snapshot</string>
+> 	<string>스냅샷 없음</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>Node Tool</string>
+> 	<string>마디 도구</string>
+< 	<string>Node Tool</string>
+> 	<string>마디 도구</string>
+< 	<string>Node Tool</string>
+> 	<string>마디 도구</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
+< 	<string>Opacity:</string>
+> 	<string>불투명도:</string>
+< 	<string>Opacity:</string>
+> 	<string>불투명도:</string>
+< 	<string>Order</string>
+> 	<string>순서</string>
+< 	<string>Outer</string>
+> 	<string>외부</string>
+< 	<string>Outer</string>
+> 	<string>외부</string>
+< 	<string>Outline</string>
+> 	<string>윤곽</string>
+< 	<string>Outline</string>
+> 	<string>윤곽</string>
+< 	<string>Panorama Persona</string>
+> 	<string>파노라마 페르소나</string>
+< 	<string>Panorama</string>
+> 	<string>파노라마</string>
+< 	<string>Paragraph</string>
+> 	<string>문단</string>
+< 	<string>Paragraph</string>
+> 	<string>문단</string>
+< 	<string>Paragraph</string>
+> 	<string>문단</string>
+< 	<string>Paragraph</string>
+> 	<string>문단</string>
+< 	<string>Paragraph</string>
+> 	<string>문단</string>
+< 	<string>Paste FX</string>
+> 	<string>효과 붙이기</string>
+< 	<string>Paste Inside</string>
+> 	<string>안으로 붙이기</string>
+< 	<string>Paste Style</string>
+> 	<string>스타일 붙이기</string>
+< 	<string>Paste</string>
+> 	<string>붙이기</string>
+< 	<string>Paste</string>
+> 	<string>붙이기</string>
+< 	<string>Pen Tool</string>
+> 	<string>펜 도구</string>
+< 	<string>Pen Tool</string>
+> 	<string>펜 도구</string>
+< 	<string>Pen</string>
+> 	<string>펜</string>
+< 	<string>Pen</string>
+> 	<string>펜</string>
+< 	<string>Pen</string>
+> 	<string>펜</string>
+< 	<string>Pen</string>
+> 	<string>펜</string>
+< 	<string>Pencil Tool</string>
+> 	<string>연필 도구</string>
+< 	<string>Pencil Tool</string>
+> 	<string>연필 도구</string>
+< 	<string>Pencil</string>
+> 	<string>연필</string>
+< 	<string>Percentage</string>
+> 	<string>백분율</string>
+< 	<string>Performance</string>
+> 	<string>성능</string>
+< 	<string>Photo</string>
+> 	<string>사진</string>
+< 	<string>Photo</string>
+> 	<string>사진</string>
+< 	<string>Photo</string>
+> 	<string>사진</string>
+< 	<string>Pixel</string>
+> 	<string>픽셀</string>
+< 	<string>Pixel</string>
+> 	<string>픽셀</string>
+< 	<string>Pixel</string>
+> 	<string>픽셀</string>
+< 	<string>Pixels</string>
+> 	<string>픽셀</string>
+< 	<string>Pixels</string>
+> 	<string>픽셀</string>
+< 	<string>Pixels</string>
+> 	<string>픽셀</string>
+< 	<string>Pixels</string>
+> 	<string>픽셀</string>
+< 	<string>Plugin</string>
+> 	<string>플러그인</string>
+< 	<string>Posterise</string>
+> 	<string>포스터화</string>
+< 	<string>Posterise</string>
+> 	<string>포스터화</string>
+< 	<string>Posterise</string>
+> 	<string>포스터화</string>
+< 	<string>Preferences…</string>
+> 	<string>환경설정…</string>
+< 	<string>Print</string>
+> 	<string>인쇄</string>
+< 	<string>Print</string>
+> 	<string>인쇄</string>
+< 	<string>Print</string>
+> 	<string>인쇄</string>
+< 	<string>Print</string>
+> 	<string>인쇄</string>
+< 	<string>Recent</string>
+> 	<string>최근 사용 항목</string>
+< 	<string>Recent</string>
+> 	<string>최근 사용 항목</string>
+< 	<string>Recolour</string>
+> 	<string>재색상</string>
+< 	<string>Recolour</string>
+> 	<string>재색상</string>
+< 	<string>Recolour</string>
+> 	<string>재색상</string>
+< 	<string>Rectangle</string>
+> 	<string>직사각형</string>
+< 	<string>Rectangle</string>
+> 	<string>직사각형</string>
+< 	<string>Rectangle</string>
+> 	<string>직사각형</string>
+< 	<string>Redo %@</string>
+> 	<string>%@ 다시 실행</string>
+< 	<string>Redo</string>
+> 	<string>다시 실행</string>
+< 	<string>Redo</string>
+> 	<string>다시 실행</string>
+< 	<string>Redo</string>
+> 	<string>다시 실행</string>
+< 	<string>Redo</string>
+> 	<string>다시 실행</string>
+< 	<string>Remove Profile</string>
+> 	<string>프로파일 지우기</string>
+< 	<string>Remove Profile</string>
+> 	<string>프로파일 지우기</string>
+< 	<string>Rename Palette...</string>
+> 	<string>팔레트 이름 변경...</string>
+< 	<string>Reset Selection Box</string>
+> 	<string>선택 항목 상자 재설정</string>
+< 	<string>Retina Pixels</string>
+> 	<string>레티나 픽셀</string>
+< 	<string>Revert</string>
+> 	<string>되돌리기</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Rotate Anticlockwise</string>
+> 	<string>반시계방향으로 회전</string>
+< 	<string>Rotate Anticlockwise</string>
+> 	<string>반시계방향으로 회전</string>
+< 	<string>Rotate Clockwise</string>
+> 	<string>시계방향으로 회전</string>
+< 	<string>Rotate Clockwise</string>
+> 	<string>시계방향으로 회전</string>
+< 	<string>Save</string>
+> 	<string>저장</string>
+< 	<string>Save</string>
+> 	<string>저장</string>
+< 	<string>Save</string>
+> 	<string>저장</string>
+< 	<string>Save</string>
+> 	<string>저장</string>
+< 	<string>Saving TIFF</string>
+> 	<string>TIFF 저장중</string>
+< 	<string>Select All</string>
+> 	<string>전체 선택</string>
+< 	<string>Select All</string>
+> 	<string>전체 선택</string>
+< 	<string>Select All</string>
+> 	<string>전체 선택</string>
+< 	<string>Select All</string>
+> 	<string>전체 선택</string>
+< 	<string>Select</string>
+> 	<string>선택</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selection</string>
+> 	<string>선택 항목</string>
+< 	<string>Selective Colour</string>
+> 	<string>색상 선택</string>
+< 	<string>Selective Colour</string>
+> 	<string>색상 선택</string>
+< 	<string>Selective Colour</string>
+> 	<string>색상 선택</string>
+< 	<string>Shadows / Highlights</string>
+> 	<string>그림자 / 빛</string>
+< 	<string>Shadows / Highlights</string>
+> 	<string>그림자 / 빛</string>
+< 	<string>Shadows / Highlights</string>
+> 	<string>그림자 / 빛</string>
+< 	<string>Shadows / Highlights</string>
+> 	<string>그림자 / 빛</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
+< 	<string>Show All</string>
+> 	<string>모두 보기</string>
+< 	<string>Show Grid</string>
+> 	<string>격자선 나타내기</string>
+< 	<string>Show Guides</string>
+> 	<string>안내선 나타내기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
+< 	<string>Small Caps</string>
+> 	<string>작은 대문자</string>
+< 	<string>Small Caps</string>
+> 	<string>작은 대문자</string>
+< 	<string>Small Caps</string>
+> 	<string>작은 대문자</string>
+< 	<string>Small</string>
+> 	<string>작게</string>
+< 	<string>Small</string>
+> 	<string>작게</string>
+< 	<string>Snapping</string>
+> 	<string>스내핑</string>
+< 	<string>Snapshot</string>
+> 	<string>스냅샷</string>
+< 	<string>Snapshots Studio</string>
+> 	<string>스냅샷 작업실</string>
+< 	<string>Snapshots</string>
+> 	<string>스냅샷</string>
+< 	<string>Snp</string>
+> 	<string>스냅</string>
+< 	<string>Soft Proof</string>
+> 	<string>미리보기</string>
+< 	<string>Soft Proof</string>
+> 	<string>미리보기</string>
+< 	<string>Soft Proof</string>
+> 	<string>미리보기</string>
+< 	<string>Space Horizontally</string>
+> 	<string>가로 공간</string>
+< 	<string>Space Vertically</string>
+> 	<string>세로 공간</string>
+< 	<string>Spacing</string>
+> 	<string>공간</string>
+< 	<string>Spacing</string>
+> 	<string>공간</string>
+< 	<string>Spacing</string>
+> 	<string>공간</string>
+< 	<string>Split</string>
+> 	<string>분할</string>
+< 	<string>Strikeout</string>
+> 	<string>취소선</string>
+< 	<string>Stroke</string>
+> 	<string>획</string>
+< 	<string>Stroke</string>
+> 	<string>획</string>
+< 	<string>Stroke</string>
+> 	<string>획</string>
+< 	<string>Stroke:</string>
+> 	<string>획:</string>
 < 	<string>Style</string>
----
 > 	<string>스타일</string>
-20c20
-< 	<string>Sunset</string>
----
-> 	<string>석양</string>
-Files /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brushes.strings and /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/raster_brushes.strings are identical
-Files /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brushes.strings and /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/vector_brushes.strings are identical
+< 	<string>Style</string>
+> 	<string>스타일</string>
+< 	<string>Style</string>
+> 	<string>스타일</string>
+< 	<string>Styles</string>
+> 	<string>스타일</string>
+< 	<string>Styles</string>
+> 	<string>스타일</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
+< 	<string>Swatches</string>
+> 	<string>견본</string>
+< 	<string>Swatches</string>
+> 	<string>견본</string>
+< 	<string>Swatches</string>
+> 	<string>견본</string>
+< 	<string>Symbols Studio</string>
+> 	<string>상징 작업실</string>
+< 	<string>Symbols</string>
+> 	<string>상징</string>
+< 	<string>Symbols</string>
+> 	<string>상징</string>
+< 	<string>Sync After</string>
+> 	<string>이후 항목 동기화</string>
+< 	<string>Sync After</string>
+> 	<string>이후 항목 동기화</string>
+< 	<string>Sync Before</string>
+> 	<string>이전 항목 동기화</string>
+< 	<string>Sync Before</string>
+> 	<string>이전 항목 동기화</string>
+< 	<string>Synchronise from Selection</string>
+> 	<string>선택 항목에서 기본값 동기화</string>
+< 	<string>System</string>
+> 	<string>시스템</string>
+< 	<string>Text Styles</string>
+> 	<string>텍스트 스타일</string>
+< 	<string>Text Styles</string>
+> 	<string>텍스트 스타일</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Text</string>
+> 	<string>문자</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Threshold</string>
+> 	<string>역치</string>
+< 	<string>Tone Mapping Persona</string>
+> 	<string>톤 맵핑 페르소나</string>
+< 	<string>Tone Mapping</string>
+> 	<string>톤 맵핑</string>
+< 	<string>Tones</string>
+> 	<string>색조</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Tools</string>
+> 	<string>도구</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Top</string>
+> 	<string>위로</string>
+< 	<string>Transform</string>
+> 	<string>변형</string>
+< 	<string>Transform</string>
+> 	<string>변형</string>
+< 	<string>Transform</string>
+> 	<string>변형</string>
+< 	<string>Triangle Tool</string>
+> 	<string>삼각형 도구</string>
+< 	<string>Triangle Tool</string>
+> 	<string>삼각형 도구</string>
+< 	<string>Typography</string>
+> 	<string>타이포그래피</string>
+< 	<string>Typography</string>
+> 	<string>타이포그래피</string>
+< 	<string>Typography</string>
+> 	<string>타이포그래피</string>
+< 	<string>Underline</string>
+> 	<string>밑줄</string>
+< 	<string>Underline</string>
+> 	<string>밑줄</string>
+< 	<string>Underline</string>
+> 	<string>밑줄</string>
+< 	<string>Undo %@</string>
+> 	<string>%@ 실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Undo</string>
+> 	<string>실행 취소</string>
+< 	<string>Ungroup</string>
+> 	<string>그룹 해제</string>
+< 	<string>Ungroup</string>
+> 	<string>그룹 해제</string>
+< 	<string>Ungroup</string>
+> 	<string>그룹 해제</string>
+< 	<string>Union</string>
+> 	<string>병합</string>
+< 	<string>Unlock All</string>
+> 	<string>모두 잠금 해제</string>
+< 	<string>Unlock</string>
+> 	<string>잠금 해제</string>
+< 	<string>Vector</string>
+> 	<string>벡터</string>
+< 	<string>Vector</string>
+> 	<string>벡터</string>
+< 	<string>Vector</string>
+> 	<string>벡터</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>Vibrance</string>
+> 	<string>활기</string>
+< 	<string>View Tool</string>
+> 	<string>뷰 도구</string>
+< 	<string>View Tool</string>
+> 	<string>뷰 도구</string>
+< 	<string>View Tool</string>
+> 	<string>뷰 도구</string>
+< 	<string>View</string>
+> 	<string>뷰</string>
+< 	<string>Web</string>
+> 	<string>웹</string>
+< 	<string>Web</string>
+> 	<string>웹</string>
+< 	<string>Web</string>
+> 	<string>웹</string>
+< 	<string>White Balance</string>
+> 	<string>화이트 밸런스</string>
+< 	<string>White Balance</string>
+> 	<string>화이트 밸런스</string>
+< 	<string>White Balance</string>
+> 	<string>화이트 밸런스</string>
+< 	<string>White Balance</string>
+> 	<string>화이트 밸런스</string>
+< 	<string>White</string>
+> 	<string>하양</string>
+< 	<string>Width:</string>
+> 	<string>두께:</string>
+< 	<string>Width:</string>
+> 	<string>두께:</string>
+< 	<string>Width:</string>
+> 	<string>두께:</string>
+< 	<string>Width:</string>
+> 	<string>두께:</string>
+< 	<string>Window</string>
+> 	<string>윈도우</string>
+< 	<string>Window</string>
+> 	<string>윈도우</string>
+< 	<string>Yellow</string>
+> 	<string>노랑</string>
+< 	<string>Yellow</string>
+> 	<string>노랑</string>
+< 	<string>Yellow</string>
+> 	<string>노랑</string>
+< 	<string>Yellow</string>
+> 	<string>노랑</string>
+< 	<string>Yellow</string>
+> 	<string>노랑</string>
+< 	<string>Yellow</string>
+> 	<string>노랑</string>
+< 	<string>Yes</string>
+> 	<string>네</string>
+< 	<string>Yes</string>
+> 	<string>네</string>
+< 	<string>Yes</string>
+> 	<string>네</string>
+< 	<string>Yes</string>
+> 	<string>네</string>
+< 	<string>Zoom Tool</string>
+> 	<string>맞추기 도구</string>
+< 	<string>Zoom</string>
+> 	<string>맞추기</string>
+< 	<string>Zoom</string>
+> 	<string>맞추기</string>
+< 	<string>Zoom</string>
+> 	<string>맞추기</string>
+< 	<string>Zoom</string>
+> 	<string>맞추기</string>
+< 	<string>Zoom to Fit</string>
+> 	<string>화면 크기에 맞추기</string>
+< 	<string>Zoom to Selection</string>
+> 	<string>선택 항목에 맞추기</string>
+< 	<string>a</string>
+> 	<string>[변화 없음]</string>
+< 	<string>m</string>
+> 	<string>[같은 스타일]</string>
+< 	<string>n/a</string>
+> 	<string>없음</string>
+< 	<string>n/a</string>
+> 	<string>없음</string>
+< 	<string>n/a</string>
+> 	<string>없음</string>
+< 	<string>|DRAG| to move selection.</string>
+> 	<string>|DRAG|해서 선택 항목을 움직입니다.</string>
+< 	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>
+> 	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroCategoryItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroEditViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacroSelectLayerPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacrosItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MacrosPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MainWindow.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MatteEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MaximumEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MedianEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MergeTextStyles.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MinimumEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MirrorEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: MotionBlurEffect.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NavigatorPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NavigatorPage.nib
+< 		<string>Add</string>
+> 		<string>추가</string>
+< 		<string>Zoom:</string>
+> 		<string>맞추기:</string>
+< 		<string>System</string>
+> 		<string>시스템</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewBatchPanel.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel MultiSpread.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewDocPanel MultiSpread.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Default</string>
+> 		<string>기본값</string>
+< 		<string>Transparent background</string>
+> 		<string>투명한 배경</string>
+< 		<string>Include Margins</string>
+> 		<string>여백 포함</string>
+< 		<string>Create artboard</string>
+> 		<string>아트보드 생성</string>
+< 		<string>Custom</string>
+> 		<string>사용자화</string>
+< 		<string>Print</string>
+> 		<string>인쇄</string>
+< 		<string>Photo</string>
+> 		<string>사진</string>
+< 		<string>Devices</string>
+> 		<string>기기</string>
+< 		<string>New Document</string>
+> 		<string>신규 문서</string>
+< 		<string>Document Units:</string>
+> 		<string>문서 단위:</string>
+< 		<string>Cancel</string>
+> 		<string>취소</string>
+< 		<string>Colour:</string>
+> 		<string>색상:</string>
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewDocPanel.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Default</string>
+> 		<string>기본값</string>
+< 		<string>Transparent background</string>
+> 		<string>투명한 배경</string>
+< 		<string>Include Margins</string>
+> 		<string>여백 포함</string>
+< 		<string>Create artboard</string>
+> 		<string>아트보드 생성</string>
+< 		<string>Custom</string>
+> 		<string>사용자화</string>
+< 		<string>Print</string>
+> 		<string>인쇄</string>
+< 		<string>Photo</string>
+> 		<string>사진</string>
+< 		<string>Devices</string>
+> 		<string>기기</string>
+< 		<string>New Document</string>
+> 		<string>신규 문서</string>
+< 		<string>Document Units:</string>
+> 		<string>문서 단위:</string>
+< 		<string>Cancel</string>
+> 		<string>취소</string>
+< 		<string>Colour:</string>
+> 		<string>색상:</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewFocusMergePanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewHDRMergePanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewPanoramaPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NewStackPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: NoiseEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenAccessoryViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenImageAccessoryViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OpenTypeWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: OutlineSelection.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Page Setup.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Page Setup.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Default</string>
+> 		<string>기본값</string>
+< 		<string>Colour</string>
+> 		<string>색상</string>
+< 		<string>Photo</string>
+> 		<string>사진</string>
+< 		<string>Cancel</string>
+> 		<string>취소</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PageSetupWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PagesPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PaletteModel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PalettisationView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PanoramaItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PanoramaSourceItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ParagraphPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PerlinNoiseEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PerspectiveEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PinchPunchEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PixelateEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: Preferences.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PresetsPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PressureViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PrintersMarksAccessoryView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: PrintingAccessoryViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ProfileEditorView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ProgressPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RadialBlurEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RasteriseOptionsPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RefineSelection.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RemoveVignetteEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ResizeCanvasPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ResizePanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ResizePixelArtPanel.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ResourceManagerWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: RippleEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SaveAccessoryViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ScanningController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SelectDocument.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SelectSampledColour.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ShadowsHighlightsEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ShearEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SmoothSelection.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnappingOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnappingOptions.nib
+< 		<string>Snapping</string>
+> 		<string>스내핑</string>
+< 		<string>Close</string>
+> 		<string>닫기</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SnappingOptionsViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SnapshotItemView.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnapshotsPage.nib
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Add Snapshot</string>
+> 		<string>스냅샷 추가</string>
+< 		<string>Delete Snapshot</string>
+> 		<string>스냅샷 지우기</string>
+< 		<string>New Document From Snapshot</string>
+> 		<string>스냅샷으로부터 신규 문서</string>
+< 		<string>Restore Snapshot</string>
+> 		<string>스냅샷 복원</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SpellingWindowController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SphereEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: StockPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: StyleItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: StylesPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SwatchesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SwatchesPage.nib
+< 		<string>Add Global Colour…</string>
+> 		<string>전역 색상 추가…</string>
+< 		<string>Rename Palette...</string>
+> 		<string>팔레트 이름 변경...</string>
+< 		<string>Delete Palette</string>
+> 		<string>팔레트 지우기</string>
+< 		<string>Set as Default for</string>
+> 		<string>기본값으로 설정하기</string>
+< 		<string>Set as Default for</string>
+> 		<string>기본값으로 설정하기</string>
+< 		<string>Create Palette From Document</string>
+> 		<string>문서로부터 팔레트 생성</string>
+< 		<string>Create Palette From Document</string>
+> 		<string>문서로부터 팔레트 생성</string>
+< 		<string>As Application Palette</string>
+> 		<string>응용프로그램 팔레트로</string>
+< 		<string>As Document Palette</string>
+> 		<string>문서 팔레트로</string>
+< 		<string>As System Palette</string>
+> 		<string>시스템 팔레트로</string>
+< 		<string>Small</string>
+> 		<string>작게</string>
+< 		<string>Large</string>
+> 		<string>크게</string>
+< 		<string>Sort</string>
+> 		<string>정렬</string>
+< 		<string>Alphabetical</string>
+> 		<string>알파벳</string>
+< 		<string>Colour</string>
+> 		<string>색상</string>
+< 		<string>As Application Palette</string>
+> 		<string>응용프로그램 팔레트로</string>
+< 		<string>As Document Palette</string>
+> 		<string>문서 팔레트로</string>
+< 		<string>As System Palette</string>
+> 		<string>시스템 팔레트로</string>
+< 		<string>Opacity:</string>
+> 		<string>불투명도:</string>
+< 		<string>System</string>
+> 		<string>시스템</string>
+< 		<string>Recent:</string>
+> 		<string>최근 사용 항목:</string>
+< 		<string>Delete Colour</string>
+> 		<string>색상 지우기</string>
+< 		<string>Shades</string>
+> 		<string>음영</string>
+< 		<string>Tones</string>
+> 		<string>색조</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SymbolItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SymbolsPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TextFramePage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TextStyleEditor.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TextStylesPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TextWrappingDialogController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToastPanelController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapItemViews.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapOverlayItemView.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapOverlaysPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToneMapPresetsPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToolUIPaletteViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ToolbarPalette.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TransformPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TransparencyEditorController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TransparencyViewController.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: TwirlEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: UnsharpMaskEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: VignetteEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: WaveformPage.nib
+diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/WelcomeWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/WelcomeWindowController.nib
+< 		<string>Close</string>
+> 		<string>닫기</string>
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: XMPPage.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ZMapBlurEffect.nib
+Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ZoomBlurEffect.nib
