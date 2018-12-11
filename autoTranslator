@@ -81,14 +81,27 @@ else
       /usr/bin/sudo ./SyncPhotoFrameworks
     fi
   else
-    for (( i = 1; i <= 12; i++ ))
-    do
-      NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-      echo $i"." $NAME"을 번역합니다."
-      /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/"$NAME" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"
-      echo "번역이 끝났습니다."
-    done
-    /usr/bin/sudo ./SyncPhoto
+    if [ $BETA -eq 1 ]
+    then
+      echo "Beta를 번역합니다."
+      for (( i = 1; i <= 12; i++ ))
+      do
+        NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Photo_Beta/"$NAME".temp && /bin/mv Photo_Beta/"$NAME".temp Photo_Beta/"$NAME"
+        echo "번역이 끝났습니다."
+      done
+      /usr/bin/sudo ./SyncPhoto_Beta
+    else
+      for (( i = 1; i <= 12; i++ ))
+      do
+        NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/"$NAME" > Photo/"$NAME".temp && /bin/mv Photo/"$NAME".temp Photo/"$NAME"
+        echo "번역이 끝났습니다."
+      done
+      /usr/bin/sudo ./SyncPhoto
+    fi
   fi
 fi
 echo "작성이 끝났습니다. 다시 시작은 1, 종료는 0을 입력하세요."
