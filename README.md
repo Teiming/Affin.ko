@@ -15,25 +15,40 @@ Affinity 시리즈의 한글화를 위하여. (기존 시스템의 비효율성�
 Terminal.app에서 다음 명령어를 입력합니다. 번역된 자료를 다운로드할 수 있습니다.
 ```sh
 git clone https://github.com/Teiming/Affinity-in-Korean.git
+chmod +x ~/Affinity-in-Korean/Sync*
 ```
 ### Affinity Designer
 다음 명령어를 입력하고 Affinity Designer를 번역합니다. 번역은 자주 갱신됩니다. 최신 번역을 이용하고 싶다면 명령어를 다시 입력합니다.
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-chmod +x ./DesignerSync
-sudo ./DesignerSync
+sudo ./SyncDesigner
+sudo ./SyncDesignerFrameworks
+```
+Beta 프로그램은 다음 명령어를 입력합니다.
+```sh
+cd ~/Affinity-in-Korean/
+git pull
+sudo ./SyncDesigner_Beta
+sudo ./SyncDesignerFrameworks_Beta
 ```
 ### Affinity Photo
 다음 명령어를 입력하고 Affinity Photo를 번역합니다. 번역은 자주 갱신됩니다. 최신 번역을 이용하고 싶다면 명령어를 다시 입력합니다.
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-chmod +x ./PhotoSync
-sudo ./PhotoSync
+sudo ./SyncPhoto
+sudo ./SyncPhotoFrameworks
+```
+Beta 프로그램은 다음 명령어를 입력합니다.
+```sh
+cd ~/Affinity-in-Korean/
+git pull
+sudo ./SyncPhoto_Beta
+sudo ./SyncPhotoFrameworks_Beta
 ```
 ## Tips
-다음 명령어를 입력하면 AddTranslator, AutoTranslator를 손쉽게 이용할 수 있습니다.
+다음 명령어를 입력하면 addTranslator, autoTranslator를 손쉽게 이용할 수 있습니다.
 ```sh
 sudo ln ~/Affinity-in-Korean/addTranslator /usr/local/bin/addTranslator
 sudo ln ~/Affinity-in-Korean/autoTranslator /usr/local/bin/autoTranslator
