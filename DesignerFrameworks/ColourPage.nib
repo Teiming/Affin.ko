@@ -1905,7 +1905,7 @@
 				<integer>113</integer>
 			</dict>
 		</dict>
-		<string>Copy Colour to Clipboard as Hex</string>
+		<string>Hex로 색상 복사</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1978,7 +1978,7 @@
 				<integer>116</integer>
 			</dict>
 		</dict>
-		<string>색상을 견본에 추가</string>
+		<string>견본에 색상 추가</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2028,7 +2028,7 @@
 				<integer>118</integer>
 			</dict>
 		</dict>
-		<string>Add Chord to Swatch</string>
+		<string>견본에 코드 추가</string>
 		<string>submenuAction:</string>
 		<dict>
 			<key>$class</key>
@@ -2047,7 +2047,7 @@
 				<integer>121</integer>
 			</dict>
 		</dict>
-		<string>Add Chord to Swatch</string>
+		<string>견본에 코드 추가</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2136,7 +2136,7 @@
 				<integer>124</integer>
 			</dict>
 		</dict>
-		<string>Complementary</string>
+		<string>보색</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2206,7 +2206,7 @@
 				<integer>128</integer>
 			</dict>
 		</dict>
-		<string>Analogous</string>
+		<string>유사</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2419,7 +2419,7 @@
 				<integer>139</integer>
 			</dict>
 		</dict>
-		<string>Tints</string>
+		<string>하양 혼합</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2454,7 +2454,7 @@
 				<integer>141</integer>
 			</dict>
 		</dict>
-		<string>음영</string>
+		<string>검정 혼합</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2489,7 +2489,7 @@
 				<integer>143</integer>
 			</dict>
 		</dict>
-		<string>색조</string>
+		<string>회색 혼합</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -4019,7 +4019,7 @@
 				<integer>236</integer>
 			</dict>
 		</dict>
-		<string>Hue</string>
+		<string>색채</string>
 		<string>_popUpItemAction:</string>
 		<dict>
 			<key>$class</key>
@@ -4067,7 +4067,7 @@
 				<integer>239</integer>
 			</dict>
 		</dict>
-		<string>Saturation</string>
+		<string>채도</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4114,7 +4114,7 @@
 				<integer>241</integer>
 			</dict>
 		</dict>
-		<string>Lightness</string>
+		<string>밝기</string>
 		<dict>
 			<key>$classes</key>
 			<array>

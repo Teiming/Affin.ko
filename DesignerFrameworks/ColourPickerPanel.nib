@@ -649,7 +649,7 @@
 				<integer>31</integer>
 			</dict>
 		</dict>
-		<string>RGB Sliders</string>
+		<string>RGB 슬라이더</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -752,7 +752,7 @@
 				<integer>41</integer>
 			</dict>
 		</dict>
-		<string>HSL Sliders</string>
+		<string>HSL 슬라이더</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -889,7 +889,7 @@
 				<integer>47</integer>
 			</dict>
 		</dict>
-		<string>Hue</string>
+		<string>색채</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -934,7 +934,7 @@
 				<integer>49</integer>
 			</dict>
 		</dict>
-		<string>Lightness</string>
+		<string>밝기</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -979,7 +979,7 @@
 				<integer>51</integer>
 			</dict>
 		</dict>
-		<string>Saturation</string>
+		<string>채도</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -5166,7 +5166,7 @@
 		</dict>
 		<string>SchemeTextFieldCell</string>
 		<string>NSTextFieldCell</string>
-		<string>Intensity:</string>
+		<string>세기:</string>
 		<dict>
 			<key>$class</key>
 			<dict>

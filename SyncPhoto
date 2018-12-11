@@ -1,7 +1,2 @@
 echo "동기화를 시작합니다."
 /usr/bin/rsync -av --delete --progress ~/Affinity-in-Korean/Photo/ /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj/
-echo "로그를 기록합니다."
-/usr/bin/diff -s /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo.app/Contents/Resources/ja.lproj/ > ~/Affinity-in-Korean/Log/Photo.en-ja.log
-/usr/bin/diff -s /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj/ > ~/Affinity-in-Korean/Log/Photo.en-ko.log
-/usr/bin/diff -s /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/grep.Photo.en-ja.log
-/usr/bin/diff -s /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/grep.Photo.en-ko.log

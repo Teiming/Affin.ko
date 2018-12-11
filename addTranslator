@@ -1,6 +1,6 @@
-echo "원문 (대소문자 구별,띄어쓰기 필수)"
+echo ">원문을 입력합니다. 대소문자와 공백을 구별합니다."
 read ENG
-echo "번역"
+echo ">번역할 내용을 입력합니다. 마찬가지로 공백을 구별합니다."
 read KOR
 cd ~/Affinity-in-Korean/
 ENG1=$(echo $ENG | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")

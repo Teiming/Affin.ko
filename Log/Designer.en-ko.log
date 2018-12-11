@@ -60,6 +60,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextM
 > 		<string>교차</string>
 < 		<string>Divide</string>
 > 		<string>분할</string>
+< 		<string>Combine</string>
+> 		<string>배타</string>
 < 		<string>Transform</string>
 > 		<string>변형</string>
 < 		<string>Rotate Left</string>
@@ -215,6 +217,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localiza
 > 	<string>취소</string>
 < 	<string>Click</string>
 > 	<string>클릭</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
+< 	<string>Combine</string>
+> 	<string>배타</string>
 < 	<string>Cycle View Mode</string>
 > 	<string>뷰 모드 순환</string>
 < 	<string>Defaults</string>
@@ -431,6 +439,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localiza
 > 	<string>없음</string>
 < 	<string>None</string>
 > 	<string>없음</string>
+< 	<string>OK</string>
+> 	<string>확인</string>
 < 	<string>Opacity:</string>
 > 	<string>불투명도:</string>
 < 	<string>Order</string>
@@ -695,7 +705,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Select Next</string>
 > 		<string>다음 항목 선택</string>
 < 		<string>Merge All Windows</string>
-> 		<string>모든 윈도우 합치기</string>
+> 		<string>모든 윈도우 통합</string>
 < 		<string>Show Tools</string>
 > 		<string>도구 보기</string>
 < 		<string>Undo</string>
@@ -888,7 +898,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Merge All Windows</string>
-> 		<string>모든 윈도우 합치기</string>
+> 		<string>모든 윈도우 통합</string>
 < 		<string>Show Tools</string>
 > 		<string>도구 보기</string>
 < 		<string>Show Context Toolbar</string>
@@ -1037,6 +1047,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>화이트 밸런스</string>
 < 		<string>Rasterise to Mask</string>
 > 		<string>마스크 래스터화</string>
+< 		<string>Combine</string>
+> 		<string>배타</string>
 < 		<string>Show</string>
 > 		<string>보기</string>
 < 		<string>Pixels (Retina)</string>
@@ -1317,7 +1329,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Strikeout</string>
 > 		<string>취소선</string>
 < 		<string>Precise Bigger</string>
-> 		<string>정밀하게 늘리기</string>
+> 		<string>조금씩 더 크게</string>
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Show Glyph Browser</string>
@@ -1327,7 +1339,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Show Context Toolbar</string>
 > 		<string>상황별 툴바 보기</string>
 < 		<string>Precise Decrease</string>
-> 		<string>정밀하게 줄이기</string>
+> 		<string>조금씩 줄이기</string>
 < 		<string>Paste FX</string>
 > 		<string>효과 붙이기</string>
 < 		<string>Colour Balance</string>
@@ -1409,7 +1421,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Separated Mode</string>
 > 		<string>분리 모드</string>
 < 		<string>Precise Lower Baseline</string>
-> 		<string>기준선 정밀하게 내리기</string>
+> 		<string>기준선 조금씩 낮추기</string>
 < 		<string>Align Bottom</string>
 > 		<string>아래쪽 정렬</string>
 < 		<string>Update Paragraph Style</string>
@@ -1423,7 +1435,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Raise Baseline</string>
 > 		<string>기준선 올리기</string>
 < 		<string>Precise Smaller</string>
-> 		<string>정밀하게 줄이기</string>
+> 		<string>조금씩 더 작게</string>
 < 		<string>Set No Character Style</string>
 > 		<string>문자 스타일 벗기기</string>
 < 		<string>Invert Pixel Selection</string>
@@ -1433,7 +1445,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Shadows / Highlights</string>
 > 		<string>그림자 / 빛</string>
 < 		<string>Bigger</string>
-> 		<string>늘리기</string>
+> 		<string>더 크게</string>
 < 		<string>Export Persona</string>
 > 		<string>출력 페르소나</string>
 < 		<string>Support...</string>
@@ -1469,7 +1481,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>In Place</string>
 > 		<string>제자리에</string>
 < 		<string>Precise Raise Baseline</string>
-> 		<string>기준선 정밀하게 올리기</string>
+> 		<string>기준선 조금씩 올리기</string>
 < 		<string>Tutorial...</string>
 > 		<string>튜토리얼...</string>
 < 		<string>Convert Object to Artboard</string>
@@ -1483,7 +1495,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Create Compound</string>
 > 		<string>결합 생성</string>
 < 		<string>Merge All Windows</string>
-> 		<string>모든 윈도우 합치기</string>
+> 		<string>모든 윈도우 통합</string>
 < 		<string>Create Paragraph Style</string>
 > 		<string>문단 스타일 생성</string>
 < 		<string>Save Text Styles as Default</string>
@@ -1520,6 +1532,8 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 > 		<string>화이트 밸런스</string>
 < 		<string>Move to Previous View Point</string>
 > 		<string>이전 뷰 포인트로 이동</string>
+< 		<string>Combine</string>
+> 		<string>배타</string>
 < 		<string>Show Text Styles</string>
 > 		<string>텍스트 스타일 보기</string>
 < 		<string>Convert to Text Frame</string>
@@ -1583,7 +1597,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenu
 < 		<string>Actual Size</string>
 > 		<string>실제 크기</string>
 < 		<string>Precise Increase</string>
-> 		<string>정밀하게 늘리기</string>
+> 		<string>조금씩 늘리기</string>
 < 		<string>Always Show Selection in Layers Panel </string>
 > 		<string>레이어 패널에서 선택 항목 항상 보기 </string>
 < 		<string>Delete Character Style</string>

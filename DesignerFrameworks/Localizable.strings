@@ -419,7 +419,7 @@ How do you want to proceed?
 	<key>%lu Vector Brushes into %@ [Import Brushes]</key>
 	<string>%lu Vector Brushes into %@</string>
 	<key>'%1' selected.  [Hintline]</key>
-	<string>'%1' 선택됨. </string>
+	<string>'%1' 선택함. </string>
 	<key>(Document will be rasterised) [Vector export warning]</key>
 	<string>(Document will be rasterised)</string>
 	<key>(Nothing will be rasterised) [Vector export warning]</key>
@@ -935,13 +935,13 @@ The document must now be closed.</string>
 	<key>Adjustments [Main Controls Tooltip]</key>
 	<string>Adjustments</string>
 	<key>Advanced [Grid and snapping node button label]</key>
-	<string>Advanced</string>
+	<string>고급</string>
 	<key>Advanced [Grid and snapping node button tooltip]</key>
-	<string>Advanced</string>
+	<string>고급</string>
 	<key>Advanced [Histogram advanced toggle]</key>
-	<string>Advanced</string>
+	<string>고급</string>
 	<key>Advanced [Reflected property]</key>
-	<string>Advanced</string>
+	<string>고급</string>
 	<key>Aegean Numbers [Glyph Ranges]</key>
 	<string>Aegean Numbers</string>
 	<key>Affine Tool [Tool description]</key>
@@ -1487,11 +1487,11 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Artboard Tool [Tool description]</key>
 	<string>아트보드 도구</string>
 	<key>Artboard [Artboard Tool Context Toolbar Name]</key>
-	<string>Artboard</string>
+	<string>아트보드</string>
 	<key>Artboard [Artboard description]</key>
-	<string>Artboard</string>
+	<string>아트보드</string>
 	<key>Artboard [Printing Accessory Panel]</key>
-	<string>Artboard</string>
+	<string>아트보드</string>
 	<key>Artboard: [Select Tool - Embedded Document - Choose Artboard]</key>
 	<string>Artboard:</string>
 	<key>Artistic Text Tool [Main Controls Tooltip]</key>
@@ -1627,9 +1627,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Automatic (based on selection) [Preferences Page]</key>
 	<string>Automatic (based on selection)</string>
 	<key>Automatic [Brush Controller Option - Automatic]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatic [Export Page]</key>
-	<string>Automatic</string>
+	<string>자동</string>
 	<key>Automatically Refine [Reflected property]</key>
 	<string>Automatically Refine</string>
 	<key>Automatically choose source image for overlapping region [Unlabel name]</key>
@@ -2393,9 +2393,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Center weighted average [XMP state]</key>
 	<string>Center weighted average</string>
 	<key>Centimetres [Preferences user interface search term]</key>
-	<string>Centimetres</string>
+	<string>센티미터</string>
 	<key>Centimetres [Unit Types]</key>
-	<string>Centimetres</string>
+	<string>센티미터</string>
 	<key>Centre  [TabStop description]</key>
 	<string>Centre </string>
 	<key>Centre Align [Paragraph control title]</key>
@@ -2937,7 +2937,7 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Common root [Wildcard label]</key>
 	<string>Common root</string>
 	<key>Complementary [Reflected property]</key>
-	<string>Complementary</string>
+	<string>보색</string>
 	<key>Compose text command [Command description]</key>
 	<string>Compose text command</string>
 	<key>Composite %@ [Channels page]</key>
@@ -2971,13 +2971,13 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Confirm Delete [Remove style category alert title]</key>
 	<string>Confirm Delete</string>
 	<key>Conical [Fill Type]</key>
-	<string>Conical</string>
+	<string>원뿔형</string>
 	<key>Conical [Gradient overlay filter effect tool reflection]</key>
-	<string>Conical</string>
+	<string>원뿔형</string>
 	<key>Conical [Transparency Type]</key>
-	<string>Conical</string>
+	<string>원뿔형</string>
 	<key>Conical [fill tool reflection]</key>
-	<string>Conical</string>
+	<string>원뿔형</string>
 	<key>Constrain [Fill Tool Modifier]</key>
 	<string>Constrain</string>
 	<key>Constrain [Marquee Tool Modifier]</key>
@@ -3149,19 +3149,19 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Copyright: [Camera Page]</key>
 	<string>Copyright:</string>
 	<key>Corner Tool [Main Controls Tooltip]</key>
-	<string>Corner Tool</string>
+	<string>꼭짓점 도구</string>
 	<key>Corner Tool [Tool description]</key>
-	<string>Corner Tool</string>
+	<string>꼭짓점 도구</string>
 	<key>Corner Type [Corner tool reflection]</key>
 	<string>Corner Type</string>
 	<key>Corner Type [Shape tool reflection]</key>
 	<string>Corner Type</string>
 	<key>Corner [Corner Tool context Toolbar Name]</key>
-	<string>Corner</string>
+	<string>꼭짓점</string>
 	<key>Corner type: [Corner Tool context Toolbar]</key>
 	<string>Corner type:</string>
 	<key>Corner: [Corner style context toolbar]</key>
-	<string>Corner:</string>
+	<string>꼭짓점:</string>
 	<key>Could not edit the embedded document in the other application. [Edit embedded document error message]</key>
 	<string>Could not edit the embedded document in the other application.</string>
 	<key>Could not hand over the file to the other application. [Message box message]</key>
@@ -3465,9 +3465,9 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Da =  [Apply image tool reflection lower]</key>
 	<string>Da = </string>
 	<key>Dark [Preferences control title]</key>
-	<string>Dark</string>
+	<string>다크</string>
 	<key>Dark [Preferences control tooltip]</key>
-	<string>Dark</string>
+	<string>다크</string>
 	<key>Darken Border [Raster Crop]</key>
 	<string>Darken Border</string>
 	<key>Darken Border [Raster crop toolbar]</key>
@@ -3585,7 +3585,7 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Delete "%@" [Text style]</key>
 	<string>Delete "%@"</string>
 	<key>Delete %1 [Command description]</key>
-	<string>Delete %1</string>
+	<string>%1 지우기</string>
 	<key>Delete Artboard (Keeping Contents) [Command description]</key>
 	<string>Delete Artboard (Keeping Contents)</string>
 	<key>Delete Category [remove category string]</key>
@@ -4069,13 +4069,13 @@ Deleting a symbol will force any instances of it to become detached.</string>
 	<key>Don't Return [Return document option]</key>
 	<string>Don't Return</string>
 	<key>Don't Save [Don't Save]</key>
-	<string>Don't Save</string>
+	<string>저장하지 않음</string>
 	<key>Don't Save [Save option]</key>
-	<string>Don't Save</string>
+	<string>저장하지 않음</string>
 	<key>Don't open recovery file [Don't open autosave]</key>
 	<string>Don't open recovery file</string>
 	<key>Don't restore [Autosave option]</key>
-	<string>Don't restore</string>
+	<string>복원하지 않음</string>
 	<key>Don't set [Brush Editor]</key>
 	<string>Don't set</string>
 	<key>Done [Toolbar palette done button]</key>
@@ -4747,9 +4747,9 @@ Attribute names must be unique</string>
 	<key>Feature Protection [Reflected property]</key>
 	<string>Feature Protection</string>
 	<key>Feet [Preferences user interface search term]</key>
-	<string>Feet</string>
+	<string>피트</string>
 	<key>Feet [Unit Types]</key>
-	<string>Feet</string>
+	<string>피트</string>
 	<key>Field Blur Tool [Tool description]</key>
 	<string>Field Blur Tool</string>
 	<key>Field Blur [Command description]</key>
@@ -4899,7 +4899,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Flattened and Saving Image '%1' [Saving Documents]</key>
 	<string>Flattened and Saving Image '%1'</string>
 	<key>Flexible Space [Flexible Space]</key>
-	<string>Flexible Space</string>
+	<string>유연한 공백</string>
 	<key>Flip Horizontal [Command description]</key>
 	<string>가로 뒤집기</string>
 	<key>Flip Horizontal [Main Controls]</key>
@@ -5035,17 +5035,17 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Fractions [Character Page]</key>
 	<string>Fractions</string>
 	<key>Frame Text Tool [Main Controls Tooltip]</key>
-	<string>Frame Text Tool</string>
+	<string>액자 텍스트도구</string>
 	<key>Frame Text Tool [Tool description]</key>
-	<string>Frame Text Tool</string>
+	<string>액자 텍스트도구</string>
 	<key>Frame Text [Frame Text name]</key>
-	<string>Frame Text</string>
+	<string>액자 텍스트</string>
 	<key>Frame Text [Main Controls]</key>
-	<string>Frame Text</string>
+	<string>액자 텍스트</string>
 	<key>Frame [Hard break description]</key>
-	<string>Frame</string>
+	<string>액자</string>
 	<key>Frame setup [Command description]</key>
-	<string>Frame setup</string>
+	<string>액자 설정</string>
 	<key>Free hand Selection Tool [Tool description]</key>
 	<string>Free hand Selection Tool</string>
 	<key>Freehand</key>
@@ -5093,13 +5093,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>GIF [File format]</key>
 	<string>GIF</string>
 	<key>Gamma [Layer Options Page]</key>
-	<string>Gamma</string>
+	<string>감마</string>
 	<key>Gamma [Reflectable property]</key>
-	<string>Gamma</string>
+	<string>감마</string>
 	<key>Gamma [Reflected property]</key>
-	<string>Gamma</string>
+	<string>감마</string>
 	<key>Gamma [View tool reflection]</key>
-	<string>Gamma</string>
+	<string>감마</string>
 	<key>Gamut Alarm [Soft proof reflection]</key>
 	<string>Gamut Alarm</string>
 	<key>Gamut Check [Adjustment touch bar]</key>
@@ -5183,7 +5183,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Glyph %1 [Tooltip]</key>
 	<string>Glyph %1</string>
 	<key>Glyph Browser [Page title]</key>
-	<string>Glyph Browser</string>
+	<string>글리프 브라우저</string>
 	<key>Glyph [Paragraph control title]</key>
 	<string>Glyph</string>
 	<key>Golden Spiral [Raster Crop]</key>
@@ -5329,7 +5329,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Guides Tool [Tool description]</key>
 	<string>Guides Tool</string>
 	<key>Guides [Main Controls]</key>
-	<string>Guides</string>
+	<string>안내선</string>
 	<key>Gujarati [Glyph Ranges]</key>
 	<string>Gujarati</string>
 	<key>Gurmukhi [Glyph Ranges]</key>
@@ -5363,7 +5363,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>HSL Shift Tool [Tool description]</key>
 	<string>HSL Shift Tool</string>
 	<key>HSL Sliders [Colour Model]</key>
-	<string>HSL Sliders</string>
+	<string>HSL 슬라이더</string>
 	<key>HSL [Adjustment name]</key>
 	<string>HSL</string>
 	<key>HSL [Main Controls Tooltip]</key>
@@ -5635,19 +5635,19 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Horz Scale [Text Position Panel]</key>
 	<string>Horz Scale</string>
 	<key>Hue [Blend Modes]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [Brush Editor]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [Develop Lens Page]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [HSL Channel name]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [HSL Slider]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [Reflectable enum]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hue [Reflected property]</key>
-	<string>Hue</string>
+	<string>색채</string>
 	<key>Hyperfocal: [Camera Page]</key>
 	<string>Hyperfocal:</string>
 	<key>I [Apply image tool reflection]</key>
@@ -5739,9 +5739,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>In Next Frame [Hard break description]</key>
 	<string>In Next Frame</string>
 	<key>Inches [Preferences user interface search term]</key>
-	<string>Inches</string>
+	<string>인치</string>
 	<key>Inches [Unit Types]</key>
-	<string>Inches</string>
+	<string>인치</string>
 	<key>Include in export [Command description]</key>
 	<string>Include in export</string>
 	<key>Include in snapping [Make snappable command name]</key>
@@ -6399,13 +6399,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Light Type [Reflected property]</key>
 	<string>Light Type</string>
 	<key>Light [Font weight]</key>
-	<string>Light</string>
+	<string>라이트</string>
 	<key>Light [Preferences control title]</key>
-	<string>Light</string>
+	<string>라이트</string>
 	<key>Light [Preferences control tooltip]</key>
-	<string>Light</string>
+	<string>라이트</string>
 	<key>Light [Reflected property]</key>
-	<string>Light</string>
+	<string>라이트</string>
 	<key>Light field depth [Command description]</key>
 	<string>Light field depth</string>
 	<key>Lighten [Blend Modes]</key>
@@ -6433,9 +6433,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Lighting [Main Controls]</key>
 	<string>Lighting</string>
 	<key>Lightness [LAB Channel name]</key>
-	<string>Lightness</string>
+	<string>밝기</string>
 	<key>Lightness [LAB Slider]</key>
-	<string>Lightness</string>
+	<string>밝기</string>
 	<key>Lights [Lighting reflection]</key>
 	<string>Lights</string>
 	<key>Limbu [Glyph Ranges]</key>
@@ -6459,25 +6459,25 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Linear Light [Blend Modes]</key>
 	<string>Linear Light</string>
 	<key>Linear [Bevel / Emboss filter effect tool reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Develop tool (overlay gradient) reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Fill Type]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Gradient overlay filter effect tool reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Phong bevel filter effect tool reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Reflectable property]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Reflected property]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [ToneMap tool (overlay gradient) reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [Transparency Type]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear [fill tool reflection]</key>
-	<string>Linear</string>
+	<string>선형</string>
 	<key>Linear light [Reflectable enum]</key>
 	<string>Linear light</string>
 	<key>Lines [Preferences user interface search term]</key>
@@ -7011,23 +7011,23 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Menus [Preferences keyboard shortcut search term]</key>
 	<string>Menus</string>
 	<key>Merge Down [Command description]</key>
-	<string>아래 항목 병합</string>
+	<string>아래 항목 통합</string>
 	<key>Merge Down [Main Controls]</key>
-	<string>아래 항목 병합</string>
+	<string>아래 항목 통합</string>
 	<key>Merge Layer [Select tool reflection]</key>
 	<string>Merge Layer</string>
 	<key>Merge Selected [Main Controls]</key>
-	<string>선택 항목 병합</string>
+	<string>선택 항목 통합</string>
 	<key>Merge Visible [Main Controls]</key>
-	<string>보이는 항목 병합</string>
+	<string>보이는 항목 통합</string>
 	<key>Merge [Live filter dialog label]</key>
-	<string>Merge</string>
+	<string>통합</string>
 	<key>Merge [Main Controls Tooltip]</key>
-	<string>Merge</string>
+	<string>통합</string>
 	<key>Merge [Main Controls]</key>
-	<string>Merge</string>
+	<string>통합</string>
 	<key>Merge [Reflected action]</key>
-	<string>Merge</string>
+	<string>통합</string>
 	<key>Merge mesh [Liquify Page]</key>
 	<string>Merge mesh</string>
 	<key>Merge projection [Command description]</key>
@@ -7077,9 +7077,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Metering mode: [Camera Page]</key>
 	<string>Metering mode:</string>
 	<key>Metres [Preferences user interface search term]</key>
-	<string>Metres</string>
+	<string>미터</string>
 	<key>Metres [Unit Types]</key>
-	<string>Metres</string>
+	<string>미터</string>
 	<key>Mid Point [Shape tool reflection]</key>
 	<string>Mid Point</string>
 	<key>Mid point: [Mid point context toolbar]</key>
@@ -7629,15 +7629,15 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Noise Tool [Tool description]</key>
 	<string>Noise Tool</string>
 	<key>Noise [Colour Page Label]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Noise [Colour Page]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Noise [Filters Page]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Noise [Main Controls]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Noise [Noise-Alpha slider on colour page]</key>
-	<string>Noise</string>
+	<string>잡음</string>
 	<key>Non - Plane 0 [Glyph Ranges]</key>
 	<string>Non - Plane 0</string>
 	<key>Non-Compositing Group [Node name]</key>
@@ -7779,19 +7779,19 @@ The documents will need to be saved before they can be closed.</string>
 	<key>OCIO [OCIO reflection]</key>
 	<string>OCIO</string>
 	<key>OK [Button name]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Exportable items]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Font Status]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [OK]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Paste to new document]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Resource Manager]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OK [Telemetry Page]</key>
-	<string>OK</string>
+	<string>확인</string>
 	<key>OSX Application Icon [Export presets]</key>
 	<string>OSX Application Icon</string>
 	<key>OSX Application Icon part - 1024px (512x512 @2x) [Export presets]</key>
@@ -8637,13 +8637,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Point radius: [Point radius context toolbar]</key>
 	<string>Point radius:</string>
 	<key>Points [Preferences tools search term]</key>
-	<string>Points</string>
+	<string>포인트</string>
 	<key>Points [Preferences user interface search term]</key>
-	<string>Points</string>
+	<string>포인트</string>
 	<key>Points [Shape tool reflection]</key>
-	<string>Points</string>
+	<string>포인트</string>
 	<key>Points [Unit Types]</key>
-	<string>Points</string>
+	<string>포인트</string>
 	<key>Points: [Points context toolbar]</key>
 	<string>Points:</string>
 	<key>Polar To Rectangular [Command description]</key>
@@ -8903,7 +8903,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>RGB Cube [Reflectable enum]</key>
 	<string>RGB Cube</string>
 	<key>RGB Sliders [Colour Model]</key>
-	<string>RGB Sliders</string>
+	<string>RGB 슬라이더</string>
 	<key>RGB Unbounded [ColourSpace]</key>
 	<string>RGB Unbounded</string>
 	<key>RGB [Apply image tool reflection]</key>
@@ -9483,7 +9483,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Restart Now [Restart Application Message]</key>
 	<string>Restart Now</string>
 	<key>Restore [Autosave option]</key>
-	<string>Restore</string>
+	<string>복원</string>
 	<key>Restore auto slice rect [Command description]</key>
 	<string>Restore auto slice rect</string>
 	<key>Restore snapshot [Command description]</key>
@@ -9493,7 +9493,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Restore unsaved documents [Command description]</key>
 	<string>Restore unsaved documents</string>
 	<key>Restore unsaved file? [Message box title]</key>
-	<string>Restore unsaved file?</string>
+	<string>저장하지 않은 파일을 복원하겠습니까?</string>
 	<key>Restore unsaved files? [Message box title]</key>
 	<string>Restore unsaved files?</string>
 	<key>Result [Telemetry Page]</key>
@@ -9793,29 +9793,29 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Saturate [Sponge Brush Mode]</key>
 	<string>Saturate</string>
 	<key>Saturation [Blend Modes]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Brush Editor]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Develop Basic Page]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Develop Overlays Page]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [HSL Channel name]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [HSL Slider]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Intent]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Preferences Page]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Reflectable enum]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Reflected property]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Soft proof intent]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saturation [Toning Basic Page]</key>
-	<string>Saturation</string>
+	<string>채도</string>
 	<key>Saurashtra [Glyph Ranges]</key>
 	<string>Saurashtra</string>
 	<key>Save As [Save flattened image]</key>
@@ -11311,9 +11311,9 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Small caps [OpenType feature command description]</key>
 	<string>Small caps</string>
 	<key>Smallest [Preferences control title]</key>
-	<string>Smallest</string>
+	<string>가장 작게</string>
 	<key>Smallest [Preferences control tooltip]</key>
-	<string>Smallest</string>
+	<string>가장 작게</string>
 	<key>Smart Mode [Pen tool context toolbar control title]</key>
 	<string>Smart Mode</string>
 	<key>Smart Mode [Pen tool context toolbar control tooltip]</key>
@@ -11507,7 +11507,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Space Before [Paragraph Spacing Panel]</key>
 	<string>Space Before</string>
 	<key>Space Horizontally [Alignment tooltip]</key>
-	<string>가로 공간</string>
+	<string>가로 공백</string>
 	<key>Space Nodes Horizontally [Command description]</key>
 	<string>Space Nodes Horizontally</string>
 	<key>Space Nodes Vertically [Command description]</key>
@@ -11519,13 +11519,13 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Space Slices [Command description]</key>
 	<string>Space Slices</string>
 	<key>Space Vertically [Alignment tooltip]</key>
-	<string>세로 공간</string>
+	<string>세로 공백</string>
 	<key>Space [Alignment title]</key>
-	<string>Space</string>
+	<string>공백</string>
 	<key>Space [Command description]</key>
-	<string>Space</string>
+	<string>공백</string>
 	<key>Space [Space]</key>
-	<string>Space</string>
+	<string>공백</string>
 	<key>Space after: %1 [Command description]</key>
 	<string>Space after: %1</string>
 	<key>Space before: %1 [Command description]</key>
@@ -12671,7 +12671,7 @@ The documents will need to be saved before they can be closed.</string>
 	<key>Tones Studio [Studio View]</key>
 	<string>Tones Studio</string>
 	<key>Tones [Page title]</key>
-	<string>색조</string>
+	<string>회색 혼합</string>
 	<key>Tools [Customise Keys]</key>
 	<string>도구</string>
 	<key>Tools [Preferences Page]</key>
@@ -13011,7 +13011,7 @@ View point with that name already exists.</string>
 	<key>Unified Canadian Aboriginal Syllabics [Glyph Ranges]</key>
 	<string>Unified Canadian Aboriginal Syllabics</string>
 	<key>Union [Union nodes command name]</key>
-	<string>병합</string>
+	<string>Union</string>
 	<key>Units [Preferences user interface search term]</key>
 	<string>Units</string>
 	<key>Units [Resize tool reflection]</key>
@@ -13261,9 +13261,9 @@ View point with that name already exists.</string>
 	<key>Variation Selectors [Glyph Ranges]</key>
 	<string>Variation Selectors</string>
 	<key>Vector Brush Tool [Main Controls Tooltip]</key>
-	<string>Vector Brush Tool</string>
+	<string>벡터 붓 도구</string>
 	<key>Vector Brush Tool [Tool description]</key>
-	<string>Vector Brush Tool</string>
+	<string>벡터 붓 도구</string>
 	<key>Vector Crop Tool [Main Controls Tooltip]</key>
 	<string>Vector Crop Tool</string>
 	<key>Vector Crop Tool [Tool description]</key>
@@ -13555,9 +13555,9 @@ View point with that name already exists.</string>
 	<key>YB [Short Unit Types]</key>
 	<string>YB</string>
 	<key>Yards [Preferences user interface search term]</key>
-	<string>Yards</string>
+	<string>야드</string>
 	<key>Yards [Unit Types]</key>
-	<string>Yards</string>
+	<string>야드</string>
 	<key>Yellow (Blacks) [Reflectable property]</key>
 	<string>Yellow (Blacks)</string>
 	<key>Yellow (Blues) [Reflectable property]</key>

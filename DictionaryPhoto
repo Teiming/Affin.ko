@@ -1,6 +1,8 @@
 s/g> \[Locked]</g> \[잠금]</
 s/g> \[Modified]</g> \[변경]</
-s/g>'%1' selected. </g>'%1' 선택됨. </
+s/g>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</g>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</
+s/g>%1 |CLICK|+|TERTIARY| to preserve path formatting.</g>%1 |CLICK|+|TERTIARY|해서 경로 포맷을 유지합니다.</
+s/g>'%1' selected. </g>'%1' 선택함. </
 s/g>About…</g>Affinity Photo에 관하여…</
 s/g>Actual Size</g>실제 크기</
 s/g>Add Chord to Swatch</g>견본에 코드 추가</
@@ -61,7 +63,7 @@ s/g>Before \/ After</g>이전 \/ 이후</
 s/g>Before</g>이전</
 s/g>Behind</g>뒤로</
 s/g>Bevel \/ Emboss</g>음각 \/ 양각</
-s/g>Bigger</g>늘리기</
+s/g>Bigger</g>더 크게</
 s/g>Black &amp; White</g>흑백</
 s/g>Black 10%</g>검정 10%</
 s/g>Black 15%</g>검정 15%</
@@ -116,8 +118,10 @@ s/g>Colour Range</g>색상 범위</
 s/g>Colour:</g>색상:</
 s/g>Colour</g>색상</
 s/g>Colours</g>색상</
+s/g>Column Guides</g>열 안내선</
 s/g>Combine</g>배타</
 s/g>Complementary</g>보색</
+s/g>Conical</g>원뿔형</
 s/g>Connect</g>접속</
 s/g>Constraints</g>제약</
 s/g>Context</g>문단</
@@ -127,6 +131,7 @@ s/g>Convert to Curves</g>곡선으로 전환</
 s/g>Convert to Donut</g>도넛으로 전환</
 s/g>Convert to Text Frame</g>텍스트 액자로 전환</
 s/g>Convert to Text Path</g>텍스트 경로로 전환</
+s/g>Copy Colour to Clipboard as Hex</g>Hex로 색상 복사</
 s/g>Copy</g>복사</
 s/g>Corner Tool</g>꼭짓점 도구</
 s/g>Corner:</g>꼭짓점:</
@@ -150,6 +155,7 @@ s/g>Dark</g>다크</
 s/g>Decrease</g>줄이기</
 s/g>Default</g>기본값</
 s/g>Defaults</g>기본값</
+s/g>Delete %1</g>%1 지우기</
 s/g>Delete Character Style</g>문자 스타일 지우기</
 s/g>Delete Colour</g>색상 지우기</
 s/g>Delete Palette</g>팔레트 지우기</
@@ -183,6 +189,7 @@ s/g>Dock Tools</g>도구 고정</
 s/g>Document Setup…</g>문서 설정…</
 s/g>Document Units:</g>문서 단위:</
 s/g>Document</g>문서</
+s/g>Don't Save</g>저장하지 않음</
 s/g>Don't export layers hidden by Export persona</g>출력 페르소나에서 숨긴 레이어는 출력하지 않음.</
 s/g>Don't restore</g>복원하지 않음</
 s/g>Done</g>완료</
@@ -236,12 +243,18 @@ s/g>Flip Vertical</g>세로 뒤집기</
 s/g>Font:</g>서체:</
 s/g>Force Pixel Alignment</g>강제 픽셀 정렬</
 s/g>Forward One</g>앞으로 가져오기</
+s/g>Frame Text Tool</g>액자 텍스트도구</
+s/g>Frame Text</g>액자 텍스트</
+s/g>Frame setup</g>액자 설정</
+s/g>Frame</g>액자</
 s/g>From Both As Global</g>모두 (전역)</
 s/g>From Both</g>모두</
 s/g>From Fill As Global</g>칠 (전역)</
 s/g>From Fill</g>칠</
 s/g>From Line As Global</g>획 (전역)</
 s/g>From Line</g>획</
+s/g>Gamma:</g>감마:</
+s/g>Gamma</g>감마</
 s/g>General</g>일반</
 s/g>Geometry</g>기하</
 s/g>Glass</g>유리</
@@ -258,6 +271,7 @@ s/g>Group</g>그룹</
 s/g>Grow \/ Shrink…</g>팽창 \/ 수축…</
 s/g>Guides Manager…</g>안내선 관리자…</
 s/g>Guides</g>안내선</
+s/g>HSL Sliders</g>HSL 슬라이더</
 s/g>Help</g>도움말</
 s/g>Hide All Text</g>모든 텍스트 숨기기</
 s/g>Hide Others</g>기타 가리기</
@@ -267,6 +281,7 @@ s/g>Histogram</g>히스토그램</
 s/g>History</g>편집 기록</
 s/g>Hold</g>유지</
 s/g>Home</g>홈</
+s/g>Hue</g>색채</
 s/g>Icon Only</g>아이콘만</
 s/g>Icon and Text</g>아이콘과 텍스트</
 s/g>Ignore Misspelt Word</g>철자 오류 무시</
@@ -290,11 +305,13 @@ s/g>Insert behind the selection</g>뒤로 삽입</
 s/g>Insert inside the selection</g>안으로 삽입</
 s/g>Insertion</g>삽입</
 s/g>Inside</g>안으로</
+s/g>Intensity:</g>세기:</
 s/g>Intersect toolbar button</g>교차 툴바 버튼</
 s/g>Intersect</g>교차</
 s/g>Invert Pixel Selection</g>픽셀 선택 항목 반전</
 s/g>Invert Selection</g>선택 항목 반전</
 s/g>Invert</g>반전</
+s/g>Isometric</g>등각투상</
 s/g>Italic</g>기울임</
 s/g>Justify All</g>양쪽 균등 정렬</
 s/g>Justify Centre</g>가운데 균등 정렬</
@@ -323,7 +340,9 @@ s/g>Library Persona</g>라이브러리 페르소나</
 s/g>Library</g>라이브러리</
 s/g>Ligatures</g>합자</
 s/g>Light</g>라이트</
+s/g>Lightness</g>밝기</
 s/g>Line Break</g>줄바꿈</
+s/g>Linear</g>선형</
 s/g>Liquify Persona</g>액화 페르소나</
 s/g>Liquify</g>액화</
 s/g>Lock</g>잠금</
@@ -343,10 +362,11 @@ s/g>Mean</g>평균</
 s/g>Media Browser…</g>미디어 브라우저…</
 s/g>MediaBox</g>미디어 상자</
 s/g>Medium</g>중간</
-s/g>Merge All Windows</g>모든 윈도우 합치기</
-s/g>Merge Down</g>아래 항목 병합</
-s/g>Merge Selected</g>선택 항목 병합</
-s/g>Merge Visible</g>보이는 항목 병합</
+s/g>Merge All Windows</g>모든 윈도우 통합</
+s/g>Merge Down</g>아래 항목 통합</
+s/g>Merge Selected</g>선택 항목 통합</
+s/g>Merge Visible</g>보이는 항목 통합</
+s/g>Merge</g>통합</
 s/g>Mesh</g>그물</
 s/g>Metal</g>금속</
 s/g>Metres</g>미터</
@@ -384,6 +404,7 @@ s/g>No Selection</g>선택 항목 없음</
 s/g>No Snapshot</g>스냅샷 없음</
 s/g>No</g>아니오</
 s/g>Node Tool</g>마디 도구</
+s/g>Noise</g>잡음</
 s/g>Non-Breaking Hyphen</g>줄 바꿈 없는 하이픈</
 s/g>Non-Breaking Space</g>줄 바꿈 없는 공백</
 s/g>None</g>없음</
@@ -436,12 +457,12 @@ s/g>Points</g>포인트</
 s/g>Portrait</g>세로 방향</
 s/g>Position:</g>위치:</
 s/g>Posterise</g>포스터화</
-s/g>Precise Bigger</g>정밀하게 늘리기</
-s/g>Precise Decrease</g>정밀하게 줄이기</
-s/g>Precise Increase</g>정밀하게 늘리기</
-s/g>Precise Lower Baseline</g>기준선 정밀하게 내리기</
-s/g>Precise Raise Baseline</g>기준선 정밀하게 올리기</
-s/g>Precise Smaller</g>정밀하게 줄이기</
+s/g>Precise Bigger</g>조금씩 더 크게</
+s/g>Precise Decrease</g>조금씩 줄이기</
+s/g>Precise Increase</g>조금씩 늘리기</
+s/g>Precise Lower Baseline</g>기준선 조금씩 낮추기</
+s/g>Precise Raise Baseline</g>기준선 조금씩 올리기</
+s/g>Precise Smaller</g>조금씩 더 작게</
 s/g>Preferences</g>환경설정</
 s/g>Preferences…</g>환경설정…</
 s/g>Preserve aspect ratio</g>종횡비 유지</
@@ -450,6 +471,8 @@ s/g>Print…</g>인쇄…</
 s/g>Promote Group to Layer</g>그룹을 레이어로 승격</
 s/g>Quick Mask</g>빠른 마스크</
 s/g>Quit</g>Affinity Photo 종료</
+s/g>RGB Hex Sliders</g>RGB Hex 슬라이더</
+s/g>RGB Sliders</g>RGB 슬라이더</
 s/g>Radius</g>반지름</
 s/g>Rainbow</g>무지개</
 s/g>Raise Baseline</g>기준선 올리기</
@@ -496,6 +519,7 @@ s/g>Rotate Right</g>오른쪽으로 회전</
 s/g>Rounded Rectangle Tool</g>둥근 직사각형 도구</
 s/g>Rows:</g>열:</
 s/g>Salmon</g>연어</
+s/g>Saturation</g>채도</
 s/g>Save As…</g>다른 이름으로 저장…</
 s/g>Save History With Document</g>편집 기록 저장</
 s/g>Save Text Styles as Default</g>텍스트 스타일을 기본값으로 저장</
@@ -535,6 +559,7 @@ s/g>Show All Text</g>모든 텍스트 보기</
 s/g>Show All</g>모두 보기</
 s/g>Show Bleed</g>도련선 보기</
 s/g>Show Character</g>문자 보기</
+s/g>Show Column Guides</g>열 안내선 보기</
 s/g>Show Context Toolbar</g>상황별 툴바 보기</
 s/g>Show Glyph Browser</g>글리프 브라우저 보기</
 s/g>Show Grid</g>격자선 보기</
@@ -579,6 +604,7 @@ s/g>Spelling</g>철자</
 s/g>Split View</g>분할 뷰 모드</
 s/g>Split View</g>분할 뷰</
 s/g>Split</g>분할</
+s/g>Spread Setup...</g>스프레드 설정...</
 s/g>Std. Dev.: -</g>표준편차: -</
 s/g>Strikeout</g>취소선</
 s/g>Stroke:</g>획:</
@@ -642,6 +668,7 @@ s/g>Use All</g>모두 합자</
 s/g>Use Default</g>기준선 재설정</
 s/g>Use None</g>합자 없음</
 s/g>User Forums</g>사용자 포럼</
+s/g>Vector Brush Tool</g>벡터 붓 도구</
 s/g>Vector</g>벡터</
 s/g>Vertical Alignment</g>세로 정렬</
 s/g>Vertical Scale</g>세로 배율</

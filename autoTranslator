@@ -1,7 +1,7 @@
 sudo cd ~/Affinity-in-Korean/
 echo "Beta를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
 read BETA
-echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 2를 입력하세요."
+echo "Affinity Designer를 번역하려면 1, Affinity Photo를 번역하려면 0를 입력하세요."
 read APP
 echo "Frameworks를 번역하려면 1, 그렇지 않으면 0을 입력하세요."
 read WHERE
@@ -84,6 +84,10 @@ else
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncPhotoFrameworks_Beta
+      echo "로그를 기록합니다."
+      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.PhotoFrameworks.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.PhotoFrameworks.en-ko.log
+
     else
       for (( i = 1; i <= 243; i++ ))
       do
@@ -93,6 +97,9 @@ else
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncPhotoFrameworks
+      echo "로그를 기록합니다."
+      /usr/bin/diff -s /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/PhotoFrameworks.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/PhotoFrameworks.en-ko.log
     fi
   else
     if [ $BETA -eq 1 ]
@@ -101,20 +108,27 @@ else
       for (( i = 1; i <= 17; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
         /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Photo_Beta/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncPhoto_Beta
+      echo "로그를 기록합니다."
+      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.Photo.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.Photo.en-ko.log
+
     else
       for (( i = 1; i <= 14; i++ ))
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        echo $i"." $NAME"을 번역합니다."
+        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
         /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/"$NAME" > Photo/"$NAME"
         echo "번역이 끝났습니다."
       done
       /usr/bin/sudo ./SyncPhoto
+      echo "로그를 기록합니다."
+      /usr/bin/diff -s /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Photo.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Photo.en-ko.log
     fi
   fi
 fi

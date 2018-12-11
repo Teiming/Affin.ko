@@ -7887,7 +7887,7 @@
 				<integer>1251</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 늘리기</string>
+		<string>조금씩 더 크게</string>
 		<string>&gt;</string>
 		<string>increaseTextHeightMore:</string>
 		<dict>
@@ -8315,7 +8315,7 @@
 				<integer>1275</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 줄이기</string>
+		<string>조금씩 줄이기</string>
 		<string></string>
 		<string>decreaseLeadingMore:</string>
 		<dict>
@@ -11192,7 +11192,7 @@
 				<integer>751</integer>
 			</dict>
 		</dict>
-		<string>기준선 정밀하게 내리기</string>
+		<string>기준선 조금씩 낮추기</string>
 		<string></string>
 		<string>increaseBaselineAdvanceMore:</string>
 		<dict>
@@ -11720,7 +11720,7 @@
 				<integer>789</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 줄이기</string>
+		<string>조금씩 더 작게</string>
 		<string>&lt;</string>
 		<string>decreaseTextHeightMore:</string>
 		<dict>
@@ -12074,7 +12074,7 @@
 				<integer>815</integer>
 			</dict>
 		</dict>
-		<string>늘리기</string>
+		<string>더 크게</string>
 		<string>increaseTextHeight:</string>
 		<dict>
 			<key>$class</key>
@@ -13318,7 +13318,7 @@
 				<integer>901</integer>
 			</dict>
 		</dict>
-		<string>기준선 정밀하게 올리기</string>
+		<string>기준선 조금씩 올리기</string>
 		<string></string>
 		<string>decreaseBaselineAdvanceMore:</string>
 		<dict>
@@ -13842,7 +13842,7 @@
 				<integer>937</integer>
 			</dict>
 		</dict>
-		<string>모든 윈도우 합치기</string>
+		<string>모든 윈도우 통합</string>
 		<string>mergeAllWindows:</string>
 		<dict>
 			<key>$class</key>
@@ -15014,7 +15014,7 @@
 				<integer>1019</integer>
 			</dict>
 		</dict>
-		<string>Combine</string>
+		<string>배타</string>
 		<string>boolOpXor:</string>
 		<dict>
 			<key>$class</key>
@@ -17188,7 +17188,7 @@
 				<integer>1171</integer>
 			</dict>
 		</dict>
-		<string>정밀하게 늘리기</string>
+		<string>조금씩 늘리기</string>
 		<string></string>
 		<string>increaseLeadingMore:</string>
 		<dict>
