@@ -32,8 +32,8 @@ sudo ./SyncDesignerFrameworks
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-sudo ./SyncDesigner_Beta
-sudo ./SyncDesignerFrameworks_Beta
+sudo ./SyncBetaDesigner
+sudo ./SyncBetaDesignerFrameworks
 ```
 ### Affinity Photo
 다음 명령어를 입력하고 Affinity Photo를 번역합니다. 번역은 자주 갱신됩니다. 최신 번역을 이용하고 싶다면 명령어를 다시 입력합니다.
@@ -47,8 +47,8 @@ sudo ./SyncPhotoFrameworks
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-sudo ./SyncPhoto_Beta
-sudo ./SyncPhotoFrameworks_Beta
+sudo ./SyncBetaPhoto
+sudo ./SyncBetaPhotoFrameworks
 ```
 ### Tips
 다음 명령어를 입력하면 addTranslator, autoTranslator를 손쉽게 이용할 수 있습니다.

@@ -19,13 +19,13 @@ then
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks_Beta/"$NAME"
+        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerBetaFrameworks/"$NAME"
         echo "번역이 끝났습니다."
       done
-      /usr/bin/sudo ./SyncDesignerFrameworks_Beta
+      /usr/bin/sudo ./SyncBetaDesignerFrameworks
       echo "로그를 기록합니다."
-      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.DesignerFrameworks.en-ja.log
-      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.DesignerFrameworks.en-ko.log
+      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaDesignerFrameworks.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaDesignerFrameworks.en-ko.log
     else
       for (( i = 1; i <= 242; i++ ))
       do
@@ -47,13 +47,13 @@ then
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Designer_Beta/"$NAME"
+        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/"$NAME" > BetaDesigner/"$NAME"
         echo "번역이 끝났습니다."
       done
-      /usr/bin/sudo ./SyncDesigner_Beta
+      /usr/bin/sudo ./SyncBetaDesigner
       echo "로그를 기록합니다."
-      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.Designer.en-ja.log
-      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.Designer.en-ko.log
+      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaDesigner.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaDesigner.en-ko.log
     else
       for (( i = 1; i <= 12; i++ ))
       do
@@ -80,13 +80,13 @@ else
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoFrameworks_Beta/"$NAME"
+        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > PhotoBetaFrameworks/"$NAME"
         echo "번역이 끝났습니다."
       done
-      /usr/bin/sudo ./SyncPhotoFrameworks_Beta
+      /usr/bin/sudo ./SyncBetaPhotoFrameworks
       echo "로그를 기록합니다."
-      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.PhotoFrameworks.en-ja.log
-      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.PhotoFrameworks.en-ko.log
+      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaPhotoFrameworks.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaPhotoFrameworks.en-ko.log
 
     else
       for (( i = 1; i <= 243; i++ ))
@@ -109,13 +109,13 @@ else
       do
         NAME=$(/bin/ls -a /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
         /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/"$NAME" > Photo_Beta/"$NAME"
+        /usr/bin/sed -f DictionaryPhoto /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/"$NAME" > BetaPhoto/"$NAME"
         echo "번역이 끝났습니다."
       done
-      /usr/bin/sudo ./SyncPhoto_Beta
+      /usr/bin/sudo ./SyncBetaPhoto
       echo "로그를 기록합니다."
-      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.Photo.en-ja.log
-      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/Beta.Photo.en-ko.log
+      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaPhoto.en-ja.log
+      /usr/bin/diff -s /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/ /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaPhoto.en-ko.log
 
     else
       for (( i = 1; i <= 14; i++ ))

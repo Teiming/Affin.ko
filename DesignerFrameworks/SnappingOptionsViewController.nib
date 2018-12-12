@@ -2002,7 +2002,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Move by whole pixels</string>
+		<string>픽셀 단위로 이동</string>
 		<string>{{1, 1}, {290, 60}}</string>
 		<string>{{11, 317}, {292, 62}}</string>
 		<dict>
@@ -2342,7 +2342,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Snap to grid</string>
+		<string>격자선에 스냅</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2442,7 +2442,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Snap to guides</string>
+		<string>안내선에 스냅</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2742,7 +2742,7 @@
 			</dict>
 		</dict>
 		<string>SchemeCheckboxCell</string>
-		<string>Snap to margin</string>
+		<string>여백선에 스냅</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5911,7 +5911,7 @@
 				<integer>163</integer>
 			</dict>
 		</dict>
-		<string>Preset:</string>
+		<string>프리셋:</string>
 		<string>presetLabel</string>
 		<dict>
 			<key>$class</key>

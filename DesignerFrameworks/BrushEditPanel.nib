@@ -2588,7 +2588,7 @@
 				<integer>94</integer>
 			</dict>
 		</dict>
-		<string>Blend Mode:</string>
+		<string>혼합 모드:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -16574,7 +16574,7 @@
 		<string>SchemeButtonCell</string>
 		<string>반전</string>
 		<string>{553, 273}</string>
-		<string>Texture</string>
+		<string>질감</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18300,7 +18300,7 @@
 		<string>{{242, 175}, {20, 20}}</string>
 		<string>BrushRampFlyoutButton</string>
 		<string>{553, 273}</string>
-		<string>획</string>
+		<string>선</string>
 		<dict>
 			<key>$classes</key>
 			<array>

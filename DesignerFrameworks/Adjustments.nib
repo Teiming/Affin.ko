@@ -13978,7 +13978,7 @@
 			</dict>
 		</dict>
 		<string>SchemeButtonCell</string>
-		<string>Add Preset</string>
+		<string>프리셋 추가</string>
 		<string>m_addPresetButton</string>
 		<dict>
 			<key>$class</key>
@@ -14233,7 +14233,7 @@
 				<integer>552</integer>
 			</dict>
 		</dict>
-		<string>Blend Mode:</string>
+		<string>혼합 모드:</string>
 		<string>m_blendModeLabel</string>
 		<dict>
 			<key>$class</key>
@@ -19942,7 +19942,7 @@
 				<integer>1242</integer>
 			</dict>
 		</dict>
-		<string>Brightness</string>
+		<string>명암</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20033,7 +20033,7 @@
 				<integer>1242</integer>
 			</dict>
 		</dict>
-		<string>Contrast</string>
+		<string>대비</string>
 		<string>{382, 89}</string>
 		<string>Brightness Contrast</string>
 		<dict>
@@ -21807,7 +21807,7 @@
 				<integer>552</integer>
 			</dict>
 		</dict>
-		<string>Red</string>
+		<string>빨강</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21898,7 +21898,7 @@
 				<integer>552</integer>
 			</dict>
 		</dict>
-		<string>Green</string>
+		<string>초록</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21989,7 +21989,7 @@
 				<integer>552</integer>
 			</dict>
 		</dict>
-		<string>Blue</string>
+		<string>파랑</string>
 		<dict>
 			<key>$class</key>
 			<dict>

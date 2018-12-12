@@ -1,0 +1,3158 @@
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/AboutDialog.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/AboutDialog.nib
+< 		<string>Window</string>
+> 		<string>ウィンドウ</string>
+< 		<string>Third party licences</string>
+> 		<string>サードパーティライセンス</string>
+< 		<string>Version</string>
+> 		<string>バージョン</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/ContextMenu.nib
+< 		<string>Paste</string>
+> 		<string>ペースト</string>
+< 		<string>Create Slice</string>
+> 		<string>スライスを作成</string>
+< 		<string>Find in Layers Page</string>
+> 		<string>レイヤーページで検索</string>
+< 		<string>Cut</string>
+> 		<string>カット</string>
+< 		<string>Copy</string>
+> 		<string>コピー</string>
+> 		<string>ペースト</string>
+< 		<string>Paste Into</string>
+> 		<string>中にペースト</string>
+< 		<string>Group</string>
+> 		<string>グループ化</string>
+< 		<string>Ungroup</string>
+> 		<string>グループ解除</string>
+< 		<string>Ungroup All</string>
+> 		<string>すべてグループ解除</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
+< 		<string>Reset Rotation</string>
+> 		<string>回転をリセット</string>
+< 		<string>Arrange</string>
+> 		<string>配置</string>
+> 		<string>配置</string>
+< 		<string>Move to Front</string>
+> 		<string>最前面に移動</string>
+< 		<string>Move Forward One</string>
+> 		<string>前面へ</string>
+< 		<string>Move Back One</string>
+> 		<string>背面へ</string>
+< 		<string>Move to Back</string>
+> 		<string>最背面に移動</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
+< 		<string>Alignment</string>
+> 		<string>整列</string>
+> 		<string>整列</string>
+< 		<string>Align Left</string>
+> 		<string>左揃え</string>
+< 		<string>Align Centre</string>
+> 		<string>中央揃え</string>
+< 		<string>Align Right</string>
+> 		<string>右揃え</string>
+< 		<string>Align Top</string>
+> 		<string>上揃え</string>
+< 		<string>Align Middle</string>
+> 		<string>上下中央揃え</string>
+< 		<string>Align Bottom</string>
+> 		<string>下揃え</string>
+< 		<string>Geometry</string>
+> 		<string>ジオメトリ</string>
+> 		<string>ジオメトリ</string>
+< 		<string>Add</string>
+> 		<string>追加</string>
+< 		<string>Subtract</string>
+> 		<string>減算</string>
+< 		<string>Intersect</string>
+> 		<string>交差</string>
+< 		<string>Divide</string>
+> 		<string>除算</string>
+< 		<string>Combine</string>
+> 		<string>合成</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
+< 		<string>Transform</string>
+> 		<string>変換</string>
+> 		<string>変換</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
+< 		<string>Flip Horizontal</string>
+> 		<string>左右反転</string>
+< 		<string>Flip Vertical</string>
+> 		<string>上下反転</string>
+< 		<string>Layer Effects…</string>
+> 		<string>レイヤーエフェクト…</string>
+< 		<string>Convert to Curves</string>
+> 		<string>カーブに変換</string>
+< 		<string>Rasterise…</string>
+> 		<string>ラスタライズ…</string>
+< 		<string>Create Style</string>
+> 		<string>スタイルを作成</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>見本に追加…</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>見本に追加…</string>
+< 		<string>From Fill</string>
+> 		<string>塗りつぶしから</string>
+< 		<string>From Line</string>
+> 		<string>線から</string>
+< 		<string>From Both</string>
+> 		<string>両方から</string>
+< 		<string>From Fill As Global</string>
+> 		<string>グローバルとして塗りつぶしから</string>
+< 		<string>From Line As Global</string>
+> 		<string>グローバルとしてラインから</string>
+< 		<string>From Both As Global</string>
+> 		<string>グローバルとして両方から</string>
+< 		<string>Find in Layers Panel</string>
+> 		<string>レイヤーパネルで検索</string>
+< 		<string>Find in Slice Page</string>
+> 		<string>スライスページで検索</string>
+> 		<string>カット</string>
+> 		<string>コピー</string>
+> 		<string>ペースト</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Bold</string>
+> 		<string>太字</string>
+< 		<string>Italic</string>
+> 		<string>斜体</string>
+< 		<string>Underline</string>
+> 		<string>下線</string>
+< 		<string>Strikeout</string>
+> 		<string>打ち消し線</string>
+< 		<string>Size</string>
+> 		<string>サイズ</string>
+> 		<string>サイズ</string>
+< 		<string>Bigger</string>
+> 		<string>拡大</string>
+< 		<string>Smaller</string>
+> 		<string>縮小</string>
+< 		<string>Precise Bigger</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Smaller</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Spacing</string>
+> 		<string>間隔</string>
+> 		<string>間隔</string>
+< 		<string>Use Default</string>
+> 		<string>デフォルトを使用</string>
+< 		<string>Use None</string>
+> 		<string>何も使用しない</string>
+< 		<string>Tighten</string>
+> 		<string>狭める</string>
+< 		<string>Loosen</string>
+> 		<string>拡げる</string>
+< 		<string>Tighten More</string>
+> 		<string>さらに狭める</string>
+< 		<string>Loosen More</string>
+> 		<string>さらに拡げる</string>
+> 		<string>整列</string>
+> 		<string>整列</string>
+> 		<string>左揃え</string>
+< 		<string>Align Centre</string>
+> 		<string>中央揃え</string>
+> 		<string>右揃え</string>
+< 		<string>Justify Left</string>
+> 		<string>均等割付(最終行左寄せ)</string>
+< 		<string>Justify Centre</string>
+> 		<string>均等割付(最終行中央寄せ)</string>
+< 		<string>Justify Right</string>
+> 		<string>均等割付(最終行右寄せ)</string>
+< 		<string>Justify All</string>
+> 		<string>すべての行を均等配置</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Increase</string>
+> 		<string>拡大</string>
+< 		<string>Decrease</string>
+> 		<string>縮小</string>
+< 		<string>Precise Increase</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Decrease</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+< 		<string>Top</string>
+> 		<string>上</string>
+< 		<string>Centre</string>
+> 		<string>中央</string>
+< 		<string>Bottom</string>
+> 		<string>下</string>
+< 		<string>Justify</string>
+> 		<string>両端揃え</string>
+< 		<string>Insert Text from File…</string>
+> 		<string>ファイルからテキストを挿入…</string>
+< 		<string>Insert Filler Text</string>
+> 		<string>フィラーテキストを挿入</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>見本に追加…</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>見本に追加…</string>
+> 		<string>塗りつぶしから</string>
+> 		<string>線から</string>
+> 		<string>両方から</string>
+< 		<string>From Fill As Global</string>
+> 		<string>グローバルとして塗りつぶしから</string>
+< 		<string>From Line As Global</string>
+> 		<string>グローバルとしてラインから</string>
+< 		<string>From Both As Global</string>
+> 		<string>グローバルとして両方から</string>
+< 		<string>Find in Layers Panel</string>
+> 		<string>レイヤーパネルで検索</string>
+< 		<string>Zoom In</string>
+> 		<string>ズームイン</string>
+< 		<string>Zoom Out</string>
+> 		<string>ズームアウト</string>
+< 		<string>Zoom to Fit</string>
+> 		<string>画面サイズに合わせる</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
+< 		<string>Reset Rotation</string>
+> 		<string>回転をリセット</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+> 		<string>太字</string>
+> 		<string>斜体</string>
+> 		<string>下線</string>
+> 		<string>打ち消し線</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+> 		<string>太字</string>
+> 		<string>斜体</string>
+> 		<string>下線</string>
+> 		<string>打ち消し線</string>
+> 		<string>サイズ</string>
+> 		<string>サイズ</string>
+> 		<string>拡大</string>
+> 		<string>縮小</string>
+< 		<string>Precise Bigger</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Smaller</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+> 		<string>拡大</string>
+> 		<string>縮小</string>
+< 		<string>Precise Increase</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Decrease</string>
+> 		<string>厳密な縮小</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/Localizable.strings
+< 	<string>Add Document Snapshot</string>
+> 	<string>ドキュメントのスナップショットを追加</string>
+< 	<string>Add</string>
+> 	<string>加算</string>
+< 	<string>Add</string>
+> 	<string>加算</string>
+< 	<string>Add</string>
+> 	<string>追加</string>
+< 	<string>Add</string>
+> 	<string>追加</string>
+< 	<string>Add</string>
+> 	<string>追加</string>
+< 	<string>After</string>
+> 	<string>後</string>
+< 	<string>Align Bottom Edges</string>
+> 	<string>下端を揃える</string>
+< 	<string>Align Bottom Edges</string>
+> 	<string>下端を揃える</string>
+< 	<string>Align Bottom Edges</string>
+> 	<string>下端を揃える</string>
+< 	<string>Align Horizontal Centres</string>
+> 	<string>横方向中央を揃える</string>
+< 	<string>Align Horizontal Centres</string>
+> 	<string>横方向中央を揃える</string>
+< 	<string>Align Horizontal Centres</string>
+> 	<string>横方向中央を揃える</string>
+< 	<string>Align Left Edges</string>
+> 	<string>左端を揃える</string>
+< 	<string>Align Left Edges</string>
+> 	<string>左端を揃える</string>
+< 	<string>Align Left Edges</string>
+> 	<string>左端を揃える</string>
+< 	<string>Align Left Edges</string>
+> 	<string>左端を揃える</string>
+< 	<string>Align Right Edges</string>
+> 	<string>右端を揃える</string>
+< 	<string>Align Right Edges</string>
+> 	<string>右端を揃える</string>
+< 	<string>Align Right Edges</string>
+> 	<string>右端を揃える</string>
+< 	<string>Align Top Edges</string>
+> 	<string>上端を揃える</string>
+< 	<string>Align Top Edges</string>
+> 	<string>上端を揃える</string>
+< 	<string>Align Top Edges</string>
+> 	<string>上端を揃える</string>
+< 	<string>Align Vertical Centres</string>
+> 	<string>縦方向中央を揃える</string>
+< 	<string>Align Vertical Centres</string>
+> 	<string>縦方向中央を揃える</string>
+< 	<string>Align Vertical Centres</string>
+> 	<string>縦方向中央を揃える</string>
+< 	<string>Align</string>
+> 	<string>整列</string>
+< 	<string>Align</string>
+> 	<string>整列</string>
+< 	<string>Alignment</string>
+> 	<string>整列</string>
+< 	<string>Alignment</string>
+> 	<string>整列</string>
+< 	<string>Always Show Grid Origin</string>
+> 	<string>グリッド起点を常に表示</string>
+< 	<string>Apply</string>
+> 	<string>適用</string>
+< 	<string>Arrange</string>
+> 	<string>配置</string>
+< 	<string>Arrange</string>
+> 	<string>配置</string>
+< 	<string>Assistant Options</string>
+> 	<string>アシスタントオプション</string>
+< 	<string>Assistant Options</string>
+> 	<string>アシスタントオプション</string>
+< 	<string>Auto Colours</string>
+> 	<string>自動カラー</string>
+< 	<string>Auto Colours</string>
+> 	<string>自動カラー</string>
+< 	<string>Auto Contrast</string>
+> 	<string>自動コントラスト</string>
+< 	<string>Auto Contrast</string>
+> 	<string>自動コントラスト</string>
+< 	<string>Auto Levels</string>
+> 	<string>自動レベル</string>
+< 	<string>Auto Levels</string>
+> 	<string>自動レベル</string>
+< 	<string>Auto Levels</string>
+> 	<string>自動レベル</string>
+< 	<string>Auto White Balance</string>
+> 	<string>自動ホワイトバランス</string>
+< 	<string>Auto White Balance</string>
+> 	<string>自動ホワイトバランス</string>
+< 	<string>Auto White Balance</string>
+> 	<string>自動ホワイトバランス</string>
+< 	<string>AutoFit Column to Contents</string>
+> 	<string>コンテンツに合わせて列を自動調整</string>
+< 	<string>AutoFit Column(s)</string>
+> 	<string>列を自動調整</string>
+< 	<string>AutoFit Row to Contents</string>
+> 	<string>コンテンツに合わせて行を自動調整</string>
+< 	<string>AutoFit Row(s)</string>
+> 	<string>行を自動調整</string>
+< 	<string>Back One</string>
+> 	<string>1つ後方へ</string>
+< 	<string>Back One</string>
+> 	<string>1つ後方へ</string>
+< 	<string>Back One</string>
+> 	<string>1つ後方へ</string>
+< 	<string>Back One</string>
+> 	<string>1つ後方へ</string>
+< 	<string>Baseline Grid</string>
+> 	<string>ベースライングリッド</string>
+< 	<string>Before / After</string>
+> 	<string>前 / 後</string>
+< 	<string>Before</string>
+> 	<string>前</string>
+< 	<string>Cancel</string>
+> 	<string>キャンセル</string>
+< 	<string>Check out some of the cool artwork being created in Affinity Designer! Why not share your work with us?
+> 	<string>Affinity Designerで作成されているすばらしいアートワークのいくつかをご紹介しています。あなたの作品を共有してみませんか?
+< 	<string>Check out some of the cool layouts being created in Affinity Publisher! Why not share your work with us?
+> 	<string>Affinity Publisherで作成されているすばらしいレイアウトのいくつかをご紹介しています。あなたの作品を共有してみませんか?
+< 	<string>Choose the flow of the brush</string>
+> 	<string>ブラシの流量を選択します</string>
+< 	<string>Choose the hardness of the brush</string>
+> 	<string>ブラシの硬さを選択します</string>
+< 	<string>Choose the opacity of the brush</string>
+> 	<string>ブラシの不透明度を選択します</string>
+< 	<string>Choose the strength of the brush</string>
+> 	<string>ブラシの強度を選択します</string>
+< 	<string>Choose the width of the blemish</string>
+> 	<string>傷の幅を選択します</string>
+< 	<string>Choose the width of the brush</string>
+> 	<string>ブラシの幅を選択します</string>
+< 	<string>Clear Mask</string>
+> 	<string>マスクを消去</string>
+< 	<string>Click</string>
+> 	<string>クリック</string>
+< 	<string>Clipping Alarms</string>
+> 	<string>クリッピングアラーム</string>
+< 	<string>Create Into Grid Plane</string>
+> 	<string>グリッドプレーン内に作成</string>
+< 	<string>Create Into Grid Plane</string>
+> 	<string>グリッドプレーン内に作成</string>
+< 	<string>Create a new document by pressing 'New Document' below - or open existing work using File -&gt; Open. Click a sample below to download and view it. Visit our forum or tag with #madeinaffinity in the usual places. We'd love to see what you're up to...</string>
+> 	<string>下の[新規ドキュメント]を押してドキュメントを新規作成するか、[ファイル] -&gt; [開く]から既存のドキュメントを開いてください。下のサンプルをクリックするとダウンロードして参照できます。フォーラムに参加したり、SNSで#madeinaffinityのタグを付けて作品を投稿してください。ご参加をお待ちしています。</string>
+< 	<string>Cycle Selection Box</string>
+> 	<string>サイクル選択ボックス</string>
+< 	<string>Cycle Snapping Planes</string>
+> 	<string>スナップ面の切り替え</string>
+< 	<string>Cycle View Mode</string>
+> 	<string>サイクルビューモード</string>
+< 	<string>Defaults</string>
+> 	<string>デフォルト</string>
+< 	<string>Delete Column</string>
+> 	<string>列を削除</string>
+< 	<string>Delete Column(s)</string>
+> 	<string>列を削除</string>
+< 	<string>Delete Row</string>
+> 	<string>行を削除</string>
+< 	<string>Delete Row(s)</string>
+> 	<string>行を削除</string>
+< 	<string>Desaturate</string>
+> 	<string>彩度を下げる</string>
+< 	<string>Deselect</string>
+> 	<string>選択解除</string>
+< 	<string>Deselect</string>
+> 	<string>選択解除</string>
+< 	<string>Develop Persona</string>
+> 	<string>現像ペルソナ</string>
+< 	<string>Develop Persona</string>
+> 	<string>現像ペルソナ</string>
+< 	<string>Develop Persona</string>
+> 	<string>現像ペルソナ</string>
+< 	<string>Develop</string>
+> 	<string>現像</string>
+< 	<string>Develop</string>
+> 	<string>現像</string>
+< 	<string>Dismiss</string>
+> 	<string>解除</string>
+< 	<string>Distribute Bottom Edges</string>
+> 	<string>下端を基準に均等配置</string>
+< 	<string>Distribute Bottom Edges</string>
+> 	<string>下端を基準に均等配置</string>
+< 	<string>Distribute Bottom Edges</string>
+> 	<string>下端を基準に均等配置</string>
+< 	<string>Distribute Horizontal Centres</string>
+> 	<string>横方向中央を基準に均等配置</string>
+< 	<string>Distribute Horizontal Centres</string>
+> 	<string>横方向中央を基準に均等配置</string>
+< 	<string>Distribute Horizontal Centres</string>
+> 	<string>横方向中央を基準に均等配置</string>
+< 	<string>Distribute Left Edges</string>
+> 	<string>左端を基準に均等配置</string>
+< 	<string>Distribute Left Edges</string>
+> 	<string>左端を基準に均等配置</string>
+< 	<string>Distribute Left Edges</string>
+> 	<string>左端を基準に均等配置</string>
+< 	<string>Distribute Right Edges</string>
+> 	<string>右端を基準に均等配置</string>
+< 	<string>Distribute Right Edges</string>
+> 	<string>右端を基準に均等配置</string>
+< 	<string>Distribute Right Edges</string>
+> 	<string>右端を基準に均等配置</string>
+< 	<string>Distribute Top Edges</string>
+> 	<string>上端を基準に均等配置</string>
+< 	<string>Distribute Top Edges</string>
+> 	<string>上端を基準に均等配置</string>
+< 	<string>Distribute Top Edges</string>
+> 	<string>上端を基準に均等配置</string>
+< 	<string>Distribute Vertical Centres</string>
+> 	<string>縦方向中央を基準に均等配置</string>
+< 	<string>Distribute Vertical Centres</string>
+> 	<string>縦方向中央を基準に均等配置</string>
+< 	<string>Distribute Vertical Centres</string>
+> 	<string>縦方向中央を基準に均等配置</string>
+< 	<string>Distribute</string>
+> 	<string>均等配置</string>
+< 	<string>Distribute</string>
+> 	<string>均等配置</string>
+< 	<string>Divide</string>
+> 	<string>除算</string>
+< 	<string>Divide</string>
+> 	<string>除算</string>
+< 	<string>Divide</string>
+> 	<string>除算</string>
+< 	<string>Divide</string>
+> 	<string>除算</string>
+< 	<string>Drag</string>
+> 	<string>ドラッグ</string>
+< 	<string>Edit Field...</string>
+> 	<string>フィールドを編集...</string>
+< 	<string>Edit Grid Origin</string>
+> 	<string>グリッド起点を編集</string>
+< 	<string>Edit Grid Origin and Axis</string>
+> 	<string>グリッド起点および軸を編集</string>
+< 	<string>Edit Grid</string>
+> 	<string>グリッドを編集</string>
+< 	<string>Edit Grid</string>
+> 	<string>グリッドを編集</string>
+< 	<string>Edit In Grid Plane</string>
+> 	<string>グリッドプレーンで編集</string>
+< 	<string>Edit In Grid Plane</string>
+> 	<string>グリッドプレーンで編集</string>
+< 	<string>Edit Wrap Outline</string>
+> 	<string>回り込みアウトラインを編集</string>
+< 	<string>Edit Wrap Outline</string>
+> 	<string>回り込みアウトラインを編集</string>
+< 	<string>Enabling "Save With History" means that anybody you send this document to can see everything you did to create it.
+> 	<string>"履歴付きで保存"を有効にすると、このドキュメントを受け取ったすべてのユーザーは、このドキュメントの作成のために実行されたすべての操作を確認できます。
+< 	<string>Enhancement</string>
+> 	<string>強調</string>
+< 	<string>Enter a name for the snapshot</string>
+> 	<string>スナップショットの名前を入力します</string>
+< 	<string>Evenly Distribute Columns</string>
+> 	<string>列を均等配置</string>
+< 	<string>Evenly Distribute Rows</string>
+> 	<string>行を均等配置</string>
+< 	<string>Expand Field</string>
+> 	<string>フィールドを拡大</string>
+< 	<string>Export Persona</string>
+> 	<string>書き出しペルソナ</string>
+< 	<string>Export Persona</string>
+> 	<string>書き出しペルソナ</string>
+< 	<string>Export Persona</string>
+> 	<string>書き出しペルソナ</string>
+< 	<string>Export</string>
+> 	<string>書き出し</string>
+< 	<string>Fade %@…</string>
+> 	<string>%@をフェード…</string>
+< 	<string>Fade…</string>
+> 	<string>フェード…</string>
+< 	<string>Featured Work
+> 	<string>注目の作品
+< 	<string>Find in Layers Panel</string>
+> 	<string>レイヤーパネルで検索</string>
+< 	<string>Fit To Plane</string>
+> 	<string>プレーンに合わせる</string>
+< 	<string>Fit To Plane</string>
+> 	<string>プレーンに合わせる</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal</string>
+> 	<string>左右反転</string>
+< 	<string>Flip Horizontal</string>
+> 	<string>左右反転</string>
+< 	<string>Flip Horizontal</string>
+> 	<string>左右反転</string>
+< 	<string>Flip Horizontal</string>
+> 	<string>左右反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical</string>
+> 	<string>上下反転</string>
+< 	<string>Flip Vertical</string>
+> 	<string>上下反転</string>
+< 	<string>Flip Vertical</string>
+> 	<string>上下反転</string>
+< 	<string>Flip Vertical</string>
+> 	<string>上下反転</string>
+< 	<string>Flow:</string>
+> 	<string>流量:</string>
+< 	<string>Force Pixel Alignment</string>
+> 	<string>ピクセル配列を強制的に適用</string>
+< 	<string>Forward One</string>
+> 	<string>1つ前方へ</string>
+< 	<string>Forward One</string>
+> 	<string>1つ前方へ</string>
+< 	<string>Forward One</string>
+> 	<string>1つ前方へ</string>
+< 	<string>Forward One</string>
+> 	<string>1つ前方へ</string>
+< 	<string>Geometry</string>
+> 	<string>ジオメトリ</string>
+< 	<string>Grid Options</string>
+> 	<string>グリッドオプション</string>
+< 	<string>HSL Saturation</string>
+> 	<string>HSL彩度</string>
+< 	<string>Hardness:</string>
+> 	<string>硬さ:</string>
+< 	<string>Hold</string>
+> 	<string>ホールド</string>
+< 	<string>Ignore Spelling</string>
+> 	<string>スペルを無視</string>
+< 	<string>Inpaint Missing Areas</string>
+> 	<string>修復ミッシングエリア</string>
+< 	<string>Inpaint Missing Areas</string>
+> 	<string>修復ミッシングエリア</string>
+< 	<string>Insert Behind</string>
+> 	<string>後方に挿入</string>
+< 	<string>Insert Column</string>
+> 	<string>列を挿入</string>
+< 	<string>Insert Inside</string>
+> 	<string>内側に挿入</string>
+< 	<string>Insert Row</string>
+> 	<string>行を挿入</string>
+< 	<string>Insert Top</string>
+> 	<string>最上位に挿入</string>
+< 	<string>Insert at the top of the layer</string>
+> 	<string>最上位のレイヤーに挿入</string>
+< 	<string>Insert behind the selection</string>
+> 	<string>選択範囲の後方に挿入</string>
+< 	<string>Insert inside the selection</string>
+> 	<string>選択範囲の内側に挿入</string>
+< 	<string>Insertion</string>
+> 	<string>挿入</string>
+< 	<string>Intersect</string>
+> 	<string>交差</string>
+< 	<string>Intersect</string>
+> 	<string>交差</string>
+< 	<string>Intersect</string>
+> 	<string>交差</string>
+< 	<string>Intersect</string>
+> 	<string>交差</string>
+< 	<string>Invert Mask</string>
+> 	<string>マスクを反転</string>
+< 	<string>Invert Selection</string>
+> 	<string>選択範囲を反転</string>
+< 	<string>Invert Selection</string>
+> 	<string>選択範囲を反転</string>
+< 	<string>Layout Persona</string>
+> 	<string>ペルソナをレイアウト</string>
+< 	<string>Layout Persona</string>
+> 	<string>ペルソナをレイアウト</string>
+< 	<string>Layout Persona</string>
+> 	<string>ペルソナをレイアウト</string>
+< 	<string>Layout Persona</string>
+> 	<string>ペルソナをレイアウト</string>
+< 	<string>Layout</string>
+> 	<string>レイアウト</string>
+< 	<string>Learn Spelling</string>
+> 	<string>スペルを学習</string>
+< 	<string>Library Persona</string>
+> 	<string>ライブラリペルソナ</string>
+< 	<string>Liquify Persona</string>
+> 	<string>ゆがみペルソナ</string>
+< 	<string>Liquify Persona</string>
+> 	<string>ゆがみペルソナ</string>
+< 	<string>Liquify Persona</string>
+> 	<string>ゆがみペルソナ</string>
+< 	<string>Liquify</string>
+> 	<string>ゆがみ</string>
+< 	<string>Load Mesh</string>
+> 	<string>メッシュを読み込む</string>
+< 	<string>Look Up "%@"</string>
+> 	<string>"%@"を検索</string>
+< 	<string>Mask All</string>
+> 	<string>すべてマスク</string>
+< 	<string>Mask</string>
+> 	<string>マスク</string>
+< 	<string>Merge Cells</string>
+> 	<string>セルを結合</string>
+< 	<string>Mesh</string>
+> 	<string>メッシュ</string>
+< 	<string>Mirror</string>
+> 	<string>ミラー</string>
+< 	<string>Mirror</string>
+> 	<string>ミラー</string>
+< 	<string>Mode:</string>
+> 	<string>モード:</string>
+< 	<string>Move By Whole Pixels</string>
+> 	<string>ピクセル全体で移動</string>
+< 	<string>Move By Whole Pixels</string>
+> 	<string>ピクセル全体で移動</string>
+< 	<string>Move To Front</string>
+> 	<string>最前面に移動</string>
+< 	<string>Move selection back one level</string>
+> 	<string>選択範囲を1レベル後方へ移動</string>
+< 	<string>Move selection back one level</string>
+> 	<string>選択範囲を1レベル後方へ移動</string>
+< 	<string>Move selection forward one level</string>
+> 	<string>選択範囲を1レベル前方へ移動</string>
+< 	<string>Move selection forward one level</string>
+> 	<string>選択範囲を1レベル前方へ移動</string>
+< 	<string>Move selection to the back</string>
+> 	<string>選択範囲を最背面に移動</string>
+< 	<string>Move selection to the back</string>
+> 	<string>選択範囲を最背面に移動</string>
+< 	<string>Move selection to the front</string>
+> 	<string>選択範囲を最前面に移動</string>
+< 	<string>Move selection to the front</string>
+> 	<string>選択範囲を最前面に移動</string>
+< 	<string>Move to Back</string>
+> 	<string>最背面に移動</string>
+< 	<string>Move to Back</string>
+> 	<string>最背面に移動</string>
+< 	<string>Move to Front</string>
+> 	<string>最前面に移動</string>
+< 	<string>Move to Front</string>
+> 	<string>最前面に移動</string>
+< 	<string>Move to Front</string>
+> 	<string>最前面に移動</string>
+< 	<string>Move to Front</string>
+> 	<string>最前面に移動</string>
+< 	<string>No</string>
+> 	<string>いいえ</string>
+< 	<string>Nobody</string>
+> 	<string>ノーバディ</string>
+< 	<string>None</string>
+> 	<string>なし</string>
+< 	<string>None</string>
+> 	<string>なし</string>
+< 	<string>Opacity:</string>
+> 	<string>不透明度:</string>
+< 	<string>Order</string>
+> 	<string>順序</string>
+< 	<string>Outline</string>
+> 	<string>アウトライン</string>
+< 	<string>Outline view mode</string>
+> 	<string>アウトライン表示モード</string>
+< 	<string>Panorama Persona</string>
+> 	<string>パノラマ・パソナ</string>
+< 	<string>Panorama</string>
+> 	<string>パノラマ</string>
+< 	<string>Personas</string>
+> 	<string>ペルソナ</string>
+< 	<string>Photo Persona</string>
+> 	<string>写真ペルソナ</string>
+< 	<string>Photo Persona</string>
+> 	<string>写真ペルソナ</string>
+< 	<string>Photo Persona</string>
+> 	<string>写真ペルソナ</string>
+< 	<string>Photo Persona.</string>
+> 	<string>写真ペルソナ。</string>
+< 	<string>Photo</string>
+> 	<string>写真</string>
+< 	<string>Pixel Align</string>
+> 	<string>ピクセル配列</string>
+< 	<string>Pixel Persona</string>
+> 	<string>ピクセルペルソナ</string>
+< 	<string>Pixel Persona</string>
+> 	<string>ピクセルペルソナ</string>
+< 	<string>Pixel Persona</string>
+> 	<string>ピクセルペルソナ</string>
+< 	<string>Pixel</string>
+> 	<string>ピクセル</string>
+< 	<string>Pixel view mode</string>
+> 	<string>Pixel表示モード</string>
+< 	<string>Pixels</string>
+> 	<string>ピクセル</string>
+< 	<string>Planar Editing</string>
+> 	<string>平面の編集</string>
+< 	<string>Please either commit or cancel the develop operation before switching to another Persona.</string>
+> 	<string>現像操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
+< 	<string>Please either commit or cancel the develop operation before switching to another Persona.</string>
+> 	<string>現像操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
+< 	<string>Please either commit or cancel the liquify operation before switching to another Persona.</string>
+> 	<string>ゆがみ操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
+< 	<string>Please either commit or cancel the panorama before switching to another Persona.</string>
+> 	<string>別のパソナに切り替える前に、パノラマにコミットするか、パノラマをキャンセルしてください。</string>
+< 	<string>Please either commit or cancel the tone mapping operation before switching to another Persona.</string>
+> 	<string>トーンマッピング操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
+< 	<string>Please select a layer.</string>
+> 	<string>レイヤーを選択してください。</string>
+< 	<string>Please select a pixel layer or mask before entering Liquify.</string>
+> 	<string>ピクセルレイヤーまたはマスクを選択してから[ゆがみ]に入ってください。</string>
+< 	<string>Please select an RGB pixel layer before entering Develop.</string>
+> 	<string>RGBピクセルレイヤーを選択してから[現像]に入ってください。</string>
+< 	<string>Please select an RGB pixel layer before entering HDR.</string>
+> 	<string>RGBピクセルレイヤーを選択してから[HDR]に入ってください。</string>
+< 	<string>Protect hue</string>
+> 	<string>色相の保護</string>
+< 	<string>Quick Mask</string>
+> 	<string>クイックマスク</string>
+< 	<string>Repeat %@</string>
+> 	<string>%@をリピート</string>
+< 	<string>Reset Mesh</string>
+> 	<string>メッシュをリセット</string>
+< 	<string>Reset Wrap Outline</string>
+> 	<string>回り込みアウトラインをリセット</string>
+< 	<string>Reset Wrap Outline</string>
+> 	<string>回り込みアウトラインをリセット</string>
+< 	<string>Retina Pixels</string>
+> 	<string>Retinaピクセル</string>
+< 	<string>Retina pixel view mode</string>
+> 	<string>Retinaピクセル表示モード</string>
+< 	<string>Retina pixel view mode</string>
+> 	<string>Retinaピクセル表示モード</string>
+< 	<string>Revert Defaults</string>
+> 	<string>デフォルト設定を復元</string>
+< 	<string>Revert defaults</string>
+> 	<string>元のデフォルト設定に戻す</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise</string>
+> 	<string>反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise</string>
+> 	<string>反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise</string>
+> 	<string>反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise</string>
+> 	<string>反時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise</string>
+> 	<string>時計回りに回転</string>
+< 	<string>Rotate Clockwise</string>
+> 	<string>時計回りに回転</string>
+< 	<string>Rotate Clockwise</string>
+> 	<string>時計回りに回転</string>
+< 	<string>Rotate Clockwise</string>
+> 	<string>時計回りに回転</string>
+< 	<string>Rotation</string>
+> 	<string>回転</string>
+< 	<string>Saturate</string>
+> 	<string>彩度を上げる</string>
+< 	<string>Save Mesh</string>
+> 	<string>メッシュを保存</string>
+< 	<string>Saving With History</string>
+> 	<string>履歴付きで保存中</string>
+< 	<string>Select All</string>
+> 	<string>すべて選択</string>
+< 	<string>Select All</string>
+> 	<string>すべて選択</string>
+< 	<string>Selection</string>
+> 	<string>選択範囲</string>
+< 	<string>Send To Back</string>
+> 	<string>最背面に送る</string>
+< 	<string>Send to Back</string>
+> 	<string>最背面に送る</string>
+< 	<string>Send to Back</string>
+> 	<string>最背面に送る</string>
+< 	<string>Send to Back</string>
+> 	<string>最背面に送る</string>
+< 	<string>Separate Cells</string>
+> 	<string>セルを分離</string>
+< 	<string>Set Fill None</string>
+> 	<string>塗りつぶしをなしに設定</string>
+< 	<string>Set Fill to 50% Grey</string>
+> 	<string>塗りつぶしを50%グレーに設定</string>
+< 	<string>Set Fill to Black and White</string>
+> 	<string>塗りつぶしを白黒に設定</string>
+< 	<string>Show Baseline Grid Manager</string>
+> 	<string>ベースライングリッドマネージャーを表示</string>
+< 	<string>Show Clipped Highlights</string>
+> 	<string>クリップされたハイライトを表示</string>
+< 	<string>Show Clipped Highlights</string>
+> 	<string>クリップされたハイライトを表示</string>
+< 	<string>Show Clipped Shadows</string>
+> 	<string>クリップされたシャドウを表示</string>
+< 	<string>Show Clipped Shadows</string>
+> 	<string>クリップされたシャドウを表示</string>
+< 	<string>Show Clipped Shadows</string>
+> 	<string>クリップされたシャドウを表示</string>
+< 	<string>Show Clipped Shadows</string>
+> 	<string>クリップされたシャドウを表示</string>
+< 	<string>Show Clipped Tones</string>
+> 	<string>クリップされた色調を表示</string>
+< 	<string>Show Clipped Tones</string>
+> 	<string>クリップされた色調を表示</string>
+< 	<string>Show Clipped Tones</string>
+> 	<string>クリップされた色調を表示</string>
+< 	<string>Show Text Wrap Settings</string>
+> 	<string>テキストの回り込み設定を表示</string>
+< 	<string>Show Text Wrap Settings</string>
+> 	<string>テキストの回り込み設定を表示</string>
+< 	<string>Snapping Options</string>
+> 	<string>スナップオプション</string>
+< 	<string>Snapping Options</string>
+> 	<string>スナップオプション</string>
+< 	<string>Snapping</string>
+> 	<string>スナップ</string>
+< 	<string>Snapping</string>
+> 	<string>スナップ</string>
+< 	<string>Snapping</string>
+> 	<string>スナップ</string>
+< 	<string>Sort Ascending</string>
+> 	<string>昇順に並べ替え</string>
+< 	<string>Sort Descending</string>
+> 	<string>降順に並べ替え</string>
+< 	<string>Sort by Column Ascending</string>
+> 	<string>列を昇順に並べ替え</string>
+< 	<string>Sort by Column Descending</string>
+> 	<string>列を降順に並べ替え</string>
+< 	<string>Sort by Row Ascending</string>
+> 	<string>行を昇順に並べ替え</string>
+< 	<string>Sort by Row Descending</string>
+> 	<string>行を降順に並べ替え</string>
+< 	<string>Space Horizontally</string>
+> 	<string>水平方向に等間隔配置</string>
+< 	<string>Space Horizontally</string>
+> 	<string>水平方向に等間隔配置</string>
+< 	<string>Space Horizontally</string>
+> 	<string>水平方向に等間隔配置</string>
+< 	<string>Space Vertically</string>
+> 	<string>垂直方向に等間隔配置</string>
+< 	<string>Space Vertically</string>
+> 	<string>垂直方向に等間隔配置</string>
+< 	<string>Space Vertically</string>
+> 	<string>垂直方向に等間隔配置</string>
+< 	<string>Spacing</string>
+> 	<string>間隔</string>
+< 	<string>Split View</string>
+> 	<string>ビューを分割</string>
+< 	<string>Split</string>
+> 	<string>分割</string>
+< 	<string>Split</string>
+> 	<string>分割</string>
+< 	<string>Strength:</string>
+> 	<string>強度:</string>
+< 	<string>Subtract</string>
+> 	<string>減算</string>
+< 	<string>Subtract</string>
+> 	<string>減算</string>
+< 	<string>Subtract</string>
+> 	<string>減算</string>
+< 	<string>Subtract</string>
+> 	<string>減算</string>
+< 	<string>Subtract</string>
+> 	<string>除外</string>
+< 	<string>Swap Line and Fill</string>
+> 	<string>線と塗りつぶしを入れ換え</string>
+< 	<string>Swap</string>
+> 	<string>スワップ</string>
+< 	<string>Swap</string>
+> 	<string>スワップ</string>
+< 	<string>Switch to Next View</string>
+> 	<string>次のビューポイントに切り替え</string>
+< 	<string>Sync After</string>
+> 	<string>同期の後</string>
+< 	<string>Sync After</string>
+> 	<string>同期の後</string>
+< 	<string>Sync Before</string>
+> 	<string>同期の前</string>
+< 	<string>Sync Before</string>
+> 	<string>同期の前</string>
+< 	<string>Synchronise Defaults</string>
+> 	<string>デフォルト設定を同期</string>
+< 	<string>Synchronise defaults from selection</string>
+> 	<string>選択範囲のデフォルト設定を同期</string>
+< 	<string>The mesh warp tool requires a selected layer to warp.</string>
+> 	<string>メッシュワープツールを使用するには、ワープ処理を行うレイヤーが選択されている必要があります。</string>
+< 	<string>This feature is disabled until later in the Publisher Beta.</string>
+> 	<string>この機能はPublisherのベータ版で今後有効になる予定です。</string>
+< 	<string>Toggle 32-bit Preview Panel</string>
+> 	<string>32ビットプレビューパネルを切り替え</string>
+< 	<string>Toggle Adjustment Panel</string>
+> 	<string>調整パネルを切り替え</string>
+< 	<string>Toggle Assets Panel</string>
+> 	<string>アセットパネルを切り替え</string>
+< 	<string>Toggle Batch Panel</string>
+> 	<string>一括パネルを切り替え</string>
+< 	<string>Toggle Brushes Panel</string>
+> 	<string>ブラシパネルを切り替え</string>
+< 	<string>Toggle Channels Panel</string>
+> 	<string>チャンネルパネルを切り替え</string>
+< 	<string>Toggle Character Panel</string>
+> 	<string>文字パネルを切り替え</string>
+< 	<string>Toggle Colour Panel</string>
+> 	<string>色パネルを切り替え</string>
+< 	<string>Toggle Constraint Panel</string>
+> 	<string>制約パネルを切り替え</string>
+< 	<string>Toggle Develop Basic Panel</string>
+> 	<string>現像基本パネルを切り替え</string>
+< 	<string>Toggle Develop Details Panel</string>
+> 	<string>現像詳細パネルを切り替え</string>
+< 	<string>Toggle Develop Focus Panel</string>
+> 	<string>現像フォーカスパネルを切り替え</string>
+< 	<string>Toggle Develop Lens Panel</string>
+> 	<string>現像レンズパネルを切り替え</string>
+< 	<string>Toggle Develop Location Panel</string>
+> 	<string>現像場所パネルを切り替え</string>
+< 	<string>Toggle Develop Overlay Panel</string>
+> 	<string>現像オーバーレイパネルを切り替え</string>
+< 	<string>Toggle Develop Snapshot Panel</string>
+> 	<string>現像スナップショットパネルを切り替え</string>
+< 	<string>Toggle Develop Tones Panel</string>
+> 	<string>現像トーンパネルを切り替え</string>
+< 	<string>Toggle Edit Selection As Layer</string>
+> 	<string>選択範囲レイヤー編集の切り替え</string>
+< 	<string>Toggle Effects Panel</string>
+> 	<string>エフェクパネルを切り替え</string>
+< 	<string>Toggle Exif Panel</string>
+> 	<string>Exifパネルを切り替え</string>
+< 	<string>Toggle Export Layers Panel</string>
+> 	<string>レイヤのエクスポートパネルを切り替え</string>
+< 	<string>Toggle Export Options Panel</string>
+> 	<string>エクスポートオプションパネルを切り替え</string>
+< 	<string>Toggle Fields Panel</string>
+> 	<string>フィールドパネルを切り替え</string>
+< 	<string>Toggle Fill Context</string>
+> 	<string>塗りつぶしコンテキストの切り替え</string>
+< 	<string>Toggle Find and Replace Panel</string>
+> 	<string>検索および置換パネルの切り替え</string>
+< 	<string>Toggle Frequency Layer</string>
+> 	<string>周波数レイヤーの切り替え</string>
+< 	<string>Toggle GPU Panel</string>
+> 	<string>GPUパネルを切り替え</string>
+< 	<string>Toggle Glyph Browser Panel</string>
+> 	<string>グリフブラウザパネルを切り替え</string>
+< 	<string>Toggle Grid Editing</string>
+> 	<string>グリッド編集の切り替え</string>
+< 	<string>Toggle Grid Editing</string>
+> 	<string>グリッド編集の切り替え</string>
+< 	<string>Toggle Grid Origin Editing</string>
+> 	<string>グリッド起点編集の切り替え</string>
+< 	<string>Toggle Grid Origin and Axis Editing</string>
+> 	<string>グリッド起点および軸編集の切り替え</string>
+< 	<string>Toggle Guides Editing</string>
+> 	<string>ガイド編集の切り替え</string>
+< 	<string>Toggle Guides Editing</string>
+> 	<string>ガイド編集の切り替え</string>
+< 	<string>Toggle Histogram Panel</string>
+> 	<string>ヒストグラムパネルを切り替え</string>
+< 	<string>Toggle History Panel</string>
+> 	<string>履歴パネルを切り替え</string>
+< 	<string>Toggle Index Panel</string>
+> 	<string>インデックスパネルを切り替え</string>
+< 	<string>Toggle Information Panel</string>
+> 	<string>情報パネルを切り替え</string>
+< 	<string>Toggle Layers Panel</string>
+> 	<string>レイヤーパネルを切り替え</string>
+< 	<string>Toggle Library Panel</string>
+> 	<string>ライブラリパネルを切り替え</string>
+< 	<string>Toggle Links Panel</string>
+> 	<string>リンクパネルを切り替え</string>
+< 	<string>Toggle Liquify Brush Panel</string>
+> 	<string>ゆがみブラシパネルを切り替え</string>
+< 	<string>Toggle Liquify Mask Panel</string>
+> 	<string>ゆがみマスクパネルを切り替え</string>
+< 	<string>Toggle Liquify Mesh Panel</string>
+> 	<string>ゆがみメッシュパネルを切り替え</string>
+< 	<string>Toggle Macro Panel</string>
+> 	<string>マクロパネルを切り替え</string>
+< 	<string>Toggle Navigator Panel</string>
+> 	<string>ナビゲータパネルを切り替え</string>
+< 	<string>Toggle Pages Panel</string>
+> 	<string>ページパネルを切り替え</string>
+< 	<string>Toggle Paragraph Panel</string>
+> 	<string>段落パネルを切り替え</string>
+< 	<string>Toggle Quick Mask [Q]</string>
+> 	<string>クイックマスクを切り替え[Q]</string>
+< 	<string>Toggle Quick Mask [Q]</string>
+> 	<string>クイックマスクを切り替え[Q]</string>
+< 	<string>Toggle Ruler Origin Editing</string>
+> 	<string>ルーラー起点編集の切り替え</string>
+< 	<string>Toggle Ruler Origin Editing</string>
+> 	<string>ルーラー起点編集の切り替え</string>
+< 	<string>Toggle Scope Panel</string>
+> 	<string>スコープパネルを切り替え</string>
+< 	<string>Toggle Slices Panel</string>
+> 	<string>スライスパネルを切り替え</string>
+< 	<string>Toggle Snapping</string>
+> 	<string>スナップの切り替え</string>
+< 	<string>Toggle Snapshots Panel</string>
+> 	<string>スナップショットパネルを切り替え</string>
+< 	<string>Toggle Sources Panel</string>
+> 	<string>ソースパネルを切り替え</string>
+< 	<string>Toggle Stock Panel</string>
+> 	<string>ストックパネルを切り替え</string>
+< 	<string>Toggle Stroke Panel</string>
+> 	<string>境界線パネルを切り替え</string>
+< 	<string>Toggle Styles Panel</string>
+> 	<string>スタイルパネルを切り替え</string>
+< 	<string>Toggle Swatches Panel</string>
+> 	<string>見本パネルを切り替え</string>
+< 	<string>Toggle Symbol Panel</string>
+> 	<string>シンボルパネルを切り替え</string>
+< 	<string>Toggle Table Format Panel</string>
+> 	<string>テーブルフォーマットパネルを切り替え</string>
+< 	<string>Toggle Table Panel</string>
+> 	<string>テーブルパネルを切り替え</string>
+< 	<string>Toggle Table of Contents Panel</string>
+> 	<string>目次パネルを切り替え</string>
+< 	<string>Toggle Text Frame Panel</string>
+> 	<string>テキストフレームパネルを切り替え</string>
+< 	<string>Toggle Text Styles Panel</string>
+> 	<string>テキストスタイルパネルを切り替え</string>
+< 	<string>Toggle Tone Map Overlays Panel</string>
+> 	<string>トーンマップオーバーレイパネルを切り替え</string>
+< 	<string>Toggle Tone Map Panel</string>
+> 	<string>トーンマップパネルを切り替え</string>
+< 	<string>Toggle Tone Map Presets Panel</string>
+> 	<string>トーンマッププリセットパネルを切り替え</string>
+< 	<string>Toggle Transform Panel</string>
+> 	<string>変換パネルを切り替え</string>
+< 	<string>Toggle Unicode Character</string>
+> 	<string>Unicode文字の切り替え</string>
+< 	<string>Tonal Range:</string>
+> 	<string>階調範囲:</string>
+< 	<string>Tone Mapping Persona</string>
+> 	<string>トーンマッピングペルソナ</string>
+< 	<string>Tone Mapping Persona</string>
+> 	<string>トーンマッピングペルソナ</string>
+< 	<string>Tone Mapping Persona</string>
+> 	<string>トーンマッピングペルソナ</string>
+< 	<string>Tone Mapping</string>
+> 	<string>トーンマッピング</string>
+< 	<string>Tool Options</string>
+> 	<string>ツールオプション</string>
+< 	<string>Transform</string>
+> 	<string>変換</string>
+< 	<string>Unignore Spelling "%@"</string>
+> 	<string>スペル"%@"の無視を解除</string>
+< 	<string>Unlearn Spelling "%@"</string>
+> 	<string>スペル"%@"の学習を解除</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona.</string>
+> 	<string>ベクトルペルソナ。</string>
+< 	<string>Vector</string>
+> 	<string>ベクトル</string>
+< 	<string>Vibrance</string>
+> 	<string>自然な彩度</string>
+< 	<string>View Mode</string>
+> 	<string>表示モード</string>
+< 	<string>Welcome to Affinity Photo.
+> 	<string>Affinity Photoへようこそ。
+< 	<string>Width:</string>
+> 	<string>幅:</string>
+< 	<string>Width:</string>
+> 	<string>幅:</string>
+< 	<string>Wrapping</string>
+> 	<string>回り込み</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Yes</string>
+> 	<string>はい</string>
+< 	<string>Zoom In</string>
+> 	<string>ズームイン</string>
+< 	<string>Zoom Out</string>
+> 	<string>ズームアウト</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuDesignerExport.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/MainMenuDesignerExport.nib
+< 		<string>Open Recent</string>
+> 		<string>最近使用したファイルを開く</string>
+< 		<string>Clear Menu</string>
+> 		<string>最近使用したファイルのリストを消去</string>
+< 		<string>Views</string>
+> 		<string>ビュー</string>
+< 		<string>Studio</string>
+> 		<string>スタジオ</string>
+< 		<string>Show Left Studio</string>
+> 		<string>Left Studioの表示</string>
+< 		<string>Show Right Studio</string>
+> 		<string>Right Studioの表示</string>
+< 		<string>Hide Studio</string>
+> 		<string>スタジオを隠す</string>
+< 		<string>Reset Studio</string>
+> 		<string>スタジオをリセット</string>
+< 		<string>Share</string>
+> 		<string>共有</string>
+< 		<string>Separated Mode</string>
+> 		<string>分離モード</string>
+< 		<string>Minimize</string>
+> 		<string>最小化</string>
+< 		<string>Zoom</string>
+> 		<string>ズーム</string>
+< 		<string>Hide Others</string>
+> 		<string>他を隠す</string>
+< 		<string>Preferences…</string>
+> 		<string>環境設定…</string>
+< 		<string>Quit</string>
+> 		<string>終了</string>
+< 		<string>Show All</string>
+> 		<string>すべて表示</string>
+< 		<string>Hide</string>
+> 		<string>非表示</string>
+< 		<string>About…</string>
+> 		<string>Affinity Designerについて…</string>
+< 		<string>Save As…</string>
+> 		<string>別名で保存…</string>
+< 		<string>Save</string>
+> 		<string>保存</string>
+< 		<string>Close</string>
+> 		<string>閉じる</string>
+< 		<string>New</string>
+> 		<string>新規</string>
+< 		<string>Open…</string>
+> 		<string>開く…</string>
+< 		<string>Print…</string>
+> 		<string>プリント…</string>
+< 		<string>Customise Tools…</string>
+> 		<string>ツールのカスタマイズ…</string>
+< 		<string>Customise Toolbar…</string>
+> 		<string>ツールバーのカスタマイズ…</string>
+< 		<string>Show Toolbar</string>
+> 		<string>ツールバーの表示</string>
+< 		<string>Zoom to Fit</string>
+> 		<string>画面サイズに合わせる</string>
+< 		<string>Show Margins</string>
+> 		<string>マージンの表示</string>
+< 		<string>Show Guides</string>
+> 		<string>ガイドの表示</string>
+< 		<string>Show Grid</string>
+> 		<string>グリッドを表示</string>
+< 		<string>New View</string>
+> 		<string>新規ビュー</string>
+< 		<string>Export…</string>
+> 		<string>書き出し…</string>
+< 		<string>Pixels</string>
+> 		<string>ピクセル</string>
+< 		<string>Snapping Manager…</string>
+> 		<string>スナップの管理…</string>
+< 		<string>Zoom In</string>
+> 		<string>ズームイン</string>
+< 		<string>Zoom Out</string>
+> 		<string>ズームアウト</string>
+< 		<string>Assistant Manager…</string>
+> 		<string>アシスタントマネージャー…</string>
+< 		<string>Vector</string>
+> 		<string>ベクトル</string>
+< 		<string>Show Rulers</string>
+> 		<string>ルーラーを表示</string>
+< 		<string>Toggle Full Screen</string>
+> 		<string>フルスクリーン切り替え</string>
+< 		<string>Select All</string>
+> 		<string>すべてを選択</string>
+< 		<string>Affinity Designer Help</string>
+> 		<string>Affinity Designerヘルプ</string>
+< 		<string>Pixel Persona</string>
+> 		<string>ピクセルペルソナ</string>
+< 		<string>Redo</string>
+> 		<string>やり直し</string>
+< 		<string>Delete</string>
+> 		<string>削除</string>
+< 		<string>Copy</string>
+> 		<string>コピー</string>
+< 		<string>Actual Size</string>
+> 		<string>実寸</string>
+< 		<string>Crash</string>
+> 		<string>クラッシュ</string>
+< 		<string>Toggle UI</string>
+> 		<string>UI切り替え</string>
+< 		<string>Welcome...</string>
+> 		<string>ようこそ...</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Select Next</string>
+> 		<string>次の要素を選択</string>
+< 		<string>Merge All Windows</string>
+> 		<string>すべてのウィンドウを結合</string>
+< 		<string>Show Tools</string>
+> 		<string>ツールを表示</string>
+< 		<string>Undo</string>
+> 		<string>取り消し</string>
+< 		<string>Grid and Axis Manager…</string>
+> 		<string>グリッドと軸の管理…</string>
+< 		<string>Show Context Toolbar</string>
+> 		<string>コンテキストツールバーを表示</string>
+< 		<string>Reset Rotation</string>
+> 		<string>回転をリセット</string>
+< 		<string>Pixel Size</string>
+> 		<string>ピクセルサイズ</string>
+< 		<string>New From Clipboard</string>
+> 		<string>クリップボードから新規作成</string>
+< 		<string>Apple Colour Picker...</string>
+> 		<string>Appleカラーピッカー...</string>
+< 		<string>Deselect</string>
+> 		<string>選択解除</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
+< 		<string>Pixels (Retina)</string>
+> 		<string>ピクセル(Retina)</string>
+< 		<string>Zoom to Selection</string>
+> 		<string>選択範囲を拡大</string>
+< 		<string>Select Previous</string>
+> 		<string>前の要素を選択</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
+< 		<string>Vector Persona</string>
+> 		<string>ベクトルペルソナ</string>
+< 		<string>Support...</string>
+> 		<string>サポート...</string>
+< 		<string>Clip to Canvas</string>
+> 		<string>キャンバスにクリップ</string>
+< 		<string>Cut</string>
+> 		<string>カット</string>
+< 		<string>Paste</string>
+> 		<string>ペースト</string>
+< 		<string>Tutorial...</string>
+> 		<string>チュートリアル...</string>
+< 		<string>Outline</string>
+> 		<string>アウトライン</string>
+< 		<string>Dock Tools</string>
+> 		<string>ツールをドッキング</string>
+< 		<string>Save as Regression Unit</string>
+> 		<string>回帰単位として保存</string>
+< 		<string>MainMenu</string>
+> 		<string>メインメニュー</string>
+< 		<string>Persona</string>
+> 		<string>ペルソナ</string>
+> 		<string>ペルソナ</string>
+< 		<string>Services</string>
+> 		<string>サービス</string>
+> 		<string>サービス</string>
+< 		<string>File</string>
+> 		<string>ファイル</string>
+> 		<string>ファイル</string>
+> 		<string>最近使用したファイルを開く</string>
+> 		<string>共有</string>
+< 		<string>Edit</string>
+> 		<string>編集</string>
+> 		<string>編集</string>
+< 		<string>Select</string>
+> 		<string>選択</string>
+> 		<string>選択</string>
+< 		<string>View</string>
+> 		<string>ビュー</string>
+> 		<string>ビュー</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
+< 		<string>View Mode</string>
+> 		<string>ビューモード</string>
+> 		<string>ビューモード</string>
+> 		<string>ビュー</string>
+> 		<string>スタジオ</string>
+< 		<string>Window</string>
+> 		<string>ウィンドウ</string>
+> 		<string>ウィンドウ</string>
+< 		<string>Bring All to Front</string>
+> 		<string>すべて前面に移動</string>
+< 		<string>Help</string>
+> 		<string>ヘルプ</string>
+> 		<string>ヘルプ</string>
+< 		<string>Debug</string>
+> 		<string>デバッグ</string>
+> 		<string>デバッグ</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuPixel.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/MainMenuPixel.nib
+< 		<string>Open Recent</string>
+> 		<string>最近使用したファイルを開く</string>
+< 		<string>Clear Menu</string>
+> 		<string>最近使用したファイルのリストを消去</string>
+< 		<string>Views</string>
+> 		<string>ビュー</string>
+< 		<string>Studio</string>
+> 		<string>スタジオ</string>
+< 		<string>Show Left Studio</string>
+> 		<string>Left Studioの表示</string>
+< 		<string>Show Right Studio</string>
+> 		<string>Right Studioの表示</string>
+< 		<string>Hide Studio</string>
+> 		<string>スタジオを隠す</string>
+< 		<string>Reset Studio</string>
+> 		<string>スタジオをリセット</string>
+< 		<string>Share</string>
+> 		<string>共有</string>
+< 		<string>Minimize</string>
+> 		<string>最小化</string>
+< 		<string>Zoom</string>
+> 		<string>ズーム</string>
+< 		<string>Hide Others</string>
+> 		<string>他を隠す</string>
+< 		<string>Preferences…</string>
+> 		<string>環境設定…</string>
+< 		<string>Quit</string>
+> 		<string>終了</string>
+< 		<string>Show All</string>
+> 		<string>すべて表示</string>
+< 		<string>Hide</string>
+> 		<string>非表示</string>
+< 		<string>About…</string>
+> 		<string>Affinity Designerについて…</string>
+< 		<string>Redo</string>
+> 		<string>やり直し</string>
+< 		<string>Copy</string>
+> 		<string>コピー</string>
+< 		<string>Paste</string>
+> 		<string>ペースト</string>
+< 		<string>Cut</string>
+> 		<string>カット</string>
+< 		<string>Undo</string>
+> 		<string>取り消し</string>
+< 		<string>Select All</string>
+> 		<string>すべて選択</string>
+< 		<string>Delete</string>
+> 		<string>削除</string>
+< 		<string>Save As…</string>
+> 		<string>別名で保存…</string>
+< 		<string>Close</string>
+> 		<string>閉じる</string>
+< 		<string>Document Setup…</string>
+> 		<string>ドキュメント設定…</string>
+< 		<string>New</string>
+> 		<string>新規</string>
+< 		<string>Open…</string>
+> 		<string>開く…</string>
+< 		<string>Print…</string>
+> 		<string>プリント…</string>
+< 		<string>Customise Tools…</string>
+> 		<string>ツールをカスタマイズ…</string>
+< 		<string>Customise Toolbar…</string>
+> 		<string>ツールバーをカスタマイズ…</string>
+< 		<string>Show Toolbar</string>
+> 		<string>ツールバーを表示</string>
+< 		<string>Affinity Designer Help</string>
+> 		<string>Affinity Designerヘルプ</string>
+< 		<string>Ungroup</string>
+> 		<string>グループ解除</string>
+< 		<string>Group</string>
+> 		<string>グループ化</string>
+< 		<string>Duplicate</string>
+> 		<string>複製</string>
+< 		<string>Zoom to Fit</string>
+> 		<string>画面サイズに合わせる</string>
+< 		<string>Show Margins</string>
+> 		<string>マージンを表示</string>
+< 		<string>Show Guides</string>
+> 		<string>ガイドを表示</string>
+< 		<string>Show Grid</string>
+> 		<string>グリッドを表示</string>
+< 		<string>New View</string>
+> 		<string>新規ビュー</string>
+< 		<string>Export…</string>
+> 		<string>書き出し…</string>
+< 		<string>Pixels</string>
+> 		<string>ピクセル</string>
+< 		<string>Place…</string>
+> 		<string>配置…</string>
+< 		<string>Snapping Manager…</string>
+> 		<string>スナップマネージャー…</string>
+< 		<string>Paste Style</string>
+> 		<string>スタイルをペースト</string>
+< 		<string>Zoom In</string>
+> 		<string>ズームイン</string>
+< 		<string>Zoom Out</string>
+> 		<string>ズームアウト</string>
+< 		<string>Rasterise…</string>
+> 		<string>ラスタライズ…</string>
+< 		<string>Assistant Manager…</string>
+> 		<string>アシスタントマネージャー…</string>
+< 		<string>Vector</string>
+> 		<string>ベクター</string>
+< 		<string>Show Rulers</string>
+> 		<string>ルーラーを表示</string>
+< 		<string>Outline…</string>
+> 		<string>アウトライン…</string>
+< 		<string>Select Highlights</string>
+> 		<string>ハイライトを選択</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photoで編集…</string>
+< 		<string>Move Back One</string>
+> 		<string>背面へ</string>
+< 		<string>Create Compound</string>
+> 		<string>複合部を作成</string>
+< 		<string>Release Compound</string>
+> 		<string>複合化を解除</string>
+< 		<string>Recolour</string>
+> 		<string>再配色</string>
+< 		<string>Distribute Vertically</string>
+> 		<string>垂直方向に均等配置</string>
+< 		<string>Apple Colour Picker...</string>
+> 		<string>Appleカラーピッカー...</string>
+< 		<string>Flip Vertical</string>
+> 		<string>上下反転</string>
+< 		<string>Merge All Windows</string>
+> 		<string>すべてのウィンドウを結合</string>
+< 		<string>Show Tools</string>
+> 		<string>ツールを表示</string>
+< 		<string>Show Context Toolbar</string>
+> 		<string>コンテキストツールバーを表示</string>
+< 		<string>Move to Previous View Point</string>
+> 		<string>以前のビューポイントに移動</string>
+< 		<string>Select Reds</string>
+> 		<string>赤色を選択</string>
+< 		<string>Align Centre</string>
+> 		<string>中央揃え</string>
+< 		<string>Align Top</string>
+> 		<string>上揃え</string>
+> 		<string>非表示</string>
+< 		<string>Colour Balance</string>
+> 		<string>カラーバランス</string>
+< 		<string>Divide</string>
+> 		<string>除算</string>
+< 		<string>Refine Edges…</string>
+> 		<string>エッジを微調整…</string>
+< 		<string>Default</string>
+> 		<string>デフォルト</string>
+< 		<string>Split View</string>
+> 		<string>ビューを分割</string>
+< 		<string>Select Previous</string>
+> 		<string>前の要素を選択</string>
+< 		<string>Smooth…</string>
+> 		<string>滑らかに…</string>
+< 		<string>Feather…</string>
+> 		<string>ぼかし…</string>
+< 		<string>Support...</string>
+> 		<string>サポート...</string>
+< 		<string>New Pixel Layer</string>
+> 		<string>新規ピクセルレイヤー</string>
+< 		<string>Pixel Size</string>
+> 		<string>ピクセルサイズ</string>
+< 		<string>Unlock All</string>
+> 		<string>すべてロック解除</string>
+< 		<string>Export Persona</string>
+> 		<string>書き出しペルソナ</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Intersect</string>
+> 		<string>交差</string>
+< 		<string>Select Sampled Colour…</string>
+> 		<string>サンプリングされたカラーを選択…</string>
+< 		<string>Paste FX</string>
+> 		<string>エフェクトをペースト</string>
+< 		<string>Move to Front</string>
+> 		<string>最前面に移動</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
+< 		<string>Brightness / Contrast</string>
+> 		<string>明るさ / コントラスト</string>
+< 		<string>Crash</string>
+> 		<string>クラッシュ</string>
+< 		<string>Welcome...</string>
+> 		<string>ようこそ...</string>
+< 		<string>Select Greens</string>
+> 		<string>緑色を選択</string>
+< 		<string>Tutorial...</string>
+> 		<string>チュートリアル...</string>
+< 		<string>Align Right</string>
+> 		<string>右揃え</string>
+< 		<string>Curves</string>
+> 		<string>カーブ</string>
+< 		<string>Single View</string>
+> 		<string>シングルビュー</string>
+< 		<string>Inside</string>
+> 		<string>内側</string>
+< 		<string>Separated Mode</string>
+> 		<string>分離モード</string>
+< 		<string>Align Bottom</string>
+> 		<string>下揃え</string>
+< 		<string>Unlock</string>
+> 		<string>ロック解除</string>
+< 		<string>Gradient Map</string>
+> 		<string>グラデーションマップ</string>
+< 		<string>Zoom to Selection</string>
+> 		<string>選択範囲を拡大</string>
+< 		<string>Guides Manager…</string>
+> 		<string>ガイドマネージャー…</string>
+< 		<string>Toggle UI</string>
+> 		<string>UI切り替え</string>
+< 		<string>Exposure</string>
+> 		<string>露出</string>
+< 		<string>Select Midtones</string>
+> 		<string>中間調部を選択</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
+< 		<string>Invert Pixel Selection</string>
+> 		<string>ピクセル選択範囲を反転</string>
+< 		<string>Reset Rotation</string>
+> 		<string>回転をリセット</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
+< 		<string>Save as Regression Unit</string>
+> 		<string>回帰単位として保存</string>
+< 		<string>Shadows / Highlights</string>
+> 		<string>シャドウ / ハイライト</string>
+< 		<string>Lock</string>
+> 		<string>ロック</string>
+< 		<string>Find in Layers Panel</string>
+> 		<string>レイヤーパネルで検索</string>
+< 		<string>Dock Tools</string>
+> 		<string>ツールをドッキング</string>
+< 		<string>Behind</string>
+> 		<string>後方</string>
+< 		<string>Paste Inside</string>
+> 		<string>内側にペースト</string>
+< 		<string>Grid and Axis Manager…</string>
+> 		<string>グリッドおよび軸マネージャー…</string>
+< 		<string>Invert</string>
+> 		<string>反転</string>
+< 		<string>Threshold</string>
+> 		<string>しきい値</string>
+< 		<string>New Layer</string>
+> 		<string>新規レイヤー</string>
+< 		<string>Vector Persona</string>
+> 		<string>ベクトルペルソナ</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
+< 		<string>Select Shadows</string>
+> 		<string>シャドウを選択</string>
+< 		<string>Paste Without Format</string>
+> 		<string>書式を解除してペースト</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
+< 		<string>Clip to Canvas</string>
+> 		<string>キャンバスにクリップ</string>
+< 		<string>Space Vertically</string>
+> 		<string>垂直方向に均等配置</string>
+< 		<string>Top</string>
+> 		<string>上</string>
+< 		<string>Flip Horizontal</string>
+> 		<string>左右反転</string>
+< 		<string>Actual Size</string>
+> 		<string>実寸</string>
+< 		<string>Align Left</string>
+> 		<string>左揃え</string>
+< 		<string>Layer Effects…</string>
+> 		<string>レイヤーエフェクト…</string>
+< 		<string>Align Middle</string>
+> 		<string>上下中央揃え</string>
+< 		<string>Add</string>
+> 		<string>追加</string>
+< 		<string>Toggle Full Screen</string>
+> 		<string>フルスクリーン切り替え</string>
+< 		<string>Move to Back</string>
+> 		<string>最背面に移動</string>
+< 		<string>Deselect</string>
+> 		<string>選択解除</string>
+< 		<string>Outline</string>
+> 		<string>アウトライン</string>
+< 		<string>Promote Group to Layer</string>
+> 		<string>グループをレイヤーに昇格</string>
+< 		<string>White Balance</string>
+> 		<string>ホワイトバランス</string>
+< 		<string>Rasterise to Mask</string>
+> 		<string>マスクにラスタライズ</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
+< 		<string>Combine</string>
+> 		<string>合成</string>
+< 		<string>Show</string>
+> 		<string>表示</string>
+< 		<string>Pixels (Retina)</string>
+> 		<string>ピクセル(Retina)</string>
+< 		<string>Posterise</string>
+> 		<string>ポスタライズ</string>
+< 		<string>New From Clipboard</string>
+> 		<string>クリップボードから新規作成</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Distribute Horizontally</string>
+> 		<string>水平方向に均等配置</string>
+< 		<string>Move Forward One</string>
+> 		<string>前面へ</string>
+< 		<string>Reveal in Finder</string>
+> 		<string>Finderで表示</string>
+< 		<string>Selective Colour</string>
+> 		<string>特定色域</string>
+< 		<string>Move to Next View Point</string>
+> 		<string>次のビューポイントに移動</string>
+< 		<string>Grow / Shrink…</string>
+> 		<string>拡大 / 縮小…</string>
+< 		<string>Ungroup All</string>
+> 		<string>すべてグループ解除</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
+< 		<string>Channel Mixer</string>
+> 		<string>チャンネルミキサー</string>
+< 		<string>Black &amp; White</string>
+> 		<string>白黒</string>
+< 		<string>Subtract</string>
+> 		<string>減算</string>
+< 		<string>Vibrance</string>
+> 		<string>自然な彩度</string>
+< 		<string>Soft Proof</string>
+> 		<string>ソフト校正</string>
+< 		<string>Save</string>
+> 		<string>保存</string>
+< 		<string>Return to owner…</string>
+> 		<string>所有者に返す…</string>
+< 		<string>Space Horizontally</string>
+> 		<string>水平方向に均等配置</string>
+> 		<string>すべて表示</string>
+< 		<string>Save History With Document</string>
+> 		<string>ドキュメントに関する履歴を保存</string>
+< 		<string>Select Next</string>
+> 		<string>次の要素を選択</string>
+< 		<string>Levels</string>
+> 		<string>レベル</string>
+< 		<string>Edit In Designer…</string>
+> 		<string>Designerで編集…</string>
+< 		<string>Select Blues</string>
+> 		<string>青色を選択</string>
+< 		<string>MainMenu</string>
+> 		<string>メインメニュー</string>
+< 		<string>Services</string>
+> 		<string>サービス</string>
+> 		<string>サービス</string>
+< 		<string>File</string>
+> 		<string>ファイル</string>
+> 		<string>ファイル</string>
+> 		<string>最近使用したファイルを開く</string>
+> 		<string>共有</string>
+< 		<string>Edit</string>
+> 		<string>編集</string>
+> 		<string>編集</string>
+< 		<string>Layer</string>
+> 		<string>レイヤー</string>
+> 		<string>レイヤー</string>
+< 		<string>Arrange</string>
+> 		<string>配置</string>
+> 		<string>配置</string>
+< 		<string>Alignment</string>
+> 		<string>整列</string>
+> 		<string>整列</string>
+< 		<string>Geometry</string>
+> 		<string>ジオメトリ</string>
+> 		<string>ジオメトリ</string>
+< 		<string>Transform</string>
+> 		<string>変換</string>
+> 		<string>変換</string>
+< 		<string>Insertion</string>
+> 		<string>挿入</string>
+> 		<string>挿入</string>
+< 		<string>New Adjustment</string>
+< 		<string>New Adjustment</string>
+> 		<string>新規調整</string>
+> 		<string>新規調整</string>
+< 		<string>Select</string>
+> 		<string>選択</string>
+> 		<string>選択</string>
+< 		<string>Colour Range</string>
+< 		<string>Colour Range</string>
+> 		<string>カラー範囲</string>
+> 		<string>カラー範囲</string>
+< 		<string>Tonal Range</string>
+> 		<string>階調範囲</string>
+> 		<string>階調範囲</string>
+< 		<string>View</string>
+> 		<string>表示</string>
+> 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
+< 		<string>View Mode</string>
+> 		<string>表示モード</string>
+> 		<string>表示モード</string>
+> 		<string>ビュー</string>
+> 		<string>スタジオ</string>
+< 		<string>Window</string>
+> 		<string>ウィンドウ</string>
+> 		<string>ウィンドウ</string>
+< 		<string>Bring All to Front</string>
+> 		<string>すべて前面に移動</string>
+< 		<string>Help</string>
+> 		<string>ヘルプ</string>
+> 		<string>ヘルプ</string>
+< 		<string>Debug</string>
+> 		<string>デバッグ</string>
+> 		<string>デバッグ</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuVector.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/MainMenuVector.nib
+< 		<string>Open Recent</string>
+> 		<string>最近使用したファイルを開く</string>
+< 		<string>Clear Menu</string>
+> 		<string>最近使用したファイルのリストを消去</string>
+< 		<string>Views</string>
+> 		<string>ビュー</string>
+< 		<string>Studio</string>
+> 		<string>スタジオ</string>
+< 		<string>Show Left Studio</string>
+> 		<string>Left Studioの表示</string>
+< 		<string>Show Right Studio</string>
+> 		<string>Right Studioの表示</string>
+< 		<string>Hide Studio</string>
+> 		<string>スタジオを隠す</string>
+< 		<string>Reset Studio</string>
+> 		<string>スタジオをリセット</string>
+< 		<string>Share</string>
+> 		<string>共有</string>
+< 		<string>Minimize</string>
+> 		<string>最小化</string>
+< 		<string>Zoom</string>
+> 		<string>ズーム</string>
+< 		<string>Toggle Full Screen</string>
+> 		<string>フルスクリーン切り替え</string>
+< 		<string>Hide Others</string>
+> 		<string>他を隠す</string>
+< 		<string>Preferences…</string>
+> 		<string>環境設定…</string>
+< 		<string>Quit</string>
+> 		<string>Affinity Designerを終了</string>
+< 		<string>Show All</string>
+> 		<string>すべて表示</string>
+< 		<string>Hide</string>
+> 		<string>Affinity Designerを隠す</string>
+< 		<string>About…</string>
+> 		<string>Affinity Designerについて…</string>
+< 		<string>Redo</string>
+> 		<string>やり直し</string>
+< 		<string>Copy</string>
+> 		<string>コピー</string>
+< 		<string>Paste</string>
+> 		<string>ペースト</string>
+< 		<string>Cut</string>
+> 		<string>カット</string>
+< 		<string>Undo</string>
+> 		<string>取り消し</string>
+< 		<string>Select All</string>
+> 		<string>すべてを選択</string>
+< 		<string>Delete</string>
+> 		<string>削除</string>
+< 		<string>Save As…</string>
+> 		<string>別名で保存...</string>
+< 		<string>Close</string>
+> 		<string>閉じる</string>
+< 		<string>Document Setup…</string>
+> 		<string>ドキュメント設定…</string>
+< 		<string>New</string>
+> 		<string>新規</string>
+< 		<string>Open…</string>
+> 		<string>開く…</string>
+< 		<string>Print…</string>
+> 		<string>プリント...</string>
+< 		<string>Customise Tools…</string>
+> 		<string>ツールをカスタマイズ…</string>
+< 		<string>Customise Toolbar…</string>
+> 		<string>ツールバーをカスタマイズ…</string>
+< 		<string>Show Toolbar</string>
+> 		<string>ツールバーを表示</string>
+< 		<string>${PRODUCT_NAME} Help</string>
+> 		<string>${PRODUCT_NAME}ヘルプ</string>
+< 		<string>Ungroup</string>
+> 		<string>グループ解除</string>
+< 		<string>Group</string>
+> 		<string>グループ化</string>
+< 		<string>Duplicate</string>
+> 		<string>複製</string>
+< 		<string>Zoom to Fit</string>
+> 		<string>画面サイズに合わせる</string>
+< 		<string>Show Margins</string>
+> 		<string>マージンを表示</string>
+< 		<string>Show Guides</string>
+> 		<string>ガイドを表示</string>
+< 		<string>Show Grid</string>
+> 		<string>グリッドを表示</string>
+< 		<string>New View</string>
+> 		<string>新規ビュー</string>
+< 		<string>Pixels</string>
+> 		<string>ピクセル</string>
+< 		<string>Lock</string>
+> 		<string>ロック</string>
+< 		<string>Unlock</string>
+> 		<string>ロックを解除</string>
+< 		<string>Align Left</string>
+> 		<string>左揃え</string>
+< 		<string>Align Centre</string>
+> 		<string>中央揃え</string>
+< 		<string>Justify Centre</string>
+> 		<string>均等配置(最終行中央揃え)</string>
+< 		<string>Align Right</string>
+> 		<string>右揃え</string>
+< 		<string>Bold</string>
+> 		<string>太字</string>
+< 		<string>Italic</string>
+> 		<string>斜体</string>
+< 		<string>Underline</string>
+> 		<string>下線</string>
+< 		<string>Use Default</string>
+> 		<string>デフォルトを使用</string>
+< 		<string>Superscript</string>
+> 		<string>上付き文字</string>
+< 		<string>Subscript</string>
+> 		<string>下付き文字</string>
+< 		<string>Use None</string>
+> 		<string>何も使用しない</string>
+> 		<string>デフォルトを使用</string>
+> 		<string>何も使用しない</string>
+< 		<string>Tighten</string>
+> 		<string>狭める</string>
+< 		<string>Loosen More</string>
+> 		<string>さらに拡げる</string>
+< 		<string>Create Style</string>
+> 		<string>スタイルを作成</string>
+< 		<string>Convert to Curves</string>
+> 		<string>カーブに変換</string>
+< 		<string>Place…</string>
+> 		<string>配置…</string>
+< 		<string>Snapping Manager…</string>
+> 		<string>スナップマネージャー…</string>
+< 		<string>Paste Style</string>
+> 		<string>スタイルをペースト</string>
+< 		<string>Zoom In</string>
+> 		<string>ズームイン</string>
+< 		<string>Zoom Out</string>
+> 		<string>ズームアウト</string>
+< 		<string>Rasterise…</string>
+> 		<string>ラスタライズ…</string>
+< 		<string>Assistant Manager…</string>
+> 		<string>アシスタントマネージャー…</string>
+< 		<string>Vector</string>
+> 		<string>ベクター</string>
+< 		<string>Alternate (Even-Odd)</string>
+> 		<string>交互(奇数-偶数)</string>
+< 		<string>Winding (Non-Zero)</string>
+> 		<string>ワインディング(非ゼロ)</string>
+< 		<string>Show Character</string>
+> 		<string>文字を表示</string>
+< 		<string>Show Rulers</string>
+> 		<string>ルーラーを表示</string>
+< 		<string>Apple Colour Picker...</string>
+> 		<string>Appleカラーピッカー...</string>
+< 		<string>Line Break</string>
+> 		<string>改行</string>
+< 		<string>Em Space</string>
+> 		<string>全角スペース</string>
+< 		<string>En Space</string>
+> 		<string>半角スペース</string>
+< 		<string>Non-Breaking Hyphen</string>
+> 		<string>分散禁止ハイフン</string>
+< 		<string>Zero-Width Space</string>
+> 		<string>幅ゼロのスペース</string>
+< 		<string>Soft Hyphen</string>
+> 		<string>ソフトハイフン</string>
+< 		<string>Non-Breaking Space</string>
+> 		<string>分散禁止スペース</string>
+< 		<string>None</string>
+> 		<string>なし</string>
+< 		<string>Small Caps</string>
+> 		<string>スモールキャップス</string>
+< 		<string>All Caps</string>
+> 		<string>すべて大文字</string>
+< 		<string>Reset Rotation</string>
+> 		<string>回転をリセット</string>
+< 		<string>Return to owner…</string>
+> 		<string>所有者に返す…</string>
+< 		<string>Set No Paragraph Style</string>
+> 		<string>段落スタイルなしを設定</string>
+< 		<string>Ignore Text Wraps</string>
+> 		<string>テキストの回り込みを無視</string>
+< 		<string>Move Back One</string>
+> 		<string>背面へ</string>
+< 		<string>Paste Inside</string>
+> 		<string>内側にペースト</string>
+< 		<string>Crash</string>
+> 		<string>クラッシュ</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photoで編集…</string>
+< 		<string>Unlock All</string>
+> 		<string>すべてロック解除</string>
+< 		<string>Recolour</string>
+> 		<string>再配色</string>
+< 		<string>Insert Filler Text</string>
+> 		<string>フィラーテキストを挿入</string>
+< 		<string>Tight</string>
+> 		<string>狭い</string>
+< 		<string>Lower Baseline</string>
+> 		<string>字下げ</string>
+< 		<string>Strikeout</string>
+> 		<string>打消し線</string>
+< 		<string>Precise Bigger</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Spread Setup…</string>
+> 		<string>スプレッド設定…</string>
+< 		<string>Flip Vertical</string>
+> 		<string>上下反転</string>
+< 		<string>Layout Persona</string>
+> 		<string>レイアウトペルソナ</string>
+< 		<string>Show Glyph Browser</string>
+> 		<string>グリフブラウザを表示</string>
+< 		<string>Show Column Guides</string>
+> 		<string>列ガイドを表示</string>
+< 		<string>Synchronise from Selection</string>
+> 		<string>選択範囲から同期</string>
+< 		<string>Show Context Toolbar</string>
+> 		<string>コンテキストツールバーを表示</string>
+< 		<string>Precise Decrease</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Paste FX</string>
+> 		<string>エフェクトをペースト</string>
+< 		<string>Colour Balance</string>
+> 		<string>カラーバランス</string>
+< 		<string>Distribute Horizontally</string>
+> 		<string>水平方向に均等配置</string>
+< 		<string>Figure Dash</string>
+> 		<string>フィギュアダッシュ</string>
+< 		<string>Align Centre</string>
+> 		<string>中央揃え</string>
+< 		<string>Align Top</string>
+> 		<string>上揃え</string>
+< 		<string>New Pixel Layer</string>
+> 		<string>新規ピクセルレイヤー</string>
+< 		<string>Clip to Canvas</string>
+> 		<string>キャンバスにクリップ</string>
+< 		<string>Delete Paragraph Style</string>
+> 		<string>段落スタイルを削除</string>
+< 		<string>New From Clipboard</string>
+> 		<string>クリップボードから新規作成</string>
+< 		<string>Check Spelling</string>
+> 		<string>スペルチェック</string>
+< 		<string>Split View</string>
+> 		<string>ビューを分割</string>
+< 		<string>Top</string>
+> 		<string>上</string>
+< 		<string>Default</string>
+> 		<string>デフォルト</string>
+< 		<string>Release Compound</string>
+> 		<string>複合化を解除</string>
+< 		<string>Select Previous</string>
+> 		<string>前の要素を選択</string>
+< 		<string>Space Horizontally</string>
+> 		<string>水平方向に均等配置</string>
+< 		<string>Expand Field</string>
+> 		<string>フィールドを拡大</string>
+< 		<string>Inside</string>
+> 		<string>内側</string>
+< 		<string>Make Restricted</string>
+> 		<string>制限付きで作成</string>
+< 		<string>Justify Left</string>
+> 		<string>均等配置(最終行左揃え)</string>
+< 		<string>Detach and Delete All Styles</string>
+> 		<string>すべてのスタイルを切り離して削除</string>
+< 		<string>En Dash</string>
+> 		<string>半角ダッシュ</string>
+< 		<string>Decrease</string>
+> 		<string>縮小</string>
+< 		<string>Intersect</string>
+> 		<string>交差</string>
+< 		<string>Import Text Styles…</string>
+> 		<string>テキストスタイルをインポート</string>
+< 		<string>Move to Front</string>
+> 		<string>最前面に移動</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
+< 		<string>New Layer</string>
+> 		<string>新規レイヤー</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Show</string>
+> 		<string>表示</string>
+< 		<string>Brightness / Contrast</string>
+> 		<string>明るさ / コントラスト</string>
+< 		<string>Split Toning</string>
+> 		<string>明暗別色補正</string>
+< 		<string>Photo Persona</string>
+> 		<string>写真ペルソナ</string>
+> 		<string>なし</string>
+< 		<string>Welcome...</string>
+> 		<string>ようこそ...</string>
+< 		<string>Space Vertically</string>
+> 		<string>垂直方向に均等配置</string>
+< 		<string>Create Character Style</string>
+> 		<string>文字スタイルを作成</string>
+< 		<string>Tighten More</string>
+> 		<string>さらに狭める</string>
+> 		<string>右揃え</string>
+< 		<string>Curves</string>
+> 		<string>カーブ</string>
+< 		<string>Single View</string>
+> 		<string>シングルビュー</string>
+< 		<string>Divide</string>
+> 		<string>除算</string>
+< 		<string>Revert</string>
+> 		<string>復元</string>
+< 		<string>Pixel Persona</string>
+> 		<string>ピクセルペルソナ</string>
+< 		<string>Separated Mode</string>
+> 		<string>分離モード</string>
+< 		<string>Precise Lower Baseline</string>
+> 		<string>厳密な字下げ</string>
+< 		<string>Align Bottom</string>
+> 		<string>下揃え</string>
+< 		<string>Update Paragraph Style</string>
+> 		<string>段落スタイルを更新</string>
+< 		<string>Gradient Map</string>
+> 		<string>グラデーションマップ</string>
+< 		<string>Guides Manager…</string>
+> 		<string>ガイドマネージャー…</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
+< 		<string>Exposure</string>
+> 		<string>露出</string>
+< 		<string>Raise Baseline</string>
+> 		<string>字上げ</string>
+< 		<string>Duplicate Linked</string>
+> 		<string>リンク複製</string>
+< 		<string>Precise Smaller</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Set No Character Style</string>
+> 		<string>文字スタイルなしを設定</string>
+< 		<string>Invert Pixel Selection</string>
+> 		<string>ピクセル選択範囲を反転</string>
+< 		<string>Document Info</string>
+> 		<string>ドキュメント情報</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
+< 		<string>Shadows / Highlights</string>
+> 		<string>シャドウ/ハイライト</string>
+< 		<string>Bigger</string>
+> 		<string>拡大</string>
+< 		<string>Export Persona</string>
+> 		<string>書き出しペルソナ</string>
+< 		<string>Support...</string>
+> 		<string>サポート...</string>
+< 		<string>Toggle UI</string>
+> 		<string>UI切り替え</string>
+< 		<string>Justify</string>
+> 		<string>両端揃え</string>
+< 		<string>On App Screen</string>
+> 		<string>アプリスクリーン上</string>
+< 		<string>Reapply Text Styles</string>
+> 		<string>テキストスタイルを再適用</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
+< 		<string>Show Paragraph</string>
+> 		<string>段落を表示</string>
+< 		<string>Distribute Vertically</string>
+> 		<string>垂直方向に均等配置</string>
+< 		<string>Reveal in Finder</string>
+> 		<string>Finderで表示</string>
+< 		<string>Move to Next View Point</string>
+> 		<string>次のビューポイントに移動</string>
+< 		<string>Invert</string>
+> 		<string>反転</string>
+< 		<string>Save</string>
+> 		<string>保存</string>
+< 		<string>Increase</string>
+> 		<string>拡大</string>
+< 		<string>Threshold</string>
+> 		<string>しきい値</string>
+> 		<string>すべて表示</string>
+< 		<string>Add Symbol</string>
+> 		<string>シンボルの追加</string>
+< 		<string>Promote Group to Layer</string>
+> 		<string>グループをレイヤーに昇格</string>
+< 		<string>Export…</string>
+> 		<string>書き出し…</string>
+< 		<string>In Place</string>
+> 		<string>配置</string>
+< 		<string>Precise Raise Baseline</string>
+> 		<string>厳密な字上げ</string>
+< 		<string>Tutorial...</string>
+> 		<string>チュートリアル...</string>
+< 		<string>Convert Object to Artboard</string>
+> 		<string>オブジェクトをアートボードに変換</string>
+< 		<string>Spelling Options…</string>
+> 		<string>スペルオプション…</string>
+< 		<string>Convert Artboard to Object</string>
+> 		<string>アートボードをオブジェクトに変換</string>
+< 		<string>Expand Stroke</string>
+> 		<string>境界線を展開</string>
+< 		<string>Create Compound</string>
+> 		<string>複合部を作成</string>
+> 		<string>上</string>
+< 		<string>Save as Regression Unit</string>
+> 		<string>回帰単位として保存</string>
+< 		<string>Merge All Windows</string>
+> 		<string>すべてのウィンドウを結合</string>
+< 		<string>Create Paragraph Style</string>
+> 		<string>段落スタイルを作成</string>
+< 		<string>Save Text Styles as Default</string>
+> 		<string>テキストスタイルをデフォルトとして保存</string>
+< 		<string>Justify Right</string>
+> 		<string>均等配置(最終行右揃え)</string>
+< 		<string>Lens Filter</string>
+> 		<string>レンズフィルター</string>
+< 		<string>Flip Horizontal</string>
+> 		<string>左右反転</string>
+< 		<string>Bottom</string>
+> 		<string>下</string>
+> 		<string>左揃え</string>
+< 		<string>Show Typography</string>
+> 		<string>タイポグラフィを表示</string>
+< 		<string>Save History With Document</string>
+> 		<string>ドキュメントに関する履歴を保存</string>
+< 		<string>Layer Effects…</string>
+> 		<string>レイヤーエフェクト…</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
+< 		<string>Align Middle</string>
+> 		<string>上下中央揃え</string>
+< 		<string>Add</string>
+> 		<string>追加</string>
+< 		<string>Zoom to Selection</string>
+> 		<string>選択範囲にズーム</string>
+< 		<string>Use All</string>
+> 		<string>すべて使用</string>
+< 		<string>Pixel Size</string>
+> 		<string>ピクセルサイズ</string>
+< 		<string>Move to Back</string>
+> 		<string>最背面に移動</string>
+< 		<string>Deselect</string>
+> 		<string>選択解除</string>
+< 		<string>White Balance</string>
+> 		<string>ホワイトバランス</string>
+< 		<string>Move to Previous View Point</string>
+> 		<string>以前のビューポイントに移動</string>
+< 		<string>Edit In Designer…</string>
+> 		<string>Designerで編集…</string>
+< 		<string>Combine</string>
+> 		<string>合成</string>
+< 		<string>Show Text Styles</string>
+> 		<string>テキストスタイルを表示</string>
+< 		<string>Convert to Text Frame</string>
+> 		<string>テキストフレームに変換</string>
+< 		<string>Loosen</string>
+> 		<string>拡げる</string>
+< 		<string>Centre</string>
+> 		<string>中央揃え</string>
+< 		<string>Pixels (Retina)</string>
+> 		<string>ピクセル(Retina)</string>
+< 		<string>Posterise</string>
+> 		<string>ポスタライズ</string>
+< 		<string>Grid and Axis Manager…</string>
+> 		<string>グリッドおよび軸マネージャー…</string>
+< 		<string>Check Spelling While Typing</string>
+> 		<string>入力中にスペルチェック</string>
+< 		<string>Dock Tools</string>
+> 		<string>ツールをドッキング</string>
+< 		<string>Rasterise to Mask</string>
+> 		<string>マスクにラスタライズ</string>
+< 		<string>Factory Reset</string>
+> 		<string>出荷時の設定にリセット</string>
+< 		<string>Em Dash</string>
+> 		<string>全角ダッシュ</string>
+< 		<string>Show Bleed</string>
+> 		<string>にじみを表示</string>
+< 		<string>Find in Layers Panel</string>
+> 		<string>レイヤーパネルで検索</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Justify All</string>
+> 		<string>すべての行を均等配置</string>
+< 		<string>Smaller</string>
+> 		<string>縮小</string>
+< 		<string>Move Forward One</string>
+> 		<string>前面へ</string>
+< 		<string>Update Character Style</string>
+> 		<string>文字スタイルを更新</string>
+< 		<string>Insert Text from File…</string>
+> 		<string>ファイルからテキストを挿入…</string>
+< 		<string>Ignore Misspelt Word</string>
+> 		<string>スペル誤りの単語を無視</string>
+> 		<string>非表示</string>
+< 		<string>One Side</string>
+> 		<string>片側</string>
+< 		<string>Selective Colour</string>
+> 		<string>特定色域</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
+< 		<string>Ungroup All</string>
+> 		<string>すべてグループ解除</string>
+< 		<string>Show Tools</string>
+> 		<string>ツールを表示</string>
+< 		<string>Insert Field</string>
+> 		<string>フィールドを挿入</string>
+< 		<string>Channel Mixer</string>
+> 		<string>チャンネルミキサー</string>
+< 		<string>Black &amp; White</string>
+> 		<string>白黒</string>
+< 		<string>Subtract</string>
+> 		<string>減算</string>
+< 		<string>Vibrance</string>
+> 		<string>自然な彩度</string>
+< 		<string>Soft Proof</string>
+> 		<string>ソフト校正</string>
+> 		<string>保存</string>
+< 		<string>Behind</string>
+> 		<string>後方</string>
+< 		<string>Outline</string>
+> 		<string>アウトライン</string>
+< 		<string>Actual Size</string>
+> 		<string>実寸</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
+< 		<string>Precise Increase</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Always Show Selection in Layers Panel </string>
+> 		<string>レイヤーパネルで選択範囲を常に表示 </string>
+< 		<string>Delete Character Style</string>
+> 		<string>文字スタイルを削除</string>
+< 		<string>Select Next</string>
+> 		<string>次の要素を選択</string>
+> 		<string>デフォルトを使用</string>
+< 		<string>Paste Without Format</string>
+> 		<string>書式を解除してペースト</string>
+< 		<string>Levels</string>
+> 		<string>レベル</string>
+< 		<string>Convert to Text Path</string>
+> 		<string>テキストパスに変換</string>
+< 		<string>MainMenu</string>
+> 		<string>メインメニュー</string>
+< 		<string>Services</string>
+> 		<string>サービス</string>
+> 		<string>サービス</string>
+< 		<string>File</string>
+> 		<string>ファイル</string>
+> 		<string>ファイル</string>
+> 		<string>最近使用したファイルを開く</string>
+> 		<string>共有</string>
+< 		<string>Edit</string>
+> 		<string>編集</string>
+> 		<string>編集</string>
+< 		<string>Defaults</string>
+> 		<string>デフォルト</string>
+> 		<string>デフォルト</string>
+< 		<string>Text</string>
+> 		<string>テキスト</string>
+> 		<string>テキスト</string>
+< 		<string>Character Traits</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+> 		<string>文字の特性</string>
+< 		<string>Size</string>
+> 		<string>サイズ</string>
+> 		<string>サイズ</string>
+< 		<string>Spacing</string>
+> 		<string>間隔</string>
+> 		<string>間隔</string>
+< 		<string>Ligatures</string>
+> 		<string>合字</string>
+> 		<string>合字</string>
+< 		<string>Baseline</string>
+> 		<string>ベースライン</string>
+> 		<string>ベースライン</string>
+< 		<string>Capitalisation</string>
+< 		<string>Capitalisation</string>
+> 		<string>大文字に変更</string>
+> 		<string>大文字に変更</string>
+< 		<string>Alignment</string>
+> 		<string>整列</string>
+> 		<string>整列</string>
+< 		<string>Paragraph Leading</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+> 		<string>段落の行間</string>
+< 		<string>Vertical Alignment</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+> 		<string>垂直方向揃え</string>
+< 		<string>Text Styles</string>
+< 		<string>Text Styles</string>
+> 		<string>テキストスタイル</string>
+> 		<string>テキストスタイル</string>
+< 		<string>Insert Character</string>
+< 		<string>Insert Character</string>
+> 		<string>文字を挿入</string>
+> 		<string>文字を挿入</string>
+< 		<string>Spelling</string>
+> 		<string>スペル設定</string>
+> 		<string>スペル設定</string>
+< 		<string>Layer</string>
+> 		<string>レイヤー</string>
+> 		<string>レイヤー</string>
+< 		<string>Arrange</string>
+> 		<string>配置</string>
+> 		<string>配置</string>
+> 		<string>整列</string>
+> 		<string>整列</string>
+< 		<string>Geometry</string>
+> 		<string>ジオメトリ</string>
+> 		<string>ジオメトリ</string>
+< 		<string>Transform</string>
+> 		<string>変換</string>
+> 		<string>変換</string>
+< 		<string>Insertion</string>
+> 		<string>挿入</string>
+> 		<string>挿入</string>
+< 		<string>New Adjustment</string>
+< 		<string>New Adjustment</string>
+> 		<string>新規調整</string>
+> 		<string>新規調整</string>
+< 		<string>Fill Mode</string>
+> 		<string>塗りつぶしモード</string>
+> 		<string>塗りつぶしモード</string>
+< 		<string>Select</string>
+> 		<string>選択</string>
+> 		<string>選択</string>
+< 		<string>View</string>
+> 		<string>表示</string>
+> 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
+< 		<string>View Mode</string>
+> 		<string>表示モード</string>
+> 		<string>表示モード</string>
+> 		<string>ビュー</string>
+> 		<string>スタジオ</string>
+< 		<string>Window</string>
+> 		<string>ウィンドウ</string>
+> 		<string>ウィンドウ</string>
+< 		<string>Bring All to Front</string>
+> 		<string>すべて前面に移動</string>
+< 		<string>Clean Up Floating Windows</string>
+< 		<string>Clean Up Floating Windows</string>
+> 		<string>フローティングウィンドウをクリーンアップ</string>
+> 		<string>フローティングウィンドウをクリーンアップ</string>
+< 		<string>Help</string>
+> 		<string>ヘルプ</string>
+> 		<string>ヘルプ</string>
+< 		<string>Debug</string>
+> 		<string>デバッグ</string>
+> 		<string>デバッグ</string>
+< 		<string>Text Wrap</string>
+> 		<string>テキストの回り込み</string>
+> 		<string>テキストの回り込み</string>
+Only in /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/: Startup.nib
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/assets.strings
+< 	<string>Accept</string>
+> 	<string>承諾</string>
+< 	<string>Activity</string>
+> 	<string>アクティビティ</string>
+< 	<string>Activity Views</string>
+> 	<string>アクティビティビュー</string>
+< 	<string>Activity view</string>
+> 	<string>アクティビティビュー</string>
+< 	<string>Add</string>
+> 	<string>追加</string>
+< 	<string>Alarm</string>
+> 	<string>警報</string>
+< 	<string>Alarm (small)</string>
+> 	<string>警報(小)</string>
+< 	<string>Alerts</string>
+> 	<string>アラート</string>
+< 	<string>App Notification</string>
+> 	<string>アプリ通知</string>
+< 	<string>Attach</string>
+> 	<string>添付</string>
+< 	<string>Attach (small)</string>
+> 	<string>添付(小)</string>
+< 	<string>Back</string>
+> 	<string>戻る</string>
+< 	<string>Bookmark</string>
+> 	<string>ブックマーク</string>
+< 	<string>Bus</string>
+> 	<string>バス</string>
+< 	<string>Calendar</string>
+> 	<string>カレンダー</string>
+< 	<string>Cancel</string>
+> 	<string>キャンセル</string>
+< 	<string>Car</string>
+> 	<string>車</string>
+< 	<string>Collections</string>
+> 	<string>コレクション</string>
+< 	<string>Context</string>
+> 	<string>コンテキスト</string>
+< 	<string>Context (with options)</string>
+> 	<string>コンテキスト(オプション付き)</string>
+< 	<string>Controls</string>
+> 	<string>コントロール</string>
+< 	<string>Dark</string>
+> 	<string>暗い</string>
+< 	<string>Dark on Light</string>
+> 	<string>ダークオンライト</string>
+< 	<string>Delete</string>
+> 	<string>削除</string>
+< 	<string>Detail, Label</string>
+> 	<string>ディテール、ラベル</string>
+< 	<string>Dictate</string>
+> 	<string>ディクテーション</string>
+< 	<string>Down</string>
+> 	<string>下</string>
+< 	<string>Edit Mode</string>
+> 	<string>編集モード</string>
+< 	<string>Elements</string>
+> 	<string>要素</string>
+< 	<string>Favourite</string>
+> 	<string>お気に入り</string>
+< 	<string>Favourite (small)</string>
+> 	<string>お気に入り(小)</string>
+< 	<string>Folder</string>
+> 	<string>フォルダ</string>
+< 	<string>Folders</string>
+> 	<string>フォルダ</string>
+< 	<string>Forward (small)</string>
+> 	<string>転送(小)</string>
+< 	<string>Hail</string>
+> 	<string>拾う</string>
+< 	<string>Icon and Label</string>
+> 	<string>アイコンとラベル</string>
+< 	<string>Icon and Switch</string>
+> 	<string>アイコンとスイッチ</string>
+< 	<string>Icons</string>
+> 	<string>アイコン</string>
+< 	<string>Import</string>
+> 	<string>インポート</string>
+< 	<string>Info</string>
+> 	<string>情報</string>
+< 	<string>Input</string>
+> 	<string>入力</string>
+< 	<string>Keyboards</string>
+> 	<string>キーボード</string>
+< 	<string>Light</string>
+> 	<string>明るい</string>
+< 	<string>Light on Dark</string>
+> 	<string>ライトオンダーク</string>
+< 	<string>Location (filled)</string>
+> 	<string>場所(使用済)</string>
+< 	<string>Location (unfilled)</string>
+> 	<string>場所(未使用)</string>
+< 	<string>Love</string>
+> 	<string>ラブ</string>
+< 	<string>Mail</string>
+> 	<string>メール</string>
+< 	<string>Maps</string>
+> 	<string>マップ</string>
+< 	<string>Maps 1</string>
+> 	<string>マップ1</string>
+< 	<string>Maps 2</string>
+> 	<string>マップ2</string>
+< 	<string>Menu (narrow)</string>
+> 	<string>メニュー(簡易)</string>
+< 	<string>Menu (wide)</string>
+> 	<string>メニュー(詳細)</string>
+< 	<string>Message</string>
+> 	<string>メッセージ</string>
+< 	<string>Message (full width)</string>
+> 	<string>メッセージ(全幅)</string>
+< 	<string>Messages</string>
+> 	<string>メッセージ</string>
+< 	<string>Misc</string>
+> 	<string>その他</string>
+< 	<string>More</string>
+> 	<string>その他</string>
+< 	<string>New</string>
+> 	<string>新規</string>
+< 	<string>New Document</string>
+> 	<string>新規ドキュメント</string>
+< 	<string>New Message</string>
+> 	<string>新規メッセージ</string>
+< 	<string>News</string>
+> 	<string>ニュース</string>
+< 	<string>No Icon</string>
+> 	<string>アイコンなし</string>
+< 	<string>No Icon and Info</string>
+> 	<string>アイコンと情報なし</string>
+< 	<string>No Icon and Label</string>
+> 	<string>アイコンとラベルなし</string>
+< 	<string>No Icon, Title, Subtitle</string>
+> 	<string>アイコン、タイトル、サブタイトルなし</string>
+< 	<string>Notifications &amp; Widgets</string>
+> 	<string>通知とウィジェット</string>
+< 	<string>Options</string>
+> 	<string>オプション</string>
+< 	<string>Pause</string>
+> 	<string>中断</string>
+< 	<string>Person</string>
+> 	<string>個人</string>
+< 	<string>Phone</string>
+> 	<string>電話</string>
+< 	<string>Picker</string>
+> 	<string>選択</string>
+< 	<string>Pin</string>
+> 	<string>ピン</string>
+< 	<string>Popovers</string>
+> 	<string>ポップオーバー</string>
+< 	<string>Progress</string>
+> 	<string>進行状況</string>
+< 	<string>Prompt</string>
+> 	<string>プロンプト</string>
+< 	<string>Recipient (multi-line)</string>
+> 	<string>受信者(複数行)</string>
+< 	<string>Recipient (single line)</string>
+> 	<string>受信者(単一行)</string>
+< 	<string>Refresh</string>
+> 	<string>更新</string>
+< 	<string>Reply</string>
+> 	<string>返信</string>
+< 	<string>Reply (small)</string>
+> 	<string>返信(小)</string>
+< 	<string>Search</string>
+> 	<string>検索</string>
+< 	<string>Segmented</string>
+> 	<string>セグメント</string>
+< 	<string>Segmented (small)</string>
+> 	<string>セグメント(小)</string>
+< 	<string>Selected</string>
+> 	<string>選択</string>
+< 	<string>Sender (multi-line)</string>
+> 	<string>送信者(複数行)</string>
+< 	<string>Share</string>
+> 	<string>共有</string>
+< 	<string>Slider</string>
+> 	<string>スライダー</string>
+< 	<string>Stepper</string>
+> 	<string>ステッパ</string>
+< 	<string>Suggestions</string>
+> 	<string>候補</string>
+< 	<string>Table (master)</string>
+> 	<string>テーブル(マスター)</string>
+< 	<string>Table Add</string>
+> 	<string>テーブルの追加</string>
+< 	<string>Table Delete</string>
+> 	<string>テーブルの削除</string>
+< 	<string>Tables</string>
+> 	<string>テーブル</string>
+< 	<string>Time</string>
+> 	<string>時間</string>
+< 	<string>Title (dark)</string>
+> 	<string>タイトル(暗い)</string>
+< 	<string>Title (light)</string>
+> 	<string>タイトル(明るい)</string>
+< 	<string>Title from App (dark on light)</string>
+> 	<string>アプリのタイトル(ダークオンライト)</string>
+< 	<string>Title from App (light on dark)</string>
+> 	<string>アプリのタイトル(ライトオンダーク)</string>
+< 	<string>Title from mail</string>
+> 	<string>メールのタイトル</string>
+< 	<string>Title with actions</string>
+> 	<string>アクション付きのタイトル</string>
+< 	<string>Title with contact</string>
+> 	<string>連絡先付きのタイトル</string>
+< 	<string>Title with options</string>
+> 	<string>オプション付きのタイトル</string>
+< 	<string>Title with options (large)</string>
+> 	<string>オプション付きのタイトル(大)</string>
+< 	<string>Title with search</string>
+> 	<string>検索付きのタイトル</string>
+< 	<string>Title with search (deep)</string>
+> 	<string>検索付きのタイトル(詳細)</string>
+< 	<string>Toggle (off)</string>
+> 	<string>切り替え(オフ)</string>
+< 	<string>Toggle (on)</string>
+> 	<string>切り替え(オン)</string>
+< 	<string>Touch ID</string>
+> 	<string>タッチID</string>
+< 	<string>UI Bars</string>
+> 	<string>UIバー</string>
+< 	<string>Up</string>
+> 	<string>上方向</string>
+< 	<string>Walk</string>
+> 	<string>徒歩</string>
+< 	<string>Windows</string>
+> 	<string>ウィンドウ</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/fills.strings
+< 	<string>Black</string>
+> 	<string>黒</string>
+< 	<string>Black 10%</string>
+> 	<string>黒 10%</string>
+< 	<string>Black 15%</string>
+> 	<string>黒 15%</string>
+< 	<string>Black 20%</string>
+> 	<string>黒 20%</string>
+< 	<string>Black 25%</string>
+> 	<string>黒 25%</string>
+< 	<string>Black 30%</string>
+> 	<string>黒 30%</string>
+< 	<string>Black 35%</string>
+> 	<string>黒 35%</string>
+< 	<string>Black 40%</string>
+> 	<string>黒 40%</string>
+< 	<string>Black 45%</string>
+> 	<string>黒 45%</string>
+< 	<string>Black 5%</string>
+> 	<string>黒 5%</string>
+< 	<string>Black 50%</string>
+> 	<string>黒 50%</string>
+< 	<string>Black 55%</string>
+> 	<string>黒 55%</string>
+< 	<string>Black 60%</string>
+> 	<string>黒 60%</string>
+< 	<string>Black 65%</string>
+> 	<string>黒 65%</string>
+< 	<string>Black 70%</string>
+> 	<string>黒 70%</string>
+< 	<string>Black 75%</string>
+> 	<string>黒 75%</string>
+< 	<string>Black 80%</string>
+> 	<string>黒 80%</string>
+< 	<string>Black 85%</string>
+> 	<string>黒 85%</string>
+< 	<string>Black 90%</string>
+> 	<string>黒 90%</string>
+< 	<string>Black 95%</string>
+> 	<string>黒 95%</string>
+< 	<string>Black to transparent</string>
+> 	<string>黒から透明</string>
+< 	<string>Black to white</string>
+> 	<string>黒から白</string>
+< 	<string>Colours</string>
+> 	<string>カラー</string>
+< 	<string>Gradients</string>
+> 	<string>グラデーション</string>
+< 	<string>Greys</string>
+> 	<string>グレイ</string>
+< 	<string>White</string>
+> 	<string>白</string>
+< 	<string>White to black</string>
+> 	<string>白から黒</string>
+< 	<string>White to transparent</string>
+> 	<string>白から透明</string>
+Files /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/grid_presets.strings and /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/grid_presets.strings are identical
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/objectstyles.strings
+< 	<string>80s Disco</string>
+< 	<string>80s Gel Shine</string>
+< 	<string>80s Poster Shine</string>
+< 	<string>Aluminium</string>
+< 	<string>Bloodpool</string>
+< 	<string>Dark Blue</string>
+< 	<string>Default</string>
+< 	<string>Frost</string>
+< 	<string>Gel</string>
+< 	<string>Gold Art Deco</string>
+< 	<string>Gold Art Deco 2</string>
+< 	<string>Gold Black</string>
+< 	<string>Gold Rust</string>
+< 	<string>Gold Rust Shine</string>
+< 	<string>Metal Sharp</string>
+< 	<string>Metal White Sharp</string>
+< 	<string>Neon</string>
+< 	<string>Night Out</string>
+< 	<string>Plastic Glitter</string>
+< 	<string>Plexi</string>
+< 	<string>Plexi Gel</string>
+< 	<string>Retro Elegant</string>
+< 	<string>Retro Style Plain</string>
+< 	<string>Strange</string>
+< 	<string>Strange 2</string>
+> 	<string>デフォルト</string>
+> 	<string>ガラス</string>
+> 	<string>メタル</string>
+> 	<string>漆黒</string>
+> 	<string>虹</string>
+> 	<string>サーモン</string>
+> 	<string>夕焼け</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/raster_brushes.strings
+< 	<string>Airbrush 1</string>
+< 	<string>Airbrush 2</string>
+< 	<string>Airbrush 3</string>
+< 	<string>Airbrush 4</string>
+< 	<string>Airbrush 5</string>
+< 	<string>Airbrush 6</string>
+< 	<string>Airbrush 7</string>
+< 	<string>Airbrush 8</string>
+< 	<string>Almost Dry Roll</string>
+< 	<string>Ballpoint Pen</string>
+> 	<string>エアーブラシ</string>
+> 	<string>アソート</string>
+< 	<string>Basic</string>
+< 	<string>Binary Inker One</string>
+< 	<string>Binary Inker Two</string>
+< 	<string>Bleeding Felt Pen</string>
+< 	<string>Bleeding Ink</string>
+< 	<string>Broken Bristles Oil</string>
+< 	<string>Broken Bristles Oil - Glazing</string>
+< 	<string>Broken Bristles Oil - Textured</string>
+< 	<string>Broken Chilsel Pen</string>
+< 	<string>Broken Chisel Felt Pen</string>
+< 	<string>Broken Round Felt Pen</string>
+> 	<string>基本</string>
+< 	<string>Brush 1</string>
+> 	<string>ブラシ1</string>
+< 	<string>Brush 2</string>
+> 	<string>ブラシ2</string>
+> 	<string>ブラシ3</string>
+> 	<string>ブラシ4</string>
+> 	<string>ブラシ5</string>
+> 	<string>ブラシ6</string>
+< 	<string>Brush 7</string>
+> 	<string>ブラシ7</string>
+< 	<string>Brush 8</string>
+< 	<string>Brush Pen</string>
+< 	<string>Brush Tip Marker</string>
+< 	<string>Calligraphic Marker</string>
+< 	<string>Calligraphic Pen 01</string>
+< 	<string>Calligraphic Pen 02</string>
+< 	<string>Carbon Copy</string>
+< 	<string>Carpenter's Pencil</string>
+< 	<string>Chalkboard Tool</string>
+< 	<string>Chalks and Pastels</string>
+< 	<string>Childish Pastel</string>
+< 	<string>Chisel Shaped Wash</string>
+< 	<string>Chisel Tip Marker</string>
+< 	<string>Classic Chisel Felt Pen</string>
+< 	<string>Comics Ink Pen</string>
+< 	<string>Conte Crayon</string>
+< 	<string>Dense Fibers Oil</string>
+< 	<string>Dense India Ink</string>
+< 	<string>Dense Oil Textured</string>
+< 	<string>Dense Wash</string>
+< 	<string>Dense Watercolour</string>
+< 	<string>Diluted Grainy</string>
+> 	<string>ブラシ8</string>
+> 	<string>描画</string>
+< 	<string>Drawing 1</string>
+> 	<string>描画1</string>
+< 	<string>Drawing 2</string>
+> 	<string>描画2</string>
+< 	<string>Drawing 3</string>
+> 	<string>描画3</string>
+< 	<string>Drawing 4</string>
+> 	<string>描画4</string>
+< 	<string>Drawing 5</string>
+> 	<string>描画5</string>
+< 	<string>Drawing 6</string>
+< 	<string>Dripping Ink Pen</string>
+< 	<string>Dry Flat Gouache</string>
+< 	<string>Dry India Ink</string>
+< 	<string>Dynamic Hard Watercolour</string>
+< 	<string>Dynamic India Ink</string>
+< 	<string>Dynamic Soft Watercolour</string>
+< 	<string>Dynamic Square Chalk</string>
+> 	<string>描画6</string>
+< 	<string>Effect 4</string>
+> 	<string>エフェクト4</string>
+> 	<string>エフェクトブラシ</string>
+< 	<string>Effects</string>
+> 	<string>エフェクト</string>
+< 	<string>Effects 1</string>
+> 	<string>エフェクト1</string>
+< 	<string>Effects 2</string>
+> 	<string>エフェクト2</string>
+< 	<string>Effects 3</string>
+< 	<string>Exhausted Marker</string>
+< 	<string>Fat Gouache on Canvas</string>
+< 	<string>Fine Fibers</string>
+< 	<string>Fine Fibers Oil</string>
+< 	<string>Fine Gouache</string>
+< 	<string>Fine Gritty Ink</string>
+< 	<string>Fine Spray</string>
+< 	<string>Fine to Wide Smooth</string>
+< 	<string>Fine to Wide Spongy</string>
+< 	<string>Finest Spray Dense</string>
+< 	<string>Finest Spray Rade</string>
+< 	<string>Finest Spray Tilting</string>
+< 	<string>Fluid Chisel Tip</string>
+< 	<string>Fluid Ink Textured</string>
+< 	<string>Fluid Quill</string>
+< 	<string>Gouache On Paper</string>
+< 	<string>Gouache on Canvas</string>
+< 	<string>Gouaches</string>
+< 	<string>Gradual Acrylic Cotton Paper</string>
+< 	<string>Gradual Acrylic Sand Paper</string>
+< 	<string>Grainy Acrylic</string>
+< 	<string>Grainy Airbrush</string>
+< 	<string>Grainy Large</string>
+< 	<string>Greasy Pencil</string>
+< 	<string>Gritty Pastel</string>
+< 	<string>Grunge</string>
+> 	<string>エフェクト3</string>
+< 	<string>Grunge 1</string>
+> 	<string>グランジ1</string>
+< 	<string>Grunge 2</string>
+> 	<string>グランジ2</string>
+< 	<string>Grunge 3</string>
+> 	<string>グランジ3</string>
+< 	<string>Grunge 4</string>
+> 	<string>グランジ4</string>
+< 	<string>Grunge 5</string>
+> 	<string>グランジ5</string>
+< 	<string>Grunge 6</string>
+> 	<string>グランジ6</string>
+< 	<string>Grunge 7</string>
+> 	<string>グランジ7</string>
+< 	<string>Grunge 8</string>
+> 	<string>グランジ8</string>
+< 	<string>Grunge 9</string>
+< 	<string>India Ink Drops</string>
+< 	<string>Ink Pen Large</string>
+< 	<string>Ink Pen Small</string>
+< 	<string>Ink Spatter</string>
+< 	<string>Ink Spatter Tilting</string>
+< 	<string>Inks</string>
+< 	<string>Large Fibers Oil</string>
+< 	<string>Large Spray</string>
+< 	<string>Large Square Marker</string>
+< 	<string>Large Textured Gouache</string>
+< 	<string>Layout Pencil</string>
+< 	<string>Leaves</string>
+< 	<string>Light Pastel Tilting</string>
+< 	<string>Light Wash</string>
+< 	<string>Low Absorption Bristles</string>
+< 	<string>Markers</string>
+< 	<string>Matte Acrylic</string>
+< 	<string>Mechanical Pencil 4B</string>
+< 	<string>Mechanical Pencil 6B</string>
+< 	<string>Mechanical Pencil H</string>
+< 	<string>Mechanical Pencil HB</string>
+< 	<string>Medium Cover Gouache</string>
+< 	<string>Medium Fibers Oil</string>
+< 	<string>Medium India Ink</string>
+< 	<string>Natural Pencil 2B</string>
+< 	<string>Natural Pencil 4B</string>
+< 	<string>Natural Pencil H</string>
+< 	<string>Natural Pencil HB</string>
+< 	<string>Oil Pastel</string>
+< 	<string>Oils and Acrylics</string>
+< 	<string>Paint Daubs Flat</string>
+< 	<string>Paint Daubs Textured</string>
+< 	<string>Pencils and Charcoal</string>
+< 	<string>Pens</string>
+< 	<string>Procedural Spatter</string>
+< 	<string>Rough Coal</string>
+< 	<string>Rough Graphite Tilting</string>
+> 	<string>グランジ9</string>
+> 	<string>グランジブラシ</string>
+> 	<string>ヘビーペイント</string>
+> 	<string>ライトブラシ</string>
+> 	<string>ペイント1</string>
+> 	<string>ペイント10</string>
+> 	<string>ペイント11</string>
+> 	<string>ペイント12</string>
+> 	<string>ペイント13</string>
+> 	<string>ペイント14</string>
+> 	<string>ペイント15</string>
+> 	<string>ペイント2</string>
+> 	<string>ペイント3</string>
+> 	<string>ペイント4</string>
+> 	<string>ペイント5</string>
+> 	<string>ペイント6</string>
+> 	<string>ペイント7</string>
+> 	<string>ペイント8</string>
+> 	<string>ペイント9</string>
+> 	<string>ペイントブラシ</string>
+> 	<string>ペインティング</string>
+< 	<string>Round Brush</string>
+< 	<string>Round Chalk</string>
+< 	<string>Round Felt Pen</string>
+< 	<string>Round Fluid Marker</string>
+> 	<string>円形ブラシ</string>
+< 	<string>Round Light Brush</string>
+< 	<string>Round Pastel Tilting Rough</string>
+< 	<string>Round Pastel Tilting Smooth</string>
+> 	<string>円形ライトブラシ</string>
+< 	<string>Round Soft Brush</string>
+< 	<string>Round Textured Gouache</string>
+< 	<string>Scatter Chalk</string>
+< 	<string>Shading Chalk</string>
+< 	<string>Shading Marker</string>
+< 	<string>Simple Pen</string>
+< 	<string>Simple Watercolor</string>
+< 	<string>Slatter 2</string>
+< 	<string>Smooth Blending Acrylic</string>
+< 	<string>Smooth Gouache on Canvas</string>
+< 	<string>Smooth Round</string>
+< 	<string>Smooth Textured Stroke</string>
+< 	<string>Smooth Watercolor</string>
+< 	<string>Splatter 1</string>
+< 	<string>Sprays and Spatters</string>
+< 	<string>Square Chalk</string>
+< 	<string>Square Felt Pen</string>
+< 	<string>Square Marker</string>
+< 	<string>Square Pastel</string>
+< 	<string>Square Pastel Tilting Rough</string>
+< 	<string>Square Pastel Tilting Smooth</string>
+< 	<string>Tapered Dense Gouache</string>
+< 	<string>Tapered Hard</string>
+< 	<string>Tapered Large</string>
+< 	<string>Textured Acrylic</string>
+< 	<string>Tilting Wash</string>
+< 	<string>Tone On Tone</string>
+< 	<string>Variable Felt Pen</string>
+< 	<string>Watercolours</string>
+< 	<string>Watercolours Drops</string>
+< 	<string>Wax Brush</string>
+< 	<string>Wax Pastel</string>
+< 	<string>Wobbling Felt Pen</string>
+> 	<string>円形ソフトブラシ</string>
+> 	<string>ソフトブラシ</string>
+> 	<string>ソリッドブラシ</string>
+> 	<string>スプレー1</string>
+> 	<string>スプレー2</string>
+> 	<string>スプレー3</string>
+> 	<string>スプレー4</string>
+> 	<string>スプレー5</string>
+> 	<string>スプレー6</string>
+> 	<string>スプレー7</string>
+> 	<string>スプレー8</string>
+> 	<string>スプレーペイント</string>
+> 	<string>テクスチャ</string>
+> 	<string>テクスチャブラシ</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/tool_settings.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/tool_settings.strings
+< 	<string>1 : 1</string>
+< 	<string>1.618 : 1  (Golden ratio)</string>
+< 	<string>1.85 : 1  (Widescreen theatrical)</string>
+< 	<string>10" x 8"  [8R]</string>
+< 	<string>1024 x 768  [XGA]</string>
+< 	<string>105mm x 148mm  [A6]</string>
+< 	<string>11" x 17"  [Tabloid, ANSI B]</string>
+< 	<string>1280 x 1024  [SXGA]</string>
+< 	<string>1280 x 720  [HD 720]</string>
+< 	<string>1280 x 768  [WXGA]</string>
+< 	<string>148mm x 210mm  [A5]</string>
+< 	<string>16 : 10</string>
+< 	<string>16 : 9  (1.77 : 1)</string>
+< 	<string>1920 x 1080  [HD 1080]</string>
+< 	<string>2 : 1</string>
+< 	<string>2.35 : 1  (Anamorphic, pre 1970)</string>
+< 	<string>2.39 : 1  (Anamorphic, post 1970)</string>
+< 	<string>2048 x 1080  [2K]</string>
+< 	<string>210mm x 297mm  [A4]</string>
+< 	<string>297mm x 420mm  [A3]</string>
+< 	<string>3 : 1</string>
+< 	<string>3 : 2  (6 : 4)</string>
+< 	<string>4 : 3  (1.33 : 1)</string>
+< 	<string>4096 x 2160  [4K]</string>
+< 	<string>5 : 4  (10 : 8)</string>
+< 	<string>6" x 4"  [4R]</string>
+< 	<string>640 x 480  [VGA]</string>
+< 	<string>7" x 5"  [5R]</string>
+< 	<string>8" x 6"  [6R]</string>
+< 	<string>8.5" x 11"  [Letter, ANSI A]</string>
+< 	<string>8.5" x 14"  [Legal]</string>
+< 	<string>800 x 600  [SVGA]</string>
+< 	<string>Amount</string>
+< 	<string>Bands</string>
+< 	<string>Bar count</string>
+< 	<string>Basic shapes</string>
+< 	<string>Cell count</string>
+< 	<string>Chequered</string>
+< 	<string>Cinematic ratios</string>
+< 	<string>Coloured patterns</string>
+< 	<string>Common ratios</string>
+< 	<string>Contrast</string>
+> 	<string>Constrast</string>
+< 	<string>Droplets</string>
+< 	<string>Fur</string>
+< 	<string>Graduated random squares</string>
+< 	<string>Harsh</string>
+< 	<string>Height</string>
+< 	<string>ISO paper sizes (@300ppi)</string>
+< 	<string>Inverted</string>
+< 	<string>Lava</string>
+< 	<string>Marble</string>
+< 	<string>Metallic</string>
+< 	<string>Mexico</string>
+< 	<string>Mono swirls</string>
+< 	<string>Monochrome patterns</string>
+< 	<string>Number of squares</string>
+< 	<string>Number of waves</string>
+< 	<string>Octaves</string>
+< 	<string>Offset</string>
+< 	<string>Oils</string>
+< 	<string>Overlapped sine waves</string>
+< 	<string>Perlin Noise</string>
+< 	<string>Persistence</string>
+< 	<string>Photographic paper (@300ppi)</string>
+< 	<string>Ripples</string>
+> 	<string>Perlin Noise with Brightness and Contrast</string>
+< 	<string>Screen sizes</string>
+< 	<string>Separation</string>
+< 	<string>Sine wave</string>
+< 	<string>Smoke</string>
+< 	<string>Smoothed bars</string>
+< 	<string>Smoothed squares</string>
+< 	<string>Smoothing</string>
+< 	<string>Smoothing size</string>
+< 	<string>Square count</string>
+< 	<string>Square count turbulance</string>
+< 	<string>Square size</string>
+< 	<string>Square size turbulance</string>
+< 	<string>Turbulance</string>
+< 	<string>US paper sizes (@300ppi)</string>
+< 	<string>Urban Camoflage</string>
+< 	<string>Wave</string>
+< 	<string>Waves</string>
+< 	<string>Width</string>
+diff -s /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/vector_brushes.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/vector_brushes.strings
+< 	<string>Acrylics</string>
+> 	<string>アソート</string>
+< 	<string>Basic</string>
+< 	<string>Basic Dense Acrylic</string>
+< 	<string>Basic Dry Acrylic</string>
+< 	<string>Basic Watercolour 01</string>
+< 	<string>Basic Watercolour 02</string>
+< 	<string>Basic Watercolour 03</string>
+< 	<string>Basic Watercolour 04</string>
+< 	<string>Basic Watercolour 05</string>
+< 	<string>Brush Ink Pen</string>
+< 	<string>Chalk on Canvas</string>
+< 	<string>Chalks and Pastels</string>
+< 	<string>Chisel Marker</string>
+< 	<string>Classic Pencil 2B</string>
+< 	<string>Classic Pencil HB</string>
+< 	<string>Dense Chalk</string>
+< 	<string>Dense Gouache</string>
+< 	<string>Diluted Acrylic Stroke 01</string>
+< 	<string>Diluted Acrylic Stroke 02</string>
+< 	<string>Dry Acrylic Stroke 01</string>
+< 	<string>Dry Acrylic Stroke 02</string>
+< 	<string>Dry and Diluted Gouache</string>
+< 	<string>Fountain Pen Ink</string>
+< 	<string>Gouache Slightly Diluted</string>
+< 	<string>Gradual Watercolour 01</string>
+< 	<string>Gradual Watercolour 02</string>
+< 	<string>Graphite Scribble 01 (for short strokes)</string>
+< 	<string>Graphite Scribble 02 (for short strokes)</string>
+< 	<string>Graphite Scribble 03 (for short strokes)</string>
+< 	<string>Graphite Scribble 04 (for short strokes)</string>
+< 	<string>Huge Gouache</string>
+> 	<string>基本</string>
+> 	<string>チェーン</string>
+> 	<string>刺しゅう</string>
+> 	<string>アイレット</string>
+> 	<string>画像</string>
+< 	<string>Ink</string>
+< 	<string>Low Absorption Watercolour</string>
+< 	<string>Matte Acrylic 01</string>
+< 	<string>Matte Acrylic 02</string>
+< 	<string>Matte Acrylic 03</string>
+< 	<string>Matte Acrylic 04</string>
+< 	<string>Matte Acrylic 05</string>
+< 	<string>Pens</string>
+< 	<string>Round Pastel</string>
+< 	<string>Slanted Ink Pen</string>
+< 	<string>Smooth Square Pastel</string>
+< 	<string>Smooth Wax Pastel</string>
+> 	<string>インク</string>
+> 	<string>ペイント</string>
+> 	<string>ペイント1</string>
+> 	<string>ペイント2</string>
+> 	<string>パステル</string>
+> 	<string>パステル1</string>
+> 	<string>パステル2</string>
+> 	<string>ロープ - 太</string>
+> 	<string>ロープ - 細</string>
+> 	<string>スカーフ</string>
+< 	<string>Solid Brush</string>
+> 	<string>ソリッドブラシ</string>
+< 	<string>Solid Brush with Pressure</string>
+> 	<string>筆圧付きソリッドブラシ</string>
+< 	<string>Solid Brush with Pressure &amp; Opacity</string>
+< 	<string>Solid Pen</string>
+< 	<string>Solid Pen with Pressure</string>
+< 	<string>Solid Pen with Pressure &amp; Opacity</string>
+< 	<string>Square Marker</string>
+< 	<string>Square Pastel</string>
+< 	<string>Textured Acrylic 01 - Glazing</string>
+< 	<string>Textured Acrylic 02 - Glazing</string>
+< 	<string>Textured Acrylic 03 - Glazing</string>
+> 	<string>筆圧と不透明度付きソリッドブラシ</string>
+> 	<string>単色ペイント</string>
+> 	<string>テクスチャ</string>
+< 	<string>Textured Pen 1</string>
+> 	<string>テクスチャペン1</string>
+< 	<string>Textured Pen 2</string>
+> 	<string>テクスチャペン2</string>
+< 	<string>Textured Pen 3</string>
+> 	<string>テクスチャペン3</string>
+< 	<string>Textured Pen 4</string>
+< 	<string>Variable Square Pastel</string>
+< 	<string>Watercolour on Honeycomb Paper</string>
+< 	<string>Watercolours and Gouaches</string>
+> 	<string>テクスチャペン4</string>
+> 	<string>水彩</string>
+> 	<string>水彩1</string>
+> 	<string>水彩2</string>
+> 	<string>水彩3</string>
+> 	<string>水彩4</string>
+> 	<string>水彩5</string>
+> 	<string>ジップ</string>
