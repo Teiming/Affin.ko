@@ -2,12 +2,12 @@ s/g> \[Locked]</g> \[잠금]</
 s/g> \[Modified]</g> \[변경]</
 s/g>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</g>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</
 s/g>%1 |CLICK|+|TERTIARY| to preserve path formatting.</g>%1 |CLICK|+|TERTIARY|해서 경로 포맷을 유지합니다.</
-s/g>&lt;Untitled&gt;</g>&lt;이름 없음&gt;</
 s/g>'%1' selected. </g>'%1' 선택함. </
 s/g>About…</g>Affinity Designer에 관하여…</
 s/g>Actual Size</g>실제 크기</
 s/g>Add Chord to Swatch</g>견본에 코드 추가</
 s/g>Add Colour to Swatch</g>견본에 색상 추가</
+s/g>\&lt;Untitled\&gt;</g>\&lt;이름 없음\&gt;</
 s/g>Add Crop Preset</g>크롭 프리셋 추가</
 s/g>Add Document Snapshot</g>문서 스냅샷 추가</
 s/g>Add Global Colour…</g>전역 색상 추가…</
@@ -97,6 +97,7 @@ s/g>Black</g>검정</
 s/g>Blend Mode:</g>혼합 모드:</
 s/g>Blue</g>파랑</
 s/g>Bold</g>강조</
+s/g>Bottom Margin:</g>아래쪽 여백:</
 s/g>Bottom</g>아래</
 s/g>Brightness \/ Contrast</g>명암 \/ 대비</
 s/g>Brightness</g>명암</
@@ -762,6 +763,7 @@ s/g>Zoom to Fit</g>화면 크기에 맞추기</
 s/g>Zoom to Selection</g>선택 항목에 맞추기</
 s/g>Zoom:</g>맞추기:</
 s/g>Zoom</g>맞추기</
+s/g>\&lt;Untitled\&gt;</g>\&lt;이름 없음\&gt;</
 s/g>\[No Style]</g>\[스타일 없음]</
 s/g>\[No change]</g>\[변화 없음]</
 s/g>\[No changes]</g>\[변화 없음]</

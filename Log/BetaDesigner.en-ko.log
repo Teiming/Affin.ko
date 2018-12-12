@@ -1,9 +1,9 @@
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/AboutDialog.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/AboutDialog.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/AboutDialog.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/AboutDialog.nib
 < 		<string>Window</string>
 > 		<string>윈도우</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/ContextMenu.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/ContextMenu.nib
 < 		<string>Paste</string>
 > 		<string>붙이기</string>
 < 		<string>Create Slice</string>
@@ -36,6 +36,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 > 		<string>뒤로 보내기</string>
 < 		<string>Move to Back</string>
 > 		<string>맨 뒤로 보내기</string>
+< 		<string>Move Inside</string>
+> 		<string>안으로 가져오기</string>
+< 		<string>Move Outside</string>
+> 		<string>밖으로 보내기</string>
 < 		<string>Alignment</string>
 > 		<string>정렬</string>
 < 		<string>Align Left</string>
@@ -62,6 +66,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 > 		<string>분할</string>
 < 		<string>Combine</string>
 > 		<string>배타</string>
+< 		<string>Merge curves</string>
+> 		<string>곡선 통합</string>
+< 		<string>Separate curves</string>
+> 		<string>곡선 분리</string>
 < 		<string>Transform</string>
 > 		<string>변형</string>
 < 		<string>Rotate Left</string>
@@ -100,6 +108,92 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 > 		<string>레이어 패널에서 찾기</string>
 < 		<string>Find in Slice Page</string>
 > 		<string>슬라이스 페이지에서 찾기</string>
+< 		<string>Character Traits</string>
+> 		<string>문자 특성</string>
+< 		<string>Character Traits</string>
+> 		<string>문자 특성</string>
+< 		<string>Bold</string>
+> 		<string>강조</string>
+< 		<string>Italic</string>
+> 		<string>기울임</string>
+< 		<string>Underline</string>
+> 		<string>밑줄</string>
+< 		<string>Strikeout</string>
+> 		<string>취소선</string>
+< 		<string>Size</string>
+> 		<string>크기</string>
+< 		<string>Bigger</string>
+> 		<string>더 크게</string>
+< 		<string>Smaller</string>
+> 		<string>더 작게</string>
+< 		<string>Precise Bigger</string>
+> 		<string>조금씩 더 크게</string>
+< 		<string>Precise Smaller</string>
+> 		<string>조금씩 더 작게</string>
+< 		<string>Spacing</string>
+> 		<string>공간</string>
+< 		<string>Use Default</string>
+> 		<string>기준선 재설정</string>
+< 		<string>Use None</string>
+> 		<string>합자 없음</string>
+< 		<string>Tighten</string>
+> 		<string>좁게</string>
+< 		<string>Loosen</string>
+> 		<string>넓게</string>
+< 		<string>Tighten More</string>
+> 		<string>더 좁게</string>
+< 		<string>Loosen More</string>
+> 		<string>더 넓게</string>
+< 		<string>Align Centre</string>
+> 		<string>가로 가운데 정렬</string>
+< 		<string>Justify Left</string>
+> 		<string>왼쪽 균등 정렬</string>
+< 		<string>Justify Centre</string>
+> 		<string>가운데 균등 정렬</string>
+< 		<string>Justify Right</string>
+> 		<string>오른쪽 균등 정렬</string>
+< 		<string>Justify All</string>
+> 		<string>양쪽 균등 정렬</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>줄 간격</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>줄 간격</string>
+< 		<string>Increase</string>
+> 		<string>늘리기</string>
+< 		<string>Decrease</string>
+> 		<string>줄이기</string>
+< 		<string>Precise Increase</string>
+> 		<string>조금씩 늘리기</string>
+< 		<string>Precise Decrease</string>
+> 		<string>조금씩 줄이기</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>세로 정렬</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>세로 정렬</string>
+< 		<string>Top</string>
+> 		<string>위로</string>
+< 		<string>Centre</string>
+> 		<string>가운데</string>
+< 		<string>Bottom</string>
+> 		<string>아래</string>
+< 		<string>Justify</string>
+> 		<string>맞춤</string>
+< 		<string>Insert Text from File…</string>
+> 		<string>파일에서 텍스트 삽입하기…</string>
+< 		<string>Insert Filler Text</string>
+> 		<string>Lorem Ipsum</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>견본에 추가…</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>견본에 추가…</string>
+< 		<string>From Fill As Global</string>
+> 		<string>칠 (전역)</string>
+< 		<string>From Line As Global</string>
+> 		<string>선 (전역)</string>
+< 		<string>From Both As Global</string>
+> 		<string>모두 (전역)</string>
+< 		<string>Find in Layers Panel</string>
+> 		<string>레이어 패널에서 찾기</string>
 < 		<string>Zoom In</string>
 > 		<string>확대</string>
 < 		<string>Zoom Out</string>
@@ -112,9 +206,31 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/Localizable.strings
+< 		<string>Character Traits</string>
+> 		<string>문자 특성</string>
+< 		<string>Character Traits</string>
+> 		<string>문자 특성</string>
+< 		<string>Character Traits</string>
+> 		<string>문자 특성</string>
+< 		<string>Precise Bigger</string>
+> 		<string>조금씩 더 크게</string>
+< 		<string>Precise Smaller</string>
+> 		<string>조금씩 더 작게</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>줄 간격</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>줄 간격</string>
+< 		<string>Precise Increase</string>
+> 		<string>조금씩 늘리기</string>
+< 		<string>Precise Decrease</string>
+> 		<string>조금씩 줄이기</string>
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/Localizable.strings
 < 	<string>Add Document Snapshot</string>
 > 	<string>문서 스냅샷 추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
 < 	<string>Add</string>
 > 	<string>추가</string>
 < 	<string>Add</string>
@@ -211,18 +327,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>이전 / 이후</string>
 < 	<string>Before</string>
 > 	<string>이전</string>
-< 	<string>Brush</string>
-> 	<string>브러시</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
 < 	<string>Click</string>
 > 	<string>클릭</string>
-< 	<string>Combine</string>
-> 	<string>배타</string>
-< 	<string>Combine</string>
-> 	<string>배타</string>
-< 	<string>Combine</string>
-> 	<string>배타</string>
 < 	<string>Cycle View Mode</string>
 > 	<string>뷰 모드 순환</string>
 < 	<string>Defaults</string>
@@ -289,16 +397,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>분할</string>
 < 	<string>Divide</string>
 > 	<string>분할</string>
-< 	<string>Divide toolbar button</string>
-> 	<string>분할 툴바 버튼</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
 < 	<string>Drag</string>
 > 	<string>드래그</string>
-< 	<string>Draw Persona</string>
-> 	<string>그림 페르소나</string>
-< 	<string>Draw Persona</string>
-> 	<string>그림 페르소나</string>
-< 	<string>Draw Persona</string>
-> 	<string>그림 페르소나</string>
 < 	<string>Enhancement</string>
 > 	<string>개선</string>
 < 	<string>Export Persona</string>
@@ -309,6 +411,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>출력 페르소나</string>
 < 	<string>Export</string>
 > 	<string>출력</string>
+< 	<string>Find in Layers Panel</string>
+> 	<string>레이어 패널에서 찾기</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>가로 뒤집기</string>
 < 	<string>Flip Horizontal</string>
@@ -359,8 +463,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>교차</string>
 < 	<string>Intersect</string>
 > 	<string>교차</string>
-< 	<string>Intersect toolbar button</string>
-> 	<string>교차 툴바 버튼</string>
+< 	<string>Intersect</string>
+> 	<string>교차</string>
 < 	<string>Invert Mask</string>
 > 	<string>마스크 반전</string>
 < 	<string>Invert Selection</string>
@@ -381,8 +485,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>철자 학습</string>
 < 	<string>Library Persona</string>
 > 	<string>라이브러리 페르소나</string>
-< 	<string>Library</string>
-> 	<string>라이브러리</string>
 < 	<string>Liquify Persona</string>
 > 	<string>액화 페르소나</string>
 < 	<string>Liquify Persona</string>
@@ -443,6 +545,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>없음</string>
 < 	<string>OK</string>
 > 	<string>확인</string>
+< 	<string>OK</string>
+> 	<string>확인</string>
 < 	<string>Opacity:</string>
 > 	<string>불투명도:</string>
 < 	<string>Order</string>
@@ -481,8 +585,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>픽셀</string>
 < 	<string>Quick Mask</string>
 > 	<string>빠른 마스크</string>
-< 	<string>Reset Selection Box</string>
-> 	<string>선택 항목 상자 재설정</string>
 < 	<string>Retina Pixels</string>
 > 	<string>레티나 픽셀</string>
 < 	<string>Retina pixel view mode</string>
@@ -563,8 +665,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>제거</string>
 < 	<string>Subtract</string>
 > 	<string>제거</string>
-< 	<string>Subtract toolbar button</string>
-> 	<string>제거 툴바 버튼</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
 < 	<string>Switch to Next View</string>
 > 	<string>다음 뷰로 전환</string>
 < 	<string>Sync After</string>
@@ -589,6 +691,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>톤 맵핑</string>
 < 	<string>Transform</string>
 > 	<string>변형</string>
+< 	<string>Vector</string>
+> 	<string>벡터</string>
 < 	<string>Vibrance</string>
 > 	<string>활기</string>
 < 	<string>View Mode</string>
@@ -597,13 +701,21 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>두께:</string>
 < 	<string>Width:</string>
 > 	<string>두께:</string>
+< 	<string>Xor</string>
+> 	<string>배타</string>
+< 	<string>Xor</string>
+> 	<string>배타</string>
+< 	<string>Xor</string>
+> 	<string>배타</string>
+< 	<string>Xor</string>
+> 	<string>배타</string>
 < 	<string>Yes</string>
 > 	<string>예</string>
 < 	<string>Zoom In</string>
 > 	<string>확대</string>
 < 	<string>Zoom Out</string>
 > 	<string>축소</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDesignerExport.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuDesignerExport.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuDesignerExport.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/MainMenuDesignerExport.nib
 < 		<string>Open Recent</string>
 > 		<string>최근 사용 열기</string>
 < 		<string>Clear Menu</string>
@@ -730,14 +842,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDes
 > 		<string>선택 해제</string>
 < 		<string>Rotate Right</string>
 > 		<string>오른쪽으로 회전</string>
+< 		<string>Check for Updates</string>
+> 		<string>업데이트 확인</string>
 < 		<string>Pixels (Retina)</string>
 > 		<string>픽셀 (레티나)</string>
 < 		<string>Zoom to Selection</string>
 > 		<string>선택 항목에 맞추기</string>
 < 		<string>Select Previous</string>
 > 		<string>이전 항목 선택</string>
-< 		<string>Draw Persona</string>
-> 		<string>그림 페르소나</string>
 < 		<string>Support...</string>
 > 		<string>지원...</string>
 < 		<string>Clip to Canvas</string>
@@ -772,7 +884,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDes
 > 		<string>모두 앞으로 가져오기</string>
 < 		<string>Help</string>
 > 		<string>도움말</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPixel.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuPixel.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuPixel.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/MainMenuPixel.nib
 < 		<string>Open Recent</string>
 > 		<string>최근 사용 열기</string>
 < 		<string>Clear Menu</string>
@@ -823,8 +935,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>지우기</string>
 < 		<string>Save As…</string>
 > 		<string>다른 이름으로 저장…</string>
-< 		<string>Edit in Photo…</string>
-> 		<string>Photo에서 편집…</string>
 < 		<string>Close</string>
 > 		<string>닫기</string>
 < 		<string>Document Setup…</string>
@@ -879,14 +989,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>손쉬운 사용 관리자…</string>
 < 		<string>Vector</string>
 > 		<string>벡터</string>
-< 		<string>Media Browser…</string>
-> 		<string>미디어 브라우저…</string>
 < 		<string>Show Rulers</string>
 > 		<string>눈금자 보기</string>
 < 		<string>Outline…</string>
 > 		<string>윤곽…</string>
 < 		<string>Select Highlights</string>
 > 		<string>빛 선택</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photo에서 편집…</string>
 < 		<string>Move Back One</string>
 > 		<string>뒤로 보내기</string>
 < 		<string>Create Compound</string>
@@ -987,6 +1097,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>노출</string>
 < 		<string>Select Midtones</string>
 > 		<string>중간 선택</string>
+< 		<string>Separate curves</string>
+> 		<string>곡선 분리</string>
+< 		<string>Check for Updates</string>
+> 		<string>업데이트 확인</string>
 < 		<string>Invert Pixel Selection</string>
 > 		<string>픽셀 선택 항목 반전</string>
 < 		<string>Reset Rotation</string>
@@ -1013,12 +1127,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>역치</string>
 < 		<string>New Layer</string>
 > 		<string>새로운 레이어</string>
-< 		<string>Draw Persona</string>
-> 		<string>그림 페르소나</string>
+< 		<string>Merge curves</string>
+> 		<string>곡선 통합</string>
 < 		<string>Select Shadows</string>
 > 		<string>그림자 선택</string>
 < 		<string>Paste Without Format</string>
 > 		<string>포맷 없이 붙이기</string>
+< 		<string>Move Inside</string>
+> 		<string>안으로 가져오기</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>캔버스에 클립</string>
 < 		<string>Space Vertically</string>
@@ -1077,6 +1193,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>팽창 / 수축…</string>
 < 		<string>Ungroup All</string>
 > 		<string>모든 그룹 해제</string>
+< 		<string>Move Outside</string>
+> 		<string>밖으로 보내기</string>
 < 		<string>Channel Mixer</string>
 > 		<string>채널 혼합</string>
 < 		<string>Black &amp; White</string>
@@ -1141,7 +1259,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>모두 앞으로 가져오기</string>
 < 		<string>Help</string>
 > 		<string>도움말</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVector.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/MainMenuVector.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuVector.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/MainMenuVector.nib
 < 		<string>Open Recent</string>
 > 		<string>최근 사용 열기</string>
 < 		<string>Clear Menu</string>
@@ -1194,8 +1312,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>지우기</string>
 < 		<string>Save As…</string>
 > 		<string>다른 이름으로 저장…</string>
-< 		<string>Edit in Photo…</string>
-> 		<string>Photo에서 편집…</string>
 < 		<string>Close</string>
 > 		<string>닫기</string>
 < 		<string>Document Setup…</string>
@@ -1212,8 +1328,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>툴바 사용자화…</string>
 < 		<string>Show Toolbar</string>
 > 		<string>툴바 보기</string>
-< 		<string>Affinity Designer Help</string>
-> 		<string>Affinity Designer 도움말</string>
 < 		<string>Ungroup</string>
 > 		<string>그룹 해제</string>
 < 		<string>Group</string>
@@ -1284,8 +1398,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>벡터</string>
 < 		<string>Show Character</string>
 > 		<string>문자 보기</string>
-< 		<string>Media Browser…</string>
-> 		<string>미디어 브라우저…</string>
 < 		<string>Show Rulers</string>
 > 		<string>눈금자 보기</string>
 < 		<string>Apple Colour Picker...</string>
@@ -1298,8 +1410,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>반각 공백</string>
 < 		<string>Non-Breaking Hyphen</string>
 > 		<string>줄 바꿈 없는 하이픈</string>
-< 		<string>Zero Width Space</string>
-> 		<string>폭 없는 공백</string>
 < 		<string>Soft Hyphen</string>
 > 		<string>하이픈</string>
 < 		<string>Non-Breaking Space</string>
@@ -1320,6 +1430,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>뒤로 보내기</string>
 < 		<string>Paste Inside</string>
 > 		<string>안으로 붙이기</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photo에서 편집…</string>
 < 		<string>Unlock All</string>
 > 		<string>모두 잠금 해제</string>
 < 		<string>Recolour</string>
@@ -1336,8 +1448,12 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>조금씩 더 크게</string>
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
+< 		<string>Layout Persona</string>
+> 		<string>구조 페르소나</string>
 < 		<string>Show Glyph Browser</string>
 > 		<string>글리프 브라우저 보기</string>
+< 		<string>Show Column Guides</string>
+> 		<string>열 안내선 보기</string>
 < 		<string>Synchronise from Selection</string>
 > 		<string>선택 항목에서 기본값 동기화</string>
 < 		<string>Show Context Toolbar</string>
@@ -1404,6 +1520,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>보기</string>
 < 		<string>Brightness / Contrast</string>
 > 		<string>명암 / 대비</string>
+< 		<string>Photo Persona</string>
+> 		<string>사진 페르소나</string>
 < 		<string>Welcome...</string>
 > 		<string>환영...</string>
 < 		<string>Space Vertically</string>
@@ -1462,6 +1580,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>응용프로그램 화면</string>
 < 		<string>Reapply Text Styles</string>
 > 		<string>텍스트 스타일 다시 적용</string>
+< 		<string>Merge curves</string>
+> 		<string>곡선 통합</string>
 < 		<string>Show Paragraph</string>
 > 		<string>문단 보기</string>
 < 		<string>Distribute Vertically</string>
@@ -1518,6 +1638,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>편집 기록 저장</string>
 < 		<string>Layer Effects…</string>
 > 		<string>레이어 효과…</string>
+< 		<string>Move Inside</string>
+> 		<string>안으로 가져오기</string>
 < 		<string>Align Middle</string>
 > 		<string>세로 가운데 정렬</string>
 < 		<string>Add</string>
@@ -1562,6 +1684,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>기본값 재설정</string>
 < 		<string>Em Dash</string>
 > 		<string>전각 줄표</string>
+< 		<string>Show Bleed</string>
+> 		<string>도련선 보기</string>
 < 		<string>Find in Layers Panel</string>
 > 		<string>레이어 패널에서 찾기</string>
 < 		<string>Rotate Left</string>
@@ -1580,6 +1704,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>철자 오류 무시</string>
 < 		<string>Selective Colour</string>
 > 		<string>색상 선택</string>
+< 		<string>Move Outside</string>
+> 		<string>밖으로 보내기</string>
+< 		<string>Separate curves</string>
+> 		<string>곡선 분리</string>
 < 		<string>Ungroup All</string>
 > 		<string>모든 그룹 해제</string>
 < 		<string>Show Tools</string>
@@ -1600,6 +1728,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>윤곽</string>
 < 		<string>Actual Size</string>
 > 		<string>실제 크기</string>
+< 		<string>Check for Updates</string>
+> 		<string>업데이트 확인</string>
 < 		<string>Precise Increase</string>
 > 		<string>조금씩 늘리기</string>
 < 		<string>Always Show Selection in Layers Panel </string>
@@ -1648,6 +1778,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Paragraph Leading</string>
 > 		<string>줄 간격</string>
 > 		<string>줄 간격</string>
+< 		<string>Vertical Alignment</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>세로 정렬</string>
+> 		<string>세로 정렬</string>
 < 		<string>Text Styles</string>
 < 		<string>Text Styles</string>
 > 		<string>텍스트 스타일</string>
@@ -1656,10 +1790,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Insert Character</string>
 > 		<string>문자 삽입</string>
 > 		<string>문자 삽입</string>
-< 		<string>Vertical Alignment</string>
-< 		<string>Vertical Alignment</string>
-> 		<string>세로 정렬</string>
-> 		<string>세로 정렬</string>
 < 		<string>Spelling</string>
 > 		<string>철자</string>
 < 		<string>Layer</string>
@@ -1692,7 +1822,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>도움말</string>
 < 		<string>Text Wrap</string>
 > 		<string>줄바꿈</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Startup.nib /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/Startup.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Startup.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/Startup.nib
 < 		<string>Window</string>
 > 		<string>윈도우</string>
 < 		<string>System</string>
@@ -1705,7 +1835,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Startup.nib
 > 		<string>환경설정…</string>
 < 		<string>Services</string>
 > 		<string>서비스</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/assets.strings
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/assets.strings
 < 	<string>Add</string>
 > 	<string>추가</string>
 < 	<string>Cancel</string>
@@ -1730,7 +1860,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.stri
 > 	<string>공유</string>
 < 	<string>Tables</string>
 > 	<string>표</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/fills.strings
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/fills.strings
 < 	<string>Black</string>
 > 	<string>검정</string>
 < 	<string>Black 10%</string>
@@ -1787,28 +1917,34 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/fills.strin
 > 	<string>하양에서 검정</string>
 < 	<string>White to transparent</string>
 > 	<string>하양에서 투명</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/objectstyles.strings
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/grid_presets.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/grid_presets.strings
+< 	<string>Isometric</string>
+> 	<string>등각투상</string>
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/objectstyles.strings
 < 	<string>Default</string>
 > 	<string>기본값</string>
-< 	<string>Glass</string>
-> 	<string>유리</string>
-< 	<string>Onyx</string>
-> 	<string>오닉스</string>
-< 	<string>Rainbow</string>
-> 	<string>무지개</string>
-< 	<string>Salmon</string>
-> 	<string>연어</string>
 < 	<string>Style</string>
 > 	<string>스타일</string>
-< 	<string>Sunset</string>
-> 	<string>석양</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/raster_brushes.strings
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/raster_brushes.strings
 < 	<string>Basic</string>
 > 	<string>기본</string>
 < 	<string>Effects</string>
 > 	<string>효과</string>
-< 	<string>Texture</string>
-> 	<string>질감</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/vector_brushes.strings
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/tool_settings.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/tool_settings.strings
+< 	<string>Brightness</string>
+> 	<string>명암</string>
+< 	<string>Contrast</string>
+> 	<string>대비</string>
+< 	<string>Dark</string>
+> 	<string>다크</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Noise</string>
+> 	<string>잡음</string>
+< 	<string>Offset</string>
+> 	<string>편차</string>
+< 	<string>Width</string>
+> 	<string>두께</string>
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/vector_brushes.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ko.lproj/vector_brushes.strings
 < 	<string>Basic</string>
 > 	<string>기본</string>

@@ -4,7 +4,7 @@ KORPATH=/Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/
 MY_PATH=~/Affinity-in-Korean/Designer/
 DICPATH=~/Affinity-in-Korean/DictionaryDesigner
 LOGPATH=~/Affinity-in-Korean/Log/
-for (( i = 1; i <= 242; i++ ))
+for (( i = 1; i <= 12; i++ ))
 do
   NAME=$(/bin/ls -a "$ENGPATH" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
   /usr/bin/sudo echo $i"." $NAME" 번역중."

@@ -1,4 +1,11 @@
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/ContextMenu.nib
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/AboutDialog.nib /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/AboutDialog.nib
+< 		<string>Window</string>
+> 		<string>ウィンドウ</string>
+< 		<string>Version</string>
+> 		<string>バージョン</string>
+< 		<string>Third party licences</string>
+> 		<string>サードパーティライセンス</string>
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/ContextMenu.nib
 < 		<string>Paste</string>
 > 		<string>ペースト</string>
 < 		<string>Create Slice</string>
@@ -10,6 +17,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu.ni
 < 		<string>Copy</string>
 > 		<string>コピー</string>
 > 		<string>ペースト</string>
+< 		<string>Paste Into</string>
+> 		<string>中にペースト</string>
 < 		<string>Group</string>
 > 		<string>グループ化</string>
 < 		<string>Ungroup</string>
@@ -33,6 +42,10 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu.ni
 > 		<string>背面へ</string>
 < 		<string>Move to Back</string>
 > 		<string>最背面に移動</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
 < 		<string>Alignment</string>
 > 		<string>整列</string>
 > 		<string>整列</string>
@@ -61,6 +74,10 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu.ni
 > 		<string>除算</string>
 < 		<string>Combine</string>
 > 		<string>合成</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
 < 		<string>Transform</string>
 > 		<string>変換</string>
 > 		<string>変換</string>
@@ -100,6 +117,104 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu.ni
 > 		<string>レイヤーパネルで検索</string>
 < 		<string>Find in Slice Page</string>
 > 		<string>スライスページで検索</string>
+> 		<string>カット</string>
+> 		<string>コピー</string>
+> 		<string>ペースト</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Bold</string>
+> 		<string>太字</string>
+< 		<string>Italic</string>
+> 		<string>斜体</string>
+< 		<string>Underline</string>
+> 		<string>下線</string>
+< 		<string>Strikeout</string>
+> 		<string>打ち消し線</string>
+< 		<string>Size</string>
+> 		<string>サイズ</string>
+> 		<string>サイズ</string>
+< 		<string>Bigger</string>
+> 		<string>拡大</string>
+< 		<string>Smaller</string>
+> 		<string>縮小</string>
+< 		<string>Precise Bigger</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Smaller</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Spacing</string>
+> 		<string>間隔</string>
+> 		<string>間隔</string>
+< 		<string>Use Default</string>
+> 		<string>デフォルトを使用</string>
+< 		<string>Use None</string>
+> 		<string>何も使用しない</string>
+< 		<string>Tighten</string>
+> 		<string>狭める</string>
+< 		<string>Loosen</string>
+> 		<string>拡げる</string>
+< 		<string>Tighten More</string>
+> 		<string>さらに狭める</string>
+< 		<string>Loosen More</string>
+> 		<string>さらに拡げる</string>
+> 		<string>整列</string>
+> 		<string>整列</string>
+> 		<string>左揃え</string>
+< 		<string>Align Centre</string>
+> 		<string>中央揃え</string>
+> 		<string>右揃え</string>
+< 		<string>Justify Left</string>
+> 		<string>均等割付(最終行左寄せ)</string>
+< 		<string>Justify Centre</string>
+> 		<string>均等割付(最終行中央寄せ)</string>
+< 		<string>Justify Right</string>
+> 		<string>均等割付(最終行右寄せ)</string>
+< 		<string>Justify All</string>
+> 		<string>すべての行を均等配置</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Increase</string>
+> 		<string>拡大</string>
+< 		<string>Decrease</string>
+> 		<string>縮小</string>
+< 		<string>Precise Increase</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Decrease</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+< 		<string>Top</string>
+> 		<string>上</string>
+< 		<string>Centre</string>
+> 		<string>中央</string>
+< 		<string>Bottom</string>
+> 		<string>下</string>
+< 		<string>Justify</string>
+> 		<string>両端揃え</string>
+< 		<string>Insert Text from File…</string>
+> 		<string>ファイルからテキストを挿入…</string>
+< 		<string>Insert Filler Text</string>
+> 		<string>フィラーテキストを挿入</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>見本に追加…</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>見本に追加…</string>
+> 		<string>塗りつぶしから</string>
+> 		<string>線から</string>
+> 		<string>両方から</string>
+< 		<string>From Fill As Global</string>
+> 		<string>グローバルとして塗りつぶしから</string>
+< 		<string>From Line As Global</string>
+> 		<string>グローバルとしてラインから</string>
+< 		<string>From Both As Global</string>
+> 		<string>グローバルとして両方から</string>
+< 		<string>Find in Layers Panel</string>
+> 		<string>レイヤーパネルで検索</string>
 < 		<string>Zoom In</string>
 > 		<string>ズームイン</string>
 < 		<string>Zoom Out</string>
@@ -112,9 +227,45 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu.ni
 > 		<string>右に回転</string>
 < 		<string>Reset Rotation</string>
 > 		<string>回転をリセット</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/Localizable.strings
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+> 		<string>太字</string>
+> 		<string>斜体</string>
+> 		<string>下線</string>
+> 		<string>打ち消し線</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+> 		<string>太字</string>
+> 		<string>斜体</string>
+> 		<string>下線</string>
+> 		<string>打ち消し線</string>
+> 		<string>サイズ</string>
+> 		<string>サイズ</string>
+> 		<string>拡大</string>
+> 		<string>縮小</string>
+< 		<string>Precise Bigger</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Smaller</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+> 		<string>拡大</string>
+> 		<string>縮小</string>
+< 		<string>Precise Increase</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Decrease</string>
+> 		<string>厳密な縮小</string>
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/Localizable.strings
 < 	<string>Add Document Snapshot</string>
 > 	<string>ドキュメントのスナップショットを追加</string>
+< 	<string>Add</string>
+> 	<string>加算</string>
+< 	<string>Add</string>
+> 	<string>加算</string>
 < 	<string>Add</string>
 > 	<string>追加</string>
 < 	<string>Add</string>
@@ -169,6 +320,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>整列</string>
 < 	<string>Alignment</string>
 > 	<string>整列</string>
+< 	<string>Always Show Grid Origin</string>
+> 	<string>グリッド起点を常に表示</string>
 < 	<string>Apply</string>
 > 	<string>適用</string>
 < 	<string>Arrange</string>
@@ -199,6 +352,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>自動ホワイトバランス</string>
 < 	<string>Auto White Balance</string>
 > 	<string>自動ホワイトバランス</string>
+< 	<string>AutoFit Column to Contents</string>
+> 	<string>コンテンツに合わせて列を自動調整</string>
+< 	<string>AutoFit Column(s)</string>
+> 	<string>列を自動調整</string>
+< 	<string>AutoFit Row to Contents</string>
+> 	<string>コンテンツに合わせて行を自動調整</string>
+< 	<string>AutoFit Row(s)</string>
+> 	<string>行を自動調整</string>
 < 	<string>Back One</string>
 > 	<string>1つ後方へ</string>
 < 	<string>Back One</string>
@@ -207,16 +368,18 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>1つ後方へ</string>
 < 	<string>Back One</string>
 > 	<string>1つ後方へ</string>
+< 	<string>Baseline Grid</string>
+> 	<string>ベースライングリッド</string>
 < 	<string>Before / After</string>
 > 	<string>前 / 後</string>
 < 	<string>Before</string>
 > 	<string>前</string>
-< 	<string>Brush</string>
-> 	<string>ブラシ</string>
 < 	<string>Cancel</string>
 > 	<string>キャンセル</string>
 < 	<string>Check out some of the cool artwork being created in Affinity Designer! Why not share your work with us?
 > 	<string>Affinity Designerで作成されているすばらしいアートワークのいくつかをご紹介しています。あなたの作品を共有してみませんか?
+< 	<string>Check out some of the cool layouts being created in Affinity Publisher! Why not share your work with us?
+> 	<string>Affinity Publisherで作成されているすばらしいレイアウトのいくつかをご紹介しています。あなたの作品を共有してみませんか?
 < 	<string>Choose the flow of the brush</string>
 > 	<string>ブラシの流量を選択します</string>
 < 	<string>Choose the hardness of the brush</string>
@@ -235,22 +398,28 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>クリック</string>
 < 	<string>Clipping Alarms</string>
 > 	<string>クリッピングアラーム</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine toolbar button</string>
-> 	<string>合成ツールバーボタン</string>
+< 	<string>Create Into Grid Plane</string>
+> 	<string>グリッドプレーン内に作成</string>
+< 	<string>Create Into Grid Plane</string>
+> 	<string>グリッドプレーン内に作成</string>
 < 	<string>Create a new document by pressing 'New Document' below - or open existing work using File -&gt; Open. Click a sample below to download and view it. Visit our forum or tag with #madeinaffinity in the usual places. We'd love to see what you're up to...</string>
 > 	<string>下の[新規ドキュメント]を押してドキュメントを新規作成するか、[ファイル] -&gt; [開く]から既存のドキュメントを開いてください。下のサンプルをクリックするとダウンロードして参照できます。フォーラムに参加したり、SNSで#madeinaffinityのタグを付けて作品を投稿してください。ご参加をお待ちしています。</string>
+< 	<string>Cycle Selection Box</string>
+> 	<string>サイクル選択ボックス</string>
 < 	<string>Cycle Snapping Planes</string>
 > 	<string>スナップ面の切り替え</string>
 < 	<string>Cycle View Mode</string>
 > 	<string>サイクルビューモード</string>
 < 	<string>Defaults</string>
 > 	<string>デフォルト</string>
+< 	<string>Delete Column</string>
+> 	<string>列を削除</string>
+< 	<string>Delete Column(s)</string>
+> 	<string>列を削除</string>
+< 	<string>Delete Row</string>
+> 	<string>行を削除</string>
+< 	<string>Delete Row(s)</string>
+> 	<string>行を削除</string>
 < 	<string>Desaturate</string>
 > 	<string>彩度を下げる</string>
 < 	<string>Deselect</string>
@@ -315,30 +484,46 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>除算</string>
 < 	<string>Divide</string>
 > 	<string>除算</string>
-< 	<string>Divide toolbar button</string>
-> 	<string>除算ツールバーボタン</string>
+< 	<string>Divide</string>
+> 	<string>除算</string>
 < 	<string>Drag</string>
 > 	<string>ドラッグ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw</string>
-> 	<string>描画</string>
+< 	<string>Edit Field...</string>
+> 	<string>フィールドを編集...</string>
+< 	<string>Edit Grid Origin</string>
+> 	<string>グリッド起点を編集</string>
+< 	<string>Edit Grid Origin and Axis</string>
+> 	<string>グリッド起点および軸を編集</string>
+< 	<string>Edit Grid</string>
+> 	<string>グリッドを編集</string>
+< 	<string>Edit Grid</string>
+> 	<string>グリッドを編集</string>
+< 	<string>Edit In Grid Plane</string>
+> 	<string>グリッドプレーンで編集</string>
+< 	<string>Edit In Grid Plane</string>
+> 	<string>グリッドプレーンで編集</string>
+< 	<string>Edit Wrap Outline</string>
+> 	<string>回り込みアウトラインを編集</string>
+< 	<string>Edit Wrap Outline</string>
+> 	<string>回り込みアウトラインを編集</string>
 < 	<string>Enabling "Save With History" means that anybody you send this document to can see everything you did to create it.
 > 	<string>"履歴付きで保存"を有効にすると、このドキュメントを受け取ったすべてのユーザーは、このドキュメントの作成のために実行されたすべての操作を確認できます。
 < 	<string>Enhancement</string>
 > 	<string>強調</string>
 < 	<string>Enter a name for the snapshot</string>
 > 	<string>スナップショットの名前を入力します</string>
+< 	<string>Evenly Distribute Columns</string>
+> 	<string>列を均等配置</string>
+< 	<string>Evenly Distribute Rows</string>
+> 	<string>行を均等配置</string>
+< 	<string>Expand Field</string>
+> 	<string>フィールドを拡大</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export</string>
 > 	<string>書き出し</string>
 < 	<string>Fade %@…</string>
@@ -347,6 +532,20 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>フェード…</string>
 < 	<string>Featured Work
 > 	<string>注目の作品
+< 	<string>Find in Layers Panel</string>
+> 	<string>レイヤーパネルで検索</string>
+< 	<string>Fit To Plane</string>
+> 	<string>プレーンに合わせる</string>
+< 	<string>Fit To Plane</string>
+> 	<string>プレーンに合わせる</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>左右反転</string>
 < 	<string>Flip Horizontal</string>
@@ -355,6 +554,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>左右反転</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>左右反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
 < 	<string>Flip Vertical</string>
 > 	<string>上下反転</string>
 < 	<string>Flip Vertical</string>
@@ -377,12 +584,12 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>1つ前方へ</string>
 < 	<string>Geometry</string>
 > 	<string>ジオメトリ</string>
+< 	<string>Grid Options</string>
+> 	<string>グリッドオプション</string>
 < 	<string>HSL Saturation</string>
 > 	<string>HSL彩度</string>
 < 	<string>Hardness:</string>
 > 	<string>硬さ:</string>
-< 	<string>High Frequency</string>
-> 	<string>高周波数</string>
 < 	<string>Hold</string>
 > 	<string>ホールド</string>
 < 	<string>Ignore Spelling</string>
@@ -393,8 +600,12 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>修復ミッシングエリア</string>
 < 	<string>Insert Behind</string>
 > 	<string>後方に挿入</string>
+< 	<string>Insert Column</string>
+> 	<string>列を挿入</string>
 < 	<string>Insert Inside</string>
 > 	<string>内側に挿入</string>
+< 	<string>Insert Row</string>
+> 	<string>行を挿入</string>
 < 	<string>Insert Top</string>
 > 	<string>最上位に挿入</string>
 < 	<string>Insert at the top of the layer</string>
@@ -411,8 +622,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>交差</string>
 < 	<string>Intersect</string>
 > 	<string>交差</string>
-< 	<string>Intersect toolbar button</string>
-> 	<string>交差ツールバーボタン</string>
+< 	<string>Intersect</string>
+> 	<string>交差</string>
 < 	<string>Invert Mask</string>
 > 	<string>マスクを反転</string>
 < 	<string>Invert Selection</string>
@@ -433,8 +644,6 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>スペルを学習</string>
 < 	<string>Library Persona</string>
 > 	<string>ライブラリペルソナ</string>
-< 	<string>Library</string>
-> 	<string>ライブラリ</string>
 < 	<string>Liquify Persona</string>
 > 	<string>ゆがみペルソナ</string>
 < 	<string>Liquify Persona</string>
@@ -447,12 +656,12 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>メッシュを読み込む</string>
 < 	<string>Look Up "%@"</string>
 > 	<string>"%@"を検索</string>
-< 	<string>Low Frequency</string>
-> 	<string>低周波数</string>
 < 	<string>Mask All</string>
 > 	<string>すべてマスク</string>
 < 	<string>Mask</string>
 > 	<string>マスク</string>
+< 	<string>Merge Cells</string>
+> 	<string>セルを結合</string>
 < 	<string>Mesh</string>
 > 	<string>メッシュ</string>
 < 	<string>Mirror</string>
@@ -523,6 +732,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>写真ペルソナ</string>
 < 	<string>Photo Persona</string>
 > 	<string>写真ペルソナ</string>
+< 	<string>Photo Persona.</string>
+> 	<string>写真ペルソナ。</string>
 < 	<string>Photo</string>
 > 	<string>写真</string>
 < 	<string>Pixel Align</string>
@@ -539,6 +750,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>Pixel表示モード</string>
 < 	<string>Pixels</string>
 > 	<string>ピクセル</string>
+< 	<string>Planar Editing</string>
+> 	<string>平面の編集</string>
 < 	<string>Please either commit or cancel the develop operation before switching to another Persona.</string>
 > 	<string>現像操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
 < 	<string>Please either commit or cancel the develop operation before switching to another Persona.</string>
@@ -565,8 +778,10 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>%@をリピート</string>
 < 	<string>Reset Mesh</string>
 > 	<string>メッシュをリセット</string>
-< 	<string>Reset Selection Box</string>
-> 	<string>選択ボックスをリセット</string>
+< 	<string>Reset Wrap Outline</string>
+> 	<string>回り込みアウトラインをリセット</string>
+< 	<string>Reset Wrap Outline</string>
+> 	<string>回り込みアウトラインをリセット</string>
 < 	<string>Retina Pixels</string>
 > 	<string>Retinaピクセル</string>
 < 	<string>Retina pixel view mode</string>
@@ -577,6 +792,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>デフォルト設定を復元</string>
 < 	<string>Revert defaults</string>
 > 	<string>元のデフォルト設定に戻す</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
 > 	<string>反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
@@ -585,6 +808,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
 > 	<string>反時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
 < 	<string>Rotate Clockwise</string>
 > 	<string>時計回りに回転</string>
 < 	<string>Rotate Clockwise</string>
@@ -615,12 +846,16 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>最背面に送る</string>
 < 	<string>Send to Back</string>
 > 	<string>最背面に送る</string>
+< 	<string>Separate Cells</string>
+> 	<string>セルを分離</string>
 < 	<string>Set Fill None</string>
 > 	<string>塗りつぶしをなしに設定</string>
 < 	<string>Set Fill to 50% Grey</string>
 > 	<string>塗りつぶしを50%グレーに設定</string>
 < 	<string>Set Fill to Black and White</string>
 > 	<string>塗りつぶしを白黒に設定</string>
+< 	<string>Show Baseline Grid Manager</string>
+> 	<string>ベースライングリッドマネージャーを表示</string>
 < 	<string>Show Clipped Highlights</string>
 > 	<string>クリップされたハイライトを表示</string>
 < 	<string>Show Clipped Highlights</string>
@@ -639,6 +874,10 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>クリップされた色調を表示</string>
 < 	<string>Show Clipped Tones</string>
 > 	<string>クリップされた色調を表示</string>
+< 	<string>Show Text Wrap Settings</string>
+> 	<string>テキストの回り込み設定を表示</string>
+< 	<string>Show Text Wrap Settings</string>
+> 	<string>テキストの回り込み設定を表示</string>
 < 	<string>Snapping Options</string>
 > 	<string>スナップオプション</string>
 < 	<string>Snapping Options</string>
@@ -649,6 +888,18 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>スナップ</string>
 < 	<string>Snapping</string>
 > 	<string>スナップ</string>
+< 	<string>Sort Ascending</string>
+> 	<string>昇順に並べ替え</string>
+< 	<string>Sort Descending</string>
+> 	<string>降順に並べ替え</string>
+< 	<string>Sort by Column Ascending</string>
+> 	<string>列を昇順に並べ替え</string>
+< 	<string>Sort by Column Descending</string>
+> 	<string>列を降順に並べ替え</string>
+< 	<string>Sort by Row Ascending</string>
+> 	<string>行を昇順に並べ替え</string>
+< 	<string>Sort by Row Descending</string>
+> 	<string>行を降順に並べ替え</string>
 < 	<string>Space Horizontally</string>
 > 	<string>水平方向に等間隔配置</string>
 < 	<string>Space Horizontally</string>
@@ -678,9 +929,9 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 < 	<string>Subtract</string>
 > 	<string>減算</string>
 < 	<string>Subtract</string>
+> 	<string>減算</string>
+< 	<string>Subtract</string>
 > 	<string>除外</string>
-< 	<string>Subtract toolbar button</string>
-> 	<string>減算ツールバーボタン</string>
 < 	<string>Swap Line and Fill</string>
 > 	<string>線と塗りつぶしを入れ換え</string>
 < 	<string>Swap</string>
@@ -703,6 +954,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>選択範囲のデフォルト設定を同期</string>
 < 	<string>The mesh warp tool requires a selected layer to warp.</string>
 > 	<string>メッシュワープツールを使用するには、ワープ処理を行うレイヤーが選択されている必要があります。</string>
+< 	<string>This feature is disabled until later in the Publisher Beta.</string>
+> 	<string>この機能はPublisherのベータ版で今後有効になる予定です。</string>
 < 	<string>Toggle 32-bit Preview Panel</string>
 > 	<string>32ビットプレビューパネルを切り替え</string>
 < 	<string>Toggle Adjustment Panel</string>
@@ -747,16 +1000,36 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>レイヤのエクスポートパネルを切り替え</string>
 < 	<string>Toggle Export Options Panel</string>
 > 	<string>エクスポートオプションパネルを切り替え</string>
+< 	<string>Toggle Fields Panel</string>
+> 	<string>フィールドパネルを切り替え</string>
 < 	<string>Toggle Fill Context</string>
 > 	<string>塗りつぶしコンテキストの切り替え</string>
+< 	<string>Toggle Find and Replace Panel</string>
+> 	<string>検索および置換パネルの切り替え</string>
 < 	<string>Toggle Frequency Layer</string>
 > 	<string>周波数レイヤーの切り替え</string>
+< 	<string>Toggle GPU Panel</string>
+> 	<string>GPUパネルを切り替え</string>
 < 	<string>Toggle Glyph Browser Panel</string>
 > 	<string>グリフブラウザパネルを切り替え</string>
+< 	<string>Toggle Grid Editing</string>
+> 	<string>グリッド編集の切り替え</string>
+< 	<string>Toggle Grid Editing</string>
+> 	<string>グリッド編集の切り替え</string>
+< 	<string>Toggle Grid Origin Editing</string>
+> 	<string>グリッド起点編集の切り替え</string>
+< 	<string>Toggle Grid Origin and Axis Editing</string>
+> 	<string>グリッド起点および軸編集の切り替え</string>
+< 	<string>Toggle Guides Editing</string>
+> 	<string>ガイド編集の切り替え</string>
+< 	<string>Toggle Guides Editing</string>
+> 	<string>ガイド編集の切り替え</string>
 < 	<string>Toggle Histogram Panel</string>
 > 	<string>ヒストグラムパネルを切り替え</string>
 < 	<string>Toggle History Panel</string>
 > 	<string>履歴パネルを切り替え</string>
+< 	<string>Toggle Index Panel</string>
+> 	<string>インデックスパネルを切り替え</string>
 < 	<string>Toggle Information Panel</string>
 > 	<string>情報パネルを切り替え</string>
 < 	<string>Toggle Layers Panel</string>
@@ -775,12 +1048,18 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>マクロパネルを切り替え</string>
 < 	<string>Toggle Navigator Panel</string>
 > 	<string>ナビゲータパネルを切り替え</string>
+< 	<string>Toggle Pages Panel</string>
+> 	<string>ページパネルを切り替え</string>
 < 	<string>Toggle Paragraph Panel</string>
 > 	<string>段落パネルを切り替え</string>
 < 	<string>Toggle Quick Mask [Q]</string>
 > 	<string>クイックマスクを切り替え[Q]</string>
 < 	<string>Toggle Quick Mask [Q]</string>
 > 	<string>クイックマスクを切り替え[Q]</string>
+< 	<string>Toggle Ruler Origin Editing</string>
+> 	<string>ルーラー起点編集の切り替え</string>
+< 	<string>Toggle Ruler Origin Editing</string>
+> 	<string>ルーラー起点編集の切り替え</string>
 < 	<string>Toggle Scope Panel</string>
 > 	<string>スコープパネルを切り替え</string>
 < 	<string>Toggle Slices Panel</string>
@@ -801,6 +1080,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>見本パネルを切り替え</string>
 < 	<string>Toggle Symbol Panel</string>
 > 	<string>シンボルパネルを切り替え</string>
+< 	<string>Toggle Table Format Panel</string>
+> 	<string>テーブルフォーマットパネルを切り替え</string>
+< 	<string>Toggle Table Panel</string>
+> 	<string>テーブルパネルを切り替え</string>
+< 	<string>Toggle Table of Contents Panel</string>
+> 	<string>目次パネルを切り替え</string>
+< 	<string>Toggle Text Frame Panel</string>
+> 	<string>テキストフレームパネルを切り替え</string>
 < 	<string>Toggle Text Styles Panel</string>
 > 	<string>テキストスタイルパネルを切り替え</string>
 < 	<string>Toggle Tone Map Overlays Panel</string>
@@ -811,6 +1098,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>トーンマッププリセットパネルを切り替え</string>
 < 	<string>Toggle Transform Panel</string>
 > 	<string>変換パネルを切り替え</string>
+< 	<string>Toggle Unicode Character</string>
+> 	<string>Unicode文字の切り替え</string>
 < 	<string>Tonal Range:</string>
 > 	<string>階調範囲:</string>
 < 	<string>Tone Mapping Persona</string>
@@ -821,16 +1110,24 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>トーンマッピングペルソナ</string>
 < 	<string>Tone Mapping</string>
 > 	<string>トーンマッピング</string>
+< 	<string>Tool Options</string>
+> 	<string>ツールオプション</string>
 < 	<string>Transform</string>
 > 	<string>変換</string>
 < 	<string>Unignore Spelling "%@"</string>
 > 	<string>スペル"%@"の無視を解除</string>
-< 	<string>Union</string>
-> 	<string>和</string>
-< 	<string>Union toolbar button</string>
-> 	<string>結合ツールバーボタン</string>
 < 	<string>Unlearn Spelling "%@"</string>
 > 	<string>スペル"%@"の学習を解除</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona.</string>
+> 	<string>ベクトルペルソナ。</string>
+< 	<string>Vector</string>
+> 	<string>ベクトル</string>
 < 	<string>Vibrance</string>
 > 	<string>自然な彩度</string>
 < 	<string>View Mode</string>
@@ -841,13 +1138,23 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>幅:</string>
 < 	<string>Width:</string>
 > 	<string>幅:</string>
+< 	<string>Wrapping</string>
+> 	<string>回り込み</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
 < 	<string>Yes</string>
 > 	<string>はい</string>
 < 	<string>Zoom In</string>
 > 	<string>ズームイン</string>
 < 	<string>Zoom Out</string>
 > 	<string>ズームアウト</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDevelop.nib /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/MainMenuDevelop.nib
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuDevelop.nib /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/MainMenuDevelop.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -930,8 +1237,6 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDevelo
 > 		<string>新規一括ジョブ…</string>
 < 		<string>Show Context Toolbar</string>
 > 		<string>コンテキストツールバーを表示</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Show Tools</string>
 > 		<string>ツールを表示</string>
 < 		<string>Dock Tools</string>
@@ -960,6 +1265,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDevelo
 > 		<string>グリッドを表示</string>
 < 		<string>Show Margins</string>
 > 		<string>マージンを表示</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>New From Clipboard</string>
 > 		<string>クリップボードから新規作成</string>
 < 		<string>Show Rulers</string>
@@ -974,6 +1281,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDevelo
 > 		<string>ピクセルサイズ</string>
 < 		<string>Grid and Axis Manager…</string>
 > 		<string>グリッドおよび軸マネージャー…</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>MainMenu</string>
 > 		<string>メインメニュー</string>
 < 		<string>Services</string>
@@ -989,6 +1298,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDevelo
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 > 		<string>スタジオ</string>
 > 		<string>ビュー</string>
 < 		<string>Window</string>
@@ -1002,7 +1313,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuDevelo
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR.nib /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/MainMenuHDR.nib
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuHDR.nib /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/MainMenuHDR.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -1101,6 +1412,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR.ni
 > 		<string>左に回転</string>
 < 		<string>New From Clipboard</string>
 > 		<string>クリップボードから新規作成</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>Show Pixel Selection</string>
 > 		<string>ピクセル選択範囲を表示</string>
 < 		<string>Show Guides</string>
@@ -1109,14 +1422,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR.ni
 > 		<string>右に回転</string>
 < 		<string>Show Tools</string>
 > 		<string>ツールを表示</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Tutorial...</string>
 > 		<string>チュートリアル...</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI切り替え</string>
 < 		<string>Welcome...</string>
 > 		<string>ようこそ...</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Show Grid</string>
 > 		<string>グリッドを表示</string>
 < 		<string>New Panorama…</string>
@@ -1141,6 +1454,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR.ni
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 > 		<string>スタジオ</string>
 > 		<string>ビュー</string>
 < 		<string>Window</string>
@@ -1154,7 +1469,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuHDR.ni
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiquify.nib /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/MainMenuLiquify.nib
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuLiquify.nib /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/MainMenuLiquify.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -1269,18 +1584,20 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiquif
 > 		<string>右に回転</string>
 < 		<string>Show Tools</string>
 > 		<string>ツールを表示</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>Tutorial...</string>
 > 		<string>チュートリアル...</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI切り替え</string>
 < 		<string>Export Persona</string>
-> 		<string>ペルソナを書き出し</string>
+> 		<string>書き出しペルソナ</string>
 < 		<string>Tone Mapping Persona</string>
 > 		<string>トーンマッピングペルソナ</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Welcome...</string>
 > 		<string>ようこそ...</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Show Grid</string>
 > 		<string>グリッドを表示</string>
 < 		<string>MainMenu</string>
@@ -1298,6 +1615,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiquif
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 > 		<string>スタジオ</string>
 > 		<string>ビュー</string>
 < 		<string>Window</string>
@@ -1311,7 +1630,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuLiquif
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPanorama.nib /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/MainMenuPanorama.nib
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuPanorama.nib /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/MainMenuPanorama.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -1400,6 +1719,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPanora
 > 		<string>実寸</string>
 < 		<string>New Stack…</string>
 > 		<string>新規スタック…</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Dock Tools</string>
 > 		<string>ツールをドッキング</string>
 < 		<string>Show Margins</string>
@@ -1427,11 +1748,11 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPanora
 < 		<string>Toggle UI</string>
 > 		<string>UI切り替え</string>
 < 		<string>Export Persona</string>
-> 		<string>ペルソナを書き出し</string>
+> 		<string>書き出しペルソナ</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>Welcome...</string>
 > 		<string>ようこそ...</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Show Grid</string>
 > 		<string>グリッドを表示</string>
 < 		<string>New Panorama…</string>
@@ -1454,6 +1775,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPanora
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 > 		<string>スタジオ</string>
 > 		<string>ビュー</string>
 < 		<string>Window</string>
@@ -1467,7 +1790,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPanora
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPhotoExport.nib /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/MainMenuPhotoExport.nib
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuPhotoExport.nib /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/MainMenuPhotoExport.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -1546,6 +1869,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPhotoE
 > 		<string>ルーラーを表示</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>フルスクリーン切り替え</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Photo Persona</string>
 > 		<string>写真ペルソナ</string>
 < 		<string>Affinity Photo Help</string>
@@ -1564,6 +1889,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPhotoE
 > 		<string>UI切り替え</string>
 < 		<string>Welcome...</string>
 > 		<string>ようこそ...</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>Show Tools</string>
 > 		<string>ツールを表示</string>
 < 		<string>Undo</string>
@@ -1644,6 +1971,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPhotoE
 < 		<string>View</string>
 > 		<string>ビュー</string>
 > 		<string>ビュー</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 > 		<string>ビュー</string>
 > 		<string>スタジオ</string>
 < 		<string>Window</string>
@@ -1657,7 +1986,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuPhotoE
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster.nib /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/MainMenuRaster.nib
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuRaster.nib /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/MainMenuRaster.nib
 < 		<string>Views</string>
 > 		<string>ビュー</string>
 < 		<string>Studio</string>
@@ -1728,28 +2057,16 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>ツールバーをカスタマイズ…</string>
 < 		<string>Show Toolbar</string>
 > 		<string>ツールバーを表示</string>
-< 		<string>Affinity Photo Help</string>
-> 		<string>Affinity Photoヘルプ</string>
+< 		<string>${PRODUCT_NAME} Help</string>
+> 		<string>${PRODUCT_NAME}ヘルプ</string>
 < 		<string>New Mask Layer</string>
 > 		<string>新規マスクレイヤー</string>
 < 		<string>New Fill Layer</string>
 > 		<string>新規塗りつぶしレイヤー</string>
 < 		<string>New Layer</string>
 > 		<string>新規レイヤー</string>
-< 		<string>Convert ICC Profile…</string>
-> 		<string>ICCプロファイルを変換…</string>
-< 		<string>Lab (16 bit)</string>
-> 		<string>LAB(16ビット)</string>
-< 		<string>Greyscale (16 bit)</string>
-> 		<string>グレースケール(16ビット)</string>
-< 		<string>RGB (16 bit)</string>
-> 		<string>RGB(16ビット)</string>
-< 		<string>CMYK (8 bit)</string>
-> 		<string>CMYK(8ビット)</string>
-< 		<string>Greyscale (8 bit)</string>
-> 		<string>グレースケール(8ビット)</string>
-< 		<string>RGB (8 bit)</string>
-> 		<string>RGB(8ビット)</string>
+< 		<string>Convert Format / ICC Profile…</string>
+> 		<string>フォーマット/ICCプロファイルを変換…</string>
 < 		<string>Ungroup</string>
 > 		<string>グループ解除</string>
 < 		<string>Group</string>
@@ -1880,8 +2197,6 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>アシスタントマネージャー…</string>
 < 		<string>Clip Canvas</string>
 > 		<string>キャンバスをクリップ</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Bilateral Blur…</string>
 > 		<string>バイラテラルぼかし…</string>
 < 		<string>Median Blur…</string>
@@ -1904,14 +2219,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>ハーフトーンフィルター</string>
 < 		<string>Rasterise To Mask</string>
 > 		<string>マスクにラスタライズ</string>
+< 		<string>Edit In Designer…</string>
+> 		<string>Designerで編集…</string>
 < 		<string>Update Paragraph Style</string>
 > 		<string>段落スタイルを更新</string>
 < 		<string>Combine</string>
 > 		<string>合成</string>
 < 		<string>En Space</string>
 > 		<string>半角スペース</string>
-< 		<string>OCIO Adjustment</string>
-> 		<string>OCIO調整</string>
 < 		<string>Show Character</string>
 > 		<string>文字を表示</string>
 < 		<string>Merge All Windows</string>
@@ -1922,22 +2237,22 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>左右反転</string>
 < 		<string>New Panorama…</string>
 > 		<string>新規パノラマ…</string>
+< 		<string>Procedural Texture</string>
+> 		<string>手続きテクスチャ</string>
 < 		<string>Superscript</string>
 > 		<string>上付き文字</string>
-< 		<string>Edit In Designer…</string>
-> 		<string>Designerで編集…</string>
 < 		<string>Actual Size</string>
 > 		<string>実寸</string>
 < 		<string>Remove Vignette...</string>
 > 		<string>ビネットを除去...</string>
 < 		<string>Select Partially Transparent</string>
 > 		<string>部分的に透明を選択</string>
-< 		<string>Invert Adjustment</string>
-> 		<string>反転調整</string>
+< 		<string>Invert</string>
+> 		<string>反転</string>
 < 		<string>Resize Pixel Art Document…</string>
 > 		<string>ピクセルアートドキュメントのサイズ調整…</string>
 < 		<string>Reveal in Finder</string>
-> 		<string>ファインダーで表示</string>
+> 		<string>Finderで表示</string>
 < 		<string>Inpaint</string>
 > 		<string>インペイント</string>
 < 		<string>None</string>
@@ -1946,8 +2261,10 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>選択範囲を結合</string>
 < 		<string>Tighten More</string>
 > 		<string>さらに狭める</string>
-< 		<string>Recolour Adjustment</string>
-> 		<string>再配色調整</string>
+< 		<string>Recolour…</string>
+> 		<string>再配色…</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Grid and Axis Manager…</string>
 > 		<string>グリッドおよび軸マネージャー…</string>
 < 		<string>Convert To Curves</string>
@@ -1964,8 +2281,10 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>制限付きで作成</string>
 < 		<string>Decrease</string>
 > 		<string>縮小</string>
-< 		<string>Gradient Map Adjustment</string>
-> 		<string>グラデーションマップ調整</string>
+< 		<string>Gradient Map…</string>
+> 		<string>グラデーションマップ…</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
 < 		<string>Centre</string>
 > 		<string>中央揃え</string>
 < 		<string>Insert Text from File…</string>
@@ -1974,12 +2293,16 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>打ち消し線</string>
 < 		<string>Equations…</string>
 > 		<string>数式…</string>
-< 		<string>Levels Adjustment</string>
-> 		<string>レベル調整</string>
+< 		<string>Levels…</string>
+> 		<string>レベル…</string>
 < 		<string>Acquire Image…</string>
 > 		<string>画像を取得…</string>
 < 		<string>Synchronise from Selection</string>
 > 		<string>選択範囲から同期</string>
+< 		<string>Minimum Blur Filter</string>
+> 		<string>最小ぼかしフィルター</string>
+< 		<string>Maximum Blur Filter</string>
+> 		<string>最大ぼかしフィルター</string>
 < 		<string>Auto Colours</string>
 > 		<string>自動カラー</string>
 < 		<string>Save Text Styles as Default</string>
@@ -1994,8 +2317,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>複製</string>
 < 		<string>Twirl Filter</string>
 > 		<string>渦巻きフィルター</string>
-< 		<string>Black &amp; White Adjustment</string>
-> 		<string>白黒調整</string>
+< 		<string>Black &amp; White…</string>
+> 		<string>白黒…</string>
 < 		<string>New Batch Job…</string>
 > 		<string>新規一括ジョブ…</string>
 < 		<string>Unlock</string>
@@ -2004,20 +2327,24 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>シャドウ / ハイライトフィルター</string>
 < 		<string>Bottom</string>
 > 		<string>下</string>
-< 		<string>Exposure Adjustment</string>
-> 		<string>露出調整</string>
+> 		<string>Show All</string>
+< 		<string>Exposure…</string>
+> 		<string>露出…</string>
+< 		<string>Radial Blur Filter</string>
+> 		<string>放射状ぼかしフィルター</string>
 < 		<string>Factory Reset</string>
 > 		<string>出荷時の設定にリセット</string>
 < 		<string>Add Noise Filter</string>
 > 		<string>ノイズ付加フィルター</string>
-< 		<string>Zero Width Space</string>
+< 		<string>Zero-Width Space</string>
 > 		<string>幅ゼロのスペース</string>
+> 		<string>Hide</string>
 < 		<string>Defringe…</string>
 > 		<string>フリンジ除去…</string>
 < 		<string>Fill…</string>
 > 		<string>塗りつぶし…</string>
-< 		<string>Soft Proof Adjustment</string>
-> 		<string>ソフト校正調整</string>
+< 		<string>Soft Proof…</string>
+> 		<string>ソフト校正…</string>
 < 		<string>Insertion Inside</string>
 > 		<string>挿入(内側)</string>
 < 		<string>As Spare Channel</string>
@@ -2026,6 +2353,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>除算</string>
 < 		<string>Bilateral Blur Filter</string>
 > 		<string>バイラテラルぼかしフィルター</string>
+< 		<string>Vector Persona</string>
+> 		<string>ベクトルペルソナ</string>
 < 		<string>Create Character Style</string>
 > 		<string>文字スタイルを作成</string>
 < 		<string>Flip Vertical</string>
@@ -2078,14 +2407,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>テキストスタイルを表示</string>
 < 		<string>Export LUT…</string>
 > 		<string>LUTを書き出し…</string>
-< 		<string>LUT Adjustment</string>
-> 		<string>LUT調整</string>
 < 		<string>Bigger</string>
 > 		<string>拡大</string>
 < 		<string>Spelling Options…</string>
 > 		<string>スペルオプション…</string>
 < 		<string>Transparent Background</string>
 > 		<string>透明な背景</string>
+< 		<string>Layout Persona</string>
+> 		<string>レイアウトペルソナ</string>
 < 		<string>Align Bottom</string>
 > 		<string>下揃え</string>
 < 		<string>Insertion Top</string>
@@ -2098,6 +2427,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>書き出し…</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI切り替え</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
 < 		<string>Justify Left</string>
 > 		<string>均等配置(最終行左揃え)</string>
 < 		<string>Outline…</string>
@@ -2108,6 +2439,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>フィールドぼかしフィルター</string>
 < 		<string>Displace Filter</string>
 > 		<string>変位フィルター</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
 < 		<string>Move To Front</string>
 > 		<string>最前面に移動</string>
 < 		<string>Always Show Selection in Layers Panel </string>
@@ -2118,8 +2451,6 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>フィールドぼかし…</string>
 < 		<string>Lighting…</string>
 > 		<string>照明…</string>
-< 		<string>HSL Adjustment</string>
-> 		<string>HSL調整</string>
 < 		<string>Move Back One</string>
 > 		<string>背面へ</string>
 < 		<string>Use Default</string>
@@ -2138,22 +2469,22 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>照明フィルター</string>
 < 		<string>Em Space</string>
 > 		<string>全角スペース</string>
-< 		<string>Curves Adjustment</string>
-> 		<string>カーブ調整</string>
+< 		<string>Curves…</string>
+> 		<string>カーブ…</string>
 < 		<string>Flip Vertical</string>
 > 		<string>上下反転</string>
 < 		<string>Figure Dash</string>
 > 		<string>フィギュアダッシュ</string>
-< 		<string>Vibrance Adjustment</string>
-> 		<string>自然な彩度調整</string>
+< 		<string>Vibrance…</string>
+> 		<string>自然な彩度…</string>
 < 		<string>Unlock All</string>
 > 		<string>すべてロック解除</string>
 < 		<string>Guides Manager…</string>
 > 		<string>ガイドマネージャー…</string>
 < 		<string>Insertion Behind</string>
 > 		<string>挿入(後方)</string>
-< 		<string>White Balance Adjustment</string>
-> 		<string>ホワイトバランス調整</string>
+< 		<string>White Balance…</string>
+> 		<string>ホワイトバランス…</string>
 < 		<string>In Place</string>
 > 		<string>配置</string>
 > 		<string>右揃え</string>
@@ -2163,7 +2494,6 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>左右反転</string>
 < 		<string>Diffuse Glow Filter</string>
 > 		<string>光彩拡散フィルター</string>
-< 		<string>Invert</string>
 > 		<string>反転</string>
 < 		<string>Frequency Separation…</string>
 > 		<string>周波数分離…</string>
@@ -2182,6 +2512,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>Appleカラーピッカー...</string>
 < 		<string>Add</string>
 > 		<string>追加</string>
+< 		<string>Selection From Layer and Delete</string>
+> 		<string>レイヤーからの選択と削除</string>
 < 		<string>Median Blur Filter</string>
 > 		<string>メジアンぼかしフィルター</string>
 < 		<string>Web Safe Dither</string>
@@ -2196,8 +2528,10 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>選択範囲をファイルから読み込む…</string>
 < 		<string>Edit Live Projection</string>
 > 		<string>ライブ投影を編集</string>
-< 		<string>Split Toning Adjustment</string>
-> 		<string>トーン調整の分割</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
+< 		<string>Split Toning…</string>
+> 		<string>明暗別色補正…</string>
 < 		<string>Tutorial...</string>
 > 		<string>チュートリアル...</string>
 < 		<string>Show Paragraph</string>
@@ -2209,20 +2543,17 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>シアー…</string>
 < 		<string>Check Spelling While Typing</string>
 > 		<string>入力中にスペルチェック</string>
-< 		<string>Threshold Adjustment</string>
-> 		<string>しきい値調整</string>
+< 		<string>Threshold…</string>
+> 		<string>しきい値…</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
-> 		<string>すべて表示</string>
 < 		<string>Depth Of Field Filter</string>
 > 		<string>フィールドフィルターの深度</string>
 < 		<string>Show Tools</string>
 > 		<string>ツールを表示</string>
 < 		<string>Use None</string>
 > 		<string>何も使用しない</string>
-< 		<string>RGB (32 bit HDR)</string>
-> 		<string>RGB(32ビットHDR)</string>
-< 		<string>Rasterise…</string>
+< 		<string>Rasterise &amp; Trim…</string>
 > 		<string>ラスタライズ…</string>
 < 		<string>Duplicate Linked</string>
 > 		<string>リンク複製</string>
@@ -2263,12 +2594,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>アフィン…</string>
 < 		<string>Equirectangular Projection</string>
 > 		<string>正距円筒図法</string>
-< 		<string>Shadows / Highlights Adjustment</string>
-> 		<string>シャドウ / ハイライト調整</string>
+< 		<string>Shadows / Highlights…</string>
+> 		<string>シャドウ / ハイライト…</string>
 < 		<string>Pixel Size</string>
 > 		<string>ピクセルサイズ</string>
 < 		<string>Lock</string>
 > 		<string>ロック</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photoで編集…</string>
 < 		<string>Rotate 90° Clockwise</string>
 > 		<string>時計回りに90°回転</string>
 < 		<string>Check Spelling</string>
@@ -2279,6 +2612,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>レイヤーの選択解除</string>
 < 		<string>Align Middle</string>
 > 		<string>上下中央揃え</string>
+< 		<string>Voronoi...</string>
+> 		<string>ボロノイ...</string>
 < 		<string>Justify All</string>
 > 		<string>すべての行を均等配置</string>
 < 		<string>Shadows / Highlights…</string>
@@ -2303,8 +2638,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>減算</string>
 < 		<string>Pinch / Punch Filter</string>
 > 		<string>ピンチ / パンチフィルター</string>
-< 		<string>Colour Balance Adjustment</string>
-> 		<string>カラーバランス調整</string>
+< 		<string>Colour Balance…</string>
+> 		<string>カラーバランス…</string>
 < 		<string>Even Rows</string>
 > 		<string>偶数行</string>
 < 		<string>Italic</string>
@@ -2323,6 +2658,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>パースペクティブフィルター</string>
 < 		<string>Solarise</string>
 > 		<string>ソラライズ</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
 < 		<string>Dock Tools</string>
 > 		<string>ツールをドッキング</string>
 < 		<string>Box Blur Filter</string>
@@ -2348,8 +2685,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>狭める</string>
 < 		<string>Repeat</string>
 > 		<string>繰り返し</string>
-< 		<string>Channel Mixer Adjustment</string>
-> 		<string>チャンネルミキサー調整</string>
+< 		<string>Channel Mixer…</string>
+> 		<string>チャンネルミキサー…</string>
 < 		<string>Flatten</string>
 > 		<string>平坦化</string>
 < 		<string>Select Fully Transparent</string>
@@ -2358,8 +2695,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>下のレイヤーと結合</string>
 < 		<string>Live Stack Group</string>
 > 		<string>ライブスタックグループ</string>
-< 		<string>Selective Colour Adjustment</string>
-> 		<string>特定色域調整</string>
+< 		<string>Selective Colour…</string>
+> 		<string>特定色域…</string>
 < 		<string>Create Paragraph Style</string>
 > 		<string>段落スタイルを作成</string>
 < 		<string>Reselect</string>
@@ -2379,7 +2716,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 < 		<string>Delete</string>
 > 		<string>削除</string>
 < 		<string>Export Persona</string>
-> 		<string>ペルソナを書き出し</string>
+> 		<string>書き出しペルソナ</string>
 < 		<string>Ripple Filter</string>
 > 		<string>波紋フィルター</string>
 < 		<string>Paste FX</string>
@@ -2403,8 +2740,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>新規フォーカス結合…</string>
 < 		<string>Small Caps</string>
 > 		<string>スモールキャップス</string>
-< 		<string>Lens Filter Adjustment</string>
-> 		<string>レンズフィルター調整</string>
+< 		<string>Lens Filter…</string>
+> 		<string>レンズフィルター…</string>
 < 		<string>Develop Persona</string>
 > 		<string>現像ペルソナ</string>
 < 		<string>Tone Mapping Persona</string>
@@ -2415,16 +2752,18 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>最背面に移動</string>
 < 		<string>Dust &amp; Scratches Filter</string>
 > 		<string>ダスト&amp;スクラッチフィルター</string>
-< 		<string>Posterise Adjustment</string>
-> 		<string>ポスタライズ調整</string>
+< 		<string>Posterise…</string>
+> 		<string>ポスタライズ…</string>
+< 		<string>Procedural Texture…</string>
+> 		<string>手続きテクスチャ…</string>
 < 		<string>Add Snapshot</string>
 > 		<string>スナップショットの追加</string>
 < 		<string>Feather…</string>
 > 		<string>ぼかし…</string>
 < 		<string>Top</string>
 > 		<string>上</string>
-< 		<string>Brightness / Contrast Adjustment</string>
-> 		<string>明るさ / コントラスト調整</string>
+< 		<string>Brightness / Contrast…</string>
+> 		<string>明るさ / コントラスト…</string>
 < 		<string>Apply Image…</string>
 > 		<string>画像を適用…</string>
 < 		<string>MainMenu</string>
@@ -2473,6 +2812,10 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 < 		<string>Paragraph Leading</string>
 > 		<string>段落の行間</string>
 > 		<string>段落の行間</string>
+< 		<string>Vertical Alignment</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+> 		<string>垂直方向揃え</string>
 < 		<string>Text Styles</string>
 < 		<string>Text Styles</string>
 > 		<string>テキストスタイル</string>
@@ -2481,10 +2824,6 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 < 		<string>Insert Character</string>
 > 		<string>文字を挿入</string>
 > 		<string>文字を挿入</string>
-< 		<string>Vertical Alignment</string>
-< 		<string>Vertical Alignment</string>
-> 		<string>垂直方向揃え</string>
-> 		<string>垂直方向揃え</string>
 < 		<string>Spelling</string>
 > 		<string>スペル設定</string>
 > 		<string>スペル設定</string>
@@ -2493,10 +2832,6 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>ドキュメント</string>
 < 		<string>Restore Snapshot</string>
 > 		<string>スナップショットをリストア</string>
-< 		<string>Colour Format</string>
-< 		<string>Colour Format</string>
-> 		<string>カラーフォーマット</string>
-> 		<string>カラーフォーマット</string>
 < 		<string>Layer</string>
 > 		<string>レイヤー</string>
 > 		<string>レイヤー</string>
@@ -2510,6 +2845,21 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 < 		<string>New Live Filter Layer</string>
 > 		<string>新規ライブフィルターレイヤー</string>
 > 		<string>新規ライブフィルターレイヤー</string>
+< 		<string>Blur</string>
+> 		<string>ぼかし</string>
+> 		<string>ぼかし</string>
+< 		<string>Sharpen</string>
+> 		<string>シャープ化</string>
+> 		<string>シャープ化</string>
+< 		<string>Distort</string>
+> 		<string>ゆがみ</string>
+> 		<string>ゆがみ</string>
+< 		<string>Noise</string>
+> 		<string>ノイズ</string>
+> 		<string>ノイズ</string>
+< 		<string>Colours</string>
+> 		<string>カラー</string>
+> 		<string>カラー</string>
 < 		<string>Live Projection</string>
 < 		<string>Live Projection</string>
 > 		<string>ライブ投影</string>
@@ -2541,16 +2891,12 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 < 		<string>Filters</string>
 > 		<string>フィルター</string>
 > 		<string>フィルター</string>
-< 		<string>Blur</string>
 > 		<string>ぼかし</string>
 > 		<string>ぼかし</string>
-< 		<string>Sharpen</string>
 > 		<string>シャープ化</string>
 > 		<string>シャープ化</string>
-< 		<string>Distort</string>
 > 		<string>歪曲</string>
 > 		<string>歪曲</string>
-< 		<string>Noise</string>
 > 		<string>ノイズ</string>
 > 		<string>ノイズ</string>
 < 		<string>Deinterlace</string>
@@ -2560,13 +2906,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 < 		<string>Detect</string>
 > 		<string>検出</string>
 > 		<string>検出</string>
-< 		<string>Colours</string>
 > 		<string>カラー</string>
 > 		<string>カラー</string>
 > 		<string>プラグイン</string>
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 > 		<string>スタジオ</string>
 > 		<string>ビュー</string>
 < 		<string>Window</string>
@@ -2582,7 +2929,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>ヘルプ</string>
 > 		<string>ヘルプ</string>
 > 		<string>デバッグ</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/adjustments.strings /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/adjustments.strings
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/adjustments.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/adjustments.strings
 < 	<string>+1 Stop</string>
 > 	<string>+1ストップ</string>
 < 	<string>+2 Stops</string>
@@ -2652,6 +2999,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/adjustments.st
 < 	<string>Lower Contrast</string>
 > 	<string>コントラストを下げる</string>
 < 	<string>Nuclear</string>
+< 	<string>OCIO</string>
+< 	<string>PhotoFilter</string>
 > 	<string>核</string>
 < 	<string>Posterise</string>
 > 	<string>ポスタライズ</string>
@@ -2670,6 +3019,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/adjustments.st
 < 	<string>Soft</string>
 > 	<string>柔らかく</string>
 < 	<string>SoftProof</string>
+< 	<string>SplitToning</string>
 > 	<string>ソフト校正</string>
 < 	<string>Threshold</string>
 > 	<string>しきい値</string>
@@ -2685,7 +3035,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/adjustments.st
 > 	<string>暖色系</string>
 < 	<string>WhiteBalance</string>
 > 	<string>ホワイトバランス</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/fills.strings
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/fills.strings
 < 	<string>Black</string>
 > 	<string>黒</string>
 < 	<string>Black 10%</string>
@@ -2742,7 +3092,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/fills.strings 
 > 	<string>白から黒</string>
 < 	<string>White to transparent</string>
 > 	<string>白から透明</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/macros.strings /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/macros.strings
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/macros.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/macros.strings
 < 	<string>Black &amp; White</string>
 > 	<string>白黒</string>
 < 	<string>Convert to sRGB</string>
@@ -2755,24 +3105,40 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/macros.strings
 > 	<string>上下反転</string>
 < 	<string>Strip metadata</string>
 > 	<string>メタデータのストリップ</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/objectstyles.strings
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/objectstyles.strings
+< 	<string>80s Disco</string>
+< 	<string>80s Gel Shine</string>
+< 	<string>80s Poster Shine</string>
+< 	<string>Aluminium</string>
+< 	<string>Bloodpool</string>
+< 	<string>Dark Blue</string>
 < 	<string>Default</string>
+< 	<string>Frost</string>
+< 	<string>Gel</string>
+< 	<string>Gold Art Deco</string>
+< 	<string>Gold Art Deco 2</string>
+< 	<string>Gold Black</string>
+< 	<string>Gold Rust</string>
+< 	<string>Gold Rust Shine</string>
+< 	<string>Metal Sharp</string>
+< 	<string>Metal White Sharp</string>
+< 	<string>Neon</string>
+< 	<string>Night Out</string>
+< 	<string>Plastic Glitter</string>
+< 	<string>Plexi</string>
+< 	<string>Plexi Gel</string>
+< 	<string>Retro Elegant</string>
+< 	<string>Retro Style Plain</string>
+< 	<string>Strange</string>
+< 	<string>Strange 2</string>
 > 	<string>デフォルト</string>
-< 	<string>Glass</string>
 > 	<string>ガラス</string>
-< 	<string>Metal</string>
 > 	<string>メタル</string>
-< 	<string>Onyx</string>
 > 	<string>漆黒</string>
-< 	<string>Rainbow</string>
 > 	<string>虹</string>
-< 	<string>Salmon</string>
 > 	<string>サーモン</string>
-< 	<string>Style</string>
-> 	<string>スタイル</string>
-< 	<string>Sunset</string>
 > 	<string>夕焼け</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/raster_brushes.strings
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/raster_brushes.strings
 < 	<string>Airbrush</string>
 > 	<string>エアーブラシ</string>
 < 	<string>Almost Dry Roll</string>
@@ -3045,7 +3411,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/raster_brushes
 > 	<string>ワックスブラシ</string>
 < 	<string>Worn Out Bristle</string>
 > 	<string>使い古し剛毛</string>
-diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/tone_map.strings /Applications/Affinity Photo.app/Contents/Resources/ja.lproj/tone_map.strings
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/tone_map.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/tone_map.strings
 < 	<string>Acid Bath</string>
 > 	<string>酸浴</string>
 < 	<string>All Local, No Global</string>
@@ -3134,3 +3500,89 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/tone_map.strin
 > 	<string>都市の明るさ</string>
 < 	<string>Zero Compression</string>
 > 	<string>ゼロ圧縮</string>
+diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/tool_settings.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ja.lproj/tool_settings.strings
+< 	<string>1 : 1</string>
+< 	<string>1.618 : 1  (Golden ratio)</string>
+< 	<string>1.85 : 1  (Widescreen theatrical)</string>
+< 	<string>10" x 8"  [8R]</string>
+< 	<string>1024 x 768  [XGA]</string>
+< 	<string>105mm x 148mm  [A6]</string>
+< 	<string>11" x 17"  [Tabloid, ANSI B]</string>
+< 	<string>1280 x 1024  [SXGA]</string>
+< 	<string>1280 x 720  [HD 720]</string>
+< 	<string>1280 x 768  [WXGA]</string>
+< 	<string>148mm x 210mm  [A5]</string>
+< 	<string>16 : 10</string>
+< 	<string>16 : 9  (1.77 : 1)</string>
+< 	<string>1920 x 1080  [HD 1080]</string>
+< 	<string>2 : 1</string>
+< 	<string>2.35 : 1  (Anamorphic, pre 1970)</string>
+< 	<string>2.39 : 1  (Anamorphic, post 1970)</string>
+< 	<string>2048 x 1080  [2K]</string>
+< 	<string>210mm x 297mm  [A4]</string>
+< 	<string>297mm x 420mm  [A3]</string>
+< 	<string>3 : 1</string>
+< 	<string>3 : 2  (6 : 4)</string>
+< 	<string>4 : 3  (1.33 : 1)</string>
+< 	<string>4096 x 2160  [4K]</string>
+< 	<string>5 : 4  (10 : 8)</string>
+< 	<string>6" x 4"  [4R]</string>
+< 	<string>640 x 480  [VGA]</string>
+< 	<string>7" x 5"  [5R]</string>
+< 	<string>8" x 6"  [6R]</string>
+< 	<string>8.5" x 11"  [Letter, ANSI A]</string>
+< 	<string>8.5" x 14"  [Legal]</string>
+< 	<string>800 x 600  [SVGA]</string>
+< 	<string>Amount</string>
+< 	<string>Bands</string>
+< 	<string>Bar count</string>
+< 	<string>Basic shapes</string>
+< 	<string>Cell count</string>
+< 	<string>Chequered</string>
+< 	<string>Cinematic ratios</string>
+< 	<string>Coloured patterns</string>
+< 	<string>Common ratios</string>
+< 	<string>Contrast</string>
+> 	<string>Constrast</string>
+< 	<string>Droplets</string>
+< 	<string>Fur</string>
+< 	<string>Graduated random squares</string>
+< 	<string>Harsh</string>
+< 	<string>Height</string>
+< 	<string>ISO paper sizes (@300ppi)</string>
+< 	<string>Inverted</string>
+< 	<string>Lava</string>
+< 	<string>Marble</string>
+< 	<string>Metallic</string>
+< 	<string>Mexico</string>
+< 	<string>Mono swirls</string>
+< 	<string>Monochrome patterns</string>
+< 	<string>Number of squares</string>
+< 	<string>Number of waves</string>
+< 	<string>Octaves</string>
+< 	<string>Offset</string>
+< 	<string>Oils</string>
+< 	<string>Overlapped sine waves</string>
+< 	<string>Perlin Noise</string>
+< 	<string>Persistence</string>
+< 	<string>Photographic paper (@300ppi)</string>
+< 	<string>Ripples</string>
+> 	<string>Perlin Noise with Brightness and Contrast</string>
+< 	<string>Screen sizes</string>
+< 	<string>Separation</string>
+< 	<string>Sine wave</string>
+< 	<string>Smoke</string>
+< 	<string>Smoothed bars</string>
+< 	<string>Smoothed squares</string>
+< 	<string>Smoothing</string>
+< 	<string>Smoothing size</string>
+< 	<string>Square count</string>
+< 	<string>Square count turbulance</string>
+< 	<string>Square size</string>
+< 	<string>Square size turbulance</string>
+< 	<string>Turbulance</string>
+< 	<string>US paper sizes (@300ppi)</string>
+< 	<string>Urban Camoflage</string>
+< 	<string>Wave</string>
+< 	<string>Waves</string>
+< 	<string>Width</string>

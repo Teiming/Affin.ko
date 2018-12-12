@@ -1,5 +1,11 @@
-Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: AboutDialog.nib
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/ContextMenu.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/AboutDialog.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/AboutDialog.nib
+< 		<string>Window</string>
+> 		<string>ウィンドウ</string>
+< 		<string>Third party licences</string>
+> 		<string>サードパーティライセンス</string>
+< 		<string>Version</string>
+> 		<string>バージョン</string>
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/ContextMenu.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/ContextMenu.nib
 < 		<string>Paste</string>
 > 		<string>ペースト</string>
 < 		<string>Create Slice</string>
@@ -11,6 +17,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 < 		<string>Copy</string>
 > 		<string>コピー</string>
 > 		<string>ペースト</string>
+< 		<string>Paste Into</string>
+> 		<string>中にペースト</string>
 < 		<string>Group</string>
 > 		<string>グループ化</string>
 < 		<string>Ungroup</string>
@@ -34,6 +42,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 > 		<string>背面へ</string>
 < 		<string>Move to Back</string>
 > 		<string>最背面に移動</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
 < 		<string>Alignment</string>
 > 		<string>整列</string>
 > 		<string>整列</string>
@@ -62,6 +74,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 > 		<string>除算</string>
 < 		<string>Combine</string>
 > 		<string>合成</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
 < 		<string>Transform</string>
 > 		<string>変換</string>
 > 		<string>変換</string>
@@ -101,6 +117,104 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 > 		<string>レイヤーパネルで検索</string>
 < 		<string>Find in Slice Page</string>
 > 		<string>スライスページで検索</string>
+> 		<string>カット</string>
+> 		<string>コピー</string>
+> 		<string>ペースト</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Bold</string>
+> 		<string>太字</string>
+< 		<string>Italic</string>
+> 		<string>斜体</string>
+< 		<string>Underline</string>
+> 		<string>下線</string>
+< 		<string>Strikeout</string>
+> 		<string>打ち消し線</string>
+< 		<string>Size</string>
+> 		<string>サイズ</string>
+> 		<string>サイズ</string>
+< 		<string>Bigger</string>
+> 		<string>拡大</string>
+< 		<string>Smaller</string>
+> 		<string>縮小</string>
+< 		<string>Precise Bigger</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Smaller</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Spacing</string>
+> 		<string>間隔</string>
+> 		<string>間隔</string>
+< 		<string>Use Default</string>
+> 		<string>デフォルトを使用</string>
+< 		<string>Use None</string>
+> 		<string>何も使用しない</string>
+< 		<string>Tighten</string>
+> 		<string>狭める</string>
+< 		<string>Loosen</string>
+> 		<string>拡げる</string>
+< 		<string>Tighten More</string>
+> 		<string>さらに狭める</string>
+< 		<string>Loosen More</string>
+> 		<string>さらに拡げる</string>
+> 		<string>整列</string>
+> 		<string>整列</string>
+> 		<string>左揃え</string>
+< 		<string>Align Centre</string>
+> 		<string>中央揃え</string>
+> 		<string>右揃え</string>
+< 		<string>Justify Left</string>
+> 		<string>均等割付(最終行左寄せ)</string>
+< 		<string>Justify Centre</string>
+> 		<string>均等割付(最終行中央寄せ)</string>
+< 		<string>Justify Right</string>
+> 		<string>均等割付(最終行右寄せ)</string>
+< 		<string>Justify All</string>
+> 		<string>すべての行を均等配置</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Increase</string>
+> 		<string>拡大</string>
+< 		<string>Decrease</string>
+> 		<string>縮小</string>
+< 		<string>Precise Increase</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Decrease</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+< 		<string>Top</string>
+> 		<string>上</string>
+< 		<string>Centre</string>
+> 		<string>中央</string>
+< 		<string>Bottom</string>
+> 		<string>下</string>
+< 		<string>Justify</string>
+> 		<string>両端揃え</string>
+< 		<string>Insert Text from File…</string>
+> 		<string>ファイルからテキストを挿入…</string>
+< 		<string>Insert Filler Text</string>
+> 		<string>フィラーテキストを挿入</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>見本に追加…</string>
+< 		<string>Add to Swatches…</string>
+> 		<string>見本に追加…</string>
+> 		<string>塗りつぶしから</string>
+> 		<string>線から</string>
+> 		<string>両方から</string>
+< 		<string>From Fill As Global</string>
+> 		<string>グローバルとして塗りつぶしから</string>
+< 		<string>From Line As Global</string>
+> 		<string>グローバルとしてラインから</string>
+< 		<string>From Both As Global</string>
+> 		<string>グローバルとして両方から</string>
+< 		<string>Find in Layers Panel</string>
+> 		<string>レイヤーパネルで検索</string>
 < 		<string>Zoom In</string>
 > 		<string>ズームイン</string>
 < 		<string>Zoom Out</string>
@@ -113,9 +227,45 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 > 		<string>右に回転</string>
 < 		<string>Reset Rotation</string>
 > 		<string>回転をリセット</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/Localizable.strings
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+> 		<string>太字</string>
+> 		<string>斜体</string>
+> 		<string>下線</string>
+> 		<string>打ち消し線</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+< 		<string>Character Traits</string>
+> 		<string>文字の特性</string>
+> 		<string>太字</string>
+> 		<string>斜体</string>
+> 		<string>下線</string>
+> 		<string>打ち消し線</string>
+> 		<string>サイズ</string>
+> 		<string>サイズ</string>
+> 		<string>拡大</string>
+> 		<string>縮小</string>
+< 		<string>Precise Bigger</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Smaller</string>
+> 		<string>厳密な縮小</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>段落の行間</string>
+> 		<string>拡大</string>
+> 		<string>縮小</string>
+< 		<string>Precise Increase</string>
+> 		<string>厳密な拡大</string>
+< 		<string>Precise Decrease</string>
+> 		<string>厳密な縮小</string>
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/Localizable.strings
 < 	<string>Add Document Snapshot</string>
 > 	<string>ドキュメントのスナップショットを追加</string>
+< 	<string>Add</string>
+> 	<string>加算</string>
+< 	<string>Add</string>
+> 	<string>加算</string>
 < 	<string>Add</string>
 > 	<string>追加</string>
 < 	<string>Add</string>
@@ -170,6 +320,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>整列</string>
 < 	<string>Alignment</string>
 > 	<string>整列</string>
+< 	<string>Always Show Grid Origin</string>
+> 	<string>グリッド起点を常に表示</string>
 < 	<string>Apply</string>
 > 	<string>適用</string>
 < 	<string>Arrange</string>
@@ -200,6 +352,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>自動ホワイトバランス</string>
 < 	<string>Auto White Balance</string>
 > 	<string>自動ホワイトバランス</string>
+< 	<string>AutoFit Column to Contents</string>
+> 	<string>コンテンツに合わせて列を自動調整</string>
+< 	<string>AutoFit Column(s)</string>
+> 	<string>列を自動調整</string>
+< 	<string>AutoFit Row to Contents</string>
+> 	<string>コンテンツに合わせて行を自動調整</string>
+< 	<string>AutoFit Row(s)</string>
+> 	<string>行を自動調整</string>
 < 	<string>Back One</string>
 > 	<string>1つ後方へ</string>
 < 	<string>Back One</string>
@@ -208,16 +368,18 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>1つ後方へ</string>
 < 	<string>Back One</string>
 > 	<string>1つ後方へ</string>
+< 	<string>Baseline Grid</string>
+> 	<string>ベースライングリッド</string>
 < 	<string>Before / After</string>
 > 	<string>前 / 後</string>
 < 	<string>Before</string>
 > 	<string>前</string>
-< 	<string>Brush</string>
-> 	<string>ブラシ</string>
 < 	<string>Cancel</string>
 > 	<string>キャンセル</string>
 < 	<string>Check out some of the cool artwork being created in Affinity Designer! Why not share your work with us?
 > 	<string>Affinity Designerで作成されているすばらしいアートワークのいくつかをご紹介しています。あなたの作品を共有してみませんか?
+< 	<string>Check out some of the cool layouts being created in Affinity Publisher! Why not share your work with us?
+> 	<string>Affinity Publisherで作成されているすばらしいレイアウトのいくつかをご紹介しています。あなたの作品を共有してみませんか?
 < 	<string>Choose the flow of the brush</string>
 > 	<string>ブラシの流量を選択します</string>
 < 	<string>Choose the hardness of the brush</string>
@@ -236,22 +398,28 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>クリック</string>
 < 	<string>Clipping Alarms</string>
 > 	<string>クリッピングアラーム</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine toolbar button</string>
-> 	<string>合成ツールバーボタン</string>
+< 	<string>Create Into Grid Plane</string>
+> 	<string>グリッドプレーン内に作成</string>
+< 	<string>Create Into Grid Plane</string>
+> 	<string>グリッドプレーン内に作成</string>
 < 	<string>Create a new document by pressing 'New Document' below - or open existing work using File -&gt; Open. Click a sample below to download and view it. Visit our forum or tag with #madeinaffinity in the usual places. We'd love to see what you're up to...</string>
 > 	<string>下の[新規ドキュメント]を押してドキュメントを新規作成するか、[ファイル] -&gt; [開く]から既存のドキュメントを開いてください。下のサンプルをクリックするとダウンロードして参照できます。フォーラムに参加したり、SNSで#madeinaffinityのタグを付けて作品を投稿してください。ご参加をお待ちしています。</string>
+< 	<string>Cycle Selection Box</string>
+> 	<string>サイクル選択ボックス</string>
 < 	<string>Cycle Snapping Planes</string>
 > 	<string>スナップ面の切り替え</string>
 < 	<string>Cycle View Mode</string>
 > 	<string>サイクルビューモード</string>
 < 	<string>Defaults</string>
 > 	<string>デフォルト</string>
+< 	<string>Delete Column</string>
+> 	<string>列を削除</string>
+< 	<string>Delete Column(s)</string>
+> 	<string>列を削除</string>
+< 	<string>Delete Row</string>
+> 	<string>行を削除</string>
+< 	<string>Delete Row(s)</string>
+> 	<string>行を削除</string>
 < 	<string>Desaturate</string>
 > 	<string>彩度を下げる</string>
 < 	<string>Deselect</string>
@@ -316,30 +484,46 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>除算</string>
 < 	<string>Divide</string>
 > 	<string>除算</string>
-< 	<string>Divide toolbar button</string>
-> 	<string>除算ツールバーボタン</string>
+< 	<string>Divide</string>
+> 	<string>除算</string>
 < 	<string>Drag</string>
 > 	<string>ドラッグ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw</string>
-> 	<string>描画</string>
+< 	<string>Edit Field...</string>
+> 	<string>フィールドを編集...</string>
+< 	<string>Edit Grid Origin</string>
+> 	<string>グリッド起点を編集</string>
+< 	<string>Edit Grid Origin and Axis</string>
+> 	<string>グリッド起点および軸を編集</string>
+< 	<string>Edit Grid</string>
+> 	<string>グリッドを編集</string>
+< 	<string>Edit Grid</string>
+> 	<string>グリッドを編集</string>
+< 	<string>Edit In Grid Plane</string>
+> 	<string>グリッドプレーンで編集</string>
+< 	<string>Edit In Grid Plane</string>
+> 	<string>グリッドプレーンで編集</string>
+< 	<string>Edit Wrap Outline</string>
+> 	<string>回り込みアウトラインを編集</string>
+< 	<string>Edit Wrap Outline</string>
+> 	<string>回り込みアウトラインを編集</string>
 < 	<string>Enabling "Save With History" means that anybody you send this document to can see everything you did to create it.
 > 	<string>"履歴付きで保存"を有効にすると、このドキュメントを受け取ったすべてのユーザーは、このドキュメントの作成のために実行されたすべての操作を確認できます。
 < 	<string>Enhancement</string>
 > 	<string>強調</string>
 < 	<string>Enter a name for the snapshot</string>
 > 	<string>スナップショットの名前を入力します</string>
+< 	<string>Evenly Distribute Columns</string>
+> 	<string>列を均等配置</string>
+< 	<string>Evenly Distribute Rows</string>
+> 	<string>行を均等配置</string>
+< 	<string>Expand Field</string>
+> 	<string>フィールドを拡大</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export</string>
 > 	<string>書き出し</string>
 < 	<string>Fade %@…</string>
@@ -348,6 +532,20 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>フェード…</string>
 < 	<string>Featured Work
 > 	<string>注目の作品
+< 	<string>Find in Layers Panel</string>
+> 	<string>レイヤーパネルで検索</string>
+< 	<string>Fit To Plane</string>
+> 	<string>プレーンに合わせる</string>
+< 	<string>Fit To Plane</string>
+> 	<string>プレーンに合わせる</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>左右反転</string>
 < 	<string>Flip Horizontal</string>
@@ -356,6 +554,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>左右反転</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>左右反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
 < 	<string>Flip Vertical</string>
 > 	<string>上下反転</string>
 < 	<string>Flip Vertical</string>
@@ -378,12 +584,12 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>1つ前方へ</string>
 < 	<string>Geometry</string>
 > 	<string>ジオメトリ</string>
+< 	<string>Grid Options</string>
+> 	<string>グリッドオプション</string>
 < 	<string>HSL Saturation</string>
 > 	<string>HSL彩度</string>
 < 	<string>Hardness:</string>
 > 	<string>硬さ:</string>
-< 	<string>High Frequency</string>
-> 	<string>高周波数</string>
 < 	<string>Hold</string>
 > 	<string>ホールド</string>
 < 	<string>Ignore Spelling</string>
@@ -394,8 +600,12 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>修復ミッシングエリア</string>
 < 	<string>Insert Behind</string>
 > 	<string>後方に挿入</string>
+< 	<string>Insert Column</string>
+> 	<string>列を挿入</string>
 < 	<string>Insert Inside</string>
 > 	<string>内側に挿入</string>
+< 	<string>Insert Row</string>
+> 	<string>行を挿入</string>
 < 	<string>Insert Top</string>
 > 	<string>最上位に挿入</string>
 < 	<string>Insert at the top of the layer</string>
@@ -412,8 +622,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>交差</string>
 < 	<string>Intersect</string>
 > 	<string>交差</string>
-< 	<string>Intersect toolbar button</string>
-> 	<string>交差ツールバーボタン</string>
+< 	<string>Intersect</string>
+> 	<string>交差</string>
 < 	<string>Invert Mask</string>
 > 	<string>マスクを反転</string>
 < 	<string>Invert Selection</string>
@@ -434,8 +644,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>スペルを学習</string>
 < 	<string>Library Persona</string>
 > 	<string>ライブラリペルソナ</string>
-< 	<string>Library</string>
-> 	<string>ライブラリ</string>
 < 	<string>Liquify Persona</string>
 > 	<string>ゆがみペルソナ</string>
 < 	<string>Liquify Persona</string>
@@ -448,12 +656,12 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>メッシュを読み込む</string>
 < 	<string>Look Up "%@"</string>
 > 	<string>"%@"を検索</string>
-< 	<string>Low Frequency</string>
-> 	<string>低周波数</string>
 < 	<string>Mask All</string>
 > 	<string>すべてマスク</string>
 < 	<string>Mask</string>
 > 	<string>マスク</string>
+< 	<string>Merge Cells</string>
+> 	<string>セルを結合</string>
 < 	<string>Mesh</string>
 > 	<string>メッシュ</string>
 < 	<string>Mirror</string>
@@ -524,6 +732,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>写真ペルソナ</string>
 < 	<string>Photo Persona</string>
 > 	<string>写真ペルソナ</string>
+< 	<string>Photo Persona.</string>
+> 	<string>写真ペルソナ。</string>
 < 	<string>Photo</string>
 > 	<string>写真</string>
 < 	<string>Pixel Align</string>
@@ -540,6 +750,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>Pixel表示モード</string>
 < 	<string>Pixels</string>
 > 	<string>ピクセル</string>
+< 	<string>Planar Editing</string>
+> 	<string>平面の編集</string>
 < 	<string>Please either commit or cancel the develop operation before switching to another Persona.</string>
 > 	<string>現像操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
 < 	<string>Please either commit or cancel the develop operation before switching to another Persona.</string>
@@ -566,8 +778,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>%@をリピート</string>
 < 	<string>Reset Mesh</string>
 > 	<string>メッシュをリセット</string>
-< 	<string>Reset Selection Box</string>
-> 	<string>選択ボックスをリセット</string>
+< 	<string>Reset Wrap Outline</string>
+> 	<string>回り込みアウトラインをリセット</string>
+< 	<string>Reset Wrap Outline</string>
+> 	<string>回り込みアウトラインをリセット</string>
 < 	<string>Retina Pixels</string>
 > 	<string>Retinaピクセル</string>
 < 	<string>Retina pixel view mode</string>
@@ -578,6 +792,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>デフォルト設定を復元</string>
 < 	<string>Revert defaults</string>
 > 	<string>元のデフォルト設定に戻す</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
 > 	<string>反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
@@ -586,6 +808,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
 > 	<string>反時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
 < 	<string>Rotate Clockwise</string>
 > 	<string>時計回りに回転</string>
 < 	<string>Rotate Clockwise</string>
@@ -616,12 +846,16 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>最背面に送る</string>
 < 	<string>Send to Back</string>
 > 	<string>最背面に送る</string>
+< 	<string>Separate Cells</string>
+> 	<string>セルを分離</string>
 < 	<string>Set Fill None</string>
 > 	<string>塗りつぶしをなしに設定</string>
 < 	<string>Set Fill to 50% Grey</string>
 > 	<string>塗りつぶしを50%グレーに設定</string>
 < 	<string>Set Fill to Black and White</string>
 > 	<string>塗りつぶしを白黒に設定</string>
+< 	<string>Show Baseline Grid Manager</string>
+> 	<string>ベースライングリッドマネージャーを表示</string>
 < 	<string>Show Clipped Highlights</string>
 > 	<string>クリップされたハイライトを表示</string>
 < 	<string>Show Clipped Highlights</string>
@@ -640,6 +874,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>クリップされた色調を表示</string>
 < 	<string>Show Clipped Tones</string>
 > 	<string>クリップされた色調を表示</string>
+< 	<string>Show Text Wrap Settings</string>
+> 	<string>テキストの回り込み設定を表示</string>
+< 	<string>Show Text Wrap Settings</string>
+> 	<string>テキストの回り込み設定を表示</string>
 < 	<string>Snapping Options</string>
 > 	<string>スナップオプション</string>
 < 	<string>Snapping Options</string>
@@ -650,6 +888,18 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>スナップ</string>
 < 	<string>Snapping</string>
 > 	<string>スナップ</string>
+< 	<string>Sort Ascending</string>
+> 	<string>昇順に並べ替え</string>
+< 	<string>Sort Descending</string>
+> 	<string>降順に並べ替え</string>
+< 	<string>Sort by Column Ascending</string>
+> 	<string>列を昇順に並べ替え</string>
+< 	<string>Sort by Column Descending</string>
+> 	<string>列を降順に並べ替え</string>
+< 	<string>Sort by Row Ascending</string>
+> 	<string>行を昇順に並べ替え</string>
+< 	<string>Sort by Row Descending</string>
+> 	<string>行を降順に並べ替え</string>
 < 	<string>Space Horizontally</string>
 > 	<string>水平方向に等間隔配置</string>
 < 	<string>Space Horizontally</string>
@@ -679,9 +929,9 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 < 	<string>Subtract</string>
 > 	<string>減算</string>
 < 	<string>Subtract</string>
+> 	<string>減算</string>
+< 	<string>Subtract</string>
 > 	<string>除外</string>
-< 	<string>Subtract toolbar button</string>
-> 	<string>減算ツールバーボタン</string>
 < 	<string>Swap Line and Fill</string>
 > 	<string>線と塗りつぶしを入れ換え</string>
 < 	<string>Swap</string>
@@ -704,6 +954,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>選択範囲のデフォルト設定を同期</string>
 < 	<string>The mesh warp tool requires a selected layer to warp.</string>
 > 	<string>メッシュワープツールを使用するには、ワープ処理を行うレイヤーが選択されている必要があります。</string>
+< 	<string>This feature is disabled until later in the Publisher Beta.</string>
+> 	<string>この機能はPublisherのベータ版で今後有効になる予定です。</string>
 < 	<string>Toggle 32-bit Preview Panel</string>
 > 	<string>32ビットプレビューパネルを切り替え</string>
 < 	<string>Toggle Adjustment Panel</string>
@@ -748,16 +1000,36 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>レイヤのエクスポートパネルを切り替え</string>
 < 	<string>Toggle Export Options Panel</string>
 > 	<string>エクスポートオプションパネルを切り替え</string>
+< 	<string>Toggle Fields Panel</string>
+> 	<string>フィールドパネルを切り替え</string>
 < 	<string>Toggle Fill Context</string>
 > 	<string>塗りつぶしコンテキストの切り替え</string>
+< 	<string>Toggle Find and Replace Panel</string>
+> 	<string>検索および置換パネルの切り替え</string>
 < 	<string>Toggle Frequency Layer</string>
 > 	<string>周波数レイヤーの切り替え</string>
+< 	<string>Toggle GPU Panel</string>
+> 	<string>GPUパネルを切り替え</string>
 < 	<string>Toggle Glyph Browser Panel</string>
 > 	<string>グリフブラウザパネルを切り替え</string>
+< 	<string>Toggle Grid Editing</string>
+> 	<string>グリッド編集の切り替え</string>
+< 	<string>Toggle Grid Editing</string>
+> 	<string>グリッド編集の切り替え</string>
+< 	<string>Toggle Grid Origin Editing</string>
+> 	<string>グリッド起点編集の切り替え</string>
+< 	<string>Toggle Grid Origin and Axis Editing</string>
+> 	<string>グリッド起点および軸編集の切り替え</string>
+< 	<string>Toggle Guides Editing</string>
+> 	<string>ガイド編集の切り替え</string>
+< 	<string>Toggle Guides Editing</string>
+> 	<string>ガイド編集の切り替え</string>
 < 	<string>Toggle Histogram Panel</string>
 > 	<string>ヒストグラムパネルを切り替え</string>
 < 	<string>Toggle History Panel</string>
 > 	<string>履歴パネルを切り替え</string>
+< 	<string>Toggle Index Panel</string>
+> 	<string>インデックスパネルを切り替え</string>
 < 	<string>Toggle Information Panel</string>
 > 	<string>情報パネルを切り替え</string>
 < 	<string>Toggle Layers Panel</string>
@@ -776,12 +1048,18 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>マクロパネルを切り替え</string>
 < 	<string>Toggle Navigator Panel</string>
 > 	<string>ナビゲータパネルを切り替え</string>
+< 	<string>Toggle Pages Panel</string>
+> 	<string>ページパネルを切り替え</string>
 < 	<string>Toggle Paragraph Panel</string>
 > 	<string>段落パネルを切り替え</string>
 < 	<string>Toggle Quick Mask [Q]</string>
 > 	<string>クイックマスクを切り替え[Q]</string>
 < 	<string>Toggle Quick Mask [Q]</string>
 > 	<string>クイックマスクを切り替え[Q]</string>
+< 	<string>Toggle Ruler Origin Editing</string>
+> 	<string>ルーラー起点編集の切り替え</string>
+< 	<string>Toggle Ruler Origin Editing</string>
+> 	<string>ルーラー起点編集の切り替え</string>
 < 	<string>Toggle Scope Panel</string>
 > 	<string>スコープパネルを切り替え</string>
 < 	<string>Toggle Slices Panel</string>
@@ -802,6 +1080,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>見本パネルを切り替え</string>
 < 	<string>Toggle Symbol Panel</string>
 > 	<string>シンボルパネルを切り替え</string>
+< 	<string>Toggle Table Format Panel</string>
+> 	<string>テーブルフォーマットパネルを切り替え</string>
+< 	<string>Toggle Table Panel</string>
+> 	<string>テーブルパネルを切り替え</string>
+< 	<string>Toggle Table of Contents Panel</string>
+> 	<string>目次パネルを切り替え</string>
+< 	<string>Toggle Text Frame Panel</string>
+> 	<string>テキストフレームパネルを切り替え</string>
 < 	<string>Toggle Text Styles Panel</string>
 > 	<string>テキストスタイルパネルを切り替え</string>
 < 	<string>Toggle Tone Map Overlays Panel</string>
@@ -812,6 +1098,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>トーンマッププリセットパネルを切り替え</string>
 < 	<string>Toggle Transform Panel</string>
 > 	<string>変換パネルを切り替え</string>
+< 	<string>Toggle Unicode Character</string>
+> 	<string>Unicode文字の切り替え</string>
 < 	<string>Tonal Range:</string>
 > 	<string>階調範囲:</string>
 < 	<string>Tone Mapping Persona</string>
@@ -822,16 +1110,24 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>トーンマッピングペルソナ</string>
 < 	<string>Tone Mapping</string>
 > 	<string>トーンマッピング</string>
+< 	<string>Tool Options</string>
+> 	<string>ツールオプション</string>
 < 	<string>Transform</string>
 > 	<string>変換</string>
 < 	<string>Unignore Spelling "%@"</string>
 > 	<string>スペル"%@"の無視を解除</string>
-< 	<string>Union</string>
-> 	<string>和</string>
-< 	<string>Union toolbar button</string>
-> 	<string>結合ツールバーボタン</string>
 < 	<string>Unlearn Spelling "%@"</string>
 > 	<string>スペル"%@"の学習を解除</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona</string>
+> 	<string>ベクトルペルソナ</string>
+< 	<string>Vector Persona.</string>
+> 	<string>ベクトルペルソナ。</string>
+< 	<string>Vector</string>
+> 	<string>ベクトル</string>
 < 	<string>Vibrance</string>
 > 	<string>自然な彩度</string>
 < 	<string>View Mode</string>
@@ -842,13 +1138,23 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>幅:</string>
 < 	<string>Width:</string>
 > 	<string>幅:</string>
+< 	<string>Wrapping</string>
+> 	<string>回り込み</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
 < 	<string>Yes</string>
 > 	<string>はい</string>
 < 	<string>Zoom In</string>
 > 	<string>ズームイン</string>
 < 	<string>Zoom Out</string>
 > 	<string>ズームアウト</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDesignerExport.nib /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/MainMenuDesignerExport.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuDesignerExport.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/MainMenuDesignerExport.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -977,14 +1283,18 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDes
 > 		<string>選択解除</string>
 < 		<string>Rotate Right</string>
 > 		<string>右に回転</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Pixels (Retina)</string>
 > 		<string>ピクセル(Retina)</string>
 < 		<string>Zoom to Selection</string>
 > 		<string>選択範囲を拡大</string>
 < 		<string>Select Previous</string>
 > 		<string>前の要素を選択</string>
-< 		<string>Draw Persona</string>
-> 		<string>描画ペルソナ</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
+< 		<string>Vector Persona</string>
+> 		<string>ベクトルペルソナ</string>
 < 		<string>Support...</string>
 > 		<string>サポート...</string>
 < 		<string>Clip to Canvas</string>
@@ -1023,6 +1333,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDes
 < 		<string>View</string>
 > 		<string>ビュー</string>
 > 		<string>ビュー</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 < 		<string>View Mode</string>
 > 		<string>ビューモード</string>
 > 		<string>ビューモード</string>
@@ -1039,7 +1351,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDes
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPixel.nib /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/MainMenuPixel.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuPixel.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/MainMenuPixel.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -1090,8 +1402,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>削除</string>
 < 		<string>Save As…</string>
 > 		<string>別名で保存…</string>
-< 		<string>Edit in Photo…</string>
-> 		<string>Photoで編集…</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
 < 		<string>Document Setup…</string>
@@ -1146,14 +1456,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>アシスタントマネージャー…</string>
 < 		<string>Vector</string>
 > 		<string>ベクター</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Show Rulers</string>
 > 		<string>ルーラーを表示</string>
 < 		<string>Outline…</string>
 > 		<string>アウトライン…</string>
 < 		<string>Select Highlights</string>
 > 		<string>ハイライトを選択</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photoで編集…</string>
 < 		<string>Move Back One</string>
 > 		<string>背面へ</string>
 < 		<string>Create Compound</string>
@@ -1208,7 +1518,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>Unlock All</string>
 > 		<string>すべてロック解除</string>
 < 		<string>Export Persona</string>
-> 		<string>ペルソナを書き出し</string>
+> 		<string>書き出しペルソナ</string>
 < 		<string>Rotate Left</string>
 > 		<string>左に回転</string>
 < 		<string>Intersect</string>
@@ -1257,6 +1567,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>露出</string>
 < 		<string>Select Midtones</string>
 > 		<string>中間調部を選択</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Invert Pixel Selection</string>
 > 		<string>ピクセル選択範囲を反転</string>
 < 		<string>Reset Rotation</string>
@@ -1285,12 +1599,16 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>しきい値</string>
 < 		<string>New Layer</string>
 > 		<string>新規レイヤー</string>
-< 		<string>Draw Persona</string>
-> 		<string>描画ペルソナ</string>
+< 		<string>Vector Persona</string>
+> 		<string>ベクトルペルソナ</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
 < 		<string>Select Shadows</string>
 > 		<string>シャドウを選択</string>
 < 		<string>Paste Without Format</string>
 > 		<string>書式を解除してペースト</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>キャンバスにクリップ</string>
 < 		<string>Space Vertically</string>
@@ -1323,6 +1641,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>ホワイトバランス</string>
 < 		<string>Rasterise to Mask</string>
 > 		<string>マスクにラスタライズ</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>Combine</string>
 > 		<string>合成</string>
 < 		<string>Show</string>
@@ -1340,7 +1660,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>Move Forward One</string>
 > 		<string>前面へ</string>
 < 		<string>Reveal in Finder</string>
-> 		<string>ファインダーで表示</string>
+> 		<string>Finderで表示</string>
 < 		<string>Selective Colour</string>
 > 		<string>特定色域</string>
 < 		<string>Move to Next View Point</string>
@@ -1349,6 +1669,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>拡大 / 縮小…</string>
 < 		<string>Ungroup All</string>
 > 		<string>すべてグループ解除</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
 < 		<string>Channel Mixer</string>
 > 		<string>チャンネルミキサー</string>
 < 		<string>Black &amp; White</string>
@@ -1372,6 +1694,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>次の要素を選択</string>
 < 		<string>Levels</string>
 > 		<string>レベル</string>
+< 		<string>Edit In Designer…</string>
+> 		<string>Designerで編集…</string>
 < 		<string>Select Blues</string>
 > 		<string>青色を選択</string>
 < 		<string>MainMenu</string>
@@ -1422,6 +1746,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 < 		<string>View Mode</string>
 > 		<string>表示モード</string>
 > 		<string>表示モード</string>
@@ -1438,7 +1764,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>Debug</string>
 > 		<string>デバッグ</string>
 > 		<string>デバッグ</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVector.nib /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/MainMenuVector.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMenuVector.nib /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/MainMenuVector.nib
 < 		<string>Open Recent</string>
 > 		<string>最近使用したファイルを開く</string>
 < 		<string>Clear Menu</string>
@@ -1491,8 +1817,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>削除</string>
 < 		<string>Save As…</string>
 > 		<string>別名で保存...</string>
-< 		<string>Edit in Photo…</string>
-> 		<string>Photoで編集…</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
 < 		<string>Document Setup…</string>
@@ -1509,8 +1833,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>ツールバーをカスタマイズ…</string>
 < 		<string>Show Toolbar</string>
 > 		<string>ツールバーを表示</string>
-< 		<string>Affinity Designer Help</string>
-> 		<string>Affinity Designerのヘルプ</string>
+< 		<string>${PRODUCT_NAME} Help</string>
+> 		<string>${PRODUCT_NAME}ヘルプ</string>
 < 		<string>Ungroup</string>
 > 		<string>グループ解除</string>
 < 		<string>Group</string>
@@ -1587,8 +1911,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>ワインディング(非ゼロ)</string>
 < 		<string>Show Character</string>
 > 		<string>文字を表示</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Show Rulers</string>
 > 		<string>ルーラーを表示</string>
 < 		<string>Apple Colour Picker...</string>
@@ -1601,7 +1923,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>半角スペース</string>
 < 		<string>Non-Breaking Hyphen</string>
 > 		<string>分散禁止ハイフン</string>
-< 		<string>Zero Width Space</string>
+< 		<string>Zero-Width Space</string>
 > 		<string>幅ゼロのスペース</string>
 < 		<string>Soft Hyphen</string>
 > 		<string>ソフトハイフン</string>
@@ -1627,6 +1949,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>内側にペースト</string>
 < 		<string>Crash</string>
 > 		<string>クラッシュ</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photoで編集…</string>
 < 		<string>Unlock All</string>
 > 		<string>すべてロック解除</string>
 < 		<string>Recolour</string>
@@ -1641,10 +1965,16 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>打消し線</string>
 < 		<string>Precise Bigger</string>
 > 		<string>厳密な拡大</string>
+< 		<string>Spread Setup…</string>
+> 		<string>スプレッド設定…</string>
 < 		<string>Flip Vertical</string>
 > 		<string>上下反転</string>
+< 		<string>Layout Persona</string>
+> 		<string>レイアウトペルソナ</string>
 < 		<string>Show Glyph Browser</string>
 > 		<string>グリフブラウザを表示</string>
+< 		<string>Show Column Guides</string>
+> 		<string>列ガイドを表示</string>
 < 		<string>Synchronise from Selection</string>
 > 		<string>選択範囲から同期</string>
 < 		<string>Show Context Toolbar</string>
@@ -1717,6 +2047,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>明るさ / コントラスト</string>
 < 		<string>Split Toning</string>
 > 		<string>明暗別色補正</string>
+< 		<string>Photo Persona</string>
+> 		<string>写真ペルソナ</string>
 > 		<string>なし</string>
 < 		<string>Welcome...</string>
 > 		<string>ようこそ...</string>
@@ -1749,6 +2081,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>グラデーションマップ</string>
 < 		<string>Guides Manager…</string>
 > 		<string>ガイドマネージャー…</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>Exposure</string>
 > 		<string>露出</string>
 < 		<string>Raise Baseline</string>
@@ -1770,7 +2104,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Bigger</string>
 > 		<string>拡大</string>
 < 		<string>Export Persona</string>
-> 		<string>ペルソナを書き出し</string>
+> 		<string>書き出しペルソナ</string>
 < 		<string>Support...</string>
 > 		<string>サポート...</string>
 < 		<string>Toggle UI</string>
@@ -1781,12 +2115,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>アプリスクリーン上</string>
 < 		<string>Reapply Text Styles</string>
 > 		<string>テキストスタイルを再適用</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
 < 		<string>Show Paragraph</string>
 > 		<string>段落を表示</string>
 < 		<string>Distribute Vertically</string>
 > 		<string>垂直方向に均等配置</string>
 < 		<string>Reveal in Finder</string>
-> 		<string>ファインダーで表示</string>
+> 		<string>Finderで表示</string>
 < 		<string>Move to Next View Point</string>
 > 		<string>次のビューポイントに移動</string>
 < 		<string>Invert</string>
@@ -1844,6 +2180,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>ドキュメントに関する履歴を保存</string>
 < 		<string>Layer Effects…</string>
 > 		<string>レイヤーエフェクト…</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
 < 		<string>Align Middle</string>
 > 		<string>上下中央揃え</string>
 < 		<string>Add</string>
@@ -1862,6 +2200,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>ホワイトバランス</string>
 < 		<string>Move to Previous View Point</string>
 > 		<string>以前のビューポイントに移動</string>
+< 		<string>Edit In Designer…</string>
+> 		<string>Designerで編集…</string>
 < 		<string>Combine</string>
 > 		<string>合成</string>
 < 		<string>Show Text Styles</string>
@@ -1888,6 +2228,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>出荷時の設定にリセット</string>
 < 		<string>Em Dash</string>
 > 		<string>全角ダッシュ</string>
+< 		<string>Show Bleed</string>
+> 		<string>にじみを表示</string>
 < 		<string>Find in Layers Panel</string>
 > 		<string>レイヤーパネルで検索</string>
 < 		<string>Rotate Left</string>
@@ -1909,6 +2251,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>片側</string>
 < 		<string>Selective Colour</string>
 > 		<string>特定色域</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
 < 		<string>Ungroup All</string>
 > 		<string>すべてグループ解除</string>
 < 		<string>Show Tools</string>
@@ -1932,6 +2278,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>アウトライン</string>
 < 		<string>Actual Size</string>
 > 		<string>実寸</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Precise Increase</string>
 > 		<string>厳密な拡大</string>
 < 		<string>Always Show Selection in Layers Panel </string>
@@ -1993,6 +2341,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Paragraph Leading</string>
 > 		<string>段落の行間</string>
 > 		<string>段落の行間</string>
+< 		<string>Vertical Alignment</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+> 		<string>垂直方向揃え</string>
 < 		<string>Text Styles</string>
 < 		<string>Text Styles</string>
 > 		<string>テキストスタイル</string>
@@ -2001,10 +2353,6 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Insert Character</string>
 > 		<string>文字を挿入</string>
 > 		<string>文字を挿入</string>
-< 		<string>Vertical Alignment</string>
-< 		<string>Vertical Alignment</string>
-> 		<string>垂直方向揃え</string>
-> 		<string>垂直方向揃え</string>
 < 		<string>Spelling</string>
 > 		<string>スペル設定</string>
 > 		<string>スペル設定</string>
@@ -2038,6 +2386,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 < 		<string>View Mode</string>
 > 		<string>表示モード</string>
 > 		<string>表示モード</string>
@@ -2061,8 +2411,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Text Wrap</string>
 > 		<string>テキストの回り込み</string>
 > 		<string>テキストの回り込み</string>
-Only in /Applications/Affinity Designer.app/Contents/Resources/en.lproj/: Startup.nib
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/assets.strings
+Only in /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/: Startup.nib
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/assets.strings
 < 	<string>Accept</string>
 > 	<string>承諾</string>
 < 	<string>Activity</string>
@@ -2289,7 +2639,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.stri
 > 	<string>徒歩</string>
 < 	<string>Windows</string>
 > 	<string>ウィンドウ</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/fills.strings
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/fills.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/fills.strings
 < 	<string>Black</string>
 > 	<string>黒</string>
 < 	<string>Black 10%</string>
@@ -2346,47 +2696,97 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/fills.strin
 > 	<string>白から黒</string>
 < 	<string>White to transparent</string>
 > 	<string>白から透明</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/objectstyles.strings
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/objectstyles.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/objectstyles.strings
+< 	<string>80s Disco</string>
+< 	<string>80s Gel Shine</string>
+< 	<string>80s Poster Shine</string>
+< 	<string>Aluminium</string>
+< 	<string>Bloodpool</string>
+< 	<string>Dark Blue</string>
 < 	<string>Default</string>
+< 	<string>Frost</string>
+< 	<string>Gel</string>
+< 	<string>Gold Art Deco</string>
+< 	<string>Gold Art Deco 2</string>
+< 	<string>Gold Black</string>
+< 	<string>Gold Rust</string>
+< 	<string>Gold Rust Shine</string>
+< 	<string>Metal Sharp</string>
+< 	<string>Metal White Sharp</string>
+< 	<string>Neon</string>
+< 	<string>Night Out</string>
+< 	<string>Plastic Glitter</string>
+< 	<string>Plexi</string>
+< 	<string>Plexi Gel</string>
+< 	<string>Retro Elegant</string>
+< 	<string>Retro Style Plain</string>
+< 	<string>Strange</string>
+< 	<string>Strange 2</string>
 > 	<string>デフォルト</string>
-< 	<string>Glass</string>
 > 	<string>ガラス</string>
-< 	<string>Metal</string>
 > 	<string>メタル</string>
-< 	<string>Onyx</string>
 > 	<string>漆黒</string>
-< 	<string>Rainbow</string>
 > 	<string>虹</string>
-< 	<string>Salmon</string>
 > 	<string>サーモン</string>
-< 	<string>Style</string>
-> 	<string>スタイル</string>
-< 	<string>Sunset</string>
 > 	<string>夕焼け</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/raster_brushes.strings
-< 	<string>Airbrush</string>
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/raster_brushes.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/raster_brushes.strings
+< 	<string>Airbrush 1</string>
+< 	<string>Airbrush 2</string>
+< 	<string>Airbrush 3</string>
+< 	<string>Airbrush 4</string>
+< 	<string>Airbrush 5</string>
+< 	<string>Airbrush 6</string>
+< 	<string>Airbrush 7</string>
+< 	<string>Airbrush 8</string>
+< 	<string>Almost Dry Roll</string>
+< 	<string>Ballpoint Pen</string>
 > 	<string>エアーブラシ</string>
-< 	<string>Assorted</string>
 > 	<string>アソート</string>
 < 	<string>Basic</string>
+< 	<string>Binary Inker One</string>
+< 	<string>Binary Inker Two</string>
+< 	<string>Bleeding Felt Pen</string>
+< 	<string>Bleeding Ink</string>
+< 	<string>Broken Bristles Oil</string>
+< 	<string>Broken Bristles Oil - Glazing</string>
+< 	<string>Broken Bristles Oil - Textured</string>
+< 	<string>Broken Chilsel Pen</string>
+< 	<string>Broken Chisel Felt Pen</string>
+< 	<string>Broken Round Felt Pen</string>
 > 	<string>基本</string>
 < 	<string>Brush 1</string>
 > 	<string>ブラシ1</string>
 < 	<string>Brush 2</string>
 > 	<string>ブラシ2</string>
-< 	<string>Brush 3</string>
 > 	<string>ブラシ3</string>
-< 	<string>Brush 4</string>
 > 	<string>ブラシ4</string>
-< 	<string>Brush 5</string>
 > 	<string>ブラシ5</string>
-< 	<string>Brush 6</string>
 > 	<string>ブラシ6</string>
 < 	<string>Brush 7</string>
 > 	<string>ブラシ7</string>
 < 	<string>Brush 8</string>
+< 	<string>Brush Pen</string>
+< 	<string>Brush Tip Marker</string>
+< 	<string>Calligraphic Marker</string>
+< 	<string>Calligraphic Pen 01</string>
+< 	<string>Calligraphic Pen 02</string>
+< 	<string>Carbon Copy</string>
+< 	<string>Carpenter's Pencil</string>
+< 	<string>Chalkboard Tool</string>
+< 	<string>Chalks and Pastels</string>
+< 	<string>Childish Pastel</string>
+< 	<string>Chisel Shaped Wash</string>
+< 	<string>Chisel Tip Marker</string>
+< 	<string>Classic Chisel Felt Pen</string>
+< 	<string>Comics Ink Pen</string>
+< 	<string>Conte Crayon</string>
+< 	<string>Dense Fibers Oil</string>
+< 	<string>Dense India Ink</string>
+< 	<string>Dense Oil Textured</string>
+< 	<string>Dense Wash</string>
+< 	<string>Dense Watercolour</string>
+< 	<string>Diluted Grainy</string>
 > 	<string>ブラシ8</string>
-< 	<string>Drawing</string>
 > 	<string>描画</string>
 < 	<string>Drawing 1</string>
 > 	<string>描画1</string>
@@ -2399,10 +2799,16 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brus
 < 	<string>Drawing 5</string>
 > 	<string>描画5</string>
 < 	<string>Drawing 6</string>
+< 	<string>Dripping Ink Pen</string>
+< 	<string>Dry Flat Gouache</string>
+< 	<string>Dry India Ink</string>
+< 	<string>Dynamic Hard Watercolour</string>
+< 	<string>Dynamic India Ink</string>
+< 	<string>Dynamic Soft Watercolour</string>
+< 	<string>Dynamic Square Chalk</string>
 > 	<string>描画6</string>
 < 	<string>Effect 4</string>
 > 	<string>エフェクト4</string>
-< 	<string>Effect Brush</string>
 > 	<string>エフェクトブラシ</string>
 < 	<string>Effects</string>
 > 	<string>エフェクト</string>
@@ -2411,6 +2817,32 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brus
 < 	<string>Effects 2</string>
 > 	<string>エフェクト2</string>
 < 	<string>Effects 3</string>
+< 	<string>Exhausted Marker</string>
+< 	<string>Fat Gouache on Canvas</string>
+< 	<string>Fine Fibers</string>
+< 	<string>Fine Fibers Oil</string>
+< 	<string>Fine Gouache</string>
+< 	<string>Fine Gritty Ink</string>
+< 	<string>Fine Spray</string>
+< 	<string>Fine to Wide Smooth</string>
+< 	<string>Fine to Wide Spongy</string>
+< 	<string>Finest Spray Dense</string>
+< 	<string>Finest Spray Rade</string>
+< 	<string>Finest Spray Tilting</string>
+< 	<string>Fluid Chisel Tip</string>
+< 	<string>Fluid Ink Textured</string>
+< 	<string>Fluid Quill</string>
+< 	<string>Gouache On Paper</string>
+< 	<string>Gouache on Canvas</string>
+< 	<string>Gouaches</string>
+< 	<string>Gradual Acrylic Cotton Paper</string>
+< 	<string>Gradual Acrylic Sand Paper</string>
+< 	<string>Grainy Acrylic</string>
+< 	<string>Grainy Airbrush</string>
+< 	<string>Grainy Large</string>
+< 	<string>Greasy Pencil</string>
+< 	<string>Gritty Pastel</string>
+< 	<string>Grunge</string>
 > 	<string>エフェクト3</string>
 < 	<string>Grunge 1</string>
 > 	<string>グランジ1</string>
@@ -2429,121 +2861,281 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/raster_brus
 < 	<string>Grunge 8</string>
 > 	<string>グランジ8</string>
 < 	<string>Grunge 9</string>
+< 	<string>India Ink Drops</string>
+< 	<string>Ink Pen Large</string>
+< 	<string>Ink Pen Small</string>
+< 	<string>Ink Spatter</string>
+< 	<string>Ink Spatter Tilting</string>
+< 	<string>Inks</string>
+< 	<string>Large Fibers Oil</string>
+< 	<string>Large Spray</string>
+< 	<string>Large Square Marker</string>
+< 	<string>Large Textured Gouache</string>
+< 	<string>Layout Pencil</string>
+< 	<string>Leaves</string>
+< 	<string>Light Pastel Tilting</string>
+< 	<string>Light Wash</string>
+< 	<string>Low Absorption Bristles</string>
+< 	<string>Markers</string>
+< 	<string>Matte Acrylic</string>
+< 	<string>Mechanical Pencil 4B</string>
+< 	<string>Mechanical Pencil 6B</string>
+< 	<string>Mechanical Pencil H</string>
+< 	<string>Mechanical Pencil HB</string>
+< 	<string>Medium Cover Gouache</string>
+< 	<string>Medium Fibers Oil</string>
+< 	<string>Medium India Ink</string>
+< 	<string>Natural Pencil 2B</string>
+< 	<string>Natural Pencil 4B</string>
+< 	<string>Natural Pencil H</string>
+< 	<string>Natural Pencil HB</string>
+< 	<string>Oil Pastel</string>
+< 	<string>Oils and Acrylics</string>
+< 	<string>Paint Daubs Flat</string>
+< 	<string>Paint Daubs Textured</string>
+< 	<string>Pencils and Charcoal</string>
+< 	<string>Pens</string>
+< 	<string>Procedural Spatter</string>
+< 	<string>Rough Coal</string>
+< 	<string>Rough Graphite Tilting</string>
 > 	<string>グランジ9</string>
-< 	<string>Grunge Brush</string>
 > 	<string>グランジブラシ</string>
-< 	<string>Heavy Paint</string>
 > 	<string>ヘビーペイント</string>
-< 	<string>Light Brush</string>
 > 	<string>ライトブラシ</string>
-< 	<string>Paint 1</string>
 > 	<string>ペイント1</string>
-< 	<string>Paint 10</string>
 > 	<string>ペイント10</string>
-< 	<string>Paint 11</string>
 > 	<string>ペイント11</string>
-< 	<string>Paint 12</string>
 > 	<string>ペイント12</string>
-< 	<string>Paint 13</string>
 > 	<string>ペイント13</string>
-< 	<string>Paint 14</string>
 > 	<string>ペイント14</string>
-< 	<string>Paint 15</string>
 > 	<string>ペイント15</string>
-< 	<string>Paint 2</string>
 > 	<string>ペイント2</string>
-< 	<string>Paint 3</string>
 > 	<string>ペイント3</string>
-< 	<string>Paint 4</string>
 > 	<string>ペイント4</string>
-< 	<string>Paint 5</string>
 > 	<string>ペイント5</string>
-< 	<string>Paint 6</string>
 > 	<string>ペイント6</string>
-< 	<string>Paint 7</string>
 > 	<string>ペイント7</string>
-< 	<string>Paint 8</string>
 > 	<string>ペイント8</string>
-< 	<string>Paint 9</string>
 > 	<string>ペイント9</string>
-< 	<string>Paint Brush</string>
 > 	<string>ペイントブラシ</string>
-< 	<string>Painting</string>
 > 	<string>ペインティング</string>
 < 	<string>Round Brush</string>
+< 	<string>Round Chalk</string>
+< 	<string>Round Felt Pen</string>
+< 	<string>Round Fluid Marker</string>
 > 	<string>円形ブラシ</string>
 < 	<string>Round Light Brush</string>
+< 	<string>Round Pastel Tilting Rough</string>
+< 	<string>Round Pastel Tilting Smooth</string>
 > 	<string>円形ライトブラシ</string>
 < 	<string>Round Soft Brush</string>
+< 	<string>Round Textured Gouache</string>
+< 	<string>Scatter Chalk</string>
+< 	<string>Shading Chalk</string>
+< 	<string>Shading Marker</string>
+< 	<string>Simple Pen</string>
+< 	<string>Simple Watercolor</string>
+< 	<string>Slatter 2</string>
+< 	<string>Smooth Blending Acrylic</string>
+< 	<string>Smooth Gouache on Canvas</string>
+< 	<string>Smooth Round</string>
+< 	<string>Smooth Textured Stroke</string>
+< 	<string>Smooth Watercolor</string>
+< 	<string>Splatter 1</string>
+< 	<string>Sprays and Spatters</string>
+< 	<string>Square Chalk</string>
+< 	<string>Square Felt Pen</string>
+< 	<string>Square Marker</string>
+< 	<string>Square Pastel</string>
+< 	<string>Square Pastel Tilting Rough</string>
+< 	<string>Square Pastel Tilting Smooth</string>
+< 	<string>Tapered Dense Gouache</string>
+< 	<string>Tapered Hard</string>
+< 	<string>Tapered Large</string>
+< 	<string>Textured Acrylic</string>
+< 	<string>Tilting Wash</string>
+< 	<string>Tone On Tone</string>
+< 	<string>Variable Felt Pen</string>
+< 	<string>Watercolours</string>
+< 	<string>Watercolours Drops</string>
+< 	<string>Wax Brush</string>
+< 	<string>Wax Pastel</string>
+< 	<string>Wobbling Felt Pen</string>
 > 	<string>円形ソフトブラシ</string>
-< 	<string>Soft Brush</string>
 > 	<string>ソフトブラシ</string>
-< 	<string>Solid Brush</string>
 > 	<string>ソリッドブラシ</string>
-< 	<string>Spray 1</string>
 > 	<string>スプレー1</string>
-< 	<string>Spray 2</string>
 > 	<string>スプレー2</string>
-< 	<string>Spray 3</string>
 > 	<string>スプレー3</string>
-< 	<string>Spray 4</string>
 > 	<string>スプレー4</string>
-< 	<string>Spray 5</string>
 > 	<string>スプレー5</string>
-< 	<string>Spray 6</string>
 > 	<string>スプレー6</string>
-< 	<string>Spray 7</string>
 > 	<string>スプレー7</string>
-< 	<string>Spray 8</string>
 > 	<string>スプレー8</string>
-< 	<string>Spray-paints</string>
 > 	<string>スプレーペイント</string>
-< 	<string>Texture</string>
 > 	<string>テクスチャ</string>
-< 	<string>Texture Brush</string>
 > 	<string>テクスチャブラシ</string>
-diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brushes.strings /Applications/Affinity Designer.app/Contents/Resources/ja.lproj/vector_brushes.strings
-< 	<string>Assorted</string>
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/tool_settings.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/tool_settings.strings
+< 	<string>1 : 1</string>
+< 	<string>1.618 : 1  (Golden ratio)</string>
+< 	<string>1.85 : 1  (Widescreen theatrical)</string>
+< 	<string>10" x 8"  [8R]</string>
+< 	<string>1024 x 768  [XGA]</string>
+< 	<string>105mm x 148mm  [A6]</string>
+< 	<string>11" x 17"  [Tabloid, ANSI B]</string>
+< 	<string>1280 x 1024  [SXGA]</string>
+< 	<string>1280 x 720  [HD 720]</string>
+< 	<string>1280 x 768  [WXGA]</string>
+< 	<string>148mm x 210mm  [A5]</string>
+< 	<string>16 : 10</string>
+< 	<string>16 : 9  (1.77 : 1)</string>
+< 	<string>1920 x 1080  [HD 1080]</string>
+< 	<string>2 : 1</string>
+< 	<string>2.35 : 1  (Anamorphic, pre 1970)</string>
+< 	<string>2.39 : 1  (Anamorphic, post 1970)</string>
+< 	<string>2048 x 1080  [2K]</string>
+< 	<string>210mm x 297mm  [A4]</string>
+< 	<string>297mm x 420mm  [A3]</string>
+< 	<string>3 : 1</string>
+< 	<string>3 : 2  (6 : 4)</string>
+< 	<string>4 : 3  (1.33 : 1)</string>
+< 	<string>4096 x 2160  [4K]</string>
+< 	<string>5 : 4  (10 : 8)</string>
+< 	<string>6" x 4"  [4R]</string>
+< 	<string>640 x 480  [VGA]</string>
+< 	<string>7" x 5"  [5R]</string>
+< 	<string>8" x 6"  [6R]</string>
+< 	<string>8.5" x 11"  [Letter, ANSI A]</string>
+< 	<string>8.5" x 14"  [Legal]</string>
+< 	<string>800 x 600  [SVGA]</string>
+< 	<string>Amount</string>
+< 	<string>Bands</string>
+< 	<string>Bar count</string>
+< 	<string>Basic shapes</string>
+< 	<string>Cell count</string>
+< 	<string>Chequered</string>
+< 	<string>Cinematic ratios</string>
+< 	<string>Coloured patterns</string>
+< 	<string>Common ratios</string>
+< 	<string>Contrast</string>
+> 	<string>Constrast</string>
+< 	<string>Droplets</string>
+< 	<string>Fur</string>
+< 	<string>Graduated random squares</string>
+< 	<string>Harsh</string>
+< 	<string>Height</string>
+< 	<string>ISO paper sizes (@300ppi)</string>
+< 	<string>Inverted</string>
+< 	<string>Lava</string>
+< 	<string>Marble</string>
+< 	<string>Metallic</string>
+< 	<string>Mexico</string>
+< 	<string>Mono swirls</string>
+< 	<string>Monochrome patterns</string>
+< 	<string>Number of squares</string>
+< 	<string>Number of waves</string>
+< 	<string>Octaves</string>
+< 	<string>Offset</string>
+< 	<string>Oils</string>
+< 	<string>Overlapped sine waves</string>
+< 	<string>Perlin Noise</string>
+< 	<string>Persistence</string>
+< 	<string>Photographic paper (@300ppi)</string>
+< 	<string>Ripples</string>
+> 	<string>Perlin Noise with Brightness and Contrast</string>
+< 	<string>Screen sizes</string>
+< 	<string>Separation</string>
+< 	<string>Sine wave</string>
+< 	<string>Smoke</string>
+< 	<string>Smoothed bars</string>
+< 	<string>Smoothed squares</string>
+< 	<string>Smoothing</string>
+< 	<string>Smoothing size</string>
+< 	<string>Square count</string>
+< 	<string>Square count turbulance</string>
+< 	<string>Square size</string>
+< 	<string>Square size turbulance</string>
+< 	<string>Turbulance</string>
+< 	<string>US paper sizes (@300ppi)</string>
+< 	<string>Urban Camoflage</string>
+< 	<string>Wave</string>
+< 	<string>Waves</string>
+< 	<string>Width</string>
+diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/vector_brushes.strings /Applications/Affinity Designer Beta.app/Contents/Resources/ja.lproj/vector_brushes.strings
+< 	<string>Acrylics</string>
 > 	<string>アソート</string>
 < 	<string>Basic</string>
+< 	<string>Basic Dense Acrylic</string>
+< 	<string>Basic Dry Acrylic</string>
+< 	<string>Basic Watercolour 01</string>
+< 	<string>Basic Watercolour 02</string>
+< 	<string>Basic Watercolour 03</string>
+< 	<string>Basic Watercolour 04</string>
+< 	<string>Basic Watercolour 05</string>
+< 	<string>Brush Ink Pen</string>
+< 	<string>Chalk on Canvas</string>
+< 	<string>Chalks and Pastels</string>
+< 	<string>Chisel Marker</string>
+< 	<string>Classic Pencil 2B</string>
+< 	<string>Classic Pencil HB</string>
+< 	<string>Dense Chalk</string>
+< 	<string>Dense Gouache</string>
+< 	<string>Diluted Acrylic Stroke 01</string>
+< 	<string>Diluted Acrylic Stroke 02</string>
+< 	<string>Dry Acrylic Stroke 01</string>
+< 	<string>Dry Acrylic Stroke 02</string>
+< 	<string>Dry and Diluted Gouache</string>
+< 	<string>Fountain Pen Ink</string>
+< 	<string>Gouache Slightly Diluted</string>
+< 	<string>Gradual Watercolour 01</string>
+< 	<string>Gradual Watercolour 02</string>
+< 	<string>Graphite Scribble 01 (for short strokes)</string>
+< 	<string>Graphite Scribble 02 (for short strokes)</string>
+< 	<string>Graphite Scribble 03 (for short strokes)</string>
+< 	<string>Graphite Scribble 04 (for short strokes)</string>
+< 	<string>Huge Gouache</string>
 > 	<string>基本</string>
-< 	<string>Chain</string>
 > 	<string>チェーン</string>
-< 	<string>Embroidery</string>
 > 	<string>刺しゅう</string>
-< 	<string>Eyelets</string>
 > 	<string>アイレット</string>
-< 	<string>Image</string>
 > 	<string>画像</string>
 < 	<string>Ink</string>
+< 	<string>Low Absorption Watercolour</string>
+< 	<string>Matte Acrylic 01</string>
+< 	<string>Matte Acrylic 02</string>
+< 	<string>Matte Acrylic 03</string>
+< 	<string>Matte Acrylic 04</string>
+< 	<string>Matte Acrylic 05</string>
+< 	<string>Pens</string>
+< 	<string>Round Pastel</string>
+< 	<string>Slanted Ink Pen</string>
+< 	<string>Smooth Square Pastel</string>
+< 	<string>Smooth Wax Pastel</string>
 > 	<string>インク</string>
-< 	<string>Paint</string>
 > 	<string>ペイント</string>
-< 	<string>Paint 1</string>
 > 	<string>ペイント1</string>
-< 	<string>Paint 2</string>
 > 	<string>ペイント2</string>
-< 	<string>Pastel</string>
 > 	<string>パステル</string>
-< 	<string>Pastel 1</string>
 > 	<string>パステル1</string>
-< 	<string>Pastel 2</string>
 > 	<string>パステル2</string>
-< 	<string>Rope - Thick</string>
 > 	<string>ロープ - 太</string>
-< 	<string>Rope - Thin</string>
 > 	<string>ロープ - 細</string>
-< 	<string>Scarf</string>
 > 	<string>スカーフ</string>
 < 	<string>Solid Brush</string>
 > 	<string>ソリッドブラシ</string>
 < 	<string>Solid Brush with Pressure</string>
 > 	<string>筆圧付きソリッドブラシ</string>
 < 	<string>Solid Brush with Pressure &amp; Opacity</string>
+< 	<string>Solid Pen</string>
+< 	<string>Solid Pen with Pressure</string>
+< 	<string>Solid Pen with Pressure &amp; Opacity</string>
+< 	<string>Square Marker</string>
+< 	<string>Square Pastel</string>
+< 	<string>Textured Acrylic 01 - Glazing</string>
+< 	<string>Textured Acrylic 02 - Glazing</string>
+< 	<string>Textured Acrylic 03 - Glazing</string>
 > 	<string>筆圧と不透明度付きソリッドブラシ</string>
-< 	<string>Solid Paint</string>
 > 	<string>単色ペイント</string>
-< 	<string>Textured</string>
 > 	<string>テクスチャ</string>
 < 	<string>Textured Pen 1</string>
 > 	<string>テクスチャペン1</string>
@@ -2552,18 +3144,14 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/vector_brus
 < 	<string>Textured Pen 3</string>
 > 	<string>テクスチャペン3</string>
 < 	<string>Textured Pen 4</string>
+< 	<string>Variable Square Pastel</string>
+< 	<string>Watercolour on Honeycomb Paper</string>
+< 	<string>Watercolours and Gouaches</string>
 > 	<string>テクスチャペン4</string>
-< 	<string>Water</string>
 > 	<string>水彩</string>
-< 	<string>Water 1</string>
 > 	<string>水彩1</string>
-< 	<string>Water 2</string>
 > 	<string>水彩2</string>
-< 	<string>Water 3</string>
 > 	<string>水彩3</string>
-< 	<string>Water 4</string>
 > 	<string>水彩4</string>
-< 	<string>Water 5</string>
 > 	<string>水彩5</string>
-< 	<string>Zip</string>
 > 	<string>ジップ</string>
