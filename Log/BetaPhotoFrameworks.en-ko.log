@@ -2634,6 +2634,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>LUT 출력</string>
 < 	<string>Export LUT</string>
 > 	<string>LUT 출력</string>
+< 	<string>Export Options</string>
+> 	<string>출력 설정</string>
 < 	<string>Export</string>
 > 	<string>출력</string>
 < 	<string>Export</string>
@@ -3926,6 +3928,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>크기:</string>
 < 	<string>Size:</string>
 > 	<string>크기:</string>
+< 	<string>Slices</string>
+> 	<string>슬라이스</string>
+< 	<string>Slices</string>
+> 	<string>슬라이스</string>
 < 	<string>Small Caps</string>
 > 	<string>작은 대문자</string>
 < 	<string>Small Caps</string>
