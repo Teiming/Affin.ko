@@ -15,29 +15,11 @@ Affinity 시리즈 한글화 프로젝트
   * [Affinity Designer Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Designer%20Beta.dmg)
   * [Affinity Photo Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Photo%20Customer%20Beta.dmg)
 ## Start
-Terminal.app에서 다음 명령어를 입력합니다. 번역된 자료를 다운로드할 수 있습니다.
+Terminal.app에서 다음 명령어를 입력합니다. 이용할 때 만드시 필요한 설치를 해결합니다.
 ```sh
 git clone https://github.com/Teiming/Affinity-in-Korean.git
-chmod +x ~/Affinity-in-Korean/taf*
-```
-### ko.lproj
-처음으로 이용하시는 분들은 ko.lproj 폴더가 없어서 오류를 경험하실 수 있습니다. 다음 명령어로 폴더를 만들어 해결합니다.
-```sh
-Affinity Designer
-sudo mkdir /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/
-sudo mkdir /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
-Affinity Photo
-sudo mkdir /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj/
-sudo mkdir /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
-```
-베타 프로그램은 다음 명령어를 이용합니다.
-```sh
-Affinity Designer Beta
-sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/
-sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
-Affinity Photo Beta
-sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj/
-sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
+chmod +x ./Affinity-in-Korean/Start.sh
+./Affinity-in-Korean/Start.sh
 ```
 ### Affinity Designer
 다음 명령어를 입력하고 Affinity Designer를 번역합니다. 번역은 자주 갱신됩니다. 최신 번역을 이용하고 싶다면 명령어를 다시 입력합니다.
