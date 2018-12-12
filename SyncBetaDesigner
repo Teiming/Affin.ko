@@ -1,2 +1,0 @@
-echo "동기화를 시작합니다."
-/usr/bin/rsync -av --delete --progress ~/Affinity-in-Korean/Designer_Beta/ /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/

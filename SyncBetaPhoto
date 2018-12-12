@@ -1,2 +1,0 @@
-echo "동기화를 시작합니다."
-/usr/bin/rsync -av --delete --progress ~/Affinity-in-Korean/Photo_Beta/ /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj/
