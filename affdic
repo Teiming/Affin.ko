@@ -13,4 +13,8 @@ echo $exp >> DictionaryPhoto
 diff DictionaryDesigner DictionaryPhoto | grep "s" > DictionaryDiff
 /bin/cat DictionaryDesigner | grep "&" >> DictionaryDiff
 /bin/cat DictionaryPhoto | grep "&" >> DictionaryDiff
+git add DictionaryDesigner
+git add DictionaryPhoto
+git commit -m "신규 번역"
+git push
 ./affdic
