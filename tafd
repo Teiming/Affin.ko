@@ -1,0 +1,17 @@
+ENGPATH=/Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/
+JAPPATH=/Applications/Affinity\ Designer.app/Contents/Resources/ja.lproj/
+KORPATH=/Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/
+MY_PATH=~/Affinity-in-Korean/Designer/
+DICPATH=~/Affinity-in-Korean/DictionaryDesigner
+LOGPATH=~/Affinity-in-Korean/Log/
+for (( i = 1; i <= 242; i++ ))
+do
+  NAME=$(/bin/ls -a "$ENGPATH" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+  /usr/bin/sudo echo $i"." $NAME" 번역중."
+  /usr/bin/sed -f "$DICPATH" "$ENGPATH$NAME" > "$KORPATH$NAME"
+done
+# echo "동기화를 시작합니다."
+# /usr/bin/rsync -av --delete --progress "$MY_PATH" "$KORPATH"
+echo "로그를 기록합니다."
+/usr/bin/diff "$ENGPATH" "$JAPPATH" | /usr/bin/grep -E "<string>|.nib|.strings" > "$LOGPATH"Designer.en-ja.log
+/usr/bin/diff "$ENGPATH" "$KORPATH" | /usr/bin/grep -E "<string>|.nib|.strings" > "$LOGPATH"Designer.en-ko.log
