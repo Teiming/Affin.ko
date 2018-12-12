@@ -18,7 +18,7 @@ Affinity 시리즈 한글화 프로젝트
 Terminal.app에서 다음 명령어를 입력합니다. 번역된 자료를 다운로드할 수 있습니다.
 ```sh
 git clone https://github.com/Teiming/Affinity-in-Korean.git
-chmod +x ~/Affinity-in-Korean/Sync*
+chmod +x ~/Affinity-in-Korean/taf*
 ```
 ### ko.lproj
 처음으로 이용하시는 분들은 ko.lproj 폴더가 없어서 오류를 경험하실 수 있습니다. 다음 명령어로 폴더를 만들어 해결합니다.
@@ -44,36 +44,35 @@ sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoau
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-sudo ./SyncDesigner
-sudo ./SyncDesignerFrameworks
+sudo ./tafd
+sudo ./tafdf
 ```
 베타 프로그램은 다음 명령어를 입력합니다.
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-sudo ./SyncBetaDesigner
-sudo ./SyncBetaDesignerFrameworks
+sudo ./tafdb
+sudo ./tafdbf
 ```
 ### Affinity Photo
 다음 명령어를 입력하고 Affinity Photo를 번역합니다. 번역은 자주 갱신됩니다. 최신 번역을 이용하고 싶다면 명령어를 다시 입력합니다.
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-sudo ./SyncPhoto
-sudo ./SyncPhotoFrameworks
+sudo ./tafp
+sudo ./tafpf
 ```
 베타 프로그램은 다음 명령어를 입력합니다.
 ```sh
 cd ~/Affinity-in-Korean/
 git pull
-sudo ./SyncBetaPhoto
-sudo ./SyncBetaPhotoFrameworks
+sudo ./tafpb
+sudo ./tafpbf
 ```
 ### Tips
-다음 명령어를 입력하면 affdic, autoTranslator를 손쉽게 이용할 수 있습니다.
+다음 명령어를 입력하면 affdic을(를) 손쉽게 이용할 수 있습니다.
 ```sh
 sudo ln -sf ~/Affinity-in-Korean/affdic /usr/local/bin/affdic
-sudo ln -sf ~/Affinity-in-Korean/autoTranslator /usr/local/bin/autoTranslator
 ```
 ## Feedback
 번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.
