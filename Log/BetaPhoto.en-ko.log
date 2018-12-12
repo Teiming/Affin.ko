@@ -503,6 +503,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/Localizab
 > 	<string>거울</string>
 < 	<string>Mirror</string>
 > 	<string>거울</string>
+< 	<string>Mode:</string>
+> 	<string>모드:</string>
 < 	<string>Move By Whole Pixels</string>
 > 	<string>전체 픽셀 이동</string>
 < 	<string>Move By Whole Pixels</string>
@@ -767,7 +769,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuD
 < 		<string>Show Toolbar</string>
 > 		<string>툴바 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Zoom In</string>
 > 		<string>확대</string>
 < 		<string>Tutorial...</string>
@@ -898,7 +900,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuH
 < 		<string>Show Toolbar</string>
 > 		<string>툴바 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Cut</string>
 > 		<string>오려두기</string>
 < 		<string>Copy</string>
@@ -1023,7 +1025,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuL
 < 		<string>Show Toolbar</string>
 > 		<string>툴바 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Cut</string>
 > 		<string>오려두기</string>
 < 		<string>Copy</string>
@@ -1156,7 +1158,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuP
 < 		<string>Show Toolbar</string>
 > 		<string>툴바 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Cut</string>
 > 		<string>오려두기</string>
 < 		<string>Copy</string>
@@ -1297,7 +1299,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuP
 < 		<string>Show Grid</string>
 > 		<string>격자선 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Export…</string>
 > 		<string>출력…</string>
 < 		<string>Snapping Manager…</string>
@@ -1462,7 +1464,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Show Toolbar</string>
 > 		<string>툴바 보기</string>
 < 		<string>New Layer</string>
-> 		<string>새로운 레이어</string>
+> 		<string>신규 레이어</string>
 < 		<string>Ungroup</string>
 > 		<string>그룹 해제</string>
 < 		<string>Group</string>
@@ -1473,6 +1475,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 > 		<string>픽셀 선택 항목 반전</string>
 < 		<string>Select All</string>
 > 		<string>전체 선택</string>
+< 		<string>Average</string>
+> 		<string>평균</string>
 < 		<string>Place…</string>
 > 		<string>다른 문서 넣기…</string>
 < 		<string>Zoom to Fit</string>
@@ -1498,7 +1502,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Show Grid</string>
 > 		<string>격자선 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Merge Visible</string>
 > 		<string>보이는 항목 통합</string>
 < 		<string>Refine Edges…</string>
@@ -1879,6 +1883,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 > 		<string>스냅샷 복원</string>
 < 		<string>Layer</string>
 > 		<string>레이어</string>
+< 		<string>Blur</string>
+> 		<string>블러</string>
 < 		<string>Distort</string>
 > 		<string>왜곡</string>
 < 		<string>Noise</string>

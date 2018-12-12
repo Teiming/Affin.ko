@@ -401,6 +401,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>거울</string>
 < 	<string>Mirror</string>
 > 	<string>거울</string>
+< 	<string>Mode:</string>
+> 	<string>모드:</string>
 < 	<string>Move By Whole Pixels</string>
 > 	<string>픽셀 단위로 이동</string>
 < 	<string>Move By Whole Pixels</string>
@@ -667,7 +669,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDes
 < 		<string>Show Grid</string>
 > 		<string>격자선 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Export…</string>
 > 		<string>출력…</string>
 < 		<string>Pixels</string>
@@ -858,7 +860,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>Show Grid</string>
 > 		<string>격자선 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Export…</string>
 > 		<string>출력…</string>
 < 		<string>Pixels</string>
@@ -934,7 +936,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>Support...</string>
 > 		<string>지원...</string>
 < 		<string>New Pixel Layer</string>
-> 		<string>새로운 픽셀 레이어</string>
+> 		<string>신규 픽셀 레이어</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>Unlock All</string>
@@ -1012,7 +1014,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>Threshold</string>
 > 		<string>역치</string>
 < 		<string>New Layer</string>
-> 		<string>새로운 레이어</string>
+> 		<string>신규 레이어</string>
 < 		<string>Draw Persona</string>
 > 		<string>그림 페르소나</string>
 < 		<string>Select Shadows</string>
@@ -1121,8 +1123,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 > 		<string>삽입</string>
 < 		<string>New Adjustment</string>
 < 		<string>New Adjustment</string>
-> 		<string>새로운 조정</string>
-> 		<string>새로운 조정</string>
+> 		<string>신규 조정</string>
+> 		<string>신규 조정</string>
 < 		<string>Select</string>
 > 		<string>선택</string>
 < 		<string>Colour Range</string>
@@ -1229,7 +1231,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Show Grid</string>
 > 		<string>격자선 보기</string>
 < 		<string>New View</string>
-> 		<string>새로운 뷰</string>
+> 		<string>신규 뷰</string>
 < 		<string>Pixels</string>
 > 		<string>픽셀</string>
 < 		<string>Lock</string>
@@ -1357,7 +1359,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Align Top</string>
 > 		<string>위쪽 정렬</string>
 < 		<string>New Pixel Layer</string>
-> 		<string>새로운 픽셀 레이어</string>
+> 		<string>신규 픽셀 레이어</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>캔버스에 클립</string>
 < 		<string>Delete Paragraph Style</string>
@@ -1397,7 +1399,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Rotate Right</string>
 > 		<string>오른쪽으로 회전</string>
 < 		<string>New Layer</string>
-> 		<string>새로운 레이어</string>
+> 		<string>신규 레이어</string>
 < 		<string>Rotate Left</string>
 > 		<string>왼쪽으로 회전</string>
 < 		<string>Show</string>
@@ -1674,8 +1676,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>삽입</string>
 < 		<string>New Adjustment</string>
 < 		<string>New Adjustment</string>
-> 		<string>새로운 조정</string>
-> 		<string>새로운 조정</string>
+> 		<string>신규 조정</string>
+> 		<string>신규 조정</string>
 < 		<string>Fill Mode</string>
 > 		<string>채우기 모드</string>
 < 		<string>Select</string>
@@ -1708,18 +1710,30 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Startup.nib
 diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.strings /Applications/Affinity Designer.app/Contents/Resources/ko.lproj/assets.strings
 < 	<string>Add</string>
 > 	<string>추가</string>
+< 	<string>Alerts</string>
+> 	<string>알림</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
 < 	<string>Context</string>
 > 	<string>문단</string>
+< 	<string>Controls</string>
+> 	<string>조작</string>
 < 	<string>Dark</string>
 > 	<string>다크</string>
 < 	<string>Delete</string>
 > 	<string>지우기</string>
 < 	<string>Info</string>
 > 	<string>정보</string>
+< 	<string>Keyboards</string>
+> 	<string>키보드</string>
 < 	<string>Light</string>
 > 	<string>라이트</string>
+< 	<string>Maps</string>
+> 	<string>지도</string>
+< 	<string>Messages</string>
+> 	<string>메시지</string>
+< 	<string>More</string>
+> 	<string>더 보기</string>
 < 	<string>New</string>
 > 	<string>신규</string>
 < 	<string>New Document</string>
