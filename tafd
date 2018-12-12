@@ -8,7 +8,7 @@ for (( i = 1; i <= 12; i++ ))
 do
   NAME=$(/bin/ls -a "$ENGPATH" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
   /usr/bin/sudo echo $i"." $NAME" 번역중."
-  /usr/bin/sed -f "$DICPATH" "$ENGPATH$NAME" > "$KORPATH$NAME"
+  /usr/bin/sudo /usr/bin/sed -f "$DICPATH" "$ENGPATH$NAME" > "$KORPATH$NAME"
 done
 # echo "동기화를 시작합니다."
 # /usr/bin/rsync -av --delete --progress "$MY_PATH" "$KORPATH"
