@@ -3,7 +3,7 @@ s/g> \[Locked]</g> \[잠금]</
 s/g> \[Modified]</g> \[변경]</
 s/g>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</g>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</
 s/g>%1 |CLICK|+|TERTIARY| to preserve path formatting.</g>%1 |CLICK|+|TERTIARY|해서 경로 포맷을 유지합니다.</
-s/g>%@ has been modified.</g>%@가 변형되었습니다.</
+s/g>%@ has been modified.</g>%@가 변경되었습니다.</
 s/g>'%1' selected. </g>'%1' 선택함. </
 s/g>32-bit Preview</g>32-비트 미리보기</
 s/g>About…</g>Affinity Photo에 관하여…</
@@ -199,6 +199,7 @@ s/g>Darken</g>어둡게</
 s/g>Decrease</g>줄이기</
 s/g>Default</g>기본값</
 s/g>Defaults</g>기본값</
+s/g>Degrees:</g>각도:</
 s/g>Delete %1</g>%1 지우기</
 s/g>Delete Category</g>범주 지우기</
 s/g>Delete Character Style</g>문자 스타일 지우기</
