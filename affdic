@@ -11,6 +11,7 @@ echo $exp >> DictionaryPhoto
 /bin/cat DictionaryDesigner | /usr/bin/sort | /usr/bin/uniq > DictionaryDesigner.temp && /bin/mv DictionaryDesigner.temp DictionaryDesigner
 /bin/cat DictionaryPhoto | /usr/bin/sort | /usr/bin/uniq > DictionaryPhoto.temp && /bin/mv DictionaryPhoto.temp DictionaryPhoto
 diff DictionaryDesigner DictionaryPhoto | grep "s" > DictionaryDiff
+echo "주의할 특수문자 &" >> DictionaryDiff
 /bin/cat DictionaryDesigner | grep "&" >> DictionaryDiff
 /bin/cat DictionaryPhoto | grep "&" >> DictionaryDiff
 git add DictionaryDesigner
