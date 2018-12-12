@@ -2,7 +2,7 @@ s/g> \[Locked]</g> \[잠금]</
 s/g> \[Modified]</g> \[변경]</
 s/g>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</g>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</
 s/g>%1 |CLICK|+|TERTIARY| to preserve path formatting.</g>%1 |CLICK|+|TERTIARY|해서 경로 포맷을 유지합니다.</
-s/g>%@ has been modified.</g>%@가 변경되었습니다.</
+s/g>%@ has been modified.</g>%@이(가) 변경되었습니다.</
 s/g>'%1' selected. </g>'%1' 선택함. </
 s/g>32-bit Preview</g>32-비트 미리보기</
 s/g>About…</g>Affinity Designer에 관하여…</
@@ -922,6 +922,7 @@ s/g>Width:</g>너비:</
 s/g>Width</g>너비</
 s/g>Winding (Non-Zero)</g>둘러싸기</
 s/g>Window</g>윈도우</
+s/g>Would you like to save this document?</g>문서를 저장하시겠습니까?</
 s/g>Xor toolbar button</g>배타 툴바 버튼</
 s/g>Xor</g>배타</
 s/g>Yards</g>야드</
