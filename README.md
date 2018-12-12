@@ -1,3 +1,4 @@
+
 # Affinity-in-Korean
 Affinity 시리즈 한글화 프로젝트
 >일본식 한자 표기는 지양하고 있습니다.
