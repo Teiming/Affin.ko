@@ -3,6 +3,7 @@ s/g> \[Modified]</g> \[변경]</
 s/g>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</g>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</
 s/g>%1 |CLICK|+|TERTIARY| to preserve path formatting.</g>%1 |CLICK|+|TERTIARY|해서 경로 포맷을 유지합니다.</
 s/g>'%1' selected. </g>'%1' 선택함. </
+s/g>32-bit Preview</g>32-비트 미리보기</
 s/g>About…</g>Affinity Designer에 관하여…</
 s/g>Actual Size</g>실제 크기</
 s/g>Add Chord to Swatch</g>견본에 코드 추가</
@@ -10,6 +11,7 @@ s/g>Add Colour to Swatch</g>견본에 색상 추가</
 s/g>Add Crop Preset</g>크롭 프리셋 추가</
 s/g>Add Document Snapshot</g>문서 스냅샷 추가</
 s/g>Add Global Colour…</g>전역 색상 추가…</
+s/g>Add Layer</g>레이어 추가</
 s/g>Add Preset</g>프리셋 추가</
 s/g>Add Snapshot</g>스냅샷 추가</
 s/g>Add to Swatches…</g>견본에 추가…</
@@ -18,6 +20,7 @@ s/g>Adjustment</g>조정</
 s/g>Advanced</g>고급</
 s/g>Affinity Designer Help</g>Affinity Designer 도움말</
 s/g>After</g>이후</
+s/g>Alerts</g>알림</
 s/g>Align Bottom Edges</g>아래쪽 정렬</
 s/g>Align Bottom</g>아래쪽 정렬</
 s/g>Align Centre</g>가로 가운데 정렬</
@@ -42,6 +45,7 @@ s/g>Analogous</g>유사</
 s/g>Angle:</g>각도:</
 s/g>Angle</g>각도</
 s/g>Apple Colour Picker...</g>Apple 색상 선택기...</
+s/g>Apply to Selection</g>선택 항목에 적용</
 s/g>Apply</g>적용</
 s/g>Area:</g>영역:</
 s/g>Arrange</g>순서</
@@ -52,6 +56,7 @@ s/g>Artboard</g>아트보드</
 s/g>As Application Palette</g>응용프로그램 팔레트로</
 s/g>As Document Palette</g>문서 팔레트로</
 s/g>As System Palette</g>시스템 팔레트로</
+s/g>Assets</g>자산</
 s/g>Assistant Manager…</g>손쉬운 사용 관리자…</
 s/g>Assistant Options</g>손쉬운 사용 설정</
 s/g>Auto Colours</g>자동 색상</
@@ -60,9 +65,11 @@ s/g>Auto Levels</g>자동 레벨</
 s/g>Auto White Balance</g>자동 화이트 밸런스</
 s/g>Auto-scroll</g>자동 스크롤</
 s/g>Automatic</g>자동</
+s/g>Average</g>평균</
 s/g>Back One</g>뒤로 보내기</
 s/g>Background</g>배경</
 s/g>Balance</g>밸런스</
+s/g>Base</g>기본</
 s/g>Baseline</g>기준선</
 s/g>Basic</g>기본</
 s/g>Before \/ After</g>이전 \/ 이후</
@@ -94,7 +101,9 @@ s/g>Black to transparent</g>검정에서 투명</
 s/g>Black to white</g>검정에서 하양</
 s/g>Black</g>검정</
 s/g>Blend Mode:</g>혼합 모드:</
+s/g>Blend Options</g>혼합 설정</
 s/g>Blue</g>파랑</
+s/g>Blur Brush Tool</g>블러 브러시 도구</
 s/g>Blur</g>블러</
 s/g>Bold</g>강조</
 s/g>Bottom Margin:</g>아래쪽 여백:</
@@ -120,6 +129,7 @@ s/g>Check for Updates</g>업데이트 확인</
 s/g>Clear Menu</g>메뉴 지우기</
 s/g>Click</g>클릭</
 s/g>Clip to Canvas</g>캔버스에 클립</
+s/g>Close pie</g>파이 닫기</
 s/g>Close</g>닫기</
 s/g>Colour Balance</g>색상 밸런스</
 s/g>Colour Format:</g>색상 포맷</
@@ -142,12 +152,14 @@ s/g>Constraints</g>통제</
 s/g>Context:</g>상황:</
 s/g>Context</g>문단</
 s/g>Contrast</g>대비</
+s/g>Controls</g>조작</
 s/g>Convert Artboard to Object</g>아트보드를 오브젝트로 전환</
 s/g>Convert Object to Artboard</g>오브젝트를 아트보드로 전환</
 s/g>Convert to Curves</g>곡선으로 전환</
 s/g>Convert to Donut</g>도넛으로 전환</
 s/g>Convert to Text Frame</g>텍스트 액자로 전환</
 s/g>Convert to Text Path</g>텍스트 경로로 전환</
+s/g>Convert:</g>변환:</
 s/g>Copy Colour to Clipboard as Hex</g>Hex로 색상 복사</
 s/g>Copy</g>복사</
 s/g>Corner Tool</g>꼭짓점 도구</
@@ -225,12 +237,14 @@ s/g>Edit in Photo…</g>Photo에서 편집…</
 s/g>Edit</g>편집</
 s/g>Effects</g>효과</
 s/g>Ellipse</g>타원</
+s/g>Elliptical</g>타원형</
 s/g>Em Dash</g>전각 줄표</
 s/g>Em Space</g>전각 공백</
 s/g>Emboss</g>양각</
 s/g>Emphasis</g>강조</
 s/g>En Dash</g>반각 줄표</
 s/g>En Space</g>반각 공백</
+s/g>End angle:</g>종료 각도:</
 s/g>Enhancement</g>개선</
 s/g>Entropy</g>엔트로피</
 s/g>Equations</g>수식</
@@ -321,6 +335,7 @@ s/g>Info</g>정보</
 s/g>Inner Glow</g>내부 광채</
 s/g>Inner Shadow</g>내부 그림자</
 s/g>Inner</g>내부</
+s/g>Insert Artboard</g>아트보드 삽입</
 s/g>Insert Behind</g>뒤로 삽입</
 s/g>Insert Character</g>문자 삽입</
 s/g>Insert Filler Text</g>Lorem Ipsum</
@@ -338,6 +353,7 @@ s/g>Intersect</g>교차</
 s/g>Invert Mask</g>마스크 반전</
 s/g>Invert Pixel Selection</g>픽셀 선택 항목 반전</
 s/g>Invert Selection</g>선택 항목 반전</
+s/g>Invert angles</g>각도 반전</
 s/g>Invert</g>반전</
 s/g>Isometric</g>등각투상</
 s/g>Italic</g>기울임</
@@ -347,6 +363,7 @@ s/g>Justify Left</g>왼쪽 균등 정렬</
 s/g>Justify Right</g>오른쪽 균등 정렬</
 s/g>Justify</g>맞춤</
 s/g>Keyboard Shortcuts</g>키보드 단축키</
+s/g>Keyboards</g>키보드</
 s/g>Language</g>언어</
 s/g>Large Icons</g>큰 아이콘</
 s/g>Large</g>크게</
@@ -380,6 +397,7 @@ s/g>Lock</g>잠금</
 s/g>Loosen More</g>더 넓게</
 s/g>Loosen</g>넓게</
 s/g>Lower Baseline</g>기준선 내리기</
+s/g>Maps</g>지도</
 s/g>Margins…</g>여백…</
 s/g>Mask All</g>모두 마스크</
 s/g>Mask</g>마스크</
@@ -400,6 +418,7 @@ s/g>Merge Visible</g>보이는 항목 통합</
 s/g>Merge curves</g>곡선 통합</
 s/g>Merge</g>통합</
 s/g>Mesh</g>그물</
+s/g>Messages</g>메시지</
 s/g>Metres</g>미터</
 s/g>Millimetres</g>밀리미터</
 s/g>Min:</g>최소:</
@@ -435,10 +454,12 @@ s/g>New View</g>새로운 뷰</
 s/g>New</g>신규</
 s/g>News</g>뉴스</
 s/g>No Camera Data</g>카메라 데이터 없음</
+s/g>No Line Style</g>선 스타일 없음</
 s/g>No Selection</g>선택 항목 없음</
 s/g>No Snapshot</g>스냅샷 없음</
 s/g>No</g>아니오</
 s/g>Node Tool</g>마디 도구</
+s/g>Node</g>마디</
 s/g>Noise</g>잡음</
 s/g>Non-Breaking Hyphen</g>줄 바꿈 없는 하이픈</
 s/g>Non-Breaking Space</g>줄 바꿈 없는 공백</
@@ -484,6 +505,8 @@ s/g>Personas</g>페르소나</
 s/g>Photo Persona</g>사진 페르소나</
 s/g>Photo</g>사진</
 s/g>Picas</g>파이카</
+s/g>Pie Tool</g>파이 도구</
+s/g>Pie/Donut</g>파이/도넛</
 s/g>Pixel Align</g>픽셀 정렬</
 s/g>Pixel Persona</g>픽셀 페르소나</
 s/g>Pixel Size</g>픽셀 크기</
@@ -576,6 +599,8 @@ s/g>Salmon</g>연어</
 s/g>Saturation</g>채도</
 s/g>Save As…</g>다른 이름으로 저장…</
 s/g>Save History With Document</g>편집 기록 저장</
+s/g>Save Preset</g>프리셋 저장</
+s/g>Save Profile</g>프로파일 저장</
 s/g>Save Text Styles as Default</g>텍스트 스타일을 기본값으로 저장</
 s/g>Save as AFPhoto</g>AFPhoto(으)로 저장</
 s/g>Save as JPEG</g>JPEG(으)로 저장</
@@ -629,9 +654,11 @@ s/g>Show Text Styles</g>텍스트 스타일 보기</
 s/g>Show Toolbar</g>툴바 보기</
 s/g>Show Tools</g>도구 보기</
 s/g>Show Typography</g>타이포그래피 보기</
+s/g>Show as List</g>목록으로 보기</
 s/g>Show this Panel on Startup</g>시작할 때 이 패널 보기</
 s/g>Show</g>보기</
 s/g>Single View</g>단일 뷰 모드</
+s/g>Size:</g>크기:</
 s/g>Size</g>크기</
 s/g>Small Caps</g>작은 대문자</
 s/g>Small</g>작게</
@@ -641,6 +668,7 @@ s/g>Smooth…</g>부드럽게…</
 s/g>Snap to grid</g>격자선에 스냅</
 s/g>Snap to guides</g>안내선에 스냅</
 s/g>Snap to margin</g>여백선에 스냅</
+s/g>Snap:</g>스냅:</
 s/g>Snapping Manager…</g>스내핑 관리자…</
 s/g>Snapping Options</g>스내핑 설정</
 s/g>Snapping</g>스내핑</
@@ -664,11 +692,13 @@ s/g>Split View</g>분할 뷰 모드</
 s/g>Split View</g>분할 뷰</
 s/g>Split</g>분할</
 s/g>Spread Setup...</g>스프레드 설정...</
+s/g>Start angle:</g>시작 각도:</
 s/g>Std. Dev.: -</g>표준편차: -</
 s/g>Stock</g>재고</
 s/g>Strikeout</g>취소선</
 s/g>Stroke:</g>선:</
 s/g>Stroke</g>선</
+s/g>Strong</g>강하게</
 s/g>Studio</g>작업실</
 s/g>Style:</g>스타일:</
 s/g>Style</g>스타일</
@@ -690,6 +720,9 @@ s/g>Synchronise defaults from selection</g>선택 항목에서 기본값 동기�
 s/g>Synchronise from Selection</g>선택 항목에서 기본값 동기화</
 s/g>System</g>시스템</
 s/g>Tables</g>표</
+s/g>Tail position:</g>꼬리 위치:</
+s/g>Tear Tool</g>눈물 도구</
+s/g>Tear</g>눈물</
 s/g>Text Styles</g>텍스트 스타일</
 s/g>Text Wrap</g>줄바꿈</
 s/g>Text</g>텍스트</
