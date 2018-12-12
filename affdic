@@ -11,4 +11,4 @@ echo $exp >> DictionaryPhoto
 /bin/cat DictionaryDesigner | /usr/bin/sort | /usr/bin/uniq > DictionaryDesigner.temp && /bin/mv DictionaryDesigner.temp DictionaryDesigner
 /bin/cat DictionaryPhoto | /usr/bin/sort | /usr/bin/uniq > DictionaryPhoto.temp && /bin/mv DictionaryPhoto.temp DictionaryPhoto
 diff DictionaryDesigner DictionaryPhoto | grep "s" > Log/DictionaryDesigner-DictionaryPhoto.log
-./addTranslator
+./affdic

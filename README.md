@@ -51,9 +51,9 @@ sudo ./SyncBetaPhoto
 sudo ./SyncBetaPhotoFrameworks
 ```
 ### Tips
-다음 명령어를 입력하면 addTranslator, autoTranslator를 손쉽게 이용할 수 있습니다.
+다음 명령어를 입력하면 affdic, autoTranslator를 손쉽게 이용할 수 있습니다.
 ```sh
-sudo ln -sf ~/Affinity-in-Korean/addTranslator /usr/local/bin/addTranslator
+sudo ln -sf ~/Affinity-in-Korean/affdic /usr/local/bin/affdic
 sudo ln -sf ~/Affinity-in-Korean/autoTranslator /usr/local/bin/autoTranslator
 ```
 ## Feedback
