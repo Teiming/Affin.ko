@@ -20,6 +20,25 @@ Terminal.app에서 다음 명령어를 입력합니다. 번역된 자료를 다�
 git clone https://github.com/Teiming/Affinity-in-Korean.git
 chmod +x ~/Affinity-in-Korean/Sync*
 ```
+### ko.lproj
+처음으로 이용하시는 분들은 ko.lproj 폴더가 없어서 오류를 경험하실 수 있습니다. 다음 명령어로 폴더를 만들어 해결합니다.
+```sh
+Affinity Designer
+sudo mkdir /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/
+sudo mkdir /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
+Affinity Photo
+sudo mkdir /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj/
+sudo mkdir /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
+```
+베타 프로그램은 다음 명령어를 이용합니다.
+```sh
+Affinity Designer Beta
+sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/
+sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
+Affinity Photo Beta
+sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj/
+sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
+```
 ### Affinity Designer
 다음 명령어를 입력하고 Affinity Designer를 번역합니다. 번역은 자주 갱신됩니다. 최신 번역을 이용하고 싶다면 명령어를 다시 입력합니다.
 ```sh

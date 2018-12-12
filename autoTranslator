@@ -27,17 +27,7 @@ then
       /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaDesignerFrameworks.en-ja.log
       /usr/bin/diff -s /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/BetaDesignerFrameworks.en-ko.log
     else
-      for (( i = 1; i <= 242; i++ ))
-      do
-        NAME=$(/bin/ls -a /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-        /usr/bin/sudo echo $i"." $NAME"을 번역합니다."
-        /usr/bin/sed -f DictionaryDesigner /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/"$NAME" > DesignerFrameworks/"$NAME"
-        echo "번역이 끝났습니다."
-      done
-      /usr/bin/sudo ./SyncDesignerFrameworks
-      echo "로그를 기록합니다."
-      /usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/DesignerFrameworks.en-ja.log
-      /usr/bin/diff -s /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ | grep -E "<string>|.nib|.strings" > ~/Affinity-in-Korean/Log/DesignerFrameworks.en-ko.log
+      echo "별도 프로그램 이용 바람."
     fi
   else
     if [ $BETA -eq 1 ]
