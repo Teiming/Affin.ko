@@ -80,15 +80,15 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu.ni
 < 		<string>Add to Swatches…</string>
 > 		<string>견본에 추가…</string>
 < 		<string>From Fill</string>
-> 		<string>칠</string>
+> 		<string>칠에서</string>
 < 		<string>From Line</string>
-> 		<string>선</string>
+> 		<string>선에서</string>
 < 		<string>From Both</string>
 > 		<string>모두</string>
 < 		<string>From Fill As Global</string>
-> 		<string>칠 (전역)</string>
+> 		<string>칠에서 (전역)</string>
 < 		<string>From Line As Global</string>
-> 		<string>선 (전역)</string>
+> 		<string>선에서 (전역)</string>
 < 		<string>From Both As Global</string>
 > 		<string>모두 (전역)</string>
 < 		<string>Find in Layers Panel</string>
@@ -107,6 +107,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/ContextMenu.ni
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
+Only in /Applications/Affinity Photo.app/Contents/Resources/ko.lproj/: ContextMenu.nib.temp
 diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.strings /Applications/Affinity Photo.app/Contents/Resources/ko.lproj/Localizable.strings
 < 	<string>Add Document Snapshot</string>
 > 	<string>문서 스냅샷 추가</string>
@@ -210,6 +211,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 > 	<string>브러시</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
+< 	<string>Clear Mask</string>
+> 	<string>마스크 해제</string>
 < 	<string>Click</string>
 > 	<string>클릭</string>
 < 	<string>Combine</string>
@@ -399,9 +402,9 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 < 	<string>Mode:</string>
 > 	<string>모드:</string>
 < 	<string>Move By Whole Pixels</string>
-> 	<string>전체 픽셀 이동</string>
+> 	<string>픽셀 단위로 이동</string>
 < 	<string>Move By Whole Pixels</string>
-> 	<string>전체 픽셀 이동</string>
+> 	<string>픽셀 단위로 이동</string>
 < 	<string>Move To Front</string>
 > 	<string>맨 앞으로 가져오기</string>
 < 	<string>Move selection back one level</string>
@@ -513,7 +516,7 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 < 	<string>Select All</string>
 > 	<string>전체 선택</string>
 < 	<string>Selection</string>
-> 	<string>선택...</string>
+> 	<string>선택 항목</string>
 < 	<string>Send To Back</string>
 > 	<string>맨 뒤로 보내기</string>
 < 	<string>Send to Back</string>
@@ -591,9 +594,9 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/Localizable.st
 < 	<string>View Mode</string>
 > 	<string>뷰 모드</string>
 < 	<string>Width:</string>
-> 	<string>두께:</string>
+> 	<string>너비:</string>
 < 	<string>Width:</string>
-> 	<string>두께:</string>
+> 	<string>너비:</string>
 < 	<string>Yes</string>
 > 	<string>예</string>
 < 	<string>Zoom In</string>
@@ -1442,6 +1445,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>재색상 조정</string>
 < 		<string>Grid and Axis Manager…</string>
 > 		<string>격자선 관리자…</string>
+< 		<string>Convert To Curves</string>
+> 		<string>곡선으로 전환</string>
 < 		<string>En Dash</string>
 > 		<string>반각 줄표</string>
 < 		<string>Show Context Toolbar</string>
@@ -1522,6 +1527,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>더 크게</string>
 < 		<string>Spelling Options…</string>
 > 		<string>철자 설정…</string>
+< 		<string>Transparent Background</string>
+> 		<string>투명한 배경</string>
 < 		<string>Align Bottom</string>
 > 		<string>아래쪽 정렬</string>
 < 		<string>Justify Right</string>
@@ -1664,10 +1671,14 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>줄 바꿈 없는 하이픈</string>
 < 		<string>Tighten</string>
 > 		<string>좁게</string>
+< 		<string>Repeat</string>
+> 		<string>반복</string>
 < 		<string>Merge Down</string>
 > 		<string>아래 항목 통합</string>
 < 		<string>Create Paragraph Style</string>
 > 		<string>문단 스타일 생성</string>
+< 		<string>Reselect</string>
+> 		<string>다시 선택</string>
 < 		<string>Delete Paragraph Style</string>
 > 		<string>문단 스타일 지우기</string>
 < 		<string>Em Dash</string>
@@ -1696,6 +1707,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>톤 맵핑 페르소나</string>
 < 		<string>Loosen More</string>
 > 		<string>더 넓게</string>
+< 		<string>Move To Back</string>
+> 		<string>맨 뒤로 보내기</string>
 < 		<string>Add Snapshot</string>
 > 		<string>스냅샷 추가</string>
 < 		<string>Feather…</string>
@@ -1784,6 +1797,8 @@ diff /Applications/Affinity Photo.app/Contents/Resources/en.lproj/MainMenuRaster
 > 		<string>왜곡</string>
 < 		<string>Noise</string>
 > 		<string>잡음</string>
+< 		<string>Detect</string>
+> 		<string>감지</string>
 < 		<string>Colours</string>
 > 		<string>색상</string>
 < 		<string>View</string>
