@@ -21,6 +21,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>위쪽 여백:</string>
 < 		<string>Right Margin:</string>
 > 		<string>오른쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 < 		<string>OK</string>
@@ -36,6 +38,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Adjustments.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Adjustments.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Offset</string>
+> 		<string>편차</string>
 < 		<string>Linear</string>
 > 		<string>선형</string>
 < 		<string>Add Preset</string>
@@ -440,6 +444,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CustomBlurEffect.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/CustomBlurEffect.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Offset:</string>
+> 		<string>편차:</string>
 < 		<string>Apply</string>
 > 		<string>적용</string>
 < 		<string>Cancel</string>
@@ -709,6 +715,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>세기:</string>
 < 		<string>Angle:</string>
 > 		<string>각도:</string>
+< 		<string>Offset:</string>
+> 		<string>편차:</string>
 < 		<string>Opacity:</string>
 > 		<string>불투명도:</string>
 < 		<string>Outer Shadow</string>
@@ -762,6 +770,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>외부 광채</string>
 < 		<string>Angle</string>
 > 		<string>각도</string>
+< 		<string>Offset</string>
+> 		<string>편차</string>
 < 		<string>Outer Shadow</string>
 > 		<string>외부 그림자</string>
 < 		<string>Inner Glow</string>
@@ -1387,9 +1397,9 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 	<string>'%1' selected. </string>
 > 	<string>'%1' 선택함. </string>
 < 	<string>&lt;Untitled&gt;</string>
-> 	<string>g>&lt;Untitled&gt;<lt;이름 없음g>&lt;Untitled&gt;<gt;</string>
+> 	<string>&lt;이름 없음&gt;</string>
 < 	<string>&lt;Untitled&gt;</string>
-> 	<string>g>&lt;Untitled&gt;<lt;이름 없음g>&lt;Untitled&gt;<gt;</string>
+> 	<string>&lt;이름 없음&gt;</string>
 < 	<string>Add Crop Preset</string>
 > 	<string>크롭 프리셋 추가</string>
 < 	<string>Add Document Snapshot</string>
@@ -1912,6 +1922,20 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>배타</string>
 < 	<string>Complementary</string>
 > 	<string>보색</string>
+< 	<string>Confirm Delete</string>
+> 	<string>삭제 확인</string>
+< 	<string>Confirm Delete</string>
+> 	<string>삭제 확인</string>
+< 	<string>Confirm Delete</string>
+> 	<string>삭제 확인</string>
+< 	<string>Confirm Delete</string>
+> 	<string>삭제 확인</string>
+< 	<string>Confirm Delete</string>
+> 	<string>삭제 확인</string>
+< 	<string>Confirm Delete</string>
+> 	<string>삭제 확인</string>
+< 	<string>Confirm Delete</string>
+> 	<string>삭제 확인</string>
 < 	<string>Conical</string>
 > 	<string>원뿔형</string>
 < 	<string>Conical</string>
@@ -1920,10 +1944,18 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>원뿔형</string>
 < 	<string>Conical</string>
 > 	<string>원뿔형</string>
+< 	<string>Constrain</string>
+> 	<string>통제</string>
+< 	<string>Constrain</string>
+> 	<string>통제</string>
+< 	<string>Constrain</string>
+> 	<string>통제</string>
+< 	<string>Constrain</string>
+> 	<string>통제</string>
 < 	<string>Constraints</string>
-> 	<string>제약</string>
+> 	<string>통제</string>
 < 	<string>Constraints</string>
-> 	<string>제약</string>
+> 	<string>통제</string>
 < 	<string>Context</string>
 > 	<string>문단</string>
 < 	<string>Context</string>
@@ -2820,6 +2852,12 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>확인</string>
 < 	<string>OK</string>
 > 	<string>확인</string>
+< 	<string>Offset</string>
+> 	<string>편차</string>
+< 	<string>Offset</string>
+> 	<string>편차</string>
+< 	<string>Offset</string>
+> 	<string>편차</string>
 < 	<string>Opacity</string>
 > 	<string>불투명도</string>
 < 	<string>Opacity</string>
@@ -3878,6 +3916,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>오른쪽 여백:</string>
 < 		<string>Top Margin:</string>
 > 		<string>위쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Default</string>
 > 		<string>기본값</string>
 < 		<string>Portrait</string>
@@ -3925,6 +3965,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>오른쪽 여백:</string>
 < 		<string>Top Margin:</string>
 > 		<string>위쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Default</string>
 > 		<string>기본값</string>
 < 		<string>Portrait</string>
@@ -4067,6 +4109,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>위쪽 여백:</string>
 < 		<string>Right Margin:</string>
 > 		<string>오른쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Custom</string>
 > 		<string>사용자화</string>
 < 		<string>Print</string>
@@ -4110,6 +4154,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>위쪽 여백:</string>
 < 		<string>Right Margin:</string>
 > 		<string>오른쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 < 		<string>OK</string>
@@ -4192,8 +4238,6 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>색상</string>
 < 		<string>Performance</string>
 > 		<string>성능</string>
-< 		<string>Metal</string>
-> 		<string>금속</string>
 < 		<string>Reset</string>
 > 		<string>재설정</string>
 < 		<string>Tools</string>

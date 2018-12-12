@@ -21,6 +21,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>위쪽 여백:</string>
 < 		<string>Right Margin:</string>
 > 		<string>오른쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 < 		<string>OK</string>
@@ -1575,9 +1577,9 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 < 	<string>'%1' selected. </string>
 > 	<string>'%1' 선택함. </string>
 < 	<string>&lt;Untitled&gt;</string>
-> 	<string>g>&lt;Untitled&gt;<lt;이름 없음g>&lt;Untitled&gt;<gt;</string>
+> 	<string>&lt;이름 없음&gt;</string>
 < 	<string>&lt;Untitled&gt;</string>
-> 	<string>g>&lt;Untitled&gt;<lt;이름 없음g>&lt;Untitled&gt;<gt;</string>
+> 	<string>&lt;이름 없음&gt;</string>
 < 	<string>Add Crop Preset</string>
 > 	<string>크롭 프리셋 추가</string>
 < 	<string>Add Document Snapshot</string>
@@ -1894,6 +1896,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>강조</string>
 < 	<string>Bold</string>
 > 	<string>강조</string>
+< 	<string>Bottom Margin:</string>
+> 	<string>아래쪽 여백:</string>
 < 	<string>Bottom</string>
 > 	<string>아래</string>
 < 	<string>Bottom</string>
@@ -4393,6 +4397,10 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>왼쪽</string>
 < 		<string>Include Margins</string>
 > 		<string>여백 포함</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Left Margin:</string>
 > 		<string>왼쪽 여백</string>
 < 		<string>Left Margin:</string>
@@ -4448,6 +4456,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>오른쪽 여백:</string>
 < 		<string>Top Margin:</string>
 > 		<string>위쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Default</string>
 > 		<string>기본값</string>
 < 		<string>Portrait</string>
@@ -4462,6 +4472,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>오른쪽 여백:</string>
 < 		<string>Top Margin:</string>
 > 		<string>위쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Include Margins</string>
 > 		<string>여백 포함</string>
 < 		<string>Create artboard</string>
@@ -4614,6 +4626,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>위쪽 여백:</string>
 < 		<string>Right Margin:</string>
 > 		<string>오른쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Custom</string>
 > 		<string>사용자화</string>
 < 		<string>Print</string>
@@ -4658,6 +4672,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>위쪽 여백:</string>
 < 		<string>Right Margin:</string>
 > 		<string>오른쪽 여백:</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 < 		<string>OK</string>
@@ -4771,8 +4787,6 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>색상</string>
 < 		<string>Performance</string>
 > 		<string>성능</string>
-< 		<string>Metal</string>
-> 		<string>금속</string>
 < 		<string>Reset</string>
 > 		<string>재설정</string>
 < 		<string>Tools</string>

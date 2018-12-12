@@ -4,7 +4,7 @@ KORPATH=/Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj/
 MY_PATH=~/Affinity-in-Korean/BetaPhoto/
 DICPATH=~/Affinity-in-Korean/DictionaryPhoto
 LOGPATH=~/Affinity-in-Korean/Log/
-for (( i = 1; i <= 242; i++ ))
+for (( i = 1; i <= 17; i++ ))
 do
   NAME=$(/bin/ls -a "$ENGPATH" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
   /usr/bin/sudo echo $i"." $NAME" 번역중."

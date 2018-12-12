@@ -1,4 +1,4 @@
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AddPageWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AddPageWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AddPageWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AddPageWindowController.nib
 < 		<string>Include Margins</string>
 > 		<string>マージンを含める</string>
 < 		<string>Text Cell</string>
@@ -47,11 +47,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ページを追加</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdjustmentItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AdjustmentItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdjustmentItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AdjustmentItemView.nib
 < 		<string>Adjustment</string>
 > 		<string>調整</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdjustmentPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AdjustmentPage.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Adjustments.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/Adjustments.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Adjustments.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/Adjustments.nib
 < 		<string>Picker</string>
 > 		<string>選択</string>
 < 		<string>Channel 1</string>
@@ -301,7 +300,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>サブレイヤーの追加</string>
 < 		<string>Blend Ranges</string>
 > 		<string>ブレンド範囲</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdvancedBlendingController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AdvancedBlendingController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AdvancedBlendingController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AdvancedBlendingController.nib
 < 		<string>Blend Options</string>
 > 		<string>ブレンドオプション</string>
 < 		<string>Source Layer Ranges</string>
@@ -326,7 +325,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Linear</string>
 > 		<string>線形</string>
 > 		<string>線形</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AffineEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AffineEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AffineEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AffineEffect.nib
 < 		<string>Affine</string>
 > 		<string>アフィン</string>
 < 		<string>Apply</string>
@@ -361,7 +360,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AlignViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AlignViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AlignViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AlignViewController.nib
 < 		<string>Align Horizontally:</string>
 > 		<string>水平方向に揃える:</string>
 < 		<string>Auto Distribute</string>
@@ -402,7 +401,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>完了</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ApplyImageEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ApplyImageEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ApplyImageEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ApplyImageEffect.nib
 < 		<string>Blend Mode</string>
 > 		<string>描画モード</string>
 < 		<string>Opacity:</string>
@@ -443,7 +442,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AssetsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AssetsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AssetsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AssetsPage.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>Categories</string>
@@ -482,7 +481,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>アセット名の変更…</string>
 < 		<string>Delete Asset</string>
 > 		<string>アセットの削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AssistantOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AssistantOptions.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AssistantOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/AssistantOptions.nib
 < 		<string>Assistant</string>
 > 		<string>アシスタント</string>
 < 		<string>Enable assistant</string>
@@ -554,24 +553,24 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>閉じる</string>
 < 		<string>Develop Assistant…</string>
 > 		<string>現像アシスタント…</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchJobItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BatchJobItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchJobItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BatchJobItemView.nib
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 < 		<string>Batch job</string>
 > 		<string>一括ジョブ</string>
 < 		<string>Table View Cell</string>
 > 		<string>テーブルビューセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchJobSubItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BatchJobSubItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchJobSubItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BatchJobSubItemView.nib
 < 		<string>Pending</string>
 > 		<string>保留</string>
 < 		<string>Filename</string>
 > 		<string>ファイル名</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BatchPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BatchPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BatchPage.nib
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 < 		<string>No jobs running.</string>
 > 		<string>実行中のジョブはありません。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BilateralEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BilateralEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BilateralEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BilateralEffect.nib
 < 		<string>Bilateral Blur</string>
 > 		<string>バイラテラルぼかし</string>
 < 		<string>Apply</string>
@@ -588,7 +587,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BlendModePropertiesViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BlendModePropertiesViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BlendModePropertiesViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BlendModePropertiesViewController.nib
 < 		<string>Blend mode:</string>
 > 		<string>描画モード:</string>
 < 		<string>OtherViews</string>
@@ -597,7 +596,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>不透明度:</string>
 < 		<string>Colour:</string>
 > 		<string>カラー:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BoxEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BoxEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BoxEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BoxEffect.nib
 < 		<string>Box</string>
 > 		<string>ボックス</string>
 < 		<string>Radius</string>
@@ -612,7 +611,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushEditPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BrushEditPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushEditPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BrushEditPanel.nib
 < 		<string>Brush Manager</string>
 > 		<string>ブラシの管理</string>
 < 		<string>Close</string>
@@ -918,8 +917,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>境界線</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushItemView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BrushItemView.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BrushPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/BrushPage.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>Categories</string>
@@ -970,7 +968,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ブラシの削除</string>
 < 		<string>Move Brush to Category</string>
 > 		<string>ブラシをカテゴリに移動</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CameraShakeBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CameraShakeBlurEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CameraShakeBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CameraShakeBlurEffect.nib
 < 		<string>Camera Shake Blur</string>
 > 		<string>カメラぶれぼかし</string>
 < 		<string>Cancel</string>
@@ -993,8 +991,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CategoryViewCategory.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CategoryViewCategory.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelItemView.nib
 < 		<string>Channel</string>
 > 		<string>チャンネル</string>
 < 		<string>Toggle Visible</string>
@@ -1014,7 +1011,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>編集可能</string>
 < 		<string>Visible</string>
 > 		<string>表示</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelRasterSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelRasterSelectionItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelRasterSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelRasterSelectionItemView.nib
 < 		<string>Channel</string>
 > 		<string>チャンネル</string>
 > 		<string>反転</string>
@@ -1029,7 +1026,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>クイックマスクの切り替え</string>
 < 		<string>Toggle Quick Mask</string>
 > 		<string>反転</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelSelectionItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelSelectionItemView.nib
 < 		<string>Channel</string>
 > 		<string>チャンネル</string>
 < 		<string>Invert</string>
@@ -1044,10 +1041,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>マスクレイヤーの作成</string>
 < 		<string>Create Spare Channel</string>
 > 		<string>スペアチャンネルの作成</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSeparatorItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelSeparatorItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSeparatorItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelSeparatorItemView.nib
 < 		<string>Box</string>
 > 		<string>ボックス</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSpareSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelSpareSelectionItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelSpareSelectionItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelSpareSelectionItemView.nib
 < 		<string>Channel</string>
 > 		<string>チャンネル</string>
 < 		<string>Rename</string>
@@ -1063,8 +1060,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Intersect With Pixel Selection</string>
 > 		<string>ピクセル選択範囲と交差</string>
 > 		<string>削除</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ChannelsPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ChannelsPage.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CharacterPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CharacterPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CharacterPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CharacterPage.nib
 < 		<string>Underline and Strikethrough</string>
 > 		<string>下線と打ち消し線</string>
 < 		<string>Typography</string>
@@ -1106,7 +1102,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>縦の倍率</string>
 < 		<string>Vertical Scale</string>
 > 		<string>縦の倍率</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ClarityEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ClarityEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ClarityEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ClarityEffect.nib
 < 		<string>Clarity</string>
 > 		<string>明瞭度</string>
 < 		<string>Radius</string>
@@ -1121,7 +1117,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ClearUserDataWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ClearUserDataWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ClearUserDataWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ClearUserDataWindowController.nib
 < 		<string>Clear User Data</string>
 > 		<string>ユーザーデータのクリア</string>
 < 		<string>You are about to clear your user data. Any checked items will be reset to factory default. Are you sure?</string>
@@ -1168,10 +1164,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>すべて選択解除</string>
 < 		<string>Reset Tone Map Presets</string>
 > 		<string>トーンマッププリセットのリセット</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloneBrushSourceItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CloneBrushSourceItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloneBrushSourceItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CloneBrushSourceItemView.nib
 < 		<string>Channel</string>
 > 		<string>チャンネル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloneBrushSourcesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CloneBrushSourcesPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloneBrushSourcesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CloneBrushSourcesPage.nib
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 < 		<string>Table View Cell</string>
@@ -1182,7 +1178,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>グローバルソースの追加</string>
 < 		<string>Toggle source preview</string>
 > 		<string>ソースプレビューの切り替え</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloudConflictPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CloudConflictPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloudConflictPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CloudConflictPanel.nib
 < 		<string>Keep My Changes</string>
 > 		<string>自分の変更内容を維持</string>
 < 		<string>My changes</string>
@@ -1207,13 +1203,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>第三者の変更内容</string>
 < 		<string>Keep both sets of changes</string>
 > 		<string>両者の変更内容を維持</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloudUpdatePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CloudUpdatePanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CloudUpdatePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CloudUpdatePanel.nib
 < 		<string>Updating file...</string>
 > 		<string>iCloudからファイルを更新中</string>
 < 		<string>File Update</string>
 > 		<string>クラウドの更新</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourCMYKSliderView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourCMYKSliderView.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourEditor.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourEditor.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourEditor.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourEditor.nib
 < 		<string>Global Colour</string>
 > 		<string>グローバルカラー</string>
 < 		<string>Name:</string>
@@ -1229,14 +1224,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>グローバル</string>
 < 		<string>Add</string>
 > 		<string>追加</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourGreySliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourGreySliderView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourGreySliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourGreySliderView.nib
 < 		<string>Grey</string>
 > 		<string>グレー</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourHLSwatchModel.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourHLSwatchModel.nib are identical
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourHSLSliderView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourHSLSliderView.nib are identical
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourHSSwatchModel.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourHSSwatchModel.nib are identical
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourLABSliderView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourLABSliderView.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourPage.nib
 < 		<string>Wheel</string>
 > 		<string>ホイール</string>
 < 		<string>Sliders</string>
@@ -1280,7 +1271,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>他の表示</string>
 < 		<string>Greyscale</string>
 > 		<string>グレースケール</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPickerPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourPickerPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPickerPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourPickerPanel.nib
 < 		<string>Colour Chooser</string>
 > 		<string>色の選択</string>
 < 		<string>OtherViews</string>
@@ -1307,7 +1298,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ビューへの相対</string>
 < 		<string>32-bit:</string>
 > 		<string>32ビット:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPickerViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourPickerViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourPickerViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourPickerViewController.nib
 < 		<string>RGB Sliders</string>
 > 		<string>RGBスライダー</string>
 < 		<string>OtherViews</string>
@@ -1336,21 +1327,17 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>強度</string>
 < 		<string>Noise</string>
 > 		<string>ノイズ</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourRGBHexSliderView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourRGBHexSliderView.nib are identical
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourRGBSliderView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourRGBSliderView.nib are identical
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourSLSwatchModel.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourSLSwatchModel.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourTintSliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourTintSliderView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourTintSliderView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourTintSliderView.nib
 < 		<string>Edit Global Colour</string>
 > 		<string>グローバルカラーの編集</string>
 < 		<string>Overprint</string>
 > 		<string>オーバープリント</string>
 < 		<string>Spot</string>
 > 		<string>スポット</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ColourWheelModel.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ColourWheelModel.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ConstraintsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ConstraintsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ConstraintsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ConstraintsPage.nib
 < 		<string>Determine how the object responds to changes made to its container.</string>
 > 		<string>コンテナが変更されたときのオブジェクトの反応を指定します。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CreatePaletteFromImageWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CreatePaletteFromImageWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CreatePaletteFromImageWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CreatePaletteFromImageWindowController.nib
 < 		<string>Create Palette From Image</string>
 > 		<string>画像からパレットを作成</string>
 < 		<string>Create</string>
@@ -1367,7 +1354,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>場所:</string>
 < 		<string>Preview</string>
 > 		<string>プレビュー</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CustomBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CustomBlurEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/CustomBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/CustomBlurEffect.nib
 < 		<string>Custom Blur</string>
 > 		<string>カスタムぼかし</string>
 < 		<string>Divisor:</string>
@@ -1386,7 +1373,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DebugPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DebugPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DebugPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DebugPage.nib
 < 		<string>Use renderer caches</string>
 > 		<string>レンダラ―キャッシュを使用</string>
 < 		<string>Backstore Value</string>
@@ -1433,7 +1420,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>バックストア:</string>
 < 		<string>Planar:</string>
 > 		<string>平面:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DeformEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DeformEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DeformEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DeformEffect.nib
 < 		<string>Deform</string>
 > 		<string>変形</string>
 < 		<string>Master</string>
@@ -1456,7 +1443,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DefringeEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DefringeEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DefringeEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DefringeEffect.nib
 < 		<string>Defringe</string>
 > 		<string>フリンジ除去</string>
 < 		<string>Apply</string>
@@ -1479,7 +1466,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DenoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DenoiseEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DenoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DenoiseEffect.nib
 < 		<string>Denoise</string>
 > 		<string>ノイズ除去</string>
 < 		<string>Luminance Denoise</string>
@@ -1503,7 +1490,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DepthOfFieldEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DepthOfFieldEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DepthOfFieldEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DepthOfFieldEffect.nib
 < 		<string>Depth Of Field</string>
 > 		<string>被写界深度</string>
 < 		<string>Radius</string>
@@ -1530,7 +1517,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopAssistantOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopAssistantOptions.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopAssistantOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopAssistantOptions.nib
 < 		<string>Develop Assistant</string>
 > 		<string>現像アシスタント</string>
 < 		<string>Apply exposure bias as default</string>
@@ -1597,7 +1584,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>アシスタントを有効にする</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopBasicItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopBasicItemViews.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopBasicItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopBasicItemViews.nib
 < 		<string>Vibrance</string>
 > 		<string>自然な彩度</string>
 < 		<string>Saturation</string>
@@ -1631,10 +1618,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>シャドウ</string>
 < 		<string>Shadows &amp; Highlights</string>
 > 		<string>シャドウとハイライト</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopBasicPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopBasicPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopBasicPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopBasicPage.nib
 < 		<string>Preset:</string>
 > 		<string>プリセット:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopCameraItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopCameraItemViews.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopCameraItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopCameraItemViews.nib
 < 		<string>RGB Primaries</string>
 > 		<string>RGB原色</string>
 < 		<string>Blue Saturation</string>
@@ -1649,14 +1636,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>赤の彩度</string>
 < 		<string>Red Hue</string>
 > 		<string>赤の色相</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopCameraPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopCameraPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopCameraPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopCameraPage.nib
 < 		<string>Preset:</string>
 > 		<string>プリセット:</string>
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 < 		<string>Table View Cell</string>
 > 		<string>テーブルビューセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopDetailsItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopDetailsItemViews.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopDetailsItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopDetailsItemViews.nib
 < 		<string>Extreme</string>
 > 		<string>最大</string>
 < 		<string>Contribution</string>
@@ -1684,10 +1671,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>半径</string>
 < 		<string>Detail Refinement</string>
 > 		<string>ディテール調整</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopDetailsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopDetailsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopDetailsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopDetailsPage.nib
 < 		<string>Preset:</string>
 > 		<string>プリセット:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopFocusPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopFocusPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopFocusPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopFocusPage.nib
 < 		<string>n/a</string>
 > 		<string>該当なし</string>
 < 		<string>Show AF Regions</string>
@@ -1710,7 +1697,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>長さ</string>
 < 		<string>Mode</string>
 > 		<string>モード</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopLensItemViews.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopLensItemViews.nib
 < 		<string>Chromatic Aberration Reduction</string>
 > 		<string>色収差の軽減</string>
 < 		<string>Intensity</string>
@@ -1749,13 +1736,13 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>スケール</string>
 < 		<string>Post Crop Vignette</string>
 > 		<string>切り抜き後のビネット</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopLensPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopLensPage.nib
 < 		<string>Preset:</string>
 > 		<string>プリセット:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlayItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopOverlayItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlayItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopOverlayItemView.nib
 < 		<string>Overlay Item</string>
 > 		<string>項目のオーバーレイ</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlaysPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopOverlaysPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlaysPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopOverlaysPage.nib
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
 < 		<string>Add Brush Overlay</string>
@@ -1764,15 +1751,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>グラデーションオーバーレイの追加</string>
 < 		<string>Delete Overlay</string>
 > 		<string>ブラシオーバーレイの追加</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopSnapshotItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopSnapshotItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopSnapshotItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopSnapshotItemView.nib
 < 		<string>History Item</string>
 > 		<string>履歴項目</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopSnapshotsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopSnapshotsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopSnapshotsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopSnapshotsPage.nib
 < 		<string>Add Snapshot</string>
 > 		<string>スナップショットの削除</string>
 < 		<string>Delete Snapshot</string>
 > 		<string>スナップショットの追加</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopTonesItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopTonesItemViews.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopTonesItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopTonesItemViews.nib
 < 		<string>Yellow</string>
 > 		<string>黄</string>
 < 		<string>Magenta</string>
@@ -1808,10 +1795,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>青</string>
 < 		<string>Curves</string>
 > 		<string>カーブ</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopTonesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopTonesPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopTonesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DevelopTonesPage.nib
 < 		<string>Preset:</string>
 > 		<string>プリセット:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DiffuseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DiffuseEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DiffuseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DiffuseEffect.nib
 < 		<string>Diffuse</string>
 > 		<string>拡散</string>
 < 		<string>Intensity</string>
@@ -1826,7 +1813,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DiffuseGlowEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DiffuseGlowEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DiffuseGlowEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DiffuseGlowEffect.nib
 < 		<string>Diffuse Glow</string>
 > 		<string>光彩拡散</string>
 < 		<string>Radius</string>
@@ -1847,7 +1834,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DisplacementMapEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DisplacementMapEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DisplacementMapEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DisplacementMapEffect.nib
 < 		<string>Load Map From File</string>
 > 		<string>マップをファイルから読み込み</string>
 < 		<string>Load Map From Layers Beneath</string>
@@ -1868,7 +1855,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DocumentMarginsWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DocumentMarginsWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DocumentMarginsWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DocumentMarginsWindowController.nib
 < 		<string>Left:</string>
 > 		<string>左:</string>
 < 		<string>Top:</string>
@@ -1885,7 +1872,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>マージン</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DocumentSetupWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DocumentSetupWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DocumentSetupWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DocumentSetupWindowController.nib
 < 		<string>Document</string>
 > 		<string>ドキュメント</string>
 < 		<string>Colour</string>
@@ -1915,7 +1902,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>カラーフォーマット:</string>
 < 		<string>Colour Profile:</string>
 > 		<string>カラープロファイル:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DustScratchEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DustScratchEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DustScratchEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/DustScratchEffect.nib
 < 		<string>Dust &amp; Scratches</string>
 > 		<string>ダスト&amp;スクラッチ</string>
 < 		<string>Radius</string>
@@ -1934,7 +1921,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectItemDetailedViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectItemDetailedViews.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectItemDetailedViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectItemDetailedViews.nib
 < 		<string>Preserve alpha</string>
 > 		<string>アルファの維持</string>
 < 		<string>Radius:</string>
@@ -2151,7 +2138,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>描画モード:</string>
 < 		<string>Gradient Overlay</string>
 > 		<string>グラデーションオーバーレイ</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectItemViews.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectItemViews.nib
 < 		<string>Preserve alpha</string>
 > 		<string>アルファの維持</string>
 < 		<string>Radius</string>
@@ -2238,10 +2225,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>レイヤーエフェクト</string>
 < 		<string>Layer Effects</string>
 > 		<string>レイヤーエフェクト</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectsPage.nib
 < 		<string>Fill Opacity:</string>
 > 		<string>塗りつぶしの不透明度:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsSettings.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectsSettings.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsSettings.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectsSettings.nib
 < 		<string>Layer Effects</string>
 > 		<string>レイヤーエフェクト</string>
 < 		<string>Close</string>
@@ -2250,10 +2237,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>塗りつぶしの不透明度:</string>
 < 		<string>Scale with Object</string>
 > 		<string>オブジェクトとともにスケーリング</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsSettingsListItem.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectsSettingsListItem.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectsSettingsListItem.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EffectsSettingsListItem.nib
 < 		<string>Label</string>
 > 		<string>ラベル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EmbossEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EmbossEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EmbossEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EmbossEffect.nib
 < 		<string>Emboss</string>
 > 		<string>エンボス</string>
 < 		<string>Radius</string>
@@ -2274,7 +2261,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EquationTransformEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EquationTransformEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EquationTransformEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/EquationTransformEffect.nib
 < 		<string>Equations</string>
 > 		<string>数式</string>
 < 		<string>Parameter A (a)</string>
@@ -2313,7 +2300,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportCubePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportCubePanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportCubePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportCubePanel.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>.look (LUT only)</string>
@@ -2336,7 +2323,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Preview</string>
 > 		<string>プレビュー</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: ExportFileItemView.nib
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportLayerItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportLayerItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportLayerItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportLayerItemView.nib
 < 		<string>Sample description text</string>
 < 		<string>Name of Object</string>
 > 		<string>サンプル説明テキスト</string>
@@ -2361,14 +2348,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>項目を表示します</string>
 < 		<string>Raster layer resolution too low for export</string>
 > 		<string>項目を表示します</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportLayerPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportLayerPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportLayerPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportLayerPage.nib
 < 		<string>Create Slice</string>
 > 		<string>スライスの作成</string>
 < 		<string>Create Slice from the currently selected object</string>
 > 		<string>すべてのレイヤーを編集</string>
 < 		<string>Edit All Layers</string>
 > 		<string>現在選択されているオブジェクトからスライスを作成します</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportListConflicts.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportListConflicts.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportListConflicts.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportListConflicts.nib
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
 < 		<string>Export</string>
@@ -2382,14 +2369,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>次のファイルは上書きされるか、または書き出しできません。
 < 		<string>Table View Cell</string>
 > 		<string>テーブルビューセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportOptionsPresetDetail.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportOptionsPresetDetail.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportOptionsPresetDetail.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportOptionsPresetDetail.nib
 < 		<string>Manage Presets</string>
 > 		<string>プリセットの管理</string>
 < 		<string>Export Option Details</string>
 > 		<string>書き出しオプションの詳細</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportOptionsView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportOptionsView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportOptionsView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportOptionsView.nib
 < 		<string>Allow JPEG compression</string>
 > 		<string>JPEG圧縮を許可</string>
 < 		<string>Embed ICC profile</string>
@@ -2872,7 +2859,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>選択範囲に複数の調整方式が含まれています</string>
 < 		<string>Use Zip compression where it results in smaller file sizes. Files may not be compatible with some third party applications.</string>
 > 		<string>選択範囲に高度なブレンディング方式が複数含まれています</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportPage.nib
 < 		<string>Create Preset...</string>
 > 		<string>プリセットの作成...</string>
 < 		<string>Delete Preset</string>
@@ -2883,7 +2870,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>モード:</string>
 < 		<string>Box</string>
 > 		<string>ボックス</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportWindowController.nib
 < 		<string>Don't export layers hidden by Export persona</string>
 > 		<string>書き出しペルソナによって非表示になっているレイヤーを書き出ししない</string>
 < 		<string>Save Affinity layers</string>
@@ -3036,7 +3023,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>キャンセル</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportableItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportableItemView.nib
 < 		<string>Export Selected</string>
 > 		<string>選択項目を書き出し</string>
 < 		<string>Path:</string>
@@ -3089,7 +3076,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>書き出し設定を確認する必要があります</string>
 < 		<string>The Slice name is used for creating filenames for the output files</string>
 > 		<string>設定を短時間で終わらせるため、書き出しオプションプリセットを選択できます</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableItemsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportableItemsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableItemsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportableItemsPage.nib
 < 		<string>Copy export setup</string>
 > 		<string>書き出しセットアップをコピー</string>
 < 		<string>Replace export setup</string>
@@ -3133,7 +3120,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>選択されているスライスに適用する書き出しセットアッププリセットを選択します</string>
 < 		<string>Select an export setup preset to apply it to the selected slices</string>
 > 		<string>選択スライスの削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportablePathView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportablePathView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportablePathView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportablePathView.nib
 < 		<string>Done</string>
 > 		<string>完了</string>
 < 		<string>Cancel</string>
@@ -3156,7 +3143,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>テーブルビューセル</string>
 < 		<string>The path is invalid</string>
 > 		<string>パスは無効です</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableScalePathView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportableScalePathView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableScalePathView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ExportableScalePathView.nib
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
 < 		<string>Text Cell</string>
@@ -3202,7 +3189,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>パスは無効です</string>
 < 		<string>The user scale is used instead of the exported image scale when forming paths or writing description files. It does not affect the size of the exported image.</string>
 > 		<string>パスを指定するときや記述ファイルを作成するときは、書き出される画像のスケールではなくユーザースケールが使用されます。このスケールは、書き出される画像のサイズに影響しません。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FFTDenoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FFTDenoiseEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FFTDenoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FFTDenoiseEffect.nib
 < 		<string>FFT Denoise</string>
 > 		<string>FFTノイズ除去</string>
 < 		<string>Apply</string>
@@ -3225,7 +3212,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FadeRewindEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FadeRewindEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FadeRewindEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FadeRewindEffect.nib
 < 		<string>Fade</string>
 > 		<string>フェード</string>
 > 		<string>フェード</string>
@@ -3243,7 +3230,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FeatherSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FeatherSelection.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FeatherSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FeatherSelection.nib
 < 		<string>Feather Selection</string>
 > 		<string>選択範囲をぼかす</string>
 < 		<string>Radius</string>
@@ -3252,7 +3239,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>適用</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FieldBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FieldBlurEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FieldBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FieldBlurEffect.nib
 < 		<string>Field Blur</string>
 > 		<string>フィールドぼかし</string>
 < 		<string>Global Radius</string>
@@ -3271,8 +3258,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FilesystemPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FilesystemPage.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FillEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FillEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FillEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FillEffect.nib
 < 		<string>Fill</string>
 > 		<string>塗りつぶし</string>
 < 		<string>Apply</string>
@@ -3299,7 +3285,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ボタン</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FillViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FillViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FillViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FillViewController.nib
 < 		<string>RGB Sliders</string>
 > 		<string>RGBスライダー</string>
 < 		<string>OtherViews</string>
@@ -3374,7 +3360,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>グラデーション</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FontFamilyViewController.nib
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: FontManagerWindowController.nib
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FrequencySeparationEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FrequencySeparationEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/FrequencySeparationEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/FrequencySeparationEffect.nib
 < 		<string>Frequency Separation</string>
 > 		<string>周波数分離</string>
 < 		<string>Radius</string>
@@ -3387,7 +3373,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ミラー</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GaussianEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GaussianEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GaussianEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GaussianEffect.nib
 < 		<string>Gaussian</string>
 > 		<string>ガウス</string>
 < 		<string>Radius</string>
@@ -3402,12 +3388,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GeolocationViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GeolocationViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GeolocationViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GeolocationViewController.nib
 < 		<string>Results</string>
 > 		<string>結果</string>
 < 		<string>Address</string>
 > 		<string>住所</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GlyphBrowserPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GlyphBrowserPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GlyphBrowserPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GlyphBrowserPage.nib
 < 		<string>Smallest Size</string>
 > 		<string>最小サイズ</string>
 < 		<string>Small Size</string>
@@ -3422,7 +3408,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>グリフ</string>
 < 		<string>Clear Recently Used</string>
 > 		<string>最近使用したものをクリア</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GradientEditorController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GradientEditorController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GradientEditorController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GradientEditorController.nib
 < 		<string>Gradient Editor</string>
 > 		<string>グラデーションエディタ</string>
 < 		<string>Close</string>
@@ -3459,7 +3445,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>削除</string>
 < 		<string>Reverse</string>
 > 		<string>反転</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GradientEditorView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GradientEditorView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GradientEditorView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GradientEditorView.nib
 < 		<string>Copy</string>
 > 		<string>コピー</string>
 < 		<string>Delete</string>
@@ -3478,14 +3464,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>グラデーションボタン</string>
 < 		<string>Reverse</string>
 > 		<string>反転</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GridsViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GridsViewController.nib
 < 		<string>Spacing:</string>
 > 		<string>間隔:</string>
 < 		<string>Divisions:</string>
 > 		<string>区分:</string>
 < 		<string>Grid setup</string>
 > 		<string>グリッド設定</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsViewControllerAdvance.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GridsViewControllerAdvance.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsViewControllerAdvance.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GridsViewControllerAdvance.nib
 < 		<string>Spacing:</string>
 > 		<string>間隔:</string>
 < 		<string>Divisions:</string>
@@ -3604,7 +3590,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>角度が第1軸の角度に近すぎます</string>
 < 		<string>Angle too close to second axis angle</string>
 > 		<string>角度が第2軸の角度に近すぎます</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GridsWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GridsWindowController.nib
 < 		<string>Grid and Snapping Axis</string>
 > 		<string>グリッドとスナップ軸</string>
 < 		<string>Show grid</string>
@@ -3634,7 +3620,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>メイングリッドラインを不透明に設定</string>
 < 		<string>Set the subdivision grid line opacity</string>
 > 		<string>メイングリッドラインカラーを設定</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GrowShrinkSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GrowShrinkSelection.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GrowShrinkSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GrowShrinkSelection.nib
 < 		<string>Grow / Shrink Selection</string>
 > 		<string>選択範囲の拡大/縮小</string>
 < 		<string>Radius</string>
@@ -3645,7 +3631,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>キャンセル</string>
 < 		<string>Circular</string>
 > 		<string>循環</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GuidesWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GuidesWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GuidesWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/GuidesWindowController.nib
 < 		<string>Guides</string>
 > 		<string>ガイド</string>
 < 		<string>Horizontal Guides</string>
@@ -3666,7 +3652,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>新規ブラシカテゴリの追加</string>
 < 		<string>Remove Brush Category</string>
 > 		<string>新規ブラシカテゴリの追加</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HDRPreviewPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HDRPreviewPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HDRPreviewPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HDRPreviewPage.nib
 < 		<string>ICC Display Transform</string>
 > 		<string>ICC表示変換</string>
 < 		<string>OCIO Display Transform</string>
@@ -3679,7 +3665,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ガンマ</string>
 < 		<string>Exposure</string>
 > 		<string>露出</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HalftoneEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HalftoneEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HalftoneEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HalftoneEffect.nib
 < 		<string>Halftone</string>
 > 		<string>ハーフトーン</string>
 < 		<string>Apply</string>
@@ -3716,7 +3702,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示なし</string>
 < 		<string>Item</string>
 > 		<string>アイテム</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HazeRemovalEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HazeRemovalEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HazeRemovalEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HazeRemovalEffect.nib
 < 		<string>Haze Removal</string>
 > 		<string>かすみの除去</string>
 < 		<string>Distance</string>
@@ -3735,7 +3721,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HighPassEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HighPassEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HighPassEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HighPassEffect.nib
 < 		<string>High Pass</string>
 > 		<string>ハイパス</string>
 < 		<string>Radius</string>
@@ -3752,7 +3738,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistogramPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HistogramPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistogramPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HistogramPage.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>All Channels</string>
@@ -3787,15 +3773,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>最小:</string>
 < 		<string>Coarse histogram - click to generate fine.</string>
 > 		<string>粗いヒストグラム - クリックで詳細なヒストグラムを生成します。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistoryItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HistoryItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistoryItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HistoryItemView.nib
 < 		<string>History Item</string>
 > 		<string>履歴項目</string>
 < 		<string>Set undo brush source</string>
 > 		<string>ブラシソースの取り消しを設定</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistoryPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HistoryPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistoryPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/HistoryPage.nib
 < 		<string>Position:</string>
 > 		<string>位置:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ICCProfilePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ICCProfilePanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ICCProfilePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ICCProfilePanel.nib
 < 		<string>Select ICC Profile</string>
 > 		<string>ICCプロファイルの選択</string>
 < 		<string>Convert</string>
@@ -3804,17 +3790,17 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>キャンセル</string>
 < 		<string>Profile</string>
 > 		<string>プロファイル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/InfoItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/InfoItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/InfoItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/InfoItemView.nib
 < 		<string>Greyscale</string>
 > 		<string>グレースケール</string>
 < 		<string>Total Ink</string>
 > 		<string>総インク</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/InformationPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/InformationPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/InformationPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/InformationPage.nib
 < 		<string>Add New Sampler</string>
 > 		<string>新規サンプラーの追加</string>
 < 		<string>Remove Selected Sampler</string>
 > 		<string>選択サンプラーの削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/KeyboardShortcutWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/KeyboardShortcutWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/KeyboardShortcutWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/KeyboardShortcutWindowController.nib
 < 		<string>Keyboard Shortcuts</string>
 > 		<string>キーボードショートカット</string>
 > 		<string>項目</string>
@@ -3839,8 +3825,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Table View Cell</string>
 > 		<string>テーブルビューセル</string>
 > 		<string>テーブルビューセル</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/KeywordsPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/KeywordsPage.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LayerItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LayerItemView.nib
 < 		<string>Sample description text</string>
 < 		<string>Name of Object</string>
 > 		<string>サンプル説明テキスト</string>
@@ -3891,7 +3876,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ロックされています</string>
 < 		<string>Is visible</string>
 > 		<string>可視状態です</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LayerPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LayerPage.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>Auto-scroll</string>
@@ -4114,14 +4099,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ロック/ロック解除</string>
 < 		<string>Remove Layer</string>
 > 		<string>調整</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPropertiesViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LayerPropertiesViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPropertiesViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LayerPropertiesViewController.nib
 < 		<string>Colour</string>
 > 		<string>カラー</string>
 < 		<string>Layer Name:</string>
 > 		<string>レイヤー名:</string>
 < 		<string>Layer Colour:</string>
 > 		<string>レイヤーカラー:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LensBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LensBlurEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LensBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LensBlurEffect.nib
 < 		<string>Lens Blur</string>
 > 		<string>レンズぼかし</string>
 < 		<string>Radius</string>
@@ -4146,7 +4131,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LensDistortionEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LensDistortionEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LensDistortionEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LensDistortionEffect.nib
 < 		<string>Lens Distortion</string>
 > 		<string>レンズゆがみ</string>
 < 		<string>Cancel</string>
@@ -4161,7 +4146,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LightingEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LightingEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LightingEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LightingEffect.nib
 < 		<string>Direction:</string>
 > 		<string>向き:</string>
 < 		<string>Azimuth:</string>
@@ -4246,7 +4231,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LinePage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LinePage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LinePage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LinePage.nib
 < 		<string>Align:</string>
 > 		<string>配置:</string>
 < 		<string>Cap:</string>
@@ -4273,7 +4258,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>幅:</string>
 < 		<string>Mitre:</string>
 > 		<string>マイター:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyBrushPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LiquifyBrushPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyBrushPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LiquifyBrushPage.nib
 < 		<string>Gaussian</string>
 > 		<string>ガウス</string>
 < 		<string>Linear</string>
@@ -4294,14 +4279,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>硬さ</string>
 < 		<string>Size</string>
 > 		<string>サイズ</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyMaskPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LiquifyMaskPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyMaskPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LiquifyMaskPage.nib
 < 		<string>Invert Mask</string>
 > 		<string>マスクを反転</string>
 < 		<string>Mask All</string>
 > 		<string>すべてマスク</string>
 < 		<string>Clear Mask</string>
 > 		<string>マスクを消去</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyMeshPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LiquifyMeshPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LiquifyMeshPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LiquifyMeshPage.nib
 < 		<string>Gradient Button</string>
 > 		<string>グラデーションボタン</string>
 < 		<string>Reconstruct Mesh</string>
@@ -4324,7 +4309,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>区分</string>
 < 		<string>Show Mesh</string>
 > 		<string>メッシュの表示</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LoadOptionsWindow.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LoadOptionsWindow.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LoadOptionsWindow.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/LoadOptionsWindow.nib
 < 		<string>PDF Options</string>
 > 		<string>PDFオプション</string>
 < 		<string>Load all pages</string>
@@ -4361,7 +4346,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>置換スタイル</string>
 < 		<string>View</string>
 > 		<string>表示</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/Localizable.strings
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Localizable.strings /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/Localizable.strings
 < 	<string>    Alternates</string>
 > 	<string>    代替</string>
 < 	<string>    Capitals</string>
@@ -17814,25 +17799,25 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 	<string>|TERTIARY|+|CLICK|でソースを選択します。</string>
 < 	<string>θ Equation</string>
 > 	<string>θ方程式</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroCategoryItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroCategoryItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroCategoryItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroCategoryItemView.nib
 < 		<string>Category</string>
 > 		<string>カテゴリ</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroEditViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroEditViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroEditViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroEditViewController.nib
 < 		<string>Label</string>
 > 		<string>ラベル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroEffect.nib
 < 		<string>Macro</string>
 > 		<string>マクロ</string>
 < 		<string>Apply</string>
 > 		<string>適用</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroItemView.nib
 < 		<string>History Item</string>
 > 		<string>履歴項目</string>
 < 		<string>Edit</string>
 > 		<string>編集</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroPage.nib
 < 		<string>Enter a name for the macro:</string>
 > 		<string>マクロ名を入力:</string>
 < 		<string>Category:</string>
@@ -17851,7 +17836,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>記録の停止</string>
 < 		<string>Stop recording</string>
 > 		<string>記録の開始</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroSelectLayerPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroSelectLayerPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroSelectLayerPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacroSelectLayerPanel.nib
 < 		<string>Select Layer</string>
 > 		<string>レイヤーを選択</string>
 < 		<string>Select layer named ""</string>
@@ -17870,7 +17855,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>キャンセル</string>
 < 		<string>Select layer 1 above current</string>
 > 		<string>現在の上にあるレイヤー1を選択</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacrosItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacrosItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacrosItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacrosItemView.nib
 < 		<string>Label</string>
 > 		<string>ラベル</string>
 < 		<string>Rename Macro...</string>
@@ -17881,7 +17866,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>マクロの編集</string>
 > 		<string>ラベル</string>
 > 		<string>ラベル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacrosPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacrosPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacrosPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MacrosPage.nib
 < 		<string>Rename...</string>
 > 		<string>名前の変更…</string>
 < 		<string>Delete</string>
@@ -17898,8 +17883,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>新規カテゴリの作成</string>
 < 		<string>Import Macros...</string>
 > 		<string>マクロのインポート...</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MainWindow.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MainWindow.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MatteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MatteEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MatteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MatteEffect.nib
 < 		<string>Matte</string>
 > 		<string>マット</string>
 < 		<string>Custom colour</string>
@@ -17918,7 +17902,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>適用</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MaximumEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MaximumEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MaximumEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MaximumEffect.nib
 < 		<string>Maximum</string>
 > 		<string>最大</string>
 < 		<string>Radius</string>
@@ -17935,7 +17919,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MedianEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MedianEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MedianEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MedianEffect.nib
 < 		<string>Median</string>
 > 		<string>メディアン</string>
 < 		<string>Apply</string>
@@ -17950,7 +17934,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MergeTextStyles.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MergeTextStyles.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MergeTextStyles.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MergeTextStyles.nib
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 > 		<string>タイプ</string>
@@ -17982,7 +17966,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>現在のフォーマット</string>
 < 		<string>Current Formatting</string>
 > 		<string>現在のフォーマット</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MinimumEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MinimumEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MinimumEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MinimumEffect.nib
 < 		<string>Minimum</string>
 > 		<string>最小</string>
 < 		<string>Radius</string>
@@ -17999,7 +17983,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MirrorEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MirrorEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MirrorEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MirrorEffect.nib
 < 		<string>Mirror</string>
 > 		<string>ミラー</string>
 < 		<string>Number of mirrors</string>
@@ -18018,7 +18002,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MotionBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MotionBlurEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MotionBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/MotionBlurEffect.nib
 < 		<string>Motion Blur</string>
 > 		<string>モーションぼかし</string>
 < 		<string>Radius</string>
@@ -18035,7 +18019,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NavigatorPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NavigatorPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NavigatorPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NavigatorPage.nib
 < 		<string>Add</string>
 > 		<string>追加</string>
 < 		<string>Remove</string>
@@ -18050,7 +18034,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>アイテム3</string>
 < 		<string>Zoom:</string>
 > 		<string>ズーム:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewBatchPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewBatchPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewBatchPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewBatchPanel.nib
 < 		<string>Authorise…</string>
 > 		<string>承認…</string>
 < 		<string>Plugin</string>
@@ -18109,7 +18093,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>縦横比を維持</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel MultiSpread.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewDocPanel MultiSpread.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel MultiSpread.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewDocPanel MultiSpread.nib
 < 		<string>Left Margin:</string>
 > 		<string>左マージン:</string>
 < 		<string>Right Margin:</string>
@@ -18185,7 +18169,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>寸法:</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewDocPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewDocPanel.nib
 < 		<string>Left Margin:</string>
 > 		<string>左マージン:</string>
 < 		<string>Right Margin:</string>
@@ -18257,7 +18241,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>寸法:</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewFocusMergePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewFocusMergePanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewFocusMergePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewFocusMergePanel.nib
 < 		<string>Plugin</string>
 > 		<string>プラグイン</string>
 < 		<string>Text Cell</string>
@@ -18276,7 +18260,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>テーブルビューセル</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewHDRMergePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewHDRMergePanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewHDRMergePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewHDRMergePanel.nib
 < 		<string>Automatically align images</string>
 > 		<string>自動的に画像を並べる</string>
 < 		<string>Perspective</string>
@@ -18307,7 +18291,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>テーブルビューセル</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewPanoramaPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewPanoramaPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewPanoramaPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewPanoramaPanel.nib
 < 		<string>Add</string>
 > 		<string>追加</string>
 < 		<string>Remove</string>
@@ -18324,7 +18308,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>画像</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成のフィーチャー / ユーザーインターフェース</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewStackPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewStackPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewStackPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NewStackPanel.nib
 < 		<string>Automatically Align Images</string>
 > 		<string>自動的に画像を並べる</string>
 < 		<string>Perspective</string>
@@ -18351,7 +18335,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>テーブルビューセル</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NoiseEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/NoiseEffect.nib
 < 		<string>Add Noise</string>
 > 		<string>ノイズの追加</string>
 < 		<string>Intensity</string>
@@ -18374,15 +18358,15 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/OpenAccessoryViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/OpenAccessoryViewController.nib
 < 		<string>Open with History</string>
 > 		<string>履歴付きで開く</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenImageAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/OpenImageAccessoryViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenImageAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/OpenImageAccessoryViewController.nib
 < 		<string>Embed Picture</string>
 > 		<string>ピクチャを埋め込む</string>
 < 		<string>Link Picture</string>
 > 		<string>ピクチャをリンク</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenTypeWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/OpenTypeWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OpenTypeWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/OpenTypeWindowController.nib
 < 		<string>Typography</string>
 > 		<string>タイポグラフィ</string>
 < 		<string>Close</string>
@@ -18419,7 +18403,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>合字</string>
 < 		<string>Show features even if not available for current selection</string>
 > 		<string>現在の選択範囲で使用できない機能も表示します</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OutlineSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/OutlineSelection.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/OutlineSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/OutlineSelection.nib
 < 		<string>Outline Selection</string>
 > 		<string>アウトライン選択</string>
 < 		<string>Radius</string>
@@ -18440,7 +18424,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>外側</string>
 < 		<string>Inside</string>
 > 		<string>内側</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Page Setup.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/Page Setup.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Page Setup.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/Page Setup.nib
 < 		<string>Box</string>
 > 		<string>ボックス</string>
 < 		<string>OtherViews</string>
@@ -18537,7 +18521,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ドキュメント単位:</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PageSetupWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PageSetupWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PageSetupWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PageSetupWindowController.nib
 < 		<string>Pages</string>
 > 		<string>ページ</string>
 < 		<string>Include Margins</string>
@@ -18607,7 +18591,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>奇数ページ</string>
 < 		<string>Custom</string>
 > 		<string>カスタム</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PagesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PagesPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PagesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PagesPage.nib
 < 		<string>Master Pages</string>
 > 		<string>マスターページ</string>
 < 		<string>Pages</string>
@@ -18632,12 +18616,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>編集</string>
 < 		<string>Delete</string>
 > 		<string>削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PaletteModel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PaletteModel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PaletteModel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PaletteModel.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>Categories</string>
 > 		<string>カテゴリ</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PalettisationView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PalettisationView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PalettisationView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PalettisationView.nib
 < 		<string>File format:</string>
 > 		<string>ファイル形式:</string>
 < 		<string>None</string>
@@ -18685,11 +18669,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>減色済み</string>
 < 		<string>Preset:</string>
 > 		<string>プリセット:</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PanoramaItemView.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PanoramaItemView.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PanoramaSourceItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PanoramaSourceItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PanoramaSourceItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PanoramaSourceItemView.nib
 < 		<string>Channel</string>
 > 		<string>チャンネル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ParagraphPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ParagraphPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ParagraphPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ParagraphPage.nib
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 < 		<string>Tab Stops</string>
@@ -18769,7 +18752,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>行間</string>
 < 		<string>Space Before Paragraph</string>
 > 		<string>選択タブ位置の削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PerlinNoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PerlinNoiseEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PerlinNoiseEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PerlinNoiseEffect.nib
 < 		<string>Perlin Noise</string>
 > 		<string>パーリンノイズ</string>
 < 		<string>Octaves</string>
@@ -18792,7 +18775,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PerspectiveEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PerspectiveEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PerspectiveEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PerspectiveEffect.nib
 < 		<string>Destination</string>
 > 		<string>デスティネーション</string>
 < 		<string>OtherViews</string>
@@ -18826,7 +18809,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PinchPunchEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PinchPunchEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PinchPunchEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PinchPunchEffect.nib
 < 		<string>Pinch / Punch</string>
 > 		<string>ピンチ/パンチ</string>
 < 		<string>Pinch / Punch</string>
@@ -18843,7 +18826,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PixelateEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PixelateEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PixelateEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PixelateEffect.nib
 < 		<string>Pixelate</string>
 > 		<string>ピクセレート</string>
 < 		<string>Apply</string>
@@ -18858,7 +18841,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Preferences.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/Preferences.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Preferences.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/Preferences.nib
 < 		<string>Preferences</string>
 > 		<string>環境設定</string>
 > 		<string>ホーム</string>
@@ -19150,13 +19133,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 < 		<string>Table View Cell</string>
 > 		<string>テーブルビューセル</string>
 > 		<string>テーブルビューセル</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PresetsPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PresetsPage.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PressureViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PressureViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PressureViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PressureViewController.nib
 < 		<string>Reset</string>
 > 		<string>リセット</string>
 < 		<string>Save Profile</string>
 > 		<string>プロファイルの保存</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PrintersMarksAccessoryView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PrintersMarksAccessoryView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PrintersMarksAccessoryView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PrintersMarksAccessoryView.nib
 < 		<string>Include bleed</string>
 > 		<string>にじみを含める</string>
 < 		<string>Include colour bars</string>
@@ -19169,7 +19151,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>プリンターマークを含む</string>
 < 		<string>Include registration marks</string>
 > 		<string>登録マークを含む</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PrintingAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PrintingAccessoryViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PrintingAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/PrintingAccessoryViewController.nib
 < 		<string>Actual Size</string>
 > 		<string>実寸</string>
 < 		<string>Scale to Fit</string>
@@ -19180,17 +19162,17 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ラジオ</string>
 < 		<string>Artboard:</string>
 > 		<string>アートボード:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ProfileEditorView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ProfileEditorView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ProfileEditorView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ProfileEditorView.nib
 < 		<string>Linear</string>
 > 		<string>線形</string>
 < 		<string>Standard profiles:</string>
 > 		<string>標準プロファイル:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ProgressPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ProgressPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ProgressPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ProgressPanel.nib
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
 < 		<string>Progress</string>
 > 		<string>進行状況</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RadialBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RadialBlurEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RadialBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RadialBlurEffect.nib
 < 		<string>Radial Blur</string>
 > 		<string>放射ぼかし</string>
 < 		<string>Angle</string>
@@ -19205,7 +19187,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RasteriseOptionsPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RasteriseOptionsPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RasteriseOptionsPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RasteriseOptionsPanel.nib
 < 		<string>Rasterise</string>
 > 		<string>ラスタライズ</string>
 < 		<string>Preserve layer FX</string>
@@ -19213,7 +19195,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>ラスタライズ</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RefineSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RefineSelection.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RefineSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RefineSelection.nib
 < 		<string>Box</string>
 > 		<string>四角形</string>
 < 		<string>Refine Selection</string>
@@ -19263,7 +19245,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>マスク付き新規レイヤー</string>
 < 		<string>Refine</string>
 > 		<string>微調整</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RemoveVignetteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RemoveVignetteEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RemoveVignetteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RemoveVignetteEffect.nib
 < 		<string>Remove Vignette</string>
 > 		<string>ビネットを除去</string>
 < 		<string>Intensity</string>
@@ -19278,7 +19260,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizeCanvasPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ResizeCanvasPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizeCanvasPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ResizeCanvasPanel.nib
 < 		<string>Size:</string>
 > 		<string>サイズ:</string>
 < 		<string>Anchor:</string>
@@ -19293,7 +19275,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>サイズ変更</string>
 < 		<string>Resize Canvas</string>
 > 		<string>キャンバスのサイズ変更</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ResizePanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizePanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ResizePanel.nib
 < 		<string>Size:</string>
 > 		<string>サイズ:</string>
 < 		<string>Bilinear</string>
@@ -19321,7 +19303,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>サイズ変更</string>
 < 		<string>Resize Document</string>
 > 		<string>ドキュメントのサイズ変更</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizePixelArtPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ResizePixelArtPanel.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResizePixelArtPanel.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ResizePixelArtPanel.nib
 < 		<string>Size:</string>
 > 		<string>サイズ:</string>
 < 		<string>Method:</string>
@@ -19332,7 +19314,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>サイズ変更</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResourceManagerWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ResourceManagerWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResourceManagerWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ResourceManagerWindowController.nib
 < 		<string>Resource Manager</string>
 > 		<string>リソースマネージャー</string>
 < 		<string>Locate</string>
@@ -19373,7 +19355,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>リンクを作成…</string>
 < 		<string>Colour space:</string>
 > 		<string>色空間:</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RippleEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RippleEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RippleEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/RippleEffect.nib
 < 		<string>Ripple</string>
 > 		<string>波紋</string>
 < 		<string>Intensity</string>
@@ -19388,10 +19370,10 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SaveAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SaveAccessoryViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SaveAccessoryViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SaveAccessoryViewController.nib
 < 		<string>Save with History</string>
 > 		<string>履歴付きで保存</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ScanningController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ScanningController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ScanningController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ScanningController.nib
 < 		<string>Acquire Image</string>
 > 		<string>画像の取得</string>
 < 		<string>Scan</string>
@@ -19400,7 +19382,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>概要</string>
 > 		<string>スキャン</string>
 Only in /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/: SelectDocument.nib
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SelectSampledColour.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SelectSampledColour.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SelectSampledColour.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SelectSampledColour.nib
 < 		<string>Select Sampled Colour</string>
 > 		<string>サンプルカラーの選択</string>
 < 		<string>Tolerance</string>
@@ -19419,7 +19401,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>強度</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ShadowsHighlightsEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ShadowsHighlightsEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ShadowsHighlightsEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ShadowsHighlightsEffect.nib
 < 		<string>Shadows / Highlights</string>
 > 		<string>シャドウ/ハイライト</string>
 < 		<string>Shadows Strength</string>
@@ -19444,7 +19426,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ShearEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ShearEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ShearEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ShearEffect.nib
 < 		<string>Shear</string>
 > 		<string>傾斜</string>
 < 		<string>Apply</string>
@@ -19457,7 +19439,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SmoothSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SmoothSelection.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SmoothSelection.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SmoothSelection.nib
 < 		<string>Smooth Selection</string>
 > 		<string>選択範囲を滑らかにする</string>
 < 		<string>Radius</string>
@@ -19466,12 +19448,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>適用</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnappingOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SnappingOptions.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnappingOptions.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SnappingOptions.nib
 < 		<string>Snapping</string>
 > 		<string>スナップ</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnappingOptionsViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SnappingOptionsViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnappingOptionsViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SnappingOptionsViewController.nib
 < 		<string>Enable snapping</string>
 > 		<string>スナップを有効にする</string>
 < 		<string>Box</string>
@@ -19552,12 +19534,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>候補オプションで、ドキュメント内のスナップ可能なオブジェクトを指定します</string>
 < 		<string>The maximum number of objects that will be held in the snapping candidate list</string>
 > 		<string>設定すると、現在表示中のオブジェクトにのみスナップできます</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SnapshotItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SnapshotItemView.nib
 < 		<string>History Item</string>
 > 		<string>履歴項目</string>
 < 		<string>Set undo brush source</string>
 > 		<string>ブラシソースの取り消しを設定</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SnapshotsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SnapshotsPage.nib
 < 		<string>Add Snapshot</string>
 > 		<string>スナップショットから新規ドキュメントを作成</string>
 < 		<string>Delete Snapshot</string>
@@ -19566,7 +19548,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>スナップショットの復元</string>
 < 		<string>Restore Snapshot</string>
 > 		<string>スナップショットの追加</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SpellingWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SpellingWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SpellingWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SpellingWindowController.nib
 < 		<string>Spelling</string>
 > 		<string>スペル</string>
 < 		<string>Close</string>
@@ -19603,7 +19585,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>以後この項目を正しいとみなします</string>
 < 		<string>Suggest possible corrections for this item</string>
 > 		<string>次の項目に進みます</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SphereEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SphereEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SphereEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SphereEffect.nib
 < 		<string>Sphere</string>
 > 		<string>球体</string>
 < 		<string>Intensity</string>
@@ -19620,19 +19602,19 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StockPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/StockPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StockPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/StockPage.nib
 < 		<string>Commercial</string>
 > 		<string>商用</string>
 < 		<string>Model Released</string>
 > 		<string>リリース済みモデル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StyleItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/StyleItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StyleItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/StyleItemView.nib
 < 		<string>Style</string>
 > 		<string>スタイル</string>
 < 		<string>Rename Style...</string>
 > 		<string>スタイル名の変更...</string>
 < 		<string>Delete Style</string>
 > 		<string>スタイルの削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StylesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/StylesPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/StylesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/StylesPage.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>Categories</string>
@@ -19653,7 +19635,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>スタイルの書き出し…</string>
 < 		<string>Add Style from Selection</string>
 > 		<string>選択からスタイルを追加</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SwatchesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SwatchesPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SwatchesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SwatchesPage.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>Add Global Colour…</string>
@@ -19771,14 +19753,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>色合い</string>
 > 		<string>陰影</string>
 > 		<string>色調</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SymbolItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SymbolItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SymbolItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SymbolItemView.nib
 < 		<string>Symbol</string>
 > 		<string>シンボル</string>
 < 		<string>Rename Symbol...</string>
 > 		<string>シンボル名の変更...</string>
 < 		<string>Delete Symbol</string>
 > 		<string>シンボルの削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SymbolsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SymbolsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SymbolsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/SymbolsPage.nib
 < 		<string>Detach</string>
 > 		<string>切り離し</string>
 < 		<string>Sync:</string>
@@ -19791,7 +19773,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>新しいシンボルを現在のオブジェクトから作成します</string>
 < 		<string>Detach the current object(s) and stop them from being symbols</string>
 > 		<string>現在のオブジェクトを切り離し、シンボルとすることを停止します。</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextFramePage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TextFramePage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextFramePage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TextFramePage.nib
 < 		<string>(Work in progress)</string>
 > 		<string>(進行中の作業)</string>
 < 		<string>General</string>
@@ -19817,7 +19799,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>最大段落間隔</string>
 < 		<string>Number of Columns</string>
 > 		<string>最大段落間隔</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextStyleEditor.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TextStyleEditor.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextStyleEditor.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TextStyleEditor.nib
 < 		<string>Edit Text Style</string>
 > 		<string>テキストスタイルを編集</string>
 < 		<string>Text Cell</string>
@@ -20107,7 +20089,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>段落の後のスペース</string>
 < 		<string>Space After Paragraph</string>
 > 		<string>選択タブ位置の削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextStylesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TextStylesPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextStylesPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TextStylesPage.nib
 < 		<string>Show Hierarchical</string>
 > 		<string>階層表示</string>
 < 		<string>Show Samples</string>
@@ -20140,7 +20122,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>段落スタイルを更新</string>
 < 		<string>Update Paragraph Style</string>
 > 		<string>現在のフォーマット</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextWrappingDialogController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TextWrappingDialogController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextWrappingDialogController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TextWrappingDialogController.nib
 < 		<string>Text Wrap</string>
 > 		<string>テキストの回り込み</string>
 < 		<string>Wrap Style</string>
@@ -20181,7 +20163,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>閉じる</string>
 < 		<string>Link Edges</string>
 > 		<string>エッジをリンクする</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToastPanelController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToastPanelController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToastPanelController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToastPanelController.nib
 < 		<string>Toast</string>
 > 		<string>トースト</string>
 < 		<string>Cancel</string>
@@ -20190,7 +20172,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>これは説明です。説明をここに、複数行にわたって記述できます。 </string>
 < 		<string>This is the title</string>
 > 		<string>これはタイトルです</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapItemViews.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapItemViews.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapItemViews.nib
 < 		<string>Vibrance</string>
 > 		<string>自然な彩度</string>
 < 		<string>Saturation</string>
@@ -20263,14 +20245,14 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>半径</string>
 < 		<string>Detail Refinement</string>
 > 		<string>ディテール調整</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapOverlayItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapOverlayItemView.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapOverlayItemView.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapOverlayItemView.nib
 < 		<string>Overlay Item</string>
 > 		<string>オーバーレイ項目</string>
 < 		<string>Apply To Original</string>
 > 		<string>オリジナルに適用</string>
 < 		<string>Visible</string>
 > 		<string>表示</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapOverlaysPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapOverlaysPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapOverlaysPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapOverlaysPage.nib
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 < 		<string>Opacity:</string>
@@ -20283,12 +20265,12 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>グラデーションオーバーレイの追加</string>
 < 		<string>Delete Overlay</string>
 > 		<string>ブラシオーバーレイの追加</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapPage.nib
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 < 		<string>Table View Cell</string>
 > 		<string>テーブルビューセル</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapPresetsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapPresetsPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapPresetsPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToneMapPresetsPage.nib
 < 		<string>User Defined</string>
 > 		<string>ユーザー定義</string>
 < 		<string>OtherViews</string>
@@ -20321,7 +20303,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>プリセットの削除</string>
 < 		<string>Move Preset to Category</string>
 > 		<string>プリセットをカテゴリに移動</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToolUIPaletteViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToolUIPaletteViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToolUIPaletteViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToolUIPaletteViewController.nib
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>Number of Columns:</string>
@@ -20332,7 +20314,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>お気に入り項目をツールパネルにドラッグします:</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToolbarPalette.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToolbarPalette.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToolbarPalette.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ToolbarPalette.nib
 < 		<string>Icon and Text</string>
 > 		<string>アイコンとテキスト</string>
 < 		<string>OtherViews</string>
@@ -20347,8 +20329,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>完了</string>
 < 		<string>... or drag the default set into the toolbar.</string>
 > 		<string>... または、デフォルトセットをツールバーにドラッグします。</string>
-Files /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TransformPage.nib and /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TransformPage.nib are identical
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TransparencyEditorController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TransparencyEditorController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TransparencyEditorController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TransparencyEditorController.nib
 < 		<string>Transparency Editor</string>
 > 		<string>透明性エディタ</string>
 < 		<string>Close</string>
@@ -20381,7 +20362,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>削除</string>
 < 		<string>Reverse</string>
 > 		<string>反転</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TransparencyViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TransparencyViewController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TransparencyViewController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TransparencyViewController.nib
 < 		<string>Copy</string>
 > 		<string>コピー</string>
 < 		<string>Delete</string>
@@ -20418,7 +20399,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>なし</string>
 < 		<string>Gradient</string>
 > 		<string>グラデーション</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TwirlEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TwirlEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TwirlEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/TwirlEffect.nib
 < 		<string>Twirl</string>
 > 		<string>渦巻き</string>
 < 		<string>Angle</string>
@@ -20435,7 +20416,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/UnsharpMaskEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/UnsharpMaskEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/UnsharpMaskEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/UnsharpMaskEffect.nib
 < 		<string>Unsharp Mask</string>
 > 		<string>アンシャープマスク</string>
 < 		<string>Factor</string>
@@ -20454,7 +20435,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/VignetteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/VignetteEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/VignetteEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/VignetteEffect.nib
 < 		<string>Vignette</string>
 > 		<string>ビネット</string>
 < 		<string>Exposure</string>
@@ -20475,7 +20456,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/WaveformPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/WaveformPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/WaveformPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/WaveformPage.nib
 < 		<string>Gain:</string>
 > 		<string>ゲイン:</string>
 < 		<string>OtherViews</string>
@@ -20490,7 +20471,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>パワースペクトル密度</string>
 < 		<string>Vectorscope</string>
 > 		<string>ベクトルスコープ</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/WelcomeWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/WelcomeWindowController.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/WelcomeWindowController.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/WelcomeWindowController.nib
 < 		<string>Welcome</string>
 > 		<string>ようこそ</string>
 < 		<string>Multiline Label</string>
@@ -20509,7 +20490,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>接続</string>
 < 		<string>User Forums</string>
 > 		<string>ユーザーフォーラム</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/XMPPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/XMPPage.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/XMPPage.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/XMPPage.nib
 > 		<string>キー</string>
 > 		<string>値</string>
 < 		<string>Description</string>
@@ -20552,7 +20533,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>生データ</string>
 < 		<string>Delete EXIF data</string>
 > 		<string>EXIFデータの削除</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ZMapBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ZMapBlurEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ZMapBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ZMapBlurEffect.nib
 < 		<string>Load Map From File</string>
 > 		<string>マップをファイルから読み込み</string>
 < 		<string>Z-Map Blur</string>
@@ -20571,7 +20552,7 @@ diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.frame
 > 		<string>分割表示</string>
 < 		<string>Split view</string>
 > 		<string>分割表示なし</string>
-diff -s /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ZoomBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ZoomBlurEffect.nib
+diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ZoomBlurEffect.nib /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/ZoomBlurEffect.nib
 < 		<string>Zoom Blur</string>
 > 		<string>ズームぼかし</string>
 < 		<string>Radius</string>

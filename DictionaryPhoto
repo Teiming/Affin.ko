@@ -2,7 +2,6 @@ s/g> \[Locked]</g> \[잠금]</
 s/g> \[Modified]</g> \[변경]</
 s/g>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</g>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</
 s/g>%1 |CLICK|+|TERTIARY| to preserve path formatting.</g>%1 |CLICK|+|TERTIARY|해서 경로 포맷을 유지합니다.</
-s/g>\&lt;Untitled\&gt;</g>\&lt;이름 없음\&gt;</
 s/g>'%1' selected. </g>'%1' 선택함. </
 s/g>About…</g>Affinity Photo에 관하여…</
 s/g>Actual Size</g>실제 크기</
@@ -96,6 +95,7 @@ s/g>Black to white</g>검정에서 하양</
 s/g>Black</g>검정</
 s/g>Blend Mode:</g>혼합 모드:</
 s/g>Blue</g>파랑</
+s/g>Blur</g>블러</
 s/g>Bold</g>강조</
 s/g>Bottom Margin:</g>아래쪽 여백:</
 s/g>Bottom</g>아래</
@@ -139,6 +139,7 @@ s/g>Conical</g>원뿔형</
 s/g>Connect</g>접속</
 s/g>Constrain</g>통제</
 s/g>Constraints</g>통제</
+s/g>Context:</g>상황:</
 s/g>Context</g>문단</
 s/g>Contrast</g>대비</
 s/g>Convert Artboard to Object</g>아트보드를 오브젝트로 전환</
@@ -253,7 +254,9 @@ s/g>Feet</g>피트</
 s/g>Figure Dash</g>숫자 줄표</
 s/g>File</g>파일</
 s/g>Fill Mode</g>채우기 모드</
+s/g>Fill Opacity:</g>칠 불투명도:</
 s/g>Fill:</g>칠:</
+s/g>Fill</g>칠</
 s/g>Filters</g>필터</
 s/g>Find in Layers Page</g>레이어 페이지에서 찾기</
 s/g>Find in Layers Panel</g>레이어 패널에서 찾기</
@@ -360,6 +363,7 @@ s/g>Layout</g>구조</
 s/g>Learn Spelling</g>철자 학습</
 s/g>Left Margin:</g>왼쪽 여백</
 s/g>Left</g>왼쪽</
+s/g>Length:</g>길이:</
 s/g>Lens Filter</g>렌즈 필터</
 s/g>Levels</g>레벨</
 s/g>Library Persona</g>라이브러리 페르소나</
@@ -403,6 +407,7 @@ s/g>Minimize</g>최소화</
 s/g>Mirror</g>거울</
 s/g>Miscellaneous</g>기타</
 s/g>Modified</g>변경</
+s/g>More</g>더 보기</
 s/g>Move Back One</g>뒤로 보내기</
 s/g>Move By Whole Pixels</g>전체 픽셀 이동</
 s/g>Move Forward One</g>앞으로 가져오기</
@@ -439,6 +444,7 @@ s/g>Non-Breaking Hyphen</g>줄 바꿈 없는 하이픈</
 s/g>Non-Breaking Space</g>줄 바꿈 없는 공백</
 s/g>None</g>없음</
 s/g>Normal</g>보통</
+s/g>Number of Columns:</g>열 개수:</
 s/g>OK</g>확인</
 s/g>Offset:</g>편차:</
 s/g>Offset</g>편차</
@@ -506,6 +512,8 @@ s/g>Preferences…</g>환경설정…</
 s/g>Preserve aspect ratio</g>종횡비 유지</
 s/g>Preset:</g>프리셋:</
 s/g>Presets</g>프리셋</
+s/g>Pressure:</g>압력:</
+s/g>Pressure</g>압력</
 s/g>Print</g>인쇄</
 s/g>Print…</g>인쇄…</
 s/g>Profiles</g>프로파일</
@@ -662,6 +670,7 @@ s/g>Strikeout</g>취소선</
 s/g>Stroke:</g>선:</
 s/g>Stroke</g>선</
 s/g>Studio</g>작업실</
+s/g>Style:</g>스타일:</
 s/g>Style</g>스타일</
 s/g>Styles</g>스타일</
 s/g>Subscript</g>아랫첨자</
@@ -763,6 +772,7 @@ s/g>Zoom to Fit</g>화면 크기에 맞추기</
 s/g>Zoom to Selection</g>선택 항목에 맞추기</
 s/g>Zoom:</g>맞추기:</
 s/g>Zoom</g>맞추기</
+s/g>\&lt;Untitled\&gt;</g>\&lt;이름 없음\&gt;</
 s/g>\[No Style]</g>\[스타일 없음]</
 s/g>\[No change]</g>\[변화 없음]</
 s/g>\[No changes]</g>\[변화 없음]</
