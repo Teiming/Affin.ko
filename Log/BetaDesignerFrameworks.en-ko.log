@@ -5,6 +5,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>여백 포함</string>
 < 		<string>Portrait</string>
 > 		<string>세로 방향</string>
+< 		<string>Retrieve Margin from Printer</string>
+> 		<string>프린터 여백을 이용</string>
 < 		<string>Dimensions:</string>
 > 		<string>치수:</string>
 < 		<string>System</string>
@@ -484,8 +486,12 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>견본에 코드 추가</string>
 < 		<string>Complementary</string>
 > 		<string>보색</string>
+< 		<string>Split Complementary</string>
+> 		<string>분할 보색</string>
 < 		<string>Analogous</string>
 > 		<string>유사</string>
+< 		<string>Square</string>
+> 		<string>사각형</string>
 < 		<string>Tints</string>
 > 		<string>하양 혼합</string>
 < 		<string>Shades</string>
@@ -774,6 +780,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DocumentMarginsWindowController.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DocumentMarginsWindowController.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Retrieve Margin from Printer</string>
+> 		<string>프린터 여백을 이용</string>
 < 		<string>Include Margins</string>
 > 		<string>여백 포함</string>
 < 		<string>Margins</string>
@@ -785,12 +793,22 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DocumentSetupWindowController.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DocumentSetupWindowController.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Bottom Bleed:</string>
+> 		<string>아래쪽 도련:</string>
+< 		<string>Left Bleed:</string>
+> 		<string>왼쪽 도련:</string>
+< 		<string>Right Bleed:</string>
+> 		<string>오른쪽 도련:</string>
 < 		<string>Right</string>
 > 		<string>오른쪽</string>
 < 		<string>Left</string>
 > 		<string>왼쪽</string>
+< 		<string>Top Bleed:</string>
+> 		<string>위쪽 도련:</string>
 < 		<string>Transparent background</string>
 > 		<string>투명한 배경</string>
+< 		<string>'Actual Size' Zoom:</string>
+> 		<string>'실제 크기' 맞추기:</string>
 < 		<string>Default</string>
 > 		<string>기본값</string>
 < 		<string>Layout</string>
@@ -1705,6 +1723,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>선형</string>
 < 		<string>Cosine</string>
 > 		<string>코사인</string>
+< 		<string>Square</string>
+> 		<string>사각형</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Speed</string>
@@ -1770,10 +1790,14 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>절대 크기</string>
 < 	<string>Action:</string>
 > 	<string>행동:</string>
+< 	<string>Add Application Palette</string>
+> 	<string>응용프로그램 팔레트 추가</string>
 < 	<string>Add Artistic Text</string>
 > 	<string>에술 텍스트 추가</string>
 < 	<string>Add Crop Preset</string>
 > 	<string>크롭 프리셋 추가</string>
+< 	<string>Add Document Palette</string>
+> 	<string>문서 팔레트 추가</string>
 < 	<string>Add Document Snapshot</string>
 > 	<string>문서 스냅샷 추가</string>
 < 	<string>Add Preset</string>
@@ -2152,6 +2176,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>강조</string>
 < 	<string>Bold</string>
 > 	<string>강조</string>
+< 	<string>Bottom Bleed:</string>
+> 	<string>아래쪽 도련:</string>
 < 	<string>Bottom Margin:</string>
 > 	<string>아래쪽 여백:</string>
 < 	<string>Bottom</string>
@@ -3095,15 +3121,15 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 < 	<string>HSL Sliders</string>
 > 	<string>HSL 슬라이더</string>
 < 	<string>Heart Tool</string>
-> 	<string>심장 도구</string>
+> 	<string>하트 도구</string>
 < 	<string>Heart Tool</string>
-> 	<string>심장 도구</string>
+> 	<string>하트 도구</string>
 < 	<string>Heart</string>
-> 	<string>심장</string>
+> 	<string>하트</string>
 < 	<string>Heart</string>
-> 	<string>심장</string>
+> 	<string>하트</string>
 < 	<string>Heart</string>
-> 	<string>심장</string>
+> 	<string>하트</string>
 < 	<string>Help</string>
 > 	<string>도움말</string>
 < 	<string>Help</string>
@@ -3278,6 +3304,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>레이어</string>
 < 	<string>Layout</string>
 > 	<string>구조</string>
+< 	<string>Left Bleed:</string>
+> 	<string>왼쪽 도련:</string>
 < 	<string>Left Margin:</string>
 > 	<string>왼쪽 여백</string>
 < 	<string>Left</string>
@@ -3509,7 +3537,7 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 < 	<string>Move Inside</string>
 > 	<string>안으로 가져오기</string>
 < 	<string>Move Outside</string>
-> 	<string>밖으로 보내기</string>
+> 	<string>바깥으로 보내기</string>
 < 	<string>Move To Back</string>
 > 	<string>맨 뒤로 보내기</string>
 < 	<string>Move To Front</string>
@@ -3778,6 +3806,14 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>윤곽</string>
 < 	<string>Outline</string>
 > 	<string>윤곽</string>
+< 	<string>Outside</string>
+> 	<string>바깥</string>
+< 	<string>Outside</string>
+> 	<string>바깥</string>
+< 	<string>Outside</string>
+> 	<string>바깥</string>
+< 	<string>Outside</string>
+> 	<string>바깥</string>
 < 	<string>Page</string>
 > 	<string>페이지</string>
 < 	<string>Page</string>
@@ -3884,6 +3920,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>픽셀</string>
 < 	<string>Pixels</string>
 > 	<string>픽셀</string>
+< 	<string>Place Image</string>
+> 	<string>이미지 배치</string>
 < 	<string>Please choose a valid filename.</string>
 > 	<string>유효한 파일 이름을 선택해주세요.</string>
 < 	<string>Please select an RGB pixel layer before developing.</string>
@@ -4090,6 +4128,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>레티나 픽셀</string>
 < 	<string>Revert</string>
 > 	<string>되돌리기</string>
+< 	<string>Right Bleed:</string>
+> 	<string>오른쪽 도련:</string>
 < 	<string>Right Margin:</string>
 > 	<string>오른쪽 여백:</string>
 < 	<string>Right</string>
@@ -4218,6 +4258,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>전체 선택</string>
 < 	<string>Select All</string>
 > 	<string>전체 선택</string>
+< 	<string>Select Transparency Range</string>
+> 	<string>투명 범위 선택</string>
 < 	<string>Select</string>
 > 	<string>선택</string>
 < 	<string>Selection</string>
@@ -4412,6 +4454,12 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>분할 색조</string>
 < 	<string>Split</string>
 > 	<string>분할</string>
+< 	<string>Spread Setup…</string>
+> 	<string>스프레드 설정…</string>
+< 	<string>Square</string>
+> 	<string>사각형</string>
+< 	<string>Square</string>
+> 	<string>사각형</string>
 < 	<string>Standard</string>
 > 	<string>표준</string>
 < 	<string>Standard</string>
@@ -4620,6 +4668,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>도구</string>
 < 	<string>Tools</string>
 > 	<string>도구</string>
+< 	<string>Top Bleed:</string>
+> 	<string>위쪽 도련:</string>
 < 	<string>Top Margin:</string>
 > 	<string>위쪽 여백:</string>
 < 	<string>Top</string>
@@ -4652,6 +4702,10 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 	<string>변형</string>
 < 	<string>Transform:</string>
 > 	<string>변형:</string>
+< 	<string>Transparency Tool</string>
+> 	<string>투명 도구</string>
+< 	<string>Transparency Tool</string>
+> 	<string>투명 도구</string>
 < 	<string>Triangle Tool</string>
 > 	<string>삼각형 도구</string>
 < 	<string>Triangle Tool</string>
@@ -5117,6 +5171,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>오른쪽 여백:</string>
 < 		<string>Page Height:</string>
 > 		<string>페이지 높이:</string>
+< 		<string>'Actual Size' Zoom:</string>
+> 		<string>'실제 크기' 맞추기:</string>
 < 		<string>Default</string>
 > 		<string>기본값</string>
 < 		<string>Page Width:</string>
@@ -5135,6 +5191,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>색상</string>
 < 		<string>Top Margin:</string>
 > 		<string>위쪽 여백:</string>
+< 		<string>Retrieve Margin from Printer</string>
+> 		<string>프린터 여백을 이용</string>
 < 		<string>Margins</string>
 > 		<string>여백</string>
 < 		<string>Top Margin:</string>
@@ -5178,6 +5236,10 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>위쪽 여백:</string>
 < 		<string>Bottom Margin:</string>
 > 		<string>아래쪽 여백:</string>
+< 		<string>Retrieve Margin from Printer</string>
+> 		<string>프린터 여백을 이용</string>
+< 		<string>'Actual Size' Zoom:</string>
+> 		<string>'실제 크기' 맞추기:</string>
 < 		<string>Page Width:</string>
 > 		<string>페이지 너비:</string>
 < 		<string>Page Height:</string>
@@ -5333,6 +5395,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>취소</string>
 < 		<string>Centre</string>
 > 		<string>가운데</string>
+< 		<string>Outside</string>
+> 		<string>바깥</string>
 < 		<string>Inside</string>
 > 		<string>안으로</string>
 diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Page Setup.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Page Setup.nib
@@ -5340,10 +5404,14 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>시스템</string>
 < 		<string>Include Margins</string>
 > 		<string>여백 포함</string>
+< 		<string>Retrieve Margin from Printer</string>
+> 		<string>프린터 여백을 이용</string>
 < 		<string>Dimensions:</string>
 > 		<string>치수:</string>
 < 		<string>Default</string>
 > 		<string>기본값</string>
+< 		<string>'Actual Size' Zoom:</string>
+> 		<string>'실제 크기' 맞추기:</string>
 < 		<string>Portrait</string>
 > 		<string>세로 방향</string>
 < 		<string>Dimensions</string>
@@ -5366,6 +5434,14 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>아래쪽 여백:</string>
 < 		<string>Margins</string>
 > 		<string>여백</string>
+< 		<string>Top Bleed:</string>
+> 		<string>위쪽 도련:</string>
+< 		<string>Right Bleed:</string>
+> 		<string>오른쪽 도련:</string>
+< 		<string>Bottom Bleed:</string>
+> 		<string>아래쪽 도련:</string>
+< 		<string>Left Bleed:</string>
+> 		<string>왼쪽 도련:</string>
 < 		<string>Bleed</string>
 > 		<string>도련</string>
 < 		<string>Custom</string>
@@ -5400,6 +5476,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>시스템</string>
 < 		<string>Portrait</string>
 > 		<string>세로 방향</string>
+< 		<string>Retrieve Margin from Printer</string>
+> 		<string>프린터 여백을 이용</string>
 < 		<string>Dimensions:</string>
 > 		<string>치수:</string>
 < 		<string>Page Preset:</string>
@@ -5463,6 +5541,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>버튼</string>
 < 		<string>Stroke:</string>
 > 		<string>선:</string>
+< 		<string>Transparency:</string>
+> 		<string>투명도:</string>
 < 		<string>Fill:</string>
 > 		<string>칠:</string>
 < 		<string>Type:</string>
@@ -5870,6 +5950,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>시스템</string>
 < 		<string>Portrait</string>
 > 		<string>세로 방향</string>
+< 		<string>Retrieve Margin from Printer</string>
+> 		<string>프린터 여백을 이용</string>
 < 		<string>Dimensions:</string>
 > 		<string>치수:</string>
 < 		<string>Page Preset:</string>
@@ -5919,12 +6001,24 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SwatchesPage.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SwatchesPage.nib
 < 		<string>Add Global Colour…</string>
 > 		<string>전역 색상 추가…</string>
+< 		<string>Add Registration Colour</string>
+> 		<string>등록 색상을 추가</string>
+< 		<string>Add Application Palette</string>
+> 		<string>응용프로그램 팔레트 추가</string>
+< 		<string>Add Document Palette</string>
+> 		<string>문서 팔레트 추가</string>
+< 		<string>Add System Palette</string>
+> 		<string>시스템 팔레트 추가</string>
 < 		<string>Delete Palette</string>
 > 		<string>팔레트 지우기</string>
 < 		<string>Set as Default for</string>
 > 		<string>기본값으로 설정하기</string>
 < 		<string>Set as Default for</string>
 > 		<string>기본값으로 설정하기</string>
+< 		<string>Remove Default for</string>
+> 		<string>기본값 지우기</string>
+< 		<string>Remove Default for</string>
+> 		<string>기본값 지우기</string>
 < 		<string>Create Palette From Document</string>
 > 		<string>문서로부터 팔레트 생성</string>
 < 		<string>Create Palette From Document</string>
@@ -5935,6 +6029,12 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>문서 팔레트로</string>
 < 		<string>As System Palette</string>
 > 		<string>시스템 팔레트로</string>
+< 		<string>Create Palette From Image…</string>
+> 		<string>이미지로부터 팔레트 생성…</string>
+< 		<string>Appearance</string>
+> 		<string>외관</string>
+< 		<string>Appearance</string>
+> 		<string>외관</string>
 < 		<string>Show as List</string>
 > 		<string>목록으로 보기</string>
 < 		<string>Small</string>
@@ -5949,32 +6049,62 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>알파벳</string>
 < 		<string>Colour</string>
 > 		<string>색상</string>
+< 		<string>Import Palette…</string>
+> 		<string>팔레트 입력…</string>
+< 		<string>Import Palette…</string>
+> 		<string>팔레트 입력…</string>
 < 		<string>As Application Palette</string>
 > 		<string>응용프로그램 팔레트로</string>
 < 		<string>As Document Palette</string>
 > 		<string>문서 팔레트로</string>
 < 		<string>As System Palette</string>
 > 		<string>시스템 팔레트로</string>
+< 		<string>Export Palette…</string>
+> 		<string>팔레트 출력…</string>
 < 		<string>Opacity:</string>
 > 		<string>불투명도:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Recent:</string>
 > 		<string>최근 사용 항목:</string>
+< 		<string>Edit Fill…</string>
+> 		<string>칠 편집…</string>
+< 		<string>Make Copy</string>
+> 		<string>복사</string>
 < 		<string>Delete Colour</string>
 > 		<string>색상 지우기</string>
+< 		<string>Create Colour Chord</string>
+> 		<string>색상 코드 생성</string>
+< 		<string>Create Colour Chord</string>
+> 		<string>색상 코드 생성</string>
 < 		<string>Complementary</string>
 > 		<string>보색</string>
+< 		<string>Split Complementary</string>
+> 		<string>분할 보색</string>
 < 		<string>Analogous</string>
 > 		<string>유사</string>
+< 		<string>Square</string>
+> 		<string>사각형</string>
 < 		<string>Tints</string>
 > 		<string>하양 혼합</string>
 < 		<string>Shades</string>
 > 		<string>검정 혼합</string>
 < 		<string>Tones</string>
 > 		<string>회색 혼합</string>
+< 		<string>Edit Fill…</string>
+> 		<string>칠 편집…</string>
+< 		<string>Make Global</string>
+> 		<string>전역 만들기</string>
+< 		<string>Delete Fill</string>
+> 		<string>칠 지우기</string>
+< 		<string>Create Colour Chord</string>
+> 		<string>색상 코드 생성</string>
+< 		<string>Create Colour Chord</string>
+> 		<string>색상 코드 생성</string>
 < 		<string>Complementary</string>
 > 		<string>보색</string>
+< 		<string>Split Complementary</string>
+> 		<string>분할 보색</string>
 diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SymbolItemView.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SymbolItemView.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -6017,12 +6147,30 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>아래</string>
 < 		<string>Inside</string>
 > 		<string>안으로</string>
+< 		<string>Inside horizontal</string>
+> 		<string>가로 안</string>
+< 		<string>Inside vertical</string>
+> 		<string>세로 안</string>
 < 		<string>Left</string>
 > 		<string>왼쪽</string>
+< 		<string>Outside</string>
+> 		<string>바깥</string>
+< 		<string>Outside horizontal</string>
+> 		<string>가로 바깥</string>
+< 		<string>Outside vertical</string>
+> 		<string>세로 바깥</string>
 < 		<string>Right</string>
 > 		<string>오른쪽</string>
+< 		<string>Right Text Inset</string>
+> 		<string>오른쪽 텍스트 들여쓰기</string>
+< 		<string>Right Text Inset</string>
+> 		<string>오른쪽 텍스트 들여쓰기</string>
 < 		<string>Top</string>
 > 		<string>위로</string>
+< 		<string>Top Text Inset</string>
+> 		<string>위쪽 텍스트 들여쓰기</string>
+< 		<string>Top Text Inset</string>
+> 		<string>위쪽 텍스트 들여쓰기</string>
 diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TableFormatPage.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TableFormatPage.nib
 < 		<string>Small</string>
 > 		<string>작게</string>
@@ -6051,12 +6199,30 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>아래</string>
 < 		<string>Inside</string>
 > 		<string>안으로</string>
+< 		<string>Inside horizontal</string>
+> 		<string>가로 안</string>
+< 		<string>Inside vertical</string>
+> 		<string>세로 안</string>
 < 		<string>Left</string>
 > 		<string>왼쪽</string>
+< 		<string>Outside</string>
+> 		<string>바깥</string>
+< 		<string>Outside horizontal</string>
+> 		<string>가로 바깥</string>
+< 		<string>Outside vertical</string>
+> 		<string>세로 바깥</string>
 < 		<string>Right</string>
 > 		<string>오른쪽</string>
+< 		<string>Right Text Inset</string>
+> 		<string>오른쪽 텍스트 들여쓰기</string>
+< 		<string>Right Text Inset</string>
+> 		<string>오른쪽 텍스트 들여쓰기</string>
 < 		<string>Top</string>
 > 		<string>위로</string>
+< 		<string>Top Text Inset</string>
+> 		<string>위쪽 텍스트 들여쓰기</string>
+< 		<string>Top Text Inset</string>
+> 		<string>위쪽 텍스트 들여쓰기</string>
 diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TableSortOptions.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TableSortOptions.nib
 < 		<string>Close</string>
 > 		<string>닫기</string>
@@ -6079,6 +6245,10 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>너비</string>
 < 		<string>Colour:</string>
 > 		<string>색상:</string>
+< 		<string>Right Text Inset</string>
+> 		<string>오른쪽 텍스트 들여쓰기</string>
+< 		<string>Top Text Inset</string>
+> 		<string>위쪽 텍스트 들여쓰기</string>
 diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextStyleEditor.nib /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/TextStyleEditor.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -6122,6 +6292,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>스타일:</string>
 < 		<string>Fill:</string>
 > 		<string>칠:</string>
+< 		<string>Transparency:</string>
+> 		<string>투명도:</string>
 < 		<string>Stroke:</string>
 > 		<string>선:</string>
 < 		<string>Button</string>
@@ -6156,6 +6328,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Frameworks/libcocoaui.fra
 > 		<string>시스템</string>
 < 		<string>None</string>
 > 		<string>없음</string>
+< 		<string>Square</string>
+> 		<string>사각형</string>
 < 		<string>Tight</string>
 > 		<string>좁게</string>
 < 		<string>Inside</string>
