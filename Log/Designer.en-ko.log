@@ -85,15 +85,15 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/ContextMenu
 < 		<string>Add to Swatches…</string>
 > 		<string>견본에 추가…</string>
 < 		<string>From Fill</string>
-> 		<string>칠</string>
+> 		<string>칠에서</string>
 < 		<string>From Line</string>
-> 		<string>선</string>
+> 		<string>선에서</string>
 < 		<string>From Both</string>
 > 		<string>모두</string>
 < 		<string>From Fill As Global</string>
-> 		<string>칠 (전역)</string>
+> 		<string>칠에서 (전역)</string>
 < 		<string>From Line As Global</string>
-> 		<string>선 (전역)</string>
+> 		<string>선에서 (전역)</string>
 < 		<string>From Both As Global</string>
 > 		<string>모두 (전역)</string>
 < 		<string>Find in Layers Panel</string>
@@ -215,6 +215,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>브러시</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
+< 	<string>Clear Mask</string>
+> 	<string>마스크 해제</string>
 < 	<string>Click</string>
 > 	<string>클릭</string>
 < 	<string>Combine</string>
@@ -302,13 +304,13 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 < 	<string>Enhancement</string>
 > 	<string>개선</string>
 < 	<string>Export Persona</string>
-> 	<string>출력 페르소나</string>
+> 	<string>꺼내기 페르소나</string>
 < 	<string>Export Persona</string>
-> 	<string>출력 페르소나</string>
+> 	<string>꺼내기 페르소나</string>
 < 	<string>Export Persona</string>
-> 	<string>출력 페르소나</string>
+> 	<string>꺼내기 페르소나</string>
 < 	<string>Export</string>
-> 	<string>출력</string>
+> 	<string>꺼내기</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>가로 뒤집기</string>
 < 	<string>Flip Horizontal</string>
@@ -671,7 +673,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuDes
 < 		<string>New View</string>
 > 		<string>신규 뷰</string>
 < 		<string>Export…</string>
-> 		<string>출력…</string>
+> 		<string>꺼내기…</string>
 < 		<string>Pixels</string>
 > 		<string>픽셀</string>
 < 		<string>Snapping Manager…</string>
@@ -862,11 +864,11 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>New View</string>
 > 		<string>신규 뷰</string>
 < 		<string>Export…</string>
-> 		<string>출력…</string>
+> 		<string>꺼내기…</string>
 < 		<string>Pixels</string>
 > 		<string>픽셀</string>
 < 		<string>Place…</string>
-> 		<string>다른 문서 넣기…</string>
+> 		<string>배치…</string>
 < 		<string>Snapping Manager…</string>
 > 		<string>스내핑 관리자…</string>
 < 		<string>Paste Style</string>
@@ -942,7 +944,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuPix
 < 		<string>Unlock All</string>
 > 		<string>모두 잠금 해제</string>
 < 		<string>Export Persona</string>
-> 		<string>출력 페르소나</string>
+> 		<string>꺼내기 페르소나</string>
 < 		<string>Rotate Left</string>
 > 		<string>왼쪽으로 회전</string>
 < 		<string>Intersect</string>
@@ -1263,13 +1265,13 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Tighten</string>
 > 		<string>좁게</string>
 < 		<string>Loosen More</string>
-> 		<string>더 넓게</string>
+> 		<string>더욱 넓게</string>
 < 		<string>Create Style</string>
 > 		<string>스타일 생성</string>
 < 		<string>Convert to Curves</string>
 > 		<string>곡선으로 전환</string>
 < 		<string>Place…</string>
-> 		<string>다른 문서 넣기…</string>
+> 		<string>배치…</string>
 < 		<string>Snapping Manager…</string>
 > 		<string>스내핑 관리자…</string>
 < 		<string>Paste Style</string>
@@ -1284,6 +1286,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>손쉬운 사용 관리자…</string>
 < 		<string>Vector</string>
 > 		<string>벡터</string>
+< 		<string>Alternate (Even-Odd)</string>
+> 		<string>교대하기</string>
+< 		<string>Winding (Non-Zero)</string>
+> 		<string>둘러싸기</string>
 < 		<string>Show Character</string>
 > 		<string>문자 보기</string>
 < 		<string>Media Browser…</string>
@@ -1329,13 +1335,13 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Insert Filler Text</string>
 > 		<string>Lorem Ipsum</string>
 < 		<string>Tight</string>
-> 		<string>좁게</string>
+> 		<string>좁은</string>
 < 		<string>Lower Baseline</string>
 > 		<string>기준선 내리기</string>
 < 		<string>Strikeout</string>
 > 		<string>취소선</string>
 < 		<string>Precise Bigger</string>
-> 		<string>조금씩 더 크게</string>
+> 		<string>조금씩 크게</string>
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Show Glyph Browser</string>
@@ -1393,7 +1399,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Intersect</string>
 > 		<string>교차</string>
 < 		<string>Import Text Styles…</string>
-> 		<string>텍스트 스타일 입력…</string>
+> 		<string>텍스트 스타일 넣기…</string>
 < 		<string>Move to Front</string>
 > 		<string>맨 앞으로 가져오기</string>
 < 		<string>Rotate Right</string>
@@ -1415,7 +1421,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Create Character Style</string>
 > 		<string>문자 스타일 생성</string>
 < 		<string>Tighten More</string>
-> 		<string>더 좁게</string>
+> 		<string>더욱 좁게</string>
 < 		<string>Curves</string>
 > 		<string>곡선</string>
 < 		<string>Single View</string>
@@ -1443,7 +1449,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Raise Baseline</string>
 > 		<string>기준선 올리기</string>
 < 		<string>Precise Smaller</string>
-> 		<string>조금씩 더 작게</string>
+> 		<string>조금씩 작게</string>
 < 		<string>Set No Character Style</string>
 > 		<string>문자 스타일 벗기기</string>
 < 		<string>Invert Pixel Selection</string>
@@ -1453,9 +1459,9 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Shadows / Highlights</string>
 > 		<string>그림자 / 빛</string>
 < 		<string>Bigger</string>
-> 		<string>더 크게</string>
+> 		<string>크게</string>
 < 		<string>Export Persona</string>
-> 		<string>출력 페르소나</string>
+> 		<string>꺼내기 페르소나</string>
 < 		<string>Support...</string>
 > 		<string>지원...</string>
 < 		<string>Toggle UI</string>
@@ -1485,7 +1491,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Promote Group to Layer</string>
 > 		<string>그룹을 레이어로 승격</string>
 < 		<string>Export…</string>
-> 		<string>출력…</string>
+> 		<string>꺼내기…</string>
 < 		<string>In Place</string>
 > 		<string>제자리에</string>
 < 		<string>Precise Raise Baseline</string>
@@ -1573,7 +1579,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 < 		<string>Justify All</string>
 > 		<string>양쪽 균등 정렬</string>
 < 		<string>Smaller</string>
-> 		<string>더 작게</string>
+> 		<string>작게</string>
 < 		<string>Move Forward One</string>
 > 		<string>앞으로 가져오기</string>
 < 		<string>Update Character Style</string>
@@ -1681,7 +1687,7 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>신규 조정</string>
 > 		<string>신규 조정</string>
 < 		<string>Fill Mode</string>
-> 		<string>채우기 모드</string>
+> 		<string>칠 모드</string>
 < 		<string>Select</string>
 > 		<string>선택</string>
 < 		<string>View</string>
@@ -1692,6 +1698,10 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/MainMenuVec
 > 		<string>윈도우</string>
 < 		<string>Bring All to Front</string>
 > 		<string>모두 앞으로 가져오기</string>
+< 		<string>Clean Up Floating Windows</string>
+< 		<string>Clean Up Floating Windows</string>
+> 		<string>펼쳐진 윈도우 정리</string>
+> 		<string>펼쳐진 윈도우 정리</string>
 < 		<string>Help</string>
 > 		<string>도움말</string>
 < 		<string>Text Wrap</string>
@@ -1742,6 +1752,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/assets.stri
 > 	<string>신규 문서</string>
 < 	<string>News</string>
 > 	<string>뉴스</string>
+< 	<string>Progress</string>
+> 	<string>진행상태</string>
 < 	<string>Share</string>
 > 	<string>공유</string>
 < 	<string>Tables</string>
