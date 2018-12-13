@@ -980,7 +980,7 @@ diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMe
 < 		<string>Pixels</string>
 > 		<string>픽셀</string>
 < 		<string>Place…</string>
-> 		<string>다른 문서 넣기…</string>
+> 		<string>배치…</string>
 < 		<string>Snapping Manager…</string>
 > 		<string>스내핑 관리자…</string>
 < 		<string>Paste Style</string>
@@ -1389,7 +1389,7 @@ diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMe
 < 		<string>Convert to Curves</string>
 > 		<string>곡선으로 전환</string>
 < 		<string>Place…</string>
-> 		<string>다른 문서 넣기…</string>
+> 		<string>배치…</string>
 < 		<string>Snapping Manager…</string>
 > 		<string>스내핑 관리자…</string>
 < 		<string>Paste Style</string>
@@ -1460,6 +1460,8 @@ diff /Applications/Affinity Designer Beta.app/Contents/Resources/en.lproj/MainMe
 > 		<string>취소선</string>
 < 		<string>Precise Bigger</string>
 > 		<string>조금씩 더 크게</string>
+< 		<string>Spread Setup…</string>
+> 		<string>스프레드 설정…</string>
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Layout Persona</string>
