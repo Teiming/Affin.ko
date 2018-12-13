@@ -482,15 +482,15 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 < 		<string>Split Complementary</string>
 > 		<string>분할 보색</string>
 < 		<string>Analogous</string>
-> 		<string>유사</string>
+> 		<string>유사색</string>
 < 		<string>Square</string>
 > 		<string>사각형</string>
 < 		<string>Tints</string>
-> 		<string>하양 혼합</string>
+> 		<string>틴트</string>
 < 		<string>Shades</string>
 > 		<string>검정 혼합</string>
 < 		<string>Tones</string>
-> 		<string>회색 혼합</string>
+> 		<string>톤</string>
 < 		<string>Opacity</string>
 > 		<string>불투명도</string>
 < 		<string>Hue</string>
@@ -1067,6 +1067,8 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 		<string>흑백</string>
 < 		<string>Custom</string>
 > 		<string>사용자화</string>
+< 		<string>Pixel format:</string>
+> 		<string>픽셀 포맷:</string>
 < 		<string>Preset:</string>
 > 		<string>프리셋:</string>
 < 		<string>Everything</string>
@@ -1389,6 +1391,8 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 		<string>시스템</string>
 < 		<string>Std. Dev.: -</string>
 > 		<string>표준편차: -</string>
+< 		<string>Marquee</string>
+> 		<string>천막</string>
 < 		<string>Layer</string>
 > 		<string>레이어</string>
 < 		<string>Max:</string>
@@ -2169,6 +2173,22 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>취소</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
+< 	<string>Cannot Create Assets</string>
+> 	<string>자산을 생성할 수 없음</string>
+< 	<string>Cannot Create Document</string>
+> 	<string>문서를 생성할 수 없음</string>
+< 	<string>Cannot Develop</string>
+> 	<string>현상할 수 없음</string>
+< 	<string>Cannot Export</string>
+> 	<string>꺼낼 수 없음</string>
+< 	<string>Cannot Import</string>
+> 	<string>넣을 수 없음</string>
+< 	<string>Cannot Print</string>
+> 	<string>인쇄할 수 없음</string>
+< 	<string>Cannot Share</string>
+> 	<string>공유할 수 없음</string>
+< 	<string>Cannot Tone Map</string>
+> 	<string>톤 매핑할 수 없음</string>
 < 	<string>Centimetres</string>
 > 	<string>센티미터</string>
 < 	<string>Centimetres</string>
@@ -2229,6 +2249,10 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>문자</string>
 < 	<string>Check Spelling While Typing</string>
 > 	<string>작성하는 동안 철자 확인</string>
+< 	<string>Choose the height of the marquee</string>
+> 	<string>천막의 높이를 선택</string>
+< 	<string>Choose the width of the marquee</string>
+> 	<string>천막의 너비를 선택</string>
 < 	<string>Clear Mask</string>
 > 	<string>마스크 해제</string>
 < 	<string>Clear selection</string>
@@ -2341,6 +2365,12 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>색상</string>
 < 	<string>Colours</string>
 > 	<string>색상</string>
+< 	<string>Column Marquee Tool</string>
+> 	<string>열 천막 도구</string>
+< 	<string>Column Marquee Tool</string>
+> 	<string>열 천막 도구</string>
+< 	<string>Column Marquee Tool</string>
+> 	<string>열 천막 도구</string>
 < 	<string>Combine</string>
 > 	<string>배타</string>
 < 	<string>Combine</string>
@@ -2671,6 +2701,12 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>타원</string>
 < 	<string>Ellipse</string>
 > 	<string>타원</string>
+< 	<string>Elliptical Marquee Tool</string>
+> 	<string>타원형 천막 도구</string>
+< 	<string>Elliptical Marquee Tool</string>
+> 	<string>타원형 천막 도구</string>
+< 	<string>Elliptical Marquee Tool</string>
+> 	<string>타원형 천막 도구</string>
 < 	<string>Elliptical</string>
 > 	<string>타원형</string>
 < 	<string>Elliptical</string>
@@ -3195,6 +3231,12 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>레이어</string>
 < 	<string>Maintain fill aspect ratio</string>
 > 	<string>칠 종횡비 유지</string>
+< 	<string>Marquee</string>
+> 	<string>천막</string>
+< 	<string>Marquees</string>
+> 	<string>천막</string>
+< 	<string>Marquees</string>
+> 	<string>천막</string>
 < 	<string>Mask All</string>
 > 	<string>모두 마스크</string>
 < 	<string>Mask</string>
@@ -3655,6 +3697,8 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>픽셀</string>
 < 	<string>Pixels</string>
 > 	<string>픽셀</string>
+< 	<string>Place Image Tool</string>
+> 	<string>이미지 배치 도구</string>
 < 	<string>Place Image</string>
 > 	<string>이미지 배치</string>
 < 	<string>Please choose a valid filename.</string>
@@ -3675,6 +3719,8 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>포인트</string>
 < 	<string>Points:</string>
 > 	<string>포인트:</string>
+< 	<string>Polygon Marquee Tool</string>
+> 	<string>다각형 천막 도구</string>
 < 	<string>Posterise</string>
 > 	<string>포스터화</string>
 < 	<string>Posterise</string>
@@ -3779,6 +3825,12 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>직사각형</string>
 < 	<string>Rectangle</string>
 > 	<string>직사각형</string>
+< 	<string>Rectangular Marquee Tool</string>
+> 	<string>직사각형 천막 도구</string>
+< 	<string>Rectangular Marquee Tool</string>
+> 	<string>직사각형 천막 도구</string>
+< 	<string>Rectangular Marquee Tool</string>
+> 	<string>직사각형 천막 도구</string>
 < 	<string>Red</string>
 > 	<string>빨강</string>
 < 	<string>Red</string>
@@ -3909,6 +3961,12 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>회전:</string>
 < 	<string>Rounded Rectangle Tool</string>
 > 	<string>둥근 직사각형 도구</string>
+< 	<string>Row Marquee Tool</string>
+> 	<string>행 천막 도구</string>
+< 	<string>Row Marquee Tool</string>
+> 	<string>행 천막 도구</string>
+< 	<string>Row Marquee Tool</string>
+> 	<string>행 천막 도구</string>
 < 	<string>Saturation</string>
 > 	<string>채도</string>
 < 	<string>Saturation</string>
@@ -3973,6 +4031,8 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>투명 범위 선택</string>
 < 	<string>Select</string>
 > 	<string>선택</string>
+< 	<string>Selection Marquee</string>
+> 	<string>선택 항목 천막</string>
 < 	<string>Selection</string>
 > 	<string>선택 항목</string>
 < 	<string>Selection</string>
@@ -4364,7 +4424,7 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 < 	<string>Tone Mapping</string>
 > 	<string>톤 맵핑</string>
 < 	<string>Tones</string>
-> 	<string>회색 혼합</string>
+> 	<string>톤</string>
 < 	<string>Tools</string>
 > 	<string>도구</string>
 < 	<string>Tools</string>
@@ -4653,8 +4713,12 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>[사용자]</string>
 < 	<string>[user]</string>
 > 	<string>[사용자]</string>
+< 	<string>above</string>
+> 	<string>위</string>
 < 	<string>background</string>
 > 	<string>배경</string>
+< 	<string>below</string>
+> 	<string>아래</string>
 < 	<string>dash</string>
 > 	<string>줄표</string>
 < 	<string>kB</string>
@@ -4665,6 +4729,8 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 	<string>없음</string>
 < 	<string>n/a</string>
 > 	<string>없음</string>
+< 	<string>|CLICK| to set the destination.</string>
+> 	<string>|CLICK|해서 목표를 설정합니다.</string>
 < 	<string>|DRAG| to move selection.</string>
 > 	<string>|DRAG|해서 선택 항목을 움직입니다.</string>
 < 	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>
@@ -5158,6 +5224,8 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 > 		<string>시스템</string>
 < 		<string>None</string>
 > 		<string>없음</string>
+< 		<string>Pixel format:</string>
+> 		<string>픽셀 포맷:</string>
 < 		<string>ICC profile:</string>
 > 		<string>ICC 프로파일:</string>
 < 		<string>Button</string>
@@ -5586,15 +5654,15 @@ diff /Applications/Affinity Designer.app/Contents/Frameworks/libcocoaui.framewor
 < 		<string>Split Complementary</string>
 > 		<string>분할 보색</string>
 < 		<string>Analogous</string>
-> 		<string>유사</string>
+> 		<string>유사색</string>
 < 		<string>Square</string>
 > 		<string>사각형</string>
 < 		<string>Tints</string>
-> 		<string>하양 혼합</string>
+> 		<string>틴트</string>
 < 		<string>Shades</string>
 > 		<string>검정 혼합</string>
 < 		<string>Tones</string>
-> 		<string>회색 혼합</string>
+> 		<string>톤</string>
 < 		<string>Edit Fill…</string>
 > 		<string>칠 편집…</string>
 < 		<string>Make Global</string>
