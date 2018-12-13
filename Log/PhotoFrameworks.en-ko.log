@@ -252,6 +252,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>시스템</string>
 < 		<string>Size:</string>
 > 		<string>크기:</string>
+< 		<string>Rotation:</string>
+> 		<string>회전:</string>
 < 		<string>Blend Mode:</string>
 > 		<string>혼합 모드:</string>
 < 		<string>Custom</string>
@@ -266,6 +268,30 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>각도</string>
 < 		<string>Rotation</string>
 > 		<string>회전</string>
+< 		<string>Velocity</string>
+> 		<string>속도</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
 < 		<string>Mode:</string>
 > 		<string>모드:</string>
 < 		<string>Add</string>
@@ -276,6 +302,22 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>반전</string>
 < 		<string>Texture</string>
 > 		<string>질감</string>
+< 		<string>Head Offset:</string>
+> 		<string>머리 오프셋:</string>
+< 		<string>Tail Offset:</string>
+> 		<string>꼬리 오프셋:</string>
+< 		<string>Body:</string>
+> 		<string>몸:</string>
+< 		<string>Corners:</string>
+> 		<string>꼭짓점:</string>
+< 		<string>Brush Width:</string>
+> 		<string>브러시 너비:</string>
+< 		<string>Opacity Variance:</string>
+> 		<string>불투명도 분산:</string>
+< 		<string>Size Variance:</string>
+> 		<string>크기 분산:</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
 < 		<string>Stroke</string>
 > 		<string>선</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/BrushItemView.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/BrushItemView.nib
@@ -849,6 +891,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>그레이디언트</string>
 < 		<string>Fill style:</string>
 > 		<string>칠 스타일:</string>
+< 		<string>Outside</string>
+> 		<string>바깥</string>
 < 		<string>Centre</string>
 > 		<string>가운데</string>
 < 		<string>Inside</string>
@@ -981,7 +1025,7 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Export</string>
-> 		<string>출력</string>
+> 		<string>꺼내기</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportFileItemView.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportFileItemView.nib
@@ -1003,7 +1047,7 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 < 		<string>Export</string>
-> 		<string>출력</string>
+> 		<string>꺼내기</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportOptionsPresetDetail.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportOptionsPresetDetail.nib
@@ -1012,8 +1056,12 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportOptionsView.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportOptionsView.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>File format:</string>
+> 		<string>파일 포맷:</string>
 < 		<string>None</string>
 > 		<string>없음</string>
+< 		<string>ICC profile:</string>
+> 		<string>ICC 프로파일:</string>
 < 		<string>Button</string>
 > 		<string>버튼</string>
 < 		<string>Delete preset</string>
@@ -1039,9 +1087,9 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportWindowController.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportWindowController.nib
 < 		<string>Don't export layers hidden by Export persona</string>
-> 		<string>출력 페르소나에서 숨긴 레이어는 출력하지 않음.</string>
+> 		<string>꺼내기 페르소나에서 숨긴 레이어는 꺼내지 않음.</string>
 < 		<string>Export</string>
-> 		<string>출력</string>
+> 		<string>꺼내기</string>
 < 		<string>Area:</string>
 > 		<string>영역:</string>
 < 		<string>System</string>
@@ -1057,13 +1105,23 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableItemView.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportableItemView.nib
+< 		<string>Path:</string>
+> 		<string>경로:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportableItemsPage.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportableItemsPage.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Continuous</string>
+> 		<string>연속</string>
+< 		<string>Export Slices (000)</string>
+> 		<string>슬라이스 꺼내기 (000)</string>
+< 		<string>Export preset:</string>
+> 		<string>꺼내기 프리셋:</string>
 < 		<string>Copy</string>
 > 		<string>복사</string>
+< 		<string>Delete selected slice</string>
+> 		<string>선택된 슬라이스 지우기</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportablePathView.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportablePathView.nib
 < 		<string>Done</string>
 > 		<string>완료</string>
@@ -1389,6 +1447,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>평균</string>
 < 		<string>Maximum</string>
 > 		<string>최대</string>
+< 		<string>Standard Deviation</string>
+> 		<string>표준 편차</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPage.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/LayerPage.nib
 < 		<string>Auto-scroll</string>
 > 		<string>자동 스크롤</string>
@@ -1406,6 +1466,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>가리기</string>
 < 		<string>Lock</string>
 > 		<string>잠금</string>
+< 		<string>Exclude From Snapping</string>
+> 		<string>스내핑에서 제외</string>
 < 		<string>Delete</string>
 > 		<string>지우기</string>
 < 		<string>Duplicate</string>
@@ -1420,6 +1482,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>신규 레이어</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>신규 픽셀 레이어</string>
+< 		<string>Exclude From Snapping</string>
+> 		<string>스내핑에서 제외</string>
 < 		<string>Merge Visible</string>
 > 		<string>보이는 항목 통합</string>
 < 		<string>Group</string>
@@ -1430,6 +1494,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>래스터화…</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>신규 픽셀 레이어</string>
+< 		<string>Exclude From Snapping</string>
+> 		<string>스내핑에서 제외</string>
 < 		<string>Merge Down</string>
 > 		<string>아래 항목 통합</string>
 < 		<string>Merge Visible</string>
@@ -1583,6 +1649,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>시스템</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
+< 		<string>Tab</string>
+> 		<string>탭</string>
 < 		<string>View</string>
 > 		<string>뷰</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Localizable.strings /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Localizable.strings
@@ -1610,6 +1678,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>절대 크기</string>
 < 	<string>Action:</string>
 > 	<string>행동:</string>
+< 	<string>Add %1</string>
+> 	<string>%1 추가</string>
+< 	<string>Add Adjustment Preset</string>
+> 	<string>조정 프리셋 추가</string>
 < 	<string>Add Application Palette</string>
 > 	<string>응용프로그램 팔레트 추가</string>
 < 	<string>Add Artistic Text</string>
@@ -1902,6 +1974,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>평균</string>
 < 	<string>Back One</string>
 > 	<string>뒤로 보내기</string>
+< 	<string>Background Erase Brush Tool</string>
+> 	<string>배경 지우기 브러시 도구</string>
 < 	<string>Background</string>
 > 	<string>배경</string>
 < 	<string>Background</string>
@@ -1962,6 +2036,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>혼합 모드:</string>
 < 	<string>Blend Mode:</string>
 > 	<string>혼합 모드:</string>
+< 	<string>Blend</string>
+> 	<string>혼합</string>
+< 	<string>Blend</string>
+> 	<string>혼합</string>
 < 	<string>Blue</string>
 > 	<string>파랑</string>
 < 	<string>Blue</string>
@@ -1978,6 +2056,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>블러 브러시 도구</string>
 < 	<string>Blur</string>
 > 	<string>블러</string>
+< 	<string>Body</string>
+> 	<string>몸</string>
 < 	<string>Bold</string>
 > 	<string>강조</string>
 < 	<string>Bold</string>
@@ -2014,6 +2094,16 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>명암</string>
 < 	<string>Brightness</string>
 > 	<string>명암</string>
+< 	<string>Brs</string>
+> 	<string>브러시</string>
+< 	<string>Brush - Document Defaults</string>
+> 	<string>브러시 - 문서 기본값</string>
+< 	<string>Brush - Editing [%@]</string>
+> 	<string>브러시 - 편집 [%@]</string>
+< 	<string>Brush - Selection</string>
+> 	<string>브러시 - 선택 항목</string>
+< 	<string>Brush Defaults</string>
+> 	<string>브러시 기본값</string>
 < 	<string>Brush</string>
 > 	<string>브러시</string>
 < 	<string>Brush</string>
@@ -2040,6 +2130,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>브러시</string>
 < 	<string>Brushes</string>
 > 	<string>브러시</string>
+< 	<string>Callout Ellipse Tool</string>
+> 	<string>타원 도구 호출</string>
+< 	<string>Callout Ellipse Tool</string>
+> 	<string>타원 도구 호출</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
 < 	<string>Cancel</string>
@@ -2192,6 +2286,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>구름</string>
 < 	<string>Cloud</string>
 > 	<string>구름</string>
+< 	<string>Clr</string>
+> 	<string>색상</string>
 < 	<string>Cog Tool</string>
 > 	<string>톱니 도구</string>
 < 	<string>Cog Tool</string>
@@ -2298,6 +2394,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>문단</string>
 < 	<string>Context:</string>
 > 	<string>상황:</string>
+< 	<string>Continuous</string>
+> 	<string>연속</string>
+< 	<string>Continuous</string>
+> 	<string>연속</string>
 < 	<string>Contrast Negate</string>
 > 	<string>대비 부정</string>
 < 	<string>Contrast</string>
@@ -2308,6 +2408,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>대비</string>
 < 	<string>Contrast</string>
 > 	<string>대비</string>
+< 	<string>Controller:</string>
+> 	<string>제어기:</string>
 < 	<string>Convert</string>
 > 	<string>전환</string>
 < 	<string>Convert</string>
@@ -2564,6 +2666,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>편집</string>
 < 	<string>Effects</string>
 > 	<string>효과</string>
+< 	<string>Ellipse Tool</string>
+> 	<string>타원 도구</string>
+< 	<string>Ellipse Tool</string>
+> 	<string>타원 도구</string>
 < 	<string>Ellipse</string>
 > 	<string>타원</string>
 < 	<string>Ellipse</string>
@@ -2616,6 +2722,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>수식</string>
 < 	<string>Equations</string>
 > 	<string>수식</string>
+< 	<string>Erase Brush Tool</string>
+> 	<string>지우기 브러시 도구</string>
+< 	<string>Erase Brush Tool</string>
+> 	<string>지우기 브러시 도구</string>
 < 	<string>Erase</string>
 > 	<string>지우기</string>
 < 	<string>Erase</string>
@@ -2633,21 +2743,27 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 	<string>Expand stroke</string>
 > 	<string>선 펼치기</string>
 < 	<string>Export LUT</string>
-> 	<string>LUT 출력</string>
+> 	<string>LUT 꺼내기</string>
 < 	<string>Export LUT</string>
-> 	<string>LUT 출력</string>
+> 	<string>LUT 꺼내기</string>
 < 	<string>Export Options</string>
-> 	<string>출력 설정</string>
+> 	<string>꺼내기 설정</string>
+< 	<string>Export Slices (%d)</string>
+> 	<string>슬라이스 꺼내기 (%d)</string>
+< 	<string>Export Slices</string>
+> 	<string>슬라이스 꺼내기</string>
 < 	<string>Export</string>
-> 	<string>출력</string>
+> 	<string>꺼내기</string>
 < 	<string>Export</string>
-> 	<string>출력</string>
+> 	<string>꺼내기</string>
 < 	<string>Export</string>
-> 	<string>출력</string>
+> 	<string>꺼내기</string>
 < 	<string>Export</string>
-> 	<string>출력</string>
+> 	<string>꺼내기</string>
 < 	<string>Export</string>
-> 	<string>출력</string>
+> 	<string>꺼내기</string>
+< 	<string>Exportable</string>
+> 	<string>꺼낼 수 있음</string>
 < 	<string>Exposure</string>
 > 	<string>노출</string>
 < 	<string>Exposure</string>
@@ -2714,8 +2830,16 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>세로 뒤집기</string>
 < 	<string>Flip Vertical</string>
 > 	<string>세로 뒤집기</string>
+< 	<string>Fold</string>
+> 	<string>접기</string>
 < 	<string>Font:</string>
 > 	<string>서체:</string>
+< 	<string>Foreground</string>
+> 	<string>전경</string>
+< 	<string>Foreground</string>
+> 	<string>전경</string>
+< 	<string>Foreground</string>
+> 	<string>전경</string>
 < 	<string>Forward One</string>
 > 	<string>앞으로 가져오기</string>
 < 	<string>Frame Text Tool</string>
@@ -2813,21 +2937,23 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 	<string>HSL Sliders</string>
 > 	<string>HSL 슬라이더</string>
 < 	<string>Heart Tool</string>
-> 	<string>심장 도구</string>
+> 	<string>하트 도구</string>
 < 	<string>Heart Tool</string>
-> 	<string>심장 도구</string>
+> 	<string>하트 도구</string>
 < 	<string>Heart</string>
-> 	<string>심장</string>
+> 	<string>하트</string>
 < 	<string>Heart</string>
-> 	<string>심장</string>
+> 	<string>하트</string>
 < 	<string>Heart</string>
-> 	<string>심장</string>
+> 	<string>하트</string>
 < 	<string>Help</string>
 > 	<string>도움말</string>
 < 	<string>Help</string>
 > 	<string>도움말</string>
 < 	<string>Hide Selection while Dragging</string>
 > 	<string>드래그할 때 선택 항목 가리기</string>
+< 	<string>His</string>
+> 	<string>기록</string>
 < 	<string>Histogram</string>
 > 	<string>히스토그램</string>
 < 	<string>Histogram</string>
@@ -2863,7 +2989,7 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 	<string>Icon Only</string>
 > 	<string>아이콘만</string>
 < 	<string>Import Brushes</string>
-> 	<string>브러시 입력</string>
+> 	<string>브러시 넣기</string>
 < 	<string>Inches</string>
 > 	<string>인치</string>
 < 	<string>Inches</string>
@@ -3066,6 +3192,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>잠금</string>
 < 	<string>Lock</string>
 > 	<string>잠금</string>
+< 	<string>Lyr</string>
+> 	<string>레이어</string>
+< 	<string>Maintain fill aspect ratio</string>
+> 	<string>칠 종횡비 유지</string>
 < 	<string>Mask All</string>
 > 	<string>모두 마스크</string>
 < 	<string>Mask</string>
@@ -3187,6 +3317,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 	<string>Negate</string>
 > 	<string>부정</string>
 < 	<string>Negate</string>
+> 	<string>부정</string>
+< 	<string>Negation</string>
+> 	<string>부정</string>
+< 	<string>Negation</string>
 > 	<string>부정</string>
 < 	<string>New Document</string>
 > 	<string>신규 문서</string>
@@ -3340,6 +3474,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>정규</string>
 < 	<string>Normal</string>
 > 	<string>정규</string>
+< 	<string>Nvg</string>
+> 	<string>네비게이터</string>
 < 	<string>OK</string>
 > 	<string>확인</string>
 < 	<string>OK</string>
@@ -3418,6 +3554,18 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>윤곽</string>
 < 	<string>Outline</string>
 > 	<string>윤곽</string>
+< 	<string>Output Angle</string>
+> 	<string>출력 각도</string>
+< 	<string>Output</string>
+> 	<string>출력</string>
+< 	<string>Outside</string>
+> 	<string>바깥</string>
+< 	<string>Outside</string>
+> 	<string>바깥</string>
+< 	<string>Outside</string>
+> 	<string>바깥</string>
+< 	<string>Overlap</string>
+> 	<string>덮기</string>
 < 	<string>Page</string>
 > 	<string>페이지</string>
 < 	<string>Page</string>
@@ -3552,6 +3700,12 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>인쇄</string>
 < 	<string>Print</string>
 > 	<string>인쇄</string>
+< 	<string>Protect Alpha</string>
+> 	<string>알파 보호</string>
+< 	<string>Protect Alpha</string>
+> 	<string>알파 보호</string>
+< 	<string>Pull</string>
+> 	<string>당기기</string>
 < 	<string>RGB Sliders</string>
 > 	<string>RGB 슬라이더</string>
 < 	<string>Radial</string>
@@ -3696,6 +3850,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>저장하지 않은 파일을 복원하겠습니까?</string>
 < 	<string>Retina Pixels</string>
 > 	<string>레티나 픽셀</string>
+< 	<string>Reverse gradient</string>
+> 	<string>그레이디언트 거꾸로</string>
 < 	<string>Revert</string>
 > 	<string>되돌리기</string>
 < 	<string>Right</string>
@@ -3718,6 +3874,12 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>오른쪽 곡선</string>
 < 	<string>Right curve:</string>
 > 	<string>오른쪽 곡선:</string>
+< 	<string>Rope length</string>
+> 	<string>밧줄 길이</string>
+< 	<string>Rope mode - The brush is dragged as though it is attached with a rope. Useful for smooth, slow sections with sharp corners</string>
+> 	<string>밧줄 모드 - 밧줄에 붙어있는 것처럼 브러시를 드래그합니다. 뾰족한 꼭짓점을 매끄럽게 그릴 때 유용합니다.</string>
+< 	<string>Rope stabiliser</string>
+> 	<string>밧줄 안정 장치</string>
 < 	<string>Rotate Anticlockwise</string>
 > 	<string>반시계방향으로 회전</string>
 < 	<string>Rotate Anticlockwise</string>
@@ -3726,6 +3888,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>시계방향으로 회전</string>
 < 	<string>Rotate Clockwise</string>
 > 	<string>시계방향으로 회전</string>
+< 	<string>Rotate gradient</string>
+> 	<string>그레이디언트 회전</string>
 < 	<string>Rotation</string>
 > 	<string>회전</string>
 < 	<string>Rotation</string>
@@ -3738,6 +3902,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>회전</string>
 < 	<string>Rotation</string>
 > 	<string>회전</string>
+< 	<string>Rotation:</string>
+> 	<string>회전:</string>
+< 	<string>Rotation:</string>
+> 	<string>회전:</string>
 < 	<string>Rounded Rectangle Tool</string>
 > 	<string>둥근 직사각형 도구</string>
 < 	<string>Saturation</string>
@@ -3800,6 +3968,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>전체 선택</string>
 < 	<string>Select All</string>
 > 	<string>전체 선택</string>
+< 	<string>Select Transparency Range</string>
+> 	<string>투명 범위 선택</string>
 < 	<string>Select</string>
 > 	<string>선택</string>
 < 	<string>Selection</string>
@@ -3820,6 +3990,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>색상 선택</string>
 < 	<string>Selective Colour</string>
 > 	<string>색상 선택</string>
+< 	<string>Set current selection</string>
+> 	<string>지금 선택 항목 설정</string>
+< 	<string>Set current text selection</string>
+> 	<string>지금 텍스트 선택 항목 설정</string>
 < 	<string>Shadows / Highlights</string>
 > 	<string>그림자 / 빛</string>
 < 	<string>Shadows / Highlights</string>
@@ -3890,6 +4064,18 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>크기:</string>
 < 	<string>Size:</string>
 > 	<string>크기:</string>
+< 	<string>Slice Selection Tool</string>
+> 	<string>슬라이스 선택 도구</string>
+< 	<string>Slice Selection Tool</string>
+> 	<string>슬라이스 선택 도구</string>
+< 	<string>Slice Selection Tool</string>
+> 	<string>슬라이스 선택 도구</string>
+< 	<string>Slice Tool</string>
+> 	<string>슬라이스 도구</string>
+< 	<string>Slice Tool</string>
+> 	<string>슬라이스 도구</string>
+< 	<string>Slice Tool</string>
+> 	<string>슬라이스 도구</string>
 < 	<string>Slices</string>
 > 	<string>슬라이스</string>
 < 	<string>Slices</string>
@@ -3901,9 +4087,9 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 	<string>Small Caps</string>
 > 	<string>작은 대문자</string>
 < 	<string>Small</string>
-> 	<string>작게</string>
+> 	<string>작은</string>
 < 	<string>Small</string>
-> 	<string>작게</string>
+> 	<string>작은</string>
 < 	<string>Smallest</string>
 > 	<string>가장 작게</string>
 < 	<string>Smallest</string>
@@ -3944,6 +4130,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>스냅샷 작업실</string>
 < 	<string>Snapshots</string>
 > 	<string>스냅샷</string>
+< 	<string>Snp</string>
+> 	<string>스냅</string>
 < 	<string>Soft Proof</string>
 > 	<string>미리보기</string>
 < 	<string>Soft Proof</string>
@@ -3984,6 +4172,12 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>분할</string>
 < 	<string>Square</string>
 > 	<string>사각형</string>
+< 	<string>Stabiliser</string>
+> 	<string>안정 장치</string>
+< 	<string>Stabiliser</string>
+> 	<string>안정 장치</string>
+< 	<string>Standard Deviation</string>
+> 	<string>표준 편차</string>
 < 	<string>Standard</string>
 > 	<string>표준</string>
 < 	<string>Star Tool</string>
@@ -4012,6 +4206,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>선:</string>
 < 	<string>Strong</string>
 > 	<string>강하게</string>
+< 	<string>Sty</string>
+> 	<string>스타일</string>
 < 	<string>Style</string>
 > 	<string>스타일</string>
 < 	<string>Style</string>
@@ -4198,6 +4394,12 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>투명 도구</string>
 < 	<string>Transparency Tool</string>
 > 	<string>투명 도구</string>
+< 	<string>Transparent</string>
+> 	<string>투명</string>
+< 	<string>Transparent</string>
+> 	<string>투명</string>
+< 	<string>Transparent</string>
+> 	<string>투명</string>
 < 	<string>Triangle Tool</string>
 > 	<string>삼각형 도구</string>
 < 	<string>Triangle Tool</string>
@@ -4278,6 +4480,12 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>벡터</string>
 < 	<string>Vector</string>
 > 	<string>벡터</string>
+< 	<string>Velocity (Inverse)</string>
+> 	<string>속도 (반전)</string>
+< 	<string>Velocity</string>
+> 	<string>속도</string>
+< 	<string>Velocity</string>
+> 	<string>속도</string>
 < 	<string>Vibrance</string>
 > 	<string>활기</string>
 < 	<string>Vibrance</string>
@@ -4312,6 +4520,10 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>웹</string>
 < 	<string>Web</string>
 > 	<string>웹</string>
+< 	<string>Wet Edges</string>
+> 	<string>젖은 모서리</string>
+< 	<string>Wet Edges</string>
+> 	<string>젖은 모서리</string>
 < 	<string>White Balance</string>
 > 	<string>화이트 밸런스</string>
 < 	<string>White Balance</string>
@@ -4376,8 +4588,16 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 	<string>윈도우</string>
 < 	<string>Window</string>
 > 	<string>윈도우</string>
+< 	<string>Window mode - The input positions are averaged over a flexible window. Produces a smooth, flowing input</string>
+> 	<string>윈도우 모드 - 입력 위치가 유연한 윈도우에 펼쳐집니다. 매끄러운 움직임을 입력할 수 있습니다.</string>
+< 	<string>Window size</string>
+> 	<string>윈도우 크기</string>
+< 	<string>Window:</string>
+> 	<string>윈도우:</string>
 < 	<string>Would you like to save this document?</string>
 > 	<string>문서를 저장하시겠습니까?</string>
+< 	<string>Xfm</string>
+> 	<string>변형</string>
 < 	<string>Yards</string>
 > 	<string>야드</string>
 < 	<string>Yards</string>
@@ -4472,7 +4692,7 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Export</string>
-> 		<string>출력</string>
+> 		<string>꺼내기</string>
 < 		<string>Reset</string>
 > 		<string>재설정</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MacroSelectLayerPanel.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MacroSelectLayerPanel.nib
@@ -4546,6 +4766,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>거울</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Output</string>
+> 		<string>출력</string>
 < 		<string>Apply</string>
 > 		<string>적용</string>
 < 		<string>Cancel</string>
@@ -4585,6 +4807,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>적용</string>
 < 		<string>Remove</string>
 > 		<string>지우기</string>
+< 		<string>Output</string>
+> 		<string>출력</string>
 < 		<string>Save as JPEG</string>
 > 		<string>JPEG(으)로 저장</string>
 < 		<string>Save as PNG</string>
@@ -4798,6 +5022,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>취소</string>
 < 		<string>Centre</string>
 > 		<string>가운데</string>
+< 		<string>Outside</string>
+> 		<string>바깥</string>
 < 		<string>Inside</string>
 > 		<string>안으로</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Page Setup.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Page Setup.nib
@@ -4925,10 +5151,14 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>System</string>
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PalettisationView.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PalettisationView.nib
+< 		<string>File format:</string>
+> 		<string>파일 포맷:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>None</string>
 > 		<string>없음</string>
+< 		<string>ICC profile:</string>
+> 		<string>ICC 프로파일:</string>
 < 		<string>Button</string>
 > 		<string>버튼</string>
 < 		<string>Preset:</string>
@@ -4984,6 +5214,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>일반</string>
 < 		<string>Saturation</string>
 > 		<string>채도</string>
+< 		<string>and warn</string>
+> 		<string>경고</string>
 < 		<string>Select...</string>
 > 		<string>선택...</string>
 < 		<string>Colour</string>
@@ -4994,10 +5226,26 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>픽셀:</string>
 < 		<string>Points:</string>
 > 		<string>포인트:</string>
+< 		<string>Feet:</string>
+> 		<string>피트:</string>
+< 		<string>Yards:</string>
+> 		<string>야드:</string>
 < 		<string>Millimetres:</string>
 > 		<string>밀리미터:</string>
+< 		<string>Centimetres:</string>
+> 		<string>센티미터:</string>
+< 		<string>Metres:</string>
+> 		<string>미터:</string>
 < 		<string>Reset</string>
 > 		<string>재설정</string>
+< 		<string>Decimal Places for Unit Types:</string>
+> 		<string>단위 종류별 소수점 위치:</string>
+< 		<string>Show brush previews</string>
+> 		<string>브러시 미리보기 보기</string>
+< 		<string>Monochromatic Iconography</string>
+> 		<string>단색 아이콘</string>
+< 		<string>Always show brush crosshair</string>
+> 		<string>브러시 십자선 항상 보기</string>
 < 		<string>UI Style:</string>
 > 		<string>UI 스타일:</string>
 < 		<string>Tools</string>
@@ -5075,10 +5323,14 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>조정 브러시</string>
 < 		<string>Smooth</string>
 > 		<string>매끈하게</string>
+< 		<string>Transparent</string>
+> 		<string>투명</string>
 < 		<string>Apply</string>
 > 		<string>적용</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
+< 		<string>Output</string>
+> 		<string>출력</string>
 < 		<string>Selection</string>
 > 		<string>선택 항목</string>
 < 		<string>Mask</string>
@@ -5126,6 +5378,8 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 > 		<string>크기</string>
 < 		<string>Close</string>
 > 		<string>닫기</string>
+< 		<string>ICC profile:</string>
+> 		<string>ICC 프로파일:</string>
 diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/RippleEffect.nib /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/RippleEffect.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -5287,7 +5541,7 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>Show as List</string>
 > 		<string>목록으로 보기</string>
 < 		<string>Small</string>
-> 		<string>작게</string>
+> 		<string>작은</string>
 < 		<string>Medium</string>
 > 		<string>중간</string>
 < 		<string>Large</string>
@@ -5299,9 +5553,9 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>Colour</string>
 > 		<string>색상</string>
 < 		<string>Import Palette…</string>
-> 		<string>팔레트 입력…</string>
+> 		<string>팔레트 넣기…</string>
 < 		<string>Import Palette…</string>
-> 		<string>팔레트 입력…</string>
+> 		<string>팔레트 넣기…</string>
 < 		<string>As Application Palette</string>
 > 		<string>응용프로그램 팔레트로</string>
 < 		<string>As Document Palette</string>
@@ -5309,7 +5563,7 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>As System Palette</string>
 > 		<string>시스템 팔레트로</string>
 < 		<string>Export Palette…</string>
-> 		<string>팔레트 출력…</string>
+> 		<string>팔레트 꺼내기…</string>
 < 		<string>Opacity:</string>
 > 		<string>불투명도:</string>
 < 		<string>System</string>
@@ -5423,7 +5677,7 @@ diff /Applications/Affinity Photo.app/Contents/Frameworks/libcocoaui.framework/V
 < 		<string>Square</string>
 > 		<string>사각형</string>
 < 		<string>Tight</string>
-> 		<string>좁게</string>
+> 		<string>좁은</string>
 < 		<string>Inside</string>
 > 		<string>안으로</string>
 < 		<string>Edge</string>
