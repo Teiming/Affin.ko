@@ -11,6 +11,7 @@ s/g>Absolute sizes</g>절대 크기</
 s/g>Action:</g>행동:</
 s/g>Actual Size</g>실제 크기</
 s/g>Add %1</g>%1 추가</
+s/g>Add Adjustment Preset</g>조정 프리셋 추가</
 s/g>Add Application Palette</g>응용프로그램 팔레트 추가</
 s/g>Add Artistic Text</g>에술 텍스트 추가</
 s/g>Add Chord to Swatch</g>견본에 코드 추가</
@@ -99,7 +100,8 @@ s/g>Before \/ After</g>이전 \/ 이후</
 s/g>Before</g>이전</
 s/g>Behind</g>뒤로</
 s/g>Bevel \/ Emboss</g>음각 \/ 양각</
-s/g>Bigger</g>더 크게</
+s/g>Big</g>큰</
+s/g>Bigger</g>크게</
 s/g>Black &amp; White</g>흑백</
 s/g>Black 10%</g>검정 10%</
 s/g>Black 15%</g>검정 15%</
@@ -502,7 +504,7 @@ s/g>Linear</g>선형</
 s/g>Liquify Persona</g>액화 페르소나</
 s/g>Liquify</g>액화</
 s/g>Lock</g>잠금</
-s/g>Loosen More</g>더 넓게</
+s/g>Loosen More</g>더욱 넓게</
 s/g>Loosen</g>넓게</
 s/g>Lower Baseline</g>기준선 내리기</
 s/g>Lyr</g>레이어</
@@ -664,12 +666,12 @@ s/g>Points</g>포인트</
 s/g>Portrait</g>세로 방향</
 s/g>Position:</g>위치:</
 s/g>Posterise</g>포스터화</
-s/g>Precise Bigger</g>조금씩 더 크게</
+s/g>Precise Bigger</g>조금씩 크게</
 s/g>Precise Decrease</g>조금씩 줄이기</
 s/g>Precise Increase</g>조금씩 늘리기</
 s/g>Precise Lower Baseline</g>기준선 조금씩 낮추기</
 s/g>Precise Raise Baseline</g>기준선 조금씩 올리기</
-s/g>Precise Smaller</g>조금씩 더 작게</
+s/g>Precise Smaller</g>조금씩 작게</
 s/g>Preferences</g>환경설정</
 s/g>Preferences…</g>환경설정…</
 s/g>Preserve alpha</g>알파 유지</
@@ -843,8 +845,8 @@ s/g>Size</g>크기</
 s/g>Slices</g>슬라이스</
 s/g>Sliders</g>슬라이더</
 s/g>Small Caps</g>작은 대문자</
-s/g>Small</g>작게</
-s/g>Smaller</g>더 작게</
+s/g>Small</g>작은</
+s/g>Smaller</g>작게</
 s/g>Smallest</g>가장 작게</
 s/g>Smart</g>스마트</
 s/g>Smooth</g>매끈하게</
@@ -931,8 +933,8 @@ s/g>Text Wrap</g>줄바꿈</
 s/g>Text</g>텍스트</
 s/g>Texture</g>질감</
 s/g>Threshold</g>역치</
-s/g>Tight</g>좁게</
-s/g>Tighten More</g>더 좁게</
+s/g>Tight</g>좁은</
+s/g>Tighten More</g>더욱 좁게</
 s/g>Tighten</g>좁게</
 s/g>Tint</g>틴트</
 s/g>Tints</g>하양 혼합</
