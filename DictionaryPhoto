@@ -307,7 +307,7 @@ s/g>Document Setup…</g>문서 설정…</
 s/g>Document Units:</g>문서 단위:</
 s/g>Document</g>문서</
 s/g>Don't Save</g>저장하지 않음</
-s/g>Don't export layers hidden by Export persona</g>출력 페르소나에서 숨긴 레이어는 출력하지 않음.</
+s/g>Don't export layers hidden by Export persona</g>꺼내기 페르소나에서 숨긴 레이어는 꺼내지 않음.</
 s/g>Don't restore</g>복원하지 않음</
 s/g>Done</g>완료</
 s/g>Donut Tool</g>도넛 도구</
@@ -342,20 +342,20 @@ s/g>Everything</g>모두</
 s/g>Exclude From Snapping</g>스내핑에서 제외</
 s/g>Expand Stroke</g>선 펼치기</
 s/g>Expand stroke</g>선 펼치기</
-s/g>Export LUT</g>LUT 출력</
-s/g>Export Options</g>출력 설정</
-s/g>Export Palette…</g>팔레트 출력…</
-s/g>Export Persona</g>출력 페르소나</
-s/g>Export Slices (%d)</g>슬라이스 출력 (%d)</
-s/g>Export Slices (000)</g>슬라이스 출력 (000)</
-s/g>Export Slices</g>슬라이스 출력</
-s/g>Export preset...</g>출력 프리셋...</
-s/g>Export preset:</g>출력 프리셋:</
-s/g>Export preset</g>출력 프리셋</
-s/g>Export presets</g>출력 프리셋</
-s/g>Export</g>출력</
-s/g>Exportable</g>출력 가능</
-s/g>Export…</g>출력…</
+s/g>Export LUT</g>LUT 꺼내기</
+s/g>Export Options</g>꺼내기 설정</
+s/g>Export Palette…</g>팔레트 꺼내기…</
+s/g>Export Persona</g>꺼내기 페르소나</
+s/g>Export Slices (%d)</g>슬라이스 꺼내기 (%d)</
+s/g>Export Slices (000)</g>슬라이스 꺼내기 (000)</
+s/g>Export Slices</g>슬라이스 꺼내기</
+s/g>Export preset...</g>꺼내기 프리셋...</
+s/g>Export preset:</g>꺼내기 프리셋:</
+s/g>Export preset</g>꺼내기 프리셋</
+s/g>Export presets</g>꺼내기 프리셋</
+s/g>Export</g>꺼내기</
+s/g>Exportable</g>꺼낼 수 있음</
+s/g>Export…</g>꺼내기…</
 s/g>Exposure:</g>노출:</
 s/g>Exposure</g>노출</
 s/g>Factory Reset</g>기본값 재설정</
@@ -438,9 +438,9 @@ s/g>Icon Only</g>아이콘만</
 s/g>Icon and Text</g>아이콘과 텍스트</
 s/g>Ignore Misspelt Word</g>철자 오류 무시</
 s/g>Ignore Text Wraps</g>줄바꿈 무시</
-s/g>Import Brushes</g>브러시 입력</
-s/g>Import Palette…</g>팔레트 입력…</
-s/g>Import Text Styles…</g>텍스트 스타일 입력…</
+s/g>Import Brushes</g>브러시 넣기</
+s/g>Import Palette…</g>팔레트 넣기…</
+s/g>Import Text Styles…</g>텍스트 스타일 넣기…</
 s/g>In Place</g>제자리에</
 s/g>Inches</g>인치</
 s/g>Include Margins</g>여백 포함</
@@ -944,6 +944,7 @@ s/g>Swatches</g>견본</
 s/g>Switch to Next View</g>다음 뷰로 전환</
 s/g>Symbols Studio</g>상징 작업실</
 s/g>Symbols</g>상징</
+s/g>Symmetry</g>대칭</
 s/g>Sync After</g>이후 항목 동기화</
 s/g>Sync Before</g>이전 항목 동기화</
 s/g>Synchronise Defaults</g>기본값 동기화</
