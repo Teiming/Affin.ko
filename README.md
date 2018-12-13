@@ -68,6 +68,6 @@ sudo rm /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framewo
 sudo rm /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
 ```
 ## Feedback
-번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.
+번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6) 또는 [디스코드 채팅 채널](https://discord.gg/Y2DGXE3)에서 번역을 직접 제안하고 최적의 번역본으로 업데이트하세요.
 ***
 © 2018 Serif (Europe) Ltd, All rights reserved
