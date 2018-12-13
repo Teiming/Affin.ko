@@ -39,7 +39,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/ContextMe
 < 		<string>Move Inside</string>
 > 		<string>안으로 가져오기</string>
 < 		<string>Move Outside</string>
-> 		<string>밖으로 보내기</string>
+> 		<string>바깥으로 보내기</string>
 < 		<string>Alignment</string>
 > 		<string>정렬</string>
 < 		<string>Align Left</string>
@@ -93,15 +93,15 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/ContextMe
 < 		<string>Add to Swatches…</string>
 > 		<string>견본에 추가…</string>
 < 		<string>From Fill</string>
-> 		<string>칠</string>
+> 		<string>칠에서</string>
 < 		<string>From Line</string>
-> 		<string>선</string>
+> 		<string>선에서</string>
 < 		<string>From Both</string>
 > 		<string>모두</string>
 < 		<string>From Fill As Global</string>
-> 		<string>칠 (전역)</string>
+> 		<string>칠에서 (전역)</string>
 < 		<string>From Line As Global</string>
-> 		<string>선 (전역)</string>
+> 		<string>선에서 (전역)</string>
 < 		<string>From Both As Global</string>
 > 		<string>모두 (전역)</string>
 < 		<string>Find in Layers Panel</string>
@@ -123,13 +123,13 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/ContextMe
 < 		<string>Size</string>
 > 		<string>크기</string>
 < 		<string>Bigger</string>
-> 		<string>더 크게</string>
+> 		<string>크게</string>
 < 		<string>Smaller</string>
-> 		<string>더 작게</string>
+> 		<string>작게</string>
 < 		<string>Precise Bigger</string>
-> 		<string>조금씩 더 크게</string>
+> 		<string>조금씩 크게</string>
 < 		<string>Precise Smaller</string>
-> 		<string>조금씩 더 작게</string>
+> 		<string>조금씩 작게</string>
 < 		<string>Spacing</string>
 > 		<string>공간</string>
 < 		<string>Use Default</string>
@@ -141,9 +141,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/ContextMe
 < 		<string>Loosen</string>
 > 		<string>넓게</string>
 < 		<string>Tighten More</string>
-> 		<string>더 좁게</string>
+> 		<string>더욱 좁게</string>
 < 		<string>Loosen More</string>
-> 		<string>더 넓게</string>
+> 		<string>더욱 넓게</string>
 < 		<string>Align Centre</string>
 > 		<string>가로 가운데 정렬</string>
 < 		<string>Justify Left</string>
@@ -187,9 +187,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/ContextMe
 < 		<string>Add to Swatches…</string>
 > 		<string>견본에 추가…</string>
 < 		<string>From Fill As Global</string>
-> 		<string>칠 (전역)</string>
+> 		<string>칠에서 (전역)</string>
 < 		<string>From Line As Global</string>
-> 		<string>선 (전역)</string>
+> 		<string>선에서 (전역)</string>
 < 		<string>From Both As Global</string>
 > 		<string>모두 (전역)</string>
 < 		<string>Find in Layers Panel</string>
@@ -213,9 +213,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/ContextMe
 < 		<string>Character Traits</string>
 > 		<string>문자 특성</string>
 < 		<string>Precise Bigger</string>
-> 		<string>조금씩 더 크게</string>
+> 		<string>조금씩 크게</string>
 < 		<string>Precise Smaller</string>
-> 		<string>조금씩 더 작게</string>
+> 		<string>조금씩 작게</string>
 < 		<string>Paragraph Leading</string>
 > 		<string>줄 간격</string>
 < 		<string>Paragraph Leading</string>
@@ -329,6 +329,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/Localizab
 > 	<string>이전</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
+< 	<string>Clear Mask</string>
+> 	<string>마스크 해제</string>
 < 	<string>Click</string>
 > 	<string>클릭</string>
 < 	<string>Cycle View Mode</string>
@@ -404,13 +406,13 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/Localizab
 < 	<string>Enhancement</string>
 > 	<string>개선</string>
 < 	<string>Export Persona</string>
-> 	<string>출력 페르소나</string>
+> 	<string>꺼내기 페르소나</string>
 < 	<string>Export Persona</string>
-> 	<string>출력 페르소나</string>
+> 	<string>꺼내기 페르소나</string>
 < 	<string>Export Persona</string>
-> 	<string>출력 페르소나</string>
+> 	<string>꺼내기 페르소나</string>
 < 	<string>Export</string>
-> 	<string>출력</string>
+> 	<string>꺼내기</string>
 < 	<string>Find in Layers Panel</string>
 > 	<string>레이어 패널에서 찾기</string>
 < 	<string>Flip Horizontal</string>
@@ -506,9 +508,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/Localizab
 < 	<string>Mode:</string>
 > 	<string>모드:</string>
 < 	<string>Move By Whole Pixels</string>
-> 	<string>전체 픽셀 이동</string>
+> 	<string>픽셀 단위로 이동</string>
 < 	<string>Move By Whole Pixels</string>
-> 	<string>전체 픽셀 이동</string>
+> 	<string>픽셀 단위로 이동</string>
 < 	<string>Move To Front</string>
 > 	<string>맨 앞으로 가져오기</string>
 < 	<string>Move selection back one level</string>
@@ -693,6 +695,12 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/Localizab
 > 	<string>톤 맵핑</string>
 < 	<string>Transform</string>
 > 	<string>변형</string>
+< 	<string>Vector Persona</string>
+> 	<string>벡터 페르소나</string>
+< 	<string>Vector Persona</string>
+> 	<string>벡터 페르소나</string>
+< 	<string>Vector Persona</string>
+> 	<string>벡터 페르소나</string>
 < 	<string>Vector</string>
 > 	<string>벡터</string>
 < 	<string>Vibrance</string>
@@ -700,9 +708,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/Localizab
 < 	<string>View Mode</string>
 > 	<string>뷰 모드</string>
 < 	<string>Width:</string>
-> 	<string>두께:</string>
+> 	<string>너비:</string>
 < 	<string>Width:</string>
-> 	<string>두께:</string>
+> 	<string>너비:</string>
 < 	<string>Xor</string>
 > 	<string>배타</string>
 < 	<string>Xor</string>
@@ -816,6 +824,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuD
 > 		<string>격자선 보기</string>
 < 		<string>Show Margins</string>
 > 		<string>여백선 보기</string>
+< 		<string>Zoom to Width</string>
+> 		<string>화면 너비에 맞추기</string>
 < 		<string>New From Clipboard</string>
 > 		<string>클립보드에서 신규</string>
 < 		<string>Show Rulers</string>
@@ -937,6 +947,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuH
 > 		<string>왼쪽으로 회전</string>
 < 		<string>New From Clipboard</string>
 > 		<string>클립보드에서 신규</string>
+< 		<string>Zoom to Width</string>
+> 		<string>화면 너비에 맞추기</string>
 < 		<string>Show Pixel Selection</string>
 > 		<string>픽셀 선택 항목 보기</string>
 < 		<string>Show Guides</string>
@@ -1076,12 +1088,14 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuL
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Show Tools</string>
 > 		<string>도구 보기</string>
+< 		<string>Zoom to Width</string>
+> 		<string>화면 너비에 맞추기</string>
 < 		<string>Tutorial...</string>
 > 		<string>튜토리얼...</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
 < 		<string>Export Persona</string>
-> 		<string>출력 페르소나</string>
+> 		<string>꺼내기 페르소나</string>
 < 		<string>Tone Mapping Persona</string>
 > 		<string>톤 맵핑 페르소나</string>
 < 		<string>Check for Updates</string>
@@ -1214,7 +1228,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuP
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
 < 		<string>Export Persona</string>
-> 		<string>출력 페르소나</string>
+> 		<string>꺼내기 페르소나</string>
+< 		<string>Zoom to Width</string>
+> 		<string>화면 너비에 맞추기</string>
 < 		<string>Welcome...</string>
 > 		<string>환영...</string>
 < 		<string>Show Grid</string>
@@ -1301,7 +1317,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuP
 < 		<string>New View</string>
 > 		<string>신규 뷰</string>
 < 		<string>Export…</string>
-> 		<string>출력…</string>
+> 		<string>꺼내기…</string>
 < 		<string>Snapping Manager…</string>
 > 		<string>스내핑 관리자…</string>
 < 		<string>Zoom In</string>
@@ -1330,6 +1346,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuP
 > 		<string>UI 가리기</string>
 < 		<string>Welcome...</string>
 > 		<string>환영...</string>
+< 		<string>Zoom to Width</string>
+> 		<string>화면 너비에 맞추기</string>
 < 		<string>Show Tools</string>
 > 		<string>도구 보기</string>
 < 		<string>Undo</string>
@@ -1478,7 +1496,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Average</string>
 > 		<string>평균</string>
 < 		<string>Place…</string>
-> 		<string>다른 문서 넣기…</string>
+> 		<string>배치…</string>
 < 		<string>Zoom to Fit</string>
 > 		<string>화면 크기에 맞추기</string>
 < 		<string>Select Reds</string>
@@ -1528,7 +1546,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Align Left</string>
 > 		<string>왼쪽 정렬</string>
 < 		<string>Precise Bigger</string>
-> 		<string>조금씩 더 크게</string>
+> 		<string>조금씩 크게</string>
 < 		<string>Show</string>
 > 		<string>보기</string>
 < 		<string>Update Paragraph Style</string>
@@ -1556,11 +1574,13 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Merge Selected</string>
 > 		<string>선택 항목 통합</string>
 < 		<string>Tighten More</string>
-> 		<string>더 좁게</string>
+> 		<string>더욱 좁게</string>
 < 		<string>Check for Updates</string>
 > 		<string>업데이트 확인</string>
 < 		<string>Grid and Axis Manager…</string>
 > 		<string>격자선 관리자…</string>
+< 		<string>Convert To Curves</string>
+> 		<string>곡선으로 전환</string>
 < 		<string>En Dash</string>
 > 		<string>반각 줄표</string>
 < 		<string>Show Context Toolbar</string>
@@ -1595,6 +1615,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 > 		<string>폭 없는 공백</string>
 < 		<string>Divide</string>
 > 		<string>분할</string>
+< 		<string>Vector Persona</string>
+> 		<string>벡터 페르소나</string>
 < 		<string>Create Character Style</string>
 > 		<string>문자 스타일 생성</string>
 < 		<string>Flip Vertical</string>
@@ -1606,7 +1628,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Move to Previous View Point</string>
 > 		<string>이전 뷰 포인트로 이동</string>
 < 		<string>Import Text Styles…</string>
-> 		<string>텍스트 스타일 입력…</string>
+> 		<string>텍스트 스타일 넣기…</string>
 < 		<string>Auto White Balance</string>
 > 		<string>자동 화이트 밸런스</string>
 < 		<string>Rotate Right</string>
@@ -1626,7 +1648,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Update Character Style</string>
 > 		<string>문자 스타일 업데이트</string>
 < 		<string>Precise Smaller</string>
-> 		<string>조금씩 더 작게</string>
+> 		<string>조금씩 작게</string>
 < 		<string>Align Centre</string>
 > 		<string>가로 가운데 정렬</string>
 < 		<string>Align Right</string>
@@ -1640,9 +1662,11 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Show Text Styles</string>
 > 		<string>텍스트 스타일 보기</string>
 < 		<string>Bigger</string>
-> 		<string>더 크게</string>
+> 		<string>크게</string>
 < 		<string>Spelling Options…</string>
 > 		<string>철자 설정…</string>
+< 		<string>Transparent Background</string>
+> 		<string>투명한 배경</string>
 < 		<string>Show Column Guides</string>
 > 		<string>열 안내선 보기</string>
 < 		<string>Layout Persona</string>
@@ -1652,11 +1676,11 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Justify Right</string>
 > 		<string>오른쪽 균등 정렬</string>
 < 		<string>Export…</string>
-> 		<string>출력…</string>
+> 		<string>꺼내기…</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
 < 		<string>Move Outside</string>
-> 		<string>밖으로 보내기</string>
+> 		<string>바깥으로 보내기</string>
 < 		<string>Justify Left</string>
 > 		<string>왼쪽 균등 정렬</string>
 < 		<string>Outline…</string>
@@ -1707,6 +1731,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 > 		<string>모두 합자</string>
 < 		<string>Justify</string>
 > 		<string>맞춤</string>
+< 		<string>Zoom to Width</string>
+> 		<string>화면 너비에 맞추기</string>
 < 		<string>Tutorial...</string>
 > 		<string>튜토리얼...</string>
 < 		<string>Show Paragraph</string>
@@ -1774,7 +1800,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Align Top</string>
 > 		<string>위쪽 정렬</string>
 < 		<string>Smaller</string>
-> 		<string>더 작게</string>
+> 		<string>작게</string>
 < 		<string>Separate curves</string>
 > 		<string>곡선 분리</string>
 < 		<string>Dock Tools</string>
@@ -1793,10 +1819,14 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 > 		<string>줄 바꿈 없는 하이픈</string>
 < 		<string>Tighten</string>
 > 		<string>좁게</string>
+< 		<string>Repeat</string>
+> 		<string>반복</string>
 < 		<string>Merge Down</string>
 > 		<string>아래 항목 통합</string>
 < 		<string>Create Paragraph Style</string>
 > 		<string>문단 스타일 생성</string>
+< 		<string>Reselect</string>
+> 		<string>다시 선택</string>
 < 		<string>Delete Paragraph Style</string>
 > 		<string>문단 스타일 지우기</string>
 < 		<string>Em Dash</string>
@@ -1806,7 +1836,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Delete</string>
 > 		<string>지우기</string>
 < 		<string>Export Persona</string>
-> 		<string>출력 페르소나</string>
+> 		<string>꺼내기 페르소나</string>
 < 		<string>Paste FX</string>
 > 		<string>효과 붙이기</string>
 < 		<string>New From Clipboard</string>
@@ -1824,7 +1854,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 < 		<string>Tone Mapping Persona</string>
 > 		<string>톤 맵핑 페르소나</string>
 < 		<string>Loosen More</string>
-> 		<string>더 넓게</string>
+> 		<string>더욱 넓게</string>
+< 		<string>Move To Back</string>
+> 		<string>맨 뒤로 보내기</string>
 < 		<string>Add Snapshot</string>
 > 		<string>스냅샷 추가</string>
 < 		<string>Feather…</string>
@@ -1911,12 +1943,18 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/MainMenuR
 > 		<string>순서</string>
 < 		<string>Filters</string>
 > 		<string>필터</string>
+< 		<string>Detect</string>
+> 		<string>감지</string>
 < 		<string>View</string>
 > 		<string>뷰</string>
 < 		<string>Window</string>
 > 		<string>윈도우</string>
 < 		<string>Bring All to Front</string>
 > 		<string>모두 앞으로 가져오기</string>
+< 		<string>Clean Up Floating Windows</string>
+< 		<string>Clean Up Floating Windows</string>
+> 		<string>펼쳐진 윈도우 정리</string>
+> 		<string>펼쳐진 윈도우 정리</string>
 < 		<string>Help</string>
 > 		<string>도움말</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/adjustments.strings /Applications/Affinity Photo Beta.app/Contents/Resources/ko.lproj/adjustments.strings
@@ -2040,4 +2078,4 @@ diff /Applications/Affinity Photo Beta.app/Contents/Resources/en.lproj/tool_sett
 < 	<string>Offset</string>
 > 	<string>편차</string>
 < 	<string>Width</string>
-> 	<string>두께</string>
+> 	<string>너비</string>
