@@ -1,3 +1,4 @@
+s/Do you still want to enable "Save With History"?</정말 "편집 기록과 함께 저장"할까요?</
 s/g> \[Locked]</g> \[잠금]</
 s/g> \[Modified]</g> \[변경]</
 s/g>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</g>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</
@@ -334,7 +335,6 @@ s/g>Distribute Vertically</g>세로 분배</
 s/g>Distribute</g>분배</
 s/g>Divide toolbar button</g>분할 툴바 버튼</
 s/g>Divide</g>분할</
-s/g>Do you still want to enable "Save With History"?</g>정말 "편집 기록과 함께 저장"할까요?</
 s/g>Dock Tools</g>도구 고정</
 s/g>Document Setup…</g>문서 설정…</
 s/g>Document Units:</g>문서 단위:</
@@ -569,6 +569,7 @@ s/g>Line Break</g>줄바꿈</
 s/g>Linear</g>선형</
 s/g>Liquify Persona</g>액화 페르소나</
 s/g>Liquify</g>액화</
+s/g>Load Mesh</g>그물 불러오기</
 s/g>Location</g>위치</
 s/g>Lock</g>잠금</
 s/g>Look Up "%@"</g>"%@" 찾기</
