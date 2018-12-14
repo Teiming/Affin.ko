@@ -2,7 +2,7 @@ sudo echo "Translate Affinity Designer"
 ENGPATH=/Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/
 JAPPATH=/Applications/Affinity\ Designer.app/Contents/Resources/ja.lproj/
 KORPATH=/Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/
-MY_PATH=~/Affinity-in-Korean/Designer/
+GITPATH=~/Affinity-in-Korean/
 DICPATH=~/Affinity-in-Korean/DictionaryDesigner
 LOGPATH=~/Affinity-in-Korean/Log/
 for (( i = 1; i <= 12; i++ ))
@@ -14,4 +14,8 @@ do
   /usr/bin/diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | /usr/bin/grep -E "<string>|.nib|.strings" > "${LOGPATH}"Designer."${NAME}".en-ja.log
   /usr/bin/diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" | /usr/bin/grep -E "<string>|.nib|.strings" > "${LOGPATH}"Designer."${NAME}".en-ko.log
   echo "${NAME} 로그 완료"
+  cd "${GITPATH}"
+  /usr/bin/git add Log/
+  /usr/bin/git commit -m "Designer.${NAME}.log 추가"
+  /usr/bin/git push
 done
