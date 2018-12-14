@@ -8,9 +8,9 @@ for (( i = 1; i <= 12; i++ ))
 do
   NAME=$(/bin/ls -a "${ENGPATH}" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
   /usr/bin/sudo /usr/bin/sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
-  echo ${i}
-  echo ${NAME}" 번역 완료"
-  /usr/bin/diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | /usr/bin/grep -E "<string>|.nib|.strings" > "${LOGPATH}"Designer.${NAME}.en-ja.log
-  /usr/bin/diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" | /usr/bin/grep -E "<string>|.nib|.strings" > "${LOGPATH}"Designer.${NAME}.en-ko.log
-  echo ${NAME}" 로그 완료"
+  echo "${i}"
+  echo "${NAME} 번역 완료"
+  /usr/bin/diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | /usr/bin/grep -E "<string>|.nib|.strings" > "${LOGPATH}"Designer."${NAME}".en-ja.log
+  /usr/bin/diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" | /usr/bin/grep -E "<string>|.nib|.strings" > "${LOGPATH}"Designer."${NAME}".en-ko.log
+  echo "${NAME} 로그 완료"
 done
