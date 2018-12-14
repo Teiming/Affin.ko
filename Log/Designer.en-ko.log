@@ -215,16 +215,22 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>브러시</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
+< 	<string>Choose the width of the brush</string>
+> 	<string>브러시 너비를 선택</string>
 < 	<string>Clear Mask</string>
 > 	<string>마스크 해제</string>
 < 	<string>Click</string>
 > 	<string>클릭</string>
+< 	<string>Clipping Alarms</string>
+> 	<string>클리핑 알람</string>
 < 	<string>Combine</string>
 > 	<string>배타</string>
 < 	<string>Combine</string>
 > 	<string>배타</string>
 < 	<string>Combine</string>
 > 	<string>배타</string>
+< 	<string>Combine toolbar button</string>
+> 	<string>배타 툴바 버튼</string>
 < 	<string>Cycle View Mode</string>
 > 	<string>뷰 모드 순환</string>
 < 	<string>Defaults</string>
@@ -245,6 +251,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>현상</string>
 < 	<string>Develop</string>
 > 	<string>현상</string>
+< 	<string>Dismiss</string>
+> 	<string>해제</string>
 < 	<string>Distribute Bottom Edges</string>
 > 	<string>아래쪽 분배</string>
 < 	<string>Distribute Bottom Edges</string>
@@ -301,8 +309,12 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>그림 페르소나</string>
 < 	<string>Draw Persona</string>
 > 	<string>그림 페르소나</string>
+< 	<string>Draw</string>
+> 	<string>그림</string>
 < 	<string>Enhancement</string>
 > 	<string>개선</string>
+< 	<string>Enter a name for the snapshot</string>
+> 	<string>스냅샷 이름을 입력합니다.</string>
 < 	<string>Export Persona</string>
 > 	<string>꺼내기 페르소나</string>
 < 	<string>Export Persona</string>
@@ -339,8 +351,16 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>앞으로 가져오기</string>
 < 	<string>Geometry</string>
 > 	<string>기하</string>
+< 	<string>HSL Saturation</string>
+> 	<string>HSL 채도</string>
+< 	<string>Hardness:</string>
+> 	<string>굳기:</string>
+< 	<string>High Frequency</string>
+> 	<string>고주파수</string>
 < 	<string>Hold</string>
 > 	<string>유지</string>
+< 	<string>Ignore Spelling</string>
+> 	<string>철자 무시</string>
 < 	<string>Insert Behind</string>
 > 	<string>뒤로 삽입</string>
 < 	<string>Insert Inside</string>
@@ -393,6 +413,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>액화 페르소나</string>
 < 	<string>Liquify</string>
 > 	<string>액화</string>
+< 	<string>Low Frequency</string>
+> 	<string>저주파수</string>
 < 	<string>Mask All</string>
 > 	<string>모두 마스크</string>
 < 	<string>Mask</string>
@@ -483,8 +505,16 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>픽셀 뷰 모드</string>
 < 	<string>Pixels</string>
 > 	<string>픽셀</string>
+< 	<string>Please select a layer.</string>
+> 	<string>레이어를 선택해주세요.</string>
+< 	<string>Protect hue</string>
+> 	<string>색조 보호</string>
 < 	<string>Quick Mask</string>
 > 	<string>빠른 마스크</string>
+< 	<string>Repeat %@</string>
+> 	<string>%@ 반복</string>
+< 	<string>Reset Mesh</string>
+> 	<string>그물 재설정</string>
 < 	<string>Reset Selection Box</string>
 > 	<string>선택 항목 상자 재설정</string>
 < 	<string>Retina Pixels</string>
@@ -529,6 +559,20 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>맨 뒤로 보내기</string>
 < 	<string>Send to Back</string>
 > 	<string>맨 뒤로 보내기</string>
+< 	<string>Set Fill None</string>
+> 	<string>칠 없음</string>
+< 	<string>Set Fill to 50% Grey</string>
+> 	<string>50% 회색으로 설정</string>
+< 	<string>Set Fill to Black and White</string>
+> 	<string>흑백으로 칠</string>
+< 	<string>Show Clipped Shadows</string>
+> 	<string>클립된 그림자 보기</string>
+< 	<string>Show Clipped Shadows</string>
+> 	<string>클립된 그림자 보기</string>
+< 	<string>Show Clipped Shadows</string>
+> 	<string>클립된 그림자 보기</string>
+< 	<string>Show Clipped Shadows</string>
+> 	<string>클립된 그림자 보기</string>
 < 	<string>Snapping Options</string>
 > 	<string>스내핑 설정</string>
 < 	<string>Snapping Options</string>
@@ -559,6 +603,8 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>분할</string>
 < 	<string>Split</string>
 > 	<string>분할</string>
+< 	<string>Strength:</string>
+> 	<string>세기:</string>
 < 	<string>Subtract</string>
 > 	<string>제거</string>
 < 	<string>Subtract</string>
@@ -569,6 +615,12 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>제거</string>
 < 	<string>Subtract toolbar button</string>
 > 	<string>제거 툴바 버튼</string>
+< 	<string>Swap Line and Fill</string>
+> 	<string>선과 칠 교대</string>
+< 	<string>Swap</string>
+> 	<string>교대</string>
+< 	<string>Swap</string>
+> 	<string>교대</string>
 < 	<string>Switch to Next View</string>
 > 	<string>다음 뷰로 전환</string>
 < 	<string>Sync After</string>
@@ -583,6 +635,46 @@ diff /Applications/Affinity Designer.app/Contents/Resources/en.lproj/Localizable
 > 	<string>기본값 동기화</string>
 < 	<string>Synchronise defaults from selection</string>
 > 	<string>선택 항목에서 기본값 동기화</string>
+< 	<string>Toggle Histogram Panel</string>
+> 	<string>히스토그램 패널 켜고 끄기</string>
+< 	<string>Toggle History Panel</string>
+> 	<string>편집 기록 패널 켜고 끄기</string>
+< 	<string>Toggle Liquify Mask Panel</string>
+> 	<string>액화 마스크 패널 켜고 끄기</string>
+< 	<string>Toggle Liquify Mesh Panel</string>
+> 	<string>액화 그물 패널 켜고 끄기</string>
+< 	<string>Toggle Macro Panel</string>
+> 	<string>매크로 패널 켜고 끄기</string>
+< 	<string>Toggle Navigator Panel</string>
+> 	<string>네비게이터 패널 켜고 끄기</string>
+< 	<string>Toggle Paragraph Panel</string>
+> 	<string>문단 패널 켜고 끄기</string>
+< 	<string>Toggle Slices Panel</string>
+> 	<string>슬라이스 패널 켜고 끄기</string>
+< 	<string>Toggle Snapping</string>
+> 	<string>스내핑 켜고 끄기</string>
+< 	<string>Toggle Snapshots Panel</string>
+> 	<string>스냅샷 패널 켜고 끄기</string>
+< 	<string>Toggle Stock Panel</string>
+> 	<string>재고 패널 켜고 끄기</string>
+< 	<string>Toggle Stroke Panel</string>
+> 	<string>선 패널 켜고 끄기</string>
+< 	<string>Toggle Swatches Panel</string>
+> 	<string>견본 패널 켜고 끄기</string>
+< 	<string>Toggle Symbol Panel</string>
+> 	<string>상징 패널 켜고 끄기</string>
+< 	<string>Toggle Text Styles Panel</string>
+> 	<string>텍스트 스타일 패널 켜고 끄기</string>
+< 	<string>Toggle Tone Map Overlays Panel</string>
+> 	<string>톤 맵 오버레이 패널 켜고 끄기</string>
+< 	<string>Toggle Tone Map Panel</string>
+> 	<string>톤 맵 패널 켜고 끄기</string>
+< 	<string>Toggle Tone Map Presets Panel</string>
+> 	<string>톤 맵 미리 설정 패널 켜고 끄기</string>
+< 	<string>Toggle Transform Panel</string>
+> 	<string>변형 패널 켜고 끄기</string>
+< 	<string>Tonal Range:</string>
+> 	<string>톤 범위:</string>
 < 	<string>Tone Mapping Persona</string>
 > 	<string>톤 맵핑 페르소나</string>
 < 	<string>Tone Mapping Persona</string>
