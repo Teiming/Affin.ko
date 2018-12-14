@@ -167,8 +167,8 @@ s/g>Cancel</g>취소</
 s/g>Cannot Create Assets</g>자산을 생성할 수 없음</
 s/g>Cannot Create Document</g>문서를 생성할 수 없음</
 s/g>Cannot Develop</g>현상할 수 없음</
-s/g>Cannot Export</g>꺼낼 수 없음</
-s/g>Cannot Import</g>넣을 수 없음</
+s/g>Cannot Export</g>내보낼 수 없음</
+s/g>Cannot Import</g>들여올 수 없음</
 s/g>Cannot Print</g>인쇄할 수 없음</
 s/g>Cannot Share</g>공유할 수 없음</
 s/g>Cannot Tone Map</g>톤 매핑할 수 없음</
@@ -186,14 +186,14 @@ s/g>Check Spelling While Typing</g>작성하는 동안 철자 확인</
 s/g>Check Spelling</g>철자 확인</
 s/g>Check for Updates</g>업데이트 확인</
 s/g>Check for updates:</g>업데이트 확인:</
-s/g>Choose the flow of the brush</g>브러시 흐름을 선택합니다.</
-s/g>Choose the hardness of the brush</g>브러시 굳기를 선택합니다.</
-s/g>Choose the height of the marquee</g>천막의 높이를 선택합니다.</
-s/g>Choose the opacity of the brush</g>브러시 불투명도를 선택합니다.</
-s/g>Choose the strength of the brush</g>브러시 세기를 선택합니다.</
-s/g>Choose the width of the blemish</g>흠집의 너비를 선택합니다.</
-s/g>Choose the width of the brush</g>브러시 너비를 선택합니다.</
-s/g>Choose the width of the marquee</g>천막의 너비를 선택합니다.</
+s/g>Choose the flow of the brush</g>브러시 흐름을 선택합니다</
+s/g>Choose the hardness of the brush</g>브러시 굳기를 선택합니다</
+s/g>Choose the height of the marquee</g>천막의 높이를 선택합니다</
+s/g>Choose the opacity of the brush</g>브러시 불투명도를 선택합니다</
+s/g>Choose the strength of the brush</g>브러시 세기를 선택합니다</
+s/g>Choose the width of the blemish</g>흠집의 너비를 선택합니다</
+s/g>Choose the width of the brush</g>브러시 너비를 선택합니다</
+s/g>Choose the width of the marquee</g>천막의 너비를 선택합니다</
 s/g>Clarity</g>명쾌</
 s/g>Clean Up Floating Windows</g>펼쳐진 윈도우 정리</
 s/g>Clear Mask</g>마스크 해제</
@@ -339,7 +339,7 @@ s/g>Document Setup…</g>문서 설정…</
 s/g>Document Units:</g>문서 단위:</
 s/g>Document</g>문서</
 s/g>Don't Save</g>저장하지 않음</
-s/g>Don't export layers hidden by Export persona</g>꺼내기 페르소나에서 숨긴 레이어는 꺼내지 않음.</
+s/g>Don't export layers hidden by Export persona</g>내보내기 페르소나에서 숨긴 레이어는 꺼내지 않음.</
 s/g>Don't restore</g>복원하지 않음</
 s/g>Done</g>완료</
 s/g>Donut Tool</g>도넛 도구</
@@ -378,27 +378,27 @@ s/g>Everything</g>모두</
 s/g>Exclude From Snapping</g>스내핑에서 제외</
 s/g>Expand Stroke</g>선 펼치기</
 s/g>Expand stroke</g>선 펼치기</
-s/g>Export LUT</g>LUT 꺼내기</
-s/g>Export Options</g>꺼내기 설정</
-s/g>Export Palette…</g>팔레트 꺼내기…</
-s/g>Export Persona</g>꺼내기 페르소나</
-s/g>Export Slices (%d)</g>슬라이스 꺼내기 (%d)</
-s/g>Export Slices (000)</g>슬라이스 꺼내기 (000)</
-s/g>Export Slices</g>슬라이스 꺼내기</
-s/g>Export preset...</g>꺼내기 미리 설정...</
-s/g>Export preset:</g>꺼내기 미리 설정:</
-s/g>Export preset</g>꺼내기 미리 설정</
-s/g>Export presets</g>꺼내기 미리 설정</
-s/g>Export</g>꺼내기</
-s/g>Exportable</g>꺼낼 수 있음</
-s/g>Export…</g>꺼내기…</
+s/g>Export LUT</g>LUT 내보내기</
+s/g>Export Options</g>내보내기 설정</
+s/g>Export Palette…</g>팔레트 내보내기…</
+s/g>Export Persona</g>내보내기 페르소나</
+s/g>Export Slices (%d)</g>슬라이스 내보내기 (%d)</
+s/g>Export Slices (000)</g>슬라이스 내보내기 (000)</
+s/g>Export Slices</g>슬라이스 내보내기</
+s/g>Export preset...</g>내보내기 미리 설정...</
+s/g>Export preset:</g>내보내기 미리 설정:</
+s/g>Export preset</g>내보내기 미리 설정</
+s/g>Export presets</g>내보내기 미리 설정</
+s/g>Export</g>내보내기</
+s/g>Exportable</g>내보낼 수 있음</
+s/g>Export…</g>내보내기…</
 s/g>Exposure:</g>노출:</
 s/g>Exposure</g>노출</
 s/g>Factory Reset</g>기본값 재설정</
 s/g>Failed to open TIFF file</g>Tiff 파일을 열지 못했습니다.</
 s/g>Favourites</g>즐겨찾기</
 s/g>Feather…</g>깃털…</
-s/g>Featured Work</g>주목할 작품</
+s/g>Featured Work/g>주목할 작품/
 s/g>Feet:</g>피트:</
 s/g>Feet</g>피트</
 s/g>Figure Dash</g>숫자 줄표</
@@ -418,6 +418,7 @@ s/g>Find in Slice Page</g>슬라이스 페이지에서 찾기</
 s/g>Flexible Space</g>유연한 공백</
 s/g>Flip Horizontal</g>가로 뒤집기</
 s/g>Flip Vertical</g>세로 뒤집기</
+s/g>Flow:</g>흐름:</
 s/g>Focus</g>초점</
 s/g>Fold</g>접기</
 s/g>Font:</g>서체:</
@@ -482,9 +483,9 @@ s/g>Icon and Text</g>아이콘과 텍스트</
 s/g>Ignore Misspelt Word</g>철자 오류 무시</
 s/g>Ignore Spelling</g>철자 무시</
 s/g>Ignore Text Wraps</g>줄바꿈 무시</
-s/g>Import Brushes</g>브러시 넣기</
-s/g>Import Palette…</g>팔레트 넣기…</
-s/g>Import Text Styles…</g>텍스트 스타일 넣기…</
+s/g>Import Brushes</g>브러시 들여오기</
+s/g>Import Palette…</g>팔레트 들여오기…</
+s/g>Import Text Styles…</g>텍스트 스타일 들여오기…</
 s/g>In Place</g>제자리에</
 s/g>Inches</g>인치</
 s/g>Include Margins</g>여백 포함</
