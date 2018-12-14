@@ -12,7 +12,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Page Preset:</string>
-> 		<string>페이지 프리셋:</string>
+> 		<string>페이지 미리 설정:</string>
 < 		<string>Type:</string>
 > 		<string>종류:</string>
 < 		<string>Dimensions</string>
@@ -55,10 +55,12 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>시스템</string>
 < 		<string>Offset</string>
 > 		<string>편차</string>
+< 		<string>Shadows</string>
+> 		<string>그림자</string>
 < 		<string>Linear</string>
 > 		<string>선형</string>
 < 		<string>Add Preset</string>
-> 		<string>프리셋 추가</string>
+> 		<string>미리 설정 추가</string>
 < 		<string>Blend Mode:</string>
 > 		<string>혼합 모드:</string>
 < 		<string>Delete</string>
@@ -449,6 +451,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Vertical Scale</string>
 > 		<string>세로 배율</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ClarityEffect.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ClarityEffect.nib
+< 		<string>Clarity</string>
+> 		<string>명쾌</string>
 < 		<string>Radius</string>
 > 		<string>반지름</string>
 < 		<string>System</string>
@@ -520,6 +524,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>상자</string>
 < 		<string>Tint</string>
 > 		<string>틴트</string>
+< 		<string>8 bit</string>
+> 		<string>8 비트</string>
+< 		<string>16 bit</string>
+> 		<string>16 비트</string>
 < 		<string>Percentage</string>
 > 		<string>백분율</string>
 < 		<string>Copy Colour to Clipboard as Hex</string>
@@ -541,7 +549,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Tints</string>
 > 		<string>틴트</string>
 < 		<string>Shades</string>
-> 		<string>검정 혼합</string>
+> 		<string>셰이드</string>
 < 		<string>Tones</string>
 > 		<string>톤</string>
 < 		<string>Opacity</string>
@@ -665,8 +673,12 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>반지름</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Mode</string>
+> 		<string>모드</string>
 < 		<string>Vibrance</string>
 > 		<string>활기</string>
+< 		<string>Clarity</string>
+> 		<string>명쾌</string>
 < 		<string>Apply</string>
 > 		<string>적용</string>
 < 		<string>Cancel</string>
@@ -687,21 +699,31 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>시스템</string>
 < 		<string>Saturation</string>
 > 		<string>채도</string>
+< 		<string>Clarity</string>
+> 		<string>명쾌</string>
 < 		<string>Contrast</string>
 > 		<string>대비</string>
+< 		<string>Enhance</string>
+> 		<string>개선</string>
 < 		<string>Brightness</string>
 > 		<string>명암</string>
 < 		<string>Exposure</string>
 > 		<string>노출</string>
 < 		<string>Tint</string>
 > 		<string>틴트</string>
+< 		<string>Temperature</string>
+> 		<string>온도</string>
 < 		<string>White Balance</string>
 > 		<string>화이트 밸런스</string>
+< 		<string>Output Profile</string>
+> 		<string>프로파일 출력</string>
 < 		<string>Profiles</string>
 > 		<string>프로파일</string>
+< 		<string>Shadows</string>
+> 		<string>그림자</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopBasicPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopBasicPage.nib
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopCameraItemViews.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopCameraItemViews.nib
@@ -709,7 +731,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopCameraPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopCameraPage.nib
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopDetailsItemViews.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopDetailsItemViews.nib
@@ -723,7 +745,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>반지름</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopDetailsPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopDetailsPage.nib
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopFocusPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopFocusPage.nib
@@ -731,8 +753,18 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>없음</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Show AF Regions</string>
+> 		<string>AF 영역 보기</string>
+< 		<string>Valid</string>
+> 		<string>유효</string>
 < 		<string>Points</string>
 > 		<string>포인트</string>
+< 		<string>Beam</string>
+> 		<string>빔</string>
+< 		<string>Length</string>
+> 		<string>길이</string>
+< 		<string>Mode</string>
+> 		<string>모드</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensItemViews.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopLensItemViews.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -746,7 +778,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>회전</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopLensPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopLensPage.nib
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopMapPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopMapPage.nib
@@ -754,6 +786,14 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>시스템</string>
 < 		<string>Standard</string>
 > 		<string>표준</string>
+< 		<string>Satellite</string>
+> 		<string>위성</string>
+< 		<string>Show Compass</string>
+> 		<string>나침반 보기</string>
+< 		<string>Show Map Scale</string>
+> 		<string>지도 배율 보기</string>
+< 		<string>Use Current Location</string>
+> 		<string>지금 위치 사용</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopOverlayItemView.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopOverlayItemView.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -762,6 +802,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>시스템</string>
 < 		<string>Opacity:</string>
 > 		<string>불투명도:</string>
+< 		<string>Add Gradient Overlay</string>
+> 		<string>그레이디언트 오버레이 추가</string>
+< 		<string>Delete Overlay</string>
+> 		<string>오버레이 지우기</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopSnapshotItemView.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopSnapshotItemView.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -793,7 +837,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>곡선</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DevelopTonesPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DevelopTonesPage.nib
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DiffuseEffect.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/DiffuseEffect.nib
@@ -923,7 +967,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Blend mode:</string>
 > 		<string>혼합 모드:</string>
 < 		<string>Colour Overlay</string>
-> 		<string>색상 씌우기</string>
+> 		<string>색상 오버레이</string>
 < 		<string>Remove Profile</string>
 > 		<string>프로파일 지우기</string>
 < 		<string>Shadow:</string>
@@ -1011,7 +1055,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Blend mode:</string>
 > 		<string>혼합 모드:</string>
 < 		<string>Gradient Overlay</string>
-> 		<string>그레이디언트 씌우기</string>
+> 		<string>그레이디언트 오버레이</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/EffectItemViews.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/EffectItemViews.nib
 < 		<string>Preserve alpha</string>
 > 		<string>알파 유지</string>
@@ -1028,7 +1072,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Colour</string>
 > 		<string>색상</string>
 < 		<string>Colour Overlay</string>
-> 		<string>색상 씌우기</string>
+> 		<string>색상 오버레이</string>
 < 		<string>Outer Glow</string>
 > 		<string>외부 광채</string>
 < 		<string>Offset Tool</string>
@@ -1048,7 +1092,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Inner Shadow</string>
 > 		<string>내부 그림자</string>
 < 		<string>Gradient Overlay</string>
-> 		<string>그레이디언트 씌우기</string>
+> 		<string>그레이디언트 오버레이</string>
 < 		<string>Layer Effects</string>
 > 		<string>레이어 효과</string>
 < 		<string>Layer Effects</string>
@@ -1165,7 +1209,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Button</string>
 > 		<string>버튼</string>
 < 		<string>Delete preset</string>
-> 		<string>프리셋 지우기</string>
+> 		<string>미리 설정 지우기</string>
 < 		<string>Automatic</string>
 > 		<string>자동</string>
 < 		<string>Black &amp; White</string>
@@ -1175,7 +1219,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Pixel format:</string>
 > 		<string>픽셀 포맷:</string>
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>Everything</string>
 > 		<string>모두</string>
 < 		<string>Profile:</string>
@@ -1183,6 +1227,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Vector</string>
 > 		<string>벡터</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ExportPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ExportPage.nib
+< 		<string>Delete Preset</string>
+> 		<string>미리 설정 지우기</string>
 < 		<string>Mode:</string>
 > 		<string>모드:</string>
 < 		<string>System</string>
@@ -1199,7 +1245,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Size:</string>
 > 		<string>크기:</string>
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>Estimated File Size:</string>
 > 		<string>예상 파일 크기:</string>
 < 		<string>More</string>
@@ -1219,7 +1265,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Export Slices (000)</string>
 > 		<string>슬라이스 꺼내기 (000)</string>
 < 		<string>Export preset:</string>
-> 		<string>꺼내기 프리셋:</string>
+> 		<string>꺼내기 미리 설정:</string>
 < 		<string>Copy</string>
 > 		<string>복사</string>
 < 		<string>Delete selected slice</string>
@@ -1457,7 +1503,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>등각투상</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GridsWindowController.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GridsWindowController.nib
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Mode:</string>
@@ -1466,6 +1512,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>버튼</string>
 < 		<string>Close</string>
 > 		<string>닫기</string>
+< 		<string>Delete Preset</string>
+> 		<string>미리 설정 지우기</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GrowShrinkSelection.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/GrowShrinkSelection.nib
 < 		<string>Radius</string>
 > 		<string>반지름</string>
@@ -1535,14 +1583,28 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HistogramPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/HistogramPage.nib
 < 		<string>All Channels</string>
 > 		<string>모든 채널</string>
+< 		<string>Red Channel</string>
+> 		<string>빨강 채널</string>
+< 		<string>Green Channel</string>
+> 		<string>초록 채널</string>
+< 		<string>Blue Channel</string>
+> 		<string>파랑 채널</string>
+< 		<string>Percentile: 0</string>
+> 		<string>백분율: 0</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Pixels: 0</string>
+> 		<string>픽셀: 0</string>
+< 		<string>Median: -</string>
+> 		<string>중앙값: -</string>
 < 		<string>Std. Dev.: -</string>
-> 		<string>표준편차: -</string>
+> 		<string>표준 편차: -</string>
 < 		<string>Marquee</string>
 > 		<string>천막</string>
 < 		<string>Layer</string>
 > 		<string>레이어</string>
+< 		<string>Pixels: -</string>
+> 		<string>픽셀: -</string>
 < 		<string>Max:</string>
 > 		<string>최대:</string>
 < 		<string>Min:</string>
@@ -1574,6 +1636,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>시스템</string>
 < 		<string>Done</string>
 > 		<string>완료</string>
+< 		<string>All</string>
+> 		<string>모두</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/IndexMarkWindowController.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/IndexMarkWindowController.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -1616,6 +1680,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>배타</string>
 < 		<string>Mean</string>
 > 		<string>평균</string>
+< 		<string>Median</string>
+> 		<string>중앙값</string>
 < 		<string>Maximum</string>
 > 		<string>최대</string>
 < 		<string>Standard Deviation</string>
@@ -1871,25 +1937,25 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 	<string>Add %1</string>
 > 	<string>%1 추가</string>
 < 	<string>Add Adjustment Preset</string>
-> 	<string>조정 프리셋 추가</string>
+> 	<string>조정 미리 설정 추가</string>
 < 	<string>Add Application Palette</string>
 > 	<string>응용프로그램 팔레트 추가</string>
 < 	<string>Add Artistic Text</string>
 > 	<string>에술 텍스트 추가</string>
 < 	<string>Add Crop Preset</string>
-> 	<string>크롭 프리셋 추가</string>
+> 	<string>크롭 미리 설정 추가</string>
 < 	<string>Add Document Palette</string>
 > 	<string>문서 팔레트 추가</string>
 < 	<string>Add Document Snapshot</string>
 > 	<string>문서 스냅샷 추가</string>
 < 	<string>Add Preset</string>
-> 	<string>프리셋 추가</string>
+> 	<string>미리 설정 추가</string>
 < 	<string>Add Preset</string>
-> 	<string>프리셋 추가</string>
+> 	<string>미리 설정 추가</string>
 < 	<string>Add Preset</string>
-> 	<string>프리셋 추가</string>
+> 	<string>미리 설정 추가</string>
 < 	<string>Add Preset</string>
-> 	<string>프리셋 추가</string>
+> 	<string>미리 설정 추가</string>
 < 	<string>Add</string>
 > 	<string>추가</string>
 < 	<string>Add</string>
@@ -2020,6 +2086,16 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>모두 대문자</string>
 < 	<string>All Channels</string>
 > 	<string>모든 채널</string>
+< 	<string>All</string>
+> 	<string>모두</string>
+< 	<string>All</string>
+> 	<string>모두</string>
+< 	<string>All</string>
+> 	<string>모두</string>
+< 	<string>All</string>
+> 	<string>모두</string>
+< 	<string>All</string>
+> 	<string>모두</string>
 < 	<string>All layers</string>
 > 	<string>모든 레이어</string>
 < 	<string>All layers</string>
@@ -2354,6 +2430,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>타원 도구 호출</string>
 < 	<string>Callout Ellipse Tool</string>
 > 	<string>타원 도구 호출</string>
+< 	<string>Camera</string>
+> 	<string>카메라</string>
+< 	<string>Camera</string>
+> 	<string>카메라</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
 < 	<string>Cancel</string>
@@ -2486,6 +2566,26 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>천막의 높이를 선택</string>
 < 	<string>Choose the width of the marquee</string>
 > 	<string>천막의 너비를 선택</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
+< 	<string>Clarity</string>
+> 	<string>명쾌</string>
 < 	<string>Clear Mask</string>
 > 	<string>마스크 해제</string>
 < 	<string>Clear selection</string>
@@ -2717,7 +2817,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 	<string>Create Slice</string>
 > 	<string>슬라이스 생성</string>
 < 	<string>Create preset</string>
-> 	<string>프리셋 생성</string>
+> 	<string>미리 설정 생성</string>
 < 	<string>Crescent Tool</string>
 > 	<string>초승달 도구</string>
 < 	<string>Crescent Tool</string>
@@ -2806,6 +2906,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>범주 지우기</string>
 < 	<string>Delete Category</string>
 > 	<string>범주 지우기</string>
+< 	<string>Delete Preset</string>
+> 	<string>미리 설정 지우기</string>
+< 	<string>Delete Preset</string>
+> 	<string>미리 설정 지우기</string>
 < 	<string>Delete</string>
 > 	<string>지우기</string>
 < 	<string>Delete</string>
@@ -2837,19 +2941,19 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 	<string>Delete</string>
 > 	<string>지우기</string>
 < 	<string>Delete preset</string>
-> 	<string>프리셋 지우기</string>
+> 	<string>미리 설정 지우기</string>
 < 	<string>Delete preset</string>
-> 	<string>프리셋 지우기</string>
+> 	<string>미리 설정 지우기</string>
 < 	<string>Delete preset</string>
-> 	<string>프리셋 지우기</string>
+> 	<string>미리 설정 지우기</string>
 < 	<string>Delete preset</string>
-> 	<string>프리셋 지우기</string>
+> 	<string>미리 설정 지우기</string>
 < 	<string>Delete preset</string>
-> 	<string>프리셋 지우기</string>
+> 	<string>미리 설정 지우기</string>
 < 	<string>Delete preset</string>
-> 	<string>프리셋 지우기</string>
+> 	<string>미리 설정 지우기</string>
 < 	<string>Delete preset</string>
-> 	<string>프리셋 지우기</string>
+> 	<string>미리 설정 지우기</string>
 < 	<string>Depth</string>
 > 	<string>깊이</string>
 < 	<string>Depth</string>
@@ -2870,6 +2974,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>선택 해제</string>
 < 	<string>Deselect</string>
 > 	<string>선택 해제</string>
+< 	<string>Details</string>
+> 	<string>세부사항</string>
 < 	<string>Detect</string>
 > 	<string>감지</string>
 < 	<string>Develop Persona</string>
@@ -3099,9 +3205,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 	<string>Export</string>
 > 	<string>꺼내기</string>
 < 	<string>Export preset</string>
-> 	<string>꺼내기 프리셋</string>
+> 	<string>꺼내기 미리 설정</string>
 < 	<string>Export presets</string>
-> 	<string>꺼내기 프리셋</string>
+> 	<string>꺼내기 미리 설정</string>
 < 	<string>Exportable</string>
 > 	<string>꺼낼 수 있음</string>
 < 	<string>Exposure</string>
@@ -3180,6 +3286,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>세로 뒤집기</string>
 < 	<string>Flip Vertical</string>
 > 	<string>세로 뒤집기</string>
+< 	<string>Focus</string>
+> 	<string>초점</string>
+< 	<string>Focus</string>
+> 	<string>초점</string>
 < 	<string>Fold</string>
 > 	<string>접기</string>
 < 	<string>Fold</string>
@@ -3253,9 +3363,9 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 	<string>Gradient Map</string>
 > 	<string>그레이디언트 맵</string>
 < 	<string>Gradient Overlay</string>
-> 	<string>그레이디언트 씌우기</string>
+> 	<string>그레이디언트 오버레이</string>
 < 	<string>Gradient Overlay</string>
-> 	<string>그레이디언트 씌우기</string>
+> 	<string>그레이디언트 오버레이</string>
 < 	<string>Gradient</string>
 > 	<string>그레이디언트</string>
 < 	<string>Gradient</string>
@@ -3520,6 +3630,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>왼쪽 곡선</string>
 < 	<string>Left curve:</string>
 > 	<string>왼쪽 곡선:</string>
+< 	<string>Length</string>
+> 	<string>길이</string>
 < 	<string>Length:</string>
 > 	<string>길이:</string>
 < 	<string>Length:</string>
@@ -3530,6 +3642,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>렌즈 필터</string>
 < 	<string>Lens Filter</string>
 > 	<string>렌즈 필터</string>
+< 	<string>Lens</string>
+> 	<string>렌즈</string>
 < 	<string>Levels</string>
 > 	<string>레벨</string>
 < 	<string>Levels</string>
@@ -3592,6 +3706,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>액화</string>
 < 	<string>Liquify</string>
 > 	<string>액화</string>
+< 	<string>Location</string>
+> 	<string>위치</string>
 < 	<string>Lock</string>
 > 	<string>잠금</string>
 < 	<string>Lock</string>
@@ -3632,6 +3748,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>평균: %1</string>
 < 	<string>MediaBox</string>
 > 	<string>미디어 상자</string>
+< 	<string>Median</string>
+> 	<string>중앙값</string>
+< 	<string>Median: %1</string>
+> 	<string>중앙값: %1</string>
 < 	<string>Medium</string>
 > 	<string>중간</string>
 < 	<string>Merge Down</string>
@@ -3702,6 +3822,26 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>거울</string>
 < 	<string>Miscellaneous</string>
 > 	<string>기타</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
 < 	<string>Mode:</string>
 > 	<string>모드:</string>
 < 	<string>Mode:</string>
@@ -4020,6 +4160,20 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>덮기</string>
 < 	<string>Overlap</string>
 > 	<string>덮기</string>
+< 	<string>Overlay Erase Tool</string>
+> 	<string>오버레이 지우기 도구</string>
+< 	<string>Overlay Erase Tool</string>
+> 	<string>오버레이 지우기 도구</string>
+< 	<string>Overlay Paint Tool</string>
+> 	<string>오버레이 페인트 도구</string>
+< 	<string>Overlay Paint Tool</string>
+> 	<string>오버레이 페인트 도구</string>
+< 	<string>Overlay</string>
+> 	<string>오버레이</string>
+< 	<string>Overlay</string>
+> 	<string>오버레이</string>
+< 	<string>Overlay</string>
+> 	<string>오버레이</string>
 < 	<string>Page</string>
 > 	<string>페이지</string>
 < 	<string>Page</string>
@@ -4161,15 +4315,15 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 	<string>Preferences…</string>
 > 	<string>환경설정…</string>
 < 	<string>Presets</string>
-> 	<string>프리셋</string>
+> 	<string>미리 설정</string>
 < 	<string>Presets</string>
-> 	<string>프리셋</string>
+> 	<string>미리 설정</string>
 < 	<string>Presets</string>
-> 	<string>프리셋</string>
+> 	<string>미리 설정</string>
 < 	<string>Presets</string>
-> 	<string>프리셋</string>
+> 	<string>미리 설정</string>
 < 	<string>Presets</string>
-> 	<string>프리셋</string>
+> 	<string>미리 설정</string>
 < 	<string>Pressure</string>
 > 	<string>압력</string>
 < 	<string>Pressure</string>
@@ -4268,6 +4422,14 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>직사각형 천막 도구</string>
 < 	<string>Rectangular Marquee Tool</string>
 > 	<string>직사각형 천막 도구</string>
+< 	<string>Red Eye Removal Tool</string>
+> 	<string>적목 제거 도구</string>
+< 	<string>Red Eye Removal</string>
+> 	<string>적목 제거</string>
+< 	<string>Red Eye Removal</string>
+> 	<string>적목 제거</string>
+< 	<string>Red Eye Tool</string>
+> 	<string>적목 도구</string>
 < 	<string>Red</string>
 > 	<string>빨강</string>
 < 	<string>Red</string>
@@ -4304,8 +4466,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>범주 이름 변경</string>
 < 	<string>Rename Category…</string>
 > 	<string>범주 이름 변경…</string>
+< 	<string>Rename Palette...</string>
+> 	<string>팔레트 이름 변경...</string>
 < 	<string>Rename preset</string>
-> 	<string>프리셋 이름 변경</string>
+> 	<string>미리 설정 이름 변경</string>
 < 	<string>Rename...</string>
 > 	<string>이름 변경...</string>
 < 	<string>Rename...</string>
@@ -4459,7 +4623,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 	<string>Saturation</string>
 > 	<string>채도</string>
 < 	<string>Save Preset</string>
-> 	<string>프리셋 저장</string>
+> 	<string>미리 설정 저장</string>
 < 	<string>Save</string>
 > 	<string>저장</string>
 < 	<string>Save</string>
@@ -4542,6 +4706,20 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>그림자 / 빛</string>
 < 	<string>Shadows / Highlights</string>
 > 	<string>그림자 / 빛</string>
+< 	<string>Shadows</string>
+> 	<string>그림자</string>
+< 	<string>Shadows</string>
+> 	<string>그림자</string>
+< 	<string>Shadows</string>
+> 	<string>그림자</string>
+< 	<string>Shadows</string>
+> 	<string>그림자</string>
+< 	<string>Shadows</string>
+> 	<string>그림자</string>
+< 	<string>Shadows</string>
+> 	<string>그림자</string>
+< 	<string>Shadows</string>
+> 	<string>그림자</string>
 < 	<string>Sharp</string>
 > 	<string>날카롭게</string>
 < 	<string>Sharp</string>
@@ -4748,6 +4926,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>별</string>
 < 	<string>Start angle:</string>
 > 	<string>시작 각도:</string>
+< 	<string>Std. Dev.: %1</string>
+> 	<string>표준 편차: %1</string>
 < 	<string>Stock</string>
 > 	<string>재고</string>
 < 	<string>Strikeout</string>
@@ -4828,6 +5008,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>제거</string>
 < 	<string>Subtract</string>
 > 	<string>제거</string>
+< 	<string>Summary</string>
+> 	<string>요약</string>
 < 	<string>Superscript</string>
 > 	<string>윗첨자</string>
 < 	<string>Superscript</string>
@@ -4886,6 +5068,12 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>눈물</string>
 < 	<string>Tear</string>
 > 	<string>눈물</string>
+< 	<string>Temperature</string>
+> 	<string>온도</string>
+< 	<string>Temperature</string>
+> 	<string>온도</string>
+< 	<string>Temperature</string>
+> 	<string>온도</string>
 < 	<string>Text Styles</string>
 > 	<string>텍스트 스타일</string>
 < 	<string>Text Styles</string>
@@ -5114,6 +5302,16 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 	<string>뷰 도구</string>
 < 	<string>View</string>
 > 	<string>뷰</string>
+< 	<string>Vignette</string>
+> 	<string>비네트</string>
+< 	<string>Vignette</string>
+> 	<string>비네트</string>
+< 	<string>Vignette</string>
+> 	<string>비네트</string>
+< 	<string>Vignette</string>
+> 	<string>비네트</string>
+< 	<string>Vignette</string>
+> 	<string>비네트</string>
 < 	<string>Web</string>
 > 	<string>웹</string>
 < 	<string>Web</string>
@@ -5354,6 +5552,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/MedianEffect.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/MedianEffect.nib
+< 		<string>Median</string>
+> 		<string>중앙값</string>
 < 		<string>Apply</string>
 > 		<string>적용</string>
 < 		<string>Cancel</string>
@@ -5456,6 +5656,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Preserve aspect ratio</string>
 > 		<string>종횡비 유지</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewClarityEffect.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewClarityEffect.nib
+< 		<string>Clarity</string>
+> 		<string>명쾌</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Apply</string>
@@ -5528,7 +5730,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>New Document</string>
 > 		<string>신규 문서</string>
 < 		<string>Page Preset:</string>
-> 		<string>페이지 프리셋:</string>
+> 		<string>페이지 미리 설정:</string>
 < 		<string>Type:</string>
 > 		<string>종류:</string>
 < 		<string>Document Units:</string>
@@ -5536,11 +5738,11 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 < 		<string>Create preset</string>
-> 		<string>프리셋 생성</string>
+> 		<string>미리 설정 생성</string>
 < 		<string>Rename preset</string>
-> 		<string>프리셋 이름 변경</string>
+> 		<string>미리 설정 이름 변경</string>
 < 		<string>Delete preset</string>
-> 		<string>프리셋 지우기</string>
+> 		<string>미리 설정 지우기</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewDocPanel.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewDocPanel.nib
 < 		<string>Left Margin:</string>
 > 		<string>왼쪽 여백</string>
@@ -5599,7 +5801,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>New Document</string>
 > 		<string>신규 문서</string>
 < 		<string>Page Preset:</string>
-> 		<string>페이지 프리셋:</string>
+> 		<string>페이지 미리 설정:</string>
 < 		<string>Type:</string>
 > 		<string>종류:</string>
 < 		<string>Document Units:</string>
@@ -5611,11 +5813,11 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Dimensions:</string>
 > 		<string>치수:</string>
 < 		<string>Create preset</string>
-> 		<string>프리셋 생성</string>
+> 		<string>미리 설정 생성</string>
 < 		<string>Rename preset</string>
-> 		<string>프리셋 이름 변경</string>
+> 		<string>미리 설정 이름 변경</string>
 < 		<string>Delete preset</string>
-> 		<string>프리셋 지우기</string>
+> 		<string>미리 설정 지우기</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/NewFocusMergePanel.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/NewFocusMergePanel.nib
 < 		<string>Plugin</string>
 > 		<string>플러그인</string>
@@ -5771,7 +5973,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Devices</string>
 > 		<string>기기</string>
 < 		<string>Page Preset:</string>
-> 		<string>페이지 프리셋:</string>
+> 		<string>페이지 미리 설정:</string>
 < 		<string>Type:</string>
 > 		<string>종류:</string>
 < 		<string>Document Units:</string>
@@ -5781,11 +5983,11 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>OK</string>
 > 		<string>확인</string>
 < 		<string>Create preset</string>
-> 		<string>프리셋 생성</string>
+> 		<string>미리 설정 생성</string>
 < 		<string>Rename preset</string>
-> 		<string>프리셋 이름 변경</string>
+> 		<string>미리 설정 이름 변경</string>
 < 		<string>Delete preset</string>
-> 		<string>프리셋 지우기</string>
+> 		<string>미리 설정 지우기</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PageNavigationBar.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PageNavigationBar.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -5803,7 +6005,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Dimensions:</string>
 > 		<string>치수:</string>
 < 		<string>Page Preset:</string>
-> 		<string>페이지 프리셋:</string>
+> 		<string>페이지 미리 설정:</string>
 < 		<string>Dimensions</string>
 > 		<string>치수</string>
 < 		<string>Left Margin:</string>
@@ -5848,7 +6050,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Button</string>
 > 		<string>버튼</string>
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PanoramaSourceItemView.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PanoramaSourceItemView.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -5889,6 +6091,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PerspectiveEffect.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PerspectiveEffect.nib
+< 		<string>Mode</string>
+> 		<string>모드</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Apply</string>
@@ -6021,7 +6225,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Create preset</string>
-> 		<string>프리셋 생성</string>
+> 		<string>미리 설정 생성</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PresetItemView.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PresetItemView.nib
@@ -6029,8 +6233,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>스타일</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Delete Preset</string>
+> 		<string>미리 설정 지우기</string>
 < 		<string>Export preset...</string>
-> 		<string>꺼내기 프리셋...</string>
+> 		<string>꺼내기 미리 설정...</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PresetManager.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PresetManager.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -6040,7 +6246,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Rename preset</string>
-> 		<string>프리셋 이름 변경</string>
+> 		<string>미리 설정 이름 변경</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PresetReplace.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/PresetReplace.nib
@@ -6065,7 +6271,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>시스템</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ProceduralTexture.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ProceduralTexture.nib
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
 < 		<string>Equations</string>
@@ -6074,6 +6280,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>취소</string>
 < 		<string>Apply</string>
 > 		<string>적용</string>
+< 		<string>Delete Preset</string>
+> 		<string>미리 설정 지우기</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ProceduralTextureEquationView.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ProceduralTextureEquationView.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -6135,6 +6343,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>조정 브러시</string>
 < 		<string>Smooth</string>
 > 		<string>매끈하게</string>
+< 		<string>Overlay</string>
+> 		<string>오버레이</string>
 < 		<string>Transparent</string>
 > 		<string>투명</string>
 < 		<string>Apply</string>
@@ -6266,13 +6476,13 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>All layers</string>
 > 		<string>모든 레이어</string>
 < 		<string>Create preset</string>
-> 		<string>프리셋 생성</string>
+> 		<string>미리 설정 생성</string>
 < 		<string>Rename preset</string>
-> 		<string>프리셋 이름 변경</string>
+> 		<string>미리 설정 이름 변경</string>
 < 		<string>Delete preset</string>
-> 		<string>프리셋 지우기</string>
+> 		<string>미리 설정 지우기</string>
 < 		<string>Preset:</string>
-> 		<string>프리셋:</string>
+> 		<string>미리 설정:</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotItemView.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/SnapshotItemView.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -6319,7 +6529,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Dimensions:</string>
 > 		<string>치수:</string>
 < 		<string>Page Preset:</string>
-> 		<string>페이지 프리셋:</string>
+> 		<string>페이지 미리 설정:</string>
 < 		<string>Dimensions</string>
 > 		<string>치수</string>
 < 		<string>Left Margin:</string>
@@ -6373,6 +6583,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>문서 팔레트 추가</string>
 < 		<string>Add System Palette</string>
 > 		<string>시스템 팔레트 추가</string>
+< 		<string>Rename Palette...</string>
+> 		<string>팔레트 이름 변경...</string>
 < 		<string>Delete Palette</string>
 > 		<string>팔레트 지우기</string>
 < 		<string>Set as Default for</string>
@@ -6410,7 +6622,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Sort</string>
 > 		<string>정렬</string>
 < 		<string>Alphabetical</string>
-> 		<string>알파벳</string>
+> 		<string>알파벳순</string>
 < 		<string>Colour</string>
 > 		<string>색상</string>
 < 		<string>Import Palette…</string>
@@ -6452,7 +6664,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Tints</string>
 > 		<string>틴트</string>
 < 		<string>Shades</string>
-> 		<string>검정 혼합</string>
+> 		<string>셰이드</string>
 < 		<string>Tones</string>
 > 		<string>톤</string>
 < 		<string>Edit Fill…</string>
@@ -6507,6 +6719,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>액자</string>
 < 		<string>Vertical Alignment</string>
 > 		<string>세로 정렬</string>
+< 		<string>All</string>
+> 		<string>모두</string>
 < 		<string>Bottom</string>
 > 		<string>아래</string>
 < 		<string>Inside</string>
@@ -6559,6 +6773,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>칠:</string>
 < 		<string>Frame</string>
 > 		<string>액자</string>
+< 		<string>All</string>
+> 		<string>모두</string>
 < 		<string>Bottom</string>
 > 		<string>아래</string>
 < 		<string>Inside</string>
@@ -6723,18 +6939,26 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>채도</string>
 < 		<string>Contrast</string>
 > 		<string>대비</string>
+< 		<string>Enhance</string>
+> 		<string>개선</string>
 < 		<string>Brightness</string>
 > 		<string>명암</string>
 < 		<string>Exposure</string>
 > 		<string>노출</string>
 < 		<string>Medium</string>
 > 		<string>중간</string>
+< 		<string>Details</string>
+> 		<string>세부사항</string>
 < 		<string>Colours</string>
 > 		<string>색상</string>
 < 		<string>Tint</string>
 > 		<string>틴트</string>
+< 		<string>Temperature</string>
+> 		<string>온도</string>
 < 		<string>White Balance</string>
 > 		<string>화이트 밸런스</string>
+< 		<string>Shadows</string>
+> 		<string>그림자</string>
 < 		<string>Red</string>
 > 		<string>빨강</string>
 < 		<string>Green</string>
@@ -6753,6 +6977,10 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>시스템</string>
 < 		<string>Opacity:</string>
 > 		<string>불투명도:</string>
+< 		<string>Add Gradient Overlay</string>
+> 		<string>그레이디언트 오버레이 추가</string>
+< 		<string>Delete Overlay</string>
+> 		<string>오버레이 지우기</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToneMapPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToneMapPage.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
@@ -6762,7 +6990,7 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Standard</string>
 > 		<string>표준</string>
 < 		<string>Add Preset</string>
-> 		<string>프리셋 추가</string>
+> 		<string>미리 설정 추가</string>
 < 		<string>Create New Category</string>
 > 		<string>신규 범주 생성</string>
 < 		<string>Rename Category…</string>
@@ -6771,6 +6999,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 > 		<string>범주 지우기</string>
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Delete Preset</string>
+> 		<string>미리 설정 지우기</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ToolPresetsPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ToolPresetsPage.nib
 < 		<string>Categories</string>
 > 		<string>범주</string>
@@ -6878,6 +7108,8 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 < 		<string>Threshold</string>
 > 		<string>역치</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/VignetteEffect.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/VignetteEffect.nib
+< 		<string>Vignette</string>
+> 		<string>비네트</string>
 < 		<string>Exposure</string>
 > 		<string>노출</string>
 < 		<string>System</string>
@@ -6918,10 +7150,26 @@ diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framew
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/XMPPage.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/XMPPage.nib
 < 		<string>System</string>
 > 		<string>시스템</string>
+< 		<string>Copyright</string>
+> 		<string>저작권</string>
+< 		<string>Author</string>
+> 		<string>저자</string>
 < 		<string>Exposure</string>
 > 		<string>노출</string>
 < 		<string>Size</string>
 > 		<string>크기</string>
+< 		<string>Date shot</string>
+> 		<string>찍은 날짜</string>
+< 		<string>Lens</string>
+> 		<string>렌즈</string>
+< 		<string>Maker</string>
+> 		<string>제조사</string>
+< 		<string>Camera</string>
+> 		<string>카메라</string>
+< 		<string>Summary</string>
+> 		<string>요약</string>
+< 		<string>All</string>
+> 		<string>모두</string>
 diff /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ZMapBlurEffect.nib /Applications/Affinity Photo Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/ZMapBlurEffect.nib
 < 		<string>Radius</string>
 > 		<string>반지름</string>
