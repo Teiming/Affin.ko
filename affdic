@@ -16,6 +16,6 @@ echo "주의할 특수문자 &" >> DictionaryDiff
 /bin/cat DictionaryPhoto | grep "&" >> DictionaryDiff
 git add DictionaryDesigner
 git add DictionaryPhoto
-git commit -m "신규 번역"
+git commit -m "$ENG를 $KOR로 번역합니다."
 git push
 ./affdic
