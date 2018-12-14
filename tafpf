@@ -4,7 +4,7 @@ JAPPATH=/Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framewo
 KORPATH=/Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
 DICPATH=~/Affinity-in-Korean/DictionaryPhoto
 LOGPATH=~/Affinity-in-Korean/Log/
-for (( i = 1; i <= 242; i++ ))
+for (( i = 1; i <= 243; i++ ))
 do
   NAME=$(/bin/ls -a "${ENGPATH}" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
   echo "${i}"
