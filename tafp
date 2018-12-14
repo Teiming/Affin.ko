@@ -6,12 +6,11 @@ DICPATH=~/Affinity-in-Korean/DictionaryPhoto
 LOGPATH=~/Affinity-in-Korean/Log/
 for (( i = 1; i <= 14; i++ ))
 do
-  NAME=$(/bin/ls -a "$ENGPATH" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-  /usr/bin/sudo echo $i"." $NAME" 번역중."
-  /usr/bin/sudo /usr/bin/sed -f "$DICPATH" "$ENGPATH$NAME" > "$KORPATH$NAME"
+  NAME=$(/bin/ls -a "${ENGPATH}" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+  /usr/bin/sudo /usr/bin/sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
+  echo "${i}"
+  echo "${NAME} 번역 완료"
+  /usr/bin/diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | /usr/bin/grep -E "<string>|.nib|.strings" > "${LOGPATH}"Photo."${NAME}".en-ja.log
+  /usr/bin/diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" | /usr/bin/grep -E "<string>|.nib|.strings" > "${LOGPATH}"Photo."${NAME}".en-ko.log
+  echo "${NAME} 로그 완료"
 done
-# echo "동기화를 시작합니다."
-# /usr/bin/rsync -av --delete --progress "$MY_PATH" "$KORPATH"
-echo "로그를 기록합니다."
-/usr/bin/diff "$ENGPATH" "$JAPPATH" | /usr/bin/grep -E "<string>|.nib|.strings" > "$LOGPATH"Photo.en-ja.log
-/usr/bin/diff "$ENGPATH" "$KORPATH" | /usr/bin/grep -E "<string>|.nib|.strings" > "$LOGPATH"Photo.en-ko.log
