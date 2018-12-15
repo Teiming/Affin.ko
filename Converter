@@ -1,60 +1,58 @@
-echo "Affinity Designer를 이용하십니까? (y/n)"
-read AFD
-if [[ AFD -eq y ]]; then
-  echo "Unpack Affinity Designer"
+#!/bin/bash
+echo "변역할 프로그램을 선택합니다."
+echo "1: Affinity Designer"
+echo "2: Affinity Designer Beta"
+echo "3: Affinity Photo"
+echo "4: Affinity Photo Beta"
+read word
+case ${word} in
+  1 )
+  echo "Affinity Designer를 변환합니다."
   sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Resources/ja.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "Enable Tanslator"
-  chmod +x ~/Affinity-in-Korean/tafd
-  chmod +x ~/Affinity-in-Korean/tafdf
-  echo "Enable ko.lproj"
-  sudo mkdir /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj/
-  sudo mkdir /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
-fi
-echo "Affinity Designer Beta를 이용하십니까? (y/n)"
-read AFDB
-if [[ AFDB -eq y ]]; then
-  echo "Unpack Affinity Designer Beta"
+  echo "ko.lproj 폴더를 생성합니다."
+  sudo mkdir /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj
+  sudo mkdir /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  ;;
+  2 )
+  echo "Affinity Designer Beta를 변환합니다."
   sudo plutil -convert xml1 /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ja.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "Enable Tanslator"
-  chmod +x ~/Affinity-in-Korean/tafdb
-  chmod +x ~/Affinity-in-Korean/tafdfb
-  echo "Enable ko.lproj"
-  sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/
-  sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
-fi
-echo "Affinity Photo를 이용하십니까? (y/n)"
-read AFD
-if [[ AFD -eq y ]]; then
-  echo "Unpack Affinity Photo"
+  echo "ko.lproj 폴더를 생성합니다."
+  sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj
+  sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  ;;
+  3 )
+  echo "Affinity Photo를 변환합니다."
   sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Resources/ja.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "Enable Tanslator"
-  chmod +x ~/Affinity-in-Korean/tafp
-  chmod +x ~/Affinity-in-Korean/tafpf
-  echo "Enable ko.lproj"
-  sudo mkdir /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj/
-  sudo mkdir /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
-fi
-echo "Affinity Photo Beta를 이용하십니까? (y/n)"
-read AFDB
-if [[ AFDB -eq y ]]; then
+  echo "ko.lproj 폴더를 생성합니다."
+  sudo mkdir /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj
+  sudo mkdir /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  ;;
+  4 )
   echo "Unpack Affinity Photo Beta"
   sudo plutil -convert xml1 /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ja.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
   sudo plutil -convert xml1 /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "Enable Tanslator"
-  chmod +x ~/Affinity-in-Korean/tafpb
-  chmod +x ~/Affinity-in-Korean/tafpfb
-  echo "Enable ko.lproj"
-  sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj/
-  sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
+  echo "ko.lproj 폴더를 생성합니다."
+  sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj
+  sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  ;;
+  * )
+  echo "알 수 없는 프로그램입니다. 1, 2, 3, 4로만 입력해주세요."
+  ~/Affinity-in-Korean/Converter
+  ;;
+esac
+echo -n "다른 프로그램을 번역하려면 Converter.sh를 다시 시작해주세요. (y or n)"
+read RE
+if [[ ${RE} -eq y ]]; then
+  ~/Affinity-in-Korean/Converter
 fi

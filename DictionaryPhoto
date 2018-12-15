@@ -1,3 +1,4 @@
+s/Do you still want to enable "Save With History"?</정말 "편집 기록과 함께 저장"할까요?</
 s/g> \[Locked]</g> \[잠금]</
 s/g> \[Modified]</g> \[변경]</
 s/g>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</g>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</
@@ -167,8 +168,8 @@ s/g>Cancel</g>취소</
 s/g>Cannot Create Assets</g>자산을 생성할 수 없음</
 s/g>Cannot Create Document</g>문서를 생성할 수 없음</
 s/g>Cannot Develop</g>현상할 수 없음</
-s/g>Cannot Export</g>꺼낼 수 없음</
-s/g>Cannot Import</g>넣을 수 없음</
+s/g>Cannot Export</g>내보낼 수 없음</
+s/g>Cannot Import</g>들여올 수 없음</
 s/g>Cannot Print</g>인쇄할 수 없음</
 s/g>Cannot Share</g>공유할 수 없음</
 s/g>Cannot Tone Map</g>톤 매핑할 수 없음</
@@ -186,8 +187,14 @@ s/g>Check Spelling While Typing</g>작성하는 동안 철자 확인</
 s/g>Check Spelling</g>철자 확인</
 s/g>Check for Updates</g>업데이트 확인</
 s/g>Check for updates:</g>업데이트 확인:</
-s/g>Choose the height of the marquee</g>천막의 높이를 선택</
-s/g>Choose the width of the marquee</g>천막의 너비를 선택</
+s/g>Choose the flow of the brush</g>브러시 흐름을 선택합니다</
+s/g>Choose the hardness of the brush</g>브러시 굳기를 선택합니다</
+s/g>Choose the height of the marquee</g>천막의 높이를 선택합니다</
+s/g>Choose the opacity of the brush</g>브러시 불투명도를 선택합니다</
+s/g>Choose the strength of the brush</g>브러시 세기를 선택합니다</
+s/g>Choose the width of the blemish</g>흠집의 너비를 선택합니다</
+s/g>Choose the width of the brush</g>브러시 너비를 선택합니다</
+s/g>Choose the width of the marquee</g>천막의 너비를 선택합니다</
 s/g>Clarity</g>명쾌</
 s/g>Clean Up Floating Windows</g>펼쳐진 윈도우 정리</
 s/g>Clear Mask</g>마스크 해제</
@@ -195,6 +202,7 @@ s/g>Clear Menu</g>메뉴 지우기</
 s/g>Clear selection</g>선택 해제</
 s/g>Click</g>클릭</
 s/g>Clip to Canvas</g>캔버스에 클립</
+s/g>Clipping Alarms</g>클리핑 알람</
 s/g>Clone Brush Tool</g>복제 브러시 도구</
 s/g>Clone Brush</g>복제 브러시</
 s/g>Clone</g>복제</
@@ -219,6 +227,7 @@ s/g>Colour</g>색상</
 s/g>Colours</g>색상</
 s/g>Column Guides</g>열 안내선</
 s/g>Column Marquee Tool</g>열 천막 도구</
+s/g>Combine toolbar button</g>배타 툴바 버튼</
 s/g>Combine</g>배타</
 s/g>Complementary</g>보색</
 s/g>Confirm Delete</g>삭제 확인</
@@ -313,6 +322,7 @@ s/g>Diamond</g>다이아몬드</
 s/g>Dimensions:</g>치수:</
 s/g>Dimensions</g>치수</
 s/g>Direction:</g>방향:</
+s/g>Dismiss</g>해제</
 s/g>Distort</g>왜곡</
 s/g>Distribute Bottom Edges</g>아래쪽 분배</
 s/g>Distribute Horizontal Centres</g>가로 가운데 분배</
@@ -330,13 +340,14 @@ s/g>Document Setup…</g>문서 설정…</
 s/g>Document Units:</g>문서 단위:</
 s/g>Document</g>문서</
 s/g>Don't Save</g>저장하지 않음</
-s/g>Don't export layers hidden by Export persona</g>꺼내기 페르소나에서 숨긴 레이어는 꺼내지 않음.</
+s/g>Don't export layers hidden by Export persona</g>내보내기 페르소나에서 숨긴 레이어는 꺼내지 않음.</
 s/g>Don't restore</g>복원하지 않음</
 s/g>Done</g>완료</
 s/g>Donut Tool</g>도넛 도구</
 s/g>Donut</g>도넛</
 s/g>Drag</g>드래그</
 s/g>Draw Persona</g>그림 페르소나</
+s/g>Draw</g>그림</
 s/g>Duplicate</g>복제</
 s/g>Edge</g>모서리</
 s/g>Edit All Layers</g>모든 레이어 편집</
@@ -357,6 +368,7 @@ s/g>En Space</g>반각 공백</
 s/g>End angle:</g>종료 각도:</
 s/g>Enhance</g>개선</
 s/g>Enhancement</g>개선</
+s/g>Enter a name for the snapshot</g>스냅샷 이름을 입력합니다.</
 s/g>Entropy</g>엔트로피</
 s/g>Equations</g>수식</
 s/g>Erase Brush Tool</g>지우기 브러시 도구</
@@ -367,26 +379,27 @@ s/g>Everything</g>모두</
 s/g>Exclude From Snapping</g>스내핑에서 제외</
 s/g>Expand Stroke</g>선 펼치기</
 s/g>Expand stroke</g>선 펼치기</
-s/g>Export LUT</g>LUT 꺼내기</
-s/g>Export Options</g>꺼내기 설정</
-s/g>Export Palette…</g>팔레트 꺼내기…</
-s/g>Export Persona</g>꺼내기 페르소나</
-s/g>Export Slices (%d)</g>슬라이스 꺼내기 (%d)</
-s/g>Export Slices (000)</g>슬라이스 꺼내기 (000)</
-s/g>Export Slices</g>슬라이스 꺼내기</
-s/g>Export preset...</g>꺼내기 미리 설정...</
-s/g>Export preset:</g>꺼내기 미리 설정:</
-s/g>Export preset</g>꺼내기 미리 설정</
-s/g>Export presets</g>꺼내기 미리 설정</
-s/g>Export</g>꺼내기</
-s/g>Exportable</g>꺼낼 수 있음</
-s/g>Export…</g>꺼내기…</
+s/g>Export LUT</g>LUT 내보내기</
+s/g>Export Options</g>내보내기 설정</
+s/g>Export Palette…</g>팔레트 내보내기…</
+s/g>Export Persona</g>내보내기 페르소나</
+s/g>Export Slices (%d)</g>슬라이스 내보내기 (%d)</
+s/g>Export Slices (000)</g>슬라이스 내보내기 (000)</
+s/g>Export Slices</g>슬라이스 내보내기</
+s/g>Export preset...</g>내보내기 미리 설정...</
+s/g>Export preset:</g>내보내기 미리 설정:</
+s/g>Export preset</g>내보내기 미리 설정</
+s/g>Export presets</g>내보내기 미리 설정</
+s/g>Export</g>내보내기</
+s/g>Exportable</g>내보낼 수 있음</
+s/g>Export…</g>내보내기…</
 s/g>Exposure:</g>노출:</
 s/g>Exposure</g>노출</
 s/g>Factory Reset</g>기본값 재설정</
 s/g>Failed to open TIFF file</g>Tiff 파일을 열지 못했습니다.</
 s/g>Favourites</g>즐겨찾기</
 s/g>Feather…</g>깃털…</
+s/g>Featured Work/g>주목할 작품/
 s/g>Feet:</g>피트:</
 s/g>Feet</g>피트</
 s/g>Figure Dash</g>숫자 줄표</
@@ -406,6 +419,7 @@ s/g>Find in Slice Page</g>슬라이스 페이지에서 찾기</
 s/g>Flexible Space</g>유연한 공백</
 s/g>Flip Horizontal</g>가로 뒤집기</
 s/g>Flip Vertical</g>세로 뒤집기</
+s/g>Flow:</g>흐름:</
 s/g>Focus</g>초점</
 s/g>Fold</g>접기</
 s/g>Font:</g>서체:</
@@ -443,7 +457,10 @@ s/g>Group</g>그룹</
 s/g>Grow \/ Shrink…</g>팽창 \/ 수축…</
 s/g>Guides Manager…</g>안내선 관리자…</
 s/g>Guides</g>안내선</
+s/g>HSL Saturation</g>HSL 채도</
 s/g>HSL Sliders</g>HSL 슬라이더</
+s/g>Hardness:</g>굳기:</
+s/g>Hardness</g>굳기</
 s/g>Head Offset:</g>머리 편차:</
 s/g>Head Offset</g>머리 편차</
 s/g>Heart Tool</g>하트 도구</
@@ -454,6 +471,7 @@ s/g>Hide Others</g>기타 가리기</
 s/g>Hide Selection while Dragging</g>드래그할 때 선택 항목 가리기</
 s/g>Hide Studio</g>작업실 가리기</
 s/g>Hide</g>가리기</
+s/g>High Frequency</g>고주파수</
 s/g>His</g>기록</
 s/g>Histogram</g>히스토그램</
 s/g>History</g>편집 기록</
@@ -464,10 +482,11 @@ s/g>ICC profile:</g>ICC 프로파일:</
 s/g>Icon Only</g>아이콘만</
 s/g>Icon and Text</g>아이콘과 텍스트</
 s/g>Ignore Misspelt Word</g>철자 오류 무시</
+s/g>Ignore Spelling</g>철자 무시</
 s/g>Ignore Text Wraps</g>줄바꿈 무시</
-s/g>Import Brushes</g>브러시 넣기</
-s/g>Import Palette…</g>팔레트 넣기…</
-s/g>Import Text Styles…</g>텍스트 스타일 넣기…</
+s/g>Import Brushes</g>브러시 들여오기</
+s/g>Import Palette…</g>팔레트 들여오기…</
+s/g>Import Text Styles…</g>텍스트 스타일 들여오기…</
 s/g>In Place</g>제자리에</
 s/g>Inches</g>인치</
 s/g>Include Margins</g>여백 포함</
@@ -550,10 +569,14 @@ s/g>Line Break</g>줄바꿈</
 s/g>Linear</g>선형</
 s/g>Liquify Persona</g>액화 페르소나</
 s/g>Liquify</g>액화</
+s/g>Load Mesh</g>그물 불러오기</
+s/g>Load</g>불러오기</
 s/g>Location</g>위치</
 s/g>Lock</g>잠금</
+s/g>Look Up "%@"</g>"%@" 찾기</
 s/g>Loosen More</g>더욱 넓게</
 s/g>Loosen</g>넓게</
+s/g>Low Frequency</g>저주파수</
 s/g>Lower Baseline</g>기준선 내리기</
 s/g>Lyr</g>레이어</
 s/g>Maintain fill aspect ratio</g>칠 종횡비 유지</
@@ -650,7 +673,6 @@ s/g>None</g>없음</
 s/g>Normal</g>정규</
 s/g>Number of Columns:</g>열 개수:</
 s/g>Nvg</g>네비게이터</
-s/g>OK</g>확인</
 s/g>Offset Tool</g>편차 도구</
 s/g>Offset:</g>편차:</
 s/g>Offset</g>편차</
@@ -727,7 +749,9 @@ s/g>Place Image Tool</g>이미지 배치 도구</
 s/g>Place Image</g>이미지 배치</
 s/g>Place…</g>배치…</
 s/g>Please choose a valid filename.</g>유효한 파일 이름을 선택해주세요.</
+s/g>Please select a layer.</g>레이어를 선택해주세요.</
 s/g>Please select an RGB pixel layer before developing.</g>RGB 픽셀 레이어를 선택하고 현상해주세요.</
+s/g>Please select an RGB pixel layer before entering Develop.</g>현상에 들어가기 전, RGB 픽셀 레이어를 선택해주세요.</
 s/g>Plugin</g>플러그인</
 s/g>Plugins</g>플러그인</
 s/g>Points:</g>포인트:</
@@ -758,6 +782,7 @@ s/g>Profiles</g>프로파일</
 s/g>Progress</g>진행상태</
 s/g>Promote Group to Layer</g>그룹을 레이어로 승격</
 s/g>Protect Alpha</g>알파 보호</
+s/g>Protect hue</g>색조 보호</
 s/g>Pull</g>당기기</
 s/g>Quick Mask</g>빠른 마스크</
 s/g>Quit</g>Affinity Photo 종료</
@@ -797,6 +822,7 @@ s/g>Rename Category…</g>범주 이름 변경…</
 s/g>Rename Palette...</g>팔레트 이름 변경...</
 s/g>Rename preset</g>미리 설정 이름 변경</
 s/g>Rename...</g>이름 변경...</
+s/g>Repeat %@</g>%@ 반복</
 s/g>Repeat</g>반복</
 s/g>Reselect</g>다시 선택</
 s/g>Reset Adjustments</g>조정 재설정</
@@ -805,6 +831,7 @@ s/g>Reset Crop Tool Presets</g>크롭 도구 미리 설정 재설정</
 s/g>Reset Fills</g>칠 재설정</
 s/g>Reset Fonts</g>서체 재설정</
 s/g>Reset Keyboard Shortcuts</g>키보드 단축키 재설정</
+s/g>Reset Mesh</g>그물 재설정</
 s/g>Reset Rotation</g>회전 재설정</
 s/g>Reset Selection Box</g>선택 항목 상자 재설정</
 s/g>Reset Studio</g>작업실 재설정</
@@ -843,9 +870,11 @@ s/g>Row Marquee Tool</g>행 천막 도구</
 s/g>Rows:</g>열:</
 s/g>Salmon</g>연어</
 s/g>Satellite</g>위성</
+s/g>Saturate</g>채도</
 s/g>Saturation</g>채도</
 s/g>Save As…</g>다른 이름으로 저장…</
-s/g>Save History With Document</g>편집 기록 저장</
+s/g>Save History With Document</g>문서와 함께 편집 기록 저장</
+s/g>Save Mesh</g>그물 저장</
 s/g>Save Preset</g>미리 설정 저장</
 s/g>Save Profile</g>프로파일 저장</
 s/g>Save Text Styles as Default</g>텍스트 스타일을 기본값으로 저장</
@@ -859,6 +888,7 @@ s/g>Save document defaults</g>문서 기본값을 저장</
 s/g>Save document</g>문서 저장</
 s/g>Save</g>저장</
 s/g>Saving TIFF</g>TIFF 저장중</
+s/g>Saving With History</g>편집 기록과 함께 저장</
 s/g>Scale with Object</g>대상과 함께 배율</
 s/g>Scale with object</g>대상과 함께 배율</
 s/g>Segment Tool</g>활꼴 도구</
@@ -884,6 +914,9 @@ s/g>Send to Back</g>맨 뒤로 보내기</
 s/g>Separate curves</g>곡선 분리</
 s/g>Separated Mode</g>분리 모드</
 s/g>Services</g>서비스</
+s/g>Set Fill None</g>칠 없음</
+s/g>Set Fill to 50% Grey</g>50% 회색으로 칠</
+s/g>Set Fill to Black and White</g>흑백으로 칠</
 s/g>Set No Character Style</g>문자 스타일 벗기기</
 s/g>Set No Paragraph Style</g>문단 스타일 벗기기</
 s/g>Set as Default for</g>기본값으로 설정하기</
@@ -901,6 +934,8 @@ s/g>Show All Text</g>모든 텍스트 보기</
 s/g>Show All</g>모두 보기</
 s/g>Show Bleed</g>도련선 보기</
 s/g>Show Character</g>문자 보기</
+s/g>Show Clipped Shadows</g>클립된 그림자 보기</
+s/g>Show Clipped Tones</g>클립한 톤 보기</
 s/g>Show Column Guides</g>열 안내선 보기</
 s/g>Show Compass</g>나침반 보기</
 s/g>Show Context Toolbar</g>상황별 툴바 보기</
@@ -985,6 +1020,7 @@ s/g>Start angle:</g>시작 각도:</
 s/g>Std. Dev.: %1</g>표준 편차: %1</
 s/g>Std. Dev.: -</g>표준 편차: -</
 s/g>Stock</g>재고</
+s/g>Strength:</g>세기:</
 s/g>Strikeout</g>취소선</
 s/g>Stroke:</g>선:</
 s/g>Stroke</g>선</
@@ -1001,6 +1037,8 @@ s/g>Summary</g>요약</
 s/g>Sunset</g>석양</
 s/g>Superscript</g>윗첨자</
 s/g>Support...</g>지원...</
+s/g>Swap Line and Fill</g>선과 칠 교대</
+s/g>Swap</g>교대</
 s/g>Swatches</g>견본</
 s/g>Switch to Next View</g>다음 뷰로 전환</
 s/g>Symbols Studio</g>상징 작업실</
@@ -1030,8 +1068,36 @@ s/g>Tighten More</g>더욱 좁게</
 s/g>Tighten</g>좁게</
 s/g>Tint</g>틴트</
 s/g>Tints</g>틴트</
+s/g>Toggle 32-bit Preview Panel</g>32-비트 미리보기 패널 켜고 끄기</
+s/g>Toggle Adjustment Panel</g>조정 패널 켜고 끄기</
+s/g>Toggle Assets Panel</g>자산 패널 켜고 끄기</
+s/g>Toggle Channels Panel</g>채널 패널 켜고 끄기</
+s/g>Toggle Character Panel</g>문자 패널 켜고 끄기</
+s/g>Toggle Colour Panel</g>색상 패널 켜고 끄기</
+s/g>Toggle Export Layers Panel</g>내보내기 레이어 패널 켜고 끄기</
+s/g>Toggle Fill Context</g>칠 상황 켜고 끄기</
 s/g>Toggle Full Screen</g>전체 화면 시작</
+s/g>Toggle Histogram Panel</g>히스토그램 패널 켜고 끄기</
+s/g>Toggle History Panel</g>편집 기록 패널 켜고 끄기</
+s/g>Toggle Liquify Mask Panel</g>액화 마스크 패널 켜고 끄기</
+s/g>Toggle Liquify Mesh Panel</g>액화 그물 패널 켜고 끄기</
+s/g>Toggle Macro Panel</g>매크로 패널 켜고 끄기</
+s/g>Toggle Navigator Panel</g>네비게이터 패널 켜고 끄기</
+s/g>Toggle Paragraph Panel</g>문단 패널 켜고 끄기</
+s/g>Toggle Slices Panel</g>슬라이스 패널 켜고 끄기</
+s/g>Toggle Snapping</g>스내핑 켜고 끄기</
+s/g>Toggle Snapshots Panel</g>스냅샷 패널 켜고 끄기</
+s/g>Toggle Stock Panel</g>재고 패널 켜고 끄기</
+s/g>Toggle Stroke Panel</g>선 패널 켜고 끄기</
+s/g>Toggle Swatches Panel</g>견본 패널 켜고 끄기</
+s/g>Toggle Symbol Panel</g>상징 패널 켜고 끄기</
+s/g>Toggle Text Styles Panel</g>텍스트 스타일 패널 켜고 끄기</
+s/g>Toggle Tone Map Overlays Panel</g>톤 맵 오버레이 패널 켜고 끄기</
+s/g>Toggle Tone Map Panel</g>톤 맵 패널 켜고 끄기</
+s/g>Toggle Tone Map Presets Panel</g>톤 맵 미리 설정 패널 켜고 끄기</
+s/g>Toggle Transform Panel</g>변형 패널 켜고 끄기</
 s/g>Toggle UI</g>UI 가리기</
+s/g>Tonal Range:</g>톤 범위:</
 s/g>Tonal Range</g>색조 범위</
 s/g>Tone Mapping Persona</g>톤 맵핑 페르소나</
 s/g>Tone Mapping</g>톤 맵핑</
@@ -1060,7 +1126,11 @@ s/g>Undo %@</g>%@ 실행 취소</
 s/g>Undo</g>실행 취소</
 s/g>Ungroup All</g>모든 그룹 해제</
 s/g>Ungroup</g>그룹 해제</
+s/g>Unignore Spelling "%@"</g>철자 "%@"를 무시하지 않기</
+s/g>Union toolbar button</g>유니온(사라지는 기능) 툴바 버튼</
+s/g>Union</g>유니온(사라지는 기능)</
 s/g>Units:</g>단위:</
+s/g>Unlearn Spelling "%@"</g>철자 "%@"를 학습하지 않음</
 s/g>Unlock All</g>모두 잠금 해제</
 s/g>Unlock</g>잠금 해제</
 s/g>Untitled</g>이름 없음</
@@ -1080,6 +1150,7 @@ s/g>Vector Persona</g>벡터 페르소나</
 s/g>Vector</g>벡터</
 s/g>Velocity (Inverse)</g>속도 (반전)</
 s/g>Velocity</g>속도</
+s/g>Version</g>버전</
 s/g>Vertical Alignment</g>세로 정렬</
 s/g>Vertical Scale</g>세로 배율</
 s/g>Vibrance</g>활기</
@@ -1092,7 +1163,7 @@ s/g>Views</g>뷰</
 s/g>Vignette</g>비네트</
 s/g>Web</g>웹</
 s/g>Weekly</g>매주</
-s/g>Welcome to Affinity Photo. /g>Affinity Photo에 어서오세요. /
+s/g>Welcome to Affinity Photo\./g>Affinity Photo에 어서오세요\./
 s/g>Welcome...</g>환영...</
 s/g>Welcome</g>환영</
 s/g>Wet Edges</g>젖은 모서리</

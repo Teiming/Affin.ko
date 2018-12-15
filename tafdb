@@ -1,17 +1,26 @@
-ENGPATH=/Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/
-JAPPATH=/Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ja.lproj/
-KORPATH=/Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/
-MY_PATH=~/Affinity-in-Korean/BetaDesigner/
+#!/bin/bash
+sudo echo "새로운 번역을 확인합니다."
+/usr/bin/cd ~/Affinity-in-Korean/
+/usr/bin/git pull
+echo "Affinity Designer Beta을(를) 번역합니다. (총 14개 항목) ^+C로 취소가 가능합니다."
 DICPATH=~/Affinity-in-Korean/DictionaryDesigner
-LOGPATH=~/Affinity-in-Korean/Log/
+ENGPATH=/Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/
+KORPATH=/Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj/
 for (( i = 1; i <= 14; i++ ))
 do
-  NAME=$(/bin/ls -a "$ENGPATH" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
-  /usr/bin/sudo echo $i"." $NAME" 번역중."
-  /usr/bin/sudo /usr/bin/sed -f "$DICPATH" "$ENGPATH$NAME" > "$KORPATH$NAME"
+  NAME=$(/bin/ls -a "${ENGPATH}" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+  echo -n "${i} ${NAME}"
+  /usr/bin/sudo /usr/bin/sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
+  echo " (번역 완료)"
 done
-# echo "동기화를 시작합니다."
-# /usr/bin/rsync -av --delete --progress "$MY_PATH" "$KORPATH"
-echo "로그를 기록합니다."
-/usr/bin/diff "$ENGPATH" "$JAPPATH" | /usr/bin/grep -E "<string>|.nib|.strings" > "$LOGPATH"BetaDesigner.en-ja.log
-/usr/bin/diff "$ENGPATH" "$KORPATH" | /usr/bin/grep -E "<string>|.nib|.strings" > "$LOGPATH"BetaDesigner.en-ko.log
+
+echo "Affinity Designer Beta (Frameworks)을(를) 번역합니다. (총 304개 항목) ^+C로 취소가 가능합니다."
+ENGPATH=/Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/
+KORPATH=/Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
+for (( i = 1; i <= 304; i++ ))
+do
+  NAME=$(/bin/ls -a "${ENGPATH}" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
+  echo -n "${i} ${NAME}"
+  /usr/bin/sudo /usr/bin/sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
+  echo " (번역 완료)"
+done
