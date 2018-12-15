@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo echo "새로운 번역을 확인합니다."
-/usr/bin/cd ~/Affinity-in-Korean/
+cd ~/Affinity-in-Korean/
 /usr/bin/git pull
 echo "Affinity Photo Beta을(를) 번역합니다. (총 17개 항목) ^+C로 취소가 가능합니다."
 DICPATH=~/Affinity-in-Korean/DictionaryPhoto
