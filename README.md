@@ -7,7 +7,7 @@ Affinity 시리즈 한글화 프로젝트
 ## Step 0. 설치하기
 > 이미 Affinity 시리즈를 이용한다면 이 단계를 건너 뛰어도 좋습니다.
 
-이 프로젝트는 해당 프로그램을 번역하는 기능을 제공합니다. 해당 프로그램이 없다면 동작하지 않습니다. 아래 바로가기를 통해 프로그램을 구매하실 수 있습니다.
+Affinity-in-Korean은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다면 번역할 수 없습니다. 아래에서 Affinity 시리즈를 구매하실 수 있습니다.
 * 최신 버전 구매
   * [Affinity Designer for desktop - Professional graphic design software](https://affinity.serif.com/designer/desktop)
   * [Affinity Photo for desktop - Professional image editing software](https://affinity.serif.com/photo/desktop)
@@ -16,18 +16,18 @@ Affinity 시리즈 한글화 프로젝트
   * [Affinity Designer on the Mac App Store](https://itunes.apple.com/app/affinity-designer/id824171161)
   * [Affinity Photo on the Mac App Store](https://itunes.apple.com/app/affinity-photo/id824183456)
   <!-- * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id) -->
-베타 프로그램도 번역을 지원합니다. 베타 프로그램을 이용하실 수 있습니다.
+베타 프로그램의 번역도 가능합니다. 베타 프로그램은 베타 사용자 포럼에서 구할 수 있습니다.
 * 베타 프로그램
   * [Affinity Designer Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Designer%20Beta.dmg)
   * [Affinity Photo Beta](https://s3.amazonaws.com/affinity-beta/download/Affinity%20Photo%20Customer%20Beta.dmg)
-## Step 1. 저장소 복제하기
-Terminal.app에서 다음 명령어를 입력합니다. 이 프로젝트 저장소를 당신의 Mac으로 복제합니다.
+## Step 1. 복제하기
+Affinity-in-Korean을 당신의 Mac으로 복제합니다. Terminal.app에서 다음 명령어를 입력해주세요.
 ```sh
 cd ~/
 git clone https://github.com/Teiming/Affinity-in-Korean.git
 ```
-## Step 2. 파일 형식 바꾸기
-기본적으로 응용프로그램 언어 파일은 binary입니다. 읽을 수 있는 xml로 변환합니다.
+## Step 2. 변환하기
+Affinity 시리즈의 기본 언어 파일은 binary입니다. 사람이 읽을 수 있는 xml로 변환합니다.
 ```sh
 sudo ~/Affinity-in-Korean/Converter
 ```
@@ -36,9 +36,9 @@ sudo ~/Affinity-in-Korean/Converter
 chmod +x ~/Affinity-in-Korean/Converter
 ```
 ## Step 3. 번역 폴더 생성
-> 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 기능에는 이상이 없습니다.
-
 한국어 번역 파일을 저장할 ko.lproj 폴더를 만듭니다. Converter는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
+> 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affinity-in-Korean은 정상 작동합니다.
+
 ## Step 4. 변역하기
 > 원본 영어 파일을 한국어 파일로 번역합니다. 번역된 내용이 늘어나면 보다 긴 시간이 소요됩니다.
 
@@ -69,7 +69,7 @@ ln -s ~/Affinity-in-Korean/tafpb /usr/local/bin/
 tafpb
 ```
 ## Step 5. 수정하기
-번역은 완전하지 않아서 추가 또는 개선될 수 있습니다. [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6) 또는 [디스코드 채팅 채널](https://discord.gg/Y2DGXE3)에서 틀린 번역을 바로 잡거나, 새 번역을 추가하고 있습니다. 번역을 갱신하는 명령어는 Step 4.에서 등록했습니다. 바로 이용하실 수 있습니다.
+Affinity-in-Korean은 아직 끝나지 않았습니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6) 또는 [디스코드 채팅 채널](https://discord.gg/Y2DGXE3)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. 아래에서는 바뀐 번역에 맞게 Affinity 시리즈를 다시 번역합니다. 필요한 명령어는 Step 4.에서 등록했습니다. 바로 이용하실 수 있습니다.
 ### Affinity Designer 수정하기
 다음 명령어를 입력하고 Affinity Designer을(를) 다시 번역합니다.
 ```sh
