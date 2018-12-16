@@ -16,7 +16,7 @@ do
   echo " (기록 완료)"
   cd ${GITPATH}
   git add Designer/
-  git commit -m "Designer/${NAME}.log 변경"
+  git commit -m "Designer/"${NAME}".log 변경"
   git push
   echo " (git 완료)"
 done
