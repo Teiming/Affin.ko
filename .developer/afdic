@@ -10,14 +10,18 @@ exp=$(echo "s/g>$ENG1</g>$KOR1</")
 cd ~/Affinity-in-Korean/
 echo ${exp} >> DictionaryDesigner
 echo ${exp} >> DictionaryPhoto
+echo ${exp} >> DictionaryPublisher
 cat DictionaryDesigner | sort |  uniq > DictionaryDesigner.temp && mv DictionaryDesigner.temp DictionaryDesigner
 cat DictionaryPhoto | sort | uniq > DictionaryPhoto.temp && mv DictionaryPhoto.temp DictionaryPhoto
-diff DictionaryDesigner DictionaryPhoto | grep "s" > DictionaryDiff
+cat DictionaryPublisher | sort | uniq > DictionaryPublisher.temp && mv DictionaryPublisher.temp DictionaryPublisher
+diff3 DictionaryDesigner DictionaryPhoto DictionaryPublisher > DictionaryDiff
 echo "주의할 특수문자 &" >> DictionaryDiff
 cat DictionaryDesigner | grep "&" >> DictionaryDiff
 cat DictionaryPhoto | grep "&" >> DictionaryDiff
+cat DictionaryPublisher | grep "&" >> DictionaryDiff
 git add DictionaryDesigner
 git add DictionaryPhoto
+git add DictionaryPublisher
 git commit -m "\"${ENG}\"을(를) \"${KOR}\"(으)로 번역합니다."
 git push
 ~/Affinity-in-Korean/.developer/afdic
