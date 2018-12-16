@@ -13,9 +13,10 @@ do
   echo -n " (번역 완료)"
   diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep -E "<string>|.nib|.strings" > "${GITPATH}"Designer/"${NAME}".en-ja.log
   diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" | grep -E "<string>|.nib|.strings" > "${GITPATH}"Designer/"${NAME}".en-ko.log
-  echo ".log"
+  echo " (기록 완료)"
   cd ${GITPATH}
   git add Designer/
   git commit -m "Designer/${NAME}.log 변경"
   git push
+  echo " (git 완료)"
 done
