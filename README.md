@@ -88,11 +88,6 @@ tafp
 ```sh
 tafpb
 ```
-## 기타
-다음 명령어를 입력하면 affdic을(를) 손쉽게 이용할 수 있습니다.
-```sh
-sudo ln -sf ~/Affinity-in-Korean/affdic /usr/local/bin/affdic
-```
 ## Bugs
 지금까지 발견된 오류는 다음과 같습니다.
 * 설정 화면에서 아이콘이 깨지는 현상
