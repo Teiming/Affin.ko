@@ -46,6 +46,16 @@ case ${word} in
   sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj
   sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
   ;;
+  6 )
+  echo "Unpack Affinity Publisher Beta"
+  sudo plutil -convert xml1 /Applications/Affinity\ Publisher\ Beta.app/Contents/Resources/en.lproj/*
+  sudo plutil -convert xml1 /Applications/Affinity\ Publisher\ Beta.app/Contents/Resources/ja.lproj/*
+  sudo plutil -convert xml1 /Applications/Affinity\ Publisher\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
+  sudo plutil -convert xml1 /Applications/Affinity\ Publisher\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
+  echo "ko.lproj 폴더를 생성합니다."
+  sudo mkdir /Applications/Affinity\ Publisher\ Beta.app/Contents/Resources/ko.lproj
+  sudo mkdir /Applications/Affinity\ Publisher\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  ;;
   * )
   echo "알 수 없는 프로그램입니다. 1, 2, 3, 4로만 입력해주세요."
   ~/Affinity-in-Korean/Converter

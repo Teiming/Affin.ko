@@ -14,10 +14,10 @@ do
   echo " (번역 완료)"
 done
 
-echo "Affinity Publisher Beta (Frameworks)을(를) 번역합니다. (총 305개 항목) ^+C로 취소가 가능합니다."
+echo "Affinity Publisher Beta (Frameworks)을(를) 번역합니다. (총 304개 항목) ^+C로 취소가 가능합니다."
 ENGPATH=/Applications/Affinity\ Publisher\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/
 KORPATH=/Applications/Affinity\ Publisher\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
-for (( i = 1; i <= 305; i++ ))
+for (( i = 1; i <= 304; i++ ))
 do
   NAME=$(/bin/ls -a "${ENGPATH}" | /usr/bin/grep "i" | /usr/bin/sed -n "$i"p | /usr/bin/sed -e "s/^.*\///")
   echo -n "${i} ${NAME}"
