@@ -1,1 +1,0 @@
-/Applications/Affinity Photo.app/Contents/
