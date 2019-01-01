@@ -1,4 +1,4 @@
-
+ only
 # Affin.ko
 Affinity 시리즈 한글화 프로젝트
 >일본식 한자 표기는 지양하고 있습니다.
@@ -22,7 +22,7 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
   * [Affinity Photo Beta](https://affin.co/photo17beta)
 ## Step 1. 복제하기
 Affin.ko을 당신의 Mac으로 복제합니다. Terminal.app에서 다음 명령어를 입력해주세요.
-> git을 처음 이용하시는 경우, 설치부터 해야합니다.
+> git을 처음 이용하시는 경우, 설치부터 해야합니다. [Xcode](https://itunes.apple.com/app/xcode/id497799835)를 권장합니다. Xcode의 대안으로 [git-scm.com](https://git-scm.com)을 이용하셔도 됩니다.
 ```sh
 cd ~/
 git clone https://github.com/Teiming/Affin.ko.git
