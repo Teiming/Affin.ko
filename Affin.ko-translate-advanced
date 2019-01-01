@@ -1,0 +1,79 @@
+#!/bin/bash
+# ln -sf ~/Affin.ko/Affin.ko-translate /usr/local/bin/affin.ko
+echo "Select Application"
+echo "1: Affinity Designer"
+echo "2: Affinity Designer Beta"
+echo "3: Affinity Photo"
+echo "4: Affinity Photo Beta"
+echo "5: "
+echo "6: Affinity Publisher Beta"
+read Application
+case ${Application} in
+  1 )
+  APPNAME=Affinity\ Designer
+  DICPATH=~/Affin.ko/DictionaryDesigner
+  ;;
+  2 )
+  APPNAME=Affinity\ Designer\ Beta
+  DICPATH=~/Affin.ko/DictionaryDesigner
+  ;;
+  3 )
+  APPNAME=Affinity\ Photo
+  DICPATH=~/Affin.ko/DictionaryPhoto
+  ;;
+  4 )
+  APPNAME=Affinity\ Photo\ Beta
+  DICPATH=~/Affin.ko/DictionaryPhoto
+  ;;
+  5 )
+  APPNAME=Affinity\ Publisher
+  DICPATH=~/Affin.ko/DictionaryPublisher
+  ;;
+  6 )
+  APPNAME=Affinity\ Publisher\ Beta
+  DICPATH=~/Affin.ko/DictionaryPublisher
+  ;;
+  * )
+  echo "Unknown Application."
+  ;;
+esac
+echo "Select Main Menu or Frameworks"
+echo "1: Main Menu"
+echo "2: Frameworks"
+read Frameworks
+if [[ ${Frameworks} -eq 2 ]]; then
+  ENGPATH=/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/
+  JAPPATH=/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/
+  KORPATH=/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
+  MIDPATH=~/Affin.ko-translated/"${APPNAME}"\ \ Frameworks/
+else
+  ENGPATH=/Applications/"${APPNAME}".app/Contents/Resources/en.lproj/
+  JAPPATH=/Applications/"${APPNAME}".app/Contents/Resources/ja.lproj/
+  KORPATH=/Applications/"${APPNAME}".app/Contents/Resources/ko.lproj/
+  MIDPATH=~/Affin.ko-translated/"${APPNAME}"/
+fi
+# 번역
+FILECOUNT=$(ls -a "${JAPPATH}" | grep "i" | sed -n "=" | tail -n "1")
+for (( i = 1; i <= ${FILECOUNT}; i++ ))
+do
+  NAME=$(/bin/ls "${JAPPATH}" | /usr/bin/sed -n "${i}p")
+  echo -n "${i}/${FILECOUNT} ${NAME}"
+  sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${MIDPATH}${NAME}"
+  echo -n " (번역 종료)"
+  # case ${Frameworks} in
+  #   1 )
+  #   diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log
+  #   diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log
+  #   diff ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".ja-ko.log
+  #   echo " (로그 종료)"
+  #   ;;
+  #   2 )
+  #   diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log
+  #   diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log
+  #   diff ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/"${NAME}".ja-ko.log
+  #   echo " (로그 종료)"
+  #   ;;
+  # esac
+done
+rsync -av --delete "${MIDPATH}" "${KORPATH}"
+echo " (동기화 종료)"

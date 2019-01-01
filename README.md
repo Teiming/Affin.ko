@@ -23,6 +23,7 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
 ## Step 1. 복제하기
 Affin.ko을 당신의 Mac으로 복제합니다. Terminal.app에서 다음 명령어를 입력해주세요.
 > git을 처음 이용하시는 경우, 설치부터 해야합니다. [Xcode](https://itunes.apple.com/app/xcode/id497799835)를 권장합니다. Xcode의 대안으로 [git-scm.com](https://git-scm.com)을 이용하셔도 됩니다.
+
 ```sh
 cd ~/
 git clone https://github.com/Teiming/Affin.ko.git
@@ -32,12 +33,12 @@ Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 
 ```sh
 sudo ~/Affin.ko/Affin.ko-convert
 ```
-권한 부족으로 Converter를 실행할 수 없다면 다음 명령어로 권한을 부여합니다.
+권한 부족으로 Affin.ko-convert를 실행할 수 없다면 다음 명령어로 권한을 부여합니다.
 ```sh
 chmod +x ~/Affin.ko/Affin.ko-convert
 ```
 ## Step 3. 번역 폴더 생성
-한국어 번역 파일을 저장할 ko.lproj 폴더를 만듭니다. Converter는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
+한국어 번역 파일을 저장할 ko.lproj 폴더를 만듭니다. Affin.ko-convert는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
 > 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affin.ko은 정상 작동합니다.
 
 ## Step 4. 변역하기
