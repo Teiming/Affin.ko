@@ -1,68 +1,49 @@
 #!/bin/bash
-echo "변역할 프로그램을 선택합니다."
+echo "번역할 프로그램을 선택합니다."
 echo "1: Affinity Designer"
 echo "2: Affinity Designer Beta"
 echo "3: Affinity Photo"
 echo "4: Affinity Photo Beta"
-read word
-case ${word} in
+echo "5: Affinity Publisher"
+echo "6: Affinity Publisher Beta"
+read app
+case ${app} in
   1 )
-  echo "Affinity Designer를 변환합니다."
-  sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Resources/ja.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "ko.lproj 폴더를 생성합니다."
-  sudo mkdir /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj
-  sudo mkdir /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  APPNAME=Affinity\ Designer
   ;;
   2 )
-  echo "Affinity Designer Beta를 변환합니다."
-  sudo plutil -convert xml1 /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ja.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "ko.lproj 폴더를 생성합니다."
-  sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Resources/ko.lproj
-  sudo mkdir /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  APPNAME=Affinity\ Designer\ Beta
   ;;
   3 )
-  echo "Affinity Photo를 변환합니다."
-  sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Resources/ja.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "ko.lproj 폴더를 생성합니다."
-  sudo mkdir /Applications/Affinity\ Photo.app/Contents/Resources/ko.lproj
-  sudo mkdir /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  APPNAME=Affinity\ Photo
   ;;
   4 )
-  echo "Unpack Affinity Photo Beta"
-  sudo plutil -convert xml1 /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ja.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "ko.lproj 폴더를 생성합니다."
-  sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Resources/ko.lproj
-  sudo mkdir /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  APPNAME=Affinity\ Photo\ Beta
+  ;;
+  5 )
+  APPNAME=Affinity\ Publisher
   ;;
   6 )
-  echo "Unpack Affinity Publisher Beta"
-  sudo plutil -convert xml1 /Applications/Affinity\ Publisher\ Beta.app/Contents/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Publisher\ Beta.app/Contents/Resources/ja.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Publisher\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
-  sudo plutil -convert xml1 /Applications/Affinity\ Publisher\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-  echo "ko.lproj 폴더를 생성합니다."
-  sudo mkdir /Applications/Affinity\ Publisher\ Beta.app/Contents/Resources/ko.lproj
-  sudo mkdir /Applications/Affinity\ Publisher\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+  APPNAME=Affinity\ Publisher\ Beta
   ;;
   * )
-  echo "알 수 없는 프로그램입니다. 1, 2, 3, 4로만 입력해주세요."
-  ~/Affinity-in-Korean/Converter
+  echo "알 수 없는 프로그램입니다. 1, 2, 3, 4, 5, 6(으)로만 입력해주세요."
+  ~/Affin.ko/Converter
   ;;
 esac
-echo -n "다른 프로그램을 번역하려면 Converter.sh를 다시 시작해주세요. (y or n)"
-read RE
-if [[ ${RE} -eq y ]]; then
-  ~/Affinity-in-Korean/Converter
+
+echo ${APPNAME}"를 변환합니다."
+sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Resources/en.lproj/*
+sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Resources/ja.lproj/*
+sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
+sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
+echo "ko.lproj 폴더를 생성합니다."
+sudo mkdir /Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
+sudo mkdir /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+echo -n "다른 프로그램을 번역하려면 Converter.sh를 다시 시작해주세요. (y or n) "
+read restart
+if [[ ${restart} -eq y ]]; then
+  ~/Affin.ko/Converter
+else
+  exit
 fi
