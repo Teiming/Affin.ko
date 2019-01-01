@@ -7,6 +7,7 @@ s/g>%@ has been modified.</g>%@이(가) 변경되었습니다.</
 s/g>'%1' selected. </g>'%1' 선택함. </
 s/g>'Actual Size' Zoom:</g>'실제 크기' 맞추기:</
 s/g>16 bit</g>16 비트</
+s/g>2:1 Isometric</g>2:1 등각투상</
 s/g>32-bit Preview</g>32-비트 미리보기</
 s/g>8 bit</g>8 비트</
 s/g>About…</g>Affinity Photo에 관하여…</
@@ -28,14 +29,18 @@ s/g>Add Layer</g>레이어 추가</
 s/g>Add Pixel Layer</g>픽셀 레이어 추가</
 s/g>Add Preset</g>미리 설정 추가</
 s/g>Add Registration Colour</g>등록 색상을 추가</
+s/g>Add Round</g>둥근 브러시 추가</
 s/g>Add Snapshot</g>스냅샷 추가</
 s/g>Add System Palette</g>시스템 팔레트 추가</
 s/g>Add brush Overlay</g>브러시 오버레이 추가</
+s/g>Add for constraining</g>규제 대상에 추가</
+s/g>Add for snapping</g>스내핑 대상에 추가</
 s/g>Add to Swatches…</g>견본에 추가…</
 s/g>Add</g>추가</
 s/g>Adjustment brush</g>조정 브러시</
 s/g>Adjustment</g>조정</
 s/g>Adjustments</g>조정</
+s/g>Advanced Affinity Designer Affinity Designer Frameworks Affinity Designer Beta Affinity Designer Beta Frameworks Affinity Photo Affinity Photo Frameworks Affinity Photo Beta Affinity Photo Beta Frameworks Affinity Publisher Affinity Publisher Frameworks Affinity Publisher Beta Affinity Publisher Beta Frameworks Converter DictionaryDesigner DictionaryDiff DictionaryPhoto DictionaryPublisher Diff Syncor Translator Language:</g>Advanced Affinity Designer Affinity Designer Frameworks Affinity Designer Beta Affinity Designer Beta Frameworks Affinity Photo Affinity Photo Frameworks Affinity Photo Beta Affinity Photo Beta Frameworks Affinity Publisher Affinity Publisher Frameworks Affinity Publisher Beta Affinity Publisher Beta Frameworks Converter DictionaryDesigner DictionaryDiff DictionaryPhoto DictionaryPublisher Diff Syncor Translator 언어:</
 s/g>Advanced</g>고급</
 s/g>Affinity Photo Help</g>Affinity Photo 도움말</
 s/g>After</g>이후</
@@ -49,10 +54,16 @@ s/g>Align Left</g>왼쪽 정렬</
 s/g>Align Middle</g>세로 가운데 정렬</
 s/g>Align Right Edges</g>오른쪽 정렬</
 s/g>Align Right</g>오른쪽 정렬</
+s/g>Align Stroke to Centre</g>선을 중앙에 정렬</
+s/g>Align Stroke to Inside</g>선을 안쪽에 정렬</
+s/g>Align Stroke to Outside</g>선을 바깥쪽에 정렬</
 s/g>Align Top Edges</g>위쪽 정렬</
 s/g>Align Top</g>위쪽 정렬</
 s/g>Align Vertical Centres</g>세로 가운데 정렬</
+s/g>Align to:</g>정렬 대상:</
+s/g>Align:</g>정렬:</
 s/g>Align</g>정렬하기</
+s/g>Alignment:</g>정렬:</
 s/g>Alignment</g>정렬</
 s/g>All Caps</g>모두 대문자</
 s/g>All Channels</g>모든 채널</
@@ -65,6 +76,9 @@ s/g>Alternate (Even-Odd)</g>교대하기</
 s/g>Always Show Selection in Layers Panel </g>레이어 패널에서 선택 항목 항상 보기 </
 s/g>Always show brush crosshair</g>브러시 십자선 항상 보기</
 s/g>Analogous</g>유사색</
+s/g>Angle too close to first and second axis angle</g>첫 번째 및 두 번째 축 각도와 너무 가깝습니다.</
+s/g>Angle too close to first axis angle</g>첫 번째 축 각도와 너무 가깝습니다.</
+s/g>Angle too close to second axis angle</g>두 번째 축 각도와 너무 가깝습니다.</
 s/g>Angle:</g>각도:</
 s/g>Angle</g>각도</
 s/g>Appearance</g>외관</
@@ -82,6 +96,7 @@ s/g>Artistic Text Tool</g>예술 텍스트 도구</
 s/g>As Application Palette</g>응용프로그램 팔레트로</
 s/g>As Document Palette</g>문서 팔레트로</
 s/g>As System Palette</g>시스템 팔레트로</
+s/g>Aspect ratio:</g>종횡비:</
 s/g>Assets</g>자산</
 s/g>Assign</g>할당</
 s/g>Assistant Manager…</g>손쉬운 사용 관리자…</
@@ -90,9 +105,11 @@ s/g>Assistant</g>손쉬운 사용</
 s/g>Author</g>저자</
 s/g>Auto Colours</g>자동 색상</
 s/g>Auto Contrast</g>자동 대비</
+s/g>Auto Distribute</g>자동 분배</
 s/g>Auto Levels</g>자동 레벨</
 s/g>Auto White Balance</g>자동 화이트 밸런스</
 s/g>Auto-scroll</g>자동 스크롤</
+s/g>Auto</g>자동</
 s/g>Automatic</g>자동</
 s/g>Average</g>평균</
 s/g>Back One</g>뒤로 보내기</
@@ -138,6 +155,7 @@ s/g>Blend Mode:</g>혼합 모드:</
 s/g>Blend Options</g>혼합 설정</
 s/g>Blend mode:</g>혼합 모드:</
 s/g>Blend</g>혼합</
+s/g>Blending</g>혼합하기</
 s/g>Blue Channel</g>파랑 채널</
 s/g>Blue</g>파랑</
 s/g>Blur Brush Tool</g>블러 브러시 도구</
@@ -147,6 +165,7 @@ s/g>Body</g>몸</
 s/g>Bold</g>강조</
 s/g>Bottom Bleed:</g>아래쪽 도련:</
 s/g>Bottom Margin:</g>아래쪽 여백:</
+s/g>Bottom:</g>아래쪽</
 s/g>Bottom</g>아래</
 s/g>Boxes</g>상자</
 s/g>Break Curve</g>곡선 자르기</
@@ -158,9 +177,11 @@ s/g>Brush - Document Defaults</g>브러시 - 문서 기본값</
 s/g>Brush - Editing \[%@]</g>브러시 - 편집 \[%@]</
 s/g>Brush - Selection</g>브러시 - 선택 항목</
 s/g>Brush Defaults</g>브러시 기본값</
+s/g>Brush Item Context Menu</g>브러시 항목 상황별 메뉴</
 s/g>Brush Width:</g>브러시 너비:</
 s/g>Brush</g>브러시</
 s/g>Brushes</g>브러시</
+s/g>Butt Cap</g>뭉툭한 모자</
 s/g>Button</g>버튼</
 s/g>Callout Ellipse Tool</g>타원 도구 호출</
 s/g>Camera</g>카메라</
@@ -173,6 +194,7 @@ s/g>Cannot Import</g>들여올 수 없음</
 s/g>Cannot Print</g>인쇄할 수 없음</
 s/g>Cannot Share</g>공유할 수 없음</
 s/g>Cannot Tone Map</g>톤 매핑할 수 없음</
+s/g>Cap:</g>모자:</
 s/g>Capitalisation</g>대문자화</
 s/g>Categories</g>범주</
 s/g>Centimetres:</g>센티미터:</
@@ -205,6 +227,7 @@ s/g>Clip to Canvas</g>캔버스에 클립</
 s/g>Clipping Alarms</g>클리핑 알람</
 s/g>Clone Brush Tool</g>복제 브러시 도구</
 s/g>Clone Brush</g>복제 브러시</
+s/g>Clone brush tool</g>복제 브러시 도구</
 s/g>Clone</g>복제</
 s/g>Close Curve</g>곡선 닫기</
 s/g>Close pie</g>파이 닫기</
@@ -227,15 +250,17 @@ s/g>Colour</g>색상</
 s/g>Colours</g>색상</
 s/g>Column Guides</g>열 안내선</
 s/g>Column Marquee Tool</g>열 천막 도구</
+s/g>Columns:</g>행:</
 s/g>Combine toolbar button</g>배타 툴바 버튼</
 s/g>Combine</g>배타</
+s/g>Commercial</g>상업용</
 s/g>Complementary</g>보색</
 s/g>Confirm Delete</g>삭제 확인</
 s/g>Confirm</g>확인</
 s/g>Conical</g>원뿔형</
 s/g>Connect</g>접속</
-s/g>Constrain</g>통제</
-s/g>Constraints</g>통제</
+s/g>Constrain</g>규제</
+s/g>Constraints</g>규제</
 s/g>Context:</g>상황:</
 s/g>Context</g>문단</
 s/g>Continuous</g>연속</
@@ -260,6 +285,7 @@ s/g>Corner:</g>꼭짓점:</
 s/g>Corner</g>꼭짓점</
 s/g>Corners:</g>꼭짓점:</
 s/g>Cosine</g>코사인</
+s/g>Create Category…</g>범주 생성…</
 s/g>Create Character Style</g>문자 스타일 생성</
 s/g>Create Colour Chord</g>색상 코드 생성</
 s/g>Create Compound</g>결합 생성</
@@ -267,15 +293,19 @@ s/g>Create New Category</g>신규 범주 생성</
 s/g>Create Palette From Document</g>문서로부터 팔레트 생성</
 s/g>Create Palette From Image…</g>이미지로부터 팔레트 생성…</
 s/g>Create Paragraph Style</g>문단 스타일 생성</
+s/g>Create Preset…</g>미리 설정 생성…</
 s/g>Create Slice from the currently selected object</g>지금 선택된 대상으로부터 슬라이스 생성</
 s/g>Create Slice</g>슬라이스 생성</
 s/g>Create Style</g>스타일 생성</
+s/g>Create a new document by pressing 'New Document' below - or open existing work using File -&gt; Open. Click a sample below to download and view it. Visit our forum or tag with #madeinaffinity in the usual places. We'd love to see what you're up to...</g>아래 '신규 문서'를 눌러서 새 문서를 생성하십시오 - 또는</
 s/g>Create artboard</g>아트보드 생성</
 s/g>Create preset</g>미리 설정 생성</
+s/g>Create</g>생성</
 s/g>Crescent Tool</g>초승달 도구</
 s/g>Crescent</g>초승달</
 s/g>Crop Tool</g>크롭 도구</
 s/g>Crop</g>크롭</
+s/g>Current plane</g>지금 평면</
 s/g>Curve</g>곡선</
 s/g>Curves</g>곡선</
 s/g>Custom</g>사용자화</
@@ -286,6 +316,8 @@ s/g>Cycle View Mode</g>뷰 모드 순환</
 s/g>Daily</g>매일</
 s/g>Dark</g>다크</
 s/g>Darken</g>어둡게</
+s/g>Dash Line Style</g>줄표 선 스타일</
+s/g>Dash:</g>줄표:</
 s/g>Date shot</g>찍은 날짜</
 s/g>Decimal Places for Unit Types:</g>단위 종류별 소수점 위치:</
 s/g>Decrease</g>줄이기</
@@ -294,6 +326,7 @@ s/g>Default</g>기본값</
 s/g>Defaults</g>기본값</
 s/g>Degrees:</g>각도:</
 s/g>Delete %1</g>%1 지우기</
+s/g>Delete Brush</g>브러시 지우기</
 s/g>Delete Category</g>범주 지우기</
 s/g>Delete Character Style</g>문자 스타일 지우기</
 s/g>Delete Colour</g>색상 지우기</
@@ -319,6 +352,7 @@ s/g>Develop</g>현상</
 s/g>Devices</g>기기</
 s/g>Diamond Tool</g>다이아몬드 도구</
 s/g>Diamond</g>다이아몬드</
+s/g>Diffuse:</g>확산:</
 s/g>Diffuse</g>확산</
 s/g>Dimensions:</g>치수:</
 s/g>Dimensions</g>치수</
@@ -336,6 +370,8 @@ s/g>Distribute Vertically</g>세로 분배</
 s/g>Distribute</g>분배</
 s/g>Divide toolbar button</g>분할 툴바 버튼</
 s/g>Divide</g>분할</
+s/g>Divisions:</g>구획:</
+s/g>Do not add</g>추가하지 않음</
 s/g>Dock Tools</g>도구 고정</
 s/g>Document Setup…</g>문서 설정…</
 s/g>Document Units:</g>문서 단위:</
@@ -343,17 +379,25 @@ s/g>Document</g>문서</
 s/g>Don't Save</g>저장하지 않음</
 s/g>Don't export layers hidden by Export persona</g>내보내기 페르소나에서 숨긴 레이어는 꺼내지 않음.</
 s/g>Don't restore</g>복원하지 않음</
+s/g>Don't set blend mode</g>혼합 모드 설정하지 않음</
+s/g>Don't set wet edges</g>젖은 모서리 설정하지 않음</
 s/g>Done</g>완료</
 s/g>Donut Tool</g>도넛 도구</
 s/g>Donut</g>도넛</
 s/g>Drag</g>드래그</
-s/g>Draw Persona</g>그림 페르소나</
-s/g>Draw</g>그림</
+s/g>Draw Persona</g>그리기 페르소나</
+s/g>Draw behind fill</g>칠 뒤에 그리기</
+s/g>Draw</g>그리기</
+s/g>Drawing</g>그리기</
+s/g>Duplicate Brush</g>브러시 복제</
 s/g>Duplicate</g>복제</
+s/g>Dynamics</g>역동</
 s/g>Edge</g>모서리</
 s/g>Edit All Layers</g>모든 레이어 편집</
+s/g>Edit Brush…</g>브러시 편집…</
 s/g>Edit Fill…</g>칠 편집…</
 s/g>Edit in Designer…</g>Designer에서 편집…</
+s/g>Edit in plane</g>평면에서 편집</
 s/g>Edit</g>편집</
 s/g>Effects</g>효과</
 s/g>Ellipse Tool</g>타원 도구</
@@ -380,6 +424,7 @@ s/g>Everything</g>모두</
 s/g>Exclude From Snapping</g>스내핑에서 제외</
 s/g>Expand Stroke</g>선 펼치기</
 s/g>Expand stroke</g>선 펼치기</
+s/g>Export Brushes…</g>브러시 내보내기…</
 s/g>Export LUT</g>LUT 내보내기</
 s/g>Export Options</g>내보내기 설정</
 s/g>Export Palette…</g>팔레트 내보내기…</
@@ -387,6 +432,7 @@ s/g>Export Persona</g>내보내기 페르소나</
 s/g>Export Slices (%d)</g>슬라이스 내보내기 (%d)</
 s/g>Export Slices (000)</g>슬라이스 내보내기 (000)</
 s/g>Export Slices</g>슬라이스 내보내기</
+s/g>Export User Presets…</g>사용자 미리 설정 내보내기…</
 s/g>Export preset...</g>내보내기 미리 설정...</
 s/g>Export preset:</g>내보내기 미리 설정:</
 s/g>Export preset</g>내보내기 미리 설정</
@@ -413,18 +459,27 @@ s/g>Fill Tool</g>칠 도구</
 s/g>Fill style:</g>칠 스타일:</
 s/g>Fill:</g>칠:</
 s/g>Fill</g>칠</
+s/g>Filter the visible presets</g>볼 수 있는 미리 설정 필터</
+s/g>Filter:</g>필터:</
 s/g>Filters</g>필터</
+s/g>Final</g>마지막</
 s/g>Find in Layers Page</g>레이어 페이지에서 찾기</
 s/g>Find in Layers Panel</g>레이어 패널에서 찾기</
 s/g>Find in Slice Page</g>슬라이스 페이지에서 찾기</
+s/g>First Selected</g>처음 선택 항목</
+s/g>First axis</g>첫 번째 축</
+s/g>Fit to plane</g>평면에 맞추기</
 s/g>Flexible Space</g>유연한 공백</
 s/g>Flip Horizontal</g>가로 뒤집기</
 s/g>Flip Vertical</g>세로 뒤집기</
+s/g>Flow Jitter:</g>흐름 일그러짐:</
 s/g>Flow:</g>흐름:</
 s/g>Focus</g>초점</
 s/g>Fold</g>접기</
 s/g>Font:</g>서체:</
+s/g>Font</g>서체</
 s/g>Force Pixel Alignment</g>강제 픽셀 정렬</
+s/g>Force pixel alignment</g>강제 픽셀 정렬</
 s/g>Foreground</g>전경</
 s/g>Forward One</g>앞으로 가져오기</
 s/g>Frame Text Tool</g>액자 텍스트 도구</
@@ -437,12 +492,14 @@ s/g>From Fill As Global</g>칠에서 (전역)</
 s/g>From Fill</g>칠에서</
 s/g>From Line As Global</g>선에서 (전역)</
 s/g>From Line</g>선에서</
+s/g>Front</g>앞쪽</
 s/g>Gamma:</g>감마:</
 s/g>Gamma</g>감마</
 s/g>Gaussian Blur</g>가우시안 블러</
 s/g>General</g>일반</
 s/g>Geometry</g>기하</
 s/g>Glass</g>유리</
+s/g>Global</g>전역</
 s/g>Glow</g>광채</
 s/g>Glyph Browser</g>글리프 브라우저</
 s/g>Gradient Map</g>그레이디언트 맵</
@@ -453,11 +510,15 @@ s/g>Green Channel</g>초록 채널</
 s/g>Green</g>초록</
 s/g>Greys</g>회색</
 s/g>Grid and Axis Manager…</g>격자선 관리자…</
+s/g>Grid and Snapping Axis</g>격자 및 스내핑 축</
+s/g>Grid lines:</g>격자 선:</
+s/g>Grid setup</g>격자 설정</
 s/g>Grid type:</g>격자 종류:</
 s/g>Group</g>그룹</
 s/g>Grow \/ Shrink…</g>팽창 \/ 수축…</
 s/g>Guides Manager…</g>안내선 관리자…</
 s/g>Guides</g>안내선</
+s/g>Gutter:</g>여백:</
 s/g>HSL Saturation</g>HSL 채도</
 s/g>HSL Sliders</g>HSL 슬라이더</
 s/g>Hardness:</g>굳기:</
@@ -475,9 +536,11 @@ s/g>Hide</g>가리기</
 s/g>High Frequency</g>고주파수</
 s/g>His</g>기록</
 s/g>Histogram</g>히스토그램</
+s/g>History Item</g>편집 기록 항목</
 s/g>History</g>편집 기록</
 s/g>Hold</g>유지</
 s/g>Home</g>홈</
+s/g>Horizontal axis:</g>가로 축:</
 s/g>Hue</g>색채</
 s/g>ICC profile:</g>ICC 프로파일:</
 s/g>Icon Only</g>아이콘만</
@@ -486,9 +549,12 @@ s/g>Ignore Misspelt Word</g>철자 오류 무시</
 s/g>Ignore Spelling</g>철자 무시</
 s/g>Ignore Text Wraps</g>줄바꿈 무시</
 s/g>Import Brushes</g>브러시 들여오기</
+s/g>Import Brushes…</g>브러시 들여오기…</
 s/g>Import Palette…</g>팔레트 들여오기…</
+s/g>Import Presets…</g>미리 설정 들여오기…</
 s/g>Import Text Styles…</g>텍스트 스타일 들여오기…</
 s/g>In Place</g>제자리에</
+s/g>In:</g>안:</
 s/g>Inches</g>인치</
 s/g>Include Margins</g>여백 포함</
 s/g>Increase</g>늘리기</
@@ -518,6 +584,7 @@ s/g>Inside horizontal</g>가로 안</
 s/g>Inside vertical</g>세로 안</
 s/g>Inside</g>안으로</
 s/g>Intensity:</g>세기:</
+s/g>Intermediate angles:</g>사이 각도:</
 s/g>Intersect toolbar button</g>교차 툴바 버튼</
 s/g>Intersect</g>교차</
 s/g>Invert Mask</g>마스크 반전</
@@ -528,6 +595,7 @@ s/g>Invert</g>반전</
 s/g>Isometric</g>등각투상</
 s/g>Italic</g>기울임</
 s/g>Join Curves</g>곡선 잇기</
+s/g>Join:</g>결합:</
 s/g>Justify All</g>양쪽 균등 정렬</
 s/g>Justify Centre</g>가운데 균등 정렬</
 s/g>Justify Left</g>왼쪽 균등 정렬</
@@ -553,11 +621,13 @@ s/g>Left Bleed:</g>왼쪽 도련:</
 s/g>Left Margin:</g>왼쪽 여백</
 s/g>Left curve:</g>왼쪽 곡선:</
 s/g>Left curve</g>왼쪽 곡선</
+s/g>Left:</g>왼쪽:</
 s/g>Left</g>왼쪽</
 s/g>Length:</g>길이:</
 s/g>Length</g>길이</
 s/g>Lens Filter</g>렌즈 필터</
 s/g>Lens</g>렌즈</
+s/g>Level:</g>레벨:</
 s/g>Levels</g>레벨</
 s/g>Library Persona</g>라이브러리 페르소나</
 s/g>Library</g>라이브러리</
@@ -568,23 +638,28 @@ s/g>Lighten</g>밝게</
 s/g>Lightness</g>밝기</
 s/g>Line Break</g>줄바꿈</
 s/g>Linear</g>선형</
+s/g>Link the grid colours</g>격자 색상 연결</
 s/g>Liquify Persona</g>액화 페르소나</
 s/g>Liquify</g>액화</
 s/g>Load Mesh</g>그물 불러오기</
 s/g>Load</g>불러오기</
 s/g>Location</g>위치</
 s/g>Lock</g>잠금</
+s/g>Lock\/Unlock</g>잠금\/잠금 해제</
 s/g>Look Up "%@"</g>"%@" 찾기</
 s/g>Loosen More</g>더욱 넓게</
 s/g>Loosen</g>넓게</
 s/g>Low Frequency</g>저주파수</
 s/g>Lower Baseline</g>기준선 내리기</
+s/g>Luminosity Jitter:</g>명도 일그러짐:</
 s/g>Lyr</g>레이어</
 s/g>Maintain fill aspect ratio</g>칠 종횡비 유지</
 s/g>Make Copy</g>복사</
 s/g>Make Global</g>전역 만들기</
 s/g>Maker</g>제조사</
+s/g>Manage Presets…</g>미리 설정 관리자…</
 s/g>Maps</g>지도</
+s/g>Margin</g>여백</
 s/g>Margins</g>여백</
 s/g>Margins…</g>여백…</
 s/g>Marquee</g>천막</
@@ -622,7 +697,9 @@ s/g>Minimize</g>최소화</
 s/g>Mirror view</g>거울 뷰 모드</
 s/g>Mirror</g>거울</
 s/g>Miscellaneous</g>기타</
+s/g>Mitre Join</g>짜임 결합</
 s/g>Mitre:</g>미터:</
+s/g>Mitre:</g>짜임:</
 s/g>Mode:</g>모드:</
 s/g>Mode</g>모드</
 s/g>Modified</g>변경</
@@ -630,6 +707,7 @@ s/g>Monochromatic Iconography</g>단색 아이콘</
 s/g>Monthly</g>매월</
 s/g>More</g>더 보기</
 s/g>Move Back One</g>뒤로 보내기</
+s/g>Move Brush to Category</g>브러시를 카테고리로 이동</
 s/g>Move By Whole Pixels</g>픽셀 단위로 이동</
 s/g>Move Forward One</g>앞으로 가져오기</
 s/g>Move Inside</g>안으로 가져오기</
@@ -655,8 +733,13 @@ s/g>New Adjustment</g>신규 조정</
 s/g>New Document From Snapshot</g>스냅샷으로부터 신규 문서</
 s/g>New Document</g>신규 문서</
 s/g>New From Clipboard</g>클립보드에서 신규</
+s/g>New Image Brush</g>신규 이미지 브러시</
 s/g>New Layer</g>신규 레이어</
 s/g>New Pixel Layer</g>신규 픽셀 레이어</
+s/g>New Round Brush</g>신규 둥근 브러시</
+s/g>New Solid Brush</g>신규 단일 브러시</
+s/g>New Square Brush</g>신규 사각형 브러시</
+s/g>New Textured Image Brush</g>신규 질감 이미지 브러시</
 s/g>New View</g>신규 뷰</
 s/g>New layer</g>신규 레이어</
 s/g>New</g>신규</
@@ -676,6 +759,7 @@ s/g>None</g>없음</
 s/g>Normal</g>정규</
 s/g>Number of Columns:</g>열 개수:</
 s/g>Nvg</g>네비게이터</
+s/g>Oblique</g>사투상</
 s/g>Offset Tool</g>편차 도구</
 s/g>Offset:</g>편차:</
 s/g>Offset</g>편차</
@@ -688,6 +772,7 @@ s/g>Opacity</g>불투명도</
 s/g>Open Recent</g>최근 사용 열기</
 s/g>Open…</g>열기…</
 s/g>Order</g>순서</
+s/g>Out:</g>바깥:</
 s/g>Outer Glow</g>외부 광채</
 s/g>Outer Shadow</g>외부 그림자</
 s/g>Outer</g>외부</
@@ -751,6 +836,8 @@ s/g>Pixels</g>픽셀</
 s/g>Place Image Tool</g>이미지 배치 도구</
 s/g>Place Image</g>이미지 배치</
 s/g>Place…</g>배치…</
+s/g>Plane editing options</g>평면 편집 설정</
+s/g>Plane perpendicular axis:</g>평면 직교 축:</
 s/g>Please choose a valid filename.</g>유효한 파일 이름을 선택해주세요.</
 s/g>Please select a layer.</g>레이어를 선택해주세요.</
 s/g>Please select an RGB pixel layer before developing.</g>RGB 픽셀 레이어를 선택하고 현상해주세요.</
@@ -774,6 +861,8 @@ s/g>Preferences…</g>환경설정…</
 s/g>Preserve alpha</g>알파 유지</
 s/g>Preserve aspect ratio</g>종횡비 유지</
 s/g>Preserve layer FX</g>레이어 효과 유지</
+s/g>Preset manager</g>미리 설정 관리자</
+s/g>Preset name:</g>Enter a name for the preset</
 s/g>Preset:</g>미리 설정:</
 s/g>Presets</g>미리 설정</
 s/g>Pressure:</g>압력:</
@@ -784,6 +873,7 @@ s/g>Profile:</g>프로파일:</
 s/g>Profiles</g>프로파일</
 s/g>Progress</g>진행상태</
 s/g>Promote Group to Layer</g>그룹을 레이어로 승격</
+s/g>Properties...</g>특성...</
 s/g>Protect Alpha</g>알파 보호</
 s/g>Protect hue</g>색조 보호</
 s/g>Pull</g>당기기</
@@ -796,6 +886,8 @@ s/g>Radius:</g>반지름:</
 s/g>Radius</g>반지름</
 s/g>Rainbow</g>무지개</
 s/g>Raise Baseline</g>기준선 올리기</
+s/g>Random</g>무작위</
+s/g>Raster Menu</g>래스터 메뉴</
 s/g>Rasterise to Mask</g>마스크 래스터화</
 s/g>Rasterise…</g>래스터화…</
 s/g>Reapply Text Styles</g>텍스트 스타일 다시 적용</
@@ -816,17 +908,23 @@ s/g>Redo</g>다시 실행</
 s/g>Refine Edges…</g>모서리 다듬기…</
 s/g>Reflect</g>반사</
 s/g>Release Compound</g>결합 해제</
+s/g>Remove All Guides</g>모든 안내선 지우기</
 s/g>Remove Default for</g>기본값 지우기</
 s/g>Remove Layer</g>레이어 지우기</
 s/g>Remove Profile</g>프로파일 지우기</
 s/g>Remove</g>지우기</
+s/g>Rename Brush…</g>브러시 이름 변경…</
 s/g>Rename Category</g>범주 이름 변경</
 s/g>Rename Category…</g>범주 이름 변경…</
 s/g>Rename Palette...</g>팔레트 이름 변경...</
+s/g>Rename Preset...</g>미리 설정 이름 변경...</
+s/g>Rename Preset…</g>미리 설정 이름 변경…</
 s/g>Rename preset</g>미리 설정 이름 변경</
 s/g>Rename...</g>이름 변경...</
+s/g>Rename</g>이름 변경</
 s/g>Repeat %@</g>%@ 반복</
 s/g>Repeat</g>반복</
+s/g>Replace Preset…</g>미리 설정 교체…</
 s/g>Reselect</g>다시 선택</
 s/g>Reset Adjustments</g>조정 재설정</
 s/g>Reset Brushes</g>브러시 재설정</
@@ -839,6 +937,7 @@ s/g>Reset Rotation</g>회전 재설정</
 s/g>Reset Selection Box</g>선택 항목 상자 재설정</
 s/g>Reset Studio</g>작업실 재설정</
 s/g>Reset</g>재설정</
+s/g>Restore Master Presets</g>주 미리 설정 복원</
 s/g>Restore Snapshot</g>스냅샷 복원</
 s/g>Restore unsaved file?</g>저장하지 않은 파일을 복원하겠습니까?</
 s/g>Restore</g>복원</
@@ -849,12 +948,14 @@ s/g>Reveal in Finder</g>Finder에서 찾기</
 s/g>Reverse gradient</g>그레이디언트 거꾸로</
 s/g>Revert Defaults</g>기본값 되돌리기</
 s/g>Revert defaults</g>기본값 되돌리기</
+s/g>Revert user changes</g>사용자 변경 되돌리기</
 s/g>Revert</g>되돌리기</
 s/g>Right Bleed:</g>오른쪽 도련:</
 s/g>Right Margin:</g>오른쪽 여백:</
 s/g>Right Text Inset</g>오른쪽 텍스트 들여쓰기</
 s/g>Right curve:</g>오른쪽 곡선:</
 s/g>Right curve</g>오른쪽 곡선</
+s/g>Right:</g>오른쪽:</
 s/g>Right</g>오른쪽</
 s/g>Rope length</g>밧줄 길이</
 s/g>Rope mode - The brush is dragged as though it is attached with a rope. Useful for smooth, slow sections with sharp corners</g>밧줄 모드 - 밧줄에 붙어있는 것처럼 브러시를 드래그합니다. 뾰족한 꼭짓점을 매끄럽게 그릴 때 유용합니다.</
@@ -866,14 +967,18 @@ s/g>Rotate Clockwise</g>시계방향으로 회전</
 s/g>Rotate Left</g>왼쪽으로 회전</
 s/g>Rotate Right</g>오른쪽으로 회전</
 s/g>Rotate gradient</g>그레이디언트 회전</
+s/g>Rotation Jitter:</g>회전 일그러짐:</
 s/g>Rotation:</g>회전:</
 s/g>Rotation</g>회전</
+s/g>Round Cap</g>둥근 모자</
+s/g>Round Join</g>둥근 결합</
 s/g>Rounded Rectangle Tool</g>둥근 직사각형 도구</
 s/g>Row Marquee Tool</g>행 천막 도구</
 s/g>Rows:</g>열:</
 s/g>Salmon</g>연어</
 s/g>Satellite</g>위성</
 s/g>Saturate</g>채도</
+s/g>Saturation Jitter:</g>채도 일그러짐:</
 s/g>Saturation</g>채도</
 s/g>Save As…</g>다른 이름으로 저장…</
 s/g>Save History With Document</g>문서와 함께 편집 기록 저장</
@@ -894,6 +999,10 @@ s/g>Saving TIFF</g>TIFF 저장중</
 s/g>Saving With History</g>편집 기록과 함께 저장</
 s/g>Scale with Object</g>대상과 함께 배율</
 s/g>Scale with object</g>대상과 함께 배율</
+s/g>Scale:</g>배율:</
+s/g>Scatter X:</g>가로 흩어짐:</
+s/g>Scatter Y:</g>세로 흩어짐:</
+s/g>Second axis</g>두 번째 축</
 s/g>Segment Tool</g>활꼴 도구</
 s/g>Segment</g>활꼴</
 s/g>Select All</g>전체 선택</
@@ -922,9 +1031,16 @@ s/g>Set Fill to 50% Grey</g>50% 회색으로 칠</
 s/g>Set Fill to Black and White</g>흑백으로 칠</
 s/g>Set No Character Style</g>문자 스타일 벗기기</
 s/g>Set No Paragraph Style</g>문단 스타일 벗기기</
+s/g>Set Texture</g>질감 설정</
 s/g>Set as Default for</g>기본값으로 설정하기</
 s/g>Set current selection</g>지금 선택 항목 설정</
 s/g>Set current text selection</g>지금 텍스트 선택 항목 설정</
+s/g>Set line cap style</g>선 모자 스타일 설정</
+s/g>Set line style scale</g>선 스타일 배율 설정</
+s/g>Set the main grid line colour</g>주 격자 선 색상 설정</
+s/g>Set the main grid line opacity</g>주 격자 선 불투명도 설정</
+s/g>Set wet edges "off"</g>젖은 모서리 끄기</
+s/g>Set wet edges "on"</g>젖은 모서리 켜기</
 s/g>Shades</g>셰이드</
 s/g>Shadow:</g>그림자:</
 s/g>Shadows \/ Highlights</g>그림자 \/ 빛</
@@ -945,6 +1061,7 @@ s/g>Show Context Toolbar</g>상황별 툴바 보기</
 s/g>Show Glyph Browser</g>글리프 브라우저 보기</
 s/g>Show Grid</g>격자선 보기</
 s/g>Show Guides</g>안내선 보기</
+s/g>Show Hierarchical</g>계층 보기</
 s/g>Show Left Studio</g>왼쪽 작업실 보기</
 s/g>Show Map Scale</g>지도 배율 보기</
 s/g>Show Margins</g>여백선 보기</
@@ -953,18 +1070,23 @@ s/g>Show Pixel Selection</g>픽셀 선택 항목 보기</
 s/g>Show Right Studio</g>오른쪽 작업실 보기</
 s/g>Show Rotation Centre</g>회전 중심 보기</
 s/g>Show Rulers</g>눈금자 보기</
+s/g>Show Samples</g>샘플 보기</
 s/g>Show Text Styles</g>텍스트 스타일 보기</
 s/g>Show Toolbar</g>툴바 보기</
 s/g>Show Tools</g>도구 보기</
 s/g>Show Typography</g>타이포그래피 보기</
 s/g>Show as List</g>목록으로 보기</
+s/g>Show axis editing handles</g>축 편집 손잡이 보기</
 s/g>Show brush previews</g>브러시 미리보기 보기</
+s/g>Show grid</g>격자 보기</
 s/g>Show this Panel on Startup</g>시작할 때 이 패널 보기</
 s/g>Show</g>보기</
+s/g>Side</g>옆쪽</
 s/g>Single Strikethrough</g>단일 취소선</
 s/g>Single Underline</g>단일 밑줄</
 s/g>Single View</g>단일 뷰 모드</
 s/g>Single radius</g>단일 반지름</
+s/g>Size Jitter:</g>크기 일그러짐:</
 s/g>Size Variance:</g>크기 분산:</
 s/g>Size:</g>크기:</
 s/g>Size</g>크기</
@@ -988,6 +1110,7 @@ s/g>Snap:</g>스냅:</
 s/g>Snap:</g>스냅</
 s/g>Snapping Manager…</g>스내핑 관리자…</
 s/g>Snapping Options</g>스내핑 설정</
+s/g>Snapping axis setup</g>스내핑 축 설정</
 s/g>Snapping</g>스내핑</
 s/g>Snapshot</g>스냅샷</
 s/g>Snapshots Studio</g>스냅샷 작업실</
@@ -997,12 +1120,15 @@ s/g>Soft Hyphen</g>하이픈</
 s/g>Soft Proof</g>미리보기</
 s/g>Soften:</g>부드럽게:</
 s/g>Software Update</g>소프트웨어 업데이트</
+s/g>Solid Line Style</g>단일 선 스타일</
 s/g>Solid</g>단일형</
+s/g>Sort by Type</g>종류에 따라 정렬</
 s/g>Sort</g>정렬</
 s/g>Space Horizontally</g>가로 공백</
 s/g>Space Vertically</g>세로 공백</
 s/g>Space</g>공백</
-s/g>Spacing</g>공간</
+s/g>Spacing:</g>간격:</
+s/g>Spacing</g>간격</
 s/g>Speed</g>빠르기</
 s/g>Spelling Options…</g>철자 설정…</
 s/g>Spelling</g>철자</
@@ -1013,6 +1139,7 @@ s/g>Split view</g>분할 뷰 모드</
 s/g>Split</g>분할</
 s/g>Spread Margin</g>스프레드 여백</
 s/g>Spread Setup…</g>스프레드 설정…</
+s/g>Square Cap</g>사각 모자</
 s/g>Square</g>사각형</
 s/g>Stabiliser</g>안정 장치</
 s/g>Standard Deviation</g>표준 편차</
@@ -1034,6 +1161,8 @@ s/g>Sty</g>스타일</
 s/g>Style:</g>스타일:</
 s/g>Style</g>스타일</
 s/g>Styles</g>스타일</
+s/g>Sub Brushes</g>보조 브러시</
+s/g>Subdivision lines:</g>보조구획 선:</
 s/g>Subscript</g>아랫첨자</
 s/g>Subtract toolbar button</g>제거 툴바 버튼</
 s/g>Subtract</g>제거</
@@ -1050,10 +1179,12 @@ s/g>Symbols</g>상징</
 s/g>Symmetry</g>대칭</
 s/g>Sync After</g>이후 항목 동기화</
 s/g>Sync Before</g>이전 항목 동기화</
+s/g>Sync size</g>크기 동기화</
+s/g>Sync spacing</g>간격 동기화</
+s/g>Sync:</g>동기화:</
 s/g>Synchronise Defaults</g>기본값 동기화</
 s/g>Synchronise defaults from selection</g>선택 항목에서 기본값 동기화</
 s/g>Synchronise from Selection</g>선택 항목에서 기본값 동기화</
-s/g>System</g>시스템</
 s/g>Tab</g>탭</
 s/g>Tables</g>표</
 s/g>Tail Offset:</g>꼬리 편차:</
@@ -1064,8 +1195,11 @@ s/g>Temperature</g>온도</
 s/g>Test</g>테스트</
 s/g>Text Styles</g>텍스트 스타일</
 s/g>Text Wrap</g>줄바꿈</
+s/g>Text:</g>텍스트:</
 s/g>Text</g>텍스트</
+s/g>Texture Line Style</g>질감 선 스타일</
 s/g>Texture</g>질감</
+s/g>Third party licences</g>서드파티 자격</
 s/g>Threshold</g>역치</
 s/g>Tight</g>좁은</
 s/g>Tighten More</g>더욱 좁게</
@@ -1112,6 +1246,7 @@ s/g>Tools</g>도구</
 s/g>Top Bleed:</g>위쪽 도련:</
 s/g>Top Margin:</g>위쪽 여백:</
 s/g>Top Text Inset</g>위쪽 텍스트 들여쓰기</
+s/g>Top:</g>위쪽:</
 s/g>Top</g>위로</
 s/g>Transform:</g>변형:</
 s/g>Transform</g>변형</
@@ -1125,6 +1260,8 @@ s/g>Tutorial...</g>튜토리얼...</
 s/g>Type:</g>종류:</
 s/g>Typography</g>타이포그래피</
 s/g>UI Style:</g>UI 스타일:</
+s/g>Unable to import style. Incompatible file.</g>스타일을 들여올 수 없습니다. 호환되지 않는 파일입니다.</
+s/g>Unable to import style.</g>스타일을 들여올 수 없습니다.</
 s/g>Underline</g>밑줄</
 s/g>Undo %@</g>%@ 실행 취소</
 s/g>Undo</g>실행 취소</
@@ -1138,6 +1275,7 @@ s/g>Unlearn Spelling "%@"</g>철자 "%@"를 학습하지 않음</
 s/g>Unlock All</g>모두 잠금 해제</
 s/g>Unlock</g>잠금 해제</
 s/g>Untitled</g>이름 없음</
+s/g>Up axis</g>위쪽 축</
 s/g>Update "%@"</g>"%@"를 갱신</
 s/g>Update Character Style</g>문자 스타일 업데이트</
 s/g>Update Paragraph Style</g>문단 스타일 업데이트</
@@ -1145,11 +1283,13 @@ s/g>Use All</g>모두 합자</
 s/g>Use Current Location</g>지금 위치 사용</
 s/g>Use Default</g>기준선 재설정</
 s/g>Use None</g>합자 없음</
+s/g>User Defined</g>사용자 정의</
 s/g>User Forums</g>사용자 포럼</
 s/g>Valid</g>유효</
 s/g>Vector Brush Tool</g>벡터 브러시 도구</
 s/g>Vector Crop Tool</g>벡터 크롭 도구</
 s/g>Vector Erase Brush Tool</g>벡터 지우기 브러시 도구</
+s/g>Vector Menu</g>벡터 메뉴</
 s/g>Vector Persona</g>벡터 페르소나</
 s/g>Vector</g>벡터</
 s/g>Velocity (Inverse)</g>속도 (반전)</
@@ -1157,6 +1297,7 @@ s/g>Velocity</g>속도</
 s/g>Version</g>버전</
 s/g>Vertical Alignment</g>세로 정렬</
 s/g>Vertical Scale</g>세로 배율</
+s/g>Vertical axis:</g>세로 축:</
 s/g>Vibrance</g>활기</
 s/g>View Mode</g>뷰 모드</
 s/g>View Samples</g>샘플 보기</
@@ -1171,6 +1312,7 @@ s/g>Welcome to Affinity Photo\./g>Affinity Photo에 어서오세요\./
 s/g>Welcome...</g>환영...</
 s/g>Welcome</g>환영</
 s/g>Wet Edges</g>젖은 모서리</
+s/g>Wet edges:</g>젖은 모서리:</
 s/g>Wheel</g>휠</
 s/g>White Balance</g>화이트 밸런스</
 s/g>White to black</g>하양에서 검정</
