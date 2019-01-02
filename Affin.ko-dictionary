@@ -20,7 +20,7 @@ cat DictionaryDesigner | grep "&" >> DictionaryDiff
 cat DictionaryPhoto | grep "&" >> DictionaryDiff
 cat DictionaryPublisher | grep "&" >> DictionaryDiff
 git add .
-git commit -m "Dictionary Update: ${ENG} - ${KOR}"
+git commit -m "Update Dictionary (${ENG} - ${KOR})"
 git push
 ln -sf ~/Affin.ko/Affin.ko-dictionary /usr/local/bin/afdic
 afdic
