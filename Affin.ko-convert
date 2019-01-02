@@ -4,7 +4,7 @@ echo "1: Affinity Designer"
 echo "2: Affinity Designer Beta"
 echo "3: Affinity Photo"
 echo "4: Affinity Photo Beta"
-echo "5: "
+# echo "5: Affinity Publisher"
 echo "6: Affinity Publisher Beta"
 read app
 case ${app} in

@@ -1,11 +1,11 @@
 #!/bin/bash
-# ln -sf ~/Affin.ko/Affin.ko-translate /usr/local/bin/affin.ko
+ln -sf ~/Affin.ko/Affin.ko-translate-advanced /usr/local/bin/affin.ko
 echo "Select Application"
 echo "1: Affinity Designer"
 echo "2: Affinity Designer Beta"
 echo "3: Affinity Photo"
 echo "4: Affinity Photo Beta"
-echo "5: "
+# echo "5: Affinity Publisher"
 echo "6: Affinity Publisher Beta"
 read Application
 case ${Application} in
@@ -60,20 +60,20 @@ do
   echo -n "${i}/${FILECOUNT} ${NAME}"
   sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${MIDPATH}${NAME}"
   echo -n " (번역 종료)"
-  # case ${Frameworks} in
-  #   1 )
-  #   diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log
-  #   diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log
-  #   diff ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".ja-ko.log
-  #   echo " (로그 종료)"
-  #   ;;
-  #   2 )
-  #   diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log
-  #   diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log
-  #   diff ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/"${NAME}".ja-ko.log
-  #   echo " (로그 종료)"
-  #   ;;
-  # esac
+  case ${Frameworks} in
+    1 )
+    diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log
+    diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log
+    diff ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".ja-ko.log
+    echo " (로그 종료)"
+    ;;
+    2 )
+    diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log
+    diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log
+    diff ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/"${NAME}".ja-ko.log
+    echo " (로그 종료)"
+    ;;
+  esac
 done
 rsync -av --delete "${MIDPATH}" "${KORPATH}"
 echo " (동기화 종료)"

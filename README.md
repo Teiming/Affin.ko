@@ -44,52 +44,27 @@ chmod +x ~/Affin.ko/Affin.ko-convert
 ## Step 4. 변역하기
 > 원본 영어 파일을 한국어 파일로 번역합니다. 번역된 내용이 늘어나면 보다 긴 시간이 소요됩니다.
 
-권한 부족으로 taf 명령어를 이용할 수 없다면 다음 명령어로 권한을 부여합니다.
+다음 명령어를 입력하고 Affinity 시리즈를 번역합니다.
 ```sh
-chmod +x ~/Affin.ko/taf*
+chmod +x ~/Affin.ko/Affin.ko-translate
+~/Affin.ko/Affin.ko-translate
 ```
-### Affinity Designer 번역하기
-다음 명령어를 입력하고 Affinity Designer를 번역합니다.
-```sh
-ln -s ~/Affin.ko/tafd /usr/local/bin/
-tafd
-```
-베타 프로그램은 다음 명령어를 입력합니다.
-```sh
-ln -s ~/Affin.ko/tafdb /usr/local/bin/
-tafdb
-```
-### Affinity Photo 번역하기
-다음 명령어를 입력하고 Affinity Photo를 번역합니다.
-```sh
-ln -s ~/Affin.ko/tafp /usr/local/bin/
-tafp
-```
-베타 프로그램은 다음 명령어를 입력합니다.
-```sh
-ln -s ~/Affin.ko/tafpb /usr/local/bin/
-tafpb
-```
+### Select Application
+어떤 프로그램을 번역할지 선택합니다. 숫자 1, 2, 3, 4, 5, 6으로만 입력합니다.
+* 1: Affinity Designer
+* 2: Affinity Designer Beta
+* 3: Affinity Photo
+* 4: Affinity Photo Beta
+<!-- * 5: Affinity Publisher -->
+* 6: Affinity Publisher Beta
+### Select Main Menu or Frameworks
+Main Menu 및 Frameworks 중 어느 것을 번역할지 선택합니다. 마찬가지로 숫자만 입력합니다.
+* 1: Main Menu
+* 2: Frameworks
 ## Step 5. 수정하기
-Affin.ko은 아직 끝나지 않았습니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6) 또는 [디스코드 채팅 채널](https://discord.gg/Y2DGXE3)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. 아래에서는 바뀐 번역에 맞게 Affinity 시리즈를 다시 번역합니다. 필요한 명령어는 Step 4.에서 등록했습니다. 바로 이용하실 수 있습니다.
-### Affinity Designer 수정하기
-다음 명령어를 입력하고 Affinity Designer을(를) 다시 번역합니다.
-```sh
-tafd
-```
-베타 프로그램은 다음 명령어를 입력합니다.
-```sh
-tafdb
-```
-### Affinity Photo 수정하기
-다음 명령어를 입력하고 Affinity Photo을(를) 다시 번역합니다.
-```sh
-tafp
-```
-베타 프로그램은 다음 명령어를 입력합니다.
-```sh
-tafpb
-```
+Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요. 수정하는 과정은 Step 4.와 같습니다.
+## Feedback
+[카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6) 또는 [디스코드 채팅 채널](https://discord.gg/Y2DGXE3)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. Affin.ko를 이용하면서 궁금한 점을 질문해도 좋습니다.
 ## Bugs
 지금까지 발견된 오류는 다음과 같습니다.
 * 설정 화면에서 아이콘이 깨지는 현상
