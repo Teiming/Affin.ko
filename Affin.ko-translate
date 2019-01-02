@@ -56,5 +56,5 @@ do
   NAME=$(/bin/ls "${JAPPATH}" | /usr/bin/sed -n "${i}p")
   echo -n "${i}/${FILECOUNT} ${NAME}"
   sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
-  echo -n " (번역 종료)"
+  echo " (번역 종료)"
 done
