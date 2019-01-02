@@ -2,7 +2,7 @@
 echo "Check Update"
 cd ~/Affin.ko/
 git pull
-ln -sf ~/Affin.ko/Affin.ko-translate-advanced /usr/local/bin/affin.ko
+ln -sf ~/Affin.ko/Affin.ko-translate-advanced /usr/local/bin/aftrn
 echo "Select Application"
 echo "1: Affinity Designer"
 echo "2: Affinity Designer Beta"
