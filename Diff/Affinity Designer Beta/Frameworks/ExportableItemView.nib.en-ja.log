@@ -1,0 +1,52 @@
+< 		<string>Export Selected</string>
+> 		<string>選択項目を書き出し</string>
+< 		<string>Path:</string>
+> 		<string>パス:</string>
+< 		<string>OtherViews</string>
+> 		<string>他の表示</string>
+< 		<string>Builder:</string>
+> 		<string>ビルダー:</string>
+< 		<string>Slice name</string>
+> 		<string>スライス名</string>
+> 		<string>スライス名</string>
+< 		<string>Export Selected</string>
+> 		<string>選択項目を書き出し</string>
+< 		<string>Export Selected</string>
+> 		<string>選択項目を書き出し</string>
+> 		<string>他の表示</string>
+< 		<string>Check to include in "Export Slices"</string>
+> 		<string>このスライスによって書き出される項目の共通パスを設定します</string>
+< 		<string>Choose a size scaling or absolute size for the exported image</string>
+> 		<string>クリックして、このフォーマットを書き出します</string>
+< 		<string>Click to add new export format</string>
+> 		<string>クリックして、この項目のすべてのフォーマットを書き出します</string>
+< 		<string>Click to add new export size</string>
+> 		<string>クリックして、新しい書き出しサイズを追加します</string>
+< 		<string>Click to delete export format</string>
+> 		<string>クリックして、新しい書き出しフォーマットを追加します</string>
+< 		<string>Click to delete export size</string>
+> 		<string>クリックして、書き出しサイズを削除します</string>
+< 		<string>Click to export all formats for this item</string>
+> 		<string>クリックして、書き出しフォーマットを削除します</string>
+< 		<string>Click to export this format</string>
+> 		<string>クリックしてこのサイズを書き出します</string>
+< 		<string>Click to export this size</string>
+> 		<string>スライス名は、出力ファイルのファイル名を作成するために使用されます</string>
+< 		<string>Configure a common path for items exported from this Slice</string>
+> 		<string>チェックすると"スライスの書き出し"に追加されます</string>
+< 		<string>Configure additional properties for the exported item</string>
+> 		<string>書き出される画像のサイズスケールまたは絶対サイズを選択します</string>
+< 		<string>Configure additional properties for the exported item, including output filename and custom DPI</string>
+> 		<string>書き出される項目について、出力ファイル名やカスタムDPIなどの追加のプロパティを設定します</string>
+< 		<string>Export configuration needs attention</string>
+> 		<string>書き出される項目の追加のプロパティを設定します</string>
+< 		<string>Export configuration needs attention</string>
+> 		<string>書き出し記述ビルダーを選択します。このビルダーは、このスライスによって書き出される一連のファイルに基づいて補助ファイルを生成します。</string>
+< 		<string>Export configuration needs attention</string>
+> 		<string>書き出し設定を確認する必要があります</string>
+< 		<string>For quick configuration, you can choose an Export Options preset</string>
+> 		<string>書き出し設定を確認する必要があります</string>
+< 		<string>Select an Export Description builder. The builder will generate a supplemental file based on the set of files being exported by this Slice.</string>
+> 		<string>書き出し設定を確認する必要があります</string>
+< 		<string>The Slice name is used for creating filenames for the output files</string>
+> 		<string>設定を短時間で終わらせるため、書き出しオプションプリセットを選択できます</string>
