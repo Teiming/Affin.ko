@@ -70,7 +70,9 @@ Main Menu 및 Frameworks 중 어느 것을 번역할지 선택합니다. 마찬�
 Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요. 수정하는 과정은 Step 4.와 같습니다.
 ## Feedback
 [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6) 또는 [디스코드 채팅 채널](https://discord.gg/Y2DGXE3)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. Affin.ko를 이용하면서 궁금한 점을 질문해도 좋습니다.
-[카카오톡 오픈채팅방](/Kakaotalk.jpeg)
+
+![카카오톡 오픈채팅방](/Kakaotalk.jpeg)
+
 ## Bugs
 지금까지 발견된 오류는 다음과 같습니다.
 * 설정 화면에서 아이콘이 깨지는 현상
