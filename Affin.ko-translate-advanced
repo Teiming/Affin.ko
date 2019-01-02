@@ -1,4 +1,7 @@
 #!/bin/bash
+echo "Check Update"
+cd ~/Affin.ko/
+git pull
 ln -sf ~/Affin.ko/Affin.ko-translate-advanced /usr/local/bin/affin.ko
 echo "Select Application"
 echo "1: Affinity Designer"
@@ -62,16 +65,20 @@ do
   echo -n " (번역 종료)"
   case ${Frameworks} in
     1 )
-    diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log
-    diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log
-    diff ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".ja-ko.log
-    echo " (로그 종료)"
-    ;;
-    2 )
     diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log
     diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log
     diff ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/"${NAME}".ja-ko.log
     echo " (로그 종료)"
+    git add .
+    git commit -m "${APPNAME} ${NAME} Updated"
+    ;;
+    2 )
+    diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log
+    diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log
+    diff ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log | grep "<string>" > ~/Documents/Project/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".ja-ko.log
+    echo " (로그 종료)"
+    git add .
+    git commit -m "${APPNAME} ${NAME} Updated"
     ;;
   esac
 done
