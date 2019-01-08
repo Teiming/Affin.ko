@@ -77,7 +77,7 @@
 < 		<string>New Layer</string>
 > 		<string>新規レイヤー</string>
 < 		<string>Convert Format / ICC Profile…</string>
-> 		<string>ICCプロファイルを変換…</string>
+> 		<string>フォーマット/ICCプロファイルを変換…</string>
 < 		<string>Ungroup</string>
 > 		<string>グループ解除</string>
 < 		<string>Group</string>
@@ -232,6 +232,8 @@
 > 		<string>マスクにラスタライズ</string>
 < 		<string>Edit In Designer…</string>
 > 		<string>Designerで編集…</string>
+< 		<string>Show</string>
+< 		<string>setVisible:</string>
 < 		<string>Update Paragraph Style</string>
 > 		<string>段落スタイルを更新</string>
 < 		<string>Combine</string>
@@ -248,6 +250,8 @@
 > 		<string>左右反転</string>
 < 		<string>New Panorama…</string>
 > 		<string>新規パノラマ…</string>
+< 		<string>Procedural Texture</string>
+> 		<string>手続きテクスチャ</string>
 < 		<string>Superscript</string>
 > 		<string>上付き文字</string>
 < 		<string>Actual Size</string>
@@ -308,6 +312,10 @@
 > 		<string>画像を取得…</string>
 < 		<string>Synchronise from Selection</string>
 > 		<string>選択範囲から同期</string>
+< 		<string>Minimum Blur Filter</string>
+> 		<string>最小ぼかしフィルター</string>
+< 		<string>Maximum Blur Filter</string>
+> 		<string>最大ぼかしフィルター</string>
 < 		<string>Auto Colours</string>
 > 		<string>自動カラー</string>
 < 		<string>Save Text Styles as Default</string>
@@ -332,14 +340,18 @@
 > 		<string>シャドウ / ハイライトフィルター</string>
 < 		<string>Bottom</string>
 > 		<string>下</string>
+< 		<string>showAll:</string>
 < 		<string>Exposure…</string>
 > 		<string>露出…</string>
+< 		<string>Radial Blur Filter</string>
+> 		<string>放射状ぼかしフィルター</string>
 < 		<string>Factory Reset</string>
 > 		<string>出荷時の設定にリセット</string>
 < 		<string>Add Noise Filter</string>
 > 		<string>ノイズ付加フィルター</string>
 < 		<string>Zero-Width Space</string>
 > 		<string>幅ゼロのスペース</string>
+< 		<string>setHidden:</string>
 < 		<string>Defringe…</string>
 > 		<string>フリンジ除去…</string>
 < 		<string>Fill…</string>
@@ -428,6 +440,8 @@
 > 		<string>書き出し…</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI切り替え</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
 < 		<string>Justify Left</string>
 > 		<string>均等配置(最終行左揃え)</string>
 < 		<string>Outline…</string>
@@ -438,6 +452,8 @@
 > 		<string>フィールドぼかしフィルター</string>
 < 		<string>Displace Filter</string>
 > 		<string>変位フィルター</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
 < 		<string>Move To Front</string>
 > 		<string>最前面に移動</string>
 < 		<string>Always Show Selection in Layers Panel </string>
@@ -544,22 +560,37 @@
 > 		<string>しきい値…</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
-> 		<string>すべて表示</string>
 < 		<string>Depth Of Field Filter</string>
-> 		<string>フィールドフィルターの深度</string>
+< 		<string>addDepthOfFieldFilterRasterLayer:</string>
+> 		<string>すべて表示</string>
+> 		<string>showAll:</string>
 < 		<string>Show Tools</string>
-> 		<string>ツールを表示</string>
+< 		<string>toggleToolsUI:</string>
+> 		<string>フィールドフィルターの深度</string>
+> 		<string>addDepthOfFieldFilterRasterLayer:</string>
 < 		<string>Use None</string>
+< 		<string>noLigatures:</string>
+> 		<string>ツールを表示</string>
+> 		<string>toggleToolsUI:</string>
+< 		<string>Rasterise &amp; Trim…</string>
+< 		<string>rasteriseAndTrim:</string>
 > 		<string>何も使用しない</string>
-< 		<string>Rasterise…</string>
-> 		<string>ラスタライズ…</string>
+> 		<string>noLigatures:</string>
 < 		<string>Duplicate Linked</string>
-> 		<string>リンク複製</string>
+< 		<string>duplicateObjectsLinked:</string>
+> 		<string>ラスタライズ…</string>
+> 		<string>rasteriseAndTrim:</string>
 < 		<string>Paste Inside</string>
-> 		<string>内側にペースト</string>
+< 		<string>pasteInside:</string>
+> 		<string>リンク複製</string>
+> 		<string>duplicateObjectsLinked:</string>
 < 		<string>Bold</string>
-> 		<string>太字</string>
+< 		<string>toggleBold:</string>
+> 		<string>内側にペースト</string>
+> 		<string>pasteInside:</string>
 < 		<string>To File…</string>
+> 		<string>太字</string>
+> 		<string>toggleBold:</string>
 > 		<string>ファイルへ…</string>
 < 		<string>Set No Paragraph Style</string>
 > 		<string>段落スタイルなしを設定</string>
@@ -843,6 +874,21 @@
 < 		<string>New Live Filter Layer</string>
 > 		<string>新規ライブフィルターレイヤー</string>
 > 		<string>新規ライブフィルターレイヤー</string>
+< 		<string>Blur</string>
+> 		<string>ぼかし</string>
+> 		<string>ぼかし</string>
+< 		<string>Sharpen</string>
+> 		<string>シャープ化</string>
+> 		<string>シャープ化</string>
+< 		<string>Distort</string>
+> 		<string>ゆがみ</string>
+> 		<string>ゆがみ</string>
+< 		<string>Noise</string>
+> 		<string>ノイズ</string>
+> 		<string>ノイズ</string>
+< 		<string>Colours</string>
+> 		<string>カラー</string>
+> 		<string>カラー</string>
 < 		<string>Live Projection</string>
 < 		<string>Live Projection</string>
 > 		<string>ライブ投影</string>
