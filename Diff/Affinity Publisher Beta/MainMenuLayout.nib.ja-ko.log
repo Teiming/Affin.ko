@@ -78,7 +78,9 @@
 > > 		<string>격자선 보기</string>
 < > 		<string>新規ビュー</string>
 > > 		<string>신규 뷰</string>
+< < 		<string>M</string>
 < > 		<string>配置…</string>
+< > 		<string>m</string>
 > > 		<string>배치…</string>
 < > 		<string>スナップマネージャー…</string>
 > > 		<string>스내핑 관리자…</string>
@@ -99,6 +101,8 @@
 < > 		<string>ページを追加</string>
 < < 		<string>Return to owner…</string>
 < > 		<string>所有者に返す…</string>
+< < 		<string>Inverted Exclamation Mark</string>
+< > 		<string>逆感嘆符</string>
 > > 		<string>Apple 색상 선택기...</string>
 < > 		<string>テキストの回り込みを無視</string>
 > > 		<string>줄바꿈 무시</string>
@@ -127,14 +131,22 @@
 < > 		<string>行を自動調整</string>
 > > 		<string>포맷 없이 붙이기</string>
 < > 		<string>すべてのウィンドウを結合</string>
+< < 		<string>Single Right Guillemet</string>
+< > 		<string>右一重山括弧</string>
+< < 		<string>Single Base Quote</string>
+< > 		<string>一重ベース引用符</string>
 > > 		<string>모든 윈도우 통합</string>
 < > 		<string>カーブを分離</string>
 > > 		<string>곡선 분리</string>
-> < 		<string>Zero-Width Space</string>
+< > 		<string>幅ゼロのスペース</string>
+< < 		<string>Column Break</string>
+< > 		<string>段区切り</string>
 > > 		<string>폭 없는 공백</string>
 < > 		<string>サポート...</string>
 > > 		<string>지원...</string>
 < > 		<string>選択範囲を拡大</string>
+< < 		<string>Right Guillemet</string>
+< > 		<string>右二重山括弧</string>
 > > 		<string>선택 항목에 맞추기</string>
 < > 		<string>上下反転</string>
 > > 		<string>세로 뒤집기</string>
@@ -145,6 +157,8 @@
 < > 		<string>目次の更新</string>
 < < 		<string>Show Table Format</string>
 < > 		<string>テーブルフォーマットの表示</string>
+< < 		<string>Approximately Equal</string>
+< > 		<string>ほぼ等しい</string>
 < < 		<string>Sort by Row Descending</string>
 < > 		<string>行を降順に並べ替え</string>
 > > 		<string>텍스트 경로로 전환</string>
@@ -157,6 +171,10 @@
 < > 		<string>列を降順に並べ替え</string>
 > > 		<string>문단 스타일 지우기</string>
 < > 		<string>カラーバランス</string>
+< < 		<string>Left Guillemet</string>
+< > 		<string>左二重山括弧</string>
+< < 		<string>Toggle Unicode</string>
+< > 		<string>Unicodeの切り替え</string>
 > > 		<string>색상 밸런스</string>
 < > 		<string>水平方向に均等配置</string>
 < < 		<string>Insert Index</string>
@@ -183,7 +201,11 @@
 < > 		<string>ビューを分割</string>
 < < 		<string>Show Text Wrap Settings...</string>
 < > 		<string>テキストの回り込み設定を表示...</string>
+< < 		<string>Previous Frame Page Number</string>
+< > 		<string>前のフレームページ番号</string>
 > > 		<string>분할 뷰 모드</string>
+< < 		<string>insertTab:</string>
+> > 		<string>탭</string>
 < > 		<string>デフォルト</string>
 > > 		<string>기본값</string>
 < > 		<string>エフェクトをペースト</string>
@@ -196,6 +218,8 @@
 < > 		<string>インデックスの更新</string>
 < < 		<string>Save Formats as Default</string>
 < > 		<string>フォーマットをデフォルトとして保存</string>
+< < 		<string>Single Left Quote</string>
+< > 		<string>左一重引用符</string>
 > > 		<string>도구 보기</string>
 < > 		<string>出荷時の設定にリセット</string>
 > > 		<string>기본값 재설정</string>
@@ -213,30 +237,48 @@
 < > 		<string>非表示</string>
 > > 		<string>문자 스타일 생성</string>
 < > 		<string>厳密な拡大</string>
+< < 		<string>Even Page Break</string>
+< > 		<string>偶数改ページ</string>
 < < 		<string>Copy Page Content</string>
 < > 		<string>ページコンテンツをコピー</string>
+< < 		<string>Third Space</string>
+< > 		<string>3分の1スペース</string>
 > > 		<string>조금씩 크게</string>
 < > 		<string>アートボードを挿入</string>
 < < 		<string>Add Pages…</string>
 < > 		<string>ページを追加…</string>
+< < 		<string>Per Mille</string>
+< > 		<string>パーミル</string>
+< < 		<string>Degree</string>
+< > 		<string>度</string>
+< < 		<string>Narrow Non-Breaking Space</string>
+< > 		<string>固定非改行スペース</string>
 > > 		<string>아트보드 삽입</string>
 < > 		<string>交差</string>
 > > 		<string>교차</string>
 < > 		<string>スモールキャップス</string>
+< < 		<string>Ellipsis</string>
+< > 		<string>省略記号</string>
 < < 		<string>Show Index Marks</string>
 < > 		<string>インデックスマークの表示</string>
 > > 		<string>작은 대문자</string>
 < > 		<string>均等配置(最終行左揃え)</string>
+< < 		<string>Trademark</string>
+< > 		<string>商標</string>
+< < 		<string>Double Right Quote</string>
+< > 		<string>右二重引用符</string>
 > > 		<string>왼쪽 균등 정렬</string>
 < > 		<string>回転をリセット</string>
 > > 		<string>회전 재설정</string>
 < > 		<string>最前面に移動</string>
 < < 		<string>AutoFit Column(s)</string>
 < > 		<string>列を自動調整</string>
+< < 		<string>Greater Than or Equal</string>
+< > 		<string>大なりイコール</string>
+> > 		<string>맨 앞으로 가져오기</string>
+< > 		<string>フィギュアダッシュ</string>
 < < 		<string>Find Previous</string>
 < > 		<string>前を検索</string>
-> > 		<string>맨 앞으로 가져오기</string>
-> < 		<string>Figure Dash</string>
 > > 		<string>숫자 줄표</string>
 < > 		<string>新規レイヤー</string>
 < < 		<string>Sentence Case</string>
@@ -245,6 +287,8 @@
 < > 		<string>何も使用しない</string>
 > > 		<string>합자 없음</string>
 < > 		<string>デフォルトを使用</string>
+< < 		<string>Not Equal</string>
+< > 		<string>ノットイコール</string>
 > > 		<string>기준선 재설정</string>
 < > 		<string>明るさ/コントラスト</string>
 < < 		<string>Expand List</string>
@@ -258,7 +302,7 @@
 > > 		<string>다음 항목 선택</string>
 < > 		<string>厳密な縮小</string>
 > > 		<string>조금씩 작게</string>
-> < 		<string>Soft Hyphen</string>
+< > 		<string>ソフトハイフン</string>
 > > 		<string>하이픈</string>
 < > 		<string>なし</string>
 < < 		<string>Highlight Fields</string>
@@ -286,15 +330,21 @@
 > > 		<string>문자 스타일 업데이트</string>
 < > 		<string>右揃え</string>
 > > 		<string>오른쪽 정렬</string>
+< < 		<string>m</string>
 < > 		<string>カーブ</string>
+< < 		<string>Odd Page Break</string>
+< > 		<string>奇数改ページ</string>
 > > 		<string>곡선</string>
 < > 		<string>シングルビュー</string>
 < < 		<string>Preview Mode</string>
 < > 		<string>プレビューモード</string>
+< > 		<string></string>
 > > 		<string>단일 뷰 모드</string>
 < > 		<string>分割</string>
 < < 		<string>Delete Page</string>
 < > 		<string>ページを削除</string>
+< < 		<string>Hair Space</string>
+< > 		<string>ヘアスペース</string>
 > > 		<string>분할</string>
 < > 		<string>キャンバスにクリップ</string>
 < < 		<string>Lower Case</string>
@@ -311,16 +361,18 @@
 < > 		<string>特殊文字を表示</string>
 > > 		<string>기울임</string>
 < > 		<string>下揃え</string>
+> > 		<string>아래쪽 정렬</string>
+< > 		<string>分散禁止スペース</string>
 < < 		<string>Select on Right</string>
 < > 		<string>右で選択</string>
-> > 		<string>아래쪽 정렬</string>
-> < 		<string>Non-Breaking Space</string>
 > > 		<string>줄 바꿈 없는 공백</string>
 < > 		<string>オールキャップス</string>
 > > 		<string>모두 대문자</string>
 < > 		<string>以前のビューポイントに移動</string>
 > > 		<string>이전 뷰 포인트로 이동</string>
-> < 		<string>Line Break</string>
+< > 		<string>改行</string>
+< < 		<string>Sixth Space</string>
+< > 		<string>6分の1スペース</string>
 > > 		<string>줄바꿈</string>
 < > 		<string>グラデーションマップ</string>
 > > 		<string>그레이디언트 맵</string>
@@ -339,6 +391,8 @@
 < > 		<string>列ガイドを表示</string>
 < < 		<string>Move Page Content</string>
 < > 		<string>ページコンテンツを移動</string>
+< < 		<string>Figure Space</string>
+< > 		<string>フィギュアスペース</string>
 > > 		<string>열 안내선 보기</string>
 < > 		<string>上</string>
 > > 		<string>위쪽</string>
@@ -356,6 +410,8 @@
 < > 		<string>レベルを下げる</string>
 < < 		<string>Sort by Column Ascending</string>
 < > 		<string>列を昇順に並べ替え</string>
+< < 		<string>Infinity</string>
+< > 		<string>無限大</string>
 > > 		<string>윗첨자</string>
 < > 		<string>均等配置(最終行中央揃え)</string>
 > > 		<string>가운데 균등 정렬</string>
@@ -383,6 +439,10 @@
 < > 		<string>均等配置(最終行右揃え)</string>
 > > 		<string>오른쪽 균등 정렬</string>
 < > 		<string>厳密な字下げ</string>
+< < 		<string>Inverted Question Mark</string>
+< > 		<string>逆疑問符</string>
+< < 		<string>Less Than or Equal</string>
+< > 		<string>小なりイコール</string>
 > > 		<string>기준선 조금씩 낮추기</string>
 < > 		<string>チュートリアル...</string>
 > > 		<string>튜토리얼...</string>
@@ -394,7 +454,9 @@
 < < 		<string>Sort Options...</string>
 < > 		<string>並べ替えオプション...</string>
 > > 		<string>다음 뷰 포인트로 이동</string>
-> < 		<string>Move Inside</string>
+< > 		<string>内側に移動</string>
+< < 		<string>Single Right Quote</string>
+< > 		<string>右一重引用符</string>
 > > 		<string>안으로 가져오기</string>
 < > 		<string>垂直方向に均等配置</string>
 < < 		<string>Number</string>
@@ -402,7 +464,7 @@
 > > 		<string>세로 분배</string>
 < > 		<string>コンテキストツールバーを表示</string>
 > > 		<string>상황별 툴바 보기</string>
-> < 		<string>Em Space</string>
+< > 		<string>全角スペース</string>
 > > 		<string>전각 공백</string>
 < > 		<string>反転</string>
 > > 		<string>반전</string>
@@ -417,12 +479,20 @@
 < > 		<string>Finderで表示</string>
 > > 		<string>Finder에서 찾기</string>
 < > 		<string>ロック解除</string>
+< < 		<string>Plus Minus</string>
+< > 		<string>プラスマイナス</string>
 > > 		<string>잠금 해제</string>
 < > 		<string>すべて選択</string>
+< < 		<string>Bullet</string>
+< > 		<string>箇条書き</string>
 > > 		<string>전체 선택</string>
 < > 		<string>下線</string>
 > > 		<string>밑줄</string>
 < > 		<string>書き出し…</string>
+< < 		<string>Thin Space</string>
+< > 		<string>シンスペース</string>
+< < 		<string>Punctuation Space</string>
+< > 		<string>句読点用スペース</string>
 > > 		<string>내보내기…</string>
 < > 		<string>すべてロック解除</string>
 > > 		<string>모두 잠금 해제</string>
@@ -444,21 +514,27 @@
 < < 		<string>Save as Regression Unit</string>
 < > 		<string>回帰単位として保存</string>
 > > 		<string>문자 보기</string>
-> < 		<string>En Space</string>
+< > 		<string>半角スペース</string>
 > > 		<string>반각 공백</string>
 < > 		<string>タイポグラフィを表示</string>
 > > 		<string>타이포그래피 보기</string>
 < > 		<string>選択解除</string>
 > > 		<string>선택 해제</string>
 < > 		<string>レンズフィルター</string>
+< < 		<string>Double Left Quote</string>
+< > 		<string>左二重引用符</string>
 > > 		<string>렌즈 필터</string>
 < > 		<string>左右反転</string>
+< < 		<string>Dagger</string>
+< > 		<string>ダガー</string>
 > > 		<string>가로 뒤집기</string>
 < > 		<string>表示</string>
 < < 		<string>Show Table</string>
 < > 		<string>テーブルを表示</string>
 < > 		<string>箇条書き</string>
 < > 		<string>左揃え</string>
+< < 		<string>Page Break</string>
+< > 		<string>改ページ</string>
 > > 		<string>보기</string>
 < > 		<string>段落を表示</string>
 < < 		<string>Move Page</string>
@@ -483,20 +559,28 @@
 < > 		<string>ピクセルサイズ</string>
 > > 		<string>픽셀 크기</string>
 < > 		<string>最背面に移動</string>
+< < 		<string>Quarter Space</string>
+< > 		<string>4分の1スペース</string>
 < < 		<string>Font Manager...</string>
 < > 		<string>フォントマネージャー...</string>
 > > 		<string>맨 뒤로 보내기</string>
 < > 		<string>ホワイトバランス</string>
+< < 		<string>Pi</string>
+< > 		<string>パイ</string>
 > > 		<string>화이트 밸런스</string>
 < > 		<string>復元</string>
 < < 		<string>Dump MasterPage Node</string>
 < > 		<string>マスターページノードのダンプ</string>
 > > 		<string>되돌리기</string>
 < > 		<string>グループ解除</string>
+> > 		<string>그룹 해제</string>
+< > 		<string>半角ダッシュ</string>
 < < 		<string>Make Restricted</string>
 < > 		<string>制限付きで作成</string>
-> > 		<string>그룹 해제</string>
-> < 		<string>En Dash</string>
+< < 		<string>Paragraph Marker</string>
+< > 		<string>段落記号</string>
+< < 		<string>Section Marker</string>
+< > 		<string>セクション記号</string>
 > > 		<string>반각 줄표</string>
 < > 		<string>合成</string>
 < < 		<string>Insert Column</string>
@@ -524,7 +608,7 @@
 > > 		<string>곡선 통합</string>
 < > 		<string>テキストフレームに変換</string>
 > > 		<string>텍스트 액자로 전환</string>
-> < 		<string>Em Dash</string>
+< > 		<string>全角ダッシュ</string>
 > > 		<string>전각 줄표</string>
 < > 		<string>入力中にスペルチェック</string>
 > > 		<string>작성하는 동안 철자 확인</string>
@@ -539,19 +623,25 @@
 < > 		<string>前面へ</string>
 < < 		<string>Show Baseline Grid</string>
 < > 		<string>ベースライングリッドの表示</string>
+< < 		<string>Single Left Guillemet</string>
+< > 		<string>左一重山括弧</string>
 > > 		<string>앞으로 가져오기</string>
 < > 		<string>テキストスタイルをデフォルトとして保存</string>
 < < 		<string>Convert to Picture Frame</string>
 < > 		<string>ピクチャフレームに変換</string>
 > > 		<string>텍스트 스타일을 기본값으로 저장</string>
 < > 		<string>特定色域</string>
+< < 		<string>Registered Trademark</string>
+< > 		<string>登録商標</string>
 < < 		<string>Toggle Case</string>
 < > 		<string>大文字と小文字の切り替え</string>
 < < 		<string>Zoom to Document</string>
 < > 		<string>ドキュメントに合わせてズーム</string>
-< > 		<string>Divide</string>
+< > 		<string>除算</string>
 > > 		<string>색상 선택</string>
 < > 		<string>グループ化</string>
+< < 		<string>Zero-Width Non-Joiner</string>
+< > 		<string>ゼロ幅非接合子</string>
 < < 		<string>Title Case</string>
 < > 		<string>タイトルケース</string>
 > > 		<string>그룹</string>
@@ -562,17 +652,21 @@
 < > 		<string>行を挿入</string>
 > > 		<string>전체 화면 시작</string>
 < > 		<string>すべてグループ解除</string>
+< < 		<string>Double Base Quote</string>
+< > 		<string>二重ベース引用符</string>
 < < 		<string>Merge Cells</string>
 < > 		<string>セルを結合</string>
 < < 		<string>Insert Field</string>
 < > 		<string>フィールドを挿入</string>
+< < 		<string>Page Number</string>
+< > 		<string>ページ番号</string>
 > > 		<string>모든 그룹 해제</string>
 < > 		<string>チャンネルミキサー</string>
 > > 		<string>채널 혼합</string>
 < > 		<string>白黒</string>
 < > 		<string>右揃え</string>
 > > 		<string>흑백</string>
-> < 		<string>Move Outside</string>
+< > 		<string>外側に移動</string>
 > > 		<string>바깥으로 보내기</string>
 < > 		<string>縮小</string>
 < < 		<string>Evenly Distribute Row(s)</string>
@@ -584,6 +678,8 @@
 > > 		<string>활기</string>
 < > 		<string>ソフト校正</string>
 < > 		<string>保存</string>
+< < 		<string>Multiply</string>
+< > 		<string>乗算</string>
 > > 		<string>미리보기</string>
 < > 		<string>選択範囲から同期</string>
 > > 		<string>선택 항목에서 기본값 동기화</string>
@@ -594,20 +690,27 @@
 < > 		<string>ページを削除…</string>
 < < 		<string>Baseline Grid Manager…</string>
 < > 		<string>ベースライングリッドマネージャー…</string>
+< < 		<string>Double Dagger</string>
+< > 		<string>ダブルダガー</string>
+< < 		<string>Next Frame Page Number</string>
+< > 		<string>次のフレームページ番号</string>
 > > 		<string>뒤로</string>
 < > 		<string>段落スタイルを作成</string>
 > > 		<string>문단 스타일 생성</string>
-> < 		<string>Non-Breaking Hyphen</string>
+< > 		<string>分散禁止ハイフン</string>
 > > 		<string>줄 바꿈 없는 하이픈</string>
 < > 		<string>カーブに変換</string>
 < < 		<string>Copy Page</string>
 < > 		<string>ページのコピー</string>
 > > 		<string>곡선으로 전환</string>
 < > 		<string>文字スタイルを削除</string>
+< < 		<string>Frame Break</string>
+< > 		<string>フレーム区切り</string>
 > > 		<string>문자 스타일 지우기</string>
 < > 		<string>レベル</string>
 < < 		<string>View Masters</string>
 < > 		<string>マスターを表示</string>
+< > 		<string></string>
 > > 		<string>레벨</string>
 < > 		<string>打ち消し線</string>
 > > 		<string>취소선</string>
@@ -615,7 +718,7 @@
 > > 		<string>크게</string>
 < > 		<string>グリフブラウザを表示</string>
 > > 		<string>글리프 브라우저 보기</string>
-> < 		<string>Copyright</string>
+< > 		<string>著作権</string>
 > > 		<string>저작권</string>
 < > 		<string>ペルソナ</string>
 < > 		<string>ペルソナ</string>
@@ -679,6 +782,31 @@
 < < 		<string>Insert </string>
 < > 		<string>挿入 </string>
 < > 		<string>挿入 </string>
+< < 		<string>Fields</string>
+< > 		<string>フィールド</string>
+< > 		<string>フィールド</string>
+> > 		<string>텍스트 스타일</string>
+> > 		<string>텍스트 스타일</string>
+< > 		<string>シンボル</string>
+< > 		<string>シンボル</string>
+< < 		<string>Maths</string>
+< > 		<string>数学記号</string>
+< > 		<string>数学記号</string>
+< < 		<string>Quotation Marks</string>
+< < 		<string>Quotation Marks</string>
+< > 		<string>引用符</string>
+< > 		<string>引用符</string>
+< < 		<string>Dashes and Hyphens</string>
+< < 		<string>Dashes and Hyphens</string>
+< > 		<string>ダッシュとハイフン</string>
+< > 		<string>ダッシュとハイフン</string>
+< < 		<string>Spaces and Tabs</string>
+< < 		<string>Spaces and Tabs</string>
+< > 		<string>スペースとタブ</string>
+< > 		<string>スペースとタブ</string>
+< < 		<string>Breaks</string>
+< > 		<string>区切り</string>
+< > 		<string>区切り</string>
 < < 		<string>Expand</string>
 < > 		<string>展開</string>
 < > 		<string>展開</string>
@@ -687,9 +815,6 @@
 < < 		<string>Index</string>
 < > 		<string>インデックス</string>
 < > 		<string>インデックス</string>
-> > 		<string>텍스트 스타일</string>
-> > 		<string>텍스트 스타일</string>
-> < 		<string>Symbols</string>
 > > 		<string>상징</string>
 < > 		<string>テキストの回り込み</string>
 < > 		<string>テキストの回り込み</string>
