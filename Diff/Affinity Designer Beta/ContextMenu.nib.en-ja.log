@@ -9,8 +9,8 @@
 < 		<string>Copy</string>
 > 		<string>コピー</string>
 > 		<string>ペースト</string>
-< 		<string>Paste Into</string>
-> 		<string>中にペースト</string>
+< 		<string>Paste as Content</string>
+> 		<string>コンテンツとしてペースト</string>
 < 		<string>Group</string>
 > 		<string>グループ化</string>
 < 		<string>Ungroup</string>
@@ -21,8 +21,28 @@
 > 		<string>左に回転</string>
 < 		<string>Rotate Right</string>
 > 		<string>右に回転</string>
+< 		<string>Rotate Left</string>
+> 		<string>左に回転</string>
+< 		<string>Rotate Right</string>
+> 		<string>右に回転</string>
 < 		<string>Reset Rotation</string>
 > 		<string>回転をリセット</string>
+< 		<string>Frame Properties</string>
+> 		<string>フレームのプロパティ</string>
+< 		<string>Frame Properties</string>
+> 		<string>フレームのプロパティ</string>
+< 		<string>Scale to Max Fit</string>
+> 		<string>最大フィットに合わせてスケーリング</string>
+< 		<string>Scale to Min Fit</string>
+> 		<string>最小フィットに合わせてスケーリング</string>
+< 		<string>Stretch</string>
+> 		<string>ストレッチ</string>
+< 		<string>None</string>
+> 		<string>なし</string>
+< 		<string>Size Frame to Content</string>
+> 		<string>コンテンツに合わせてフレームのサイズを設定</string>
+< 		<string>Anchor to Centre</string>
+> 		<string>中心に固定</string>
 < 		<string>Arrange</string>
 > 		<string>配置</string>
 > 		<string>配置</string>
@@ -85,8 +105,14 @@
 > 		<string>レイヤーエフェクト…</string>
 < 		<string>Convert to Curves</string>
 > 		<string>カーブに変換</string>
+< 		<string>Convert to Picture Frame</string>
+> 		<string>ピクチャフレームに変換</string>
+< 		<string>Convert to Text Frame</string>
+> 		<string>テキストフレームに変換</string>
 < 		<string>Rasterise…</string>
 > 		<string>ラスタライズ…</string>
+< 		<string>Rasterise &amp; Trim…</string>
+> 		<string>ラスタライズ&amp;削除…</string>
 < 		<string>Create Style</string>
 > 		<string>スタイルを作成</string>
 < 		<string>Add to Swatches…</string>
@@ -188,10 +214,16 @@
 > 		<string>下</string>
 < 		<string>Justify</string>
 > 		<string>両端揃え</string>
-< 		<string>Insert Text from File…</string>
-> 		<string>ファイルからテキストを挿入…</string>
 < 		<string>Insert Filler Text</string>
 > 		<string>フィラーテキストを挿入</string>
+< 		<string>Interactive</string>
+> 		<string>インタラクティブ</string>
+< 		<string>Interactive</string>
+> 		<string>インタラクティブ</string>
+< 		<string>Insert Anchor...</string>
+> 		<string>アンカーを挿入…</string>
+< 		<string>Insert Hyperlink...</string>
+> 		<string>ハイパーリンクを挿入…</string>
 < 		<string>Add to Swatches…</string>
 > 		<string>見本に追加…</string>
 < 		<string>Add to Swatches…</string>
