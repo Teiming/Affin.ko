@@ -60,6 +60,8 @@
 > 	<string>整列</string>
 < 	<string>Always Show Grid Origin</string>
 > 	<string>グリッド起点を常に表示</string>
+< 	<string>Anchor Properties...</string>
+> 	<string>アンカープロパティ...</string>
 < 	<string>Apply</string>
 > 	<string>適用</string>
 < 	<string>Arrange</string>
@@ -114,10 +116,6 @@
 > 	<string>前</string>
 < 	<string>Cancel</string>
 > 	<string>キャンセル</string>
-< 	<string>Check out some of the cool artwork being created in Affinity Designer! Why not share your work with us?
-> 	<string>Affinity Designerで作成されているすばらしいアートワークのいくつかをご紹介しています。あなたの作品を共有してみませんか?
-< 	<string>Check out some of the cool layouts being created in Affinity Publisher! Why not share your work with us?
-> 	<string>Affinity Publisherで作成されているすばらしいレイアウトのいくつかをご紹介しています。あなたの作品を共有してみませんか?
 < 	<string>Choose the flow of the brush</string>
 > 	<string>ブラシの流量を選択します</string>
 < 	<string>Choose the hardness of the brush</string>
@@ -140,8 +138,6 @@
 > 	<string>グリッドプレーン内に作成</string>
 < 	<string>Create Into Grid Plane</string>
 > 	<string>グリッドプレーン内に作成</string>
-< 	<string>Create a new document by pressing 'New Document' below - or open existing work using File -&gt; Open. Click a sample below to download and view it. Visit our forum or tag with #madeinaffinity in the usual places. We'd love to see what you're up to...</string>
-> 	<string>下の[新規ドキュメント]を押してドキュメントを新規作成するか、[ファイル] -&gt; [開く]から既存のドキュメントを開いてください。下のサンプルをクリックするとダウンロードして参照できます。フォーラムに参加したり、SNSで#madeinaffinityのタグを付けて作品を投稿してください。ご参加をお待ちしています。</string>
 < 	<string>Cycle Selection Box</string>
 > 	<string>サイクル選択ボックス</string>
 < 	<string>Cycle Snapping Planes</string>
@@ -164,6 +160,16 @@
 > 	<string>選択解除</string>
 < 	<string>Deselect</string>
 > 	<string>選択解除</string>
+< 	<string>Designer Persona</string>
+> 	<string>デザイナーペルソナ</string>
+< 	<string>Designer Persona</string>
+> 	<string>デザイナーペルソナ</string>
+< 	<string>Designer Persona</string>
+> 	<string>デザイナーペルソナ</string>
+< 	<string>Designer Persona.</string>
+> 	<string>デザイナーペルソナ。</string>
+< 	<string>Designer</string>
+> 	<string>デザイナー</string>
 < 	<string>Develop Persona</string>
 > 	<string>現像ペルソナ</string>
 < 	<string>Develop Persona</string>
@@ -228,10 +234,6 @@
 > 	<string>ドラッグ</string>
 < 	<string>Edit Field...</string>
 > 	<string>フィールドを編集...</string>
-< 	<string>Edit Grid Origin</string>
-> 	<string>グリッド起点を編集</string>
-< 	<string>Edit Grid Origin and Axis</string>
-> 	<string>グリッド起点および軸を編集</string>
 < 	<string>Edit Grid</string>
 > 	<string>グリッドを編集</string>
 < 	<string>Edit Grid</string>
@@ -268,8 +270,6 @@
 > 	<string>%@をフェード…</string>
 < 	<string>Fade…</string>
 > 	<string>フェード…</string>
-< 	<string>Featured Work
-> 	<string>注目の作品
 < 	<string>Find in Layers Panel</string>
 > 	<string>レイヤーパネルで検索</string>
 < 	<string>Fit To Plane</string>
@@ -308,6 +308,8 @@
 > 	<string>上下反転</string>
 < 	<string>Flip Vertical</string>
 > 	<string>上下反転</string>
+< 	<string>Float With Text</string>
+> 	<string>テキスト付きフロート表示</string>
 < 	<string>Flow:</string>
 > 	<string>流量:</string>
 < 	<string>Force Pixel Alignment</string>
@@ -332,6 +334,10 @@
 > 	<string>ホールド</string>
 < 	<string>Ignore Spelling</string>
 > 	<string>スペルを無視</string>
+< 	<string>Inline In Text</string>
+> 	<string>テキスト内にインライン表示</string>
+< 	<string>Inline In Text</string>
+> 	<string>テキスト内にインライン表示</string>
 < 	<string>Inpaint Missing Areas</string>
 > 	<string>修復ミッシングエリア</string>
 < 	<string>Inpaint Missing Areas</string>
@@ -368,16 +374,6 @@
 > 	<string>選択範囲を反転</string>
 < 	<string>Invert Selection</string>
 > 	<string>選択範囲を反転</string>
-< 	<string>Layout Persona</string>
-> 	<string>ペルソナをレイアウト</string>
-< 	<string>Layout Persona</string>
-> 	<string>ペルソナをレイアウト</string>
-< 	<string>Layout Persona</string>
-> 	<string>ペルソナをレイアウト</string>
-< 	<string>Layout Persona</string>
-> 	<string>ペルソナをレイアウト</string>
-< 	<string>Layout</string>
-> 	<string>レイアウト</string>
 < 	<string>Learn Spelling</string>
 > 	<string>スペルを学習</string>
 < 	<string>Library Persona</string>
@@ -508,8 +504,20 @@
 > 	<string>RGBピクセルレイヤーを選択してから[現像]に入ってください。</string>
 < 	<string>Please select an RGB pixel layer before entering HDR.</string>
 > 	<string>RGBピクセルレイヤーを選択してから[HDR]に入ってください。</string>
+< 	<string>Preview Mode</string>
+> 	<string>プレビューモード</string>
 < 	<string>Protect hue</string>
 > 	<string>色相の保護</string>
+< 	<string>Publisher Persona</string>
+> 	<string>パブリッシャーペルソナ</string>
+< 	<string>Publisher Persona</string>
+> 	<string>パブリッシャーペルソナ</string>
+< 	<string>Publisher Persona</string>
+> 	<string>パブリッシャーペルソナ</string>
+< 	<string>Publisher Persona</string>
+> 	<string>パブリッシャーペルソナ</string>
+< 	<string>Publisher</string>
+> 	<string>パブリッシャー</string>
 < 	<string>Quick Mask</string>
 > 	<string>クイックマスク</string>
 < 	<string>Repeat %@</string>
@@ -592,6 +600,8 @@
 > 	<string>塗りつぶしを50%グレーに設定</string>
 < 	<string>Set Fill to Black and White</string>
 > 	<string>塗りつぶしを白黒に設定</string>
+< 	<string>Set Hyperlink</string>
+> 	<string>ハイパーリンクを設定</string>
 < 	<string>Show Baseline Grid Manager</string>
 > 	<string>ベースライングリッドマネージャーを表示</string>
 < 	<string>Show Clipped Highlights</string>
@@ -678,6 +688,8 @@
 > 	<string>スワップ</string>
 < 	<string>Switch to Next View</string>
 > 	<string>次のビューポイントに切り替え</string>
+< 	<string>Switch to Previous View</string>
+> 	<string>前のビューに切り替え</string>
 < 	<string>Sync After</string>
 > 	<string>同期の後</string>
 < 	<string>Sync After</string>
@@ -754,18 +766,12 @@
 > 	<string>グリッド編集の切り替え</string>
 < 	<string>Toggle Grid Editing</string>
 > 	<string>グリッド編集の切り替え</string>
-< 	<string>Toggle Grid Origin Editing</string>
-> 	<string>グリッド起点編集の切り替え</string>
-< 	<string>Toggle Grid Origin and Axis Editing</string>
-> 	<string>グリッド起点および軸編集の切り替え</string>
-< 	<string>Toggle Guides Editing</string>
-> 	<string>ガイド編集の切り替え</string>
-< 	<string>Toggle Guides Editing</string>
-> 	<string>ガイド編集の切り替え</string>
 < 	<string>Toggle Histogram Panel</string>
 > 	<string>ヒストグラムパネルを切り替え</string>
 < 	<string>Toggle History Panel</string>
 > 	<string>履歴パネルを切り替え</string>
+< 	<string>Toggle Hyperlink Panel</string>
+> 	<string>ハイパーリンクパネルを切り替え</string>
 < 	<string>Toggle Index Panel</string>
 > 	<string>インデックスパネルを切り替え</string>
 < 	<string>Toggle Information Panel</string>
@@ -790,6 +796,8 @@
 > 	<string>ページパネルを切り替え</string>
 < 	<string>Toggle Paragraph Panel</string>
 > 	<string>段落パネルを切り替え</string>
+< 	<string>Toggle Preview Mode</string>
+> 	<string>プレビューモード切り替え</string>
 < 	<string>Toggle Quick Mask [Q]</string>
 > 	<string>クイックマスクを切り替え[Q]</string>
 < 	<string>Toggle Quick Mask [Q]</string>
@@ -856,22 +864,10 @@
 > 	<string>スペル"%@"の無視を解除</string>
 < 	<string>Unlearn Spelling "%@"</string>
 > 	<string>スペル"%@"の学習を解除</string>
-< 	<string>Vector Persona</string>
-> 	<string>ベクトルペルソナ</string>
-< 	<string>Vector Persona</string>
-> 	<string>ベクトルペルソナ</string>
-< 	<string>Vector Persona</string>
-> 	<string>ベクトルペルソナ</string>
-< 	<string>Vector Persona.</string>
-> 	<string>ベクトルペルソナ。</string>
-< 	<string>Vector</string>
-> 	<string>ベクトル</string>
 < 	<string>Vibrance</string>
 > 	<string>自然な彩度</string>
 < 	<string>View Mode</string>
 > 	<string>表示モード</string>
-< 	<string>Welcome to Affinity Photo.
-> 	<string>Affinity Photoへようこそ。
 < 	<string>Width:</string>
 > 	<string>幅:</string>
 < 	<string>Width:</string>
