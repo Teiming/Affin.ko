@@ -202,8 +202,8 @@
 > 		<string>スプレッド設定…</string>
 < 		<string>Flip Vertical</string>
 > 		<string>上下反転</string>
-< 		<string>Layout Persona</string>
-> 		<string>レイアウトペルソナ</string>
+< 		<string>Publisher Persona</string>
+> 		<string>パブリッシャーペルソナ</string>
 < 		<string>Show Glyph Browser</string>
 > 		<string>グリフブラウザを表示</string>
 < 		<string>Show Column Guides</string>
@@ -232,6 +232,8 @@
 > 		<string>キャンバスにクリップ</string>
 < 		<string>Delete Paragraph Style</string>
 > 		<string>段落スタイルを削除</string>
+< 		<string>Lock Guides</string>
+> 		<string>ガイドをロック</string>
 < 		<string>New From Clipboard</string>
 > 		<string>クリップボードから新規作成</string>
 < 		<string>Check Spelling</string>
@@ -462,7 +464,7 @@
 < 		<string>Em Dash</string>
 > 		<string>全角ダッシュ</string>
 < 		<string>Show Bleed</string>
-> 		<string>にじみを表示</string>
+> 		<string>裁ち切りを表示</string>
 < 		<string>Find in Layers Panel</string>
 > 		<string>レイヤーパネルで検索</string>
 < 		<string>Rotate Left</string>
@@ -475,8 +477,6 @@
 > 		<string>前面へ</string>
 < 		<string>Update Character Style</string>
 > 		<string>文字スタイルを更新</string>
-< 		<string>Insert Text from File…</string>
-> 		<string>ファイルからテキストを挿入…</string>
 < 		<string>Ignore Misspelt Word</string>
 > 		<string>スペル誤りの単語を無視</string>
 > 		<string>非表示</string>
