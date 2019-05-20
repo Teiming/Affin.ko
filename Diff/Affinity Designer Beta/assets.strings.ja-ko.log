@@ -4,14 +4,21 @@
 < > 	<string>アクティビティ</string>
 < < 	<string>Activity Views</string>
 < > 	<string>アクティビティビュー</string>
-< < 	<string>Activity view</string>
-< > 	<string>アクティビティビュー</string>
+< < 	<string>Add</string>
 < > 	<string>追加</string>
+< < 	<string>Air Play</string>
+< > 	<string>AirPlay</string>
+< < 	<string>Airplane Mode</string>
+< > 	<string>機内モード</string>
 < < 	<string>Alarm</string>
-< > 	<string>警報</string>
+< > 	<string>アラーム</string>
 < < 	<string>Alarm (small)</string>
-< > 	<string>警報(小)</string>
-> > 	<string>추가</string>
+< > 	<string>アラーム(小)</string>
+< < 	<string>Alarm Clock</string>
+< > 	<string>目覚まし時計</string>
+< < 	<string>Albums</string>
+< > 	<string>アルバム</string>
+< < 	<string>Alerts</string>
 < > 	<string>アラート</string>
 < < 	<string>App Notification</string>
 < > 	<string>アプリ通知</string>
@@ -19,54 +26,114 @@
 < > 	<string>添付</string>
 < < 	<string>Attach (small)</string>
 < > 	<string>添付(小)</string>
+< < 	<string>Avatar</string>
+< > 	<string>アバター</string>
 < < 	<string>Back</string>
-< > 	<string>戻る</string>
+< > 	<string>後方</string>
+< < 	<string>Bed</string>
+< > 	<string>ベッド</string>
 < < 	<string>Bookmark</string>
 < > 	<string>ブックマーク</string>
+< < 	<string>Brightness</string>
+< > 	<string>明るさ</string>
 < < 	<string>Bus</string>
 < > 	<string>バス</string>
+< < 	<string>Button - Delete</string>
+< > 	<string>ボタン - 削除</string>
+< < 	<string>Button Label</string>
+< > 	<string>ボタンのラベル</string>
+< < 	<string>Button label</string>
+< > 	<string>ボタンのラベル</string>
+< < 	<string>Caculator</string>
+< > 	<string>電卓</string>
+< < 	<string>Cafés</string>
+< > 	<string>カフェ</string>
 < < 	<string>Calendar</string>
 < > 	<string>カレンダー</string>
-> > 	<string>알림</string>
+< < 	<string>Camera</string>
+< > 	<string>カメラ</string>
+< < 	<string>Cancel</string>
 < > 	<string>キャンセル</string>
 < < 	<string>Car</string>
 < > 	<string>車</string>
+< < 	<string>Celluar Network</string>
+< > 	<string>セルラーネットワーク</string>
+< < 	<string>Clock</string>
+< > 	<string>時計</string>
+< < 	<string>Cloud</string>
+< > 	<string>クラウド</string>
+< < 	<string>Collapsed</string>
+< > 	<string>折りたたみ済み</string>
 < < 	<string>Collections</string>
 < > 	<string>コレクション</string>
-> > 	<string>취소</string>
+< < 	<string>Context</string>
 < > 	<string>コンテキスト</string>
 < < 	<string>Context (with options)</string>
-< > 	<string>コンテキスト(オプション付き)</string>
-> > 	<string>문단</string>
+< > 	<string>コンテキスト(オプションあり)</string>
+< < 	<string>Controls</string>
 < > 	<string>コントロール</string>
-> > 	<string>조작</string>
-< > 	<string>暗い</string>
-< < 	<string>Dark on Light</string>
-< > 	<string>ダークオンライト</string>
-> > 	<string>다크</string>
+< < 	<string>Curves</string>
+< > 	<string>カーブ</string>
+< < 	<string>Dark</string>
+< > 	<string>ダーク</string>
+< < 	<string>Delete</string>
 < > 	<string>削除</string>
 < < 	<string>Detail, Label</string>
 < > 	<string>ディテール、ラベル</string>
 < < 	<string>Dictate</string>
-< > 	<string>ディクテーション</string>
+< > 	<string>指示</string>
+< < 	<string>Do not Disturb</string>
+< > 	<string>おやすみモード</string>
 < < 	<string>Down</string>
 < > 	<string>下</string>
+< < 	<string>Download</string>
+< > 	<string>ダウンロード</string>
+< < 	<string>Duplicate</string>
+< > 	<string>複製</string>
 < < 	<string>Edit Mode</string>
 < > 	<string>編集モード</string>
-< < 	<string>Elements</string>
-< > 	<string>要素</string>
+< < 	<string>Facetime</string>
+< > 	<string>FaceTime</string>
 < < 	<string>Favourite</string>
 < > 	<string>お気に入り</string>
 < < 	<string>Favourite (small)</string>
 < > 	<string>お気に入り(小)</string>
+< < 	<string>Flag</string>
+< > 	<string>フラグ</string>
+< < 	<string>Flashlight</string>
+< > 	<string>フラッシュライト</string>
 < < 	<string>Folder</string>
 < > 	<string>フォルダ</string>
 < < 	<string>Folders</string>
 < > 	<string>フォルダ</string>
+< < 	<string>Food &amp; Drinks</string>
+< > 	<string>飲食物</string>
+< < 	<string>Forward</string>
+< > 	<string>前方</string>
 < < 	<string>Forward (small)</string>
 < > 	<string>転送(小)</string>
+< < 	<string>Gallery</string>
+< > 	<string>ギャラリー</string>
+< < 	<string>Globe Earth</string>
+< > 	<string>地球</string>
+< < 	<string>Glyphs</string>
+< > 	<string>グリフ</string>
 < < 	<string>Hail</string>
-< > 	<string>拾う</string>
+< > 	<string>タクシー</string>
+< < 	<string>Health Data</string>
+< > 	<string>健康データ</string>
+< < 	<string>Health Sources</string>
+< > 	<string>健康に関する情報源</string>
+< < 	<string>Heart</string>
+< > 	<string>ハート形</string>
+< < 	<string>Home</string>
+< > 	<string>ホーム</string>
+< < 	<string>Home Automation</string>
+< > 	<string>ホームオートメーション</string>
+< < 	<string>Home Indicator Dark</string>
+< > 	<string>ホームインジケーター(ダーク)</string>
+< < 	<string>Home Indicator Dark Light</string>
+< > 	<string>ホームインジケーター(ダーク/ライト)</string>
 < < 	<string>Icon and Label</string>
 < > 	<string>アイコンとラベル</string>
 < < 	<string>Icon and Switch</string>
@@ -75,152 +142,239 @@
 < > 	<string>アイコン</string>
 < < 	<string>Import</string>
 < > 	<string>インポート</string>
-> > 	<string>지우기</string>
+< < 	<string>Index</string>
+< > 	<string>インデックス</string>
+< < 	<string>Info</string>
 < > 	<string>情報</string>
 < < 	<string>Input</string>
 < > 	<string>入力</string>
-> > 	<string>정보</string>
+< < 	<string>Keyboards</string>
 < > 	<string>キーボード</string>
-> > 	<string>키보드</string>
-< > 	<string>明るい</string>
-< < 	<string>Light on Dark</string>
-< > 	<string>ライトオンダーク</string>
+< < 	<string>Keypad</string>
+< > 	<string>キーパッド</string>
+< < 	<string>Label</string>
+< > 	<string>ラベル</string>
+< < 	<string>Label Content</string>
+< > 	<string>ラベルの内容</string>
+< < 	<string>Layers</string>
+< > 	<string>レイヤー</string>
+< < 	<string>Light</string>
+< > 	<string>ライト</string>
+< < 	<string>Literature</string>
+< > 	<string>文学</string>
+< < 	<string>Location</string>
+< > 	<string>場所</string>
 < < 	<string>Location (filled)</string>
-< > 	<string>場所(使用済)</string>
+< > 	<string>位置情報(塗りつぶし)</string>
 < < 	<string>Location (unfilled)</string>
-< > 	<string>場所(未使用)</string>
+< > 	<string>位置情報(白抜き)</string>
+< < 	<string>Lock Orientation</string>
+< > 	<string>向きをロック</string>
 < < 	<string>Love</string>
 < > 	<string>ラブ</string>
 < < 	<string>Mail</string>
 < > 	<string>メール</string>
-> > 	<string>라이트</string>
+< < 	<string>Maps</string>
 < > 	<string>マップ</string>
 < < 	<string>Maps 1</string>
 < > 	<string>マップ1</string>
 < < 	<string>Maps 2</string>
 < > 	<string>マップ2</string>
+< < 	<string>Media</string>
+< > 	<string>メディア</string>
+< < 	<string>Medical</string>
+< > 	<string>医療</string>
+< < 	<string>Memories</string>
+< > 	<string>メモリー</string>
 < < 	<string>Menu (narrow)</string>
-< > 	<string>メニュー(簡易)</string>
+< > 	<string>メニュー(狭い)</string>
 < < 	<string>Menu (wide)</string>
-< > 	<string>メニュー(詳細)</string>
+< > 	<string>メニュー(広い)</string>
 < < 	<string>Message</string>
 < > 	<string>メッセージ</string>
 < < 	<string>Message (full width)</string>
 < > 	<string>メッセージ(全幅)</string>
-> > 	<string>지도</string>
+< < 	<string>Message Notification</string>
+< > 	<string>メッセージ通知</string>
+< < 	<string>Message options</string>
+< > 	<string>メッセージオプション</string>
+< < 	<string>Messages</string>
 < > 	<string>メッセージ</string>
 < < 	<string>Misc</string>
 < > 	<string>その他</string>
-> > 	<string>메시지</string>
+< < 	<string>Moon</string>
+< > 	<string>月</string>
+< < 	<string>More</string>
 < > 	<string>その他</string>
-> > 	<string>더 보기</string>
+< < 	<string>Music Library</string>
+< > 	<string>楽曲ライブラリ</string>
+< < 	<string>Musical Note</string>
+< > 	<string>音符</string>
+< < 	<string>New</string>
 < > 	<string>新規</string>
-> > 	<string>신규</string>
+< < 	<string>New Document</string>
 < > 	<string>新規ドキュメント</string>
 < < 	<string>New Message</string>
 < > 	<string>新規メッセージ</string>
-> > 	<string>신규 문서</string>
+< < 	<string>News</string>
 < > 	<string>ニュース</string>
 < < 	<string>No Icon</string>
 < > 	<string>アイコンなし</string>
-< < 	<string>No Icon and Info</string>
-< > 	<string>アイコンと情報なし</string>
 < < 	<string>No Icon and Label</string>
-< > 	<string>アイコンとラベルなし</string>
+< > 	<string>アイコンおよびラベルなし</string>
+< < 	<string>No Icon and info</string>
+< > 	<string>アイコンおよび情報なし</string>
 < < 	<string>No Icon, Title, Subtitle</string>
-< > 	<string>アイコン、タイトル、サブタイトルなし</string>
-< < 	<string>Notifications &amp; Widgets</string>
-< > 	<string>通知とウィジェット</string>
+< > 	<string>アイコン、タイトル、字幕なし</string>
 < < 	<string>Options</string>
 < > 	<string>オプション</string>
 < < 	<string>Pause</string>
-< > 	<string>中断</string>
+< > 	<string>ポーズ</string>
 < < 	<string>Person</string>
-< > 	<string>個人</string>
+< > 	<string>人物</string>
 < < 	<string>Phone</string>
 < > 	<string>電話</string>
 < < 	<string>Picker</string>
 < > 	<string>選択</string>
 < < 	<string>Pin</string>
 < > 	<string>ピン</string>
+< < 	<string>Planner</string>
+< > 	<string>プランナー</string>
+< < 	<string>Play</string>
+< > 	<string>実行</string>
+< < 	<string>Plus</string>
+< > 	<string>プラス</string>
+< < 	<string>Point</string>
+< > 	<string>ポイント</string>
 < < 	<string>Popovers</string>
 < > 	<string>ポップオーバー</string>
-> > 	<string>뉴스</string>
+< < 	<string>Progress</string>
 < > 	<string>進行状況</string>
 < < 	<string>Prompt</string>
 < > 	<string>プロンプト</string>
+< < 	<string>Radio Wave</string>
+< > 	<string>電波</string>
 < < 	<string>Recipient (multi-line)</string>
 < > 	<string>受信者(複数行)</string>
 < < 	<string>Recipient (single line)</string>
 < > 	<string>受信者(単一行)</string>
 < < 	<string>Refresh</string>
-< > 	<string>更新</string>
+< > 	<string>リフレッシュ</string>
 < < 	<string>Reply</string>
 < > 	<string>返信</string>
 < < 	<string>Reply (small)</string>
 < > 	<string>返信(小)</string>
+< < 	<string>Return to Call</string>
+< > 	<string>呼び出しに戻る</string>
+< < 	<string>Rocket</string>
+< > 	<string>ロケット</string>
+< < 	<string>Rotation Lock</string>
+< > 	<string>回転のロック</string>
+< < 	<string>Rounded Rectangle</string>
+< > 	<string>角丸長方形</string>
+< < 	<string>Sample Description</string>
+< > 	<string>サンプル説明</string>
+< < 	<string>Screen Mirroring</string>
+< > 	<string>画面のミラーリング</string>
 < < 	<string>Search</string>
 < > 	<string>検索</string>
+< < 	<string>Section Heading</string>
+< > 	<string>セクション見出し</string>
 < < 	<string>Segmented</string>
-< > 	<string>セグメント</string>
-< < 	<string>Segmented (small)</string>
-< > 	<string>セグメント(小)</string>
-< < 	<string>Selected</string>
-< > 	<string>選択</string>
+< > 	<string>セグメント化</string>
 < < 	<string>Sender (multi-line)</string>
 < > 	<string>送信者(複数行)</string>
-> > 	<string>진행상태</string>
+< < 	<string>Share</string>
 < > 	<string>共有</string>
 < < 	<string>Slider</string>
 < > 	<string>スライダー</string>
+< < 	<string>Spinner</string>
+< > 	<string>スピナー</string>
+< < 	<string>Square</string>
+< > 	<string>スクエア</string>
+< < 	<string>Star</string>
+< > 	<string>星形</string>
+< < 	<string>Status Bar APP</string>
+< > 	<string>ステータスバー(アプリ)</string>
+< < 	<string>Status Bar Locked</string>
+< > 	<string>ステータスバー(ロック済み)</string>
+< < 	<string>Status Bar Standard</string>
+< > 	<string>ステータスバー(標準)</string>
+< < 	<string>Status Bar Unlocked</string>
+< > 	<string>ステータスバー(ロック解除済み)</string>
 < < 	<string>Stepper</string>
-< > 	<string>ステッパ</string>
+< > 	<string>ステッパー</string>
+< < 	<string>Stopwatch</string>
+< > 	<string>ストップウォッチ</string>
 < < 	<string>Suggestions</string>
-< > 	<string>候補</string>
-< < 	<string>Table (master)</string>
-< > 	<string>テーブル(マスター)</string>
+< > 	<string>提案</string>
+< < 	<string>Tab Bar</string>
+< > 	<string>タブバー</string>
+< < 	<string>Tab Item Icon</string>
+< > 	<string>タブアイテムのアイコン</string>
+< < 	<string>Tab Item Placeholder</string>
+< > 	<string>タブアイテムのプレースホルダー</string>
 < < 	<string>Table Add</string>
-< > 	<string>テーブルの追加</string>
+< > 	<string>テーブル追加</string>
 < < 	<string>Table Delete</string>
-< > 	<string>テーブルの削除</string>
-> > 	<string>공유</string>
+< > 	<string>テーブル削除</string>
+< < 	<string>Tables</string>
 < > 	<string>テーブル</string>
 < < 	<string>Time</string>
-< > 	<string>時間</string>
-< < 	<string>Title (dark)</string>
-< > 	<string>タイトル(暗い)</string>
-< < 	<string>Title (light)</string>
-< > 	<string>タイトル(明るい)</string>
-< < 	<string>Title from App (dark on light)</string>
-< > 	<string>アプリのタイトル(ダークオンライト)</string>
-< < 	<string>Title from App (light on dark)</string>
-< > 	<string>アプリのタイトル(ライトオンダーク)</string>
-< < 	<string>Title from mail</string>
-< > 	<string>メールのタイトル</string>
+< > 	<string>時刻</string>
+< < 	<string>Timer</string>
+< > 	<string>タイマー</string>
+< < 	<string>Title update</string>
+< > 	<string>タイトルの更新</string>
+< < 	<string>Title with Option</string>
+< > 	<string>オプション付きタイトル</string>
+< < 	<string>Title with Search</string>
+< > 	<string>検索機能付きタイトル</string>
+< < 	<string>Title with Search - cancel</string>
+< > 	<string>検索機能付きタイトル - キャンセル</string>
+< < 	<string>Title with Search - label, action</string>
+< > 	<string>検索機能付きタイトル - ラベル、アクション</string>
 < < 	<string>Title with actions</string>
-< > 	<string>アクション付きのタイトル</string>
+< > 	<string>アクション付きタイトル</string>
+< < 	<string>Title with actions - large Title</string>
+< > 	<string>アクション付きタイトル - 大きなタイトル</string>
 < < 	<string>Title with contact</string>
-< > 	<string>連絡先付きのタイトル</string>
-< < 	<string>Title with options</string>
-< > 	<string>オプション付きのタイトル</string>
-< < 	<string>Title with options (large)</string>
-< > 	<string>オプション付きのタイトル(大)</string>
-< < 	<string>Title with search</string>
-< > 	<string>検索付きのタイトル</string>
-< < 	<string>Title with search (deep)</string>
-< > 	<string>検索付きのタイトル(詳細)</string>
+< > 	<string>連絡先付きタイトル</string>
 < < 	<string>Toggle (off)</string>
 < > 	<string>切り替え(オフ)</string>
 < < 	<string>Toggle (on)</string>
 < > 	<string>切り替え(オン)</string>
+< < 	<string>Toolbar</string>
+< > 	<string>ツールバー</string>
 < < 	<string>Touch ID</string>
-< > 	<string>タッチID</string>
+< > 	<string>タッチ ID</string>
+< < 	<string>Touch ID Icon</string>
+< > 	<string>Touch IDアイコン</string>
+< < 	<string>Trash</string>
+< > 	<string>ごみ</string>
+< < 	<string>Travel</string>
+< > 	<string>旅行</string>
 < < 	<string>UI Bars</string>
 < > 	<string>UIバー</string>
 < < 	<string>Up</string>
-< > 	<string>上方向</string>
+< > 	<string>上</string>
+< < 	<string>User Group - Man &amp; Woman</string>
+< > 	<string>ユーザーグループ - 男性と女性</string>
+< < 	<string>User Item</string>
+< > 	<string>ユーザーアイテム</string>
+< < 	<string>Volume</string>
+< > 	<string>ボリューム</string>
 < < 	<string>Walk</string>
 < > 	<string>徒歩</string>
-< < 	<string>Windows</string>
-< > 	<string>ウィンドウ</string>
-> > 	<string>표</string>
+< < 	<string>Widgets &amp; Notifications</string>
+< > 	<string>ウィジェットと通知</string>
+< < 	<string>iPhone X - Bars</string>
+< > 	<string>iPhone X - バー</string>
+< < 	<string>iPhone X - Tabs</string>
+< > 	<string>iPhone X - タブ</string>
+< < 	<string>iPhone X - UI Input Addendum</string>
+< > 	<string>iPhone X - UI入力付属要素</string>
+< < 	<string>iPhone X - Widgets &amp; Notifications</string>
+< > 	<string>iPhone X - ウィジェットと通知</string>
+< < 	<string>iPhone X - title</string>
+< > 	<string>iPhone X - タイトル</string>
