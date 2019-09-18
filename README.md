@@ -58,7 +58,7 @@ Already up to date.
 * 2: Affinity Designer Beta
 * 3: Affinity Photo
 * 4: Affinity Photo Beta
-<!-- * 5: Affinity Publisher -->
+* 5: Affinity Publisher
 * 6: Affinity Publisher Beta
 ### Select Main Menu or Frameworks
 Main Menu 및 Frameworks 중 어느 것을 번역할지 선택합니다. 마찬가지로 숫자만 입력합니다.

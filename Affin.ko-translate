@@ -7,7 +7,7 @@ echo "1: Affinity Designer"
 echo "2: Affinity Designer Beta"
 echo "3: Affinity Photo"
 echo "4: Affinity Photo Beta"
-# echo "5: Affinity Publisher"
+echo "5: Affinity Publisher"
 echo "6: Affinity Publisher Beta"
 read Application
 case ${Application} in
@@ -58,6 +58,6 @@ for (( i = 1; i <= ${FILECOUNT}; i++ ))
 do
   NAME=$(/bin/ls "${JAPPATH}" | /usr/bin/sed -n "${i}p")
   echo -n "${i}/${FILECOUNT} ${NAME}"
-  sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
+  sudo sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
   echo " (번역 종료)"
 done
