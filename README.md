@@ -31,16 +31,12 @@ cd ~/
 git clone https://github.com/Teiming/Affin.ko.git
 ```
 ## Step 2. 변환하기
-Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 수 있는 xml로 변환합니다.
+Step-2.command를 실행합니다. Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 수 있는 xml로 변환합니다. 다음과 같이 관리자 권한으로 실행할 수 있습니다.
 ```sh
-sudo ~/Affin.ko/Affin.ko-convert
-```
-권한 부족으로 Affin.ko-convert를 실행할 수 없다면 다음 명령어로 권한을 부여합니다.
-```sh
-chmod +x ~/Affin.ko/Affin.ko-convert
+sudo ~/Affin.ko/Step-2.command
 ```
 ## Step 3. 번역 폴더 생성
-한국어 번역 파일을 저장할 ko.lproj 폴더를 만듭니다. Affin.ko-convert는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
+한국어 번역 파일을 저장할 ko.lproj 폴더를 만듭니다. Step-2.command는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
 > 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affin.ko은 정상 작동합니다.
 
 ## Step 4. 번역하기

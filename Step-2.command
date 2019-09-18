@@ -1,4 +1,3 @@
-#!/bin/bash
 echo "번역할 프로그램을 선택합니다."
 echo "1: Affinity Designer"
 echo "2: Affinity Designer Beta"
