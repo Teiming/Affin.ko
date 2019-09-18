@@ -16,13 +16,14 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
   * [Affinity Designer on the Mac App Store](https://itunes.apple.com/app/affinity-designer/id824171161)
   * [Affinity Photo on the Mac App Store](https://itunes.apple.com/app/affinity-photo/id824183456)
   * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id881418622)
-  
-베타 프로그램의 번역도 가능합니다. 베타 프로그램은 베타 사용자 포럼에서 구할 수 있습니다.
+
+<!-- 베타 프로그램의 번역도 가능합니다. 베타 프로그램은 베타 사용자 포럼에서 구할 수 있습니다.
 * 베타 프로그램
   * [Affinity Designer Beta](https://affin.co/des17beta)
   * [Affinity Photo Beta](https://affin.co/photo17beta)
+  * [Affinity Publisher Beta]() -->
 ## Step 1. 복제하기
-Affin.ko을 당신의 Mac으로 복제합니다. Terminal.app에서 다음 명령어를 입력해주세요.
+Step-1.command를 실행하여 Affin.ko을 당신의 Mac으로 복제합니다.
 > git을 처음 이용하시는 경우, 설치부터 해야합니다. [Xcode](https://itunes.apple.com/app/xcode/id497799835)를 권장합니다. Xcode의 대안으로 [git-scm.com](https://git-scm.com)을 이용하셔도 됩니다.
 
 ```sh

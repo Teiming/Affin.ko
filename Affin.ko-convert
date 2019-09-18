@@ -4,7 +4,7 @@ echo "1: Affinity Designer"
 echo "2: Affinity Designer Beta"
 echo "3: Affinity Photo"
 echo "4: Affinity Photo Beta"
-# echo "5: Affinity Publisher"
+echo "5: Affinity Publisher"
 echo "6: Affinity Publisher Beta"
 read app
 case ${app} in
@@ -42,7 +42,7 @@ sudo mkdir /Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
 sudo mkdir /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
 echo -n "다른 프로그램을 번역하려면 Affin.ko-convert를 다시 시작해주세요. (y or n) "
 read restart
-if [[ ${restart} -eq y ]]; then
+if [[ ${restart} -eq "y" ]]; then
   ~/Affin.ko/Affin.ko-convert
 else
   exit
