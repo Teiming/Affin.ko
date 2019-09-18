@@ -11,11 +11,11 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
 * 최신 버전 구매
   * [Affinity Designer for desktop - Professional graphic design software](https://affinity.serif.com/designer/desktop)
   * [Affinity Photo for desktop - Professional image editing software](https://affinity.serif.com/photo/desktop)
-  <!-- * [Affinity Publisher for desktop](https://affinity.serif.com/publisher/desktop) -->
+  * [Affinity Publisher - Professional desktop publishing software](https://affinity.serif.com/publisher)
 * LTS 버전 구매
   * [Affinity Designer on the Mac App Store](https://itunes.apple.com/app/affinity-designer/id824171161)
   * [Affinity Photo on the Mac App Store](https://itunes.apple.com/app/affinity-photo/id824183456)
-  <!-- * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id) -->
+  * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id881418622)
 베타 프로그램의 번역도 가능합니다. 베타 프로그램은 베타 사용자 포럼에서 구할 수 있습니다.
 * 베타 프로그램
   * [Affinity Designer Beta](https://affin.co/des17beta)
