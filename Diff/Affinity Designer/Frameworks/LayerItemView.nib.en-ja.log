@@ -40,8 +40,12 @@
 < 		<string>Name of Object</string>
 > 		<string>サンプル説明テキスト</string>
 > 		<string>オブジェクト名</string>
-< 		<string>Has layer effects</string>
+< 		<string>Floating Near Text</string>
 > 		<string>スナップから除外されています</string>
+< 		<string>Has layer effects</string>
+> 		<string>テキスト付近にフローティング</string>
+< 		<string>Inline in Text</string>
+> 		<string>テキスト内にインライン表示</string>
 < 		<string>Is excluded from snapping</string>
 > 		<string>レイヤーエフェクトがかかっています</string>
 < 		<string>Is locked</string>
