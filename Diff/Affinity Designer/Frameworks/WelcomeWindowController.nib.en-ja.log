@@ -1,7 +1,5 @@
 < 		<string>Welcome</string>
 > 		<string>ようこそ</string>
-< 		<string>Multiline Label</string>
-> 		<string>複数行ラベル</string>
 < 		<string>New Document</string>
 > 		<string>新規ドキュメント</string>
 < 		<string>Close</string>
@@ -12,7 +10,10 @@
 > 		<string>サンプルを表示</string>
 < 		<string>View Tutorials</string>
 > 		<string>チュートリアルを表示</string>
-< 		<string>Connect</string>
-> 		<string>接続</string>
-< 		<string>User Forums</string>
-> 		<string>ユーザーフォーラム</string>
+< 		<string>Stay Connected</string>
+> 		<string>接続を維持</string>
+< 		<string>Support Forums</string>
+> 		<string>サポートフォーラム</string>
+< 		<string>WebKitMinimumFontSize</string>
+< 		<string>WebKitDefaultFontSize</string>
+< 		<string>WebKitDefaultFixedFontSize</string>
