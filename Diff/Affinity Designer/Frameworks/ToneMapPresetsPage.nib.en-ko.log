@@ -1,3 +1,5 @@
+< 		<string>User Defined</string>
+> 		<string>사용자 정의</string>
 < 		<string>Categories</string>
 > 		<string>범주</string>
 < 		<string>Standard</string>
@@ -10,7 +12,11 @@
 > 		<string>범주 이름 변경…</string>
 < 		<string>Delete Category</string>
 > 		<string>범주 지우기</string>
-< 		<string>System</string>
-> 		<string>시스템</string>
+< 		<string>Import Presets…</string>
+> 		<string>미리 설정 들여오기…</string>
+< 		<string>Brush Item Context Menu</string>
+> 		<string>브러시 항목 상황별 메뉴</string>
+< 		<string>Rename Preset…</string>
+> 		<string>미리 설정 이름 변경…</string>
 < 		<string>Delete Preset</string>
 > 		<string>미리 설정 지우기</string>
