@@ -55,7 +55,7 @@ do
   case ${Frameworks} in
     1 )
     diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log
-    diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log
+    diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log
     diff ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".ja-ko.log
     echo " (로그 종료)"
     git add .
@@ -63,7 +63,7 @@ do
     ;;
     2 )
     diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log
-    diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log
+    diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log
     diff ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".ja-ko.log
     echo " (로그 종료)"
     git add .
