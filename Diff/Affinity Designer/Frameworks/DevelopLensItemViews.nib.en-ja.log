@@ -1,5 +1,13 @@
+< 		<string>Use Lens Profile</string>
+> 		<string>レンズプロファイルの使用</string>
+< 		<string>Estimate From Image</string>
+> 		<string>画像から推定</string>
 < 		<string>Chromatic Aberration Reduction</string>
 > 		<string>色収差の軽減</string>
+< 		<string>Use Lens Profile</string>
+> 		<string>レンズプロファイルの使用</string>
+< 		<string>Estimate From Image</string>
+> 		<string>画像から推定</string>
 < 		<string>Intensity</string>
 > 		<string>強度</string>
 < 		<string>Remove Lens Vignette</string>
@@ -16,8 +24,10 @@
 > 		<string>半径</string>
 < 		<string>Defringe</string>
 > 		<string>フリンジ除去</string>
-< 		<string>Apply Automatic Corrections</string>
-> 		<string>自動修正を適用</string>
+< 		<string>Lens profile distortion</string>
+> 		<string>レンズプロファイルのゆがみ</string>
+< 		<string>Profile name</string>
+> 		<string>プロファイル名</string>
 < 		<string>Vertical</string>
 > 		<string>垂直</string>
 < 		<string>Horizontal</string>
