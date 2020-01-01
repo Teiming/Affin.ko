@@ -31,7 +31,7 @@
 < 		<string>Hide</string>
 > 		<string>非表示</string>
 < 		<string>About…</string>
-> 		<string>Affinity Designerについて…</string>
+> 		<string>概要…</string>
 < 		<string>Redo</string>
 > 		<string>やり直し</string>
 < 		<string>Copy</string>
@@ -48,8 +48,6 @@
 > 		<string>削除</string>
 < 		<string>Save As…</string>
 > 		<string>別名で保存…</string>
-< 		<string>Edit in Photo…</string>
-> 		<string>Photoで編集…</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
 < 		<string>Document Setup…</string>
@@ -104,14 +102,16 @@
 > 		<string>アシスタントマネージャー…</string>
 < 		<string>Vector</string>
 > 		<string>ベクター</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Show Rulers</string>
 > 		<string>ルーラーを表示</string>
+< 		<string>Lock Guides</string>
+> 		<string>ガイドをロック</string>
 < 		<string>Outline…</string>
 > 		<string>アウトライン…</string>
 < 		<string>Select Highlights</string>
 > 		<string>ハイライトを選択</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photoで編集…</string>
 < 		<string>Move Back One</string>
 > 		<string>背面へ</string>
 < 		<string>Create Compound</string>
@@ -166,7 +166,7 @@
 < 		<string>Unlock All</string>
 > 		<string>すべてロック解除</string>
 < 		<string>Export Persona</string>
-> 		<string>ペルソナを書き出し</string>
+> 		<string>書き出しペルソナ</string>
 < 		<string>Rotate Left</string>
 > 		<string>左に回転</string>
 < 		<string>Intersect</string>
@@ -215,6 +215,10 @@
 > 		<string>露出</string>
 < 		<string>Select Midtones</string>
 > 		<string>中間調部を選択</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Invert Pixel Selection</string>
 > 		<string>ピクセル選択範囲を反転</string>
 < 		<string>Reset Rotation</string>
@@ -243,12 +247,16 @@
 > 		<string>しきい値</string>
 < 		<string>New Layer</string>
 > 		<string>新規レイヤー</string>
-< 		<string>Draw Persona</string>
-> 		<string>描画ペルソナ</string>
+< 		<string>Designer Persona</string>
+> 		<string>デザイナーペルソナ</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
 < 		<string>Select Shadows</string>
 > 		<string>シャドウを選択</string>
 < 		<string>Paste Without Format</string>
 > 		<string>書式を解除してペースト</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>キャンバスにクリップ</string>
 < 		<string>Space Vertically</string>
@@ -281,6 +289,8 @@
 > 		<string>ホワイトバランス</string>
 < 		<string>Rasterise to Mask</string>
 > 		<string>マスクにラスタライズ</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>Combine</string>
 > 		<string>合成</string>
 < 		<string>Show</string>
@@ -298,7 +308,7 @@
 < 		<string>Move Forward One</string>
 > 		<string>前面へ</string>
 < 		<string>Reveal in Finder</string>
-> 		<string>ファインダーで表示</string>
+> 		<string>Finderで表示</string>
 < 		<string>Selective Colour</string>
 > 		<string>特定色域</string>
 < 		<string>Move to Next View Point</string>
@@ -307,6 +317,8 @@
 > 		<string>拡大 / 縮小…</string>
 < 		<string>Ungroup All</string>
 > 		<string>すべてグループ解除</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
 < 		<string>Channel Mixer</string>
 > 		<string>チャンネルミキサー</string>
 < 		<string>Black &amp; White</string>
@@ -330,6 +342,8 @@
 > 		<string>次の要素を選択</string>
 < 		<string>Levels</string>
 > 		<string>レベル</string>
+< 		<string>Edit In Designer…</string>
+> 		<string>Designerで編集…</string>
 < 		<string>Select Blues</string>
 > 		<string>青色を選択</string>
 < 		<string>MainMenu</string>
@@ -380,6 +394,8 @@
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 < 		<string>View Mode</string>
 > 		<string>表示モード</string>
 > 		<string>表示モード</string>
