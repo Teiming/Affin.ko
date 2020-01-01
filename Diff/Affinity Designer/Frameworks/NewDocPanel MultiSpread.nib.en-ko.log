@@ -1,35 +1,51 @@
-< 		<string>Left Margin:</string>
-> 		<string>왼쪽 여백</string>
-< 		<string>System</string>
-> 		<string>시스템</string>
-< 		<string>Right Margin:</string>
-> 		<string>오른쪽 여백:</string>
-< 		<string>Top Margin:</string>
-> 		<string>위쪽 여백:</string>
-< 		<string>Bottom Margin:</string>
-> 		<string>아래쪽 여백:</string>
-< 		<string>Retrieve Margin from Printer</string>
-> 		<string>프린터 여백을 이용</string>
-< 		<string>'Actual Size' Zoom:</string>
-> 		<string>'실제 크기' 맞추기:</string>
-< 		<string>Page Width:</string>
-> 		<string>페이지 너비:</string>
-< 		<string>Page Height:</string>
-> 		<string>페이지 높이:</string>
-< 		<string>Default</string>
-> 		<string>기본값</string>
-< 		<string>Portrait</string>
-> 		<string>세로 방향</string>
-< 		<string>Colour Profile:</string>
-> 		<string>색상 프로파일:</string>
-< 		<string>Transparent background</string>
-> 		<string>투명한 배경</string>
-< 		<string>Colour Format:</string>
-> 		<string>색상 포맷</string>
+< 		<string>Right</string>
+> 		<string>오른쪽</string>
+< 		<string>Left</string>
+> 		<string>왼쪽</string>
 < 		<string>Include Margins</string>
 > 		<string>여백 포함</string>
-< 		<string>Create artboard</string>
-> 		<string>아트보드 생성</string>
+< 		<string>Bottom Margin:</string>
+> 		<string>아래쪽 여백:</string>
+< 		<string>Bottom:</string>
+> 		<string>아래쪽</string>
+< 		<string>Left Margin:</string>
+> 		<string>왼쪽 여백</string>
+< 		<string>Left:</string>
+> 		<string>왼쪽:</string>
+< 		<string>Right Margin:</string>
+> 		<string>오른쪽 여백:</string>
+< 		<string>Right:</string>
+> 		<string>오른쪽:</string>
+< 		<string>Page Height:</string>
+> 		<string>페이지 높이:</string>
+< 		<string>'Actual Size' Zoom:</string>
+> 		<string>'실제 크기' 맞추기:</string>
+< 		<string>Default</string>
+> 		<string>기본값</string>
+< 		<string>Page Width:</string>
+> 		<string>페이지 너비:</string>
+< 		<string>Portrait</string>
+> 		<string>세로 방향</string>
+< 		<string>Layout</string>
+> 		<string>구조</string>
+< 		<string>Transparent background</string>
+> 		<string>투명한 배경</string>
+< 		<string>Colour Profile:</string>
+> 		<string>색상 프로파일:</string>
+< 		<string>Colour Format:</string>
+> 		<string>색상 포맷</string>
+< 		<string>Colour</string>
+> 		<string>색상</string>
+< 		<string>Top:</string>
+> 		<string>위쪽:</string>
+< 		<string>Retrieve Margin from Printer</string>
+> 		<string>프린터 여백을 이용</string>
+< 		<string>Margins</string>
+> 		<string>여백</string>
+< 		<string>Top Margin:</string>
+> 		<string>위쪽 여백:</string>
+< 		<string>Bleed</string>
+> 		<string>도련</string>
 < 		<string>Custom</string>
 > 		<string>사용자화</string>
 < 		<string>Print</string>
@@ -50,7 +66,9 @@
 > 		<string>문서 단위:</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
-< 		<string>Colour:</string>
-> 		<string>색상:</string>
-< 		<string>Dimensions:</string>
-> 		<string>치수:</string>
+< 		<string>Create preset</string>
+> 		<string>미리 설정 생성</string>
+< 		<string>Rename preset</string>
+> 		<string>미리 설정 이름 변경</string>
+< 		<string>Delete preset</string>
+> 		<string>미리 설정 지우기</string>
