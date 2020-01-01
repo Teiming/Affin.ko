@@ -33,7 +33,7 @@
 < 		<string>Hide</string>
 > 		<string>Affinity Designerを隠す</string>
 < 		<string>About…</string>
-> 		<string>Affinity Designerについて…</string>
+> 		<string>概要…</string>
 < 		<string>Redo</string>
 > 		<string>やり直し</string>
 < 		<string>Copy</string>
@@ -50,8 +50,6 @@
 > 		<string>削除</string>
 < 		<string>Save As…</string>
 > 		<string>別名で保存...</string>
-< 		<string>Edit in Photo…</string>
-> 		<string>Photoで編集…</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
 < 		<string>Document Setup…</string>
@@ -68,8 +66,8 @@
 > 		<string>ツールバーをカスタマイズ…</string>
 < 		<string>Show Toolbar</string>
 > 		<string>ツールバーを表示</string>
-< 		<string>Affinity Designer Help</string>
-> 		<string>Affinity Designerのヘルプ</string>
+< 		<string>${PRODUCT_NAME} Help</string>
+> 		<string>${PRODUCT_NAME}ヘルプ</string>
 < 		<string>Ungroup</string>
 > 		<string>グループ解除</string>
 < 		<string>Group</string>
@@ -146,8 +144,6 @@
 > 		<string>ワインディング(非ゼロ)</string>
 < 		<string>Show Character</string>
 > 		<string>文字を表示</string>
-< 		<string>Media Browser…</string>
-> 		<string>メディアブラウザー…</string>
 < 		<string>Show Rulers</string>
 > 		<string>ルーラーを表示</string>
 < 		<string>Apple Colour Picker...</string>
@@ -160,7 +156,7 @@
 > 		<string>半角スペース</string>
 < 		<string>Non-Breaking Hyphen</string>
 > 		<string>分散禁止ハイフン</string>
-< 		<string>Zero Width Space</string>
+< 		<string>Zero-Width Space</string>
 > 		<string>幅ゼロのスペース</string>
 < 		<string>Soft Hyphen</string>
 > 		<string>ソフトハイフン</string>
@@ -182,10 +178,14 @@
 > 		<string>テキストの回り込みを無視</string>
 < 		<string>Move Back One</string>
 > 		<string>背面へ</string>
+< 		<string>Delete Unused Styles</string>
+> 		<string>未使用のスタイルを削除</string>
 < 		<string>Paste Inside</string>
 > 		<string>内側にペースト</string>
 < 		<string>Crash</string>
 > 		<string>クラッシュ</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photoで編集…</string>
 < 		<string>Unlock All</string>
 > 		<string>すべてロック解除</string>
 < 		<string>Recolour</string>
@@ -200,10 +200,16 @@
 > 		<string>打消し線</string>
 < 		<string>Precise Bigger</string>
 > 		<string>厳密な拡大</string>
+< 		<string>Spread Setup…</string>
+> 		<string>スプレッド設定…</string>
 < 		<string>Flip Vertical</string>
 > 		<string>上下反転</string>
+< 		<string>Publisher Persona</string>
+> 		<string>パブリッシャーペルソナ</string>
 < 		<string>Show Glyph Browser</string>
 > 		<string>グリフブラウザを表示</string>
+< 		<string>Show Column Guides</string>
+> 		<string>列ガイドを表示</string>
 < 		<string>Synchronise from Selection</string>
 > 		<string>選択範囲から同期</string>
 < 		<string>Show Context Toolbar</string>
@@ -224,10 +230,14 @@
 > 		<string>上揃え</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>新規ピクセルレイヤー</string>
+< 		<string>Reapply Base Styles</string>
+> 		<string>ベーススタイルを再適用</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>キャンバスにクリップ</string>
 < 		<string>Delete Paragraph Style</string>
 > 		<string>段落スタイルを削除</string>
+< 		<string>Lock Guides</string>
+> 		<string>ガイドをロック</string>
 < 		<string>New From Clipboard</string>
 > 		<string>クリップボードから新規作成</string>
 < 		<string>Check Spelling</string>
@@ -276,6 +286,8 @@
 > 		<string>明るさ / コントラスト</string>
 < 		<string>Split Toning</string>
 > 		<string>明暗別色補正</string>
+< 		<string>Photo Persona</string>
+> 		<string>写真ペルソナ</string>
 > 		<string>なし</string>
 < 		<string>Welcome...</string>
 > 		<string>ようこそ...</string>
@@ -308,6 +320,8 @@
 > 		<string>グラデーションマップ</string>
 < 		<string>Guides Manager…</string>
 > 		<string>ガイドマネージャー…</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
 < 		<string>Exposure</string>
 > 		<string>露出</string>
 < 		<string>Raise Baseline</string>
@@ -329,23 +343,27 @@
 < 		<string>Bigger</string>
 > 		<string>拡大</string>
 < 		<string>Export Persona</string>
-> 		<string>ペルソナを書き出し</string>
+> 		<string>書き出しペルソナ</string>
 < 		<string>Support...</string>
 > 		<string>サポート...</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI切り替え</string>
+< 		<string>Edit in Publisher…</string>
+> 		<string>Publisherで編集…</string>
 < 		<string>Justify</string>
 > 		<string>両端揃え</string>
 < 		<string>On App Screen</string>
 > 		<string>アプリスクリーン上</string>
 < 		<string>Reapply Text Styles</string>
 > 		<string>テキストスタイルを再適用</string>
+< 		<string>Merge curves</string>
+> 		<string>カーブを結合</string>
 < 		<string>Show Paragraph</string>
 > 		<string>段落を表示</string>
 < 		<string>Distribute Vertically</string>
 > 		<string>垂直方向に均等配置</string>
 < 		<string>Reveal in Finder</string>
-> 		<string>ファインダーで表示</string>
+> 		<string>Finderで表示</string>
 < 		<string>Move to Next View Point</string>
 > 		<string>次のビューポイントに移動</string>
 < 		<string>Invert</string>
@@ -403,6 +421,8 @@
 > 		<string>ドキュメントに関する履歴を保存</string>
 < 		<string>Layer Effects…</string>
 > 		<string>レイヤーエフェクト…</string>
+< 		<string>Move Inside</string>
+> 		<string>内側に移動</string>
 < 		<string>Align Middle</string>
 > 		<string>上下中央揃え</string>
 < 		<string>Add</string>
@@ -421,8 +441,10 @@
 > 		<string>ホワイトバランス</string>
 < 		<string>Move to Previous View Point</string>
 > 		<string>以前のビューポイントに移動</string>
-< 		<string>Combine</string>
-> 		<string>合成</string>
+< 		<string>Edit In Designer…</string>
+> 		<string>Designerで編集…</string>
+< 		<string>Xor</string>
+> 		<string>排他的論理和</string>
 < 		<string>Show Text Styles</string>
 > 		<string>テキストスタイルを表示</string>
 < 		<string>Convert to Text Frame</string>
@@ -447,6 +469,8 @@
 > 		<string>出荷時の設定にリセット</string>
 < 		<string>Em Dash</string>
 > 		<string>全角ダッシュ</string>
+< 		<string>Show Bleed</string>
+> 		<string>裁ち切りを表示</string>
 < 		<string>Find in Layers Panel</string>
 > 		<string>レイヤーパネルで検索</string>
 < 		<string>Rotate Left</string>
@@ -459,8 +483,6 @@
 > 		<string>前面へ</string>
 < 		<string>Update Character Style</string>
 > 		<string>文字スタイルを更新</string>
-< 		<string>Insert Text from File…</string>
-> 		<string>ファイルからテキストを挿入…</string>
 < 		<string>Ignore Misspelt Word</string>
 > 		<string>スペル誤りの単語を無視</string>
 > 		<string>非表示</string>
@@ -468,6 +490,10 @@
 > 		<string>片側</string>
 < 		<string>Selective Colour</string>
 > 		<string>特定色域</string>
+< 		<string>Move Outside</string>
+> 		<string>外側に移動</string>
+< 		<string>Separate curves</string>
+> 		<string>カーブを分離</string>
 < 		<string>Ungroup All</string>
 > 		<string>すべてグループ解除</string>
 < 		<string>Show Tools</string>
@@ -491,6 +517,8 @@
 > 		<string>アウトライン</string>
 < 		<string>Actual Size</string>
 > 		<string>実寸</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Precise Increase</string>
 > 		<string>厳密な拡大</string>
 < 		<string>Always Show Selection in Layers Panel </string>
@@ -552,6 +580,10 @@
 < 		<string>Paragraph Leading</string>
 > 		<string>段落の行間</string>
 > 		<string>段落の行間</string>
+< 		<string>Vertical Alignment</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
+> 		<string>垂直方向揃え</string>
 < 		<string>Text Styles</string>
 < 		<string>Text Styles</string>
 > 		<string>テキストスタイル</string>
@@ -560,10 +592,6 @@
 < 		<string>Insert Character</string>
 > 		<string>文字を挿入</string>
 > 		<string>文字を挿入</string>
-< 		<string>Vertical Alignment</string>
-< 		<string>Vertical Alignment</string>
-> 		<string>垂直方向揃え</string>
-> 		<string>垂直方向揃え</string>
 < 		<string>Spelling</string>
 > 		<string>スペル設定</string>
 > 		<string>スペル設定</string>
@@ -597,6 +625,8 @@
 < 		<string>View</string>
 > 		<string>表示</string>
 > 		<string>表示</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 < 		<string>View Mode</string>
 > 		<string>表示モード</string>
 > 		<string>表示モード</string>
