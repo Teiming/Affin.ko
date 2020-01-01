@@ -1,3 +1,11 @@
+< 		<string>Extended Dynamic Range</string>
+> 		<string>拡張ダイナミックレンジ</string>
+< 		<string>Enable EDR</string>
+> 		<string>EDRを有効にする</string>
+< 		<string>Clip to maximum</string>
+> 		<string>最大値にクリップ</string>
+< 		<string>Show EDR Clipping</string>
+> 		<string>EDRクリッピングの表示</string>
 < 		<string>ICC Display Transform</string>
 > 		<string>ICC表示変換</string>
 < 		<string>OCIO Display Transform</string>
@@ -6,7 +14,7 @@
 > 		<string>アンマネージド</string>
 < 		<string>Display Transform</string>
 > 		<string>表示変換</string>
-< 		<string>Gamma</string>
-> 		<string>ガンマ</string>
-< 		<string>Exposure</string>
-> 		<string>露出</string>
+< 		<string>Preview Gamma</string>
+> 		<string>プレビューのガンマ</string>
+< 		<string>Preview Exposure</string>
+> 		<string>プレビューの露出</string>
