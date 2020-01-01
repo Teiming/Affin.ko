@@ -4,7 +4,6 @@
 < > 	<string>アクティビティ</string>
 < < 	<string>Activity Views</string>
 < > 	<string>アクティビティビュー</string>
-< < 	<string>Add</string>
 < > 	<string>追加</string>
 < < 	<string>Air Play</string>
 < > 	<string>AirPlay</string>
@@ -18,7 +17,7 @@
 < > 	<string>目覚まし時計</string>
 < < 	<string>Albums</string>
 < > 	<string>アルバム</string>
-< < 	<string>Alerts</string>
+> > 	<string>추가</string>
 < > 	<string>アラート</string>
 < < 	<string>App Notification</string>
 < > 	<string>アプリ通知</string>
@@ -34,7 +33,7 @@
 < > 	<string>ベッド</string>
 < < 	<string>Bookmark</string>
 < > 	<string>ブックマーク</string>
-< < 	<string>Brightness</string>
+> > 	<string>알림</string>
 < > 	<string>明るさ</string>
 < < 	<string>Bus</string>
 < > 	<string>バス</string>
@@ -50,9 +49,9 @@
 < > 	<string>カフェ</string>
 < < 	<string>Calendar</string>
 < > 	<string>カレンダー</string>
-< < 	<string>Camera</string>
+> > 	<string>명암</string>
 < > 	<string>カメラ</string>
-< < 	<string>Cancel</string>
+> > 	<string>카메라</string>
 < > 	<string>キャンセル</string>
 < < 	<string>Car</string>
 < > 	<string>車</string>
@@ -60,23 +59,23 @@
 < > 	<string>セルラーネットワーク</string>
 < < 	<string>Clock</string>
 < > 	<string>時計</string>
-< < 	<string>Cloud</string>
+> > 	<string>취소</string>
 < > 	<string>クラウド</string>
 < < 	<string>Collapsed</string>
 < > 	<string>折りたたみ済み</string>
 < < 	<string>Collections</string>
 < > 	<string>コレクション</string>
-< < 	<string>Context</string>
+> > 	<string>구름</string>
 < > 	<string>コンテキスト</string>
 < < 	<string>Context (with options)</string>
 < > 	<string>コンテキスト(オプションあり)</string>
-< < 	<string>Controls</string>
+> > 	<string>문단</string>
 < > 	<string>コントロール</string>
-< < 	<string>Curves</string>
+> > 	<string>조작</string>
 < > 	<string>カーブ</string>
-< < 	<string>Dark</string>
+> > 	<string>곡선</string>
 < > 	<string>ダーク</string>
-< < 	<string>Delete</string>
+> > 	<string>다크</string>
 < > 	<string>削除</string>
 < < 	<string>Detail, Label</string>
 < > 	<string>ディテール、ラベル</string>
@@ -88,7 +87,7 @@
 < > 	<string>下</string>
 < < 	<string>Download</string>
 < > 	<string>ダウンロード</string>
-< < 	<string>Duplicate</string>
+> > 	<string>지우기</string>
 < > 	<string>複製</string>
 < < 	<string>Edit Mode</string>
 < > 	<string>編集モード</string>
@@ -124,9 +123,9 @@
 < > 	<string>健康データ</string>
 < < 	<string>Health Sources</string>
 < > 	<string>健康に関する情報源</string>
-< < 	<string>Heart</string>
+> > 	<string>복제</string>
 < > 	<string>ハート形</string>
-< < 	<string>Home</string>
+> > 	<string>하트</string>
 < > 	<string>ホーム</string>
 < < 	<string>Home Automation</string>
 < > 	<string>ホームオートメーション</string>
@@ -144,11 +143,11 @@
 < > 	<string>インポート</string>
 < < 	<string>Index</string>
 < > 	<string>インデックス</string>
-< < 	<string>Info</string>
+> > 	<string>홈</string>
 < > 	<string>情報</string>
 < < 	<string>Input</string>
 < > 	<string>入力</string>
-< < 	<string>Keyboards</string>
+> > 	<string>정보</string>
 < > 	<string>キーボード</string>
 < < 	<string>Keypad</string>
 < > 	<string>キーパッド</string>
@@ -156,13 +155,13 @@
 < > 	<string>ラベル</string>
 < < 	<string>Label Content</string>
 < > 	<string>ラベルの内容</string>
-< < 	<string>Layers</string>
+> > 	<string>키보드</string>
 < > 	<string>レイヤー</string>
-< < 	<string>Light</string>
+> > 	<string>레이어</string>
 < > 	<string>ライト</string>
 < < 	<string>Literature</string>
 < > 	<string>文学</string>
-< < 	<string>Location</string>
+> > 	<string>라이트</string>
 < > 	<string>場所</string>
 < < 	<string>Location (filled)</string>
 < > 	<string>位置情報(塗りつぶし)</string>
@@ -174,7 +173,7 @@
 < > 	<string>ラブ</string>
 < < 	<string>Mail</string>
 < > 	<string>メール</string>
-< < 	<string>Maps</string>
+> > 	<string>위치</string>
 < > 	<string>マップ</string>
 < < 	<string>Maps 1</string>
 < > 	<string>マップ1</string>
@@ -198,25 +197,25 @@
 < > 	<string>メッセージ通知</string>
 < < 	<string>Message options</string>
 < > 	<string>メッセージオプション</string>
-< < 	<string>Messages</string>
+> > 	<string>지도</string>
 < > 	<string>メッセージ</string>
 < < 	<string>Misc</string>
 < > 	<string>その他</string>
 < < 	<string>Moon</string>
 < > 	<string>月</string>
-< < 	<string>More</string>
+> > 	<string>메시지</string>
 < > 	<string>その他</string>
 < < 	<string>Music Library</string>
 < > 	<string>楽曲ライブラリ</string>
 < < 	<string>Musical Note</string>
 < > 	<string>音符</string>
-< < 	<string>New</string>
+> > 	<string>더 보기</string>
 < > 	<string>新規</string>
-< < 	<string>New Document</string>
+> > 	<string>신규</string>
 < > 	<string>新規ドキュメント</string>
 < < 	<string>New Message</string>
 < > 	<string>新規メッセージ</string>
-< < 	<string>News</string>
+> > 	<string>신규 문서</string>
 < > 	<string>ニュース</string>
 < < 	<string>No Icon</string>
 < > 	<string>アイコンなし</string>
@@ -248,7 +247,7 @@
 < > 	<string>ポイント</string>
 < < 	<string>Popovers</string>
 < > 	<string>ポップオーバー</string>
-< < 	<string>Progress</string>
+> > 	<string>뉴스</string>
 < > 	<string>進行状況</string>
 < < 	<string>Prompt</string>
 < > 	<string>プロンプト</string>
@@ -284,15 +283,15 @@
 < > 	<string>セグメント化</string>
 < < 	<string>Sender (multi-line)</string>
 < > 	<string>送信者(複数行)</string>
-< < 	<string>Share</string>
+> > 	<string>진행상태</string>
 < > 	<string>共有</string>
 < < 	<string>Slider</string>
 < > 	<string>スライダー</string>
 < < 	<string>Spinner</string>
 < > 	<string>スピナー</string>
-< < 	<string>Square</string>
+> > 	<string>공유</string>
 < > 	<string>スクエア</string>
-< < 	<string>Star</string>
+> > 	<string>사각형</string>
 < > 	<string>星形</string>
 < < 	<string>Status Bar APP</string>
 < > 	<string>ステータスバー(アプリ)</string>
@@ -318,7 +317,7 @@
 < > 	<string>テーブル追加</string>
 < < 	<string>Table Delete</string>
 < > 	<string>テーブル削除</string>
-< < 	<string>Tables</string>
+> > 	<string>별</string>
 < > 	<string>テーブル</string>
 < < 	<string>Time</string>
 < > 	<string>時刻</string>
@@ -380,3 +379,4 @@
 < > 	<string>iPhone X - ウィジェットと通知</string>
 < < 	<string>iPhone X - title</string>
 < > 	<string>iPhone X - タイトル</string>
+> > 	<string>표</string>
