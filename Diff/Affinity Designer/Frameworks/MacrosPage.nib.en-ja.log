@@ -1,3 +1,15 @@
+< 		<string>No alignment</string>
+> 		<string>整列なし</string>
+< 		<string>Center</string>
+> 		<string>中央</string>
+< 		<string>Top left</string>
+> 		<string>左上</string>
+< 		<string>Top right</string>
+> 		<string>右上</string>
+< 		<string>Bottom left</string>
+> 		<string>左下</string>
+< 		<string>Bottom right</string>
+> 		<string>右下</string>
 < 		<string>Rename...</string>
 > 		<string>名前の変更…</string>
 < 		<string>Delete</string>
@@ -14,3 +26,11 @@
 > 		<string>新規カテゴリの作成</string>
 < 		<string>Import Macros...</string>
 > 		<string>マクロのインポート...</string>
+< 		<string>No scale</string>
+> 		<string>スケールなし</string>
+< 		<string>Stretch</string>
+> 		<string>ストレッチ</string>
+< 		<string>Max fit</string>
+> 		<string>最大フィット</string>
+< 		<string>Min fit</string>
+> 		<string>最小フィット</string>
