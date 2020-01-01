@@ -38,6 +38,7 @@ sudo ~/Affin.ko/Step-2.command
 ## Step 3. 번역 폴더 생성
 한국어 번역 파일을 저장할 ko.lproj 폴더를 만듭니다. Step-2.command는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
 > 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affin.ko은 정상 작동합니다.
+
 만약 ```Permission denied``` 오류가 나타난다면, 아래 명령어를 통해 해결합니다.
 > sudo chown ``` {USER NAME} ``` /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj
 
