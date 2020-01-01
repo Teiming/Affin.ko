@@ -40,8 +40,10 @@ sudo ~/Affin.ko/Step-2.command
 > 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affin.ko은 정상 작동합니다.
 
 만약 ```Permission denied``` 오류가 나타난다면, 아래 명령어를 통해 해결합니다.
-> sudo chown ```USER NAME``` /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj
-> sudo chown ```USER NAME``` /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+```sh
+sudo chown ```USER NAME``` /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj
+sudo chown ```USER NAME``` /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+```
 ## Step 4. 번역하기
 > 원본 영어 파일을 한국어 파일로 번역합니다. 번역된 내용이 늘어나면 보다 긴 시간이 소요됩니다.
 
