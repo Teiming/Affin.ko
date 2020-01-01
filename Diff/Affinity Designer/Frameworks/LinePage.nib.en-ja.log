@@ -1,13 +1,20 @@
+< 		<string>Item 1</string>
+> 		<string>アイテム1</string>
+< 		<string>Item 2</string>
+> 		<string>アイテム2</string>
+< 		<string>Item 3</string>
+> 		<string>アイテム3</string>
 < 		<string>Align:</string>
 > 		<string>配置:</string>
+> 		<string>アイテム1</string>
+> 		<string>アイテム2</string>
+> 		<string>アイテム3</string>
 < 		<string>Cap:</string>
 > 		<string>線端:</string>
 < 		<string>Dash:</string>
 > 		<string>破線:</string>
 < 		<string>Phase:</string>
 > 		<string>フェーズ:</string>
-< 		<string>Draw behind fill</string>
-> 		<string>下に描画</string>
 < 		<string>Join:</string>
 > 		<string>結合:</string>
 < 		<string>Properties...</string>
@@ -22,5 +29,11 @@
 > 		<string>スタイル:</string>
 < 		<string>Width:</string>
 > 		<string>幅:</string>
+< 		<string>End:</string>
+> 		<string>終了:</string>
+< 		<string>Start:</string>
+> 		<string>開始:</string>
+< 		<string>Order:</string>
+> 		<string>順序:</string>
 < 		<string>Mitre:</string>
 > 		<string>マイター:</string>
