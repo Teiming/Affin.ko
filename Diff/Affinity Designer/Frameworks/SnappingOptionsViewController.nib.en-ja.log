@@ -22,6 +22,8 @@
 > 		<string>マージンにスナップ</string>
 < 		<string>Include margin mid points</string>
 > 		<string>マージン中間点を含める</string>
+< 		<string>Snap to baseline grid</string>
+> 		<string>ベースライングリッドにスナップ</string>
 > 		<string>四角形</string>
 < 		<string>Candidates:</string>
 > 		<string>候補:</string>
@@ -42,8 +44,6 @@
 > 		<string>ボックス</string>
 < 		<string>Snap to object geometry</string>
 > 		<string>オブジェクトジオメトリにスナップ</string>
-< 		<string>Snap to construction lines</string>
-> 		<string>作図線にスナップ</string>
 < 		<string>Snap to object bounding boxes</string>
 > 		<string>オブジェクトの境界ボックスにスナップ</string>
 < 		<string>Include bounding box mid points</string>
@@ -52,8 +52,6 @@
 > 		<string>ギャップとサイズにスナップ</string>
 < 		<string>Snap to shape key points</string>
 > 		<string>シェイプのキーポイントにスナップ</string>
-< 		<string>Project on axis</string>
-> 		<string>軸に投影</string>
 > 		<string>四角形</string>
 < 		<string>Create preset</string>
 > 		<string>プリセットの作成</string>
