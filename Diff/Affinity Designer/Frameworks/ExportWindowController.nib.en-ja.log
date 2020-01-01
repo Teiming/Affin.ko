@@ -1,9 +1,21 @@
+< 		<string>With bleed</string>
+> 		<string>裁ち切りあり</string>
+< 		<string>With bleed</string>
+> 		<string>裁ち切りあり</string>
+< 		<string>With bleed</string>
+> 		<string>裁ち切りあり</string>
+< 		<string>With bleed</string>
+> 		<string>裁ち切りあり</string>
 < 		<string>Don't export layers hidden by Export persona</string>
 > 		<string>書き出しペルソナによって非表示になっているレイヤーを書き出ししない</string>
 < 		<string>Save Affinity layers</string>
 > 		<string>Affinityレイヤーを保存</string>
 < 		<string>Export</string>
 > 		<string>書き出し</string>
+< 		<string>Include bleed</string>
+> 		<string>裁ち切りを含める</string>
+< 		<string>Include bleed</string>
+> 		<string>裁ち切りを含める</string>
 < 		<string>OtherViews</string>
 > 		<string>他の表示</string>
 < 		<string>Area:</string>
@@ -12,10 +24,12 @@
 > 		<string>警告! JPEG形式でサポートされる画像の最大寸法は65500ピクセルです。これに合わせて出力がスケーリングされます。</string>
 < 		<string>WARNING! The PNG format supports images with a maximum dimension of 32767 pixels. Your output will be scaled to fit.</string>
 > 		<string>警告! PNG形式でサポートされる画像の最大寸法は32767ピクセルです。これに合わせて出力がスケーリングされます。</string>
-< 		<string>WARNING! The PSD format supports images with a maximum dimension of 30,000 pixels. Your document is too large to export.</string>
-> 		<string>警告! PSD形式でサポートされる画像の最大寸法は30,000ピクセルです。書き出しするにはドキュメントが大きすぎます。</string>
 < 		<string>Calculating</string>
 > 		<string>計算中</string>
+< 		<string>Preview export when complete</string>
+> 		<string>完了時に書き出しをプレビュー</string>
+< 		<string>Pages:</string>
+> 		<string>ページ数:</string>
 < 		<string>Nearest Neighbour</string>
 > 		<string>最近傍</string>
 > 		<string>他の表示</string>
@@ -66,6 +80,15 @@
 < 		<string>Nearest Neighbour</string>
 > 		<string>最近傍</string>
 > 		<string>他の表示</string>
+> 		<string>バイリニア</string>
+> 		<string>バイキュービック</string>
+< 		<string>Lanczos 3 (separable)</string>
+> 		<string>Lanczos 3(分離可能)</string>
+< 		<string>Lanczos 3 (non-separable)</string>
+> 		<string>Lanczos 3(分離不可)</string>
+> 		<string>OtherViews</string>
+< 		<string>Nearest Neighbour</string>
+> 		<string>最近傍</string>
 > 		<string>バイリニア</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
@@ -141,6 +164,10 @@
 > 		<string>他の表示</string>
 < 		<string>Resample:</string>
 > 		<string>リサンプル:</string>
+> 		<string>サイズ:</string>
+> 		<string>プリセット:</string>
+< 		<string>Resample:</string>
+> 		<string>リサンプル:</string>
 > 		<string>書き出し</string>
 < 		<string>Estimated File Size:</string>
 > 		<string>推定ファイルサイズ:</string>
@@ -148,5 +175,21 @@
 > 		<string>その他</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
+< 		<string>Height</string>
+> 		<string>幅</string>
+> 		<string>幅</string>
+> 		<string>幅</string>
+> 		<string>幅</string>
+> 		<string>幅</string>
+> 		<string>幅</string>
+> 		<string>幅</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
+< 		<string>Width</string>
+> 		<string>高さ</string>
+> 		<string>高さ</string>
+> 		<string>高さ</string>
+> 		<string>高さ</string>
+> 		<string>高さ</string>
+> 		<string>高さ</string>
+> 		<string>高さ</string>
