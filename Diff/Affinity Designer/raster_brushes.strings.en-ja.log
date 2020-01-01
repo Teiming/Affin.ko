@@ -1,27 +1,95 @@
-< 	<string>Airbrush</string>
-> 	<string>エアーブラシ</string>
-< 	<string>Assorted</string>
-> 	<string>アソート</string>
+< 	<string>Airbrush 1</string>
+> 	<string>エアーブラシ1</string>
+< 	<string>Airbrush 2</string>
+> 	<string>エアーブラシ2</string>
+< 	<string>Airbrush 3</string>
+> 	<string>エアーブラシ3</string>
+< 	<string>Airbrush 4</string>
+> 	<string>エアーブラシ4</string>
+< 	<string>Airbrush 5</string>
+> 	<string>エアーブラシ5</string>
+< 	<string>Airbrush 6</string>
+> 	<string>エアーブラシ6</string>
+< 	<string>Airbrush 7</string>
+> 	<string>エアーブラシ7</string>
+< 	<string>Airbrush 8</string>
+> 	<string>エアーブラシ8</string>
+< 	<string>Almost Dry Roll</string>
+> 	<string>ほぼ乾いたロール</string>
+< 	<string>Ballpoint Pen</string>
+> 	<string>ボールペン</string>
 < 	<string>Basic</string>
 > 	<string>基本</string>
+< 	<string>Binary Inker One</string>
+> 	<string>バイナリインクローラー1</string>
+< 	<string>Binary Inker Two</string>
+> 	<string>バイナリインクローラー2</string>
+< 	<string>Bleeding Felt Pen</string>
+> 	<string>にじみフェルトペン</string>
+< 	<string>Bleeding Ink</string>
+> 	<string>にじみインク</string>
+< 	<string>Broken Bristles Oil</string>
+> 	<string>粗い刷毛による油彩</string>
+< 	<string>Broken Bristles Oil - Glazing</string>
+> 	<string>粗い刷毛による油彩 - グレージング</string>
+< 	<string>Broken Bristles Oil - Textured</string>
+> 	<string>粗い刷毛による油彩 - 凹凸あり</string>
+< 	<string>Broken Chilsel Pen</string>
+> 	<string>粗い彫刻刀形ペン</string>
+< 	<string>Broken Chisel Felt Pen</string>
+> 	<string>粗い彫刻刀形フェルトペン</string>
+< 	<string>Broken Round Felt Pen</string>
+> 	<string>粗い円形フェルトペン</string>
 < 	<string>Brush 1</string>
 > 	<string>ブラシ1</string>
 < 	<string>Brush 2</string>
 > 	<string>ブラシ2</string>
-< 	<string>Brush 3</string>
-> 	<string>ブラシ3</string>
-< 	<string>Brush 4</string>
-> 	<string>ブラシ4</string>
-< 	<string>Brush 5</string>
-> 	<string>ブラシ5</string>
-< 	<string>Brush 6</string>
-> 	<string>ブラシ6</string>
 < 	<string>Brush 7</string>
 > 	<string>ブラシ7</string>
 < 	<string>Brush 8</string>
 > 	<string>ブラシ8</string>
-< 	<string>Drawing</string>
-> 	<string>描画</string>
+< 	<string>Brush Pen</string>
+> 	<string>ブラシペン</string>
+< 	<string>Brush Tip Marker</string>
+> 	<string>ブラシ先端マーカー</string>
+< 	<string>Calligraphic Marker</string>
+> 	<string>筆マーカー</string>
+< 	<string>Calligraphic Pen 01</string>
+> 	<string>筆ペン01</string>
+< 	<string>Calligraphic Pen 02</string>
+> 	<string>筆ペン02</string>
+< 	<string>Carbon Copy</string>
+> 	<string>カーボンコピー</string>
+< 	<string>Carpenter's Pencil</string>
+> 	<string>建築用鉛筆</string>
+< 	<string>Chalkboard Tool</string>
+> 	<string>黒板ツール</string>
+< 	<string>Chalks and Pastels</string>
+> 	<string>チョークとパステル</string>
+< 	<string>Childish Pastel</string>
+> 	<string>子供用パステル</string>
+< 	<string>Chisel Shaped Wash</string>
+> 	<string>彫刻刀形の淡彩</string>
+< 	<string>Chisel Tip Marker</string>
+> 	<string>彫刻刀形先端マーカー</string>
+< 	<string>Classic Chisel Felt Pen</string>
+> 	<string>クラシックな彫刻刀形フェルトペン</string>
+< 	<string>Comics Ink Pen</string>
+> 	<string>コミック用インクペン</string>
+< 	<string>Conte Crayon</string>
+> 	<string>コンテクレヨン</string>
+< 	<string>Dense Fibers Oil</string>
+> 	<string>高密度繊維の油彩</string>
+< 	<string>Dense India Ink</string>
+> 	<string>高密度インドインク</string>
+< 	<string>Dense Oil Textured</string>
+> 	<string>凹凸のある濃い油彩</string>
+< 	<string>Dense Wash</string>
+> 	<string>濃い淡彩</string>
+< 	<string>Dense Watercolour</string>
+> 	<string>濃い水彩</string>
+< 	<string>Diluted Grainy</string>
+> 	<string>薄い紙目</string>
 < 	<string>Drawing 1</string>
 > 	<string>描画1</string>
 < 	<string>Drawing 2</string>
@@ -34,10 +102,22 @@
 > 	<string>描画5</string>
 < 	<string>Drawing 6</string>
 > 	<string>描画6</string>
+< 	<string>Dripping Ink Pen</string>
+> 	<string>液だれインクペン</string>
+< 	<string>Dry Flat Gouache</string>
+> 	<string>ドライフラットグワッシュ</string>
+< 	<string>Dry India Ink</string>
+> 	<string>ドライインドインク</string>
+< 	<string>Dynamic Hard Watercolour</string>
+> 	<string>ダイナミックな水彩(ハード)</string>
+< 	<string>Dynamic India Ink</string>
+> 	<string>ダイナミックインドインク</string>
+< 	<string>Dynamic Soft Watercolour</string>
+> 	<string>ダイナミックな水彩(ソフト)</string>
+< 	<string>Dynamic Square Chalk</string>
+> 	<string>ダイナミック角型チョーク</string>
 < 	<string>Effect 4</string>
 > 	<string>エフェクト4</string>
-< 	<string>Effect Brush</string>
-> 	<string>エフェクトブラシ</string>
 < 	<string>Effects</string>
 > 	<string>エフェクト</string>
 < 	<string>Effects 1</string>
@@ -46,6 +126,58 @@
 > 	<string>エフェクト2</string>
 < 	<string>Effects 3</string>
 > 	<string>エフェクト3</string>
+< 	<string>Exhausted Marker</string>
+> 	<string>かすれマーカー</string>
+< 	<string>Fat Gouache on Canvas</string>
+> 	<string>キャンバス上のフラットグワッシュ</string>
+< 	<string>Fine Fibers</string>
+> 	<string>細繊維</string>
+< 	<string>Fine Fibers Oil</string>
+> 	<string>細繊維の油彩</string>
+< 	<string>Fine Gouache</string>
+> 	<string>細かいグワッシュ</string>
+< 	<string>Fine Gritty Ink</string>
+> 	<string>ざらつきのある細目インク</string>
+< 	<string>Fine Spray</string>
+> 	<string>微細スプレー</string>
+< 	<string>Fine to Wide Smooth</string>
+> 	<string>細目-幅広(滑らか)</string>
+< 	<string>Fine to Wide Spongy</string>
+> 	<string>細目-幅広(吸収性)</string>
+< 	<string>Finest Spray Dense</string>
+> 	<string>超微細スプレー(濃密)</string>
+< 	<string>Finest Spray Rade</string>
+> 	<string>超微細スプレー(ライト)</string>
+< 	<string>Finest Spray Tilting</string>
+> 	<string>超微細スプレー(傾き検知)</string>
+< 	<string>Fluid Chisel Tip</string>
+> 	<string>滑らかな彫刻刀形先端</string>
+< 	<string>Fluid Ink Textured</string>
+> 	<string>凹凸のある液体インク</string>
+< 	<string>Fluid Quill</string>
+> 	<string>滑らかな羽ペン</string>
+< 	<string>Gouache On Paper</string>
+> 	<string>ペーパー上のグワッシュ</string>
+< 	<string>Gouache on Canvas</string>
+> 	<string>キャンバス上のグワッシュ</string>
+< 	<string>Gouaches</string>
+> 	<string>グワッシュ</string>
+< 	<string>Gradual Acrylic Cotton Paper</string>
+> 	<string>グラデーションアクリル(コットンペーパー)</string>
+< 	<string>Gradual Acrylic Sand Paper</string>
+> 	<string>グラデーションアクリル(サンドペーパー)</string>
+< 	<string>Grainy Acrylic</string>
+> 	<string>紙目アクリル</string>
+< 	<string>Grainy Airbrush</string>
+> 	<string>紙目エアーブラシ</string>
+< 	<string>Grainy Large</string>
+> 	<string>紙目(大)</string>
+< 	<string>Greasy Pencil</string>
+> 	<string>油性鉛筆</string>
+< 	<string>Gritty Pastel</string>
+> 	<string>ざらつきのあるパステル</string>
+< 	<string>Grunge</string>
+> 	<string>グランジ</string>
 < 	<string>Grunge 1</string>
 > 	<string>グランジ1</string>
 < 	<string>Grunge 2</string>
@@ -64,75 +196,157 @@
 > 	<string>グランジ8</string>
 < 	<string>Grunge 9</string>
 > 	<string>グランジ9</string>
-< 	<string>Grunge Brush</string>
-> 	<string>グランジブラシ</string>
-< 	<string>Heavy Paint</string>
-> 	<string>ヘビーペイント</string>
-< 	<string>Light Brush</string>
-> 	<string>ライトブラシ</string>
-< 	<string>Paint 1</string>
-> 	<string>ペイント1</string>
-< 	<string>Paint 10</string>
-> 	<string>ペイント10</string>
-< 	<string>Paint 11</string>
-> 	<string>ペイント11</string>
-< 	<string>Paint 12</string>
-> 	<string>ペイント12</string>
-< 	<string>Paint 13</string>
-> 	<string>ペイント13</string>
-< 	<string>Paint 14</string>
-> 	<string>ペイント14</string>
-< 	<string>Paint 15</string>
-> 	<string>ペイント15</string>
-< 	<string>Paint 2</string>
-> 	<string>ペイント2</string>
-< 	<string>Paint 3</string>
-> 	<string>ペイント3</string>
-< 	<string>Paint 4</string>
-> 	<string>ペイント4</string>
-< 	<string>Paint 5</string>
-> 	<string>ペイント5</string>
-< 	<string>Paint 6</string>
-> 	<string>ペイント6</string>
-< 	<string>Paint 7</string>
-> 	<string>ペイント7</string>
-< 	<string>Paint 8</string>
-> 	<string>ペイント8</string>
-< 	<string>Paint 9</string>
-> 	<string>ペイント9</string>
-< 	<string>Paint Brush</string>
-> 	<string>ペイントブラシ</string>
-< 	<string>Painting</string>
-> 	<string>ペインティング</string>
+< 	<string>India Ink Drops</string>
+> 	<string>インドインクドロップ</string>
+< 	<string>Ink Pen Large</string>
+> 	<string>インクペン(大)</string>
+< 	<string>Ink Pen Small</string>
+> 	<string>インクペン(小)</string>
+< 	<string>Ink Spatter</string>
+> 	<string>インク飛沫</string>
+< 	<string>Ink Spatter Tilting</string>
+> 	<string>インク飛沫(傾き検知)</string>
+< 	<string>Inks</string>
+> 	<string>インク</string>
+< 	<string>Large Fibers Oil</string>
+> 	<string>太繊維の油彩</string>
+< 	<string>Large Spray</string>
+> 	<string>大型スプレー</string>
+< 	<string>Large Square Marker</string>
+> 	<string>正方形マーカー(大)</string>
+< 	<string>Large Textured Gouache</string>
+> 	<string>凹凸のある大きなグワッシュ</string>
+< 	<string>Layout Pencil</string>
+> 	<string>レイアウト鉛筆</string>
+< 	<string>Leaves</string>
+> 	<string>リーフ</string>
+< 	<string>Light Pastel Tilting</string>
+> 	<string>ライトパステル(傾き検知)</string>
+< 	<string>Light Wash</string>
+> 	<string>ライトな淡彩</string>
+< 	<string>Low Absorption Bristles</string>
+> 	<string>低吸収性の剛毛</string>
+< 	<string>Markers</string>
+> 	<string>マーカー</string>
+< 	<string>Matte Acrylic</string>
+> 	<string>マットアクリル</string>
+< 	<string>Mechanical Pencil 4B</string>
+> 	<string>シャープペンシル4B</string>
+< 	<string>Mechanical Pencil 6B</string>
+> 	<string>シャープペンシル6B</string>
+< 	<string>Mechanical Pencil H</string>
+> 	<string>シャープペンシルH</string>
+< 	<string>Mechanical Pencil HB</string>
+> 	<string>シャープペンシルHB</string>
+< 	<string>Medium Cover Gouache</string>
+> 	<string>溶剤カバーグワッシュ</string>
+< 	<string>Medium Fibers Oil</string>
+> 	<string>中繊維の油彩</string>
+< 	<string>Medium India Ink</string>
+> 	<string>ミディアムインドインク</string>
+< 	<string>Natural Pencil 2B</string>
+> 	<string>普通の鉛筆2B</string>
+< 	<string>Natural Pencil 4B</string>
+> 	<string>普通の鉛筆4B</string>
+< 	<string>Natural Pencil H</string>
+> 	<string>普通の鉛筆H</string>
+< 	<string>Natural Pencil HB</string>
+> 	<string>普通の鉛筆HB</string>
+< 	<string>Oil Pastel</string>
+> 	<string>油彩パステル</string>
+< 	<string>Oils and Acrylics</string>
+> 	<string>油彩とアクリル</string>
+< 	<string>Paint Daubs Flat</string>
+> 	<string>ペイントドーブ(フラット)</string>
+< 	<string>Paint Daubs Textured</string>
+> 	<string>ペイントドーブ(凹凸あり)</string>
+< 	<string>Pencils and Charcoal</string>
+> 	<string>鉛筆と木炭</string>
+< 	<string>Pens</string>
+> 	<string>ペン</string>
+< 	<string>Procedural Spatter</string>
+> 	<string>手続き型飛沫</string>
+< 	<string>Rough Coal</string>
+> 	<string>切込炭</string>
+< 	<string>Rough Graphite Tilting</string>
+> 	<string>粗いグラファイト(傾き検知)</string>
 < 	<string>Round Brush</string>
-> 	<string>円形ブラシ</string>
+> 	<string>ラウンドブラシ</string>
+< 	<string>Round Chalk</string>
+> 	<string>丸型チョーク</string>
+< 	<string>Round Felt Pen</string>
+> 	<string>円形フェルトペン</string>
+< 	<string>Round Fluid Marker</string>
+> 	<string>円形液体マーカー</string>
 < 	<string>Round Light Brush</string>
-> 	<string>円形ライトブラシ</string>
+> 	<string>ラウンドライトブラシ</string>
+< 	<string>Round Pastel Tilting Rough</string>
+> 	<string>粗い丸型パステル(傾き検知)</string>
+< 	<string>Round Pastel Tilting Smooth</string>
+> 	<string>滑らかな丸型パステル(傾き検知)</string>
 < 	<string>Round Soft Brush</string>
-> 	<string>円形ソフトブラシ</string>
-< 	<string>Soft Brush</string>
-> 	<string>ソフトブラシ</string>
-< 	<string>Solid Brush</string>
-> 	<string>ソリッドブラシ</string>
-< 	<string>Spray 1</string>
-> 	<string>スプレー1</string>
-< 	<string>Spray 2</string>
-> 	<string>スプレー2</string>
-< 	<string>Spray 3</string>
-> 	<string>スプレー3</string>
-< 	<string>Spray 4</string>
-> 	<string>スプレー4</string>
-< 	<string>Spray 5</string>
-> 	<string>スプレー5</string>
-< 	<string>Spray 6</string>
-> 	<string>スプレー6</string>
-< 	<string>Spray 7</string>
-> 	<string>スプレー7</string>
-< 	<string>Spray 8</string>
-> 	<string>スプレー8</string>
-< 	<string>Spray-paints</string>
-> 	<string>スプレーペイント</string>
-< 	<string>Texture</string>
-> 	<string>テクスチャ</string>
-< 	<string>Texture Brush</string>
-> 	<string>テクスチャブラシ</string>
+> 	<string>ラウンドソフトブラシ</string>
+< 	<string>Round Textured Gouache</string>
+> 	<string>凹凸のある円形グワッシュ</string>
+< 	<string>Scatter Chalk</string>
+> 	<string>飛散性チョーク</string>
+< 	<string>Shading Chalk</string>
+> 	<string>陰影チョーク</string>
+< 	<string>Shading Marker</string>
+> 	<string>陰影マーカー</string>
+< 	<string>Simple Pen</string>
+> 	<string>シンプルペン</string>
+< 	<string>Simple Watercolor</string>
+> 	<string>シンプルな水彩</string>
+< 	<string>Slatter 2</string>
+> 	<string>飛沫2</string>
+< 	<string>Smooth Blending Acrylic</string>
+> 	<string>滑らかなブレンディングアクリル</string>
+< 	<string>Smooth Gouache on Canvas</string>
+> 	<string>キャンバス上の滑らかなグワッシュ</string>
+< 	<string>Smooth Round</string>
+> 	<string>滑らかな円形</string>
+< 	<string>Smooth Textured Stroke</string>
+> 	<string>凹凸のある滑らかなストローク</string>
+< 	<string>Smooth Watercolor</string>
+> 	<string>滑らかな水彩</string>
+< 	<string>Splatter 1</string>
+> 	<string>飛沫1</string>
+< 	<string>Sprays and Spatters</string>
+> 	<string>スプレーと飛沫</string>
+< 	<string>Square Chalk</string>
+> 	<string>角型チョーク</string>
+< 	<string>Square Felt Pen</string>
+> 	<string>正方形フェルトペン</string>
+< 	<string>Square Marker</string>
+> 	<string>正方形マーカー</string>
+< 	<string>Square Pastel</string>
+> 	<string>角型パステル</string>
+< 	<string>Square Pastel Tilting Rough</string>
+> 	<string>粗い角型パステル(傾き検知)</string>
+< 	<string>Square Pastel Tilting Smooth</string>
+> 	<string>滑らかな角型パステル(傾き検知)</string>
+< 	<string>Tapered Dense Gouache</string>
+> 	<string>先細の濃いグワッシュ</string>
+< 	<string>Tapered Hard</string>
+> 	<string>先細(硬)</string>
+< 	<string>Tapered Large</string>
+> 	<string>先細(大)</string>
+< 	<string>Textured Acrylic</string>
+> 	<string>凹凸のあるアクリル</string>
+< 	<string>Tilting Wash</string>
+> 	<string>淡彩(傾き検知)</string>
+< 	<string>Tone On Tone</string>
+> 	<string>トーンオントーン</string>
+< 	<string>Variable Felt Pen</string>
+> 	<string>濃淡フェルトペン</string>
+< 	<string>Watercolours</string>
+> 	<string>水彩</string>
+< 	<string>Watercolours Drops</string>
+> 	<string>水彩ドロップ</string>
+< 	<string>Wax Brush</string>
+> 	<string>ワックスブラシ</string>
+< 	<string>Wax Pastel</string>
+> 	<string>ワックスパステル</string>
+< 	<string>Wobbling Felt Pen</string>
+> 	<string>ぐらつきのあるフェルトペン</string>
