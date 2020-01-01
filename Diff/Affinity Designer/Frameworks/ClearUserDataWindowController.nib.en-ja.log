@@ -16,6 +16,8 @@
 > 		<string>ファイル書き出しプリセットのリセット</string>
 < 		<string>Reset Snapping Options Presets</string>
 > 		<string>スナップオプションプリセットのリセット</string>
+< 		<string>Reset Visibility Options</string>
+> 		<string>可視性オプションのリセット</string>
 < 		<string>Reset Fills</string>
 > 		<string>塗りつぶしのリセット</string>
 < 		<string>Reset Brushes</string>
@@ -28,19 +30,33 @@
 > 		<string>マクロライブラリのリセット</string>
 < 		<string>Reset Develop Presets</string>
 > 		<string>現像プリセットのリセット</string>
-< 		<string>Reset Crop Tool Presets</string>
-> 		<string>切り抜きツールプリセットのリセット</string>
 < 		<string>Reset Keyboard Shortcuts</string>
 > 		<string>キーボードショートカットのリセット</string>
 < 		<string>Reset Assets</string>
 > 		<string>アセットをリセット</string>
-< 		<string>Select All</string>
-> 		<string>すべて選択</string>
-< 		<string>Cancel</string>
-> 		<string>キャンセル</string>
-< 		<string>Clear</string>
-> 		<string>クリア</string>
-< 		<string>Deselect All</string>
-> 		<string>すべて選択解除</string>
+< 		<string>Reset Tool Presets</string>
+> 		<string>ツールプリセットのリセット</string>
 < 		<string>Reset Tone Map Presets</string>
 > 		<string>トーンマッププリセットのリセット</string>
+< 		<string>Select All</string>
+> 		<string>すべて選択</string>
+< 		<string>Deselect All</string>
+> 		<string>すべて選択解除</string>
+< 		<string>Clear</string>
+> 		<string>クリア</string>
+< 		<string>Cancel</string>
+> 		<string>キャンセル</string>
+< 		<string>Reset Grid Presets</string>
+> 		<string>グリッドプリセットのリセット</string>
+< 		<string>Reset Filler Text</string>
+> 		<string>フィラーテキストのリセット</string>
+< 		<string>Reset AutoCorrect</string>
+> 		<string>自動補正のリセット</string>
+< 		<string>Reset Abbreviations</string>
+> 		<string>省略形のリセット</string>
+< 		<string>Reset Table Formats</string>
+> 		<string>テーブルフォーマットのリセット</string>
+< 		<string>Reset Title Exceptions</string>
+> 		<string>タイトル例外のリセット</string>
+< 		<string>Reset Document Presets</string>
+> 		<string>ドキュメントプリセットのリセット</string>
