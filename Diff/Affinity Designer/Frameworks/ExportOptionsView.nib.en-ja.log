@@ -29,6 +29,8 @@
 > 		<string>相対座標</string>
 < 		<string>Embed metadata</string>
 > 		<string>メタデータを埋め込む</string>
+< 		<string>Include bleed</string>
+> 		<string>裁ち切りを含める</string>
 > 		<string>他の表示</string>
 < 		<string>Colour profile from name</string>
 > 		<string>名前に基づくカラープロファイル</string>
@@ -111,6 +113,8 @@
 > 		<string>PDF 1.5(Acrobat 6)</string>
 < 		<string>PDF 1.4 (Acrobat 5)</string>
 > 		<string>PDF 1.4(Acrobat 5)</string>
+< 		<string>Convert image colour spaces</string>
+> 		<string>画像の色空間を変換する</string>
 < 		<string>Embed  fonts:</string>
 > 		<string>フォントを埋め込む:</string>
 < 		<string>No Fonts</string>
@@ -125,6 +129,8 @@
 > 		<string>プロファイルを埋め込む</string>
 < 		<string>Honour spot colours</string>
 > 		<string>スポットカラーを有効化</string>
+< 		<string>Include bleed</string>
+> 		<string>裁ち切りを含める</string>
 < 		<string>Include colour bars</string>
 > 		<string>カラーバーを含む</string>
 < 		<string>Include crop marks</string>
@@ -135,8 +141,10 @@
 > 		<string>プリンターマークを含める</string>
 < 		<string>Include registration marks</string>
 > 		<string>登録マークを含む</string>
-< 		<string>Include bleed</string>
-> 		<string>にじみを含める</string>
+< 		<string>Include hyperlinks</string>
+> 		<string>ハイパーリンクを含める</string>
+< 		<string>Include layers</string>
+> 		<string>レイヤーを含める</string>
 < 		<string>Overprint black</string>
 > 		<string>オーバープリントブラック</string>
 < 		<string>Subset fonts</string>
@@ -209,6 +217,8 @@
 > 		<string>最小ファイルサイズ</string>
 < 		<string>Quality:</string>
 > 		<string>品質:</string>
+< 		<string>Include bleed</string>
+> 		<string>裁ち切りを含める</string>
 < 		<string>Unsupported properties</string>
 > 		<string>サポートされていないプロパティ</string>
 > 		<string>他の表示</string>
@@ -244,6 +254,8 @@
 > 		<string>相対座標を使用</string>
 < 		<string>Use tile patterns</string>
 > 		<string>タイルパターンを使用</string>
+< 		<string>Include bleed</string>
+> 		<string>裁ち切りを含める</string>
 < 		<string>Set viewBox</string>
 > 		<string>viewBoxを設定する</string>
 < 		<string>Longer text spans</string>
@@ -254,6 +266,10 @@
 > 		<string>PNG、GIF</string>
 < 		<string>Embed metadata</string>
 > 		<string>メタデータを埋め込む</string>
+< 		<string>Compression:</string>
+> 		<string>圧縮:</string>
+> 		<string>なし</string>
+> 		<string>OtherViews</string>
 > 		<string>空</string>
 < 		<string>Raster</string>
 > 		<string>ラスター</string>
@@ -304,46 +320,54 @@
 > 		<string>ボックス</string>
 < 		<string>An OCIO colour profile will be applied if one can be identified from the output filename</string>
 > 		<string>PSDベクトルマスクを処理しない多くのサードパーティアプリケーションでは、互換性モードが必要になります。結果として得られるファイルサイズは大きくなります。</string>
-< 		<string>Choose how to handle exporting adjustment layers. Affinity handles adjustments in a different way to other apps, so editable adjustments may appear different in other applications. Some third party applications may also not support adjustments.</string>
+< 		<string>Bleed will be applied</string>
 > 		<string>zip圧縮を使用して、結果として得られるファイルサイズを小さくします。ファイルは一部のサードパーティアプリケーションとの互換性が失われる可能性があります。</string>
-< 		<string>Choose how to handle exporting gradients. Affinity handles gradients in a different way to other apps, so editable gradients may appear different in other applications.</string>
+< 		<string>Bleed will be applied</string>
 > 		<string>すべての画像ピクセル(RGB、アルファ[A]、輝度[Y]、色度[RY,BY]の各チャンネルを含む)で使用するピクセルデータタイプを選択します</string>
-< 		<string>Choose how to handle exporting layer effects. Affinity handles layer effects in a different way to other apps, so editable layer effects may appear different in other applications. Some third party applications may also not support layer effects.</string>
+< 		<string>Bleed will be applied</string>
 > 		<string>すべての空間ピクセル(XYZ、Z、ZBackを含む)で使用するピクセルデータタイプを選択します</string>
-< 		<string>Choose how to handle exporting vector strokes. Some third party applications may not support vector strokes even if they support vector masks.</string>
+< 		<string>Bleed will be applied</string>
 > 		<string>トップレベルのクリッピングカーブをベクトルパスに変換</string>
-< 		<string>Choose the pixel data type to use for all image pixels (inluding RGB, Alpha [A], Luminance [Y] and Chroma [RY,BY] channels)</string>
+< 		<string>Choose how to handle exporting adjustment layers. Affinity handles adjustments in a different way to other apps, so editable adjustments may appear different in other applications. Some third party applications may also not support adjustments.</string>
 > 		<string>マルチチャンネルファイルとして書き出し、チャンネルの名前付けに基づいてレイヤーをチャンネルに分割します</string>
+< 		<string>Choose how to handle exporting gradients. Affinity handles gradients in a different way to other apps, so editable gradients may appear different in other applications.</string>
+> 		<string>メタデータが埋め込まれます</string>
+< 		<string>Choose how to handle exporting layer effects. Affinity handles layer effects in a different way to other apps, so editable layer effects may appear different in other applications. Some third party applications may also not support layer effects.</string>
+> 		<string>メタデータが埋め込まれます</string>
+< 		<string>Choose how to handle exporting vector strokes. Some third party applications may not support vector strokes even if they support vector masks.</string>
+> 		<string>メタデータが埋め込まれます</string>
+< 		<string>Choose the pixel data type to use for all image pixels (inluding RGB, Alpha [A], Luminance [Y] and Chroma [RY,BY] channels)</string>
+> 		<string>メタデータが埋め込まれます</string>
 < 		<string>Choose the pixel data type to use for all other pixels (inluding unknown channels)</string>
 > 		<string>メタデータが埋め込まれます</string>
 < 		<string>Choose the pixel data type to use for all spacial pixels (inluding XYZ, Z and ZBack)</string>
-> 		<string>メタデータが埋め込まれます</string>
-< 		<string>Chose how to handle exporting advanced blending options. Some third party applications may not support advanced blending options.</string>
-> 		<string>メタデータが埋め込まれます</string>
-< 		<string>Chose the resampler to use when resizing raster elements</string>
-> 		<string>メタデータが埋め込まれます</string>
-< 		<string>Compatibility mode is required for many third party applications that do not handle PSD vector masks. Results in larger file sizes.</string>
-> 		<string>メタデータが埋め込まれます</string>
-< 		<string>Convert top level clipping cuves to vector paths</string>
 > 		<string>ラスター要素のサイズ変更時に使用するリサンプラーを決定します</string>
-< 		<string>Export as a multi channel file, where layers are split into channels based on channel naming</string>
+< 		<string>Chose how to handle exporting advanced blending options. Some third party applications may not support advanced blending options.</string>
 > 		<string>レイヤーコンテンツ(ラスターおよびベクトルマスク、レイヤー効果および調整など)をラスタライズします</string>
-< 		<string>Export layers with indeterminable channels as a single channel base on luminance</string>
+< 		<string>Chose the resampler to use when resizing raster elements</string>
 > 		<string>不確定なチャンネルを輝度に基づく単一のチャネルとして用いてレイヤーを書き出します</string>
-< 		<string>Metadata will be embedded</string>
+< 		<string>Compatibility mode is required for many third party applications that do not handle PSD vector masks. Results in larger file sizes.</string>
 > 		<string>他のすべてのピクセル(不明なチャンネルを含む)で使用するピクセルデータタイプを選択します</string>
-< 		<string>Metadata will be embedded</string>
+< 		<string>Convert top level clipping curves to vector paths</string>
 > 		<string>出力ファイル名に基づいて見つけたOCIOカラープロファイルが適用されます</string>
-< 		<string>Metadata will be embedded</string>
+< 		<string>Export as a multi channel file, where layers are split into channels based on channel naming</string>
 > 		<string>書き出し用の高度なブレンディングオプションの処理方法を決定します。一部のサードパーティアプリケーションでは、高度なブレンディングオプションがサポートされていない場合があります。</string>
-< 		<string>Metadata will be embedded</string>
+< 		<string>Export layers with indeterminable channels as a single channel base on luminance</string>
 > 		<string>書き出し用グラデーションの処理方法を決定します。Affinityではグラデーションの処理方法が他のアプリとは異なるので、編集可能なグラデーションは他のアプリケーションで同じように表示されない可能性があります。</string>
 < 		<string>Metadata will be embedded</string>
 > 		<string>書き出し用ベクトルストロークの処理方法を決定します。一部のサードパーティアプリケーションでは、たとえベクトルマスクがサポートされていても、ベクトルストロークはサポートされていない場合があります。</string>
-< 		<string>Rasterise layer contents (including raster and vector masks, layer effects and adjustments)</string>
+< 		<string>Metadata will be embedded</string>
 > 		<string>書き出し用レイヤー効果の処理方法を決定します。Affinityではレイヤー効果の処理方法が他のアプリとは異なるので、編集可能なレイヤー効果は他のアプリケーションで同じように表示されない可能性があります。一部のサードパーティアプリケーションでは、レイヤー効果がサポートされていない場合もあります。</string>
-< 		<string>Selection contains multiple DPI settings</string>
+< 		<string>Metadata will be embedded</string>
 > 		<string>書き出し用調整レイヤーの処理方法を決定します。Affinityでは調整の処理方法が他のアプリとは異なるので、編集可能な調整は他のアプリケーションで同じように表示されない可能性があります。一部のサードパーティアプリケーションでは、調整がサポートされていない場合もあります。</string>
+< 		<string>Metadata will be embedded</string>
+> 		<string>裁ち切りが適用されます</string>
+< 		<string>Metadata will be embedded</string>
+> 		<string>裁ち切りが適用されます</string>
+< 		<string>Rasterise layer contents (including raster and vector masks, layer effects and adjustments)</string>
+> 		<string>裁ち切りが適用されます</string>
+< 		<string>Selection contains multiple DPI settings</string>
+> 		<string>裁ち切りが適用されます</string>
 < 		<string>Selection contains multiple DPI settings</string>
 > 		<string>選択範囲にラスターとしての書き出しに関する複数のオプションが含まれています</string>
 < 		<string>Selection contains multiple ICC embedding options</string>
@@ -376,32 +400,40 @@
 > 		<string>選択範囲に複数のプログレッシブ設定が含まれています</string>
 < 		<string>Selection contains multiple embed metadata options</string>
 > 		<string>選択範囲に複数のマットカラーが含まれています</string>
-< 		<string>Selection contains multiple export as raster options</string>
+< 		<string>Selection contains multiple embed metadata options</string>
 > 		<string>選択範囲に複数のマットカラーが含まれています</string>
-< 		<string>Selection contains multiple gradient strategies</string>
+< 		<string>Selection contains multiple embed metadata options</string>
 > 		<string>選択範囲に複数のライン方式が含まれています</string>
-< 		<string>Selection contains multiple layer effects strategies</string>
+< 		<string>Selection contains multiple embed metadata options</string>
 > 		<string>選択範囲に複数のラスタライズ設定が含まれています</string>
-< 		<string>Selection contains multiple line strategies</string>
+< 		<string>Selection contains multiple embed metadata options</string>
 > 		<string>選択範囲に複数のリサンプラーが含まれています</string>
-< 		<string>Selection contains multiple matte colours</string>
+< 		<string>Selection contains multiple export as raster options</string>
 > 		<string>選択範囲に複数のリサンプラータイプが含まれています</string>
-< 		<string>Selection contains multiple matte colours</string>
+< 		<string>Selection contains multiple gradient strategies</string>
 > 		<string>選択範囲に複数のリサンプラータイプが含まれています</string>
-< 		<string>Selection contains multiple palette types</string>
+< 		<string>Selection contains multiple layer effects strategies</string>
 > 		<string>選択範囲に複数のリサンプラータイプが含まれています</string>
-< 		<string>Selection contains multiple palettise choices</string>
+< 		<string>Selection contains multiple line strategies</string>
 > 		<string>選択範囲に複数のレイヤー効果方式が含まれています</string>
-< 		<string>Selection contains multiple pixel formats</string>
+< 		<string>Selection contains multiple matte colours</string>
 > 		<string>選択範囲に複数の互換性モードオプションが含まれています</string>
-< 		<string>Selection contains multiple pixel types</string>
+< 		<string>Selection contains multiple matte colours</string>
 > 		<string>選択範囲に複数の品質値が含まれています</string>
-< 		<string>Selection contains multiple pixel types</string>
+< 		<string>Selection contains multiple palette types</string>
 > 		<string>選択範囲に複数の品質値が含まれています</string>
-< 		<string>Selection contains multiple pixel types</string>
+< 		<string>Selection contains multiple palettise choices</string>
 > 		<string>選択範囲に複数の圧縮タイプが含まれています</string>
-< 		<string>Selection contains multiple progressive settings</string>
+< 		<string>Selection contains multiple pixel formats</string>
 > 		<string>選択範囲に複数の圧縮設定が含まれています</string>
+< 		<string>Selection contains multiple pixel types</string>
+> 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
+< 		<string>Selection contains multiple pixel types</string>
+> 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
+< 		<string>Selection contains multiple pixel types</string>
+> 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
+< 		<string>Selection contains multiple progressive settings</string>
+> 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
 < 		<string>Selection contains multiple quality values</string>
 > 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
 < 		<string>Selection contains multiple quality values</string>
@@ -416,6 +448,10 @@
 > 		<string>選択範囲に複数の減色の選択肢が含まれています</string>
 < 		<string>Selection contains multiple resamplers</string>
 > 		<string>選択範囲に複数の色数が含まれています</string>
+< 		<string>Selection contains multiple settings</string>
+> 		<string>選択範囲に複数の設定が含まれています</string>
+< 		<string>Selection contains multiple settings</string>
+> 		<string>選択範囲に複数の設定が含まれています</string>
 < 		<string>Selection contains multiple settings</string>
 > 		<string>選択範囲に複数の設定が含まれています</string>
 < 		<string>Selection contains multiple settings</string>
