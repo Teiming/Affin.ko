@@ -15,11 +15,11 @@
 < 		<string>Copy Colour to Clipboard as Hex</string>
 > 		<string>色を16進数としてクリップボードにコピー</string>
 < 		<string>Add Colour to Swatch</string>
-> 		<string>色を見本に追加</string>
+> 		<string>色をスウォッチに追加</string>
 < 		<string>Add Chord to Swatch</string>
-> 		<string>コードを見本に追加</string>
+> 		<string>コードをスウォッチに追加</string>
 < 		<string>Add Chord to Swatch</string>
-> 		<string>コードを見本に追加</string>
+> 		<string>コードをスウォッチに追加</string>
 < 		<string>Square</string>
 > 		<string>スクエア</string>
 < 		<string>Tints</string>
@@ -41,3 +41,5 @@
 > 		<string>他の表示</string>
 < 		<string>Greyscale</string>
 > 		<string>グレースケール</string>
+< 		<string>Lock Colourspace</string>
+> 		<string>色空間のロック</string>
