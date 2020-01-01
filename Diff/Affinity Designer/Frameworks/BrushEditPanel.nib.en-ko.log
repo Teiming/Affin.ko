@@ -6,22 +6,40 @@
 > 		<string>재설정</string>
 < 		<string>Flow:</string>
 > 		<string>흐름:</string>
-< 		<string>System</string>
-> 		<string>시스템</string>
 < 		<string>Size:</string>
 > 		<string>크기:</string>
 < 		<string>Hardness:</string>
 > 		<string>굳기:</string>
+< 		<string>Spacing:</string>
+> 		<string>간격:</string>
 < 		<string>Rotation:</string>
 > 		<string>회전:</string>
 < 		<string>Blend Mode:</string>
 > 		<string>혼합 모드:</string>
+< 		<string>Wet edges:</string>
+> 		<string>젖은 모서리:</string>
+< 		<string>Don't set wet edges</string>
+> 		<string>젖은 모서리 설정하지 않음</string>
+< 		<string>Set wet edges "on"</string>
+> 		<string>젖은 모서리 켜기</string>
+< 		<string>Set wet edges "off"</string>
+> 		<string>젖은 모서리 끄기</string>
+< 		<string>Don't set blend mode</string>
+> 		<string>혼합 모드 설정하지 않음</string>
+< 		<string>Clone brush tool</string>
+> 		<string>복제 브러시 도구</string>
 < 		<string>Custom</string>
 > 		<string>사용자화</string>
 < 		<string>General</string>
 > 		<string>일반</string>
+< 		<string>Saturation Jitter:</string>
+> 		<string>채도 일그러짐:</string>
+< 		<string>Luminosity Jitter:</string>
+> 		<string>명도 일그러짐:</string>
 < 		<string>None</string>
 > 		<string>없음</string>
+< 		<string>Random</string>
+> 		<string>무작위</string>
 < 		<string>Pressure</string>
 > 		<string>압력</string>
 < 		<string>Angle</string>
@@ -46,22 +64,62 @@
 > 		<string>속도 (반전)</string>
 < 		<string>Velocity (Inverse)</string>
 > 		<string>속도 (반전)</string>
+< 		<string>Flow Jitter:</string>
+> 		<string>흐름 일그러짐:</string>
+< 		<string>Size Jitter:</string>
+> 		<string>크기 일그러짐:</string>
+< 		<string>Rotation Jitter:</string>
+> 		<string>회전 일그러짐:</string>
+< 		<string>Scatter X:</string>
+> 		<string>가로 흩어짐:</string>
+< 		<string>Scatter Y:</string>
+> 		<string>세로 흩어짐:</string>
 < 		<string>Velocity (Inverse)</string>
 > 		<string>속도 (반전)</string>
 < 		<string>Velocity (Inverse)</string>
 > 		<string>속도 (반전)</string>
 < 		<string>Velocity (Inverse)</string>
 > 		<string>속도 (반전)</string>
+< 		<string>Dynamics</string>
+> 		<string>역동</string>
 < 		<string>Mode:</string>
 > 		<string>모드:</string>
-< 		<string>Add</string>
-> 		<string>추가</string>
 < 		<string>Remove</string>
 > 		<string>지우기</string>
+< 		<string>Scale:</string>
+> 		<string>배율:</string>
+< 		<string>Final</string>
+> 		<string>마지막</string>
+< 		<string>Set Texture</string>
+> 		<string>질감 설정</string>
 < 		<string>Invert</string>
 > 		<string>반전</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>속도 (반전)</string>
+< 		<string>Add</string>
+> 		<string>추가</string>
 < 		<string>Texture</string>
 > 		<string>질감</string>
+< 		<string>Sub Brushes</string>
+> 		<string>보조 브러시</string>
+< 		<string>Drawing</string>
+> 		<string>그리기</string>
+< 		<string>Blending</string>
+> 		<string>혼합하기</string>
+< 		<string>Blend</string>
+> 		<string>혼합</string>
+< 		<string>Erase</string>
+> 		<string>지우기</string>
+< 		<string>Edit</string>
+> 		<string>편집</string>
+< 		<string>Sync size</string>
+> 		<string>크기 동기화</string>
+< 		<string>Sync spacing</string>
+> 		<string>간격 동기화</string>
+< 		<string>Add Round</string>
+> 		<string>둥근 브러시 추가</string>
+< 		<string>Sub Brushes</string>
+> 		<string>보조 브러시</string>
 < 		<string>Head Offset:</string>
 > 		<string>머리 편차:</string>
 < 		<string>Tail Offset:</string>

@@ -1,5 +1,5 @@
-< 		<string>Brush Manager</string>
-> 		<string>ブラシの管理</string>
+< 		<string>Brush Editor</string>
+> 		<string>ブラシエディタ</string>
 < 		<string>Close</string>
 > 		<string>閉じる</string>
 < 		<string>Duplicate</string>
@@ -258,8 +258,6 @@
 > 		<string>ベーステクスチャ:</string>
 < 		<string>Mode:</string>
 > 		<string>モード:</string>
-< 		<string>Add</string>
-> 		<string>追加</string>
 < 		<string>Remove</string>
 > 		<string>削除</string>
 < 		<string>Scale:</string>
@@ -275,8 +273,52 @@
 > 		<string>削除</string>
 < 		<string>Invert</string>
 > 		<string>反転</string>
+> 		<string>なし</string>
+> 		<string>OtherViews</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+< 		<string>Add</string>
+> 		<string>追加</string>
 < 		<string>Texture</string>
 > 		<string>テクスチャ</string>
+< 		<string>Sub Brushes</string>
+> 		<string>サブブラシ</string>
+< 		<string>Drawing</string>
+> 		<string>描画</string>
+< 		<string>Blending</string>
+> 		<string>ブレンディング</string>
+< 		<string>Blend</string>
+> 		<string>ブレンド</string>
+< 		<string>Erase</string>
+> 		<string>消去</string>
+< 		<string>At current nozzle</string>
+> 		<string>現在のノズル</string>
+< 		<string>Behind current nozzle</string>
+> 		<string>現在のノズルの後方</string>
+< 		<string>At end of stroke</string>
+> 		<string>境界線の終端</string>
+> 		<string>削除</string>
+< 		<string>Edit</string>
+> 		<string>編集</string>
+< 		<string>Add Bitmap</string>
+> 		<string>ビットマップを追加</string>
+< 		<string>Sync size</string>
+> 		<string>サイズを同期</string>
+< 		<string>Sync spacing</string>
+> 		<string>間隔を同期</string>
+< 		<string>Add Round</string>
+> 		<string>円形ブラシを追加</string>
+< 		<string>Sub Brushes</string>
+> 		<string>サブブラシ</string>
 < 		<string>Head Offset:</string>
 > 		<string>ヘッドオフセット:</string>
 < 		<string>Tail Offset:</string>
