@@ -1,5 +1,29 @@
-< 		<string>Underline and Strikethrough</string>
-> 		<string>下線と打ち消し線</string>
+< 		<string>Add</string>
+> 		<string>追加</string>
+> 		<string>左</string>
+< 		<string>Text Cell</string>
+> 		<string>テキストセル</string>
+> 		<string>右</string>
+> 		<string>テキストセル</string>
+> 		<string>文字</string>
+> 		<string>テキストセル</string>
+> 		<string>テキストセル</string>
+< 		<string>Type:</string>
+> 		<string>タイプ:</string>
+< 		<string>Hyphenation:</string>
+> 		<string>ハイフネーション:</string>
+< 		<string>Typography language:</string>
+> 		<string>タイポグラフィ言語:</string>
+< 		<string>Typography script:</string>
+> 		<string>タイポグラフィスクリプト:</string>
+< 		<string>Spelling:</string>
+> 		<string>スペル設定:</string>
+< 		<string>No break</string>
+> 		<string>区切りなし</string>
+< 		<string>Optical Alignment</string>
+> 		<string>視覚的配置</string>
+< 		<string>Decorations</string>
+> 		<string>装飾</string>
 < 		<string>Typography</string>
 > 		<string>タイポグラフィ</string>
 < 		<string>Positioning and Transform</string>
@@ -12,29 +36,47 @@
 > 		<string>Leading Override</string>
 > 		<string>Leading Override</string>
 > 		<string>Leading Override</string>
+< 		<string>Cell Stroke</string>
+> 		<string>カーニング</string>
 < 		<string>Character Style</string>
 > 		<string>カーニング</string>
-< 		<string>Horizontal Scale</string>
+< 		<string>Character Variants</string>
 > 		<string>カーニング</string>
+< 		<string>Font Collection</string>
+> 		<string>スタイルセット</string>
+< 		<string>Font Family</string>
+> 		<string>スワッシュ字形</string>
+< 		<string>Font Size</string>
+> 		<string>セル境界線</string>
+< 		<string>Font Style</string>
+> 		<string>トラッキング</string>
 < 		<string>Horizontal Scale</string>
-> 		<string>カーニング</string>
+> 		<string>トラッキング</string>
+< 		<string>Horizontal Scale</string>
+> 		<string>トラッキング</string>
 < 		<string>Kerning</string>
-> 		<string>トラッキング</string>
-> 		<string>トラッキング</string>
-> 		<string>トラッキング</string>
+> 		<string>フォントコレクション</string>
+> 		<string>フォントサイズ</string>
+> 		<string>フォントスタイル</string>
 < 		<string>Leading Override</string>
-> 		<string>ベースライン</string>
+> 		<string>フォントファミリ</string>
 < 		<string>Leading Override</string>
 > 		<string>ベースライン</string>
 < 		<string>Leading Override</string>
 > 		<string>ベースライン</string>
 < 		<string>Shear</string>
+> 		<string>ベースライン</string>
+> 		<string>上付き/下付き文字</string>
+< 		<string>Stylistic Sets</string>
 > 		<string>傾斜</string>
+< 		<string>Super/Subscript</string>
 > 		<string>傾斜</string>
-< 		<string>Tracking</string>
+< 		<string>Swash</string>
 > 		<string>文字スタイル</string>
+< 		<string>Tracking</string>
 > 		<string>横の倍率</string>
 > 		<string>横の倍率</string>
+> 		<string>異体字</string>
 < 		<string>Vertical Scale</string>
 > 		<string>縦の倍率</string>
 < 		<string>Vertical Scale</string>
