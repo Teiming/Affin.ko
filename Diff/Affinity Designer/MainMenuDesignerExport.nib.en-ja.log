@@ -126,14 +126,18 @@
 > 		<string>選択解除</string>
 < 		<string>Rotate Right</string>
 > 		<string>右に回転</string>
+< 		<string>Check for Updates</string>
+> 		<string>アップデートの有無をチェック</string>
 < 		<string>Pixels (Retina)</string>
 > 		<string>ピクセル(Retina)</string>
 < 		<string>Zoom to Selection</string>
 > 		<string>選択範囲を拡大</string>
 < 		<string>Select Previous</string>
 > 		<string>前の要素を選択</string>
-< 		<string>Draw Persona</string>
-> 		<string>描画ペルソナ</string>
+< 		<string>Zoom to Width</string>
+> 		<string>幅に合わせてズーム</string>
+< 		<string>Designer Persona</string>
+> 		<string>デザイナーペルソナ</string>
 < 		<string>Support...</string>
 > 		<string>サポート...</string>
 < 		<string>Clip to Canvas</string>
@@ -144,6 +148,8 @@
 > 		<string>ペースト</string>
 < 		<string>Tutorial...</string>
 > 		<string>チュートリアル...</string>
+< 		<string>Lock Guides</string>
+> 		<string>ガイドをロック</string>
 < 		<string>Outline</string>
 > 		<string>アウトライン</string>
 < 		<string>Dock Tools</string>
@@ -172,6 +178,8 @@
 < 		<string>View</string>
 > 		<string>ビュー</string>
 > 		<string>ビュー</string>
+> 		<string>ズーム</string>
+> 		<string>ズーム</string>
 < 		<string>View Mode</string>
 > 		<string>ビューモード</string>
 > 		<string>ビューモード</string>
