@@ -12,10 +12,22 @@
 > 		<string>ハードウェア値</string>
 < 		<string>Interleave Value</string>
 > 		<string>インターリーブ値</string>
+< 		<string>Never loaded</string>
+> 		<string>一度も読み込まれていません</string>
 < 		<string>Planar Value</string>
 > 		<string>平面値</string>
+< 		<string>Never loaded</string>
+> 		<string>一度も読み込まれていません</string>
+< 		<string>View Value</string>
+> 		<string>値を表示</string>
 < 		<string>Virtual Value</string>
 > 		<string>仮想値</string>
+< 		<string>Latest version:</string>
+> 		<string>最新のバージョン:</string>
+< 		<string>Original version:</string>
+> 		<string>元のバージョン:</string>
+< 		<string>View:</string>
+> 		<string>ビュー:</string>
 < 		<string>Count</string>
 > 		<string>カウント</string>
 < 		<string>Record Interactions</string>
@@ -28,8 +40,8 @@
 > 		<string>パディングの表示:</string>
 < 		<string>Benchmark</string>
 > 		<string>ベンチマーク</string>
-< 		<string>Hardware</string>
-> 		<string>ハードウェア</string>
+< 		<string>Hardware:</string>
+> 		<string>ハードウェア:</string>
 < 		<string>Virtual:</string>
 > 		<string>仮想:</string>
 < 		<string>Format:</string>
