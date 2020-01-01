@@ -1,6 +1,10 @@
 < 	<string>Add Document Snapshot</string>
 > 	<string>ドキュメントのスナップショットを追加</string>
 < 	<string>Add</string>
+> 	<string>加算</string>
+< 	<string>Add</string>
+> 	<string>加算</string>
+< 	<string>Add</string>
 > 	<string>追加</string>
 < 	<string>Add</string>
 > 	<string>追加</string>
@@ -54,6 +58,10 @@
 > 	<string>整列</string>
 < 	<string>Alignment</string>
 > 	<string>整列</string>
+< 	<string>Always Show Grid Origin</string>
+> 	<string>グリッド起点を常に表示</string>
+< 	<string>Anchor Properties...</string>
+> 	<string>アンカープロパティ...</string>
 < 	<string>Apply</string>
 > 	<string>適用</string>
 < 	<string>Arrange</string>
@@ -84,6 +92,14 @@
 > 	<string>自動ホワイトバランス</string>
 < 	<string>Auto White Balance</string>
 > 	<string>自動ホワイトバランス</string>
+< 	<string>AutoFit Column to Contents</string>
+> 	<string>コンテンツに合わせて列を自動調整</string>
+< 	<string>AutoFit Column(s)</string>
+> 	<string>列を自動調整</string>
+< 	<string>AutoFit Row to Contents</string>
+> 	<string>コンテンツに合わせて行を自動調整</string>
+< 	<string>AutoFit Row(s)</string>
+> 	<string>行を自動調整</string>
 < 	<string>Back One</string>
 > 	<string>1つ後方へ</string>
 < 	<string>Back One</string>
@@ -92,16 +108,14 @@
 > 	<string>1つ後方へ</string>
 < 	<string>Back One</string>
 > 	<string>1つ後方へ</string>
+< 	<string>Baseline Grid</string>
+> 	<string>ベースライングリッド</string>
 < 	<string>Before / After</string>
 > 	<string>前 / 後</string>
 < 	<string>Before</string>
 > 	<string>前</string>
-< 	<string>Brush</string>
-> 	<string>ブラシ</string>
 < 	<string>Cancel</string>
 > 	<string>キャンセル</string>
-< 	<string>Check out some of the cool artwork being created in Affinity Designer! Why not share your work with us?
-> 	<string>Affinity Designerで作成されているすばらしいアートワークのいくつかをご紹介しています。あなたの作品を共有してみませんか?
 < 	<string>Choose the flow of the brush</string>
 > 	<string>ブラシの流量を選択します</string>
 < 	<string>Choose the hardness of the brush</string>
@@ -120,28 +134,42 @@
 > 	<string>クリック</string>
 < 	<string>Clipping Alarms</string>
 > 	<string>クリッピングアラーム</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine</string>
-> 	<string>合成</string>
-< 	<string>Combine toolbar button</string>
-> 	<string>合成ツールバーボタン</string>
-< 	<string>Create a new document by pressing 'New Document' below - or open existing work using File -&gt; Open. Click a sample below to download and view it. Visit our forum or tag with #madeinaffinity in the usual places. We'd love to see what you're up to...</string>
-> 	<string>下の[新規ドキュメント]を押してドキュメントを新規作成するか、[ファイル] -&gt; [開く]から既存のドキュメントを開いてください。下のサンプルをクリックするとダウンロードして参照できます。フォーラムに参加したり、SNSで#madeinaffinityのタグを付けて作品を投稿してください。ご参加をお待ちしています。</string>
+< 	<string>Create Into Grid Plane</string>
+> 	<string>グリッドプレーン内に作成</string>
+< 	<string>Create Into Grid Plane</string>
+> 	<string>グリッドプレーン内に作成</string>
+< 	<string>Cycle Selection Box</string>
+> 	<string>選択ボックスを切り替え</string>
 < 	<string>Cycle Snapping Planes</string>
 > 	<string>スナップ面の切り替え</string>
 < 	<string>Cycle View Mode</string>
 > 	<string>サイクルビューモード</string>
 < 	<string>Defaults</string>
 > 	<string>デフォルト</string>
+< 	<string>Delete Column</string>
+> 	<string>列を削除</string>
+< 	<string>Delete Column(s)</string>
+> 	<string>列を削除</string>
+< 	<string>Delete Row</string>
+> 	<string>行を削除</string>
+< 	<string>Delete Row(s)</string>
+> 	<string>行を削除</string>
 < 	<string>Desaturate</string>
 > 	<string>彩度を下げる</string>
 < 	<string>Deselect</string>
 > 	<string>選択解除</string>
 < 	<string>Deselect</string>
 > 	<string>選択解除</string>
+< 	<string>Designer Persona</string>
+> 	<string>デザイナーペルソナ</string>
+< 	<string>Designer Persona</string>
+> 	<string>デザイナーペルソナ</string>
+< 	<string>Designer Persona</string>
+> 	<string>デザイナーペルソナ</string>
+< 	<string>Designer Persona.</string>
+> 	<string>デザイナーペルソナ。</string>
+< 	<string>Designer</string>
+> 	<string>デザイナー</string>
 < 	<string>Develop Persona</string>
 > 	<string>現像ペルソナ</string>
 < 	<string>Develop Persona</string>
@@ -200,38 +228,62 @@
 > 	<string>除算</string>
 < 	<string>Divide</string>
 > 	<string>除算</string>
-< 	<string>Divide toolbar button</string>
-> 	<string>除算ツールバーボタン</string>
+< 	<string>Divide</string>
+> 	<string>除算</string>
 < 	<string>Drag</string>
 > 	<string>ドラッグ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw Persona</string>
-> 	<string>描画ペルソナ</string>
-< 	<string>Draw</string>
-> 	<string>描画</string>
+< 	<string>Edit Field...</string>
+> 	<string>フィールドを編集...</string>
+< 	<string>Edit Grid</string>
+> 	<string>グリッドを編集</string>
+< 	<string>Edit Grid</string>
+> 	<string>グリッドを編集</string>
+< 	<string>Edit In Grid Plane</string>
+> 	<string>グリッドプレーンで編集</string>
+< 	<string>Edit In Grid Plane</string>
+> 	<string>グリッドプレーンで編集</string>
+< 	<string>Edit Wrap Outline</string>
+> 	<string>回り込みアウトラインを編集</string>
+< 	<string>Edit Wrap Outline</string>
+> 	<string>回り込みアウトラインを編集</string>
 < 	<string>Enabling "Save With History" means that anybody you send this document to can see everything you did to create it.
 > 	<string>"履歴付きで保存"を有効にすると、このドキュメントを受け取ったすべてのユーザーは、このドキュメントの作成のために実行されたすべての操作を確認できます。
 < 	<string>Enhancement</string>
 > 	<string>強調</string>
 < 	<string>Enter a name for the snapshot</string>
 > 	<string>スナップショットの名前を入力します</string>
+< 	<string>Evenly Distribute Columns</string>
+> 	<string>列を均等配置</string>
+< 	<string>Evenly Distribute Rows</string>
+> 	<string>行を均等配置</string>
+< 	<string>Expand Field</string>
+> 	<string>フィールドを拡大</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export Persona</string>
-> 	<string>ペルソナを書き出し</string>
+> 	<string>書き出しペルソナ</string>
 < 	<string>Export</string>
 > 	<string>書き出し</string>
 < 	<string>Fade %@…</string>
 > 	<string>%@をフェード…</string>
 < 	<string>Fade…</string>
 > 	<string>フェード…</string>
-< 	<string>Featured Work
-> 	<string>注目の作品
+< 	<string>Find in Layers Panel</string>
+> 	<string>レイヤーパネルで検索</string>
+< 	<string>Fit To Plane</string>
+> 	<string>プレーンに合わせる</string>
+< 	<string>Fit To Plane</string>
+> 	<string>プレーンに合わせる</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
+< 	<string>Flip Horizontal In Plane</string>
+> 	<string>プレーンで左右反転</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>左右反転</string>
 < 	<string>Flip Horizontal</string>
@@ -240,6 +292,14 @@
 > 	<string>左右反転</string>
 < 	<string>Flip Horizontal</string>
 > 	<string>左右反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
+< 	<string>Flip Vertical In Plane</string>
+> 	<string>プレーンで上下反転</string>
 < 	<string>Flip Vertical</string>
 > 	<string>上下反転</string>
 < 	<string>Flip Vertical</string>
@@ -248,6 +308,10 @@
 > 	<string>上下反転</string>
 < 	<string>Flip Vertical</string>
 > 	<string>上下反転</string>
+< 	<string>Float With Text</string>
+> 	<string>テキスト付きフロート表示</string>
+< 	<string>Float With Text</string>
+> 	<string>テキスト付きフロート表示</string>
 < 	<string>Flow:</string>
 > 	<string>流量:</string>
 < 	<string>Force Pixel Alignment</string>
@@ -262,24 +326,32 @@
 > 	<string>1つ前方へ</string>
 < 	<string>Geometry</string>
 > 	<string>ジオメトリ</string>
+< 	<string>Grid Options</string>
+> 	<string>グリッドオプション</string>
 < 	<string>HSL Saturation</string>
 > 	<string>HSL彩度</string>
 < 	<string>Hardness:</string>
 > 	<string>硬さ:</string>
-< 	<string>High Frequency</string>
-> 	<string>高周波数</string>
 < 	<string>Hold</string>
 > 	<string>ホールド</string>
 < 	<string>Ignore Spelling</string>
 > 	<string>スペルを無視</string>
+< 	<string>Inline In Text</string>
+> 	<string>テキスト内にインライン表示</string>
+< 	<string>Inline In Text</string>
+> 	<string>テキスト内にインライン表示</string>
 < 	<string>Inpaint Missing Areas</string>
 > 	<string>修復ミッシングエリア</string>
 < 	<string>Inpaint Missing Areas</string>
 > 	<string>修復ミッシングエリア</string>
 < 	<string>Insert Behind</string>
 > 	<string>後方に挿入</string>
+< 	<string>Insert Column</string>
+> 	<string>列を挿入</string>
 < 	<string>Insert Inside</string>
 > 	<string>内側に挿入</string>
+< 	<string>Insert Row</string>
+> 	<string>行を挿入</string>
 < 	<string>Insert Top</string>
 > 	<string>最上位に挿入</string>
 < 	<string>Insert at the top of the layer</string>
@@ -296,30 +368,18 @@
 > 	<string>交差</string>
 < 	<string>Intersect</string>
 > 	<string>交差</string>
-< 	<string>Intersect toolbar button</string>
-> 	<string>交差ツールバーボタン</string>
+< 	<string>Intersect</string>
+> 	<string>交差</string>
 < 	<string>Invert Mask</string>
 > 	<string>マスクを反転</string>
 < 	<string>Invert Selection</string>
 > 	<string>選択範囲を反転</string>
 < 	<string>Invert Selection</string>
 > 	<string>選択範囲を反転</string>
-< 	<string>Layout Persona</string>
-> 	<string>ペルソナをレイアウト</string>
-< 	<string>Layout Persona</string>
-> 	<string>ペルソナをレイアウト</string>
-< 	<string>Layout Persona</string>
-> 	<string>ペルソナをレイアウト</string>
-< 	<string>Layout Persona</string>
-> 	<string>ペルソナをレイアウト</string>
-< 	<string>Layout</string>
-> 	<string>レイアウト</string>
 < 	<string>Learn Spelling</string>
 > 	<string>スペルを学習</string>
 < 	<string>Library Persona</string>
 > 	<string>ライブラリペルソナ</string>
-< 	<string>Library</string>
-> 	<string>ライブラリ</string>
 < 	<string>Liquify Persona</string>
 > 	<string>ゆがみペルソナ</string>
 < 	<string>Liquify Persona</string>
@@ -332,12 +392,12 @@
 > 	<string>メッシュを読み込む</string>
 < 	<string>Look Up "%@"</string>
 > 	<string>"%@"を検索</string>
-< 	<string>Low Frequency</string>
-> 	<string>低周波数</string>
 < 	<string>Mask All</string>
 > 	<string>すべてマスク</string>
 < 	<string>Mask</string>
 > 	<string>マスク</string>
+< 	<string>Merge Cells</string>
+> 	<string>セルを結合</string>
 < 	<string>Mesh</string>
 > 	<string>メッシュ</string>
 < 	<string>Mirror</string>
@@ -408,8 +468,12 @@
 > 	<string>写真ペルソナ</string>
 < 	<string>Photo Persona</string>
 > 	<string>写真ペルソナ</string>
+< 	<string>Photo Persona.</string>
+> 	<string>写真ペルソナ。</string>
 < 	<string>Photo</string>
 > 	<string>写真</string>
+< 	<string>Pin to Text</string>
+> 	<string>テキストにピン留め</string>
 < 	<string>Pixel Align</string>
 > 	<string>ピクセル配列</string>
 < 	<string>Pixel Persona</string>
@@ -424,6 +488,8 @@
 > 	<string>Pixel表示モード</string>
 < 	<string>Pixels</string>
 > 	<string>ピクセル</string>
+< 	<string>Planar Editing</string>
+> 	<string>平面の編集</string>
 < 	<string>Please either commit or cancel the develop operation before switching to another Persona.</string>
 > 	<string>現像操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
 < 	<string>Please either commit or cancel the develop operation before switching to another Persona.</string>
@@ -434,6 +500,10 @@
 > 	<string>別のパソナに切り替える前に、パノラマにコミットするか、パノラマをキャンセルしてください。</string>
 < 	<string>Please either commit or cancel the tone mapping operation before switching to another Persona.</string>
 > 	<string>トーンマッピング操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
+< 	<string>Please end your macro recording session before using Develop.</string>
+> 	<string>現像を使用する前にマクロ記録セッションを終了してください。</string>
+< 	<string>Please end your macro recording session before using Tone Mapping.</string>
+> 	<string>トーンマッピングを使用する前にマクロ記録セッションを終了してください。</string>
 < 	<string>Please select a layer.</string>
 > 	<string>レイヤーを選択してください。</string>
 < 	<string>Please select a pixel layer or mask before entering Liquify.</string>
@@ -442,16 +512,30 @@
 > 	<string>RGBピクセルレイヤーを選択してから[現像]に入ってください。</string>
 < 	<string>Please select an RGB pixel layer before entering HDR.</string>
 > 	<string>RGBピクセルレイヤーを選択してから[HDR]に入ってください。</string>
+< 	<string>Preview Mode</string>
+> 	<string>プレビューモード</string>
 < 	<string>Protect hue</string>
 > 	<string>色相の保護</string>
+< 	<string>Publisher Persona</string>
+> 	<string>パブリッシャーペルソナ</string>
+< 	<string>Publisher Persona</string>
+> 	<string>パブリッシャーペルソナ</string>
+< 	<string>Publisher Persona</string>
+> 	<string>パブリッシャーペルソナ</string>
+< 	<string>Publisher Persona</string>
+> 	<string>パブリッシャーペルソナ</string>
+< 	<string>Publisher</string>
+> 	<string>パブリッシャー</string>
 < 	<string>Quick Mask</string>
 > 	<string>クイックマスク</string>
 < 	<string>Repeat %@</string>
 > 	<string>%@をリピート</string>
 < 	<string>Reset Mesh</string>
 > 	<string>メッシュをリセット</string>
-< 	<string>Reset Selection Box</string>
-> 	<string>選択ボックスをリセット</string>
+< 	<string>Reset Wrap Outline</string>
+> 	<string>回り込みアウトラインをリセット</string>
+< 	<string>Reset Wrap Outline</string>
+> 	<string>回り込みアウトラインをリセット</string>
 < 	<string>Retina Pixels</string>
 > 	<string>Retinaピクセル</string>
 < 	<string>Retina pixel view mode</string>
@@ -462,6 +546,14 @@
 > 	<string>デフォルト設定を復元</string>
 < 	<string>Revert defaults</string>
 > 	<string>元のデフォルト設定に戻す</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
+< 	<string>Rotate Anticlockwise In Plane</string>
+> 	<string>プレーンで反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
 > 	<string>反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
@@ -470,6 +562,14 @@
 > 	<string>反時計回りに回転</string>
 < 	<string>Rotate Anticlockwise</string>
 > 	<string>反時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
+< 	<string>Rotate Clockwise In Plane</string>
+> 	<string>プレーンで時計回りに回転</string>
 < 	<string>Rotate Clockwise</string>
 > 	<string>時計回りに回転</string>
 < 	<string>Rotate Clockwise</string>
@@ -500,12 +600,18 @@
 > 	<string>最背面に送る</string>
 < 	<string>Send to Back</string>
 > 	<string>最背面に送る</string>
+< 	<string>Separate Cells</string>
+> 	<string>セルを分離</string>
 < 	<string>Set Fill None</string>
 > 	<string>塗りつぶしをなしに設定</string>
 < 	<string>Set Fill to 50% Grey</string>
 > 	<string>塗りつぶしを50%グレーに設定</string>
 < 	<string>Set Fill to Black and White</string>
 > 	<string>塗りつぶしを白黒に設定</string>
+< 	<string>Set Hyperlink</string>
+> 	<string>ハイパーリンクを設定</string>
+< 	<string>Show Baseline Grid Manager</string>
+> 	<string>ベースライングリッドマネージャーを表示</string>
 < 	<string>Show Clipped Highlights</string>
 > 	<string>クリップされたハイライトを表示</string>
 < 	<string>Show Clipped Highlights</string>
@@ -524,6 +630,10 @@
 > 	<string>クリップされた色調を表示</string>
 < 	<string>Show Clipped Tones</string>
 > 	<string>クリップされた色調を表示</string>
+< 	<string>Show Text Wrap Settings</string>
+> 	<string>テキストの回り込み設定を表示</string>
+< 	<string>Show Text Wrap Settings</string>
+> 	<string>テキストの回り込み設定を表示</string>
 < 	<string>Snapping Options</string>
 > 	<string>スナップオプション</string>
 < 	<string>Snapping Options</string>
@@ -534,6 +644,18 @@
 > 	<string>スナップ</string>
 < 	<string>Snapping</string>
 > 	<string>スナップ</string>
+< 	<string>Sort Ascending</string>
+> 	<string>昇順に並べ替え</string>
+< 	<string>Sort Descending</string>
+> 	<string>降順に並べ替え</string>
+< 	<string>Sort by Column Ascending</string>
+> 	<string>列を昇順に並べ替え</string>
+< 	<string>Sort by Column Descending</string>
+> 	<string>列を降順に並べ替え</string>
+< 	<string>Sort by Row Ascending</string>
+> 	<string>行を昇順に並べ替え</string>
+< 	<string>Sort by Row Descending</string>
+> 	<string>行を降順に並べ替え</string>
 < 	<string>Space Horizontally</string>
 > 	<string>水平方向に等間隔配置</string>
 < 	<string>Space Horizontally</string>
@@ -563,9 +685,9 @@
 < 	<string>Subtract</string>
 > 	<string>減算</string>
 < 	<string>Subtract</string>
+> 	<string>減算</string>
+< 	<string>Subtract</string>
 > 	<string>除外</string>
-< 	<string>Subtract toolbar button</string>
-> 	<string>減算ツールバーボタン</string>
 < 	<string>Swap Line and Fill</string>
 > 	<string>線と塗りつぶしを入れ換え</string>
 < 	<string>Swap</string>
@@ -574,6 +696,8 @@
 > 	<string>スワップ</string>
 < 	<string>Switch to Next View</string>
 > 	<string>次のビューポイントに切り替え</string>
+< 	<string>Switch to Previous View</string>
+> 	<string>前のビューに切り替え</string>
 < 	<string>Sync After</string>
 > 	<string>同期の後</string>
 < 	<string>Sync After</string>
@@ -588,6 +712,8 @@
 > 	<string>選択範囲のデフォルト設定を同期</string>
 < 	<string>The mesh warp tool requires a selected layer to warp.</string>
 > 	<string>メッシュワープツールを使用するには、ワープ処理を行うレイヤーが選択されている必要があります。</string>
+< 	<string>This feature is disabled until later in the Publisher Beta.</string>
+> 	<string>この機能はPublisherのベータ版で今後有効になる予定です。</string>
 < 	<string>Toggle 32-bit Preview Panel</string>
 > 	<string>32ビットプレビューパネルを切り替え</string>
 < 	<string>Toggle Adjustment Panel</string>
@@ -632,16 +758,30 @@
 > 	<string>レイヤのエクスポートパネルを切り替え</string>
 < 	<string>Toggle Export Options Panel</string>
 > 	<string>エクスポートオプションパネルを切り替え</string>
+< 	<string>Toggle Fields Panel</string>
+> 	<string>フィールドパネルを切り替え</string>
 < 	<string>Toggle Fill Context</string>
 > 	<string>塗りつぶしコンテキストの切り替え</string>
+< 	<string>Toggle Find and Replace Panel</string>
+> 	<string>検索および置換パネルの切り替え</string>
 < 	<string>Toggle Frequency Layer</string>
 > 	<string>周波数レイヤーの切り替え</string>
+< 	<string>Toggle GPU Panel</string>
+> 	<string>GPUパネルを切り替え</string>
 < 	<string>Toggle Glyph Browser Panel</string>
 > 	<string>グリフブラウザパネルを切り替え</string>
+< 	<string>Toggle Grid Editing</string>
+> 	<string>グリッド編集の切り替え</string>
+< 	<string>Toggle Grid Editing</string>
+> 	<string>グリッド編集の切り替え</string>
 < 	<string>Toggle Histogram Panel</string>
 > 	<string>ヒストグラムパネルを切り替え</string>
 < 	<string>Toggle History Panel</string>
 > 	<string>履歴パネルを切り替え</string>
+< 	<string>Toggle Hyperlink Panel</string>
+> 	<string>ハイパーリンクパネルを切り替え</string>
+< 	<string>Toggle Index Panel</string>
+> 	<string>インデックスパネルを切り替え</string>
 < 	<string>Toggle Information Panel</string>
 > 	<string>情報パネルを切り替え</string>
 < 	<string>Toggle Layers Panel</string>
@@ -660,12 +800,20 @@
 > 	<string>マクロパネルを切り替え</string>
 < 	<string>Toggle Navigator Panel</string>
 > 	<string>ナビゲータパネルを切り替え</string>
+< 	<string>Toggle Pages Panel</string>
+> 	<string>ページパネルを切り替え</string>
 < 	<string>Toggle Paragraph Panel</string>
 > 	<string>段落パネルを切り替え</string>
+< 	<string>Toggle Preview Mode</string>
+> 	<string>プレビューモード切り替え</string>
 < 	<string>Toggle Quick Mask [Q]</string>
 > 	<string>クイックマスクを切り替え[Q]</string>
 < 	<string>Toggle Quick Mask [Q]</string>
 > 	<string>クイックマスクを切り替え[Q]</string>
+< 	<string>Toggle Ruler Origin Editing</string>
+> 	<string>ルーラー起点編集の切り替え</string>
+< 	<string>Toggle Ruler Origin Editing</string>
+> 	<string>ルーラー起点編集の切り替え</string>
 < 	<string>Toggle Scope Panel</string>
 > 	<string>スコープパネルを切り替え</string>
 < 	<string>Toggle Slices Panel</string>
@@ -683,9 +831,17 @@
 < 	<string>Toggle Styles Panel</string>
 > 	<string>スタイルパネルを切り替え</string>
 < 	<string>Toggle Swatches Panel</string>
-> 	<string>見本パネルを切り替え</string>
+> 	<string>スウォッチパネルを切り替え</string>
 < 	<string>Toggle Symbol Panel</string>
 > 	<string>シンボルパネルを切り替え</string>
+< 	<string>Toggle Table Format Panel</string>
+> 	<string>テーブルフォーマットパネルを切り替え</string>
+< 	<string>Toggle Table Panel</string>
+> 	<string>テーブルパネルを切り替え</string>
+< 	<string>Toggle Table of Contents Panel</string>
+> 	<string>目次パネルを切り替え</string>
+< 	<string>Toggle Text Frame Panel</string>
+> 	<string>テキストフレームパネルを切り替え</string>
 < 	<string>Toggle Text Styles Panel</string>
 > 	<string>テキストスタイルパネルを切り替え</string>
 < 	<string>Toggle Tone Map Overlays Panel</string>
@@ -696,6 +852,8 @@
 > 	<string>トーンマッププリセットパネルを切り替え</string>
 < 	<string>Toggle Transform Panel</string>
 > 	<string>変換パネルを切り替え</string>
+< 	<string>Toggle Unicode Character</string>
+> 	<string>Unicode文字の切り替え</string>
 < 	<string>Tonal Range:</string>
 > 	<string>階調範囲:</string>
 < 	<string>Tone Mapping Persona</string>
@@ -706,26 +864,32 @@
 > 	<string>トーンマッピングペルソナ</string>
 < 	<string>Tone Mapping</string>
 > 	<string>トーンマッピング</string>
+< 	<string>Tool Options</string>
+> 	<string>ツールオプション</string>
 < 	<string>Transform</string>
 > 	<string>変換</string>
 < 	<string>Unignore Spelling "%@"</string>
 > 	<string>スペル"%@"の無視を解除</string>
-< 	<string>Union</string>
-> 	<string>和</string>
-< 	<string>Union toolbar button</string>
-> 	<string>結合ツールバーボタン</string>
 < 	<string>Unlearn Spelling "%@"</string>
 > 	<string>スペル"%@"の学習を解除</string>
 < 	<string>Vibrance</string>
 > 	<string>自然な彩度</string>
 < 	<string>View Mode</string>
 > 	<string>表示モード</string>
-< 	<string>Welcome to Affinity Photo.
-> 	<string>Affinity Photoへようこそ。
 < 	<string>Width:</string>
 > 	<string>幅:</string>
 < 	<string>Width:</string>
 > 	<string>幅:</string>
+< 	<string>Wrapping</string>
+> 	<string>回り込み</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
+< 	<string>Xor</string>
+> 	<string>排他的論理和</string>
 < 	<string>Yes</string>
 > 	<string>はい</string>
 < 	<string>Zoom In</string>
