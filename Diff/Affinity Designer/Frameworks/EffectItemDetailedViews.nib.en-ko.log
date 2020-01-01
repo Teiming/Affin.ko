@@ -2,8 +2,6 @@
 > 		<string>알파 유지</string>
 < 		<string>Radius:</string>
 > 		<string>반지름:</string>
-< 		<string>System</string>
-> 		<string>시스템</string>
 < 		<string>Gaussian Blur</string>
 > 		<string>가우시안 블러</string>
 < 		<string>Opacity:</string>
@@ -24,6 +22,8 @@
 > 		<string>프로파일:</string>
 < 		<string>Soften:</string>
 > 		<string>부드럽게:</string>
+< 		<string>Diffuse:</string>
+> 		<string>확산:</string>
 < 		<string>Depth:</string>
 > 		<string>깊이:</string>
 < 		<string>Opacity:</string>
@@ -90,6 +90,8 @@
 > 		<string>원뿔형</string>
 < 		<string>Gradient</string>
 > 		<string>그레이디언트</string>
+< 		<string>Contour</string>
+> 		<string>등고선</string>
 < 		<string>Fill style:</string>
 > 		<string>칠 스타일:</string>
 < 		<string>Outside</string>
@@ -98,6 +100,8 @@
 > 		<string>가운데</string>
 < 		<string>Inside</string>
 > 		<string>안으로</string>
+< 		<string>Alignment:</string>
+> 		<string>정렬:</string>
 < 		<string>Opacity:</string>
 > 		<string>불투명도:</string>
 < 		<string>Blend mode:</string>
