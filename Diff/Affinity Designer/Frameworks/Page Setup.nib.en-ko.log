@@ -1,5 +1,3 @@
-< 		<string>System</string>
-> 		<string>시스템</string>
 < 		<string>Include Margins</string>
 > 		<string>여백 포함</string>
 < 		<string>Retrieve Margin from Printer</string>
@@ -22,24 +20,16 @@
 > 		<string>투명한 배경</string>
 < 		<string>Colour</string>
 > 		<string>색상</string>
-< 		<string>Left Margin:</string>
-> 		<string>왼쪽 여백</string>
-< 		<string>Top Margin:</string>
-> 		<string>위쪽 여백:</string>
-< 		<string>Right Margin:</string>
-> 		<string>오른쪽 여백:</string>
-< 		<string>Bottom Margin:</string>
-> 		<string>아래쪽 여백:</string>
+< 		<string>Left:</string>
+> 		<string>왼쪽:</string>
+< 		<string>Top:</string>
+> 		<string>위쪽:</string>
+< 		<string>Right:</string>
+> 		<string>오른쪽:</string>
+< 		<string>Bottom:</string>
+> 		<string>아래쪽</string>
 < 		<string>Margins</string>
 > 		<string>여백</string>
-< 		<string>Top Bleed:</string>
-> 		<string>위쪽 도련:</string>
-< 		<string>Right Bleed:</string>
-> 		<string>오른쪽 도련:</string>
-< 		<string>Bottom Bleed:</string>
-> 		<string>아래쪽 도련:</string>
-< 		<string>Left Bleed:</string>
-> 		<string>왼쪽 도련:</string>
 < 		<string>Bleed</string>
 > 		<string>도련</string>
 < 		<string>Custom</string>
@@ -60,3 +50,9 @@
 > 		<string>문서 단위:</string>
 < 		<string>Cancel</string>
 > 		<string>취소</string>
+< 		<string>Create preset</string>
+> 		<string>미리 설정 생성</string>
+< 		<string>Rename preset</string>
+> 		<string>미리 설정 이름 변경</string>
+< 		<string>Delete preset</string>
+> 		<string>미리 설정 지우기</string>
