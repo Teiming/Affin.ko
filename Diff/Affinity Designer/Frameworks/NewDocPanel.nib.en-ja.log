@@ -1,11 +1,11 @@
-< 		<string>Left Margin:</string>
-> 		<string>左マージン:</string>
-< 		<string>Right Margin:</string>
-> 		<string>右マージン:</string>
-< 		<string>Top Margin:</string>
-> 		<string>上マージン:</string>
-< 		<string>Bottom Margin:</string>
-> 		<string>下マージン:</string>
+< 		<string>Left:</string>
+> 		<string>左:</string>
+< 		<string>Right:</string>
+> 		<string>右:</string>
+< 		<string>Top:</string>
+> 		<string>上:</string>
+< 		<string>Bottom:</string>
+> 		<string>下:</string>
 < 		<string>Retrieve Margin from Printer</string>
 > 		<string>プリンタからマージンを取得</string>
 < 		<string>'Actual Size' Zoom:</string>
@@ -20,6 +20,8 @@
 > 		<string>他の表示</string>
 < 		<string>iPad (Retina)</string>
 > 		<string>iPad(Retina)</string>
+< 		<string>iPhone, iPad Mini (Retina)</string>
+> 		<string>iPhone、iPad Mini(Retina)</string>
 < 		<string>Portrait</string>
 > 		<string>縦向き</string>
 > 		<string>他の表示</string>
@@ -34,8 +36,21 @@
 > 		<string>透明な背景</string>
 < 		<string>Colour Format:</string>
 > 		<string>カラーフォーマット:</string>
+> 		<string>左:</string>
+> 		<string>右:</string>
+> 		<string>上:</string>
+> 		<string>下:</string>
+< 		<string>Box</string>
+> 		<string>ボックス</string>
+< 		<string>Prefer Embedded</string>
+> 		<string>埋め込みを優先</string>
+> 		<string>他の表示</string>
+< 		<string>Prefer Linked</string>
+> 		<string>リンクを優先</string>
 < 		<string>Include Margins</string>
 > 		<string>マージンを含める</string>
+< 		<string>Bleed:</string>
+> 		<string>裁ち切り:</string>
 < 		<string>Create artboard</string>
 > 		<string>アートボードを作成</string>
 > 		<string>他の表示</string>
@@ -67,5 +82,17 @@
 > 		<string>カラー:</string>
 < 		<string>Dimensions:</string>
 > 		<string>寸法:</string>
-< 		<string>Unfinished feature / user interface.</string>
+< 		<string>Image Placement Policy:</string>
+> 		<string>画像配置ポリシー:</string>
+< 		<string>Create preset</string>
+> 		<string>プリセットの作成</string>
+< 		<string>Rename preset</string>
+> 		<string>プリセット名の変更</string>
+< 		<string>Delete preset</string>
+> 		<string>プリセットの削除</string>
+< 		<string>Link Bleed</string>
+> 		<string>リンクマージン</string>
+< 		<string>Link Margins</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
+< 		<string>Unfinished feature / user interface.</string>
+> 		<string>裁ち切りをリンク</string>
