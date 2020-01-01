@@ -2,6 +2,14 @@
 > 		<string>他の表示</string>
 < 		<string>Auto-scroll</string>
 > 		<string>自動スクロール</string>
+< 		<string>Checkerboard Background</string>
+> 		<string>チェッカーボードの背景</string>
+< 		<string>Small Thumbnails</string>
+> 		<string>サムネイル小</string>
+< 		<string>Medium Thumbnails</string>
+> 		<string>サムネイル中</string>
+< 		<string>Large Thumbnails</string>
+> 		<string>サムネイル大</string>
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
 < 		<string>Cut</string>
@@ -28,8 +36,12 @@
 > 		<string>下のレイヤーと結合</string>
 < 		<string>Merge Visible</string>
 > 		<string>表示レイヤーを結合</string>
+< 		<string>Rasterise &amp; Trim…</string>
+> 		<string>ラスタライズ&amp;削除…</string>
 < 		<string>Rasterise…</string>
 > 		<string>ラスタライズ…</string>
+< 		<string>Rasterise To Mask</string>
+> 		<string>マスクにラスタライズ</string>
 < 		<string>New Layer</string>
 > 		<string>新規レイヤー</string>
 < 		<string>New Pixel Layer</string>
@@ -38,6 +50,8 @@
 > 		<string>選択範囲の展開</string>
 < 		<string>Collapse Selection</string>
 > 		<string>選択範囲の折りたたみ</string>
+< 		<string>Colour Tag Placeholder</string>
+> 		<string>カラータグプレースホルダー</string>
 < 		<string>Properties…</string>
 > 		<string>プロパティ…</string>
 > 		<string>カット</string>
@@ -52,6 +66,49 @@
 > 		<string>マスクの調整...</string>
 < 		<string>Release Mask</string>
 > 		<string>マスクの解除</string>
+< 		<string>Colour Tag Placeholder</string>
+> 		<string>カラータグプレースホルダー</string>
+> 		<string>カット</string>
+> 		<string>コピー</string>
+> 		<string>ペースト</string>
+> 		<string>非表示</string>
+< 		<string>Exclude From Snapping</string>
+> 		<string>スナップから除外</string>
+< 		<string>Edit Detached</string>
+> 		<string>切り離しを編集</string>
+< 		<string>Edit Linked</string>
+> 		<string>リンクを編集</string>
+< 		<string>Edit Frame Content</string>
+> 		<string>フレームコンテンツを編集</string>
+> 		<string>ロック</string>
+> 		<string>削除</string>
+> 		<string>複製</string>
+> 		<string>解除</string>
+< 		<string>Mask to Below</string>
+> 		<string>下のレイヤーにマスクを使用</string>
+< 		<string>Merge Down</string>
+> 		<string>下のレイヤーと結合</string>
+< 		<string>Merge Visible</string>
+> 		<string>表示レイヤーを結合</string>
+< 		<string>Group</string>
+> 		<string>グループ化</string>
+< 		<string>Ungroup</string>
+> 		<string>グループ解除</string>
+< 		<string>Rasterise &amp; Trim…</string>
+> 		<string>ラスタライズ&amp;削除…</string>
+< 		<string>Rasterise…</string>
+> 		<string>ラスタライズ…</string>
+< 		<string>Rasterise To Mask</string>
+> 		<string>マスクにラスタライズ</string>
+> 		<string>新規レイヤー</string>
+< 		<string>New Pixel Layer</string>
+> 		<string>新規ピクセルレイヤー</string>
+< 		<string>Expand Selection</string>
+> 		<string>選択範囲の展開</string>
+< 		<string>Collapse Selection</string>
+> 		<string>選択範囲の折りたたみ</string>
+< 		<string>Properties…</string>
+> 		<string>プロパティ…</string>
 > 		<string>カット</string>
 > 		<string>コピー</string>
 > 		<string>ペースト</string>
@@ -64,12 +121,14 @@
 > 		<string>解除</string>
 < 		<string>Merge Visible</string>
 > 		<string>表示レイヤーを結合</string>
-< 		<string>Group</string>
 > 		<string>グループ化</string>
-< 		<string>Ungroup</string>
 > 		<string>グループ解除</string>
+< 		<string>Rasterise &amp; Trim…</string>
+> 		<string>ラスタライズ&amp;削除…</string>
 < 		<string>Rasterise…</string>
 > 		<string>ラスタライズ…</string>
+< 		<string>Rasterise To Mask</string>
+> 		<string>マスクにラスタライズ</string>
 > 		<string>新規レイヤー</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>新規ピクセルレイヤー</string>
@@ -77,6 +136,8 @@
 > 		<string>選択範囲の展開</string>
 < 		<string>Collapse Selection</string>
 > 		<string>選択範囲の折りたたみ</string>
+< 		<string>Colour Tag Placeholder</string>
+> 		<string>カラータグプレースホルダー</string>
 > 		<string>カット</string>
 > 		<string>コピー</string>
 > 		<string>ペースト</string>
@@ -95,8 +156,12 @@
 > 		<string>表示レイヤーを結合</string>
 > 		<string>グループ化</string>
 > 		<string>グループ解除</string>
+< 		<string>Rasterise &amp; Trim…</string>
+> 		<string>ラスタライズ&amp;削除…</string>
 < 		<string>Rasterise…</string>
 > 		<string>ラスタライズ…</string>
+< 		<string>Rasterise To Mask</string>
+> 		<string>マスクにラスタライズ</string>
 > 		<string>新規レイヤー</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>新規ピクセルレイヤー</string>
@@ -104,100 +169,112 @@
 > 		<string>選択範囲の展開</string>
 < 		<string>Collapse Selection</string>
 > 		<string>選択範囲の折りたたみ</string>
-< 		<string>Levels</string>
-> 		<string>レベル</string>
-< 		<string>White Balance</string>
-> 		<string>ホワイトバランス</string>
-< 		<string>Recolour</string>
-> 		<string>再配色</string>
-< 		<string>Black and White</string>
-> 		<string>白黒</string>
-< 		<string>Brightness and Contrast</string>
-> 		<string>明るさとコントラスト</string>
-< 		<string>Posterise</string>
-> 		<string>ポスタライズ</string>
-< 		<string>Vibrance</string>
-> 		<string>自然な彩度</string>
-< 		<string>Exposure</string>
-> 		<string>露出</string>
-< 		<string>Shadows / Highlights</string>
-> 		<string>シャドウ/ハイライト</string>
-< 		<string>Threshold</string>
-> 		<string>しきい値</string>
-< 		<string>Curves</string>
-> 		<string>カーブ</string>
-< 		<string>Channel Mixer</string>
-> 		<string>チャンネルミキサー</string>
-< 		<string>Gradient Map</string>
-> 		<string>グラデーションマップ</string>
-< 		<string>Selective Colour</string>
-> 		<string>特定色域</string>
-< 		<string>Colour Balance</string>
-> 		<string>カラーバランス</string>
+< 		<string>Colour Tag Placeholder</string>
+> 		<string>カラータグプレースホルダー</string>
+< 		<string>Levels…</string>
+> 		<string>レベル…</string>
+< 		<string>White Balance…</string>
+> 		<string>ホワイトバランス…</string>
+< 		<string>Recolour…</string>
+> 		<string>再配色…</string>
+< 		<string>Black and White…</string>
+> 		<string>白黒…</string>
+< 		<string>Brightness and Contrast…</string>
+> 		<string>明るさとコントラスト…</string>
+< 		<string>Posterise…</string>
+> 		<string>ポスタライズ…</string>
+< 		<string>Vibrance…</string>
+> 		<string>自然な彩度…</string>
+< 		<string>Exposure…</string>
+> 		<string>露出…</string>
+< 		<string>Shadows / Highlights…</string>
+> 		<string>シャドウ/ハイライト…</string>
+< 		<string>Threshold…</string>
+> 		<string>しきい値…</string>
+< 		<string>Curves…</string>
+> 		<string>カーブ…</string>
+< 		<string>Channel Mixer…</string>
+> 		<string>チャンネルミキサー…</string>
+< 		<string>Gradient Map…</string>
+> 		<string>グラデーションマップ…</string>
+< 		<string>Selective Colour…</string>
+> 		<string>特定色域…</string>
+< 		<string>Colour Balance…</string>
+> 		<string>カラーバランス…</string>
 < 		<string>Invert</string>
 > 		<string>反転</string>
-< 		<string>Soft Proof</string>
-> 		<string>ソフト校正</string>
-< 		<string>Lens Filter</string>
-> 		<string>レンズフィルター</string>
-< 		<string>Split Toning</string>
-> 		<string>明暗別色補正</string>
-< 		<string>Gaussian Blur Filter</string>
-> 		<string>ガウスぼかしフィルター</string>
-< 		<string>Box Blur Filter</string>
-> 		<string>ボックスぼかしフィルター</string>
-< 		<string>Median Blur Filter</string>
-> 		<string>メディアンぼかしフィルター</string>
-< 		<string>Bilateral Blur Filter</string>
-> 		<string>バイラテラルぼかしフィルター</string>
-< 		<string>Motion Blur Filter</string>
-> 		<string>モーションぼかしフィルター</string>
-< 		<string>Lens Blur Filter</string>
-> 		<string>レンズぼかしフィルター</string>
-< 		<string>Depth Of Field Filter</string>
-> 		<string>フィールドフィルターの深度</string>
-< 		<string>Field Blur Filter</string>
-> 		<string>フィールドぼかしフィルター</string>
-< 		<string>Diffuse Glow Filter</string>
-> 		<string>光彩拡散フィルター</string>
-< 		<string>Clarity Filter</string>
-> 		<string>明瞭度フィルター</string>
-< 		<string>Unsharp Mask Filter</string>
-> 		<string>アンシャープマスクフィルター</string>
-< 		<string>High Pass Filter</string>
-> 		<string>ハイパスフィルター</string>
-< 		<string>Ripple Filter</string>
-> 		<string>波紋フィルター</string>
-< 		<string>Twirl Filter</string>
-> 		<string>渦巻きフィルター</string>
-< 		<string>Spherical Filter</string>
-> 		<string>球面フィルター</string>
-< 		<string>Displace Filter</string>
-> 		<string>置き換えフィルター</string>
-< 		<string>Pinch / Punch Filter</string>
-> 		<string>ピンチ/パンチフィルター</string>
-< 		<string>Lens Distortion Filter</string>
-> 		<string>レンズゆがみフィルター</string>
-< 		<string>Perspective Filter</string>
-> 		<string>パースペクティブフィルター</string>
-< 		<string>Denoise Filter</string>
-> 		<string>ノイズ除去フィルター</string>
-< 		<string>Add Noise Filter</string>
-> 		<string>ノイズ付加フィルター</string>
-< 		<string>Diffuse Filter</string>
-> 		<string>拡散フィルター</string>
-< 		<string>Dust &amp; Scratches Filter</string>
-> 		<string>ダスト&amp;スクラッチフィルター</string>
-< 		<string>Halftone Filter</string>
-> 		<string>ハーフトーンフィルター</string>
-< 		<string>Vignette Filter</string>
-> 		<string>ビネットフィルター</string>
-< 		<string>Defringe Filter</string>
-> 		<string>フリンジ除去フィルター</string>
-< 		<string>Lighting Filter</string>
-> 		<string>照明フィルター</string>
-< 		<string>Shadows / Highlights Filter</string>
-> 		<string>シャドウ/ハイライトフィルター</string>
+< 		<string>Soft Proof…</string>
+> 		<string>ソフト校正…</string>
+< 		<string>Lens Filter…</string>
+> 		<string>レンズフィルター…</string>
+< 		<string>Split Toning…</string>
+> 		<string>明暗別色補正…</string>
+< 		<string>Gaussian Blur…</string>
+> 		<string>ガウスぼかし…</string>
+< 		<string>Box Blur…</string>
+> 		<string>ボックスぼかし…</string>
+< 		<string>Median Blur…</string>
+> 		<string>メディアンぼかし…</string>
+< 		<string>Bilateral Blur…</string>
+> 		<string>バイラテラルぼかし…</string>
+< 		<string>Motion Blur…</string>
+> 		<string>モーションぼかし…</string>
+< 		<string>Radial Blur…</string>
+> 		<string>放射状ぼかし…</string>
+< 		<string>Lens Blur…</string>
+> 		<string>レンズぼかし…</string>
+< 		<string>Depth Of Field…</string>
+> 		<string>フィールドの深度…</string>
+< 		<string>Field Blur…</string>
+> 		<string>フィールドぼかし…</string>
+< 		<string>Diffuse Glow…</string>
+> 		<string>光彩拡散…</string>
+< 		<string>Maximum Blur…</string>
+> 		<string>最大ぼかし…</string>
+< 		<string>Minimum Blur…</string>
+> 		<string>最小ぼかし…</string>
+< 		<string>Clarity…</string>
+> 		<string>明瞭度…</string>
+< 		<string>Unsharp Mask…</string>
+> 		<string>アンシャープマスク…</string>
+< 		<string>High Pass…</string>
+> 		<string>ハイパス…</string>
+< 		<string>Ripple…</string>
+> 		<string>波紋…</string>
+< 		<string>Twirl…</string>
+> 		<string>渦巻き…</string>
+< 		<string>Spherical…</string>
+> 		<string>球面…</string>
+< 		<string>Displace…</string>
+> 		<string>変位…</string>
+< 		<string>Pinch / Punch…</string>
+> 		<string>ピンチ / パンチ…</string>
+< 		<string>Lens Distortion…</string>
+> 		<string>レンズゆがみ…</string>
+< 		<string>Perspective…</string>
+> 		<string>パースペクティブ…</string>
+< 		<string>Denoise…</string>
+> 		<string>ノイズ除去…</string>
+< 		<string>Add Noise…</string>
+> 		<string>ノイズを付加…</string>
+< 		<string>Diffuse…</string>
+> 		<string>拡散…</string>
+< 		<string>Dust &amp; Scratches…</string>
+> 		<string>ダスト&amp;スクラッチ…</string>
+< 		<string>Halftone…</string>
+> 		<string>ハーフトーン…</string>
+< 		<string>Vignette…</string>
+> 		<string>ビネット…</string>
+< 		<string>Defringe…</string>
+> 		<string>フリンジ除去…</string>
+< 		<string>Voronoi…</string>
+> 		<string>ボロノイ…</string>
+< 		<string>Procedural Texture…</string>
+> 		<string>手続きテクスチャ…</string>
+< 		<string>Lighting…</string>
+> 		<string>照明…</string>
+< 		<string>Shadows / Highlights…</string>
+> 		<string>シャドウ / ハイライト…</string>
 < 		<string>Add Layer</string>
 > 		<string>すべてのレイヤーを編集</string>
 < 		<string>Add Pixel Layer</string>
