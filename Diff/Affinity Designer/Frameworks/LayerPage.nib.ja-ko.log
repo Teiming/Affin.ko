@@ -1,8 +1,10 @@
-< < 		<string>OtherViews</string>
-< > 		<string>他の表示</string>
 < > 		<string>自動スクロール</string>
 < < 		<string>Checkerboard Background</string>
 < > 		<string>チェッカーボードの背景</string>
+< < 		<string>Show Group Thumbnail</string>
+< > 		<string>グループサムネイルを表示</string>
+< < 		<string>Compact Group Rows</string>
+< > 		<string>グループ行を折りたたむ</string>
 < < 		<string>Small Thumbnails</string>
 < > 		<string>サムネイル小</string>
 < < 		<string>Medium Thumbnails</string>
@@ -39,9 +41,9 @@
 < > 		<string>ラスタライズ&amp;削除…</string>
 > > 		<string>보이는 항목 통합</string>
 < > 		<string>ラスタライズ…</string>
-< < 		<string>Rasterise To Mask</string>
-< > 		<string>マスクにラスタライズ</string>
 > > 		<string>래스터화…</string>
+< > 		<string>マスクにラスタライズ</string>
+> > 		<string>마스크 래스터화</string>
 < > 		<string>新規レイヤー</string>
 > > 		<string>신규 레이어</string>
 < > 		<string>新規ピクセルレイヤー</string>
@@ -97,10 +99,10 @@
 < > 		<string>ラスタライズ&amp;削除…</string>
 > > 		<string>그룹 해제</string>
 < > 		<string>ラスタライズ…</string>
-< < 		<string>Rasterise To Mask</string>
+> > 		<string>래스터화…</string>
 < > 		<string>マスクにラスタライズ</string>
 < > 		<string>新規レイヤー</string>
-> > 		<string>래스터화…</string>
+> > 		<string>마스크 래스터화</string>
 < > 		<string>新規ピクセルレイヤー</string>
 < < 		<string>Expand Selection</string>
 < > 		<string>選択範囲の展開</string>
@@ -126,10 +128,10 @@
 < > 		<string>ラスタライズ&amp;削除…</string>
 > > 		<string>보이는 항목 통합</string>
 < > 		<string>ラスタライズ…</string>
-< < 		<string>Rasterise To Mask</string>
+> > 		<string>래스터화…</string>
 < > 		<string>マスクにラスタライズ</string>
 < > 		<string>新規レイヤー</string>
-> > 		<string>래스터화…</string>
+> > 		<string>마스크 래스터화</string>
 < > 		<string>新規ピクセルレイヤー</string>
 < < 		<string>Expand Selection</string>
 < > 		<string>選択範囲の展開</string>
@@ -159,10 +161,18 @@
 < > 		<string>ラスタライズ&amp;削除…</string>
 > > 		<string>보이는 항목 통합</string>
 < > 		<string>ラスタライズ…</string>
-< < 		<string>Rasterise To Mask</string>
-< > 		<string>マスクにラスタライズ</string>
-< > 		<string>新規レイヤー</string>
 > > 		<string>래스터화…</string>
+< > 		<string>マスクにラスタライズ</string>
+< < 		<string>Preflight Comment</string>
+< > 		<string>プレフライトコメント</string>
+< < 		<string>Preflight Comment</string>
+< > 		<string>プレフライトコメント</string>
+< < 		<string>Set…</string>
+< > 		<string>設定...</string>
+< < 		<string>Clear</string>
+< > 		<string>クリア</string>
+< > 		<string>新規レイヤー</string>
+> > 		<string>마스크 래스터화</string>
 < > 		<string>新規ピクセルレイヤー</string>
 < < 		<string>Expand Selection</string>
 < > 		<string>選択範囲の展開</string>
