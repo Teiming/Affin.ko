@@ -81,9 +81,7 @@
 < 		<string>Luminosity Jitter:</string>
 > 		<string>明度のジッター:</string>
 < 		<string>None</string>
-< 		<string>OtherViews</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 < 		<string>Random</string>
 > 		<string>ランダム</string>
 < 		<string>Pressure</string>
@@ -103,7 +101,6 @@
 < 		<string>Stylus Wheel</string>
 > 		<string>スタイラスホイール</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -116,7 +113,6 @@
 < 		<string>Stylus Wheel</string>
 > 		<string>スタイラスホイール</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -129,7 +125,6 @@
 < 		<string>Stylus Wheel</string>
 > 		<string>スタイラスホイール</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -144,7 +139,6 @@
 < 		<string>Direction</string>
 > 		<string>向き</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -157,7 +151,6 @@
 < 		<string>Stylus Wheel</string>
 > 		<string>スタイラスホイール</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -170,7 +163,6 @@
 < 		<string>Stylus Wheel</string>
 > 		<string>スタイラスホイール</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -183,7 +175,6 @@
 < 		<string>Stylus Wheel</string>
 > 		<string>スタイラスホイール</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -206,7 +197,6 @@
 < 		<string>Scatter Y:</string>
 > 		<string>拡散Y:</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -219,7 +209,6 @@
 < 		<string>Stylus Wheel</string>
 > 		<string>スタイラスホイール</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -236,7 +225,6 @@
 < 		<string>Shape Jitter:</string>
 > 		<string>シェイプのジッター:</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -263,7 +251,6 @@
 < 		<string>Scale:</string>
 > 		<string>スケール:</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 < 		<string>Nozzle</string>
 > 		<string>ノズル</string>
 < 		<string>Final</string>
@@ -274,7 +261,6 @@
 < 		<string>Invert</string>
 > 		<string>反転</string>
 > 		<string>なし</string>
-> 		<string>OtherViews</string>
 > 		<string>ランダム</string>
 > 		<string>筆圧</string>
 > 		<string>角度</string>
@@ -287,8 +273,10 @@
 < 		<string>Stylus Wheel</string>
 > 		<string>スタイラスホイール</string>
 < 		<string>Add</string>
-> 		<string>追加</string>
+< 		<string>{553, 279}</string>
 < 		<string>Texture</string>
+> 		<string>追加</string>
+> 		<string>{553, 279}</string>
 > 		<string>テクスチャ</string>
 < 		<string>Sub Brushes</string>
 > 		<string>サブブラシ</string>
@@ -333,10 +321,9 @@
 > 		<string>不透明度の許容誤差:</string>
 < 		<string>Size Variance:</string>
 > 		<string>サイズの許容誤差:</string>
-< 		<string>Label</string>
 > 		<string>ラベル</string>
+< 		<string>Label</string>
 > 		<string>なし</string>
-> 		<string>他の表示</string>
 > 		<string>筆圧</string>
 > 		<string>速度</string>
 < 		<string>Velocity (Inverse)</string>
@@ -345,3 +332,5 @@
 > 		<string>境界線</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
+< 		<string>NSApplication</string>
+> 		<string>NSApplication</string>
