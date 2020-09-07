@@ -54,7 +54,6 @@
 < > 	<string>8.5" x 14" [リーガル]</string>
 < < 	<string>800 x 600  [SVGA]</string>
 < > 	<string>800 x 600 [SVGA]</string>
-< < 	<string>Amount</string>
 < > 	<string>量</string>
 < < 	<string>Bands</string>
 < > 	<string>バンド</string>
@@ -64,7 +63,7 @@
 < > 	<string>基本シェイプ</string>
 < < 	<string>Bright</string>
 < > 	<string>明るい</string>
-< < 	<string>Brightness</string>
+> > 	<string>양</string>
 < > 	<string>明るさ</string>
 < < 	<string>Cell count</string>
 < > 	<string>セル数</string>
@@ -78,11 +77,11 @@
 < > 	<string>色付きパターン</string>
 < < 	<string>Common ratios</string>
 < > 	<string>一般的な比率</string>
-< < 	<string>Contrast</string>
+> > 	<string>명암</string>
 < > 	<string>コントラスト</string>
-< < 	<string>Dark</string>
+> > 	<string>대비</string>
 < > 	<string>暗い</string>
-< < 	<string>Default</string>
+> > 	<string>다크</string>
 < > 	<string>デフォルト</string>
 < < 	<string>Droplets</string>
 < > 	<string>水滴</string>
@@ -120,7 +119,7 @@
 < > 	<string>単色の渦巻き</string>
 < < 	<string>Monochrome patterns</string>
 < > 	<string>モノクロパターン</string>
-< < 	<string>Noise</string>
+> > 	<string>기본값</string>
 < > 	<string>ノイズ</string>
 < < 	<string>Number of squares</string>
 < > 	<string>マスの数</string>
@@ -130,7 +129,7 @@
 < > 	<string>八角形</string>
 < < 	<string>Octaves</string>
 < > 	<string>オクターブ</string>
-< < 	<string>Offset</string>
+> > 	<string>잡음</string>
 < > 	<string>オフセット</string>
 < < 	<string>Oils</string>
 < > 	<string>油彩</string>
@@ -192,5 +191,6 @@
 < > 	<string>波</string>
 < < 	<string>Waves</string>
 < > 	<string>波</string>
-< < 	<string>Width</string>
+> > 	<string>편차</string>
 < > 	<string>幅</string>
+> > 	<string>너비</string>
