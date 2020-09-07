@@ -1,7 +1,8 @@
 < < 		<string>Affine</string>
 < > 		<string>アフィン</string>
+< < 		<string>Apply</string>
 < > 		<string>適用</string>
-> > 		<string>적용</string>
+< < 		<string>Cancel</string>
 < > 		<string>キャンセル</string>
 < < 		<string>Wrap</string>
 < > 		<string>回り込み</string>
@@ -9,9 +10,9 @@
 < > 		<string>ゼロ</string>
 < < 		<string>Full</string>
 < > 		<string>フル</string>
-> > 		<string>취소</string>
+< < 		<string>Repeat</string>
 < > 		<string>繰り返し</string>
-> > 		<string>반복</string>
+< < 		<string>Mirror</string>
 < > 		<string>ミラー</string>
 < < 		<string>Extend Mode</string>
 < > 		<string>拡張モード</string>
@@ -23,12 +24,11 @@
 < > 		<string>オフセットY</string>
 < < 		<string>Offset X</string>
 < > 		<string>オフセットX</string>
-> > 		<string>거울</string>
 < > 		<string>回転</string>
-> > 		<string>회전</string>
+< < 		<string>Rotation</string>
+< < 		<string>Mirror view</string>
 < > 		<string>ミラー表示</string>
-> > 		<string>거울 뷰 모드</string>
+< < 		<string>No split view</string>
 < > 		<string>分割表示</string>
-> > 		<string>분할 뷰 모드 해제</string>
+< < 		<string>Split view</string>
 < > 		<string>分割表示なし</string>
-> > 		<string>분할 뷰 모드</string>
