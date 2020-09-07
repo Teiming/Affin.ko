@@ -7,7 +7,7 @@
 < < 		<string>Progressive</string>
 < > 		<string>プログレッシブ</string>
 < < 		<string>Palettised</string>
-< > 		<string>減色済み</string>
+< > 		<string>減色</string>
 < < 		<string>Use hex colours</string>
 < > 		<string>16進数カラーを使用</string>
 < < 		<string>Flatten transforms</string>
@@ -18,9 +18,6 @@
 < > 		<string>テキストをカーブとして書き出し</string>
 < < 		<string>Colours:</string>
 < > 		<string>カラー:</string>
-< < 		<string>OtherViews</string>
-< > 		<string>他の表示</string>
-< > 		<string>他の表示</string>
 < > 		<string>ファイル形式:</string>
 < < 		<string>Above:</string>
 < > 		<string>上:</string>
@@ -30,11 +27,10 @@
 < > 		<string>メタデータを埋め込む</string>
 < < 		<string>Include bleed</string>
 < > 		<string>裁ち切りを含める</string>
-< > 		<string>他の表示</string>
 < < 		<string>Colour profile from name</string>
 < > 		<string>名前に基づくカラープロファイル</string>
-< < 		<string>Compression:</string>
 < > 		<string>圧縮:</string>
+< < 		<string>Compression:</string>
 > > 		<string>파일 포맷:</string>
 < > 		<string>なし</string>
 < < 		<string>PXR24 (Lossy)</string>
@@ -51,46 +47,46 @@
 < > 		<string>不明なチャンネルを含める</string>
 < < 		<string>Multi channel</string>
 < > 		<string>マルチチャンネル</string>
-< < 		<string>Image pixels:</string>
 < > 		<string>画像のピクセル数:</string>
+< < 		<string>Image pixels:</string>
 < < 		<string>16-bit (HALF)</string>
 < > 		<string>16ビット(HALF)</string>
 < < 		<string>32-bit (FLOAT)</string>
 < > 		<string>32ビット(FLOAT)</string>
-< < 		<string>Other pixels:</string>
 < > 		<string>その他のピクセル数:</string>
+< < 		<string>Other pixels:</string>
 < < 		<string>16-bit (HALF)</string>
 < > 		<string>16ビット(HALF)</string>
 < < 		<string>32-bit (FLOAT)</string>
 < > 		<string>32ビット(FLOAT)</string>
-< < 		<string>Spacial pixels:</string>
 < > 		<string>空間のピクセル数:</string>
+< < 		<string>Spacial pixels:</string>
 < < 		<string>16-bit (HALF)</string>
 < > 		<string>16ビット(HALF)</string>
 < < 		<string>32-bit (FLOAT)</string>
 < > 		<string>32ビット(FLOAT)</string>
 > > 		<string>없음</string>
 < > 		<string>ICCプロファイル:</string>
-< > 		<string>他の表示</string>
 < < 		<string>Downsample images</string>
 < > 		<string>画像のダウンサンプル</string>
 < < 		<string>Convert clips to paths</string>
 < > 		<string>クリップをパスに変換</string>
 < < 		<string>Embed metadata</string>
+< < 		<string>jpegEmbedMetadataBtn</string>
 < > 		<string>メタデータを埋め込む</string>
-> > 		<string>ICC 프로파일:</string>
+< > 		<string>jpegEmbedMetadataBtn</string>
 < > 		<string>ボタン</string>
-< < 		<string>Matte:</string>
+> > 		<string>ICC 프로파일:</string>
 < > 		<string>マット:</string>
+< < 		<string>Matte:</string>
 < < 		<string>Create preset...</string>
 < > 		<string>プリセットの作成...</string>
 > > 		<string>버튼</string>
 < > 		<string>プリセットの削除</string>
 < < 		<string>Rename preset...</string>
 < > 		<string>プリセット名の変更...</string>
-< < 		<string>Palette:</string>
 < > 		<string>パレット:</string>
-< > 		<string>他の表示</string>
+< < 		<string>Palette:</string>
 > > 		<string>미리 설정 지우기</string>
 < > 		<string>自動</string>
 > > 		<string>자동</string>
@@ -103,7 +99,6 @@
 < > 		<string>カスタム</string>
 < < 		<string>Allow advanced features</string>
 < > 		<string>拡張機能を許可</string>
-< > 		<string>他の表示</string>
 < < 		<string>PDF 1.7 (Acrobat 8)</string>
 < > 		<string>PDF 1.7(Acrobat 8)</string>
 < < 		<string>PDF 1.6 (Acrobat 7)</string>
@@ -114,8 +109,8 @@
 < > 		<string>PDF 1.4(Acrobat 5)</string>
 < < 		<string>Convert image colour spaces</string>
 < > 		<string>画像の色空間を変換する</string>
-< < 		<string>Embed  fonts:</string>
 < > 		<string>フォントを埋め込む:</string>
+< < 		<string>Embed  fonts:</string>
 < < 		<string>No Fonts</string>
 < > 		<string>フォントなし</string>
 < < 		<string>Text as Curves</string>
@@ -148,9 +143,8 @@
 < > 		<string>オーバープリントブラック</string>
 < < 		<string>Subset fonts</string>
 < > 		<string>サブセットフォント</string>
-> > 		<string>사용자화</string>
 < > 		<string>ピクセル形式:</string>
-< > 		<string>他の表示</string>
+> > 		<string>사용자화</string>
 < < 		<string>Use document format</string>
 < > 		<string>ドキュメント形式を使用</string>
 < < 		<string>RGB 8-bit</string>
@@ -169,15 +163,12 @@
 < > 		<string>メタデータを埋め込む</string>
 > > 		<string>픽셀 포맷:</string>
 < > 		<string>プリセット:</string>
-< > 		<string>他の表示</string>
 < < 		<string>Preserve editability</string>
 < > 		<string>編集可能性を維持</string>
-< > 		<string>他の表示</string>
 < < 		<string>Preserve accuracy</string>
 < > 		<string>精度を維持</string>
 < < 		<string>Preserve editability</string>
 < > 		<string>編集可能性を維持</string>
-< > 		<string>他の表示</string>
 < < 		<string>Preserve accuracy</string>
 < > 		<string>精度を維持</string>
 < < 		<string>Compatibility mode</string>
@@ -186,22 +177,18 @@
 < > 		<string>メタデータを埋め込む</string>
 < < 		<string>Preserve editability</string>
 < > 		<string>編集可能性を維持</string>
-< > 		<string>他の表示</string>
 < < 		<string>Preserve accuracy</string>
 < > 		<string>精度を維持</string>
 < < 		<string>Rasterise all layers</string>
 < > 		<string>すべてのレイヤーをラスタライズ</string>
 < < 		<string>Preserve editability</string>
 < > 		<string>編集可能性を維持</string>
-< > 		<string>他の表示</string>
 < < 		<string>Preserve accuracy</string>
 < > 		<string>精度を維持</string>
 < < 		<string>Preserve editability</string>
 < > 		<string>編集可能性を維持</string>
-< > 		<string>他の表示</string>
 < < 		<string>Preserve accuracy</string>
 < > 		<string>精度を維持</string>
-< > 		<string>他の表示</string>
 < < 		<string>Nearest Neighbour</string>
 < > 		<string>最近傍</string>
 < < 		<string>Bilinear</string>
@@ -214,21 +201,19 @@
 < > 		<string>Lanczos 3(分離不可)</string>
 < < 		<string>Smallest file sizes</string>
 < > 		<string>最小ファイルサイズ</string>
-< < 		<string>Quality:</string>
 < > 		<string>品質:</string>
+< < 		<string>Quality:</string>
 < < 		<string>Include bleed</string>
 < > 		<string>裁ち切りを含める</string>
 < < 		<string>Unsupported properties</string>
 < > 		<string>サポートされていないプロパティ</string>
-< > 		<string>他の表示</string>
 < < 		<string>Nothing</string>
 < > 		<string>なし</string>
 > > 		<string>미리 설정:</string>
 < > 		<string>すべて</string>
-< < 		<string>Resampler:</string>
 < > 		<string>リサンプラー:</string>
+< < 		<string>Resampler:</string>
 < > 		<string>バイリニア</string>
-< > 		<string>他の表示</string>
 < < 		<string>Nearest Neighbour</string>
 < > 		<string>最近傍</string>
 < > 		<string>バイキュービック</string>
@@ -238,10 +223,9 @@
 < > 		<string>Lanczos 3(分離不可)</string>
 < > 		<string>ボタン</string>
 < > 		<string>マット:</string>
-< < 		<string>Resampler:</string>
 < > 		<string>リサンプラー:</string>
+< < 		<string>Resampler:</string>
 < > 		<string>バイリニア</string>
-< > 		<string>他の表示</string>
 < < 		<string>Nearest Neighbour</string>
 < > 		<string>最近傍</string>
 < > 		<string>バイキュービック</string>
@@ -265,18 +249,16 @@
 < > 		<string>PNG、GIF</string>
 < < 		<string>Embed metadata</string>
 < > 		<string>メタデータを埋め込む</string>
-< < 		<string>Compression:</string>
 < > 		<string>圧縮:</string>
+< < 		<string>Compression:</string>
 < > 		<string>なし</string>
-< > 		<string>OtherViews</string>
 < > 		<string>空</string>
 < < 		<string>Raster</string>
 < > 		<string>ラスター</string>
-< < 		<string>Rasterise:</string>
 < > 		<string>ラスタライズ:</string>
+< < 		<string>Rasterise:</string>
 < < 		<string>Resampler:</string>
 < > 		<string>リサンプラー:</string>
-< > 		<string>他の表示</string>
 < < 		<string>Nearest Neighbour</string>
 < > 		<string>最近傍</string>
 < > 		<string>バイリニア</string>
@@ -293,28 +275,28 @@
 < > 		<string>ラジオ</string>
 < < 		<string>Quality:</string>
 < > 		<string>品質:</string>
-< < 		<string>Postscript level:</string>
 < > 		<string>PostScriptレベル:</string>
-< < 		<string>Compatibility:</string>
+< < 		<string>Postscript level:</string>
 < > 		<string>互換性:</string>
-< < 		<string>Colour Space:</string>
+< < 		<string>Compatibility:</string>
 < > 		<string>色空間:</string>
-> > 		<string>모두</string>
+< < 		<string>Colour Space:</string>
 < > 		<string>プロファイル:</string>
+> > 		<string>모두</string>
 > > 		<string>프로파일:</string>
 < > 		<string>ベクトル</string>
-< < 		<string>Resample:</string>
 < > 		<string>リサンプル:</string>
-< < 		<string>Gradients:</string>
+< < 		<string>Resample:</string>
 < > 		<string>グラデーション:</string>
-< < 		<string>Adjustments:</string>
+< < 		<string>Gradients:</string>
 < > 		<string>調整:</string>
-< < 		<string>Layer effects:</string>
+< < 		<string>Adjustments:</string>
 < > 		<string>レイヤーエフェクト:</string>
-< < 		<string>Lines:</string>
+< < 		<string>Layer effects:</string>
 < > 		<string>行数:</string>
-< < 		<string>Adv Blending:</string>
+< < 		<string>Lines:</string>
 < > 		<string>高度なブレンディング:</string>
+< < 		<string>Adv Blending:</string>
 < < 		<string>Box</string>
 < > 		<string>ボックス</string>
 < < 		<string>An OCIO colour profile will be applied if one can be identified from the output filename</string>
@@ -335,11 +317,11 @@
 < > 		<string>メタデータが埋め込まれます</string>
 < < 		<string>Choose how to handle exporting vector strokes. Some third party applications may not support vector strokes even if they support vector masks.</string>
 < > 		<string>メタデータが埋め込まれます</string>
-< < 		<string>Choose the pixel data type to use for all image pixels (inluding RGB, Alpha [A], Luminance [Y] and Chroma [RY,BY] channels)</string>
+< < 		<string>Choose the pixel data type to use for all image pixels (including RGB, Alpha [A], Luminance [Y] and Chroma [RY,BY] channels)</string>
 < > 		<string>メタデータが埋め込まれます</string>
-< < 		<string>Choose the pixel data type to use for all other pixels (inluding unknown channels)</string>
+< < 		<string>Choose the pixel data type to use for all other pixels (including unknown channels)</string>
 < > 		<string>メタデータが埋め込まれます</string>
-< < 		<string>Choose the pixel data type to use for all spacial pixels (inluding XYZ, Z and ZBack)</string>
+< < 		<string>Choose the pixel data type to use for all spacial pixels (including XYZ, Z and ZBack)</string>
 < > 		<string>ラスター要素のサイズ変更時に使用するリサンプラーを決定します</string>
 < < 		<string>Chose how to handle exporting advanced blending options. Some third party applications may not support advanced blending options.</string>
 < > 		<string>レイヤーコンテンツ(ラスターおよびベクトルマスク、レイヤー効果および調整など)をラスタライズします</string>
@@ -515,4 +497,6 @@
 < > 		<string>選択範囲に複数の調整方式が含まれています</string>
 < < 		<string>Use Zip compression where it results in smaller file sizes. Files may not be compatible with some third party applications.</string>
 < > 		<string>選択範囲に高度なブレンディング方式が複数含まれています</string>
+< < 		<string>NSApplication</string>
+< > 		<string>NSApplication</string>
 > > 		<string>벡터</string>
