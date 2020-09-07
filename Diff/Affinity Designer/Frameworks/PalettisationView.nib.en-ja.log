@@ -2,13 +2,10 @@
 > 		<string>ファイル形式:</string>
 < 		<string>None</string>
 > 		<string>なし</string>
-< 		<string>OtherViews</string>
-> 		<string>他の表示</string>
 < 		<string>Pixel format:</string>
 > 		<string>ピクセル形式:</string>
 < 		<string>Greyscale 16-bit</string>
 > 		<string>グレースケール 16ビット</string>
-> 		<string>他の表示</string>
 < 		<string>RGB 8-bit</string>
 > 		<string>RGB 8ビット</string>
 < 		<string>RGB 16-bit</string>
@@ -19,12 +16,10 @@
 > 		<string>CMYK 8ビット</string>
 < 		<string>ICC profile:</string>
 > 		<string>ICCプロファイル:</string>
-> 		<string>他の表示</string>
 < 		<string>Embed ICC profile</string>
 > 		<string>ICCプロファイルを埋め込む</string>
 < 		<string>Resampler:</string>
 > 		<string>リサンプラー:</string>
-> 		<string>他の表示</string>
 < 		<string>Nearest Neighbour</string>
 > 		<string>最近傍</string>
 < 		<string>Bilinear</string>
@@ -37,11 +32,11 @@
 > 		<string>Lanczos 3(分離不可)</string>
 < 		<string>Matte:</string>
 > 		<string>マット:</string>
-< 		<string>Button</string>
 > 		<string>ボタン</string>
+< 		<string>Button</string>
 < 		<string>Quality:</string>
 > 		<string>品質:</string>
 < 		<string>Palettised</string>
-> 		<string>減色済み</string>
-< 		<string>Preset:</string>
+> 		<string>減色</string>
 > 		<string>プリセット:</string>
+< 		<string>Preset:</string>
