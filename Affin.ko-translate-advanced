@@ -70,7 +70,7 @@ do
     diff ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".en-ko.log | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/"${NAME}".ja-ko.log
     echo " (로그 종료)"
     git add .
-    git commit -m "${APPNAME} ${NAME} Updated"
+    git commit -m "${APPNAME}(1.8.2) ${NAME} Updated"
     ;;
     2 )
     diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log
@@ -78,7 +78,7 @@ do
     diff ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".ja-ko.log
     echo " (로그 종료)"
     git add .
-    git commit -m "${APPNAME} ${NAME} Updated"
+    git commit -m "${APPNAME}(1.8.2) ${NAME} Updated"
     ;;
   esac
 done
