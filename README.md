@@ -8,14 +8,16 @@ Affinity 시리즈 한글화 프로젝트
 > 이미 Affinity 시리즈를 이용한다면 이 단계를 건너 뛰어도 좋습니다.
 
 Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다면 번역할 수 없습니다. 아래에서 Affinity 시리즈를 구매하실 수 있습니다.
-* 최신 버전 구매
+* 공식 홈페이지에서...
   * [Affinity Designer for desktop - Professional graphic design software](https://affinity.serif.com/designer/desktop)
   * [Affinity Photo for desktop - Professional image editing software](https://affinity.serif.com/photo/desktop)
   * [Affinity Publisher - Professional desktop publishing software](https://affinity.serif.com/publisher)
-* LTS 버전 구매
+* App Store에서...
   * [Affinity Designer on the Mac App Store](https://itunes.apple.com/app/affinity-designer/id824171161)
   * [Affinity Photo on the Mac App Store](https://itunes.apple.com/app/affinity-photo/id824183456)
   * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id881418622)
+
+  설치한 후에는 제대로 설치된 것인지 확인을 위해 한 번 실행해주시기 바랍니다.
 
 <!-- 베타 프로그램의 번역도 가능합니다. 베타 프로그램은 베타 사용자 포럼에서 구할 수 있습니다.
 * 베타 프로그램
@@ -31,12 +33,13 @@ cd ~/
 git clone https://github.com/Teiming/Affin.ko.git
 ```
 ## Step 2. 변환하기
-Step-2.command를 실행합니다. Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 수 있는 xml로 변환합니다. 다음과 같이 관리자 권한으로 실행할 수 있습니다.
+``Step-2.command``를 실행합니다. Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 수 있는 xml로 변환합니다. 다음과 같이 관리자 권한으로 실행할 수 있습니다.
 ```sh
 sudo ~/Affin.ko/Step-2.command
 ```
+이 과정은 최초 1회로 충분하지만, Affinity 앱이 업데이트되면 다시 실시해야합니다.
 ## Step 3. 번역 폴더 생성
-한국어 번역 파일을 저장할 ko.lproj 폴더를 만듭니다. Step-2.command는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
+한국어 번역 파일을 저장할 ``ko.lproj`` 폴더를 만듭니다. ``Step-2.command``는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
 > 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affin.ko은 정상 작동합니다.
 
 만약 ```Permission denied``` 오류가 나타난다면, 아래 명령어를 통해 해결합니다.
