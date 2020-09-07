@@ -1,8 +1,16 @@
 < > 		<string>タイポグラフィ</string>
+< < 		<string>.AppleSystemUIFont</string>
+< < 				<string>NSFont</string>
+< < 				<string>NSObject</string>
+< < 			<string>NSFont</string>
+< > 		<string>.AppleSystemUIFont</string>
+< > 				<string>NSFont</string>
+< > 				<string>NSObject</string>
+< > 			<string>NSFont</string>
 > > 		<string>타이포그래피</string>
 < > 		<string>閉じる</string>
-< < 		<string>Show all font features</string>
-< > 		<string>すべてのフォント機能を表示します</string>
+< < 		<string>Hide irrelevant features</string>
+< > 		<string>関連のない機能を非表示にする</string>
 < < 		<string>Stylistic Sets</string>
 < > 		<string>スタイルセット</string>
 < < 		<string>Annotation Forms</string>
