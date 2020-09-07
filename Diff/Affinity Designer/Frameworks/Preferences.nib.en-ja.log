@@ -2,8 +2,8 @@
 > 		<string>環境設定</string>
 > 		<string>ホーム</string>
 < 		<string>Reopen document(s) on startup</string>
-> 		<string>起動時に前回開いていたドキュメントを開く</string>
-< 		<string>Automatically Hide Extension</string>
+> 		<string>起動時にドキュメントを再度開く</string>
+< 		<string>Automatically hide extension</string>
 > 		<string>拡張子を自動的に非表示にする</string>
 < 		<string>Import PSD text as text rather than bitmap</string>
 > 		<string>忠実度よりも編集可能テキストを優先する(PSD、PDF、およびAI)</string>
@@ -19,6 +19,8 @@
 > 		<string>フィラーテキストをテキストとして挿入</string>
 < 		<string>Automatically update linked resources when modified externally</string>
 > 		<string>外部変更時にリンクされたリソースを自動的に更新</string>
+< 		<string>Load metadata from XMP sidecars</string>
+> 		<string>XMPサイドカーからメタデータを読み込み</string>
 < 		<string>Refine HEIC depth maps</string>
 > 		<string>HEIC深度マップを調整</string>
 < 		<string>Open Lens Profiles Folder in Finder</string>
@@ -31,19 +33,17 @@
 > 		<string>* 言語:</string>
 < 		<string>* Requires restart</string>
 > 		<string>* 再起動が必要</string>
+< 		<string>Import PSD smart objects where possible</string>
+> 		<string>可能であればPSDスマートオブジェクトをインポート</string>
+< 		<string>Prefer to keep selection after delete</string>
+> 		<string>削除後も選択を保持</string>
 > 		<string>一般</string>
-< 		<string>OtherViews</string>
-> 		<string>他の表示</string>
 < 		<string>RGB Colour Profile:</string>
 > 		<string>RGBカラープロファイル:</string>
-> 		<string>他の表示</string>
 < 		<string>CMYK Colour Profile:</string>
 > 		<string>CMYKカラープロファイル:</string>
-> 		<string>他の表示</string>
 < 		<string>Greyscale Colour Profile:</string>
 > 		<string>グレースケールカラープロファイル:</string>
-> 		<string>他の表示</string>
-> 		<string>他の表示</string>
 < 		<string>Perceptual</string>
 > 		<string>知覚</string>
 < 		<string>Relative Colourimetric</string>
@@ -79,7 +79,6 @@
 > 		<string>ファイル名に基づいてOCIO変換を実行</string>
 < 		<string>and warn when converting on load</string>
 > 		<string>読み込み時に変換を実行する場合に警告</string>
-> 		<string>他の表示</string>
 < 		<string>32bit RGB Colour Profile:</string>
 > 		<string>32ビットRGBカラープロファイル:</string>
 < 		<string>Associate OpenEXR alpha channels</string>
@@ -98,12 +97,10 @@
 > 		<string>ディスク使用量警告レベル:</string>
 < 		<string>Undo Limit:</string>
 > 		<string>取り消し回数上限:</string>
-> 		<string>他の表示</string>
 < 		<string>Bilinear (Best Quality)</string>
 > 		<string>バイリニア(品質優先)</string>
 < 		<string>Nearest Neighbour (Fastest)</string>
 > 		<string>最近傍(速度優先)</string>
-> 		<string>他の表示</string>
 < 		<string>Automatic (Best)</string>
 > 		<string>自動(最適)</string>
 < 		<string>Low quality (Fastest)</string>
@@ -130,7 +127,6 @@
 > 		<string>Retinaレンダリング:</string>
 < 		<string>Software</string>
 > 		<string>ソフトウェア</string>
-> 		<string>他の表示</string>
 < 		<string>OpenGL (Basic)</string>
 > 		<string>OpenGL(基本)</string>
 < 		<string>Metal</string>
@@ -200,6 +196,8 @@
 > 		<string>テキストをポイント単位で表示</string>
 < 		<string>Enable touch bar support (Requires Restart)</string>
 > 		<string>Touch barのサポートを有効にする(再起動が必要)</string>
+< 		<string>Always use white background for Font dropdown</string>
+> 		<string>[フォント]ドロップダウンで常に白の背景を使用</string>
 > 		<string>ボックス</string>
 < 		<string>User Interface</string>
 > 		<string>ユーザーインターフェース</string>
@@ -229,7 +227,6 @@
 > 		<string>微調整の距離:</string>
 < 		<string>Modifier Nudge Distance:</string>
 > 		<string>モディファイア微調整距離:</string>
-> 		<string>他の表示</string>
 < 		<string>Enable canvas rotation with trackpad</string>
 > 		<string>Trackpadでキャンバス回転を有効にする</string>
 < 		<string>Synchronise tools between documents</string>
@@ -254,9 +251,12 @@
 > 		<string>すべてのショートカットをクリア</string>
 < 		<string>Duplicate Check</string>
 > 		<string>重複チェック</string>
-> 		<string>リセット</string>
+< 		<string>Serif Defaults</string>
+> 		<string>Serifのデフォルト</string>
 < 		<string>Modifiers are not permitted.</string>
 > 		<string>モディファイアは許容されません。</string>
+< 		<string>Apple Defaults</string>
+> 		<string>Appleのデフォルト</string>
 < 		<string>Keyboard Shortcuts</string>
 > 		<string>キーボードショートカット</string>
 < 		<string>Plugin Search Folders</string>
@@ -290,18 +290,18 @@
 > 		<string>"不明な"プラグインの使用を許可</string>
 < 		<string>Photoshop Plugins</string>
 > 		<string>Photoshopプラグイン</string>
-< 		<string>Replace</string>
-> 		<string>置換</string>
-> 		<string>テキストセル</string>
-> 		<string>言語</string>
+> 		<string>追加</string>
 > 		<string>削除</string>
 > 		<string>テキストセル</string>
 > 		<string>テキストセル</string>
-> 		<string>追加</string>
 < 		<string>With</string>
 > 		<string>次で置換</string>
+< 		<string>Replace</string>
+> 		<string>置換</string>
+> 		<string>言語</string>
 < 		<string>Replace text while typing</string>
 > 		<string>入力中にテキストを置換</string>
+> 		<string>テキストセル</string>
 < 		<string>Auto-Correct</string>
 > 		<string>自動補正</string>
 > 		<string>言語</string>
@@ -319,17 +319,16 @@
 > 		<string>出荷時の設定にリセット</string>
 < 		<string>Filler Text</string>
 > 		<string>フィラーテキスト</string>
-> 		<string>言語</string>
-> 		<string>テキストセル</string>
-> 		<string>削除</string>
 > 		<string>追加</string>
+> 		<string>削除</string>
+> 		<string>テキストセル</string>
+> 		<string>言語</string>
 < 		<string>Title Exceptions</string>
 > 		<string>タイトル例外</string>
 < 		<string>Check for updates:</string>
 > 		<string>アップデートの有無をチェック:</string>
 < 		<string>Daily</string>
 > 		<string>毎日</string>
-> 		<string>OtherViews</string>
 < 		<string>Weekly</string>
 > 		<string>毎週</string>
 < 		<string>Monthly</string>
