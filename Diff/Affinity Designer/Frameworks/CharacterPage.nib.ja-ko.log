@@ -1,4 +1,6 @@
 < > 		<string>追加</string>
+< < 		<string>{249, 171}</string>
+< > 		<string>{249, 169}</string>
 < > 		<string>左</string>
 < < 		<string>Text Cell</string>
 < > 		<string>テキストセル</string>
@@ -7,6 +9,10 @@
 < > 		<string>文字</string>
 < > 		<string>テキストセル</string>
 < > 		<string>テキストセル</string>
+< < 		<string>{{0, -23}, {249, 194}}</string>
+< > 		<string>{{0, -25}, {249, 194}}</string>
+< < 		<string>{{1, 1}, {249, 23}}</string>
+< > 		<string>{{1, 1}, {249, 25}}</string>
 > > 		<string>추가</string>
 > < 		<string>Left</string>
 > > 		<string>왼쪽</string>
@@ -15,10 +21,10 @@
 > < 		<string>Delete</string>
 > > 		<string>지우기</string>
 < > 		<string>タイプ:</string>
-< < 		<string>Hyphenation:</string>
 < > 		<string>ハイフネーション:</string>
-< < 		<string>Typography language:</string>
+< < 		<string>Hyphenation:</string>
 < > 		<string>タイポグラフィ言語:</string>
+< < 		<string>Typography language:</string>
 < < 		<string>Typography script:</string>
 < > 		<string>タイポグラフィスクリプト:</string>
 < < 		<string>Spelling:</string>
