@@ -10,6 +10,20 @@
 > 		<string>パラメータC(c)</string>
 < 		<string>Apply</string>
 > 		<string>適用</string>
+< 		<string></string>
+< 		<string></string>
+< 				<string>NSButton</string>
+< 				<string>NSControl</string>
+< 				<string>NSView</string>
+< 				<string>NSResponder</string>
+< 				<string>NSObject</string>
+> 		<string></string>
+> 		<string></string>
+> 				<string>NSButton</string>
+> 				<string>NSControl</string>
+> 				<string>NSView</string>
+> 				<string>NSResponder</string>
+> 				<string>NSObject</string>
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
 < 		<string>Cartesian</string>
@@ -34,8 +48,8 @@
 > 		<string>回り込み</string>
 < 		<string>Mirror</string>
 > 		<string>ミラー</string>
-< 		<string>Extend Mode</string>
 > 		<string>拡張モード</string>
+< 		<string>Extend Mode</string>
 < 		<string>Mirror view</string>
 > 		<string>ミラー表示</string>
 < 		<string>No split view</string>
