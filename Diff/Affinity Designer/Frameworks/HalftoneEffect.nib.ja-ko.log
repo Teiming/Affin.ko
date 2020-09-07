@@ -3,11 +3,9 @@
 < > 		<string>適用</string>
 > > 		<string>적용</string>
 < > 		<string>キャンセル</string>
-< < 		<string>Monochrome</string>
-< > 		<string>モノクロ</string>
-< < 		<string>OtherViews</string>
-< > 		<string>他の表示</string>
 > > 		<string>취소</string>
+< > 		<string>モノクロ</string>
+> > 		<string>단색</string>
 < > 		<string>カラー</string>
 < < 		<string>Line</string>
 < > 		<string>線</string>
@@ -15,8 +13,8 @@
 < > 		<string>循環</string>
 < < 		<string>Screen</string>
 < > 		<string>スクリーン</string>
-< < 		<string>Dot</string>
 < > 		<string>ドット</string>
+< < 		<string>Dot</string>
 < < 		<string>Cell Size</string>
 < > 		<string>セルサイズ</string>
 > > 		<string>색상</string>
@@ -29,7 +27,6 @@
 < > 		<string>下色除去(UCR)</string>
 > > 		<string>대비</string>
 < > 		<string>コサイン</string>
-< > 		<string>OtherViews</string>
 < < 		<string>Round</string>
 < > 		<string>ラウンド</string>
 > > 		<string>코사인</string>
