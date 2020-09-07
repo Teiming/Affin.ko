@@ -7,8 +7,8 @@
 < > 		<string>縦横比:</string>
 > > 		<string>종횡비:</string>
 < > 		<string>角度:</string>
-> > 		<string>각도:</string>
 < > 		<string>第2軸</string>
+> > 		<string>각도:</string>
 > > 		<string>두 번째 축</string>
 < > 		<string>間隔:</string>
 < > 		<string>余白:</string>
@@ -19,8 +19,6 @@
 < > 		<string>第1軸</string>
 > > 		<string>첫 번째 축</string>
 < > 		<string>中間角度:</string>
-< < 		<string>OtherViews</string>
-< > 		<string>他の表示</string>
 > > 		<string>사이 각도:</string>
 < > 		<string>追加しない</string>
 > > 		<string>추가하지 않음</string>
@@ -29,10 +27,8 @@
 < > 		<string>スナップ対象に追加</string>
 < < 		<string>Intermediate divisions:</string>
 < > 		<string>中間区分:</string>
-< > 		<string>他の表示</string>
 > > 		<string>스내핑 대상에 추가</string>
 < > 		<string>プレーン直交軸:</string>
-< > 		<string>他の表示</string>
 > > 		<string>평면 직교 축:</string>
 < > 		<string>追加しない</string>
 > > 		<string>추가하지 않음</string>
@@ -41,7 +37,8 @@
 < > 		<string>スナップ対象に追加</string>
 > > 		<string>스내핑 대상에 추가</string>
 < > 		<string>水平軸:</string>
-< > 		<string>他の表示</string>
+< < 		<string>SchemePopupButtonCell</string>
+< > 		<string>SchemePopupButtonCell</string>
 > > 		<string>가로 축:</string>
 < > 		<string>追加しない</string>
 > > 		<string>추가하지 않음</string>
@@ -50,7 +47,6 @@
 < > 		<string>スナップ対象に追加</string>
 > > 		<string>스내핑 대상에 추가</string>
 < > 		<string>垂直軸:</string>
-< > 		<string>他の表示</string>
 > > 		<string>세로 축:</string>
 < > 		<string>追加しない</string>
 > > 		<string>추가하지 않음</string>
@@ -59,8 +55,8 @@
 < > 		<string>スナップ対象に追加</string>
 > > 		<string>스내핑 대상에 추가</string>
 < > 		<string>スナップ軸の設定</string>
-> > 		<string>스내핑 축 설정</string>
 < > 		<string>間隔:</string>
+> > 		<string>스내핑 축 설정</string>
 > > 		<string>간격:</string>
 < > 		<string>区分:</string>
 < > 		<string>余白:</string>
@@ -71,7 +67,6 @@
 < > 		<string>上方向軸</string>
 > > 		<string>위쪽 축</string>
 < > 		<string>グリッドタイプ:</string>
-< > 		<string>他の表示</string>
 > > 		<string>격자 종류:</string>
 < > 		<string>標準</string>
 > > 		<string>표준</string>
