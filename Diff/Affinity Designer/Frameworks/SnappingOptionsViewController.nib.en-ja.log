@@ -27,8 +27,6 @@
 > 		<string>四角形</string>
 < 		<string>Candidates:</string>
 > 		<string>候補:</string>
-< 		<string>OtherViews</string>
-> 		<string>他の表示</string>
 < 		<string>Candidate List</string>
 > 		<string>候補リスト</string>
 < 		<string>Immediate layers</string>
@@ -37,8 +35,8 @@
 > 		<string>直接レイヤーと子</string>
 < 		<string>All layers</string>
 > 		<string>すべてのレイヤー</string>
-< 		<string>Maximum:</string>
 > 		<string>最大:</string>
+< 		<string>Maximum:</string>
 < 		<string>Show snapping candidates</string>
 > 		<string>スナップ候補の表示</string>
 > 		<string>ボックス</string>
@@ -59,11 +57,10 @@
 > 		<string>プリセット名の変更</string>
 < 		<string>Delete preset</string>
 > 		<string>プリセットの削除</string>
-> 		<string>他の表示</string>
-< 		<string>Preset:</string>
 > 		<string>プリセット:</string>
-< 		<string>Screen tolerance:</string>
+< 		<string>Preset:</string>
 > 		<string>スクリーン許容範囲:</string>
+< 		<string>Screen tolerance:</string>
 < 		<string>If set, only objects that are currently visible can be snapped to</string>
 > 		<string>いずれかのスナップオプションプリセットを選択するか、独自の設定値を設定します</string>
 < 		<string>Select a Snapping options preset, or configure your own settings</string>
