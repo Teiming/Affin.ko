@@ -21,20 +21,24 @@
 < 		<string>Hyphenation</string>
 > 		<string>ハイフネーション</string>
 > 		<string>位置</string>
-< 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
+< 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 > 		<string>テキストセル</string>
 > 		<string>テキストセル</string>
 > 		<string>テキストセル</string>
 < 		<string>Tab Stops</string>
 > 		<string>タブ位置</string>
+< 		<string>Auto</string>
+> 		<string>自動</string>
 < 		<string>Scale for descenders</string>
 > 		<string>ディセンダーのスケール</string>
 < 		<string>Enabled</string>
 > 		<string>有効</string>
 < 		<string>Align left edge</string>
 > 		<string>左端を揃える</string>
+< 		<string>Characters:</string>
+> 		<string>文字:</string>
 < 		<string>Style:</string>
 > 		<string>スタイル:</string>
 < 		<string>Distance to text:</string>
@@ -109,10 +113,12 @@
 > 		<string>前の段落を含めて保持</string>
 < 		<string>Start:</string>
 > 		<string>起動:</string>
+< 		<string>Leading:</string>
+> 		<string>行間:</string>
 < 		<string>Sum space before and after</string>
 > 		<string>前後のスペースの合計</string>
-< 		<string>Ignore space for same styles</string>
-> 		<string>同じスタイルに対するスペースを無視</string>
+< 		<string>Space between same styles:</string>
+> 		<string>同じスタイル間の間隔:</string>
 < 		<string>Use space before:</string>
 > 		<string>前にスペースを使用:</string>
 > 		<string>間隔</string>
@@ -134,8 +140,9 @@
 < 				<string>NSObject</string>
 < 			<string>NSIBHelpConnector</string>
 < 		<string>Character Style</string>
-> 		<string>{{186, 1}, {20, 18}}</string>
 < 		<string>Default Tab Stops</string>
+> 		<string>{{186, 1}, {20, 18}}</string>
+< 		<string>Desired Letter Spacing</string>
 < 		<string>Desired Letter Spacing</string>
 > 		<string>SchemeButtonCell</string>
 > 		<string>...</string>
@@ -144,8 +151,6 @@
 > 				<string>NSIBHelpConnector</string>
 > 				<string>NSObject</string>
 > 			<string>NSIBHelpConnector</string>
-< 		<string>Desired Letter Spacing</string>
-> 		<string>オフセット</string>
 < 		<string>Desired Word Spacing</string>
 > 		<string>オフセット</string>
 < 		<string>Desired Word Spacing</string>
@@ -155,6 +160,10 @@
 < 		<string>First Line Indent</string>
 > 		<string>オフセット</string>
 < 		<string>Frame Stroke</string>
+> 		<string>オフセット</string>
+< 		<string>Last Line Outdent</string>
+> 		<string>オフセット</string>
+< 		<string>Last Line Outdent</string>
 > 		<string>オフセット</string>
 < 		<string>Leading</string>
 > 		<string>オフセット</string>
@@ -189,8 +198,8 @@
 < 		<string>SchemeButtonCell</string>
 < 		<string>...</string>
 > 		<string>リストレベル</string>
-< 		<string>Offset</string>
 > 		<string>先頭行インデント</string>
+< 		<string>Offset</string>
 > 		<string>先頭行インデント</string>
 > 		<string>前にスペースを使用</string>
 > 		<string>右インデント</string>
@@ -207,8 +216,10 @@
 > 		<string>最小単語間隔</string>
 > 		<string>最小単語間隔</string>
 > 		<string>最小文字間隔</string>
-< 		<string>Paragraph Style</string>
 > 		<string>最小文字間隔</string>
+> 		<string>最終行アウトデント</string>
+< 		<string>Paragraph Style</string>
+> 		<string>最終行アウトデント</string>
 < 		<string>Renumber Across Stories</string>
 > 		<string>望ましい単語間隔</string>
 < 		<string>Right Indent</string>
@@ -225,9 +236,11 @@
 > 		<string>段落の後のスペース</string>
 < 		<string>Space Before Paragraph</string>
 > 		<string>段落の後のスペース</string>
-< 		<string>TabStop Indent</string>
+< 		<string>Space Between Paragraphs</string>
 > 		<string>段落の後のスペース</string>
-< 		<string>Text To Insert</string>
+< 		<string>TabStop Indent</string>
 > 		<string>段落スタイル</string>
+< 		<string>Text To Insert</string>
+> 		<string>段落間の間隔</string>
 < 		<string>Use Space Before</string>
 > 		<string>行間</string>
