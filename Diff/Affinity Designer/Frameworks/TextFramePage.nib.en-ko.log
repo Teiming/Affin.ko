@@ -16,14 +16,20 @@
 > 		<string>줄바꿈 무시</string>
 < 		<string>General</string>
 > 		<string>일반</string>
-< 		<string>Vertical Alignment</string>
-> 		<string>세로 정렬</string>
+< 		<string>Top</string>
+> 		<string>위쪽</string>
+< 		<string>Bottom</string>
+> 		<string>아래</string>
 < 		<string>Columns:</string>
 > 		<string>행:</string>
 < 		<string>Width</string>
 > 		<string>너비</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>세로 정렬</string>
 < 		<string>Colour:</string>
 > 		<string>색상:</string>
+< 		<string>Right Text Inset</string>
+> 		<string>오른쪽 텍스트 들여쓰기</string>
 < 		<string>Right Text Inset</string>
 > 		<string>오른쪽 텍스트 들여쓰기</string>
 < 		<string>Set the main grid line colour</string>

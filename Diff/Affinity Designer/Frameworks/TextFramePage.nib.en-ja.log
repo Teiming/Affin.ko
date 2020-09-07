@@ -23,21 +23,37 @@
 > 		<string>ベースライングリッドを無視</string>
 < 		<string>General</string>
 > 		<string>一般</string>
-< 		<string>Vertical Alignment</string>
-> 		<string>垂直方向揃え</string>
+> 		<string>境界線:</string>
+< 		<string>Gap</string>
+> 		<string>ギャップ</string>
+> 		<string>ボタン</string>
+< 		<string>Top</string>
+> 		<string>上</string>
+< 		<string>Bottom</string>
+> 		<string>下</string>
+< 		<string>Column Rules</string>
+> 		<string>列ルール</string>
 < 		<string>Columns:</string>
 > 		<string>列数:</string>
+< 		<string>{{0, 12}, {245, 97}}</string>
+> 		<string>{{0, 12}, {245, 95}}</string>
 > 		<string>幅</string>
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
 > 		<string>余白</string>
 > 		<string>テキストセル</string>
+< 		<string>{{0, -11}, {245, 120}}</string>
+> 		<string>{{0, -13}, {245, 120}}</string>
+< 		<string>{245, 23}</string>
+> 		<string>{245, 25}</string>
 < 		<string>Balance text in columns</string>
 > 		<string>列でテキストのバランスをとる</string>
 < 		<string>Preserve width</string>
 > 		<string>幅を保存</string>
 < 		<string>Columns</string>
 > 		<string>列数</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>垂直方向揃え</string>
 < 		<string>Use Baseline Grid</string>
 > 		<string>ベースライングリッドを使用</string>
 < 		<string>Start Position:</string>
@@ -62,21 +78,29 @@
 < 		<string>Frame Fill</string>
 > 		<string>フレーム境界線</string>
 < 		<string>Frame Stroke</string>
+> 		<string>フレーム境界線</string>
+< 		<string>Frame Stroke</string>
+> 		<string>フレーム境界線の塗りつぶし</string>
+< 		<string>Frame Stroke Fill</string>
 > 		<string>フレーム境界線の塗りつぶし</string>
 < 		<string>Frame Stroke Fill</string>
 > 		<string>フレーム幅を維持するために隣の列幅を調整</string>
 < 		<string>Left Text Inset</string>
 > 		<string>メイングリッドラインを不透明に設定</string>
-< 		<string>Link Insets</string>
+< 		<string>Left Text Inset</string>
 > 		<string>メイングリッドラインカラーを設定</string>
-< 		<string>Max Paragraph Space</string>
+< 		<string>Link Insets</string>
 > 		<string>上のテキストインセット</string>
 < 		<string>Max Paragraph Space</string>
 > 		<string>下のテキストインセット</string>
-< 		<string>Number of Columns</string>
+< 		<string>Max Paragraph Space</string>
 > 		<string>列数</string>
+< 		<string>Number of Columns</string>
+> 		<string>右のテキストインセット</string>
 < 		<string>Right Text Inset</string>
 > 		<string>右のテキストインセット</string>
+< 		<string>Right Text Inset</string>
+> 		<string>左のテキストインセット</string>
 < 		<string>Set the main grid line colour</string>
 > 		<string>左のテキストインセット</string>
 < 		<string>Set the main grid line opacity</string>
