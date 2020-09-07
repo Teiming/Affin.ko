@@ -1,7 +1,15 @@
 < 		<string>Edit Text Style</string>
 > 		<string>テキストスタイルを編集</string>
+< 		<string>.AppleSystemUIFont</string>
+< 				<string>NSFont</string>
+< 				<string>NSObject</string>
+< 			<string>NSFont</string>
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
+> 		<string>.AppleSystemUIFont</string>
+> 				<string>NSFont</string>
+> 				<string>NSObject</string>
+> 			<string>NSFont</string>
 < 		<string>Style name:</string>
 > 		<string>スタイル名:</string>
 < 		<string>General</string>
@@ -81,8 +89,6 @@
 > 		<string>カラー</string>
 < 		<string>Character Language</string>
 > 		<string>文字言語</string>
-< 		<string>Spelling language:</string>
-> 		<string>スペル言語:</string>
 < 		<string>Hyphenation:</string>
 > 		<string>ハイフネーション:</string>
 < 		<string>Typography script:</string>
@@ -241,12 +247,6 @@
 > 		<string>段落の間隔</string>
 < 		<string>Alignment:</string>
 > 		<string>配置:</string>
-< 		<string>First line indent:</string>
-> 		<string>先頭行インデント:</string>
-< 		<string>Left indent:</string>
-> 		<string>左インデント:</string>
-< 		<string>Right indent:</string>
-> 		<string>右インデント:</string>
 < 		<string>Leading:</string>
 > 		<string>行間:</string>
 < 		<string>Space before:</string>
@@ -257,8 +257,16 @@
 > 		<string>前にスペースを使用:</string>
 < 		<string>Sum space before and after</string>
 > 		<string>前後のスペースの合計</string>
-< 		<string>Ignore before and after space for same styles</string>
-> 		<string>同じスタイルに対する前後スペースを無視</string>
+< 		<string>Space between same styles:</string>
+> 		<string>同じスタイル間の間隔:</string>
+< 		<string>First line indent:</string>
+> 		<string>先頭行インデント:</string>
+< 		<string>Last line outdent</string>
+> 		<string>最終行アウトデント</string>
+< 		<string>Left indent:</string>
+> 		<string>左インデント:</string>
+< 		<string>Right indent:</string>
+> 		<string>右インデント:</string>
 < 		<string>Item 8</string>
 > 		<string>項目8</string>
 < 		<string>Paragraph Tab Stops</string>
@@ -305,7 +313,7 @@
 > 		<string>番号付けの開始番号:</string>
 < 		<string>Restart numbering:</string>
 > 		<string>番号付けの再開:</string>
-< 		<string>Now</string>
+< 		<string>Restart numbering now</string>
 > 		<string>現在</string>
 < 		<string>Text:</string>
 > 		<string>テキスト:</string>
@@ -378,6 +386,9 @@
 > 		<string>左端を揃える</string>
 < 		<string>Scale for descenders</string>
 > 		<string>ディセンダーのスケール</string>
+> 		<string>文字</string>
+< 		<string>Auto</string>
+> 		<string>自動</string>
 > 		<string>アイテム12</string>
 < 		<string>Max word count:</string>
 > 		<string>最大ワード数:</string>
@@ -424,23 +435,16 @@
 > 		<string>テーブルビューセル</string>
 > 		<string>テーブルビューセル</string>
 > 		<string>テーブルビューセル</string>
-< 		<string>NSToolTipHelpKey</string>
-< 		<string>Add New Tab Stop</string>
-< 				<string>NSIBHelpConnector</string>
-< 				<string>NSObject</string>
-< 			<string>NSIBHelpConnector</string>
-< 		<string>Baseline</string>
 > 		<string>{{238, 1}, {20, 18}}</string>
-< 		<string>Character Style</string>
-< 		<string>Frame Stroke</string>
 > 		<string>SchemeButtonCell</string>
 > 		<string>...</string>
-> 		<string>NSToolTipHelpKey</string>
+< 		<string>Add New Tab Stop</string>
 > 		<string>その他</string>
-> 				<string>NSIBHelpConnector</string>
-> 				<string>NSObject</string>
-> 			<string>NSIBHelpConnector</string>
-< 		<string>Kerning</string>
+< 		<string>Baseline</string>
+> 		<string>オフセット</string>
+< 		<string>Character Style</string>
+> 		<string>オフセット</string>
+< 		<string>Frame Stroke</string>
 > 		<string>オフセット</string>
 < 		<string>Leading override</string>
 > 		<string>オフセット</string>
@@ -448,10 +452,7 @@
 > 		<string>オフセット</string>
 < 		<string>List Type</string>
 > 		<string>オフセット</string>
-> 		<string>オフセット</string>
 < 		<string>{{238, 1}, {20, 18}}</string>
-> 		<string>オフセット</string>
-> 		<string>オフセット</string>
 < 		<string>SchemeButtonCell</string>
 < 		<string>...</string>
 > 		<string>オフセット</string>
@@ -465,7 +466,8 @@
 > 		<string>オフセット</string>
 > 		<string>オフセット</string>
 > 		<string>オフセット</string>
-> 		<string>カーニング</string>
+> 		<string>オフセット</string>
+> 		<string>オフセット</string>
 > 		<string>ストーリー間で番号の付け直し</string>
 > 		<string>タブ位置インデント</string>
 > 		<string>トラッキング</string>
