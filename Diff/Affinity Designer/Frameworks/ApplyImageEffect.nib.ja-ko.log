@@ -1,6 +1,5 @@
 < < 		<string>Blend Mode</string>
 < > 		<string>描画モード</string>
-< < 		<string>Opacity:</string>
 < > 		<string>不透明度:</string>
 < > 		<string>ボックス</string>
 < < 		<string>Box</string>
@@ -26,15 +25,16 @@
 < > 		<string>ボックス</string>
 < < 		<string>Apply Image</string>
 < > 		<string>画像の適用</string>
-< < 		<string>Equations</string>
+> > 		<string>불투명도:</string>
 < > 		<string>数式</string>
-< < 		<string>Apply</string>
+> > 		<string>수식</string>
 < > 		<string>適用</string>
-< < 		<string>Cancel</string>
+> > 		<string>적용</string>
 < > 		<string>キャンセル</string>
-< < 		<string>Mirror view</string>
+> > 		<string>취소</string>
 < > 		<string>ミラー表示</string>
-< < 		<string>No split view</string>
+> > 		<string>거울 뷰 모드</string>
 < > 		<string>分割表示</string>
-< < 		<string>Split view</string>
+> > 		<string>분할 뷰 모드 해제</string>
 < > 		<string>分割表示なし</string>
+> > 		<string>분할 뷰 모드</string>
