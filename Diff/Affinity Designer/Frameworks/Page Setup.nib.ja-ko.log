@@ -1,15 +1,18 @@
 < < 		<string>Box</string>
 < > 		<string>ボックス</string>
-< < 		<string>OtherViews</string>
-< > 		<string>他の表示</string>
 < < 		<string>Grey/8</string>
 < > 		<string>グレー/8</string>
 < < 		<string>Grey/16</string>
 < > 		<string>グレー/16</string>
+< < 		<string>Image Placement Policy:</string>
+< > 		<string>画像配置ポリシー:</string>
+< < 		<string>Prefer Linked</string>
+< > 		<string>リンクを優先</string>
+< < 		<string>Prefer Embedded</string>
+< > 		<string>埋め込みを優先</string>
 < > 		<string>マージンを含める</string>
 > > 		<string>여백 포함</string>
 < > 		<string>プリンタからマージンを取得</string>
-< > 		<string>他の表示</string>
 < < 		<string>Nearest Neighbour</string>
 < > 		<string>最近傍</string>
 < < 		<string>Bilinear</string>
@@ -30,7 +33,6 @@
 < > 		<string>オブジェクトの動作:</string>
 > > 		<string>치수:</string>
 < > 		<string>デフォルト</string>
-< > 		<string>他の表示</string>
 < < 		<string>iPad (Retina)</string>
 < > 		<string>iPad(Retina)</string>
 < < 		<string>iPhone, iPad Mini (Retina)</string>
@@ -45,7 +47,6 @@
 < > 		<string>カラーフォーマット:</string>
 > > 		<string>색상 포맷</string>
 < > 		<string>カラープロファイル:</string>
-< > 		<string>他の表示</string>
 > > 		<string>색상 프로파일:</string>
 < > 		<string>透明な背景</string>
 > > 		<string>투명한 배경</string>
@@ -66,12 +67,10 @@
 < > 		<string>左:</string>
 > > 		<string>여백</string>
 < > 		<string>裁ち切り</string>
-< > 		<string>他の表示</string>
 < < 		<string>Letter</string>
 < > 		<string>レター</string>
 > > 		<string>도련</string>
 < > 		<string>カスタム</string>
-< > 		<string>他の表示</string>
 > > 		<string>사용자화</string>
 < > 		<string>プリント</string>
 < < 		<string>Print (Press-Ready)</string>
@@ -82,7 +81,6 @@
 > < 		<string>Web</string>
 > > 		<string>웹</string>
 < > 		<string>デバイス</string>
-< > 		<string>他の表示</string>
 < < 		<string>Page Setup</string>
 < > 		<string>ページ設定</string>
 > > 		<string>기기</string>

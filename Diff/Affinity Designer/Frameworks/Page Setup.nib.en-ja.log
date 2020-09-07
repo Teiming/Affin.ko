@@ -1,16 +1,19 @@
 < 		<string>Box</string>
 > 		<string>ボックス</string>
-< 		<string>OtherViews</string>
-> 		<string>他の表示</string>
 < 		<string>Grey/8</string>
 > 		<string>グレー/8</string>
 < 		<string>Grey/16</string>
 > 		<string>グレー/16</string>
+< 		<string>Image Placement Policy:</string>
+> 		<string>画像配置ポリシー:</string>
+< 		<string>Prefer Linked</string>
+> 		<string>リンクを優先</string>
+< 		<string>Prefer Embedded</string>
+> 		<string>埋め込みを優先</string>
 < 		<string>Include Margins</string>
 > 		<string>マージンを含める</string>
 < 		<string>Retrieve Margin from Printer</string>
 > 		<string>プリンタからマージンを取得</string>
-> 		<string>他の表示</string>
 < 		<string>Nearest Neighbour</string>
 > 		<string>最近傍</string>
 < 		<string>Bilinear</string>
@@ -31,7 +34,6 @@
 > 		<string>オブジェクトの動作:</string>
 < 		<string>Default</string>
 > 		<string>デフォルト</string>
-> 		<string>他の表示</string>
 < 		<string>iPad (Retina)</string>
 > 		<string>iPad(Retina)</string>
 < 		<string>iPhone, iPad Mini (Retina)</string>
@@ -46,7 +48,6 @@
 > 		<string>カラーフォーマット:</string>
 < 		<string>Colour Profile:</string>
 > 		<string>カラープロファイル:</string>
-> 		<string>他の表示</string>
 < 		<string>Transparent background</string>
 > 		<string>透明な背景</string>
 < 		<string>Colour</string>
@@ -67,12 +68,10 @@
 > 		<string>左:</string>
 < 		<string>Bleed</string>
 > 		<string>裁ち切り</string>
-> 		<string>他の表示</string>
 < 		<string>Letter</string>
 > 		<string>レター</string>
 < 		<string>Custom</string>
 > 		<string>カスタム</string>
-> 		<string>他の表示</string>
 < 		<string>Print</string>
 > 		<string>プリント</string>
 < 		<string>Print (Press-Ready)</string>
@@ -81,7 +80,6 @@
 > 		<string>写真</string>
 < 		<string>Devices</string>
 > 		<string>デバイス</string>
-> 		<string>他の表示</string>
 < 		<string>Page Setup</string>
 > 		<string>ページ設定</string>
 < 		<string>Page Preset:</string>
