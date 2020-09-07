@@ -34,8 +34,10 @@
 < 		<string>Mirror facing pages</string>
 > 		<string>見開きページをミラーリング</string>
 < 		<string>Preserve manual position</string>
-> 		<string>位置をロック</string>
+< 		<string>{265, 300}</string>
 < 		<string>Floating</string>
+> 		<string>位置をロック</string>
+> 		<string>{265, 300}</string>
 > 		<string>フローティング</string>
 < 		<string>Scale to:</string>
 > 		<string>スケーリング先:</string>
@@ -54,8 +56,8 @@
 > 		<string>スケールをロック</string>
 < 		<string>Borders</string>
 > 		<string>枠線</string>
-< 		<string>Bottom:</string>
 > 		<string>下:</string>
+< 		<string>Bottom:</string>
 < 		<string>Top:</string>
 > 		<string>上:</string>
 < 		<string>Left:</string>

@@ -33,8 +33,10 @@
 < < 		<string>Mirror facing pages</string>
 < > 		<string>見開きページをミラーリング</string>
 < < 		<string>Preserve manual position</string>
-< > 		<string>位置をロック</string>
+< < 		<string>{265, 300}</string>
 < < 		<string>Floating</string>
+< > 		<string>位置をロック</string>
+< > 		<string>{265, 300}</string>
 < > 		<string>フローティング</string>
 < < 		<string>Scale to:</string>
 < > 		<string>スケーリング先:</string>
@@ -53,8 +55,8 @@
 < > 		<string>スケールをロック</string>
 < < 		<string>Borders</string>
 < > 		<string>枠線</string>
-> > 		<string>배율:</string>
 < > 		<string>下:</string>
+> > 		<string>배율:</string>
 > > 		<string>아래쪽</string>
 < > 		<string>上:</string>
 > > 		<string>위쪽:</string>
@@ -77,11 +79,11 @@
 < > 		<string>下のテキストインセット</string>
 > > 		<string>오른쪽:</string>
 < > 		<string>前方</string>
-< < 		<string>Scale</string>
+> > 		<string>오른쪽 텍스트 들여쓰기</string>
 < > 		<string>右のテキストインセット</string>
 < < 		<string>Scale To</string>
 < > 		<string>垂直方向のオフセット</string>
-> > 		<string>오른쪽 텍스트 들여쓰기</string>
+> > 		<string>배율</string>
 < > 		<string>左のテキストインセット</string>
 < < 		<string>Vertical Offset</string>
 < > 		<string>水平方向のオフセット</string>
