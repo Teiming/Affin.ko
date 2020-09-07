@@ -30,6 +30,8 @@
 > 		<string>マクロライブラリのリセット</string>
 < 		<string>Reset Develop Presets</string>
 > 		<string>現像プリセットのリセット</string>
+< 		<string>Reset Lens Favourites &amp; History</string>
+> 		<string>レンズのお気に入りと履歴をリセット</string>
 < 		<string>Reset Keyboard Shortcuts</string>
 > 		<string>キーボードショートカットのリセット</string>
 < 		<string>Reset Assets</string>
@@ -54,8 +56,10 @@
 > 		<string>自動補正のリセット</string>
 < 		<string>Reset Abbreviations</string>
 > 		<string>省略形のリセット</string>
-< 		<string>Reset Table Formats</string>
+> 		<string>SchemeCheckboxCell</string>
 > 		<string>テーブルフォーマットのリセット</string>
+< 		<string>SchemeCheckboxCell</string>
+< 		<string>Reset Table Formats</string>
 < 		<string>Reset Title Exceptions</string>
 > 		<string>タイトル例外のリセット</string>
 < 		<string>Reset Document Presets</string>
