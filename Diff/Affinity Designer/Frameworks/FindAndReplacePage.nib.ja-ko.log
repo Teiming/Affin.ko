@@ -24,6 +24,14 @@
 < > 		<string>正規表現</string>
 < < 		<string>Locale Aware Regular Expression</string>
 < > 		<string>ロケール対応正規表現</string>
+< < 		<string>Regular Expression Options</string>
+< > 		<string>正規表現オプション</string>
+< < 		<string>Regular Expression Options</string>
+< > 		<string>正規表現オプション</string>
+< < 		<string>Single Line Mode</string>
+< > 		<string>一重線モード</string>
+< < 		<string>Dot matches Paragraph Break</string>
+< > 		<string>段落の区切りとドットが一致</string>
 < < 		<string>Replace All</string>
 < > 		<string>すべて置換</string>
 < < 		<string>Replace</string>
@@ -50,21 +58,7 @@
 < > 		<string>検索</string>
 < < 		<string>Table View Cell</string>
 < > 		<string>テーブルビューセル</string>
-< < 		<string>Match Whole Word Only</string>
-< > 		<string>単語全体のみをマッチング</string>
-< > 		<string>標準</string>
 < < 		<string>Formatting</string>
 < > 		<string>フォーマット</string>
 < > 		<string>フォーマット</string>
-< < 		<string>Paragraph Style</string>
-< > 		<string>段落スタイル</string>
-< < 		<string>ONE</string>
-< > 		<string>1</string>
-< < 		<string>TWO</string>
-< > 		<string>2</string>
-< < 		<string>THREE</string>
-< > 		<string>3</string>
-< < 		<string>FOUR</string>
-< > 		<string>4</string>
-< > 		<string>アイテム</string>
 > > 		<string>문자 스타일</string>
