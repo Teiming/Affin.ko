@@ -15,6 +15,12 @@
 > 		<string>出力:</string>
 < 		<string>Pressure Flyout</string>
 > 		<string>筆圧ポップアップメニュー</string>
+< 				<string>NSButtonCell</string>
+< 				<string>NSActionCell</string>
+< 				<string>NSCell</string>
+> 				<string>NSButtonCell</string>
+> 				<string>NSActionCell</string>
+> 				<string>NSCell</string>
 < 		<string>Coverage Map:</string>
 > 		<string>カバレッジマップ:</string>
 < 		<string>Blend Gamma:</string>
