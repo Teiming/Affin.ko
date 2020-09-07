@@ -7,6 +7,18 @@
 < < 		<string>Value</string>
 < > 		<string>値</string>
 < > 		<string>テキストセル</string>
+< < 				<string>NSArray</string>
+< < 				<string>NSObject</string>
+< < 			<string>NSArray</string>
+< < 				<string>NSNib</string>
+< < 				<string>NSObject</string>
+< < 			<string>NSNib</string>
+< > 				<string>NSArray</string>
+< > 				<string>NSObject</string>
+< > 			<string>NSArray</string>
+< > 				<string>NSNib</string>
+< > 				<string>NSObject</string>
+< > 			<string>NSNib</string>
 > > 		<string>취소</string>
 < > 		<string>完了</string>
 < < 		<string>User variables:</string>
@@ -27,6 +39,8 @@
 < > 		<string>設定しない</string>
 < < 		<string>User scale:</string>
 < > 		<string>ユーザースケール:</string>
+< < 		<string>SchemeTextFieldCell</string>
+< > 		<string>SchemeTextFieldCell</string>
 < > 		<string>設定しない</string>
 < < 		<string>Exported DPI:</string>
 < > 		<string>書き出されるDPI:</string>
