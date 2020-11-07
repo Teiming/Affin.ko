@@ -53,8 +53,8 @@ sudo chown ${USERNAME} /Applications/Affinity\ Designer.app/Contents/Frameworks/
 
 다음 명령어를 입력하고 Affinity 시리즈를 번역합니다.
 ```sh
-chmod +x ~/Affin.ko/Affin.ko-translate
-~/Affin.ko/Affin.ko-translate
+sudo chmod +x ~/Affin.ko/Affin.ko-translate
+sudo ~/Affin.ko/Affin.ko-translate
 ```
 ### Check Update
 git 저장소에서 최신 번역 자료를 가져옵니다. 이미 최신이라면 다음 메시지를 출력합니다.
