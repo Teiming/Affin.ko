@@ -18,7 +18,6 @@ s/g>Add %1</g>%1 추가</
 s/g>Add Adjustment Preset</g>조정 미리 설정 추가</
 s/g>Add Application Palette</g>응용프로그램 팔레트 추가</
 s/g>Add Artistic Text</g>에술 텍스트 추가</
-s/g>Profile</g>프로파일</
 s/g>Add Chord to Swatch</g>견본에 코드 추가</
 s/g>Add Colour to Swatch</g>견본에 색상 추가</
 s/g>Add Crop Preset</g>크롭 미리 설정 추가</
@@ -533,6 +532,7 @@ s/g>Head Offset:</g>머리 편차:</
 s/g>Head Offset</g>머리 편차</
 s/g>Heart Tool</g>하트 도구</
 s/g>Heart</g>하트</
+s/g>Height</g>높이</
 s/g>Help</g>도움말</
 s/g>Hide All Text</g>모든 텍스트 숨기기</
 s/g>Hide Others</g>기타 가리기</
@@ -548,6 +548,7 @@ s/g>Hold</g>유지</
 s/g>Hole radius:</g>구멍 반지름:</
 s/g>Home</g>홈</
 s/g>Horizontal axis:</g>가로 축:</
+s/g>Horizontal</g>가로</
 s/g>Hue</g>색채</
 s/g>ICC profile:</g>ICC 프로파일:</
 s/g>Icon Only</g>아이콘만</
@@ -612,6 +613,7 @@ s/g>Justify Right</g>오른쪽 균등 정렬</
 s/g>Justify</g>맞춤</
 s/g>Keyboard Shortcuts</g>키보드 단축키</
 s/g>Keyboards</g>키보드</
+s/g>Label</g>라벨</
 s/g>Language</g>언어</
 s/g>Large Icons</g>큰 아이콘</
 s/g>Large</g>크게</
@@ -635,6 +637,7 @@ s/g>Left</g>왼쪽</
 s/g>Length:</g>길이:</
 s/g>Length</g>길이</
 s/g>Lens Filter</g>렌즈 필터</
+s/g>Lens Profile</g>렌즈 프로파일</
 s/g>Lens</g>렌즈</
 s/g>Level:</g>레벨:</
 s/g>Levels</g>레벨</
@@ -694,7 +697,6 @@ s/g>Merge All Windows</g>모든 윈도우 통합</
 s/g>Merge Down</g>아래 항목 통합</
 s/g>Merge Selected</g>선택 항목 통합</
 s/g>Merge Visible</g>보이는 항목 통합</
-s/g>Label</g>라벨</
 s/g>Merge curves</g>곡선 통합</
 s/g>Merge</g>통합</
 s/g>Mesh</g>그물</
@@ -713,7 +715,6 @@ s/g>Mitre:</g>미터:</
 s/g>Mitre:</g>짜임:</
 s/g>Mode:</g>모드:</
 s/g>Mode</g>모드</
-s/g>Text Cell</g>텍스트 셀</
 s/g>Modified</g>변경</
 s/g>Monochromatic Iconography</g>단색 아이콘</
 s/g>Monochrome</g>단색</
@@ -755,6 +756,7 @@ s/g>New Square Brush</g>신규 사각형 브러시</
 s/g>New Textured Image Brush</g>신규 질감 이미지 브러시</
 s/g>New View</g>신규 뷰</
 s/g>New layer</g>신규 레이어</
+s/g>New...</g>신규...</
 s/g>New</g>신규</
 s/g>News</g>뉴스</
 s/g>No Camera Data</g>카메라 데이터 없음</
@@ -784,8 +786,8 @@ s/g>Opacity:</g>불투명도:</
 s/g>Opacity</g>불투명도</
 s/g>Open Recent</g>최근 사용 열기</
 s/g>Open…</g>열기…</
-s/g>Order</g>순서</
 s/g>Order:</g>순서:</
+s/g>Order</g>순서</
 s/g>Out:</g>바깥:</
 s/g>Outer Glow</g>외부 광채</
 s/g>Outer Shadow</g>외부 그림자</
@@ -884,12 +886,11 @@ s/g>Pressure</g>압력</
 s/g>Print</g>인쇄</
 s/g>Print…</g>인쇄…</
 s/g>Profile:</g>프로파일:</
+s/g>Profile</g>프로파일</
 s/g>Profiles</g>프로파일</
-s/g>Lens Profile</g>렌즈 프로파일</
 s/g>Progress</g>진행상태</
 s/g>Promote Group to Layer</g>그룹을 레이어로 승격</
 s/g>Properties...</g>특성...</
-s/g>New...</g>신규...</
 s/g>Protect Alpha</g>알파 보호</
 s/g>Protect hue</g>색조 보호</
 s/g>Pull</g>당기기</
@@ -1212,6 +1213,7 @@ s/g>Tear Tool</g>눈물 도구</
 s/g>Tear</g>눈물</
 s/g>Temperature</g>온도</
 s/g>Test</g>테스트</
+s/g>Text Cell</g>텍스트 셀</
 s/g>Text Styles</g>텍스트 스타일</
 s/g>Text Wrap</g>줄바꿈</
 s/g>Text:</g>텍스트:</
@@ -1225,6 +1227,7 @@ s/g>Tighten More</g>더욱 좁게</
 s/g>Tighten</g>좁게</
 s/g>Tint</g>틴트</
 s/g>Tints</g>틴트</
+s/g>Title</g>타이틀</
 s/g>Toggle 32-bit Preview Panel</g>32-비트 미리보기 패널 켜고 끄기</
 s/g>Toggle Adjustment Panel</g>조정 패널 켜고 끄기</
 s/g>Toggle Assets Panel</g>자산 패널 켜고 끄기</
@@ -1320,7 +1323,6 @@ s/g>Vertical Alignment</g>세로 정렬</
 s/g>Vertical Scale</g>세로 배율</
 s/g>Vertical axis:</g>세로 축:</
 s/g>Vertical</g>세로</
-s/g>Horizontal</g>가로</
 s/g>Vibrance</g>활기</
 s/g>View Mode</g>뷰 모드</
 s/g>View Samples</g>샘플 보기</

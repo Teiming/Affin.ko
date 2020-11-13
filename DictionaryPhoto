@@ -19,7 +19,6 @@ s/g>Add Adjustment Preset</g>조정 미리 설정 추가</
 s/g>Add Application Palette</g>응용프로그램 팔레트 추가</
 s/g>Add Artistic Text</g>에술 텍스트 추가</
 s/g>Add Chord to Swatch</g>견본에 코드 추가</
-s/g>New...</g>신규...</
 s/g>Add Colour to Swatch</g>견본에 색상 추가</
 s/g>Add Crop Preset</g>크롭 미리 설정 추가</
 s/g>Add Document Palette</g>문서 팔레트 추가</
@@ -532,6 +531,7 @@ s/g>Head Offset:</g>머리 편차:</
 s/g>Head Offset</g>머리 편차</
 s/g>Heart Tool</g>하트 도구</
 s/g>Heart</g>하트</
+s/g>Height</g>높이</
 s/g>Help</g>도움말</
 s/g>Hide All Text</g>모든 텍스트 숨기기</
 s/g>Hide Others</g>기타 가리기</
@@ -611,6 +611,7 @@ s/g>Justify Right</g>오른쪽 균등 정렬</
 s/g>Justify</g>맞춤</
 s/g>Keyboard Shortcuts</g>키보드 단축키</
 s/g>Keyboards</g>키보드</
+s/g>Label</g>라벨</
 s/g>Language</g>언어</
 s/g>Large Icons</g>큰 아이콘</
 s/g>Large</g>크게</
@@ -752,6 +753,7 @@ s/g>New Square Brush</g>신규 사각형 브러시</
 s/g>New Textured Image Brush</g>신규 질감 이미지 브러시</
 s/g>New View</g>신규 뷰</
 s/g>New layer</g>신규 레이어</
+s/g>New...</g>신규...</
 s/g>New</g>신규</
 s/g>News</g>뉴스</
 s/g>No Camera Data</g>카메라 데이터 없음</
@@ -781,8 +783,8 @@ s/g>Opacity:</g>불투명도:</
 s/g>Opacity</g>불투명도</
 s/g>Open Recent</g>최근 사용 열기</
 s/g>Open…</g>열기…</
-s/g>Order</g>순서</
 s/g>Order:</g>순서:</
+s/g>Order</g>순서</
 s/g>Out:</g>바깥:</
 s/g>Outer Glow</g>외부 광채</
 s/g>Outer Shadow</g>외부 그림자</
@@ -869,7 +871,6 @@ s/g>Precise Raise Baseline</g>기준선 조금씩 올리기</
 s/g>Precise Smaller</g>조금씩 작게</
 s/g>Preferences</g>환경설정</
 s/g>Preferences…</g>환경설정…</
-s/g>Label</g>라벨</
 s/g>Preserve alpha</g>알파 유지</
 s/g>Preserve aspect ratio</g>종횡비 유지</
 s/g>Preserve layer FX</g>레이어 효과 유지</
@@ -885,7 +886,6 @@ s/g>Profile:</g>프로파일:</
 s/g>Profile</g>프로파일</
 s/g>Profiles</g>프로파일</
 s/g>Progress</g>진행상태</
-s/g>Text Cell</g>텍스트 셀</
 s/g>Promote Group to Layer</g>그룹을 레이어로 승격</
 s/g>Properties...</g>특성...</
 s/g>Protect Alpha</g>알파 보호</
@@ -1209,6 +1209,7 @@ s/g>Tear Tool</g>눈물 도구</
 s/g>Tear</g>눈물</
 s/g>Temperature</g>온도</
 s/g>Test</g>테스트</
+s/g>Text Cell</g>텍스트 셀</
 s/g>Text Styles</g>텍스트 스타일</
 s/g>Text Wrap</g>줄바꿈</
 s/g>Text:</g>텍스트:</
@@ -1222,6 +1223,7 @@ s/g>Tighten More</g>더욱 좁게</
 s/g>Tighten</g>좁게</
 s/g>Tint</g>틴트</
 s/g>Tints</g>틴트</
+s/g>Title</g>타이틀</
 s/g>Toggle 32-bit Preview Panel</g>32-비트 미리보기 패널 켜고 끄기</
 s/g>Toggle Adjustment Panel</g>조정 패널 켜고 끄기</
 s/g>Toggle Assets Panel</g>자산 패널 켜고 끄기</
