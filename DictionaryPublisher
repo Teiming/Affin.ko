@@ -26,6 +26,7 @@ s/g>Add Document Snapshot</g>문서 스냅샷 추가</
 s/g>Add Global Colour…</g>전역 색상 추가…</
 s/g>Add Gradient Overlay</g>그레이디언트 오버레이 추가</
 s/g>Add Layer</g>레이어 추가</
+s/g>Add New Category...</g>신규 범주 추가...</
 s/g>Add Pixel Layer</g>픽셀 레이어 추가</
 s/g>Add Preset</g>미리 설정 추가</
 s/g>Add Registration Colour</g>등록 색상을 추가</
@@ -287,11 +288,9 @@ s/g>Corner:</g>꼭짓점:</
 s/g>Corner</g>꼭짓점</
 s/g>Corners:</g>꼭짓점:</
 s/g>Cosine</g>코사인</
-s/g>Create Category…</g>범주 생성…</
 s/g>Create Character Style</g>문자 스타일 생성</
 s/g>Create Colour Chord</g>색상 코드 생성</
 s/g>Create Compound</g>결합 생성</
-s/g>Create New Category</g>신규 범주 생성</
 s/g>Create Palette From Document</g>문서로부터 팔레트 생성</
 s/g>Create Palette From Image…</g>이미지로부터 팔레트 생성…</
 s/g>Create Paragraph Style</g>문단 스타일 생성</
@@ -338,7 +337,7 @@ s/g>Delete Palette</g>팔레트 지우기</
 s/g>Delete Paragraph Style</g>문단 스타일 지우기</
 s/g>Delete Preset</g>미리 설정 지우기</
 s/g>Delete Snapshot</g>스냅샷 지우기</
-s/g>Delete Style</g>스타일 제거</
+s/g>Delete Style</g>스타일 지우기</
 s/g>Delete preset</g>미리 설정 지우기</
 s/g>Delete selected slice</g>선택된 슬라이스 지우기</
 s/g>Delete</g>지우기</
@@ -437,6 +436,7 @@ s/g>Export Persona</g>내보내기 페르소나</
 s/g>Export Slices (%d)</g>슬라이스 내보내기 (%d)</
 s/g>Export Slices (000)</g>슬라이스 내보내기 (000)</
 s/g>Export Slices</g>슬라이스 내보내기</
+s/g>Export Styles...</g>스타일 내보내기...</
 s/g>Export User Presets…</g>사용자 미리 설정 내보내기…</
 s/g>Export preset...</g>내보내기 미리 설정...</
 s/g>Export preset:</g>내보내기 미리 설정:</
@@ -559,6 +559,7 @@ s/g>Import Brushes</g>브러시 들여오기</
 s/g>Import Brushes…</g>브러시 들여오기…</
 s/g>Import Palette…</g>팔레트 들여오기…</
 s/g>Import Presets…</g>미리 설정 들여오기…</
+s/g>Import Styles...</g>스타일 들여오기...</
 s/g>Import Text Styles…</g>텍스트 스타일 들여오기…</
 s/g>In Place</g>제자리에</
 s/g>In:</g>안:</
@@ -889,6 +890,7 @@ s/g>Profiles</g>프로파일</
 s/g>Progress</g>진행상태</
 s/g>Promote Group to Layer</g>그룹을 레이어로 승격</
 s/g>Properties...</g>특성...</
+s/g>Proportional</g>비례수(량)</
 s/g>Protect Alpha</g>알파 보호</
 s/g>Protect hue</g>색조 보호</
 s/g>Pull</g>당기기</

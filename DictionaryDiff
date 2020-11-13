@@ -6,54 +6,74 @@
 3:13c
   s/g>About…</g>Affinity Publisher에 관하여…</
 ====
-1:45c
+1:46c
   s/g>Affinity Designer Help</g>Affinity Designer 도움말</
-2:45c
+2:46c
   s/g>Affinity Photo Help</g>Affinity Photo 도움말</
-3:45c
+3:46c
   s/g>Affinity Publisher Help</g>Affinity Publisher 도움말</
 ====1
-1:365c
+1:339a
+2:340c
+3:340c
+  s/g>Delete Style</g>스타일 지우기</
+====1
+1:363c
   s/g>Distortion</g>왜곡</
-2:364a
-3:364a
+2:363a
+3:363a
 ====
-1:403,404c
+1:401,402c
   s/g>Edit in Photo…</g>Photo에서 편집…</
   s/g>Edit in Publisher…</g>Publisher에서 편집…</
-2:402,403c
+2:401,402c
   s/g>Edit in Designer…</g>Designer에서 편집…</
   s/g>Edit in Publisher…</g>Publisher에서 편집…</
-3:402,403c
+3:401,402c
   s/g>Edit in Designer…</g>Designer에서 편집…</
   s/g>Edit in Photo…</g>Photo에서 편집…</
 ====1
-1:552c
+1:534a
+2:535c
+3:535c
+  s/g>Height</g>높이</
+====1
+1:550c
   s/g>Horizontal</g>가로</
 2:550a
 3:550a
 ====1
-1:641c
+1:615a
+2:616c
+3:616c
+  s/g>Label</g>라벨</
+====1
+1:639c
   s/g>Lens Profile</g>렌즈 프로파일</
-2:638a
-3:638a
+2:639a
+3:639a
 ====
-1:899c
+1:898c
   s/g>Quit</g>Affinity Designer 종료</
-2:896c
+2:898c
   s/g>Quit</g>Affinity Photo 종료</
-3:896c
+3:898c
   s/g>Quit</g>Affinity Publisher 종료</
 ====1
-1:1022c
+1:1021c
   s/g>Scale</g>배율</
-2:1018a
-3:1018a
+2:1020a
+3:1020a
 ====1
-1:1326c
+1:1229a
+2:1229c
+3:1229c
+  s/g>Title</g>타이틀</
+====1
+1:1324c
   s/g>Vertical</g>세로</
-2:1321a
-3:1321a
+2:1323a
+3:1323a
 주의할 특수문자 &
 s/g>Black &amp; White</g>흑백</
 s/g>Create a new document by pressing 'New Document' below - or open existing work using File -\&gt; Open. Click a sample below to download and view it. Visit our forum or tag with #madeinaffinity in the usual places. We'd love to see what you're up to...</g>아래 '신규 문서'를 눌러서 새 문서를 생성하십시오 - 또는</
