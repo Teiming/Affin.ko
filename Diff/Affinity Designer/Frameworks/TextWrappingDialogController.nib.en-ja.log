@@ -13,21 +13,7 @@
 < 		<string>Inside</string>
 > 		<string>内側</string>
 < 		<string>Edge</string>
-< 		<string>{{3, 3}, {449, 104}}</string>
-< 				<string>NSView</string>
-< 				<string>NSResponder</string>
-< 				<string>NSObject</string>
-< 			<string>NSView</string>
-< 		<string>{{16, 257}, {455, 110}}</string>
-< 		<string>{0, 0}</string>
 > 		<string>エッジ</string>
-> 		<string>{{3, 3}, {449, 104}}</string>
-> 				<string>NSView</string>
-> 				<string>NSResponder</string>
-> 				<string>NSObject</string>
-> 			<string>NSView</string>
-> 		<string>{{16, 257}, {455, 110}}</string>
-> 		<string>{0, 0}</string>
 < 		<string>Box</string>
 > 		<string>ボックス</string>
 < 		<string>Wrap To</string>
@@ -39,8 +25,8 @@
 > 		<string>ボックス</string>
 < 		<string>Distance From Text</string>
 > 		<string>テキストからの距離</string>
-< 		<string>Left:</string>
 > 		<string>左:</string>
+< 		<string>Left:</string>
 < 		<string>Right:</string>
 > 		<string>右:</string>
 < 		<string>Top:</string>
