@@ -1,17 +1,8 @@
 < < 		<string>Telemetry</string>
 < > 		<string>テレメトリー</string>
 < < 		<string>Assembly</string>
-< < 		<string>.AppleSystemUIFont</string>
-< < 				<string>NSFont</string>
-< < 				<string>NSObject</string>
-< < 			<string>NSFont</string>
 < > 		<string>アセンブリ</string>
-< < 		<string>Text Cell</string>
 < > 		<string>テキストセル</string>
-< > 		<string>.AppleSystemUIFont</string>
-< > 				<string>NSFont</string>
-< > 				<string>NSObject</string>
-< > 			<string>NSFont</string>
 < > 		<string>テキストセル</string>
 < < 		<string>Worst</string>
 < > 		<string>ワースト</string>
@@ -24,6 +15,7 @@
 < > 		<string>テキストセル</string>
 < < 		<string>Enable telemetry</string>
 < > 		<string>テレメトリーを有効にする</string>
+> > 		<string>텍스트 셀</string>
 < > 		<string>リセット</string>
 < < 		<string>Copy Kernel</string>
 < > 		<string>カーネルをコピー</string>
