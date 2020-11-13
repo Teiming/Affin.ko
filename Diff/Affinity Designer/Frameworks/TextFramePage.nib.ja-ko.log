@@ -37,8 +37,10 @@
 < < 		<string>{{0, 12}, {245, 97}}</string>
 < > 		<string>{{0, 12}, {245, 95}}</string>
 < > 		<string>幅</string>
-< < 		<string>Text Cell</string>
 < > 		<string>テキストセル</string>
+> > 		<string>행:</string>
+> < 		<string>Width</string>
+> > 		<string>너비</string>
 < > 		<string>余白</string>
 < > 		<string>テキストセル</string>
 < < 		<string>{{0, -11}, {245, 120}}</string>
@@ -51,9 +53,7 @@
 < > 		<string>幅を保存</string>
 < < 		<string>Columns</string>
 < > 		<string>列数</string>
-> > 		<string>행:</string>
-> < 		<string>Width</string>
-> > 		<string>너비</string>
+> > 		<string>텍스트 셀</string>
 < > 		<string>垂直方向揃え</string>
 < < 		<string>Use Baseline Grid</string>
 < > 		<string>ベースライングリッドを使用</string>
