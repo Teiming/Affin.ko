@@ -2,16 +2,16 @@
 < > 		<string>選択</string>
 < < 		<string>Channel 1</string>
 < > 		<string>チャンネル1</string>
-< > 		<string>チャンネル2</string>
 < < 		<string>Channel 2</string>
+< < 		<string>channelMixerLabel2</string>
+< > 		<string>チャンネル2</string>
+< > 		<string>channelMixerLabel2</string>
 < > 		<string>チャンネル3</string>
 < < 		<string>Channel 3</string>
 < > 		<string>チャンネル4</string>
 < < 		<string>Channel 4</string>
-< < 		<string>Channel 5</string>
-< < 		<string>channelMixerLabel5</string>
 < > 		<string>チャンネル5</string>
-< > 		<string>channelMixerLabel5</string>
+< < 		<string>Channel 5</string>
 < > 		<string>オフセット</string>
 < < 		<string>Gray</string>
 < > 		<string>グレー</string>
@@ -38,8 +38,8 @@
 < > 		<string>線形</string>
 < < 		<string>Load LUT...</string>
 < > 		<string>LUTを読み込み...</string>
-< < 		<string>Name: Identity</string>
 < > 		<string>名前: アイデンティティ</string>
+< < 		<string>Name: Identity</string>
 > > 		<string>선형</string>
 < > 		<string>プリセットの追加</string>
 < > 		<string>描画モード:</string>
@@ -55,9 +55,7 @@
 < < 		<string>Preserve Luminosity</string>
 < > 		<string>明度を維持</string>
 < < 		<string>Black point compensation</string>
-< < 		<string>proofBlackPointCheck</string>
 < > 		<string>黒点補正</string>
-< > 		<string>proofBlackPointCheck</string>
 < < 		<string>Gamut Check</string>
 < > 		<string>色域チェック</string>
 < < 		<string>Perceptual</string>
@@ -68,8 +66,8 @@
 < > 		<string>彩度</string>
 < < 		<string>Absolute Colourimetric</string>
 < > 		<string>絶対的な色彩を保持</string>
-< < 		<string>Rendering Intent:</string>
 < > 		<string>レンダリングインテント:</string>
+< < 		<string>Rendering Intent:</string>
 < < 		<string>Reds</string>
 < > 		<string>赤</string>
 < < 		<string>Yellows</string>
@@ -101,8 +99,8 @@
 < < 		<string>Black Level</string>
 < > 		<string>白レベル</string>
 < < 		<string>White Level</string>
-< > 		<string>ガンマ</string>
 > > 		<string>포스터화</string>
+< > 		<string>ガンマ</string>
 < > 		<string>出力の黒レベル</string>
 < < 		<string>Output Black Level</string>
 < > 		<string>出力の白レベル</string>
@@ -111,18 +109,20 @@
 < > 		<string>レベル</string>
 < > 		<string>明るさ</string>
 > > 		<string>레벨</string>
-< > 		<string>コントラスト</string>
 > > 		<string>명암</string>
+< < 		<string>{382, 383}</string>
 < < 		<string>Brightness Contrast</string>
+< > 		<string>コントラスト</string>
+< > 		<string>{382, 383}</string>
 < > 		<string>明るさコントラスト</string>
 < > 		<string>彩度のシフト</string>
 < < 		<string>Saturation Shift</string>
 < > 		<string>明度のシフト</string>
 < < 		<string>Luminosity Shift</string>
-< > 		<string>色相のシフト</string>
 < < 		<string>Hue Shift</string>
-> > 		<string>대비</string>
+< > 		<string>色相のシフト</string>
 < > 		<string>自然な彩度</string>
+> > 		<string>대비</string>
 < > 		<string>彩度</string>
 < > 		<string>自然な彩度</string>
 < > 		<string>しきい値</string>
@@ -200,8 +200,8 @@
 < < 		<string>Highlights</string>
 > > 		<string>재색상</string>
 < > 		<string>シャドウ/ハイライト</string>
-< > 		<string>シアン/赤</string>
 < < 		<string>Cyan / Red</string>
+< > 		<string>シアン/赤</string>
 < > 		<string>マゼンタ/緑</string>
 < < 		<string>Magenta / Green</string>
 < > 		<string>黄/青</string>
@@ -230,8 +230,8 @@
 < > 		<string>明暗別色補正</string>
 < > 		<string>ソース色空間</string>
 < < 		<string>Source Colour Space</string>
-< > 		<string>デスティネーション色空間</string>
 < < 		<string>Destination Colour Space</string>
+< > 		<string>デスティネーション色空間</string>
 > > 		<string>분할 색조</string>
 < > 		<string>調整</string>
 < < 		<string>Add Sublayer</string>
