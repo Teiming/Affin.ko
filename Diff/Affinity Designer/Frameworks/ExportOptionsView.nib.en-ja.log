@@ -60,22 +60,20 @@
 > 		<string>16ビット(HALF)</string>
 < 		<string>32-bit (FLOAT)</string>
 > 		<string>32ビット(FLOAT)</string>
-> 		<string>空間のピクセル数:</string>
 < 		<string>Spacial pixels:</string>
+> 		<string>空間のピクセル数:</string>
 < 		<string>16-bit (HALF)</string>
 > 		<string>16ビット(HALF)</string>
 < 		<string>32-bit (FLOAT)</string>
 > 		<string>32ビット(FLOAT)</string>
-< 		<string>ICC profile:</string>
 > 		<string>ICCプロファイル:</string>
+< 		<string>ICC profile:</string>
 < 		<string>Downsample images</string>
 > 		<string>画像のダウンサンプル</string>
 < 		<string>Convert clips to paths</string>
 > 		<string>クリップをパスに変換</string>
 < 		<string>Embed metadata</string>
-< 		<string>jpegEmbedMetadataBtn</string>
 > 		<string>メタデータを埋め込む</string>
-> 		<string>jpegEmbedMetadataBtn</string>
 > 		<string>ボタン</string>
 < 		<string>Button</string>
 > 		<string>マット:</string>
@@ -129,7 +127,9 @@
 < 		<string>Include colour bars</string>
 > 		<string>カラーバーを含む</string>
 < 		<string>Include crop marks</string>
+< 		<string>pdfIsDrawCropMarksBtn</string>
 > 		<string>切り抜きマークを含む</string>
+> 		<string>pdfIsDrawCropMarksBtn</string>
 < 		<string>Include page information</string>
 > 		<string>ページ情報を含める</string>
 < 		<string>Include printers marks</string>
@@ -250,8 +250,8 @@
 > 		<string>PNG、GIF</string>
 < 		<string>Embed metadata</string>
 > 		<string>メタデータを埋め込む</string>
-> 		<string>圧縮:</string>
 < 		<string>Compression:</string>
+> 		<string>圧縮:</string>
 > 		<string>なし</string>
 > 		<string>空</string>
 < 		<string>Raster</string>
@@ -282,8 +282,8 @@
 < 		<string>Compatibility:</string>
 > 		<string>色空間:</string>
 < 		<string>Colour Space:</string>
-> 		<string>プロファイル:</string>
 < 		<string>Profile:</string>
+> 		<string>プロファイル:</string>
 < 		<string>Vector</string>
 > 		<string>ベクトル</string>
 > 		<string>リサンプル:</string>
@@ -294,8 +294,8 @@
 < 		<string>Adjustments:</string>
 > 		<string>レイヤーエフェクト:</string>
 < 		<string>Layer effects:</string>
-> 		<string>行数:</string>
 < 		<string>Lines:</string>
+> 		<string>行数:</string>
 > 		<string>高度なブレンディング:</string>
 < 		<string>Adv Blending:</string>
 < 		<string>Box</string>
