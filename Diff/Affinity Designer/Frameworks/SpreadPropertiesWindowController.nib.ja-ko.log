@@ -5,16 +5,16 @@
 < > 		<string>マージンを含める</string>
 < < 		<string>Name:</string>
 < > 		<string>名前:</string>
-< < 		<string>Text Cell</string>
-< > 		<string>テキストセル</string>
 > > 		<string>여백 포함</string>
+< > 		<string>テキストセル</string>
+> > 		<string>텍스트 셀</string>
 < > 		<string>縦向き</string>
 > > 		<string>세로 방향</string>
 < > 		<string>プリンタからマージンを取得</string>
 < > 		<string>寸法:</string>
 > > 		<string>프린터 여백을 이용</string>
-> > 		<string>치수:</string>
 < > 		<string>ページプリセット:</string>
+> > 		<string>치수:</string>
 < > 		<string>タイプ:</string>
 > > 		<string>페이지 미리 설정:</string>
 < < 		<string>Set Dimensions of:</string>
@@ -29,10 +29,10 @@
 < > 		<string>オブジェクトの動作:</string>
 < < 		<string>Scaling</string>
 < > 		<string>スケーリング</string>
-> > 		<string>치수</string>
 < > 		<string>左マージン:</string>
-> > 		<string>왼쪽 여백</string>
+> > 		<string>치수</string>
 < > 		<string>上マージン:</string>
+> > 		<string>왼쪽 여백</string>
 > > 		<string>위쪽 여백:</string>
 < > 		<string>右マージン:</string>
 < > 		<string>下マージン:</string>
