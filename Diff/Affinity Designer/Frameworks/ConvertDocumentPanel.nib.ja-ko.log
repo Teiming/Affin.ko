@@ -1,21 +1,13 @@
 < > 		<string>変換</string>
-< < 		<string>.AppleSystemUIFont</string>
-< < 				<string>NSFont</string>
-< < 				<string>NSObject</string>
-< < 			<string>NSFont</string>
-< < 		<string>Text Cell</string>
 < > 		<string>テキストセル</string>
-< > 		<string>.AppleSystemUIFont</string>
-< > 				<string>NSFont</string>
-< > 				<string>NSObject</string>
-< > 			<string>NSFont</string>
+< < 		<string>Text Cell</string>
 < > 		<string>変換</string>
 > > 		<string>전환</string>
 < > 		<string>キャンセル</string>
-< < 		<string>Profile</string>
 < > 		<string>プロファイル</string>
-> > 		<string>취소</string>
+< < 		<string>Profile</string>
 < > 		<string>カラーフォーマット</string>
+> > 		<string>취소</string>
 < < 		<string>Grey/8</string>
 < > 		<string>グレー/8</string>
 < < 		<string>Grey/16</string>
@@ -30,6 +22,6 @@
 < > 		<string>絶対的な色彩を保持</string>
 < < 		<string>Black Point Compensation</string>
 < > 		<string>黒点補正</string>
-< > 		<string>レンダリングインテント</string>
 < < 		<string>Rendering Intent</string>
+< > 		<string>レンダリングインテント</string>
 > > 		<string>채도</string>
