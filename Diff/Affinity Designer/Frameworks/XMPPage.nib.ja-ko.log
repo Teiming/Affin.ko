@@ -16,6 +16,8 @@
 < > 		<string>焦点距離</string>
 < < 		<string>Aperture</string>
 < > 		<string>絞り</string>
+> < 		<string>Text Cell</string>
+> > 		<string>텍스트 셀</string>
 < > 		<string>露出</string>
 > > 		<string>노출</string>
 < > 		<string>サイズ</string>
@@ -27,8 +29,6 @@
 < > 		<string>製造元</string>
 > > 		<string>제조사</string>
 < > 		<string>カメラ</string>
-< < 		<string>m_exposureField</string>
-< > 		<string>m_exposureField</string>
 < < 		<string>Rating</string>
 < > 		<string>評価</string>
 < < 		<string>Keywords</string>
@@ -42,13 +42,7 @@
 > > 		<string>카메라</string>
 < > 		<string>作成者</string>
 < < 		<string>Title</string>
-< < 		<string>{73, 338}</string>
-< < 		<string>HeaderView</string>
-< < 		<string>m_fileHeaderView</string>
 < > 		<string>タイトル</string>
-< > 		<string>{73, 338}</string>
-< > 		<string>HeaderView</string>
-< > 		<string>m_fileHeaderView</string>
 < < 		<string>Website</string>
 < > 		<string>Webサイト</string>
 < < 		<string>Email</string>
@@ -87,9 +81,13 @@
 > > 		<string>저자</string>
 < > 		<string>場所</string>
 < < 		<string>Headline</string>
+< < 		<string>{73, 338}</string>
+< < 		<string>HeaderView</string>
+< < 		<string>m_iptcImageHeaderView</string>
 < > 		<string>見出し</string>
-< < 		<string>m_isoField</string>
-< > 		<string>m_isoField</string>
+< > 		<string>{73, 338}</string>
+< > 		<string>HeaderView</string>
+< > 		<string>m_iptcImageHeaderView</string>
 < < 		<string>Attribution Name</string>
 < > 		<string>属性名</string>
 < < 		<string>Attribution URL</string>
@@ -99,9 +97,13 @@
 < < 		<string>Statement</string>
 < > 		<string>著作権情報</string>
 > > 		<string>위치</string>
+< < 		<string>{73, 338}</string>
+< < 		<string>HeaderView</string>
+< < 		<string>m_rightsHeaderView</string>
 < > 		<string>著作権</string>
-< < 		<string>m_scenesField</string>
-< > 		<string>m_scenesField</string>
+< > 		<string>{73, 338}</string>
+< > 		<string>HeaderView</string>
+< > 		<string>m_rightsHeaderView</string>
 > > 		<string>저작권</string>
 < > 		<string>ファイル</string>
 < < 		<string>IPTC (Image)</string>

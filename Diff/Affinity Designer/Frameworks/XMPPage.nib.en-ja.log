@@ -28,8 +28,6 @@
 > 		<string>製造元</string>
 < 		<string>Camera</string>
 > 		<string>カメラ</string>
-< 		<string>m_exposureField</string>
-> 		<string>m_exposureField</string>
 < 		<string>Rating</string>
 > 		<string>評価</string>
 < 		<string>Keywords</string>
@@ -43,13 +41,7 @@
 < 		<string>Author</string>
 > 		<string>作成者</string>
 < 		<string>Title</string>
-< 		<string>{73, 338}</string>
-< 		<string>HeaderView</string>
-< 		<string>m_fileHeaderView</string>
 > 		<string>タイトル</string>
-> 		<string>{73, 338}</string>
-> 		<string>HeaderView</string>
-> 		<string>m_fileHeaderView</string>
 < 		<string>Website</string>
 > 		<string>Webサイト</string>
 < 		<string>Email</string>
@@ -88,9 +80,13 @@
 < 		<string>Location</string>
 > 		<string>場所</string>
 < 		<string>Headline</string>
+< 		<string>{73, 338}</string>
+< 		<string>HeaderView</string>
+< 		<string>m_iptcImageHeaderView</string>
 > 		<string>見出し</string>
-< 		<string>m_isoField</string>
-> 		<string>m_isoField</string>
+> 		<string>{73, 338}</string>
+> 		<string>HeaderView</string>
+> 		<string>m_iptcImageHeaderView</string>
 < 		<string>Attribution Name</string>
 > 		<string>属性名</string>
 < 		<string>Attribution URL</string>
@@ -100,9 +96,13 @@
 < 		<string>Statement</string>
 > 		<string>著作権情報</string>
 < 		<string>Copyright</string>
+< 		<string>{73, 338}</string>
+< 		<string>HeaderView</string>
+< 		<string>m_rightsHeaderView</string>
 > 		<string>著作権</string>
-< 		<string>m_scenesField</string>
-> 		<string>m_scenesField</string>
+> 		<string>{73, 338}</string>
+> 		<string>HeaderView</string>
+> 		<string>m_rightsHeaderView</string>
 < 		<string>File</string>
 > 		<string>ファイル</string>
 < 		<string>IPTC (Image)</string>
