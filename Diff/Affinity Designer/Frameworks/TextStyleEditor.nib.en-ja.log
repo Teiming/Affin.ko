@@ -1,15 +1,7 @@
 < 		<string>Edit Text Style</string>
 > 		<string>テキストスタイルを編集</string>
-< 		<string>.AppleSystemUIFont</string>
-< 				<string>NSFont</string>
-< 				<string>NSObject</string>
-< 			<string>NSFont</string>
 < 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
-> 		<string>.AppleSystemUIFont</string>
-> 				<string>NSFont</string>
-> 				<string>NSObject</string>
-> 			<string>NSFont</string>
 < 		<string>Style name:</string>
 > 		<string>スタイル名:</string>
 < 		<string>General</string>
@@ -435,27 +427,34 @@
 > 		<string>テーブルビューセル</string>
 > 		<string>テーブルビューセル</string>
 > 		<string>テーブルビューセル</string>
-> 		<string>{{238, 1}, {20, 18}}</string>
-> 		<string>SchemeButtonCell</string>
-> 		<string>...</string>
+< 		<string>languageChanged:</string>
+< 		<string>figureWidthChanged:</string>
+< 		<string>scaleYChanged:</string>
+< 		<string>paragraphPixelsChanged:</string>
+< 		<string>figureWidthChanged:</string>
+< 		<string>paragraphPercentChanged:</string>
+< 		<string>NSToolTipHelpKey</string>
 < 		<string>Add New Tab Stop</string>
-> 		<string>その他</string>
+< 				<string>NSIBHelpConnector</string>
+< 				<string>NSObject</string>
+< 			<string>NSIBHelpConnector</string>
 < 		<string>Baseline</string>
-> 		<string>オフセット</string>
+> 		<string>languageChanged:</string>
 < 		<string>Character Style</string>
-> 		<string>オフセット</string>
+> 		<string>figureWidthChanged:</string>
 < 		<string>Frame Stroke</string>
-> 		<string>オフセット</string>
+> 		<string>scaleYChanged:</string>
 < 		<string>Leading override</string>
-> 		<string>オフセット</string>
+> 		<string>paragraphPixelsChanged:</string>
 < 		<string>List Level</string>
-> 		<string>オフセット</string>
+> 		<string>figureWidthChanged:</string>
 < 		<string>List Type</string>
-> 		<string>オフセット</string>
-< 		<string>{{238, 1}, {20, 18}}</string>
-< 		<string>SchemeButtonCell</string>
-< 		<string>...</string>
-> 		<string>オフセット</string>
+> 		<string>paragraphPercentChanged:</string>
+> 		<string>NSToolTipHelpKey</string>
+> 		<string>その他</string>
+> 				<string>NSIBHelpConnector</string>
+> 				<string>NSObject</string>
+> 			<string>NSIBHelpConnector</string>
 < 		<string>Offset</string>
 > 		<string>オフセット</string>
 > 		<string>オフセット</string>
@@ -468,20 +467,27 @@
 > 		<string>オフセット</string>
 > 		<string>オフセット</string>
 > 		<string>オフセット</string>
+> 		<string>オフセット</string>
+> 		<string>オフセット</string>
+> 		<string>オフセット</string>
+> 		<string>オフセット</string>
+> 		<string>オフセット</string>
+> 		<string>オフセット</string>
+> 		<string>オフセット</string>
+< 		<string>Renumber Across Stories</string>
 > 		<string>ストーリー間で番号の付け直し</string>
 > 		<string>タブ位置インデント</string>
+< 		<string>Space After Paragraph</string>
 > 		<string>トラッキング</string>
 > 		<string>フレーム境界線</string>
 > 		<string>ベースライン</string>
-> 		<string>リストタイプ</string>
-> 		<string>リストレベル</string>
-< 		<string>Renumber Across Stories</string>
-> 		<string>挿入するテキスト</string>
-< 		<string>Space After Paragraph</string>
-> 		<string>文字スタイル</string>
 < 		<string>TabStop Indent</string>
-> 		<string>新規タブ位置を追加します</string>
+> 		<string>リストタイプ</string>
 < 		<string>Text To Insert</string>
+> 		<string>リストレベル</string>
+> 		<string>挿入するテキスト</string>
+> 		<string>文字スタイル</string>
+> 		<string>新規タブ位置を追加します</string>
 > 		<string>段落の後のスペース</string>
 < 		<string>Tracking</string>
 > 		<string>行間のオーバーライド</string>
