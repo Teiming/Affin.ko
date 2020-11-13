@@ -1,7 +1,7 @@
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
-< 		<string>Text Cell</string>
 > 		<string>テキストセル</string>
+< 		<string>Text Cell</string>
 < 		<string>Name</string>
 > 		<string>名前</string>
 > 		<string>テキストセル</string>
@@ -34,17 +34,15 @@
 > 		<string>テキストセル</string>
 < 		<string>Drag tokens and enter text to form a path template</string>
 > 		<string>トークンをドラッグし、テキストを入力してパステンプレートを指定します</string>
-< 		<string>Path components:</string>
 > 		<string>パスの構成要素:</string>
+< 		<string>Path components:</string>
 < 		<string>Not set</string>
 > 		<string>設定しない</string>
 < 		<string>User scale:</string>
 > 		<string>ユーザースケール:</string>
-< 		<string>SchemeTextFieldCell</string>
-> 		<string>SchemeTextFieldCell</string>
 > 		<string>設定しない</string>
-< 		<string>Exported DPI:</string>
 > 		<string>書き出されるDPI:</string>
+< 		<string>Exported DPI:</string>
 > 		<string>名前</string>
 > 		<string>値</string>
 < 		<string>Table View Cell</string>
