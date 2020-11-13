@@ -22,13 +22,13 @@
 < > 		<string>ハイフネーション</string>
 < > 		<string>位置</string>
 < > 		<string>テキストセル</string>
-< < 		<string>Text Cell</string>
 < > 		<string>テキストセル</string>
 < > 		<string>テキストセル</string>
 < > 		<string>テキストセル</string>
 < > 		<string>テキストセル</string>
 < < 		<string>Tab Stops</string>
 < > 		<string>タブ位置</string>
+> > 		<string>텍스트 셀</string>
 > < 		<string>Alignment</string>
 > > 		<string>정렬</string>
 > < 		<string>More</string>
@@ -159,7 +159,6 @@
 < > 				<string>NSObject</string>
 < > 			<string>NSIBHelpConnector</string>
 < < 		<string>Desired Word Spacing</string>
-< > 		<string>オフセット</string>
 < < 		<string>Desired Word Spacing</string>
 < > 		<string>オフセット</string>
 < < 		<string>First Line Indent</string>
@@ -195,8 +194,9 @@
 < < 		<string>Minimum Letter Spacing</string>
 < > 		<string>オフセット</string>
 < < 		<string>Minimum Word Spacing</string>
-< > 		<string>ストーリー間で番号の付け直し</string>
+< > 		<string>オフセット</string>
 < < 		<string>Minimum Word Spacing</string>
+< > 		<string>ストーリー間で番号の付け直し</string>
 < > 		<string>タブ位置インデント</string>
 < > 		<string>デフォルトのタブ位置</string>
 < < 		<string>{{186, 1}, {20, 18}}</string>
