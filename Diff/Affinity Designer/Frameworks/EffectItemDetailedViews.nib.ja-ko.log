@@ -9,6 +9,16 @@
 < > 		<string>追加</string>
 > > 		<string>추가</string>
 < > 		<string>削除</string>
+< < 				<string>NSButtonCell</string>
+< < 				<string>NSActionCell</string>
+< < 				<string>NSCell</string>
+< < 				<string>NSObject</string>
+< < 			<string>NSButtonCell</string>
+< > 				<string>NSButtonCell</string>
+< > 				<string>NSActionCell</string>
+< > 				<string>NSCell</string>
+< > 				<string>NSObject</string>
+< > 			<string>NSButtonCell</string>
 < > 		<string>カラー:</string>
 > > 		<string>지우기</string>
 < > 		<string>エレベーション:</string>
@@ -17,12 +27,12 @@
 < < 		<string>Azimuth:</string>
 > > 		<string>색상:</string>
 < > 		<string>向き:</string>
-> > 		<string>방향:</string>
 < > 		<string>光源:</string>
+> > 		<string>방향:</string>
 < > 		<string>アンビエントライトカラー:</string>
 < < 		<string>Ambient light colour:</string>
-< < 		<string>Specular colour:</string>
 < > 		<string>スペキュラカラー:</string>
+< < 		<string>Specular colour:</string>
 > > 		<string>광원:</string>
 < > 		<string>プロファイルの削除</string>
 < > 		<string>プロファイル:</string>
@@ -33,12 +43,12 @@
 < < 		<string>Ambient:</string>
 < > 		<string>光沢:</string>
 < < 		<string>Shininess:</string>
-< < 		<string>Specular:</string>
 < > 		<string>スペキュラ:</string>
+< < 		<string>Specular:</string>
 < > 		<string>拡散:</string>
 > > 		<string>부드럽게:</string>
-< > 		<string>深さ:</string>
 > > 		<string>확산:</string>
+< > 		<string>深さ:</string>
 < > 		<string>半径:</string>
 < > 		<string>カラー:</string>
 > > 		<string>깊이:</string>
@@ -134,8 +144,8 @@
 < < 		<string>Scale Y:</string>
 < > 		<string>オフセットX:</string>
 < < 		<string>Offset X:</string>
-< > 		<string>オフセットY:</string>
 < < 		<string>Offset Y:</string>
+< > 		<string>オフセットY:</string>
 < > 		<string>角度:</string>
 > > 		<string>원뿔형</string>
 < > 		<string>グラデーション</string>
@@ -172,13 +182,13 @@
 < > 		<string>半径:</string>
 > > 		<string>세기:</string>
 < > 		<string>不透明度:</string>
-< > 		<string>描画モード:</string>
 > > 		<string>불투명도:</string>
+< > 		<string>描画モード:</string>
 > > 		<string>혼합 모드:</string>
 < > 		<string>内側のシャドウ</string>
 < > 		<string>角度:</string>
-< < 		<string>Offset Y:</string>
 < > 		<string>オフセットY:</string>
+< < 		<string>Offset Y:</string>
 < > 		<string>オフセットX:</string>
 < < 		<string>Offset X:</string>
 < > 		<string>スケールY:</string>
@@ -199,6 +209,4 @@
 > > 		<string>불투명도:</string>
 > > 		<string>혼합 모드:</string>
 < > 		<string>グラデーションオーバーレイ</string>
-< < 		<string>NSApplication</string>
-< > 		<string>NSApplication</string>
 > > 		<string>그레이디언트 오버레이</string>
