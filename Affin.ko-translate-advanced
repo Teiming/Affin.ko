@@ -15,7 +15,7 @@ case ${Application} in
   1 )
   APPNAME=Affinity\ Designer
   DICPATH=~/Affin.ko/DictionaryDesigner
-  APPVERS=1.8.4
+  APPVERS=1.8.6
   ;;
   2 )
   APPNAME=Affinity\ Designer\ Beta
@@ -24,6 +24,7 @@ case ${Application} in
   3 )
   APPNAME=Affinity\ Photo
   DICPATH=~/Affin.ko/DictionaryPhoto
+  APPVERS=1.8.6
   ;;
   4 )
   APPNAME=Affinity\ Photo\ Beta
