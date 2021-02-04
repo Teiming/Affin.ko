@@ -3,7 +3,7 @@
 < 		<string>Create Slice</string>
 > 		<string>スライスを作成</string>
 < 		<string>Find in Layers Page</string>
-> 		<string>レイヤーページで検索</string>
+> 		<string>レイヤーページ内で検索</string>
 < 		<string>Cut</string>
 > 		<string>カット</string>
 < 		<string>Copy</string>
@@ -44,8 +44,8 @@
 < 		<string>Anchor to Centre</string>
 > 		<string>中心に固定</string>
 < 		<string>Arrange</string>
-> 		<string>配置</string>
-> 		<string>配置</string>
+> 		<string>重ね順</string>
+> 		<string>重ね順</string>
 < 		<string>Move to Front</string>
 > 		<string>最前面に移動</string>
 < 		<string>Move Forward One</string>
@@ -85,14 +85,14 @@
 < 		<string>Divide</string>
 > 		<string>除算</string>
 < 		<string>Combine</string>
-> 		<string>合成</string>
+> 		<string>中マド</string>
 < 		<string>Merge curves</string>
 > 		<string>カーブを結合</string>
 < 		<string>Separate curves</string>
 > 		<string>カーブを分離</string>
 < 		<string>Transform</string>
-> 		<string>変換</string>
-> 		<string>変換</string>
+> 		<string>変形</string>
+> 		<string>変形</string>
 < 		<string>Rotate Left</string>
 > 		<string>左に回転</string>
 < 		<string>Rotate Right</string>
@@ -107,10 +107,12 @@
 > 		<string>カーブに変換</string>
 < 		<string>Convert to Picture Frame</string>
 > 		<string>ピクチャフレームに変換</string>
+< 		<string>Convert to Image Resource</string>
+> 		<string>画像をリソースに変換</string>
 < 		<string>Convert to Text Frame</string>
 > 		<string>テキストフレームに変換</string>
 < 		<string>Rasterise &amp; Trim…</string>
-> 		<string>ラスタライズ&amp;削除…</string>
+> 		<string>ラスタライズ&amp;トリム…</string>
 < 		<string>Rasterise…</string>
 > 		<string>ラスタライズ…</string>
 < 		<string>Rasterise To Mask</string>
@@ -118,9 +120,9 @@
 < 		<string>Create Style</string>
 > 		<string>スタイルを作成</string>
 < 		<string>Preflight Comment</string>
-> 		<string>プレフライトコメント</string>
+> 		<string>プリフライトコメント</string>
 < 		<string>Preflight Comment</string>
-> 		<string>プレフライトコメント</string>
+> 		<string>プリフライトコメント</string>
 < 		<string>Set…</string>
 > 		<string>設定...</string>
 < 		<string>Clear</string>
@@ -136,27 +138,35 @@
 < 		<string>From Both</string>
 > 		<string>両方から</string>
 < 		<string>From Fill As Global</string>
-> 		<string>グローバルとして塗りつぶしから</string>
+> 		<string>塗りつぶしからグローバルとして</string>
 < 		<string>From Line As Global</string>
-> 		<string>グローバルとしてラインから</string>
+> 		<string>線からグローバルとして</string>
 < 		<string>From Both As Global</string>
-> 		<string>グローバルとして両方から</string>
+> 		<string>両方からグローバルとして</string>
 < 		<string>Find in Layers Panel</string>
-> 		<string>レイヤーパネルで検索</string>
+> 		<string>レイヤーパネル内で検索</string>
 < 		<string>Interactive</string>
 > 		<string>インタラクティブ</string>
 < 		<string>Interactive</string>
 > 		<string>インタラクティブ</string>
-< 		<string>Edit Hyperlink...</string>
-> 		<string>ハイパーリンクを編集...</string>
-< 		<string>Go to Hyperlink Target</string>
-> 		<string>ハイパーリンクターゲットに移動</string>
-< 		<string>Delete Hyperlink</string>
-> 		<string>ハイパーリンクを削除</string>
+< 		<string>Insert Anchor...</string>
+> 		<string>アンカーを挿入...</string>
+< 		<string>Anchor Properties...</string>
+> 		<string>アンカープロパティ...</string>
+< 		<string>Delete Anchor</string>
+> 		<string>アンカーを削除</string>
+< 		<string>Show Anchors</string>
+> 		<string>アンカーを表示</string>
 < 		<string>Insert Hyperlink...</string>
 > 		<string>ハイパーリンクを挿入...</string>
+< 		<string>Edit Hyperlink...</string>
+> 		<string>ハイパーリンクを編集...</string>
+< 		<string>Delete Hyperlink</string>
+> 		<string>ハイパーリンクを削除</string>
+< 		<string>Go to Hyperlink Target</string>
+> 		<string>ハイパーリンクターゲットに移動</string>
 < 		<string>Find in Slice Page</string>
-> 		<string>スライスページで検索</string>
+> 		<string>スライスページ内で検索</string>
 > 		<string>カット</string>
 > 		<string>コピー</string>
 > 		<string>ペースト</string>
@@ -205,17 +215,17 @@
 > 		<string>中央揃え</string>
 > 		<string>右揃え</string>
 < 		<string>Justify Left</string>
-> 		<string>均等割付(最終行左寄せ)</string>
+> 		<string>均等配置(最終行左揃え)</string>
 < 		<string>Justify Centre</string>
-> 		<string>均等割付(最終行中央寄せ)</string>
+> 		<string>均等配置(最終行中央揃え)</string>
 < 		<string>Justify Right</string>
-> 		<string>均等割付(最終行右寄せ)</string>
+> 		<string>均等配置(最終行右揃え)</string>
 < 		<string>Justify All</string>
 > 		<string>すべての行を均等配置</string>
 < 		<string>Paragraph Leading</string>
-> 		<string>段落の行間</string>
+> 		<string>段落の行送り</string>
 < 		<string>Paragraph Leading</string>
-> 		<string>段落の行間</string>
+> 		<string>段落の行送り</string>
 < 		<string>Increase</string>
 > 		<string>拡大</string>
 < 		<string>Decrease</string>
@@ -243,7 +253,7 @@
 < 		<string>Interactive</string>
 > 		<string>インタラクティブ</string>
 < 		<string>Insert Anchor...</string>
-> 		<string>アンカーを挿入…</string>
+> 		<string>アンカーを挿入...</string>
 < 		<string>Anchor Properties...</string>
 > 		<string>アンカープロパティ...</string>
 < 		<string>Delete Anchor</string>
@@ -251,9 +261,9 @@
 < 		<string>Show Anchors</string>
 > 		<string>アンカーを表示</string>
 < 		<string>Insert Hyperlink...</string>
-> 		<string>ハイパーリンクを挿入…</string>
-< 		<string>Hyperlink Properties...</string>
-> 		<string>ハイパーリンクのプロパティ...</string>
+> 		<string>ハイパーリンクを挿入...</string>
+< 		<string>Edit Hyperlink...</string>
+> 		<string>ハイパーリンクを編集...</string>
 < 		<string>Delete Hyperlink</string>
 > 		<string>ハイパーリンクを削除</string>
 < 		<string>Go to Hyperlink Target</string>
@@ -266,13 +276,13 @@
 > 		<string>線から</string>
 > 		<string>両方から</string>
 < 		<string>From Fill As Global</string>
-> 		<string>グローバルとして塗りつぶしから</string>
+> 		<string>塗りつぶしからグローバルとして</string>
 < 		<string>From Line As Global</string>
-> 		<string>グローバルとしてラインから</string>
+> 		<string>線からグローバルとして</string>
 < 		<string>From Both As Global</string>
-> 		<string>グローバルとして両方から</string>
+> 		<string>両方からグローバルとして</string>
 < 		<string>Find in Layers Panel</string>
-> 		<string>レイヤーパネルで検索</string>
+> 		<string>レイヤーパネル内で検索</string>
 < 		<string>Zoom In</string>
 > 		<string>ズームイン</string>
 < 		<string>Zoom Out</string>
@@ -308,9 +318,9 @@
 < 		<string>Precise Smaller</string>
 > 		<string>厳密な縮小</string>
 < 		<string>Paragraph Leading</string>
-> 		<string>段落の行間</string>
+> 		<string>段落の行送り</string>
 < 		<string>Paragraph Leading</string>
-> 		<string>段落の行間</string>
+> 		<string>段落の行送り</string>
 > 		<string>拡大</string>
 > 		<string>縮小</string>
 < 		<string>Precise Increase</string>
