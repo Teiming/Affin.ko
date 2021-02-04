@@ -8,21 +8,7 @@
 < < 		<string>Parameter C (c)</string>
 < > 		<string>パラメータC(c)</string>
 > > 		<string>수식</string>
-< < 		<string></string>
-< < 		<string></string>
 < > 		<string>適用</string>
-< < 				<string>NSButton</string>
-< < 				<string>NSControl</string>
-< < 				<string>NSView</string>
-< < 				<string>NSResponder</string>
-< < 				<string>NSObject</string>
-< > 		<string></string>
-< > 		<string></string>
-< > 				<string>NSButton</string>
-< > 				<string>NSControl</string>
-< > 				<string>NSView</string>
-< > 				<string>NSResponder</string>
-< > 				<string>NSObject</string>
 > > 		<string>적용</string>
 < > 		<string>キャンセル</string>
 < < 		<string>Cartesian</string>
@@ -35,7 +21,7 @@
 < > 		<string>度</string>
 < < 		<string>Radians</string>
 < > 		<string>ラジアン</string>
-< < 		<string>Angular uits</string>
+< < 		<string>Angular units</string>
 < > 		<string>角度の単位</string>
 < < 		<string>Zero</string>
 < > 		<string>ゼロ</string>
@@ -47,8 +33,8 @@
 < > 		<string>回り込み</string>
 > > 		<string>반복</string>
 < > 		<string>ミラー</string>
-< > 		<string>拡張モード</string>
 < < 		<string>Extend Mode</string>
+< > 		<string>拡張モード</string>
 > > 		<string>거울</string>
 < > 		<string>ミラー表示</string>
 > > 		<string>거울 뷰 모드</string>
