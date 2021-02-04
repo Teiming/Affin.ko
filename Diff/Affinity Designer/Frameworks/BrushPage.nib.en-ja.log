@@ -7,27 +7,31 @@
 < 		<string>Main Menu</string>
 > 		<string>メインメニュー</string>
 < 		<string>Create New Category</string>
-> 		<string>新規カテゴリの作成</string>
+> 		<string>新規カテゴリを作成</string>
 < 		<string>Rename Category…</string>
-> 		<string>カテゴリ名の変更…</string>
+> 		<string>カテゴリ名を変更…</string>
 < 		<string>Delete Category</string>
-> 		<string>カテゴリの削除</string>
+> 		<string>カテゴリを削除</string>
+< 		<string>Uninstall Pack…</string>
+> 		<string>パックをアンインストール…</string>
 < 		<string>Import Brushes…</string>
-> 		<string>ブラシのインポート…</string>
+> 		<string>ブラシをインポート…</string>
 < 		<string>Export Brushes…</string>
-> 		<string>ブラシの書き出し…</string>
+> 		<string>ブラシを書き出し…</string>
 < 		<string>Raster Menu</string>
 > 		<string>ラスターメニュー</string>
 < 		<string>New Intensity Brush</string>
 > 		<string>新規強度ブラシ</string>
 < 		<string>New Round Brush</string>
-> 		<string>新規円形ブラシ</string>
+> 		<string>新規ラウンドブラシ</string>
 < 		<string>New Square Brush</string>
-> 		<string>新規正方形ブラシ</string>
+> 		<string>新規スクエアブラシ</string>
 < 		<string>New Image Brush</string>
 > 		<string>新規画像ブラシ</string>
+< 		<string>New Brush From Selection</string>
+> 		<string>選択範囲からの新しいブラシ</string>
 < 		<string>Vector Menu</string>
-> 		<string>ベクトルメニュー</string>
+> 		<string>ベクターメニュー</string>
 < 		<string>New Solid Brush</string>
 > 		<string>新規ソリッドブラシ</string>
 < 		<string>New Textured Intensity Brush</string>
@@ -39,13 +43,13 @@
 < 		<string>Brush Item Context Menu</string>
 > 		<string>ブラシ項目コンテキストメニュー</string>
 < 		<string>Edit Brush…</string>
-> 		<string>ブラシの編集…</string>
+> 		<string>ブラシを編集…</string>
 < 		<string>Rename Brush…</string>
-> 		<string>ブラシ名の変更…</string>
+> 		<string>ブラシ名を変更…</string>
 < 		<string>Duplicate Brush</string>
-> 		<string>ブラシの複製</string>
+> 		<string>ブラシを複製</string>
 < 		<string>Delete Brush</string>
-> 		<string>ブラシの削除</string>
+> 		<string>ブラシを削除</string>
 < 		<string>Move Brush to Category</string>
 > 		<string>ブラシをカテゴリに移動</string>
 < 		<string>Edit Brush</string>

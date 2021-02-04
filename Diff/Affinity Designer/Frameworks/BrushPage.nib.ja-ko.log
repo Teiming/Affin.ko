@@ -5,28 +5,32 @@
 < > 		<string>ユーザー定義</string>
 < < 		<string>Main Menu</string>
 < > 		<string>メインメニュー</string>
+< < 		<string>Create New Category</string>
+< > 		<string>新規カテゴリを作成</string>
 > > 		<string>사용자 정의</string>
-< > 		<string>新規カテゴリの作成</string>
-> > 		<string>신규 범주 생성</string>
-< > 		<string>カテゴリ名の変更…</string>
+< > 		<string>カテゴリ名を変更…</string>
 > > 		<string>범주 이름 변경…</string>
-< > 		<string>カテゴリの削除</string>
+< > 		<string>カテゴリを削除</string>
+< < 		<string>Uninstall Pack…</string>
+< > 		<string>パックをアンインストール…</string>
 > > 		<string>범주 지우기</string>
-< > 		<string>ブラシのインポート…</string>
+< > 		<string>ブラシをインポート…</string>
 > > 		<string>브러시 들여오기…</string>
-< > 		<string>ブラシの書き出し…</string>
+< > 		<string>ブラシを書き出し…</string>
 > > 		<string>브러시 내보내기…</string>
 < > 		<string>ラスターメニュー</string>
 < < 		<string>New Intensity Brush</string>
 < > 		<string>新規強度ブラシ</string>
 > > 		<string>래스터 메뉴</string>
-< > 		<string>新規円形ブラシ</string>
+< > 		<string>新規ラウンドブラシ</string>
 > > 		<string>신규 둥근 브러시</string>
-< > 		<string>新規正方形ブラシ</string>
+< > 		<string>新規スクエアブラシ</string>
 > > 		<string>신규 사각형 브러시</string>
 < > 		<string>新規画像ブラシ</string>
+< < 		<string>New Brush From Selection</string>
+< > 		<string>選択範囲からの新しいブラシ</string>
 > > 		<string>신규 이미지 브러시</string>
-< > 		<string>ベクトルメニュー</string>
+< > 		<string>ベクターメニュー</string>
 > > 		<string>벡터 메뉴</string>
 < > 		<string>新規ソリッドブラシ</string>
 < < 		<string>New Textured Intensity Brush</string>
@@ -38,13 +42,13 @@
 > > 		<string>브러시를 카테고리로 이동</string>
 < > 		<string>ブラシ項目コンテキストメニュー</string>
 > > 		<string>브러시 항목 상황별 메뉴</string>
-< > 		<string>ブラシの編集…</string>
+< > 		<string>ブラシを編集…</string>
 > > 		<string>브러시 편집…</string>
-< > 		<string>ブラシ名の変更…</string>
+< > 		<string>ブラシ名を変更…</string>
 > > 		<string>브러시 이름 변경…</string>
-< > 		<string>ブラシの複製</string>
+< > 		<string>ブラシを複製</string>
 > > 		<string>브러시 복제</string>
-< > 		<string>ブラシの削除</string>
+< > 		<string>ブラシを削除</string>
 > > 		<string>브러시 지우기</string>
 < > 		<string>ブラシをカテゴリに移動</string>
 < < 		<string>Edit Brush</string>
