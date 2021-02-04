@@ -8,8 +8,8 @@
 > 		<string>縦横比:</string>
 < 		<string>Angle:</string>
 > 		<string>角度:</string>
-> 		<string>第2軸</string>
 < 		<string>Second axis</string>
+> 		<string>第2軸</string>
 < 		<string>Spacing:</string>
 > 		<string>間隔:</string>
 > 		<string>余白:</string>
@@ -29,7 +29,7 @@
 < 		<string>Intermediate divisions:</string>
 > 		<string>中間区分:</string>
 < 		<string>Plane perpendicular axis:</string>
-> 		<string>プレーン直交軸:</string>
+> 		<string>平面直交軸:</string>
 < 		<string>Do not add</string>
 > 		<string>追加しない</string>
 < 		<string>Add for constraining</string>
@@ -54,8 +54,8 @@
 > 		<string>スナップ対象に追加</string>
 < 		<string>Snapping axis setup</string>
 > 		<string>スナップ軸の設定</string>
-> 		<string>間隔:</string>
 < 		<string>Spacing:</string>
+> 		<string>間隔:</string>
 < 		<string>Divisions:</string>
 > 		<string>区分:</string>
 > 		<string>余白:</string>
@@ -93,11 +93,11 @@
 < 		<string>Uniform</string>
 > 		<string>均一</string>
 < 		<string>Create plane set</string>
-> 		<string>プレーンセットの作成</string>
+> 		<string>平面セットを作成</string>
 < 		<string>Fixed aspect ratio</string>
 > 		<string>固定縦横比</string>
-> 		<string>第1軸</string>
 < 		<string>First axis</string>
+> 		<string>第1軸</string>
 > 		<string>第2軸</string>
 > 		<string>上方向軸</string>
 < 		<string>Additional axis setup</string>

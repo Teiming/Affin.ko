@@ -7,8 +7,8 @@
 < > 		<string>縦横比:</string>
 > > 		<string>종횡비:</string>
 < > 		<string>角度:</string>
-< > 		<string>第2軸</string>
 > > 		<string>각도:</string>
+< > 		<string>第2軸</string>
 > > 		<string>두 번째 축</string>
 < > 		<string>間隔:</string>
 < > 		<string>余白:</string>
@@ -28,7 +28,7 @@
 < < 		<string>Intermediate divisions:</string>
 < > 		<string>中間区分:</string>
 > > 		<string>스내핑 대상에 추가</string>
-< > 		<string>プレーン直交軸:</string>
+< > 		<string>平面直交軸:</string>
 > > 		<string>평면 직교 축:</string>
 < > 		<string>追加しない</string>
 > > 		<string>추가하지 않음</string>
@@ -53,8 +53,8 @@
 < > 		<string>スナップ対象に追加</string>
 > > 		<string>스내핑 대상에 추가</string>
 < > 		<string>スナップ軸の設定</string>
-< > 		<string>間隔:</string>
 > > 		<string>스내핑 축 설정</string>
+< > 		<string>間隔:</string>
 > > 		<string>간격:</string>
 < > 		<string>区分:</string>
 < > 		<string>余白:</string>
@@ -92,11 +92,11 @@
 < < 		<string>Uniform</string>
 < > 		<string>均一</string>
 < < 		<string>Create plane set</string>
-< > 		<string>プレーンセットの作成</string>
+< > 		<string>平面セットを作成</string>
 < < 		<string>Fixed aspect ratio</string>
 < > 		<string>固定縦横比</string>
-< > 		<string>第1軸</string>
 > > 		<string>사투상</string>
+< > 		<string>第1軸</string>
 < > 		<string>第2軸</string>
 < > 		<string>上方向軸</string>
 < < 		<string>Additional axis setup</string>
