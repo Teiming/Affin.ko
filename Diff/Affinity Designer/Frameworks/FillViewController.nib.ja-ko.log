@@ -1,6 +1,6 @@
 < > 		<string>RGBスライダー</string>
 > > 		<string>RGB 슬라이더</string>
-< > 		<string>RGB Hexスライダー</string>
+< > 		<string>RGB 16進数スライダー</string>
 > > 		<string>RGB Hex 슬라이더</string>
 < > 		<string>HSLスライダー</string>
 < < 		<string>CMYK Sliders</string>
@@ -35,8 +35,8 @@
 < > 		<string>反転</string>
 > > 		<string>종류:</string>
 < > 		<string>不透明度:</string>
-< > 		<string>グラデーション</string>
 < < 		<string>Grad</string>
+< > 		<string>グラデーション</string>
 < < 		<string>Gradient:</string>
 < > 		<string>グラデーション:</string>
 < < 		<string>Stop:</string>
@@ -53,6 +53,12 @@
 < > 		<string>コピー</string>
 > > 		<string>복사</string>
 < > 		<string>挿入</string>
+< < 		<string>Item 1</string>
+< > 		<string>アイテム1</string>
+< < 		<string>Item 2</string>
+< > 		<string>アイテム2</string>
+< < 		<string>Item 3</string>
+< > 		<string>アイテム3</string>
 > > 		<string>삽입</string>
 < > 		<string>最近使用したもの:</string>
 < > 		<string>スウォッチ</string>
