@@ -35,7 +35,7 @@
 < 		<string>Variance</string>
 > 		<string>許容誤差</string>
 < 		<string>Skewness</string>
-> 		<string>ゆがみ</string>
+> 		<string>歪度</string>
 < 		<string>Sample description text</string>
 < 		<string>Name of Object</string>
 > 		<string>サンプル説明テキスト</string>
@@ -46,6 +46,9 @@
 > 		<string>テキスト付近にフローティング</string>
 < 		<string>Inline in Text</string>
 > 		<string>テキスト内にインライン表示</string>
+< 		<string>Is Linked</string>
+> 		<string>リンクされています</string>
+> 		<string>リンクされています</string>
 < 		<string>Is excluded from snapping</string>
 > 		<string>レイヤーエフェクトがかかっています</string>
 < 		<string>Is locked</string>
