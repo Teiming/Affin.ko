@@ -14,20 +14,12 @@
 < > 		<string>出力:</string>
 < < 		<string>Pressure Flyout</string>
 < > 		<string>筆圧ポップアップメニュー</string>
-< < 				<string>NSButtonCell</string>
-< < 				<string>NSActionCell</string>
-< < 				<string>NSCell</string>
-< < 				<string>NSObject</string>
-< < 			<string>NSButtonCell</string>
-< > 				<string>NSButtonCell</string>
-< > 				<string>NSActionCell</string>
-< > 				<string>NSCell</string>
-< > 				<string>NSObject</string>
-< > 			<string>NSButtonCell</string>
 < < 		<string>Coverage Map:</string>
 < > 		<string>カバレッジマップ:</string>
 < < 		<string>Blend Gamma:</string>
 < > 		<string>ブレンドガンマ:</string>
+< < 		<string>Antialiasing:</string>
+< > 		<string>アンチエイリアス:</string>
 > > 		<string>바깥:</string>
 < > 		<string>線形</string>
 < > 		<string>線形</string>
