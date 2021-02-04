@@ -1,7 +1,13 @@
 < 		<string>Rotation</string>
 > 		<string>回転</string>
-< 		<string>Vertical Alignment</string>
-> 		<string>垂直方向揃え</string>
+< 		<string>Initial advance:</string>
+> 		<string>最大段落間隔：</string>
+< 		<string>Alignment:</string>
+> 		<string>整列：</string>
+< 		<string>Minimum:</string>
+> 		<string>最小：</string>
+< 		<string>Vertical Position</string>
+> 		<string>垂直位置</string>
 < 		<string>Left:</string>
 > 		<string>左:</string>
 < 		<string>Top:</string>
@@ -13,7 +19,7 @@
 < 		<string>Width:</string>
 > 		<string>幅:</string>
 < 		<string>Insets</string>
-> 		<string>インセット</string>
+> 		<string>余白</string>
 < 		<string>Height:</string>
 > 		<string>高さ:</string>
 < 		<string>Cell</string>
@@ -25,7 +31,7 @@
 < 		<string>Stroke:</string>
 > 		<string>境界線:</string>
 > 		<string>ボタン</string>
-> 		<string>インセット</string>
+> 		<string>余白</string>
 > 		<string>下:</string>
 < 		<string>Ignore Baseline Grid</string>
 > 		<string>ベースライングリッドを無視</string>
@@ -33,7 +39,7 @@
 > 		<string>右:</string>
 > 		<string>上:</string>
 < 		<string>Frame</string>
-> 		<string>フレーム</string>
+> 		<string>外枠</string>
 > 		<string>塗りつぶし:</string>
 > 		<string>ボタン</string>
 < 		<string>Border:</string>
@@ -60,67 +66,77 @@
 > 		<string>ベースライングリッド</string>
 < 		<string>All</string>
 > 		<string>すべて</string>
-< 		<string>All horizontal</string>
+< 		<string>All Horizontal</string>
 > 		<string>すべて垂直方向</string>
-< 		<string>All vertical</string>
+< 		<string>All Vertical</string>
 > 		<string>すべて水平方向</string>
 < 		<string>Bottom</string>
-> 		<string>インセットのリンク</string>
-< 		<string>Bottom Text Inset</string>
-> 		<string>インセットのリンク</string>
+> 		<string>グリッド間隔</string>
 < 		<string>Bottom Text Inset</string>
 > 		<string>セルの塗りつぶし</string>
-< 		<string>Cell Fill</string>
-> 		<string>セルの幅</string>
-< 		<string>Cell Height</string>
-> 		<string>セルの高さ</string>
-< 		<string>Cell Stroke</string>
+< 		<string>Bottom Text Inset</string>
 > 		<string>セル境界線</string>
-< 		<string>Cell Stroke Fill</string>
+< 		<string>Cell Fill</string>
 > 		<string>セル境界線の塗りつぶし</string>
-< 		<string>Cell Width</string>
-> 		<string>フレームの塗りつぶし</string>
+< 		<string>Cell Stroke</string>
+> 		<string>テキスト上の余白</string>
+< 		<string>Cell Stroke Fill</string>
+> 		<string>テキスト上の余白</string>
+< 		<string>Column Width</string>
+> 		<string>テキスト下の余白</string>
 < 		<string>Frame Fill</string>
-> 		<string>フレーム境界線</string>
+> 		<string>テキスト下の余白</string>
 < 		<string>Frame Stroke</string>
-> 		<string>フレーム境界線の塗りつぶし</string>
+> 		<string>テキスト右の余白</string>
 < 		<string>Frame Stroke Fill</string>
-> 		<string>メイングリッドラインを不透明に設定</string>
+> 		<string>テキスト右の余白</string>
+< 		<string>Grid Colour</string>
+> 		<string>テキスト左の余白</string>
+< 		<string>Grid Opacity</string>
+> 		<string>テキスト左の余白</string>
+< 		<string>Grid Spacing</string>
+> 		<string>フレームの塗りつぶし</string>
+< 		<string>Initial Advance</string>
+> 		<string>フレーム境界線</string>
 < 		<string>Inside</string>
-> 		<string>メイングリッドラインカラーを設定</string>
-< 		<string>Inside horizontal</string>
-> 		<string>上</string>
-< 		<string>Inside vertical</string>
-> 		<string>上のテキストインセット</string>
+> 		<string>フレーム境界線の塗りつぶし</string>
+< 		<string>Inside Horizontal</string>
+> 		<string>メイングリッドラインのカラーを設定</string>
+< 		<string>Inside Vertical</string>
+> 		<string>メイングリッドラインを不透明に設定</string>
 < 		<string>Left</string>
-> 		<string>上のテキストインセット</string>
+> 		<string>上</string>
 < 		<string>Left Text Inset</string>
 > 		<string>下</string>
 < 		<string>Left Text Inset</string>
-> 		<string>下のテキストインセット</string>
+> 		<string>余白をリンク</string>
 < 		<string>Link Insets</string>
-> 		<string>下のテキストインセット</string>
+> 		<string>余白をリンク</string>
 < 		<string>Link Insets</string>
 > 		<string>内側</string>
-< 		<string>Outside</string>
+< 		<string>Minimum Initial Advance</string>
 > 		<string>内側垂直方向</string>
-< 		<string>Outside horizontal</string>
+< 		<string>Outside</string>
 > 		<string>内側水平方向</string>
-< 		<string>Outside vertical</string>
+< 		<string>Outside Horizontal</string>
+> 		<string>列幅</string>
+< 		<string>Outside Vertical</string>
 > 		<string>右</string>
+< 		<string>Relative To</string>
+> 		<string>基準</string>
 < 		<string>Right</string>
-> 		<string>右のテキストインセット</string>
-< 		<string>Right Text Inset</string>
-> 		<string>右のテキストインセット</string>
-< 		<string>Right Text Inset</string>
 > 		<string>外側</string>
-< 		<string>Set the main grid line colour</string>
+< 		<string>Right Text Inset</string>
 > 		<string>外側垂直方向</string>
-< 		<string>Set the main grid line opacity</string>
+< 		<string>Right Text Inset</string>
 > 		<string>外側水平方向</string>
-< 		<string>Top</string>
+< 		<string>Row Height</string>
 > 		<string>左</string>
+< 		<string>Start Position</string>
+> 		<string>最大段落間隔</string>
+< 		<string>Top</string>
+> 		<string>最大段落間隔</string>
 < 		<string>Top Text Inset</string>
-> 		<string>左のテキストインセット</string>
+> 		<string>行の高さ</string>
 < 		<string>Top Text Inset</string>
-> 		<string>左のテキストインセット</string>
+> 		<string>開始位置</string>

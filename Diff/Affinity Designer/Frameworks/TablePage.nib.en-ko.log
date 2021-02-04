@@ -1,7 +1,7 @@
 < 		<string>Rotation</string>
 > 		<string>회전</string>
-< 		<string>Vertical Alignment</string>
-> 		<string>세로 정렬</string>
+< 		<string>Alignment:</string>
+> 		<string>정렬:</string>
 < 		<string>Left:</string>
 > 		<string>왼쪽:</string>
 < 		<string>Top:</string>
@@ -28,28 +28,16 @@
 > 		<string>아래</string>
 < 		<string>Inside</string>
 > 		<string>안으로</string>
-< 		<string>Inside horizontal</string>
-> 		<string>가로 안</string>
-< 		<string>Inside vertical</string>
-> 		<string>세로 안</string>
 < 		<string>Left</string>
 > 		<string>왼쪽</string>
 < 		<string>Outside</string>
 > 		<string>바깥</string>
-< 		<string>Outside horizontal</string>
-> 		<string>가로 바깥</string>
-< 		<string>Outside vertical</string>
-> 		<string>세로 바깥</string>
 < 		<string>Right</string>
 > 		<string>오른쪽</string>
 < 		<string>Right Text Inset</string>
 > 		<string>오른쪽 텍스트 들여쓰기</string>
 < 		<string>Right Text Inset</string>
 > 		<string>오른쪽 텍스트 들여쓰기</string>
-< 		<string>Set the main grid line colour</string>
-> 		<string>주 격자 선 색상 설정</string>
-< 		<string>Set the main grid line opacity</string>
-> 		<string>주 격자 선 불투명도 설정</string>
 < 		<string>Top</string>
 > 		<string>위쪽</string>
 < 		<string>Top Text Inset</string>
