@@ -1,4 +1,4 @@
-< > 		<string>最近使用したファイルを開く</string>
+< > 		<string>最近使用したドキュメントを開く</string>
 > > 		<string>최근 사용 열기</string>
 < > 		<string>最近使用したファイルのリストを消去</string>
 > > 		<string>메뉴 지우기</string>
@@ -6,13 +6,19 @@
 > > 		<string>뷰</string>
 < > 		<string>スタジオ</string>
 > > 		<string>작업실</string>
-< > 		<string>Left Studioの表示</string>
+< > 		<string>左のスタジオを表示</string>
 > > 		<string>왼쪽 작업실 보기</string>
-< > 		<string>Right Studioの表示</string>
+< > 		<string>右のスタジオを表示</string>
 > > 		<string>오른쪽 작업실 보기</string>
 < > 		<string>スタジオを隠す</string>
 > > 		<string>작업실 가리기</string>
 < > 		<string>スタジオをリセット</string>
+< < 		<string>Studio Presets</string>
+< > 		<string>スタジオプリセット</string>
+< < 		<string>Add Preset…</string>
+< > 		<string>プリセットを追加…</string>
+< < 		<string>Manage Studio Presets…</string>
+< > 		<string>スタジオプリセットを管理…</string>
 > > 		<string>작업실 재설정</string>
 < > 		<string>共有</string>
 > > 		<string>공유</string>
@@ -32,31 +38,31 @@
 > > 		<string>모두 보기</string>
 < > 		<string>非表示</string>
 > > 		<string>가리기</string>
-< > 		<string>Affinity Designerについて…</string>
+< > 		<string>製品情報…</string>
 > > 		<string>Affinity Designer에 관하여…</string>
-< > 		<string>別名で保存…</string>
+< > 		<string>名前を付けて保存…</string>
 > > 		<string>다른 이름으로 저장…</string>
 < > 		<string>保存</string>
 > > 		<string>저장</string>
 < > 		<string>閉じる</string>
 < < 		<string>New…</string>
-< > 		<string>新規...</string>
+< > 		<string>新規…</string>
 > > 		<string>닫기</string>
 < > 		<string>開く…</string>
 > > 		<string>열기…</string>
 < > 		<string>プリント…</string>
 > > 		<string>인쇄…</string>
-< > 		<string>ツールのカスタマイズ…</string>
+< > 		<string>ツールをカスタマイズ…</string>
 > > 		<string>도구 사용자화…</string>
-< > 		<string>ツールバーのカスタマイズ…</string>
+< > 		<string>ツールバーをカスタマイズ…</string>
 > > 		<string>툴바 사용자화…</string>
-< > 		<string>ツールバーの表示</string>
+< > 		<string>ツールバーを表示</string>
 > > 		<string>툴바 보기</string>
 < > 		<string>画面サイズに合わせる</string>
 > > 		<string>화면 크기에 맞추기</string>
-< > 		<string>マージンの表示</string>
+< > 		<string>マージンを表示</string>
 > > 		<string>여백선 보기</string>
-< > 		<string>ガイドの表示</string>
+< > 		<string>ガイドを表示</string>
 > > 		<string>안내선 보기</string>
 < > 		<string>グリッドを表示</string>
 > > 		<string>격자선 보기</string>
@@ -66,7 +72,7 @@
 > > 		<string>내보내기…</string>
 < > 		<string>ピクセル</string>
 > > 		<string>픽셀</string>
-< > 		<string>スナップの管理…</string>
+< > 		<string>スナップマネージャー…</string>
 > > 		<string>스내핑 관리자…</string>
 < > 		<string>ズームイン</string>
 > > 		<string>확대</string>
@@ -74,13 +80,13 @@
 > > 		<string>축소</string>
 < > 		<string>アシスタントマネージャー…</string>
 > > 		<string>손쉬운 사용 관리자…</string>
-< > 		<string>ベクトル</string>
+< > 		<string>ベクター</string>
 > > 		<string>벡터</string>
 < > 		<string>ルーラーを表示</string>
 > > 		<string>눈금자 보기</string>
 < > 		<string>フルスクリーン切り替え</string>
 > > 		<string>전체 화면 시작</string>
-< > 		<string>すべてを選択</string>
+< > 		<string>すべて選択</string>
 > > 		<string>전체 선택</string>
 < > 		<string>Affinity Designerヘルプ</string>
 > > 		<string>Affinity Designer 도움말</string>
@@ -110,7 +116,9 @@
 > > 		<string>도구 보기</string>
 < > 		<string>取り消し</string>
 > > 		<string>실행 취소</string>
-< > 		<string>グリッドと軸の管理…</string>
+< > 		<string>グリッドおよび軸マネージャー…</string>
+< < 		<string>My Account…</string>
+< > 		<string>マイアカウント...</string>
 > > 		<string>격자선 관리자…</string>
 < > 		<string>コンテキストツールバーを表示</string>
 > > 		<string>상황별 툴바 보기</string>
@@ -130,7 +138,7 @@
 > > 		<string>업데이트 확인</string>
 < > 		<string>ピクセル(Retina)</string>
 > > 		<string>픽셀 (레티나)</string>
-< > 		<string>選択範囲を拡大</string>
+< > 		<string>選択範囲にズーム</string>
 > > 		<string>선택 항목에 맞추기</string>
 < > 		<string>前の要素を選択</string>
 > > 		<string>이전 항목 선택</string>
@@ -140,7 +148,7 @@
 > > 		<string>화면 너비에 맞추기</string>
 < > 		<string>サポート...</string>
 > > 		<string>지원...</string>
-< > 		<string>キャンバスにクリップ</string>
+< > 		<string>キャンバスに合わせてクリップ</string>
 > > 		<string>캔버스에 클립</string>
 < > 		<string>カット</string>
 > > 		<string>오려두기</string>
@@ -166,7 +174,7 @@
 > > 		<string>서비스</string>
 < > 		<string>ファイル</string>
 < > 		<string>ファイル</string>
-< > 		<string>最近使用したファイルを開く</string>
+< > 		<string>最近使用したドキュメントを開く</string>
 < > 		<string>共有</string>
 > > 		<string>파일</string>
 < > 		<string>編集</string>
@@ -180,10 +188,12 @@
 < > 		<string>ズーム</string>
 < > 		<string>ズーム</string>
 > > 		<string>뷰</string>
-< > 		<string>ビューモード</string>
-< > 		<string>ビューモード</string>
+< > 		<string>表示モード</string>
+< > 		<string>表示モード</string>
 < > 		<string>ビュー</string>
 < > 		<string>スタジオ</string>
+< < 		<string>Studio Presets</string>
+< > 		<string>スタジオプリセット</string>
 > > 		<string>뷰 모드</string>
 < > 		<string>ウィンドウ</string>
 < > 		<string>ウィンドウ</string>
