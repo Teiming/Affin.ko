@@ -1,4 +1,4 @@
-< > 		<string>最近使用したファイルを開く</string>
+< > 		<string>最近使用したドキュメントを開く</string>
 > > 		<string>최근 사용 열기</string>
 < > 		<string>最近使用したファイルのリストを消去</string>
 > > 		<string>메뉴 지우기</string>
@@ -6,13 +6,19 @@
 > > 		<string>뷰</string>
 < > 		<string>スタジオ</string>
 > > 		<string>작업실</string>
-< > 		<string>Left Studioの表示</string>
+< > 		<string>左のスタジオを表示</string>
 > > 		<string>왼쪽 작업실 보기</string>
-< > 		<string>Right Studioの表示</string>
+< > 		<string>右のスタジオを表示</string>
 > > 		<string>오른쪽 작업실 보기</string>
 < > 		<string>スタジオを隠す</string>
 > > 		<string>작업실 가리기</string>
 < > 		<string>スタジオをリセット</string>
+< < 		<string>Studio Presets</string>
+< > 		<string>スタジオプリセット</string>
+< < 		<string>Add Preset…</string>
+< > 		<string>プリセットを追加…</string>
+< < 		<string>Manage Studio Presets…</string>
+< > 		<string>スタジオプリセットを管理…</string>
 > > 		<string>작업실 재설정</string>
 < > 		<string>共有</string>
 > > 		<string>공유</string>
@@ -26,13 +32,13 @@
 > > 		<string>기타 가리기</string>
 < > 		<string>環境設定…</string>
 > > 		<string>환경설정…</string>
-< > 		<string>Affinity Designerを終了</string>
+< > 		<string>終了</string>
 > > 		<string>Affinity Designer 종료</string>
 < > 		<string>すべて表示</string>
 > > 		<string>모두 보기</string>
-< > 		<string>Affinity Designerを隠す</string>
+< > 		<string>非表示</string>
 > > 		<string>가리기</string>
-< > 		<string>概要…</string>
+< > 		<string>製品情報…</string>
 > > 		<string>Affinity Designer에 관하여…</string>
 < > 		<string>やり直し</string>
 > > 		<string>다시 실행</string>
@@ -44,21 +50,21 @@
 > > 		<string>오려두기</string>
 < > 		<string>取り消し</string>
 > > 		<string>실행 취소</string>
-< > 		<string>すべてを選択</string>
+< > 		<string>すべて選択</string>
 > > 		<string>전체 선택</string>
 < > 		<string>削除</string>
 > > 		<string>지우기</string>
-< > 		<string>別名で保存...</string>
+< > 		<string>名前を付けて保存…</string>
 > > 		<string>다른 이름으로 저장…</string>
 < > 		<string>閉じる</string>
 > > 		<string>닫기</string>
 < > 		<string>ドキュメント設定…</string>
 < < 		<string>New…</string>
-< > 		<string>新規...</string>
+< > 		<string>新規…</string>
 > > 		<string>문서 설정…</string>
 < > 		<string>開く…</string>
 > > 		<string>열기…</string>
-< > 		<string>プリント...</string>
+< > 		<string>プリント…</string>
 > > 		<string>인쇄…</string>
 < > 		<string>ツールをカスタマイズ…</string>
 > > 		<string>도구 사용자화…</string>
@@ -156,7 +162,7 @@
 > > 		<string>반각 공백</string>
 < > 		<string>分散禁止ハイフン</string>
 > > 		<string>줄 바꿈 없는 하이픈</string>
-< > 		<string>幅ゼロのスペース</string>
+< > 		<string>ゼロ幅スペース</string>
 > > 		<string>폭 없는 공백</string>
 < > 		<string>ソフトハイフン</string>
 > > 		<string>하이픈</string>
@@ -166,7 +172,11 @@
 > > 		<string>없음</string>
 < > 		<string>スモールキャップス</string>
 > > 		<string>작은 대문자</string>
-< > 		<string>すべて大文字</string>
+< > 		<string>オールキャップス</string>
+< < 		<string>Fill &amp; Stroke Colour</string>
+< > 		<string>塗りつぶし&amp;境界線カラー</string>
+< < 		<string>Pixel Objects</string>
+< > 		<string>ピクセルオブジェクト</string>
 > > 		<string>모두 대문자</string>
 < > 		<string>回転をリセット</string>
 < < 		<string>Return to owner…</string>
@@ -188,19 +198,23 @@
 > > 		<string>Photo에서 편집…</string>
 < > 		<string>すべてロック解除</string>
 > > 		<string>모두 잠금 해제</string>
-< > 		<string>再配色</string>
+< > 		<string>リカラー</string>
 > > 		<string>재색상</string>
 < > 		<string>フィラーテキストを挿入</string>
+< < 		<string>Resource Manager...</string>
+< > 		<string>リソースマネージャー...</string>
 > > 		<string>Lorem Ipsum</string>
 < > 		<string>狭い</string>
 > > 		<string>좁은</string>
-< > 		<string>字下げ</string>
+< > 		<string>ベースラインを下げる</string>
 > > 		<string>기준선 내리기</string>
-< > 		<string>打消し線</string>
+< > 		<string>打ち消し線</string>
 > > 		<string>취소선</string>
 < > 		<string>厳密な拡大</string>
 > > 		<string>조금씩 크게</string>
 < > 		<string>スプレッド設定…</string>
+< < 		<string>Path Text</string>
+< > 		<string>パステキスト</string>
 > > 		<string>스프레드 설정…</string>
 < > 		<string>上下反転</string>
 < < 		<string>Publisher Persona</string>
@@ -208,7 +222,7 @@
 > > 		<string>세로 뒤집기</string>
 < > 		<string>グリフブラウザを表示</string>
 > > 		<string>글리프 브라우저 보기</string>
-< > 		<string>列ガイドを表示</string>
+< > 		<string>カラムガイドを表示</string>
 > > 		<string>열 안내선 보기</string>
 < > 		<string>選択範囲から同期</string>
 > > 		<string>선택 항목에서 기본값 동기화</string>
@@ -217,6 +231,8 @@
 < > 		<string>厳密な縮小</string>
 > > 		<string>조금씩 줄이기</string>
 < > 		<string>エフェクトをペースト</string>
+< < 		<string>My Account…</string>
+< > 		<string>マイアカウント...</string>
 > > 		<string>효과 붙이기</string>
 < > 		<string>カラーバランス</string>
 > > 		<string>색상 밸런스</string>
@@ -232,31 +248,33 @@
 < < 		<string>Reapply Base Styles</string>
 < > 		<string>ベーススタイルを再適用</string>
 > > 		<string>신규 픽셀 레이어</string>
-< > 		<string>キャンバスにクリップ</string>
+< > 		<string>キャンバスに合わせてクリップ</string>
 > > 		<string>캔버스에 클립</string>
 < > 		<string>段落スタイルを削除</string>
 > > 		<string>문단 스타일 지우기</string>
+< > 		<string>フレームテキスト</string>
+> > 		<string>액자 텍스트</string>
 < > 		<string>ガイドをロック</string>
 > > 		<string>안내선 잠금</string>
 < > 		<string>クリップボードから新規作成</string>
 > > 		<string>클립보드에서 신규</string>
 < > 		<string>スペルチェック</string>
 > > 		<string>철자 확인</string>
-< > 		<string>ビューを分割</string>
+< > 		<string>分割表示</string>
 > > 		<string>분할 뷰 모드</string>
 < > 		<string>上</string>
 > > 		<string>위쪽</string>
 < > 		<string>デフォルト</string>
 > > 		<string>기본값</string>
-< > 		<string>複合化を解除</string>
+< > 		<string>複合オブジェクトを解除</string>
 > > 		<string>결합 해제</string>
 < > 		<string>前の要素を選択</string>
 < < 		<string>Preview Mode</string>
 < > 		<string>プレビューモード</string>
 > > 		<string>이전 항목 선택</string>
-< > 		<string>水平方向に均等配置</string>
+< > 		<string>水平方向に等間隔配置</string>
 < < 		<string>Expand Field</string>
-< > 		<string>フィールドを拡大</string>
+< > 		<string>フィールドを展開</string>
 > > 		<string>가로 공백</string>
 < > 		<string>内側</string>
 < < 		<string>Make Restricted</string>
@@ -269,12 +287,16 @@
 < > 		<string>半角ダッシュ</string>
 < < 		<string>Export as Template…</string>
 < > 		<string>テンプレートとして書き出し...</string>
+< < 		<string>Stroke Colour</string>
+< > 		<string>境界線カラー</string>
 > > 		<string>반각 줄표</string>
 < > 		<string>縮小</string>
 > > 		<string>줄이기</string>
 < > 		<string>交差</string>
 > > 		<string>교차</string>
-< > 		<string>テキストスタイルをインポート</string>
+< > 		<string>テキストスタイルをインポート…</string>
+< < 		<string>Artboards</string>
+< > 		<string>アートボード</string>
 > > 		<string>텍스트 스타일 들여오기…</string>
 < > 		<string>最前面に移動</string>
 > > 		<string>맨 앞으로 가져오기</string>
@@ -285,17 +307,23 @@
 < > 		<string>左に回転</string>
 > > 		<string>왼쪽으로 회전</string>
 < > 		<string>表示</string>
+< < 		<string>Name</string>
+< > 		<string>名前</string>
 > > 		<string>보기</string>
-< > 		<string>明るさ / コントラスト</string>
+< > 		<string>明るさ/コントラスト</string>
 > > 		<string>명암 / 대비</string>
 < > 		<string>明暗別色補正</string>
 > > 		<string>분할 색조</string>
 < > 		<string>写真ペルソナ</string>
+< < 		<string>Constrained Objects</string>
+< > 		<string>制約付きオブジェクト</string>
 < > 		<string>なし</string>
+< < 		<string>Undashed Objects</string>
+< > 		<string>破線なしオブジェクト</string>
 > > 		<string>사진 페르소나</string>
 < > 		<string>ようこそ...</string>
 > > 		<string>환영...</string>
-< > 		<string>垂直方向に均等配置</string>
+< > 		<string>垂直方向に等間隔配置</string>
 > > 		<string>세로 공백</string>
 < > 		<string>文字スタイルを作成</string>
 > > 		<string>문자 스타일 생성</string>
@@ -314,11 +342,13 @@
 > > 		<string>픽셀 페르소나</string>
 < > 		<string>分離モード</string>
 > > 		<string>분리 모드</string>
-< > 		<string>厳密な字下げ</string>
+< > 		<string>ベースラインを厳密に下げる</string>
 > > 		<string>기준선 조금씩 낮추기</string>
 < > 		<string>下揃え</string>
 > > 		<string>아래쪽 정렬</string>
 < > 		<string>段落スタイルを更新</string>
+< < 		<string>Images</string>
+< > 		<string>画像</string>
 > > 		<string>문단 스타일 업데이트</string>
 < > 		<string>グラデーションマップ</string>
 < < 		<string>Intersect (Compound)</string>
@@ -327,18 +357,24 @@
 < > 		<string>ガイドマネージャー…</string>
 > > 		<string>안내선 관리자…</string>
 < > 		<string>幅に合わせてズーム</string>
+< < 		<string>Opaque Objects</string>
+< > 		<string>不透明オブジェクト</string>
 > > 		<string>화면 너비에 맞추기</string>
 < > 		<string>露出</string>
 > > 		<string>노출</string>
-< > 		<string>字上げ</string>
+< > 		<string>ベースラインを上げる</string>
 < < 		<string>Duplicate Linked</string>
 < > 		<string>リンク複製</string>
+< < 		<string>Shapes</string>
+< > 		<string>シェイプ</string>
 > > 		<string>기준선 올리기</string>
 < > 		<string>厳密な縮小</string>
 > > 		<string>조금씩 작게</string>
 < > 		<string>文字スタイルなしを設定</string>
 > > 		<string>문자 스타일 벗기기</string>
 < > 		<string>ピクセル選択範囲を反転</string>
+< < 		<string>Closed Curves</string>
+< > 		<string>閉じたカーブ</string>
 < < 		<string>Document Info</string>
 < > 		<string>ドキュメント情報</string>
 > > 		<string>픽셀 선택 항목 반전</string>
@@ -347,8 +383,12 @@
 < > 		<string>シャドウ/ハイライト</string>
 > > 		<string>그림자 / 빛</string>
 < > 		<string>拡大</string>
+< < 		<string>Groups</string>
+< > 		<string>グループ</string>
 > > 		<string>크게</string>
 < > 		<string>書き出しペルソナ</string>
+< < 		<string>Transparent Objects</string>
+< > 		<string>透明オブジェクト</string>
 > > 		<string>내보내기 페르소나</string>
 < > 		<string>サポート...</string>
 > > 		<string>지원...</string>
@@ -361,6 +401,7 @@
 < > 		<string>アプリスクリーン上</string>
 > > 		<string>응용프로그램 화면</string>
 < > 		<string>テキストスタイルを再適用</string>
+< > 		<string>カーブ</string>
 > > 		<string>텍스트 스타일 다시 적용</string>
 < > 		<string>カーブを結合</string>
 > > 		<string>곡선 통합</string>
@@ -379,9 +420,11 @@
 < > 		<string>拡大</string>
 > > 		<string>늘리기</string>
 < > 		<string>しきい値</string>
+< < 		<string>Filled Objects</string>
+< > 		<string>塗りつぶされたオブジェクト</string>
 < > 		<string>すべて表示</string>
 < < 		<string>Add Symbol</string>
-< > 		<string>シンボルの追加</string>
+< > 		<string>シンボルを追加</string>
 > > 		<string>역치</string>
 < > 		<string>グループをレイヤーに昇格</string>
 > > 		<string>그룹을 레이어로 승격</string>
@@ -389,9 +432,11 @@
 > > 		<string>내보내기…</string>
 < > 		<string>配置</string>
 > > 		<string>제자리에</string>
-< > 		<string>厳密な字上げ</string>
+< > 		<string>ベースラインを厳密に上げる</string>
 > > 		<string>기준선 조금씩 올리기</string>
 < > 		<string>チュートリアル...</string>
+< < 		<string>Stroke Weight</string>
+< > 		<string>境界線の重み</string>
 > > 		<string>튜토리얼...</string>
 < > 		<string>オブジェクトをアートボードに変換</string>
 > > 		<string>오브젝트를 아트보드로 전환</string>
@@ -401,10 +446,14 @@
 > > 		<string>아트보드를 오브젝트로 전환</string>
 < > 		<string>境界線を展開</string>
 > > 		<string>선 펼치기</string>
-< > 		<string>複合部を作成</string>
+< > 		<string>複合オブジェクトを作成</string>
 < > 		<string>上</string>
+< < 		<string>Stroked Objects</string>
+< > 		<string>境界線付きオブジェクト</string>
 < < 		<string>Save as Regression Unit</string>
 < > 		<string>回帰単位として保存</string>
+< < 		<string>Dashed Objects</string>
+< > 		<string>破線付きオブジェクト</string>
 > > 		<string>결합 생성</string>
 < > 		<string>すべてのウィンドウを結合</string>
 > > 		<string>모든 윈도우 통합</string>
@@ -436,6 +485,8 @@
 < > 		<string>選択範囲にズーム</string>
 > > 		<string>선택 항목에 맞추기</string>
 < > 		<string>すべて使用</string>
+< < 		<string>Vector Layers</string>
+< > 		<string>ベクターレイヤー</string>
 < < 		<string>Add (Compound)</string>
 < > 		<string>追加(複合)</string>
 > > 		<string>모두 합자</string>
@@ -448,6 +499,8 @@
 < > 		<string>ホワイトバランス</string>
 > > 		<string>화이트 밸런스</string>
 < > 		<string>以前のビューポイントに移動</string>
+< < 		<string>Save As Package…</string>
+< > 		<string>パッケージとして保存…</string>
 < < 		<string>Edit In Designer…</string>
 < > 		<string>Designerで編集…</string>
 > > 		<string>이전 뷰 포인트로 이동</string>
@@ -456,14 +509,18 @@
 < > 		<string>テキストスタイルを表示</string>
 > > 		<string>텍스트 스타일 보기</string>
 < > 		<string>テキストフレームに変換</string>
+< < 		<string>Unfilled Objects</string>
+< > 		<string>塗りつぶされていないオブジェクト</string>
 > > 		<string>텍스트 액자로 전환</string>
 < > 		<string>拡げる</string>
 > > 		<string>넓게</string>
-< > 		<string>中央揃え</string>
+< > 		<string>中央</string>
 > > 		<string>가운데</string>
 < > 		<string>ピクセル(Retina)</string>
 > > 		<string>픽셀 (레티나)</string>
 < > 		<string>ポスタライズ</string>
+< < 		<string>Art Text</string>
+< > 		<string>アートテキスト</string>
 > > 		<string>포스터화</string>
 < > 		<string>グリッドおよび軸マネージャー…</string>
 > > 		<string>격자선 관리자…</string>
@@ -476,12 +533,14 @@
 < > 		<string>除外(複合)</string>
 > > 		<string>마스크 래스터화</string>
 < > 		<string>出荷時の設定にリセット</string>
+< < 		<string>Embedded Documents</string>
+< > 		<string>埋め込みドキュメント</string>
 > > 		<string>기본값 재설정</string>
 < > 		<string>全角ダッシュ</string>
 > > 		<string>전각 줄표</string>
-< > 		<string>裁ち切りを表示</string>
+< > 		<string>裁ち落としを表示</string>
 > > 		<string>도련선 보기</string>
-< > 		<string>レイヤーパネルで検索</string>
+< > 		<string>レイヤーパネル内で検索</string>
 > > 		<string>레이어 패널에서 찾기</string>
 < > 		<string>左に回転</string>
 > > 		<string>왼쪽으로 회전</string>
@@ -489,6 +548,10 @@
 > > 		<string>양쪽 균등 정렬</string>
 < > 		<string>縮小</string>
 > > 		<string>작게</string>
+< > 		<string>シンボル</string>
+< < 		<string>Shape</string>
+< > 		<string>シェイプ</string>
+> > 		<string>상징</string>
 < > 		<string>前面へ</string>
 > > 		<string>앞으로 가져오기</string>
 < > 		<string>文字スタイルを更新</string>
@@ -499,6 +562,8 @@
 < > 		<string>片側</string>
 > > 		<string>철자 오류 무시</string>
 < > 		<string>特定色域</string>
+< < 		<string>Transparency</string>
+< > 		<string>透明度</string>
 > > 		<string>색상 선택</string>
 < > 		<string>外側に移動</string>
 > > 		<string>바깥으로 보내기</string>
@@ -515,13 +580,21 @@
 < > 		<string>白黒</string>
 > > 		<string>흑백</string>
 < > 		<string>減算</string>
+< < 		<string>Tag Colour</string>
+< > 		<string>タグカラー</string>
+< < 		<string>Blend Mode</string>
+< > 		<string>描画モード</string>
 > > 		<string>제거</string>
 < > 		<string>自然な彩度</string>
 > > 		<string>활기</string>
 < > 		<string>ソフト校正</string>
 < > 		<string>保存</string>
+< < 		<string>Unstroked Objects</string>
+< > 		<string>境界線なしオブジェクト</string>
+< < 		<string>Fill Colour</string>
+< > 		<string>塗りつぶしカラー</string>
 > > 		<string>미리보기</string>
-< > 		<string>後方</string>
+< > 		<string>背面</string>
 > > 		<string>뒤로</string>
 < > 		<string>アウトライン</string>
 > > 		<string>윤곽</string>
@@ -531,7 +604,7 @@
 > > 		<string>업데이트 확인</string>
 < > 		<string>厳密な拡大</string>
 > > 		<string>조금씩 늘리기</string>
-< > 		<string>レイヤーパネルで選択範囲を常に表示 </string>
+< > 		<string>選択項目を常にレイヤーパネルに表示 </string>
 > > 		<string>레이어 패널에서 선택 항목 항상 보기 </string>
 < > 		<string>文字スタイルを削除</string>
 < < 		<string>Xor (Compound)</string>
@@ -545,6 +618,8 @@
 < > 		<string>レベル</string>
 > > 		<string>레벨</string>
 < > 		<string>テキストパスに変換</string>
+< < 		<string>Open Curves</string>
+< > 		<string>開いたカーブ</string>
 < < 		<string>MainMenu</string>
 < > 		<string>メインメニュー</string>
 > > 		<string>텍스트 경로로 전환</string>
@@ -555,7 +630,7 @@
 > > 		<string>서비스</string>
 < > 		<string>ファイル</string>
 < > 		<string>ファイル</string>
-< > 		<string>最近使用したファイルを開く</string>
+< > 		<string>最近使用したドキュメントを開く</string>
 < > 		<string>共有</string>
 > > 		<string>파일</string>
 < > 		<string>編集</string>
@@ -590,8 +665,8 @@
 < > 		<string>整列</string>
 < > 		<string>整列</string>
 > > 		<string>정렬</string>
-< > 		<string>段落の行間</string>
-< > 		<string>段落の行間</string>
+< > 		<string>段落の行送り</string>
+< > 		<string>段落の行送り</string>
 > > 		<string>줄 간격</string>
 > > 		<string>줄 간격</string>
 < > 		<string>垂直方向揃え</string>
@@ -612,16 +687,16 @@
 < > 		<string>レイヤー</string>
 < > 		<string>レイヤー</string>
 > > 		<string>레이어</string>
-< > 		<string>配置</string>
-< > 		<string>配置</string>
+< > 		<string>重ね順</string>
+< > 		<string>重ね順</string>
 < > 		<string>整列</string>
 < > 		<string>整列</string>
 > > 		<string>순서</string>
 < > 		<string>ジオメトリ</string>
 < > 		<string>ジオメトリ</string>
 > > 		<string>기하</string>
-< > 		<string>変換</string>
-< > 		<string>変換</string>
+< > 		<string>変形</string>
+< > 		<string>変形</string>
 > > 		<string>변형</string>
 < > 		<string>挿入</string>
 < > 		<string>挿入</string>
@@ -635,6 +710,13 @@
 > > 		<string>칠 모드</string>
 < > 		<string>選択</string>
 < > 		<string>選択</string>
+< < 		<string>Select Same</string>
+< > 		<string>同一を選択</string>
+< > 		<string>同一を選択</string>
+< < 		<string>Select Object</string>
+< < 		<string>Select Object</string>
+< > 		<string>オブジェクトを選択</string>
+< > 		<string>オブジェクトを選択</string>
 > > 		<string>선택</string>
 < > 		<string>表示</string>
 < > 		<string>表示</string>
@@ -645,14 +727,16 @@
 < > 		<string>表示モード</string>
 < > 		<string>ビュー</string>
 < > 		<string>スタジオ</string>
+< < 		<string>Studio Presets</string>
+< > 		<string>スタジオプリセット</string>
 > > 		<string>뷰 모드</string>
 < > 		<string>ウィンドウ</string>
 < > 		<string>ウィンドウ</string>
 > > 		<string>윈도우</string>
 < > 		<string>すべて前面に移動</string>
 > > 		<string>모두 앞으로 가져오기</string>
-< > 		<string>フローティングウィンドウをクリーンアップ</string>
-< > 		<string>フローティングウィンドウをクリーンアップ</string>
+< > 		<string>フローティングウィンドウを整理</string>
+< > 		<string>フローティングウィンドウを整理</string>
 > > 		<string>펼쳐진 윈도우 정리</string>
 > > 		<string>펼쳐진 윈도우 정리</string>
 < > 		<string>ヘルプ</string>
