@@ -1,32 +1,20 @@
 echo "번역할 프로그램을 선택합니다."
 echo "1: Affinity Designer"
-echo "2: Affinity Designer Beta"
-echo "3: Affinity Photo"
-echo "4: Affinity Photo Beta"
-echo "5: Affinity Publisher"
-echo "6: Affinity Publisher Beta"
+echo "2: Affinity Photo"
+echo "3: Affinity Publisher"
 read app
 case ${app} in
   1 )
   APPNAME=Affinity\ Designer
   ;;
   2 )
-  APPNAME=Affinity\ Designer\ Beta
-  ;;
-  3 )
   APPNAME=Affinity\ Photo
   ;;
-  4 )
-  APPNAME=Affinity\ Photo\ Beta
-  ;;
-  5 )
+  3 )
   APPNAME=Affinity\ Publisher
   ;;
-  6 )
-  APPNAME=Affinity\ Publisher\ Beta
-  ;;
   * )
-  echo "알 수 없는 프로그램입니다. 1, 2, 3, 4, 5, 6(으)로만 입력해주세요."
+  echo "알 수 없는 프로그램입니다. 1, 2, 3(으)로만 입력해주세요."
   ~/Affin.ko/Affin.ko-convert
   ;;
 esac
