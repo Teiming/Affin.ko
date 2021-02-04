@@ -1,7 +1,7 @@
 < < 		<string>Benchmark</string>
 < > 		<string>ベンチマーク</string>
 < < 		<string>Use renderer caches</string>
-< > 		<string>レンダラ―キャッシュを使用</string>
+< > 		<string>レンダラーキャッシュを使用</string>
 < < 		<string>Backstore Value</string>
 < > 		<string>バックストア値</string>
 < < 		<string>Compressed Value</string>
@@ -11,9 +11,7 @@
 < < 		<string>Format Value</string>
 < > 		<string>フォーマット値</string>
 < < 		<string>Hardware Value</string>
-< < 		<string>m_hardwareValue</string>
 < > 		<string>ハードウェア値</string>
-< > 		<string>m_hardwareValue</string>
 < < 		<string>Interleave Value</string>
 < > 		<string>インターリーブ値</string>
 < < 		<string>Never loaded</string>
@@ -26,12 +24,12 @@
 < > 		<string>値を表示</string>
 < < 		<string>Virtual Value</string>
 < > 		<string>仮想値</string>
-< > 		<string>最新のバージョン:</string>
 < < 		<string>Latest version:</string>
-< > 		<string>元のバージョン:</string>
+< > 		<string>最新のバージョン:</string>
 < < 		<string>Original version:</string>
-< > 		<string>ビュー:</string>
+< > 		<string>元のバージョン:</string>
 < < 		<string>View:</string>
+< > 		<string>ビュー:</string>
 < < 		<string>Count</string>
 < > 		<string>カウント</string>
 < < 		<string>Record Interactions</string>
@@ -40,21 +38,21 @@
 < > 		<string>クラッシュ</string>
 < < 		<string>Show Toast</string>
 < > 		<string>トーストの表示</string>
-< > 		<string>パディングの表示:</string>
 < < 		<string>View Padding:</string>
-< > 		<string>ハードウェア:</string>
+< > 		<string>パディングの表示:</string>
 < < 		<string>Hardware:</string>
+< > 		<string>ハードウェア:</string>
 < < 		<string>Virtual:</string>
 < > 		<string>仮想:</string>
-< > 		<string>フォーマット:</string>
 < < 		<string>Format:</string>
-< > 		<string>遅延:</string>
+< > 		<string>フォーマット:</string>
 < < 		<string>Delayed:</string>
-< > 		<string>圧縮:</string>
+< > 		<string>遅延:</string>
 < < 		<string>Compressed:</string>
+< > 		<string>圧縮:</string>
 < < 		<string>Interleaved:</string>
 < > 		<string>インターリーブ:</string>
 < < 		<string>Backstore:</string>
 < > 		<string>バックストア:</string>
-< > 		<string>平面:</string>
 < < 		<string>Planar:</string>
+< > 		<string>平面:</string>
