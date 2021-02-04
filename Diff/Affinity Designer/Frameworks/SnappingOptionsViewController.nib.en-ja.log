@@ -6,7 +6,7 @@
 > 		<string>表示オブジェクトのみにスナップ</string>
 > 		<string>四角形</string>
 < 		<string>Force pixel alignment</string>
-> 		<string>ピクセルの強制配置</string>
+> 		<string>ピクセルへの整列を強制</string>
 < 		<string>Move by whole pixels</string>
 > 		<string>ピクセル単位で移動</string>
 > 		<string>四角形</string>
@@ -17,11 +17,11 @@
 < 		<string>Snap to spread</string>
 > 		<string>スプレッドにスナップ</string>
 < 		<string>Include spread mid points</string>
-> 		<string>スプレッド中間点を含める</string>
+> 		<string>スプレッドの中間点を含める</string>
 < 		<string>Snap to margin</string>
 > 		<string>マージンにスナップ</string>
 < 		<string>Include margin mid points</string>
-> 		<string>マージン中間点を含める</string>
+> 		<string>マージンの中間点を含める</string>
 < 		<string>Snap to baseline grid</string>
 > 		<string>ベースライングリッドにスナップ</string>
 > 		<string>四角形</string>
@@ -35,8 +35,8 @@
 > 		<string>直接レイヤーと子</string>
 < 		<string>All layers</string>
 > 		<string>すべてのレイヤー</string>
-> 		<string>最大:</string>
 < 		<string>Maximum:</string>
+> 		<string>最大:</string>
 < 		<string>Show snapping candidates</string>
 > 		<string>スナップ候補の表示</string>
 > 		<string>ボックス</string>
@@ -45,22 +45,24 @@
 < 		<string>Snap to object bounding boxes</string>
 > 		<string>オブジェクトの境界ボックスにスナップ</string>
 < 		<string>Include bounding box mid points</string>
-> 		<string>境界ボックス中間点を含める</string>
+> 		<string>境界ボックスの中間点を含める</string>
 < 		<string>Snap to gaps and sizes</string>
 > 		<string>ギャップとサイズにスナップ</string>
 < 		<string>Snap to shape key points</string>
 > 		<string>シェイプのキーポイントにスナップ</string>
+< 		<string>Snap to pixel selection bounds</string>
+> 		<string>ピクセル選択範囲境界にスナップ</string>
 > 		<string>四角形</string>
 < 		<string>Create preset</string>
-> 		<string>プリセットの作成</string>
+> 		<string>プリセットを作成</string>
 < 		<string>Rename preset</string>
 > 		<string>プリセット名の変更</string>
 < 		<string>Delete preset</string>
-> 		<string>プリセットの削除</string>
-> 		<string>プリセット:</string>
+> 		<string>プリセットを削除</string>
 < 		<string>Preset:</string>
-> 		<string>スクリーン許容範囲:</string>
+> 		<string>プリセット:</string>
 < 		<string>Screen tolerance:</string>
+> 		<string>スクリーン許容範囲:</string>
 < 		<string>If set, only objects that are currently visible can be snapped to</string>
 > 		<string>いずれかのスナップオプションプリセットを選択するか、独自の設定値を設定します</string>
 < 		<string>Select a Snapping options preset, or configure your own settings</string>
