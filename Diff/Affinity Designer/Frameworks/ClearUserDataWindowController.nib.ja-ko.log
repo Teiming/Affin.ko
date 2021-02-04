@@ -1,44 +1,42 @@
 < < 		<string>Clear User Data</string>
-< > 		<string>ユーザーデータのクリア</string>
+< > 		<string>ユーザーデータをクリア</string>
 < < 		<string>You are about to clear your user data. Any checked items will be reset to factory default. Are you sure?</string>
 < > 		<string>ユーザーデータをクリアしようとしています。チェックされた項目は工場出荷時のデフォルト値にリセットされます。続行しますか?</string>
 < < 		<string>Clear User Defaults</string>
-< > 		<string>ユーザーデフォルト設定のクリア</string>
+< > 		<string>ユーザーのデフォルト設定をクリア</string>
 < < 		<string>Don't Restore Window and Documents</string>
 < > 		<string>ウィンドウとドキュメントを復元しない</string>
 < > 		<string>スタジオをリセット</string>
 < < 		<string>Reset Object Styles</string>
-< > 		<string>オブジェクトスタイルのリセット</string>
+< > 		<string>オブジェクトスタイルをリセット</string>
 < < 		<string>Reset Text Styles</string>
 < > 		<string>テキストスタイルをリセット</string>
 < < 		<string>Reset File Export Presets</string>
-< > 		<string>ファイル書き出しプリセットのリセット</string>
-< < 		<string>Reset Snapping Options Presets</string>
-< > 		<string>スナップオプションプリセットのリセット</string>
+< > 		<string>ファイル書き出しプリセットをリセット</string>
 < < 		<string>Reset Visibility Options</string>
-< > 		<string>可視性オプションのリセット</string>
+< > 		<string>可視性オプションをリセット</string>
 > > 		<string>작업실 재설정</string>
-< > 		<string>塗りつぶしのリセット</string>
+< > 		<string>塗りつぶしをリセット</string>
 > > 		<string>칠 재설정</string>
-< > 		<string>ブラシのリセット</string>
+< > 		<string>ブラシをリセット</string>
 < < 		<string>Reset Font Replacements</string>
-< > 		<string>フォント置換のリセット</string>
+< > 		<string>フォント置換をリセット</string>
 > > 		<string>브러시 재설정</string>
-< > 		<string>調整のリセット</string>
+< > 		<string>調整をリセット</string>
 < < 		<string>Reset Macro Library</string>
-< > 		<string>マクロライブラリのリセット</string>
+< > 		<string>マクロライブラリをリセット</string>
 < < 		<string>Reset Develop Presets</string>
-< > 		<string>現像プリセットのリセット</string>
+< > 		<string>現像プリセットをリセット</string>
 < < 		<string>Reset Lens Favourites &amp; History</string>
 < > 		<string>レンズのお気に入りと履歴をリセット</string>
 > > 		<string>조정 재설정</string>
-< > 		<string>キーボードショートカットのリセット</string>
+< > 		<string>キーボードショートカットをリセット</string>
 < < 		<string>Reset Assets</string>
 < > 		<string>アセットをリセット</string>
 < < 		<string>Reset Tool Presets</string>
-< > 		<string>ツールプリセットのリセット</string>
+< > 		<string>ツールプリセットをリセット</string>
 < < 		<string>Reset Tone Map Presets</string>
-< > 		<string>トーンマッププリセットのリセット</string>
+< > 		<string>トーンマッププリセットをリセット</string>
 > > 		<string>키보드 단축키 재설정</string>
 < > 		<string>すべて選択</string>
 > > 		<string>전체 선택</string>
@@ -48,17 +46,21 @@
 > > 		<string>모두 선택 해제</string>
 < > 		<string>キャンセル</string>
 < < 		<string>Reset Grid Presets</string>
-< > 		<string>グリッドプリセットのリセット</string>
+< > 		<string>グリッドプリセットをリセット</string>
 < < 		<string>Reset Filler Text</string>
-< > 		<string>フィラーテキストのリセット</string>
+< > 		<string>フィラーテキストをリセット</string>
 < < 		<string>Reset AutoCorrect</string>
-< > 		<string>自動補正のリセット</string>
+< > 		<string>自動補正をリセット</string>
 < < 		<string>Reset Abbreviations</string>
-< > 		<string>省略形のリセット</string>
+< > 		<string>省略形をリセット</string>
 < < 		<string>Reset Table Formats</string>
-< > 		<string>テーブルフォーマットのリセット</string>
+< > 		<string>表フォーマットをリセット</string>
 < < 		<string>Reset Title Exceptions</string>
-< > 		<string>タイトル例外のリセット</string>
+< > 		<string>タイトル例外をリセット</string>
 < < 		<string>Reset Document Presets</string>
-< > 		<string>ドキュメントプリセットのリセット</string>
+< > 		<string>ドキュメントプリセットをリセット</string>
+< < 		<string>Reset Snapping Options Presets</string>
+< > 		<string>スナップオプションプリセットをリセット</string>
+< < 		<string>Reset Account Data (inc. Synced Content)</string>
+< > 		<string>アカウントデータをリセット (同期コンテンツを含む)</string>
 > > 		<string>취소</string>
