@@ -10,70 +10,60 @@
 > 		<string>追加</string>
 < 		<string>Remove</string>
 > 		<string>削除</string>
-< 				<string>NSButtonCell</string>
-< 				<string>NSActionCell</string>
-< 				<string>NSCell</string>
-< 				<string>NSObject</string>
-< 			<string>NSButtonCell</string>
-> 				<string>NSButtonCell</string>
-> 				<string>NSActionCell</string>
-> 				<string>NSCell</string>
-> 				<string>NSObject</string>
-> 			<string>NSButtonCell</string>
-> 		<string>カラー:</string>
 < 		<string>Colour:</string>
-> 		<string>エレベーション:</string>
+> 		<string>カラー:</string>
 < 		<string>Elevation:</string>
-> 		<string>アジマス:</string>
+> 		<string>仰角:</string>
 < 		<string>Azimuth:</string>
+> 		<string>方位角:</string>
 < 		<string>Direction:</string>
 > 		<string>向き:</string>
-> 		<string>光源:</string>
 < 		<string>Light source:</string>
-> 		<string>アンビエントライトカラー:</string>
+> 		<string>光源:</string>
 < 		<string>Ambient light colour:</string>
-> 		<string>スペキュラカラー:</string>
+> 		<string>アンビエントライトカラー:</string>
 < 		<string>Specular colour:</string>
+> 		<string>スペキュラカラー:</string>
 < 		<string>Remove Profile</string>
-> 		<string>プロファイルの削除</string>
-> 		<string>プロファイル:</string>
+> 		<string>プロファイルを削除</string>
 < 		<string>Profile:</string>
-> 		<string>ぼかし:</string>
+> 		<string>プロファイル:</string>
 < 		<string>Soften:</string>
-> 		<string>アンビエント:</string>
+> 		<string>ぼかし:</string>
 < 		<string>Ambient:</string>
-> 		<string>光沢:</string>
+> 		<string>アンビエント:</string>
 < 		<string>Shininess:</string>
-> 		<string>スペキュラ:</string>
+> 		<string>光沢:</string>
 < 		<string>Specular:</string>
-> 		<string>拡散:</string>
+> 		<string>スペキュラ:</string>
 < 		<string>Diffuse:</string>
+> 		<string>拡散:</string>
 < 		<string>Depth:</string>
 > 		<string>深さ:</string>
 > 		<string>半径:</string>
 > 		<string>カラー:</string>
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
-> 		<string>描画モード:</string>
 < 		<string>Blend mode:</string>
+> 		<string>描画モード:</string>
 < 		<string>Colour Overlay</string>
 > 		<string>カラーオーバーレイ</string>
 < 		<string>Remove Profile</string>
-> 		<string>プロファイルの削除</string>
-> 		<string>シャドウ:</string>
+> 		<string>プロファイルを削除</string>
 < 		<string>Shadow:</string>
-> 		<string>ハイライト:</string>
+> 		<string>シャドウ:</string>
 < 		<string>Highlight:</string>
-> 		<string>エレベーション:</string>
+> 		<string>ハイライト:</string>
 < 		<string>Elevation:</string>
-> 		<string>アジマス:</string>
+> 		<string>仰角:</string>
 < 		<string>Azimuth:</string>
-> 		<string>向き:</string>
+> 		<string>方位角:</string>
 < 		<string>Direction:</string>
+> 		<string>向き:</string>
 < 		<string>Invert</string>
 > 		<string>反転</string>
-> 		<string>プロファイル:</string>
 < 		<string>Profile:</string>
+> 		<string>プロファイル:</string>
 > 		<string>ぼかし:</string>
 > 		<string>深さ:</string>
 > 		<string>半径:</string>
@@ -85,44 +75,44 @@
 > 		<string>エンボス</string>
 < 		<string>Pillow</string>
 > 		<string>ピロー</string>
-> 		<string>タイプ:</string>
 < 		<string>Type:</string>
+> 		<string>タイプ:</string>
 < 		<string>Bevel / Emboss</string>
 > 		<string>ベベル/エンボス</string>
-> 		<string>強度:</string>
 < 		<string>Intensity:</string>
+> 		<string>強度:</string>
 > 		<string>カラー:</string>
 > 		<string>半径:</string>
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
-> 		<string>描画モード:</string>
 < 		<string>Blend mode:</string>
+> 		<string>描画モード:</string>
 < 		<string>Outer Glow</string>
 > 		<string>外側の光彩</string>
-> 		<string>強度:</string>
 < 		<string>Intensity:</string>
+> 		<string>強度:</string>
 < 		<string>Fill knocks out shadow</string>
 > 		<string>塗りつぶしでシャドウをノックアウト</string>
-> 		<string>角度:</string>
 < 		<string>Angle:</string>
+> 		<string>角度:</string>
 > 		<string>カラー:</string>
-> 		<string>オフセット:</string>
 < 		<string>Offset:</string>
+> 		<string>オフセット:</string>
 > 		<string>半径:</string>
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
-> 		<string>描画モード:</string>
 < 		<string>Blend mode:</string>
+> 		<string>描画モード:</string>
 < 		<string>Outer Shadow</string>
 > 		<string>外側のシャドウ</string>
-> 		<string>強度:</string>
 < 		<string>Intensity:</string>
+> 		<string>強度:</string>
 > 		<string>カラー:</string>
 > 		<string>半径:</string>
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
-> 		<string>描画モード:</string>
 < 		<string>Blend mode:</string>
+> 		<string>描画モード:</string>
 < 		<string>Inner Glow</string>
 > 		<string>内側の光彩</string>
 > 		<string>カラー:</string>
@@ -137,21 +127,21 @@
 > 		<string>放射状</string>
 < 		<string>Conical</string>
 > 		<string>円錐形</string>
-> 		<string>グラデーション:</string>
 < 		<string>Gradient:</string>
-> 		<string>スケールX:</string>
+> 		<string>グラデーション:</string>
 < 		<string>Scale X:</string>
-> 		<string>スケールY:</string>
+> 		<string>スケールX:</string>
 < 		<string>Scale Y:</string>
-> 		<string>オフセットX:</string>
+> 		<string>スケールY:</string>
 < 		<string>Offset X:</string>
+> 		<string>オフセットX:</string>
 < 		<string>Offset Y:</string>
 > 		<string>オフセットY:</string>
 > 		<string>角度:</string>
 < 		<string>Gradient</string>
 > 		<string>グラデーション</string>
-> 		<string>グラデーション:</string>
 < 		<string>Gradient:</string>
+> 		<string>グラデーション:</string>
 < 		<string>Contour</string>
 > 		<string>輪郭</string>
 > 		<string>グラデーション</string>
@@ -166,17 +156,17 @@
 > 		<string>中央</string>
 < 		<string>Inside</string>
 > 		<string>内側</string>
-> 		<string>配置:</string>
 < 		<string>Alignment:</string>
+> 		<string>整列:</string>
 > 		<string>半径:</string>
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
-> 		<string>描画モード:</string>
 < 		<string>Blend mode:</string>
+> 		<string>描画モード:</string>
 < 		<string>Outline</string>
 > 		<string>アウトライン</string>
-> 		<string>強度:</string>
 < 		<string>Intensity:</string>
+> 		<string>強度:</string>
 > 		<string>角度:</string>
 > 		<string>カラー:</string>
 > 		<string>オフセット:</string>
@@ -188,14 +178,14 @@
 < 		<string>Inner Shadow</string>
 > 		<string>内側のシャドウ</string>
 > 		<string>角度:</string>
-> 		<string>オフセットY:</string>
 < 		<string>Offset Y:</string>
-> 		<string>オフセットX:</string>
+> 		<string>オフセットY:</string>
 < 		<string>Offset X:</string>
-> 		<string>スケールY:</string>
+> 		<string>オフセットX:</string>
 < 		<string>Scale Y:</string>
-> 		<string>スケールX:</string>
+> 		<string>スケールY:</string>
 < 		<string>Scale X:</string>
+> 		<string>スケールX:</string>
 < 		<string>Gradient:</string>
 > 		<string>グラデーション:</string>
 > 		<string>線形</string>
@@ -206,7 +196,7 @@
 > 		<string>タイプ:</string>
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
-> 		<string>描画モード:</string>
 < 		<string>Blend mode:</string>
+> 		<string>描画モード:</string>
 < 		<string>Gradient Overlay</string>
 > 		<string>グラデーションオーバーレイ</string>
