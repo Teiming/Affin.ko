@@ -79,7 +79,7 @@
 < 		<string>Saturation Jitter:</string>
 > 		<string>彩度のジッター:</string>
 < 		<string>Luminosity Jitter:</string>
-> 		<string>明度のジッター:</string>
+> 		<string>輝度のジッター:</string>
 < 		<string>None</string>
 > 		<string>なし</string>
 < 		<string>Random</string>
@@ -256,7 +256,7 @@
 < 		<string>Final</string>
 > 		<string>最終</string>
 < 		<string>Set Texture</string>
-> 		<string>テクスチャの設定</string>
+> 		<string>テクスチャを設定</string>
 > 		<string>削除</string>
 < 		<string>Invert</string>
 > 		<string>反転</string>
@@ -289,7 +289,7 @@
 < 		<string>At current nozzle</string>
 > 		<string>現在のノズル</string>
 < 		<string>Behind current nozzle</string>
-> 		<string>現在のノズルの後方</string>
+> 		<string>現在のノズルの背面</string>
 < 		<string>At end of stroke</string>
 > 		<string>境界線の終端</string>
 > 		<string>削除</string>
@@ -302,13 +302,13 @@
 < 		<string>Sync spacing</string>
 > 		<string>間隔を同期</string>
 < 		<string>Add Round</string>
-> 		<string>円形ブラシを追加</string>
+> 		<string>ラウンドブラシを追加</string>
 < 		<string>Sub Brushes</string>
 > 		<string>サブブラシ</string>
 < 		<string>Head Offset:</string>
 > 		<string>ヘッドオフセット:</string>
 < 		<string>Tail Offset:</string>
-> 		<string>テールオフセット:</string>
+> 		<string>テールのオフセット:</string>
 < 		<string>Body:</string>
 > 		<string>本体:</string>
 < 		<string>Corners:</string>
@@ -319,8 +319,8 @@
 > 		<string>不透明度の許容誤差:</string>
 < 		<string>Size Variance:</string>
 > 		<string>サイズの許容誤差:</string>
-> 		<string>ラベル</string>
 < 		<string>Label</string>
+> 		<string>ラベル</string>
 > 		<string>なし</string>
 > 		<string>筆圧</string>
 > 		<string>速度</string>
@@ -330,5 +330,3 @@
 > 		<string>境界線</string>
 < 		<string>Unfinished feature / user interface.</string>
 > 		<string>未完成の機能/ユーザーインターフェース。</string>
-< 		<string>NSApplication</string>
-> 		<string>NSApplication</string>

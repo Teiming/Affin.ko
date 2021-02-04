@@ -78,7 +78,7 @@
 > > 		<string>일반</string>
 < > 		<string>彩度のジッター:</string>
 > > 		<string>채도 일그러짐:</string>
-< > 		<string>明度のジッター:</string>
+< > 		<string>輝度のジッター:</string>
 > > 		<string>명도 일그러짐:</string>
 < > 		<string>なし</string>
 > > 		<string>없음</string>
@@ -275,7 +275,7 @@
 > > 		<string>배율:</string>
 < > 		<string>最終</string>
 > > 		<string>마지막</string>
-< > 		<string>テクスチャの設定</string>
+< > 		<string>テクスチャを設定</string>
 < > 		<string>削除</string>
 > > 		<string>질감 설정</string>
 < > 		<string>反転</string>
@@ -310,7 +310,7 @@
 < < 		<string>At current nozzle</string>
 < > 		<string>現在のノズル</string>
 < < 		<string>Behind current nozzle</string>
-< > 		<string>現在のノズルの後方</string>
+< > 		<string>現在のノズルの背面</string>
 < < 		<string>At end of stroke</string>
 < > 		<string>境界線の終端</string>
 < > 		<string>削除</string>
@@ -323,13 +323,13 @@
 > > 		<string>크기 동기화</string>
 < > 		<string>間隔を同期</string>
 > > 		<string>간격 동기화</string>
-< > 		<string>円形ブラシを追加</string>
+< > 		<string>ラウンドブラシを追加</string>
 > > 		<string>둥근 브러시 추가</string>
 < > 		<string>サブブラシ</string>
 > > 		<string>보조 브러시</string>
 < > 		<string>ヘッドオフセット:</string>
 > > 		<string>머리 편차:</string>
-< > 		<string>テールオフセット:</string>
+< > 		<string>テールのオフセット:</string>
 > > 		<string>꼬리 편차:</string>
 < > 		<string>本体:</string>
 > > 		<string>몸:</string>
@@ -340,8 +340,8 @@
 < > 		<string>不透明度の許容誤差:</string>
 > > 		<string>불투명도 분산:</string>
 < > 		<string>サイズの許容誤差:</string>
-< > 		<string>ラベル</string>
 < < 		<string>Label</string>
+< > 		<string>ラベル</string>
 < > 		<string>なし</string>
 < > 		<string>筆圧</string>
 < > 		<string>速度</string>
@@ -351,6 +351,4 @@
 < > 		<string>境界線</string>
 < < 		<string>Unfinished feature / user interface.</string>
 < > 		<string>未完成の機能/ユーザーインターフェース。</string>
-< < 		<string>NSApplication</string>
-< > 		<string>NSApplication</string>
 > > 		<string>선</string>
