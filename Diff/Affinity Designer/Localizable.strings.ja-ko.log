@@ -15,6 +15,10 @@
 < > 	<string>適用</string>
 > > 	<string>적용</string>
 < > 	<string>アセット</string>
+< < 	<string>Astrophotography Stack</string>
+< > 	<string>天体写真術スタック</string>
+< < 	<string>Astrophotogrphy Stack Persona</string>
+< > 	<string>天体写真術スタックペルソナ</string>
 < < 	<string>AutoFit Column to Contents</string>
 < > 	<string>コンテンツに合わせて列を自動調整</string>
 < < 	<string>AutoFit Column(s)</string>
@@ -24,7 +28,7 @@
 < < 	<string>AutoFit Row(s)</string>
 < > 	<string>行を自動調整</string>
 < < 	<string>Batch</string>
-< > 	<string>一括</string>
+< > 	<string>一括処理</string>
 > > 	<string>자산</string>
 < > 	<string>前</string>
 > > 	<string>이전</string>
@@ -36,17 +40,17 @@
 > > 	<string>채널</string>
 < > 	<string>文字</string>
 > > 	<string>문자</string>
-< > 	<string>ブラシの流量を選択します</string>
+< > 	<string>ブラシの流量を選択</string>
 > > 	<string>브러시 흐름을 선택합니다</string>
-< > 	<string>ブラシの硬さを選択します</string>
+< > 	<string>ブラシの硬さを選択</string>
 > > 	<string>브러시 굳기를 선택합니다</string>
-< > 	<string>ブラシの不透明度を選択します</string>
+< > 	<string>ブラシの不透明度を選択</string>
 > > 	<string>브러시 불투명도를 선택합니다</string>
-< > 	<string>ブラシの強度を選択します</string>
+< > 	<string>ブラシの強度を選択</string>
 > > 	<string>브러시 세기를 선택합니다</string>
-< > 	<string>傷の幅を選択します</string>
+< > 	<string>傷の幅を選択</string>
 > > 	<string>흠집의 너비를 선택합니다</string>
-< > 	<string>ブラシの幅を選択します</string>
+< > 	<string>ブラシの幅を選択</string>
 > > 	<string>브러시 너비를 선택합니다</string>
 < > 	<string>マスクを消去</string>
 > > 	<string>마스크 해제</string>
@@ -58,7 +62,7 @@
 < < 	<string>Cycle Selection Box</string>
 < > 	<string>選択ボックスを切り替え</string>
 < < 	<string>Cycle Snapping Planes</string>
-< > 	<string>スナップ面の切り替え</string>
+< > 	<string>スナップ面を切り替え</string>
 > > 	<string>색상</string>
 < > 	<string>サイクルビューモード</string>
 < < 	<string>Delete Column</string>
@@ -90,9 +94,9 @@
 > > 	<string>채도 낮추기</string>
 < > 	<string>現像ペルソナ</string>
 < < 	<string>Develop Snapshot</string>
-< > 	<string>スナップショットの現像</string>
+< > 	<string>スナップショットを現像</string>
 < < 	<string>Develop Tones</string>
-< > 	<string>トーンの現像</string>
+< > 	<string>トーンを現像</string>
 > > 	<string>현상 페르소나</string>
 < > 	<string>現像</string>
 > > 	<string>현상</string>
@@ -108,13 +112,13 @@
 < < 	<string>Enabling "Save With History" means that anybody you send this document to can see everything you did to create it.
 < > 	<string>"履歴付きで保存"を有効にすると、このドキュメントを受け取ったすべてのユーザーは、このドキュメントの作成のために実行されたすべての操作を確認できます。
 > > 	<string>효과</string>
-< > 	<string>スナップショットの名前を入力します</string>
+< > 	<string>スナップショット名を入力</string>
 < < 	<string>Evenly Distribute Columns</string>
 < > 	<string>列を均等配置</string>
 < < 	<string>Evenly Distribute Rows</string>
 < > 	<string>行を均等配置</string>
 < < 	<string>Expand Field</string>
-< > 	<string>フィールドを拡大</string>
+< > 	<string>フィールドを展開</string>
 > > 	<string>스냅샷 이름을 입력합니다.</string>
 < > 	<string>書き出し</string>
 < < 	<string>Fade %@…</string>
@@ -126,7 +130,7 @@
 < < 	<string>Find and Replace</string>
 < > 	<string>検索して置換</string>
 > > 	<string>내보내기</string>
-< > 	<string>レイヤーパネルで検索</string>
+< > 	<string>レイヤーパネル内で検索</string>
 > > 	<string>레이어 패널에서 찾기</string>
 < > 	<string>流量:</string>
 > > 	<string>흐름:</string>
@@ -196,7 +200,7 @@
 < < 	<string>Pages</string>
 < > 	<string>ページ</string>
 > > 	<string>불투명도:</string>
-< > 	<string>パノラマ・パソナ</string>
+< > 	<string>パノラマペルソナ</string>
 > > 	<string>파노라마 페르소나</string>
 < > 	<string>パノラマ</string>
 > > 	<string>파노라마</string>
@@ -214,7 +218,9 @@
 < < 	<string>Please either commit or cancel the liquify operation before switching to another Persona.</string>
 < > 	<string>ゆがみ操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
 < < 	<string>Please either commit or cancel the panorama before switching to another Persona.</string>
-< > 	<string>別のパソナに切り替える前に、パノラマにコミットするか、パノラマをキャンセルしてください。</string>
+< > 	<string>別のペルソナに切り替える前に、パノラマをコミットまたはキャンセルしてください。</string>
+< < 	<string>Please either commit or cancel the stacked image before switching to another Persona.</string>
+< > 	<string>別のペルソナに切り替える前に、スタックされた画像をコミットまたはキャンセルしてください。</string>
 < < 	<string>Please either commit or cancel the tone mapping operation before switching to another Persona.</string>
 < > 	<string>トーンマッピング操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。</string>
 < < 	<string>Please end your macro recording session before using Develop.</string>
@@ -268,7 +274,7 @@
 > > 	<string>스냅샷</string>
 < > 	<string>ストック</string>
 > > 	<string>재고</string>
-< > 	<string>強度:</string>
+< > 	<string>強さ:</string>
 > > 	<string>세기:</string>
 < > 	<string>境界線</string>
 > > 	<string>선</string>
@@ -288,11 +294,13 @@
 < < 	<string>Symbol</string>
 < > 	<string>シンボル</string>
 < < 	<string>Table Format</string>
-< > 	<string>テーブルフォーマット</string>
+< > 	<string>表フォーマット</string>
 < < 	<string>Table</string>
-< > 	<string>テーブル</string>
+< > 	<string>表</string>
 < < 	<string>Table of Contents</string>
 < > 	<string>目次</string>
+< < 	<string>Technical</string>
+< > 	<string>技術的</string>
 < < 	<string>Text Frame</string>
 < > 	<string>テキストフレーム</string>
 > > 	<string>다음 뷰로 전환</string>
@@ -300,15 +308,15 @@
 < < 	<string>This feature is disabled until later in the Publisher Beta.</string>
 < > 	<string>この機能はPublisherのベータ版で今後有効になる予定です。</string>
 < < 	<string>Toggle Edit Selection As Layer</string>
-< > 	<string>選択範囲レイヤー編集の切り替え</string>
+< > 	<string>選択範囲レイヤー編集を切り替え</string>
 > > 	<string>텍스트 스타일</string>
-< > 	<string>レイヤのエクスポートパネルを切り替え</string>
+< > 	<string>レイヤーの書き出しパネルを切り替え</string>
 < < 	<string>Toggle Export Options Panel</string>
-< > 	<string>エクスポートオプションパネルを切り替え</string>
+< > 	<string>書き出しオプションパネルを切り替え</string>
 > > 	<string>내보내기 레이어 패널 켜고 끄기</string>
-< > 	<string>塗りつぶしコンテキストの切り替え</string>
+< > 	<string>塗りつぶしコンテキストを切り替え</string>
 < < 	<string>Toggle Frequency Layer</string>
-< > 	<string>周波数レイヤーの切り替え</string>
+< > 	<string>周波数レイヤーを切り替え</string>
 > > 	<string>칠 상황 켜고 끄기</string>
 < > 	<string>履歴パネルを切り替え</string>
 > > 	<string>편집 기록 패널 켜고 끄기</string>
@@ -316,11 +324,11 @@
 > > 	<string>네비게이터 패널 켜고 끄기</string>
 < > 	<string>スライスパネルを切り替え</string>
 > > 	<string>슬라이스 패널 켜고 끄기</string>
-< > 	<string>スナップの切り替え</string>
+< > 	<string>スナップを切り替え</string>
 > > 	<string>스내핑 켜고 끄기</string>
-< > 	<string>変換パネルを切り替え</string>
+< > 	<string>変形パネルを切り替え</string>
 < < 	<string>Toggle Unicode Character</string>
-< > 	<string>Unicode文字の切り替え</string>
+< > 	<string>Unicode文字を切り替え</string>
 > > 	<string>변형 패널 켜고 끄기</string>
 < > 	<string>階調範囲:</string>
 < < 	<string>Tone Map Overlays</string>
@@ -334,7 +342,7 @@
 > > 	<string>톤 맵핑 페르소나</string>
 < > 	<string>トーンマッピング</string>
 > > 	<string>톤 맵핑</string>
-< > 	<string>変換</string>
+< > 	<string>変形</string>
 > > 	<string>변형</string>
 < > 	<string>スペル"%@"の無視を解除</string>
 > > 	<string>철자 "%@"를 무시하지 않기</string>
