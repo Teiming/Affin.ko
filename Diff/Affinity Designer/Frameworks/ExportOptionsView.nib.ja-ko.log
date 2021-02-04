@@ -11,7 +11,7 @@
 < < 		<string>Use hex colours</string>
 < > 		<string>16進数カラーを使用</string>
 < < 		<string>Flatten transforms</string>
-< > 		<string>変換のフラット化</string>
+< > 		<string>変形をフラット化</string>
 < < 		<string>Add line breaks</string>
 < > 		<string>改行を追加</string>
 < < 		<string>Export text as curves</string>
@@ -26,11 +26,11 @@
 < < 		<string>Embed metadata</string>
 < > 		<string>メタデータを埋め込む</string>
 < < 		<string>Include bleed</string>
-< > 		<string>裁ち切りを含める</string>
+< > 		<string>裁ち落としを含める</string>
 < < 		<string>Colour profile from name</string>
 < > 		<string>名前に基づくカラープロファイル</string>
-< > 		<string>圧縮:</string>
 < < 		<string>Compression:</string>
+< > 		<string>圧縮:</string>
 > > 		<string>파일 포맷:</string>
 < > 		<string>なし</string>
 < < 		<string>PXR24 (Lossy)</string>
@@ -47,14 +47,14 @@
 < > 		<string>不明なチャンネルを含める</string>
 < < 		<string>Multi channel</string>
 < > 		<string>マルチチャンネル</string>
-< > 		<string>画像のピクセル数:</string>
 < < 		<string>Image pixels:</string>
+< > 		<string>画像のピクセル:</string>
 < < 		<string>16-bit (HALF)</string>
 < > 		<string>16ビット(HALF)</string>
 < < 		<string>32-bit (FLOAT)</string>
 < > 		<string>32ビット(FLOAT)</string>
-< > 		<string>その他のピクセル数:</string>
 < < 		<string>Other pixels:</string>
+< > 		<string>その他のピクセル:</string>
 < < 		<string>16-bit (HALF)</string>
 < > 		<string>16ビット(HALF)</string>
 < < 		<string>32-bit (FLOAT)</string>
@@ -65,26 +65,26 @@
 < > 		<string>16ビット(HALF)</string>
 < < 		<string>32-bit (FLOAT)</string>
 < > 		<string>32ビット(FLOAT)</string>
-< > 		<string>ICCプロファイル:</string>
 > > 		<string>없음</string>
+< > 		<string>ICCプロファイル:</string>
 < < 		<string>Downsample images</string>
 < > 		<string>画像のダウンサンプル</string>
 < < 		<string>Convert clips to paths</string>
 < > 		<string>クリップをパスに変換</string>
 < < 		<string>Embed metadata</string>
 < > 		<string>メタデータを埋め込む</string>
-< > 		<string>ボタン</string>
 > > 		<string>ICC 프로파일:</string>
-< > 		<string>マット:</string>
+< > 		<string>ボタン</string>
 < < 		<string>Matte:</string>
+< > 		<string>マット:</string>
 < < 		<string>Create preset...</string>
-< > 		<string>プリセットの作成...</string>
+< > 		<string>プリセットを作成...</string>
 > > 		<string>버튼</string>
-< > 		<string>プリセットの削除</string>
+< > 		<string>プリセットを削除</string>
 < < 		<string>Rename preset...</string>
 < > 		<string>プリセット名の変更...</string>
-< > 		<string>パレット:</string>
 < < 		<string>Palette:</string>
+< > 		<string>パレット:</string>
 > > 		<string>미리 설정 지우기</string>
 < > 		<string>自動</string>
 > > 		<string>자동</string>
@@ -107,8 +107,8 @@
 < > 		<string>PDF 1.4(Acrobat 5)</string>
 < < 		<string>Convert image colour spaces</string>
 < > 		<string>画像の色空間を変換する</string>
-< > 		<string>フォントを埋め込む:</string>
 < < 		<string>Embed  fonts:</string>
+< > 		<string>フォントを埋め込む:</string>
 < < 		<string>No Fonts</string>
 < > 		<string>フォントなし</string>
 < < 		<string>Text as Curves</string>
@@ -122,19 +122,19 @@
 < < 		<string>Honour spot colours</string>
 < > 		<string>スポットカラーを有効化</string>
 < < 		<string>Include bleed</string>
-< > 		<string>裁ち切りを含める</string>
+< > 		<string>裁ち落としを含める</string>
 < < 		<string>Include colour bars</string>
-< > 		<string>カラーバーを含む</string>
+< > 		<string>カラーバーを含める</string>
 < < 		<string>Include crop marks</string>
-< < 		<string>pdfIsDrawCropMarksBtn</string>
-< > 		<string>切り抜きマークを含む</string>
-< > 		<string>pdfIsDrawCropMarksBtn</string>
+< > 		<string>コーナートンボを含める</string>
 < < 		<string>Include page information</string>
 < > 		<string>ページ情報を含める</string>
 < < 		<string>Include printers marks</string>
 < > 		<string>プリンターマークを含める</string>
 < < 		<string>Include registration marks</string>
-< > 		<string>登録マークを含む</string>
+< > 		<string>レジストレーションマークを含める</string>
+< < 		<string>Include bookmarks</string>
+< > 		<string>ブックマークを含める</string>
 < < 		<string>Include hyperlinks</string>
 < > 		<string>ハイパーリンクを含める</string>
 < < 		<string>Include layers</string>
@@ -143,14 +143,16 @@
 < > 		<string>オーバープリントブラック</string>
 < < 		<string>Subset fonts</string>
 < > 		<string>サブセットフォント</string>
-< > 		<string>ピクセル形式:</string>
 > > 		<string>사용자화</string>
+< > 		<string>ピクセル形式:</string>
 < < 		<string>Use document format</string>
 < > 		<string>ドキュメント形式を使用</string>
 < < 		<string>RGB 8-bit</string>
 < > 		<string>RGB 8ビット</string>
 < < 		<string>RGB 16-bit</string>
 < > 		<string>RGB 16ビット</string>
+< < 		<string>RGB 32-bit</string>
+< > 		<string>RGB 32ビット</string>
 < < 		<string>Greyscale 8-bit</string>
 < > 		<string>グレースケール 8ビット</string>
 < < 		<string>Greyscale 16-bit</string>
@@ -158,7 +160,7 @@
 < < 		<string>CMYK 8-bit</string>
 < > 		<string>CMYK 8ビット</string>
 < < 		<string>LAB 16-bit</string>
-< > 		<string>LAB(16ビット)</string>
+< > 		<string>LAB 16ビット</string>
 < < 		<string>Embed metadata</string>
 < > 		<string>メタデータを埋め込む</string>
 > > 		<string>픽셀 포맷:</string>
@@ -190,7 +192,7 @@
 < < 		<string>Preserve accuracy</string>
 < > 		<string>精度を維持</string>
 < < 		<string>Nearest Neighbour</string>
-< > 		<string>最近傍</string>
+< > 		<string>ニアレストネイバー</string>
 < < 		<string>Bilinear</string>
 < > 		<string>バイリニア</string>
 < < 		<string>Bicubic</string>
@@ -201,21 +203,21 @@
 < > 		<string>Lanczos 3(分離不可)</string>
 < < 		<string>Smallest file sizes</string>
 < > 		<string>最小ファイルサイズ</string>
-< > 		<string>品質:</string>
 < < 		<string>Quality:</string>
+< > 		<string>品質:</string>
 < < 		<string>Include bleed</string>
-< > 		<string>裁ち切りを含める</string>
+< > 		<string>裁ち落としを含める</string>
 < < 		<string>Unsupported properties</string>
 < > 		<string>サポートされていないプロパティ</string>
 < < 		<string>Nothing</string>
 < > 		<string>なし</string>
 > > 		<string>미리 설정:</string>
 < > 		<string>すべて</string>
-< > 		<string>リサンプラー:</string>
 < < 		<string>Resampler:</string>
+< > 		<string>リサンプラー:</string>
 < > 		<string>バイリニア</string>
 < < 		<string>Nearest Neighbour</string>
-< > 		<string>最近傍</string>
+< > 		<string>ニアレストネイバー</string>
 < > 		<string>バイキュービック</string>
 < < 		<string>Lanczos 3 (separable)</string>
 < > 		<string>Lanczos 3(分離可能)</string>
@@ -223,11 +225,11 @@
 < > 		<string>Lanczos 3(分離不可)</string>
 < > 		<string>ボタン</string>
 < > 		<string>マット:</string>
-< > 		<string>リサンプラー:</string>
 < < 		<string>Resampler:</string>
+< > 		<string>リサンプラー:</string>
 < > 		<string>バイリニア</string>
 < < 		<string>Nearest Neighbour</string>
-< > 		<string>最近傍</string>
+< > 		<string>ニアレストネイバー</string>
 < > 		<string>バイキュービック</string>
 < < 		<string>Lanczos 3 (separable)</string>
 < > 		<string>Lanczos 3(分離可能)</string>
@@ -238,7 +240,7 @@
 < < 		<string>Use tile patterns</string>
 < > 		<string>タイルパターンを使用</string>
 < < 		<string>Include bleed</string>
-< > 		<string>裁ち切りを含める</string>
+< > 		<string>裁ち落としを含める</string>
 < < 		<string>Set viewBox</string>
 < > 		<string>viewBoxを設定する</string>
 < < 		<string>Longer text spans</string>
@@ -255,12 +257,12 @@
 < > 		<string>空</string>
 < < 		<string>Raster</string>
 < > 		<string>ラスター</string>
-< > 		<string>ラスタライズ:</string>
 < < 		<string>Rasterise:</string>
+< > 		<string>ラスタライズ:</string>
 < < 		<string>Resampler:</string>
 < > 		<string>リサンプラー:</string>
 < < 		<string>Nearest Neighbour</string>
-< > 		<string>最近傍</string>
+< > 		<string>ニアレストネイバー</string>
 < > 		<string>バイリニア</string>
 < > 		<string>バイキュービック</string>
 < < 		<string>Lanczos 3 (separable)</string>
@@ -275,32 +277,32 @@
 < > 		<string>ラジオ</string>
 < < 		<string>Quality:</string>
 < > 		<string>品質:</string>
-< > 		<string>PostScriptレベル:</string>
 < < 		<string>Postscript level:</string>
-< > 		<string>互換性:</string>
+< > 		<string>PostScriptレベル:</string>
 < < 		<string>Compatibility:</string>
-< > 		<string>色空間:</string>
+< > 		<string>互換性:</string>
 < < 		<string>Colour Space:</string>
+< > 		<string>色空間:</string>
 > > 		<string>모두</string>
 < > 		<string>プロファイル:</string>
 > > 		<string>프로파일:</string>
-< > 		<string>ベクトル</string>
-< > 		<string>リサンプル:</string>
+< > 		<string>ベクター</string>
 < < 		<string>Resample:</string>
-< > 		<string>グラデーション:</string>
+< > 		<string>リサンプル:</string>
 < < 		<string>Gradients:</string>
-< > 		<string>調整:</string>
+< > 		<string>グラデーション:</string>
 < < 		<string>Adjustments:</string>
-< > 		<string>レイヤーエフェクト:</string>
+< > 		<string>調整:</string>
 < < 		<string>Layer effects:</string>
+< > 		<string>レイヤーエフェクト:</string>
 < < 		<string>Lines:</string>
 < > 		<string>行数:</string>
-< > 		<string>高度なブレンディング:</string>
 < < 		<string>Adv Blending:</string>
+< > 		<string>高度なブレンディング:</string>
 < < 		<string>Box</string>
 < > 		<string>ボックス</string>
 < < 		<string>An OCIO colour profile will be applied if one can be identified from the output filename</string>
-< > 		<string>PSDベクトルマスクを処理しない多くのサードパーティアプリケーションでは、互換性モードが必要になります。結果として得られるファイルサイズは大きくなります。</string>
+< > 		<string>PSDベクターマスクを処理しない多くのサードパーティアプリケーションでは、互換性モードが必要になります。結果として得られるファイルサイズは大きくなります。</string>
 < < 		<string>Bleed will be applied</string>
 < > 		<string>zip圧縮を使用して、結果として得られるファイルサイズを小さくします。ファイルは一部のサードパーティアプリケーションとの互換性が失われる可能性があります。</string>
 < < 		<string>Bleed will be applied</string>
@@ -308,7 +310,7 @@
 < < 		<string>Bleed will be applied</string>
 < > 		<string>すべての空間ピクセル(XYZ、Z、ZBackを含む)で使用するピクセルデータタイプを選択します</string>
 < < 		<string>Bleed will be applied</string>
-< > 		<string>トップレベルのクリッピングカーブをベクトルパスに変換</string>
+< > 		<string>トップレベルのクリッピングカーブをベクターパスに変換</string>
 < < 		<string>Choose how to handle exporting adjustment layers. Affinity handles adjustments in a different way to other apps, so editable adjustments may appear different in other applications. Some third party applications may also not support adjustments.</string>
 < > 		<string>マルチチャンネルファイルとして書き出し、チャンネルの名前付けに基づいてレイヤーをチャンネルに分割します</string>
 < < 		<string>Choose how to handle exporting gradients. Affinity handles gradients in a different way to other apps, so editable gradients may appear different in other applications.</string>
@@ -324,9 +326,9 @@
 < < 		<string>Choose the pixel data type to use for all spacial pixels (including XYZ, Z and ZBack)</string>
 < > 		<string>ラスター要素のサイズ変更時に使用するリサンプラーを決定します</string>
 < < 		<string>Chose how to handle exporting advanced blending options. Some third party applications may not support advanced blending options.</string>
-< > 		<string>レイヤーコンテンツ(ラスターおよびベクトルマスク、レイヤー効果および調整など)をラスタライズします</string>
+< > 		<string>レイヤーコンテンツ(ラスターおよびベクターマスク、レイヤー効果および調整など)をラスタライズします</string>
 < < 		<string>Chose the resampler to use when resizing raster elements</string>
-< > 		<string>不確定なチャンネルを輝度に基づく単一のチャネルとして用いてレイヤーを書き出します</string>
+< > 		<string>不確定なチャンネルを輝度に基づく単一のチャンネルとして用いてレイヤーを書き出します</string>
 < < 		<string>Compatibility mode is required for many third party applications that do not handle PSD vector masks. Results in larger file sizes.</string>
 < > 		<string>他のすべてのピクセル(不明なチャンネルを含む)で使用するピクセルデータタイプを選択します</string>
 < < 		<string>Convert top level clipping curves to vector paths</string>
@@ -336,40 +338,42 @@
 < < 		<string>Export layers with indeterminable channels as a single channel base on luminance</string>
 < > 		<string>書き出し用グラデーションの処理方法を決定します。Affinityではグラデーションの処理方法が他のアプリとは異なるので、編集可能なグラデーションは他のアプリケーションで同じように表示されない可能性があります。</string>
 < < 		<string>Metadata will be embedded</string>
-< > 		<string>書き出し用ベクトルストロークの処理方法を決定します。一部のサードパーティアプリケーションでは、たとえベクトルマスクがサポートされていても、ベクトルストロークはサポートされていない場合があります。</string>
+< > 		<string>書き出し用ベクターストロークの処理方法を決定します。一部のサードパーティアプリケーションでは、たとえベクターマスクがサポートされていても、ベクターストロークはサポートされていない場合があります。</string>
 < < 		<string>Metadata will be embedded</string>
 < > 		<string>書き出し用レイヤー効果の処理方法を決定します。Affinityではレイヤー効果の処理方法が他のアプリとは異なるので、編集可能なレイヤー効果は他のアプリケーションで同じように表示されない可能性があります。一部のサードパーティアプリケーションでは、レイヤー効果がサポートされていない場合もあります。</string>
 < < 		<string>Metadata will be embedded</string>
 < > 		<string>書き出し用調整レイヤーの処理方法を決定します。Affinityでは調整の処理方法が他のアプリとは異なるので、編集可能な調整は他のアプリケーションで同じように表示されない可能性があります。一部のサードパーティアプリケーションでは、調整がサポートされていない場合もあります。</string>
 < < 		<string>Metadata will be embedded</string>
-< > 		<string>裁ち切りが適用されます</string>
+< > 		<string>裁ち落としが適用されます</string>
 < < 		<string>Metadata will be embedded</string>
-< > 		<string>裁ち切りが適用されます</string>
+< > 		<string>裁ち落としが適用されます</string>
 < < 		<string>Rasterise layer contents (including raster and vector masks, layer effects and adjustments)</string>
-< > 		<string>裁ち切りが適用されます</string>
+< > 		<string>裁ち落としが適用されます</string>
 < < 		<string>Selection contains multiple DPI settings</string>
-< > 		<string>裁ち切りが適用されます</string>
+< > 		<string>裁ち落としが適用されます</string>
 < < 		<string>Selection contains multiple DPI settings</string>
-< > 		<string>選択範囲にラスターとしての書き出しに関する複数のオプションが含まれています</string>
+< > 		<string>選択範囲には複数の設定が含まれます</string>
 < < 		<string>Selection contains multiple ICC embedding options</string>
-< > 		<string>選択範囲に最小ファイルサイズに関する複数のオプションが含まれています</string>
+< > 		<string>選択範囲にラスターとしての書き出しに関する複数のオプションが含まれています</string>
 < < 		<string>Selection contains multiple ICC profiles</string>
-< > 		<string>選択範囲に複数のDPI設定が含まれています</string>
+< > 		<string>選択範囲に最小ファイルサイズに関する複数のオプションが含まれています</string>
 < < 		<string>Selection contains multiple adjustment strategies</string>
 < > 		<string>選択範囲に複数のDPI設定が含まれています</string>
 < < 		<string>Selection contains multiple advanced blending strategies</string>
-< > 		<string>選択範囲に複数のICCプロファイルが含まれています</string>
+< > 		<string>選択範囲に複数のDPI設定が含まれています</string>
 < < 		<string>Selection contains multiple colour counts</string>
-< > 		<string>選択範囲に複数のICC埋め込みオプションが含まれています</string>
+< > 		<string>選択範囲に複数のICCプロファイルが含まれています</string>
 < < 		<string>Selection contains multiple compatibility mode options</string>
-< > 		<string>選択範囲に複数のグラデーション方式が含まれています</string>
+< > 		<string>選択範囲に複数のICC埋め込みオプションが含まれています</string>
 < < 		<string>Selection contains multiple compression settings</string>
-< > 		<string>選択範囲に複数のダウンサンプル設定が含まれています</string>
+< > 		<string>選択範囲に複数のグラデーション方式が含まれています</string>
 < < 		<string>Selection contains multiple compression types</string>
-< > 		<string>選択範囲に複数のパスに変換設定が含まれています</string>
+< > 		<string>選択範囲に複数のダウンサンプル設定が含まれています</string>
 < < 		<string>Selection contains multiple convert to paths settings</string>
-< > 		<string>選択範囲に複数のパレットタイプが含まれています</string>
+< > 		<string>選択範囲に複数のパスに変換設定が含まれています</string>
 < < 		<string>Selection contains multiple downsample settings</string>
+< > 		<string>選択範囲に複数のパレットタイプが含まれています</string>
+< < 		<string>Selection contains multiple embed metadata options</string>
 < > 		<string>選択範囲に複数のピクセルタイプが含まれています</string>
 < < 		<string>Selection contains multiple embed metadata options</string>
 < > 		<string>選択範囲に複数のピクセルタイプが含まれています</string>
@@ -387,28 +391,26 @@
 < > 		<string>選択範囲に複数のライン方式が含まれています</string>
 < < 		<string>Selection contains multiple embed metadata options</string>
 < > 		<string>選択範囲に複数のラスタライズ設定が含まれています</string>
-< < 		<string>Selection contains multiple embed metadata options</string>
-< > 		<string>選択範囲に複数のリサンプラーが含まれています</string>
 < < 		<string>Selection contains multiple export as raster options</string>
-< > 		<string>選択範囲に複数のリサンプラータイプが含まれています</string>
+< > 		<string>選択範囲に複数のリサンプラーが含まれています</string>
 < < 		<string>Selection contains multiple gradient strategies</string>
 < > 		<string>選択範囲に複数のリサンプラータイプが含まれています</string>
 < < 		<string>Selection contains multiple layer effects strategies</string>
 < > 		<string>選択範囲に複数のリサンプラータイプが含まれています</string>
 < < 		<string>Selection contains multiple line strategies</string>
+< > 		<string>選択範囲に複数のリサンプラータイプが含まれています</string>
+< < 		<string>Selection contains multiple matte colours</string>
 < > 		<string>選択範囲に複数のレイヤー効果方式が含まれています</string>
 < < 		<string>Selection contains multiple matte colours</string>
 < > 		<string>選択範囲に複数の互換性モードオプションが含まれています</string>
-< < 		<string>Selection contains multiple matte colours</string>
-< > 		<string>選択範囲に複数の品質値が含まれています</string>
 < < 		<string>Selection contains multiple palette types</string>
 < > 		<string>選択範囲に複数の品質値が含まれています</string>
 < < 		<string>Selection contains multiple palettise choices</string>
-< > 		<string>選択範囲に複数の圧縮タイプが含まれています</string>
+< > 		<string>選択範囲に複数の品質値が含まれています</string>
 < < 		<string>Selection contains multiple pixel formats</string>
-< > 		<string>選択範囲に複数の圧縮設定が含まれています</string>
+< > 		<string>選択範囲に複数の圧縮タイプが含まれています</string>
 < < 		<string>Selection contains multiple pixel types</string>
-< > 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
+< > 		<string>選択範囲に複数の圧縮設定が含まれています</string>
 < < 		<string>Selection contains multiple pixel types</string>
 < > 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
 < < 		<string>Selection contains multiple pixel types</string>
@@ -426,8 +428,10 @@
 < < 		<string>Selection contains multiple resampler types</string>
 < > 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
 < < 		<string>Selection contains multiple resampler types</string>
-< > 		<string>選択範囲に複数の減色の選択肢が含まれています</string>
+< > 		<string>選択範囲に複数の埋め込みメタデータオプションが含まれています</string>
 < < 		<string>Selection contains multiple resamplers</string>
+< > 		<string>選択範囲に複数の減色の選択肢が含まれています</string>
+< < 		<string>Selection contains multiple settings</string>
 < > 		<string>選択範囲に複数の色数が含まれています</string>
 < < 		<string>Selection contains multiple settings</string>
 < > 		<string>選択範囲に複数の設定が含まれています</string>
@@ -497,6 +501,4 @@
 < > 		<string>選択範囲に複数の調整方式が含まれています</string>
 < < 		<string>Use Zip compression where it results in smaller file sizes. Files may not be compatible with some third party applications.</string>
 < > 		<string>選択範囲に高度なブレンディング方式が複数含まれています</string>
-< < 		<string>NSApplication</string>
-< > 		<string>NSApplication</string>
 > > 		<string>벡터</string>
