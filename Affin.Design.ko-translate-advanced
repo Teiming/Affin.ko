@@ -48,5 +48,5 @@ do
     ;;
   esac
 done
-rsync -av --delete "${MIDPATH}" "${KORPATH}"
+sudo rsync -av --delete "${MIDPATH}" "${KORPATH}"
 echo " (동기화 종료)"
