@@ -3,7 +3,7 @@
 < 		<string>Bilinear</string>
 > 		<string>バイリニア</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 < 		<string>Bicubic</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
@@ -23,7 +23,7 @@
 < 		<string>Resize</string>
 > 		<string>サイズ変更</string>
 < 		<string>Resize Document</string>
-> 		<string>ドキュメントのサイズ変更</string>
+> 		<string>ドキュメントのサイズを変更</string>
 < 		<string>Height</string>
 > 		<string>幅</string>
 < 		<string>Width</string>
