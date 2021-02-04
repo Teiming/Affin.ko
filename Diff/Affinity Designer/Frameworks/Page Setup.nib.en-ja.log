@@ -6,16 +6,16 @@
 > 		<string>グレー/16</string>
 < 		<string>Image Placement Policy:</string>
 > 		<string>画像配置ポリシー:</string>
-< 		<string>Prefer Linked</string>
-> 		<string>リンクを優先</string>
 < 		<string>Prefer Embedded</string>
 > 		<string>埋め込みを優先</string>
+< 		<string>Prefer Linked</string>
+> 		<string>リンクを優先</string>
 < 		<string>Include Margins</string>
 > 		<string>マージンを含める</string>
-< 		<string>Retrieve Margin from Printer</string>
-> 		<string>プリンタからマージンを取得</string>
+< 		<string>Button</string>
+> 		<string>ボタン</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 < 		<string>Bilinear</string>
 > 		<string>バイリニア</string>
 < 		<string>Bicubic</string>
@@ -32,12 +32,12 @@
 > 		<string>リサンプル:</string>
 < 		<string>Objects will:</string>
 > 		<string>オブジェクトの動作:</string>
+< 		<string>Scale:</string>
+> 		<string>スケール:</string>
 < 		<string>Default</string>
 > 		<string>デフォルト</string>
-< 		<string>iPad (Retina)</string>
-> 		<string>iPad(Retina)</string>
 < 		<string>iPhone, iPad Mini (Retina)</string>
-> 		<string>iPhone、iPad Mini(Retina)</string>
+> 		<string>iPhone、iPad mini (Retina)</string>
 < 		<string>'Actual Size' Zoom:</string>
 > 		<string>実寸表示:</string>
 < 		<string>Portrait</string>
@@ -60,6 +60,8 @@
 > 		<string>右:</string>
 < 		<string>Bottom:</string>
 > 		<string>下:</string>
+< 		<string>Colour:</string>
+> 		<string>カラー:</string>
 < 		<string>Margins</string>
 > 		<string>マージン</string>
 > 		<string>上:</string>
@@ -67,7 +69,7 @@
 > 		<string>下:</string>
 > 		<string>左:</string>
 < 		<string>Bleed</string>
-> 		<string>裁ち切り</string>
+> 		<string>裁ち落とし</string>
 < 		<string>Letter</string>
 > 		<string>レター</string>
 < 		<string>Custom</string>
@@ -75,7 +77,7 @@
 < 		<string>Print</string>
 > 		<string>プリント</string>
 < 		<string>Print (Press-Ready)</string>
-> 		<string>プリント(プレスレディ)</string>
+> 		<string>プリント(プレス品質)</string>
 < 		<string>Photo</string>
 > 		<string>写真</string>
 < 		<string>Devices</string>
@@ -91,10 +93,12 @@
 < 		<string>Cancel</string>
 > 		<string>キャンセル</string>
 < 		<string>Create preset</string>
-> 		<string>プリセットの作成</string>
+> 		<string>プリセットを作成</string>
 < 		<string>Rename preset</string>
 > 		<string>プリセット名の変更</string>
 < 		<string>Delete preset</string>
-> 		<string>プリセットの削除</string>
+> 		<string>プリセットを削除</string>
 < 		<string>Link Margins</string>
+> 		<string>カラムガイドのカラーを設定</string>
+< 		<string>Set the column guide colour</string>
 > 		<string>リンクマージン</string>

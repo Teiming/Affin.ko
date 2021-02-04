@@ -6,15 +6,15 @@
 < > 		<string>グレー/16</string>
 < < 		<string>Image Placement Policy:</string>
 < > 		<string>画像配置ポリシー:</string>
-< < 		<string>Prefer Linked</string>
-< > 		<string>リンクを優先</string>
 < < 		<string>Prefer Embedded</string>
 < > 		<string>埋め込みを優先</string>
+< < 		<string>Prefer Linked</string>
+< > 		<string>リンクを優先</string>
 < > 		<string>マージンを含める</string>
 > > 		<string>여백 포함</string>
-< > 		<string>プリンタからマージンを取得</string>
+< > 		<string>ボタン</string>
 < < 		<string>Nearest Neighbour</string>
-< > 		<string>最近傍</string>
+< > 		<string>ニアレストネイバー</string>
 < < 		<string>Bilinear</string>
 < > 		<string>バイリニア</string>
 < < 		<string>Bicubic</string>
@@ -23,7 +23,7 @@
 < > 		<string>Lanczos 3(分離可能)</string>
 < < 		<string>Lanczos 3 (non-separable)</string>
 < > 		<string>Lanczos 3(分離不可)</string>
-> > 		<string>프린터 여백을 이용</string>
+> > 		<string>버튼</string>
 < > 		<string>寸法:</string>
 < < 		<string>Anchor:</string>
 < > 		<string>アンカー:</string>
@@ -32,11 +32,11 @@
 < < 		<string>Objects will:</string>
 < > 		<string>オブジェクトの動作:</string>
 > > 		<string>치수:</string>
+< > 		<string>スケール:</string>
+> > 		<string>배율:</string>
 < > 		<string>デフォルト</string>
-< < 		<string>iPad (Retina)</string>
-< > 		<string>iPad(Retina)</string>
 < < 		<string>iPhone, iPad Mini (Retina)</string>
-< > 		<string>iPhone、iPad Mini(Retina)</string>
+< > 		<string>iPhone、iPad mini (Retina)</string>
 > > 		<string>기본값</string>
 < > 		<string>実寸表示:</string>
 > > 		<string>'실제 크기' 맞추기:</string>
@@ -60,13 +60,15 @@
 > > 		<string>오른쪽:</string>
 < > 		<string>下:</string>
 > > 		<string>아래쪽</string>
+< > 		<string>カラー:</string>
+> > 		<string>색상:</string>
 < > 		<string>マージン</string>
 < > 		<string>上:</string>
 < > 		<string>右:</string>
 < > 		<string>下:</string>
 < > 		<string>左:</string>
 > > 		<string>여백</string>
-< > 		<string>裁ち切り</string>
+< > 		<string>裁ち落とし</string>
 < < 		<string>Letter</string>
 < > 		<string>レター</string>
 > > 		<string>도련</string>
@@ -74,7 +76,7 @@
 > > 		<string>사용자화</string>
 < > 		<string>プリント</string>
 < < 		<string>Print (Press-Ready)</string>
-< > 		<string>プリント(プレスレディ)</string>
+< > 		<string>プリント(プレス品質)</string>
 > > 		<string>인쇄</string>
 < > 		<string>写真</string>
 > > 		<string>사진</string>
@@ -92,11 +94,13 @@
 > > 		<string>문서 단위:</string>
 < > 		<string>キャンセル</string>
 > > 		<string>취소</string>
-< > 		<string>プリセットの作成</string>
+< > 		<string>プリセットを作成</string>
 > > 		<string>미리 설정 생성</string>
 < > 		<string>プリセット名の変更</string>
 > > 		<string>미리 설정 이름 변경</string>
-< > 		<string>プリセットの削除</string>
+< > 		<string>プリセットを削除</string>
 < < 		<string>Link Margins</string>
+< > 		<string>カラムガイドのカラーを設定</string>
+< < 		<string>Set the column guide colour</string>
 < > 		<string>リンクマージン</string>
 > > 		<string>미리 설정 지우기</string>
