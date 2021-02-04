@@ -1,39 +1,37 @@
 < 		<string>With bleed</string>
-> 		<string>裁ち切りあり</string>
+> 		<string>裁ち落としあり</string>
 < 		<string>With bleed</string>
-> 		<string>裁ち切りあり</string>
+> 		<string>裁ち落としあり</string>
 < 		<string>With bleed</string>
-< 		<string>m_bleedSizingPNG</string>
-> 		<string>裁ち切りあり</string>
-> 		<string>m_bleedSizingPNG</string>
+> 		<string>裁ち落としあり</string>
 < 		<string>With bleed</string>
-> 		<string>裁ち切りあり</string>
+> 		<string>裁ち落としあり</string>
 < 		<string>Don't export layers hidden by Export persona</string>
-> 		<string>書き出しペルソナによって非表示になっているレイヤーを書き出ししない</string>
+> 		<string>書き出しペルソナで非表示にしたレイヤーを書き出さない</string>
 < 		<string>Save Affinity layers</string>
 > 		<string>Affinityレイヤーを保存</string>
 < 		<string>Export</string>
 > 		<string>書き出し</string>
 < 		<string>Include bleed</string>
-> 		<string>裁ち切りを含める</string>
+> 		<string>裁ち落としを含める</string>
 < 		<string>Include bleed</string>
-< 		<string>m_btnIncludeBleedPDF</string>
-> 		<string>裁ち切りを含める</string>
-> 		<string>m_btnIncludeBleedPDF</string>
+> 		<string>裁ち落としを含める</string>
+< 		<string>Include bleed</string>
+> 		<string>裁ち落としを含める</string>
 < 		<string>Area:</string>
 > 		<string>領域:</string>
 < 		<string>WARNING! The JPEG format supports images with a maximum dimension of 65500 pixels. Your output will be scaled to fit.</string>
 > 		<string>警告! JPEG形式でサポートされる画像の最大寸法は65500ピクセルです。これに合わせて出力がスケーリングされます。</string>
 < 		<string>WARNING! The PNG format supports images with a maximum dimension of 32767 pixels. Your output will be scaled to fit.</string>
 > 		<string>警告! PNG形式でサポートされる画像の最大寸法は32767ピクセルです。これに合わせて出力がスケーリングされます。</string>
-> 		<string>計算中</string>
 < 		<string>Calculating</string>
+> 		<string>計算中</string>
 < 		<string>Preview export when complete</string>
 > 		<string>完了時に書き出しをプレビュー</string>
 < 		<string>Pages:</string>
 > 		<string>ページ数:</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 < 		<string>Bilinear</string>
 > 		<string>バイリニア</string>
 < 		<string>Bicubic</string>
@@ -43,7 +41,7 @@
 < 		<string>Lanczos 3 (non-separable)</string>
 > 		<string>Lanczos 3(分離不可)</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 > 		<string>バイリニア</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
@@ -51,7 +49,7 @@
 < 		<string>Lanczos 3 (non-separable)</string>
 > 		<string>Lanczos 3(分離不可)</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 > 		<string>バイリニア</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
@@ -59,7 +57,7 @@
 < 		<string>Lanczos 3 (non-separable)</string>
 > 		<string>Lanczos 3(分離不可)</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 > 		<string>バイリニア</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
@@ -67,7 +65,7 @@
 < 		<string>Lanczos 3 (non-separable)</string>
 > 		<string>Lanczos 3(分離不可)</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 > 		<string>バイリニア</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
@@ -75,7 +73,7 @@
 < 		<string>Lanczos 3 (non-separable)</string>
 > 		<string>Lanczos 3(分離不可)</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 > 		<string>バイリニア</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
@@ -83,7 +81,7 @@
 < 		<string>Lanczos 3 (non-separable)</string>
 > 		<string>Lanczos 3(分離不可)</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 > 		<string>バイリニア</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
@@ -91,17 +89,19 @@
 < 		<string>Lanczos 3 (non-separable)</string>
 > 		<string>Lanczos 3(分離不可)</string>
 < 		<string>Nearest Neighbour</string>
-> 		<string>最近傍</string>
+> 		<string>ニアレストネイバー</string>
 > 		<string>バイリニア</string>
 > 		<string>バイキュービック</string>
 < 		<string>Lanczos 3 (separable)</string>
 > 		<string>Lanczos 3(分離可能)</string>
 < 		<string>Lanczos 3 (non-separable)</string>
 > 		<string>Lanczos 3(分離不可)</string>
+< 		<string>Preview</string>
+> 		<string>プレビュー</string>
 < 		<string>Size:</string>
 > 		<string>サイズ:</string>
-> 		<string>プリセット:</string>
 < 		<string>Preset:</string>
+> 		<string>プリセット:</string>
 < 		<string>Resample:</string>
 > 		<string>リサンプル:</string>
 > 		<string>サイズ:</string>
@@ -122,13 +122,13 @@
 < 		<string>Resample:</string>
 > 		<string>リサンプル:</string>
 > 		<string>プリセット:</string>
-> 		<string>ラスターDPI:</string>
 < 		<string>Raster DPI:</string>
-> 		<string>(一部の領域はラスタライズされます)</string>
+> 		<string>ラスターDPI:</string>
 < 		<string>(Some areas will be rasterised)</string>
+> 		<string>(一部の領域はラスタライズされます)</string>
 > 		<string>プリセット:</string>
-> 		<string>ラスターDPI:</string>
 < 		<string>Raster DPI:</string>
+> 		<string>ラスターDPI:</string>
 < 		<string>(Some areas will be rasterised)</string>
 > 		<string>(一部の領域はラスタライズされます)</string>
 < 		<string>Export text as curves for font independence</string>
@@ -136,10 +136,10 @@
 > 		<string>プリセット:</string>
 < 		<string>Raster DPI:</string>
 > 		<string>ラスターDPI:</string>
-> 		<string>PostScriptレベル:</string>
 < 		<string>Postscript level:</string>
-> 		<string>(一部の領域はラスタライズされます)</string>
+> 		<string>PostScriptレベル:</string>
 < 		<string>(Some areas will be rasterised)</string>
+> 		<string>(一部の領域はラスタライズされます)</string>
 > 		<string>サイズ:</string>
 > 		<string>プリセット:</string>
 < 		<string>Resample:</string>
