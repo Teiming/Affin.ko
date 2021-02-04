@@ -1,9 +1,9 @@
 < 		<string>Direction:</string>
 > 		<string>向き:</string>
 < 		<string>Azimuth:</string>
-> 		<string>アジマス:</string>
+> 		<string>方位角:</string>
 < 		<string>Elevation:</string>
-> 		<string>エレベーション:</string>
+> 		<string>仰角:</string>
 < 		<string>Colour:</string>
 > 		<string>カラー:</string>
 < 		<string>Directional</string>
@@ -15,9 +15,9 @@
 > 		<string>ポイント</string>
 > 		<string>カラー:</string>
 < 		<string>Elevation:</string>
-> 		<string>エレベーション:</string>
+> 		<string>仰角:</string>
 < 		<string>Azimuth:</string>
-> 		<string>アジマス:</string>
+> 		<string>方位角:</string>
 < 		<string>Outer cone:</string>
 > 		<string>外側円錐:</string>
 < 		<string>Direction:</string>
@@ -33,11 +33,7 @@
 < 		<string>Load bump map</string>
 > 		<string>バンプマップの読み込み</string>
 < 		<string>Clear bump map</string>
-< 		<string>SchemeTextField</string>
-< 		<string>{{-2, 15}, {70, 14}}</string>
-> 		<string>バンプマップのクリア</string>
-> 		<string>SchemeTextField</string>
-> 		<string>{{-2, 15}, {70, 14}}</string>
+> 		<string>バンプマップをクリア</string>
 < 		<string>Opacity:</string>
 > 		<string>不透明度:</string>
 < 		<string>Scale Horizontally To Fit</string>
