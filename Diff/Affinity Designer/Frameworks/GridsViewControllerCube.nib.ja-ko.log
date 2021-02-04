@@ -8,9 +8,7 @@
 > > 		<string>첫 번째 축</string>
 < > 		<string>第1軸</string>
 < < 		<string>Cube Scale:</string>
-< < 		<string>{{94, 32}, {75, 22}}</string>
 < > 		<string>キューブスケール:</string>
-< > 		<string>{{94, 32}, {75, 22}}</string>
 > > 		<string>첫 번째 축</string>
 < > 		<string>区分:</string>
 > > 		<string>구획:</string>
@@ -26,7 +24,7 @@
 < < 		<string>Intermediate divisions:</string>
 < > 		<string>中間区分:</string>
 > > 		<string>스내핑 대상에 추가</string>
-< > 		<string>プレーン直交軸:</string>
+< > 		<string>平面直交軸:</string>
 > > 		<string>평면 직교 축:</string>
 < > 		<string>追加しない</string>
 > > 		<string>추가하지 않음</string>
@@ -70,12 +68,12 @@
 > > 		<string>첫 번째 축</string>
 < > 		<string>グリッド設定</string>
 < < 		<string>Elevation</string>
-< > 		<string>エレベーション</string>
-< > 		<string>エレベーション</string>
-< > 		<string>エレベーション</string>
+< > 		<string>ロール</string>
+< > 		<string>ロール</string>
+< > 		<string>仰角</string>
 < < 		<string>Orientation</string>
-< > 		<string>ロール</string>
-< > 		<string>ロール</string>
+< > 		<string>仰角</string>
+< > 		<string>仰角</string>
 < < 		<string>Resulting Snapping and Constraining Axis</string>
 < > 		<string>向き</string>
 < < 		<string>Roll</string>
