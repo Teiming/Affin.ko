@@ -48,5 +48,9 @@ do
     ;;
   esac
 done
+sudo rm "${MIDPATH}"/LayerPage.nib
+sudo rm "${MIDPATH}"/ParagraphPage.nib
+sudo rm "${MIDPATH}"/Preferences.nib
+sudo rm "${MIDPATH}"/UserStatusView.nib
 sudo rsync -av --delete "${MIDPATH}" "${KORPATH}"
 echo " (동기화 종료)"

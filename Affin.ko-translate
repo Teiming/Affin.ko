@@ -4,11 +4,8 @@ cd ~/Affin.ko/
 git pull
 echo "Select Application"
 echo "1: Affinity Designer"
-echo "2: Affinity Designer Beta"
-echo "3: Affinity Photo"
-echo "4: Affinity Photo Beta"
-echo "5: Affinity Publisher"
-echo "6: Affinity Publisher Beta"
+echo "2: Affinity Photo"
+echo "3: Affinity Publisher"
 read Application
 case ${Application} in
   1 )
@@ -16,23 +13,11 @@ case ${Application} in
   DICPATH=~/Affin.ko/DictionaryDesigner
   ;;
   2 )
-  APPNAME=Affinity\ Designer\ Beta
-  DICPATH=~/Affin.ko/DictionaryDesigner
-  ;;
-  3 )
   APPNAME=Affinity\ Photo
   DICPATH=~/Affin.ko/DictionaryPhoto
   ;;
-  4 )
-  APPNAME=Affinity\ Photo\ Beta
-  DICPATH=~/Affin.ko/DictionaryPhoto
-  ;;
-  5 )
+  3 )
   APPNAME=Affinity\ Publisher
-  DICPATH=~/Affin.ko/DictionaryPublisher
-  ;;
-  6 )
-  APPNAME=Affinity\ Publisher\ Beta
   DICPATH=~/Affin.ko/DictionaryPublisher
   ;;
   * )
@@ -61,3 +46,10 @@ do
   sudo sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
   echo " (번역 종료)"
 done
+# 오류체크
+if [[ ${Frameworks} -eq 2 ]]; then
+  sudo rm "${KORPATH}"/LayerPage.nib
+  sudo rm "${KORPATH}"/ParagraphPage.nib
+  sudo rm "${KORPATH}"/Preferences.nib
+  sudo rm "${KORPATH}"/UserStatusView.nib
+fi

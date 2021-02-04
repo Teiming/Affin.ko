@@ -11,31 +11,18 @@ echo "4: Affinity Photo Beta"
 echo "5: Affinity Publisher"
 echo "6: Affinity Publisher Beta"
 read Application
+APPVERS=1.9.0
 case ${Application} in
   1 )
   APPNAME=Affinity\ Designer
-  DICPATH=~/Affin.ko/DictionaryDesigner
-  APPVERS=1.8.6
-  ;;
-  2 )
-  APPNAME=Affinity\ Designer\ Beta
   DICPATH=~/Affin.ko/DictionaryDesigner
   ;;
   3 )
   APPNAME=Affinity\ Photo
   DICPATH=~/Affin.ko/DictionaryPhoto
-  APPVERS=1.8.6
-  ;;
-  4 )
-  APPNAME=Affinity\ Photo\ Beta
-  DICPATH=~/Affin.ko/DictionaryPhoto
   ;;
   5 )
   APPNAME=Affinity\ Publisher
-  DICPATH=~/Affin.ko/DictionaryPublisher
-  ;;
-  6 )
-  APPNAME=Affinity\ Publisher\ Beta
   DICPATH=~/Affin.ko/DictionaryPublisher
   ;;
   * )
@@ -84,5 +71,9 @@ do
     ;;
   esac
 done
-rsync -av --delete "${MIDPATH}" "${KORPATH}"
+sudo rm "${MIDPATH}"/LayerPage.nib
+sudo rm "${MIDPATH}"/ParagraphPage.nib
+sudo rm "${MIDPATH}"/Preferences.nib
+sudo rm "${MIDPATH}"/UserStatusView.nib
+sudo rsync -av --delete "${MIDPATH}" "${KORPATH}"
 echo " (동기화 종료)"
