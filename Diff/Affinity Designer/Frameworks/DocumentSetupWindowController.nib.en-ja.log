@@ -4,6 +4,8 @@
 > 		<string>水平方向</string>
 < 		<string>Vertically</string>
 > 		<string>垂直方向</string>
+< 		<string>Button</string>
+> 		<string>ボタン</string>
 < 		<string>Bottom:</string>
 > 		<string>下:</string>
 < 		<string>Grey/8</string>
@@ -30,12 +32,18 @@
 > 		<string>上:</string>
 < 		<string>Transparent background</string>
 > 		<string>透明な背景</string>
+< 		<string>Item 1</string>
+> 		<string>アイテム1</string>
+< 		<string>Item 2</string>
+> 		<string>アイテム2</string>
+< 		<string>Item 3</string>
+> 		<string>アイテム3</string>
 < 		<string>'Actual Size' Zoom:</string>
 > 		<string>実寸表示:</string>
 < 		<string>Default</string>
 > 		<string>デフォルト</string>
 < 		<string>iPhone, iPad Mini (Retina)</string>
-> 		<string>iPhone(4/5/6)、iPad Mini(Retina)</string>
+> 		<string>iPhone、iPad mini (Retina)</string>
 < 		<string>Layout</string>
 > 		<string>レイアウト</string>
 < 		<string>Colour Format:</string>
@@ -44,12 +52,10 @@
 > 		<string>カラープロファイル:</string>
 < 		<string>Colour</string>
 > 		<string>カラー</string>
+< 		<string>Colour:</string>
+> 		<string>カラー：</string>
 < 		<string>Bleed</string>
-> 		<string>裁ち切り</string>
-< 				<string>NSTabView</string>
-< 				<string>NSView</string>
-> 				<string>NSTabView</string>
-> 				<string>NSView</string>
+> 		<string>裁ち落とし</string>
 < 		<string>Document Setup</string>
 > 		<string>ドキュメント設定</string>
 < 		<string>Document Units:</string>
@@ -58,3 +64,5 @@
 > 		<string>キャンセル</string>
 < 		<string>Image Placement Policy:</string>
 > 		<string>画像配置ポリシー:</string>
+< 		<string>Set the column guide colour</string>
+> 		<string>カラムガイドのカラーを設定</string>
