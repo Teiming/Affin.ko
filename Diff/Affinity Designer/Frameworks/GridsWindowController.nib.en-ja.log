@@ -3,15 +3,15 @@
 < 		<string>Preset:</string>
 > 		<string>プリセット:</string>
 < 		<string>Show grid</string>
-> 		<string>グリッドの表示</string>
+> 		<string>グリッドを表示</string>
 < 		<string>Mode:</string>
 > 		<string>モード:</string>
-> 		<string>グリッドライン:</string>
 < 		<string>Grid lines:</string>
+> 		<string>グリッドライン:</string>
 < 		<string>Button</string>
 > 		<string>ボタン</string>
-> 		<string>サブ区分ライン:</string>
 < 		<string>Subdivision lines:</string>
+> 		<string>サブ区分ライン:</string>
 > 		<string>ボタン</string>
 < 		<string>Grid setup</string>
 > 		<string>グリッド設定</string>
@@ -20,13 +20,13 @@
 < 		<string>Show axis editing handles</string>
 > 		<string>軸編集ハンドルを表示</string>
 < 		<string>Create Preset…</string>
-> 		<string>プリセットの作成…</string>
+> 		<string>プリセットを作成…</string>
 < 		<string>Rename Preset…</string>
 > 		<string>プリセット名の変更…</string>
 < 		<string>Replace Preset…</string>
 > 		<string>プリセットの置換…</string>
 < 		<string>Delete Preset</string>
-> 		<string>プリセットの削除</string>
+> 		<string>プリセットを削除</string>
 < 		<string>Manage Presets…</string>
 > 		<string>プリセットの管理…</string>
 < 		<string>Link the grid colours</string>
@@ -38,6 +38,6 @@
 < 		<string>Set the main grid line opacity</string>
 > 		<string>サブ区分グリッドラインを不透明に設定</string>
 < 		<string>Set the subdivision grid line opacity</string>
-> 		<string>メイングリッドラインを不透明に設定</string>
+> 		<string>メイングリッドラインのカラーを設定</string>
 < 		<string>Set the subdivision grid line opacity</string>
-> 		<string>メイングリッドラインカラーを設定</string>
+> 		<string>メイングリッドラインを不透明に設定</string>
