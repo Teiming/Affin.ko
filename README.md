@@ -49,13 +49,9 @@ sudo chown ${USERNAME} /Applications/Affinity\ Designer.app/Contents/Frameworks/
 ```
 이 과정이 끝나면, Affinity 설정에서 한국어를 선택할 수 있습니다.
 ## Step 4. 번역하기
+``Step-4.command``를 실행합니다.
 > 원본 영어 파일을 한국어 파일로 번역합니다. 번역된 내용이 늘어나면 보다 긴 시간이 소요됩니다.
 
-다음 명령어를 입력하고 Affinity 시리즈를 번역합니다.
-```sh
-sudo chmod +x ~/Affin.ko/Affin.ko-translate
-sudo ~/Affin.ko/Affin.ko-translate
-```
 ### Check Update
 git 저장소에서 최신 번역 자료를 가져옵니다. 이미 최신이라면 다음 메시지를 출력합니다.
 ```sh
@@ -64,17 +60,14 @@ Already up to date.
 ### Select Application
 어떤 프로그램을 번역할지 선택합니다. 숫자만 입력합니다.
 * 1: Affinity Designer
-* 2: Affinity Designer Beta
-* 3: Affinity Photo
-* 4: Affinity Photo Beta
-* 5: Affinity Publisher
-* 6: Affinity Publisher Beta
+* 2: Affinity Photo
+* 3: Affinity Publisher
 ### Select Main Menu or Frameworks
 Main Menu 및 Frameworks 중 어느 것을 번역할지 선택합니다. 마찬가지로 숫자만 입력합니다.
 * 1: Main Menu
 * 2: Frameworks
 ## Step 5. 수정하기
-Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요. 수정하는 과정은 Step 4.와 같습니다.
+Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요. 수정하는 과정은 Step 2~4.와 같습니다.
 ## Feedback
 [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6) 또는 [디스코드 채팅 채널](https://discord.gg/Y2DGXE3)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. Affin.ko를 이용하면서 궁금한 점을 질문해도 좋습니다.
 
@@ -86,7 +79,11 @@ Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않�
   * 해당 번역 파일을 제거하면 해결됩니다.
 ```sh
 sudo rm /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
-sudo rm /Applications/Affinity\ Designer\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
 sudo rm /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
-sudo rm /Applications/Affinity\ Photo\ Beta.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
+```
+* 내 계정을 확인할 수 없음.
+  * 해당 번역 파일을 제거하면 해결됩니다.
+```sh
+sudo rm /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/UserStatusView.nib
+sudo rm /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/UserStatusView.nib
 ```

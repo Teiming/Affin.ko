@@ -1,36 +1,55 @@
-echo "번역할 프로그램을 선택합니다."
+#!/bin/bash
+echo "Check Update"
+cd ~/Affin.ko/
+git pull
+echo "Select Application"
 echo "1: Affinity Designer"
 echo "2: Affinity Photo"
 echo "3: Affinity Publisher"
-read app
-case ${app} in
+read Application
+case ${Application} in
   1 )
   APPNAME=Affinity\ Designer
+  DICPATH=~/Affin.ko/DictionaryDesigner
   ;;
   2 )
   APPNAME=Affinity\ Photo
+  DICPATH=~/Affin.ko/DictionaryPhoto
   ;;
   3 )
   APPNAME=Affinity\ Publisher
+  DICPATH=~/Affin.ko/DictionaryPublisher
   ;;
   * )
-  echo "알 수 없는 프로그램입니다. 1, 2, 3(으)로만 입력해주세요."
-  ~/Affin.ko/Affin.ko-convert
+  echo "Unknown Application."
   ;;
 esac
-
-echo ${APPNAME}"를 변환합니다."
-sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Resources/en.lproj/*
-sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Resources/ja.lproj/*
-sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
-sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-echo "ko.lproj 폴더를 생성합니다."
-sudo mkdir /Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
-sudo mkdir /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
-echo -n "다른 프로그램을 번역하려면 Affin.ko-convert를 다시 시작해주세요. (y or n) "
-read restart
-if [[ ${restart} -eq "y" ]]; then
-  ~/Affin.ko/Affin.ko-convert
+echo "Select Main Menu or Frameworks"
+echo "1: Main Menu"
+echo "2: Frameworks"
+read Frameworks
+if [[ ${Frameworks} -eq 2 ]]; then
+  ENGPATH=/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/
+  JAPPATH=/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/
+  KORPATH=/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/
 else
-  exit
+  ENGPATH=/Applications/"${APPNAME}".app/Contents/Resources/en.lproj/
+  JAPPATH=/Applications/"${APPNAME}".app/Contents/Resources/ja.lproj/
+  KORPATH=/Applications/"${APPNAME}".app/Contents/Resources/ko.lproj/
+fi
+# 번역
+FILECOUNT=$(ls -a "${JAPPATH}" | grep "i" | sed -n "=" | tail -n "1")
+for (( i = 1; i <= ${FILECOUNT}; i++ ))
+do
+  NAME=$(/bin/ls "${JAPPATH}" | /usr/bin/sed -n "${i}p")
+  echo -n "${i}/${FILECOUNT} ${NAME}"
+  sudo sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${KORPATH}${NAME}"
+  echo " (번역 종료)"
+done
+# 오류체크
+if [[ ${Frameworks} -eq 2 ]]; then
+  sudo rm "${KORPATH}"/LayerPage.nib
+  sudo rm "${KORPATH}"/ParagraphPage.nib
+  sudo rm "${KORPATH}"/Preferences.nib
+  sudo rm "${KORPATH}"/UserStatusView.nib
 fi
