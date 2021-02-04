@@ -10,21 +10,23 @@
 < > 		<string>左下</string>
 < < 		<string>Bottom right</string>
 < > 		<string>右下</string>
-< > 		<string>名前の変更…</string>
+< > 		<string>名前を変更...</string>
 > > 		<string>이름 변경...</string>
 < > 		<string>削除</string>
+< < 		<string>Uninstall Pack...</string>
+< > 		<string>パックをアンインストール…</string>
 < < 		<string>Move Up</string>
 < > 		<string>上に移動</string>
 < < 		<string>Move Down</string>
 < > 		<string>下に移動</string>
 < < 		<string>Export Macros...</string>
-< > 		<string>マクロの書き出し...</string>
+< > 		<string>マクロを書き出し...</string>
 < < 		<string>Main Menu</string>
 < > 		<string>メインメニュー</string>
-> > 		<string>지우기</string>
-< > 		<string>新規カテゴリの作成</string>
+< < 		<string>Create New Category</string>
+< > 		<string>新規カテゴリを作成</string>
 < < 		<string>Import Macros...</string>
-< > 		<string>マクロのインポート...</string>
+< > 		<string>マクロをインポート...</string>
 < < 		<string>No scale</string>
 < > 		<string>スケールなし</string>
 < < 		<string>Stretch</string>
@@ -33,4 +35,4 @@
 < > 		<string>最大フィット</string>
 < < 		<string>Min fit</string>
 < > 		<string>最小フィット</string>
-> > 		<string>신규 범주 생성</string>
+> > 		<string>지우기</string>
