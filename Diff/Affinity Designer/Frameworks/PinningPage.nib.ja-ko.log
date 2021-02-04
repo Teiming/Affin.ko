@@ -3,7 +3,7 @@
 < < 		<string>Detach</string>
 < > 		<string>切り離し</string>
 < < 		<string>Horizontal align:</string>
-< > 		<string>水平方向の配置:</string>
+< > 		<string>水平方向揃え:</string>
 < < 		<string>Item 1</string>
 < > 		<string>アイテム1</string>
 < < 		<string>Item 2</string>
@@ -19,7 +19,7 @@
 < < 		<string>Keep within bounds</string>
 < > 		<string>境界内に保持</string>
 < < 		<string>Vertical align:</string>
-< > 		<string>垂直方向の整列:</string>
+< > 		<string>垂直方向揃え:</string>
 < > 		<string>アイテム1</string>
 < > 		<string>アイテム2</string>
 < > 		<string>アイテム3</string>
@@ -33,10 +33,8 @@
 < < 		<string>Mirror facing pages</string>
 < > 		<string>見開きページをミラーリング</string>
 < < 		<string>Preserve manual position</string>
-< < 		<string>{265, 300}</string>
-< < 		<string>Floating</string>
 < > 		<string>位置をロック</string>
-< > 		<string>{265, 300}</string>
+< < 		<string>Floating</string>
 < > 		<string>フローティング</string>
 < < 		<string>Scale to:</string>
 < > 		<string>スケーリング先:</string>
@@ -66,25 +64,25 @@
 < < 		<string>Inline</string>
 < > 		<string>インライン</string>
 < < 		<string>Advance</string>
-< > 		<string>インセットのリンク</string>
-< < 		<string>Base Position</string>
 < > 		<string>スケーリング先</string>
-< < 		<string>Bottom Text Inset</string>
+< < 		<string>Base Position</string>
 < > 		<string>スケール</string>
+< < 		<string>Bottom Text Inset</string>
+< > 		<string>テキスト上の余白</string>
 < < 		<string>Horizontal Offset</string>
-< > 		<string>ベース位置</string>
+< > 		<string>テキスト下の余白</string>
 < < 		<string>Left Text Inset</string>
-< > 		<string>上のテキストインセット</string>
+< > 		<string>テキスト右の余白</string>
 < < 		<string>Link Insets</string>
-< > 		<string>下のテキストインセット</string>
+< > 		<string>テキスト左の余白</string>
 > > 		<string>오른쪽:</string>
-< > 		<string>前方</string>
+< > 		<string>ベース位置</string>
 > > 		<string>오른쪽 텍스트 들여쓰기</string>
-< > 		<string>右のテキストインセット</string>
+< > 		<string>余白をリンク</string>
 < < 		<string>Scale To</string>
-< > 		<string>垂直方向のオフセット</string>
+< > 		<string>前方</string>
 > > 		<string>배율</string>
-< > 		<string>左のテキストインセット</string>
+< > 		<string>垂直方向のオフセット</string>
 < < 		<string>Vertical Offset</string>
 < > 		<string>水平方向のオフセット</string>
 > > 		<string>위쪽 텍스트 들여쓰기</string>
