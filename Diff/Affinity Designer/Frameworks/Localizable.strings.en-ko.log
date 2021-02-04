@@ -4,8 +4,6 @@
 > 	<string> [변경]</string>
 < 	<string>%1 |CLICK|+|TERTIARY| to preserve frame formatting.</string>
 > 	<string>%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.</string>
-< 	<string>%1 |CLICK|+|TERTIARY| to preserve path formatting.</string>
-> 	<string>%1 |CLICK|+|TERTIARY|해서 경로 포맷을 유지합니다.</string>
 < 	<string>%@ has been modified.</string>
 > 	<string>%@이(가) 변경되었습니다.</string>
 < 	<string>%@ has been modified.</string>
@@ -100,6 +98,8 @@
 > 	<string>추가</string>
 < 	<string>Add</string>
 > 	<string>추가</string>
+< 	<string>Add</string>
+> 	<string>추가</string>
 < 	<string>Adjustment</string>
 > 	<string>조정</string>
 < 	<string>Adjustment</string>
@@ -116,6 +116,8 @@
 > 	<string>조정</string>
 < 	<string>Adjustments</string>
 > 	<string>조정</string>
+< 	<string>Advanced</string>
+> 	<string>고급</string>
 < 	<string>Advanced</string>
 > 	<string>고급</string>
 < 	<string>Advanced</string>
@@ -184,6 +186,8 @@
 > 	<string>위쪽 정렬</string>
 < 	<string>Align Vertical Centres</string>
 > 	<string>세로 가운데 정렬</string>
+< 	<string>Align</string>
+> 	<string>정렬하기</string>
 < 	<string>Align</string>
 > 	<string>정렬하기</string>
 < 	<string>Align</string>
@@ -280,6 +284,8 @@
 > 	<string>적용</string>
 < 	<string>Apply</string>
 > 	<string>적용</string>
+< 	<string>Apply</string>
+> 	<string>적용</string>
 < 	<string>Apply to Selection</string>
 > 	<string>선택 항목에 적용</string>
 < 	<string>Arrange</string>
@@ -292,6 +298,8 @@
 > 	<string>순서</string>
 < 	<string>Arrange</string>
 > 	<string>순서</string>
+< 	<string>Arrange</string>
+> 	<string>순서</string>
 < 	<string>Arrow Tool</string>
 > 	<string>화살표 도구</string>
 < 	<string>Arrow Tool</string>
@@ -302,6 +310,8 @@
 > 	<string>아트보드 도구</string>
 < 	<string>Artboard Tool</string>
 > 	<string>아트보드 도구</string>
+< 	<string>Artboard</string>
+> 	<string>아트보드</string>
 < 	<string>Artboard</string>
 > 	<string>아트보드</string>
 < 	<string>Artboard</string>
@@ -414,7 +424,7 @@
 > 	<string>자동</string>
 < 	<string>Auto</string>
 > 	<string>자동</string>
-< 	<string>Automatic</string>
+< 	<string>Auto</string>
 > 	<string>자동</string>
 < 	<string>Automatic</string>
 > 	<string>자동</string>
@@ -424,6 +434,10 @@
 > 	<string>자동</string>
 < 	<string>Automatic</string>
 > 	<string>자동</string>
+< 	<string>Automatic</string>
+> 	<string>자동</string>
+< 	<string>Average</string>
+> 	<string>평균</string>
 < 	<string>Average</string>
 > 	<string>평균</string>
 < 	<string>Average</string>
@@ -456,6 +470,8 @@
 > 	<string>밸런스</string>
 < 	<string>Base</string>
 > 	<string>기본</string>
+< 	<string>Baseline</string>
+> 	<string>기준선</string>
 < 	<string>Baseline</string>
 > 	<string>기준선</string>
 < 	<string>Baseline</string>
@@ -580,10 +596,14 @@
 > 	<string>아래</string>
 < 	<string>Bottom</string>
 > 	<string>아래</string>
+< 	<string>Bottom</string>
+> 	<string>아래</string>
 < 	<string>Bottom:</string>
 > 	<string>아래쪽</string>
 < 	<string>Bottom:</string>
 > 	<string>아래쪽</string>
+< 	<string>Boxes</string>
+> 	<string>상자</string>
 < 	<string>Break Curve</string>
 > 	<string>곡선 자르기</string>
 < 	<string>Break Curve</string>
@@ -706,6 +726,12 @@
 > 	<string>취소</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
+< 	<string>Cancel</string>
+> 	<string>취소</string>
 < 	<string>Cannot Create Assets</string>
 > 	<string>자산을 생성할 수 없음</string>
 < 	<string>Cannot Create Document</string>
@@ -722,10 +748,14 @@
 > 	<string>공유할 수 없음</string>
 < 	<string>Cannot Tone Map</string>
 > 	<string>톤 매핑할 수 없음</string>
+< 	<string>Cap:</string>
+> 	<string>모자:</string>
 < 	<string>Centimetres</string>
 > 	<string>센티미터</string>
 < 	<string>Centimetres</string>
 > 	<string>센티미터</string>
+< 	<string>Centre</string>
+> 	<string>가운데</string>
 < 	<string>Centre</string>
 > 	<string>가운데</string>
 < 	<string>Centre</string>
@@ -780,6 +810,10 @@
 > 	<string>문자 스타일</string>
 < 	<string>Character Style</string>
 > 	<string>문자 스타일</string>
+< 	<string>Character</string>
+> 	<string>문자</string>
+< 	<string>Character</string>
+> 	<string>문자</string>
 < 	<string>Character</string>
 > 	<string>문자</string>
 < 	<string>Character</string>
@@ -908,6 +942,8 @@
 > 	<string>닫기</string>
 < 	<string>Close</string>
 > 	<string>닫기</string>
+< 	<string>Close</string>
+> 	<string>닫기</string>
 < 	<string>Close pie</string>
 > 	<string>파이 닫기</string>
 < 	<string>Close the document?</string>
@@ -946,6 +982,8 @@
 > 	<string>색상 선택기 도구</string>
 < 	<string>Colour Picker Tool</string>
 > 	<string>색상 선택기 도구</string>
+< 	<string>Colour</string>
+> 	<string>색상</string>
 < 	<string>Colour</string>
 > 	<string>색상</string>
 < 	<string>Colour</string>
@@ -1048,6 +1086,16 @@
 > 	<string>연속</string>
 < 	<string>Continuous</string>
 > 	<string>연속</string>
+< 	<string>Contour Tool</string>
+> 	<string>윤곽 도구</string>
+< 	<string>Contour Tool</string>
+> 	<string>윤곽 도구</string>
+< 	<string>Contour Tool</string>
+> 	<string>윤곽 도구</string>
+< 	<string>Contour</string>
+> 	<string>등고선</string>
+< 	<string>Contour</string>
+> 	<string>등고선</string>
 < 	<string>Contour</string>
 > 	<string>등고선</string>
 < 	<string>Contour</string>
@@ -1098,6 +1146,8 @@
 > 	<string>복사</string>
 < 	<string>Copyright</string>
 > 	<string>저작권</string>
+< 	<string>Copyright</string>
+> 	<string>저작권</string>
 < 	<string>Corner Tool</string>
 > 	<string>꼭짓점 도구</string>
 < 	<string>Corner Tool</string>
@@ -1118,6 +1168,8 @@
 > 	<string>문단 스타일 생성</string>
 < 	<string>Create Paragraph Style</string>
 > 	<string>문단 스타일 생성</string>
+< 	<string>Create Preset…</string>
+> 	<string>미리 설정 생성…</string>
 < 	<string>Create Slice</string>
 > 	<string>슬라이스 생성</string>
 < 	<string>Create</string>
@@ -1144,10 +1196,18 @@
 > 	<string>크롭 도구</string>
 < 	<string>Crop Tool</string>
 > 	<string>크롭 도구</string>
+< 	<string>Crop</string>
+> 	<string>크롭</string>
 < 	<string>Curve</string>
 > 	<string>곡선</string>
 < 	<string>Curve</string>
 > 	<string>곡선</string>
+< 	<string>Curve</string>
+> 	<string>곡선</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
+< 	<string>Curves</string>
+> 	<string>곡선</string>
 < 	<string>Curves</string>
 > 	<string>곡선</string>
 < 	<string>Curves</string>
@@ -1172,6 +1232,8 @@
 > 	<string>사용자화</string>
 < 	<string>Custom</string>
 > 	<string>사용자화</string>
+< 	<string>Customise Toolbar…</string>
+> 	<string>툴바 사용자화…</string>
 < 	<string>Cut</string>
 > 	<string>오려두기</string>
 < 	<string>Cut</string>
@@ -1184,6 +1246,8 @@
 > 	<string>다크</string>
 < 	<string>Dark</string>
 > 	<string>다크</string>
+< 	<string>Darken</string>
+> 	<string>어둡게</string>
 < 	<string>Darken</string>
 > 	<string>어둡게</string>
 < 	<string>Darken</string>
@@ -1198,6 +1262,16 @@
 > 	<string>줄표 선 스타일</string>
 < 	<string>Default OS</string>
 > 	<string>macOS 기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
+< 	<string>Default</string>
+> 	<string>기본값</string>
 < 	<string>Default</string>
 > 	<string>기본값</string>
 < 	<string>Default</string>
@@ -1248,6 +1322,14 @@
 > 	<string>미리 설정 지우기</string>
 < 	<string>Delete Preset</string>
 > 	<string>미리 설정 지우기</string>
+< 	<string>Delete Preset</string>
+> 	<string>미리 설정 지우기</string>
+< 	<string>Delete Preset</string>
+> 	<string>미리 설정 지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
+< 	<string>Delete</string>
+> 	<string>지우기</string>
 < 	<string>Delete</string>
 > 	<string>지우기</string>
 < 	<string>Delete</string>
@@ -1418,6 +1500,14 @@
 > 	<string>분할</string>
 < 	<string>Divide</string>
 > 	<string>분할</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
+< 	<string>Divide</string>
+> 	<string>분할</string>
 < 	<string>Document Setup…</string>
 > 	<string>문서 설정…</string>
 < 	<string>Document</string>
@@ -1448,6 +1538,14 @@
 > 	<string>저장하지 않음</string>
 < 	<string>Don't restore</string>
 > 	<string>복원하지 않음</string>
+< 	<string>Don't set blend mode</string>
+> 	<string>혼합 모드 설정하지 않음</string>
+< 	<string>Don't set wet edges</string>
+> 	<string>젖은 모서리 설정하지 않음</string>
+< 	<string>Done</string>
+> 	<string>완료</string>
+< 	<string>Done</string>
+> 	<string>완료</string>
 < 	<string>Done</string>
 > 	<string>완료</string>
 < 	<string>Donut Tool</string>
@@ -1476,6 +1574,8 @@
 > 	<string>복제</string>
 < 	<string>Duplicate</string>
 > 	<string>복제</string>
+< 	<string>Duplicate</string>
+> 	<string>복제</string>
 < 	<string>Dynamics</string>
 > 	<string>역동</string>
 < 	<string>Edge</string>
@@ -1484,8 +1584,14 @@
 > 	<string>모서리</string>
 < 	<string>Edge</string>
 > 	<string>모서리</string>
+< 	<string>Edge</string>
+> 	<string>모서리</string>
 < 	<string>Edit All Layers</string>
 > 	<string>모든 레이어 편집</string>
+< 	<string>Edit</string>
+> 	<string>편집</string>
+< 	<string>Edit</string>
+> 	<string>편집</string>
 < 	<string>Edit</string>
 > 	<string>편집</string>
 < 	<string>Edit</string>
@@ -1530,6 +1636,10 @@
 > 	<string>타원형</string>
 < 	<string>Em Dash</string>
 > 	<string>전각 줄표</string>
+< 	<string>Em Dash</string>
+> 	<string>전각 줄표</string>
+< 	<string>Em Space</string>
+> 	<string>전각 공백</string>
 < 	<string>Em Space</string>
 > 	<string>전각 공백</string>
 < 	<string>Emboss</string>
@@ -1550,6 +1660,10 @@
 > 	<string>강조</string>
 < 	<string>En Dash</string>
 > 	<string>반각 줄표</string>
+< 	<string>En Dash</string>
+> 	<string>반각 줄표</string>
+< 	<string>En Space</string>
+> 	<string>반각 공백</string>
 < 	<string>En Space</string>
 > 	<string>반각 공백</string>
 < 	<string>End angle:</string>
@@ -1676,6 +1790,12 @@
 > 	<string>피트</string>
 < 	<string>Feet</string>
 > 	<string>피트</string>
+< 	<string>Figure Dash</string>
+> 	<string>숫자 줄표</string>
+< 	<string>File</string>
+> 	<string>파일</string>
+< 	<string>File</string>
+> 	<string>파일</string>
 < 	<string>File</string>
 > 	<string>파일</string>
 < 	<string>File</string>
@@ -1712,6 +1832,8 @@
 > 	<string>칠</string>
 < 	<string>Fill</string>
 > 	<string>칠</string>
+< 	<string>Fill:</string>
+> 	<string>칠:</string>
 < 	<string>Fill:</string>
 > 	<string>칠:</string>
 < 	<string>Filters</string>
@@ -1760,6 +1882,10 @@
 > 	<string>서체</string>
 < 	<string>Font</string>
 > 	<string>서체</string>
+< 	<string>Font</string>
+> 	<string>서체</string>
+< 	<string>Font</string>
+> 	<string>서체</string>
 < 	<string>Force Pixel Alignment</string>
 > 	<string>강제 픽셀 정렬</string>
 < 	<string>Foreground</string>
@@ -1778,6 +1904,8 @@
 > 	<string>액자 텍스트 도구</string>
 < 	<string>Frame Text Tool</string>
 > 	<string>액자 텍스트 도구</string>
+< 	<string>Frame Text</string>
+> 	<string>액자 텍스트</string>
 < 	<string>Frame Text</string>
 > 	<string>액자 텍스트</string>
 < 	<string>Frame Text</string>
@@ -1848,6 +1976,8 @@
 > 	<string>광채</string>
 < 	<string>Glow</string>
 > 	<string>광채</string>
+< 	<string>Glow</string>
+> 	<string>광채</string>
 < 	<string>Glyph Browser</string>
 > 	<string>글리프 브라우저</string>
 < 	<string>Glyph Browser</string>
@@ -1902,6 +2032,10 @@
 > 	<string>그룹</string>
 < 	<string>Group</string>
 > 	<string>그룹</string>
+< 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Guides</string>
+> 	<string>안내선</string>
 < 	<string>Guides</string>
 > 	<string>안내선</string>
 < 	<string>Guides</string>
@@ -1914,6 +2048,8 @@
 > 	<string>HSL 채도</string>
 < 	<string>HSL Sliders</string>
 > 	<string>HSL 슬라이더</string>
+< 	<string>Hardness</string>
+> 	<string>굳기</string>
 < 	<string>Hardness</string>
 > 	<string>굳기</string>
 < 	<string>Hardness</string>
@@ -1992,6 +2128,10 @@
 > 	<string>가로</string>
 < 	<string>Horizontal</string>
 > 	<string>가로</string>
+< 	<string>Horizontal</string>
+> 	<string>가로</string>
+< 	<string>Hue</string>
+> 	<string>색채</string>
 < 	<string>Hue</string>
 > 	<string>색채</string>
 < 	<string>Hue</string>
@@ -2044,12 +2184,16 @@
 > 	<string>뒤로 삽입</string>
 < 	<string>Insert Behind</string>
 > 	<string>뒤로 삽입</string>
+< 	<string>Insert Filler Text</string>
+> 	<string>Lorem Ipsum</string>
 < 	<string>Insert Inside</string>
 > 	<string>안으로 삽입</string>
 < 	<string>Insert Inside</string>
 > 	<string>안으로 삽입</string>
 < 	<string>Insert Top</string>
 > 	<string>위로 삽입</string>
+< 	<string>Insert</string>
+> 	<string>삽입</string>
 < 	<string>Insert</string>
 > 	<string>삽입</string>
 < 	<string>Insert</string>
@@ -2156,6 +2300,8 @@
 > 	<string>언어</string>
 < 	<string>Language</string>
 > 	<string>언어</string>
+< 	<string>Language</string>
+> 	<string>언어</string>
 < 	<string>Large Icons</string>
 > 	<string>큰 아이콘</string>
 < 	<string>Large</string>
@@ -2186,6 +2332,12 @@
 > 	<string>구조</string>
 < 	<string>Layout</string>
 > 	<string>구조</string>
+< 	<string>Layout</string>
+> 	<string>구조</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
+< 	<string>Left</string>
+> 	<string>왼쪽</string>
 < 	<string>Left</string>
 > 	<string>왼쪽</string>
 < 	<string>Left</string>
@@ -2288,6 +2440,8 @@
 > 	<string>밝게</string>
 < 	<string>Lighten</string>
 > 	<string>밝게</string>
+< 	<string>Lighten</string>
+> 	<string>밝게</string>
 < 	<string>Lightness</string>
 > 	<string>밝기</string>
 < 	<string>Lightness</string>
@@ -2298,6 +2452,8 @@
 > 	<string>줄바꿈</string>
 < 	<string>Line Break</string>
 > 	<string>줄바꿈</string>
+< 	<string>Line Break</string>
+> 	<string>줄바꿈</string>
 < 	<string>Linear</string>
 > 	<string>선형</string>
 < 	<string>Linear</string>
@@ -2328,6 +2484,8 @@
 > 	<string>액화 페르소나</string>
 < 	<string>Liquify Persona</string>
 > 	<string>액화 페르소나</string>
+< 	<string>Liquify</string>
+> 	<string>액화</string>
 < 	<string>Liquify</string>
 > 	<string>액화</string>
 < 	<string>Liquify</string>
@@ -2378,6 +2536,12 @@
 > 	<string>여백</string>
 < 	<string>Margin</string>
 > 	<string>여백</string>
+< 	<string>Margin</string>
+> 	<string>여백</string>
+< 	<string>Margins</string>
+> 	<string>여백</string>
+< 	<string>Margins</string>
+> 	<string>여백</string>
 < 	<string>Margins</string>
 > 	<string>여백</string>
 < 	<string>Marquee</string>
@@ -2404,6 +2568,8 @@
 > 	<string>마스크</string>
 < 	<string>Mask</string>
 > 	<string>마스크</string>
+< 	<string>Maximum</string>
+> 	<string>최대</string>
 < 	<string>Maximum</string>
 > 	<string>최대</string>
 < 	<string>Maximum</string>
@@ -2496,10 +2662,20 @@
 > 	<string>거울</string>
 < 	<string>Mirror</string>
 > 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
+< 	<string>Mirror</string>
+> 	<string>거울</string>
 < 	<string>Miscellaneous</string>
 > 	<string>기타</string>
 < 	<string>Mitre Join</string>
 > 	<string>짜임 결합</string>
+< 	<string>Mitre:</string>
+> 	<string>미터:</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
+< 	<string>Mode</string>
+> 	<string>모드</string>
 < 	<string>Mode</string>
 > 	<string>모드</string>
 < 	<string>Mode</string>
@@ -2530,6 +2706,8 @@
 > 	<string>모드:</string>
 < 	<string>Mode:</string>
 > 	<string>모드:</string>
+< 	<string>Modified</string>
+> 	<string>변경</string>
 < 	<string>Modified</string>
 > 	<string>변경</string>
 < 	<string>Monochrome</string>
@@ -2583,6 +2761,8 @@
 < 	<string>Negate</string>
 > 	<string>부정</string>
 < 	<string>Negate</string>
+> 	<string>부정</string>
+< 	<string>Negation</string>
 > 	<string>부정</string>
 < 	<string>Negation</string>
 > 	<string>부정</string>
@@ -2666,6 +2846,12 @@
 > 	<string>아니오</string>
 < 	<string>No</string>
 > 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
+< 	<string>No</string>
+> 	<string>아니오</string>
 < 	<string>Node Tool</string>
 > 	<string>마디 도구</string>
 < 	<string>Node Tool</string>
@@ -2690,6 +2876,16 @@
 > 	<string>잡음</string>
 < 	<string>Noise</string>
 > 	<string>잡음</string>
+< 	<string>Noise</string>
+> 	<string>잡음</string>
+< 	<string>Non-Breaking Hyphen</string>
+> 	<string>줄 바꿈 없는 하이픈</string>
+< 	<string>Non-Breaking Hyphen</string>
+> 	<string>줄 바꿈 없는 하이픈</string>
+< 	<string>Non-Breaking Space</string>
+> 	<string>줄 바꿈 없는 공백</string>
+< 	<string>Non-Breaking Space</string>
+> 	<string>줄 바꿈 없는 공백</string>
 < 	<string>None</string>
 > 	<string>없음</string>
 < 	<string>None</string>
@@ -2770,6 +2966,24 @@
 > 	<string>없음</string>
 < 	<string>None</string>
 > 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>None</string>
+> 	<string>없음</string>
+< 	<string>Normal</string>
+> 	<string>정규</string>
+< 	<string>Normal</string>
+> 	<string>정규</string>
 < 	<string>Normal</string>
 > 	<string>정규</string>
 < 	<string>Normal</string>
@@ -2846,6 +3060,8 @@
 > 	<string>불투명도</string>
 < 	<string>Opacity</string>
 > 	<string>불투명도</string>
+< 	<string>Opacity</string>
+> 	<string>불투명도</string>
 < 	<string>Opacity:</string>
 > 	<string>불투명도:</string>
 < 	<string>Opacity:</string>
@@ -2863,15 +3079,15 @@
 < 	<string>Outer</string>
 > 	<string>외부</string>
 < 	<string>Outline</string>
-> 	<string>윤곽</string>
+> 	<string>외형</string>
 < 	<string>Outline</string>
-> 	<string>윤곽</string>
+> 	<string>외형</string>
 < 	<string>Outline</string>
-> 	<string>윤곽</string>
+> 	<string>외형</string>
 < 	<string>Outline</string>
-> 	<string>윤곽</string>
+> 	<string>외형</string>
 < 	<string>Outline view mode</string>
-> 	<string>윤곽 뷰 모드</string>
+> 	<string>외형 뷰 모드</string>
 < 	<string>Output Angle</string>
 > 	<string>출력 각도</string>
 < 	<string>Output</string>
@@ -2904,6 +3120,8 @@
 > 	<string>오버레이 페인트 도구</string>
 < 	<string>Overlay Paint Tool</string>
 > 	<string>오버레이 페인트 도구</string>
+< 	<string>Overlay</string>
+> 	<string>오버레이</string>
 < 	<string>Overlay</string>
 > 	<string>오버레이</string>
 < 	<string>Overlay</string>
@@ -2944,6 +3162,10 @@
 > 	<string>파노라마</string>
 < 	<string>Paragraph Leading</string>
 > 	<string>줄 간격</string>
+< 	<string>Paragraph</string>
+> 	<string>문단</string>
+< 	<string>Paragraph</string>
+> 	<string>문단</string>
 < 	<string>Paragraph</string>
 > 	<string>문단</string>
 < 	<string>Paragraph</string>
@@ -3056,6 +3278,8 @@
 > 	<string>픽셀</string>
 < 	<string>Pixel</string>
 > 	<string>픽셀</string>
+< 	<string>Pixel</string>
+> 	<string>픽셀</string>
 < 	<string>Pixel view mode</string>
 > 	<string>픽셀 뷰 모드</string>
 < 	<string>Pixels</string>
@@ -3100,12 +3324,16 @@
 > 	<string>세로 방향</string>
 < 	<string>Portrait</string>
 > 	<string>세로 방향</string>
+< 	<string>Portrait</string>
+> 	<string>세로 방향</string>
 < 	<string>Posterise</string>
 > 	<string>포스터화</string>
 < 	<string>Posterise</string>
 > 	<string>포스터화</string>
 < 	<string>Posterise</string>
 > 	<string>포스터화</string>
+< 	<string>Preferences</string>
+> 	<string>환경설정</string>
 < 	<string>Preferences…</string>
 > 	<string>환경설정…</string>
 < 	<string>Preset name:</string>
@@ -3124,6 +3352,8 @@
 > 	<string>미리 설정</string>
 < 	<string>Presets</string>
 > 	<string>미리 설정</string>
+< 	<string>Presets</string>
+> 	<string>미리 설정</string>
 < 	<string>Pressure</string>
 > 	<string>압력</string>
 < 	<string>Pressure</string>
@@ -3148,6 +3378,20 @@
 > 	<string>프로파일</string>
 < 	<string>Profile</string>
 > 	<string>프로파일</string>
+< 	<string>Projections</string>
+> 	<string>투영</string>
+< 	<string>Projections</string>
+> 	<string>투영</string>
+< 	<string>Proportional</string>
+> 	<string>비례수(량)</string>
+< 	<string>Proportional</string>
+> 	<string>비례수(량)</string>
+< 	<string>Proportional</string>
+> 	<string>비례수(량)</string>
+< 	<string>Proportional</string>
+> 	<string>비례수(량)</string>
+< 	<string>Proportional</string>
+> 	<string>비례수(량)</string>
 < 	<string>Protect Alpha</string>
 > 	<string>알파 보호</string>
 < 	<string>Protect Alpha</string>
@@ -3208,6 +3452,10 @@
 > 	<string>반지름</string>
 < 	<string>Radius</string>
 > 	<string>반지름</string>
+< 	<string>Radius</string>
+> 	<string>반지름</string>
+< 	<string>Radius:</string>
+> 	<string>반지름:</string>
 < 	<string>Radius:</string>
 > 	<string>반지름:</string>
 < 	<string>Radius:</string>
@@ -3292,6 +3540,8 @@
 > 	<string>반사</string>
 < 	<string>Reflect</string>
 > 	<string>반사</string>
+< 	<string>Reflect</string>
+> 	<string>반사</string>
 < 	<string>Remove All Guides</string>
 > 	<string>모든 안내선 지우기</string>
 < 	<string>Remove Profile</string>
@@ -3318,6 +3568,8 @@
 > 	<string>이름 변경</string>
 < 	<string>Rename</string>
 > 	<string>이름 변경</string>
+< 	<string>Rename</string>
+> 	<string>이름 변경</string>
 < 	<string>Rename preset</string>
 > 	<string>미리 설정 이름 변경</string>
 < 	<string>Rename...</string>
@@ -3334,16 +3586,30 @@
 > 	<string>반복</string>
 < 	<string>Repeat</string>
 > 	<string>반복</string>
+< 	<string>Repeat</string>
+> 	<string>반복</string>
 < 	<string>Reselect</string>
 > 	<string>다시 선택</string>
 < 	<string>Reselect</string>
 > 	<string>다시 선택</string>
 < 	<string>Reselect</string>
 > 	<string>다시 선택</string>
+< 	<string>Reset Brushes</string>
+> 	<string>브러시 재설정</string>
+< 	<string>Reset Fills</string>
+> 	<string>칠 재설정</string>
 < 	<string>Reset Mesh</string>
 > 	<string>그물 재설정</string>
 < 	<string>Reset Mesh</string>
 > 	<string>그물 재설정</string>
+< 	<string>Reset</string>
+> 	<string>재설정</string>
+< 	<string>Reset</string>
+> 	<string>재설정</string>
+< 	<string>Reset</string>
+> 	<string>재설정</string>
+< 	<string>Reset</string>
+> 	<string>재설정</string>
 < 	<string>Reset</string>
 > 	<string>재설정</string>
 < 	<string>Reset</string>
@@ -3384,6 +3650,10 @@
 > 	<string>되돌리기</string>
 < 	<string>Revert defaults</string>
 > 	<string>기본값 되돌리기</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
+< 	<string>Right</string>
+> 	<string>오른쪽</string>
 < 	<string>Right</string>
 > 	<string>오른쪽</string>
 < 	<string>Right</string>
@@ -3478,6 +3748,8 @@
 > 	<string>회전</string>
 < 	<string>Rotation</string>
 > 	<string>회전</string>
+< 	<string>Rotation</string>
+> 	<string>회전</string>
 < 	<string>Rotation:</string>
 > 	<string>회전:</string>
 < 	<string>Rotation:</string>
@@ -3532,6 +3804,10 @@
 > 	<string>채도</string>
 < 	<string>Saturation</string>
 > 	<string>채도</string>
+< 	<string>Saturation</string>
+> 	<string>채도</string>
+< 	<string>Save As…</string>
+> 	<string>다른 이름으로 저장…</string>
 < 	<string>Save Mesh</string>
 > 	<string>그물 저장</string>
 < 	<string>Save Mesh</string>
@@ -3558,6 +3834,8 @@
 > 	<string>문서 기본값을 저장</string>
 < 	<string>Saving TIFF</string>
 > 	<string>TIFF 저장중</string>
+< 	<string>Scale</string>
+> 	<string>배율</string>
 < 	<string>Scale</string>
 > 	<string>배율</string>
 < 	<string>Scale</string>
@@ -3612,6 +3890,10 @@
 > 	<string>전체 선택</string>
 < 	<string>Select Transparency Range</string>
 > 	<string>투명 범위 선택</string>
+< 	<string>Select</string>
+> 	<string>선택</string>
+< 	<string>Select</string>
+> 	<string>선택</string>
 < 	<string>Select</string>
 > 	<string>선택</string>
 < 	<string>Select</string>
@@ -3700,6 +3982,8 @@
 > 	<string>기울임</string>
 < 	<string>Shear</string>
 > 	<string>기울임</string>
+< 	<string>Shear</string>
+> 	<string>기울임</string>
 < 	<string>Show All</string>
 > 	<string>모두 보기</string>
 < 	<string>Show All</string>
@@ -3728,6 +4012,12 @@
 > 	<string>샘플 보기</string>
 < 	<string>Show</string>
 > 	<string>보기</string>
+< 	<string>Show</string>
+> 	<string>보기</string>
+< 	<string>Show</string>
+> 	<string>보기</string>
+< 	<string>Show</string>
+> 	<string>보기</string>
 < 	<string>Single Strikethrough</string>
 > 	<string>단일 취소선</string>
 < 	<string>Single Underline</string>
@@ -3748,6 +4038,8 @@
 > 	<string>크기</string>
 < 	<string>Size</string>
 > 	<string>크기</string>
+< 	<string>Size</string>
+> 	<string>크기</string>
 < 	<string>Size:</string>
 > 	<string>크기:</string>
 < 	<string>Size:</string>
@@ -3774,6 +4066,8 @@
 > 	<string>슬라이스</string>
 < 	<string>Slices</string>
 > 	<string>슬라이스</string>
+< 	<string>Sliders</string>
+> 	<string>슬라이더</string>
 < 	<string>Small Caps</string>
 > 	<string>작은 대문자</string>
 < 	<string>Small Caps</string>
@@ -3834,6 +4128,8 @@
 > 	<string>스냅</string>
 < 	<string>Soft Hyphen</string>
 > 	<string>하이픈</string>
+< 	<string>Soft Hyphen</string>
+> 	<string>하이픈</string>
 < 	<string>Soft Proof</string>
 > 	<string>미리보기</string>
 < 	<string>Soft Proof</string>
@@ -3864,6 +4160,14 @@
 > 	<string>공백</string>
 < 	<string>Space</string>
 > 	<string>공백</string>
+< 	<string>Space</string>
+> 	<string>공백</string>
+< 	<string>Space</string>
+> 	<string>공백</string>
+< 	<string>Spacing</string>
+> 	<string>간격</string>
+< 	<string>Spacing</string>
+> 	<string>간격</string>
 < 	<string>Spacing</string>
 > 	<string>간격</string>
 < 	<string>Spacing</string>
@@ -3876,6 +4180,8 @@
 > 	<string>간격</string>
 < 	<string>Speed</string>
 > 	<string>빠르기</string>
+< 	<string>Spelling</string>
+> 	<string>철자</string>
 < 	<string>Spelling</string>
 > 	<string>철자</string>
 < 	<string>Split Toning</string>
@@ -3896,6 +4202,10 @@
 > 	<string>스프레드 설정…</string>
 < 	<string>Square Cap</string>
 > 	<string>사각 모자</string>
+< 	<string>Square</string>
+> 	<string>사각형</string>
+< 	<string>Square</string>
+> 	<string>사각형</string>
 < 	<string>Square</string>
 > 	<string>사각형</string>
 < 	<string>Square</string>
@@ -3944,6 +4254,8 @@
 > 	<string>선</string>
 < 	<string>Stroke</string>
 > 	<string>선</string>
+< 	<string>Stroke</string>
+> 	<string>선</string>
 < 	<string>Stroke:</string>
 > 	<string>선:</string>
 < 	<string>Strong</string>
@@ -3960,10 +4272,14 @@
 > 	<string>스타일</string>
 < 	<string>Style</string>
 > 	<string>스타일</string>
-< 	<string>Styles</string>
+< 	<string>Style</string>
 > 	<string>스타일</string>
 < 	<string>Styles</string>
 > 	<string>스타일</string>
+< 	<string>Styles</string>
+> 	<string>스타일</string>
+< 	<string>Sub Brushes</string>
+> 	<string>보조 브러시</string>
 < 	<string>Subscript</string>
 > 	<string>아랫첨자</string>
 < 	<string>Subscript</string>
@@ -3976,6 +4292,8 @@
 > 	<string>아랫첨자</string>
 < 	<string>Subscript</string>
 > 	<string>아랫첨자</string>
+< 	<string>Subscript</string>
+> 	<string>아랫첨자</string>
 < 	<string>Subtract</string>
 > 	<string>제거</string>
 < 	<string>Subtract</string>
@@ -4014,6 +4332,12 @@
 > 	<string>제거</string>
 < 	<string>Subtract</string>
 > 	<string>제거</string>
+< 	<string>Subtract</string>
+> 	<string>제거</string>
+< 	<string>Summary</string>
+> 	<string>요약</string>
+< 	<string>Superscript</string>
+> 	<string>윗첨자</string>
 < 	<string>Superscript</string>
 > 	<string>윗첨자</string>
 < 	<string>Superscript</string>
@@ -4044,6 +4368,10 @@
 > 	<string>상징</string>
 < 	<string>Symbols</string>
 > 	<string>상징</string>
+< 	<string>Symbols</string>
+> 	<string>상징</string>
+< 	<string>Symbols</string>
+> 	<string>상징</string>
 < 	<string>Symmetry</string>
 > 	<string>대칭</string>
 < 	<string>Symmetry</string>
@@ -4070,6 +4398,10 @@
 > 	<string>선택 항목에서 기본값 동기화</string>
 < 	<string>Synchronise from Selection</string>
 > 	<string>선택 항목에서 기본값 동기화</string>
+< 	<string>Tab</string>
+> 	<string>탭</string>
+< 	<string>Tab</string>
+> 	<string>탭</string>
 < 	<string>Tab</string>
 > 	<string>탭</string>
 < 	<string>Tab</string>
@@ -4160,6 +4492,8 @@
 > 	<string>틴트</string>
 < 	<string>Tint</string>
 > 	<string>틴트</string>
+< 	<string>Tint</string>
+> 	<string>틴트</string>
 < 	<string>Tolerance</string>
 > 	<string>허용량</string>
 < 	<string>Tolerance</string>
@@ -4202,6 +4536,8 @@
 > 	<string>도구</string>
 < 	<string>Tools</string>
 > 	<string>도구</string>
+< 	<string>Top</string>
+> 	<string>위쪽</string>
 < 	<string>Top</string>
 > 	<string>위쪽</string>
 < 	<string>Top</string>
@@ -4288,6 +4624,8 @@
 > 	<string>타이포그래피</string>
 < 	<string>Typography</string>
 > 	<string>타이포그래피</string>
+< 	<string>Typography</string>
+> 	<string>타이포그래피</string>
 < 	<string>Unable to import style. Incompatible file.</string>
 > 	<string>스타일을 들여올 수 없습니다. 호환되지 않는 파일입니다.</string>
 < 	<string>Unable to import style.</string>
@@ -4348,6 +4686,8 @@
 > 	<string>이름 없음</string>
 < 	<string>Untitled</string>
 > 	<string>이름 없음</string>
+< 	<string>Untitled</string>
+> 	<string>이름 없음</string>
 < 	<string>Update "%@"</string>
 > 	<string>"%@"를 갱신</string>
 < 	<string>Update Character Style</string>
@@ -4376,10 +4716,8 @@
 > 	<string>속도</string>
 < 	<string>Version</string>
 > 	<string>버전</string>
-< 	<string>Vertical Alignment</string>
-> 	<string>세로 정렬</string>
-< 	<string>Vertical Alignment</string>
-> 	<string>세로 정렬</string>
+< 	<string>Vertical</string>
+> 	<string>세로</string>
 < 	<string>Vertical</string>
 > 	<string>세로</string>
 < 	<string>Vertical</string>
@@ -4438,6 +4776,10 @@
 > 	<string>젖은 모서리</string>
 < 	<string>Wet Edges</string>
 > 	<string>젖은 모서리</string>
+< 	<string>Wet Edges</string>
+> 	<string>젖은 모서리</string>
+< 	<string>Wheel</string>
+> 	<string>휠</string>
 < 	<string>White Balance</string>
 > 	<string>화이트 밸런스</string>
 < 	<string>White Balance</string>
@@ -4556,8 +4898,20 @@
 > 	<string>예</string>
 < 	<string>Yes</string>
 > 	<string>예</string>
+< 	<string>Yes</string>
+> 	<string>예</string>
+< 	<string>Yes</string>
+> 	<string>예</string>
+< 	<string>Yes</string>
+> 	<string>예</string>
 < 	<string>Zero Width Space</string>
 > 	<string>폭 없는 공백</string>
+< 	<string>Zero Width Space</string>
+> 	<string>폭 없는 공백</string>
+< 	<string>Zoom In</string>
+> 	<string>확대</string>
+< 	<string>Zoom Out</string>
+> 	<string>축소</string>
 < 	<string>Zoom Tool</string>
 > 	<string>맞추기 도구</string>
 < 	<string>Zoom</string>
@@ -4574,10 +4928,14 @@
 > 	<string>맞추기</string>
 < 	<string>Zoom to Fit</string>
 > 	<string>화면 크기에 맞추기</string>
+< 	<string>Zoom to Fit</string>
+> 	<string>화면 크기에 맞추기</string>
 < 	<string>Zoom to Selection</string>
 > 	<string>선택 항목에 맞추기</string>
 < 	<string>[No Style]</string>
 > 	<string>[스타일 없음]</string>
+< 	<string>[No change]</string>
+> 	<string>[변화 없음]</string>
 < 	<string>[No change]</string>
 > 	<string>[변화 없음]</string>
 < 	<string>[No change]</string>
@@ -4604,6 +4962,8 @@
 > 	<string>줄표</string>
 < 	<string>kB</string>
 > 	<string>KB</string>
+< 	<string>n/a</string>
+> 	<string>없음</string>
 < 	<string>|CLICK| to set the destination.</string>
 > 	<string>|CLICK|해서 목표를 설정합니다.</string>
 < 	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>
