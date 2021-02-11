@@ -1,6 +1,7 @@
-# Affinity Designer 1.9.0
-## Menu (13)
-## Frameworks (23/334)
+# 완료된 항목 (Ver. 1.9.0)
+## Affinity Designer
+### Menu (13)
+### Frameworks (23/334)
  1. AutoCorrectRulesTableView
  1. BaselineGridVisibiityViewController
  1. BaselineGridVisibilityViewController
@@ -24,9 +25,9 @@
  1. ?
  1. ?
  1. ?
-# Affinity Photo 1.9.0
-## Menu (?)
-## Frameworks (?)
-# Affinity Publisher 1.9.0
-## Menu (16)
-## Frameworks (334)
+## Affinity Photo
+### Menu (?)
+### Frameworks (?)
+## Affinity Publisher
+### Menu (16)
+### Frameworks (334)
