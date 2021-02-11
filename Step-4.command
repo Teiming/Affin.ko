@@ -47,9 +47,4 @@ do
   echo " (번역 종료)"
 done
 # 오류체크
-if [[ ${Frameworks} -eq 2 ]]; then
-  sudo rm "${KORPATH}"/LayerPage.nib
-  sudo rm "${KORPATH}"/ParagraphPage.nib
-  sudo rm "${KORPATH}"/Preferences.nib
-  sudo rm "${KORPATH}"/UserStatusView.nib
-fi
+~/Affin.ko/Error.command

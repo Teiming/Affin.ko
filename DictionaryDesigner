@@ -148,6 +148,7 @@ s/g>Black 75%</g>검정 75%</
 s/g>Black 80%</g>검정 80%</
 s/g>Black 85%</g>검정 85%</
 s/g>Black 90%</g>검정 90%</
+s/g>Artboards</g>아트보드</
 s/g>Black 95%</g>검정 95%</
 s/g>Black to transparent</g>검정에서 투명</
 s/g>Black to white</g>검정에서 하양</
@@ -155,6 +156,7 @@ s/g>Black</g>검정</
 s/g>Bleed:</g>도련:</
 s/g>Bleed</g>도련</
 s/g>Blend Mode:</g>혼합 모드:</
+s/g>Blend Mode</g>혼합 모드</
 s/g>Blend Options</g>혼합 설정</
 s/g>Blend mode:</g>혼합 모드:</
 s/g>Blend</g>혼합</
@@ -532,6 +534,10 @@ s/g>Guides Manager…</g>안내선 관리자…</
 s/g>Guides</g>안내선</
 s/g>Gutter:</g>여백:</
 s/g>HSL Saturation</g>HSL 채도</
+s/g>Add (Compound)</g>추가 (결합)</
+s/g>Subtract (Compound)</g>제거 (결합)</
+s/g>Xor (Compound)</g>배타 (결합)</
+s/g>Intersect (Compound)</g>교차 (결합)</
 s/g>HSL Sliders</g>HSL 슬라이더</
 s/g>Hangul</g>한글</
 s/g>Hardness:</g>굳기:</
@@ -540,6 +546,8 @@ s/g>Head Offset:</g>머리 편차:</
 s/g>Head Offset</g>머리 편차</
 s/g>Heart Tool</g>하트 도구</
 s/g>Heart</g>하트</
+s/g>Art Text</g>예술 텍스트</
+s/g>Path Text</g>경로 텍스트</
 s/g>Height</g>높이</
 s/g>Help</g>도움말</
 s/g>Hide All Text</g>모든 텍스트 숨기기</
@@ -658,8 +666,8 @@ s/g>Lens Profile</g>렌즈 프로파일</
 s/g>Lens</g>렌즈</
 s/g>Level:</g>레벨:</
 s/g>Levels</g>레벨</
-s/g>Library Persona</g>라이브러리 페르소나</
-s/g>Library</g>라이브러리</
+s/g>Library Persona</g>보관함 페르소나</
+s/g>Library</g>보관함</
 s/g>Ligatures</g>합자</
 s/g>Light source:</g>광원:</
 s/g>Light</g>라이트</
@@ -775,7 +783,7 @@ s/g>New Square Brush</g>신규 사각형 브러시</
 s/g>New Textured Image Brush</g>신규 질감 이미지 브러시</
 s/g>New View</g>신규 뷰</
 s/g>New layer</g>신규 레이어</
-s/g>New...</g>신규...</
+s/g>New…</g>신규…</
 s/g>New</g>신규</
 s/g>News</g>뉴스</
 s/g>No Camera Data</g>카메라 데이터 없음</

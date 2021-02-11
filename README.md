@@ -25,7 +25,7 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
   * [Affinity Photo Beta](https://affin.co/photo17beta)
   * [Affinity Publisher Beta]() -->
 ## Step 1. 복제하기
-Step-1.command를 실행하여 Affin.ko을 당신의 Mac으로 복제합니다.
+``Step-1.command``를 실행하여 Affin.ko을 당신의 Mac으로 복제합니다.
 > git을 처음 이용하시는 경우, 설치부터 해야합니다. [Xcode](https://itunes.apple.com/app/xcode/id497799835)를 권장합니다. Xcode의 대안으로 [git-scm.com](https://git-scm.com)을 이용하셔도 됩니다.
 
 ```sh
@@ -49,9 +49,7 @@ sudo chown ${USERNAME} /Applications/Affinity\ Designer.app/Contents/Frameworks/
 ```
 이 과정이 끝나면, Affinity 설정에서 한국어를 선택할 수 있습니다.
 ## Step 4. 번역하기
-``Step-4.command``를 실행합니다.
-> 원본 영어 파일을 한국어 파일로 번역합니다. 번역된 내용이 늘어나면 보다 긴 시간이 소요됩니다.
-
+``Step-4.command``를 실행합니다. 원본 영어 파일을 한국어 파일로 번역합니다. 번역된 내용이 늘어나면 보다 긴 시간이 소요됩니다.
 ### Check Update
 git 저장소에서 최신 번역 자료를 가져옵니다. 이미 최신이라면 다음 메시지를 출력합니다.
 ```sh
@@ -80,10 +78,4 @@ Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않�
 ```sh
 sudo rm /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
 sudo rm /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
-```
-* 내 계정을 확인할 수 없음.
-  * 해당 번역 파일을 제거하면 해결됩니다.
-```sh
-sudo rm /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/UserStatusView.nib
-sudo rm /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/UserStatusView.nib
 ```

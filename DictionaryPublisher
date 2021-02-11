@@ -37,8 +37,13 @@ s/g>Add System Palette</g>시스템 팔레트 추가</
 s/g>Add brush Overlay</g>브러시 오버레이 추가</
 s/g>Add for constraining</g>규제 대상에 추가</
 s/g>Add for snapping</g>스내핑 대상에 추가</
+s/g>New…</g>신규…</
 s/g>Add to Swatches…</g>견본에 추가…</
 s/g>Add</g>추가</
+s/g>Add (Compound)</g>추가 (결합)</
+s/g>Subtract (Compound)</g>제거 (결합)</
+s/g>Xor (Compound)</g>배타 (결합)</
+s/g>Intersect (Compound)</g>교차 (결합)</
 s/g>Adjustment brush</g>조정 브러시</
 s/g>Adjustment</g>조정</
 s/g>Adjustments</g>조정</
@@ -62,6 +67,7 @@ s/g>Align Stroke to Outside</g>선을 바깥쪽에 정렬</
 s/g>Align Top Edges</g>위쪽 정렬</
 s/g>Align Top</g>위쪽 정렬</
 s/g>Align Vertical Centres</g>세로 가운데 정렬</
+s/g>Blend Mode</g>혼합 모드</
 s/g>Align to:</g>정렬 대상:</
 s/g>Align:</g>정렬:</
 s/g>Align</g>정렬하기</
@@ -89,12 +95,15 @@ s/g>Apple Colour Picker...</g>Apple 색상 선택기...</
 s/g>Application is about to close.</g>응용프로그램을 닫습니다.</
 s/g>Apply to Selection</g>선택 항목에 적용</
 s/g>Apply</g>적용</
+s/g>Art Text</g>예술 텍스트</
+s/g>Path Text</g>경로 텍스트</
 s/g>Area:</g>영역:</
 s/g>Arrange</g>순서</
 s/g>Arrow Tool</g>화살표 도구</
 s/g>Artboard Tool</g>아트보드 도구</
 s/g>Artboard:</g>아트보드:</
 s/g>Artboard</g>아트보드</
+s/g>Artboards</g>아트보드</
 s/g>Artistic Text Tool</g>예술 텍스트 도구</
 s/g>As Application Palette</g>응용프로그램 팔레트로</
 s/g>As Document Palette</g>문서 팔레트로</
@@ -657,8 +666,8 @@ s/g>Lens Profile</g>렌즈 프로파일</
 s/g>Lens</g>렌즈</
 s/g>Level:</g>레벨:</
 s/g>Levels</g>레벨</
-s/g>Library Persona</g>라이브러리 페르소나</
-s/g>Library</g>라이브러리</
+s/g>Library Persona</g>보관함 페르소나</
+s/g>Library</g>보관함</
 s/g>Ligatures</g>합자</
 s/g>Light source:</g>광원:</
 s/g>Light</g>라이트</
@@ -774,7 +783,6 @@ s/g>New Square Brush</g>신규 사각형 브러시</
 s/g>New Textured Image Brush</g>신규 질감 이미지 브러시</
 s/g>New View</g>신규 뷰</
 s/g>New layer</g>신규 레이어</
-s/g>New...</g>신규...</
 s/g>New</g>신규</
 s/g>News</g>뉴스</
 s/g>No Camera Data</g>카메라 데이터 없음</
