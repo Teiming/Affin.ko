@@ -48,6 +48,8 @@
 > 	<string>미리 설정 추가</string>
 < 	<string>Add Preset</string>
 > 	<string>미리 설정 추가</string>
+< 	<string>Add Preset…</string>
+> 	<string>미리 설정 추가…</string>
 < 	<string>Add</string>
 > 	<string>추가</string>
 < 	<string>Add</string>
@@ -304,6 +306,12 @@
 > 	<string>화살표 도구</string>
 < 	<string>Arrow Tool</string>
 > 	<string>화살표 도구</string>
+< 	<string>Art Text</string>
+> 	<string>예술 텍스트</string>
+< 	<string>Art Text</string>
+> 	<string>예술 텍스트</string>
+< 	<string>Art Text</string>
+> 	<string>예술 텍스트</string>
 < 	<string>Artboard Tool</string>
 > 	<string>아트보드 도구</string>
 < 	<string>Artboard Tool</string>
@@ -320,6 +328,14 @@
 > 	<string>아트보드</string>
 < 	<string>Artboard:</string>
 > 	<string>아트보드:</string>
+< 	<string>Artboards</string>
+> 	<string>아트보드</string>
+< 	<string>Artboards</string>
+> 	<string>아트보드</string>
+< 	<string>Artboards</string>
+> 	<string>아트보드</string>
+< 	<string>Artboards</string>
+> 	<string>아트보드</string>
 < 	<string>Artistic Text Tool</string>
 > 	<string>예술 텍스트 도구</string>
 < 	<string>Artistic Text Tool</string>
@@ -522,6 +538,32 @@
 > 	<string>도련</string>
 < 	<string>Bleed</string>
 > 	<string>도련</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
+< 	<string>Blend Mode</string>
+> 	<string>혼합 모드</string>
 < 	<string>Blend Mode:</string>
 > 	<string>혼합 모드:</string>
 < 	<string>Blend Mode:</string>
@@ -663,7 +705,7 @@
 < 	<string>Brushes</string>
 > 	<string>브러시</string>
 < 	<string>Butt Cap</string>
-> 	<string>뭉툭한 모자</string>
+> 	<string>뭉툭한 단면</string>
 < 	<string>Callout Ellipse Tool</string>
 > 	<string>외치기 타원 도구</string>
 < 	<string>Callout Ellipse Tool</string>
@@ -749,7 +791,7 @@
 < 	<string>Cannot Tone Map</string>
 > 	<string>톤 매핑할 수 없음</string>
 < 	<string>Cap:</string>
-> 	<string>모자:</string>
+> 	<string>단면:</string>
 < 	<string>Centimetres</string>
 > 	<string>센티미터</string>
 < 	<string>Centimetres</string>
@@ -948,6 +990,8 @@
 > 	<string>파이 닫기</string>
 < 	<string>Close the document?</string>
 > 	<string>문서를 닫겠습니까?</string>
+< 	<string>Closed Curves</string>
+> 	<string>닫힌 곡선</string>
 < 	<string>Cloud Tool</string>
 > 	<string>구름 도구</string>
 < 	<string>Cloud Tool</string>
@@ -1067,19 +1111,21 @@
 < 	<string>Conical</string>
 > 	<string>원뿔형</string>
 < 	<string>Constrain</string>
-> 	<string>규제</string>
+> 	<string>제약</string>
 < 	<string>Constrain</string>
-> 	<string>규제</string>
+> 	<string>제약</string>
 < 	<string>Constrain</string>
-> 	<string>규제</string>
+> 	<string>제약</string>
 < 	<string>Constrain</string>
-> 	<string>규제</string>
+> 	<string>제약</string>
 < 	<string>Constrain</string>
-> 	<string>규제</string>
+> 	<string>제약</string>
+< 	<string>Constrained Objects</string>
+> 	<string>제약받는 오브젝트</string>
 < 	<string>Constraints</string>
-> 	<string>규제</string>
+> 	<string>제약</string>
 < 	<string>Constraints</string>
-> 	<string>규제</string>
+> 	<string>제약</string>
 < 	<string>Context:</string>
 > 	<string>상황:</string>
 < 	<string>Continuous</string>
@@ -1160,6 +1206,8 @@
 > 	<string>꼭짓점:</string>
 < 	<string>Cosine</string>
 > 	<string>코사인</string>
+< 	<string>Create Artboard</string>
+> 	<string>아트보드 생성</string>
 < 	<string>Create Character Style</string>
 > 	<string>문자 스타일 생성</string>
 < 	<string>Create Character Style</string>
@@ -1260,6 +1308,8 @@
 > 	<string>어둡게</string>
 < 	<string>Dash Line Style</string>
 > 	<string>줄표 선 스타일</string>
+< 	<string>Dashed Objects</string>
+> 	<string>점선 오브젝트</string>
 < 	<string>Default OS</string>
 > 	<string>macOS 기본값</string>
 < 	<string>Default</string>
@@ -1326,6 +1376,8 @@
 > 	<string>미리 설정 지우기</string>
 < 	<string>Delete Preset</string>
 > 	<string>미리 설정 지우기</string>
+< 	<string>Delete Unused Styles</string>
+> 	<string>미사용된 스타일 지우기</string>
 < 	<string>Delete</string>
 > 	<string>지우기</string>
 < 	<string>Delete</string>
@@ -1403,7 +1455,7 @@
 < 	<string>Deselect</string>
 > 	<string>선택 해제</string>
 < 	<string>Detach and Delete All Styles</string>
-> 	<string>모든 스타일 벗기고 삭제</string>
+> 	<string>모든 스타일 벗기고 지우기</string>
 < 	<string>Details</string>
 > 	<string>세부사항</string>
 < 	<string>Details</string>
@@ -1642,6 +1694,8 @@
 > 	<string>전각 공백</string>
 < 	<string>Em Space</string>
 > 	<string>전각 공백</string>
+< 	<string>Embedded Documents</string>
+> 	<string>삽입된 문서</string>
 < 	<string>Emboss</string>
 > 	<string>양각</string>
 < 	<string>Emboss</string>
@@ -1774,6 +1828,10 @@
 > 	<string>노출</string>
 < 	<string>Exposure:</string>
 > 	<string>노출:</string>
+< 	<string>Factor</string>
+> 	<string>요소</string>
+< 	<string>Factor</string>
+> 	<string>요소</string>
 < 	<string>Factory Reset</string>
 > 	<string>기본값 재설정</string>
 < 	<string>Failed to open TIFF file</string>
@@ -1802,6 +1860,10 @@
 > 	<string>파일</string>
 < 	<string>File</string>
 > 	<string>파일</string>
+< 	<string>Fill &amp; Stroke Colour</string>
+> 	<string>칠 및 선 색상</string>
+< 	<string>Fill Colour</string>
+> 	<string>칠 색상</string>
 < 	<string>Fill Mode</string>
 > 	<string>칠 모드</string>
 < 	<string>Fill Tool</string>
@@ -1836,6 +1898,8 @@
 > 	<string>칠:</string>
 < 	<string>Fill:</string>
 > 	<string>칠:</string>
+< 	<string>Filled Objects</string>
+> 	<string>칠이 있는 오브젝트</string>
 < 	<string>Filters</string>
 > 	<string>필터</string>
 < 	<string>Filters</string>
@@ -2014,6 +2078,18 @@
 > 	<string>초록</string>
 < 	<string>Green</string>
 > 	<string>초록</string>
+< 	<string>Grey</string>
+> 	<string>회색</string>
+< 	<string>Grey</string>
+> 	<string>회색</string>
+< 	<string>Grey</string>
+> 	<string>회색</string>
+< 	<string>Grey</string>
+> 	<string>회색</string>
+< 	<string>Grey</string>
+> 	<string>회색</string>
+< 	<string>Grey</string>
+> 	<string>회색</string>
 < 	<string>Group</string>
 > 	<string>그룹</string>
 < 	<string>Group</string>
@@ -2033,6 +2109,8 @@
 < 	<string>Group</string>
 > 	<string>그룹</string>
 < 	<string>Group</string>
+> 	<string>그룹</string>
+< 	<string>Groups</string>
 > 	<string>그룹</string>
 < 	<string>Guides</string>
 > 	<string>안내선</string>
@@ -2048,6 +2126,8 @@
 > 	<string>HSL 채도</string>
 < 	<string>HSL Sliders</string>
 > 	<string>HSL 슬라이더</string>
+< 	<string>Hangul</string>
+> 	<string>한글</string>
 < 	<string>Hardness</string>
 > 	<string>굳기</string>
 < 	<string>Hardness</string>
@@ -2084,6 +2164,22 @@
 > 	<string>하트</string>
 < 	<string>Heart</string>
 > 	<string>하트</string>
+< 	<string>Height</string>
+> 	<string>높이</string>
+< 	<string>Height</string>
+> 	<string>높이</string>
+< 	<string>Height</string>
+> 	<string>높이</string>
+< 	<string>Height</string>
+> 	<string>높이</string>
+< 	<string>Height</string>
+> 	<string>높이</string>
+< 	<string>Height</string>
+> 	<string>높이</string>
+< 	<string>Height</string>
+> 	<string>높이</string>
+< 	<string>Height</string>
+> 	<string>높이</string>
 < 	<string>Help</string>
 > 	<string>도움말</string>
 < 	<string>Help</string>
@@ -2100,6 +2196,10 @@
 > 	<string>고주파수</string>
 < 	<string>High Frequency</string>
 > 	<string>고주파수</string>
+< 	<string>Hiragana</string>
+> 	<string>히라가나</string>
+< 	<string>Hiragana</string>
+> 	<string>히라가나</string>
 < 	<string>His</string>
 > 	<string>기록</string>
 < 	<string>Histogram</string>
@@ -2148,14 +2248,44 @@
 > 	<string>색채</string>
 < 	<string>Icon Only</string>
 > 	<string>아이콘만</string>
+< 	<string>Ignore</string>
+> 	<string>무시</string>
+< 	<string>Ignore</string>
+> 	<string>무시</string>
+< 	<string>Images</string>
+> 	<string>이미지</string>
+< 	<string>Images</string>
+> 	<string>이미지</string>
 < 	<string>Import Brushes</string>
 > 	<string>브러시 들여오기</string>
 < 	<string>Import Brushes…</string>
 > 	<string>브러시 들여오기…</string>
+< 	<string>Import Failed</string>
+> 	<string>실패한 들여오기</string>
+< 	<string>Import Failed</string>
+> 	<string>실패한 들여오기</string>
+< 	<string>Import Failed</string>
+> 	<string>실패한 들여오기</string>
+< 	<string>Import Failed</string>
+> 	<string>실패한 들여오기</string>
+< 	<string>Import Failed</string>
+> 	<string>실패한 들여오기</string>
+< 	<string>Import</string>
+> 	<string>들여오기</string>
+< 	<string>Import</string>
+> 	<string>들여오기</string>
+< 	<string>Import</string>
+> 	<string>들여오기</string>
+< 	<string>Import failed</string>
+> 	<string>실패한 들여오기</string>
+< 	<string>Importing...</string>
+> 	<string>들여오는 중...</string>
 < 	<string>Inches</string>
 > 	<string>인치</string>
 < 	<string>Inches</string>
 > 	<string>인치</string>
+< 	<string>Increase indent</string>
+> 	<string>들여쓰기 늘리기</string>
 < 	<string>Info</string>
 > 	<string>정보</string>
 < 	<string>Inner Radius</string>
@@ -2294,6 +2424,8 @@
 > 	<string>맞춤</string>
 < 	<string>Justify</string>
 > 	<string>맞춤</string>
+< 	<string>Label</string>
+> 	<string>라벨</string>
 < 	<string>Language</string>
 > 	<string>언어</string>
 < 	<string>Language</string>
@@ -2425,7 +2557,7 @@
 < 	<string>Levels</string>
 > 	<string>레벨</string>
 < 	<string>Library</string>
-> 	<string>라이브러리</string>
+> 	<string>보관함</string>
 < 	<string>Ligatures</string>
 > 	<string>합자</string>
 < 	<string>Light</string>
@@ -2454,6 +2586,8 @@
 > 	<string>줄바꿈</string>
 < 	<string>Line Break</string>
 > 	<string>줄바꿈</string>
+< 	<string>Line Width</string>
+> 	<string>선 너비</string>
 < 	<string>Linear</string>
 > 	<string>선형</string>
 < 	<string>Linear</string>
@@ -2671,7 +2805,7 @@
 < 	<string>Mitre Join</string>
 > 	<string>짜임 결합</string>
 < 	<string>Mitre:</string>
-> 	<string>미터:</string>
+> 	<string>짜임:</string>
 < 	<string>Mode</string>
 > 	<string>모드</string>
 < 	<string>Mode</string>
@@ -2752,6 +2886,20 @@
 > 	<string>맨 앞으로 가져오기</string>
 < 	<string>Move to Front</string>
 > 	<string>맨 앞으로 가져오기</string>
+< 	<string>My Account</string>
+> 	<string>내 계정</string>
+< 	<string>Name</string>
+> 	<string>이름</string>
+< 	<string>Name</string>
+> 	<string>이름</string>
+< 	<string>Name</string>
+> 	<string>이름</string>
+< 	<string>Name</string>
+> 	<string>이름</string>
+< 	<string>Name</string>
+> 	<string>이름</string>
+< 	<string>Name</string>
+> 	<string>이름</string>
 < 	<string>Navigator</string>
 > 	<string>네비게이터</string>
 < 	<string>Negate</string>
@@ -2814,10 +2962,6 @@
 > 	<string>신규</string>
 < 	<string>New layer</string>
 > 	<string>신규 레이어</string>
-< 	<string>New...</string>
-> 	<string>신규...</string>
-< 	<string>Newari</string>
-> 	<string>신규...</string>
 < 	<string>No Camera Data</string>
 > 	<string>카메라 데이터 없음</string>
 < 	<string>No Line Style</string>
@@ -3066,10 +3210,22 @@
 > 	<string>불투명도:</string>
 < 	<string>Opacity:</string>
 > 	<string>불투명도:</string>
+< 	<string>Opaque Objects</string>
+> 	<string>불투명 오브젝트</string>
+< 	<string>Open Curves</string>
+> 	<string>열린 곡선</string>
+< 	<string>Options</string>
+> 	<string>설정</string>
+< 	<string>Options</string>
+> 	<string>설정</string>
+< 	<string>Orange</string>
+> 	<string>주황</string>
 < 	<string>Order</string>
 > 	<string>순서</string>
 < 	<string>Order</string>
 > 	<string>순서</string>
+< 	<string>Ordinal</string>
+> 	<string>서수</string>
 < 	<string>Outer</string>
 > 	<string>외부</string>
 < 	<string>Outer</string>
@@ -3200,6 +3356,8 @@
 > 	<string>붙이기</string>
 < 	<string>Paste</string>
 > 	<string>붙이기</string>
+< 	<string>Path Text</string>
+> 	<string>경로 텍스트</string>
 < 	<string>Path:</string>
 > 	<string>경로:</string>
 < 	<string>Pen Tool</string>
@@ -3258,6 +3416,8 @@
 > 	<string>파이/도넛</string>
 < 	<string>Pixel Align</string>
 > 	<string>픽셀 정렬</string>
+< 	<string>Pixel Objects</string>
+> 	<string>픽셀 오브젝트</string>
 < 	<string>Pixel Persona</string>
 > 	<string>픽셀 페르소나</string>
 < 	<string>Pixel Persona</string>
@@ -3402,6 +3562,8 @@
 > 	<string>당기기</string>
 < 	<string>Pull</string>
 > 	<string>당기기</string>
+< 	<string>Purple</string>
+> 	<string>보라</string>
 < 	<string>Quick Mask</string>
 > 	<string>빠른 마스크</string>
 < 	<string>RGB Hex Sliders</string>
@@ -3728,6 +3890,16 @@
 > 	<string>시계방향으로 회전</string>
 < 	<string>Rotate Clockwise</string>
 > 	<string>시계방향으로 회전</string>
+< 	<string>Rotate</string>
+> 	<string>회전</string>
+< 	<string>Rotate</string>
+> 	<string>회전</string>
+< 	<string>Rotate</string>
+> 	<string>회전</string>
+< 	<string>Rotate</string>
+> 	<string>회전</string>
+< 	<string>Rotate</string>
+> 	<string>회전</string>
 < 	<string>Rotate gradient</string>
 > 	<string>그레이디언트 회전</string>
 < 	<string>Rotate gradient</string>
@@ -3755,7 +3927,7 @@
 < 	<string>Rotation:</string>
 > 	<string>회전:</string>
 < 	<string>Round Cap</string>
-> 	<string>둥근 모자</string>
+> 	<string>둥근 단면</string>
 < 	<string>Round Join</string>
 > 	<string>둥근 결합</string>
 < 	<string>Rounded Rectangle Tool</string>
@@ -3814,6 +3986,8 @@
 > 	<string>그물 저장</string>
 < 	<string>Save Preset</string>
 > 	<string>미리 설정 저장</string>
+< 	<string>Save Styles as Default</string>
+> 	<string>스타일을 기본값으로 저장</string>
 < 	<string>Save</string>
 > 	<string>저장</string>
 < 	<string>Save</string>
@@ -3888,6 +4062,14 @@
 > 	<string>전체 선택</string>
 < 	<string>Select All</string>
 > 	<string>전체 선택</string>
+< 	<string>Select Object</string>
+> 	<string>오브젝트 선택</string>
+< 	<string>Select Object</string>
+> 	<string>오브젝트 선택</string>
+< 	<string>Select Same</string>
+> 	<string>동일 선택</string>
+< 	<string>Select Same</string>
+> 	<string>동일 선택</string>
 < 	<string>Select Transparency Range</string>
 > 	<string>투명 범위 선택</string>
 < 	<string>Select</string>
@@ -3898,6 +4080,10 @@
 > 	<string>선택</string>
 < 	<string>Select</string>
 > 	<string>선택</string>
+< 	<string>Select object</string>
+> 	<string>오브젝트 선택</string>
+< 	<string>Select same</string>
+> 	<string>동일 선택</string>
 < 	<string>Selection Marquee</string>
 > 	<string>선택 항목 천막</string>
 < 	<string>Selection</string>
@@ -3931,7 +4117,7 @@
 < 	<string>Set current text selection</string>
 > 	<string>지금 텍스트 선택 항목 설정</string>
 < 	<string>Set line cap style</string>
-> 	<string>선 모자 스타일 설정</string>
+> 	<string>선 단면 스타일 설정</string>
 < 	<string>Set line style scale</string>
 > 	<string>선 스타일 배율 설정</string>
 < 	<string>Shadows / Highlights</string>
@@ -3956,6 +4142,30 @@
 > 	<string>그림자</string>
 < 	<string>Shadows</string>
 > 	<string>그림자</string>
+< 	<string>Shape</string>
+> 	<string>모양</string>
+< 	<string>Shape</string>
+> 	<string>모양</string>
+< 	<string>Shape</string>
+> 	<string>모양</string>
+< 	<string>Shape</string>
+> 	<string>모양</string>
+< 	<string>Shape</string>
+> 	<string>모양</string>
+< 	<string>Shape</string>
+> 	<string>모양</string>
+< 	<string>Shape</string>
+> 	<string>모양</string>
+< 	<string>Shapes</string>
+> 	<string>모양</string>
+< 	<string>Shapes</string>
+> 	<string>모양</string>
+< 	<string>Shapes</string>
+> 	<string>모양</string>
+< 	<string>Shapes</string>
+> 	<string>모양</string>
+< 	<string>Shapes</string>
+> 	<string>모양</string>
 < 	<string>Sharp</string>
 > 	<string>날카롭게</string>
 < 	<string>Sharp</string>
@@ -3967,23 +4177,23 @@
 < 	<string>Sharp</string>
 > 	<string>날카롭게</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Shear</string>
-> 	<string>기울임</string>
+> 	<string>비틀기</string>
 < 	<string>Show All</string>
 > 	<string>모두 보기</string>
 < 	<string>Show All</string>
@@ -4201,7 +4411,7 @@
 < 	<string>Spread Setup…</string>
 > 	<string>스프레드 설정…</string>
 < 	<string>Square Cap</string>
-> 	<string>사각 모자</string>
+> 	<string>사각 단면</string>
 < 	<string>Square</string>
 > 	<string>사각형</string>
 < 	<string>Square</string>
@@ -4234,6 +4444,8 @@
 > 	<string>별</string>
 < 	<string>Start angle:</string>
 > 	<string>시작 각도:</string>
+< 	<string>Start on:</string>
+> 	<string>개시:</string>
 < 	<string>Std. Dev.: %1</string>
 > 	<string>표준 편차: %1</string>
 < 	<string>Stock</string>
@@ -4244,6 +4456,10 @@
 > 	<string>세기:</string>
 < 	<string>Strikeout</string>
 > 	<string>취소선</string>
+< 	<string>Stroke Colour</string>
+> 	<string>선 색상</string>
+< 	<string>Stroke Weight</string>
+> 	<string>선 두께</string>
 < 	<string>Stroke</string>
 > 	<string>선</string>
 < 	<string>Stroke</string>
@@ -4258,6 +4474,8 @@
 > 	<string>선</string>
 < 	<string>Stroke:</string>
 > 	<string>선:</string>
+< 	<string>Stroked Objects</string>
+> 	<string>선이 있는 오브젝트</string>
 < 	<string>Strong</string>
 > 	<string>강하게</string>
 < 	<string>Studio</string>
@@ -4356,6 +4574,8 @@
 > 	<string>교대</string>
 < 	<string>Swap</string>
 > 	<string>교대</string>
+< 	<string>Swap arrow head with tail</string>
+> 	<string>화살표 머리를 꼬리와 교대</string>
 < 	<string>Swatches</string>
 > 	<string>견본</string>
 < 	<string>Swatches</string>
@@ -4408,6 +4628,8 @@
 > 	<string>탭</string>
 < 	<string>Tab</string>
 > 	<string>탭</string>
+< 	<string>Tag Colour</string>
+> 	<string>태그 색상</string>
 < 	<string>Tail position:</string>
 > 	<string>꼬리 위치:</string>
 < 	<string>Tail position:</string>
@@ -4494,6 +4716,8 @@
 > 	<string>틴트</string>
 < 	<string>Tint</string>
 > 	<string>틴트</string>
+< 	<string>Title</string>
+> 	<string>타이틀</string>
 < 	<string>Tolerance</string>
 > 	<string>허용량</string>
 < 	<string>Tolerance</string>
@@ -4596,6 +4820,12 @@
 > 	<string>투명 도구</string>
 < 	<string>Transparency Tool</string>
 > 	<string>투명 도구</string>
+< 	<string>Transparency</string>
+> 	<string>투명도</string>
+< 	<string>Transparency</string>
+> 	<string>투명도</string>
+< 	<string>Transparent Objects</string>
+> 	<string>투명 오브젝트</string>
 < 	<string>Transparent</string>
 > 	<string>투명</string>
 < 	<string>Transparent</string>
@@ -4608,6 +4838,22 @@
 > 	<string>삼각형 도구</string>
 < 	<string>Triangle Tool</string>
 > 	<string>삼각형 도구</string>
+< 	<string>Twirl</string>
+> 	<string>소용돌이</string>
+< 	<string>Twirl</string>
+> 	<string>소용돌이</string>
+< 	<string>Twirl</string>
+> 	<string>소용돌이</string>
+< 	<string>Twirl</string>
+> 	<string>소용돌이</string>
+< 	<string>Twirl</string>
+> 	<string>소용돌이</string>
+< 	<string>Twirl</string>
+> 	<string>소용돌이</string>
+< 	<string>Twirl</string>
+> 	<string>소용돌이</string>
+< 	<string>Twirl</string>
+> 	<string>소용돌이</string>
 < 	<string>Type:</string>
 > 	<string>종류:</string>
 < 	<string>Type:</string>
@@ -4630,6 +4876,8 @@
 > 	<string>스타일을 들여올 수 없습니다. 호환되지 않는 파일입니다.</string>
 < 	<string>Unable to import style.</string>
 > 	<string>스타일을 들여올 수 없습니다.</string>
+< 	<string>Undashed Objects</string>
+> 	<string>점선 없는 오브젝트</string>
 < 	<string>Underline</string>
 > 	<string>밑줄</string>
 < 	<string>Underline</string>
@@ -4652,32 +4900,36 @@
 > 	<string>실행 취소</string>
 < 	<string>Undo</string>
 > 	<string>실행 취소</string>
+< 	<string>Unfilled Objects</string>
+> 	<string>칠이 없는 오브젝트</string>
 < 	<string>Ungroup All</string>
-> 	<string>모든 그룹 해제</string>
+> 	<string>모든 그룹 풀기</string>
 < 	<string>Ungroup</string>
-> 	<string>그룹 해제</string>
+> 	<string>그룹 풀기</string>
 < 	<string>Ungroup</string>
-> 	<string>그룹 해제</string>
+> 	<string>그룹 풀기</string>
 < 	<string>Ungroup</string>
-> 	<string>그룹 해제</string>
+> 	<string>그룹 풀기</string>
 < 	<string>Ungroup</string>
-> 	<string>그룹 해제</string>
+> 	<string>그룹 풀기</string>
 < 	<string>Ungroup</string>
-> 	<string>그룹 해제</string>
+> 	<string>그룹 풀기</string>
 < 	<string>Ungroup</string>
-> 	<string>그룹 해제</string>
+> 	<string>그룹 풀기</string>
 < 	<string>Units:</string>
 > 	<string>단위:</string>
 < 	<string>Units:</string>
 > 	<string>단위:</string>
 < 	<string>Unlock All</string>
-> 	<string>모두 잠금 해제</string>
+> 	<string>모두 잠금 풀기</string>
 < 	<string>Unlock All</string>
-> 	<string>모두 잠금 해제</string>
+> 	<string>모두 잠금 풀기</string>
 < 	<string>Unlock</string>
-> 	<string>잠금 해제</string>
+> 	<string>잠금 풀기</string>
 < 	<string>Unlock</string>
-> 	<string>잠금 해제</string>
+> 	<string>잠금 풀기</string>
+< 	<string>Unstroked Objects</string>
+> 	<string>선이 없는 오브젝트</string>
 < 	<string>Untitled</string>
 > 	<string>이름 없음</string>
 < 	<string>Untitled</string>
@@ -4704,6 +4956,8 @@
 > 	<string>벡터 크롭 도구</string>
 < 	<string>Vector Crop Tool</string>
 > 	<string>벡터 크롭 도구</string>
+< 	<string>Vector Layers</string>
+> 	<string>벡터 레이어</string>
 < 	<string>Vector</string>
 > 	<string>벡터</string>
 < 	<string>Vector</string>
@@ -4764,6 +5018,16 @@
 > 	<string>비네트</string>
 < 	<string>Vignette</string>
 > 	<string>비네트</string>
+< 	<string>Voronoi</string>
+> 	<string>보로노이</string>
+< 	<string>Voronoi</string>
+> 	<string>보로노이</string>
+< 	<string>Voronoi</string>
+> 	<string>보로노이</string>
+< 	<string>Voronoi</string>
+> 	<string>보로노이</string>
+< 	<string>Voronoi</string>
+> 	<string>보로노이</string>
 < 	<string>Web</string>
 > 	<string>웹</string>
 < 	<string>Web</string>
@@ -4853,17 +5117,17 @@
 < 	<string>Xfm</string>
 > 	<string>변형</string>
 < 	<string>Xor</string>
-> 	<string>배타</string>
+> 	<string>배타적논리합</string>
 < 	<string>Xor</string>
-> 	<string>배타</string>
+> 	<string>배타적논리합</string>
 < 	<string>Xor</string>
-> 	<string>배타</string>
+> 	<string>배타적논리합</string>
 < 	<string>Xor</string>
-> 	<string>배타</string>
+> 	<string>배타적논리합</string>
 < 	<string>Xor</string>
-> 	<string>배타</string>
+> 	<string>배타적논리합</string>
 < 	<string>Xor</string>
-> 	<string>배타</string>
+> 	<string>배타적논리합</string>
 < 	<string>Yards</string>
 > 	<string>야드</string>
 < 	<string>Yards</string>
@@ -4967,7 +5231,7 @@
 < 	<string>|CLICK| to set the destination.</string>
 > 	<string>|CLICK|해서 목표를 설정합니다.</string>
 < 	<string>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</string>
-> 	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>
+> 	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 오브젝트를 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>
 < 	<string>|DRAG| to pan view.</string>
 > 	<string>|DRAG|해서 초점이동합니다.</string>
 < 	<string>|DRAG| to resize columns.</string>

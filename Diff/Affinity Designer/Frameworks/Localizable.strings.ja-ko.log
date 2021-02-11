@@ -737,7 +737,7 @@
 < > 	<string>プリセットを追加</string>
 > > 	<string>미리 설정 추가</string>
 < > 	<string>プリセットを追加</string>
-< < 	<string>Add Preset…</string>
+> > 	<string>미리 설정 추가</string>
 < > 	<string>プリセットを追加…</string>
 < < 	<string>Add Section</string>
 < > 	<string>セクションを追加</string>
@@ -771,7 +771,7 @@
 < > 	<string>ビューポイントを追加</string>
 < < 	<string>Add Voronoi layer</string>
 < > 	<string>ボロノイレイヤーを追加</string>
-> > 	<string>미리 설정 추가</string>
+> > 	<string>미리 설정 추가…</string>
 < > 	<string>追加</string>
 > > 	<string>추가</string>
 < > 	<string>加算</string>
@@ -1883,17 +1883,17 @@
 < > 	<string>矢印</string>
 < < 	<string>Art Text Tool</string>
 < > 	<string>アートテキストツール</string>
-< < 	<string>Art Text</string>
+> > 	<string>화살표 도구</string>
 < > 	<string>アートテキスト</string>
-< < 	<string>Art Text</string>
+> > 	<string>예술 텍스트</string>
 < > 	<string>アートテキスト</string>
-< < 	<string>Art Text</string>
+> > 	<string>예술 텍스트</string>
 < > 	<string>アートテキスト</string>
 < < 	<string>ArtBox</string>
 < > 	<string>アートボックス</string>
 < < 	<string>Artboard Background Grey Level</string>
 < > 	<string>アートボード背景グレーレベル</string>
-> > 	<string>화살표 도구</string>
+> > 	<string>예술 텍스트</string>
 < > 	<string>アートボードツール</string>
 > > 	<string>아트보드 도구</string>
 < > 	<string>アートボードツール</string>
@@ -1909,19 +1909,19 @@
 < > 	<string>アートボード</string>
 > > 	<string>아트보드</string>
 < > 	<string>アートボード:</string>
-< < 	<string>Artboards</string>
+> > 	<string>아트보드:</string>
 < > 	<string>アートボード</string>
-< < 	<string>Artboards</string>
+> > 	<string>아트보드</string>
 < > 	<string>アートボード</string>
-< < 	<string>Artboards</string>
+> > 	<string>아트보드</string>
 < > 	<string>アートボード</string>
-< < 	<string>Artboards</string>
+> > 	<string>아트보드</string>
 < > 	<string>アートボード</string>
 < < 	<string>Artboards cannot be added to a document with multiple pages or master pages.</string>
 < > 	<string>アートボードは複数のページまたはマスターページが含まれているドキュメントに追加できません。</string>
 < < 	<string>Artist</string>
 < > 	<string>アーティスト</string>
-> > 	<string>아트보드:</string>
+> > 	<string>아트보드</string>
 < > 	<string>アーティスティックテキストツール</string>
 > > 	<string>예술 텍스트 도구</string>
 < > 	<string>アーティスティックテキストツール</string>
@@ -2643,35 +2643,35 @@
 < > 	<string>傷:</string>
 < < 	<string>Blend Gamma</string>
 < > 	<string>ブレンドガンマ</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>도련</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
-< < 	<string>Blend Mode</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード</string>
 < < 	<string>Blend Mode/Blend Options</string>
 < > 	<string>描画モード/ブレンドオプション</string>
-> > 	<string>도련</string>
+> > 	<string>혼합 모드</string>
 < > 	<string>描画モード:</string>
 > > 	<string>혼합 모드:</string>
 < > 	<string>描画モード:</string>
@@ -3105,7 +3105,7 @@
 < > 	<string>ケイジャン・フランス語</string>
 < < 	<string>Calculating…</string>
 < > 	<string>計算中…</string>
-> > 	<string>뭉툭한 모자</string>
+> > 	<string>뭉툭한 단면</string>
 < > 	<string>吹き出し(楕円)ツール</string>
 > > 	<string>외치기 타원 도구</string>
 < > 	<string>吹き出し(楕円)ツール</string>
@@ -3389,7 +3389,7 @@
 < > 	<string>中央</string>
 < < 	<string>Center weighted average</string>
 < > 	<string>中央重点平均</string>
-> > 	<string>모자:</string>
+> > 	<string>단면:</string>
 < > 	<string>センチメートル</string>
 > > 	<string>센티미터</string>
 < > 	<string>センチメートル</string>
@@ -3989,7 +3989,7 @@
 < > 	<string>扇形を閉じる</string>
 > > 	<string>파이 닫기</string>
 < > 	<string>ドキュメントを閉じますか?</string>
-< < 	<string>Closed Curves</string>
+> > 	<string>문서를 닫겠습니까?</string>
 < > 	<string>閉じたカーブ</string>
 < < 	<string>Closed</string>
 < > 	<string>閉じた形状</string>
@@ -3999,7 +3999,7 @@
 < > 	<string>閉じた形状(細長)</string>
 < < 	<string>Closed, Wide</string>
 < > 	<string>閉じた形状(幅広)</string>
-> > 	<string>문서를 닫겠습니까?</string>
+> > 	<string>닫힌 곡선</string>
 < > 	<string>クラウドツール</string>
 > > 	<string>구름 도구</string>
 < > 	<string>クラウドツール</string>
@@ -4279,25 +4279,25 @@
 < > 	<string>連続区切り</string>
 > > 	<string>원뿔형</string>
 < > 	<string>制約</string>
-> > 	<string>규제</string>
+> > 	<string>제약</string>
 < > 	<string>制約</string>
-> > 	<string>규제</string>
+> > 	<string>제약</string>
 < > 	<string>制約</string>
-> > 	<string>규제</string>
+> > 	<string>제약</string>
 < > 	<string>制約</string>
-> > 	<string>규제</string>
+> > 	<string>제약</string>
 < > 	<string>制約</string>
 < < 	<string>Constrain crop</string>
 < > 	<string>切り抜きの固定</string>
-< < 	<string>Constrained Objects</string>
+> > 	<string>제약</string>
 < > 	<string>制約付きオブジェクト</string>
 < < 	<string>Constraints Compound</string>
 < > 	<string>制約複合</string>
 < < 	<string>Constraints Group</string>
 < > 	<string>制約グループ</string>
-> > 	<string>규제</string>
+> > 	<string>제약받는 오브젝트</string>
 < > 	<string>制約</string>
-> > 	<string>규제</string>
+> > 	<string>제약</string>
 < > 	<string>制約</string>
 < < 	<string>Construction Edit Mode</string>
 < > 	<string>作図編集モード</string>
@@ -4319,7 +4319,7 @@
 < > 	<string>コンテンツが一時的に同期されていない可能性があります</string>
 < < 	<string>Context Menu</string>
 < > 	<string>コンテキストメニュー</string>
-> > 	<string>규제</string>
+> > 	<string>제약</string>
 < > 	<string>コンテキスト:</string>
 < < 	<string>ContextToolbar</string>
 < > 	<string>コンテキストツールバー</string>
@@ -4589,9 +4589,9 @@
 < > 	<string>算木用数字</string>
 < < 	<string>Country</string>
 < > 	<string>国</string>
-< < 	<string>Create Artboard</string>
-< > 	<string>アートボードを作成</string>
 > > 	<string>코사인</string>
+< > 	<string>アートボードを作成</string>
+> > 	<string>아트보드 생성</string>
 < > 	<string>文字スタイルを作成</string>
 > > 	<string>문자 스타일 생성</string>
 < > 	<string>文字スタイルを作成</string>
@@ -5079,7 +5079,7 @@
 < > 	<string>破線</string>
 < < 	<string>Dash</string>
 < > 	<string>破線</string>
-< < 	<string>Dashed Objects</string>
+> > 	<string>줄표 선 스타일</string>
 < > 	<string>破線付きオブジェクト</string>
 < < 	<string>Dashes</string>
 < > 	<string>ダッシュ</string>
@@ -5173,7 +5173,7 @@
 < > 	<string>デフォルトフォーマット</string>
 < < 	<string>Default Format</string>
 < > 	<string>デフォルトフォーマット</string>
-> > 	<string>줄표 선 스타일</string>
+> > 	<string>점선 오브젝트</string>
 < > 	<string>デフォルトOS</string>
 < < 	<string>Default Pixel Size</string>
 < > 	<string>デフォルトのピクセルサイズ</string>
@@ -5341,11 +5341,11 @@
 < > 	<string>シンボルを削除</string>
 < < 	<string>Delete TOC style</string>
 < > 	<string>目次スタイルを削除</string>
-< < 	<string>Delete Unused Styles</string>
+> > 	<string>미리 설정 지우기</string>
 < > 	<string>未使用のスタイルを削除</string>
 < < 	<string>Delete View Point</string>
 < > 	<string>ビューポイントを削除</string>
-> > 	<string>미리 설정 지우기</string>
+> > 	<string>미사용된 스타일 지우기</string>
 < > 	<string>削除</string>
 > > 	<string>지우기</string>
 < > 	<string>削除</string>
@@ -5643,7 +5643,7 @@
 < > 	<string>ディテール</string>
 < < 	<string>Details Studio</string>
 < > 	<string>ディテールスタジオ</string>
-> > 	<string>모든 스타일 벗기고 삭제</string>
+> > 	<string>모든 스타일 벗기고 지우기</string>
 < > 	<string>ディテール</string>
 > > 	<string>세부사항</string>
 < > 	<string>ディテール</string>
@@ -6573,7 +6573,7 @@
 < > 	<string>ドキュメントにアセットを埋め込む</string>
 < < 	<string>Embed image</string>
 < > 	<string>画像を埋め込み</string>
-< < 	<string>Embedded Documents</string>
+> > 	<string>전각 공백</string>
 < > 	<string>埋め込みドキュメント</string>
 < < 	<string>Embedded</string>
 < > 	<string>埋め込み</string>
@@ -6583,7 +6583,7 @@
 < > 	<string>埋め込みドキュメント</string>
 < < 	<string>Emboss Tool</string>
 < > 	<string>エンボスツール</string>
-> > 	<string>전각 공백</string>
+> > 	<string>삽입된 문서</string>
 < > 	<string>エンボス</string>
 > > 	<string>양각</string>
 < > 	<string>エンボス</string>
@@ -7161,11 +7161,11 @@
 < > 	<string>見開き</string>
 < < 	<string>Facing pages</string>
 < > 	<string>見開きページ</string>
-< < 	<string>Factor</string>
-< > 	<string>係数</string>
-< < 	<string>Factor</string>
-< > 	<string>係数</string>
 > > 	<string>노출:</string>
+< > 	<string>係数</string>
+> > 	<string>요소</string>
+< > 	<string>係数</string>
+> > 	<string>요소</string>
 < > 	<string>出荷時の設定にリセット</string>
 < < 	<string>Fade Last</string>
 < > 	<string>最後にフェード</string>
@@ -7415,11 +7415,11 @@
 < > 	<string>ファイルシステム</string>
 < < 	<string>Filipino</string>
 < > 	<string>フィリピン語</string>
-< < 	<string>Fill &amp; Stroke Colour</string>
+> > 	<string>파일</string>
 < > 	<string>塗りつぶし&amp;境界線カラー</string>
 < < 	<string>Fill Channel</string>
 < > 	<string>チャンネルの塗りつぶし</string>
-< < 	<string>Fill Colour</string>
+> > 	<string>칠 및 선 색상</string>
 < > 	<string>塗りつぶしカラー</string>
 < < 	<string>Fill Context</string>
 < > 	<string>塗りつぶしコンテキスト</string>
@@ -7427,7 +7427,7 @@
 < > 	<string>最後のページを埋める</string>
 < < 	<string>Fill Layer</string>
 < > 	<string>塗りつぶしレイヤー</string>
-> > 	<string>파일</string>
+> > 	<string>칠 색상</string>
 < > 	<string>塗りつぶしモード</string>
 < < 	<string>Fill Opacity</string>
 < > 	<string>塗りつぶしの不透明度</string>
@@ -7469,7 +7469,7 @@
 < > 	<string>塗りつぶし:</string>
 > > 	<string>칠:</string>
 < > 	<string>塗りつぶし:</string>
-< < 	<string>Filled Objects</string>
+> > 	<string>칠:</string>
 < > 	<string>塗りつぶされたオブジェクト</string>
 < < 	<string>Filled</string>
 < > 	<string>塗りつぶし済み</string>
@@ -7495,7 +7495,7 @@
 < > 	<string>フィルター</string>
 < < 	<string>Filters Studio</string>
 < > 	<string>フィルタースタジオ</string>
-> > 	<string>칠:</string>
+> > 	<string>칠이 있는 오브젝트</string>
 < > 	<string>フィルター</string>
 > > 	<string>필터</string>
 < > 	<string>フィルター</string>
@@ -8143,17 +8143,17 @@
 < > 	<string>グレー %d%%</string>
 < < 	<string>Grey Sliders</string>
 < > 	<string>グレースライダー</string>
-< < 	<string>Grey</string>
+> > 	<string>초록</string>
 < > 	<string>グレー</string>
-< < 	<string>Grey</string>
+> > 	<string>회색</string>
 < > 	<string>グレー</string>
-< < 	<string>Grey</string>
+> > 	<string>회색</string>
 < > 	<string>グレー</string>
-< < 	<string>Grey</string>
+> > 	<string>회색</string>
 < > 	<string>グレー</string>
-< < 	<string>Grey</string>
+> > 	<string>회색</string>
 < > 	<string>グレー</string>
-< < 	<string>Grey</string>
+> > 	<string>회색</string>
 < > 	<string>グレー</string>
 < < 	<string>Grey/16 - </string>
 < > 	<string>グレー/16 - </string>
@@ -8211,7 +8211,7 @@
 < > 	<string>レイヤーのグループ化</string>
 < < 	<string>Group Layers</string>
 < > 	<string>レイヤーのグループ化</string>
-> > 	<string>초록</string>
+> > 	<string>회색</string>
 < > 	<string>グループ</string>
 > > 	<string>그룹</string>
 < > 	<string>グループ</string>
@@ -8231,7 +8231,7 @@
 < > 	<string>グループ</string>
 > > 	<string>그룹</string>
 < > 	<string>グループ化</string>
-< < 	<string>Groups</string>
+> > 	<string>그룹</string>
 < > 	<string>グループ</string>
 < < 	<string>Grow / Shrink Selection Tool</string>
 < > 	<string>選択範囲拡大/縮小ツール</string>
@@ -8347,7 +8347,7 @@
 < > 	<string>ハングル字母</string>
 < < 	<string>Hangul Syllables</string>
 < > 	<string>ハングル音節</string>
-< < 	<string>Hangul</string>
+> > 	<string>HSL 슬라이더</string>
 < > 	<string>ハングル</string>
 < < 	<string>Hanunoo</string>
 < > 	<string>ハヌノオ文字</string>
@@ -8369,7 +8369,7 @@
 < > 	<string>ハードミックス</string>
 < < 	<string>Hard mix</string>
 < > 	<string>ハードミックス</string>
-> > 	<string>HSL 슬라이더</string>
+> > 	<string>한글</string>
 < > 	<string>硬さ</string>
 > > 	<string>굳기</string>
 < > 	<string>硬さ</string>
@@ -8473,21 +8473,21 @@
 < > 	<string>ヘブライ語</string>
 < < 	<string>Hebrew</string>
 < > 	<string>ヘブライ文字</string>
-< < 	<string>Height</string>
+> > 	<string>하트</string>
 < > 	<string>高さ</string>
-< < 	<string>Height</string>
+> > 	<string>높이</string>
 < > 	<string>高さ</string>
-< < 	<string>Height</string>
+> > 	<string>높이</string>
 < > 	<string>高さ</string>
-< < 	<string>Height</string>
+> > 	<string>높이</string>
 < > 	<string>高さ</string>
-< < 	<string>Height</string>
+> > 	<string>높이</string>
 < > 	<string>高さ</string>
-< < 	<string>Height</string>
+> > 	<string>높이</string>
 < > 	<string>高さ</string>
-< < 	<string>Height</string>
+> > 	<string>높이</string>
 < > 	<string>高さ</string>
-< < 	<string>Height</string>
+> > 	<string>높이</string>
 < > 	<string>高さ</string>
 < < 	<string>Height in lines</string>
 < > 	<string>高さ(行数)</string>
@@ -8505,7 +8505,7 @@
 < > 	<string>書き出されるスライスの高さ(指定された場合)</string>
 < < 	<string>Height of the spread</string>
 < > 	<string>スプレッドの高さ</string>
-> > 	<string>하트</string>
+> > 	<string>높이</string>
 < > 	<string>ヘルプ</string>
 > > 	<string>도움말</string>
 < > 	<string>ヘルプ</string>
@@ -8607,13 +8607,13 @@
 < > 	<string>ヒンディー語</string>
 < < 	<string>Hindko</string>
 < > 	<string>ヒンドコ語</string>
-< < 	<string>Hiragana</string>
+> > 	<string>고주파수</string>
 < > 	<string>ひらがな</string>
-< < 	<string>Hiragana</string>
+> > 	<string>히라가나</string>
 < > 	<string>ひらがな</string>
 < < 	<string>Hiri Motu</string>
 < > 	<string>ヒリモツ語</string>
-> > 	<string>고주파수</string>
+> > 	<string>히라가나</string>
 < > 	<string>履歴</string>
 > > 	<string>기록</string>
 < > 	<string>ヒストグラム</string>
@@ -8791,9 +8791,9 @@
 < > 	<string>スナップを無視</string>
 < < 	<string>Ignore Snapping</string>
 < > 	<string>スナップを無視</string>
-< < 	<string>Ignore</string>
+> > 	<string>아이콘만</string>
 < > 	<string>無視</string>
-< < 	<string>Ignore</string>
+> > 	<string>무시</string>
 < > 	<string>無視</string>
 < < 	<string>Ignore and continue</string>
 < > 	<string>無視して続行</string>
@@ -8829,9 +8829,9 @@
 < > 	<string>画像</string>
 < < 	<string>Image placement policy</string>
 < > 	<string>画像配置ポリシー</string>
-< < 	<string>Images</string>
+> > 	<string>무시</string>
 < > 	<string>画像</string>
-< < 	<string>Images</string>
+> > 	<string>이미지</string>
 < > 	<string>画像</string>
 < < 	<string>Images with fewer pixels than this in either dimension will not be checked.</string>
 < > 	<string>いずれかのサイズがこれより少ないピクセルの画像はチェックされません。</string>
@@ -8841,7 +8841,7 @@
 < > 	<string>直接レイヤーと子</string>
 < < 	<string>Imperial Aramaic</string>
 < > 	<string>帝政アラム文字</string>
-> > 	<string>아이콘만</string>
+> > 	<string>이미지</string>
 < > 	<string>ブラシをインポート</string>
 > > 	<string>브러시 들여오기</string>
 < > 	<string>ブラシをインポート…</string>
@@ -8849,15 +8849,15 @@
 < > 	<string>カテゴリをインポート</string>
 < < 	<string>Import Document Palette</string>
 < > 	<string>ドキュメントパレットをインポート</string>
-< < 	<string>Import Failed</string>
+> > 	<string>브러시 들여오기…</string>
 < > 	<string>インポート失敗</string>
-< < 	<string>Import Failed</string>
+> > 	<string>실패한 들여오기</string>
 < > 	<string>インポート失敗</string>
-< < 	<string>Import Failed</string>
+> > 	<string>실패한 들여오기</string>
 < > 	<string>インポート失敗</string>
-< < 	<string>Import Failed</string>
+> > 	<string>실패한 들여오기</string>
 < > 	<string>インポート失敗</string>
-< < 	<string>Import Failed</string>
+> > 	<string>실패한 들여오기</string>
 < > 	<string>インポート失敗</string>
 < < 	<string>Import From Camera</string>
 < > 	<string>カメラから読み込む</string>
@@ -8883,15 +8883,15 @@
 < > 	<string>スタイルをインポート…</string>
 < < 	<string>Import Template(s)…</string>
 < > 	<string>テンプレートをインポート...</string>
-< < 	<string>Import</string>
+> > 	<string>실패한 들여오기</string>
 < > 	<string>インポート</string>
-< < 	<string>Import</string>
+> > 	<string>들여오기</string>
 < > 	<string>インポート</string>
-< < 	<string>Import</string>
+> > 	<string>들여오기</string>
 < > 	<string>インポート</string>
 < < 	<string>Import assets</string>
 < > 	<string>アセットをインポート</string>
-< < 	<string>Import failed</string>
+> > 	<string>들여오기</string>
 < > 	<string>インポート失敗</string>
 < < 	<string>Import from XMP</string>
 < > 	<string>XMPからインポート</string>
@@ -8905,7 +8905,7 @@
 < > 	<string>インポート...</string>
 < < 	<string>Imported new Library categories.</string>
 < > 	<string>インポートされた新規のライブラリカテゴリ。</string>
-< < 	<string>Importing...</string>
+> > 	<string>실패한 들여오기</string>
 < > 	<string>読み込み中...</string>
 < < 	<string>In Next Column</string>
 < > 	<string>次の段</string>
@@ -8913,7 +8913,7 @@
 < > 	<string>次のフレーム</string>
 < < 	<string>Inari Sami</string>
 < > 	<string>イナリ・サーミ語</string>
-> > 	<string>브러시 들여오기…</string>
+> > 	<string>들여오는 중...</string>
 < > 	<string>インチ</string>
 > > 	<string>인치</string>
 < > 	<string>インチ</string>
@@ -8935,7 +8935,7 @@
 < > 	<string>引数の数が正しくありません</string>
 < < 	<string>Increase Brush Size</string>
 < > 	<string>ブラシサイズを拡大</string>
-< < 	<string>Increase indent</string>
+> > 	<string>인치</string>
 < > 	<string>インデントを大きくする</string>
 < < 	<string>Increase leading</string>
 < > 	<string>行送りを広げる</string>
@@ -8981,7 +8981,7 @@
 < > 	<string>LUTを推測しています...</string>
 < < 	<string>Infinity</string>
 < > 	<string>無限大</string>
-> > 	<string>인치</string>
+> > 	<string>들여쓰기 늘리기</string>
 < > 	<string>情報</string>
 < < 	<string>Ingush</string>
 < > 	<string>イングーシ語</string>
@@ -9747,7 +9747,7 @@
 < > 	<string>LUT調整</string>
 < < 	<string>LUT Tool</string>
 < > 	<string>LUTツール</string>
-< < 	<string>Label</string>
+> > 	<string>맞춤</string>
 < > 	<string>ラベル</string>
 < < 	<string>Ladakhi</string>
 < > 	<string>ラダキ語</string>
@@ -9787,7 +9787,7 @@
 < > 	<string>横向き</string>
 < < 	<string>Landscape</string>
 < > 	<string>横向き</string>
-> > 	<string>맞춤</string>
+> > 	<string>라벨</string>
 < > 	<string>言語</string>
 > > 	<string>언어</string>
 < > 	<string>言語</string>
@@ -10147,7 +10147,7 @@
 < > 	<string>ライブラリ</string>
 < < 	<string>Ligature</string>
 < > 	<string>合字</string>
-> > 	<string>라이브러리</string>
+> > 	<string>보관함</string>
 < > 	<string>合字</string>
 < < 	<string>Ligatures: Use All</string>
 < > 	<string>合字: すべて使用</string>
@@ -10245,7 +10245,7 @@
 < > 	<string>線モード</string>
 < < 	<string>Line To Left</string>
 < > 	<string>左に線</string>
-< < 	<string>Line Width</string>
+> > 	<string>줄바꿈</string>
 < > 	<string>線の幅</string>
 < < 	<string>Line</string>
 < > 	<string>線</string>
@@ -10267,7 +10267,7 @@
 < > 	<string>焼き込み(リニア)</string>
 < < 	<string>Linear Light</string>
 < > 	<string>リニアライト</string>
-> > 	<string>줄바꿈</string>
+> > 	<string>선 너비</string>
 < > 	<string>線形</string>
 > > 	<string>선형</string>
 < > 	<string>線形</string>
@@ -11549,7 +11549,7 @@
 < > 	<string>マイター:</string>
 < < 	<string>Mizo</string>
 < > 	<string>ミゾ語</string>
-> > 	<string>미터:</string>
+> > 	<string>짜임:</string>
 < > 	<string>モード</string>
 > > 	<string>모드</string>
 < > 	<string>モード</string>
@@ -11865,7 +11865,7 @@
 < > 	<string>音楽記号</string>
 < < 	<string>Musical Symbols</string>
 < > 	<string>音楽記号</string>
-< < 	<string>My Account</string>
+> > 	<string>맨 앞으로 가져오기</string>
 < > 	<string>マイアカウント</string>
 < < 	<string>My Presets</string>
 < > 	<string>自分のプリセット</string>
@@ -11895,17 +11895,17 @@
 < > 	<string>ナーガリー語</string>
 < < 	<string>Nahuatl</string>
 < > 	<string>ナワトル語</string>
-< < 	<string>Name</string>
+> > 	<string>내 계정</string>
 < > 	<string>名前</string>
-< < 	<string>Name</string>
+> > 	<string>이름</string>
 < > 	<string>名前</string>
-< < 	<string>Name</string>
+> > 	<string>이름</string>
 < > 	<string>名前</string>
-< < 	<string>Name</string>
+> > 	<string>이름</string>
 < > 	<string>名前</string>
-< < 	<string>Name</string>
+> > 	<string>이름</string>
 < > 	<string>名前</string>
-< < 	<string>Name</string>
+> > 	<string>이름</string>
 < > 	<string>名前</string>
 < < 	<string>Name already in use as a constant</string>
 < > 	<string>名前は既に定数として使用されています</string>
@@ -11935,7 +11935,7 @@
 < > 	<string>ナバホ語</string>
 < < 	<string>Navigator Studio</string>
 < > 	<string>ナビゲータスタジオ</string>
-> > 	<string>맨 앞으로 가져오기</string>
+> > 	<string>이름</string>
 < > 	<string>ナビゲータ</string>
 < < 	<string>Ndau</string>
 < > 	<string>ンダウ語</string>
@@ -12123,11 +12123,11 @@
 < > 	<string>新規パノラマドキュメント</string>
 < < 	<string>New stack document</string>
 < > 	<string>新規スタックドキュメント</string>
-> > 	<string>신규 레이어</string>
+< < 	<string>New...</string>
 < > 	<string>新規...</string>
 < < 	<string>Newa</string>
 < > 	<string>ネワール文字</string>
-> > 	<string>신규...</string>
+< < 	<string>Newari</string>
 < > 	<string>ネワーリー語</string>
 < < 	<string>Next Frame Page Number</string>
 < > 	<string>次のフレームページ番号</string>
@@ -12153,7 +12153,7 @@
 < > 	<string>ニウエー語</string>
 < < 	<string>No Brushes Added</string>
 < > 	<string>追加されたブラシはありません</string>
-> > 	<string>신규...</string>
+> > 	<string>신규 레이어</string>
 < > 	<string>カメラデータがありません</string>
 < < 	<string>No Data Source covers the page where field '%1' is used</string>
 < > 	<string>フィールド'%1'が使用されているページをカバーするデータソースがありません</string>
@@ -12743,9 +12743,9 @@
 < > 	<string>不透明度:</string>
 > > 	<string>불투명도:</string>
 < > 	<string>不透明度:</string>
-< < 	<string>Opaque Objects</string>
+> > 	<string>불투명도:</string>
 < > 	<string>不透明オブジェクト</string>
-< < 	<string>Open Curves</string>
+> > 	<string>불투명 오브젝트</string>
 < > 	<string>開いたカーブ</string>
 < < 	<string>Open Document Package</string>
 < > 	<string>ドキュメントパッケージを開く</string>
@@ -12833,19 +12833,19 @@
 < > 	<string>視覚的整列の値</string>
 < < 	<string>Optical alignment: %1</string>
 < > 	<string>視覚的整列: %1</string>
-< < 	<string>Options</string>
+> > 	<string>열린 곡선</string>
 < > 	<string>オプション</string>
-< < 	<string>Options</string>
+> > 	<string>설정</string>
 < > 	<string>オプション</string>
-< < 	<string>Orange</string>
+> > 	<string>설정</string>
 < > 	<string>橙</string>
-> > 	<string>불투명도:</string>
+> > 	<string>주황</string>
 < > 	<string>順序</string>
 > > 	<string>순서</string>
 < > 	<string>順序</string>
 < < 	<string>Order and Scale</string>
 < > 	<string>順序とスケール</string>
-< < 	<string>Ordinal</string>
+> > 	<string>순서</string>
 < > 	<string>序数</string>
 < < 	<string>Ordinals</string>
 < > 	<string>序数</string>
@@ -12903,7 +12903,7 @@
 < > 	<string>シャドウ(外側) フィルターエフェクトツール</string>
 < < 	<string>Outer Shadow Offset Tool</string>
 < > 	<string>外側シャドウオフセットツール</string>
-> > 	<string>순서</string>
+> > 	<string>서수</string>
 < > 	<string>外側</string>
 > > 	<string>외부</string>
 < > 	<string>外側</string>
@@ -13383,7 +13383,7 @@
 < > 	<string>パッチのスケール</string>
 < < 	<string>Path Group</string>
 < > 	<string>パスグループ</string>
-< < 	<string>Path Text</string>
+> > 	<string>붙이기</string>
 < > 	<string>パステキスト</string>
 < < 	<string>Path</string>
 < > 	<string>パス</string>
@@ -13397,7 +13397,7 @@
 < > 	<string>パスがフォルダとして存在します。ファイルはこのパスで書き出しできません。</string>
 < < 	<string>Path start</string>
 < > 	<string>パス始点</string>
-> > 	<string>붙이기</string>
+> > 	<string>경로 텍스트</string>
 < > 	<string>パス:</string>
 < < 	<string>Paths: Curves beginning with a Subtract op not supported</string>
 < > 	<string>パス: 減算で始まる曲線はサポートされていません</string>
@@ -13707,9 +13707,9 @@
 < > 	<string>ピクセルブラシ</string>
 < < 	<string>Pixel Layer</string>
 < > 	<string>ピクセルレイヤー</string>
-< < 	<string>Pixel Objects</string>
-< > 	<string>ピクセルオブジェクト</string>
 > > 	<string>픽셀 정렬</string>
+< > 	<string>ピクセルオブジェクト</string>
+> > 	<string>픽셀 오브젝트</string>
 < > 	<string>ピクセルペルソナ</string>
 > > 	<string>픽셀 페르소나</string>
 < > 	<string>ピクセルペルソナ</string>
@@ -14371,7 +14371,7 @@
 < > 	<string>句読点幅スペース</string>
 < < 	<string>Punjabi</string>
 < > 	<string>パンジャーブ語</string>
-< < 	<string>Purple</string>
+> > 	<string>당기기</string>
 < > 	<string>紫</string>
 < < 	<string>Push Forward Tool</string>
 < > 	<string>前に押し出しツール</string>
@@ -14409,7 +14409,7 @@
 < > 	<string>ケチュア語</string>
 < < 	<string>Quick Colours</string>
 < > 	<string>クイックカラー</string>
-> > 	<string>당기기</string>
+> > 	<string>보라</string>
 < > 	<string>クイックマスク</string>
 < < 	<string>Quotation Marks</string>
 < > 	<string>引用符</string>
@@ -15767,15 +15767,15 @@
 < > 	<string>360度回転</string>
 < < 	<string>Rotate Picture Frame content within the frame, |PRIMARY| to constrain. |TERTIARY| to ignore snapping.</string>
 < > 	<string>フレーム内でピクチャフレームを回転します。|PRIMARY|で固定します。|TERTIARY|でスナップを無視します。</string>
-< < 	<string>Rotate</string>
+> > 	<string>시계방향으로 회전</string>
 < > 	<string>回転</string>
-< < 	<string>Rotate</string>
+> > 	<string>회전</string>
 < > 	<string>回転</string>
-< < 	<string>Rotate</string>
+> > 	<string>회전</string>
 < > 	<string>回転</string>
-< < 	<string>Rotate</string>
+> > 	<string>회전</string>
 < > 	<string>回転</string>
-< < 	<string>Rotate</string>
+> > 	<string>회전</string>
 < > 	<string>回転</string>
 < < 	<string>Rotate anti-clockwise</string>
 < > 	<string>反時計回りに回転</string>
@@ -15791,7 +15791,7 @@
 < > 	<string>切り抜きの回転</string>
 < < 	<string>Rotate fill</string>
 < > 	<string>塗りつぶしの回転</string>
-> > 	<string>시계방향으로 회전</string>
+> > 	<string>회전</string>
 < > 	<string>グラデーションを回転</string>
 > > 	<string>그레이디언트 회전</string>
 < > 	<string>グラデーションを回転</string>
@@ -15847,7 +15847,7 @@
 < > 	<string>ラウンド線端</string>
 < < 	<string>Round Inverse</string>
 < > 	<string>ラウンド反転</string>
-> > 	<string>둥근 모자</string>
+> > 	<string>둥근 단면</string>
 < > 	<string>ラウンド結合</string>
 < < 	<string>Round Joins</string>
 < > 	<string>ラウンド結合</string>
@@ -16079,9 +16079,9 @@
 < > 	<string>メッシュを保存</string>
 > > 	<string>그물 저장</string>
 < > 	<string>プリセットを保存</string>
-< < 	<string>Save Styles as Default</string>
-< > 	<string>スタイルをデフォルトとして保存</string>
 > > 	<string>미리 설정 저장</string>
+< > 	<string>スタイルをデフォルトとして保存</string>
+> > 	<string>스타일을 기본값으로 저장</string>
 < > 	<string>保存</string>
 > > 	<string>저장</string>
 < > 	<string>保存</string>
@@ -16399,9 +16399,9 @@
 < > 	<string>選択-行-終了</string>
 < < 	<string>Select Midtones Tool</string>
 < > 	<string>中間階調部を選択ツール</string>
-< < 	<string>Select Object</string>
+> > 	<string>전체 선택</string>
 < > 	<string>オブジェクトを選択</string>
-< < 	<string>Select Object</string>
+> > 	<string>오브젝트 선택</string>
 < > 	<string>オブジェクトを選択</string>
 < < 	<string>Select Opaque Tool</string>
 < > 	<string>不透明部を選択ツール</string>
@@ -16423,9 +16423,9 @@
 < > 	<string>パスを選択</string>
 < < 	<string>Select Red Tools</string>
 < > 	<string>赤を選択ツール</string>
-< < 	<string>Select Same</string>
+> > 	<string>오브젝트 선택</string>
 < > 	<string>同一を選択</string>
-< < 	<string>Select Same</string>
+> > 	<string>동일 선택</string>
 < > 	<string>同一を選択</string>
 < < 	<string>Select Sampled Colour Tool</string>
 < > 	<string>サンプルカラー選択ツール</string>
@@ -16445,7 +16445,7 @@
 < > 	<string>目次を選択</string>
 < < 	<string>Select Tonal Range</string>
 < > 	<string>階調範囲を選択</string>
-> > 	<string>전체 선택</string>
+> > 	<string>동일 선택</string>
 < > 	<string>透明範囲を選択</string>
 < < 	<string>Select Transparent Tool</string>
 < > 	<string>透明部を選択ツール</string>
@@ -16529,7 +16529,7 @@
 < > 	<string>スペル誤りのテキストを選択</string>
 < < 	<string>Select new object</string>
 < > 	<string>新しいオブジェクトを選択</string>
-< < 	<string>Select object</string>
+> > 	<string>선택</string>
 < > 	<string>オブジェクトを選択</string>
 < < 	<string>Select opaque</string>
 < > 	<string>不透明部を選択</string>
@@ -16557,7 +16557,7 @@
 < > 	<string>赤を選択</string>
 < < 	<string>Select reds</string>
 < > 	<string>赤を選択</string>
-< < 	<string>Select same</string>
+> > 	<string>오브젝트 선택</string>
 < > 	<string>同一を選択</string>
 < < 	<string>Select sampled colour</string>
 < > 	<string>サンプルカラーの選択</string>
@@ -16621,7 +16621,7 @@
 < > 	<string>レイヤーからの選択範囲</string>
 < < 	<string>Selection From Layer</string>
 < > 	<string>レイヤーからの選択範囲</string>
-> > 	<string>선택</string>
+> > 	<string>동일 선택</string>
 < > 	<string>選択マーキー</string>
 < < 	<string>Selection Raster</string>
 < > 	<string>選択ラスター</string>
@@ -17259,7 +17259,7 @@
 < > 	<string>ラインノイズを設定</string>
 < < 	<string>Set line noise</string>
 < > 	<string>ラインノイズを設定</string>
-> > 	<string>선 모자 스타일 설정</string>
+> > 	<string>선 단면 스타일 설정</string>
 < > 	<string>ラインスタイルのスケールを設定</string>
 < < 	<string>Set line tint</string>
 < > 	<string>ラインの色合いを設定</string>
@@ -17775,35 +17775,35 @@
 < > 	<string>角丸長方形シェイプツール</string>
 < < 	<string>Shape Text</string>
 < > 	<string>シェイプテキスト</string>
-< < 	<string>Shape</string>
+> > 	<string>그림자</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shape</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shape</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shape</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shape</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shape</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shape</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
 < < 	<string>Shape: %1</string>
 < > 	<string>シェイプ: %1</string>
-< < 	<string>Shapes</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shapes</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shapes</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shapes</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
-< < 	<string>Shapes</string>
+> > 	<string>모양</string>
 < > 	<string>シェイプ</string>
 < < 	<string>Sharada</string>
 < > 	<string>シャーラダー文字</string>
-> > 	<string>그림자</string>
+> > 	<string>모양</string>
 < > 	<string>シャープ</string>
 > > 	<string>날카롭게</string>
 < > 	<string>シャープ</string>
@@ -17839,21 +17839,21 @@
 < > 	<string>シアーツール</string>
 > > 	<string>날카롭게</string>
 < > 	<string>シアー</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>シアー</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>シアー</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>シアー</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>シアー</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>シアー</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>シアー</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>シアー</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>シアー</string>
 < < 	<string>Shear of selection</string>
 < > 	<string>選択範囲のシアー</string>
@@ -17875,7 +17875,7 @@
 < > 	<string>すべてのテキストを表示/非表示</string>
 < < 	<string>Show Alignment Handles</string>
 < > 	<string>整列ハンドルを表示</string>
-> > 	<string>기울임</string>
+> > 	<string>비틀기</string>
 < > 	<string>すべて表示</string>
 > > 	<string>모두 보기</string>
 < > 	<string>すべて表示</string>
@@ -18733,7 +18733,7 @@
 < > 	<string>直角星形</string>
 < < 	<string>Square Tail</string>
 < > 	<string>四角の末端</string>
-> > 	<string>사각 모자</string>
+> > 	<string>사각 단면</string>
 < > 	<string>スクエア</string>
 > > 	<string>사각형</string>
 < > 	<string>スクエア</string>
@@ -18825,7 +18825,7 @@
 < > 	<string>開始</string>
 < < 	<string>Start on page</string>
 < > 	<string>開始ページ</string>
-< < 	<string>Start on:</string>
+> > 	<string>시작 각도:</string>
 < > 	<string>開始:</string>
 < < 	<string>Start page numbering at</string>
 < > 	<string>次でページ番号付けを開始</string>
@@ -18853,7 +18853,7 @@
 < > 	<string>ステータス</string>
 < < 	<string>Status</string>
 < > 	<string>ステータス</string>
-> > 	<string>시작 각도:</string>
+> > 	<string>개시:</string>
 < > 	<string>標準偏差: %1</string>
 < < 	<string>Step Length (ms)</string>
 < > 	<string>ステップ長さ (ms)</string>
@@ -18947,13 +18947,13 @@
 < > 	<string>すべてのEXIFを削除</string>
 < < 	<string>Strip GPS Location</string>
 < > 	<string>GPSの位置を削除</string>
-< < 	<string>Stroke Colour</string>
+> > 	<string>취소선</string>
 < > 	<string>境界線カラー</string>
 < < 	<string>Stroke Studio</string>
 < > 	<string>境界線スタジオ</string>
-< < 	<string>Stroke Weight</string>
+> > 	<string>선 색상</string>
 < > 	<string>境界線の重み</string>
-> > 	<string>취소선</string>
+> > 	<string>선 두께</string>
 < > 	<string>境界線</string>
 > > 	<string>선</string>
 < > 	<string>境界線</string>
@@ -18983,11 +18983,11 @@
 < > 	<string>境界線が狭すぎます(白 @ %1)</string>
 > > 	<string>선</string>
 < > 	<string>境界線:</string>
-< < 	<string>Stroked Objects</string>
+> > 	<string>선:</string>
 < > 	<string>境界線付きオブジェクト</string>
 < < 	<string>Strong Emphasis</string>
 < > 	<string>最も強く強調</string>
-> > 	<string>선:</string>
+> > 	<string>선이 있는 오브젝트</string>
 < > 	<string>特に強調</string>
 < < 	<string>Structure Change</string>
 < > 	<string>構造の変更</string>
@@ -19179,7 +19179,7 @@
 < > 	<string>スワップ</string>
 > > 	<string>교대</string>
 < > 	<string>スワップ</string>
-< < 	<string>Swap arrow head with tail</string>
+> > 	<string>교대</string>
 < > 	<string>矢印の先端と根元を入れ換えます</string>
 < < 	<string>Swap before / after</string>
 < > 	<string>前後をスワップ</string>
@@ -19217,7 +19217,7 @@
 < > 	<string>スワッシュ字形</string>
 < < 	<string>Swashes</string>
 < > 	<string>スワッシュ字形</string>
-> > 	<string>교대</string>
+> > 	<string>화살표 머리를 꼬리와 교대</string>
 < > 	<string>スウォッチ</string>
 > > 	<string>견본</string>
 < > 	<string>スウォッチ</string>
@@ -19465,7 +19465,7 @@
 < > 	<string>表形式</string>
 < < 	<string>Tachelhit</string>
 < > 	<string>タシルハイト語</string>
-< < 	<string>Tag Colour</string>
+> > 	<string>탭</string>
 < > 	<string>タグカラー</string>
 < < 	<string>Tag</string>
 < > 	<string>タグ</string>
@@ -19517,7 +19517,7 @@
 < > 	<string>テールの高さ:</string>
 < < 	<string>Tail position of the tear</string>
 < > 	<string>涙形のテールの位置</string>
-> > 	<string>탭</string>
+> > 	<string>태그 색상</string>
 < > 	<string>テールの位置:</string>
 > > 	<string>꼬리 위치:</string>
 < > 	<string>テールの位置:</string>
@@ -20235,7 +20235,7 @@
 < > 	<string>タイトル例外</string>
 < < 	<string>Title Exceptions</string>
 < > 	<string>タイトル例外</string>
-< < 	<string>Title</string>
+> > 	<string>틴트</string>
 < > 	<string>タイトル</string>
 < < 	<string>Title:</string>
 < > 	<string>タイトル:</string>
@@ -20389,7 +20389,7 @@
 < > 	<string>ホワイトバランスを切り替え</string>
 < < 	<string>Tok Pisin</string>
 < > 	<string>トク・ピシン</string>
-> > 	<string>틴트</string>
+> > 	<string>타이틀</string>
 < > 	<string>許容量</string>
 > > 	<string>허용량</string>
 < > 	<string>許容量</string>
@@ -20641,15 +20641,15 @@
 < > 	<string>透明度ツール</string>
 > > 	<string>투명 도구</string>
 < > 	<string>透明度ツール</string>
-< < 	<string>Transparency</string>
+> > 	<string>투명 도구</string>
 < > 	<string>透明度</string>
-< < 	<string>Transparency</string>
+> > 	<string>투명도</string>
 < > 	<string>透明度</string>
 < < 	<string>Transparent Canvas</string>
 < > 	<string>透明なキャンバス</string>
-< < 	<string>Transparent Objects</string>
+> > 	<string>투명도</string>
 < > 	<string>透明オブジェクト</string>
-> > 	<string>투명 도구</string>
+> > 	<string>투명 오브젝트</string>
 < > 	<string>透明</string>
 > > 	<string>투명</string>
 < > 	<string>透明</string>
@@ -20743,37 +20743,37 @@
 < > 	<string>渦巻きツール</string>
 < < 	<string>Twirl Tool</string>
 < > 	<string>渦巻きツール</string>
-< < 	<string>Twirl</string>
-< > 	<string>渦巻き</string>
-< < 	<string>Twirl</string>
-< > 	<string>渦巻き</string>
-< < 	<string>Twirl</string>
-< > 	<string>渦巻き</string>
-< < 	<string>Twirl</string>
-< > 	<string>渦巻き</string>
-< < 	<string>Twirl</string>
-< > 	<string>渦巻き</string>
-< < 	<string>Twirl</string>
-< > 	<string>渦巻き</string>
-< < 	<string>Twirl</string>
-< > 	<string>渦巻き</string>
-< < 	<string>Twirl</string>
-< > 	<string>渦巻き</string>
-< < 	<string>Type</string>
-< > 	<string>タイプ</string>
-< < 	<string>Type</string>
-< > 	<string>タイプ</string>
-< < 	<string>Type</string>
-< > 	<string>タイプ</string>
-< < 	<string>Type</string>
-< > 	<string>タイプ</string>
-< < 	<string>Type</string>
-< > 	<string>タイプ</string>
-< < 	<string>Type</string>
-< > 	<string>タイプ</string>
-< < 	<string>Type</string>
-< > 	<string>タイプ</string>
 > > 	<string>삼각형 도구</string>
+< > 	<string>渦巻き</string>
+> > 	<string>소용돌이</string>
+< > 	<string>渦巻き</string>
+> > 	<string>소용돌이</string>
+< > 	<string>渦巻き</string>
+> > 	<string>소용돌이</string>
+< > 	<string>渦巻き</string>
+> > 	<string>소용돌이</string>
+< > 	<string>渦巻き</string>
+> > 	<string>소용돌이</string>
+< > 	<string>渦巻き</string>
+> > 	<string>소용돌이</string>
+< > 	<string>渦巻き</string>
+> > 	<string>소용돌이</string>
+< > 	<string>渦巻き</string>
+< < 	<string>Type</string>
+< > 	<string>タイプ</string>
+< < 	<string>Type</string>
+< > 	<string>タイプ</string>
+< < 	<string>Type</string>
+< > 	<string>タイプ</string>
+< < 	<string>Type</string>
+< > 	<string>タイプ</string>
+< < 	<string>Type</string>
+< > 	<string>タイプ</string>
+< < 	<string>Type</string>
+< > 	<string>タイプ</string>
+< < 	<string>Type</string>
+< > 	<string>タイプ</string>
+> > 	<string>소용돌이</string>
 < > 	<string>タイプ:</string>
 > > 	<string>종류:</string>
 < > 	<string>タイプ:</string>
@@ -20889,11 +20889,11 @@
 < > 	<string>一般的でないフォント</string>
 < < 	<string>Unconstrained</string>
 < > 	<string>制約なし</string>
-< < 	<string>Undashed Objects</string>
+> > 	<string>스타일을 들여올 수 없습니다.</string>
 < > 	<string>破線なしオブジェクト</string>
 < < 	<string>Underline Colour</string>
 < > 	<string>下線の色</string>
-> > 	<string>스타일을 들여올 수 없습니다.</string>
+> > 	<string>점선 없는 오브젝트</string>
 < > 	<string>下線</string>
 > > 	<string>밑줄</string>
 < > 	<string>下線</string>
@@ -20957,23 +20957,23 @@
 < > 	<string>予期しないトークンです</string>
 < < 	<string>Unexpected unit float type</string>
 < > 	<string>予期しないユニットフロートタイプです</string>
-< < 	<string>Unfilled Objects</string>
+> > 	<string>실행 취소</string>
 < > 	<string>塗りつぶされていないオブジェクト</string>
 < < 	<string>Unfiltered Index:</string>
 < > 	<string>フィルターされていないインデックス:</string>
-> > 	<string>실행 취소</string>
+> > 	<string>칠이 없는 오브젝트</string>
 < > 	<string>すべてグループ解除</string>
-> > 	<string>모든 그룹 해제</string>
+> > 	<string>모든 그룹 풀기</string>
 < > 	<string>グループ解除</string>
-> > 	<string>그룹 해제</string>
+> > 	<string>그룹 풀기</string>
 < > 	<string>グループ解除</string>
-> > 	<string>그룹 해제</string>
+> > 	<string>그룹 풀기</string>
 < > 	<string>グループ解除</string>
-> > 	<string>그룹 해제</string>
+> > 	<string>그룹 풀기</string>
 < > 	<string>グループ解除</string>
-> > 	<string>그룹 해제</string>
+> > 	<string>그룹 풀기</string>
 < > 	<string>グループ解除</string>
-> > 	<string>그룹 해제</string>
+> > 	<string>그룹 풀기</string>
 < > 	<string>グループ解除</string>
 < < 	<string>Ungroup all</string>
 < > 	<string>すべてグループ解除</string>
@@ -21023,7 +21023,7 @@
 < > 	<string>単位</string>
 < < 	<string>Units</string>
 < > 	<string>単位</string>
-> > 	<string>그룹 해제</string>
+> > 	<string>그룹 풀기</string>
 < > 	<string>単位:</string>
 > > 	<string>단위:</string>
 < > 	<string>単位:</string>
@@ -21157,11 +21157,11 @@
 < > 	<string>リンクされていない属性: %@</string>
 > > 	<string>단위:</string>
 < > 	<string>すべてロック解除</string>
-> > 	<string>모두 잠금 해제</string>
+> > 	<string>모두 잠금 풀기</string>
 < > 	<string>すべてロック解除</string>
-> > 	<string>모두 잠금 해제</string>
+> > 	<string>모두 잠금 풀기</string>
 < > 	<string>ロックを解除</string>
-> > 	<string>잠금 해제</string>
+> > 	<string>잠금 풀기</string>
 < > 	<string>ロックを解除</string>
 < < 	<string>Unmanaged</string>
 < > 	<string>アンマネージド</string>
@@ -21217,7 +21217,7 @@
 < > 	<string>アンシャープマスク</string>
 < < 	<string>Unsharp Mask</string>
 < > 	<string>アンシャープマスク</string>
-< < 	<string>Unstroked Objects</string>
+> > 	<string>잠금 풀기</string>
 < > 	<string>境界線なしオブジェクト</string>
 < < 	<string>Unsupported Gradient format</string>
 < > 	<string>サポートされていないグラデーション形式です</string>
@@ -21235,7 +21235,7 @@
 < > 	<string>サポートされていないピクセル形式です</string>
 < < 	<string>Unsupported properties</string>
 < > 	<string>サポートされていないプロパティ</string>
-> > 	<string>잠금 해제</string>
+> > 	<string>선이 없는 오브젝트</string>
 < > 	<string>名称未設定</string>
 > > 	<string>이름 없음</string>
 < > 	<string>名称未設定</string>
@@ -21425,11 +21425,11 @@
 < > 	<string>ベクター切り抜きツール</string>
 < < 	<string>Vector Layer</string>
 < > 	<string>ベクターレイヤー</string>
-< < 	<string>Vector Layers</string>
+> > 	<string>벡터 크롭 도구</string>
 < > 	<string>ベクターレイヤー</string>
 < < 	<string>Vector Select All</string>
 < > 	<string>ベクターすべて選択</string>
-> > 	<string>벡터 크롭 도구</string>
+> > 	<string>벡터 레이어</string>
 < > 	<string>ベクター</string>
 > > 	<string>벡터</string>
 < > 	<string>ベクター</string>
@@ -21575,15 +21575,15 @@
 < > 	<string>ヴォラピュク</string>
 < < 	<string>Voronoi Tool</string>
 < > 	<string>ボロノイツール</string>
-< < 	<string>Voronoi</string>
+> > 	<string>비네트</string>
 < > 	<string>ボロノイ</string>
-< < 	<string>Voronoi</string>
+> > 	<string>보로노이</string>
 < > 	<string>ボロノイ</string>
-< < 	<string>Voronoi</string>
+> > 	<string>보로노이</string>
 < > 	<string>ボロノイ</string>
-< < 	<string>Voronoi</string>
+> > 	<string>보로노이</string>
 < > 	<string>ボロノイ</string>
-< < 	<string>Voronoi</string>
+> > 	<string>보로노이</string>
 < > 	<string>ボロノイ</string>
 < < 	<string>Võro</string>
 < > 	<string>ヴォロ語</string>
@@ -21627,7 +21627,7 @@
 < > 	<string>西部パンジャーブ語</string>
 < < 	<string>Western Pwo Karen</string>
 < > 	<string>西ポー・カレン語</string>
-> > 	<string>비네트</string>
+> > 	<string>보로노이</string>
 > < 	<string>Web</string>
 > > 	<string>웹</string>
 > < 	<string>Web</string>
@@ -21857,15 +21857,15 @@
 < > 	<string>コサ語</string>
 > > 	<string>변형</string>
 < > 	<string>排他的論理和</string>
-> > 	<string>배타</string>
+> > 	<string>배타적논리합</string>
 < > 	<string>排他的論理和</string>
-> > 	<string>배타</string>
+> > 	<string>배타적논리합</string>
 < > 	<string>排他的論理和</string>
-> > 	<string>배타</string>
+> > 	<string>배타적논리합</string>
 < > 	<string>排他的論理和</string>
-> > 	<string>배타</string>
+> > 	<string>배타적논리합</string>
 < > 	<string>排他的論理和</string>
-> > 	<string>배타</string>
+> > 	<string>배타적논리합</string>
 < > 	<string>排他的論理和</string>
 < < 	<string>Y Equation</string>
 < > 	<string>Y方程式</string>
@@ -21887,7 +21887,7 @@
 < > 	<string>ヤオ語</string>
 < < 	<string>Yapese</string>
 < > 	<string>ヤップ語</string>
-> > 	<string>배타</string>
+> > 	<string>배타적논리합</string>
 < > 	<string>ヤード</string>
 > > 	<string>야드</string>
 < > 	<string>ヤード</string>
@@ -22731,7 +22731,7 @@
 < > 	<string>|DRAG|で、現在の傷領域を移動します。|CLICK|で選択します。</string>
 < < 	<string>|DRAG| to pan 360° pixel layer.</string>
 < > 	<string>|DRAG|でピクセルレイヤーを360度パンします。</string>
-> > 	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>
+> > 	<string>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 오브젝트를 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</string>
 < > 	<string>|DRAG|で表示をパンします。</string>
 < < 	<string>|DRAG| to pan view. |SECONDARY| to enter zoom mode.</string>
 < > 	<string>|DRAG|で表示をパンします。|SECONDARY|でズームモードに入ります。</string>
