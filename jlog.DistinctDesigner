@@ -15,8 +15,8 @@ for (( i = 0; i < ${#nib[@]}; i++ )); do
   KORFILE=${KORPATH}/${nib[i]}.nib
   MIDFILE=${MIDPATH}/${nib[i]}.nib
   sudo plutil -convert xml1 "${JAPFILE}/keyedobjects.nib"
-  sudo diff "${ENGPATH}" "${JAPFILE}/keyedobjects.nib" | grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log
-  sudo diff "${ENGPATH}" "${MIDPATH}" | grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log
+  sudo diff "${ENGFILE}" "${JAPFILE}/keyedobjects.nib" | grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log
+  sudo diff "${ENGFILE}" "${MIDFILE}" | grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log
   sudo diff ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log | grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.ja-ko.log
   echo " (log 파일 생성)"
   git add ~/Affin.ko/Diff/
