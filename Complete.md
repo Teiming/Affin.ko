@@ -1,6 +1,6 @@
 # Affinity Designer 1.9.0
 ## Menu (13)
-## Frameworks (17/334)
+## Frameworks (23/334)
  1. AutoCorrectRulesTableView
  1. BaselineGridVisibiityViewController
  1. BaselineGridVisibilityViewController
@@ -18,6 +18,12 @@
  1. SuggestionsViewController
  1. TableExtenderViewController
  1. VoronoiEffect
+ 1. ?
+ 1. ?
+ 1. ?
+ 1. ?
+ 1. ?
+ 1. ?
 # Affinity Photo 1.9.0
 ## Menu (?)
 ## Frameworks (?)
