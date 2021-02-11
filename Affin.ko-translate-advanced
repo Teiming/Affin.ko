@@ -49,7 +49,7 @@ FILECOUNT=$(ls -a "${JAPPATH}" | grep "i" | sed -n "=" | tail -n "1")
 for (( i = 1; i <= ${FILECOUNT}; i++ ))
 do
   NAME=$(/bin/ls "${JAPPATH}" | /usr/bin/sed -n "${i}p")
-  echo -n "${i}/${FILECOUNT} ${NAME}"
+  sudo echo -n "${i}/${FILECOUNT} ${NAME}"
   sed -f "${DICPATH}" "${ENGPATH}${NAME}" > "${MIDPATH}${NAME}"
   echo -n " (번역 종료)"
   case ${Frameworks} in
