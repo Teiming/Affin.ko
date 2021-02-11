@@ -6,7 +6,10 @@ JAPPATH=${APPPATH}/ja.lproj
 KORPATH=${APPPATH}/ko.lproj
 MIDPATH=~/Affin.ko-translated/Affinity\ Publisher\ \ Frameworks
 # array 생성
-nib=("AnchorsPage")
+nib=("AnchorsPage" "AstroStackFilesPage" "AstroStackResultsPage" "DataMergeManagerWindowController"
+"HyperlinkPage" "IndexPage" "LayerPage" "PackageDocumentWindowController" "ParagraphPage"
+"Preferences" "ResourceManagerWindowController" "SectionsWindowController" "SnapshotsPage"
+"TextFramePage" "TocPage" "UserStatusView" "WorkspacePresetWindowController")
 # 변환
 for (( i = 0; i < ${#nib[@]}; i++ )); do
   echo "Converting ${nib[i]}"
@@ -29,7 +32,7 @@ for (( i = 0; i < ${#nib[@]}; i++ )); do
   git commit -m "Affinity Publisher ${APPVERS} ${nib[i]}.nib/ Updated"
 done
 sudo rm -dr "${MIDPATH}/.DS_Store"
-sudo rm -dr "${MIDPATH}/Preferences.nib"
+# sudo rm -dr "${MIDPATH}/Preferences.nib"
 sudo rsync -av --delete "${MIDPATH}/" "${KORPATH}/"
 echo " (mid-kr에서 kr로)"
 
