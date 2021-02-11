@@ -1,6 +1,8 @@
 # Affinity Designer 1.9.0
 ## Menu (13)
-## Frameworks (1/334)
+## Frameworks (3/334)
+ * BaselineGridVisibiityViewController
+ * BaselineGridVisibilityViewController
  * VoronoiEffect
 # Affinity Photo 1.9.0
 ## Menu (?)
