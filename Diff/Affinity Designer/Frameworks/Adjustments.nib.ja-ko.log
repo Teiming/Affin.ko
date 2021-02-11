@@ -1,104 +1,241 @@
-> < 		<string>Offset</string>
+< < 		<string>Picker</string>
+< > 		<string>選択</string>
+< < 		<string>Channel 1</string>
+< > 		<string>チャンネル1</string>
+< < 		<string>Channel 2</string>
+< > 		<string>チャンネル2</string>
+< < 		<string>Channel 3</string>
+< > 		<string>チャンネル3</string>
+< < 		<string>Channel 4</string>
+< > 		<string>チャンネル4</string>
+< < 		<string>Channel 5</string>
+< > 		<string>チャンネル5</string>
+< > 		<string>オフセット</string>
+< < 		<string>Gray</string>
+< > 		<string>グレー</string>
+< < 		<string>Preserve luminosity</string>
+< > 		<string>輝度を維持</string>
+< < 		<string>Midtones</string>
+< > 		<string>中間調</string>
 > > 		<string>편차</string>
 > < 		<string>OtherViews</string>
 > > 		<string>다른 보기</string>
-> < 		<string>Shadows</string>
+< > 		<string>シャドウ</string>
+< < 		<string>Highlights</string>
+< > 		<string>ハイライト</string>
+< < 		<string>Gradient Button</string>
+< > 		<string>グラデーションボタン</string>
 > > 		<string>그림자</string>
-> < 		<string>Max:</string>
+< > 		<string>最大を入力:</string>
 > > 		<string>최대:</string>
-> < 		<string>Min:</string>
+< > 		<string>最小を入力:</string>
+< > 		<string>グレー</string>
+< > 		<string>選択</string>
+< < 		<string>Infer LUT...</string>
+< > 		<string>LUTを推測...</string>
+< > 		<string>グレー</string>
 > > 		<string>최소:</string>
-> < 		<string>Linear</string>
+< > 		<string>線形</string>
+< < 		<string>Load LUT...</string>
+< > 		<string>LUTを読み込み...</string>
+< < 		<string>Name: Identity</string>
+< > 		<string>名前: アイデンティティ</string>
 > > 		<string>선형</string>
-> < 		<string>Add Preset</string>
+< > 		<string>プリセットを追加</string>
 > > 		<string>미리 설정 추가</string>
-> < 		<string>Blend Mode:</string>
+< > 		<string>描画モード:</string>
 > > 		<string>혼합 모드:</string>
-> < 		<string>Delete</string>
+< > 		<string>削除</string>
 > > 		<string>지우기</string>
-> < 		<string>Merge</string>
+< > 		<string>結合</string>
 > > 		<string>통합</string>
-> < 		<string>Opacity:</string>
+< > 		<string>不透明度:</string>
 > > 		<string>불투명도:</string>
-> < 		<string>Reset</string>
+< > 		<string>リセット</string>
+< < 		<string>Preserve Luminosity</string>
+< > 		<string>輝度を維持</string>
+< < 		<string>Black point compensation</string>
+< > 		<string>黒点補正</string>
+< < 		<string>Gamut Check</string>
+< > 		<string>色域チェック</string>
+< < 		<string>Perceptual</string>
+< > 		<string>知覚</string>
+< < 		<string>Relative Colourimetric</string>
+< > 		<string>相対的な色彩を保持</string>
 > > 		<string>재설정</string>
-> < 		<string>Saturation</string>
+< > 		<string>彩度</string>
+< < 		<string>Absolute Colourimetric</string>
+< > 		<string>絶対的な色彩を保持</string>
+< < 		<string>Rendering Intent:</string>
+< > 		<string>レンダリングインテント:</string>
+< < 		<string>Reds</string>
+< > 		<string>赤</string>
+< < 		<string>Yellows</string>
+< > 		<string>黄</string>
+< < 		<string>Greens</string>
+< > 		<string>緑</string>
+< < 		<string>Cyans</string>
+< > 		<string>シアン</string>
+< < 		<string>Blues</string>
+< > 		<string>青</string>
+< < 		<string>Magentas</string>
+< > 		<string>マゼンタ</string>
+< < 		<string>Whites</string>
+< > 		<string>白</string>
+< < 		<string>Neutrals</string>
+< > 		<string>中間色</string>
+< < 		<string>Blacks</string>
+< > 		<string>黒</string>
+< < 		<string>Relative</string>
+< > 		<string>相対</string>
 > > 		<string>채도</string>
 > < 		<string>Text Cell</string>
 > > 		<string>텍스트 셀</string>
-> < 		<string>Exposure</string>
+< > 		<string>露出</string>
+< > 		<string>露出</string>
+< < 		<string>Posterise Levels</string>
+< > 		<string>ポスタライズレベル</string>
 > > 		<string>노출</string>
-> < 		<string>Posterise</string>
+< > 		<string>ポスタライズ</string>
+< < 		<string>Black Level</string>
+< > 		<string>黒レベル</string>
+< < 		<string>White Level</string>
+< > 		<string>白レベル</string>
 > > 		<string>포스터화</string>
-> < 		<string>Gamma</string>
+< > 		<string>ガンマ</string>
+< < 		<string>Output Black Level</string>
+< > 		<string>出力の黒レベル</string>
+< < 		<string>Output White Level</string>
+< > 		<string>出力の白レベル</string>
 > > 		<string>감마</string>
-> < 		<string>Levels</string>
+< > 		<string>レベル</string>
 > > 		<string>레벨</string>
-> < 		<string>Brightness</string>
+< > 		<string>明るさ</string>
 > > 		<string>명암</string>
-> < 		<string>Contrast</string>
+< > 		<string>コントラスト</string>
+< < 		<string>Brightness Contrast</string>
+< > 		<string>明るさコントラスト</string>
+< < 		<string>Saturation Shift</string>
+< > 		<string>彩度のシフト</string>
+< < 		<string>Luminosity Shift</string>
+< > 		<string>輝度のシフト</string>
+< < 		<string>Hue Shift</string>
+< > 		<string>色相のシフト</string>
 > > 		<string>대비</string>
-> < 		<string>Vibrance</string>
+< > 		<string>自然な彩度</string>
+< > 		<string>彩度</string>
+< > 		<string>自然な彩度</string>
 > > 		<string>활기</string>
-> < 		<string>Threshold</string>
+< > 		<string>しきい値</string>
+< > 		<string>しきい値</string>
+< > 		<string>選択</string>
 > > 		<string>역치</string>
-> < 		<string>Curves</string>
+< > 		<string>カーブ</string>
 > > 		<string>곡선</string>
-> < 		<string>White Balance</string>
+< > 		<string>ホワイトバランス</string>
 > > 		<string>화이트 밸런스</string>
-> < 		<string>Tint</string>
+< > 		<string>色合い</string>
+< > 		<string>選択</string>
 > > 		<string>틴트</string>
-> < 		<string>White Balance</string>
+< > 		<string>ホワイトバランス</string>
+< < 		<string>Output Channel</string>
+< > 		<string>出力チャンネル</string>
 > > 		<string>화이트 밸런스</string>
-> < 		<string>Channel Mixer</string>
+< > 		<string>チャンネルミキサー</string>
 > > 		<string>채널 혼합</string>
-> < 		<string>Red</string>
+< > 		<string>赤</string>
 > > 		<string>빨강</string>
-> < 		<string>Green</string>
+< > 		<string>緑</string>
 > > 		<string>초록</string>
-> < 		<string>Blue</string>
+< > 		<string>青</string>
+< < 		<string>Cyan</string>
+< > 		<string>シアン</string>
+< < 		<string>Magenta</string>
+< > 		<string>マゼンタ</string>
 > > 		<string>파랑</string>
-> < 		<string>Yellow</string>
+< > 		<string>黄</string>
 > > 		<string>노랑</string>
-> < 		<string>Black &amp; White</string>
+< > 		<string>白黒</string>
+< < 		<string>Proof Profile</string>
+< > 		<string>校正プロファイル</string>
 > > 		<string>흑백</string>
-> < 		<string>Soft Proof</string>
+< > 		<string>ソフト校正</string>
 > > 		<string>미리보기</string>
-> < 		<string>Insert</string>
+< > 		<string>挿入</string>
+< > 		<string>削除</string>
 > > 		<string>삽입</string>
-> < 		<string>Position:</string>
+< > 		<string>位置:</string>
+< < 		<string>Mid Point:</string>
+< > 		<string>中間点:</string>
 > > 		<string>위치:</string>
-> < 		<string>Colour:</string>
+< > 		<string>カラー:</string>
+< < 		<string>Gradient Button</string>
+< > 		<string>グラデーションボタン</string>
 > > 		<string>색상:</string>
-> < 		<string>Opacity:</string>
+< > 		<string>不透明度:</string>
+< < 		<string>Reverse</string>
+< > 		<string>反転</string>
 > > 		<string>불투명도:</string>
-> < 		<string>Copy</string>
+< > 		<string>コピー</string>
 > > 		<string>복사</string>
-> < 		<string>Gradient Map</string>
+< > 		<string>グラデーションマップ</string>
 > > 		<string>그레이디언트 맵</string>
-> < 		<string>Colour</string>
+< > 		<string>カラー</string>
+< > 		<string>シアン</string>
+< > 		<string>マゼンタ</string>
+< > 		<string>黄</string>
 > > 		<string>색상</string>
-> < 		<string>Black</string>
+< > 		<string>黒</string>
 > > 		<string>검정</string>
-> < 		<string>Selective Colour</string>
+< > 		<string>特定色域</string>
 > > 		<string>색상 선택</string>
-> < 		<string>Hue</string>
+< > 		<string>色相</string>
+< > 		<string>彩度</string>
 > > 		<string>색채</string>
-> < 		<string>Lightness</string>
+< > 		<string>明るさ</string>
 > > 		<string>밝기</string>
-> < 		<string>Recolour</string>
+< > 		<string>リカラー</string>
+< > 		<string>シャドウ</string>
+< < 		<string>Highlights</string>
+< > 		<string>ハイライト</string>
 > > 		<string>재색상</string>
-> < 		<string>Shadows / Highlights</string>
+< > 		<string>シャドウ/ハイライト</string>
+< < 		<string>Cyan / Red</string>
+< > 		<string>シアン/赤</string>
+< < 		<string>Magenta / Green</string>
+< > 		<string>マゼンタ/緑</string>
+< < 		<string>Yellow / Blue</string>
+< > 		<string>黄/青</string>
 > > 		<string>그림자 / 빛</string>
-> < 		<string>Tonal Range</string>
+< > 		<string>階調範囲</string>
 > > 		<string>색조 범위</string>
-> < 		<string>Colour Balance</string>
+< > 		<string>カラーバランス</string>
+< < 		<string>Filter Colour</string>
+< > 		<string>フィルターカラー</string>
+< < 		<string>Optical Density</string>
+< > 		<string>光学密度</string>
 > > 		<string>색상 밸런스</string>
-> < 		<string>Lens Filter</string>
+< > 		<string>レンズフィルター</string>
+< < 		<string>Highlights Hue</string>
+< > 		<string>ハイライトの色相</string>
+< < 		<string>Highlights Saturation</string>
+< > 		<string>ハイライトの彩度</string>
+< < 		<string>Shadows Hue</string>
+< > 		<string>シャドウの色相</string>
+< < 		<string>Shadows Saturation</string>
+< > 		<string>シャドウの彩度</string>
 > > 		<string>렌즈 필터</string>
-> < 		<string>Balance</string>
+< > 		<string>バランス</string>
 > > 		<string>밸런스</string>
-> < 		<string>Split Toning</string>
+< > 		<string>明暗別色補正</string>
+< < 		<string>Source Colour Space</string>
+< > 		<string>ソース色空間</string>
+< < 		<string>Destination Colour Space</string>
+< > 		<string>デスティネーション色空間</string>
 > > 		<string>분할 색조</string>
-> < 		<string>Adjustments</string>
+< > 		<string>調整</string>
+< < 		<string>Add Sublayer</string>
+< > 		<string>サブレイヤーを追加</string>
+< < 		<string>Blend Ranges</string>
+< > 		<string>ブレンド範囲</string>
 > > 		<string>조정</string>
