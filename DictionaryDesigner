@@ -297,7 +297,7 @@ s/g>Create Palette From Document</g>문서로부터 팔레트 생성</
 s/g>Create Palette From Image…</g>이미지로부터 팔레트 생성…</
 s/g>Create Paragraph Style</g>문단 스타일 생성</
 s/g>Create Preset…</g>미리 설정 생성…</
-s/g>Create Slice from the currently selected object</g>지금 선택된 대상으로부터 슬라이스 생성</
+s/g>Create Slice from the currently selected object</g>지금 선택된 오브젝트로부터 슬라이스 생성</
 s/g>Create Slice</g>슬라이스 생성</
 s/g>Create Style</g>스타일 생성</
 s/g>Create a new document by pressing 'New Document' below - or open existing work using File -\&gt; Open. Click a sample below to download and view it. Visit our forum or tag with #madeinaffinity in the usual places. We'd love to see what you're up to...</g>아래 '신규 문서'를 눌러서 새 문서를 생성하십시오 - 또는</
@@ -669,7 +669,7 @@ s/g>Load</g>불러오기</
 s/g>Location</g>위치</
 s/g>Lock Guides</g>안내선 잠금</
 s/g>Lock</g>잠금</
-s/g>Lock\/Unlock</g>잠금\/잠금 해제</
+s/g>Lock\/Unlock</g>잠금\/잠금 풀기</
 s/g>Look Up "%@"</g>"%@" 찾기</
 s/g>Loosen More</g>더욱 넓게</
 s/g>Loosen</g>넓게</
@@ -1029,8 +1029,8 @@ s/g>Save document</g>문서 저장</
 s/g>Save</g>저장</
 s/g>Saving TIFF</g>TIFF 저장중</
 s/g>Saving With History</g>편집 기록과 함께 저장</
-s/g>Scale with Object</g>대상과 함께 배율</
-s/g>Scale with object</g>대상과 함께 배율</
+s/g>Scale with Object</g>오브젝트와 함께 배율</
+s/g>Scale with object</g>오브젝트와 함께 배율</
 s/g>Scale:</g>배율:</
 s/g>Scale</g>배율</
 s/g>Scatter X:</g>가로 흩어짐:</
@@ -1046,11 +1046,11 @@ s/g>Select Midtones</g>중간 선택</
 s/g>Select Next</g>다음 항목 선택</
 s/g>Select Previous</g>이전 항목 선택</
 s/g>Select Reds</g>빨강 선택</
+s/g>Select Same</g>동일 선택</
 s/g>Select Sampled Colour…</g>표본 색상 선택…</
 s/g>Select Shadows</g>그림자 선택</
 s/g>Select Transparency Range</g>투명 범위 선택</
 s/g>Select</g>선택</
-s/g>Select\.\.\.</g>선택\.\.\.</
 s/g>Selection Marquee</g>선택 항목 천막</
 s/g>Selection</g>선택 항목</
 s/g>Selective Colour</g>색상 선택</
@@ -1303,15 +1303,15 @@ s/g>Unable to import style.</g>스타일을 들여올 수 없습니다.</
 s/g>Underline</g>밑줄</
 s/g>Undo %@</g>%@ 실행 취소</
 s/g>Undo</g>실행 취소</
-s/g>Ungroup All</g>모든 그룹 해제</
-s/g>Ungroup</g>그룹 해제</
+s/g>Ungroup All</g>모든 그룹 풀기</
+s/g>Ungroup</g>그룹 풀기</
 s/g>Unignore Spelling "%@"</g>철자 "%@"를 무시하지 않기</
 s/g>Union toolbar button</g>유니온(사라지는 기능) 툴바 버튼</
 s/g>Union</g>유니온(사라지는 기능)</
 s/g>Units:</g>단위:</
 s/g>Unlearn Spelling "%@"</g>철자 "%@"를 학습하지 않음</
-s/g>Unlock All</g>모두 잠금 해제</
-s/g>Unlock</g>잠금 해제</
+s/g>Unlock All</g>모두 잠금 풀기</
+s/g>Unlock</g>잠금 풀기</
 s/g>Untitled</g>이름 없음</
 s/g>Up axis</g>위쪽 축</
 s/g>Update "%@"</g>"%@"를 갱신</
@@ -1400,7 +1400,7 @@ s/g>dash</g>줄표</
 s/g>kB</g>KB</
 s/g>n\/a</g>없음</
 s/g>|CLICK| to set the destination.</g>|CLICK|해서 목표를 설정합니다.</
-s/g>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</g>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 대상을 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</
+s/g>|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.</g>|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 오브젝트를 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.</
 s/g>|DRAG| to move selection.</g>|DRAG|해서 선택 항목을 움직입니다.</
 s/g>|DRAG| to pan view.</g>|DRAG|해서 초점이동합니다.</
 s/g>|DRAG| to resize columns.</g>|DRAG|해서 행의 크기를 조절합니다.</
