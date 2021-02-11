@@ -18,15 +18,17 @@ for (( i = 1; i < ${#nib[@]}; i++ )); do
   /usr/bin/sudo /usr/bin/plutil -convert xml1 "${JAPFILE}/keyedobjects.nib"
   /usr/bin/sudo /bin/rm -dr "${MIDFILE}"
   /usr/bin/sudo /bin/mkdir "${MIDFILE}"
-  sed -f "/Users/jeongmin/Affin.ko/DictionaryDesigner" "${ENGFILE}/keyedobjects.nib" > "${MIDFILE}/keyedobjects.nib"
+  sudo chmod 777 "${MIDFILE}"
+  sudo sed -f ~/Affin.ko/DictionaryDesigner "${ENGFILE}/keyedobjects.nib" > "${MIDFILE}/keyedobjects.nib"
   echo -n " (en에서 mid-kr로)"
   /usr/bin/sudo /usr/bin/diff "${ENGFILE}" "${JAPFILE}" | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log
   /usr/bin/sudo /usr/bin/diff "${ENGFILE}" "${MIDFILE}" | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log
   /usr/bin/sudo /usr/bin/diff ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.ja-ko.log
-  echo -n " (log 파일 생성)"
+  echo " (log 파일 생성)"
   git add ~/Affin.ko/Diff/
   git commit -m "Affinity Designer ${APPVERS} ${nib[i]}.nib/ Updated"
 done
+sudo rm -dr "${MIDPATH}/.DS_Store"
 sudo rm -dr "${MIDPATH}/Preferences.nib"
 sudo rsync -av --delete "${MIDPATH}" "${KORPATH}"
-echo -n " (mid-kr에서 kr로)"
+echo " (mid-kr에서 kr로)"
