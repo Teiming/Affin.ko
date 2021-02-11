@@ -1,4 +1,3 @@
-< < 		<string>Auto-scroll</string>
 < > 		<string>自動スクロール</string>
 < < 		<string>Checkerboard Background</string>
 < > 		<string>チェッカーボードの背景</string>
@@ -6,55 +5,57 @@
 < > 		<string>グループサムネールを表示</string>
 < < 		<string>Compact Group Rows</string>
 < > 		<string>コンパクトグループ行</string>
-< < 		<string>Small Thumbnails</string>
+> > 		<string>자동 스크롤</string>
 < > 		<string>サムネイル小</string>
-< < 		<string>Medium Thumbnails</string>
+> > 		<string>작은 마중그림</string>
 < > 		<string>サムネイル中</string>
-< < 		<string>Large Thumbnails</string>
+> > 		<string>중간 마중그림</string>
 < > 		<string>サムネイル大</string>
-< < 		<string>Opacity:</string>
+> > 		<string>큰 마중그림</string>
 < > 		<string>不透明度:</string>
-< < 		<string>Cut</string>
+> > 		<string>불투명도:</string>
+> < 		<string>Text Cell</string>
+> > 		<string>텍스트 셀</string>
 < > 		<string>カット</string>
-< < 		<string>Copy</string>
+> > 		<string>오려두기</string>
 < > 		<string>コピー</string>
-< < 		<string>Paste</string>
+> > 		<string>복사</string>
 < > 		<string>ペースト</string>
-< < 		<string>Hide</string>
+> > 		<string>붙이기</string>
 < > 		<string>非表示</string>
-< < 		<string>Lock</string>
+> > 		<string>가리기</string>
 < > 		<string>ロック</string>
-< < 		<string>Exclude From Snapping</string>
+> > 		<string>잠금</string>
 < > 		<string>スナップから除外</string>
-< < 		<string>Delete</string>
+> > 		<string>스내핑에서 제외</string>
 < > 		<string>削除</string>
-< < 		<string>Duplicate</string>
+> > 		<string>지우기</string>
 < > 		<string>複製</string>
 < < 		<string>Release</string>
 < > 		<string>解除</string>
 < < 		<string>Mask to Below</string>
 < > 		<string>下のレイヤーにマスクを使用</string>
-< < 		<string>Merge Down</string>
+> > 		<string>복제</string>
 < > 		<string>下のレイヤーと結合</string>
-< < 		<string>Merge Visible</string>
+> > 		<string>아래 항목 통합</string>
 < > 		<string>表示レイヤーを結合</string>
 < < 		<string>Rasterise &amp; Trim…</string>
 < > 		<string>ラスタライズ&amp;トリム…</string>
-< < 		<string>Rasterise…</string>
+> > 		<string>보이는 항목 통합</string>
 < > 		<string>ラスタライズ…</string>
-< < 		<string>Rasterise To Mask</string>
+> > 		<string>래스터화…</string>
 < > 		<string>マスクにラスタライズ</string>
-< < 		<string>New Layer</string>
+> > 		<string>마스크 래스터화</string>
 < > 		<string>新規レイヤー</string>
-< < 		<string>New Pixel Layer</string>
+> > 		<string>신규 레이어</string>
 < > 		<string>新規ピクセルレイヤー</string>
 < < 		<string>Expand Selection</string>
 < > 		<string>選択範囲の展開</string>
 < < 		<string>Collapse Selection</string>
 < > 		<string>選択範囲の折りたたみ</string>
-< < 		<string>Select Same Tag Colour</string>
+> > 		<string>신규 픽셀 레이어</string>
 < > 		<string>同じタグカラーを選択</string>
-< < 		<string>Select Same Name</string>
+> > 		<string>태그 색상으로 동일 선택</string>
 < > 		<string>同じ名前を選択</string>
 < < 		<string>Colour Tag Placeholder</string>
 < > 		<string>カラータグプレースホルダー</string>
@@ -78,7 +79,7 @@
 < > 		<string>コピー</string>
 < > 		<string>ペースト</string>
 < > 		<string>非表示</string>
-< < 		<string>Exclude From Snapping</string>
+> > 		<string>이름으로 동일 선택</string>
 < > 		<string>スナップから除外</string>
 < < 		<string>Edit Detached</string>
 < > 		<string>切り離しを編集</string>
@@ -92,22 +93,22 @@
 < > 		<string>解除</string>
 < < 		<string>Mask to Below</string>
 < > 		<string>下のレイヤーにマスクを使用</string>
-< < 		<string>Merge Down</string>
+> > 		<string>스내핑에서 제외</string>
 < > 		<string>下のレイヤーと結合</string>
-< < 		<string>Merge Visible</string>
+> > 		<string>아래 항목 통합</string>
 < > 		<string>表示レイヤーを結合</string>
-< < 		<string>Group</string>
+> > 		<string>보이는 항목 통합</string>
 < > 		<string>グループ化</string>
-< < 		<string>Ungroup</string>
+> > 		<string>그룹</string>
 < > 		<string>グループ解除</string>
 < < 		<string>Rasterise &amp; Trim…</string>
 < > 		<string>ラスタライズ&amp;トリム…</string>
-< < 		<string>Rasterise…</string>
+> > 		<string>그룹 풀기</string>
 < > 		<string>ラスタライズ…</string>
-< < 		<string>Rasterise To Mask</string>
+> > 		<string>래스터화…</string>
 < > 		<string>マスクにラスタライズ</string>
 < > 		<string>新規レイヤー</string>
-< < 		<string>New Pixel Layer</string>
+> > 		<string>마스크 래스터화</string>
 < > 		<string>新規ピクセルレイヤー</string>
 < < 		<string>Expand Selection</string>
 < > 		<string>選択範囲の展開</string>
@@ -120,23 +121,23 @@
 < > 		<string>ペースト</string>
 < > 		<string>非表示</string>
 < > 		<string>ロック</string>
-< < 		<string>Exclude From Snapping</string>
+> > 		<string>신규 픽셀 레이어</string>
 < > 		<string>スナップから除外</string>
 < > 		<string>削除</string>
 < > 		<string>複製</string>
 < > 		<string>解除</string>
-< < 		<string>Merge Visible</string>
+> > 		<string>스내핑에서 제외</string>
 < > 		<string>表示レイヤーを結合</string>
 < > 		<string>グループ化</string>
 < > 		<string>グループ解除</string>
 < < 		<string>Rasterise &amp; Trim…</string>
 < > 		<string>ラスタライズ&amp;トリム…</string>
-< < 		<string>Rasterise…</string>
+> > 		<string>보이는 항목 통합</string>
 < > 		<string>ラスタライズ…</string>
-< < 		<string>Rasterise To Mask</string>
+> > 		<string>래스터화…</string>
 < > 		<string>マスクにラスタライズ</string>
 < > 		<string>新規レイヤー</string>
-< < 		<string>New Pixel Layer</string>
+> > 		<string>마스크 래스터화</string>
 < > 		<string>新規ピクセルレイヤー</string>
 < < 		<string>Expand Selection</string>
 < > 		<string>選択範囲の展開</string>
@@ -149,24 +150,24 @@
 < > 		<string>ペースト</string>
 < > 		<string>非表示</string>
 < > 		<string>ロック</string>
-< < 		<string>Exclude From Snapping</string>
+> > 		<string>신규 픽셀 레이어</string>
 < > 		<string>スナップから除外</string>
 < > 		<string>削除</string>
 < > 		<string>複製</string>
 < > 		<string>解除</string>
 < < 		<string>Mask to Below</string>
 < > 		<string>下のレイヤーにマスクを使用</string>
-< < 		<string>Merge Down</string>
+> > 		<string>스내핑에서 제외</string>
 < > 		<string>下のレイヤーと結合</string>
-< < 		<string>Merge Visible</string>
+> > 		<string>아래 항목 통합</string>
 < > 		<string>表示レイヤーを結合</string>
 < > 		<string>グループ化</string>
 < > 		<string>グループ解除</string>
 < < 		<string>Rasterise &amp; Trim…</string>
 < > 		<string>ラスタライズ&amp;トリム…</string>
-< < 		<string>Rasterise…</string>
+> > 		<string>보이는 항목 통합</string>
 < > 		<string>ラスタライズ…</string>
-< < 		<string>Rasterise To Mask</string>
+> > 		<string>래스터화…</string>
 < > 		<string>マスクにラスタライズ</string>
 < < 		<string>Preflight Comment</string>
 < > 		<string>プリフライトコメント</string>
@@ -177,15 +178,15 @@
 < < 		<string>Clear</string>
 < > 		<string>クリア</string>
 < > 		<string>新規レイヤー</string>
-< < 		<string>New Pixel Layer</string>
+> > 		<string>마스크 래스터화</string>
 < > 		<string>新規ピクセルレイヤー</string>
 < < 		<string>Expand Selection</string>
 < > 		<string>選択範囲の展開</string>
 < < 		<string>Collapse Selection</string>
 < > 		<string>選択範囲の折りたたみ</string>
-< < 		<string>Select Same Tag Colour</string>
+> > 		<string>신규 픽셀 레이어</string>
 < > 		<string>同じタグカラーを選択</string>
-< < 		<string>Select Same Name</string>
+> > 		<string>태그 색상으로 동일 선택</string>
 < > 		<string>同じ名前を選択</string>
 < < 		<string>Colour Tag Placeholder</string>
 < > 		<string>カラータグプレースホルダー</string>
@@ -219,7 +220,7 @@
 < > 		<string>特定色域…</string>
 < < 		<string>Colour Balance…</string>
 < > 		<string>カラーバランス…</string>
-< < 		<string>Invert</string>
+> > 		<string>이름으로 동일 선택</string>
 < > 		<string>反転</string>
 < < 		<string>Soft Proof…</string>
 < > 		<string>ソフト校正…</string>
@@ -295,25 +296,26 @@
 < > 		<string>照明…</string>
 < < 		<string>Shadows / Highlights…</string>
 < > 		<string>シャドウ/ハイライト…</string>
-< < 		<string>Add Layer</string>
+> > 		<string>반전</string>
 < > 		<string>すべてのレイヤーを編集</string>
-< < 		<string>Add Pixel Layer</string>
+> > 		<string>레이어 추가</string>
 < > 		<string>サブレイヤーを追加</string>
 < < 		<string>Add Sublayer</string>
 < > 		<string>ピクセルレイヤーを追加</string>
-< < 		<string>Adjustments</string>
+> > 		<string>픽셀 레이어 추가</string>
 < > 		<string>ブレンド範囲</string>
 < < 		<string>Blend Ranges</string>
 < > 		<string>マスクレイヤー</string>
-< < 		<string>Edit All Layers</string>
+> > 		<string>조정</string>
 < > 		<string>ライブフィルター</string>
-< < 		<string>Layer Effects</string>
+> > 		<string>모든 레이어 편집</string>
 < > 		<string>レイヤーを削除</string>
 < < 		<string>Live Filters</string>
 < > 		<string>レイヤーを追加</string>
-< < 		<string>Lock/Unlock</string>
+> > 		<string>레이어 효과</string>
 < > 		<string>レイヤーエフェクト</string>
-< < 		<string>Mask Layer</string>
+> > 		<string>잠금/잠금 풀기</string>
 < > 		<string>ロック/ロック解除</string>
-< < 		<string>Remove Layer</string>
+> > 		<string>마스크 레이어</string>
 < > 		<string>調整</string>
+> > 		<string>레이어 지우기</string>
