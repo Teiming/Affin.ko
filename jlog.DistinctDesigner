@@ -6,7 +6,8 @@ JAPPATH=${APPPATH}/ja.lproj
 KORPATH=${APPPATH}/ko.lproj
 MIDPATH=~/Affin.ko-translated/Affinity\ Designer\ \ Frameworks
 # array 생성
-nib=("ChannelsPage" "CharacterPage" "CloneBrushSourcesPage" "ConvertDocumentPanel"
+nib=("AdjustmentPage" "Adjustments" "AppearancePage" "AssignICCProfilePanel" "BatchJobItemView"
+"BatchPage" "ChannelsPage" "CharacterPage" "CloneBrushSourcesPage" "ConvertDocumentPanel"
 "DevelopBasicPage" "DevelopCameraPage" "DevelopDetailsPage" "DevelopLensPage" "DevelopOverlaysPage"
 "DevelopSnapshotsPage" "DevelopTonesPage" "EffectsPage" "EffectsSettings" "ExportableItemsPage"
 "ExportablePathView" "ExportableScalePathView" "ExportLayerPage" "ExportListConflicts"

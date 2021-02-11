@@ -1,8 +1,11 @@
 # Affinity Designer 1.9.0
 ## Menu (13)
-## Frameworks (14/334)
+## Frameworks (17/334)
+ 1. AutoCorrectRulesTableView
  1. BaselineGridVisibiityViewController
  1. BaselineGridVisibilityViewController
+ 1. BrushItemView
+ 1. CategoryViewCategory
  1. ClarityEffect
  1. CloneBrushSourceItemView
  1. FilesystemPage
