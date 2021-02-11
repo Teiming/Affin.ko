@@ -73,3 +73,5 @@ do
 done
 sudo rsync -av --delete "${MIDPATH}" "${KORPATH}"
 echo " (동기화 종료)"
+echo "Distinct.nib"
+~/Affin.ko/Error.command
