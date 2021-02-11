@@ -6,7 +6,7 @@ JAPPATH=${APPPATH}/ja.lproj
 KORPATH=${APPPATH}/ko.lproj
 MIDPATH=~/Affin.ko-translated/Affinity\ Publisher\ \ Frameworks
 # array 생성
-nib=()
+nib=("AnchorsPage")
 # 변환
 for (( i = 0; i < ${#nib[@]}; i++ )); do
   echo "Converting ${nib[i]}"
