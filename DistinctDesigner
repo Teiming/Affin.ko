@@ -20,7 +20,7 @@ for (( i = 1; i < ${#nib[@]}; i++ )); do
   /usr/bin/sudo /bin/mkdir "${MIDFILE}"
   sudo chmod 777 "${MIDFILE}"
   sudo sed -f ~/Affin.ko/DictionaryDesigner "${ENGFILE}/keyedobjects.nib" > "${MIDFILE}/keyedobjects.nib"
-  echo -n " (en에서 mid-kr로)"
+  echo " (en에서 mid-kr로)"
   /usr/bin/sudo /usr/bin/diff "${ENGFILE}" "${JAPFILE}" | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log
   /usr/bin/sudo /usr/bin/diff "${ENGFILE}" "${MIDFILE}" | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log
   /usr/bin/sudo /usr/bin/diff ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.ja-ko.log
