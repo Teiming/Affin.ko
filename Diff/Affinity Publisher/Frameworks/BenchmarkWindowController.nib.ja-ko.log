@@ -1,0 +1,26 @@
+< < 		<string>Run Benchmark</string>
+< > 		<string>ベンチマークを実行</string>
+> < 		<string>System</string>
+> > 		<string>시스템</string>
+< > 		<string>ベンチマーク</string>
+< < 		<string>The benchmark measures vector performance (CPU) and raster performance (CPU/GPU). The results strongly correlate to real-world performance over the majority of user documents.
+< > 		<string>ベンチマークはベクターパフォーマンス(CPU)とラスターパフォーマンス(CPU/GPU)を測定します。結果は、大多数のユーザードキュメントの実際のパフォーマンスと強く相関しています。
+< < 		<string>Version: 1900</string>
+< > 		<string>バージョン：1900</string>
+< < 		<string>Vector (Single CPU):</string>
+< > 		<string>ベクター (シングルCPU)：</string>
+< < 		<string>Vector (Multi CPU):</string>
+< > 		<string>ベクター (マルチCPU)</string>
+< < 		<string>Raster (Multi CPU):</string>
+< > 		<string>ラスター (マルチCPU)：</string>
+< < 		<string>Raster (Single GPU):</string>
+< > 		<string>ラスター (シングルGPU)：</string>
+< < 		<string>Raster (Multi GPU):</string>
+< > 		<string>ラスター (マルチGPU)：</string>
+< < 		<string>Combined (Multi CPU):</string>
+< > 		<string>結合 (複数CPU):</string>
+< < 		<string>Combined (Single GPU):</string>
+< > 		<string>結合 (単一GPU):</string>
+< < 		<string>Combined (Multi GPU):</string>
+< > 		<string>結合 (複数GPU):</string>
+> > 		<string>벤치마크</string>
