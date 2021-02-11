@@ -15,9 +15,9 @@
 < > 		<string>スクリーン</string>
 < < 		<string>Dot</string>
 < > 		<string>ドット</string>
-< < 		<string>Cell Size</string>
-< > 		<string>セルサイズ</string>
 > > 		<string>색상</string>
+< > 		<string>セルサイズ</string>
+> > 		<string>셀 크기</string>
 < > 		<string>コントラスト</string>
 < < 		<string>Grey Component Replacement</string>
 < > 		<string>グレーコンポーネントの置換</string>
@@ -35,6 +35,6 @@
 < > 		<string>分割表示</string>
 > > 		<string>분할 뷰 모드 해제</string>
 < > 		<string>分割表示なし</string>
-< < 		<string>Item</string>
-< > 		<string>アイテム</string>
 > > 		<string>분할 뷰 모드</string>
+< > 		<string>アイテム</string>
+> > 		<string>항목</string>
