@@ -72,5 +72,7 @@ do
   esac
 done
 # 별도 파일 실행
-sudo chmod +x ${DISTINC}
-sudo ${DISTINC}
+if [[ ${Frameworks} -eq 2 ]]; then
+  sudo chmod +x ${DISTINC}
+  sudo ${DISTINC}
+fi
