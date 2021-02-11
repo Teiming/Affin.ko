@@ -4,8 +4,12 @@
 > 		<string>샘플 보기</string>
 < 		<string>Sort by Type</string>
 > 		<string>종류에 따라 정렬</string>
+< 		<string>Delete Unused Styles</string>
+> 		<string>미사용된 스타일 지우기</string>
 < 		<string>Detach and Delete All Styles</string>
-> 		<string>모든 스타일 벗기고 삭제</string>
+> 		<string>모든 스타일 벗기고 지우기</string>
+< 		<string>Save Styles as Default</string>
+> 		<string>스타일을 기본값으로 저장</string>
 < 		<string>Import Styles...</string>
 > 		<string>스타일 들여오기...</string>
 < 		<string>Text Cell</string>
@@ -14,6 +18,8 @@
 > 		<string>문자 스타일 생성</string>
 < 		<string>Create Paragraph Style</string>
 > 		<string>문단 스타일 생성</string>
+< 		<string>Delete Style</string>
+> 		<string>스타일 지우기</string>
 < 		<string>Update Character Style</string>
 > 		<string>문자 스타일 업데이트</string>
 < 		<string>Update Paragraph Style</string>
