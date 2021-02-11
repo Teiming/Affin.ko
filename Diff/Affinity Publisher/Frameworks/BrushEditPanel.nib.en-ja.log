@@ -1,0 +1,332 @@
+< 		<string>Brush Editor</string>
+> 		<string>ブラシエディタ</string>
+< 		<string>Close</string>
+> 		<string>閉じる</string>
+< 		<string>Duplicate</string>
+> 		<string>複製</string>
+< 		<string>Reset</string>
+> 		<string>リセット</string>
+< 		<string>Flow:</string>
+> 		<string>流量:</string>
+< 		<string>Size:</string>
+> 		<string>サイズ:</string>
+< 		<string>Hardness:</string>
+> 		<string>硬さ:</string>
+< 		<string>Spacing:</string>
+> 		<string>間隔:</string>
+< 		<string>Rotation:</string>
+> 		<string>回転:</string>
+< 		<string>Blend Mode:</string>
+> 		<string>描画モード:</string>
+< 		<string>Wet edges:</string>
+> 		<string>ウェットエッジ:</string>
+< 		<string>Shape:</string>
+> 		<string>シェイプ:</string>
+< 		<string>Don't set wet edges</string>
+> 		<string>ウェットエッジを設定しない</string>
+< 		<string>Set wet edges "on"</string>
+> 		<string>ウェットエッジを"オン"に設定</string>
+< 		<string>Set wet edges "off"</string>
+> 		<string>ウェットエッジを"オフ"に設定</string>
+< 		<string>Don't set blend mode</string>
+> 		<string>描画モードを設定しない</string>
+< 		<string>Associated Tool:</string>
+> 		<string>関連ツール:</string>
+< 		<string>No associated tool</string>
+> 		<string>関連ツールなし</string>
+< 		<string>Paint brush tool</string>
+> 		<string>ペイントブラシツール</string>
+< 		<string>Pixel tool</string>
+> 		<string>ピクセルツール</string>
+< 		<string>Erase brush tool</string>
+> 		<string>消去ブラシツール</string>
+< 		<string>Colour replacement brush tool</string>
+> 		<string>色置換ブラシツール</string>
+< 		<string>Paint mixer brush tool</string>
+> 		<string>ペイント混合ブラシツール</string>
+< 		<string>Background erase brush tool</string>
+> 		<string>背景消去ブラシツール</string>
+< 		<string>Dodge brush tool</string>
+> 		<string>覆い焼きブラシツール</string>
+< 		<string>Burn brush tool</string>
+> 		<string>焼き込みブラシツール</string>
+< 		<string>Sponge brush tool</string>
+> 		<string>スポンジブラシツール</string>
+< 		<string>Sharpen brush tool</string>
+> 		<string>シャープ化ブラシツール</string>
+< 		<string>Smudge brush tool</string>
+> 		<string>スマッジブラシツール</string>
+< 		<string>Blur brush tool</string>
+> 		<string>ぼかしブラシツール</string>
+< 		<string>Median brush tool</string>
+> 		<string>メディアンブラシツール</string>
+< 		<string>Clone brush tool</string>
+> 		<string>コピーブラシツール</string>
+< 		<string>Healing brush tool</string>
+> 		<string>修復ブラシツール</string>
+< 		<string>Inpainting brush tool</string>
+> 		<string>インペインティングブラシツール</string>
+< 		<string>Undo brush tool</string>
+> 		<string>取り消しブラシツール</string>
+< 		<string>Accumulation</string>
+> 		<string>累積</string>
+< 		<string>Custom</string>
+> 		<string>カスタム</string>
+< 		<string>General</string>
+> 		<string>一般</string>
+< 		<string>Hue Jitter:</string>
+> 		<string>色相のジッター:</string>
+< 		<string>Saturation Jitter:</string>
+> 		<string>彩度のジッター:</string>
+< 		<string>Luminosity Jitter:</string>
+> 		<string>輝度のジッター:</string>
+< 		<string>None</string>
+> 		<string>なし</string>
+< 		<string>Random</string>
+> 		<string>ランダム</string>
+< 		<string>Pressure</string>
+> 		<string>筆圧</string>
+< 		<string>Angle</string>
+> 		<string>角度</string>
+< 		<string>Tilt</string>
+> 		<string>ティルト</string>
+< 		<string>Rotation</string>
+> 		<string>回転</string>
+< 		<string>Cyclic</string>
+> 		<string>サイクリック</string>
+< 		<string>Velocity</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+< 		<string>Direction</string>
+> 		<string>向き</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+< 		<string>Flow Jitter:</string>
+> 		<string>流量のジッター:</string>
+< 		<string>Size Jitter:</string>
+> 		<string>サイズのジッター:</string>
+< 		<string>Rotation Jitter:</string>
+> 		<string>回転のジッター:</string>
+< 		<string>Scatter X:</string>
+> 		<string>拡散X:</string>
+< 		<string>Scatter Y:</string>
+> 		<string>拡散Y:</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+< 		<string>Hardness Jitter:</string>
+> 		<string>硬さのジッター:</string>
+< 		<string>Shape Jitter:</string>
+> 		<string>シェイプのジッター:</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+< 		<string>Accumulation Jitter:</string>
+> 		<string>累積ジッター:</string>
+< 		<string>Dynamics</string>
+> 		<string>ダイナミクス</string>
+< 		<string>Brush Nozzles:</string>
+> 		<string>ブラシノズル:</string>
+< 		<string>Base Texture:</string>
+> 		<string>ベーステクスチャ:</string>
+< 		<string>Mode:</string>
+> 		<string>モード:</string>
+< 		<string>Remove</string>
+> 		<string>削除</string>
+< 		<string>Scale:</string>
+> 		<string>スケール:</string>
+> 		<string>なし</string>
+< 		<string>Nozzle</string>
+> 		<string>ノズル</string>
+< 		<string>Final</string>
+> 		<string>最終</string>
+< 		<string>Set Texture</string>
+> 		<string>テクスチャを設定</string>
+> 		<string>削除</string>
+< 		<string>Invert</string>
+> 		<string>反転</string>
+> 		<string>なし</string>
+> 		<string>ランダム</string>
+> 		<string>筆圧</string>
+> 		<string>角度</string>
+> 		<string>ティルト</string>
+> 		<string>回転</string>
+> 		<string>サイクリック</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stylus Wheel</string>
+> 		<string>スタイラスホイール</string>
+< 		<string>Add</string>
+> 		<string>追加</string>
+< 		<string>Texture</string>
+> 		<string>テクスチャ</string>
+< 		<string>Sub Brushes</string>
+> 		<string>サブブラシ</string>
+< 		<string>Drawing</string>
+> 		<string>描画</string>
+< 		<string>Blending</string>
+> 		<string>ブレンディング</string>
+< 		<string>Blend</string>
+> 		<string>ブレンド</string>
+< 		<string>Erase</string>
+> 		<string>消去</string>
+< 		<string>At current nozzle</string>
+> 		<string>現在のノズル</string>
+< 		<string>Behind current nozzle</string>
+> 		<string>現在のノズルの背面</string>
+< 		<string>At end of stroke</string>
+> 		<string>境界線の終端</string>
+> 		<string>削除</string>
+< 		<string>Edit</string>
+> 		<string>編集</string>
+< 		<string>Add Bitmap</string>
+> 		<string>ビットマップを追加</string>
+< 		<string>Sync size</string>
+> 		<string>サイズを同期</string>
+< 		<string>Sync spacing</string>
+> 		<string>間隔を同期</string>
+< 		<string>Add Round</string>
+> 		<string>ラウンドブラシを追加</string>
+< 		<string>Sub Brushes</string>
+> 		<string>サブブラシ</string>
+< 		<string>Head Offset:</string>
+> 		<string>ヘッドオフセット:</string>
+< 		<string>Tail Offset:</string>
+> 		<string>テールのオフセット:</string>
+< 		<string>Body:</string>
+> 		<string>本体:</string>
+< 		<string>Corners:</string>
+> 		<string>コーナー:</string>
+< 		<string>Brush Width:</string>
+> 		<string>ブラシ幅:</string>
+< 		<string>Opacity Variance:</string>
+> 		<string>不透明度の許容誤差:</string>
+< 		<string>Size Variance:</string>
+> 		<string>サイズの許容誤差:</string>
+< 		<string>Label</string>
+> 		<string>ラベル</string>
+> 		<string>なし</string>
+> 		<string>筆圧</string>
+> 		<string>速度</string>
+< 		<string>Velocity (Inverse)</string>
+> 		<string>速度(逆)</string>
+< 		<string>Stroke</string>
+> 		<string>境界線</string>
+< 		<string>Unfinished feature / user interface.</string>
+> 		<string>未完成の機能/ユーザーインターフェース。</string>
