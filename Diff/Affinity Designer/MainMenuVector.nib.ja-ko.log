@@ -175,9 +175,9 @@
 < > 		<string>オールキャップス</string>
 > > 		<string>모두 대문자</string>
 < > 		<string>塗りつぶし&amp;境界線カラー</string>
-< < 		<string>Pixel Objects</string>
-< > 		<string>ピクセルオブジェクト</string>
 > > 		<string>칠 및 선 색상</string>
+< > 		<string>ピクセルオブジェクト</string>
+> > 		<string>픽셀 오브젝트</string>
 < > 		<string>回転をリセット</string>
 < < 		<string>Return to owner…</string>
 < > 		<string>所有者に返す…</string>
@@ -187,9 +187,9 @@
 < > 		<string>テキストの回り込みを無視</string>
 > > 		<string>줄바꿈 무시</string>
 < > 		<string>背面へ</string>
-< < 		<string>Delete Unused Styles</string>
-< > 		<string>未使用のスタイルを削除</string>
 > > 		<string>뒤로 보내기</string>
+< > 		<string>未使用のスタイルを削除</string>
+> > 		<string>미사용된 스타일 지우기</string>
 < > 		<string>内側にペースト</string>
 < < 		<string>Crash</string>
 < > 		<string>クラッシュ</string>
@@ -201,9 +201,9 @@
 < > 		<string>リカラー</string>
 > > 		<string>재색상</string>
 < > 		<string>フィラーテキストを挿入</string>
-< < 		<string>Resource Manager...</string>
-< > 		<string>リソースマネージャー...</string>
 > > 		<string>Lorem Ipsum</string>
+< > 		<string>リソースマネージャー...</string>
+> > 		<string>자원 관리자...</string>
 < > 		<string>狭い</string>
 > > 		<string>좁은</string>
 < > 		<string>ベースラインを下げる</string>
@@ -245,9 +245,9 @@
 < > 		<string>上揃え</string>
 > > 		<string>위쪽 정렬</string>
 < > 		<string>新規ピクセルレイヤー</string>
-< < 		<string>Reapply Base Styles</string>
-< > 		<string>ベーススタイルを再適用</string>
 > > 		<string>신규 픽셀 레이어</string>
+< > 		<string>ベーススタイルを再適用</string>
+> > 		<string>기본 스타일 다시 적용</string>
 < > 		<string>キャンバスに合わせてクリップ</string>
 > > 		<string>캔버스에 클립</string>
 < > 		<string>段落スタイルを削除</string>
@@ -283,11 +283,11 @@
 < > 		<string>均等配置(最終行左揃え)</string>
 > > 		<string>왼쪽 균등 정렬</string>
 < > 		<string>すべてのスタイルを切り離して削除</string>
-> > 		<string>모든 스타일 벗기고 삭제</string>
+> > 		<string>모든 스타일 벗기고 지우기</string>
 < > 		<string>半角ダッシュ</string>
-< < 		<string>Export as Template…</string>
-< > 		<string>テンプレートとして書き出し...</string>
 > > 		<string>반각 줄표</string>
+< > 		<string>テンプレートとして書き出し...</string>
+> > 		<string>템플릿으로 내보내기…</string>
 < > 		<string>境界線カラー</string>
 > > 		<string>선 색상</string>
 < > 		<string>縮小</string>
@@ -373,11 +373,11 @@
 < > 		<string>文字スタイルなしを設定</string>
 > > 		<string>문자 스타일 벗기기</string>
 < > 		<string>ピクセル選択範囲を反転</string>
-< < 		<string>Closed Curves</string>
+> > 		<string>픽셀 선택 항목 반전</string>
 < > 		<string>閉じたカーブ</string>
 < < 		<string>Document Info</string>
 < > 		<string>ドキュメント情報</string>
-> > 		<string>픽셀 선택 항목 반전</string>
+> > 		<string>닫힌 곡선</string>
 < > 		<string>右に回転</string>
 > > 		<string>오른쪽으로 회전</string>
 < > 		<string>シャドウ/ハイライト</string>
@@ -485,9 +485,9 @@
 < > 		<string>選択範囲にズーム</string>
 > > 		<string>선택 항목에 맞추기</string>
 < > 		<string>すべて使用</string>
-< < 		<string>Vector Layers</string>
-< > 		<string>ベクターレイヤー</string>
 > > 		<string>모두 합자</string>
+< > 		<string>ベクターレイヤー</string>
+> > 		<string>벡터 레이어</string>
 < > 		<string>追加(複合)</string>
 > > 		<string>추가 (결합)</string>
 < > 		<string>ピクセルサイズ</string>
@@ -499,13 +499,13 @@
 < > 		<string>ホワイトバランス</string>
 > > 		<string>화이트 밸런스</string>
 < > 		<string>以前のビューポイントに移動</string>
-< < 		<string>Save As Package…</string>
+> > 		<string>이전 뷰 포인트로 이동</string>
 < > 		<string>パッケージとして保存…</string>
 < < 		<string>Edit In Designer…</string>
 < > 		<string>Designerで編集…</string>
-> > 		<string>이전 뷰 포인트로 이동</string>
+> > 		<string>패키지로 저장…</string>
 < > 		<string>排他的論理和</string>
-> > 		<string>배타</string>
+> > 		<string>배타적논리합</string>
 < > 		<string>テキストスタイルを表示</string>
 > > 		<string>텍스트 스타일 보기</string>
 < > 		<string>テキストフレームに変換</string>
@@ -562,9 +562,9 @@
 < > 		<string>片側</string>
 > > 		<string>철자 오류 무시</string>
 < > 		<string>特定色域</string>
-< < 		<string>Transparency</string>
-< > 		<string>透明度</string>
 > > 		<string>색상 선택</string>
+< > 		<string>透明度</string>
+> > 		<string>투명도</string>
 < > 		<string>外側に移動</string>
 > > 		<string>바깥으로 보내기</string>
 < > 		<string>カーブを分離</string>
@@ -609,7 +609,7 @@
 < > 		<string>文字スタイルを削除</string>
 > > 		<string>문자 스타일 지우기</string>
 < > 		<string>排他的論理和(複合)</string>
-> > 		<string>배타 (결합)</string>
+> > 		<string>배타적논리합 (결합)</string>
 < > 		<string>次の要素を選択</string>
 < > 		<string>デフォルトを使用</string>
 > > 		<string>다음 항목 선택</string>
@@ -618,11 +618,11 @@
 < > 		<string>レベル</string>
 > > 		<string>레벨</string>
 < > 		<string>テキストパスに変換</string>
-< < 		<string>Open Curves</string>
+> > 		<string>텍스트 경로로 전환</string>
 < > 		<string>開いたカーブ</string>
 < < 		<string>MainMenu</string>
 < > 		<string>メインメニュー</string>
-> > 		<string>텍스트 경로로 전환</string>
+> > 		<string>열린 곡선</string>
 > < 		<string>Persona</string>
 > > 		<string>페르소나</string>
 < > 		<string>サービス</string>

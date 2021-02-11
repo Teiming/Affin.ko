@@ -170,6 +170,8 @@
 > 		<string>모두 대문자</string>
 < 		<string>Fill &amp; Stroke Colour</string>
 > 		<string>칠 및 선 색상</string>
+< 		<string>Pixel Objects</string>
+> 		<string>픽셀 오브젝트</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
 < 		<string>Set No Paragraph Style</string>
@@ -178,6 +180,8 @@
 > 		<string>줄바꿈 무시</string>
 < 		<string>Move Back One</string>
 > 		<string>뒤로 보내기</string>
+< 		<string>Delete Unused Styles</string>
+> 		<string>미사용된 스타일 지우기</string>
 < 		<string>Paste Inside</string>
 > 		<string>안으로 붙이기</string>
 < 		<string>Edit in Photo…</string>
@@ -188,6 +192,8 @@
 > 		<string>재색상</string>
 < 		<string>Insert Filler Text</string>
 > 		<string>Lorem Ipsum</string>
+< 		<string>Resource Manager...</string>
+> 		<string>자원 관리자...</string>
 < 		<string>Tight</string>
 > 		<string>좁은</string>
 < 		<string>Lower Baseline</string>
@@ -228,6 +234,8 @@
 > 		<string>위쪽 정렬</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>신규 픽셀 레이어</string>
+< 		<string>Reapply Base Styles</string>
+> 		<string>기본 스타일 다시 적용</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>캔버스에 클립</string>
 < 		<string>Delete Paragraph Style</string>
@@ -257,9 +265,11 @@
 < 		<string>Justify Left</string>
 > 		<string>왼쪽 균등 정렬</string>
 < 		<string>Detach and Delete All Styles</string>
-> 		<string>모든 스타일 벗기고 삭제</string>
+> 		<string>모든 스타일 벗기고 지우기</string>
 < 		<string>En Dash</string>
 > 		<string>반각 줄표</string>
+< 		<string>Export as Template…</string>
+> 		<string>템플릿으로 내보내기…</string>
 < 		<string>Stroke Colour</string>
 > 		<string>선 색상</string>
 < 		<string>Decrease</string>
@@ -336,6 +346,8 @@
 > 		<string>문자 스타일 벗기기</string>
 < 		<string>Invert Pixel Selection</string>
 > 		<string>픽셀 선택 항목 반전</string>
+< 		<string>Closed Curves</string>
+> 		<string>닫힌 곡선</string>
 < 		<string>Rotate Right</string>
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Shadows / Highlights</string>
@@ -428,6 +440,8 @@
 > 		<string>선택 항목에 맞추기</string>
 < 		<string>Use All</string>
 > 		<string>모두 합자</string>
+< 		<string>Vector Layers</string>
+> 		<string>벡터 레이어</string>
 < 		<string>Add (Compound)</string>
 > 		<string>추가 (결합)</string>
 < 		<string>Pixel Size</string>
@@ -440,8 +454,10 @@
 > 		<string>화이트 밸런스</string>
 < 		<string>Move to Previous View Point</string>
 > 		<string>이전 뷰 포인트로 이동</string>
+< 		<string>Save As Package…</string>
+> 		<string>패키지로 저장…</string>
 < 		<string>Xor</string>
-> 		<string>배타</string>
+> 		<string>배타적논리합</string>
 < 		<string>Show Text Styles</string>
 > 		<string>텍스트 스타일 보기</string>
 < 		<string>Convert to Text Frame</string>
@@ -492,6 +508,8 @@
 > 		<string>철자 오류 무시</string>
 < 		<string>Selective Colour</string>
 > 		<string>색상 선택</string>
+< 		<string>Transparency</string>
+> 		<string>투명도</string>
 < 		<string>Move Outside</string>
 > 		<string>바깥으로 보내기</string>
 < 		<string>Separate curves</string>
@@ -531,7 +549,7 @@
 < 		<string>Delete Character Style</string>
 > 		<string>문자 스타일 지우기</string>
 < 		<string>Xor (Compound)</string>
-> 		<string>배타 (결합)</string>
+> 		<string>배타적논리합 (결합)</string>
 < 		<string>Select Next</string>
 > 		<string>다음 항목 선택</string>
 < 		<string>Paste Without Format</string>
@@ -540,6 +558,8 @@
 > 		<string>레벨</string>
 < 		<string>Convert to Text Path</string>
 > 		<string>텍스트 경로로 전환</string>
+< 		<string>Open Curves</string>
+> 		<string>열린 곡선</string>
 < 		<string>Persona</string>
 > 		<string>페르소나</string>
 < 		<string>Services</string>
