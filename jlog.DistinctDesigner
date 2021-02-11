@@ -20,5 +20,6 @@ for (( i = 0; i < ${#nib[@]}; i++ )); do
   sudo diff ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log | grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.ja-ko.log
   echo " (log 파일 생성)"
   git add ~/Affin.ko/Diff/
+  git add ~/Affin.ko/jlog.DistinctDesigner
   git commit -m "Affinity Designer ${APPVERS} ${nib[i]}.nib Updated"
 done
