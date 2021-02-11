@@ -6,7 +6,7 @@ JAPPATH=${APPPATH}/ja.lproj
 KORPATH=${APPPATH}/ko.lproj
 MIDPATH=~/Affin.ko-translated/Affinity\ Designer\ \ Frameworks
 # array 생성
-nib=("ChannelsPage" "CharacterPage" "ClarityEffect")
+nib=("ChannelsPage" "CharacterPage" "CloneBrushSourcesPage")
 # 변환
 for (( i = 0; i < ${#nib[@]}; i++ )); do
   echo "Converting ${nib[i]}"
