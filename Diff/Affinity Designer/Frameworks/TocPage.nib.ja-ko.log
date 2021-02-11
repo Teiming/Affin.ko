@@ -22,13 +22,14 @@
 < > 		<string>PDFブックマークとして含める</string>
 < < 		<string>Create New…</string>
 < > 		<string>新規作成…</string>
-< < 		<string>Delete</string>
+> < 		<string>Title</string>
+> > 		<string>타이틀</string>
 < > 		<string>削除</string>
 < < 		<string>Rename…</string>
 < > 		<string>名前を変更…</string>
 < < 		<string>{{0, 12}, {260, 242}}</string>
 < > 		<string>{{0, 12}, {260, 237}}</string>
-< < 		<string>Text Cell</string>
+> > 		<string>지우기</string>
 < > 		<string>テキストセル</string>
 < < 		<string>Style Name</string>
 < > 		<string>スタイル名</string>
@@ -45,11 +46,11 @@
 < < 		<string>Control how much of the document to search for entries</string>
 < > 		<string>このスタイルの段落を目次エントリとして含める場合はチェックします</string>
 < > 		<string>すべての目次の更新</string>
-< < 		<string>Insert</string>
+> > 		<string>텍스트 셀</string>
 < > 		<string>インラインでピン留めされたオブジェクトを見出しから目次にコピー</string>
 < < 		<string>Insert page numbers first in the TOC entries</string>
 < > 		<string>エントリの検索をドキュメントまたはテキストフローの先頭から開始</string>
-< < 		<string>Rename</string>
+> > 		<string>삽입</string>
 < > 		<string>エントリの検索時に別の目次が見つかったら停止する</string>
 < < 		<string>Replace line breaks in headings with spaces</string>
 < > 		<string>エントリを検索するドキュメントの量を制御</string>
@@ -71,3 +72,4 @@
 < > 		<string>目次エントリの最初にページ番号を挿入</string>
 < < 		<string>Whether to search the whole document or just the text flow containing the TOC</string>
 < > 		<string>見出しの改行をスペースに置換</string>
+> > 		<string>이름 변경</string>
