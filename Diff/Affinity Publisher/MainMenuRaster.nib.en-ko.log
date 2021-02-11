@@ -1,0 +1,582 @@
+< 		<string>Views</string>
+> 		<string>뷰</string>
+< 		<string>Studio</string>
+> 		<string>작업실</string>
+< 		<string>Show Left Studio</string>
+> 		<string>왼쪽 작업실 보기</string>
+< 		<string>Show Right Studio</string>
+> 		<string>오른쪽 작업실 보기</string>
+< 		<string>Hide Studio</string>
+> 		<string>작업실 가리기</string>
+< 		<string>Reset Studio</string>
+> 		<string>작업실 재설정</string>
+< 		<string>Studio Presets</string>
+> 		<string>작업실 미리 설정</string>
+< 		<string>Add Preset…</string>
+> 		<string>미리 설정 추가…</string>
+< 		<string>Manage Studio Presets…</string>
+> 		<string>작업실 미리 설정 관리…</string>
+< 		<string>Plugins</string>
+> 		<string>플러그인</string>
+< 		<string>Share</string>
+> 		<string>공유</string>
+< 		<string>Restore Snapshot</string>
+> 		<string>스냅샷 복원</string>
+< 		<string>Open Recent</string>
+> 		<string>최근 사용 열기</string>
+< 		<string>Clear Menu</string>
+> 		<string>메뉴 지우기</string>
+< 		<string>Minimize</string>
+> 		<string>최소화</string>
+< 		<string>Zoom</string>
+> 		<string>맞추기</string>
+< 		<string>Hide Others</string>
+> 		<string>기타 가리기</string>
+< 		<string>Preferences…</string>
+> 		<string>환경설정…</string>
+< 		<string>Quit</string>
+> 		<string>Affinity Publisher 종료</string>
+< 		<string>Show All</string>
+> 		<string>모두 보기</string>
+< 		<string>Hide</string>
+> 		<string>가리기</string>
+< 		<string>About…</string>
+> 		<string>Affinity Publisher에 관하여…</string>
+< 		<string>Redo</string>
+> 		<string>다시 실행</string>
+< 		<string>Copy</string>
+> 		<string>복사</string>
+< 		<string>Paste</string>
+> 		<string>붙이기</string>
+< 		<string>Cut</string>
+> 		<string>오려두기</string>
+< 		<string>Undo</string>
+> 		<string>실행 취소</string>
+< 		<string>Save As…</string>
+> 		<string>다른 이름으로 저장…</string>
+< 		<string>Save</string>
+> 		<string>저장</string>
+< 		<string>Save History With Document</string>
+> 		<string>문서와 함께 편집 기록 저장</string>
+< 		<string>New…</string>
+> 		<string>신규…</string>
+< 		<string>Open…</string>
+> 		<string>열기…</string>
+< 		<string>Print…</string>
+> 		<string>인쇄…</string>
+< 		<string>Customise Tools…</string>
+> 		<string>도구 사용자화…</string>
+< 		<string>Customise Toolbar…</string>
+> 		<string>툴바 사용자화…</string>
+< 		<string>Show Toolbar</string>
+> 		<string>툴바 보기</string>
+< 		<string>New Layer</string>
+> 		<string>신규 레이어</string>
+< 		<string>Ungroup</string>
+> 		<string>그룹 풀기</string>
+< 		<string>Group</string>
+> 		<string>그룹</string>
+< 		<string>Deselect</string>
+> 		<string>선택 해제</string>
+< 		<string>Invert Pixel Selection</string>
+> 		<string>픽셀 선택 항목 반전</string>
+< 		<string>Select All</string>
+> 		<string>전체 선택</string>
+< 		<string>Average</string>
+> 		<string>평균</string>
+< 		<string>Place…</string>
+> 		<string>배치…</string>
+< 		<string>Zoom to Fit</string>
+> 		<string>화면 크기에 맞추기</string>
+< 		<string>Select Reds</string>
+> 		<string>빨강 선택</string>
+< 		<string>Select Greens</string>
+> 		<string>초록 선택</string>
+< 		<string>Select Blues</string>
+> 		<string>파랑 선택</string>
+< 		<string>Select Midtones</string>
+> 		<string>중간 선택</string>
+< 		<string>Select Shadows</string>
+> 		<string>그림자 선택</string>
+< 		<string>Select Highlights</string>
+> 		<string>빛 선택</string>
+< 		<string>Grow / Shrink…</string>
+> 		<string>팽창 / 수축…</string>
+< 		<string>Show Margins</string>
+> 		<string>여백선 보기</string>
+< 		<string>Show Guides</string>
+> 		<string>안내선 보기</string>
+< 		<string>Show Grid</string>
+> 		<string>격자선 보기</string>
+< 		<string>New View</string>
+> 		<string>신규 뷰</string>
+< 		<string>Merge Visible</string>
+> 		<string>보이는 항목 통합</string>
+< 		<string>Refine Edges…</string>
+> 		<string>모서리 다듬기…</string>
+< 		<string>Select Sampled Colour…</string>
+> 		<string>표본 색상 선택…</string>
+< 		<string>Auto Levels</string>
+> 		<string>자동 레벨</string>
+< 		<string>Snapping Manager…</string>
+> 		<string>스내핑 관리자…</string>
+< 		<string>Paste Style</string>
+> 		<string>스타일 붙이기</string>
+< 		<string>Zoom In</string>
+> 		<string>확대</string>
+< 		<string>Zoom Out</string>
+> 		<string>축소</string>
+< 		<string>Assistant Manager…</string>
+> 		<string>손쉬운 사용 관리자…</string>
+< 		<string>Show Rulers</string>
+> 		<string>눈금자 보기</string>
+< 		<string>Revert</string>
+> 		<string>되돌리기</string>
+< 		<string>Align Left</string>
+> 		<string>왼쪽 정렬</string>
+< 		<string>Precise Bigger</string>
+> 		<string>조금씩 크게</string>
+< 		<string>Delete Unused Styles</string>
+> 		<string>미사용된 스타일 지우기</string>
+< 		<string>Rasterise To Mask</string>
+> 		<string>마스크 래스터화</string>
+< 		<string>Show</string>
+> 		<string>보기</string>
+< 		<string>Update Paragraph Style</string>
+> 		<string>문단 스타일 업데이트</string>
+< 		<string>Xor</string>
+> 		<string>배타적논리합</string>
+< 		<string>En Space</string>
+> 		<string>반각 공백</string>
+< 		<string>Show Character</string>
+> 		<string>문자 보기</string>
+< 		<string>Merge All Windows</string>
+> 		<string>모든 윈도우 통합</string>
+< 		<string>Precise Lower Baseline</string>
+> 		<string>기준선 조금씩 낮추기</string>
+< 		<string>Flip Horizontal</string>
+> 		<string>가로 뒤집기</string>
+< 		<string>Superscript</string>
+> 		<string>윗첨자</string>
+< 		<string>Actual Size</string>
+> 		<string>실제 크기</string>
+< 		<string>Invert</string>
+> 		<string>반전</string>
+< 		<string>Support...</string>
+> 		<string>지원...</string>
+< 		<string>My Account…</string>
+> 		<string>내 계정…</string>
+< 		<string>Reveal in Finder</string>
+> 		<string>Finder에서 찾기</string>
+< 		<string>None</string>
+> 		<string>없음</string>
+< 		<string>Merge Selected</string>
+> 		<string>선택 항목 통합</string>
+< 		<string>Tighten More</string>
+> 		<string>더욱 좁게</string>
+< 		<string>Check for Updates</string>
+> 		<string>업데이트 확인</string>
+< 		<string>Subtract (Compound)</string>
+> 		<string>제거 (결합)</string>
+< 		<string>Grid and Axis Manager…</string>
+> 		<string>격자선 관리자…</string>
+< 		<string>Convert To Curves</string>
+> 		<string>곡선으로 전환</string>
+< 		<string>En Dash</string>
+> 		<string>반각 줄표</string>
+< 		<string>Show Context Toolbar</string>
+> 		<string>상황별 툴바 보기</string>
+< 		<string>Decrease</string>
+> 		<string>줄이기</string>
+< 		<string>Merge curves</string>
+> 		<string>곡선 통합</string>
+< 		<string>Centre</string>
+> 		<string>가운데</string>
+< 		<string>Strikeout</string>
+> 		<string>취소선</string>
+< 		<string>Synchronise from Selection</string>
+> 		<string>선택 항목에서 기본값 동기화</string>
+< 		<string>Intersect (Compound)</string>
+> 		<string>교차 (결합)</string>
+< 		<string>Auto Colours</string>
+> 		<string>자동 색상</string>
+< 		<string>Save Text Styles as Default</string>
+> 		<string>텍스트 스타일을 기본값으로 저장</string>
+< 		<string>Reapply Base Styles</string>
+> 		<string>기본 스타일 다시 적용</string>
+< 		<string>Liquify Persona</string>
+> 		<string>액화 페르소나</string>
+< 		<string>Duplicate</string>
+> 		<string>복제</string>
+< 		<string>Unlock</string>
+> 		<string>잠금 풀기</string>
+< 		<string>Bottom</string>
+> 		<string>아래</string>
+< 		<string>Factory Reset</string>
+> 		<string>기본값 재설정</string>
+< 		<string>Zero-Width Space</string>
+> 		<string>폭 없는 공백</string>
+< 		<string>Divide</string>
+> 		<string>분할</string>
+< 		<string>Create Character Style</string>
+> 		<string>문자 스타일 생성</string>
+< 		<string>Flip Vertical</string>
+> 		<string>세로 뒤집기</string>
+< 		<string>Intersect</string>
+> 		<string>교차</string>
+< 		<string>Loosen</string>
+> 		<string>넓게</string>
+< 		<string>Move to Previous View Point</string>
+> 		<string>이전 뷰 포인트로 이동</string>
+< 		<string>Import Text Styles…</string>
+> 		<string>텍스트 스타일 들여오기…</string>
+< 		<string>Auto White Balance</string>
+> 		<string>자동 화이트 밸런스</string>
+< 		<string>Raise Baseline</string>
+> 		<string>기준선 올리기</string>
+< 		<string>Rotate Right</string>
+> 		<string>오른쪽으로 회전</string>
+< 		<string>Underline</string>
+> 		<string>밑줄</string>
+< 		<string>Separated Mode</string>
+> 		<string>분리 모드</string>
+< 		<string>Rotate 90° Anticlockwise</string>
+> 		<string>반시계방향으로 90° 회전</string>
+< 		<string>Show All Text</string>
+> 		<string>모든 텍스트 보기</string>
+< 		<string>Precise Decrease</string>
+> 		<string>조금씩 줄이기</string>
+< 		<string>Paste Without Format</string>
+> 		<string>포맷 없이 붙이기</string>
+< 		<string>Update Character Style</string>
+> 		<string>문자 스타일 업데이트</string>
+< 		<string>Precise Smaller</string>
+> 		<string>조금씩 작게</string>
+< 		<string>Align Centre</string>
+> 		<string>가로 가운데 정렬</string>
+< 		<string>Align Right</string>
+> 		<string>오른쪽 정렬</string>
+< 		<string>Reapply Text Styles</string>
+> 		<string>텍스트 스타일 다시 적용</string>
+< 		<string>On App Screen</string>
+> 		<string>응용프로그램 화면</string>
+< 		<string>Toggle Full Screen</string>
+> 		<string>전체 화면 시작</string>
+< 		<string>Show Text Styles</string>
+> 		<string>텍스트 스타일 보기</string>
+< 		<string>Bigger</string>
+> 		<string>크게</string>
+< 		<string>Spelling Options…</string>
+> 		<string>철자 설정…</string>
+< 		<string>Transparent Background</string>
+> 		<string>투명한 배경</string>
+< 		<string>Lower Baseline</string>
+> 		<string>기준선 내리기</string>
+< 		<string>Show Column Guides</string>
+> 		<string>열 안내선 보기</string>
+< 		<string>Align Bottom</string>
+> 		<string>아래쪽 정렬</string>
+< 		<string>Justify Right</string>
+> 		<string>오른쪽 균등 정렬</string>
+< 		<string>Export…</string>
+> 		<string>내보내기…</string>
+< 		<string>Toggle UI</string>
+> 		<string>UI 가리기</string>
+< 		<string>Move Outside</string>
+> 		<string>바깥으로 보내기</string>
+< 		<string>Justify Left</string>
+> 		<string>왼쪽 균등 정렬</string>
+< 		<string>Outline…</string>
+> 		<string>외형…</string>
+< 		<string>Precise Increase</string>
+> 		<string>조금씩 늘리기</string>
+< 		<string>Move Inside</string>
+> 		<string>안으로 가져오기</string>
+< 		<string>Move To Front</string>
+> 		<string>맨 앞으로 가져오기</string>
+< 		<string>Always Show Selection in Layers Panel </string>
+> 		<string>레이어 패널에서 선택 항목 항상 보기 </string>
+< 		<string>Convert to Text Path</string>
+> 		<string>텍스트 경로로 전환</string>
+< 		<string>Move Back One</string>
+> 		<string>뒤로 보내기</string>
+< 		<string>Use Default</string>
+> 		<string>기준선 재설정</string>
+< 		<string>Show Glyph Browser</string>
+> 		<string>글리프 브라우저 보기</string>
+< 		<string>Rasterise…</string>
+> 		<string>래스터화…</string>
+< 		<string>Welcome...</string>
+> 		<string>환영...</string>
+< 		<string>Show Pixel Selection</string>
+> 		<string>픽셀 선택 항목 보기</string>
+< 		<string>Precise Raise Baseline</string>
+> 		<string>기준선 조금씩 올리기</string>
+< 		<string>Em Space</string>
+> 		<string>전각 공백</string>
+< 		<string>Flip Vertical</string>
+> 		<string>세로 뒤집기</string>
+< 		<string>Figure Dash</string>
+> 		<string>숫자 줄표</string>
+< 		<string>Unlock All</string>
+> 		<string>모두 잠금 풀기</string>
+< 		<string>Guides Manager…</string>
+> 		<string>안내선 관리자…</string>
+< 		<string>In Place</string>
+> 		<string>제자리에</string>
+< 		<string>Soft Hyphen</string>
+> 		<string>하이픈</string>
+< 		<string>Flip Horizontal</string>
+> 		<string>가로 뒤집기</string>
+< 		<string>Smooth…</string>
+> 		<string>매끄럽게…</string>
+< 		<string>Apple Colour Picker...</string>
+> 		<string>Apple 색상 선택기...</string>
+< 		<string>Add</string>
+> 		<string>추가</string>
+< 		<string>Use All</string>
+> 		<string>모두 합자</string>
+< 		<string>Justify</string>
+> 		<string>맞춤</string>
+< 		<string>Zoom to Width</string>
+> 		<string>화면 너비에 맞추기</string>
+< 		<string>Tutorial...</string>
+> 		<string>튜토리얼...</string>
+< 		<string>Show Paragraph</string>
+> 		<string>문단 보기</string>
+< 		<string>Ignore Misspelt Word</string>
+> 		<string>철자 오류 무시</string>
+< 		<string>Check Spelling While Typing</string>
+> 		<string>작성하는 동안 철자 확인</string>
+< 		<string>Close</string>
+> 		<string>닫기</string>
+< 		<string>Show Tools</string>
+> 		<string>도구 보기</string>
+< 		<string>Use None</string>
+> 		<string>합자 없음</string>
+< 		<string>Paste Inside</string>
+> 		<string>안으로 붙이기</string>
+< 		<string>Bold</string>
+> 		<string>강조</string>
+< 		<string>Set No Paragraph Style</string>
+> 		<string>문단 스타일 벗기기</string>
+< 		<string>Line Break</string>
+> 		<string>줄바꿈</string>
+< 		<string>Set No Character Style</string>
+> 		<string>문자 스타일 벗기기</string>
+< 		<string>Reset Rotation</string>
+> 		<string>회전 재설정</string>
+< 		<string>Subscript</string>
+> 		<string>아랫첨자</string>
+< 		<string>Create Style</string>
+> 		<string>스타일 생성</string>
+< 		<string>Delete Character Style</string>
+> 		<string>문자 스타일 지우기</string>
+< 		<string>Export as Template…</string>
+> 		<string>템플릿으로 내보내기…</string>
+< 		<string>Pixel Size</string>
+> 		<string>픽셀 크기</string>
+< 		<string>Lock</string>
+> 		<string>잠금</string>
+< 		<string>Edit in Photo…</string>
+> 		<string>Photo에서 편집…</string>
+< 		<string>Rotate 90° Clockwise</string>
+> 		<string>시계방향으로 90° 회전</string>
+< 		<string>Check Spelling</string>
+> 		<string>철자 확인</string>
+< 		<string>Non-Breaking Space</string>
+> 		<string>줄 바꿈 없는 공백</string>
+< 		<string>Align Middle</string>
+> 		<string>세로 가운데 정렬</string>
+< 		<string>Justify All</string>
+> 		<string>양쪽 균등 정렬</string>
+< 		<string>Rotate 90° Clockwise</string>
+> 		<string>시계방향으로 90° 회전</string>
+< 		<string>Align Centre</string>
+> 		<string>가로 가운데 정렬</string>
+< 		<string>Move Forward One</string>
+> 		<string>앞으로 가져오기</string>
+< 		<string>Resource Manager...</string>
+> 		<string>자원 관리자...</string>
+< 		<string>Justify Centre</string>
+> 		<string>가운데 균등 정렬</string>
+< 		<string>Hide All Text</string>
+> 		<string>모든 텍스트 숨기기</string>
+< 		<string>Subtract</string>
+> 		<string>제거</string>
+< 		<string>Xor (Compound)</string>
+> 		<string>배타적논리합 (결합)</string>
+< 		<string>Italic</string>
+> 		<string>기울임</string>
+< 		<string>Auto Contrast</string>
+> 		<string>자동 대비</string>
+< 		<string>Margins…</string>
+> 		<string>여백…</string>
+< 		<string>Align Top</string>
+> 		<string>위쪽 정렬</string>
+< 		<string>Smaller</string>
+> 		<string>작게</string>
+< 		<string>Separate curves</string>
+> 		<string>곡선 분리</string>
+< 		<string>Dock Tools</string>
+> 		<string>도구 고정</string>
+< 		<string>Rotate Left</string>
+> 		<string>왼쪽으로 회전</string>
+< 		<string>Show Typography</string>
+> 		<string>타이포그래피 보기</string>
+< 		<string>Move to Next View Point</string>
+> 		<string>다음 뷰 포인트로 이동</string>
+< 		<string>Insert Filler Text</string>
+> 		<string>Lorem Ipsum</string>
+< 		<string>Non-Breaking Hyphen</string>
+> 		<string>줄 바꿈 없는 하이픈</string>
+< 		<string>Tighten</string>
+> 		<string>좁게</string>
+< 		<string>Repeat</string>
+> 		<string>반복</string>
+< 		<string>Merge Down</string>
+> 		<string>아래 항목 통합</string>
+< 		<string>Create Paragraph Style</string>
+> 		<string>문단 스타일 생성</string>
+< 		<string>Reselect</string>
+> 		<string>다시 선택</string>
+< 		<string>Delete Paragraph Style</string>
+> 		<string>문단 스타일 지우기</string>
+< 		<string>Em Dash</string>
+> 		<string>전각 줄표</string>
+< 		<string>All Caps</string>
+> 		<string>모두 대문자</string>
+< 		<string>Delete</string>
+> 		<string>지우기</string>
+< 		<string>Export Persona</string>
+> 		<string>내보내기 페르소나</string>
+< 		<string>Paste FX</string>
+> 		<string>효과 붙이기</string>
+< 		<string>New From Clipboard</string>
+> 		<string>클립보드에서 신규</string>
+< 		<string>Rotate 90° Anticlockwise</string>
+> 		<string>반시계방향으로 90° 회전</string>
+< 		<string>Increase</string>
+> 		<string>늘리기</string>
+< 		<string>Add (Compound)</string>
+> 		<string>추가 (결합)</string>
+< 		<string>Lock Guides</string>
+> 		<string>안내선 잠금</string>
+< 		<string>Detach and Delete All Styles</string>
+> 		<string>모든 스타일 벗기고 지우기</string>
+< 		<string>Small Caps</string>
+> 		<string>작은 대문자</string>
+< 		<string>Develop Persona</string>
+> 		<string>현상 페르소나</string>
+< 		<string>Tone Mapping Persona</string>
+> 		<string>톤 맵핑 페르소나</string>
+< 		<string>Loosen More</string>
+> 		<string>더욱 넓게</string>
+< 		<string>Move To Back</string>
+> 		<string>맨 뒤로 보내기</string>
+< 		<string>Add Snapshot</string>
+> 		<string>스냅샷 추가</string>
+< 		<string>Feather…</string>
+> 		<string>깃털…</string>
+< 		<string>Top</string>
+> 		<string>위쪽</string>
+< 		<string>Persona</string>
+> 		<string>페르소나</string>
+< 		<string>Services</string>
+> 		<string>서비스</string>
+< 		<string>File</string>
+> 		<string>파일</string>
+< 		<string>Edit</string>
+> 		<string>편집</string>
+< 		<string>Defaults</string>
+> 		<string>기본값</string>
+< 		<string>Text</string>
+> 		<string>텍스트</string>
+< 		<string>Character Traits</string>
+< 		<string>Character Traits</string>
+> 		<string>문자 특성</string>
+> 		<string>문자 특성</string>
+< 		<string>Size</string>
+> 		<string>크기</string>
+< 		<string>Spacing</string>
+> 		<string>간격</string>
+< 		<string>Ligatures</string>
+> 		<string>합자</string>
+< 		<string>Baseline</string>
+> 		<string>기준선</string>
+< 		<string>Capitalisation</string>
+< 		<string>Capitalisation</string>
+> 		<string>대문자화</string>
+> 		<string>대문자화</string>
+< 		<string>Alignment</string>
+> 		<string>정렬</string>
+< 		<string>Paragraph Leading</string>
+< 		<string>Paragraph Leading</string>
+> 		<string>줄 간격</string>
+> 		<string>줄 간격</string>
+< 		<string>Vertical Alignment</string>
+< 		<string>Vertical Alignment</string>
+> 		<string>세로 정렬</string>
+> 		<string>세로 정렬</string>
+< 		<string>Text Styles</string>
+< 		<string>Text Styles</string>
+> 		<string>텍스트 스타일</string>
+> 		<string>텍스트 스타일</string>
+< 		<string>Insert Character</string>
+< 		<string>Insert Character</string>
+> 		<string>문자 삽입</string>
+> 		<string>문자 삽입</string>
+< 		<string>Spelling</string>
+> 		<string>철자</string>
+< 		<string>Document</string>
+> 		<string>문서</string>
+< 		<string>Restore Snapshot</string>
+> 		<string>스냅샷 복원</string>
+< 		<string>Layer</string>
+> 		<string>레이어</string>
+< 		<string>New Adjustment Layer</string>
+< 		<string>New Adjustment Layer</string>
+> 		<string>신규 조정 레이어</string>
+> 		<string>신규 조정 레이어</string>
+< 		<string>Blur</string>
+> 		<string>블러</string>
+< 		<string>Distort</string>
+> 		<string>왜곡</string>
+< 		<string>Noise</string>
+> 		<string>잡음</string>
+< 		<string>Colours</string>
+> 		<string>색상</string>
+< 		<string>Geometry</string>
+> 		<string>기하</string>
+< 		<string>Select</string>
+> 		<string>선택</string>
+< 		<string>Colour Range</string>
+< 		<string>Colour Range</string>
+> 		<string>색상 범위</string>
+> 		<string>색상 범위</string>
+< 		<string>Tonal Range</string>
+> 		<string>색조 범위</string>
+< 		<string>Alpha Range</string>
+< 		<string>Alpha Range</string>
+> 		<string>알파 범위</string>
+> 		<string>알파 범위</string>
+< 		<string>Arrange</string>
+> 		<string>순서</string>
+< 		<string>Filters</string>
+> 		<string>필터</string>
+< 		<string>Detect</string>
+> 		<string>감지</string>
+< 		<string>View</string>
+> 		<string>뷰</string>
+< 		<string>Studio Presets</string>
+> 		<string>작업실 미리 설정</string>
+< 		<string>Window</string>
+> 		<string>윈도우</string>
+< 		<string>Bring All to Front</string>
+> 		<string>모두 앞으로 가져오기</string>
+< 		<string>Clean Up Floating Windows</string>
+< 		<string>Clean Up Floating Windows</string>
+> 		<string>펼쳐진 윈도우 정리</string>
+> 		<string>펼쳐진 윈도우 정리</string>
+< 		<string>Help</string>
+> 		<string>도움말</string>
