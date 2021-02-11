@@ -17,9 +17,9 @@
 < > 		<string>スタジオプリセット</string>
 > > 		<string>작업실 미리 설정</string>
 < > 		<string>プリセットを追加…</string>
-< < 		<string>Manage Studio Presets…</string>
-< > 		<string>スタジオプリセットを管理…</string>
 > > 		<string>미리 설정 추가…</string>
+< > 		<string>スタジオプリセットを管理…</string>
+> > 		<string>작업실 미리 설정 관리…</string>
 < > 		<string>共有</string>
 > > 		<string>공유</string>
 < > 		<string>最小化</string>
@@ -111,9 +111,9 @@
 < > 		<string>ルーラーを表示</string>
 > > 		<string>눈금자 보기</string>
 < > 		<string>画像</string>
-< < 		<string>Unstroked Objects</string>
-< > 		<string>境界線なしオブジェクト</string>
 > > 		<string>이미지</string>
+< > 		<string>境界線なしオブジェクト</string>
+> > 		<string>선이 없는 오브젝트</string>
 < > 		<string>ガイドをロック</string>
 > > 		<string>안내선 잠금</string>
 < > 		<string>アウトライン…</string>
@@ -145,9 +145,9 @@
 < > 		<string>ツールを表示</string>
 > > 		<string>도구 보기</string>
 < > 		<string>アートボード</string>
-< < 		<string>Opaque Objects</string>
-< > 		<string>不透明オブジェクト</string>
 > > 		<string>아트보드</string>
+< > 		<string>不透明オブジェクト</string>
+> > 		<string>불투명 오브젝트</string>
 < > 		<string>シェイプ</string>
 > > 		<string>모양</string>
 < > 		<string>コンテキストツールバーを表示</string>
@@ -208,11 +208,11 @@
 < > 		<string>右に回転</string>
 > > 		<string>오른쪽으로 회전</string>
 < > 		<string>明るさ/コントラスト</string>
-< < 		<string>Dashed Objects</string>
+> > 		<string>명암 / 대비</string>
 < > 		<string>破線付きオブジェクト</string>
 < < 		<string>Crash</string>
 < > 		<string>クラッシュ</string>
-> > 		<string>명암 / 대비</string>
+> > 		<string>점선 오브젝트</string>
 < > 		<string>ようこそ...</string>
 > > 		<string>환영...</string>
 < > 		<string>緑を選択</string>
@@ -242,11 +242,11 @@
 < > 		<string>ガイドマネージャー…</string>
 > > 		<string>안내선 관리자…</string>
 < > 		<string>UI切り替え</string>
-< < 		<string>Transparent Objects</string>
-< > 		<string>透明オブジェクト</string>
-< < 		<string>Embedded Documents</string>
-< > 		<string>埋め込みドキュメント</string>
 > > 		<string>UI 가리기</string>
+< > 		<string>透明オブジェクト</string>
+> > 		<string>투명 오브젝트</string>
+< > 		<string>埋め込みドキュメント</string>
+> > 		<string>삽입된 문서</string>
 < > 		<string>露出</string>
 > > 		<string>노출</string>
 < > 		<string>中間階調部を選択</string>
@@ -268,15 +268,15 @@
 < > 		<string>シャドウ/ハイライト</string>
 > > 		<string>그림자 / 빛</string>
 < > 		<string>ロック</string>
-< < 		<string>Stroked Objects</string>
-< > 		<string>境界線付きオブジェクト</string>
 > > 		<string>잠금</string>
+< > 		<string>境界線付きオブジェクト</string>
+> > 		<string>선이 있는 오브젝트</string>
 < > 		<string>レイヤーパネル内で検索</string>
 > > 		<string>레이어 패널에서 찾기</string>
 < > 		<string>ツールをドッキング</string>
-< < 		<string>Constrained Objects</string>
-< > 		<string>制約付きオブジェクト</string>
 > > 		<string>도구 고정</string>
+< > 		<string>制約付きオブジェクト</string>
+> > 		<string>제약받는 오브젝트</string>
 < > 		<string>透明度</string>
 > > 		<string>투명도</string>
 < > 		<string>背面</string>
@@ -308,9 +308,9 @@
 < > 		<string>内側に移動</string>
 > > 		<string>안으로 가져오기</string>
 < > 		<string>キャンバスに合わせてクリップ</string>
-< < 		<string>Undashed Objects</string>
-< > 		<string>破線なしオブジェクト</string>
 > > 		<string>캔버스에 클립</string>
+< > 		<string>破線なしオブジェクト</string>
+> > 		<string>점선 없는 오브젝트</string>
 < > 		<string>垂直方向に等間隔配置</string>
 > > 		<string>세로 공백</string>
 < > 		<string>上</string>
@@ -328,9 +328,9 @@
 < > 		<string>上下中央揃え</string>
 > > 		<string>세로 가운데 정렬</string>
 < > 		<string>追加</string>
-< < 		<string>Unfilled Objects</string>
-< > 		<string>塗りつぶされていないオブジェクト</string>
 > > 		<string>추가</string>
+< > 		<string>塗りつぶされていないオブジェクト</string>
+> > 		<string>칠이 없는 오브젝트</string>
 < > 		<string>フルスクリーン切り替え</string>
 > > 		<string>전체 화면 시작</string>
 < > 		<string>最背面に移動</string>
@@ -350,9 +350,9 @@
 < > 		<string>中マド</string>
 > > 		<string>배타적논리합</string>
 < > 		<string>表示</string>
-< < 		<string>Filled Objects</string>
-< > 		<string>塗りつぶされたオブジェクト</string>
 > > 		<string>보기</string>
+< > 		<string>塗りつぶされたオブジェクト</string>
+> > 		<string>칠이 있는 오브젝트</string>
 < > 		<string>ピクセル(Retina)</string>
 > > 		<string>픽셀 (레티나)</string>
 < > 		<string>ポスタライズ</string>

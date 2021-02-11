@@ -18,6 +18,8 @@
 > 		<string>작업실 미리 설정</string>
 < 		<string>Add Preset…</string>
 > 		<string>미리 설정 추가…</string>
+< 		<string>Manage Studio Presets…</string>
+> 		<string>작업실 미리 설정 관리…</string>
 < 		<string>Share</string>
 > 		<string>공유</string>
 < 		<string>Minimize</string>
@@ -110,6 +112,8 @@
 > 		<string>눈금자 보기</string>
 < 		<string>Images</string>
 > 		<string>이미지</string>
+< 		<string>Unstroked Objects</string>
+> 		<string>선이 없는 오브젝트</string>
 < 		<string>Lock Guides</string>
 > 		<string>안내선 잠금</string>
 < 		<string>Outline…</string>
@@ -142,6 +146,8 @@
 > 		<string>도구 보기</string>
 < 		<string>Artboards</string>
 > 		<string>아트보드</string>
+< 		<string>Opaque Objects</string>
+> 		<string>불투명 오브젝트</string>
 < 		<string>Shapes</string>
 > 		<string>모양</string>
 < 		<string>Show Context Toolbar</string>
@@ -202,6 +208,8 @@
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Brightness / Contrast</string>
 > 		<string>명암 / 대비</string>
+< 		<string>Dashed Objects</string>
+> 		<string>점선 오브젝트</string>
 < 		<string>Welcome...</string>
 > 		<string>환영...</string>
 < 		<string>Select Greens</string>
@@ -232,6 +240,10 @@
 > 		<string>안내선 관리자…</string>
 < 		<string>Toggle UI</string>
 > 		<string>UI 가리기</string>
+< 		<string>Transparent Objects</string>
+> 		<string>투명 오브젝트</string>
+< 		<string>Embedded Documents</string>
+> 		<string>삽입된 문서</string>
 < 		<string>Exposure</string>
 > 		<string>노출</string>
 < 		<string>Select Midtones</string>
@@ -252,10 +264,14 @@
 > 		<string>그림자 / 빛</string>
 < 		<string>Lock</string>
 > 		<string>잠금</string>
+< 		<string>Stroked Objects</string>
+> 		<string>선이 있는 오브젝트</string>
 < 		<string>Find in Layers Panel</string>
 > 		<string>레이어 패널에서 찾기</string>
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
+< 		<string>Constrained Objects</string>
+> 		<string>제약받는 오브젝트</string>
 < 		<string>Transparency</string>
 > 		<string>투명도</string>
 < 		<string>Behind</string>
@@ -286,6 +302,8 @@
 > 		<string>안으로 가져오기</string>
 < 		<string>Clip to Canvas</string>
 > 		<string>캔버스에 클립</string>
+< 		<string>Undashed Objects</string>
+> 		<string>점선 없는 오브젝트</string>
 < 		<string>Space Vertically</string>
 > 		<string>세로 공백</string>
 < 		<string>Top</string>
@@ -304,6 +322,8 @@
 > 		<string>세로 가운데 정렬</string>
 < 		<string>Add</string>
 > 		<string>추가</string>
+< 		<string>Unfilled Objects</string>
+> 		<string>칠이 없는 오브젝트</string>
 < 		<string>Toggle Full Screen</string>
 > 		<string>전체 화면 시작</string>
 < 		<string>Move to Back</string>
@@ -324,6 +344,8 @@
 > 		<string>배타적논리합</string>
 < 		<string>Show</string>
 > 		<string>보기</string>
+< 		<string>Filled Objects</string>
+> 		<string>칠이 있는 오브젝트</string>
 < 		<string>Pixels (Retina)</string>
 > 		<string>픽셀 (레티나)</string>
 < 		<string>Posterise</string>
