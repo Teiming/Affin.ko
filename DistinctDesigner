@@ -8,7 +8,6 @@ MIDPATH=~/Affin.ko-translated/Affinity\ Designer\ \ Frameworks
 # array 생성
 nib=("AnchorsPage" "AstroStackFilesPage" "AstroStackResultsPage" "DataMergeManagerWindowController" "HyperlinkPage" "IndexPage" "LayerPage" "PackageDocumentWindowController" "ParagraphPage" "Preferences" "ResourceManagerWindowController" "SectionsWindowController" "SnapshotsPage" "TextFramePage" "TocPage" "UserStatusView" "WorkspacePresetWindowController")
 # 변환
-cd ~/Affin.ko/Diff/
 for (( i = 1; i < ${#nib[@]}; i++ )); do
   echo "Converting ${nib[i]}"
   ENGFILE=${ENGPATH}/${nib[i]}.nib
@@ -19,16 +18,15 @@ for (( i = 1; i < ${#nib[@]}; i++ )); do
   /usr/bin/sudo /usr/bin/plutil -convert xml1 "${JAPFILE}/keyedobjects.nib"
   /usr/bin/sudo /bin/rm -dr "${MIDFILE}"
   /usr/bin/sudo /bin/mkdir "${MIDFILE}"
-  /usr/bin/sudo /bin/chmod 777 "${MIDFILE}"
-  /usr/bin/sudo /usr/bin/sed -f "/Users/jeongmin/Affin.ko/DictionaryDesigner" "${ENGFILE}/keyedobjects.nib" > "${MIDFILE}/keyedobjects.nib"
+  sed -f "/Users/jeongmin/Affin.ko/DictionaryDesigner" "${ENGFILE}/keyedobjects.nib" > "${MIDFILE}/keyedobjects.nib"
   echo -n " (en에서 mid-kr로)"
   /usr/bin/sudo /usr/bin/diff "${ENGFILE}" "${JAPFILE}" | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log
   /usr/bin/sudo /usr/bin/diff "${ENGFILE}" "${MIDFILE}" | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log
   /usr/bin/sudo /usr/bin/diff ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ja.log ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.en-ko.log | /usr/bin/grep "<string>" > ~/Affin.ko/Diff/Affinity\ Designer/Frameworks/${nib[i]}.nib.ja-ko.log
-  echo -n " (로그 종료)"
-  /usr/bin/git add .
-  /usr/bin/git commit -m "Affinity Designer ${APPVERS} ${nib[i]} Updated"
+  echo -n " (log 파일 생성)"
+  git add ~/Affin.ko/Diff/
+  git commit -m "Affinity Designer ${APPVERS} ${nib[i]}.nib/ Updated"
 done
-sudo /bin/rm -dr "${MIDPATH}/Preferences.nib"
-sudo /usr/bin/rsync -av --delete "${MIDPATH}" "${KORPATH}"
+sudo rm -dr "${MIDPATH}/Preferences.nib"
+sudo rsync -av --delete "${MIDPATH}" "${KORPATH}"
 echo -n " (mid-kr에서 kr로)"

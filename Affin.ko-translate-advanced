@@ -69,7 +69,7 @@ do
     diff "${ENGPATH}${NAME}" "${MIDPATH}${NAME}" | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log
     diff ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ja.log ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".en-ko.log | grep "<string>" > ~/Affin.ko/Diff/"${APPNAME}"/Frameworks/"${NAME}".ja-ko.log
     echo " (로그 종료)"
-    git add .
+    git add ~/Affin.ko/Diff/
     git commit -m "${APPNAME} ${APPVERS} ${NAME} Updated"
     ;;
   esac
