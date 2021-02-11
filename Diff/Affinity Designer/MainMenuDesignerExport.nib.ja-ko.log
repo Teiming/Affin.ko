@@ -13,13 +13,13 @@
 < > 		<string>スタジオを隠す</string>
 > > 		<string>작업실 가리기</string>
 < > 		<string>スタジオをリセット</string>
-< < 		<string>Studio Presets</string>
+> > 		<string>작업실 재설정</string>
 < > 		<string>スタジオプリセット</string>
-< < 		<string>Add Preset…</string>
+> > 		<string>작업실 미리 설정</string>
 < > 		<string>プリセットを追加…</string>
 < < 		<string>Manage Studio Presets…</string>
 < > 		<string>スタジオプリセットを管理…</string>
-> > 		<string>작업실 재설정</string>
+> > 		<string>미리 설정 추가…</string>
 < > 		<string>共有</string>
 > > 		<string>공유</string>
 < > 		<string>分離モード</string>
@@ -45,9 +45,9 @@
 < > 		<string>保存</string>
 > > 		<string>저장</string>
 < > 		<string>閉じる</string>
-< < 		<string>New…</string>
-< > 		<string>新規…</string>
 > > 		<string>닫기</string>
+< > 		<string>新規…</string>
+> > 		<string>신규…</string>
 < > 		<string>開く…</string>
 > > 		<string>열기…</string>
 < > 		<string>プリント…</string>
@@ -159,7 +159,7 @@
 < > 		<string>ガイドをロック</string>
 > > 		<string>안내선 잠금</string>
 < > 		<string>アウトライン</string>
-> > 		<string>윤곽</string>
+> > 		<string>외형</string>
 < > 		<string>ツールをドッキング</string>
 < < 		<string>Save as Regression Unit</string>
 < > 		<string>回帰単位として保存</string>
@@ -192,9 +192,9 @@
 < > 		<string>表示モード</string>
 < > 		<string>ビュー</string>
 < > 		<string>スタジオ</string>
-< < 		<string>Studio Presets</string>
-< > 		<string>スタジオプリセット</string>
 > > 		<string>뷰 모드</string>
+< > 		<string>スタジオプリセット</string>
+> > 		<string>작업실 미리 설정</string>
 < > 		<string>ウィンドウ</string>
 < > 		<string>ウィンドウ</string>
 > > 		<string>윈도우</string>
