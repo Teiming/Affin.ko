@@ -17,9 +17,9 @@
 < > 		<string>スタジオプリセット</string>
 > > 		<string>작업실 미리 설정</string>
 < > 		<string>プリセットを追加…</string>
-< < 		<string>Manage Studio Presets…</string>
-< > 		<string>スタジオプリセットを管理…</string>
 > > 		<string>미리 설정 추가…</string>
+< > 		<string>スタジオプリセットを管理…</string>
+> > 		<string>작업실 미리 설정 관리…</string>
 < > 		<string>共有</string>
 > > 		<string>공유</string>
 < > 		<string>最小化</string>
@@ -315,12 +315,12 @@
 < > 		<string>明暗別色補正</string>
 > > 		<string>분할 색조</string>
 < > 		<string>写真ペルソナ</string>
-< < 		<string>Constrained Objects</string>
+> > 		<string>사진 페르소나</string>
 < > 		<string>制約付きオブジェクト</string>
 < > 		<string>なし</string>
-< < 		<string>Undashed Objects</string>
+> > 		<string>제약받는 오브젝트</string>
 < > 		<string>破線なしオブジェクト</string>
-> > 		<string>사진 페르소나</string>
+> > 		<string>점선 없는 오브젝트</string>
 < > 		<string>ようこそ...</string>
 > > 		<string>환영...</string>
 < > 		<string>垂直方向に等間隔配置</string>
@@ -357,9 +357,9 @@
 < > 		<string>ガイドマネージャー…</string>
 > > 		<string>안내선 관리자…</string>
 < > 		<string>幅に合わせてズーム</string>
-< < 		<string>Opaque Objects</string>
-< > 		<string>不透明オブジェクト</string>
 > > 		<string>화면 너비에 맞추기</string>
+< > 		<string>不透明オブジェクト</string>
+> > 		<string>불투명 오브젝트</string>
 < > 		<string>露出</string>
 > > 		<string>노출</string>
 < > 		<string>ベースラインを上げる</string>
@@ -387,9 +387,9 @@
 < > 		<string>グループ</string>
 > > 		<string>그룹</string>
 < > 		<string>書き出しペルソナ</string>
-< < 		<string>Transparent Objects</string>
-< > 		<string>透明オブジェクト</string>
 > > 		<string>내보내기 페르소나</string>
+< > 		<string>透明オブジェクト</string>
+> > 		<string>투명 오브젝트</string>
 < > 		<string>サポート...</string>
 > > 		<string>지원...</string>
 < > 		<string>UI切り替え</string>
@@ -420,12 +420,12 @@
 < > 		<string>拡大</string>
 > > 		<string>늘리기</string>
 < > 		<string>しきい値</string>
-< < 		<string>Filled Objects</string>
+> > 		<string>역치</string>
 < > 		<string>塗りつぶされたオブジェクト</string>
 < > 		<string>すべて表示</string>
 < < 		<string>Add Symbol</string>
 < > 		<string>シンボルを追加</string>
-> > 		<string>역치</string>
+> > 		<string>칠이 있는 오브젝트</string>
 < > 		<string>グループをレイヤーに昇格</string>
 > > 		<string>그룹을 레이어로 승격</string>
 < > 		<string>書き出し…</string>
@@ -448,13 +448,13 @@
 > > 		<string>선 펼치기</string>
 < > 		<string>複合オブジェクトを作成</string>
 < > 		<string>上</string>
-< < 		<string>Stroked Objects</string>
+> > 		<string>결합 생성</string>
 < > 		<string>境界線付きオブジェクト</string>
 < < 		<string>Save as Regression Unit</string>
 < > 		<string>回帰単位として保存</string>
-< < 		<string>Dashed Objects</string>
+> > 		<string>선이 있는 오브젝트</string>
 < > 		<string>破線付きオブジェクト</string>
-> > 		<string>결합 생성</string>
+> > 		<string>점선 오브젝트</string>
 < > 		<string>すべてのウィンドウを結合</string>
 > > 		<string>모든 윈도우 통합</string>
 < > 		<string>段落スタイルを作成</string>
@@ -509,9 +509,9 @@
 < > 		<string>テキストスタイルを表示</string>
 > > 		<string>텍스트 스타일 보기</string>
 < > 		<string>テキストフレームに変換</string>
-< < 		<string>Unfilled Objects</string>
-< > 		<string>塗りつぶされていないオブジェクト</string>
 > > 		<string>텍스트 액자로 전환</string>
+< > 		<string>塗りつぶされていないオブジェクト</string>
+> > 		<string>칠이 없는 오브젝트</string>
 < > 		<string>拡げる</string>
 > > 		<string>넓게</string>
 < > 		<string>中央</string>
@@ -533,9 +533,9 @@
 < > 		<string>除外(複合)</string>
 > > 		<string>제거 (결합)</string>
 < > 		<string>出荷時の設定にリセット</string>
-< < 		<string>Embedded Documents</string>
-< > 		<string>埋め込みドキュメント</string>
 > > 		<string>기본값 재설정</string>
+< > 		<string>埋め込みドキュメント</string>
+> > 		<string>삽입된 문서</string>
 < > 		<string>全角ダッシュ</string>
 > > 		<string>전각 줄표</string>
 < > 		<string>裁ち落としを表示</string>
@@ -589,9 +589,9 @@
 > > 		<string>활기</string>
 < > 		<string>ソフト校正</string>
 < > 		<string>保存</string>
-< < 		<string>Unstroked Objects</string>
-< > 		<string>境界線なしオブジェクト</string>
 > > 		<string>미리보기</string>
+< > 		<string>境界線なしオブジェクト</string>
+> > 		<string>선이 없는 오브젝트</string>
 < > 		<string>塗りつぶしカラー</string>
 > > 		<string>칠 색상</string>
 < > 		<string>背面</string>

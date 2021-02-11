@@ -18,6 +18,8 @@
 > 		<string>작업실 미리 설정</string>
 < 		<string>Add Preset…</string>
 > 		<string>미리 설정 추가…</string>
+< 		<string>Manage Studio Presets…</string>
+> 		<string>작업실 미리 설정 관리…</string>
 < 		<string>Share</string>
 > 		<string>공유</string>
 < 		<string>Minimize</string>
@@ -298,6 +300,10 @@
 > 		<string>분할 색조</string>
 < 		<string>Photo Persona</string>
 > 		<string>사진 페르소나</string>
+< 		<string>Constrained Objects</string>
+> 		<string>제약받는 오브젝트</string>
+< 		<string>Undashed Objects</string>
+> 		<string>점선 없는 오브젝트</string>
 < 		<string>Welcome...</string>
 > 		<string>환영...</string>
 < 		<string>Space Vertically</string>
@@ -334,6 +340,8 @@
 > 		<string>안내선 관리자…</string>
 < 		<string>Zoom to Width</string>
 > 		<string>화면 너비에 맞추기</string>
+< 		<string>Opaque Objects</string>
+> 		<string>불투명 오브젝트</string>
 < 		<string>Exposure</string>
 > 		<string>노출</string>
 < 		<string>Raise Baseline</string>
@@ -358,6 +366,8 @@
 > 		<string>그룹</string>
 < 		<string>Export Persona</string>
 > 		<string>내보내기 페르소나</string>
+< 		<string>Transparent Objects</string>
+> 		<string>투명 오브젝트</string>
 < 		<string>Support...</string>
 > 		<string>지원...</string>
 < 		<string>Toggle UI</string>
@@ -388,6 +398,8 @@
 > 		<string>늘리기</string>
 < 		<string>Threshold</string>
 > 		<string>역치</string>
+< 		<string>Filled Objects</string>
+> 		<string>칠이 있는 오브젝트</string>
 < 		<string>Promote Group to Layer</string>
 > 		<string>그룹을 레이어로 승격</string>
 < 		<string>Export…</string>
@@ -410,6 +422,10 @@
 > 		<string>선 펼치기</string>
 < 		<string>Create Compound</string>
 > 		<string>결합 생성</string>
+< 		<string>Stroked Objects</string>
+> 		<string>선이 있는 오브젝트</string>
+< 		<string>Dashed Objects</string>
+> 		<string>점선 오브젝트</string>
 < 		<string>Merge All Windows</string>
 > 		<string>모든 윈도우 통합</string>
 < 		<string>Create Paragraph Style</string>
@@ -462,6 +478,8 @@
 > 		<string>텍스트 스타일 보기</string>
 < 		<string>Convert to Text Frame</string>
 > 		<string>텍스트 액자로 전환</string>
+< 		<string>Unfilled Objects</string>
+> 		<string>칠이 없는 오브젝트</string>
 < 		<string>Loosen</string>
 > 		<string>넓게</string>
 < 		<string>Centre</string>
@@ -484,6 +502,8 @@
 > 		<string>제거 (결합)</string>
 < 		<string>Factory Reset</string>
 > 		<string>기본값 재설정</string>
+< 		<string>Embedded Documents</string>
+> 		<string>삽입된 문서</string>
 < 		<string>Em Dash</string>
 > 		<string>전각 줄표</string>
 < 		<string>Show Bleed</string>
@@ -532,6 +552,8 @@
 > 		<string>활기</string>
 < 		<string>Soft Proof</string>
 > 		<string>미리보기</string>
+< 		<string>Unstroked Objects</string>
+> 		<string>선이 없는 오브젝트</string>
 < 		<string>Fill Colour</string>
 > 		<string>칠 색상</string>
 < 		<string>Behind</string>
