@@ -16,14 +16,17 @@ case ${Application} in
   1 )
   APPNAME=Affinity\ Designer
   DICPATH=~/Affin.ko/DictionaryDesigner
+  DISTINC=~/Affin.ko/DistinctDesigner
   ;;
   3 )
   APPNAME=Affinity\ Photo
   DICPATH=~/Affin.ko/DictionaryPhoto
+  DISTINC=~/Affin.ko/DistinctPhoto
   ;;
   5 )
   APPNAME=Affinity\ Publisher
   DICPATH=~/Affin.ko/DictionaryPublisher
+  DISTINC=~/Affin.ko/DistinctPublisher
   ;;
   * )
   echo "Unknown Application."
@@ -73,5 +76,6 @@ do
 done
 sudo rsync -av --delete "${MIDPATH}" "${KORPATH}"
 echo " (동기화 종료)"
-echo "Distinct.nib"
-~/Affin.ko/Error.command
+
+# 별도 파일 실행
+sudo ${DISTINC}
