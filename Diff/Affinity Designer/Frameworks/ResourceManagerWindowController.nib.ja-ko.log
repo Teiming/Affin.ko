@@ -5,7 +5,8 @@
 < < 		<string>{698, 263}</string>
 < > 		<string>{698, 260}</string>
 < > 		<string>名前</string>
-< < 		<string>Text Cell</string>
+> < 		<string>Name</string>
+> > 		<string>이름</string>
 < > 		<string>テキストセル</string>
 < > 		<string>ステータス</string>
 < > 		<string>テキストセル</string>
@@ -22,7 +23,11 @@
 < > 		<string>{{0, -28}, {698, 288}}</string>
 < < 		<string>{698, 25}</string>
 < > 		<string>{698, 28}</string>
-< < 		<string>Close</string>
+> > 		<string>텍스트 셀</string>
+> < 		<string>Page</string>
+> > 		<string>페이지</string>
+> < 		<string>Size</string>
+> > 		<string>크기</string>
 < > 		<string>閉じる</string>
 < < 		<string>Update</string>
 < > 		<string>更新</string>
@@ -36,7 +41,7 @@
 < > 		<string>元のDPI:</string>
 < < 		<string>Placed size:</string>
 < > 		<string>配置サイズ:</string>
-< < 		<string>ICC profile:</string>
+> > 		<string>닫기</string>
 < > 		<string>ICCプロファイル:</string>
 < < 		<string>Colour space:</string>
 < > 		<string>色空間:</string>
@@ -44,3 +49,4 @@
 < > 		<string>収集...</string>
 < < 		<string>Show in Finder</string>
 < > 		<string>Finderで表示</string>
+> > 		<string>ICC 프로파일:</string>
