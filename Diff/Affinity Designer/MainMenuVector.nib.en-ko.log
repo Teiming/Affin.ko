@@ -14,6 +14,10 @@
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
 > 		<string>작업실 재설정</string>
+< 		<string>Studio Presets</string>
+> 		<string>작업실 미리 설정</string>
+< 		<string>Add Preset…</string>
+> 		<string>미리 설정 추가…</string>
 < 		<string>Share</string>
 > 		<string>공유</string>
 < 		<string>Minimize</string>
@@ -54,6 +58,8 @@
 > 		<string>닫기</string>
 < 		<string>Document Setup…</string>
 > 		<string>문서 설정…</string>
+< 		<string>New…</string>
+> 		<string>신규…</string>
 < 		<string>Open…</string>
 > 		<string>열기…</string>
 < 		<string>Print…</string>
@@ -65,7 +71,7 @@
 < 		<string>Show Toolbar</string>
 > 		<string>툴바 보기</string>
 < 		<string>Ungroup</string>
-> 		<string>그룹 해제</string>
+> 		<string>그룹 풀기</string>
 < 		<string>Group</string>
 > 		<string>그룹</string>
 < 		<string>Duplicate</string>
@@ -85,7 +91,7 @@
 < 		<string>Lock</string>
 > 		<string>잠금</string>
 < 		<string>Unlock</string>
-> 		<string>잠금 해제</string>
+> 		<string>잠금 풀기</string>
 < 		<string>Align Left</string>
 > 		<string>왼쪽 정렬</string>
 < 		<string>Align Centre</string>
@@ -162,6 +168,8 @@
 > 		<string>작은 대문자</string>
 < 		<string>All Caps</string>
 > 		<string>모두 대문자</string>
+< 		<string>Fill &amp; Stroke Colour</string>
+> 		<string>칠 g>Fill &amp; Stroke Colour<amp; 선 색상</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
 < 		<string>Set No Paragraph Style</string>
@@ -175,7 +183,7 @@
 < 		<string>Edit in Photo…</string>
 > 		<string>Photo에서 편집…</string>
 < 		<string>Unlock All</string>
-> 		<string>모두 잠금 해제</string>
+> 		<string>모두 잠금 풀기</string>
 < 		<string>Recolour</string>
 > 		<string>재색상</string>
 < 		<string>Insert Filler Text</string>
@@ -190,6 +198,8 @@
 > 		<string>조금씩 크게</string>
 < 		<string>Spread Setup…</string>
 > 		<string>스프레드 설정…</string>
+< 		<string>Path Text</string>
+> 		<string>경로 텍스트</string>
 < 		<string>Flip Vertical</string>
 > 		<string>세로 뒤집기</string>
 < 		<string>Show Glyph Browser</string>
@@ -248,12 +258,16 @@
 > 		<string>모든 스타일 벗기고 삭제</string>
 < 		<string>En Dash</string>
 > 		<string>반각 줄표</string>
+< 		<string>Stroke Colour</string>
+> 		<string>선 색상</string>
 < 		<string>Decrease</string>
 > 		<string>줄이기</string>
 < 		<string>Intersect</string>
 > 		<string>교차</string>
 < 		<string>Import Text Styles…</string>
 > 		<string>텍스트 스타일 들여오기…</string>
+< 		<string>Artboards</string>
+> 		<string>아트보드</string>
 < 		<string>Move to Front</string>
 > 		<string>맨 앞으로 가져오기</string>
 < 		<string>Rotate Right</string>
@@ -264,6 +278,8 @@
 > 		<string>왼쪽으로 회전</string>
 < 		<string>Show</string>
 > 		<string>보기</string>
+< 		<string>Name</string>
+> 		<string>이름</string>
 < 		<string>Brightness / Contrast</string>
 > 		<string>명암 / 대비</string>
 < 		<string>Split Toning</string>
@@ -296,8 +312,12 @@
 > 		<string>아래쪽 정렬</string>
 < 		<string>Update Paragraph Style</string>
 > 		<string>문단 스타일 업데이트</string>
+< 		<string>Images</string>
+> 		<string>이미지</string>
 < 		<string>Gradient Map</string>
 > 		<string>그레이디언트 맵</string>
+< 		<string>Intersect (Compound)</string>
+> 		<string>교차 (결합)</string>
 < 		<string>Guides Manager…</string>
 > 		<string>안내선 관리자…</string>
 < 		<string>Zoom to Width</string>
@@ -306,6 +326,8 @@
 > 		<string>노출</string>
 < 		<string>Raise Baseline</string>
 > 		<string>기준선 올리기</string>
+< 		<string>Shapes</string>
+> 		<string>모양</string>
 < 		<string>Precise Smaller</string>
 > 		<string>조금씩 작게</string>
 < 		<string>Set No Character Style</string>
@@ -318,6 +340,8 @@
 > 		<string>그림자 / 빛</string>
 < 		<string>Bigger</string>
 > 		<string>크게</string>
+< 		<string>Groups</string>
+> 		<string>그룹</string>
 < 		<string>Export Persona</string>
 > 		<string>내보내기 페르소나</string>
 < 		<string>Support...</string>
@@ -360,6 +384,8 @@
 > 		<string>기준선 조금씩 올리기</string>
 < 		<string>Tutorial...</string>
 > 		<string>튜토리얼...</string>
+< 		<string>Stroke Weight</string>
+> 		<string>선 두께</string>
 < 		<string>Convert Object to Artboard</string>
 > 		<string>오브젝트를 아트보드로 전환</string>
 < 		<string>Spelling Options…</string>
@@ -400,6 +426,8 @@
 > 		<string>선택 항목에 맞추기</string>
 < 		<string>Use All</string>
 > 		<string>모두 합자</string>
+< 		<string>Add (Compound)</string>
+> 		<string>추가 (결합)</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>Move to Back</string>
@@ -424,6 +452,8 @@
 > 		<string>픽셀 (레티나)</string>
 < 		<string>Posterise</string>
 > 		<string>포스터화</string>
+< 		<string>Art Text</string>
+> 		<string>예술 텍스트</string>
 < 		<string>Grid and Axis Manager…</string>
 > 		<string>격자선 관리자…</string>
 < 		<string>Check Spelling While Typing</string>
@@ -432,6 +462,8 @@
 > 		<string>도구 고정</string>
 < 		<string>Rasterise to Mask</string>
 > 		<string>마스크 래스터화</string>
+< 		<string>Subtract (Compound)</string>
+> 		<string>제거 (결합)</string>
 < 		<string>Factory Reset</string>
 > 		<string>기본값 재설정</string>
 < 		<string>Em Dash</string>
@@ -448,6 +480,8 @@
 > 		<string>작게</string>
 < 		<string>Symbols</string>
 > 		<string>상징</string>
+< 		<string>Shape</string>
+> 		<string>모양</string>
 < 		<string>Move Forward One</string>
 > 		<string>앞으로 가져오기</string>
 < 		<string>Update Character Style</string>
@@ -461,7 +495,7 @@
 < 		<string>Separate curves</string>
 > 		<string>곡선 분리</string>
 < 		<string>Ungroup All</string>
-> 		<string>모든 그룹 해제</string>
+> 		<string>모든 그룹 풀기</string>
 < 		<string>Show Tools</string>
 > 		<string>도구 보기</string>
 < 		<string>Channel Mixer</string>
@@ -470,14 +504,20 @@
 > 		<string>흑백</string>
 < 		<string>Subtract</string>
 > 		<string>제거</string>
+< 		<string>Tag Colour</string>
+> 		<string>태그 색상</string>
+< 		<string>Blend Mode</string>
+> 		<string>혼합 모드</string>
 < 		<string>Vibrance</string>
 > 		<string>활기</string>
 < 		<string>Soft Proof</string>
 > 		<string>미리보기</string>
+< 		<string>Fill Colour</string>
+> 		<string>칠 색상</string>
 < 		<string>Behind</string>
 > 		<string>뒤로</string>
 < 		<string>Outline</string>
-> 		<string>윤곽</string>
+> 		<string>외형</string>
 < 		<string>Actual Size</string>
 > 		<string>실제 크기</string>
 < 		<string>Check for Updates</string>
@@ -488,6 +528,8 @@
 > 		<string>레이어 패널에서 선택 항목 항상 보기 </string>
 < 		<string>Delete Character Style</string>
 > 		<string>문자 스타일 지우기</string>
+< 		<string>Xor (Compound)</string>
+> 		<string>배타 (결합)</string>
 < 		<string>Select Next</string>
 > 		<string>다음 항목 선택</string>
 < 		<string>Paste Without Format</string>
@@ -562,10 +604,18 @@
 > 		<string>칠 모드</string>
 < 		<string>Select</string>
 > 		<string>선택</string>
+< 		<string>Select Same</string>
+> 		<string>동일 선택</string>
+< 		<string>Select Object</string>
+< 		<string>Select Object</string>
+> 		<string>오브젝트 선택</string>
+> 		<string>오브젝트 선택</string>
 < 		<string>View</string>
 > 		<string>뷰</string>
 < 		<string>View Mode</string>
 > 		<string>뷰 모드</string>
+< 		<string>Studio Presets</string>
+> 		<string>작업실 미리 설정</string>
 < 		<string>Window</string>
 > 		<string>윈도우</string>
 < 		<string>Bring All to Front</string>
