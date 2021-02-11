@@ -32,3 +32,6 @@ sudo rm -dr "${MIDPATH}/.DS_Store"
 sudo rm -dr "${MIDPATH}/Preferences.nib"
 sudo rsync -av --delete "${MIDPATH}/" "${KORPATH}/"
 echo " (mid-kr에서 kr로)"
+
+sudo chmod +x ~/Affin.ko/jlog.DistinctDesigner
+sudo ~/Affin.ko/jlog.DistinctDesigner
