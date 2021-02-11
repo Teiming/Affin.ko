@@ -1,0 +1,22 @@
+< 		<string>Anchor</string>
+> 		<string>アンカー</string>
+< 		<string>Cancel</string>
+> 		<string>キャンセル</string>
+< 		<string>Done</string>
+> 		<string>完了</string>
+< 		<string>The picture will not be scaled.</string>
+> 		<string>ピクチャはスケーリングされません。</string>
+< 		<string>None</string>
+> 		<string>なし</string>
+< 		<string>The picture will be stretched to fill the frame. Its aspect ratio may not be maintained.</string>
+> 		<string>ピクチャはフレームを埋めるために引き伸ばされます。ピクチャの縦横比は維持されません。</string>
+< 		<string>Stretch to Fit</string>
+> 		<string>サイズに合わせてストレッチ</string>
+< 		<string>The picture will be scaled so its aspect ratio is maintained. It may not completely fill the frame.</string>
+> 		<string>ピクチャは縦横比を維持してスケーリングされます。フレームが完全には埋められない場合があります。</string>
+< 		<string>Scale to Min Fit</string>
+> 		<string>最小フィットに合わせてスケーリング</string>
+< 		<string>The picture will be scaled to fill the frame. Its aspect ratio will be maintained, but it may be cropped.</string>
+> 		<string>ピクチャはフレームを埋めるようにスケーリングされます。縦横比は維持されますが、切り抜きが行われる場合があります。</string>
+< 		<string>Scale to Max Fit</string>
+> 		<string>最大フィットに合わせてスケーリング</string>
