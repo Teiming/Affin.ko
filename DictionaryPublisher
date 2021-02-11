@@ -15,6 +15,7 @@ s/g>Absolute sizes</g>절대 크기</
 s/g>Action:</g>행동:</
 s/g>Actual Size</g>실제 크기</
 s/g>Add %1</g>%1 추가</
+s/g>Add (Compound)</g>추가 (결합)</
 s/g>Add Adjustment Preset</g>조정 미리 설정 추가</
 s/g>Add Application Palette</g>응용프로그램 팔레트 추가</
 s/g>Add Artistic Text</g>에술 텍스트 추가</
@@ -37,13 +38,8 @@ s/g>Add System Palette</g>시스템 팔레트 추가</
 s/g>Add brush Overlay</g>브러시 오버레이 추가</
 s/g>Add for constraining</g>규제 대상에 추가</
 s/g>Add for snapping</g>스내핑 대상에 추가</
-s/g>New…</g>신규…</
 s/g>Add to Swatches…</g>견본에 추가…</
 s/g>Add</g>추가</
-s/g>Add (Compound)</g>추가 (결합)</
-s/g>Subtract (Compound)</g>제거 (결합)</
-s/g>Xor (Compound)</g>배타 (결합)</
-s/g>Intersect (Compound)</g>교차 (결합)</
 s/g>Adjustment brush</g>조정 브러시</
 s/g>Adjustment</g>조정</
 s/g>Adjustments</g>조정</
@@ -67,7 +63,6 @@ s/g>Align Stroke to Outside</g>선을 바깥쪽에 정렬</
 s/g>Align Top Edges</g>위쪽 정렬</
 s/g>Align Top</g>위쪽 정렬</
 s/g>Align Vertical Centres</g>세로 가운데 정렬</
-s/g>Blend Mode</g>혼합 모드</
 s/g>Align to:</g>정렬 대상:</
 s/g>Align:</g>정렬:</
 s/g>Align</g>정렬하기</
@@ -95,11 +90,10 @@ s/g>Apple Colour Picker...</g>Apple 색상 선택기...</
 s/g>Application is about to close.</g>응용프로그램을 닫습니다.</
 s/g>Apply to Selection</g>선택 항목에 적용</
 s/g>Apply</g>적용</
-s/g>Art Text</g>예술 텍스트</
-s/g>Path Text</g>경로 텍스트</
 s/g>Area:</g>영역:</
 s/g>Arrange</g>순서</
 s/g>Arrow Tool</g>화살표 도구</
+s/g>Art Text</g>예술 텍스트</
 s/g>Artboard Tool</g>아트보드 도구</
 s/g>Artboard:</g>아트보드:</
 s/g>Artboard</g>아트보드</
@@ -164,6 +158,7 @@ s/g>Black</g>검정</
 s/g>Bleed:</g>도련:</
 s/g>Bleed</g>도련</
 s/g>Blend Mode:</g>혼합 모드:</
+s/g>Blend Mode</g>혼합 모드</
 s/g>Blend Options</g>혼합 설정</
 s/g>Blend mode:</g>혼합 모드:</
 s/g>Blend</g>혼합</
@@ -450,6 +445,7 @@ s/g>Export Slices (000)</g>슬라이스 내보내기 (000)</
 s/g>Export Slices</g>슬라이스 내보내기</
 s/g>Export Styles...</g>스타일 내보내기...</
 s/g>Export User Presets…</g>사용자 미리 설정 내보내기…</
+s/g>Export as Template…</g>템플릿으로 내보내기…</
 s/g>Export preset...</g>내보내기 미리 설정...</
 s/g>Export preset:</g>내보내기 미리 설정:</
 s/g>Export preset</g>내보내기 미리 설정</
@@ -473,7 +469,6 @@ s/g>File</g>파일</
 s/g>Fill &amp; Stroke Colour</g>칠 및 선 색상</
 s/g>Fill Colour</g>칠 색상</
 s/g>Fill Mode</g>칠 모드</
-s/g>My Account…</g>내 계정…</
 s/g>Fill Opacity:</g>칠 불투명도:</
 s/g>Fill Tool</g>칠 도구</
 s/g>Fill style:</g>칠 스타일:</
@@ -621,6 +616,7 @@ s/g>Inside</g>안으로</
 s/g>Intensity:</g>세기:</
 s/g>Interactive</g>상호작용</
 s/g>Intermediate angles:</g>사이 각도:</
+s/g>Intersect (Compound)</g>교차 (결합)</
 s/g>Intersect toolbar button</g>교차 툴바 버튼</
 s/g>Intersect</g>교차</
 s/g>Invert Mask</g>마스크 반전</
@@ -765,6 +761,7 @@ s/g>Move to Front</g>맨 앞으로 가져오기</
 s/g>Move to Next View Point</g>다음 뷰 포인트로 이동</
 s/g>Move to Previous View Point</g>이전 뷰 포인트로 이동</
 s/g>My Account</g>내 계정</
+s/g>My Account…</g>내 계정…</
 s/g>Name</g>이름</
 s/g>Navigator</g>네비게이터</
 s/g>Negate</g>부정</
@@ -786,6 +783,7 @@ s/g>New View</g>신규 뷰</
 s/g>New layer</g>신규 레이어</
 s/g>New</g>신규</
 s/g>News</g>뉴스</
+s/g>New…</g>신규…</
 s/g>No Camera Data</g>카메라 데이터 없음</
 s/g>No Line Style</g>선 스타일 없음</
 s/g>No Selection</g>선택 항목 없음</
@@ -850,6 +848,7 @@ s/g>Paste Inside</g>안으로 붙이기</
 s/g>Paste Style</g>스타일 붙이기</
 s/g>Paste Without Format</g>포맷 없이 붙이기</
 s/g>Paste</g>붙이기</
+s/g>Path Text</g>경로 텍스트</
 s/g>Path:</g>경로:</
 s/g>Pen Tool</g>펜 도구</
 s/g>Pen</g>펜</
@@ -1228,6 +1227,7 @@ s/g>Styles</g>스타일</
 s/g>Sub Brushes</g>보조 브러시</
 s/g>Subdivision lines:</g>보조구획 선:</
 s/g>Subscript</g>아랫첨자</
+s/g>Subtract (Compound)</g>제거 (결합)</
 s/g>Subtract toolbar button</g>제거 툴바 버튼</
 s/g>Subtract</g>제거</
 s/g>Summary</g>요약</
@@ -1400,6 +1400,7 @@ s/g>Window:</g>윈도우:</
 s/g>Window</g>윈도우</
 s/g>Would you like to save this document?</g>문서를 저장하시겠습니까?</
 s/g>Xfm</g>변형</
+s/g>Xor (Compound)</g>배타 (결합)</
 s/g>Xor toolbar button</g>배타 툴바 버튼</
 s/g>Xor</g>배타</
 s/g>Yards:</g>야드:</
