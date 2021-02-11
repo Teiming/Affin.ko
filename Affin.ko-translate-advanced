@@ -5,11 +5,8 @@ git pull
 ln -sf ~/Affin.ko/Affin.ko-translate-advanced /usr/local/bin/aftrn
 echo "Select Application"
 echo "1: Affinity Designer"
-echo "2: Affinity Designer Beta"
-echo "3: Affinity Photo"
-echo "4: Affinity Photo Beta"
-echo "5: Affinity Publisher"
-echo "6: Affinity Publisher Beta"
+echo "2: Affinity Photo"
+echo "3: Affinity Publisher"
 read Application
 APPVERS=1.9.0
 case ${Application} in
@@ -18,12 +15,12 @@ case ${Application} in
   DICPATH=~/Affin.ko/DictionaryDesigner
   DISTINC=~/Affin.ko/DistinctDesigner
   ;;
-  3 )
+  2 )
   APPNAME=Affinity\ Photo
   DICPATH=~/Affin.ko/DictionaryPhoto
   DISTINC=~/Affin.ko/DistinctPhoto
   ;;
-  5 )
+  3 )
   APPNAME=Affinity\ Publisher
   DICPATH=~/Affin.ko/DictionaryPublisher
   DISTINC=~/Affin.ko/DistinctPublisher
@@ -74,8 +71,6 @@ do
     ;;
   esac
 done
-sudo rsync -av --delete "${MIDPATH}" "${KORPATH}"
-echo " (동기화 종료)"
-
 # 별도 파일 실행
+sudo chmod +x ${DISTINC}
 sudo ${DISTINC}
