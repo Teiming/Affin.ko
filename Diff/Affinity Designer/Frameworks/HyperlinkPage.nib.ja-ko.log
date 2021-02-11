@@ -1,19 +1,18 @@
 < < 		<string>{260, 301}</string>
 < > 		<string>{260, 298}</string>
-< < 		<string>Name</string>
 < > 		<string>名前</string>
-< < 		<string>Text Cell</string>
+> > 		<string>이름</string>
 < > 		<string>テキストセル</string>
 < > 		<string>Name</string>
-< < 		<string>Categories</string>
+> > 		<string>텍스트 셀</string>
 < > 		<string>カテゴリ</string>
-< < 		<string>Standard</string>
+> > 		<string>범주</string>
 < > 		<string>標準</string>
-< < 		<string>User Defined</string>
+> > 		<string>표준</string>
 < > 		<string>ユーザー定義</string>
 < > 		<string>カテゴリ</string>
 < > 		<string>標準</string>
-< < 		<string>User Defined</string>
+> > 		<string>사용자 정의</string>
 < > 		<string>ユーザー定義</string>
 < < 		<string>{{0, -25}, {260, 326}}</string>
 < > 		<string>{{0, -28}, {260, 326}}</string>
@@ -31,3 +30,4 @@
 < > 		<string>ハイパーリンク元へ移動</string>
 < < 		<string>Remove Hyperlink</string>
 < > 		<string>ハイパーリンク先へ移動</string>
+> > 		<string>사용자 정의</string>
