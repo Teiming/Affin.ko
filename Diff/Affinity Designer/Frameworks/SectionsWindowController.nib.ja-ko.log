@@ -22,11 +22,12 @@
 < > 		<string>001、002、003、004…</string>
 < < 		<string>0001, 0002, 0003, 0004…</string>
 < > 		<string>0001、0002、0003、0004…</string>
-< < 		<string>Close</string>
+> < 		<string>Title</string>
+> > 		<string>타이틀</string>
 < > 		<string>閉じる</string>
 < < 		<string>Start on page:</string>
 < > 		<string>開始ページ:</string>
-< < 		<string>Text Cell</string>
+> > 		<string>닫기</string>
 < > 		<string>テキストセル</string>
 < < 		<string>Number style:</string>
 < > 		<string>番号スタイル:</string>
@@ -38,3 +39,4 @@
 < > 		<string>セクションを削除</string>
 < < 		<string>Remove Section</string>
 < > 		<string>セクションを追加</string>
+> > 		<string>텍스트 셀</string>
