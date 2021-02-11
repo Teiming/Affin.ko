@@ -14,6 +14,10 @@
 > 		<string>작업실 가리기</string>
 < 		<string>Reset Studio</string>
 > 		<string>작업실 재설정</string>
+< 		<string>Studio Presets</string>
+> 		<string>작업실 미리 설정</string>
+< 		<string>Add Preset…</string>
+> 		<string>미리 설정 추가…</string>
 < 		<string>Share</string>
 > 		<string>공유</string>
 < 		<string>Minimize</string>
@@ -52,6 +56,8 @@
 > 		<string>닫기</string>
 < 		<string>Document Setup…</string>
 > 		<string>문서 설정…</string>
+< 		<string>New…</string>
+> 		<string>신규…</string>
 < 		<string>Open…</string>
 > 		<string>열기…</string>
 < 		<string>Print…</string>
@@ -65,7 +71,7 @@
 < 		<string>Affinity Designer Help</string>
 > 		<string>Affinity Designer 도움말</string>
 < 		<string>Ungroup</string>
-> 		<string>그룹 해제</string>
+> 		<string>그룹 풀기</string>
 < 		<string>Group</string>
 > 		<string>그룹</string>
 < 		<string>Duplicate</string>
@@ -102,10 +108,12 @@
 > 		<string>벡터</string>
 < 		<string>Show Rulers</string>
 > 		<string>눈금자 보기</string>
+< 		<string>Images</string>
+> 		<string>이미지</string>
 < 		<string>Lock Guides</string>
 > 		<string>안내선 잠금</string>
 < 		<string>Outline…</string>
-> 		<string>윤곽…</string>
+> 		<string>외형…</string>
 < 		<string>Select Highlights</string>
 > 		<string>빛 선택</string>
 < 		<string>Edit in Photo…</string>
@@ -128,6 +136,10 @@
 > 		<string>모든 윈도우 통합</string>
 < 		<string>Show Tools</string>
 > 		<string>도구 보기</string>
+< 		<string>Artboards</string>
+> 		<string>아트보드</string>
+< 		<string>Shapes</string>
+> 		<string>모양</string>
 < 		<string>Show Context Toolbar</string>
 > 		<string>상황별 툴바 보기</string>
 < 		<string>Move to Previous View Point</string>
@@ -165,7 +177,7 @@
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>Unlock All</string>
-> 		<string>모두 잠금 해제</string>
+> 		<string>모두 잠금 풀기</string>
 < 		<string>Export Persona</string>
 > 		<string>내보내기 페르소나</string>
 < 		<string>Rotate Left</string>
@@ -190,6 +202,8 @@
 > 		<string>튜토리얼...</string>
 < 		<string>Align Right</string>
 > 		<string>오른쪽 정렬</string>
+< 		<string>Blend Mode</string>
+> 		<string>혼합 모드</string>
 < 		<string>Curves</string>
 > 		<string>곡선</string>
 < 		<string>Single View</string>
@@ -201,7 +215,7 @@
 < 		<string>Align Bottom</string>
 > 		<string>아래쪽 정렬</string>
 < 		<string>Unlock</string>
-> 		<string>잠금 해제</string>
+> 		<string>잠금 풀기</string>
 < 		<string>Gradient Map</string>
 > 		<string>그레이디언트 맵</string>
 < 		<string>Zoom to Selection</string>
@@ -222,6 +236,8 @@
 > 		<string>픽셀 선택 항목 반전</string>
 < 		<string>Reset Rotation</string>
 > 		<string>회전 재설정</string>
+< 		<string>Fill &amp; Stroke Colour</string>
+> 		<string>칠 g>Fill &amp; Stroke Colour<amp; 선 색상</string>
 < 		<string>Rotate Right</string>
 > 		<string>오른쪽으로 회전</string>
 < 		<string>Shadows / Highlights</string>
@@ -234,6 +250,8 @@
 > 		<string>도구 고정</string>
 < 		<string>Behind</string>
 > 		<string>뒤로</string>
+< 		<string>Fill Colour</string>
+> 		<string>칠 색상</string>
 < 		<string>Paste Inside</string>
 > 		<string>안으로 붙이기</string>
 < 		<string>Grid and Axis Manager…</string>
@@ -250,6 +268,8 @@
 > 		<string>그림자 선택</string>
 < 		<string>Paste Without Format</string>
 > 		<string>포맷 없이 붙이기</string>
+< 		<string>Groups</string>
+> 		<string>그룹</string>
 < 		<string>Move Inside</string>
 > 		<string>안으로 가져오기</string>
 < 		<string>Clip to Canvas</string>
@@ -260,6 +280,8 @@
 > 		<string>위쪽</string>
 < 		<string>Flip Horizontal</string>
 > 		<string>가로 뒤집기</string>
+< 		<string>Art Text</string>
+> 		<string>예술 텍스트</string>
 < 		<string>Actual Size</string>
 > 		<string>실제 크기</string>
 < 		<string>Align Left</string>
@@ -277,7 +299,7 @@
 < 		<string>Deselect</string>
 > 		<string>선택 해제</string>
 < 		<string>Outline</string>
-> 		<string>윤곽</string>
+> 		<string>외형</string>
 < 		<string>Promote Group to Layer</string>
 > 		<string>그룹을 레이어로 승격</string>
 < 		<string>White Balance</string>
@@ -304,14 +326,20 @@
 > 		<string>앞으로 가져오기</string>
 < 		<string>Reveal in Finder</string>
 > 		<string>Finder에서 찾기</string>
+< 		<string>Path Text</string>
+> 		<string>경로 텍스트</string>
 < 		<string>Selective Colour</string>
 > 		<string>색상 선택</string>
 < 		<string>Move to Next View Point</string>
 > 		<string>다음 뷰 포인트로 이동</string>
+< 		<string>Shape</string>
+> 		<string>모양</string>
 < 		<string>Grow / Shrink…</string>
 > 		<string>팽창 / 수축…</string>
 < 		<string>Ungroup All</string>
-> 		<string>모든 그룹 해제</string>
+> 		<string>모든 그룹 풀기</string>
+< 		<string>Stroke Colour</string>
+> 		<string>선 색상</string>
 < 		<string>Move Outside</string>
 > 		<string>바깥으로 보내기</string>
 < 		<string>Channel Mixer</string>
@@ -328,6 +356,8 @@
 > 		<string>저장</string>
 < 		<string>Space Horizontally</string>
 > 		<string>가로 공백</string>
+< 		<string>Stroke Weight</string>
+> 		<string>선 두께</string>
 < 		<string>Save History With Document</string>
 > 		<string>문서와 함께 편집 기록 저장</string>
 < 		<string>Select Next</string>
@@ -362,6 +392,12 @@
 > 		<string>신규 조정</string>
 < 		<string>Select</string>
 > 		<string>선택</string>
+< 		<string>Select Same</string>
+> 		<string>동일 선택</string>
+< 		<string>Select Object</string>
+< 		<string>Select Object</string>
+> 		<string>오브젝트 선택</string>
+> 		<string>오브젝트 선택</string>
 < 		<string>Colour Range</string>
 < 		<string>Colour Range</string>
 > 		<string>색상 범위</string>
@@ -372,6 +408,8 @@
 > 		<string>뷰</string>
 < 		<string>View Mode</string>
 > 		<string>뷰 모드</string>
+< 		<string>Studio Presets</string>
+> 		<string>작업실 미리 설정</string>
 < 		<string>Window</string>
 > 		<string>윈도우</string>
 < 		<string>Bring All to Front</string>

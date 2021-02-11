@@ -13,13 +13,13 @@
 < > 		<string>スタジオを隠す</string>
 > > 		<string>작업실 가리기</string>
 < > 		<string>スタジオをリセット</string>
-< < 		<string>Studio Presets</string>
+> > 		<string>작업실 재설정</string>
 < > 		<string>スタジオプリセット</string>
-< < 		<string>Add Preset…</string>
+> > 		<string>작업실 미리 설정</string>
 < > 		<string>プリセットを追加…</string>
 < < 		<string>Manage Studio Presets…</string>
 < > 		<string>スタジオプリセットを管理…</string>
-> > 		<string>작업실 재설정</string>
+> > 		<string>미리 설정 추가…</string>
 < > 		<string>共有</string>
 > > 		<string>공유</string>
 < > 		<string>最小化</string>
@@ -57,9 +57,9 @@
 < > 		<string>閉じる</string>
 > > 		<string>닫기</string>
 < > 		<string>ドキュメント設定…</string>
-< < 		<string>New…</string>
-< > 		<string>新規…</string>
 > > 		<string>문서 설정…</string>
+< > 		<string>新規…</string>
+> > 		<string>신규…</string>
 < > 		<string>開く…</string>
 > > 		<string>열기…</string>
 < > 		<string>プリント…</string>
@@ -73,7 +73,7 @@
 < > 		<string>Affinity Designerヘルプ</string>
 > > 		<string>Affinity Designer 도움말</string>
 < > 		<string>グループ解除</string>
-> > 		<string>그룹 해제</string>
+> > 		<string>그룹 풀기</string>
 < > 		<string>グループ化</string>
 > > 		<string>그룹</string>
 < > 		<string>複製</string>
@@ -109,15 +109,15 @@
 < > 		<string>ベクター</string>
 > > 		<string>벡터</string>
 < > 		<string>ルーラーを表示</string>
-< < 		<string>Images</string>
+> > 		<string>눈금자 보기</string>
 < > 		<string>画像</string>
 < < 		<string>Unstroked Objects</string>
 < > 		<string>境界線なしオブジェクト</string>
-> > 		<string>눈금자 보기</string>
+> > 		<string>이미지</string>
 < > 		<string>ガイドをロック</string>
 > > 		<string>안내선 잠금</string>
 < > 		<string>アウトライン…</string>
-> > 		<string>윤곽…</string>
+> > 		<string>외형…</string>
 < > 		<string>ハイライトを選択</string>
 > > 		<string>빛 선택</string>
 < > 		<string>Photoで編集…</string>
@@ -143,13 +143,13 @@
 < > 		<string>すべてのウィンドウを結合</string>
 > > 		<string>모든 윈도우 통합</string>
 < > 		<string>ツールを表示</string>
-< < 		<string>Artboards</string>
+> > 		<string>도구 보기</string>
 < > 		<string>アートボード</string>
 < < 		<string>Opaque Objects</string>
 < > 		<string>不透明オブジェクト</string>
-< < 		<string>Shapes</string>
+> > 		<string>아트보드</string>
 < > 		<string>シェイプ</string>
-> > 		<string>도구 보기</string>
+> > 		<string>모양</string>
 < > 		<string>コンテキストツールバーを表示</string>
 > > 		<string>상황별 툴바 보기</string>
 < > 		<string>以前のビューポイントに移動</string>
@@ -192,7 +192,7 @@
 < > 		<string>ピクセルサイズ</string>
 > > 		<string>픽셀 크기</string>
 < > 		<string>すべてロック解除</string>
-> > 		<string>모두 잠금 해제</string>
+> > 		<string>모두 잠금 풀기</string>
 < > 		<string>書き出しペルソナ</string>
 > > 		<string>내보내기 페르소나</string>
 < > 		<string>左に回転</string>
@@ -220,9 +220,9 @@
 < > 		<string>チュートリアル...</string>
 > > 		<string>튜토리얼...</string>
 < > 		<string>右揃え</string>
-< < 		<string>Blend Mode</string>
-< > 		<string>描画モード</string>
 > > 		<string>오른쪽 정렬</string>
+< > 		<string>描画モード</string>
+> > 		<string>혼합 모드</string>
 < > 		<string>カーブ</string>
 > > 		<string>곡선</string>
 < > 		<string>シングルビュー</string>
@@ -234,7 +234,7 @@
 < > 		<string>下揃え</string>
 > > 		<string>아래쪽 정렬</string>
 < > 		<string>ロックを解除</string>
-> > 		<string>잠금 해제</string>
+> > 		<string>잠금 풀기</string>
 < > 		<string>グラデーションマップ</string>
 > > 		<string>그레이디언트 맵</string>
 < > 		<string>選択範囲にズーム</string>
@@ -258,9 +258,9 @@
 < > 		<string>ピクセル選択範囲を反転</string>
 > > 		<string>픽셀 선택 항목 반전</string>
 < > 		<string>回転をリセット</string>
-< < 		<string>Fill &amp; Stroke Colour</string>
-< > 		<string>塗りつぶし&amp;境界線カラー</string>
 > > 		<string>회전 재설정</string>
+< > 		<string>塗りつぶし&amp;境界線カラー</string>
+> > 		<string>칠 g>Fill &amp; Stroke Colour<amp; 선 색상</string>
 < > 		<string>右に回転</string>
 < < 		<string>Save as Regression Unit</string>
 < > 		<string>回帰単位として保存</string>
@@ -282,9 +282,9 @@
 < > 		<string>背面</string>
 < < 		<string>Pixel Objects</string>
 < > 		<string>ピクセルオブジェクト</string>
-< < 		<string>Fill Colour</string>
-< > 		<string>塗りつぶしカラー</string>
 > > 		<string>뒤로</string>
+< > 		<string>塗りつぶしカラー</string>
+> > 		<string>칠 색상</string>
 < > 		<string>内側にペースト</string>
 > > 		<string>안으로 붙이기</string>
 < > 		<string>グリッドおよび軸マネージャー…</string>
@@ -302,9 +302,9 @@
 < > 		<string>シャドウを選択</string>
 > > 		<string>그림자 선택</string>
 < > 		<string>書式を解除してペースト</string>
-< < 		<string>Groups</string>
-< > 		<string>グループ</string>
 > > 		<string>포맷 없이 붙이기</string>
+< > 		<string>グループ</string>
+> > 		<string>그룹</string>
 < > 		<string>内側に移動</string>
 > > 		<string>안으로 가져오기</string>
 < > 		<string>キャンバスに合わせてクリップ</string>
@@ -316,9 +316,9 @@
 < > 		<string>上</string>
 > > 		<string>위쪽</string>
 < > 		<string>左右反転</string>
-< < 		<string>Art Text</string>
-< > 		<string>アートテキスト</string>
 > > 		<string>가로 뒤집기</string>
+< > 		<string>アートテキスト</string>
+> > 		<string>예술 텍스트</string>
 < > 		<string>実寸</string>
 > > 		<string>실제 크기</string>
 < > 		<string>左揃え</string>
@@ -338,7 +338,7 @@
 < > 		<string>選択解除</string>
 > > 		<string>선택 해제</string>
 < > 		<string>アウトライン</string>
-> > 		<string>윤곽</string>
+> > 		<string>외형</string>
 < > 		<string>グループをレイヤーに昇格</string>
 > > 		<string>그룹을 레이어로 승격</string>
 < > 		<string>ホワイトバランス</string>
@@ -366,23 +366,23 @@
 < > 		<string>前面へ</string>
 > > 		<string>앞으로 가져오기</string>
 < > 		<string>Finderで表示</string>
-< < 		<string>Path Text</string>
-< > 		<string>パステキスト</string>
 > > 		<string>Finder에서 찾기</string>
+< > 		<string>パステキスト</string>
+> > 		<string>경로 텍스트</string>
 < > 		<string>特定色域</string>
 > > 		<string>색상 선택</string>
 < > 		<string>次のビューポイントに移動</string>
 < < 		<string>Export as Template…</string>
 < > 		<string>テンプレートとして書き出し...</string>
-< < 		<string>Shape</string>
-< > 		<string>シェイプ</string>
 > > 		<string>다음 뷰 포인트로 이동</string>
+< > 		<string>シェイプ</string>
+> > 		<string>모양</string>
 < > 		<string>拡大/縮小…</string>
 > > 		<string>팽창 / 수축…</string>
 < > 		<string>すべてグループ解除</string>
-< < 		<string>Stroke Colour</string>
+> > 		<string>모든 그룹 풀기</string>
 < > 		<string>境界線カラー</string>
-> > 		<string>모든 그룹 해제</string>
+> > 		<string>선 색상</string>
 < > 		<string>外側に移動</string>
 < > 		<string>カーブ</string>
 > > 		<string>바깥으로 보내기</string>
@@ -401,10 +401,10 @@
 < > 		<string>所有者に返す…</string>
 > > 		<string>저장</string>
 < > 		<string>水平方向に等間隔配置</string>
-< < 		<string>Stroke Weight</string>
+> > 		<string>가로 공백</string>
 < > 		<string>境界線の重み</string>
 < > 		<string>すべて表示</string>
-> > 		<string>가로 공백</string>
+> > 		<string>선 두께</string>
 < > 		<string>ドキュメントに関する履歴を保存</string>
 > > 		<string>문서와 함께 편집 기록 저장</string>
 < > 		<string>次の要素を選択</string>
@@ -456,14 +456,14 @@
 > > 		<string>신규 조정</string>
 < > 		<string>選択</string>
 < > 		<string>選択</string>
-< < 		<string>Select Same</string>
-< > 		<string>同一を選択</string>
-< > 		<string>同一を選択</string>
-< < 		<string>Select Object</string>
-< < 		<string>Select Object</string>
-< > 		<string>オブジェクトを選択</string>
-< > 		<string>オブジェクトを選択</string>
 > > 		<string>선택</string>
+< > 		<string>同一を選択</string>
+< > 		<string>同一を選択</string>
+> > 		<string>동일 선택</string>
+< > 		<string>オブジェクトを選択</string>
+< > 		<string>オブジェクトを選択</string>
+> > 		<string>오브젝트 선택</string>
+> > 		<string>오브젝트 선택</string>
 < > 		<string>カラー範囲</string>
 < > 		<string>カラー範囲</string>
 > > 		<string>색상 범위</string>
@@ -480,9 +480,9 @@
 < > 		<string>表示モード</string>
 < > 		<string>ビュー</string>
 < > 		<string>スタジオ</string>
-< < 		<string>Studio Presets</string>
-< > 		<string>スタジオプリセット</string>
 > > 		<string>뷰 모드</string>
+< > 		<string>スタジオプリセット</string>
+> > 		<string>작업실 미리 설정</string>
 < > 		<string>ウィンドウ</string>
 < > 		<string>ウィンドウ</string>
 > > 		<string>윈도우</string>
