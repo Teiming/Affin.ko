@@ -123,9 +123,9 @@
 < > 		<string>Photoで編集…</string>
 > > 		<string>Photo에서 편집…</string>
 < > 		<string>背面へ</string>
-< < 		<string>Resource Manager...</string>
-< > 		<string>リソースマネージャー...</string>
 > > 		<string>뒤로 보내기</string>
+< > 		<string>リソースマネージャー...</string>
+> > 		<string>자원 관리자...</string>
 < > 		<string>複合オブジェクトを作成</string>
 > > 		<string>결합 생성</string>
 < > 		<string>複合オブジェクトを解除</string>
@@ -170,9 +170,9 @@
 < > 		<string>デフォルト</string>
 > > 		<string>기본값</string>
 < > 		<string>分割表示</string>
-< < 		<string>Closed Curves</string>
-< > 		<string>閉じたカーブ</string>
 > > 		<string>분할 뷰 모드</string>
+< > 		<string>閉じたカーブ</string>
+> > 		<string>닫힌 곡선</string>
 < > 		<string>前の要素を選択</string>
 > > 		<string>이전 항목 선택</string>
 < > 		<string>滑らかに…</string>
@@ -186,9 +186,9 @@
 < > 		<string>シンボル</string>
 > > 		<string>상징</string>
 < > 		<string>新規ピクセルレイヤー</string>
-< < 		<string>Open Curves</string>
-< > 		<string>開いたカーブ</string>
 > > 		<string>신규 픽셀 레이어</string>
+< > 		<string>開いたカーブ</string>
+> > 		<string>열린 곡선</string>
 < > 		<string>ピクセルサイズ</string>
 > > 		<string>픽셀 크기</string>
 < > 		<string>すべてロック解除</string>
@@ -276,13 +276,13 @@
 < > 		<string>ツールをドッキング</string>
 < < 		<string>Constrained Objects</string>
 < > 		<string>制約付きオブジェクト</string>
-< < 		<string>Transparency</string>
-< > 		<string>透明度</string>
 > > 		<string>도구 고정</string>
+< > 		<string>透明度</string>
+> > 		<string>투명도</string>
 < > 		<string>背面</string>
-< < 		<string>Pixel Objects</string>
-< > 		<string>ピクセルオブジェクト</string>
 > > 		<string>뒤로</string>
+< > 		<string>ピクセルオブジェクト</string>
+> > 		<string>픽셀 오브젝트</string>
 < > 		<string>塗りつぶしカラー</string>
 > > 		<string>칠 색상</string>
 < > 		<string>内側にペースト</string>
@@ -348,7 +348,7 @@
 < > 		<string>幅に合わせてズーム</string>
 > > 		<string>화면 너비에 맞추기</string>
 < > 		<string>中マド</string>
-> > 		<string>배타</string>
+> > 		<string>배타적논리합</string>
 < > 		<string>表示</string>
 < < 		<string>Filled Objects</string>
 < > 		<string>塗りつぶされたオブジェクト</string>
@@ -372,9 +372,9 @@
 < > 		<string>特定色域</string>
 > > 		<string>색상 선택</string>
 < > 		<string>次のビューポイントに移動</string>
-< < 		<string>Export as Template…</string>
-< > 		<string>テンプレートとして書き出し...</string>
 > > 		<string>다음 뷰 포인트로 이동</string>
+< > 		<string>テンプレートとして書き出し...</string>
+> > 		<string>템플릿으로 내보내기…</string>
 < > 		<string>シェイプ</string>
 > > 		<string>모양</string>
 < > 		<string>拡大/縮小…</string>
@@ -408,9 +408,9 @@
 < > 		<string>ドキュメントに関する履歴を保存</string>
 > > 		<string>문서와 함께 편집 기록 저장</string>
 < > 		<string>次の要素を選択</string>
-< < 		<string>Vector Layers</string>
-< > 		<string>ベクターレイヤー</string>
 > > 		<string>다음 항목 선택</string>
+< > 		<string>ベクターレイヤー</string>
+> > 		<string>벡터 레이어</string>
 < > 		<string>レベル</string>
 < < 		<string>Edit In Designer…</string>
 < > 		<string>Designerで編集…</string>

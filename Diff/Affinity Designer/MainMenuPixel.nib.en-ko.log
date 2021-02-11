@@ -120,6 +120,8 @@
 > 		<string>Photo에서 편집…</string>
 < 		<string>Move Back One</string>
 > 		<string>뒤로 보내기</string>
+< 		<string>Resource Manager...</string>
+> 		<string>자원 관리자...</string>
 < 		<string>Create Compound</string>
 > 		<string>결합 생성</string>
 < 		<string>Release Compound</string>
@@ -162,6 +164,8 @@
 > 		<string>기본값</string>
 < 		<string>Split View</string>
 > 		<string>분할 뷰 모드</string>
+< 		<string>Closed Curves</string>
+> 		<string>닫힌 곡선</string>
 < 		<string>Select Previous</string>
 > 		<string>이전 항목 선택</string>
 < 		<string>Smooth…</string>
@@ -176,6 +180,8 @@
 > 		<string>상징</string>
 < 		<string>New Pixel Layer</string>
 > 		<string>신규 픽셀 레이어</string>
+< 		<string>Open Curves</string>
+> 		<string>열린 곡선</string>
 < 		<string>Pixel Size</string>
 > 		<string>픽셀 크기</string>
 < 		<string>Unlock All</string>
@@ -250,8 +256,12 @@
 > 		<string>레이어 패널에서 찾기</string>
 < 		<string>Dock Tools</string>
 > 		<string>도구 고정</string>
+< 		<string>Transparency</string>
+> 		<string>투명도</string>
 < 		<string>Behind</string>
 > 		<string>뒤로</string>
+< 		<string>Pixel Objects</string>
+> 		<string>픽셀 오브젝트</string>
 < 		<string>Fill Colour</string>
 > 		<string>칠 색상</string>
 < 		<string>Paste Inside</string>
@@ -311,7 +321,7 @@
 < 		<string>Zoom to Width</string>
 > 		<string>화면 너비에 맞추기</string>
 < 		<string>Combine</string>
-> 		<string>배타</string>
+> 		<string>배타적논리합</string>
 < 		<string>Show</string>
 > 		<string>보기</string>
 < 		<string>Pixels (Retina)</string>
@@ -334,6 +344,8 @@
 > 		<string>색상 선택</string>
 < 		<string>Move to Next View Point</string>
 > 		<string>다음 뷰 포인트로 이동</string>
+< 		<string>Export as Template…</string>
+> 		<string>템플릿으로 내보내기…</string>
 < 		<string>Shape</string>
 > 		<string>모양</string>
 < 		<string>Grow / Shrink…</string>
@@ -364,6 +376,8 @@
 > 		<string>문서와 함께 편집 기록 저장</string>
 < 		<string>Select Next</string>
 > 		<string>다음 항목 선택</string>
+< 		<string>Vector Layers</string>
+> 		<string>벡터 레이어</string>
 < 		<string>Levels</string>
 > 		<string>레벨</string>
 < 		<string>Select Blues</string>
