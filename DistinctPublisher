@@ -12,7 +12,7 @@ nib=("AnchorsPage" "AstroStackFilesPage" "AstroStackResultsPage" "DataMergeManag
 "TextFramePage" "TocPage" "UserStatusView" "WorkspacePresetWindowController")
 # 변환
 for (( i = 0; i < ${#nib[@]}; i++ )); do
-  echo "Converting ${nib[i]}"
+  echo -n "Converting ${nib[i]}"
   ENGFILE=${ENGPATH}/${nib[i]}.nib
   JAPFILE=${JAPPATH}/${nib[i]}.nib
   KORFILE=${KORPATH}/${nib[i]}.nib

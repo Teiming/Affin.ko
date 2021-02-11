@@ -9,7 +9,7 @@ MIDPATH=~/Affin.ko-translated/Affinity\ Designer\ \ Frameworks
 nib=("AnchorsPage" "AstroStackFilesPage" "AstroStackResultsPage" "DataMergeManagerWindowController" "HyperlinkPage" "IndexPage" "LayerPage" "PackageDocumentWindowController" "ParagraphPage" "Preferences" "ResourceManagerWindowController" "SectionsWindowController" "SnapshotsPage" "TextFramePage" "TocPage" "UserStatusView" "WorkspacePresetWindowController")
 # 변환
 for (( i = 0; i < ${#nib[@]}; i++ )); do
-  echo "Converting ${nib[i]}"
+  echo -n "Converting ${nib[i]}"
   ENGFILE=${ENGPATH}/${nib[i]}.nib
   JAPFILE=${JAPPATH}/${nib[i]}.nib
   KORFILE=${KORPATH}/${nib[i]}.nib
