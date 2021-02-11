@@ -1,0 +1,64 @@
+< 		<string>Develop Assistant</string>
+> 		<string>現像アシスタント</string>
+< 		<string>Apply exposure bias as default</string>
+> 		<string>露出バイアスをデフォルトとして適用</string>
+< 		<string>Apply exposure bias as initial state</string>
+> 		<string>露出バイアスを初期状態として適用</string>
+< 		<string>Take no action</string>
+> 		<string>何もしない</string>
+< 		<string>Exposure bias:</string>
+> 		<string>露出バイアス:</string>
+< 		<string>Apply tone curve</string>
+> 		<string>トーンカーブを適用</string>
+< 		<string>Take no action</string>
+> 		<string>何もしない</string>
+< 		<string>RGB (16 bit)</string>
+> 		<string>RGB(16ビット)</string>
+< 		<string>RGB (32 bit HDR)</string>
+> 		<string>RGB(32ビットHDR)</string>
+< 		<string>Tone curve:</string>
+> 		<string>トーンカーブ:</string>
+< 		<string>None</string>
+> 		<string>なし</string>
+< 		<string>Auto-select</string>
+> 		<string>自動選択</string>
+< 		<string>Last used</string>
+> 		<string>最後の使用</string>
+< 		<string>Default lens profile:</string>
+> 		<string>デフォルトレンズプロファイル:</string>
+< 		<string>Apple (Core Image RAW)</string>
+> 		<string>Apple (コア画像RAW)</string>
+< 		<string>RAW Engine:</string>
+> 		<string>RAWエンジン:</string>
+< 		<string>Alert when assistant takes an action</string>
+> 		<string>アシスタントが処理を行うときにアラート</string>
+< 		<string>Europe</string>
+> 		<string>欧州</string>
+< 		<string>Africa</string>
+> 		<string>アフリカ</string>
+< 		<string>Asia</string>
+> 		<string>アジア</string>
+< 		<string>North America</string>
+> 		<string>北米</string>
+< 		<string>South America</string>
+> 		<string>南米</string>
+< 		<string>Map default region:</string>
+> 		<string>デフォルト地域のマッピング:</string>
+< 		<string>RAW output format:</string>
+> 		<string>RAW出力形式:</string>
+< 		<string>Apply colour / luminance reduction</string>
+> 		<string>カラー/輝度軽減を適用</string>
+< 		<string>Apply colour reduction</string>
+> 		<string>カラー軽減を適用</string>
+< 		<string>Take no action</string>
+> 		<string>何もしない</string>
+< 		<string>Noise reduction:</string>
+> 		<string>ノイズ軽減:</string>
+< 		<string>This setting is ignored for non-RAW images, and when using the Apple Core Image engine.</string>
+> 		<string>RAW画像でない場合、およびApple Core Imageエンジンを使用している場合は、この設定は無視されます。</string>
+< 		<string>Enable assistant</string>
+> 		<string>アシスタントを有効にする</string>
+< 		<string>Close</string>
+> 		<string>閉じる</string>
+< 		<string>Determines how a lens correction profile is initially selected when entering Develop.</string>
+> 		<string>現像に入るときにレンズ補正プロファイルを最初に選択する方法を決定します。</string>
