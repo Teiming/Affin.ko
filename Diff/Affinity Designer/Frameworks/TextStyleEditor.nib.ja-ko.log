@@ -1,20 +1,174 @@
-> < 		<string>Text Cell</string>
+< < 		<string>Edit Text Style</string>
+< > 		<string>テキストスタイルを編集</string>
+< > 		<string>テキストセル</string>
+< < 		<string>Style name:</string>
+< > 		<string>スタイル名:</string>
 > > 		<string>텍스트 셀</string>
-> < 		<string>General</string>
+< > 		<string>一般</string>
+< < 		<string>Based on:</string>
+< > 		<string>基本にするスタイル:</string>
+< < 		<string>Next style:</string>
+< > 		<string>次のスタイル:</string>
+< < 		<string>Next level:</string>
+< > 		<string>次のレベル:</string>
+< < 		<string>Keyboard shortcut:</string>
+< > 		<string>キーボードショートカット:</string>
 > > 		<string>일반</string>
-> < 		<string>Type:</string>
+< > 		<string>タイプ:</string>
 > > 		<string>종류:</string>
-> < 		<string>Paragraph</string>
+< > 		<string>段落</string>
 > > 		<string>문단</string>
-> < 		<string>Character</string>
+< > 		<string>文字</string>
 > > 		<string>문자</string>
-> < 		<string>Group</string>
+< > 		<string>グループ</string>
+< < 		<string>Show in both panels</string>
+< > 		<string>両方のパネルに表示</string>
+< < 		<string>Reset formatting</string>
+< > 		<string>フォーマットをリセット</string>
+< > 		<string>一般</string>
+< < 		<string>Character Font</string>
+< > 		<string>文字フォント</string>
+< < 		<string>Font family:</string>
+< > 		<string>フォントファミリ:</string>
+< < 		<string>Font traits:</string>
+< > 		<string>フォントの特性:</string>
+< < 		<string>Font width:</string>
+< > 		<string>フォントの幅:</string>
+< < 		<string>Font weight:</string>
+< > 		<string>フォントの太さ:</string>
 > > 		<string>그룹</string>
-> < 		<string>Italic</string>
+< > 		<string>斜体</string>
+< < 		<string>Font size:</string>
+< > 		<string>フォントサイズ:</string>
+< < 		<string>Basic Character</string>
+< > 		<string>基本文字</string>
+< < 		<string>Character Colour &amp; Decorations</string>
+< > 		<string>文字色と装飾</string>
+< < 		<string>Text fill:</string>
+< > 		<string>テキストの塗りつぶし:</string>
+< < 		<string>Highlight:</string>
+< > 		<string>ハイライト:</string>
+< < 		<string>Underline:</string>
+< > 		<string>下線:</string>
+< < 		<string>Strikethrough:</string>
+< > 		<string>打ち消し線:</string>
+< < 		<string>Outline:</string>
+< > 		<string>アウトライン:</string>
+< < 		<string>Character Positioning</string>
+< > 		<string>文字の位置</string>
+< < 		<string>Character Positioning and Transform</string>
+< > 		<string>文字の位置と変形</string>
+< < 		<string>Kerning:</string>
+< > 		<string>カーニング:</string>
+< < 		<string>Shear:</string>
+< > 		<string>シアー:</string>
+< < 		<string>Horizontal scale:</string>
+< > 		<string>横の倍率:</string>
+< < 		<string>Vertical scale:</string>
+< > 		<string>縦の倍率:</string>
+< < 		<string>No break</string>
+< > 		<string>分割禁止</string>
+< < 		<string>Tracking:</string>
+< > 		<string>トラッキング:</string>
+< < 		<string>Super/subscript:</string>
+< > 		<string>上付き/下付き文字:</string>
+< < 		<string>Baseline:</string>
+< > 		<string>ベースライン:</string>
+< < 		<string>Leading override:</string>
+< > 		<string>行送りのオーバーライド:</string>
 > > 		<string>기울임</string>
-> < 		<string>Colour</string>
+< > 		<string>カラー</string>
+< < 		<string>Character Language</string>
+< > 		<string>文字言語</string>
+< < 		<string>Hyphenation:</string>
+< > 		<string>ハイフネーション:</string>
+< < 		<string>Typography script:</string>
+< > 		<string>タイポグラフィスクリプト:</string>
+< < 		<string>Typography language:</string>
+< > 		<string>タイポグラフィ言語:</string>
+< < 		<string>Spelling:</string>
+< > 		<string>スペル設定:</string>
+< < 		<string>Item 7</string>
+< > 		<string>アイテム7</string>
+< < 		<string>Optical Alignment</string>
+< > 		<string>視覚的整列</string>
 > > 		<string>색상</string>
-> < 		<string>Add</string>
+< > 		<string>追加</string>
+< > 		<string>タイプ:</string>
+< < 		<string>{351, 161}</string>
+< > 		<string>{350, 161}</string>
+< < 		<string>{351, 17}</string>
+< > 		<string>{350, 17}</string>
+< > 		<string>左</string>
+< > 		<string>テキストセル</string>
+< > 		<string>右</string>
+< > 		<string>テキストセル</string>
+< > 		<string>文字</string>
+< > 		<string>テキストセル</string>
+< > 		<string>テキストセル</string>
+< > 		<string>アイテム7</string>
+< < 		<string>Typography Alternates</string>
+< > 		<string>代替文字のタイポグラフィ</string>
+< < 		<string>Ligatures:</string>
+< > 		<string>合字:</string>
+< < 		<string>Standard ligatures</string>
+< > 		<string>標準合字</string>
+< < 		<string>Contextual ligatures</string>
+< > 		<string>コンテキスト合字</string>
+< < 		<string>Discretionary ligatures</string>
+< > 		<string>随意合字</string>
+< < 		<string>Historical ligatures</string>
+< > 		<string>歴史的合字</string>
+< < 		<string>Alternates:</string>
+< > 		<string>代替文字:</string>
+< < 		<string>Contextual alternates</string>
+< > 		<string>コンテキスト代替</string>
+< < 		<string>Contextual swash</string>
+< > 		<string>コンテキストスワッシュ字形</string>
+< < 		<string>Historical forms</string>
+< > 		<string>歴史的字形</string>
+< < 		<string>Slashed zero</string>
+< > 		<string>スラッシュ付きゼロ</string>
+< < 		<string>Randomise</string>
+< > 		<string>ランダム化</string>
+< < 		<string>Stylistic alternates:</string>
+< > 		<string>スタイル代替:</string>
+< < 		<string>Swash:</string>
+< > 		<string>スワッシュ:</string>
+< < 		<string>Ornaments:</string>
+< > 		<string>飾り文字:</string>
+< < 		<string>Annotation forms:</string>
+< > 		<string>注釈用字形:</string>
+< < 		<string>All alternates:</string>
+< > 		<string>すべての代替文字:</string>
+< < 		<string>Item 4</string>
+< > 		<string>アイテム4</string>
+< < 		<string>Typography Variants</string>
+< > 		<string>異体字のタイポグラフィ</string>
+< < 		<string>Stylistic sets:</string>
+< > 		<string>スタイルセット:</string>
+< > 		<string>テキストセル</string>
+< < 		<string>Character variants:</string>
+< > 		<string>異体字:</string>
+< > 		<string>テキストセル</string>
+< < 		<string>Word position forms:</string>
+< > 		<string>単語位置字形:</string>
+< < 		<string>Initial forms</string>
+< > 		<string>語頭形</string>
+< < 		<string>Medial forms</string>
+< > 		<string>語中形</string>
+< < 		<string>Final forms</string>
+< > 		<string>語尾形</string>
+< < 		<string>Isolated forms</string>
+< > 		<string>独立形</string>
+< < 		<string>Item 9</string>
+< > 		<string>アイテム9</string>
+< < 		<string>Typography Figures</string>
+< > 		<string>数字のタイポグラフィ</string>
+< < 		<string>Figure width:</string>
+< > 		<string>数字の幅:</string>
+< < 		<string>No change</string>
+< > 		<string>変更なし</string>
 > > 		<string>추가</string>
 > < 		<string>Left</string>
 > > 		<string>왼쪽</string>
@@ -22,63 +176,353 @@
 > > 		<string>오른쪽</string>
 > < 		<string>Delete</string>
 > > 		<string>지우기</string>
-> < 		<string>Default</string>
+< > 		<string>デフォルト</string>
 > > 		<string>기본값</string>
-> < 		<string>Proportional</string>
+< > 		<string>プロポーショナル</string>
+< < 		<string>Tabular</string>
+< > 		<string>表形式</string>
+< < 		<string>Figure position:</string>
+< > 		<string>数字の位置:</string>
+< > 		<string>変更なし</string>
+< > 		<string>デフォルト</string>
+< < 		<string>Numerator</string>
+< > 		<string>分子</string>
+< < 		<string>Denominator</string>
+< > 		<string>分母</string>
+< > 		<string>変更なし</string>
+< > 		<string>デフォルト</string>
+< < 		<string>Lining</string>
+< > 		<string>ライニング</string>
+< < 		<string>Old Style</string>
+< > 		<string>オールドスタイル</string>
 > > 		<string>비례수(량)</string>
-> < 		<string>Superscript</string>
+< > 		<string>上付き文字</string>
 > > 		<string>윗첨자</string>
-> < 		<string>Subscript</string>
+< > 		<string>下付き文字</string>
+< < 		<string>Scientific Inferiors</string>
+< > 		<string>科学用下付き文字</string>
+< < 		<string>Fraction</string>
+< > 		<string>分数</string>
+< < 		<string>Alternate fraction</string>
+< > 		<string>代替分数</string>
+< < 		<string>Mathematical greek</string>
+< > 		<string>ギリシャ数字</string>
 > > 		<string>아랫첨자</string>
-> < 		<string>Ordinal</string>
+< > 		<string>序数</string>
+< < 		<string>Figure style:</string>
+< > 		<string>数字のスタイル:</string>
+< < 		<string>Item 5</string>
+< > 		<string>項目 5</string>
+< < 		<string>Typography Capitals</string>
+< > 		<string>大文字のタイポグラフィ</string>
+< < 		<string>Capitals:</string>
+< > 		<string>大文字:</string>
+< > 		<string>変更なし</string>
 > > 		<string>서수</string>
-> < 		<string>Normal</string>
+< > 		<string>標準</string>
+< < 		<string>All caps</string>
+< > 		<string>オールキャップス</string>
+< < 		<string>Small caps</string>
+< > 		<string>スモールキャップス</string>
+< < 		<string>All small caps</string>
+< > 		<string>オールスモールキャップス</string>
+< < 		<string>Petite caps</string>
+< > 		<string>プチキャップス</string>
+< < 		<string>Caps to petite caps</string>
+< > 		<string>大文字をプチキャップスにする</string>
+< < 		<string>All petite caps</string>
+< > 		<string>オールプチキャップス</string>
+< < 		<string>Titling</string>
+< > 		<string>タイトル用字形</string>
+< < 		<string>Unicase</string>
+< > 		<string>大文字小文字の統一</string>
+< < 		<string>Case sensitive forms</string>
+< > 		<string>大文字小文字を区別する字形</string>
+< < 		<string>Capital spacing</string>
+< > 		<string>大文字間隔</string>
+< < 		<string>Caps to small caps</string>
+< > 		<string>大文字をスモールキャップスにする</string>
+< < 		<string>Item 6</string>
+< > 		<string>アイテム6</string>
+< < 		<string>Paragraph Spacing</string>
+< > 		<string>段落の間隔</string>
 > > 		<string>정규</string>
-> < 		<string>Alignment:</string>
+< > 		<string>整列:</string>
+< < 		<string>Leading:</string>
+< > 		<string>行送り:</string>
+< < 		<string>Space before:</string>
+< > 		<string>前のスペース:</string>
+< < 		<string>Space after:</string>
+< > 		<string>後のスペース:</string>
+< < 		<string>Use space before:</string>
+< > 		<string>前にスペースを使用:</string>
+< < 		<string>Sum space before and after</string>
+< > 		<string>前後のスペースの合計</string>
+< < 		<string>Space between same styles:</string>
+< > 		<string>同じスタイル間の間隔:</string>
+< < 		<string>First line indent:</string>
+< > 		<string>先頭行インデント:</string>
+< < 		<string>Last line outdent</string>
+< > 		<string>最終行アウトデント</string>
+< < 		<string>Left indent:</string>
+< > 		<string>左インデント:</string>
+< < 		<string>Right indent:</string>
+< > 		<string>右インデント:</string>
+< < 		<string>Item 8</string>
+< > 		<string>アイテム8</string>
+< < 		<string>Paragraph Tab Stops</string>
+< > 		<string>段落タブ位置</string>
+< < 		<string>Default tab stops:</string>
+< > 		<string>デフォルトのタブ位置:</string>
+< < 		<string>{312, 184}</string>
+< > 		<string>{305, 184}</string>
+< > 		<string>位置</string>
+< > 		<string>テキストセル</string>
+< > 		<string>テキストセル</string>
+< > 		<string>テキストセル</string>
+< > 		<string>テキストセル</string>
+< > 		<string>テキストセル</string>
 > > 		<string>정렬:</string>
 > < 		<string>Alignment</string>
 > > 		<string>정렬</string>
 > < 		<string>More</string>
 > > 		<string>더 보기</string>
-> < 		<string>Apply</string>
+< > 		<string>適用</string>
+< < 		<string>Item 10</string>
+< > 		<string>アイテム10</string>
+< < 		<string>Paragraph Justification</string>
+< > 		<string>段落のジャスティフィケーション</string>
+< < 		<string>Word spacing:</string>
+< > 		<string>単語間隔:</string>
+< < 		<string>Minimum:</string>
+< > 		<string>最小:</string>
+< < 		<string>Desired:</string>
+< > 		<string>望ましい値:</string>
+< < 		<string>Maximum:</string>
+< > 		<string>最大:</string>
+< < 		<string>Letter spacing:</string>
+< > 		<string>文字間隔:</string>
+< < 		<string>Minimum:</string>
+< > 		<string>最小:</string>
+< < 		<string>Desired:</string>
+< > 		<string>望ましい値:</string>
+< < 		<string>Maximum:</string>
+< > 		<string>最大:</string>
+< < 		<string>Item 11</string>
+< > 		<string>アイテム11</string>
+< < 		<string>Bullets and Numbering</string>
+< > 		<string>箇条書きと自動番号</string>
 > > 		<string>적용</string>
-> < 		<string>Level:</string>
+< > 		<string>レベル:</string>
 > > 		<string>레벨:</string>
-> < 		<string>Global</string>
+< > 		<string>グローバル</string>
+< < 		<string>Start numbering at:</string>
+< > 		<string>番号付けの開始番号:</string>
+< < 		<string>Restart numbering:</string>
+< > 		<string>番号の振り直し:</string>
+< < 		<string>Restart numbering now</string>
+< > 		<string>この位置から番号を振り直す</string>
 > > 		<string>전역</string>
-> < 		<string>Text:</string>
+< > 		<string>テキスト:</string>
 > > 		<string>텍스트:</string>
-> < 		<string>Style:</string>
+< > 		<string>スタイル:</string>
+< < 		<string>Tabstop:</string>
+< > 		<string>タブ位置:</string>
+< < 		<string>Name:</string>
+< > 		<string>名前:</string>
+< > 		<string>タイプ:</string>
 > > 		<string>스타일:</string>
-> < 		<string>Alignment:</string>
+< > 		<string>整列:</string>
+< < 		<string>Item 12</string>
+< > 		<string>アイテム12</string>
+< < 		<string>Paragraph Flow</string>
+< > 		<string>段落流量</string>
 > > 		<string>정렬:</string>
-> < 		<string>Start:</string>
+< > 		<string>開始位置:</string>
+< < 		<string>Keep with previous paragraph</string>
+< > 		<string>前の段落と分離しない</string>
+< < 		<string>Prevent orphaned first lines</string>
+< > 		<string>先頭行の後に改ページをしない</string>
+< < 		<string>Keep paragraph together</string>
+< > 		<string>段落を分割しない</string>
+< < 		<string>Prevent widowed last lines</string>
+< > 		<string>最終行の前に改ページをしない</string>
+< < 		<string>Keep with next:</string>
+< > 		<string>改ページしない:</string>
+< < 		<string>lines</string>
+< > 		<string>行数</string>
+< > 		<string>アイテム12</string>
+< < 		<string>Baseline Grid</string>
+< > 		<string>ベースライングリッド</string>
+< < 		<string>Align to Baseline Grid</string>
+< > 		<string>ベースライングリッドに揃える</string>
+< > 		<string>アイテム12</string>
+< < 		<string>Hyphenation</string>
+< > 		<string>ハイフネーション</string>
+< < 		<string>Use auto-hyphenation</string>
+< > 		<string>自動ハイフネーションを使用</string>
+< < 		<string>Minimum score:</string>
+< > 		<string>最小スコア:</string>
+< < 		<string>Minimum word length:</string>
+< > 		<string>単語の最小文字数:</string>
+< < 		<string>Minimum prefix:</string>
+< > 		<string>最小プレフィックス:</string>
+< < 		<string>Minimum suffix:</string>
+< > 		<string>最小サフィックス:</string>
+< < 		<string>Max consecutive hyphens:</string>
+< > 		<string>連続するハイフンの最大数:</string>
+< < 		<string>Hyphenation zone:</string>
+< > 		<string>ハイフネーションゾーン:</string>
+< < 		<string>Capital zone:</string>
+< > 		<string>大文字ゾーン:</string>
+< < 		<string>Paragraph end zone:</string>
+< > 		<string>段落の末尾ゾーン:</string>
+< < 		<string>Column end zone:</string>
+< > 		<string>段の末尾ゾーン:</string>
+< > 		<string>アイテム12</string>
+< < 		<string>Drop Caps</string>
+< > 		<string>ドロップキャップ</string>
+< < 		<string>Enabled</string>
+< > 		<string>有効</string>
+< < 		<string>Height in lines:</string>
+< > 		<string>高さ(行数):</string>
+< < 		<string>Distance to text:</string>
+< > 		<string>テキストまでの距離:</string>
+< > 		<string>スタイル:</string>
+< < 		<string>Align left edge</string>
+< > 		<string>左端を揃える</string>
+< < 		<string>Scale for descenders</string>
+< > 		<string>ディセンダーに応じてスケール</string>
+< > 		<string>文字</string>
 > > 		<string>시작:</string>
-> < 		<string>Auto</string>
+< > 		<string>自動</string>
+< > 		<string>アイテム12</string>
+< < 		<string>Max word count:</string>
+< > 		<string>最大単語数:</string>
+< > 		<string>スタイル:</string>
+< > 		<string>有効</string>
+< < 		<string>End characters:</string>
+< > 		<string>終了文字:</string>
+< < 		<string>Initial Words</string>
+< > 		<string>頭文字語</string>
+< > 		<string>アイテム12</string>
+< < 		<string>Decorations</string>
+< > 		<string>装飾</string>
+< > 		<string>有効</string>
 > > 		<string>자동</string>
-> < 		<string>Left:</string>
+< > 		<string>左:</string>
 > > 		<string>왼쪽:</string>
-> < 		<string>Top:</string>
+< > 		<string>上:</string>
+< < 		<string>Indent</string>
+< > 		<string>インデント</string>
+< < 		<string>Relative to</string>
+< > 		<string>基準</string>
 > > 		<string>위쪽:</string>
-> < 		<string>Right:</string>
+< > 		<string>右:</string>
 > > 		<string>오른쪽:</string>
-> < 		<string>Bottom:</string>
+< > 		<string>下:</string>
 > > 		<string>아래쪽</string>
-> < 		<string>Fill:</string>
+< > 		<string>塗りつぶし:</string>
 > > 		<string>칠:</string>
-> < 		<string>Transparency:</string>
+< > 		<string>透明度:</string>
 > > 		<string>투명도:</string>
-> < 		<string>Stroke:</string>
+< > 		<string>境界線:</string>
 > > 		<string>선:</string>
-> < 		<string>Button</string>
+< > 		<string>ボタン</string>
+< < 		<string>Combine identical</string>
+< > 		<string>同一のものを結合</string>
+< > 		<string>アイテム12</string>
+< < 		<string>Style settings:</string>
+< > 		<string>スタイル設定:</string>
+< < 		<string>Apply style to selection</string>
+< > 		<string>スタイルを選択範囲に適用</string>
 > > 		<string>버튼</string>
-> < 		<string>Cancel</string>
+< > 		<string>キャンセル</string>
+< < 		<string>Table View Cell</string>
+< < 		<string>{{11, 1}, {196, 17}}</string>
+< > 		<string>表ビューセル</string>
+< > 		<string>{{1, 1}, {216, 17}}</string>
+< < 		<string>{{11, 1}, {196, 17}}</string>
+< > 		<string>表ビューセル</string>
+< > 		<string>{{1, 1}, {216, 17}}</string>
+< > 		<string>表ビューセル</string>
+< < 		<string>NSToolTipHelpKey</string>
+< < 		<string>Add New Tab Stop</string>
+< < 				<string>NSIBHelpConnector</string>
+< < 				<string>NSObject</string>
+< < 			<string>NSIBHelpConnector</string>
 > > 		<string>취소</string>
-> < 		<string>Baseline</string>
 > > 		<string>기준선</string>
-> < 		<string>Character Style</string>
+< > 		<string>{{257, 1}, {20, 18}}</string>
+< < 		<string>Frame Stroke</string>
+< < 		<string>Leading override</string>
+< > 		<string>SchemeButtonCell</string>
+< > 		<string>...</string>
+< > 		<string>NSToolTipHelpKey</string>
+< > 		<string>その他</string>
+< > 				<string>NSIBHelpConnector</string>
+< > 				<string>NSObject</string>
+< > 			<string>NSIBHelpConnector</string>
+< < 		<string>List Level</string>
+< < 		<string>List Type</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< < 		<string>{{251, 1}, {20, 18}}</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< < 		<string>SchemeButtonCell</string>
+< < 		<string>...</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
 > > 		<string>문자 스타일</string>
-> < 		<string>Offset</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>オフセット</string>
+< > 		<string>ストーリー間で番号の付け直し</string>
+< > 		<string>タブ位置インデント</string>
+< > 		<string>トラッキング</string>
+< > 		<string>フレーム境界線</string>
+< > 		<string>ベースライン</string>
+< > 		<string>リストタイプ</string>
+< > 		<string>リストレベル</string>
+< < 		<string>Renumber Across Stories</string>
+< > 		<string>挿入するテキスト</string>
+< < 		<string>Space After Paragraph</string>
+< > 		<string>文字スタイル</string>
+< < 		<string>TabStop Indent</string>
+< > 		<string>新規タブ位置を追加</string>
+< < 		<string>Text To Insert</string>
+< > 		<string>段落後の間隔</string>
+< < 		<string>Tracking</string>
+< > 		<string>行送りのオーバーライド</string>
+< < 		<string>{{13, 1}, {95, 22}}</string>
+< > 		<string>{{3, 1}, {92, 22}}</string>
+< < 		<string>{{114, 1}, {92, 22}}</string>
+< > 		<string>{{101, 1}, {92, 22}}</string>
+< < 		<string>{{212, 1}, {98, 22}}</string>
+< > 		<string>{{199, 1}, {123, 22}}</string>
+< < 		<string>{{316, 1}, {22, 18}}</string>
+< > 		<string>{{328, 1}, {19, 18}}</string>
+< < 		<string>{{13, 1}, {120, 22}}</string>
+< > 		<string>{{3, 1}, {136, 22}}</string>
+< < 		<string>{{139, 1}, {52, 22}}</string>
+< > 		<string>{{145, 1}, {52, 22}}</string>
+< < 		<string>{{197, 1}, {48, 22}}</string>
+< > 		<string>{{203, 1}, {48, 22}}</string>
+< < 		<string>{{277, 1}, {22, 18}}</string>
+< > 		<string>{{283, 1}, {19, 18}}</string>
+< < 		<string>Insets</string>
+< > 		<string>余白</string>
+< > 		<string>余白</string>
 > > 		<string>편차</string>
 > < 		<string>Title</string>
 > > 		<string>타이틀</string>
