@@ -21,7 +21,7 @@ nib=("AdjustmentPage" "Adjustments" "AppearancePage" "AssignICCProfilePanel" "Ba
 "ToneMapOverlaysPage" "ToneMapPage" "XMPPage")
 # 변환
 for (( i = 0; i < ${#nib[@]}; i++ )); do
-  echo "Converting ${nib[i]}"
+  echo "Converting ${nib[i]}.nib"
   ENGFILE=${ENGPATH}/${nib[i]}.nib
   JAPFILE=${JAPPATH}/${nib[i]}.nib
   KORFILE=${KORPATH}/${nib[i]}.nib
