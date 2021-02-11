@@ -1,27 +1,26 @@
-< < 		<string>Fill:</string>
 < > 		<string>塗りつぶし:</string>
-< < 		<string>Button</string>
+> > 		<string>칠:</string>
 < > 		<string>ボタン</string>
-< < 		<string>Stroke:</string>
+> > 		<string>버튼</string>
 < > 		<string>境界線:</string>
 < < 		<string>Insets</string>
 < > 		<string>余白</string>
 < > 		<string>ボタン</string>
-< < 		<string>Left:</string>
+> > 		<string>선:</string>
 < > 		<string>左:</string>
-< < 		<string>Right:</string>
+> > 		<string>왼쪽:</string>
 < > 		<string>右:</string>
-< < 		<string>Top:</string>
+> > 		<string>오른쪽:</string>
 < > 		<string>上:</string>
-< < 		<string>Bottom:</string>
+> > 		<string>위쪽:</string>
 < > 		<string>下:</string>
-< < 		<string>Ignore Text Wraps</string>
+> > 		<string>아래쪽</string>
 < > 		<string>テキストの回り込みを無視</string>
 < < 		<string>Hide overflow</string>
 < > 		<string>オーバーフローを非表示</string>
 < < 		<string>Ignore Baseline Grid</string>
 < > 		<string>ベースライングリッドを無視</string>
-< < 		<string>General</string>
+> > 		<string>줄바꿈 무시</string>
 < > 		<string>一般</string>
 < > 		<string>境界線:</string>
 < < 		<string>Gap</string>
@@ -31,12 +30,14 @@
 < > 		<string>下</string>
 < < 		<string>Column Rules</string>
 < > 		<string>列ルール</string>
-< < 		<string>Columns:</string>
+> > 		<string>일반</string>
 < > 		<string>段数:</string>
 < < 		<string>{{0, 12}, {245, 97}}</string>
 < > 		<string>{{0, 12}, {245, 92}}</string>
 < > 		<string>幅</string>
-< < 		<string>Text Cell</string>
+> > 		<string>행:</string>
+> < 		<string>Width</string>
+> > 		<string>너비</string>
 < > 		<string>テキストセル</string>
 < > 		<string>余白</string>
 < > 		<string>テキストセル</string>
@@ -68,7 +69,7 @@
 < > 		<string>上マージン</string>
 < < 		<string>Grid Spacing:</string>
 < > 		<string>グリッド間隔:</string>
-< < 		<string>Colour:</string>
+> > 		<string>텍스트 셀</string>
 < > 		<string>カラー:</string>
 < > 		<string>ボタン</string>
 < < 		<string>Baseline Grid</string>
@@ -111,11 +112,12 @@
 < > 		<string>基準</string>
 < < 		<string>Relative To</string>
 < > 		<string>最小開始時進行</string>
-< < 		<string>Right Text Inset</string>
+> > 		<string>색상:</string>
 < > 		<string>段落間の最大間隔</string>
 < < 		<string>Start Position</string>
 < > 		<string>段落間の最大間隔</string>
 < < 		<string>Top Gap</string>
 < > 		<string>開始位置</string>
-< < 		<string>Top Text Inset</string>
+> > 		<string>오른쪽 텍스트 들여쓰기</string>
 < > 		<string>開始時進行</string>
+> > 		<string>위쪽 텍스트 들여쓰기</string>
