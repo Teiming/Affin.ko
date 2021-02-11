@@ -37,7 +37,9 @@
 < 		<string>Luminosity Jitter:</string>
 > 		<string>명도 일그러짐:</string>
 < 		<string>None</string>
+< 		<string>OtherViews</string>
 > 		<string>없음</string>
+> 		<string>다른 보기</string>
 < 		<string>Random</string>
 > 		<string>무작위</string>
 < 		<string>Pressure</string>
@@ -134,6 +136,8 @@
 > 		<string>불투명도 분산:</string>
 < 		<string>Size Variance:</string>
 > 		<string>크기 분산:</string>
+< 		<string>Label</string>
+> 		<string>라벨</string>
 < 		<string>Velocity (Inverse)</string>
 > 		<string>속도 (반전)</string>
 < 		<string>Stroke</string>

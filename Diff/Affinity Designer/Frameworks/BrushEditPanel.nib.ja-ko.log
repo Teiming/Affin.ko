@@ -81,7 +81,9 @@
 < > 		<string>輝度のジッター:</string>
 > > 		<string>명도 일그러짐:</string>
 < > 		<string>なし</string>
+> < 		<string>OtherViews</string>
 > > 		<string>없음</string>
+> > 		<string>다른 보기</string>
 < > 		<string>ランダム</string>
 > > 		<string>무작위</string>
 < > 		<string>筆圧</string>
@@ -340,12 +342,12 @@
 < > 		<string>不透明度の許容誤差:</string>
 > > 		<string>불투명도 분산:</string>
 < > 		<string>サイズの許容誤差:</string>
-< < 		<string>Label</string>
+> > 		<string>크기 분산:</string>
 < > 		<string>ラベル</string>
 < > 		<string>なし</string>
 < > 		<string>筆圧</string>
 < > 		<string>速度</string>
-> > 		<string>크기 분산:</string>
+> > 		<string>라벨</string>
 < > 		<string>速度(逆)</string>
 > > 		<string>속도 (반전)</string>
 < > 		<string>境界線</string>
