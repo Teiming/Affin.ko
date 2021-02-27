@@ -24,7 +24,7 @@
 < < 		<string>Snap to baseline grid</string>
 < > 		<string>ベースライングリッドにスナップ</string>
 < > 		<string>四角形</string>
-< < 		<string>Candidates:</string>
+> > 		<string>여백선에 스냅</string>
 < > 		<string>候補:</string>
 < < 		<string>Candidate List</string>
 < > 		<string>候補リスト</string>
@@ -32,9 +32,9 @@
 < > 		<string>直接レイヤー</string>
 < < 		<string>Immediate layers and children</string>
 < > 		<string>直接レイヤーと子</string>
-> > 		<string>여백선에 스냅</string>
+> > 		<string>후보:</string>
 < > 		<string>すべてのレイヤー</string>
-< < 		<string>Maximum:</string>
+> > 		<string>모든 레이어</string>
 < > 		<string>最大:</string>
 < < 		<string>Show snapping candidates</string>
 < > 		<string>スナップ候補の表示</string>
@@ -52,7 +52,7 @@
 < < 		<string>Snap to pixel selection bounds</string>
 < > 		<string>ピクセル選択範囲境界にスナップ</string>
 < > 		<string>四角形</string>
-> > 		<string>모든 레이어</string>
+> > 		<string>최대:</string>
 < > 		<string>プリセットを作成</string>
 > > 		<string>미리 설정 생성</string>
 < > 		<string>プリセット名の変更</string>
