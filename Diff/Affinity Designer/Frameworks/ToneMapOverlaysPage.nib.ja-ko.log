@@ -1,8 +1,16 @@
-> < 		<string>Text Cell</string>
+< > 		<string>テキストセル</string>
 > > 		<string>텍스트 셀</string>
-> < 		<string>Opacity:</string>
+< > 		<string>不透明度:</string>
+< < 		<string>{267, 17}</string>
+< > 		<string>{287, 17}</string>
+< < 		<string>Table View Cell</string>
+< > 		<string>表ビューセル</string>
+< < 		<string>{{11, 1}, {267, 17}}</string>
+< > 		<string>{{1, 1}, {287, 17}}</string>
+< < 		<string>Add Brush Overlay</string>
+< > 		<string>オーバーレイを削除</string>
 > > 		<string>불투명도:</string>
-> < 		<string>Add Gradient Overlay</string>
+< > 		<string>グラデーションオーバーレイを追加</string>
 > > 		<string>그레이디언트 오버레이 추가</string>
-> < 		<string>Delete Overlay</string>
+< > 		<string>ブラシオーバーレイを追加</string>
 > > 		<string>오버레이 지우기</string>
