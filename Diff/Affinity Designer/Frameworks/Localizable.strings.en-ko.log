@@ -50,6 +50,8 @@
 > 	<string>미리 설정 추가</string>
 < 	<string>Add Preset…</string>
 > 	<string>미리 설정 추가…</string>
+< 	<string>Add Style from Selection</string>
+> 	<string>선택 항목에서 스타일 추가</string>
 < 	<string>Add</string>
 > 	<string>추가</string>
 < 	<string>Add</string>
@@ -194,6 +196,10 @@
 > 	<string>정렬하기</string>
 < 	<string>Align</string>
 > 	<string>정렬하기</string>
+< 	<string>Alignment Handles</string>
+> 	<string>정렬 손잡이</string>
+< 	<string>Alignment Handles</string>
+> 	<string>정렬 손잡이</string>
 < 	<string>Alignment</string>
 > 	<string>정렬</string>
 < 	<string>Alignment</string>
@@ -774,6 +780,8 @@
 > 	<string>취소</string>
 < 	<string>Cancel</string>
 > 	<string>취소</string>
+< 	<string>Candidate list</string>
+> 	<string>후보 목록</string>
 < 	<string>Cannot Create Assets</string>
 > 	<string>자산을 생성할 수 없음</string>
 < 	<string>Cannot Create Document</string>
@@ -1496,6 +1504,12 @@
 > 	<string>다이아몬드</string>
 < 	<string>Diamond</string>
 > 	<string>다이아몬드</string>
+< 	<string>Difference</string>
+> 	<string>차이</string>
+< 	<string>Difference</string>
+> 	<string>차이</string>
+< 	<string>Difference</string>
+> 	<string>차이</string>
 < 	<string>Diffuse</string>
 > 	<string>확산</string>
 < 	<string>Diffuse</string>
@@ -1696,6 +1710,8 @@
 > 	<string>전각 공백</string>
 < 	<string>Embedded Documents</string>
 > 	<string>삽입된 문서</string>
+< 	<string>Embedded document</string>
+> 	<string>삽입된 문서</string>
 < 	<string>Emboss</string>
 > 	<string>양각</string>
 < 	<string>Emboss</string>
@@ -1720,6 +1736,20 @@
 > 	<string>반각 공백</string>
 < 	<string>En Space</string>
 > 	<string>반각 공백</string>
+< 	<string>Enable Snapping</string>
+> 	<string>스내핑 유효화</string>
+< 	<string>Enable Transform Origin</string>
+> 	<string>변형 원점을 유효화</string>
+< 	<string>Enable</string>
+> 	<string>유효화</string>
+< 	<string>Enable</string>
+> 	<string>유효화</string>
+< 	<string>Enable</string>
+> 	<string>유효화</string>
+< 	<string>Enabled</string>
+> 	<string>유효한</string>
+< 	<string>Enabled</string>
+> 	<string>유효한</string>
 < 	<string>End angle:</string>
 > 	<string>종료 각도:</string>
 < 	<string>Enhancement</string>
@@ -1760,6 +1790,12 @@
 > 	<string>유럽</string>
 < 	<string>Everything</string>
 > 	<string>모두</string>
+< 	<string>Exclusion</string>
+> 	<string>제외</string>
+< 	<string>Exclusion</string>
+> 	<string>제외</string>
+< 	<string>Exclusion</string>
+> 	<string>제외</string>
 < 	<string>Expand Stroke</string>
 > 	<string>선 펼치기</string>
 < 	<string>Expand stroke</string>
@@ -1784,6 +1820,8 @@
 > 	<string>슬라이스 내보내기 (%d)</string>
 < 	<string>Export Slices</string>
 > 	<string>슬라이스 내보내기</string>
+< 	<string>Export Styles…</string>
+> 	<string>스타일 내보내기…</string>
 < 	<string>Export User Presets…</string>
 > 	<string>사용자 미리 설정 내보내기…</string>
 < 	<string>Export</string>
@@ -2252,6 +2290,10 @@
 > 	<string>무시</string>
 < 	<string>Ignore</string>
 > 	<string>무시</string>
+< 	<string>Image</string>
+> 	<string>이미지</string>
+< 	<string>Image</string>
+> 	<string>이미지</string>
 < 	<string>Images</string>
 > 	<string>이미지</string>
 < 	<string>Images</string>
@@ -2270,6 +2312,10 @@
 > 	<string>실패한 들여오기</string>
 < 	<string>Import Failed</string>
 > 	<string>실패한 들여오기</string>
+< 	<string>Import Styles…</string>
+> 	<string>스타일 들여오기…</string>
+< 	<string>Import Styles…</string>
+> 	<string>스타일 들여오기…</string>
 < 	<string>Import</string>
 > 	<string>들여오기</string>
 < 	<string>Import</string>
@@ -2658,8 +2704,24 @@
 > 	<string>저주파수</string>
 < 	<string>Low Frequency</string>
 > 	<string>저주파수</string>
+< 	<string>Luminosity</string>
+> 	<string>휘도</string>
+< 	<string>Luminosity</string>
+> 	<string>휘도</string>
+< 	<string>Luminosity</string>
+> 	<string>휘도</string>
+< 	<string>Luminosity</string>
+> 	<string>휘도</string>
+< 	<string>Luminosity</string>
+> 	<string>휘도</string>
+< 	<string>Luminosity</string>
+> 	<string>휘도</string>
 < 	<string>Lyr</string>
 > 	<string>레이어</string>
+< 	<string>Macro</string>
+> 	<string>매크로</string>
+< 	<string>Macro</string>
+> 	<string>매크로</string>
 < 	<string>Maintain fill aspect ratio</string>
 > 	<string>칠 종횡비 유지</string>
 < 	<string>Maintain fill aspect ratio</string>
@@ -2962,6 +3024,10 @@
 > 	<string>신규</string>
 < 	<string>New layer</string>
 > 	<string>신규 레이어</string>
+< 	<string>New...</string>
+> 	<string>신규...</string>
+< 	<string>Newari</string>
+> 	<string>신규...</string>
 < 	<string>No Camera Data</string>
 > 	<string>카메라 데이터 없음</string>
 < 	<string>No Line Style</string>
@@ -3802,10 +3868,20 @@
 > 	<string>레티나 픽셀</string>
 < 	<string>Retina pixel view mode</string>
 > 	<string>레티나 픽셀 뷰 모드</string>
+< 	<string>Reverse Curve</string>
+> 	<string>곡선 반대로</string>
+< 	<string>Reverse Curves</string>
+> 	<string>곡선 반대로</string>
+< 	<string>Reverse Curves</string>
+> 	<string>곡선 반대로</string>
+< 	<string>Reverse curve</string>
+> 	<string>곡선 반대로</string>
+< 	<string>Reverse curves</string>
+> 	<string>곡선 반대로</string>
 < 	<string>Reverse gradient</string>
-> 	<string>그레이디언트 거꾸로</string>
+> 	<string>그레이디언트 반대로</string>
 < 	<string>Reverse gradient</string>
-> 	<string>그레이디언트 거꾸로</string>
+> 	<string>그레이디언트 반대로</string>
 < 	<string>Revert Defaults</string>
 > 	<string>기본값 되돌리기</string>
 < 	<string>Revert</string>
@@ -3934,6 +4010,16 @@
 > 	<string>둥근 직사각형 도구</string>
 < 	<string>Rounded Rectangle Tool</string>
 > 	<string>둥근 직사각형 도구</string>
+< 	<string>Rounded Rectangle</string>
+> 	<string>둥근 직사각형</string>
+< 	<string>Rounded Rectangle</string>
+> 	<string>둥근 직사각형</string>
+< 	<string>Rounded</string>
+> 	<string>둥근</string>
+< 	<string>Rounded</string>
+> 	<string>둥근</string>
+< 	<string>Rounded</string>
+> 	<string>둥근</string>
 < 	<string>Row Marquee Tool</string>
 > 	<string>행 천막 도구</string>
 < 	<string>Row Marquee Tool</string>
@@ -4194,6 +4280,8 @@
 > 	<string>비틀기</string>
 < 	<string>Shear</string>
 > 	<string>비틀기</string>
+< 	<string>Show Alignment Handles</string>
+> 	<string>정렬 손잡이 보기</string>
 < 	<string>Show All</string>
 > 	<string>모두 보기</string>
 < 	<string>Show All</string>
@@ -4300,20 +4388,26 @@
 > 	<string>스마트</string>
 < 	<string>Smart</string>
 > 	<string>스마트</string>
+< 	<string>Smooth Curve</string>
+> 	<string>곡선 매끄럽게</string>
+< 	<string>Smooth Curve</string>
+> 	<string>곡선 매끄럽게</string>
+< 	<string>Smooth Curve</string>
+> 	<string>곡선 매끄럽게</string>
 < 	<string>Smooth</string>
-> 	<string>매끈하게</string>
+> 	<string>매끄럽게</string>
 < 	<string>Smooth</string>
-> 	<string>매끈하게</string>
+> 	<string>매끄럽게</string>
 < 	<string>Smooth</string>
-> 	<string>매끈하게</string>
+> 	<string>매끄럽게</string>
 < 	<string>Smooth</string>
-> 	<string>매끈하게</string>
+> 	<string>매끄럽게</string>
 < 	<string>Smooth</string>
-> 	<string>매끈하게</string>
+> 	<string>매끄럽게</string>
 < 	<string>Smooth</string>
-> 	<string>매끈하게</string>
+> 	<string>매끄럽게</string>
 < 	<string>Smooth</string>
-> 	<string>매끈하게</string>
+> 	<string>매끄럽게</string>
 < 	<string>Snap all selected nodes when dragging</string>
 > 	<string>드래그할 때 모든 선택 마디에 스냅</string>
 < 	<string>Snap all when dragging</string>
@@ -4963,7 +5057,7 @@
 < 	<string>Vector</string>
 > 	<string>벡터</string>
 < 	<string>Velocity (Inverse)</string>
-> 	<string>속도 (반전)</string>
+> 	<string>속도 (뒤집힌)</string>
 < 	<string>Velocity</string>
 > 	<string>속도</string>
 < 	<string>Velocity</string>

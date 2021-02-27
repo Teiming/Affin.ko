@@ -394,8 +394,6 @@
 > 	<string>1つのシェイプポイントが選択されました。 </string>
 < 	<string>12” Vinyl Cover</string>
 > 	<string>12インチビニールカバー</string>
-< 	<string>13 Brushes</string>
-> 	<string>13種類のブラシ</string>
 < 	<string>16bit (Half)</string>
 > 	<string>16ビット(HALF)</string>
 < 	<string>2 Sheet Poster</string>
@@ -1340,6 +1338,8 @@
 > 	<string>すべてのスプレッド</string>
 < 	<string>All Text Frames</string>
 > 	<string>すべてのテキストフレーム</string>
+< 	<string>All Types</string>
+> 	<string>すべてのタイプ</string>
 < 	<string>All</string>
 > 	<string>すべて</string>
 < 	<string>All</string>
@@ -2683,7 +2683,7 @@
 < 	<string>Blend</string>
 > 	<string>ブレンド</string>
 < 	<string>Blend mode &amp; ranges</string>
-> 	<string>ブレンディングモード &amp; 範囲</string>
+> 	<string>ブレンドモード &amp; 範囲</string>
 < 	<string>Blend mode</string>
 > 	<string>描画モード</string>
 < 	<string>Blend mode</string>
@@ -4026,6 +4026,8 @@
 > 	<string>歯車</string>
 < 	<string>Cog</string>
 > 	<string>歯車</string>
+< 	<string>Cold pixel threshold</string>
+> 	<string>コールドピクセルのしきい値</string>
 < 	<string>Collect</string>
 > 	<string>収集</string>
 < 	<string>Color &amp; Decorations</string>
@@ -4576,8 +4578,6 @@
 > 	<string>コサイン</string>
 < 	<string>Could not edit the embedded document in the other application.</string>
 > 	<string>他のアプリケーションで埋め込みドキュメントを編集できませんでした。</string>
-< 	<string>Could not find unique installation ID.</string>
-> 	<string>固有のインストールIDが見つかりませんでした。</string>
 < 	<string>Could not hand over the file to the other application.</string>
 > 	<string>他のアプリケーションにファイルを引き渡すことができませんでした。</string>
 < 	<string>Could not open file</string>
@@ -6880,8 +6880,6 @@
 > 	<string>エラー</string>
 < 	<string>Error parsing JSON file:
 > 	<string>JSONファイル:
-< 	<string>Error while constructing request or parsing server's response: %1</string>
-> 	<string>リクエストの構築中またはサーバーの応答を解析中にエラーが発生しました: %1</string>
 < 	<string>Error: %1</string>
 > 	<string>エラー: %1</string>
 < 	<string>Errors occurred while exporting</string>
@@ -8094,6 +8092,8 @@
 > 	<string>グラデーションオーバーレイ</string>
 < 	<string>Gradient overlay</string>
 > 	<string>グラデーションオーバーレイ</string>
+< 	<string>Gradient pack</string>
+> 	<string>グラデーションパック</string>
 < 	<string>Gradient: Bad data</string>
 > 	<string>グラデーション: データが正しくありません</string>
 < 	<string>Grantha</string>
@@ -13738,6 +13738,8 @@
 > 	<string>ピクセル</string>
 < 	<string>Pixel</string>
 > 	<string>ピクセル</string>
+< 	<string>Pixel brush pack</string>
+> 	<string>ピクセルブラシパック</string>
 < 	<string>Pixel content</string>
 > 	<string>ピクセルコンテンツ</string>
 < 	<string>Pixel height (not including scale)</string>
@@ -14778,8 +14780,6 @@
 > 	<string>反射</string>
 < 	<string>Region</string>
 > 	<string>都道府県</string>
-< 	<string>Register your app</string>
-> 	<string>アプリを登録</string>
 < 	<string>Registered Trademark</string>
 > 	<string>登録商標</string>
 < 	<string>Registration Marks</string>
@@ -16696,6 +16696,8 @@
 > 	<string>セレール語</string>
 < 	<string>Server reported error (code %1): %2 [trace: %3]</string>
 > 	<string>サーバーがエラーをレポートしました (コード%1): %2 [トレース: %3]</string>
+< 	<string>Service unavailable or unreachable (code: %1).</string>
+> 	<string>サービスが利用できないか到達不能です (コード: %1)。</string>
 < 	<string>Service unavailable or unreachable.</string>
 > 	<string>サービスが利用できないか到達不可能です。</string>
 < 	<string>Set %1 description: "%2"</string>
@@ -17908,6 +17910,8 @@
 > 	<string>ガイドを表示</string>
 < 	<string>Show Hierarchical</string>
 > 	<string>階層を表示</string>
+< 	<string>Show Links</string>
+> 	<string>リンクを表示</string>
 < 	<string>Show Local Formatting</string>
 > 	<string>ローカルフォーマットを表示</string>
 < 	<string>Show Margins</string>
@@ -19684,6 +19688,8 @@
 > 	<string>曲線状のテキスト</string>
 < 	<string>Text case command</string>
 > 	<string>テキストケースコマンド</string>
+< 	<string>Text content</string>
+> 	<string>テキストコンテンツ</string>
 < 	<string>Text styles restored to factory settings for new documents</string>
 > 	<string>テキストスタイルを新規ドキュメントの出荷時の設定に戻しました</string>
 < 	<string>Text wrap</string>
@@ -19726,8 +19732,6 @@
 > 	<string>Affinity Photo for iPad 1.9をダウンロードしていただき、ありがとうございます。最新の更新の一部として、Affinity Storeから購入したコンテンツと使用するアプリを直接同期できるようになります。必要なのは、Affinityのアカウントを作成するか、既存のアカウントからログインし、アプリを登録するだけです。
 < 	<string>Thanks for downloading Affinity Publisher 1.9. As part of our latest update, you now have the ability to sync any purchased content from the Affinity store directly to your app — all you need to do is create an Affinity account or log-in to your existing one and register your app.
 > 	<string>Affinity Publisher 1.9をダウンロードしていただき、ありがとうございます。最新の更新の一部として、Affinity Storeから購入したコンテンツと使用するアプリを直接同期できるようになります。必要なのは、Affinityのアカウントを作成するか、既存のアカウントからログインし、アプリを登録するだけです。
-< 	<string>Thanks for using the 1.9 beta. We are now testing the ability for our apps to automatically stream content which you have purchased or received for free from our store.
-> 	<string>1.9ベータ版をご利用いただきありがとうございます。 現在、ストアから購入したコンテンツ、または無料で受け取られたコンテンツをアプリで自動的にストリーミングする機能をテストしています。
 < 	<string>Thaw Tool</string>
 > 	<string>フリーズ解除ツール</string>
 < 	<string>Thaw Tool</string>
@@ -20040,8 +20044,8 @@
 > 	<string>このバンドルにパックをダウンロードする際に問題が発生しました。クリックすると詳細が表示されます</string>
 < 	<string>There was a problem downloading this pack; click for details</string>
 > 	<string>このパックをダウンロード中に問題が発生しました。クリックすると詳細が表示されます</string>
-< 	<string>There was an unexpected problem while handling the server's response.</string>
-> 	<string>サーバーの応答の処理中に予期しない問題が発生しました。</string>
+< 	<string>There was an unexpected problem while handling the server's response (0x%1).</string>
+> 	<string>サーバーの応答の処理中に予期しない問題が発生しました (0x%1)。</string>
 < 	<string>There was an unknown error downloading the packs in this bundle.</string>
 > 	<string>このバンドルにパックをダウンロードする際に未知のエラーが発生しました。</string>
 < 	<string>There was an unknown error downloading this bundle.</string>
@@ -20152,8 +20156,6 @@
 > 	<string>この操作は取り消せません。</string>
 < 	<string>This is the containers name.</string>
 > 	<string>これはコンテナ名です。</string>
-< 	<string>This is what you get:</string>
-> 	<string>受け取るもの:</string>
 < 	<string>This key is assigned to the opacity command</string>
 > 	<string>このキーは不透明コマンドに割り当てられています</string>
 < 	<string>This pack has previously been installed manually.
@@ -21434,6 +21436,8 @@
 > 	<string>ベクター</string>
 < 	<string>Vector</string>
 > 	<string>ベクター</string>
+< 	<string>Vector brush pack</string>
+> 	<string>ベクターブラシパック</string>
 < 	<string>Vector curves</string>
 > 	<string>ベクターカーブ</string>
 < 	<string>Vector fill</string>
@@ -21559,7 +21563,7 @@
 < 	<string>Vignette</string>
 > 	<string>ビネット</string>
 < 	<string>Visibility &amp; opacity</string>
-> 	<string>可視性/不透明度</string>
+> 	<string>可視性 &amp; 不透明度</string>
 < 	<string>Visibility/Opacity</string>
 > 	<string>可視性/不透明度</string>
 < 	<string>Visible</string>

@@ -393,8 +393,6 @@
 < > 	<string>1つのシェイプポイントが選択されました。 </string>
 < < 	<string>12” Vinyl Cover</string>
 < > 	<string>12インチビニールカバー</string>
-< < 	<string>13 Brushes</string>
-< > 	<string>13種類のブラシ</string>
 < < 	<string>16bit (Half)</string>
 < > 	<string>16ビット(HALF)</string>
 < < 	<string>2 Sheet Poster</string>
@@ -745,7 +743,7 @@
 < > 	<string>スナップ候補を追加</string>
 < < 	<string>Add Stroke</string>
 < > 	<string>境界線を追加</string>
-< < 	<string>Add Style from Selection</string>
+> > 	<string>미리 설정 추가…</string>
 < > 	<string>選択からスタイルを追加</string>
 < < 	<string>Add Subcategory</string>
 < > 	<string>サブカテゴリを追加</string>
@@ -771,7 +769,7 @@
 < > 	<string>ビューポイントを追加</string>
 < < 	<string>Add Voronoi layer</string>
 < > 	<string>ボロノイレイヤーを追加</string>
-> > 	<string>미리 설정 추가…</string>
+> > 	<string>선택 항목에서 스타일 추가</string>
 < > 	<string>追加</string>
 > > 	<string>추가</string>
 < > 	<string>加算</string>
@@ -1273,15 +1271,15 @@
 < > 	<string>整列</string>
 < < 	<string>Aligned</string>
 < > 	<string>整列</string>
-< < 	<string>Alignment Handles</string>
-< > 	<string>整列ハンドル</string>
-< < 	<string>Alignment Handles</string>
-< > 	<string>整列ハンドル</string>
-< < 	<string>Alignment Tool</string>
-< > 	<string>整列ツール</string>
-< < 	<string>Alignment Tool</string>
-< > 	<string>整列ツール</string>
 > > 	<string>정렬하기</string>
+< > 	<string>整列ハンドル</string>
+> > 	<string>정렬 손잡이</string>
+< > 	<string>整列ハンドル</string>
+< < 	<string>Alignment Tool</string>
+< > 	<string>整列ツール</string>
+< < 	<string>Alignment Tool</string>
+< > 	<string>整列ツール</string>
+> > 	<string>정렬 손잡이</string>
 < > 	<string>整列</string>
 > > 	<string>정렬</string>
 < > 	<string>整列</string>
@@ -1339,6 +1337,8 @@
 < > 	<string>すべてのスプレッド</string>
 < < 	<string>All Text Frames</string>
 < > 	<string>すべてのテキストフレーム</string>
+< < 	<string>All Types</string>
+< > 	<string>すべてのタイプ</string>
 > > 	<string>모든 채널</string>
 < > 	<string>すべて</string>
 > > 	<string>모두</string>
@@ -2682,7 +2682,7 @@
 > > 	<string>혼합</string>
 < > 	<string>ブレンド</string>
 < < 	<string>Blend mode &amp; ranges</string>
-< > 	<string>ブレンディングモード &amp; 範囲</string>
+< > 	<string>ブレンドモード &amp; 範囲</string>
 < < 	<string>Blend mode</string>
 < > 	<string>描画モード</string>
 < < 	<string>Blend mode</string>
@@ -3221,11 +3221,11 @@
 < > 	<string>ダウンロードをキャンセル</string>
 < < 	<string>Cancel magnetic selection</string>
 < > 	<string>磁気選択範囲をキャンセル</string>
-< < 	<string>Candidate list</string>
+> > 	<string>취소</string>
 < > 	<string>候補リスト</string>
 < < 	<string>Cannot Add Preset</string>
 < > 	<string>プリセットを追加できません</string>
-> > 	<string>취소</string>
+> > 	<string>후보 목록</string>
 < > 	<string>アセットを作成できません</string>
 > > 	<string>자산을 생성할 수 없음</string>
 < > 	<string>ドキュメントを作成できません</string>
@@ -4025,6 +4025,8 @@
 < > 	<string>歯車</string>
 > > 	<string>톱니</string>
 < > 	<string>歯車</string>
+< < 	<string>Cold pixel threshold</string>
+< > 	<string>コールドピクセルのしきい値</string>
 < < 	<string>Collect</string>
 < > 	<string>収集</string>
 < < 	<string>Color &amp; Decorations</string>
@@ -4575,8 +4577,6 @@
 < > 	<string>コサイン</string>
 < < 	<string>Could not edit the embedded document in the other application.</string>
 < > 	<string>他のアプリケーションで埋め込みドキュメントを編集できませんでした。</string>
-< < 	<string>Could not find unique installation ID.</string>
-< > 	<string>固有のインストールIDが見つかりませんでした。</string>
 < < 	<string>Could not hand over the file to the other application.</string>
 < > 	<string>他のアプリケーションにファイルを引き渡すことができませんでした。</string>
 < < 	<string>Could not open file</string>
@@ -5745,11 +5745,11 @@
 < > 	<string>ひし形</string>
 < < 	<string>Diamond: Mirror</string>
 < > 	<string>ひし形: ミラー</string>
-< < 	<string>Difference</string>
+> > 	<string>다이아몬드</string>
 < > 	<string>差の絶対値</string>
-< < 	<string>Difference</string>
+> > 	<string>차이</string>
 < > 	<string>差の絶対値</string>
-< < 	<string>Difference</string>
+> > 	<string>차이</string>
 < > 	<string>差の絶対値</string>
 < < 	<string>Diffuse Glow Tool</string>
 < > 	<string>光彩拡散ツール</string>
@@ -5765,7 +5765,7 @@
 < > 	<string>光彩拡散</string>
 < < 	<string>Diffuse Tool</string>
 < > 	<string>拡散ツール</string>
-> > 	<string>다이아몬드</string>
+> > 	<string>차이</string>
 < > 	<string>拡散</string>
 > > 	<string>확산</string>
 < > 	<string>拡散</string>
@@ -6579,7 +6579,7 @@
 < > 	<string>埋め込み</string>
 < < 	<string>Embedded</string>
 < > 	<string>埋め込み</string>
-< < 	<string>Embedded document</string>
+> > 	<string>삽입된 문서</string>
 < > 	<string>埋め込みドキュメント</string>
 < < 	<string>Emboss Tool</string>
 < > 	<string>エンボスツール</string>
@@ -6617,19 +6617,19 @@
 < > 	<string>ノードツールのスナップオプションを有効にする</string>
 < < 	<string>Enable Planes</string>
 < > 	<string>平面を有効にする</string>
-< < 	<string>Enable Snapping</string>
+> > 	<string>반각 공백</string>
 < > 	<string>スナップを有効にする</string>
-< < 	<string>Enable Transform Origin</string>
+> > 	<string>스내핑 유효화</string>
 < > 	<string>変形の起点を有効にする</string>
-< < 	<string>Enable</string>
+> > 	<string>변형 원점을 유효화</string>
 < > 	<string>有効にする</string>
-< < 	<string>Enable</string>
+> > 	<string>유효화</string>
 < > 	<string>有効にする</string>
-< < 	<string>Enable</string>
+> > 	<string>유효화</string>
 < > 	<string>有効にする</string>
-< < 	<string>Enabled</string>
+> > 	<string>유효화</string>
 < > 	<string>有効</string>
-< < 	<string>Enabled</string>
+> > 	<string>유효한</string>
 < > 	<string>有効</string>
 < < 	<string>Enclosed Alphanumerics</string>
 < > 	<string>囲み英数字</string>
@@ -6639,7 +6639,7 @@
 < > 	<string>終了角度</string>
 < < 	<string>End angle of pie wedge</string>
 < > 	<string>扇形の終了角</string>
-> > 	<string>반각 공백</string>
+> > 	<string>유효한</string>
 < > 	<string>終了角度:</string>
 < < 	<string>End brushing</string>
 < > 	<string>ブラシを終了</string>
@@ -6879,8 +6879,6 @@
 < > 	<string>エラー</string>
 < < 	<string>Error parsing JSON file:
 < > 	<string>JSONファイル:
-< < 	<string>Error while constructing request or parsing server's response: %1</string>
-< > 	<string>リクエストの構築中またはサーバーの応答を解析中にエラーが発生しました: %1</string>
 < < 	<string>Error: %1</string>
 < > 	<string>エラー: %1</string>
 < < 	<string>Errors occurred while exporting</string>
@@ -6925,17 +6923,17 @@
 < > 	<string>書き出しから除外する</string>
 < < 	<string>Exclude from snapping</string>
 < > 	<string>スナップから除外</string>
-< < 	<string>Exclusion</string>
+> > 	<string>모두</string>
 < > 	<string>除外</string>
-< < 	<string>Exclusion</string>
+> > 	<string>제외</string>
 < > 	<string>除外</string>
-< < 	<string>Exclusion</string>
+> > 	<string>제외</string>
 < > 	<string>除外</string>
 < < 	<string>Exit</string>
 < > 	<string>終了</string>
 < < 	<string>Exp</string>
 < > 	<string>書き出し</string>
-> > 	<string>모두</string>
+> > 	<string>제외</string>
 < > 	<string>境界線を展開</string>
 < < 	<string>Expand</string>
 < > 	<string>展開</string>
@@ -7001,13 +6999,13 @@
 < > 	<string>スライスを書き出し(%d)</string>
 > > 	<string>슬라이스 내보내기 (%d)</string>
 < > 	<string>スライスを書き出し</string>
-< < 	<string>Export Styles…</string>
+> > 	<string>슬라이스 내보내기</string>
 < > 	<string>スタイルを書き出し…</string>
 < < 	<string>Export Timelapse</string>
 < > 	<string>タイムラプスを書き出し</string>
 < < 	<string>Export Timelapse</string>
 < > 	<string>タイムラプスを書き出し</string>
-> > 	<string>슬라이스 내보내기</string>
+> > 	<string>스타일 내보내기…</string>
 < > 	<string>ユーザープリセットを書き出し…</string>
 > > 	<string>사용자 미리 설정 내보내기…</string>
 < > 	<string>書き出し</string>
@@ -8093,6 +8091,8 @@
 < > 	<string>グラデーションオーバーレイ</string>
 < < 	<string>Gradient overlay</string>
 < > 	<string>グラデーションオーバーレイ</string>
+< < 	<string>Gradient pack</string>
+< > 	<string>グラデーションパック</string>
 < < 	<string>Gradient: Bad data</string>
 < > 	<string>グラデーション: データが正しくありません</string>
 < < 	<string>Grantha</string>
@@ -8823,13 +8823,13 @@
 < > 	<string>画像ポリシー</string>
 < < 	<string>Image Resolution</string>
 < > 	<string>画像解像度</string>
-< < 	<string>Image</string>
+> > 	<string>무시</string>
 < > 	<string>画像</string>
-< < 	<string>Image</string>
+> > 	<string>이미지</string>
 < > 	<string>画像</string>
 < < 	<string>Image placement policy</string>
 < > 	<string>画像配置ポリシー</string>
-> > 	<string>무시</string>
+> > 	<string>이미지</string>
 < > 	<string>画像</string>
 > > 	<string>이미지</string>
 < > 	<string>画像</string>
@@ -8877,13 +8877,13 @@
 < > 	<string>PSDをインポート</string>
 < < 	<string>Import Presets to Category…</string>
 < > 	<string>プリセットをカテゴリにインポート…</string>
-< < 	<string>Import Styles…</string>
+> > 	<string>실패한 들여오기</string>
 < > 	<string>スタイルをインポート…</string>
-< < 	<string>Import Styles…</string>
+> > 	<string>스타일 들여오기…</string>
 < > 	<string>スタイルをインポート…</string>
 < < 	<string>Import Template(s)…</string>
 < > 	<string>テンプレートをインポート...</string>
-> > 	<string>실패한 들여오기</string>
+> > 	<string>스타일 들여오기…</string>
 < > 	<string>インポート</string>
 > > 	<string>들여오기</string>
 < > 	<string>インポート</string>
@@ -10763,17 +10763,17 @@
 < > 	<string>輝度</string>
 < < 	<string>Luminance</string>
 < > 	<string>輝度</string>
-< < 	<string>Luminosity</string>
+> > 	<string>저주파수</string>
 < > 	<string>輝度</string>
-< < 	<string>Luminosity</string>
+> > 	<string>휘도</string>
 < > 	<string>輝度</string>
-< < 	<string>Luminosity</string>
+> > 	<string>휘도</string>
 < > 	<string>輝度</string>
-< < 	<string>Luminosity</string>
+> > 	<string>휘도</string>
 < > 	<string>輝度</string>
-< < 	<string>Luminosity</string>
+> > 	<string>휘도</string>
 < > 	<string>輝度</string>
-< < 	<string>Luminosity</string>
+> > 	<string>휘도</string>
 < > 	<string>輝度</string>
 < < 	<string>Luminosity channel</string>
 < > 	<string>輝度チャンネル</string>
@@ -10793,7 +10793,7 @@
 < > 	<string>リディア文字</string>
 < < 	<string>Lydian</string>
 < > 	<string>リディア文字</string>
-> > 	<string>저주파수</string>
+> > 	<string>휘도</string>
 < > 	<string>レイヤー</string>
 < < 	<string>Lü</string>
 < > 	<string>ルー語</string>
@@ -10807,9 +10807,9 @@
 < > 	<string>マクロスタジオ</string>
 < < 	<string>Macro Tool</string>
 < > 	<string>マクロツール</string>
-< < 	<string>Macro</string>
+> > 	<string>레이어</string>
 < > 	<string>マクロ</string>
-< < 	<string>Macro</string>
+> > 	<string>매크로</string>
 < > 	<string>マクロ</string>
 < < 	<string>Macro pack</string>
 < > 	<string>マクロパック</string>
@@ -10869,7 +10869,7 @@
 < > 	<string>マハージャニー文字</string>
 < < 	<string>Mahjong Tiles</string>
 < > 	<string>麻雀牌</string>
-> > 	<string>레이어</string>
+> > 	<string>매크로</string>
 < > 	<string>塗りつぶしの縦横比を維持</string>
 > > 	<string>칠 종횡비 유지</string>
 < > 	<string>塗りつぶしの縦横比を維持</string>
@@ -12123,11 +12123,11 @@
 < > 	<string>新規パノラマドキュメント</string>
 < < 	<string>New stack document</string>
 < > 	<string>新規スタックドキュメント</string>
-< < 	<string>New...</string>
+> > 	<string>신규 레이어</string>
 < > 	<string>新規...</string>
 < < 	<string>Newa</string>
 < > 	<string>ネワール文字</string>
-< < 	<string>Newari</string>
+> > 	<string>신규...</string>
 < > 	<string>ネワーリー語</string>
 < < 	<string>Next Frame Page Number</string>
 < > 	<string>次のフレームページ番号</string>
@@ -12153,7 +12153,7 @@
 < > 	<string>ニウエー語</string>
 < < 	<string>No Brushes Added</string>
 < > 	<string>追加されたブラシはありません</string>
-> > 	<string>신규 레이어</string>
+> > 	<string>신규...</string>
 < > 	<string>カメラデータがありません</string>
 < < 	<string>No Data Source covers the page where field '%1' is used</string>
 < > 	<string>フィールド'%1'が使用されているページをカバーするデータソースがありません</string>
@@ -13737,6 +13737,8 @@
 < > 	<string>ピクセル</string>
 > > 	<string>픽셀</string>
 < > 	<string>ピクセル</string>
+< < 	<string>Pixel brush pack</string>
+< > 	<string>ピクセルブラシパック</string>
 < < 	<string>Pixel content</string>
 < > 	<string>ピクセルコンテンツ</string>
 < < 	<string>Pixel height (not including scale)</string>
@@ -14777,8 +14779,6 @@
 < > 	<string>反射</string>
 < < 	<string>Region</string>
 < > 	<string>都道府県</string>
-< < 	<string>Register your app</string>
-< > 	<string>アプリを登録</string>
 < < 	<string>Registered Trademark</string>
 < > 	<string>登録商標</string>
 < < 	<string>Registration Marks</string>
@@ -15551,11 +15551,11 @@
 < > 	<string>表示</string>
 < < 	<string>Reveal</string>
 < > 	<string>表示</string>
-< < 	<string>Reverse Curve</string>
+> > 	<string>레티나 픽셀 뷰 모드</string>
 < > 	<string>カーブを反転</string>
-< < 	<string>Reverse Curves</string>
+> > 	<string>곡선 반대로</string>
 < > 	<string>カーブを反転</string>
-< < 	<string>Reverse Curves</string>
+> > 	<string>곡선 반대로</string>
 < > 	<string>カーブを反転</string>
 < < 	<string>Reverse Direction</string>
 < > 	<string>向きを反転</string>
@@ -15565,15 +15565,15 @@
 < > 	<string>反転</string>
 < < 	<string>Reverse</string>
 < > 	<string>反転</string>
-< < 	<string>Reverse curve</string>
+> > 	<string>곡선 반대로</string>
 < > 	<string>カーブを反転</string>
-< < 	<string>Reverse curves</string>
+> > 	<string>곡선 반대로</string>
 < > 	<string>カーブを反転</string>
 < < 	<string>Reverse fill</string>
 < > 	<string>塗りつぶしを反転</string>
-> > 	<string>레티나 픽셀 뷰 모드</string>
+> > 	<string>곡선 반대로</string>
 < > 	<string>グラデーションを反転</string>
-> > 	<string>그레이디언트 거꾸로</string>
+> > 	<string>그레이디언트 반대로</string>
 < > 	<string>グラデーションを反転</string>
 < < 	<string>Reverse line fill</string>
 < > 	<string>ライン塗りつぶしを反転</string>
@@ -15583,7 +15583,7 @@
 < > 	<string>ベクトルvの要素の順序を反転します。</string>
 < < 	<string>Reverse transparency</string>
 < > 	<string>透明部を反転</string>
-> > 	<string>그레이디언트 거꾸로</string>
+> > 	<string>그레이디언트 반대로</string>
 < > 	<string>デフォルト設定を復元</string>
 > > 	<string>기본값 되돌리기</string>
 < > 	<string>復元</string>
@@ -15869,15 +15869,15 @@
 < > 	<string>角丸長方形ツール</string>
 > > 	<string>둥근 직사각형 도구</string>
 < > 	<string>角丸長方形ツール</string>
-< < 	<string>Rounded Rectangle</string>
+> > 	<string>둥근 직사각형 도구</string>
 < > 	<string>角丸長方形</string>
-< < 	<string>Rounded Rectangle</string>
+> > 	<string>둥근 직사각형</string>
 < > 	<string>角丸長方形</string>
-< < 	<string>Rounded</string>
+> > 	<string>둥근 직사각형</string>
 < > 	<string>丸み付け</string>
-< < 	<string>Rounded</string>
+> > 	<string>둥근</string>
 < > 	<string>丸み付け</string>
-< < 	<string>Rounded</string>
+> > 	<string>둥근</string>
 < > 	<string>丸み付け</string>
 < < 	<string>Rounded rectangle bottom left corner radius size</string>
 < > 	<string>角丸長方形の左下コーナー半径サイズ</string>
@@ -15907,7 +15907,7 @@
 < > 	<string>角丸長方形: 1つの半径を使用</string>
 < < 	<string>Rounded rectangle: Use proportional radius sizes</string>
 < > 	<string>角丸長方形: 比例する半径サイズを使用</string>
-> > 	<string>둥근 직사각형 도구</string>
+> > 	<string>둥근</string>
 < > 	<string>行マーキーツール</string>
 > > 	<string>행 천막 도구</string>
 < > 	<string>行マーキーツール</string>
@@ -16695,6 +16695,8 @@
 < > 	<string>セレール語</string>
 < < 	<string>Server reported error (code %1): %2 [trace: %3]</string>
 < > 	<string>サーバーがエラーをレポートしました (コード%1): %2 [トレース: %3]</string>
+< < 	<string>Service unavailable or unreachable (code: %1).</string>
+< > 	<string>サービスが利用できないか到達不能です (コード: %1)。</string>
 < < 	<string>Service unavailable or unreachable.</string>
 < > 	<string>サービスが利用できないか到達不可能です。</string>
 < < 	<string>Set %1 description: "%2"</string>
@@ -17873,9 +17875,9 @@
 < > 	<string>ショートカット</string>
 < < 	<string>Show / Hide All Text</string>
 < > 	<string>すべてのテキストを表示/非表示</string>
-< < 	<string>Show Alignment Handles</string>
-< > 	<string>整列ハンドルを表示</string>
 > > 	<string>비틀기</string>
+< > 	<string>整列ハンドルを表示</string>
+> > 	<string>정렬 손잡이 보기</string>
 < > 	<string>すべて表示</string>
 > > 	<string>모두 보기</string>
 < > 	<string>すべて表示</string>
@@ -17907,6 +17909,8 @@
 < > 	<string>ガイドを表示</string>
 > > 	<string>안내선 보기</string>
 < > 	<string>階層を表示</string>
+< < 	<string>Show Links</string>
+< > 	<string>リンクを表示</string>
 < < 	<string>Show Local Formatting</string>
 < > 	<string>ローカルフォーマットを表示</string>
 > > 	<string>계층 보기</string>
@@ -18223,11 +18227,11 @@
 < > 	<string>スマート選択ブラシ</string>
 < < 	<string>Smart tip sharing</string>
 < > 	<string>先端のスマート共有</string>
-< < 	<string>Smooth Curve</string>
+> > 	<string>스마트</string>
 < > 	<string>カーブを滑らかにする</string>
-< < 	<string>Smooth Curve</string>
+> > 	<string>곡선 매끄럽게</string>
 < > 	<string>カーブを滑らかにする</string>
-< < 	<string>Smooth Curve</string>
+> > 	<string>곡선 매끄럽게</string>
 < > 	<string>カーブを滑らかにする</string>
 < < 	<string>Smooth Points</string>
 < > 	<string>頂点を滑らかに</string>
@@ -18235,19 +18239,19 @@
 < > 	<string>選択範囲を滑らかにするツール</string>
 < < 	<string>Smooth Selection Tool</string>
 < > 	<string>選択範囲を滑らかにするツール</string>
-> > 	<string>스마트</string>
+> > 	<string>곡선 매끄럽게</string>
 < > 	<string>滑らか</string>
-> > 	<string>매끈하게</string>
+> > 	<string>매끄럽게</string>
 < > 	<string>滑らか</string>
-> > 	<string>매끈하게</string>
+> > 	<string>매끄럽게</string>
 < > 	<string>スムーズ</string>
-> > 	<string>매끈하게</string>
+> > 	<string>매끄럽게</string>
 < > 	<string>スムーズ</string>
-> > 	<string>매끈하게</string>
+> > 	<string>매끄럽게</string>
 < > 	<string>スムーズ</string>
-> > 	<string>매끈하게</string>
+> > 	<string>매끄럽게</string>
 < > 	<string>滑らか</string>
-> > 	<string>매끈하게</string>
+> > 	<string>매끄럽게</string>
 < > 	<string>滑らか</string>
 < < 	<string>Smooth curve</string>
 < > 	<string>カーブを滑らかにする</string>
@@ -18275,7 +18279,7 @@
 < > 	<string>選択されているすべてのノードにスナップ</string>
 < < 	<string>Snap Handles</string>
 < > 	<string>ハンドルにスナップ</string>
-> > 	<string>매끈하게</string>
+> > 	<string>매끄럽게</string>
 < > 	<string>ドラッグ時にすべての選択したノードをスナップ</string>
 > > 	<string>드래그할 때 모든 선택 마디에 스냅</string>
 < > 	<string>ドラッグ時にすべてスナップ</string>
@@ -19683,6 +19687,8 @@
 < > 	<string>曲線状のテキスト</string>
 < < 	<string>Text case command</string>
 < > 	<string>テキストケースコマンド</string>
+< < 	<string>Text content</string>
+< > 	<string>テキストコンテンツ</string>
 < < 	<string>Text styles restored to factory settings for new documents</string>
 < > 	<string>テキストスタイルを新規ドキュメントの出荷時の設定に戻しました</string>
 < < 	<string>Text wrap</string>
@@ -19725,8 +19731,6 @@
 < > 	<string>Affinity Photo for iPad 1.9をダウンロードしていただき、ありがとうございます。最新の更新の一部として、Affinity Storeから購入したコンテンツと使用するアプリを直接同期できるようになります。必要なのは、Affinityのアカウントを作成するか、既存のアカウントからログインし、アプリを登録するだけです。
 < < 	<string>Thanks for downloading Affinity Publisher 1.9. As part of our latest update, you now have the ability to sync any purchased content from the Affinity store directly to your app — all you need to do is create an Affinity account or log-in to your existing one and register your app.
 < > 	<string>Affinity Publisher 1.9をダウンロードしていただき、ありがとうございます。最新の更新の一部として、Affinity Storeから購入したコンテンツと使用するアプリを直接同期できるようになります。必要なのは、Affinityのアカウントを作成するか、既存のアカウントからログインし、アプリを登録するだけです。
-< < 	<string>Thanks for using the 1.9 beta. We are now testing the ability for our apps to automatically stream content which you have purchased or received for free from our store.
-< > 	<string>1.9ベータ版をご利用いただきありがとうございます。 現在、ストアから購入したコンテンツ、または無料で受け取られたコンテンツをアプリで自動的にストリーミングする機能をテストしています。
 < < 	<string>Thaw Tool</string>
 < > 	<string>フリーズ解除ツール</string>
 < < 	<string>Thaw Tool</string>
@@ -20039,8 +20043,8 @@
 < > 	<string>このバンドルにパックをダウンロードする際に問題が発生しました。クリックすると詳細が表示されます</string>
 < < 	<string>There was a problem downloading this pack; click for details</string>
 < > 	<string>このパックをダウンロード中に問題が発生しました。クリックすると詳細が表示されます</string>
-< < 	<string>There was an unexpected problem while handling the server's response.</string>
-< > 	<string>サーバーの応答の処理中に予期しない問題が発生しました。</string>
+< < 	<string>There was an unexpected problem while handling the server's response (0x%1).</string>
+< > 	<string>サーバーの応答の処理中に予期しない問題が発生しました (0x%1)。</string>
 < < 	<string>There was an unknown error downloading the packs in this bundle.</string>
 < > 	<string>このバンドルにパックをダウンロードする際に未知のエラーが発生しました。</string>
 < < 	<string>There was an unknown error downloading this bundle.</string>
@@ -20151,8 +20155,6 @@
 < > 	<string>この操作は取り消せません。</string>
 < < 	<string>This is the containers name.</string>
 < > 	<string>これはコンテナ名です。</string>
-< < 	<string>This is what you get:</string>
-< > 	<string>受け取るもの:</string>
 < < 	<string>This key is assigned to the opacity command</string>
 < > 	<string>このキーは不透明コマンドに割り当てられています</string>
 < < 	<string>This pack has previously been installed manually.
@@ -21433,6 +21435,8 @@
 < > 	<string>ベクター</string>
 > > 	<string>벡터</string>
 < > 	<string>ベクター</string>
+< < 	<string>Vector brush pack</string>
+< > 	<string>ベクターブラシパック</string>
 < < 	<string>Vector curves</string>
 < > 	<string>ベクターカーブ</string>
 < < 	<string>Vector fill</string>
@@ -21447,7 +21451,7 @@
 < > 	<string>ベクトルサイズが6要素を超えています</string>
 > > 	<string>벡터</string>
 < > 	<string>速度(逆)</string>
-> > 	<string>속도 (반전)</string>
+> > 	<string>속도 (뒤집힌)</string>
 < > 	<string>速度</string>
 > > 	<string>속도</string>
 < > 	<string>速度</string>
@@ -21558,7 +21562,7 @@
 > > 	<string>비네트</string>
 < > 	<string>ビネット</string>
 < < 	<string>Visibility &amp; opacity</string>
-< > 	<string>可視性/不透明度</string>
+< > 	<string>可視性 &amp; 不透明度</string>
 < < 	<string>Visibility/Opacity</string>
 < > 	<string>可視性/不透明度</string>
 < < 	<string>Visible</string>
