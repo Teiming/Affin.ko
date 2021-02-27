@@ -6,6 +6,8 @@
 > 		<string>재설정</string>
 < 		<string>Flow:</string>
 > 		<string>흐름:</string>
+< 		<string>Slider</string>
+> 		<string>슬라이더</string>
 < 		<string>Size:</string>
 > 		<string>크기:</string>
 < 		<string>Hardness:</string>
@@ -37,9 +39,7 @@
 < 		<string>Luminosity Jitter:</string>
 > 		<string>명도 일그러짐:</string>
 < 		<string>None</string>
-< 		<string>OtherViews</string>
 > 		<string>없음</string>
-> 		<string>다른 보기</string>
 < 		<string>Random</string>
 > 		<string>무작위</string>
 < 		<string>Pressure</string>
@@ -51,21 +51,21 @@
 < 		<string>Velocity</string>
 > 		<string>속도</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Flow Jitter:</string>
 > 		<string>흐름 일그러짐:</string>
 < 		<string>Size Jitter:</string>
@@ -77,11 +77,11 @@
 < 		<string>Scatter Y:</string>
 > 		<string>세로 흩어짐:</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Dynamics</string>
 > 		<string>역동</string>
 < 		<string>Mode:</string>
@@ -97,7 +97,7 @@
 < 		<string>Invert</string>
 > 		<string>반전</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Add</string>
 > 		<string>추가</string>
 < 		<string>Texture</string>
@@ -139,6 +139,6 @@
 < 		<string>Label</string>
 > 		<string>라벨</string>
 < 		<string>Velocity (Inverse)</string>
-> 		<string>속도 (반전)</string>
+> 		<string>속도 (뒤집힌)</string>
 < 		<string>Stroke</string>
 > 		<string>선</string>
