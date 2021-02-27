@@ -1,59 +1,30 @@
-< < 		<string>Authorise…</string>
-< > 		<string>承認…</string>
-< > 		<string>プラグイン</string>
+> < 		<string>Plugin</string>
 > > 		<string>플러그인</string>
-< > 		<string>テキストセル</string>
-< > 		<string>プラグイン</string>
-< > 		<string>テキストセル</string>
-< < 		<string>Save into:</string>
-< > 		<string>保存先:</string>
-< < 		<string>Save into original location</string>
-< > 		<string>元の場所に保存</string>
-< > 		<string>プラグイン</string>
-< > 		<string>テキストセル</string>
-< < 		<string>New Batch Job</string>
-< > 		<string>新規一括ジョブ</string>
+> < 		<string>Text Cell</string>
 > > 		<string>텍스트 셀</string>
-< > 		<string>追加</string>
+> < 		<string>Add</string>
 > > 		<string>추가</string>
-< > 		<string>適用</string>
+> < 		<string>Apply</string>
 > > 		<string>적용</string>
-< > 		<string>削除</string>
-< < 		<string>Sources</string>
-< > 		<string>ソース</string>
+> < 		<string>Remove</string>
 > > 		<string>지우기</string>
-< > 		<string>出力</string>
-< < 		<string>Available Macros</string>
-< > 		<string>使用可能なマクロ</string>
-< > 		<string>削除</string>
-< < 		<string>Parallel processing</string>
-< > 		<string>並列処理</string>
+> < 		<string>Output</string>
 > > 		<string>출력</string>
-< > 		<string>JPEGとして保存</string>
+> < 		<string>Save as JPEG</string>
 > > 		<string>JPEG(으)로 저장</string>
-< > 		<string>PNGとして保存</string>
+> < 		<string>Save as PNG</string>
 > > 		<string>PNG(으)로 저장</string>
-< > 		<string>AFPhotoとして保存</string>
+> < 		<string>Save as AFPhoto</string>
 > > 		<string>AFPhoto(으)로 저장</string>
-< > 		<string>TIFFとして保存</string>
+> < 		<string>Save as TIFF</string>
 > > 		<string>TIFF(으)로 저장</string>
-< > 		<string>OpenEXRとして保存</string>
+> < 		<string>Save as OpenEXR</string>
 > > 		<string>OpenEXR(으)로 저장</string>
-< > 		<string>キャンセル</string>
-< < 		<string>Applied Macros</string>
-< > 		<string>適用されているマクロ</string>
-< < 		<string>{274, 17}</string>
-< > 		<string>{294, 17}</string>
-< < 		<string>Table View Cell</string>
-< > 		<string>表ビューセル</string>
-< < 		<string>{{11, 1}, {274, 17}}</string>
-< > 		<string>{{1, 1}, {294, 17}}</string>
+> < 		<string>Cancel</string>
 > > 		<string>취소</string>
-< > 		<string>最大の幅</string>
+> < 		<string>Maximum height</string>
 > > 		<string>최대 높이</string>
-< > 		<string>最大の高さ</string>
+> < 		<string>Maximum width</string>
 > > 		<string>최대 두께</string>
-< > 		<string>未完成の機能/ユーザーインターフェース。</string>
-< < 		<string>Unfinished feature / user interface.</string>
-< > 		<string>縦横比を維持</string>
+> < 		<string>Preserve aspect ratio</string>
 > > 		<string>종횡비 유지</string>
