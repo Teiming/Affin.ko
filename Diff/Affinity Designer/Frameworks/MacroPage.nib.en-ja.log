@@ -1,0 +1,28 @@
+< 		<string>Item 1</string>
+> 		<string>アイテム1</string>
+< 		<string>Item 2</string>
+> 		<string>アイテム2</string>
+< 		<string>Item 3</string>
+> 		<string>アイテム3</string>
+< 		<string>Enter a name for the macro:</string>
+> 		<string>マクロ名を入力:</string>
+< 		<string>Category:</string>
+> 		<string>カテゴリ:</string>
+< 		<string>{257, 17}</string>
+> 		<string>{277, 17}</string>
+< 		<string>{{11, 1}, {257, 17}}</string>
+> 		<string>{{1, 1}, {277, 17}}</string>
+< 		<string>Add To Library</string>
+> 		<string>インポート</string>
+< 		<string>Export</string>
+> 		<string>ライブラリに追加</string>
+< 		<string>Import</string>
+> 		<string>リセット</string>
+< 		<string>Play</string>
+> 		<string>実行</string>
+< 		<string>Reset</string>
+> 		<string>書き出し</string>
+< 		<string>Start recording</string>
+> 		<string>記録の停止</string>
+< 		<string>Stop recording</string>
+> 		<string>記録の開始</string>
