@@ -1,6 +1,5 @@
 < < 		<string>Run Benchmark</string>
 < > 		<string>ベンチマークを実行</string>
-< < 		<string>Benchmark</string>
 < > 		<string>ベンチマーク</string>
 < < 		<string>The benchmark measures vector performance (CPU) and raster performance (CPU/GPU). The results strongly correlate to real-world performance over the majority of user documents.
 < > 		<string>ベンチマークはベクターパフォーマンス(CPU)とラスターパフォーマンス(CPU/GPU)を測定します。結果は、大多数のユーザードキュメントの実際のパフォーマンスと強く相関しています。
@@ -22,3 +21,4 @@
 < > 		<string>結合 (単一GPU):</string>
 < < 		<string>Combined (Multi GPU):</string>
 < > 		<string>結合 (複数GPU):</string>
+> > 		<string>벤치마크</string>
