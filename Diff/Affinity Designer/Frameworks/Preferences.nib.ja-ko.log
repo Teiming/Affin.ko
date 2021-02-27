@@ -1,3 +1,4 @@
+< < 		<string>Preferences</string>
 < > 		<string>環境設定</string>
 < > 		<string>ホーム</string>
 < < 		<string>Reopen document(s) on startup</string>
@@ -47,11 +48,7 @@
 < > 		<string>知覚</string>
 < < 		<string>Relative Colourimetric</string>
 < > 		<string>相対的な色彩を保持</string>
-> > 		<string>환경설정</string>
-> < 		<string>Home</string>
-> > 		<string>홈</string>
-> < 		<string>General</string>
-> > 		<string>일반</string>
+< < 		<string>Saturation</string>
 < > 		<string>彩度</string>
 < < 		<string>Absolute Colourimetric</string>
 < > 		<string>絶対的な色彩を保持</string>
@@ -63,7 +60,7 @@
 < > 		<string>黒点補正</string>
 < < 		<string>Convert opened files to working space</string>
 < > 		<string>開いたファイルを作業中の色空間に変換</string>
-> > 		<string>채도</string>
+< < 		<string>and warn</string>
 < > 		<string>さらに警告</string>
 < < 		<string>Warn when assigning working profile to unprofiled files</string>
 < > 		<string>作業中のプロファイルを未プロファイルのファイルに割り当てる際に警告</string>
@@ -92,7 +89,7 @@
 < > 		<string>ゼロEXRアルファを撹乱</string>
 < < 		<string>Enable EDR by default in 32bit RGB views</string>
 < > 		<string>EDRをデフォルトで32ビットRGB表示で有効にする</string>
-> > 		<string>경고</string>
+< < 		<string>Colour</string>
 < > 		<string>カラー</string>
 < < 		<string>RAM Usage Limit:</string>
 < > 		<string>RAM使用量上限:</string>
@@ -141,33 +138,31 @@
 < < 		<string>(No compatible GPU)</string>
 < > 		<string>(互換GPUなし)</string>
 < > 		<string>パフォーマンス</string>
-> > 		<string>색상</string>
-> < 		<string>Performance</string>
-> > 		<string>성능</string>
+< < 		<string>Pixels:</string>
 < > 		<string>ピクセル:</string>
-> > 		<string>픽셀:</string>
+< < 		<string>Points:</string>
 < > 		<string>ポイント:</string>
-> > 		<string>포인트:</string>
+< < 		<string>Picas:</string>
 < > 		<string>パイカ:</string>
 < < 		<string>Inches:</string>
 < > 		<string>インチ:</string>
-> > 		<string>파이카:</string>
+< < 		<string>Feet:</string>
 < > 		<string>フィート:</string>
-> > 		<string>피트:</string>
+< < 		<string>Yards:</string>
 < > 		<string>ヤード:</string>
-> > 		<string>야드:</string>
+< < 		<string>Millimetres:</string>
 < > 		<string>ミリメートル:</string>
-> > 		<string>밀리미터:</string>
+< < 		<string>Centimetres:</string>
 < > 		<string>センチメートル:</string>
-> > 		<string>센티미터:</string>
+< < 		<string>Metres:</string>
 < > 		<string>メートル:</string>
-> > 		<string>미터:</string>
+< < 		<string>Reset</string>
 < > 		<string>リセット</string>
-> > 		<string>재설정</string>
+< < 		<string>Degrees:</string>
 < > 		<string>度:</string>
 < < 		<string>Box</string>
 < > 		<string>四角形</string>
-> > 		<string>각도:</string>
+< < 		<string>Decimal Places for Unit Types:</string>
 < > 		<string>各単位の小数部桁数:</string>
 < < 		<string>Font UI Size:</string>
 < > 		<string>フォントUIサイズ:</string>
@@ -179,9 +174,7 @@
 < > 		<string>UIガンマ:</string>
 < < 		<string>Tooltip Delay:</string>
 < > 		<string>ツールチップを表示するまでの時間:</string>
-> > 		<string>단위 종류별 소수점 위치:</string>
-> < 		<string>Slider</string>
-> > 		<string>슬라이더</string>
+< < 		<string>UI Style:</string>
 < > 		<string>UIスタイル:</string>
 < < 		<string>(Requires Restart)</string>
 < > 		<string>(再起動が必要)</string>
@@ -189,15 +182,15 @@
 < > 		<string>フィルターを自動コミット</string>
 < < 		<string>Auto-scroll to show selection in Layers panel</string>
 < > 		<string>選択項目をレイヤーパネルに表示するよう自動スクロール</string>
-> > 		<string>UI 스타일:</string>
+< < 		<string>Show brush previews</string>
 < > 		<string>ブラシプレビューの表示</string>
-> > 		<string>브러시 미리보기 보기</string>
+< < 		<string>Monochromatic Iconography</string>
 < > 		<string>アイコンをモノクロで表示</string>
 < < 		<string>Automatically lock background layer on import</string>
 < > 		<string>インポート時に背景レイヤーを自動的にロックする</string>
 < < 		<string>Show Lines in points</string>
 < > 		<string>ラインをポイント単位で表示</string>
-> > 		<string>단색 아이콘</string>
+< < 		<string>Always show brush crosshair</string>
 < > 		<string>ブラシ十字線を常に表示</string>
 < < 		<string>Show Text in points</string>
 < > 		<string>テキストをポイント単位で表示</string>
@@ -208,9 +201,7 @@
 < > 		<string>ボックス</string>
 < < 		<string>User Interface</string>
 < > 		<string>ユーザーインターフェース</string>
-> > 		<string>브러시 십자선 항상 보기</string>
-> < 		<string>Tools</string>
-> > 		<string>도구</string>
+< < 		<string>Tool Handle Size:</string>
 < > 		<string>ツールUIサイズ:</string>
 < < 		<string>⌃+Click show context menu</string>
 < > 		<string>⌃+クリックでコンテキストメニューを表示</string>
@@ -252,13 +243,13 @@
 < > 		<string>⌘+ホイールのスクロールでキャンバスの回転を有効化</string>
 < > 		<string>ツール</string>
 < > 		<string>項目</string>
-> > 		<string>도구 손잡이 크기:</string>
+< < 		<string>Text Cell</string>
 < > 		<string>テキストセル</string>
 < > 		<string>キー</string>
 < > 		<string>テキストセル</string>
-> > 		<string>텍스트 셀</string>
+< < 		<string>Load</string>
 < > 		<string>読み込み</string>
-> > 		<string>불러오기</string>
+< < 		<string>Save</string>
 < > 		<string>保存</string>
 < < 		<string>Ignore Modifier</string>
 < > 		<string>修飾キーを無視</string>
@@ -274,20 +265,20 @@
 < > 		<string>修飾キーは許容されません。</string>
 < < 		<string>Apple Defaults</string>
 < > 		<string>Appleのデフォルト</string>
-> > 		<string>저장</string>
+< < 		<string>Keyboard Shortcuts</string>
 < > 		<string>キーボードショートカット</string>
 < < 		<string>Plugin Search Folders</string>
 < > 		<string>プラグイン検索フォルダ</string>
 < < 		<string>Detected Plugins</string>
 < > 		<string>検出済みプラグイン</string>
 < > 		<string>Text Cell</string>
-> > 		<string>키보드 단축키</string>
+< < 		<string>Add</string>
 < > 		<string>追加</string>
 < < 		<string>Open Default Folder in Finder</string>
 < > 		<string>デフォルトフォルダをFinderで開く</string>
-> > 		<string>추가</string>
+< < 		<string>Remove</string>
 < > 		<string>削除</string>
-> > 		<string>지우기</string>
+< < 		<string>Plugin</string>
 < > 		<string>プラグイン</string>
 < > 		<string>テキストセル</string>
 < < 		<string>Status</string>
@@ -332,7 +323,7 @@
 < > 		<string>デフォルト設定に戻す</string>
 < < 		<string>Save as Default</string>
 < > 		<string>デフォルトとして保存</string>
-> > 		<string>플러그인</string>
+< < 		<string>Factory Reset</string>
 < > 		<string>出荷時の設定にリセット</string>
 < < 		<string>Filler Text</string>
 < > 		<string>フィラーテキスト</string>
@@ -342,17 +333,17 @@
 < > 		<string>言語</string>
 < < 		<string>Title Exceptions</string>
 < > 		<string>タイトル例外</string>
-> > 		<string>기본값 재설정</string>
+< < 		<string>Check for updates:</string>
 < > 		<string>アップデートの有無をチェック:</string>
-> > 		<string>업데이트 확인:</string>
+< < 		<string>Daily</string>
 < > 		<string>毎日</string>
-> > 		<string>매일</string>
+< < 		<string>Weekly</string>
 < > 		<string>毎週</string>
-> > 		<string>매주</string>
+< < 		<string>Monthly</string>
 < > 		<string>毎月</string>
-> > 		<string>매월</string>
+< < 		<string>Never</string>
 < > 		<string>チェックしない</string>
-> > 		<string>하지 않음</string>
+< < 		<string>Software Update</string>
 < > 		<string>ソフトウェアアップデート</string>
 < < 		<string>Reset Default User Defaults</string>
 < > 		<string>ユーザーのデフォルト設定をリセット</string>
@@ -360,20 +351,17 @@
 < > 		<string>オブジェクトスタイルをリセット</string>
 < < 		<string>Reset Default Text Styles</string>
 < > 		<string>テキストスタイルをリセット</string>
-> > 		<string>소프트웨어 업데이트</string>
-> < 		<string>Miscellaneous</string>
-> > 		<string>기타</string>
+< < 		<string>Reset Brushes</string>
 < > 		<string>ブラシをリセット</string>
-> > 		<string>브러시 재설정</string>
+< < 		<string>Reset Fills</string>
 < > 		<string>塗りつぶしをリセット</string>
-> > 		<string>칠 재설정</string>
+< < 		<string>Reset Fonts</string>
 < > 		<string>フォントのリセット</string>
-> > 		<string>서체 재설정</string>
+< < 		<string>Miscellaneous</string>
 < > 		<string>その他</string>
-> > 		<string>기타</string>
+< < 		<string>Close</string>
 < > 		<string>閉じる</string>
 < < 		<string>Table View Cell</string>
 < > 		<string>表ビューセル</string>
 < > 		<string>表ビューセル</string>
 < > 		<string>表ビューセル</string>
-> > 		<string>닫기</string>
