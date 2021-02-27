@@ -1,8 +1,22 @@
-> < 		<string>Text Cell</string>
+< < 		<string>Add Fill</string>
+< > 		<string>塗りつぶしを追加</string>
+< < 		<string>Add Stroke</string>
+< > 		<string>境界線を追加</string>
+< > 		<string>テキストセル</string>
+< < 		<string>{206, 17}</string>
+< > 		<string>{226, 17}</string>
+< < 		<string>Table View Cell</string>
+< > 		<string>表ビューセル</string>
+< < 		<string>{{11, 1}, {206, 17}}</string>
+< > 		<string>{{1, 1}, {226, 17}}</string>
 > > 		<string>텍스트 셀</string>
-> < 		<string>Duplicate</string>
+< > 		<string>複製</string>
 > > 		<string>복제</string>
-> < 		<string>Delete</string>
+< > 		<string>削除</string>
+< < 		<string>Add a new fill to this object, above the active fill.</string>
+< > 		<string>このオブジェクトのアクティブな塗りつぶしの上に新しい塗りつぶしを追加します。</string>
+< < 		<string>Add a new stroke to this object, above the active stroke.</string>
+< > 		<string>このオブジェクトのアクティブな境界線の上に新しい境界線を追加します。</string>
 > > 		<string>지우기</string>
-> < 		<string>Remove Layer</string>
+< > 		<string>レイヤーを削除</string>
 > > 		<string>레이어 지우기</string>
