@@ -1,41 +1,12 @@
-< < 		<string>Imported Table Formats</string>
-< > 		<string>インポートされた表フォーマット</string>
-< < 		<string>Incoming format:</string>
-< > 		<string>受信フォーマット:</string>
-< < 		<string>Document format:</string>
-< > 		<string>ドキュメントフォーマット:</string>
-< > 		<string>キャンセル</string>
-< < 		<string>{620, 204}</string>
-< > 		<string>{620, 199}</string>
+> < 		<string>Cancel</string>
 > > 		<string>취소</string>
 > < 		<string>Enabled</string>
 > > 		<string>유효한</string>
-< > 		<string>テキストセル</string>
-< < 		<string>Incoming Name</string>
-< > 		<string>受信名</string>
-< > 		<string>テキストセル</string>
-< > 		<string>テキストセル</string>
+> < 		<string>Text Cell</string>
 > > 		<string>텍스트 셀</string>
 > < 		<string>Name</string>
 > > 		<string>이름</string>
 > < 		<string>Rename</string>
 > > 		<string>이름 변경</string>
-< > 		<string>次の名前に変更</string>
-< > 		<string>テキストセル</string>
-< > 		<string>競合</string>
-< > 		<string>テキストセル</string>
-< < 		<string>{{0, -23}, {620, 227}}</string>
-< > 		<string>{{0, -28}, {620, 227}}</string>
-< < 		<string>{620, 23}</string>
-< > 		<string>{620, 28}</string>
-< < 		<string>{{11, 1}, {25, 18}}</string>
-< > 		<string>{{1, 1}, {28, 18}}</string>
-< < 		<string>{{240, 1}, {178, 18}}</string>
-< > 		<string>{{249, 1}, {186, 18}}</string>
-< < 		<string>{{218, 1}, {20, 18}}</string>
-< > 		<string>{{219, 1}, {28, 18}}</string>
-< < 		<string>{{38, 1}, {178, 17}}</string>
-< > 		<string>{{31, 1}, {186, 17}}</string>
-< < 		<string>{{420, 1}, {181, 17}}</string>
-< > 		<string>{{437, 1}, {182, 17}}</string>
+> < 		<string>Rename To</string>
 > > 		<string>이름 변경...</string>
