@@ -6,7 +6,12 @@ JAPPATH=${APPPATH}/ja.lproj
 KORPATH=${APPPATH}/ko.lproj
 MIDPATH=~/Affin.ko-translated/Affinity\ Designer\ \ Frameworks
 # array 생성
-nib=("AnchorsPage" "AstroStackFilesPage" "AstroStackResultsPage" "DataMergeManagerWindowController" "HyperlinkPage" "IndexPage" "LayerPage" "PackageDocumentWindowController" "ParagraphPage" "Preferences" "ResourceManagerWindowController" "SectionsWindowController" "SnapshotsPage" "TextFramePage" "TocPage" "UserStatusView" "WorkspacePresetWindowController")
+nib=("AnchorsPage" "AstroStackFilesPage" "AstroStackResultsPage"
+"DataMergeManagerWindowController" "HyperlinkPage" "IndexPage"
+"LayerPage" "PackageDocumentWindowController" "ParagraphPage"
+"Preferences" "ResourceManagerWindowController"
+"SectionsWindowController" "SnapshotsPage" "TextFramePage" "TocPage"
+"UserStatusView" "WorkspacePresetWindowController")
 # 변환
 for (( i = 0; i < ${#nib[@]}; i++ )); do
   echo -n "Converting ${nib[i]}"
