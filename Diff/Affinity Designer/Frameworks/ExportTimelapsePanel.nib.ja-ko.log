@@ -1,5 +1,7 @@
 < < 		<string>Cross fade steps</string>
 < > 		<string>クロスフェードステップ</string>
+< < 		<string>I understand</string>
+< > 		<string>同意する</string>
 < < 		<string>fade / transition frames per second.</string>
 < > 		<string>1秒当たりのフェード/移行フレーム数</string>
 < < 		<string>Include undo / redo steps</string>
@@ -23,4 +25,6 @@
 < > 		<string>キャンセル</string>
 < < 		<string>Codec</string>
 < > 		<string>コーデック</string>
+< < 		<string>Video compression and export is provided by macOS. Please ensure you have reviewed the relevant sections of the macOS EULA before using this feature.</string>
+< > 		<string>ビデオの圧縮とエクスポートは、macOSにより提供されます。この機能を使用する前に、macOSの使用許諾契約の関連するセクションを確認してください。</string>
 > > 		<string>취소</string>
