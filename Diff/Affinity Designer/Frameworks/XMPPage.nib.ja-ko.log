@@ -1,22 +1,142 @@
+< < 		<string>Public domain</string>
+< > 		<string>パブリックドメイン</string>
+< > 		<string>キー</string>
+< > 		<string>値</string>
+< < 		<string>Flash Fired</string>
+< > 		<string>フラッシュ点灯</string>
+< < 		<string>Metering</string>
+< > 		<string>測光</string>
+< < 		<string>Exp. Prog</string>
+< > 		<string>露出プログラム</string>
+< < 		<string>Exp. Bias</string>
+< > 		<string>露出バイアス</string>
+< < 		<string>Focal Length</string>
+< > 		<string>焦点距離</string>
+< < 		<string>Aperture</string>
+< > 		<string>絞り</string>
 > < 		<string>Text Cell</string>
 > > 		<string>텍스트 셀</string>
-> < 		<string>Exposure</string>
+< > 		<string>露出</string>
 > > 		<string>노출</string>
-> < 		<string>Size</string>
+< > 		<string>サイズ</string>
+< < 		<string>Date Shot</string>
+< > 		<string>日付ショット</string>
 > > 		<string>크기</string>
-> < 		<string>Lens</string>
+< > 		<string>レンズ</string>
 > > 		<string>렌즈</string>
-> < 		<string>Maker</string>
+< > 		<string>製造元</string>
 > > 		<string>제조사</string>
-> < 		<string>Camera</string>
+< > 		<string>カメラ</string>
+< < 		<string>Rating</string>
+< > 		<string>評価</string>
+< < 		<string>Keywords</string>
+< > 		<string>キーワード</string>
+< < 		<string>Desc. Writer</string>
+< > 		<string>説明の著者</string>
+< < 		<string>Description</string>
+< > 		<string>説明</string>
+< < 		<string>Author Title</string>
+< > 		<string>作成者情報</string>
 > > 		<string>카메라</string>
-> < 		<string>Author</string>
+< > 		<string>作成者</string>
 > > 		<string>저자</string>
-> < 		<string>Title</string>
+< > 		<string>タイトル</string>
+< < 		<string>Website</string>
+< > 		<string>Webサイト</string>
+< < 		<string>Email</string>
+< > 		<string>電子メール</string>
+< < 		<string>Phone</string>
+< > 		<string>電話</string>
+< < 		<string>Country</string>
+< > 		<string>国</string>
+< < 		<string>Postcode/ZIP</string>
+< > 		<string>郵便番号</string>
+< < 		<string>Region</string>
+< > 		<string>都道府県</string>
+< < 		<string>City</string>
+< > 		<string>市区町村</string>
+< < 		<string>Address</string>
+< > 		<string>住所</string>
+< < 		<string>Scenes</string>
+< > 		<string>シーン</string>
+< < 		<string>Subject Codes</string>
+< > 		<string>主題コード</string>
+< < 		<string>Genre</string>
+< > 		<string>ジャンル</string>
+< < 		<string>Instructions</string>
+< > 		<string>説明</string>
+< < 		<string>Job ID</string>
+< > 		<string>ジョブID</string>
+< < 		<string>Credit</string>
+< > 		<string>クレジット</string>
+< < 		<string>Source</string>
+< > 		<string>ソース</string>
+< < 		<string>ISO Country Code</string>
+< > 		<string>ISO国コード</string>
+< > 		<string>国</string>
+< > 		<string>都道府県</string>
+< > 		<string>市区町村</string>
 > > 		<string>타이틀</string>
-> < 		<string>Location</string>
+< > 		<string>場所</string>
+< < 		<string>Headline</string>
+< > 		<string>見出し</string>
+< < 		<string>Attribution Name</string>
+< > 		<string>属性名</string>
+< < 		<string>Attribution URL</string>
+< > 		<string>属性URL</string>
+< < 		<string>More Perms URL</string>
+< > 		<string>他の許可のURL</string>
+< < 		<string>Statement</string>
+< > 		<string>著作権情報</string>
 > > 		<string>위치</string>
-> < 		<string>Copyright</string>
+< > 		<string>著作権</string>
 > > 		<string>저작권</string>
-> < 		<string>File</string>
+< > 		<string>ファイル</string>
+< < 		<string>IPTC (Image)</string>
+< > 		<string>IPTC(画像)</string>
+< < 		<string>IPTC (Contact)</string>
+< > 		<string>IPTC(連絡先)</string>
+< < 		<string>Rights</string>
+< > 		<string>権利</string>
+< < 		<string>Detail</string>
+< > 		<string>詳細</string>
+< < 		<string>Raw data</string>
+< > 		<string>RAWデータ</string>
+< > 		<string>ファイル</string>
+< < 		<string>IPTC (Image)</string>
+< > 		<string>IPTC(画像)</string>
+< < 		<string>IPTC (Contact)</string>
+< > 		<string>IPTC(連絡先)</string>
+< > 		<string>権利</string>
+< > 		<string>Detail</string>
+< < 		<string>Raw</string>
+< > 		<string>RAW</string>
+< < 		<string>A URL where additional permissions (commercial licensing, etc) are available</string>
+< > 		<string>この作品の属性で使用するURL</string>
+< < 		<string>Creative Commons licence</string>
+< > 		<string>この作品の属性で使用する、作成者が優先する名前</string>
+< < 		<string>Multiple authors may be separated by semicolons</string>
+< > 		<string>クリエイティブコモンズライセンス</string>
+< < 		<string>Multiple keywords may be separated by semicolons or commas</string>
+< > 		<string>画像の提供者(所有者/作成者に限らない)</string>
+< < 		<string>Multiple scenes may be separated by semicolons or commas</string>
+< > 		<string>著作権に関する規約および/または所有者</string>
+< < 		<string>Multiple subject codes may be separated by semicolons or commas</string>
+< > 		<string>著作権の元所有者(代理店、代理店のメンバー、または個人である可能性があります)</string>
+< < 		<string>Multiple values may be separated by a comma</string>
+< > 		<string>複数のキーワードはセミコロンまたはカンマで区切ることができます</string>
+< < 		<string>Multiple values may be separated by a comma</string>
+< > 		<string>複数のシーンはセミコロンまたはカンマで区切ることができます</string>
+< < 		<string>Multiple values may be separated by a comma</string>
+< > 		<string>複数の主題コードはセミコロンまたはカンマで区切ることができます</string>
+< < 		<string>The URL to use when attributing this work</string>
+< > 		<string>複数の作成者はセミコロンで区切ることができます</string>
+< < 		<string>The copyright terms and/or holder</string>
+< > 		<string>複数の値はカンマで区切ることができます</string>
+< < 		<string>The creator's preferred name to use when attributing this work</string>
+< > 		<string>複数の値はカンマで区切ることができます</string>
+< < 		<string>The original owner of the copyright; this could be an agency, a member of an agency or an individual</string>
+< > 		<string>複数の値はカンマで区切ることができます</string>
+< < 		<string>The provider of the image, who is not necessarily the owner/creator</string>
+< > 		<string>追加の権限(商用ライセンスなど)が利用可能なURL</string>
 > > 		<string>파일</string>
