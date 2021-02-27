@@ -1,5 +1,5 @@
 #!/bin/sh
-APPVERS="1.9.0"
+APPVERS="1.9.1"
 APPPATH=/Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources
 ENGPATH=${APPPATH}/en.lproj
 JAPPATH=${APPPATH}/ja.lproj

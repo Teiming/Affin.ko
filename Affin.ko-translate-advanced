@@ -8,7 +8,7 @@ echo "1: Affinity Designer"
 echo "2: Affinity Photo"
 echo "3: Affinity Publisher"
 read Application
-APPVERS=1.9.0
+APPVERS=1.9.1
 case ${Application} in
   1 )
   APPNAME=Affinity\ Designer
