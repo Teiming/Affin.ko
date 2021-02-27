@@ -1,0 +1,63 @@
+< 		<string>Cancel</string>
+> 		<string>キャンセル</string>
+< 		<string>Text Cell</string>
+> 		<string>テキストセル</string>
+< 		<string>Name</string>
+> 		<string>名前</string>
+> 		<string>テキストセル</string>
+< 		<string>Value</string>
+> 		<string>値</string>
+> 		<string>テキストセル</string>
+< 		<string>Done</string>
+> 		<string>完了</string>
+< 		<string>User variables:</string>
+> 		<string>ユーザー変数:</string>
+< 		<string>Enter text or drag-drop variable tokens from the available list to form the output path. Note, the file extension will be added automatically.</string>
+> 		<string>テキストを入力するか、使用可能な変数トークンのリストからトークンをドラッグ&amp;ドロップして、出力パスを指定します。ファイル拡張子は自動的に追加されることに注意してください。</string>
+< 		<string>Variable</string>
+> 		<string>変数</string>
+> 		<string>テキストセル</string>
+< 		<string>Description</string>
+> 		<string>説明</string>
+> 		<string>テキストセル</string>
+< 		<string>Drag tokens and enter text to form a path template</string>
+> 		<string>トークンをドラッグし、テキストを入力してパステンプレートを指定します</string>
+< 		<string>Path components:</string>
+> 		<string>パスの構成要素:</string>
+< 		<string>Not set</string>
+> 		<string>設定しない</string>
+< 		<string>User scale:</string>
+> 		<string>ユーザースケール:</string>
+> 		<string>設定しない</string>
+< 		<string>Exported DPI:</string>
+> 		<string>書き出されるDPI:</string>
+< 		<string>{{43, 1}, {122, 17}}</string>
+> 		<string>名前</string>
+> 		<string>{{28, 1}, {122, 17}}</string>
+< 		<string>{156, 17}</string>
+> 		<string>{181, 17}</string>
+< 		<string>{{168, 1}, {156, 17}}</string>
+> 		<string>値</string>
+> 		<string>{{153, 1}, {181, 17}}</string>
+< 		<string>{127, 17}</string>
+> 		<string>{122, 17}</string>
+< 		<string>Table View Cell</string>
+> 		<string>表ビューセル</string>
+< 		<string>{{11, 1}, {127, 17}}</string>
+> 		<string>{{1, 1}, {122, 17}}</string>
+< 		<string>{183, 17}</string>
+> 		<string>{208, 17}</string>
+< 		<string>{{141, 1}, {183, 17}}</string>
+> 		<string>表ビューセル</string>
+> 		<string>{{126, 1}, {208, 17}}</string>
+< 		<string>{29, 17}</string>
+> 		<string>{24, 17}</string>
+< 		<string>{{11, 1}, {29, 17}}</string>
+> 		<string>表ビューセル</string>
+> 		<string>{{1, 1}, {24, 17}}</string>
+< 		<string>The DPI value is used in the exported file, and overrides the DPI of the document.</string>
+> 		<string>DPI値は書き出されるファイルで使用され、ドキュメントのDPIに優先します。</string>
+< 		<string>The path is invalid</string>
+> 		<string>パスは無効です</string>
+< 		<string>The user scale is used instead of the exported image scale when forming paths or writing description files. It does not affect the size of the exported image.</string>
+> 		<string>パスを指定するときや記述ファイルを作成するときは、書き出される画像のスケールではなくユーザースケールが使用されます。このスケールは、書き出される画像のサイズに影響しません。</string>
