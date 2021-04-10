@@ -24,6 +24,7 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
   * [Affinity Designer Beta](https://affin.co/des17beta)
   * [Affinity Photo Beta](https://affin.co/photo17beta)
   * [Affinity Publisher Beta]() -->
+
 ## Step 1. 복제하기
 ``Step-1.command``를 실행하여 Affin.ko을 당신의 Mac으로 복제합니다.
 > git을 처음 이용하시는 경우, 설치부터 해야합니다. [Xcode](https://itunes.apple.com/app/xcode/id497799835)를 권장합니다. Xcode의 대안으로 [git-scm.com](https://git-scm.com)을 이용하셔도 됩니다.
@@ -38,6 +39,7 @@ git clone https://github.com/Teiming/Affin.ko.git
 sudo ~/Affin.ko/Step-2.command
 ```
 이 과정은 최초 1회로 충분하지만, Affinity 앱이 업데이트되면 다시 실시해야합니다.
+
 ## Step 3. 번역 폴더 생성
 한국어 번역 파일을 저장할 ``ko.lproj`` 폴더를 만듭니다. ``Step-2.command``는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
 > 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affin.ko은 정상 작동합니다.
@@ -48,34 +50,34 @@ sudo chown ${USERNAME} /Applications/Affinity\ Designer.app/Contents/Resources/k
 sudo chown ${USERNAME} /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
 ```
 이 과정이 끝나면, Affinity 설정에서 한국어를 선택할 수 있습니다.
+
 ## Step 4. 번역하기
 ``Step-4.command``를 실행합니다. 원본 영어 파일을 한국어 파일로 번역합니다. 번역된 내용이 늘어나면 보다 긴 시간이 소요됩니다.
+
 ### Check Update
 git 저장소에서 최신 번역 자료를 가져옵니다. 이미 최신이라면 다음 메시지를 출력합니다.
 ```sh
 Already up to date.
 ```
+
 ### Select Application
 어떤 프로그램을 번역할지 선택합니다. 숫자만 입력합니다.
 * 1: Affinity Designer
 * 2: Affinity Photo
 * 3: Affinity Publisher
+
 ### Select Main Menu or Frameworks
 Main Menu 및 Frameworks 중 어느 것을 번역할지 선택합니다. 마찬가지로 숫자만 입력합니다.
 * 1: Main Menu
 * 2: Frameworks
+
 ## Step 5. 수정하기
 Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요. 수정하는 과정은 Step 2~4.와 같습니다.
+
 ## Feedback
-[카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6) 또는 [디스코드 채팅 채널](https://discord.gg/Y2DGXE3)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. Affin.ko를 이용하면서 궁금한 점을 질문해도 좋습니다.
+[카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. Affin.ko를 이용하면서 궁금한 점을 질문해도 좋습니다.
 
 ![카카오톡 오픈채팅방](/Kakaotalk.jpeg)
 
-## Bugs
-지금까지 발견된 오류는 다음과 같습니다.
-* 설정 화면에서 아이콘이 깨지는 현상
-  * 해당 번역 파일을 제거하면 해결됩니다.
-```sh
-sudo rm /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
-sudo rm /Applications/Affinity\ Photo.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj/Preferences.nib
-```
+## 완성된 목록
+[번역이 끝난 목록입니다.](./Complete.md)
