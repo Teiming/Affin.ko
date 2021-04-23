@@ -32,6 +32,10 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
 ```sh
 cd ~/
 git clone https://github.com/Teiming/Affin.ko.git
+
+chmod +x ~/Affin.ko/Step-1.command
+chmod +x ~/Affin.ko/Step-2.command
+chmod +x ~/Affin.ko/Step-4.command
 ```
 ## Step 2. 변환하기
 ``Step-2.command``를 실행합니다. Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 수 있는 xml로 변환합니다. 다음과 같이 관리자 권한으로 실행할 수 있습니다.
