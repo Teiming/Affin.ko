@@ -40,7 +40,7 @@ open ~/Affin.ko
 
 chmod +x ~/Affin.ko/Step-1.command
 chmod +x ~/Affin.ko/Step-2.command
-chmod +x ~/Affin.ko/Step-2.1.command
+chmod +x ~/Affin.ko/Step-3.command
 chmod +x ~/Affin.ko/Step-4.command
 ```
 
