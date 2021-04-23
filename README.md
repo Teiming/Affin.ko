@@ -36,6 +36,7 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
 ```sh
 cd ~/
 git clone https://github.com/Teiming/Affin.ko.git
+open ~/Affin.ko
 
 chmod +x ~/Affin.ko/Step-1.command
 chmod +x ~/Affin.ko/Step-2.command
