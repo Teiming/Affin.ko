@@ -21,7 +21,8 @@ case ${Application} in
   DICPATH=~/Affin.ko/DictionaryPublisher
   ;;
   * )
-  echo "Unknown Application."
+  echo "<h1>Unknown Application.</h1>" > index.html
+  open index.html
   ;;
 esac
 echo "Select Main Menu or Frameworks"
