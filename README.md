@@ -1,10 +1,14 @@
  only
+
 # Affin.ko
+
 Affinity 시리즈 한글화 프로젝트
+
 >일본식 한자 표기는 지양하고 있습니다.
 >마땅히 대체할 단어가 없다면 최대한 원문 그대로 표기하고 있습니다.
 
 ## Step 0. 설치하기
+
 > 이미 Affinity 시리즈를 이용한다면 이 단계를 건너 뛰어도 좋습니다.
 
 Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다면 번역할 수 없습니다. 아래에서 Affinity 시리즈를 구매하실 수 있습니다.
@@ -37,14 +41,19 @@ chmod +x ~/Affin.ko/Step-1.command
 chmod +x ~/Affin.ko/Step-2.command
 chmod +x ~/Affin.ko/Step-4.command
 ```
+
 ## Step 2. 변환하기
+
 ``Step-2.command``를 실행합니다. Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 수 있는 xml로 변환합니다. 다음과 같이 관리자 권한으로 실행할 수 있습니다.
+
 ```sh
 sudo ~/Affin.ko/Step-2.command
 ```
+
 이 과정은 최초 1회로 충분하지만, Affinity 앱이 업데이트되면 다시 실시해야합니다.
 
 ## Step 3. 번역 폴더 생성
+
 한국어 번역 파일을 저장할 ``ko.lproj`` 폴더를 만듭니다. ``Step-2.command``는 이 기능을 포함하고 있습니다. 별도로 수행할 작업은 없습니다.
 > 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affin.ko은 정상 작동합니다.
 
@@ -56,6 +65,7 @@ sudo chown ${USERNAME} /Applications/Affinity\ Designer.app/Contents/Frameworks/
 이 과정이 끝나면, Affinity 설정에서 한국어를 선택할 수 있습니다.
 
 ## Step 4. 번역하기
+
 ``Step-4.command``를 실행합니다. 원본 영어 파일을 한국어 파일로 번역합니다. 번역된 내용이 늘어나면 보다 긴 시간이 소요됩니다.
 
 ```sh
