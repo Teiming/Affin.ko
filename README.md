@@ -58,10 +58,12 @@ sudo ~/Affin.ko/Step-2.command
 > 이미 ko.lproj 폴더가 있다면 오류를 출력합니다. 하지만 Affin.ko은 정상 작동합니다.
 
 만약 ``Permission denied`` 오류가 나타난다면, 아래 명령어를 통해 해결합니다.
+
 ```sh
 sudo chown ${USERNAME} /Applications/Affinity\ Designer.app/Contents/Resources/ko.lproj
 sudo chown ${USERNAME} /Applications/Affinity\ Designer.app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
 ```
+
 이 과정이 끝나면, Affinity 설정에서 한국어를 선택할 수 있습니다.
 
 ## Step 4. 번역하기
@@ -80,17 +82,21 @@ Already up to date.
 ```
 
 ### Select Application
+
 어떤 프로그램을 번역할지 선택합니다. 숫자만 입력합니다.
+
 * 1: Affinity Designer
 * 2: Affinity Photo
 * 3: Affinity Publisher
 
 ### Select Main Menu or Frameworks
+
 Main Menu 및 Frameworks 중 어느 것을 번역할지 선택합니다. 마찬가지로 숫자만 입력합니다.
 * 1: Main Menu
 * 2: Frameworks
 
 ## Step 5. 수정하기
+
 Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요. 수정하는 과정은 Step 2~4.와 같습니다.
 
 ## 오류 수정
