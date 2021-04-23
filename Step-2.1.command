@@ -20,14 +20,28 @@ case ${app} in
 esac
 
 echo ${APPNAME}"를 변환합니다."
-sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Resources/en.lproj/*
-sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Resources/ja.lproj/*
 sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/*
 sudo plutil -convert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ja.lproj/*
-echo "ko.lproj 폴더를 생성합니다."
-sudo mkdir /Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
-sudo mkdir /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
-echo "ko.lproj 폴더의 권한을 부여합니다."
-sudo chown ${USERNAME} /Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
-sudo chown ${USERNAME} /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
-exit
+
+
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AnchorsPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AstroStackFilesPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/AstroStackResultsPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/DataMergeManagerWindowController.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/GuidesWindowController.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/HyperlinkPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/IndexPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/LayerPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PackageDocumentWindowController.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/PageSetupWindowController.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ParagraphPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/Preferences.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/ResourceManagerWindowController.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SectionsWindowController.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/SnapshotsPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TableFormatEditor.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextFramePage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TextStyleEditor.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/TocPage.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/UserStatusView.nib/keyedobjects.nib
+sudo plutil -cenvert xml1 /Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en.lproj/WorkspacePresetWindowController.nib/keyedobjects.nib
