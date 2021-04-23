@@ -34,14 +34,17 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
 > git을 처음 이용하시는 경우, 설치부터 해야합니다. [Xcode](https://itunes.apple.com/app/xcode/id497799835)를 권장합니다. Xcode의 대안으로 [git-scm.com](https://git-scm.com)을 이용하셔도 됩니다.
 
 ```sh
-cd ~/
+mkdir ~/github
+cd ~/github
 git clone https://github.com/Teiming/Affin.ko.git
+ln -sf ~/github/Affin.ko ~/Affin.ko
 open ~/Affin.ko
 
-chmod +x ~/Affin.ko/Step-1.command
-chmod +x ~/Affin.ko/Step-2.command
-chmod +x ~/Affin.ko/Step-3.command
-chmod +x ~/Affin.ko/Step-4.command
+cd ~/Affin.ko
+chmod +x ./Step-1.command
+chmod +x ./Step-2.command
+chmod +x ./Step-3.command
+chmod +x ./Step-4.command
 ```
 
 ## Step 2. 변환하기
