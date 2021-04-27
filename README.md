@@ -35,6 +35,7 @@ Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다�
 
 ```sh
 mkdir ~/github
+
 cd ~/github
 git clone https://github.com/Teiming/Affin.ko.git
 ln -sf ~/github/Affin.ko ~/Affin.ko
