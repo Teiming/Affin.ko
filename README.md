@@ -2,58 +2,43 @@
 
 # Affin.ko
 
-Affinity 시리즈 한글화 프로젝트
+Affinity 시리즈 한글화 프로젝트 시즌 2
 
 >일본식 한자 표기는 지양하고 있습니다.
 >마땅히 대체할 단어가 없다면 최대한 원문 그대로 표기하고 있습니다.
 
-## Step 0. 설치하기
+## Step 0. 준비
+### Step 0-a. 프로그램 설치
 
 > 이미 Affinity 시리즈를 이용한다면 이 단계를 건너 뛰어도 좋습니다.
 
 Affin.ko은 Affinity 시리즈를 번역합니다. Affinity 시리즈가 없다면 번역할 수 없습니다. 아래에서 Affinity 시리즈를 구매하실 수 있습니다.
-* 공식 홈페이지에서...
-  * [Affinity Designer for desktop - Professional graphic design software](https://affinity.serif.com/designer/desktop)
-  * [Affinity Photo for desktop - Professional image editing software](https://affinity.serif.com/photo/desktop)
-  * [Affinity Publisher - Professional desktop publishing software](https://affinity.serif.com/publisher)
-* App Store에서...
-  * [Affinity Designer on the Mac App Store](https://itunes.apple.com/app/affinity-designer/id824171161)
-  * [Affinity Photo on the Mac App Store](https://itunes.apple.com/app/affinity-photo/id824183456)
-  * [Affinity Publisher on the Mac App Store](https://itunes.apple.com/app/affinity-publisher/id881418622)
+  * [Affinity Designer](https://affinity.serif.com/designer)
+  * [Affinity Photo](https://affinity.serif.com/photo)
+  * [Affinity Publisher](https://affinity.serif.com/publisher)
 
   설치한 후에는 제대로 설치된 것인지 확인을 위해 한 번 실행해주시기 바랍니다.
 
-<!-- 베타 프로그램의 번역도 가능합니다. 베타 프로그램은 베타 사용자 포럼에서 구할 수 있습니다.
-* 베타 프로그램
-  * [Affinity Designer Beta](https://affin.co/des17beta)
-  * [Affinity Photo Beta](https://affin.co/photo17beta)
-  * [Affinity Publisher Beta]() -->
-
-## Step 1. 복제하기
-``Step-1.command``를 실행하여 Affin.ko을 당신의 Mac으로 복제합니다.
+### Step 0-b. Affin.ko 설치
 > git을 처음 이용하시는 경우, 설치부터 해야합니다. [Xcode](https://itunes.apple.com/app/xcode/id497799835)를 권장합니다. Xcode의 대안으로 [git-scm.com](https://git-scm.com)을 이용하셔도 됩니다.
 
+Affin.ko을 당신의 Mac으로 복제합니다. ``Terminal``을 실행하고 다음 명령어를 입력합니다.
+
 ```sh
-mkdir ~/github
-
-cd ~/github
 git clone https://github.com/Teiming/Affin.ko.git
-ln -sf ~/github/Affin.ko ~/Affin.ko
-open ~/Affin.ko
-
-cd ~/Affin.ko
-chmod +x ./Step-1.command
-chmod +x ./Step-2.command
-chmod +x ./Step-3.command
-chmod +x ./Step-4.command
+cd ./Affin.ko
+chmod +x ./Step_1.command
+chmod +x ./Step_2.command
+chmod +x ./Step_3.command
+chmod +x ./Step_4.command
 ```
 
-## Step 2. 변환하기
+## Step 1. 권한 지정
 
-``Step-2.command``를 실행합니다. Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 수 있는 xml로 변환합니다. 다음과 같이 관리자 권한으로 실행할 수 있습니다.
+``Step_1.command``를 실행합니다. Affinity 시리즈의 기본 언어 파일은 binary입니다. 실제로 읽을 수 있는 xml로 변환합니다. 다음과 같이 관리자 권한으로 실행할 수 있습니다.
 
 ```sh
-sudo ~/Affin.ko/Step-2.command
+sudo ~/Affin.ko/Step_1.command
 ```
 
 이 과정은 최초 1회로 충분하지만, Affinity 앱이 업데이트되면 다시 실시해야합니다.
