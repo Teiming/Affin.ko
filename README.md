@@ -2,7 +2,7 @@
 
 # Affin.ko
 
-Affinity 시리즈 한글화 프로젝트 시즌 2
+Affinity 시리즈 한글화 프로젝트 `시즌 2`
 
 > 일본식 한자 표기는 지양하고 있습니다.
 > 마땅히 대체할 단어가 없다면 최대한 원문 그대로 표기하고 있습니다.
@@ -30,14 +30,15 @@ Affin.ko을 당신의 Mac으로 복제합니다. `Terminal`을 실행하고 다�
 ```sh
 cd ~/
 git clone https://github.com/Teiming/Affin.ko.git
+
 cd ~/Affin.ko
 chmod +x ./Step_1.command
 chmod +x ./Step_2.command
-chmod +x ./Step_3.command
-chmod +x ./Step_4.command
+# chmod +x ./Step_3.command
+# chmod +x ./Step_4.command
 ```
 
-## Step 1. 권한 지정 및 한국어 폴더 생성
+## Step 1. 한국어 폴더 생성
 
 `Step_1.command`를 실행합니다.
 
@@ -64,25 +65,18 @@ Already up to date.
 - 2: Affinity Photo
 - 3: Affinity Publisher
 
-### Select Main Menu or Frameworks
+## Step 3. 수정하기
 
-Main Menu 및 Frameworks 중 어느 것을 번역할지 선택합니다. 마찬가지로 숫자만 입력합니다.
+Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요. 수정하는 과정은 Step 1~2.와 같습니다.
 
-- 1: Main Menu
-- 2: Frameworks
+<!-- ## 오류 수정
 
-## Step 5. 수정하기
-
-Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요. 수정하는 과정은 Step 2~4.와 같습니다.
-
-## 오류 수정
-
-오류로 인해 실행이 안된다면 [이 파일들](/delete.md)을 제거해주세요.
+오류로 인해 실행이 안된다면 [이 파일들](/delete.md)을 제거해주세요. -->
 
 ## Feedback
 
 [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. Affin.ko를 이용하면서 궁금한 점을 질문해도 좋습니다.
 
-## 완성된 목록
+<!-- ## 완성된 목록
 
-[번역이 끝난 목록입니다.](./Complete.md)
+[번역이 끝난 목록입니다.](./Complete.md) -->
