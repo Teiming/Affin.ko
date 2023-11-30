@@ -22,6 +22,8 @@ case ${Application} in
   ;;
 esac
 
+APPVERS=2.2.1
+
 ENGPATH=~/Applications/"${APPNAME}".app/Contents/Resources/en-US.lproj/
 JAPPATH=~/Applications/"${APPNAME}".app/Contents/Resources/ja.lproj/
 KORPATH=~/Applications/"${APPNAME}".app/Contents/Resources/ko.lproj/
@@ -40,6 +42,7 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" >./"${APPNAME}"/"${NAME}".en2ko.log
   diff ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ko.log >~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".ja2ko.log
   echo " (로그 종료)"
+  cd ~/Affin.ko/
   git add .
   git commit -m "${APPNAME} ${NAME} Updated"
 done
@@ -51,6 +54,7 @@ for ((i = 1; i <= ${FILECOUNTF}; i++)); do
   diff "${ENGFPATH}${NAME}" "${KORFPATH}${NAME}" >~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ko.log
   diff ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ko.log >~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".ja2ko.log
   echo " (로그 종료)"
+  cd ~/Affin.ko/
   git add .
-  git commit -m "${APPNAME} ${NAME} Updated"
+  git commit -m "${APPVERS} ${APPNAME} ${NAME} Updated"
 done
