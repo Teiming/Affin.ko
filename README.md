@@ -34,18 +34,26 @@ git clone https://github.com/Teiming/Affin.ko.git
 cd ~/Affin.ko
 chmod +x ./Step_1.command
 chmod +x ./Step_2.command
-
 ```
 
 ## Step 1. 한국어 폴더 생성
 
-`Step_1.command`를 실행합니다.
+`Step_1.command`를 실행합니다. 또는 아래 명령어를 입력합니다.
+
+```sh
+~/Affin.ko/Step_1.command
+```
 
 이 과정이 끝나면, Affinity 설정에서 한국어를 선택할 수 있습니다.
 
 ## Step 2. 번역하기
 
-`Step_2.command`를 실행합니다.
+`Step_2.command`를 실행합니다. 또는 아래 명령어를 입력합니다.
+
+```sh
+~/Affin.ko/Step_2.command
+```
+
 원본 영어 파일을 한국어 파일로 번역합니다. 번역 항목이 늘어나면 소요시간도 늘어납니다.
 
 ### Check Update
