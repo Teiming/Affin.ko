@@ -37,9 +37,11 @@ FILECOUNTF=$(ls -a "${JAPFPATH}" | grep "i" | sed -n "=" | tail -n "1")
 
 for ((i = 1; i <= ${FILECOUNT}; i++)); do
   NAME=$(/bin/ls "${JAPPATH}" | /usr/bin/sed -n "${i}p")
+  echo ${i}
   cd ~/Affin.ko/forDev/compare/
-  diff "${ENGPATH}${NAME}" "${JAPPATH}${NAME}" >./"${APPNAME}"/"${NAME}".en2ja.log
-  diff "${ENGPATH}${NAME}" "${KORPATH}${NAME}" >./"${APPNAME}"/"${NAME}".en2ko.log
+  iconv -f utf16le -t utf8 "${JAPPATH}${NAME}" >"${KORPATH}${NAME}.ja.temp"
+  diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}" >./"${APPNAME}"/"${NAME}".en2ko.log
+  diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}.ja.temp" >./"${APPNAME}"/"${NAME}".en2ja.log
   diff ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ko.log >~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".ja2ko.log
   echo " (로그 종료)"
   cd ~/Affin.ko/
@@ -49,9 +51,11 @@ done
 
 for ((i = 1; i <= ${FILECOUNTF}; i++)); do
   NAME=$(/bin/ls "${JAPFPATH}" | /usr/bin/sed -n "${i}p")
+  echo ${NAME}
   cd ~/Affin.ko/forDev/compare/
-  diff "${ENGFPATH}${NAME}" "${JAPFPATH}${NAME}" >~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ja.log
-  diff "${ENGFPATH}${NAME}" "${KORFPATH}${NAME}" >~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ko.log
+  iconv -f utf16le -t utf8 "${JAPFPATH}${NAME}" >"${KORFPATH}${NAME}.ja.temp"
+  diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}" >./"${APPNAME}"/Frameworks/"${NAME}".en2ko.log
+  diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}.ja.temp" >./"${APPNAME}"/Frameworks/"${NAME}".en2ja.log
   diff ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ko.log >~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".ja2ko.log
   echo " (로그 종료)"
   cd ~/Affin.ko/
