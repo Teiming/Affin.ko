@@ -34,8 +34,6 @@ git clone https://github.com/Teiming/Affin.ko.git
 cd ~/Affin.ko
 chmod +x ./Step_1.command
 chmod +x ./Step_2.command
-# chmod +x ./Step_3.command
-# chmod +x ./Step_4.command
 ```
 
 ## Step 1. 한국어 폴더 생성
