@@ -35,7 +35,7 @@
 125,126c125,126
 128,129c128,129
 131,132c131,132
-134c134
+135c135
 149,150c149,150
 155,156c155,156
 164,165c164,165
@@ -80,6 +80,7 @@
 < "Wg1-gQ-fDs.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Frame";
 < "XMn-gd-J7k.title" = "Button";
 < "XdE-MN-gdb.title" = "Left:";
+< "Y9u-dk-HiK.title" = "Color:";
 < "bch-Ke-MYn.ibShadowedToolTip" = "Outside";
 < "dtV-cj-mQ8.title" = "Top:";
 < "ihl-jP-T67.title" = "Button";
@@ -102,7 +103,6 @@
 < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "42g-pt-pNO"; */
 < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "44a-WI-KV7"; */
 < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "C44-Rg-k84"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "Y9u-dk-HiK"; */
 < /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "MOH-aq-Gcg"; */
 < /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "tNg-0b-Kv6"; */
 < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "G4m-Jm-1mL"; */
@@ -139,6 +139,7 @@
 > "Wg1-gQ-fDs.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "액자";
 > "XMn-gd-J7k.title" = "버튼";
 > "XdE-MN-gdb.title" = "왼쪽:";
+> "Y9u-dk-HiK.title" = "색상:";
 > "bch-Ke-MYn.ibShadowedToolTip" = "바깥";
 > "dtV-cj-mQ8.title" = "위쪽:";
 > "ihl-jP-T67.title" = "버튼";
@@ -165,7 +166,6 @@
 > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "DUG-CX-G3b"; */
 > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "G4m-Jm-1mL"; */
 > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "XdE-MN-gdb"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "Y9u-dk-HiK"; */
 > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "dtV-cj-mQ8"; */
 > /* Class = "NSTextFieldCell"; title = "너비:"; ObjectID = "vI4-dQ-EMw"; */
 > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "44a-WI-KV7"; */
