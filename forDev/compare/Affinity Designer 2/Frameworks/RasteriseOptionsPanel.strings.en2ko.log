@@ -1,12 +1,12 @@
-5,6c5,6
-< /* Class = "NSButtonCell"; title = "Preserve layer FX"; ObjectID = "150"; */
-< "150.title" = "Preserve layer FX";
 ---
-> /* Class = "NSButtonCell"; title = "레이어 효과 유지"; ObjectID = "150"; */
-> "150.title" = "레이어 효과 유지";
+---
 11,12c11,12
-< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "206"; */
+5,6c5,6
+< "150.title" = "Preserve layer FX";
 < "206.title" = "Cancel";
----
-> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "206"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "206"; */
+< /* Class = "NSButtonCell"; title = "Preserve layer FX"; ObjectID = "150"; */
+> "150.title" = "레이어 효과 유지";
 > "206.title" = "취소";
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "206"; */
+> /* Class = "NSButtonCell"; title = "레이어 효과 유지"; ObjectID = "150"; */
