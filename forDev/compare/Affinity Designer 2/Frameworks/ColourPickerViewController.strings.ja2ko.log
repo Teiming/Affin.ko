@@ -1,9 +1,4 @@
-10,28c10,18
-< ---
-< ---
-< ---
-< ---
-< ---
+2,15c2,10
 < 12c12
 < 15c15
 < 18c18
@@ -28,15 +23,15 @@
 > 44,45c44,45
 > 5,6c5,6
 > 8,9c8,9
-31,32d20
+18,19d12
 < < "17.title" = "CMYK Sliders";
 < < "18.title" = "LAB Sliders";
-36d23
+23d15
 < < "73.title" = "Grayness";
-40,41d26
+27,28d18
 < < "p9e-y1-NPN.title" = "Intensity";
 < < "shx-h5-acz.title" = "HSL Color Wheel";
-43,56c28,54
+30,43c20,46
 < > "15.title" = "RGBスライダー";
 < > "16.title" = "HSLスライダー";
 < > "17.title" = "CMYKスライダー";
