@@ -127,23 +127,6 @@
 < > "zCq-V9-YeP.title" = "カテゴリを同期";
 < > "zma-a5-MeE.title" = "同期ステータスを表示…";
 ---
-> < /* Class = "NSMenuItem"; title = "Add New Category…"; ObjectID = "DyL-eB-Ng3"; */
-> < /* Class = "NSMenuItem"; title = "Add New Category…"; ObjectID = "pRc-PB-L67"; */
-> < /* Class = "NSMenuItem"; title = "Add Style from Selection"; ObjectID = "Yj6-1f-Ed3"; */
-> < /* Class = "NSMenuItem"; title = "Add Style from Selection"; ObjectID = "pmb-qg-Z4w"; */
-> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "56"; */
-> < /* Class = "NSMenuItem"; title = "Export Styles…"; ObjectID = "2OK-59-E7j"; */
-> < /* Class = "NSMenuItem"; title = "Export Styles…"; ObjectID = "Gae-4h-oOc"; */
-> < /* Class = "NSMenuItem"; title = "Import Styles…"; ObjectID = "FOR-vN-3Jf"; */
-> < /* Class = "NSMenuItem"; title = "Import Styles…"; ObjectID = "Lax-NG-k04"; */
-> < /* Class = "NSMenuItem"; title = "Name"; ObjectID = "Qdg-4L-iaQ"; */
-> < /* Class = "NSMenuItem"; title = "Name"; ObjectID = "mB9-jT-Muh"; */
-> < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "kLN-4Y-qmd"; */
-> < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "rZu-IS-m6Q"; */
-> < /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "QtE-ff-Rwa"; */
-> < /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "uqc-3g-Fu8"; */
-> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "57"; */
-> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "58"; */
 > > "2OK-59-E7j.title" = "스타일 내보내기…";
 > > "56.title" = "범주";
 > > "57.title" = "표준";
@@ -161,20 +144,3 @@
 > > "pmb-qg-Z4w.title" = "선택 항목에서 스타일 추가";
 > > "rZu-IS-m6Q.title" = "범주 이름 변경…";
 > > "uqc-3g-Fu8.title" = "목록으로 보기";
-> > /* Class = "NSMenuItem"; title = "신규 범주 추가…"; ObjectID = "DyL-eB-Ng3"; */
-> > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "kLN-4Y-qmd"; */
-> > /* Class = "NSMenuItem"; title = "신규 범주 추가…"; ObjectID = "pRc-PB-L67"; */
-> > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "rZu-IS-m6Q"; */
-> > /* Class = "NSMenuItem"; title = "선택 항목에서 스타일 추가"; ObjectID = "Yj6-1f-Ed3"; */
-> > /* Class = "NSMenuItem"; title = "선택 항목에서 스타일 추가"; ObjectID = "pmb-qg-Z4w"; */
-> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "56"; */
-> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "57"; */
-> > /* Class = "NSMenuItem"; title = "이름"; ObjectID = "Qdg-4L-iaQ"; */
-> > /* Class = "NSMenuItem"; title = "이름"; ObjectID = "mB9-jT-Muh"; */
-> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "58"; */
-> > /* Class = "NSMenuItem"; title = "스타일 내보내기…"; ObjectID = "2OK-59-E7j"; */
-> > /* Class = "NSMenuItem"; title = "스타일 들여오기…"; ObjectID = "FOR-vN-3Jf"; */
-> > /* Class = "NSMenuItem"; title = "스타일 내보내기…"; ObjectID = "Gae-4h-oOc"; */
-> > /* Class = "NSMenuItem"; title = "스타일 들여오기…"; ObjectID = "Lax-NG-k04"; */
-> > /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "QtE-ff-Rwa"; */
-> > /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "uqc-3g-Fu8"; */
