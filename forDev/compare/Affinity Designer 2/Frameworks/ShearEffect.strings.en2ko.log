@@ -25,12 +25,12 @@
 > "1.title" = "비틀기";
 > "210.title" = "취소";
 > "26.title" = "적용";
-> "55O-Mq-vw3.ibShadowedToolTip" = "분할 뷰 모드";
-> "Rjy-q7-U1O.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> "S48-zC-68c.ibShadowedToolTip" = "거울 뷰 모드";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "Rjy-q7-U1O"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "55O-Mq-vw3"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "S48-zC-68c"; */
+> "55O-Mq-vw3.ibShadowedToolTip" = "분할 보기";
+> "Rjy-q7-U1O.ibShadowedToolTip" = "분할 보기 해제";
+> "S48-zC-68c.ibShadowedToolTip" = "거울 보기";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "Rjy-q7-U1O"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "55O-Mq-vw3"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "S48-zC-68c"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "210"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > /* Class = "NSWindow"; title = "비틀기"; ObjectID = "1"; */
