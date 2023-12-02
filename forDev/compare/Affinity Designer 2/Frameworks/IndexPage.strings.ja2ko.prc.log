@@ -42,9 +42,5 @@
 < > "rLq-Pb-vt8.ibShadowedToolTip" = "インデックスマークの表示/非表示";
 < > "uuI-lg-7yU.title" = "表ビューセル";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Delete"; ObjectID = "3fV-jJ-Jgt"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mNo-sw-QPa"; */
 > > "3fV-jJ-Jgt.ibShadowedToolTip" = "지우기";
 > > "mNo-sw-QPa.title" = "텍스트 셀";
-> > /* Class = "NSButton"; ibShadowedToolTip = "지우기"; ObjectID = "3fV-jJ-Jgt"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mNo-sw-QPa"; */
