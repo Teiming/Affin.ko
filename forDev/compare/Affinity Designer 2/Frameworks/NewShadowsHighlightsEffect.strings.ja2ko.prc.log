@@ -60,13 +60,6 @@
 < > "wLK-6x-e1t.title" = "ハイライト範囲";
 < > "zDk-TF-l1k.title" = "ハイライト半径";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "7za-OG-zYv"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "eDV-KN-qDW"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "MOb-4E-ACl"; */
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "419"; */
-> < /* Class = "NSMenuItem"; title = "Default"; ObjectID = "c0f-uO-u5d"; */
-> < /* Class = "NSWindow"; title = "Shadows / Highlights"; ObjectID = "1"; */
 > > "1.title" = "그림자 / 빛";
 > > "26.title" = "적용";
 > > "419.title" = "취소";
@@ -74,10 +67,3 @@
 > > "MOb-4E-ACl.ibShadowedToolTip" = "분할 보기";
 > > "c0f-uO-u5d.title" = "기본값";
 > > "eDV-KN-qDW.ibShadowedToolTip" = "분할 보기 해제";
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "eDV-KN-qDW"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "7za-OG-zYv"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "MOb-4E-ACl"; */
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "419"; */
-> > /* Class = "NSMenuItem"; title = "기본값"; ObjectID = "c0f-uO-u5d"; */
-> > /* Class = "NSWindow"; title = "그림자 / 빛"; ObjectID = "1"; */
