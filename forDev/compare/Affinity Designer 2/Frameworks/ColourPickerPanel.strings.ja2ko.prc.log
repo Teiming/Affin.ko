@@ -40,13 +40,6 @@
 < > "rwX-e2-yFU.title" = "32ビット:";
 < > "uA3-ry-hvL.title" = "ビューへの相対";
 ---
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "351"; */
-> < /* Class = "NSMenuItem"; title = "HSL Sliders"; ObjectID = "44"; */
-> < /* Class = "NSMenuItem"; title = "Hue"; ObjectID = "45"; */
-> < /* Class = "NSMenuItem"; title = "Lightness"; ObjectID = "46"; */
-> < /* Class = "NSMenuItem"; title = "RGB Sliders"; ObjectID = "42"; */
-> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "47"; */
-> < /* Class = "NSTextFieldCell"; title = "Intensity:"; ObjectID = "6IY-3g-LNZ"; */
 > > "351.title" = "닫기";
 > > "42.title" = "RGB 슬라이더";
 > > "44.title" = "HSL 슬라이더";
@@ -54,10 +47,3 @@
 > > "46.title" = "밝기";
 > > "47.title" = "채도";
 > > "6IY-3g-LNZ.title" = "세기:";
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "351"; */
-> > /* Class = "NSMenuItem"; title = "HSL 슬라이더"; ObjectID = "44"; */
-> > /* Class = "NSMenuItem"; title = "RGB 슬라이더"; ObjectID = "42"; */
-> > /* Class = "NSMenuItem"; title = "색채"; ObjectID = "45"; */
-> > /* Class = "NSMenuItem"; title = "밝기"; ObjectID = "46"; */
-> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "47"; */
-> > /* Class = "NSTextFieldCell"; title = "세기:"; ObjectID = "6IY-3g-LNZ"; */
