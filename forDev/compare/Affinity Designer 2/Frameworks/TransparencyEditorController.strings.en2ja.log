@@ -1,60 +1,60 @@
-3c3
-< "1.title" = "Transparency Editor";
 ---
-> "1.title" = "透明度エディタ";
-6c6
-< "7.title" = "Highlight";
 ---
-> "7.title" = "ハイライト";
-9c9
-< "12.title" = "Reverse";
 ---
-> "12.title" = "反転";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "13.title" = "Delete";
----
-> "13.title" = "削除";
 15c15
-< "14.title" = "Copy";
----
-> "14.title" = "コピー";
 18c18
-< "15.title" = "Insert";
----
-> "15.title" = "挿入";
 21c21
-< "31.title" = "Position:";
----
-> "31.title" = "位置:";
 24c24
-< "32.title" = "Mid Point:";
----
-> "32.title" = "中間点:";
 27c27
-< "33.title" = "Opacity:";
----
-> "33.title" = "不透明度:";
 30c30
-< "34.title" = "Type:";
----
-> "34.title" = "タイプ:";
 36c36
-< "37.title" = "Conical";
----
-> "37.title" = "円錐形";
 39c39
-< "38.title" = "Elliptical";
----
-> "38.title" = "楕円形";
+3c3
 42c42
-< "39.title" = "Radial";
----
-> "39.title" = "放射状";
 45c45
-< "40.title" = "Linear";
----
-> "40.title" = "線形";
 48c48
+6c6
+9c9
+< "1.title" = "Transparency Editor";
+< "12.title" = "Reverse";
+< "13.title" = "Delete";
+< "14.title" = "Copy";
+< "15.title" = "Insert";
+< "31.title" = "Position:";
+< "32.title" = "Mid Point:";
+< "33.title" = "Opacity:";
+< "34.title" = "Type:";
+< "37.title" = "Conical";
+< "38.title" = "Elliptical";
+< "39.title" = "Radial";
+< "40.title" = "Linear";
 < "41.title" = "Close";
----
+< "7.title" = "Highlight";
+> "1.title" = "透明度エディタ";
+> "12.title" = "反転";
+> "13.title" = "削除";
+> "14.title" = "コピー";
+> "15.title" = "挿入";
+> "31.title" = "位置:";
+> "32.title" = "中間点:";
+> "33.title" = "不透明度:";
+> "34.title" = "タイプ:";
+> "37.title" = "円錐形";
+> "38.title" = "楕円形";
+> "39.title" = "放射状";
+> "40.title" = "線形";
 > "41.title" = "閉じる";
+> "7.title" = "ハイライト";
