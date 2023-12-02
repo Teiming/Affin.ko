@@ -28,7 +28,7 @@
 26,27c26,27
 47,48c47,48
 5,6c5,6
-50c50
+51c51
 53,54c53,54
 56,57c56,57
 71,72c71,72
@@ -46,6 +46,7 @@
 < "73u-lT-udc.title" = "Blue";
 < "DNr-qx-4Ed.title" = "Green";
 < "IMQ-FH-n0C.title" = "Details";
+< "IQF-8H-Ezg.title" = "Colors";
 < "Olc-Kg-HVM.title" = "Brightness";
 < "R2e-xA-CeU.title" = "Curves";
 < "Z3v-D7-xVW.title" = "Vibrance";
@@ -66,7 +67,6 @@
 < /* Class = "NSMenuItem"; title = "Red"; ObjectID = "646-Pn-2Hn"; */
 < /* Class = "NSTextFieldCell"; title = "Amount"; ObjectID = "uYT-Im-XCd"; */
 < /* Class = "NSTextFieldCell"; title = "Brightness"; ObjectID = "Olc-Kg-HVM"; */
-< /* Class = "NSTextFieldCell"; title = "Colours"; ObjectID = "IQF-8H-Ezg"; */
 < /* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "148"; */
 < /* Class = "NSTextFieldCell"; title = "Details"; ObjectID = "IMQ-FH-n0C"; */
 < /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "519"; */
@@ -85,6 +85,7 @@
 > "73u-lT-udc.title" = "파랑";
 > "DNr-qx-4Ed.title" = "초록";
 > "IMQ-FH-n0C.title" = "세부사항";
+> "IQF-8H-Ezg.title" = "색상";
 > "Olc-Kg-HVM.title" = "명암";
 > "R2e-xA-CeU.title" = "곡선";
 > "Z3v-D7-xVW.title" = "활기";
@@ -106,7 +107,6 @@
 > /* Class = "NSTextFieldCell"; title = "양"; ObjectID = "uYT-Im-XCd"; */
 > /* Class = "NSTextFieldCell"; title = "대비"; ObjectID = "148"; */
 > /* Class = "NSTextFieldCell"; title = "노출"; ObjectID = "519"; */
-> /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "IQF-8H-Ezg"; */
 > /* Class = "NSTextFieldCell"; title = "명암"; ObjectID = "Olc-Kg-HVM"; */
 > /* Class = "NSTextFieldCell"; title = "활기"; ObjectID = "Z3v-D7-xVW"; */
 > /* Class = "NSTextFieldCell"; title = "채도"; ObjectID = "adM-kp-T68"; */
