@@ -1,11 +1,4 @@
-9,31c9,16
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,17c2,9
 < 12c12
 < 15c15
 < 18c18
@@ -31,14 +24,14 @@
 > 38,39c38,39
 > 5,6c5,6
 > 8,9c8,9
-34,35d18
+20,21d11
 < < "Loc-Ae-w3a.title" = "Invert output";
 < < "MQH-a4-RNs.title" = "Low Band";
-37d19
+23d12
 < < "Qyy-hp-iUk.title" = "Band-pass Blur Radius";
-39d20
+25d13
 < < "WxW-2F-sTP.title" = "High Band";
-44,60c25,48
+30,46c18,41
 < < "mjH-yT-uPr.title" = "Preview";
 < < "uhE-DR-JW9.title" = "Intensity Map";
 < > "1.title" = "ライブバンドパスマスク";
