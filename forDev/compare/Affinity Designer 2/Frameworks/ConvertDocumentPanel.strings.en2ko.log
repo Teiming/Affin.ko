@@ -1,40 +1,40 @@
-2,3c2,3
-< /* Class = "NSWindow"; title = "Convert"; ObjectID = "1"; */
-< "1.title" = "Convert";
 ---
-> /* Class = "NSWindow"; title = "전환"; ObjectID = "1"; */
-> "1.title" = "전환";
-5,6c5,6
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "37"; */
-< "37.title" = "Text Cell";
 ---
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "37"; */
-> "37.title" = "텍스트 셀";
-8,9c8,9
-< /* Class = "NSButtonCell"; title = "Convert"; ObjectID = "101"; */
-< "101.title" = "Convert";
 ---
-> /* Class = "NSButtonCell"; title = "전환"; ObjectID = "101"; */
-> "101.title" = "전환";
+---
+---
+---
+---
 17,18c17,18
-< /* Class = "NSTextFieldCell"; title = "Profile"; ObjectID = "6vY-fq-uzX"; */
-< "6vY-fq-uzX.title" = "Profile";
----
-> /* Class = "NSTextFieldCell"; title = "프로파일"; ObjectID = "6vY-fq-uzX"; */
-> "6vY-fq-uzX.title" = "프로파일";
+2,3c2,3
 38,39c38,39
-< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SxL-SC-ll3"; */
-< "SxL-SC-ll3.title" = "Cancel";
----
-> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "SxL-SC-ll3"; */
-> "SxL-SC-ll3.title" = "취소";
+5,6c5,6
 50c50
-< /* Class = "NSTextFieldCell"; title = "Colour Format"; ObjectID = "nzH-EM-tPy"; */
----
-> /* Class = "NSTextFieldCell"; title = "색상 포맷"; ObjectID = "nzH-EM-tPy"; */
 59,60c59,60
-< /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "yaY-IE-bxO"; */
+8,9c8,9
+< "1.title" = "Convert";
+< "101.title" = "Convert";
+< "37.title" = "Text Cell";
+< "6vY-fq-uzX.title" = "Profile";
+< "SxL-SC-ll3.title" = "Cancel";
 < "yaY-IE-bxO.title" = "Saturation";
----
-> /* Class = "NSMenuItem"; title = "채도"; ObjectID = "yaY-IE-bxO"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SxL-SC-ll3"; */
+< /* Class = "NSButtonCell"; title = "Convert"; ObjectID = "101"; */
+< /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "yaY-IE-bxO"; */
+< /* Class = "NSTextFieldCell"; title = "Colour Format"; ObjectID = "nzH-EM-tPy"; */
+< /* Class = "NSTextFieldCell"; title = "Profile"; ObjectID = "6vY-fq-uzX"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "37"; */
+< /* Class = "NSWindow"; title = "Convert"; ObjectID = "1"; */
+> "1.title" = "전환";
+> "101.title" = "전환";
+> "37.title" = "텍스트 셀";
+> "6vY-fq-uzX.title" = "프로파일";
+> "SxL-SC-ll3.title" = "취소";
 > "yaY-IE-bxO.title" = "채도";
+> /* Class = "NSButtonCell"; title = "전환"; ObjectID = "101"; */
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "SxL-SC-ll3"; */
+> /* Class = "NSMenuItem"; title = "채도"; ObjectID = "yaY-IE-bxO"; */
+> /* Class = "NSTextFieldCell"; title = "색상 포맷"; ObjectID = "nzH-EM-tPy"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "37"; */
+> /* Class = "NSTextFieldCell"; title = "프로파일"; ObjectID = "6vY-fq-uzX"; */
+> /* Class = "NSWindow"; title = "전환"; ObjectID = "1"; */
