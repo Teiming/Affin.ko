@@ -1,54 +1,44 @@
-1,5c1,2
-< 3c3
-< < "1.title" = "Lens Distortion";
+7,15c7,12
 < ---
-< > "1.title" = "レンズゆがみ";
-< 6c6
----
-> 5,6c5,6
-> < /* Class = "NSTextFieldCell"; title = "Distortion"; ObjectID = "12"; */
-8,9c5,8
-< > "12.title" = "ゆがみ";
-< 9c9
----
-> > /* Class = "NSTextFieldCell"; title = "왜곡"; ObjectID = "12"; */
-> > "12.title" = "왜곡";
-> 8,9c8,9
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-12,13c11,14
-< > "26.title" = "適用";
 < 12c12
----
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> > "26.title" = "적용";
-> 11,12c11,12
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "199"; */
-16,17c17,20
-< > "199.title" = "キャンセル";
 < 15c15
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "199"; */
-> > "199.title" = "취소";
-> 14,15c14,15
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "6AI-0M-njb"; */
-20,21c23,26
-< > "6AI-0M-njb.ibShadowedToolTip" = "ミラー表示";
 < 18c18
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "6AI-0M-njb"; */
-> > "6AI-0M-njb.ibShadowedToolTip" = "거울 뷰 모드";
-> 17,18c17,18
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "NKQ-St-R3O"; */
-24,25c29,32
-< > "NKQ-St-R3O.ibShadowedToolTip" = "分割表示なし";
 < 21c21
+< 3c3
+< 6c6
+< 9c9
+< < "1.title" = "Lens Distortion";
 ---
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "NKQ-St-R3O"; */
-> > "NKQ-St-R3O.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> 11,12c11,12
+> 14,15c14,15
+> 17,18c17,18
 > 20,21c20,21
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "pES-4s-fgn"; */
-28c35,36
+> 5,6c5,6
+> 8,9c8,9
+22,28c19,36
+< > "1.title" = "レンズゆがみ";
+< > "12.title" = "ゆがみ";
+< > "199.title" = "キャンセル";
+< > "26.title" = "適用";
+< > "6AI-0M-njb.ibShadowedToolTip" = "ミラー表示";
+< > "NKQ-St-R3O.ibShadowedToolTip" = "分割表示なし";
 < > "pES-4s-fgn.ibShadowedToolTip" = "分割表示";
 ---
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "pES-4s-fgn"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "6AI-0M-njb"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "NKQ-St-R3O"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "pES-4s-fgn"; */
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "199"; */
+> < /* Class = "NSTextFieldCell"; title = "Distortion"; ObjectID = "12"; */
+> > "12.title" = "왜곡";
+> > "199.title" = "취소";
+> > "26.title" = "적용";
+> > "6AI-0M-njb.ibShadowedToolTip" = "거울 뷰 모드";
+> > "NKQ-St-R3O.ibShadowedToolTip" = "분할 뷰 모드 해제";
 > > "pES-4s-fgn.ibShadowedToolTip" = "분할 뷰 모드";
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "NKQ-St-R3O"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "6AI-0M-njb"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "pES-4s-fgn"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "199"; */
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > /* Class = "NSTextFieldCell"; title = "왜곡"; ObjectID = "12"; */
