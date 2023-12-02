@@ -1,70 +1,63 @@
-1,13c1,2
-< 3c3
-< < "1.title" = "Denoise";
+6,27c6,10
 < ---
-< > "1.title" = "ノイズ除去";
-< 6c6
-< < "12.title" = "Luminance Denoise";
 < ---
-< > "12.title" = "輝度ノイズ除去";
-< 9c9
-< < "GxW-qB-J0y.title" = "Extreme";
 < ---
-< > "GxW-qB-J0y.title" = "最大";
+< ---
+< ---
+< ---
+< ---
 < 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 3c3
+< 6c6
+< 9c9
+< < "1.title" = "Denoise";
+< < "12.title" = "Luminance Denoise";
+< < "GxW-qB-J0y.title" = "Extreme";
 ---
 > 11,12c11,12
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "JGm-9x-sQD"; */
-16,17c5,8
-< > "JGm-9x-sQD.title" = "キャンセル";
-< 15c15
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "JGm-9x-sQD"; */
-> > "JGm-9x-sQD.title" = "취소";
 > 14,15c14,15
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "Nzp-ab-elg"; */
-20,21c11,14
-< > "Nzp-ab-elg.ibShadowedToolTip" = "分割表示";
-< 18c18
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Nzp-ab-elg"; */
-> > "Nzp-ab-elg.ibShadowedToolTip" = "분할 뷰 모드";
 > 17,18c17,18
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "Oly-Im-3wo"; */
-24,33c17,20
-< > "Oly-Im-3wo.ibShadowedToolTip" = "ミラー表示";
-< 21c21
-< < "aUH-OT-Vru.title" = "Color Denoise";
-< ---
-< > "aUH-OT-Vru.title" = "色ノイズ除去";
-< 24c24
-< < "cYC-uI-THq.title" = "Extreme";
-< ---
-< > "cYC-uI-THq.title" = "最大";
-< 27c27
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "Oly-Im-3wo"; */
-> > "Oly-Im-3wo.ibShadowedToolTip" = "거울 뷰 모드";
 > 26,27c26,27
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "i7n-BM-gXj"; */
-36,37c23,26
-< > "i7n-BM-gXj.title" = "適用";
-< 30c30
----
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "i7n-BM-gXj"; */
-> > "i7n-BM-gXj.title" = "적용";
 > 29,30c29,30
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "kqf-Zl-6d1"; */
-40,48c29,30
-< > "kqf-Zl-6d1.ibShadowedToolTip" = "分割表示なし";
-< 33c33
+31,32d13
+< < "aUH-OT-Vru.title" = "Color Denoise";
+< < "cYC-uI-THq.title" = "Extreme";
+35,48c16,30
 < < "mLq-P1-cxE.title" = "Contribution";
-< ---
-< > "mLq-P1-cxE.title" = "レベル";
-< 36c36
 < < "syL-Kw-aDD.title" = "Detail";
-< ---
+< > "1.title" = "ノイズ除去";
+< > "12.title" = "輝度ノイズ除去";
+< > "GxW-qB-J0y.title" = "最大";
+< > "JGm-9x-sQD.title" = "キャンセル";
+< > "Nzp-ab-elg.ibShadowedToolTip" = "分割表示";
+< > "Oly-Im-3wo.ibShadowedToolTip" = "ミラー表示";
+< > "aUH-OT-Vru.title" = "色ノイズ除去";
+< > "cYC-uI-THq.title" = "最大";
+< > "i7n-BM-gXj.title" = "適用";
+< > "kqf-Zl-6d1.ibShadowedToolTip" = "分割表示なし";
+< > "mLq-P1-cxE.title" = "レベル";
 < > "syL-Kw-aDD.title" = "ディテール";
 ---
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "kqf-Zl-6d1"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "Oly-Im-3wo"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "kqf-Zl-6d1"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "Nzp-ab-elg"; */
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "i7n-BM-gXj"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "JGm-9x-sQD"; */
+> > "JGm-9x-sQD.title" = "취소";
+> > "Nzp-ab-elg.ibShadowedToolTip" = "분할 뷰 모드";
+> > "Oly-Im-3wo.ibShadowedToolTip" = "거울 뷰 모드";
+> > "i7n-BM-gXj.title" = "적용";
 > > "kqf-Zl-6d1.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "kqf-Zl-6d1"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Nzp-ab-elg"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "Oly-Im-3wo"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "JGm-9x-sQD"; */
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "i7n-BM-gXj"; */
