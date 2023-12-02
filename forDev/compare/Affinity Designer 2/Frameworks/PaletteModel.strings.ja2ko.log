@@ -1,0 +1,16 @@
+2,3c2,3
+< 3c3
+< 6c6
+---
+> 2,3c2,3
+> 5,6c5,6
+6,7c6,11
+< > "FY7-Ua-gE5.title" = "カテゴリ";
+< > "PJ8-mb-q0M.title" = "最近使用したもの:";
+---
+> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "FY7-Ua-gE5"; */
+> < /* Class = "NSTextFieldCell"; title = "Recent:"; ObjectID = "PJ8-mb-q0M"; */
+> > "FY7-Ua-gE5.title" = "범주";
+> > "PJ8-mb-q0M.title" = "최근 사용 항목:";
+> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "FY7-Ua-gE5"; */
+> > /* Class = "NSTextFieldCell"; title = "최근 사용 항목:"; ObjectID = "PJ8-mb-q0M"; */
