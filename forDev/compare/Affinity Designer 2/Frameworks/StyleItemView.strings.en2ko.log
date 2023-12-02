@@ -1,12 +1,12 @@
+---
+---
 2,3c2,3
-< /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "106"; */
-< "106.title" = "Style";
----
-> /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "106"; */
-> "106.title" = "스타일";
 8,9c8,9
-< /* Class = "NSMenuItem"; title = "Delete Style"; ObjectID = "146"; */
+< "106.title" = "Style";
 < "146.title" = "Delete Style";
----
-> /* Class = "NSMenuItem"; title = "스타일 지우기"; ObjectID = "146"; */
+< /* Class = "NSMenuItem"; title = "Delete Style"; ObjectID = "146"; */
+< /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "106"; */
+> "106.title" = "스타일";
 > "146.title" = "스타일 지우기";
+> /* Class = "NSMenuItem"; title = "스타일 지우기"; ObjectID = "146"; */
+> /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "106"; */
