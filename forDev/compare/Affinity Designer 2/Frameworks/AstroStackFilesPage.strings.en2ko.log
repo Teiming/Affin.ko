@@ -1,18 +1,18 @@
+---
+---
+---
 11,12c11,12
-< /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "482-rS-xj5"; */
-< "482-rS-xj5.title" = "Type:";
----
-> /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "482-rS-xj5"; */
-> "482-rS-xj5.title" = "종류:";
 29,30c29,30
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ipc-ah-zqy"; */
-< "Ipc-ah-zqy.title" = "Text Cell";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Ipc-ah-zqy"; */
-> "Ipc-ah-zqy.title" = "텍스트 셀";
 56,57c56,57
-< /* Class = "NSTextFieldCell"; title = "Filter:"; ObjectID = "sgY-B6-ufz"; */
+< "482-rS-xj5.title" = "Type:";
+< "Ipc-ah-zqy.title" = "Text Cell";
 < "sgY-B6-ufz.title" = "Filter:";
----
-> /* Class = "NSTextFieldCell"; title = "필터:"; ObjectID = "sgY-B6-ufz"; */
+< /* Class = "NSTextFieldCell"; title = "Filter:"; ObjectID = "sgY-B6-ufz"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ipc-ah-zqy"; */
+< /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "482-rS-xj5"; */
+> "482-rS-xj5.title" = "종류:";
+> "Ipc-ah-zqy.title" = "텍스트 셀";
 > "sgY-B6-ufz.title" = "필터:";
+> /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "482-rS-xj5"; */
+> /* Class = "NSTextFieldCell"; title = "필터:"; ObjectID = "sgY-B6-ufz"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Ipc-ah-zqy"; */
