@@ -24,15 +24,7 @@
 < > "gpQ-oN-NEJ.title" = "テキストセル";
 < > "lpo-3e-OG6.title" = "次のファイルは上書きされるか、または書き出しできません。\n\nチェックを外すと、項目は書き出し対象から除外されます。";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "08d-Ns-xUu"; */
-> < /* Class = "NSButtonCell"; title = "Export"; ObjectID = "67K-LN-16B"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gpQ-oN-NEJ"; */
-> < /* Class = "NSWindow"; title = "Export"; ObjectID = "CHo-O7-99J"; */
 > > "08d-Ns-xUu.title" = "취소";
 > > "67K-LN-16B.title" = "내보내기";
 > > "CHo-O7-99J.title" = "내보내기";
 > > "gpQ-oN-NEJ.title" = "텍스트 셀";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "08d-Ns-xUu"; */
-> > /* Class = "NSButtonCell"; title = "내보내기"; ObjectID = "67K-LN-16B"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "gpQ-oN-NEJ"; */
-> > /* Class = "NSWindow"; title = "내보내기"; ObjectID = "CHo-O7-99J"; */
