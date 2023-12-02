@@ -1,16 +1,16 @@
+---
+---
+---
+---
 27c27
-< "22.title" = "Close";
----
-> "22.title" = "閉じる";
 30c30
-< "27.title" = "Number of Columns:";
----
-> "27.title" = "列数:";
 33c33
-< "29.title" = "Drag your favorite items into the tools panel:";
----
-> "29.title" = "お気に入り項目をツールパネルにドラッグします:";
 36c36
+< "22.title" = "Close";
+< "27.title" = "Number of Columns:";
+< "29.title" = "Drag your favorite items into the tools panel:";
 < "31.title" = "Reset";
----
+> "22.title" = "閉じる";
+> "27.title" = "列数:";
+> "29.title" = "お気に入り項目をツールパネルにドラッグします:";
 > "31.title" = "リセット";
