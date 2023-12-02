@@ -1,0 +1,10 @@
+2c2
+< 3c3
+---
+> 2,3c2,3
+4c4,6
+< > "kbT-Mj-JbL.title" = "ラベル";
+---
+> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "kbT-Mj-JbL"; */
+> > "kbT-Mj-JbL.title" = "라벨";
+> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "kbT-Mj-JbL"; */
