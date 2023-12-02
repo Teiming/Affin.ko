@@ -1,44 +1,44 @@
-3c3
-< "1Bk-c8-6gQ.title" = "White balance:";
 ---
-> "1Bk-c8-6gQ.title" = "ホワイトバランス:";
-6c6
-< "BU4-Aw-W9o.title" = "Subtract black level";
 ---
-> "BU4-Aw-W9o.title" = "減算ブラックレベル";
-9c9
-< "OKU-sB-PDf.title" = "Inferred";
 ---
-> "OKU-sB-PDf.title" = "推測";
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "UQ4-jh-JCY.title" = "Camera";
----
-> "UQ4-jh-JCY.title" = "カメラ";
 15c15
-< "VA9-2p-Kcr.title" = "FITS Bayer pattern:";
----
-> "VA9-2p-Kcr.title" = "FITS Bayerパターン:";
 18c18
-< "YlV-6h-Hyf.title" = "Default";
----
-> "YlV-6h-Hyf.title" = "デフォルト";
 21c21
-< "ZQY-V2-gws.title" = "Daylight";
----
-> "ZQY-V2-gws.title" = "夏時間";
 27c27
-< "d8W-VO-zZG.title" = "Demosaic Method:";
----
-> "d8W-VO-zZG.title" = "デモザイク方法:";
 33c33
-< "diy-ws-lqd.title" = "Master Flat";
----
-> "diy-ws-lqd.title" = "マスターフラット";
+3c3
 42c42
-< "nhq-0u-ePo.title" = "Monochrome";
----
-> "nhq-0u-ePo.title" = "モノクロ";
 45c45
+6c6
+9c9
+< "1Bk-c8-6gQ.title" = "White balance:";
+< "BU4-Aw-W9o.title" = "Subtract black level";
+< "OKU-sB-PDf.title" = "Inferred";
+< "UQ4-jh-JCY.title" = "Camera";
+< "VA9-2p-Kcr.title" = "FITS Bayer pattern:";
+< "YlV-6h-Hyf.title" = "Default";
+< "ZQY-V2-gws.title" = "Daylight";
+< "d8W-VO-zZG.title" = "Demosaic Method:";
+< "diy-ws-lqd.title" = "Master Flat";
+< "nhq-0u-ePo.title" = "Monochrome";
 < "wXW-ED-eEc.title" = "Bilinear";
----
+> "1Bk-c8-6gQ.title" = "ホワイトバランス:";
+> "BU4-Aw-W9o.title" = "減算ブラックレベル";
+> "OKU-sB-PDf.title" = "推測";
+> "UQ4-jh-JCY.title" = "カメラ";
+> "VA9-2p-Kcr.title" = "FITS Bayerパターン:";
+> "YlV-6h-Hyf.title" = "デフォルト";
+> "ZQY-V2-gws.title" = "夏時間";
+> "d8W-VO-zZG.title" = "デモザイク方法:";
+> "diy-ws-lqd.title" = "マスターフラット";
+> "nhq-0u-ePo.title" = "モノクロ";
 > "wXW-ED-eEc.title" = "バイリニア";
