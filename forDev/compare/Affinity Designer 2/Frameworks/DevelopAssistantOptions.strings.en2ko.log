@@ -1,18 +1,18 @@
-26,27c26,27
-< /* Class = "NSMenuItem"; title = "Europe"; ObjectID = "7Xi-FV-e4d"; */
-< "7Xi-FV-e4d.title" = "Europe";
 ---
-> /* Class = "NSMenuItem"; title = "유럽"; ObjectID = "7Xi-FV-e4d"; */
-> "7Xi-FV-e4d.title" = "유럽";
+---
+---
 104,105c104,105
-< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "ssP-qC-g9f"; */
-< "ssP-qC-g9f.title" = "Close";
----
-> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "ssP-qC-g9f"; */
-> "ssP-qC-g9f.title" = "닫기";
 107,108c107,108
-< /* Class = "NSMenuItem"; title = "None"; ObjectID = "szV-bK-vCM"; */
+26,27c26,27
+< "7Xi-FV-e4d.title" = "Europe";
+< "ssP-qC-g9f.title" = "Close";
 < "szV-bK-vCM.title" = "None";
----
-> /* Class = "NSMenuItem"; title = "없음"; ObjectID = "szV-bK-vCM"; */
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "ssP-qC-g9f"; */
+< /* Class = "NSMenuItem"; title = "Europe"; ObjectID = "7Xi-FV-e4d"; */
+< /* Class = "NSMenuItem"; title = "None"; ObjectID = "szV-bK-vCM"; */
+> "7Xi-FV-e4d.title" = "유럽";
+> "ssP-qC-g9f.title" = "닫기";
 > "szV-bK-vCM.title" = "없음";
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "ssP-qC-g9f"; */
+> /* Class = "NSMenuItem"; title = "유럽"; ObjectID = "7Xi-FV-e4d"; */
+> /* Class = "NSMenuItem"; title = "없음"; ObjectID = "szV-bK-vCM"; */
