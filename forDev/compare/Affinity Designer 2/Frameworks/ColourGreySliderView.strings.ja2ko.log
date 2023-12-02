@@ -1,8 +1,0 @@
-2,4c2,4
-< 3c3
-< < "22.title" = "Gray";
-< > "22.title" = "グレー";
----
-> 2c2
-> < /* Class = "NSTextFieldCell"; title = "Grey"; ObjectID = "22"; */
-> > /* Class = "NSTextFieldCell"; title = "회색"; ObjectID = "22"; */
