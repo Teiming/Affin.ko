@@ -51,21 +51,9 @@
 < > "knY-tt-Md0.title" = "テキストセル";
 < > "lfV-Xl-Qpb.title" = "読み込み";
 ---
-> < /* Class = "NSButtonCell"; title = "Load"; ObjectID = "lfV-Xl-Qpb"; */
-> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "Xm5-oB-JOM"; */
-> < /* Class = "NSButtonCell"; title = "Save"; ObjectID = "REh-7S-Dmd"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PQk-Ee-kSs"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "knY-tt-Md0"; */
-> < /* Class = "NSWindow"; title = "Keyboard Shortcuts"; ObjectID = "F0z-JX-Cv5"; */
 > > "F0z-JX-Cv5.title" = "키보드 단축키";
 > > "PQk-Ee-kSs.title" = "텍스트 셀";
 > > "REh-7S-Dmd.title" = "저장";
 > > "Xm5-oB-JOM.title" = "재설정";
 > > "knY-tt-Md0.title" = "텍스트 셀";
 > > "lfV-Xl-Qpb.title" = "불러오기";
-> > /* Class = "NSButtonCell"; title = "저장"; ObjectID = "REh-7S-Dmd"; */
-> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "Xm5-oB-JOM"; */
-> > /* Class = "NSButtonCell"; title = "불러오기"; ObjectID = "lfV-Xl-Qpb"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "PQk-Ee-kSs"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "knY-tt-Md0"; */
-> > /* Class = "NSWindow"; title = "키보드 단축키"; ObjectID = "F0z-JX-Cv5"; */
