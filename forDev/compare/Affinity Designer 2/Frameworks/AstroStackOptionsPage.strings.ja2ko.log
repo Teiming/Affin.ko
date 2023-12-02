@@ -1,10 +1,4 @@
-5,21c5,8
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,12c2,5
 < 12c12
 < 15c15
 < 18c18
@@ -21,13 +15,13 @@
 > 23,24c23,24
 > 26,27c26,27
 > 5,6c5,6
-23,24d9
+14,15d6
 < < "ScZ-Db-uJ2.title" = "Threshold (standard deviations):";
 < < "VA9-2p-Kcr.title" = "Stacking method:";
-26,27d10
+17,18d7
 < < "g4B-lU-gIx.label" = "Sigma clipping";
 < < "l9g-yL-Kpd.title" = "Sigma clipping";
-30,40c13,24
+21,31c10,21
 < < "v8E-x6-Gc0.title" = "Clipping iterations:";
 < > "BU4-Aw-W9o.title" = "背景のキャリブレーション";
 < > "OKU-sB-PDf.title" = "平均";
