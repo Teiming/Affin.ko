@@ -1,12 +1,12 @@
+---
+---
+---
 3c3
-< "10.title" = "Overlay Item";
----
-> "10.title" = "オーバーレイ項目";
 6c6
-< "bTC-4Y-5Bt.ibShadowedToolTip" = "Visible";
----
-> "bTC-4Y-5Bt.ibShadowedToolTip" = "表示";
 9c9
+< "10.title" = "Overlay Item";
+< "bTC-4Y-5Bt.ibShadowedToolTip" = "Visible";
 < "pRO-t3-3vi.ibShadowedToolTip" = "Apply To Original";
----
+> "10.title" = "オーバーレイ項目";
+> "bTC-4Y-5Bt.ibShadowedToolTip" = "表示";
 > "pRO-t3-3vi.ibShadowedToolTip" = "オリジナルに適用";
