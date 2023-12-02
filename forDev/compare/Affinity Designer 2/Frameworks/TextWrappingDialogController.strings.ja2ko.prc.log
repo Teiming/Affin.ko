@@ -69,17 +69,6 @@
 < > "wVT-5P-FS5.title" = "狭い";
 < > "zDA-IN-AKn.title" = "左:";
 ---
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "f6C-uE-Ihk"; */
-> < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "Wbd-aw-Bfu"; */
-> < /* Class = "NSTextFieldCell"; title = "Edge"; ObjectID = "tIS-kh-Bra"; */
-> < /* Class = "NSTextFieldCell"; title = "Inside"; ObjectID = "CsR-al-uSl"; */
-> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "zDA-IN-AKn"; */
-> < /* Class = "NSTextFieldCell"; title = "None"; ObjectID = "sfh-Q6-ITK"; */
-> < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "NGi-Or-K5E"; */
-> < /* Class = "NSTextFieldCell"; title = "Square"; ObjectID = "v3b-cC-VbE"; */
-> < /* Class = "NSTextFieldCell"; title = "Tight"; ObjectID = "wVT-5P-FS5"; */
-> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "hT1-XM-vnw"; */
-> < /* Class = "NSWindow"; title = "Text Wrap"; ObjectID = "F0z-JX-Cv5"; */
 > > "CsR-al-uSl.title" = "안으로";
 > > "F0z-JX-Cv5.title" = "줄바꿈";
 > > "NGi-Or-K5E.title" = "오른쪽:";
@@ -91,14 +80,3 @@
 > > "v3b-cC-VbE.title" = "사각형";
 > > "wVT-5P-FS5.title" = "좁은";
 > > "zDA-IN-AKn.title" = "왼쪽:";
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "f6C-uE-Ihk"; */
-> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "sfh-Q6-ITK"; */
-> > /* Class = "NSTextFieldCell"; title = "좁은"; ObjectID = "wVT-5P-FS5"; */
-> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "hT1-XM-vnw"; */
-> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "zDA-IN-AKn"; */
-> > /* Class = "NSTextFieldCell"; title = "안으로"; ObjectID = "CsR-al-uSl"; */
-> > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "Wbd-aw-Bfu"; */
-> > /* Class = "NSTextFieldCell"; title = "모서리"; ObjectID = "tIS-kh-Bra"; */
-> > /* Class = "NSTextFieldCell"; title = "사각형"; ObjectID = "v3b-cC-VbE"; */
-> > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "NGi-Or-K5E"; */
-> > /* Class = "NSWindow"; title = "줄바꿈"; ObjectID = "F0z-JX-Cv5"; */
