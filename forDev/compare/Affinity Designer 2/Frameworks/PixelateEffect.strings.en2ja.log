@@ -1,28 +1,28 @@
-3c3
-< "1.title" = "Pixelate";
 ---
-> "1.title" = "ピクセレート";
-6c6
-< "12.title" = "Quantization";
 ---
-> "12.title" = "量子化";
-9c9
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
+---
+---
+---
+---
 12c12
-< "234.title" = "Cancel";
----
-> "234.title" = "キャンセル";
 15c15
-< "AGW-hM-8UF.ibShadowedToolTip" = "Split view";
----
-> "AGW-hM-8UF.ibShadowedToolTip" = "分割表示";
 18c18
-< "RK7-gg-qLI.ibShadowedToolTip" = "Mirror view";
----
-> "RK7-gg-qLI.ibShadowedToolTip" = "ミラー表示";
 21c21
+3c3
+6c6
+9c9
+< "1.title" = "Pixelate";
+< "12.title" = "Quantization";
+< "234.title" = "Cancel";
+< "26.title" = "Apply";
+< "AGW-hM-8UF.ibShadowedToolTip" = "Split view";
+< "RK7-gg-qLI.ibShadowedToolTip" = "Mirror view";
 < "dEK-bO-5bx.ibShadowedToolTip" = "No split view";
----
+> "1.title" = "ピクセレート";
+> "12.title" = "量子化";
+> "234.title" = "キャンセル";
+> "26.title" = "適用";
+> "AGW-hM-8UF.ibShadowedToolTip" = "分割表示";
+> "RK7-gg-qLI.ibShadowedToolTip" = "ミラー表示";
 > "dEK-bO-5bx.ibShadowedToolTip" = "分割表示なし";
