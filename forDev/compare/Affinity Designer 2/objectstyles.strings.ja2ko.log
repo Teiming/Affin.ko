@@ -1,31 +1,24 @@
-9,16d8
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2d1
 < 11c11
-18d9
+4d2
 < 17c17
-20d10
+6d3
 < 23c23
-22d11
+8d4
 < 29c29
-25d13
+11d6
 < 35c35
-27d14
+13d7
 < 41c41
-29d15
+15d8
 < 5c5
-32,36d17
+18,22d10
 < < "Halftone" = "Halftone";
 < < "Lunar" = "Lunar";
 < < "Phoenix" = "Phoenix";
 < < "Scribbler" = "Scribbler";
 < < "Squirm" = "Squirm";
-44,60c25,32
+24,34c12,13
 < < "Unicorn" = "Unicorn";
 < < "Vintage" = "Vintage";
 < > "Default" = "デフォルト";
@@ -35,20 +28,8 @@
 < > "Scribbler" = "いたずら書き";
 < > "Squirm" = "うねり";
 < > "Style" = "スタイル";
-< > "Style" = "スタイル";
-< > "Style" = "スタイル";
-< > "Style" = "スタイル";
-< > "Style" = "スタイル";
-< > "Style" = "スタイル";
-< > "Style" = "スタイル";
 < > "Unicorn" = "ユニコーン";
 < > "Vintage" = "ビンテージ";
 ---
 > > "Default" = "기본값";
-> > "Style" = "스타일";
-> > "Style" = "스타일";
-> > "Style" = "스타일";
-> > "Style" = "스타일";
-> > "Style" = "스타일";
-> > "Style" = "스타일";
 > > "Style" = "스타일";
