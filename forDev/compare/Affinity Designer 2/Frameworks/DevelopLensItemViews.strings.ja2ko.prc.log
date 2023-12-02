@@ -78,18 +78,6 @@
 < > "soV-EI-pGv.title" = "回転";
 < > "ygT-P8-4rM.title" = "強度";
 ---
-> < /* Class = "NSTextFieldCell"; title = "Distortion"; ObjectID = "qsS-xB-big"; */
-> < /* Class = "NSTextFieldCell"; title = "Hardness"; ObjectID = "djo-uP-ATF"; */
-> < /* Class = "NSTextFieldCell"; title = "Horizontal"; ObjectID = "lhg-oq-4R3"; */
-> < /* Class = "NSTextFieldCell"; title = "Hue"; ObjectID = "NKq-JJ-1dl"; */
-> < /* Class = "NSTextFieldCell"; title = "Lens Profile"; ObjectID = "WzT-xo-0Mi"; */
-> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "mi6-f5-tFY"; */
-> < /* Class = "NSTextFieldCell"; title = "Rotation"; ObjectID = "soV-EI-pGv"; */
-> < /* Class = "NSTextFieldCell"; title = "Scale"; ObjectID = "MVJ-Po-Pp9"; */
-> < /* Class = "NSTextFieldCell"; title = "Scale"; ObjectID = "VMz-N0-RMB"; */
-> < /* Class = "NSTextFieldCell"; title = "Threshold"; ObjectID = "5mC-lq-o1J"; */
-> < /* Class = "NSTextFieldCell"; title = "Tolerance"; ObjectID = "UHM-FU-I4n"; */
-> < /* Class = "NSTextFieldCell"; title = "Vertical"; ObjectID = "Gwd-gd-Qn8"; */
 > > "5mC-lq-o1J.title" = "역치";
 > > "Gwd-gd-Qn8.title" = "세로";
 > > "MVJ-Po-Pp9.title" = "배율";
@@ -102,15 +90,3 @@
 > > "mi6-f5-tFY.title" = "반지름";
 > > "qsS-xB-big.title" = "왜곡";
 > > "soV-EI-pGv.title" = "회전";
-> > /* Class = "NSTextFieldCell"; title = "렌즈 프로파일"; ObjectID = "WzT-xo-0Mi"; */
-> > /* Class = "NSTextFieldCell"; title = "역치"; ObjectID = "5mC-lq-o1J"; */
-> > /* Class = "NSTextFieldCell"; title = "세로"; ObjectID = "Gwd-gd-Qn8"; */
-> > /* Class = "NSTextFieldCell"; title = "배율"; ObjectID = "MVJ-Po-Pp9"; */
-> > /* Class = "NSTextFieldCell"; title = "색채"; ObjectID = "NKq-JJ-1dl"; */
-> > /* Class = "NSTextFieldCell"; title = "배율"; ObjectID = "VMz-N0-RMB"; */
-> > /* Class = "NSTextFieldCell"; title = "굳기"; ObjectID = "djo-uP-ATF"; */
-> > /* Class = "NSTextFieldCell"; title = "가로"; ObjectID = "lhg-oq-4R3"; */
-> > /* Class = "NSTextFieldCell"; title = "왜곡"; ObjectID = "qsS-xB-big"; */
-> > /* Class = "NSTextFieldCell"; title = "회전"; ObjectID = "soV-EI-pGv"; */
-> > /* Class = "NSTextFieldCell"; title = "허용량"; ObjectID = "UHM-FU-I4n"; */
-> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "mi6-f5-tFY"; */
