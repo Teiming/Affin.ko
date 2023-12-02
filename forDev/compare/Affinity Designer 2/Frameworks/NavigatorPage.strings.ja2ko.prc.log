@@ -21,12 +21,6 @@
 < > "wsA-r2-6Ct.title" = "アイテム2";
 < > "zTe-hL-L8h.title" = "アイテム1";
 ---
-> < /* Class = "NSMenuItem"; title = "Add"; ObjectID = "CFh-rH-kO4"; */
-> < /* Class = "NSMenuItem"; title = "Remove"; ObjectID = "npF-Gb-5Zh"; */
-> < /* Class = "NSMenuItem"; title = "Rename..."; ObjectID = "Rck-aV-ngg"; */
 > > "CFh-rH-kO4.title" = "추가";
 > > "Rck-aV-ngg.title" = "이름 변경...";
 > > "npF-Gb-5Zh.title" = "지우기";
-> > /* Class = "NSMenuItem"; title = "이름 변경..."; ObjectID = "Rck-aV-ngg"; */
-> > /* Class = "NSMenuItem"; title = "추가"; ObjectID = "CFh-rH-kO4"; */
-> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "npF-Gb-5Zh"; */
