@@ -1,32 +1,32 @@
+---
+---
+---
+---
+---
+---
+---
+---
+12c12
+15c15
+18c18
+24c24
+30c30
+33c33
+36c36
 3c3
 < "1.title" = "New Panorama";
----
-> "1.title" = "新規パノラマ";
-12c12
 < "2eb-6F-0zr.title" = "Add";
----
-> "2eb-6F-0zr.title" = "追加";
-15c15
 < "7fW-Yr-xee.title" = "Remove";
----
-> "7fW-Yr-xee.title" = "削除";
-18c18
 < "9Z2-O0-qId.ibShadowedToolTip" = "Unfinished feature / user interface.";
----
-> "9Z2-O0-qId.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
-24c24
 < "RH4-hz-GVg.title" = "Stitch Panorama";
----
-> "RH4-hz-GVg.title" = "パノラマのスティッチ";
-30c30
 < "c1P-Wk-q5M.title" = "Images";
----
-> "c1P-Wk-q5M.title" = "画像";
-33c33
 < "fEm-aw-jcD.title" = "Cancel";
----
-> "fEm-aw-jcD.title" = "キャンセル";
-36c36
 < "fN5-ca-Mot.title" = "Panoramas";
----
+> "1.title" = "新規パノラマ";
+> "2eb-6F-0zr.title" = "追加";
+> "7fW-Yr-xee.title" = "削除";
+> "9Z2-O0-qId.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
+> "RH4-hz-GVg.title" = "パノラマのスティッチ";
+> "c1P-Wk-q5M.title" = "画像";
+> "fEm-aw-jcD.title" = "キャンセル";
 > "fN5-ca-Mot.title" = "パノラマ";
