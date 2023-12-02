@@ -1,28 +1,28 @@
+---
+---
+---
+---
+---
+---
+---
+12c12
+15c15
+18c18
+21c21
 3c3
-< "517.title" = "RGB Primaries";
----
-> "517.title" = "RGB原色";
 6c6
-< "519.title" = "Red Hue";
----
-> "519.title" = "赤の色相";
 9c9
 < "3wO-YA-YAH.title" = "Red Saturation";
----
-> "3wO-YA-YAH.title" = "赤の彩度";
-12c12
+< "517.title" = "RGB Primaries";
+< "519.title" = "Red Hue";
 < "LCn-GS-v4D.title" = "Blue Saturation";
----
-> "LCn-GS-v4D.title" = "青の彩度";
-15c15
 < "Olc-Kg-HVM.title" = "Green Hue";
----
-> "Olc-Kg-HVM.title" = "緑の色相";
-18c18
 < "P6t-Rw-KQ6.title" = "Green Saturation";
----
-> "P6t-Rw-KQ6.title" = "緑の彩度";
-21c21
 < "tyt-le-eL5.title" = "Blue Hue";
----
+> "3wO-YA-YAH.title" = "赤の彩度";
+> "517.title" = "RGB原色";
+> "519.title" = "赤の色相";
+> "LCn-GS-v4D.title" = "青の彩度";
+> "Olc-Kg-HVM.title" = "緑の色相";
+> "P6t-Rw-KQ6.title" = "緑の彩度";
 > "tyt-le-eL5.title" = "青の色相";
