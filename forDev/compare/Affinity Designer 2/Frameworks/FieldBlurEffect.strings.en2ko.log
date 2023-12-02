@@ -20,11 +20,11 @@
 < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "210"; */
 > "210.title" = "취소";
 > "26.title" = "적용";
-> "Ltk-tI-wRy.ibShadowedToolTip" = "분할 뷰 모드";
-> "MOA-Oa-wtv.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> "z1c-Hh-uOd.ibShadowedToolTip" = "거울 뷰 모드";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "MOA-Oa-wtv"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Ltk-tI-wRy"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "z1c-Hh-uOd"; */
+> "Ltk-tI-wRy.ibShadowedToolTip" = "분할 보기";
+> "MOA-Oa-wtv.ibShadowedToolTip" = "분할 보기 해제";
+> "z1c-Hh-uOd.ibShadowedToolTip" = "거울 보기";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "MOA-Oa-wtv"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "Ltk-tI-wRy"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "z1c-Hh-uOd"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "210"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
