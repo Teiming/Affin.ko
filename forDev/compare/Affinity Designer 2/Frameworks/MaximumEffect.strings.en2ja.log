@@ -1,32 +1,32 @@
-3c3
-< "1.title" = "Maximum";
 ---
-> "1.title" = "最大";
-6c6
-< "12.title" = "Radius";
 ---
-> "12.title" = "半径";
-9c9
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
+---
+---
+---
+---
+---
 12c12
-< "84.title" = "Cancel";
----
-> "84.title" = "キャンセル";
 15c15
-< "95.title" = "Circular";
----
-> "95.title" = "循環";
 18c18
-< "TX1-Wb-3Ee.ibShadowedToolTip" = "No split view";
----
-> "TX1-Wb-3Ee.ibShadowedToolTip" = "分割表示なし";
 21c21
-< "aqG-zw-gfE.ibShadowedToolTip" = "Mirror view";
----
-> "aqG-zw-gfE.ibShadowedToolTip" = "ミラー表示";
 24c24
+3c3
+6c6
+9c9
+< "1.title" = "Maximum";
+< "12.title" = "Radius";
+< "26.title" = "Apply";
+< "84.title" = "Cancel";
+< "95.title" = "Circular";
+< "TX1-Wb-3Ee.ibShadowedToolTip" = "No split view";
+< "aqG-zw-gfE.ibShadowedToolTip" = "Mirror view";
 < "lc4-Wv-K1a.ibShadowedToolTip" = "Split view";
----
+> "1.title" = "最大";
+> "12.title" = "半径";
+> "26.title" = "適用";
+> "84.title" = "キャンセル";
+> "95.title" = "循環";
+> "TX1-Wb-3Ee.ibShadowedToolTip" = "分割表示なし";
+> "aqG-zw-gfE.ibShadowedToolTip" = "ミラー表示";
 > "lc4-Wv-K1a.ibShadowedToolTip" = "分割表示";
