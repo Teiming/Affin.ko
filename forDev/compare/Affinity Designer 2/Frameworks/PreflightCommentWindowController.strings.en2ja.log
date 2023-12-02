@@ -1,20 +1,20 @@
-3c3
-< "F0z-JX-Cv5.title" = "Preflight Comment";
 ---
-> "F0z-JX-Cv5.title" = "プリフライトコメント";
-6c6
-< "HNC-PO-JjN.ibShadowedToolTip" = "Enter a name for the preset";
 ---
-> "HNC-PO-JjN.ibShadowedToolTip" = "プリセットの名前を入力";
+---
+---
+---
 12c12
-< "oqI-3l-KrN.title" = "Cancel";
----
-> "oqI-3l-KrN.title" = "キャンセル";
 15c15
-< "tfI-u1-DXh.placeholderString" = "Enter a reminder to appear in preflight";
----
-> "tfI-u1-DXh.placeholderString" = "プレフライトに表示するリマインダーを入力";
 18c18
+3c3
+6c6
+< "F0z-JX-Cv5.title" = "Preflight Comment";
+< "HNC-PO-JjN.ibShadowedToolTip" = "Enter a name for the preset";
+< "oqI-3l-KrN.title" = "Cancel";
+< "tfI-u1-DXh.placeholderString" = "Enter a reminder to appear in preflight";
 < "xdh-2Q-KKj.title" = "Comment:";
----
+> "F0z-JX-Cv5.title" = "プリフライトコメント";
+> "HNC-PO-JjN.ibShadowedToolTip" = "プリセットの名前を入力";
+> "oqI-3l-KrN.title" = "キャンセル";
+> "tfI-u1-DXh.placeholderString" = "プレフライトに表示するリマインダーを入力";
 > "xdh-2Q-KKj.title" = "コメント:";
