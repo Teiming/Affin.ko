@@ -33,15 +33,7 @@
 < > "qoL-xQ-zKb.title" = "フォーマット";
 < > "w8n-EE-sV0.title" = ".look(LUTのみ)";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
-> < /* Class = "NSButtonCell"; title = "Export"; ObjectID = "101"; */
-> < /* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "OYq-Up-seb"; */
-> < /* Class = "NSWindow"; title = "Export LUT"; ObjectID = "1"; */
 > > "1.title" = "LUT 내보내기";
 > > "1004.title" = "취소";
 > > "101.title" = "내보내기";
 > > "OYq-Up-seb.title" = "타이틀";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
-> > /* Class = "NSButtonCell"; title = "내보내기"; ObjectID = "101"; */
-> > /* Class = "NSTextFieldCell"; title = "타이틀"; ObjectID = "OYq-Up-seb"; */
-> > /* Class = "NSWindow"; title = "LUT 내보내기"; ObjectID = "1"; */
