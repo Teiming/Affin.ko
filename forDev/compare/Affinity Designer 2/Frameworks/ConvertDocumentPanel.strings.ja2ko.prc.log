@@ -48,12 +48,6 @@
 < > "yaY-IE-bxO.title" = "彩度";
 < > "zfS-6g-5gz.title" = "レンダリングインテント";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SxL-SC-ll3"; */
-> < /* Class = "NSButtonCell"; title = "Convert"; ObjectID = "101"; */
-> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "yaY-IE-bxO"; */
-> < /* Class = "NSTextFieldCell"; title = "Profile"; ObjectID = "6vY-fq-uzX"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "37"; */
-> < /* Class = "NSWindow"; title = "Convert"; ObjectID = "1"; */
 > > "1.title" = "전환";
 > > "101.title" = "전환";
 > > "37.title" = "텍스트 셀";
@@ -61,9 +55,3 @@
 > > "SxL-SC-ll3.title" = "취소";
 > > "nzH-EM-tPy.title" = "색상 포맷";
 > > "yaY-IE-bxO.title" = "채도";
-> > /* Class = "NSButtonCell"; title = "전환"; ObjectID = "101"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "SxL-SC-ll3"; */
-> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "yaY-IE-bxO"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "37"; */
-> > /* Class = "NSTextFieldCell"; title = "프로파일"; ObjectID = "6vY-fq-uzX"; */
-> > /* Class = "NSWindow"; title = "전환"; ObjectID = "1"; */
