@@ -70,14 +70,6 @@
 < > "y1h-u0-qj6.title" = "不透明度:";
 < > "zuZ-dQ-MqZ.title" = "数式";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "vsr-no-n9S"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "bxW-2J-FvN"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "NaR-wF-Gjz"; */
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "226"; */
-> < /* Class = "NSButtonCell"; title = "Equations"; ObjectID = "zuZ-dQ-MqZ"; */
-> < /* Class = "NSTextFieldCell"; title = "Blend Mode"; ObjectID = "9vt-bT-CFQ"; */
-> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "y1h-u0-qj6"; */
 > > "226.title" = "취소";
 > > "26.title" = "적용";
 > > "9vt-bT-CFQ.title" = "혼합 모드";
@@ -86,11 +78,3 @@
 > > "vsr-no-n9S.ibShadowedToolTip" = "거울 보기";
 > > "y1h-u0-qj6.title" = "불투명도:";
 > > "zuZ-dQ-MqZ.title" = "수식";
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "bxW-2J-FvN"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "NaR-wF-Gjz"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "vsr-no-n9S"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "226"; */
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> > /* Class = "NSButtonCell"; title = "수식"; ObjectID = "zuZ-dQ-MqZ"; */
-> > /* Class = "NSTextFieldCell"; title = "혼합 모드"; ObjectID = "9vt-bT-CFQ"; */
-> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "y1h-u0-qj6"; */
