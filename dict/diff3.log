@@ -1,107 +1,107 @@
 ====1
-1:12c
+1:13c
   s/\"About…\";/\"Affinity Designer에 관하여…\";/
-2:12c
-3:12c
+2:13c
+3:13c
   s/\"About…\";/\"Affinity Photo에 관하여…\";/
 ====1
-1:22c
+1:23c
   s/\"Add Color to Swatch\";/\"견본에 색상 추가\";/
-2:22c
-3:22c
+2:23c
+3:23c
   s/\"Add Colour to Swatch\";/\"견본에 색상 추가\";/
 ====1
-1:26c
+1:27c
   s/\"Add Global Color…\";/\"전역 색상 추가…\";/
-2:26c
-3:26c
+2:27c
+3:27c
   s/\"Add Global Colour…\";/\"전역 색상 추가…\";/
 ====1
-1:36c
+1:37c
   s/\"Add Registration Color\";/\"등록 색상을 추가\";/
-2:36c
-3:36c
+2:37c
+3:37c
   s/\"Add Registration Colour\";/\"등록 색상을 추가\";/
 ====1
-1:48a
-2:49c
-3:49c
+1:49a
+2:50c
+3:50c
   s/\"Advanced Affinity Designer Affinity Designer Frameworks Affinity Designer Beta Affinity Designer Beta Frameworks Affinity Photo Affinity Photo Frameworks Affinity Photo Beta Affinity Photo Beta Frameworks Affinity Publisher Affinity Publisher Frameworks Affinity Publisher Beta Affinity Publisher Beta Frameworks Converter DictionaryDesigner DictionaryDiff DictionaryPhoto DictionaryPublisher Diff Syncor Translator Language:\";/\"Advanced Affinity Designer Affinity Designer Frameworks Affinity Designer Beta Affinity Designer Beta Frameworks Affinity Photo Affinity Photo Frameworks Affinity Photo Beta Affinity Photo Beta Frameworks Affinity Publisher Affinity Publisher Frameworks Affinity Publisher Beta Affinity Publisher Beta Frameworks Converter DictionaryDesigner DictionaryDiff DictionaryPhoto DictionaryPublisher Diff Syncor Translator 언어:\";/
 ====1
-1:50c
+1:51c
   s/\"Affinity Designer Help\";/\"Affinity Designer 도움말\";/
-2:51c
-3:51c
+2:52c
+3:52c
   s/\"Affinity Photo Help\";/\"Affinity Photo 도움말\";/
 ====1
-1:55,56c
+1:56,57c
   s/\"Align Center\";/\"가로 가운데 정렬\";/
   s/\"Align Horizontal Centers\";/\"가로 가운데 정렬\";/
-2:56,57c
-3:56,57c
+2:57,58c
+3:57,58c
   s/\"Align Centre\";/\"가로 가운데 정렬\";/
   s/\"Align Horizontal Centres\";/\"가로 가운데 정렬\";/
 ====1
-1:62c
+1:63c
   s/\"Align Stroke to Center\";/\"선을 중앙에 정렬\";/
-2:63c
-3:63c
+2:64c
+3:64c
   s/\"Align Stroke to Centre\";/\"선을 중앙에 정렬\";/
 ====1
-1:67c
+1:68c
   s/\"Align Vertical Centers\";/\"세로 가운데 정렬\";/
-2:68c
-3:68c
+2:69c
+3:69c
   s/\"Align Vertical Centres\";/\"세로 가운데 정렬\";/
 ====1
-1:92c
+1:93c
   s/\"Apple Color Picker...\";/\"Apple 색상 선택기...\";/
-2:93c
-3:93c
+2:94c
+3:94c
   s/\"Apple Colour Picker...\";/\"Apple 색상 선택기...\";/
 ====1
-1:115c
+1:116c
   s/\"Auto Colors\";/\"자동 색상\";/
-2:116c
-3:116c
+2:117c
+3:117c
   s/\"Auto Colours\";/\"자동 색상\";/
 ====1
-1:196c
+1:197c
   s/\"Butt Cap\";/\"짧은 끝단\";/
-2:197c
-3:197c
+2:198c
+3:198c
   s/\"Butt Cap\";/\"뭉툭한 단면\";/
 ====1
-1:198c
+1:199c
   s/\"Callout Ellipse Tool\";/\"말풍선 타원 도구\";/
-2:199c
-3:199c
+2:200c
+3:200c
   s/\"Callout Ellipse Tool\";/\"외치기 타원 도구\";/
 ====1
-1:211,212c
+1:212,213c
   s/\"Cap:\";/\"끝단:\";/
   s/\"Capitalization\";/\"대문자화\";/
-2:212,213c
-3:212,213c
+2:213,214c
+3:213,214c
   s/\"Cap:\";/\"단면:\";/
   s/\"Capitalisation\";/\"대문자화\";/
 ====1
-1:215c
+1:216c
   s/\"Center\";/\"가운데\";/
-2:215a
-3:215a
+2:216a
+3:216a
 ====1
-1:217a
-2:218c
-3:218c
+1:218a
+2:219c
+3:219c
   s/\"Centre\";/\"가운데\";/
 ====1
-1:248c
+1:249c
   s/\"Close All\";/\"모두 닫기\";/
-2:248a
-3:248a
+2:249a
+3:249a
 ====1
-1:259,269c
+1:260,270c
   s/\"Color Balance\";/\"색상 밸런스\";/
   s/\"Color Format:\";/\"색상 포맷\";/
   s/\"Color Format\";/\"색상 포맷\";/
@@ -113,8 +113,8 @@
   s/\"Color:\";/\"색상:\";/
   s/\"Color\";/\"색상\";/
   s/\"Colors\";/\"색상\";/
-2:259,269c
-3:259,269c
+2:260,270c
+3:260,270c
   s/\"Colour Balance\";/\"색상 밸런스\";/
   s/\"Colour Format:\";/\"색상 포맷\";/
   s/\"Colour Format\";/\"색상 포맷\";/
@@ -127,271 +127,271 @@
   s/\"Colour\";/\"색상\";/
   s/\"Colours\";/\"색상\";/
 ====1
-1:302c
+1:303c
   s/\"Copy Color to Clipboard as Hex\";/\"Hex로 색상 복사\";/
-2:302c
-3:302c
+2:303c
+3:303c
   s/\"Copy Colour to Clipboard as Hex\";/\"Hex로 색상 복사\";/
 ====1
-1:312c
+1:313c
   s/\"Create Color Chord\";/\"색상 코드 생성\";/
-2:312c
-3:312c
+2:313c
+3:313c
   s/\"Create Colour Chord\";/\"색상 코드 생성\";/
 ====1
-1:337c
+1:338c
   s/\"Cycle View Mode\";/\"보기 순환\";/
-2:337c
-3:337c
+2:338c
+3:338c
   s/\"Cycle View Mode\";/\"뷰 모드 순환\";/
 ====1
-1:346c
+1:347c
   s/\"Decorations\";/\"장식\";/
-2:345a
-3:345a
+2:346a
+3:346a
 ====1
-1:356c
+1:357c
   s/\"Delete Color\";/\"색상 지우기\";/
-2:355c
-3:355c
+2:356c
+3:356c
   s/\"Delete Colour\";/\"색상 지우기\";/
 ====1
-1:392c
+1:393c
   s/\"Distribute Horizontal Centers\";/\"가로 가운데 분배\";/
-2:391c
-3:391c
+2:392c
+3:392c
   s/\"Distribute Horizontal Centres\";/\"가로 가운데 분배\";/
 ====1
-1:397c
+1:398c
   s/\"Distribute Vertical Centers\";/\"세로 가운데 분배\";/
-2:396c
-3:396c
+2:397c
+3:397c
   s/\"Distribute Vertical Centres\";/\"세로 가운데 분배\";/
 ====1
-1:428c
+1:429c
   s/\"Edit in Photo…\";/\"Photo에서 편집…\";/
-2:427c
-3:427c
+2:428c
+3:428c
   s/\"Edit in Designer…\";/\"Designer에서 편집…\";/
 ====1
-1:474c
+1:475c
   s/\"Export Styles…\";/\"스타일 내보내기…\";/
-2:473c
-3:473c
+2:474c
+3:474c
   s/\"Export Styles...\";/\"스타일 내보내기...\";/
 ====1
-1:497,498c
+1:498,499c
   s/\"Fill &amp; Stroke Color\";/\"칠 및 선 색상\";/
   s/\"Fill Color\";/\"칠 색상\";/
-2:496,497c
-3:496,497c
+2:497,498c
+3:497,498c
   s/\"Fill &amp; Stroke Colour\";/\"칠 및 선 색상\";/
   s/\"Fill Colour\";/\"칠 색상\";/
 ====1
-1:610c
+1:611c
   s/\"Import Styles…\";/\"스타일 들여오기…\";/
-2:609c
-3:609c
+2:610c
+3:610c
   s/\"Import Styles...\";/\"스타일 들여오기...\";/
 ====1
-1:637c
+1:638c
   s/\"Insert Special Character\";/\"특수문자삽입\";/
-2:635a
-3:635a
+2:636a
+3:636a
 ====1
-1:643a
-2:642c
-3:642c
+1:644a
+2:643c
+3:643c
   s/\"Insert\";/\"특수문자삽입\";/
 ====1
-1:665c
+1:666c
   s/\"Justify Center\";/\"가운데 균등 정렬\";/
-2:664c
-3:664c
+2:665c
+3:665c
   s/\"Justify Centre\";/\"가운데 균등 정렬\";/
 ====1
-1:679c
+1:680c
   s/\"Layer Color:\";/\"레이어 색상:\";/
-2:678c
-3:678c
+2:679c
+3:679c
   s/\"Layer Colour:\";/\"레이어 색상:\";/
 ====1
-1:711c
+1:712c
   s/\"Link the grid Colors\";/\"격자 색상 연결\";/
-2:710c
-3:710c
+2:711c
+3:711c
   s/\"Link the grid colours\";/\"격자 색상 연결\";/
 ====1
-1:723c
+1:724c
   s/\"Lorem Ipsum\";/\"채우기 텍스트\";/
-2:721a
-3:721a
+2:722a
+3:722a
 ====1
-1:726c
+1:727c
   s/\"Lower Case\";/\"소문자화\";/
-2:724c
-3:724c
+2:725c
+3:725c
   s/\"Lower\";/\"소문자화\";/
 ====1
-1:775c
+1:776c
   s/\"Mirror view\";/\"거울 보기\";/
-2:773c
-3:773c
+2:774c
+3:774c
   s/\"Mirror view\";/\"거울 뷰 모드\";/
 ====1
-1:815a
-2:814c
-3:814c
+1:816a
+2:815c
+3:815c
   s/\"New From Clipboard\";/\"클립보드에서 신규\";/
 ====1
-1:824c
+1:825c
   s/\"New from Clipboard\";/\"클립보드에서 신규\";/
-2:822a
-3:822a
+2:823a
+3:823a
 ====1
-1:834c
+1:835c
   s/\"No split view\";/\"분할 보기 해제\";/
-2:832c
-3:832c
+2:833c
+3:833c
   s/\"No split view\";/\"분할 뷰 모드 해제\";/
 ====1
-1:869c
+1:870c
   s/\"Outline view mode\";/\"외형 보기\";/
-2:867c
-3:867c
+2:868c
+3:868c
   s/\"Outline view mode\";/\"외형 뷰 모드\";/
 ====1
-1:923c
+1:924c
   s/\"Pixel view mode\";/\"픽셀 보기\";/
-2:921c
-3:921c
+2:922c
+3:922c
   s/\"Pixel view mode\";/\"픽셀 뷰 모드\";/
 ====1
-1:980c
+1:981c
   s/\"Quit\";/\"Affinity Designer 종료\";/
-2:978c
-3:978c
+2:979c
+3:979c
   s/\"Quit\";/\"Affinity Photo 종료\";/
 ====1
-1:997,998c
+1:998,999c
   s/\"Recolor Adjustment\";/\"재색상 조정\";/
   s/\"Recolor\";/\"재색상\";/
-2:995,996c
-3:995,996c
+2:996,997c
+3:996,997c
   s/\"Recolour Adjustment\";/\"재색상 조정\";/
   s/\"Recolour\";/\"재색상\";/
 ====1
-1:1047c
+1:1048c
   s/\"Retina pixel view mode\";/\"레티나 픽셀 보기\";/
-2:1045c
-3:1045c
+2:1046c
+3:1046c
   s/\"Retina pixel view mode\";/\"레티나 픽셀 뷰 모드\";/
 ====1
-1:1080c
+1:1081c
   s/\"Round Cap\";/\"둥근 끝단\";/
-2:1078c
-3:1078c
+2:1079c
+3:1079c
   s/\"Round Cap\";/\"둥근 단면\";/
 ====1
-1:1095c
+1:1096c
   s/\"Save History with Document\";/\"문서와 함께 편집 기록 저장\";/
-2:1093c
-3:1093c
+2:1094c
+3:1094c
   s/\"Save History With Document\";/\"문서와 함께 편집 기록 저장\";/
 ====1
-1:1131c
+1:1132c
   s/\"Select Same Tag Color\";/\"태그 색상으로 동일 선택\";/
-2:1129c
-3:1129c
+2:1130c
+3:1130c
   s/\"Select Same Tag Colour\";/\"태그 색상으로 동일 선택\";/
 ====1
-1:1133c
+1:1134c
   s/\"Select Sampled Color…\";/\"표본 색상 선택…\";/
-2:1131c
-3:1131c
+2:1132c
+3:1132c
   s/\"Select Sampled Colour…\";/\"표본 색상 선택…\";/
 ====1
-1:1141c
+1:1142c
   s/\"Selective Color\";/\"색상 선택\";/
-2:1139c
-3:1139c
+2:1140c
+3:1140c
   s/\"Selective Colour\";/\"색상 선택\";/
 ====1
-1:1156c
+1:1157c
   s/\"Set line cap style\";/\"선 끝단 스타일 설정\";/
-2:1154c
-3:1154c
+2:1155c
+3:1155c
   s/\"Set line cap style\";/\"선 단면 스타일 설정\";/
 ====1
-1:1158c
+1:1159c
   s/\"Set the main grid line Color\";/\"주 격자 선 색상 설정\";/
-2:1156c
-3:1156c
+2:1157c
+3:1157c
   s/\"Set the main grid line colour\";/\"주 격자 선 색상 설정\";/
 ====1
-1:1193c
+1:1194c
   s/\"Show Rotation Center\";/\"회전 중심 보기\";/
-2:1191c
-3:1191c
+2:1192c
+3:1192c
   s/\"Show Rotation Centre\";/\"회전 중심 보기\";/
 ====1
-1:1209c
+1:1210c
   s/\"Single View\";/\"단일 보기\";/
-2:1207c
-3:1207c
+2:1208c
+3:1208c
   s/\"Single View\";/\"단일 뷰 모드\";/
 ====1
-1:1259c
+1:1260c
   s/\"Spelling:\";/\"철자:\";/
-2:1256a
-3:1256a
+2:1257a
+3:1257a
 ====1
-1:1263,1264c
+1:1264,1265c
   s/\"Split View\";/\"분할 보기\";/
   s/\"Split view\";/\"분할 보기\";/
-2:1260,1261c
-3:1260,1261c
+2:1261,1262c
+3:1261,1262c
   s/\"Split View\";/\"분할 뷰 모드\";/
   s/\"Split view\";/\"분할 뷰 모드\";/
 ====1
-1:1268c
+1:1269c
   s/\"Square Cap\";/\"사각 끝단\";/
-2:1265c
-3:1265c
+2:1266c
+3:1266c
   s/\"Square Cap\";/\"사각 단면\";/
 ====1
-1:1285c
+1:1286c
   s/\"Stroke Color\";/\"선 색상\";/
-2:1282c
-3:1282c
+2:1283c
+3:1283c
   s/\"Stroke Colour\";/\"선 색상\";/
 ====1
-1:1325c
+1:1326c
   s/\"Tag Color\";/\"태그 색상\";/
-2:1322c
-3:1322c
+2:1323c
+3:1323c
   s/\"Tag Colour\";/\"태그 색상\";/
 ====1
-1:1339c
+1:1340c
   s/\"Third party licenses\";/\"서드파티 자격\";/
-2:1336c
-3:1336c
+2:1337c
+3:1337c
   s/\"Third party licences\";/\"서드파티 자격\";/
 ====1
-1:1352c
+1:1353c
   s/\"Toggle Color Panel\";/\"색상 패널 켜고 끄기\";/
-2:1349c
-3:1349c
+2:1350c
+3:1350c
   s/\"Toggle Colour Panel\";/\"색상 패널 켜고 끄기\";/
 ====1
-1:1450c
+1:1451c
   s/\"View Mode\";/\"보기\";/
-2:1447c
-3:1447c
+2:1448c
+3:1448c
   s/\"View Mode\";/\"뷰 모드\";/
 ====1
-1:1460c
+1:1461c
   s/\"Welcome to Affinity Photo\./\"Affinity Photo에 어서오세요\./
-2:1457c
-3:1457c
+2:1458c
+3:1458c
   s/\"Welcome to Affinity Photo\./g>Affinity Photo에 어서오세요\./

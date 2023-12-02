@@ -5,8 +5,8 @@ printf "> 한국어\n"
 read RAWKOR
 
 # 특수문자 변환
-ENG=$(printf $RAWENG | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
-KOR=$(printf $RAWKOR | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
+ENG=$(printf ${RAWENG} | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
+KOR=$(printf ${RAWKOR} | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
 
 # 결과 생성
 result=$(echo "s/\\\"${ENG}\\\";/\\\"${KOR}\\\";/")

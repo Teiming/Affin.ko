@@ -5,6 +5,7 @@ s/\"%1 |CLICK|+|TERTIARY| to preserve path formatting.\";/\"%1 |CLICK|+|TERTIARY
 s/\"%@ has been modified.\";/\"%@이(가) 변경되었습니다.\";/
 s/\"'%1' selected. \";/\"'%1' 선택함. \";/
 s/\"'Actual Size' Zoom:\";/\"'실제 크기' 맞추기:\";/
+s/\"123\";/\"456\";/
 s/\"16 bit\";/\"16 비트\";/
 s/\"2:1 Isometric\";/\"2:1 등각투상\";/
 s/\"32-bit Preview\";/\"32-비트 미리보기\";/
@@ -957,7 +958,7 @@ s/\"Preset manager\";/\"미리 설정 관리자\";/
 s/\"Preset name:\";/\"Enter a name for the preset\";/
 s/\"Preset:\";/\"미리 설정:\";/
 s/\"Presets\";/\"미리 설정\";/
-s/\"Press\";/\"프레스품질\";/
+s/\"Press Ready\";/\"프레스품질\";/
 s/\"Pressure:\";/\"압력:\";/
 s/\"Pressure\";/\"압력\";/
 s/\"Print\";/\"인쇄\";/
