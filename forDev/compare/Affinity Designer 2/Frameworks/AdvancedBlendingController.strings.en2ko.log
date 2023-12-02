@@ -1,0 +1,51 @@
+---
+11,12c11,12
+14,15c14,15
+17,18c17,18
+2,3c2,3
+20,21c20,21
+23,24c23,24
+29,30c29,30
+41,42c41,42
+47,48c47,48
+8,9c8,9
+< "1.title" = "Blend Options";
+< "4gA-yu-pkk.title" = "Out:";
+< "Are-CW-8Sa.title" = "Linear";
+< "Bzj-Ne-xYT.title" = "In:";
+< "Qc6-Qq-ibr.title" = "Fill Opacity:";
+< "UvU-cZ-LAA.title" = "Reset";
+< "bKY-Q6-dc9.title" = "Out:";
+< "iaW-69-RJj.title" = "Linear";
+< "wof-xk-tuS.title" = "Reset";
+< "xFO-VV-qgO.title" = "In:";
+< /* Class = "NSButtonCell"; title = "Linear"; ObjectID = "Are-CW-8Sa"; */
+< /* Class = "NSButtonCell"; title = "Linear"; ObjectID = "iaW-69-RJj"; */
+< /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "UvU-cZ-LAA"; */
+< /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "wof-xk-tuS"; */
+< /* Class = "NSTextFieldCell"; title = "Fill Opacity:"; ObjectID = "Qc6-Qq-ibr"; */
+< /* Class = "NSTextFieldCell"; title = "In:"; ObjectID = "Bzj-Ne-xYT"; */
+< /* Class = "NSTextFieldCell"; title = "In:"; ObjectID = "xFO-VV-qgO"; */
+< /* Class = "NSTextFieldCell"; title = "Out:"; ObjectID = "4gA-yu-pkk"; */
+< /* Class = "NSTextFieldCell"; title = "Out:"; ObjectID = "bKY-Q6-dc9"; */
+< /* Class = "NSWindow"; title = "Blend Options"; ObjectID = "1"; */
+> "1.title" = "혼합 설정";
+> "4gA-yu-pkk.title" = "바깥:";
+> "Are-CW-8Sa.title" = "선형";
+> "Bzj-Ne-xYT.title" = "안:";
+> "Qc6-Qq-ibr.title" = "칠 불투명도:";
+> "UvU-cZ-LAA.title" = "재설정";
+> "bKY-Q6-dc9.title" = "바깥:";
+> "iaW-69-RJj.title" = "선형";
+> "wof-xk-tuS.title" = "재설정";
+> "xFO-VV-qgO.title" = "안:";
+> /* Class = "NSButtonCell"; title = "선형"; ObjectID = "Are-CW-8Sa"; */
+> /* Class = "NSButtonCell"; title = "선형"; ObjectID = "iaW-69-RJj"; */
+> /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "UvU-cZ-LAA"; */
+> /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "wof-xk-tuS"; */
+> /* Class = "NSTextFieldCell"; title = "칠 불투명도:"; ObjectID = "Qc6-Qq-ibr"; */
+> /* Class = "NSTextFieldCell"; title = "안:"; ObjectID = "Bzj-Ne-xYT"; */
+> /* Class = "NSTextFieldCell"; title = "안:"; ObjectID = "xFO-VV-qgO"; */
+> /* Class = "NSTextFieldCell"; title = "바깥:"; ObjectID = "4gA-yu-pkk"; */
+> /* Class = "NSTextFieldCell"; title = "바깥:"; ObjectID = "bKY-Q6-dc9"; */
+> /* Class = "NSWindow"; title = "혼합 설정"; ObjectID = "1"; */
