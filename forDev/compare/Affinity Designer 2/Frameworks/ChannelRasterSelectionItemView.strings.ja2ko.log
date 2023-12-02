@@ -1,50 +1,44 @@
-1c1,2
+6,14c6,10
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
 < 3c3
----
-> 2,3c2,3
-> < /* Class = "NSTextFieldCell"; title = "Channel"; ObjectID = "6"; */
-4,5c5,8
-< > "6.title" = "チャンネル";
 < 6c6
----
-> > /* Class = "NSTextFieldCell"; title = "채널"; ObjectID = "6"; */
-> > "6.title" = "채널";
-> 5,6c5,6
-> < /* Class = "NSMenuItem"; title = "Invert"; ObjectID = "CL5-7s-9LE"; */
-8,9c11,14
-< > "CL5-7s-9LE.title" = "反転";
 < 9c9
 ---
-> > /* Class = "NSMenuItem"; title = "반전"; ObjectID = "CL5-7s-9LE"; */
-> > "CL5-7s-9LE.title" = "반전";
-> 8,9c8,9
-> < /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "UnG-rA-hLO"; */
-12,17c17,20
-< > "UnG-rA-hLO.title" = "すべて選択";
-< 12c12
-< < "roF-NA-b3W.ibShadowedToolTip" = "Toggle Quick Mask";
-< ---
-< > "roF-NA-b3W.ibShadowedToolTip" = "クイックマスクを切り替え";
-< 15c15
----
-> > /* Class = "NSMenuItem"; title = "전체 선택"; ObjectID = "UnG-rA-hLO"; */
-> > "UnG-rA-hLO.title" = "전체 선택";
 > 14,15c14,15
-> < /* Class = "NSButton"; ibShadowedToolTip = "Invert"; ObjectID = "tsd-Ui-Pmx"; */
-20,25c23,26
-< > "tsd-Ui-Pmx.ibShadowedToolTip" = "反転";
-< 18c18
-< < "wEu-ei-vo8.title" = "Create Spare Channel";
-< ---
-< > "wEu-ei-vo8.title" = "スペアチャンネルを作成";
-< 21c21
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "반전"; ObjectID = "tsd-Ui-Pmx"; */
-> > "tsd-Ui-Pmx.ibShadowedToolTip" = "반전";
+> 2,3c2,3
 > 20,21c20,21
-> < /* Class = "NSMenuItem"; title = "Deselect"; ObjectID = "yxj-x6-mRx"; */
-28c29,30
+> 5,6c5,6
+> 8,9c8,9
+18d13
+< < "roF-NA-b3W.ibShadowedToolTip" = "Toggle Quick Mask";
+20d14
+< < "wEu-ei-vo8.title" = "Create Spare Channel";
+22,28c16,30
+< > "6.title" = "チャンネル";
+< > "CL5-7s-9LE.title" = "反転";
+< > "UnG-rA-hLO.title" = "すべて選択";
+< > "roF-NA-b3W.ibShadowedToolTip" = "クイックマスクを切り替え";
+< > "tsd-Ui-Pmx.ibShadowedToolTip" = "反転";
+< > "wEu-ei-vo8.title" = "スペアチャンネルを作成";
 < > "yxj-x6-mRx.title" = "選択解除";
 ---
-> > /* Class = "NSMenuItem"; title = "선택 해제"; ObjectID = "yxj-x6-mRx"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Invert"; ObjectID = "tsd-Ui-Pmx"; */
+> < /* Class = "NSMenuItem"; title = "Deselect"; ObjectID = "yxj-x6-mRx"; */
+> < /* Class = "NSMenuItem"; title = "Invert"; ObjectID = "CL5-7s-9LE"; */
+> < /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "UnG-rA-hLO"; */
+> < /* Class = "NSTextFieldCell"; title = "Channel"; ObjectID = "6"; */
+> > "6.title" = "채널";
+> > "CL5-7s-9LE.title" = "반전";
+> > "UnG-rA-hLO.title" = "전체 선택";
+> > "tsd-Ui-Pmx.ibShadowedToolTip" = "반전";
 > > "yxj-x6-mRx.title" = "선택 해제";
+> > /* Class = "NSButton"; ibShadowedToolTip = "반전"; ObjectID = "tsd-Ui-Pmx"; */
+> > /* Class = "NSMenuItem"; title = "전체 선택"; ObjectID = "UnG-rA-hLO"; */
+> > /* Class = "NSMenuItem"; title = "선택 해제"; ObjectID = "yxj-x6-mRx"; */
+> > /* Class = "NSMenuItem"; title = "반전"; ObjectID = "CL5-7s-9LE"; */
+> > /* Class = "NSTextFieldCell"; title = "채널"; ObjectID = "6"; */
