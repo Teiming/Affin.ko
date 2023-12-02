@@ -1,20 +1,20 @@
+---
+---
+---
+---
 14,15c14,15
-< /* Class = "NSTextFieldCell"; title = "Amount"; ObjectID = "Kvr-AL-15K"; */
-< "Kvr-AL-15K.title" = "Amount";
----
-> /* Class = "NSTextFieldCell"; title = "양"; ObjectID = "Kvr-AL-15K"; */
-> "Kvr-AL-15K.title" = "양";
 20c20
-< /* Class = "NSTextFieldCell"; title = "Colours"; ObjectID = "PfS-Iw-DVn"; */
----
-> /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "PfS-Iw-DVn"; */
 23c23
-< /* Class = "NSButtonCell"; title = "Colour"; ObjectID = "Pgg-Ek-LWM"; */
----
-> /* Class = "NSButtonCell"; title = "색상"; ObjectID = "Pgg-Ek-LWM"; */
 35,36c35,36
-< /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "uFB-g5-AX6"; */
+< "Kvr-AL-15K.title" = "Amount";
 < "uFB-g5-AX6.title" = "Radius";
----
-> /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "uFB-g5-AX6"; */
+< /* Class = "NSButtonCell"; title = "Colour"; ObjectID = "Pgg-Ek-LWM"; */
+< /* Class = "NSTextFieldCell"; title = "Amount"; ObjectID = "Kvr-AL-15K"; */
+< /* Class = "NSTextFieldCell"; title = "Colours"; ObjectID = "PfS-Iw-DVn"; */
+< /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "uFB-g5-AX6"; */
+> "Kvr-AL-15K.title" = "양";
 > "uFB-g5-AX6.title" = "반지름";
+> /* Class = "NSButtonCell"; title = "색상"; ObjectID = "Pgg-Ek-LWM"; */
+> /* Class = "NSTextFieldCell"; title = "양"; ObjectID = "Kvr-AL-15K"; */
+> /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "PfS-Iw-DVn"; */
+> /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "uFB-g5-AX6"; */
