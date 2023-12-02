@@ -1,184 +1,80 @@
-36,138d35
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-141d37
+4d3
 < 107c107
-143,144d38
+6,7d4
 < 113c113
 < 116c116
-146,147d39
+9,10d5
 < 11c11
 < 122c122
-149,150d40
+12,13d6
 < 128c128
 < 131c131
-152,155d41
+15,18d7
 < 137c137
 < 140c140
 < 143c143
 < 146c146
-159,160d44
+22,23d10
 < 155c155
 < 158c158
-162d45
+25d11
 < 164c164
-164,165d46
+27,28d12
 < 170c170
 < 173c173
-167,170d47
+30,33d13
 < 179c179
 < 17c17
 < 182c182
 < 185c185
-172,175d48
+35,38d14
 < 191c191
 < 194c194
 < 197c197
 < 200c200
-177,181d49
+40,44d15
 < 206c206
 < 209c209
 < 20c20
 < 212c212
 < 215c215
-183,184d50
+46,47d16
 < 221c221
 < 224c224
-186d51
+49d17
 < 230c230
-190,192d54
+53,55d20
 < 23c23
 < 242c242
 < 245c245
-194,197d55
+57,60d21
 < 251c251
 < 254c254
 < 257c257
 < 260c260
-199,201d56
+62,64d22
 < 266c266
 < 269c269
 < 26c26
-203,208d57
+66,71d23
 < 275c275
 < 278c278
 < 281c281
 < 284c284
 < 287c287
 < 290c290
-210d58
+73d24
 < 296c296
-213,214d60
+76,77d26
 < 2c2
 < 302c302
-216d61
+79d27
 < 308c308
-218,220d62
+81,83d28
 < 314c314
 < 326c326
 < 329c329
-222,241d63
+85,104d29
 < 332c332
 < 335c335
 < 341c341
@@ -199,7 +95,7 @@
 < 383c383
 < 386c386
 < 389c389
-243,256d64
+106,119d30
 < 392c392
 < 395c395
 < 398c398
@@ -214,24 +110,24 @@
 < 422c422
 < 425c425
 < 44c44
-258,259d65
+121,122d31
 < 50c50
 < 53c53
-261,264d66
+124,127d32
 < 59c59
 < 5c5
 < 62c62
 < 65c65
-266,268d67
+129,131d33
 < 71c71
 < 74c74
 < 77c77
-270,271d68
+133,134d34
 < 83c83
 < 86c86
-273d69
+136d35
 < 8c8
-275,304d70
+138,167d36
 < 95c95
 < 98c98
 < < "1.618 : 1  (Golden ratio)" = "1.618 : 1  (Golden ratio)";
@@ -262,25 +158,24 @@
 < < "8.5\" x 14\"  [Legal]" = "8.5\" x 14\"  [Legal]";
 < < "800 x 600  [SVGA]" = "800 x 600  [SVGA]";
 < < "8\" x 6\"  [6R]" = "8\" x 6\"  [6R]";
-306,310d71
+169,172d37
 < < "Bands" = "Bands";
-< < "Bar count" = "Bar count";
 < < "Bar count" = "Bar count";
 < < "Basic shapes" = "Basic shapes";
 < < "Bright" = "Bright";
-316,321d76
+174,179d38
 < < "Cell count" = "Cell count";
 < < "Channel adjustments" = "Channel adjustments";
 < < "Chequered" = "Checkered";
 < < "Cinematic ratios" = "Cinematic ratios";
 < < "Coloured patterns" = "Colored patterns";
 < < "Common ratios" = "Common ratios";
-342,345d96
+183,186d41
 < < "Droplets" = "Droplets";
 < < "Fur" = "Fur";
 < < "Graduated random squares" = "Graduated random squares";
 < < "Harsh" = "Harsh";
-348,361d98
+188,200d42
 < < "Heptagon" = "Heptagon";
 < < "Hexagon" = "Hexagon";
 < < "ISO paper sizes (@300ppi)" = "ISO paper sizes (@300ppi)";
@@ -288,20 +183,18 @@
 < < "Inverted" = "Inverted";
 < < "Lava" = "Lava";
 < < "Light direction" = "Light direction";
-< < "Light direction" = "Light direction";
 < < "Lighting" = "Lighting";
 < < "Marble" = "Marble";
 < < "Metallic" = "Metallic";
 < < "Mexico" = "Mexico";
 < < "Mono swirls" = "Mono swirls";
 < < "Monochrome patterns" = "Monochrome patterns";
-363,367d99
+202,205d43
 < < "Number of squares" = "Number of squares";
-< < "Number of waves" = "Number of waves";
 < < "Number of waves" = "Number of waves";
 < < "Octagon" = "Octagon";
 < < "Octaves" = "Octaves";
-372,378d103
+207,213d44
 < < "Oils" = "Oils";
 < < "Overlapped sine waves" = "Overlapped sine waves";
 < < "Pentagon" = "Pentagon";
@@ -309,7 +202,7 @@
 < < "Persistence" = "Persistence";
 < < "Photographic paper (@300ppi)" = "Photographic paper (@300ppi)";
 < < "Ripples" = "Ripples";
-380,413d104
+215,236d45
 < < "Screen sizes" = "Screen sizes";
 < < "Separation" = "Separation";
 < < "Simple Bump Map Lighting (negated Y)" = "Simple Bump Map Lighting (negated Y)";
@@ -320,31 +213,19 @@
 < < "Smoothed bars" = "Smoothed bars";
 < < "Smoothed squares" = "Smoothed squares";
 < < "Smoothing size" = "Smoothing size";
-< < "Smoothing size" = "Smoothing size";
 < < "Smoothing" = "Smoothing";
 < < "Square count turbulence" = "Square count turbulence";
-< < "Square count" = "Square count";
-< < "Square count" = "Square count";
-< < "Square count" = "Square count";
-< < "Square count" = "Square count";
-< < "Square count" = "Square count";
-< < "Square count" = "Square count";
 < < "Square count" = "Square count";
 < < "Square size turbulence" = "Square size turbulence";
 < < "Square size" = "Square size";
 < < "Swap Red and Green" = "Swap Red and Green";
 < < "Thin clouds" = "Thin clouds";
 < < "Turbulence" = "Turbulence";
-< < "Turbulence" = "Turbulence";
-< < "Turbulence" = "Turbulence";
-< < "Turbulence" = "Turbulence";
-< < "Turbulence" = "Turbulence";
-< < "Turbulence" = "Turbulence";
 < < "US paper sizes (@300ppi)" = "US paper sizes (@300ppi)";
 < < "Urban Camoflage" = "Urban Camouflage";
 < < "Wave" = "Wave";
 < < "Waves" = "Waves";
-415,552c106,140
+238,335c47,56
 < > "1.618 : 1  (Golden ratio)" = "1.618 : 1 (黄金比)";
 < > "1.85 : 1  (Widescreen theatrical)" = "1.85 : 1 (ワイド画面劇場)";
 < > "1024 x 768  [XGA]" = "1024 x 768 [XGA]";
@@ -376,13 +257,8 @@
 < > "Amount" = "量";
 < > "Bands" = "バンド";
 < > "Bar count" = "バー数";
-< > "Bar count" = "バー数";
 < > "Basic shapes" = "基本シェイプ";
 < > "Bright" = "明るい";
-< > "Brightness" = "明るさ";
-< > "Brightness" = "明るさ";
-< > "Brightness" = "明るさ";
-< > "Brightness" = "明るさ";
 < > "Brightness" = "明るさ";
 < > "Cell count" = "セル数";
 < > "Channel adjustments" = "チャンネル調整";
@@ -393,28 +269,10 @@
 < > "Contrast" = "コントラスト";
 < > "Dark" = "暗い";
 < > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
 < > "Droplets" = "水滴";
 < > "Fur" = "ファー";
 < > "Graduated random squares" = "ランダムなマス(グラデーションあり)";
 < > "Harsh" = "鋭く";
-< > "Height" = "高さ";
 < > "Height" = "高さ";
 < > "Heptagon" = "七角形";
 < > "Hexagon" = "六角形";
@@ -422,7 +280,6 @@
 < > "Invert Red" = "赤を反転";
 < > "Inverted" = "反転済み";
 < > "Lava" = "溶岩";
-< > "Light direction" = "照明の向き";
 < > "Light direction" = "照明の向き";
 < > "Lighting" = "照明";
 < > "Marble" = "マーブル";
@@ -433,12 +290,8 @@
 < > "Noise" = "ノイズ";
 < > "Number of squares" = "マスの数";
 < > "Number of waves" = "波の数";
-< > "Number of waves" = "波の数";
 < > "Octagon" = "八角形";
 < > "Octaves" = "オクターブ";
-< > "Offset" = "オフセット";
-< > "Offset" = "オフセット";
-< > "Offset" = "オフセット";
 < > "Offset" = "オフセット";
 < > "Oils" = "油彩";
 < > "Overlapped sine waves" = "オーバーラップ正弦波";
@@ -458,25 +311,13 @@
 < > "Smoothed bars" = "滑らかなバー";
 < > "Smoothed squares" = "滑らかなマス";
 < > "Smoothing size" = "平滑化サイズ";
-< > "Smoothing size" = "平滑化サイズ";
 < > "Smoothing" = "平滑化";
 < > "Square count turbulence" = "マス数(乱流)";
-< > "Square count" = "マス数";
-< > "Square count" = "マス数";
-< > "Square count" = "マス数";
-< > "Square count" = "マス数";
-< > "Square count" = "マス数";
-< > "Square count" = "マス数";
 < > "Square count" = "マス数";
 < > "Square size turbulence" = "マスのサイズ(乱流)";
 < > "Square size" = "正方形サイズ";
 < > "Swap Red and Green" = "赤と緑を入れ換え";
 < > "Thin clouds" = "細い雲形";
-< > "Turbulence" = "乱流";
-< > "Turbulence" = "乱流";
-< > "Turbulence" = "乱流";
-< > "Turbulence" = "乱流";
-< > "Turbulence" = "乱流";
 < > "Turbulence" = "乱流";
 < > "US paper sizes (@300ppi)" = "米国用紙サイズ(@300ppi)";
 < > "Urban Camoflage" = "白黒迷彩";
@@ -486,36 +327,11 @@
 ---
 > > "Amount" = "양";
 > > "Brightness" = "명암";
-> > "Brightness" = "명암";
-> > "Brightness" = "명암";
-> > "Brightness" = "명암";
-> > "Brightness" = "명암";
 > > "Contrast" = "대비";
 > > "Dark" = "다크";
 > > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Default" = "기본값";
-> > "Height" = "높이";
 > > "Height" = "높이";
 > > "Noise" = "잡음";
-> > "Offset" = "편차";
-> > "Offset" = "편차";
-> > "Offset" = "편차";
 > > "Offset" = "편차";
 > > "Rounded" = "둥근";
 > > "Width" = "너비";

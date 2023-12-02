@@ -1,38 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 101c101
 104c104
 110c110
@@ -70,71 +36,21 @@
 92c92
 < "Amount" = "Amount";
 < "Brightness" = "Brightness";
-< "Brightness" = "Brightness";
-< "Brightness" = "Brightness";
-< "Brightness" = "Brightness";
-< "Brightness" = "Brightness";
 < "Contrast" = "Contrast";
 < "Dark" = "Dark";
 < "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Height" = "Height";
 < "Height" = "Height";
 < "Noise" = "Noise";
-< "Offset" = "Offset";
-< "Offset" = "Offset";
-< "Offset" = "Offset";
 < "Offset" = "Offset";
 < "Rounded" = "Rounded";
 < "Width" = "Width";
 > "Amount" = "양";
 > "Brightness" = "명암";
-> "Brightness" = "명암";
-> "Brightness" = "명암";
-> "Brightness" = "명암";
-> "Brightness" = "명암";
 > "Contrast" = "대비";
 > "Dark" = "다크";
 > "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Height" = "높이";
 > "Height" = "높이";
 > "Noise" = "잡음";
-> "Offset" = "편차";
-> "Offset" = "편차";
-> "Offset" = "편차";
 > "Offset" = "편차";
 > "Rounded" = "둥근";
 > "Width" = "너비";

@@ -1,141 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 101c101
 104c104
 107c107
@@ -305,13 +168,8 @@
 < "Amount" = "Amount";
 < "Bands" = "Bands";
 < "Bar count" = "Bar count";
-< "Bar count" = "Bar count";
 < "Basic shapes" = "Basic shapes";
 < "Bright" = "Bright";
-< "Brightness" = "Brightness";
-< "Brightness" = "Brightness";
-< "Brightness" = "Brightness";
-< "Brightness" = "Brightness";
 < "Brightness" = "Brightness";
 < "Cell count" = "Cell count";
 < "Channel adjustments" = "Channel adjustments";
@@ -322,28 +180,10 @@
 < "Contrast" = "Contrast";
 < "Dark" = "Dark";
 < "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
 < "Droplets" = "Droplets";
 < "Fur" = "Fur";
 < "Graduated random squares" = "Graduated random squares";
 < "Harsh" = "Harsh";
-< "Height" = "Height";
 < "Height" = "Height";
 < "Heptagon" = "Heptagon";
 < "Hexagon" = "Hexagon";
@@ -351,7 +191,6 @@
 < "Invert Red" = "Invert Red";
 < "Inverted" = "Inverted";
 < "Lava" = "Lava";
-< "Light direction" = "Light direction";
 < "Light direction" = "Light direction";
 < "Lighting" = "Lighting";
 < "Marble" = "Marble";
@@ -362,12 +201,8 @@
 < "Noise" = "Noise";
 < "Number of squares" = "Number of squares";
 < "Number of waves" = "Number of waves";
-< "Number of waves" = "Number of waves";
 < "Octagon" = "Octagon";
 < "Octaves" = "Octaves";
-< "Offset" = "Offset";
-< "Offset" = "Offset";
-< "Offset" = "Offset";
 < "Offset" = "Offset";
 < "Oils" = "Oils";
 < "Overlapped sine waves" = "Overlapped sine waves";
@@ -387,25 +222,13 @@
 < "Smoothed bars" = "Smoothed bars";
 < "Smoothed squares" = "Smoothed squares";
 < "Smoothing size" = "Smoothing size";
-< "Smoothing size" = "Smoothing size";
 < "Smoothing" = "Smoothing";
 < "Square count turbulence" = "Square count turbulence";
-< "Square count" = "Square count";
-< "Square count" = "Square count";
-< "Square count" = "Square count";
-< "Square count" = "Square count";
-< "Square count" = "Square count";
-< "Square count" = "Square count";
 < "Square count" = "Square count";
 < "Square size turbulence" = "Square size turbulence";
 < "Square size" = "Square size";
 < "Swap Red and Green" = "Swap Red and Green";
 < "Thin clouds" = "Thin clouds";
-< "Turbulence" = "Turbulence";
-< "Turbulence" = "Turbulence";
-< "Turbulence" = "Turbulence";
-< "Turbulence" = "Turbulence";
-< "Turbulence" = "Turbulence";
 < "Turbulence" = "Turbulence";
 < "US paper sizes (@300ppi)" = "US paper sizes (@300ppi)";
 < "Urban Camoflage" = "Urban Camouflage";
@@ -443,13 +266,8 @@
 > "Amount" = "量";
 > "Bands" = "バンド";
 > "Bar count" = "バー数";
-> "Bar count" = "バー数";
 > "Basic shapes" = "基本シェイプ";
 > "Bright" = "明るい";
-> "Brightness" = "明るさ";
-> "Brightness" = "明るさ";
-> "Brightness" = "明るさ";
-> "Brightness" = "明るさ";
 > "Brightness" = "明るさ";
 > "Cell count" = "セル数";
 > "Channel adjustments" = "チャンネル調整";
@@ -460,28 +278,10 @@
 > "Contrast" = "コントラスト";
 > "Dark" = "暗い";
 > "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Default" = "デフォルト";
 > "Droplets" = "水滴";
 > "Fur" = "ファー";
 > "Graduated random squares" = "ランダムなマス(グラデーションあり)";
 > "Harsh" = "鋭く";
-> "Height" = "高さ";
 > "Height" = "高さ";
 > "Heptagon" = "七角形";
 > "Hexagon" = "六角形";
@@ -489,7 +289,6 @@
 > "Invert Red" = "赤を反転";
 > "Inverted" = "反転済み";
 > "Lava" = "溶岩";
-> "Light direction" = "照明の向き";
 > "Light direction" = "照明の向き";
 > "Lighting" = "照明";
 > "Marble" = "マーブル";
@@ -500,12 +299,8 @@
 > "Noise" = "ノイズ";
 > "Number of squares" = "マスの数";
 > "Number of waves" = "波の数";
-> "Number of waves" = "波の数";
 > "Octagon" = "八角形";
 > "Octaves" = "オクターブ";
-> "Offset" = "オフセット";
-> "Offset" = "オフセット";
-> "Offset" = "オフセット";
 > "Offset" = "オフセット";
 > "Oils" = "油彩";
 > "Overlapped sine waves" = "オーバーラップ正弦波";
@@ -525,25 +320,13 @@
 > "Smoothed bars" = "滑らかなバー";
 > "Smoothed squares" = "滑らかなマス";
 > "Smoothing size" = "平滑化サイズ";
-> "Smoothing size" = "平滑化サイズ";
 > "Smoothing" = "平滑化";
 > "Square count turbulence" = "マス数(乱流)";
-> "Square count" = "マス数";
-> "Square count" = "マス数";
-> "Square count" = "マス数";
-> "Square count" = "マス数";
-> "Square count" = "マス数";
-> "Square count" = "マス数";
 > "Square count" = "マス数";
 > "Square size turbulence" = "マスのサイズ(乱流)";
 > "Square size" = "正方形サイズ";
 > "Swap Red and Green" = "赤と緑を入れ換え";
 > "Thin clouds" = "細い雲形";
-> "Turbulence" = "乱流";
-> "Turbulence" = "乱流";
-> "Turbulence" = "乱流";
-> "Turbulence" = "乱流";
-> "Turbulence" = "乱流";
 > "Turbulence" = "乱流";
 > "US paper sizes (@300ppi)" = "米国用紙サイズ(@300ppi)";
 > "Urban Camoflage" = "白黒迷彩";
