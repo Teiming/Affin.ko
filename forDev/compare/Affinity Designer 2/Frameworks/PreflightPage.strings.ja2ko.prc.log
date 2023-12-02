@@ -55,15 +55,6 @@
 < > "q4t-dy-7YO.title" = "チェック:";
 ---
 > < "xcA-rU-NtY.title" = "Text Cell";
-> < /* Class = "NSMenuItem"; title = "Custom"; ObjectID = "3qi-44-PlX"; */
-> < /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[0] = "Never"; ObjectID = "QAj-rG-1VF"; */
-> < /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[1] = "Export"; ObjectID = "QAj-rG-1VF"; */
-> < /* Class = "NSTableColumn"; headerCell.title = "Page"; ObjectID = "UPs-WV-nKN"; */
-> < /* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "Yyl-Bx-V75"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cb6-rz-ItV"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dvn-IJ-JQb"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gnz-jH-hNx"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xcA-rU-NtY"; */
 > > "3qi-44-PlX.title" = "사용자화";
 > > "Cb6-rz-ItV.title" = "텍스트 셀";
 > > "Dvn-IJ-JQb.title" = "텍스트 셀";
@@ -73,12 +64,3 @@
 > > "UPs-WV-nKN.headerCell.title" = "페이지";
 > > "Yyl-Bx-V75.title" = "프로파일:";
 > > "xcA-rU-NtY.title" = "텍스트 셀";
-> > /* Class = "NSMenuItem"; title = "사용자화"; ObjectID = "3qi-44-PlX"; */
-> > /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[0] = "하지 않음"; ObjectID = "QAj-rG-1VF"; */
-> > /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[1] = "내보내기"; ObjectID = "QAj-rG-1VF"; */
-> > /* Class = "NSTableColumn"; headerCell.title = "페이지"; ObjectID = "UPs-WV-nKN"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Cb6-rz-ItV"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Dvn-IJ-JQb"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Gnz-jH-hNx"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "xcA-rU-NtY"; */
-> > /* Class = "NSTextFieldCell"; title = "프로파일:"; ObjectID = "Yyl-Bx-V75"; */
