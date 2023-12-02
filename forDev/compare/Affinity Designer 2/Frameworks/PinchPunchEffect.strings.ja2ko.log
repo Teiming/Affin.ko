@@ -1,0 +1,34 @@
+2,11c2,7
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 3c3
+< 6c6
+< 9c9
+< < "1.title" = "Pinch / Punch";
+< < "12.title" = "Pinch / Punch";
+---
+> 11,12c11,12
+> 14,15c14,15
+> 17,18c17,18
+> 20,21c20,21
+> 23,24c23,24
+> 8,9c8,9
+18,25c14,31
+< > "1.title" = "ピンチ/パンチ";
+< > "12.title" = "ピンチ/パンチ";
+< > "26.title" = "適用";
+< > "413.title" = "キャンセル";
+< > "88.title" = "半径";
+< > "M3F-6p-gbd.ibShadowedToolTip" = "分割表示なし";
+< > "Ocn-cy-Oq3.ibShadowedToolTip" = "分割表示";
+< > "xkV-VV-wYu.ibShadowedToolTip" = "ミラー表示";
+---
+> > "26.title" = "적용";
+> > "413.title" = "취소";
+> > "88.title" = "반지름";
+> > "M3F-6p-gbd.ibShadowedToolTip" = "분할 보기 해제";
+> > "Ocn-cy-Oq3.ibShadowedToolTip" = "분할 보기";
+> > "xkV-VV-wYu.ibShadowedToolTip" = "거울 보기";
