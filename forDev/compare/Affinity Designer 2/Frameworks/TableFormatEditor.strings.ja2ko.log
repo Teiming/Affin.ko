@@ -1,45 +1,4 @@
-37,157c37,72
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,81c2,37
 < 105c105
 < 108c108
 < 111c111
@@ -157,56 +116,56 @@
 > 86,87c86,87
 > 89,90c89,90
 > 92,93c92,93
-163,164d77
+87,88d42
 < < "7B4-ZU-2ub.ibShadowedToolTip" = "Frame Fill";
 < < "7dj-6X-xJP.ibShadowedToolTip" = "Add Column";
-166d78
+90d43
 < < "8HF-MS-XXZ.title" = "Insets";
-168d79
+92d44
 < < "8nh-Ze-faU.ibShadowedToolTip" = "Bottom Table Inset";
-173,178d83
+97,102d48
 < < "BbR-1L-0aF.ibShadowedToolTip" = "Frame Stroke Fill";
 < < "DTG-Xh-bGF.title" = "Table View Cell";
 < < "F0z-JX-Cv5.title" = "Edit Table Format";
 < < "Is9-CZ-zdy.ibShadowedToolTip" = "Left Table Inset";
 < < "Jjw-EY-Aif.ibShadowedToolTip" = "Delete Column";
 < < "K3z-ct-Lho.ibShadowedToolTip" = "All vertical";
-180d84
+104d49
 < < "LIv-Wf-QTI.ibShadowedToolTip" = "Frame Fill";
-185,187d88
+109,111d53
 < < "O2W-pb-vEl.ibShadowedToolTip" = "Top Table Inset";
 < < "Oh1-WE-iXO.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Insets";
 < < "PMi-AD-X26.title" = "Item 3";
-193d93
+117d58
 < < "ROn-eK-jqy.title" = "Minimum:";
-196d95
+120d60
 < < "SWr-bm-Jui.ibShadowedToolTip" = "Right Table Inset";
-198d96
+122d61
 < < "TYJ-ag-m8k.ibShadowedToolTip" = "Frame Stroke Fill";
-200d97
+124d62
 < < "X4v-d4-qfF.title" = "Initial advance:";
-203,205d99
+127,129d64
 < < "YSb-am-2z1.ibShadowedToolTip" = "Link Insets";
 < < "a20-HT-QN6.title" = "Cell Formats";
 < < "b8f-J8-T69.ibShadowedToolTip" = "Max Paragraph Space";
-207,211d100
+131,135d65
 < < "bbT-3n-Z0I.title" = "Name:";
 < < "bcz-75-wIW.ibShadowedToolTip" = "Link Insets";
 < < "bg8-EY-uM1.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Vertical Position";
 < < "dHv-U5-VLJ.title" = "Item 1";
 < < "dYv-33-XXa.title" = "Border:";
-213,214d101
+137,138d66
 < < "eFM-dq-ibD.title" = "Name:";
 < < "fBt-sw-2Lz.title" = "Item 2";
-216,217d102
+140,141d67
 < < "gHg-uy-29T.ibShadowedToolTip" = "Bottom Text Inset";
 < < "hB0-0b-Ib3.ibShadowedToolTip" = "Frame Stroke";
-220,223d104
+144,147d69
 < < "kKc-ei-tJK.ibShadowedToolTip" = "Frame Stroke";
 < < "lz6-uk-Jog.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Stroke and Fill";
 < < "mJO-zx-58h.ibShadowedToolTip" = "Left Text Inset";
 < < "mYo-7O-ccb.ibShadowedToolTip" = "Add Row";
-228,308c109,216
+152,232c74,181
 < < "se5-gp-TjO.ibExternalAccessibilityDescription" = "Edit Table Format";
 < < "tAG-ek-UjK.title" = "Apply style to selection";
 < < "tNM-Ye-ILx.ibShadowedToolTip" = "Delete Row";
