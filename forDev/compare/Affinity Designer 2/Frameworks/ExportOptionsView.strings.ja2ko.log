@@ -1,271 +1,4 @@
-15,481c15,21
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,201c2,8
 < 1008c1008
 < 1011c1011
 < 1014c1014
@@ -474,7 +207,7 @@
 > 455,456c455,456
 > 647,648c647,648
 > 680,681c680,681
-483,568c23,28
+203,288c10,15
 < 744c744
 < 747c747
 < 750c750
@@ -568,7 +301,7 @@
 > 863,864c863,864
 > 941,942c941,942
 > 950,951c950,951
-570,584d29
+290,304d16
 < < "2Jj-14-Yiv.ibShadowedToolTip" = "Choose how to handle exporting gradients. Affinity handles gradients in a different way to other apps, so editable gradients may appear different in other applications.";
 < < "2SD-UX-wdH.title" = "Quality:";
 < < "2oC-5C-Q5A.ibShadowedToolTip" = "Export layers with indeterminable channels as a single channel base on luminance";
@@ -584,7 +317,7 @@
 < < "4g9-1U-hNi.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "4oe-7L-yzx.title" = "CMYK 8-bit";
 < < "4wq-Va-zbI.ibShadowedToolTip" = "Selection contains multiple embed metadata options";
-586,595d30
+306,315d17
 < < "5Sz-h0-P7L.title" = "Embed metadata";
 < < "5pF-9X-Rk7.ibShadowedToolTip" = "Selection contains multiple DPI settings";
 < < "66v-si-luN.title" = "Nearest Neighbor";
@@ -595,10 +328,10 @@
 < < "6nv-ed-v7y.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "6wc-1x-NbU.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "7Ic-0d-DkN.ibShadowedToolTip" = "Selection contains multiple settings";
-597,598d31
+317,318d18
 < < "8Fo-fw-dfM.ibShadowedToolTip" = "Bleed will be applied";
 < < "8Im-I1-Uu0.title" = "Include hyperlinks";
-600,690d32
+320,410d19
 < < "8Nw-aP-iUf.title" = "Password Protection";
 < < "8bD-Dc-b8q.ibShadowedToolTip" = "Selection contains multiple progressive settings";
 < < "8dw-oj-zOC.ibShadowedToolTip" = "Selection contains multiple quality values";
@@ -690,7 +423,7 @@
 < < "PyT-eK-P3z.title" = "Colors:";
 < < "QID-gz-VYS.ibShadowedToolTip" = "Selection contains multiple matte colors";
 < < "QMV-OZ-08J.title" = "Convert image color spaces";
-692,738d33
+412,458d20
 < < "RDT-Sf-F6J.ibShadowedToolTip" = "Selection contains multiple palette types";
 < < "REE-cF-4kY.title" = "Resample:";
 < < "RH3-Ex-XPi.ibShadowedToolTip" = "Selection contains multiple embed metadata options";
@@ -738,7 +471,7 @@
 < < "amF-J1-cQf.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "avX-vD-mvf.title" = "16-bit (HALF)";
 < < "awr-sh-Q8B.ibShadowedToolTip" = "Selection contains multiple palletize choices";
-740,748d34
+460,468d21
 < < "bk7-OS-1jZ.ibShadowedToolTip" = "Convert top level clipping curves to vector paths";
 < < "br6-Kf-J1N.ibShadowedToolTip" = "Selection contains multiple quality values";
 < < "c1I-sg-Ktx.ibShadowedToolTip" = "Selection contains multiple settings";
@@ -748,7 +481,7 @@
 < < "cW2-Kn-n2P.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "cfv-KF-vrV.title" = "Flatten transforms";
 < < "cfy-Nk-9nm.ibShadowedToolTip" = "Selection contains multiple settings";
-750,761d35
+470,481d22
 < < "d7G-Q2-PrO.ibShadowedToolTip" = "Choose the pixel data type to use for all other pixels (including unknown channels)";
 < < "dCV-fx-mnI.title" = "Embed metadata";
 < < "dCh-iC-buP.ibShadowedToolTip" = "Selection contains multiple settings";
@@ -761,7 +494,7 @@
 < < "eIL-tj-Cqd.ibShadowedToolTip" = "Selection contains multiple convert to paths settings";
 < < "eUn-jW-DSj.ibShadowedToolTip" = "Metadata will be embedded";
 < < "edz-Rv-iHT.ibShadowedToolTip" = "Selection contains multiple resampler types";
-763,773d36
+483,493d23
 < < "exd-qy-a3P.title" = "Include hyperlinks";
 < < "f8W-45-a4W.ibShadowedToolTip" = "Selection contains multiple downsample settings";
 < < "f9E-PB-vnw.ibShadowedToolTip" = "An OCIO color profile will be applied if one can be identified from the output filename";
@@ -773,7 +506,7 @@
 < < "gaY-IU-bZd.title" = "Matte:";
 < < "hVU-UQ-z7u.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "hXU-kw-3JN.title" = "Encryption Level:";
-775,788d37
+495,508d24
 < < "hsk-BJ-NTr.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "i0K-gD-l4t.title" = "Allow JPEG compression";
 < < "iGi-Mh-20J.ibShadowedToolTip" = "Selection contains multiple settings";
@@ -788,11 +521,11 @@
 < < "k1Y-U0-A3n.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "keZ-Js-Xa1.title" = "Radio";
 < < "kmK-zo-0BK.title" = "Embed metadata";
-790,792d38
+510,512d25
 < < "m3E-yQ-3Mu.ibShadowedToolTip" = "Selection contains multiple embed metadata options";
 < < "mNR-BK-r2U.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "mWu-S7-EJE.title" = "Quality:";
-794,814d39
+514,534d26
 < < "mnl-id-ppO.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "mt1-YX-Jkr.title" = "Preserve editability";
 < < "nMX-Tn-ASz.title" = "Use document resolution";
@@ -814,10 +547,10 @@
 < < "rpo-eu-Cwh.title" = "16-bit (HALF)";
 < < "s75-eS-eZq.ibShadowedToolTip" = "Selection contains multiple matte colors";
 < < "sUA-BB-JnF.ibShadowedToolTip" = "Compatibility mode is required for many third party applications that do not handle PSD vector masks. Results in larger file sizes.";
-816,817d40
+536,537d27
 < < "seB-25-dDq.title" = "Preserve accuracy";
 < < "sxF-Xr-IQm.title" = "Progressive";
-819,837d41
+539,557d28
 < < "tr1-f2-WUj.label" = "Empty";
 < < "tz6-tv-eeQ.ibShadowedToolTip" = "Metadata will be embedded";
 < < "tzB-wu-9dM.title" = "Enable copying of content";
@@ -837,7 +570,7 @@
 < < "xiH-c0-hBV.title" = "Above:";
 < < "xij-AZ-7WT.title" = "Compression:";
 < < "yC7-Nz-ia1.title" = "Rename preset...";
-839,1124c43,82
+559,844c30,69
 < < "yrU-Nz-yx1.title" = "Palettized";
 < < "z0C-lV-mql.ibShadowedToolTip" = "Rasterize layer contents (including raster and vector masks, layer effects and adjustments)";
 < < "zVF-TF-eVD.title" = "Convert clips to paths";
