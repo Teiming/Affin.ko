@@ -1,12 +1,12 @@
+---
+---
+---
 3c3
-< "10.title" = "Symbol";
----
-> "10.title" = "シンボル";
 6c6
-< "4FD-4a-r19.title" = "Rename Symbol...";
----
-> "4FD-4a-r19.title" = "シンボル名を変更...";
 9c9
+< "10.title" = "Symbol";
+< "4FD-4a-r19.title" = "Rename Symbol...";
 < "zVk-EX-LVH.title" = "Delete Symbol";
----
+> "10.title" = "シンボル";
+> "4FD-4a-r19.title" = "シンボル名を変更...";
 > "zVk-EX-LVH.title" = "シンボルを削除";
