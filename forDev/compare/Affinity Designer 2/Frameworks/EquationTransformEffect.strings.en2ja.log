@@ -1,88 +1,88 @@
-3c3
-< "1.title" = "Equations";
 ---
-> "1.title" = "数式";
-6c6
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "409.title" = "Cancel";
----
-> "409.title" = "キャンセル";
 15c15
-< "0kA-UE-M3n.ibShadowedToolTip" = "Mirror view";
----
-> "0kA-UE-M3n.ibShadowedToolTip" = "ミラー表示";
 21c21
-< "6oX-kD-exv.title" = "Parameter B (b)";
----
-> "6oX-kD-exv.title" = "パラメータB(b)";
 24c24
-< "CS9-Oj-J5S.title" = "Wrap";
----
-> "CS9-Oj-J5S.title" = "回り込み";
 27c27
-< "MAh-XE-rba.title" = "Degrees";
----
-> "MAh-XE-rba.title" = "度";
 30c30
-< "Vch-6h-IPz.title" = "Radians";
----
-> "Vch-6h-IPz.title" = "ラジアン";
 33c33
-< "W9u-6c-HBU.title" = "Parameter C (c)";
----
-> "W9u-6c-HBU.title" = "パラメータC(c)";
 36c36
-< "WEp-G8-si7.title" = "Equations";
----
-> "WEp-G8-si7.title" = "数式";
 39c39
-< "WJG-qK-Mfc.title" = "Zero";
----
-> "WJG-qK-Mfc.title" = "ゼロ";
+3c3
 42c42
-< "WOY-6h-4Y5.title" = "Angular units";
----
-> "WOY-6h-4Y5.title" = "角度の単位";
 45c45
-< "Y45-Yj-gQW.title" = "Repeat";
----
-> "Y45-Yj-gQW.title" = "繰り返し";
 48c48
-< "ZKU-CM-ecR.title" = "Cartesian";
----
-> "ZKU-CM-ecR.title" = "カルテシアン";
 51c51
-< "ZSb-J6-CFB.ibShadowedToolTip" = "No split view";
----
-> "ZSb-J6-CFB.ibShadowedToolTip" = "分割表示なし";
 54c54
-< "b1X-DH-8hZ.title" = "Extend Mode";
----
-> "b1X-DH-8hZ.title" = "拡張モード";
 57c57
-< "bsA-EH-3aR.ibShadowedToolTip" = "Split view";
----
-> "bsA-EH-3aR.ibShadowedToolTip" = "分割表示";
 63c63
-< "r4Q-Iu-ff7.title" = "Mirror";
----
-> "r4Q-Iu-ff7.title" = "ミラー";
 66c66
-< "vaX-ug-Nvc.title" = "Full";
----
-> "vaX-ug-Nvc.title" = "フル";
+6c6
 72c72
-< "wbb-Y5-GXx.title" = "Coordinate System";
----
-> "wbb-Y5-GXx.title" = "座標系";
 75c75
-< "xXf-h8-CaE.title" = "Parameter A (a)";
----
-> "xXf-h8-CaE.title" = "パラメータA(a)";
 78c78
+< "0kA-UE-M3n.ibShadowedToolTip" = "Mirror view";
+< "1.title" = "Equations";
+< "26.title" = "Apply";
+< "409.title" = "Cancel";
+< "6oX-kD-exv.title" = "Parameter B (b)";
+< "CS9-Oj-J5S.title" = "Wrap";
+< "MAh-XE-rba.title" = "Degrees";
+< "Vch-6h-IPz.title" = "Radians";
+< "W9u-6c-HBU.title" = "Parameter C (c)";
+< "WEp-G8-si7.title" = "Equations";
+< "WJG-qK-Mfc.title" = "Zero";
+< "WOY-6h-4Y5.title" = "Angular units";
+< "Y45-Yj-gQW.title" = "Repeat";
+< "ZKU-CM-ecR.title" = "Cartesian";
+< "ZSb-J6-CFB.ibShadowedToolTip" = "No split view";
+< "b1X-DH-8hZ.title" = "Extend Mode";
+< "bsA-EH-3aR.ibShadowedToolTip" = "Split view";
+< "r4Q-Iu-ff7.title" = "Mirror";
+< "vaX-ug-Nvc.title" = "Full";
+< "wbb-Y5-GXx.title" = "Coordinate System";
+< "xXf-h8-CaE.title" = "Parameter A (a)";
 < "ysL-SJ-vz2.title" = "Polar";
----
+> "0kA-UE-M3n.ibShadowedToolTip" = "ミラー表示";
+> "1.title" = "数式";
+> "26.title" = "適用";
+> "409.title" = "キャンセル";
+> "6oX-kD-exv.title" = "パラメータB(b)";
+> "CS9-Oj-J5S.title" = "回り込み";
+> "MAh-XE-rba.title" = "度";
+> "Vch-6h-IPz.title" = "ラジアン";
+> "W9u-6c-HBU.title" = "パラメータC(c)";
+> "WEp-G8-si7.title" = "数式";
+> "WJG-qK-Mfc.title" = "ゼロ";
+> "WOY-6h-4Y5.title" = "角度の単位";
+> "Y45-Yj-gQW.title" = "繰り返し";
+> "ZKU-CM-ecR.title" = "カルテシアン";
+> "ZSb-J6-CFB.ibShadowedToolTip" = "分割表示なし";
+> "b1X-DH-8hZ.title" = "拡張モード";
+> "bsA-EH-3aR.ibShadowedToolTip" = "分割表示";
+> "r4Q-Iu-ff7.title" = "ミラー";
+> "vaX-ug-Nvc.title" = "フル";
+> "wbb-Y5-GXx.title" = "座標系";
+> "xXf-h8-CaE.title" = "パラメータA(a)";
 > "ysL-SJ-vz2.title" = "極座標";

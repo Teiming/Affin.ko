@@ -1,126 +1,114 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSWindow"; title = "Equations"; ObjectID = "1"; */
-4,5c5,8
-< > "1.title" = "数式";
-< 6c6
----
-> > /* Class = "NSWindow"; title = "수식"; ObjectID = "1"; */
-> > "1.title" = "수식";
-> 5,6c5,6
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-8,9c11,14
-< > "26.title" = "適用";
+10,44c10,18
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 12c12
----
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> > "26.title" = "적용";
-> 11,12c11,12
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "409"; */
-12,13c17,20
-< > "409.title" = "キャンセル";
 < 15c15
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "409"; */
-> > "409.title" = "취소";
-> 14,15c14,15
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "0kA-UE-M3n"; */
-16,37c23,26
-< > "0kA-UE-M3n.ibShadowedToolTip" = "ミラー表示";
 < 21c21
-< < "6oX-kD-exv.title" = "Parameter B (b)";
-< ---
-< > "6oX-kD-exv.title" = "パラメータB(b)";
 < 24c24
-< < "CS9-Oj-J5S.title" = "Wrap";
-< ---
-< > "CS9-Oj-J5S.title" = "回り込み";
 < 27c27
-< < "MAh-XE-rba.title" = "Degrees";
-< ---
-< > "MAh-XE-rba.title" = "度";
 < 30c30
-< < "Vch-6h-IPz.title" = "Radians";
-< ---
-< > "Vch-6h-IPz.title" = "ラジアン";
 < 33c33
-< < "W9u-6c-HBU.title" = "Parameter C (c)";
-< ---
-< > "W9u-6c-HBU.title" = "パラメータC(c)";
 < 36c36
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "0kA-UE-M3n"; */
-> > "0kA-UE-M3n.ibShadowedToolTip" = "거울 뷰 모드";
-> 35,36c35,36
-> < /* Class = "NSTextFieldCell"; title = "Equations"; ObjectID = "WEp-G8-si7"; */
-40,49c29,32
-< > "WEp-G8-si7.title" = "数式";
 < 39c39
-< < "WJG-qK-Mfc.title" = "Zero";
-< ---
-< > "WJG-qK-Mfc.title" = "ゼロ";
+< 3c3
 < 42c42
-< < "WOY-6h-4Y5.title" = "Angular units";
-< ---
-< > "WOY-6h-4Y5.title" = "角度の単位";
 < 45c45
----
-> > /* Class = "NSTextFieldCell"; title = "수식"; ObjectID = "WEp-G8-si7"; */
-> > "WEp-G8-si7.title" = "수식";
-> 44,45c44,45
-> < /* Class = "NSMenuItem"; title = "Repeat"; ObjectID = "Y45-Yj-gQW"; */
-52,57c35,38
-< > "Y45-Yj-gQW.title" = "繰り返し";
 < 48c48
-< < "ZKU-CM-ecR.title" = "Cartesian";
-< ---
-< > "ZKU-CM-ecR.title" = "カルテシアン";
 < 51c51
----
-> > /* Class = "NSMenuItem"; title = "반복"; ObjectID = "Y45-Yj-gQW"; */
-> > "Y45-Yj-gQW.title" = "반복";
-> 50,51c50,51
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "ZSb-J6-CFB"; */
-60,65c41,44
-< > "ZSb-J6-CFB.ibShadowedToolTip" = "分割表示なし";
 < 54c54
-< < "b1X-DH-8hZ.title" = "Extend Mode";
-< ---
-< > "b1X-DH-8hZ.title" = "拡張モード";
 < 57c57
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "ZSb-J6-CFB"; */
-> > "ZSb-J6-CFB.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> 56,57c56,57
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "bsA-EH-3aR"; */
-68,69c47,50
-< > "bsA-EH-3aR.ibShadowedToolTip" = "分割表示";
 < 63c63
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "bsA-EH-3aR"; */
-> > "bsA-EH-3aR.ibShadowedToolTip" = "분할 뷰 모드";
-> 62,63c62,63
-> < /* Class = "NSMenuItem"; title = "Mirror"; ObjectID = "r4Q-Iu-ff7"; */
-72,88c53,54
-< > "r4Q-Iu-ff7.title" = "ミラー";
 < 66c66
-< < "vaX-ug-Nvc.title" = "Full";
-< ---
-< > "vaX-ug-Nvc.title" = "フル";
+< 6c6
 < 72c72
-< < "wbb-Y5-GXx.title" = "Coordinate System";
-< ---
-< > "wbb-Y5-GXx.title" = "座標系";
 < 75c75
-< < "xXf-h8-CaE.title" = "Parameter A (a)";
-< ---
-< > "xXf-h8-CaE.title" = "パラメータA(a)";
 < 78c78
+---
+> 11,12c11,12
+> 14,15c14,15
+> 2,3c2,3
+> 35,36c35,36
+> 44,45c44,45
+> 5,6c5,6
+> 50,51c50,51
+> 56,57c56,57
+> 62,63c62,63
+49,53d22
+< < "6oX-kD-exv.title" = "Parameter B (b)";
+< < "CS9-Oj-J5S.title" = "Wrap";
+< < "MAh-XE-rba.title" = "Degrees";
+< < "Vch-6h-IPz.title" = "Radians";
+< < "W9u-6c-HBU.title" = "Parameter C (c)";
+55,56d23
+< < "WJG-qK-Mfc.title" = "Zero";
+< < "WOY-6h-4Y5.title" = "Angular units";
+58d24
+< < "ZKU-CM-ecR.title" = "Cartesian";
+60d25
+< < "b1X-DH-8hZ.title" = "Extend Mode";
+63,88c28,54
+< < "vaX-ug-Nvc.title" = "Full";
+< < "wbb-Y5-GXx.title" = "Coordinate System";
+< < "xXf-h8-CaE.title" = "Parameter A (a)";
 < < "ysL-SJ-vz2.title" = "Polar";
-< ---
+< > "0kA-UE-M3n.ibShadowedToolTip" = "ミラー表示";
+< > "1.title" = "数式";
+< > "26.title" = "適用";
+< > "409.title" = "キャンセル";
+< > "6oX-kD-exv.title" = "パラメータB(b)";
+< > "CS9-Oj-J5S.title" = "回り込み";
+< > "MAh-XE-rba.title" = "度";
+< > "Vch-6h-IPz.title" = "ラジアン";
+< > "W9u-6c-HBU.title" = "パラメータC(c)";
+< > "WEp-G8-si7.title" = "数式";
+< > "WJG-qK-Mfc.title" = "ゼロ";
+< > "WOY-6h-4Y5.title" = "角度の単位";
+< > "Y45-Yj-gQW.title" = "繰り返し";
+< > "ZKU-CM-ecR.title" = "カルテシアン";
+< > "ZSb-J6-CFB.ibShadowedToolTip" = "分割表示なし";
+< > "b1X-DH-8hZ.title" = "拡張モード";
+< > "bsA-EH-3aR.ibShadowedToolTip" = "分割表示";
+< > "r4Q-Iu-ff7.title" = "ミラー";
+< > "vaX-ug-Nvc.title" = "フル";
+< > "wbb-Y5-GXx.title" = "座標系";
+< > "xXf-h8-CaE.title" = "パラメータA(a)";
 < > "ysL-SJ-vz2.title" = "極座標";
 ---
-> > /* Class = "NSMenuItem"; title = "거울"; ObjectID = "r4Q-Iu-ff7"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "0kA-UE-M3n"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "ZSb-J6-CFB"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "bsA-EH-3aR"; */
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "409"; */
+> < /* Class = "NSMenuItem"; title = "Mirror"; ObjectID = "r4Q-Iu-ff7"; */
+> < /* Class = "NSMenuItem"; title = "Repeat"; ObjectID = "Y45-Yj-gQW"; */
+> < /* Class = "NSTextFieldCell"; title = "Equations"; ObjectID = "WEp-G8-si7"; */
+> < /* Class = "NSWindow"; title = "Equations"; ObjectID = "1"; */
+> > "0kA-UE-M3n.ibShadowedToolTip" = "거울 뷰 모드";
+> > "1.title" = "수식";
+> > "26.title" = "적용";
+> > "409.title" = "취소";
+> > "WEp-G8-si7.title" = "수식";
+> > "Y45-Yj-gQW.title" = "반복";
+> > "ZSb-J6-CFB.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> > "bsA-EH-3aR.ibShadowedToolTip" = "분할 뷰 모드";
 > > "r4Q-Iu-ff7.title" = "거울";
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "ZSb-J6-CFB"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "0kA-UE-M3n"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "bsA-EH-3aR"; */
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "409"; */
+> > /* Class = "NSMenuItem"; title = "반복"; ObjectID = "Y45-Yj-gQW"; */
+> > /* Class = "NSMenuItem"; title = "거울"; ObjectID = "r4Q-Iu-ff7"; */
+> > /* Class = "NSTextFieldCell"; title = "수식"; ObjectID = "WEp-G8-si7"; */
+> > /* Class = "NSWindow"; title = "수식"; ObjectID = "1"; */
