@@ -1,40 +1,38 @@
-1,17c1,2
-< 3c3
-< < "2UX-2c-ecV.title" = "Generate";
+3,18c3,4
 < ---
-< > "2UX-2c-ecV.title" = "生成";
-< 6c6
-< < "5ew-Cj-XKt.ibShadowedToolTip" = "Delete Data Merge Source";
 < ---
-< > "5ew-Cj-XKt.ibShadowedToolTip" = "データ結合ソースを削除";
-< 9c9
-< < "F0z-JX-Cv5.title" = "Data Merge";
 < ---
-< > "F0z-JX-Cv5.title" = "データ結合";
+< ---
+< ---
 < 12c12
-< < "U9L-UT-4Dw.title" = "Section 1 - Prefix";
-< ---
-< > "U9L-UT-4Dw.title" = "セクション1 - プレフィックス";
 < 15c15
+< 21c21
+< 24c24
+< 3c3
+< 6c6
+< 9c9
+< < "2UX-2c-ecV.title" = "Generate";
+< < "5ew-Cj-XKt.ibShadowedToolTip" = "Delete Data Merge Source";
+< < "F0z-JX-Cv5.title" = "Data Merge";
+< < "U9L-UT-4Dw.title" = "Section 1 - Prefix";
 ---
 > 14,15c14,15
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "ali-zz-Rkf"; */
-20,22c5,9
-< > "ali-zz-Rkf.title" = "閉じる";
-< 21c21
-< < "ttS-mB-1DJ.ibShadowedToolTip" = "Add Data Merge Source";
----
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "ali-zz-Rkf"; */
-> > "ali-zz-Rkf.title" = "닫기";
 > 17,18c17,18
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nde-3a-Npe"; */
-> < "nde-3a-Npe.title" = "Text Cell";
-24,28c11,12
-< > "ttS-mB-1DJ.ibShadowedToolTip" = "データ結合ソースを追加";
-< 24c24
+20,28c6,12
+< < "ttS-mB-1DJ.ibShadowedToolTip" = "Add Data Merge Source";
 < < "wcs-se-rA1.title" = "Pages 1007-2007";
-< ---
+< > "2UX-2c-ecV.title" = "生成";
+< > "5ew-Cj-XKt.ibShadowedToolTip" = "データ結合ソースを削除";
+< > "F0z-JX-Cv5.title" = "データ結合";
+< > "U9L-UT-4Dw.title" = "セクション1 - プレフィックス";
+< > "ali-zz-Rkf.title" = "閉じる";
+< > "ttS-mB-1DJ.ibShadowedToolTip" = "データ結合ソースを追加";
 < > "wcs-se-rA1.title" = "ページ1007～2007";
 ---
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "nde-3a-Npe"; */
+> < "nde-3a-Npe.title" = "Text Cell";
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "ali-zz-Rkf"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nde-3a-Npe"; */
+> > "ali-zz-Rkf.title" = "닫기";
 > > "nde-3a-Npe.title" = "텍스트 셀";
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "ali-zz-Rkf"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "nde-3a-Npe"; */
