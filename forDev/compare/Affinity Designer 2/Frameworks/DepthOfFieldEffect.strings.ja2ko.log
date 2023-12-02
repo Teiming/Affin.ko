@@ -59,12 +59,12 @@
 > > "19.title" = "적용";
 > > "32.title" = "타원형";
 > > "396.title" = "모드";
-> > "9Nv-4z-CJ6.ibShadowedToolTip" = "분할 뷰 모드";
-> > "Ey6-gC-wKB.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> > "pri-8L-abp.ibShadowedToolTip" = "거울 뷰 모드";
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "Ey6-gC-wKB"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "9Nv-4z-CJ6"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "pri-8L-abp"; */
+> > "9Nv-4z-CJ6.ibShadowedToolTip" = "분할 보기";
+> > "Ey6-gC-wKB.ibShadowedToolTip" = "분할 보기 해제";
+> > "pri-8L-abp.ibShadowedToolTip" = "거울 보기";
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "Ey6-gC-wKB"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "9Nv-4z-CJ6"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "pri-8L-abp"; */
 > > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "166"; */
 > > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "19"; */
 > > /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "32"; */
