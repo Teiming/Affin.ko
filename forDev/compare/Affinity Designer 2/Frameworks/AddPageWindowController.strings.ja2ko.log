@@ -1,62 +1,54 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSButtonCell"; title = "Before"; ObjectID = "2ud-at-7Y0"; */
-4,13c5,8
-< > "2ud-at-7Y0.title" = "前";
-< 6c6
-< < "6rB-gc-kTK.title" = "Insert:";
+7,18c7,12
 < ---
-< > "6rB-gc-kTK.title" = "挿入:";
-< 9c9
-< < "FQv-0w-VKW.title" = "Number of pages:";
 < ---
-< > "FQv-0w-VKW.title" = "ページ数:";
+< ---
 < 12c12
----
-> > /* Class = "NSButtonCell"; title = "이전"; ObjectID = "2ud-at-7Y0"; */
-> > "2ud-at-7Y0.title" = "이전";
-> 11,12c11,12
-> < /* Class = "NSButtonCell"; title = "After"; ObjectID = "J5Y-93-wX8"; */
-16,17c11,14
-< > "J5Y-93-wX8.title" = "後";
 < 15c15
----
-> > /* Class = "NSButtonCell"; title = "이후"; ObjectID = "J5Y-93-wX8"; */
-> > "J5Y-93-wX8.title" = "이후";
-> 14,15c14,15
-> < /* Class = "NSTextFieldCell"; title = "Page:"; ObjectID = "ORj-93-aUn"; */
-20,21c17,20
-< > "ORj-93-aUn.title" = "ページ:";
 < 21c21
----
-> > /* Class = "NSTextFieldCell"; title = "페이지:"; ObjectID = "ORj-93-aUn"; */
-> > "ORj-93-aUn.title" = "페이지:";
-> 20,21c20,21
-> < /* Class = "NSWindow"; title = "Add Page"; ObjectID = "QvC-M9-y7g"; */
-24,29c23,26
-< > "QvC-M9-y7g.title" = "1ページを追加";
 < 24c24
-< < "Uui-yx-fwy.title" = "Master Page:";
-< ---
-< > "Uui-yx-fwy.title" = "マスターページ:";
 < 27c27
----
-> > /* Class = "NSWindow"; title = "페이지 추가"; ObjectID = "QvC-M9-y7g"; */
-> > "QvC-M9-y7g.title" = "페이지 추가";
-> 26,27c26,27
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
-32,33c29,32
-< > "fIV-u8-dQJ.title" = "キャンセル";
 < 30c30
+< 3c3
+< 6c6
+< 9c9
 ---
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */
-> > "fIV-u8-dQJ.title" = "취소";
+> 11,12c11,12
+> 14,15c14,15
+> 2,3c2,3
+> 20,21c20,21
+> 26,27c26,27
 > 29,30c29,30
-> < /* Class = "NSTextFieldCell"; title = "Add Pages"; ObjectID = "pLx-26-Egv"; */
-36c35,36
+20,21d13
+< < "6rB-gc-kTK.title" = "Insert:";
+< < "FQv-0w-VKW.title" = "Number of pages:";
+25d16
+< < "Uui-yx-fwy.title" = "Master Page:";
+28,36c19,36
+< > "2ud-at-7Y0.title" = "前";
+< > "6rB-gc-kTK.title" = "挿入:";
+< > "FQv-0w-VKW.title" = "ページ数:";
+< > "J5Y-93-wX8.title" = "後";
+< > "ORj-93-aUn.title" = "ページ:";
+< > "QvC-M9-y7g.title" = "1ページを追加";
+< > "Uui-yx-fwy.title" = "マスターページ:";
+< > "fIV-u8-dQJ.title" = "キャンセル";
 < > "pLx-26-Egv.title" = "ページを追加";
 ---
-> > /* Class = "NSTextFieldCell"; title = "페이지 추가"; ObjectID = "pLx-26-Egv"; */
+> < /* Class = "NSButtonCell"; title = "After"; ObjectID = "J5Y-93-wX8"; */
+> < /* Class = "NSButtonCell"; title = "Before"; ObjectID = "2ud-at-7Y0"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
+> < /* Class = "NSTextFieldCell"; title = "Add Pages"; ObjectID = "pLx-26-Egv"; */
+> < /* Class = "NSTextFieldCell"; title = "Page:"; ObjectID = "ORj-93-aUn"; */
+> < /* Class = "NSWindow"; title = "Add Page"; ObjectID = "QvC-M9-y7g"; */
+> > "2ud-at-7Y0.title" = "이전";
+> > "J5Y-93-wX8.title" = "이후";
+> > "ORj-93-aUn.title" = "페이지:";
+> > "QvC-M9-y7g.title" = "페이지 추가";
+> > "fIV-u8-dQJ.title" = "취소";
 > > "pLx-26-Egv.title" = "페이지 추가";
+> > /* Class = "NSButtonCell"; title = "이전"; ObjectID = "2ud-at-7Y0"; */
+> > /* Class = "NSButtonCell"; title = "이후"; ObjectID = "J5Y-93-wX8"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */
+> > /* Class = "NSTextFieldCell"; title = "페이지 추가"; ObjectID = "pLx-26-Egv"; */
+> > /* Class = "NSTextFieldCell"; title = "페이지:"; ObjectID = "ORj-93-aUn"; */
+> > /* Class = "NSWindow"; title = "페이지 추가"; ObjectID = "QvC-M9-y7g"; */
