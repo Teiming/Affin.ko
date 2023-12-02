@@ -1,124 +1,4 @@
-93,302c93,128
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,91c2,37
 < 102c102
 < 105c105
 < 108c108
@@ -246,7 +126,7 @@
 > 338,339c338,339
 > 341,342c341,342
 > 344,345c344,345
-304,311c130,131
+93,100c39,40
 < 351c351
 < 357c357
 < 360c360
@@ -258,7 +138,7 @@
 ---
 > 350,351c350,351
 > 365,366c365,366
-313,425c133,184
+102,214c42,93
 < 378c378
 < 381c381
 < 384c384
@@ -425,30 +305,30 @@
 > 83,84c83,84
 > 92,93c92,93
 > 98,99c98,99
-427d185
+216d94
 < < "0vB-oy-A9X.title" = "Procedural Texture…";
-435d192
+224d101
 < < "2UE-TY-ZEp.title" = "Field Blur…";
-437d193
+226d102
 < < "3Cy-pU-xbV.title" = "Color Balance…";
-439,440d194
+228,229d103
 < < "3PJ-5b-LTw.title" = "Preflight Comment";
 < < "3pC-0D-ZMZ.title" = "Select Parent";
-442d195
+231d104
 < < "410-7P-30G.title" = "Release";
-444,449d196
+233,238d105
 < < "54n-ro-kqV.title" = "Spherical…";
 < < "5IQ-Lu-TDX.title" = "Dust & Scratches…";
 < < "5eK-jL-Jut.title" = "Release Mask";
 < < "651-f4-Nf5.title" = "Voronoi…";
 < < "6f3-Ib-fxL.title" = "Posterize…";
 < < "71e-Zc-lJH.title" = "Depth Of Field…";
-452,453d198
+241,242d107
 < < "7eq-yN-pCf.title" = "Exclude from Snapping";
 < < "7tZ-zN-cL9.title" = "Mask to Below";
-455d199
+244d108
 < < "8x7-Ck-GRK.title" = "Edit Frame Content";
-458,468d201
+247,257d110
 < < "9h1-iC-Lh3.title" = "Arc - Vertical";
 < < "ADS-DR-aKK.title" = "Refine Mask...";
 < < "Adn-9m-x7e.title" = "Normals…";
@@ -460,120 +340,120 @@
 < < "C8u-AZ-voy.title" = "Ripple…";
 < < "CBp-Ub-Dp8.title" = "Selective Color…";
 < < "CNa-ig-aaT.title" = "Empty Mask";
-470,472d202
+259,261d111
 < < "D3K-5a-rHG.title" = "Show Object Type";
 < < "DAc-v6-0rC.title" = "Diffuse…";
 < < "DXI-ee-UI2.title" = "Bend - Horizontal";
-474d203
+263d112
 < < "DuV-rb-GfA.title" = "Expand Selection";
-476,478d204
+265,267d113
 < < "EUZ-cx-w79.title" = "Levels…";
 < < "Ebf-rT-roF.title" = "Color Tag Placeholder";
 < < "Fda-Uy-jwc.title" = "Quad";
-480,485d205
+269,274d114
 < < "GNc-XS-WkR.ibShadowedToolTip" = "Warp";
 < < "GvO-16-DzV.title" = "Denoise…";
 < < "Gye-W2-jRI.title" = "Perspective…";
 < < "H5V-Ku-YBI.title" = "Maximum Blur…";
 < < "HRa-fh-uj1.title" = "Minimum Blur…";
 < < "HY8-Nu-XR5.ibShadowedToolTip" = "Live Filters";
-487d206
+276d115
 < < "HdS-WT-IE7.title" = "Release";
-489,491d207
+278,280d116
 < < "IEh-6e-cCG.title" = "Lens Filter…";
 < < "IMu-Gr-bUZ.title" = "Collapse Selection";
 < < "Ijy-rQ-bU2.title" = "Expand Selection";
-495d210
+284d119
 < < "K6S-GX-59r.title" = "Displace…";
-497,501d211
+286,290d120
 < < "KIV-Uq-ytQ.title" = "Vignette…";
 < < "KPN-AR-hOG.title" = "Release";
 < < "KYh-iz-0Po.title" = "Vibrance…";
 < < "Keu-l7-gGh.title" = "Collapse Selection";
 < < "Kqi-y1-nN1.title" = "Threshold…";
-504,507d213
+293,296d122
 < < "MmL-mr-DDu.title" = "Rasterize to Mask";
 < < "Mn9-9M-JEz.title" = "Exclude from Snapping";
 < < "NEW-bK-5WJ.title" = "Rasterize & Trim…";
 < < "NKx-kP-jVf.title" = "Gradient Map…";
-509,511d214
+298,300d123
 < < "OSs-ig-FHC.title" = "Expand Selection";
 < < "Omw-yO-gxY.title" = "Twirl…";
 < < "Oq8-NE-dRv.title" = "Curves…";
-514d216
+303d125
 < < "PKn-Mm-xuT.title" = "Channel Mixer…";
-519d220
+308d129
 < < "RaI-hw-4YR.title" = "Collapse Selection";
-521,524d221
+310,313d130
 < < "S5i-WE-IB6.title" = "Select Parent";
 < < "Swu-Q9-rrW.title" = "Show Others";
 < < "TRz-oj-Dg4.title" = "Perspective";
 < < "TjQ-96-DeA.title" = "Exposure…";
-526d222
+315d131
 < < "UAm-lY-cwe.title" = "Rasterize to Mask";
-528,533d223
+317,322d132
 < < "UfA-rH-oP6.title" = "Properties…";
 < < "UoG-zn-DFb.title" = "Rasterize to Mask";
 < < "VF8-jt-RrP.title" = "Luminosity Range Mask…";
 < < "VGC-ZU-76a.title" = "Radial Blur…";
 < < "VvG-AZ-ANl.title" = "Collapse All Parents";
 < < "W5X-AA-7Fa.title" = "Checkerboard";
-535d224
+324d133
 < < "XUK-pB-oQF.title" = "Lens Blur…";
-541,543d229
+330,332d138
 < < "ZU9-TJ-4oq.title" = "Preflight Comment";
 < < "ZUW-uh-KrE.title" = "Halftone…";
 < < "Zcx-kR-NPS.title" = "Unsharp Mask…";
-545,546d230
+334,335d139
 < < "ac1-Ze-KJK.title" = "Brightness and Contrast…";
 < < "aey-y9-0vT.title" = "Liquify…";
-548,549d231
+337,338d140
 < < "aos-pW-97h.title" = "Hue Range Mask…";
 < < "asZ-KS-OcW.title" = "Bend - Vertical";
-551,554d232
+340,343d141
 < < "brq-16-CzO.title" = "Fish Eye";
 < < "buw-mG-r1d.title" = "Rasterize…";
 < < "bvX-0g-T0d.title" = "Expand Selection";
 < < "bwh-Yp-RYg.title" = "Color Tag Placeholder";
-557d234
+346d143
 < < "cbF-6M-ptW.title" = "Gaussian Blur…";
-559d235
+348d144
 < < "cwG-4t-ZTf.title" = "Lens Distortion…";
-561,563d236
+350,352d145
 < < "dS5-17-jOa.title" = "Collapse Selection";
 < < "dUN-TC-4vJ.title" = "Mask to Below";
 < < "ddz-dY-viZ.title" = "Bilateral Blur…";
-565d237
+354d146
 < < "e8N-Q7-x1a.title" = "Band-pass Mask…";
-567d238
+356d147
 < < "eoK-JN-x1T.title" = "Pinch / Punch…";
-573d243
+362d152
 < < "gQ1-KW-jqe.title" = "Shadows / Highlights…";
-577,580d246
+366,369d155
 < < "h08-4P-cH9.title" = "Black and White…";
 < < "hVz-GL-fp2.title" = "Add Noise…";
 < < "hXM-wT-lvW.title" = "Clarity…";
 < < "hXl-nq-0KU.title" = "Rasterize & Trim…";
-584,589d249
+373,378d158
 < < "k42-lm-Vm6.title" = "White Balance…";
 < < "k50-gt-XVh.title" = "Edit Mask";
 < < "kKF-TC-oUu.title" = "Thumbnail Background";
 < < "kKi-A3-6Ez.title" = "Collapse All Parents";
 < < "kRS-W8-hiQ.title" = "Thumbnail Background";
 < < "kbJ-4i-Zlx.title" = "Shadows / Highlights…";
-592d251
+381d160
 < < "kuE-O3-tq1.title" = "Release";
-594d252
+383d161
 < < "l07-FM-57g.title" = "Rasterize…";
-596,597d253
+385,386d162
 < < "lG0-Rq-P1m.title" = "Exclude from Snapping";
 < < "lI6-0K-5TZ.title" = "Color Tag Placeholder";
-599,600d254
+388,389d163
 < < "mB8-og-JfM.title" = "Soft Proof…";
 < < "nGZ-NG-6rt.title" = "Defringe…";
-602d255
+391d164
 < < "o1n-fa-ddw.title" = "Properties…";
-604,610d256
+393,399d165
 < < "osk-jW-QfR.title" = "Lighting…";
 < < "pBT-rj-VoI.title" = "Set…";
 < < "pP0-hd-tRt.title" = "Median Blur…";
@@ -581,28 +461,28 @@
 < < "q4r-H9-jh3.title" = "Show Others";
 < < "qIz-6Z-1Rf.title" = "Rasterize to Mask";
 < < "qLl-aR-Cpr.title" = "High Pass…";
-613,616d258
+402,405d167
 < < "qu9-LW-YUs.title" = "Edit Linked";
 < < "rBJ-Jn-KIP.title" = "Split Toning…";
 < < "rlM-FF-7kH.title" = "Edit Detached";
 < < "rwH-Nj-DNG.title" = "Motion Blur…";
-618,619d259
+407,408d168
 < < "s5G-yy-TDC.title" = "Rasterize…";
 < < "t2c-nC-q3r.title" = "Compound Mask";
-621d260
+410d169
 < < "twh-QL-F1w.title" = "Exclude from Snapping";
-624d262
+413d171
 < < "vPF-yq-KPV.title" = "Arc - Horizontal";
-626d263
+415d172
 < < "voD-GH-rjs.title" = "Recolor…";
-628,629d264
+417,418d173
 < < "waR-HC-mI3.title" = "Box Blur…";
 < < "wmA-4c-NbV.title" = "Color Tag Placeholder";
-631d265
+420d174
 < < "yHq-E4-VYE.title" = "Show Group Thumbnails";
-634d267
+423d176
 < < "yVL-aF-prU.title" = "Rasterize…";
-636,848c269,532
+425,637c178,441
 < < "zNn-wW-jQH.title" = "Diffuse Glow…";
 < > "0N1-K6-tCa.title" = "下のレイヤーにマスクを使用";
 < > "0ei-lO-DFN.title" = "ロック";
