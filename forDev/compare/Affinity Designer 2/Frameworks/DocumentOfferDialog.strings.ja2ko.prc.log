@@ -29,9 +29,5 @@
 < > "kD8-bc-YVG.title" = "キャンセル";
 < > "zv2-h3-8YW.title" = "送信";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "kD8-bc-YVG"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SCf-wZ-vaU"; */
 > > "SCf-wZ-vaU.title" = "텍스트 셀";
 > > "kD8-bc-YVG.title" = "취소";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "kD8-bc-YVG"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "SCf-wZ-vaU"; */
