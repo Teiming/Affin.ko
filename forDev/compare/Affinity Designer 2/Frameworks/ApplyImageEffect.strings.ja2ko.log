@@ -1,118 +1,109 @@
-1,5c1,2
-< 3c3
-< < "1.title" = "Apply Image";
+9,43c9,16
 < ---
-< > "1.title" = "画像を適用";
-< 6c6
----
-> 5,6c5,6
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-8,9c5,8
-< > "26.title" = "適用";
-< 9c9
----
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> > "26.title" = "적용";
-> 8,9c8,9
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "226"; */
-12,25c11,14
-< > "226.title" = "キャンセル";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 12c12
-< < "2Qw-lN-r8G.title" = "Drag any layer onto this panel to use it as a source.";
-< ---
-< > "2Qw-lN-r8G.title" = "ソースとして使用するレイヤーをこのパネルにドラッグしてください。";
 < 15c15
-< < "2kK-i1-DPJ.title" = "or";
-< ---
-< > "2kK-i1-DPJ.title" = "または";
 < 18c18
-< < "5Ls-la-k3I.title" = "Alternatively,";
-< ---
-< > "5Ls-la-k3I.title" = "もしくは、";
 < 24c24
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "226"; */
-> > "226.title" = "취소";
-> 23,24c23,24
-> < /* Class = "NSTextFieldCell"; title = "Blend Mode"; ObjectID = "9vt-bT-CFQ"; */
-28,33c17,20
-< > "9vt-bT-CFQ.title" = "描画モード";
 < 33c33
-< < "Huj-ga-CqY.title" = "Box";
-< ---
-< > "Huj-ga-CqY.title" = "ボックス";
+< 3c3
 < 42c42
----
-> > /* Class = "NSTextFieldCell"; title = "혼합 모드"; ObjectID = "9vt-bT-CFQ"; */
-> > "9vt-bT-CFQ.title" = "혼합 모드";
-> 41,42c41,42
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "NaR-wF-Gjz"; */
-36,45c23,26
-< > "NaR-wF-Gjz.ibShadowedToolTip" = "分割表示";
 < 45c45
-< < "S54-Wm-8Ta.title" = "Grayscale";
-< ---
-< > "S54-Wm-8Ta.title" = "グレースケール";
 < 51c51
-< < "Zg4-bj-3SQ.title" = "Scale Horizontally To Fit";
-< ---
-< > "Zg4-bj-3SQ.title" = "サイズに合わせて水平方向にスケーリング";
 < 60c60
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "NaR-wF-Gjz"; */
-> > "NaR-wF-Gjz.ibShadowedToolTip" = "분할 뷰 모드";
-> 59,60c59,60
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "bxW-2J-FvN"; */
-48,69c29,32
-< > "bxW-2J-FvN.ibShadowedToolTip" = "分割表示なし";
 < 63c63
-< < "c8d-dK-p81.title" = "Box";
-< ---
-< > "c8d-dK-p81.title" = "ボックス";
 < 69c69
-< < "g1o-r8-yRL.title" = "Load Source From File";
-< ---
-< > "g1o-r8-yRL.title" = "ソースをファイルから読み込み";
+< 6c6
 < 81c81
-< < "qjP-5f-Mst.title" = "Scale Vertically To Fit";
-< ---
-< > "qjP-5f-Mst.title" = "サイズに合わせて垂直方向にスケーリング";
 < 84c84
-< < "rrr-9O-QbG.title" = "Equation Color Space";
-< ---
-< > "rrr-9O-QbG.title" = "数式色空間";
 < 87c87
-< < "tdB-7d-ilr.title" = "Box";
-< ---
-< > "tdB-7d-ilr.title" = "ボックス";
 < 90c90
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "bxW-2J-FvN"; */
-> > "bxW-2J-FvN.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> 89,90c89,90
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "vsr-no-n9S"; */
-72,77c35,38
-< > "vsr-no-n9S.ibShadowedToolTip" = "ミラー表示";
 < 93c93
-< < "xwh-CC-DSA.title" = "Use Current Layer As Source";
-< ---
-< > "xwh-CC-DSA.title" = "現在のレイヤーを使用";
 < 96c96
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "vsr-no-n9S"; */
-> > "vsr-no-n9S.ibShadowedToolTip" = "거울 뷰 모드";
-> 95,96c95,96
-> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "y1h-u0-qj6"; */
-80,81c41,44
-< > "y1h-u0-qj6.title" = "不透明度:";
 < 99c99
+< 9c9
+< < "1.title" = "Apply Image";
 ---
-> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "y1h-u0-qj6"; */
-> > "y1h-u0-qj6.title" = "불투명도:";
+> 23,24c23,24
+> 41,42c41,42
+> 5,6c5,6
+> 59,60c59,60
+> 8,9c8,9
+> 89,90c89,90
+> 95,96c95,96
 > 98,99c98,99
-> < /* Class = "NSButtonCell"; title = "Equations"; ObjectID = "zuZ-dQ-MqZ"; */
-84c47,48
+46,48d18
+< < "2Qw-lN-r8G.title" = "Drag any layer onto this panel to use it as a source.";
+< < "2kK-i1-DPJ.title" = "or";
+< < "5Ls-la-k3I.title" = "Alternatively,";
+50d19
+< < "Huj-ga-CqY.title" = "Box";
+52,53d20
+< < "S54-Wm-8Ta.title" = "Grayscale";
+< < "Zg4-bj-3SQ.title" = "Scale Horizontally To Fit";
+55,59d21
+< < "c8d-dK-p81.title" = "Box";
+< < "g1o-r8-yRL.title" = "Load Source From File";
+< < "qjP-5f-Mst.title" = "Scale Vertically To Fit";
+< < "rrr-9O-QbG.title" = "Equation Color Space";
+< < "tdB-7d-ilr.title" = "Box";
+61d22
+< < "xwh-CC-DSA.title" = "Use Current Layer As Source";
+64,84c25,48
+< > "1.title" = "画像を適用";
+< > "226.title" = "キャンセル";
+< > "26.title" = "適用";
+< > "2Qw-lN-r8G.title" = "ソースとして使用するレイヤーをこのパネルにドラッグしてください。";
+< > "2kK-i1-DPJ.title" = "または";
+< > "5Ls-la-k3I.title" = "もしくは、";
+< > "9vt-bT-CFQ.title" = "描画モード";
+< > "Huj-ga-CqY.title" = "ボックス";
+< > "NaR-wF-Gjz.ibShadowedToolTip" = "分割表示";
+< > "S54-Wm-8Ta.title" = "グレースケール";
+< > "Zg4-bj-3SQ.title" = "サイズに合わせて水平方向にスケーリング";
+< > "bxW-2J-FvN.ibShadowedToolTip" = "分割表示なし";
+< > "c8d-dK-p81.title" = "ボックス";
+< > "g1o-r8-yRL.title" = "ソースをファイルから読み込み";
+< > "qjP-5f-Mst.title" = "サイズに合わせて垂直方向にスケーリング";
+< > "rrr-9O-QbG.title" = "数式色空間";
+< > "tdB-7d-ilr.title" = "ボックス";
+< > "vsr-no-n9S.ibShadowedToolTip" = "ミラー表示";
+< > "xwh-CC-DSA.title" = "現在のレイヤーを使用";
+< > "y1h-u0-qj6.title" = "不透明度:";
 < > "zuZ-dQ-MqZ.title" = "数式";
 ---
-> > /* Class = "NSButtonCell"; title = "수식"; ObjectID = "zuZ-dQ-MqZ"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "vsr-no-n9S"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "bxW-2J-FvN"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "NaR-wF-Gjz"; */
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "226"; */
+> < /* Class = "NSButtonCell"; title = "Equations"; ObjectID = "zuZ-dQ-MqZ"; */
+> < /* Class = "NSTextFieldCell"; title = "Blend Mode"; ObjectID = "9vt-bT-CFQ"; */
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "y1h-u0-qj6"; */
+> > "226.title" = "취소";
+> > "26.title" = "적용";
+> > "9vt-bT-CFQ.title" = "혼합 모드";
+> > "NaR-wF-Gjz.ibShadowedToolTip" = "분할 뷰 모드";
+> > "bxW-2J-FvN.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> > "vsr-no-n9S.ibShadowedToolTip" = "거울 뷰 모드";
+> > "y1h-u0-qj6.title" = "불투명도:";
 > > "zuZ-dQ-MqZ.title" = "수식";
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "bxW-2J-FvN"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "NaR-wF-Gjz"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "vsr-no-n9S"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "226"; */
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > /* Class = "NSButtonCell"; title = "수식"; ObjectID = "zuZ-dQ-MqZ"; */
+> > /* Class = "NSTextFieldCell"; title = "혼합 모드"; ObjectID = "9vt-bT-CFQ"; */
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "y1h-u0-qj6"; */
