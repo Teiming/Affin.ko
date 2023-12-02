@@ -1,98 +1,4 @@
-40,266c40,80
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,134c2,42
 < 102c102
 < 105c105
 < 108c108
@@ -240,13 +146,14 @@
 > 212,213c212,213
 > 224,225c224,225
 > 230,231c230,231
-> 233,237c233,234
-> 239,240c236,237
-> 242,243c239,240
-> 244a242,244
+> 233,234c233,234
+> 236,237c236,237
+> 239,240c239,240
+> 242,243c242,243
 > 26,27c26,27
 > 260,261c260,261
 > 263,264c263,264
+> 272,273c272,273
 > 284,285c284,285
 > 287,288c287,288
 > 296,297c296,297
@@ -267,18 +174,17 @@
 > 83,84c83,84
 > 92,93c92,93
 > 98,99c98,99
-> < 
-268d81
+136d43
 < < "1e3-Wz-saZ.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Hyphenation";
-270,274d82
+138,142d44
 < < "2gU-sP-Sg5.title" = "End characters:";
 < < "3wn-yZ-aOQ.ibShadowedToolTip" = "Maximum Letter Spacing";
 < < "4aw-jh-QGX.ibShadowedToolTip" = "Default Tab Stops";
 < < "4is-dF-Hu2.ibShadowedToolTip" = "Minimum Letter Spacing";
 < < "6Ds-qe-Imm.headerCell.title" = "Position";
-276d83
+144d45
 < < "6Rx-1h-QqN.ibShadowedToolTip" = "Left Indent";
-279,287d85
+147,155d47
 < < "77v-6g-bto.title" = "Combine identical";
 < < "87d-wj-Ytw.ibShadowedToolTip" = "Stop applying the initial word style at any of these characters";
 < < "8A0-kd-ciJ.title" = "...";
@@ -288,17 +194,17 @@
 < < "9HW-Qu-UuN.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Tab Stops";
 < < "9fc-Z1-fcs.ibShadowedToolTip" = "Desired Letter Spacing";
 < < "A8T-dE-5f5.ibShadowedToolTip" = "Maximum Word Spacing";
-289,293d86
+157,161d48
 < < "B0k-Og-UPy.ibShadowedToolTip" = "Desired Word Spacing";
 < < "BUi-3q-lfC.title" = "Minimum score:";
 < < "BVg-YE-dJY.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Drop Caps";
 < < "CSL-zg-qkG.ibShadowedToolTip" = "Space Between Paragraphs";
 < < "D2I-Ye-Oap.title" = "Minimum suffix:";
-295d87
+163d49
 < < "DlY-Pm-C7j.title" = "Align to Baseline Grid";
-297d88
+165d50
 < < "GIo-2m-2OV.ibShadowedToolTip" = "The number of lines of text the drop cap should span";
-299,305d89
+167,173d51
 < < "HsB-o3-n2n.title" = "Max consecutive hyphens:";
 < < "I0J-zY-9Q4.title" = "Height in lines:";
 < < "IOl-vv-3xN.title" = "Keep with next:";
@@ -306,59 +212,59 @@
 < < "IV0-ef-QVb.title" = "Use space before:";
 < < "J4L-9c-Yjh.ibShadowedToolTip" = "List Level";
 < < "JD9-Qt-wUP.ibShadowedToolTip" = "Left Indent";
-308d91
+176d53
 < < "LI8-sB-ijB.title" = "Scale for descenders";
-310,315d92
+178,183d54
 < < "LzM-29-BXR.title" = "Prevent widowed last lines";
 < < "MHI-jP-HFs.title" = "Column end zone:";
 < < "MUm-XP-vZx.title" = "Use auto-hyphenation";
 < < "Nld-1A-9o0.ibShadowedToolTip" = "Tab Stop Indent";
 < < "Obr-Y6-BvG.title" = "Relative to";
 < < "Q1B-hS-6Q8.ibShadowedToolTip" = "First Line Indent";
-318,320d94
+186,188d56
 < < "QXM-mg-WeW.ibShadowedToolTip" = "Space After Paragraph";
 < < "Qg5-TU-Rhg.ibShadowedToolTip" = "Desired Letter Spacing";
 < < "ROq-ZC-YHC.ibShadowedToolTip" = "Maximum number of words to apply the initial word style to";
-322,324d95
+190,192d57
 < < "SOO-Mi-Swv.ibShadowedToolTip" = "Last Line Outdent";
 < < "T64-lX-SGZ.ibShadowedToolTip" = "Minimum Word Spacing";
 < < "TK2-YA-YWu.ibShadowedToolTip" = "Maximum Word Spacing";
-326,328d96
+194,196d58
 < < "UbB-LK-gf7.ibShadowedToolTip" = "List Type";
 < < "Ur2-ts-fNM.ibShadowedToolTip" = "Space Before Paragraph";
 < < "V7D-XP-KTg.title" = "Item 1";
-331,335d98
+199,203d60
 < < "Vwj-2c-pWw.ibShadowedToolTip" = "Character style to apply to the first words of the paragraph";
 < < "Wzw-xt-0ww.ibShadowedToolTip" = "Maximum Letter Spacing";
 < < "YJo-fs-z86.title" = "Prevent orphaned first lines";
 < < "Yhu-Md-Tz8.title" = "Indent";
 < < "ZBz-5Z-e7Q.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Justification";
-337,339d99
+205,207d61
 < < "a15-WH-2La.ibShadowedToolTip" = "Leading";
 < < "a4j-bP-8ge.title" = "Item 2";
 < < "are-aK-4Ec.title" = "Minimum prefix:";
-341d100
+209d62
 < < "cTz-uI-oC9.ibShadowedToolTip" = "Space Before Paragraph";
-347,351d105
+215,219d67
 < < "gQf-WA-aEk.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Initial Words";
 < < "ggN-IE-Nau.ibShadowedToolTip" = "Paragraph Style";
 < < "h6V-7B-GSl.title" = "Space between same styles:";
 < < "hGe-Zm-wUx.title" = "Tab stop:";
 < < "hPz-r4-LGc.ibShadowedToolTip" = "Right Indent";
-354,359d107
+222,223d69
 < < "hTz-XO-P1Z.title" = "Sum space before and after";
 < < "hbC-8h-pm3.title" = "Paragraph end zone:";
-< < "hoT-SR-elU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Decorations";
+225,227d70
 < < "hzZ-nL-wy4.ibShadowedToolTip" = "Spacing between the drop cap and the adjacent text";
 < < "isI-U7-d4u.title" = "Minimum word length:";
 < < "ixu-cF-cXN.ibShadowedToolTip" = "Space After Paragraph";
-362,363d109
+230,231d72
 < < "k0y-nj-h6Z.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Flow Options";
 < < "kEc-Kj-EbW.title" = "Restart numbering now";
-365,366d110
+233,234d73
 < < "kjf-yV-FbM.title" = "lines";
 < < "l5R-xq-J4b.ibShadowedToolTip" = "Use Space Before";
-369,376d112
+237,244d75
 < < "lvb-0q-YcY.ibShadowedToolTip" = "The number of letters to include";
 < < "m0L-r4-3im.ibShadowedToolTip" = "Minimum Letter Spacing";
 < < "mL2-vC-cC1.title" = "Restart numbering:";
@@ -367,7 +273,7 @@
 < < "n5S-7J-MV5.title" = "Name:";
 < < "nru-fG-gQR.title" = "Item 3";
 < < "nyj-pw-0dr.title" = "Keep with previous paragraph";
-378,386d113
+246,254d76
 < < "oN6-4p-EjF.ibShadowedToolTip" = "Minimum Word Spacing";
 < < "ocA-MI-M8n.title" = "Keep paragraph together";
 < < "pBS-3w-vvp.title" = "Align left edge";
@@ -377,10 +283,10 @@
 < < "qNx-Z7-xvg.ibShadowedToolTip" = "Right Indent";
 < < "qi1-CL-WuY.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Bullets and Numbering";
 < < "qwN-CL-tnl.ibShadowedToolTip" = "Renumber Across Stories";
-392,393d118
+260,261d81
 < < "vDG-9N-osY.title" = "Hyphenation zone:";
 < < "vEr-xz-69v.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Baseline Grid";
-396,532c121,241
+264,400c84,206
 < < "wGZ-1W-TAr.ibShadowedToolTip" = "Desired Word Spacing";
 < < "xUq-h4-3nl.ibShadowedToolTip" = "Space After Paragraph";
 < < "zeE-AD-tAl.title" = "Start numbering at:";
@@ -545,6 +451,7 @@
 > < /* Class = "NSTextFieldCell"; title = "Transparency:"; ObjectID = "hT4-sJ-UM2"; */
 > < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "o2j-iO-Tdd"; */
 > < /* Class = "NSView"; GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Spacing"; ObjectID = "GIv-fL-Kvw"; */
+> < /* Class = "NSView"; hoT-SR-elU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Decorations"; ObjectID = "hoT-SR-elU"; */
 > < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "6Ya-PA-xRD"; */
 > < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "D8s-kZ-7c9"; */
 > < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "Kvb-jy-3vn"; */
@@ -559,7 +466,6 @@
 > < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "qwS-we-s9s"; */
 > < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "uCL-I9-qxs"; */
 > < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "vvB-bq-fP3"; */
-> > 
 > > "0K6-Ua-XvK.title" = "자동";
 > > "1mP-DE-MzA.ibShadowedToolTip" = "문자 스타일";
 > > "6Ix-QO-Aud.title" = "텍스트 셀";
@@ -587,6 +493,7 @@
 > > "f6F-wu-U11.ibShadowedToolTip" = "편차";
 > > "hR2-AW-5zt.title" = "텍스트 셀";
 > > "hT4-sJ-UM2.title" = "투명도:";
+> > "hoT-SR-elU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "장식";
 > > "j0S-XL-SgV.title" = "유효한";
 > > "jqC-kp-Otr.title" = "스타일:";
 > > "kdU-mG-SZd.title" = "전역";
@@ -626,6 +533,7 @@
 > > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "sAS-id-cIj"; */
 > > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "ulH-wd-5vq"; */
 > > /* Class = "NSView"; GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "간격"; ObjectID = "GIv-fL-Kvw"; */
+> > /* Class = "NSView"; hoT-SR-elU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "장식"; ObjectID = "hoT-SR-elU"; */
 > > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "6Ya-PA-xRD"; */
 > > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "D8s-kZ-7c9"; */
 > > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "Kvb-jy-3vn"; */
