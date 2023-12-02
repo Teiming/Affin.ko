@@ -1,12 +1,16 @@
 ---
----
 26,27c26,27
+50,51c50,51
 98,99c98,99
 < "Mdu-4o-Kg0.title" = "Rename Category…";
+< "VYR-rN-5i0.title" = "Center";
 < "ube-kc-Yz7.title" = "Rename...";
+< /* Class = "NSMenuItem"; title = "Center"; ObjectID = "VYR-rN-5i0"; */
 < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "Mdu-4o-Kg0"; */
 < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "ube-kc-Yz7"; */
 > "Mdu-4o-Kg0.title" = "범주 이름 변경…";
+> "VYR-rN-5i0.title" = "가운데";
 > "ube-kc-Yz7.title" = "이름 변경...";
 > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "Mdu-4o-Kg0"; */
 > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "ube-kc-Yz7"; */
+> /* Class = "NSMenuItem"; title = "가운데"; ObjectID = "VYR-rN-5i0"; */

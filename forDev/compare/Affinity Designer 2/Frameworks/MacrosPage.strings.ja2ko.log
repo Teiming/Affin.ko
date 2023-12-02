@@ -1,36 +1,4 @@
-3,76c3,4
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,43c2,4
 < 102c102
 < 105c105
 < 108c108
@@ -75,15 +43,16 @@
 < < "M4z-pd-Ou6.title" = "Top left";
 ---
 > 26,27c26,27
+> 50,51c50,51
 > 98,99c98,99
-78,98d5
+45,50d5
 < < "MiL-hy-1z3.title" = "Sync Category";
 < < "N7p-bP-H2Q.title" = "Delete Category…";
 < < "Ngc-Su-FC7.title" = "Move Up";
 < < "NnR-Li-59d.title" = "Move Down";
 < < "SpL-4x-vYo.title" = "Show Sync Status…";
 < < "Uq0-2s-rc3.title" = "Bottom right";
-< < "VYR-rN-5i0.title" = "Center";
+52,65d6
 < < "ZCy-p4-RhM.title" = "Import Macros…";
 < < "aYT-gQ-fv9.title" = "Bottom left";
 < < "cIB-dH-lNo.title" = "Max fit";
@@ -98,7 +67,7 @@
 < < "quP-6Z-OMN.title" = "No scale";
 < < "rFa-VI-GEC.title" = "Delete Category…";
 < < "rcN-Qk-P4c.title" = "Uninstall Pack…";
-100,136c7,12
+67,103c8,16
 < < "vsA-gg-lba.title" = "No alignment";
 < < "yJp-13-X6P.title" = "Move Down";
 < < "zD2-xJ-fGT.title" = "Move Up";
@@ -137,9 +106,12 @@
 < > "yJp-13-X6P.title" = "下に移動";
 < > "zD2-xJ-fGT.title" = "上へ移動";
 ---
+> < /* Class = "NSMenuItem"; title = "Center"; ObjectID = "VYR-rN-5i0"; */
 > < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "Mdu-4o-Kg0"; */
 > < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "ube-kc-Yz7"; */
 > > "Mdu-4o-Kg0.title" = "범주 이름 변경…";
+> > "VYR-rN-5i0.title" = "가운데";
 > > "ube-kc-Yz7.title" = "이름 변경...";
 > > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "Mdu-4o-Kg0"; */
 > > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "ube-kc-Yz7"; */
+> > /* Class = "NSMenuItem"; title = "가운데"; ObjectID = "VYR-rN-5i0"; */
