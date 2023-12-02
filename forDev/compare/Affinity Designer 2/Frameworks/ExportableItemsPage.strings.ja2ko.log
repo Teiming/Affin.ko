@@ -1,18 +1,4 @@
-7,40c7,12
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,21c2,7
 < 12c12
 < 15c15
 < 18c18
@@ -40,7 +26,7 @@
 > 50,51c50,51
 > 68,69c68,69
 > 8,9c8,9
-44,53c16
+25,34c11
 < < "8XY-qY-Se9.title" = "Replace export setup";
 < < "Ai0-Xh-qx1.title" = "Copy export setup";
 < < "Awt-Ya-cjd.title" = "Rename export setup preset...";
@@ -53,12 +39,12 @@
 < < "cJ3-AN-sAj.title" = "Copy export format";
 ---
 > < "75.title" = "Text Cell";
-55,58d17
+36,39d12
 < < "jVd-n8-FZZ.ibShadowedToolTip" = "Select an export setup preset to apply it to the selected slices";
 < < "kCi-LW-PWn.ibShadowedToolTip" = "Click to export all checked Slices";
 < < "kfU-cd-Ez0.title" = "Create export setup preset...";
 < < "mFR-cj-5MN.ibShadowedToolTip" = "Paste and replace";
-60,80c19,36
+41,61c14,31
 < < "wlp-3t-jVU.title" = "Batch builder:";
 < > "1lE-O9-BA0.ibShadowedToolTip" = "選択スライスを削除";
 < > "1zz-pF-T9N.title" = "スライスを書き出し(000)";
