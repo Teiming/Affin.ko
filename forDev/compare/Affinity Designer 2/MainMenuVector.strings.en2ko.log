@@ -1,346 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 1001,1002c1001,1002
 1004,1005c1004,1005
 1007,1008c1007,1008
@@ -358,6 +16,7 @@
 1052,1053c1052,1053
 1055,1056c1055,1056
 1058,1059c1058,1059
+1061,1062c1061,1062
 1064,1065c1064,1065
 1067,1068c1067,1068
 107,108c107,108
@@ -382,7 +41,7 @@
 1139,1140c1139,1140
 1142,1143c1142,1143
 1145,1146c1145,1146
-1148c1148
+1149c1149
 1151,1152c1151,1152
 1157,1158c1157,1158
 116,117c116,117
@@ -459,8 +118,8 @@
 179,180c179,180
 182,183c182,183
 185,186c185,186
-188c188
-191c191
+189c189
+192c192
 194,195c194,195
 197,198c197,198
 20,21c20,21
@@ -511,14 +170,15 @@
 323,324c323,324
 326,327c326,327
 329,330c329,330
-332c332
-335c335
+333c333
+336c336
 338,339c338,339
 341,342c341,342
 344,345c344,345
 35,36c35,36
 350,351c350,351
 353,354c353,354
+368,369c368,369
 371,372c371,372
 374,375c374,375
 377,378c377,378
@@ -558,7 +218,7 @@
 521,522c521,522
 527,528c527,528
 53,54c53,54
-530c530
+531c531
 536,537c536,537
 539,540c539,540
 542,543c542,543
@@ -569,6 +229,7 @@
 560,561c560,561
 563,564c563,564
 566,567c566,567
+569,570c569,570
 572,573c572,573
 575,576c575,576
 578,579c578,579
@@ -616,10 +277,10 @@
 719,720c719,720
 722,723c722,723
 725,726c725,726
-734,735c734,735
-737,738c737,738
+734,738c734,735
 74,75c74,75
-740,741c740,741
+740,741c737,738
+742a740,742
 746,747c746,747
 749,750c749,750
 755,756c755,756
@@ -703,6 +364,8 @@
 < "1192.title" = "Alignment";
 < "1193.title" = "Alignment";
 < "1194.title" = "Align Left";
+< "1195.title" = "Align Center";
+< "1196.title" = "Justify Center";
 < "1197.title" = "Align Right";
 < "1214.title" = "Character Traits";
 < "1216.title" = "Bold";
@@ -747,9 +410,12 @@
 < "1470.title" = "Zero-Width Space";
 < "1471.title" = "Soft Hyphen";
 < "1478.title" = "Non-Breaking Space";
+< "1520.title" = "Capitalization";
+< "1521.title" = "Capitalization";
 < "1522.title" = "None";
 < "1523.title" = "Small Caps";
 < "1524.title" = "All Caps";
+< "1FW-iW-Qrj.title" = "Close All";
 < "1Xp-ax-Yd8.title" = "Set No Paragraph Style";
 < "1cY-eD-FYh.title" = "Ignore Text Wraps";
 < "1fK-86-ju6.title" = "Move Back One";
@@ -823,6 +489,7 @@
 < "984.title" = "Ungroup";
 < "985.title" = "Group";
 < "9DK-kK-Ag2.title" = "Figure Dash";
+< "9sI-hO-Md4.title" = "Align Center";
 < "9w8-n8-uYP.title" = "Add Preset…";
 < "9zQ-Cn-yqa.title" = "Align Top";
 < "A5T-yU-cZR.title" = "New Pixel Layer";
@@ -832,6 +499,7 @@
 < "Ble-xh-JDc.title" = "Frame Text";
 < "Bpk-Xm-rEK.title" = "Insertion";
 < "CNR-fc-huC.title" = "Lock Guides";
+< "CRc-Cr-N5j.title" = "New from Clipboard";
 < "CTb-NC-gUj.title" = "Check Spelling";
 < "CfD-Er-w2q.title" = "Split View";
 < "Crq-Tz-Jvc.title" = "Top";
@@ -948,6 +616,7 @@
 < "hov-rz-dRX.title" = "Align Left";
 < "hww-2Y-KTa.title" = "Defaults";
 < "i96-Qy-QHE.title" = "Show Typography";
+< "iEO-Vh-RiU.title" = "Save History with Document";
 < "iPg-p2-hpv.title" = "Layer Effects…";
 < "iao-Jb-L4Q.title" = "Move Inside";
 < "ilU-Cq-Y38.title" = "Align Middle";
@@ -968,6 +637,7 @@
 < "n04-uf-3Wb.title" = "Convert to Text Frame";
 < "n14-9X-5nw.title" = "Unfilled Objects";
 < "nHP-HO-qrf.title" = "Loosen";
+< "nJ2-Oj-KuC.title" = "Center";
 < "nKE-2h-R9m.title" = "Pixels (Retina)";
 < "nSI-W5-nL2.title" = "Art Text";
 < "naX-Yk-epy.title" = "Zoom";
@@ -1023,7 +693,6 @@
 < /* Class = "NSMenu"; title = "Alignment"; ObjectID = "5Jc-FA-nGp"; */
 < /* Class = "NSMenu"; title = "Arrange"; ObjectID = "DiQ-1J-IMB"; */
 < /* Class = "NSMenu"; title = "Baseline"; ObjectID = "1231"; */
-< /* Class = "NSMenu"; title = "Capitalisation"; ObjectID = "1521"; */
 < /* Class = "NSMenu"; title = "Character Traits"; ObjectID = "1214"; */
 < /* Class = "NSMenu"; title = "Defaults"; ObjectID = "dzx-WR-H4b"; */
 < /* Class = "NSMenu"; title = "Edit"; ObjectID = "828"; */
@@ -1064,8 +733,6 @@
 < /* Class = "NSMenuItem"; title = "Add Preset…"; ObjectID = "9w8-n8-uYP"; */
 < /* Class = "NSMenuItem"; title = "Add"; ObjectID = "5nI-p6-hYu"; */
 < /* Class = "NSMenuItem"; title = "Align Bottom"; ObjectID = "RBt-gf-Am1"; */
-< /* Class = "NSMenuItem"; title = "Align Centre"; ObjectID = "1195"; */
-< /* Class = "NSMenuItem"; title = "Align Centre"; ObjectID = "9sI-hO-Md4"; */
 < /* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "1194"; */
 < /* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "hov-rz-dRX"; */
 < /* Class = "NSMenuItem"; title = "Align Middle"; ObjectID = "ilU-Cq-Y38"; */
@@ -1087,14 +754,13 @@
 < /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "1216"; */
 < /* Class = "NSMenuItem"; title = "Bottom"; ObjectID = "hDh-Yf-0sK"; */
 < /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "hWa-Th-0Ac"; */
-< /* Class = "NSMenuItem"; title = "Capitalisation"; ObjectID = "1520"; */
-< /* Class = "NSMenuItem"; title = "Centre"; ObjectID = "nJ2-Oj-KuC"; */
 < /* Class = "NSMenuItem"; title = "Character Traits"; ObjectID = "1191"; */
 < /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "o7f-b4-OTT"; */
 < /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "CTb-NC-gUj"; */
 < /* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "wLu-X4-5Zy"; */
 < /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "888"; */
 < /* Class = "NSMenuItem"; title = "Clip to Canvas"; ObjectID = "An6-fu-Y1p"; */
+< /* Class = "NSMenuItem"; title = "Close All"; ObjectID = "1FW-iW-Qrj"; */
 < /* Class = "NSMenuItem"; title = "Close"; ObjectID = "881"; */
 < /* Class = "NSMenuItem"; title = "Closed Curves"; ObjectID = "Vql-C1-zUW"; */
 < /* Class = "NSMenuItem"; title = "Constrained Objects"; ObjectID = "MIw-A1-LZ3"; */
@@ -1173,7 +839,6 @@
 < /* Class = "NSMenuItem"; title = "Invert"; ObjectID = "bsJ-It-5zZ"; */
 < /* Class = "NSMenuItem"; title = "Italic"; ObjectID = "1217"; */
 < /* Class = "NSMenuItem"; title = "Justify All"; ObjectID = "paW-gX-CC4"; */
-< /* Class = "NSMenuItem"; title = "Justify Centre"; ObjectID = "1196"; */
 < /* Class = "NSMenuItem"; title = "Justify Left"; ObjectID = "GMY-ne-IEz"; */
 < /* Class = "NSMenuItem"; title = "Justify Right"; ObjectID = "geE-kT-j69"; */
 < /* Class = "NSMenuItem"; title = "Justify"; ObjectID = "ZZg-bf-a2h"; */
@@ -1204,6 +869,7 @@
 < /* Class = "NSMenuItem"; title = "New Layer"; ObjectID = "Kss-By-7ox"; */
 < /* Class = "NSMenuItem"; title = "New Pixel Layer"; ObjectID = "A5T-yU-cZR"; */
 < /* Class = "NSMenuItem"; title = "New View"; ObjectID = "1093"; */
+< /* Class = "NSMenuItem"; title = "New from Clipboard"; ObjectID = "CRc-Cr-N5j"; */
 < /* Class = "NSMenuItem"; title = "New…"; ObjectID = "884"; */
 < /* Class = "NSMenuItem"; title = "Non-Breaking Hyphen"; ObjectID = "1469"; */
 < /* Class = "NSMenuItem"; title = "Non-Breaking Space"; ObjectID = "1478"; */
@@ -1258,6 +924,7 @@
 < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "za0-Gm-PuC"; */
 < /* Class = "NSMenuItem"; title = "Save As Package…"; ObjectID = "kgf-Yg-eTT"; */
 < /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "874"; */
+< /* Class = "NSMenuItem"; title = "Save History with Document"; ObjectID = "iEO-Vh-RiU"; */
 < /* Class = "NSMenuItem"; title = "Save Text Styles as Default"; ObjectID = "gZ1-YE-Xp4"; */
 < /* Class = "NSMenuItem"; title = "Save"; ObjectID = "bvT-3L-fX5"; */
 < /* Class = "NSMenuItem"; title = "Save"; ObjectID = "vRB-xZ-oSi"; */
@@ -1377,6 +1044,8 @@
 > "1192.title" = "정렬";
 > "1193.title" = "정렬";
 > "1194.title" = "왼쪽 정렬";
+> "1195.title" = "가로 가운데 정렬";
+> "1196.title" = "가운데 균등 정렬";
 > "1197.title" = "오른쪽 정렬";
 > "1214.title" = "문자 특성";
 > "1216.title" = "강조";
@@ -1421,9 +1090,12 @@
 > "1470.title" = "폭 없는 공백";
 > "1471.title" = "하이픈";
 > "1478.title" = "줄 바꿈 없는 공백";
+> "1520.title" = "대문자화";
+> "1521.title" = "대문자화";
 > "1522.title" = "없음";
 > "1523.title" = "작은 대문자";
 > "1524.title" = "모두 대문자";
+> "1FW-iW-Qrj.title" = "모두 닫기";
 > "1Xp-ax-Yd8.title" = "문단 스타일 벗기기";
 > "1cY-eD-FYh.title" = "줄바꿈 무시";
 > "1fK-86-ju6.title" = "뒤로 보내기";
@@ -1431,7 +1103,7 @@
 > "2DS-OJ-9gj.title" = "안으로 붙이기";
 > "2Vd-C7-OhK.title" = "Photo에서 편집…";
 > "2Xc-mb-2dz.title" = "모두 잠금 풀기";
-> "33O-rq-hBH.title" = "Lorem Ipsum";
+> "33O-rq-hBH.title" = "채우기 텍스트";
 > "3PK-kV-rhH.title" = "텍스트 스타일";
 > "3x7-NM-FhS.title" = "자원 관리자...";
 > "4FN-26-KZw.title" = "변형";
@@ -1497,6 +1169,7 @@
 > "984.title" = "그룹 풀기";
 > "985.title" = "그룹";
 > "9DK-kK-Ag2.title" = "숫자 줄표";
+> "9sI-hO-Md4.title" = "가로 가운데 정렬";
 > "9w8-n8-uYP.title" = "미리 설정 추가…";
 > "9zQ-Cn-yqa.title" = "위쪽 정렬";
 > "A5T-yU-cZR.title" = "신규 픽셀 레이어";
@@ -1506,6 +1179,7 @@
 > "Ble-xh-JDc.title" = "액자 텍스트";
 > "Bpk-Xm-rEK.title" = "삽입";
 > "CNR-fc-huC.title" = "안내선 잠금";
+> "CRc-Cr-N5j.title" = "클립보드에서 신규";
 > "CTb-NC-gUj.title" = "철자 확인";
 > "CfD-Er-w2q.title" = "분할 보기";
 > "Crq-Tz-Jvc.title" = "위쪽";
@@ -1622,6 +1296,7 @@
 > "hov-rz-dRX.title" = "왼쪽 정렬";
 > "hww-2Y-KTa.title" = "기본값";
 > "i96-Qy-QHE.title" = "타이포그래피 보기";
+> "iEO-Vh-RiU.title" = "문서와 함께 편집 기록 저장";
 > "iPg-p2-hpv.title" = "레이어 효과…";
 > "iao-Jb-L4Q.title" = "안으로 가져오기";
 > "ilU-Cq-Y38.title" = "세로 가운데 정렬";
@@ -1642,6 +1317,7 @@
 > "n04-uf-3Wb.title" = "텍스트 액자로 전환";
 > "n14-9X-5nw.title" = "칠이 없는 오브젝트";
 > "nHP-HO-qrf.title" = "넓게";
+> "nJ2-Oj-KuC.title" = "가운데";
 > "nKE-2h-R9m.title" = "픽셀 (레티나)";
 > "nSI-W5-nL2.title" = "예술 텍스트";
 > "naX-Yk-epy.title" = "맞추기";
@@ -1730,12 +1406,10 @@
 > /* Class = "NSMenu"; title = "레이어"; ObjectID = "h3y-2z-Xp8"; */
 > /* Class = "NSMenu"; title = "맞추기"; ObjectID = "naX-Yk-epy"; */
 > /* Class = "NSMenu"; title = "오브젝트 선택"; ObjectID = "DQu-pg-wSH"; */
-> /* Class = "NSMenu"; title = "대문자화"; ObjectID = "1521"; */
 > /* Class = "NSMenu"; title = "페르소나"; ObjectID = "815"; */
 > /* Class = "NSMenuItem"; title = "Affinity Designer 종료"; ObjectID = "823"; */
 > /* Class = "NSMenuItem"; title = "Affinity Designer에 관하여…"; ObjectID = "826"; */
 > /* Class = "NSMenuItem"; title = "Finder에서 찾기"; ObjectID = "ays-zs-F3b"; */
-> /* Class = "NSMenuItem"; title = "Lorem Ipsum"; ObjectID = "33O-rq-hBH"; */
 > /* Class = "NSMenuItem"; title = "Photo에서 편집…"; ObjectID = "2Vd-C7-OhK"; */
 > /* Class = "NSMenuItem"; title = "Publisher에서 편집…"; ObjectID = "ZRj-rc-TaP"; */
 > /* Class = "NSMenuItem"; title = "UI 가리기"; ObjectID = "YtA-uY-CIR"; */
@@ -1785,6 +1459,7 @@
 > /* Class = "NSMenuItem"; title = "문자 삽입"; ObjectID = "1464"; */
 > /* Class = "NSMenuItem"; title = "전각 공백"; ObjectID = "1467"; */
 > /* Class = "NSMenuItem"; title = "반각 공백"; ObjectID = "1468"; */
+> /* Class = "NSMenuItem"; title = "모두 닫기"; ObjectID = "1FW-iW-Qrj"; */
 > /* Class = "NSMenuItem"; title = "모두 보기"; ObjectID = "824"; */
 > /* Class = "NSMenuItem"; title = "다시 실행"; ObjectID = "835"; */
 > /* Class = "NSMenuItem"; title = "실행 취소"; ObjectID = "841"; */
@@ -1820,8 +1495,6 @@
 > /* Class = "NSMenuItem"; title = "실제 크기"; ObjectID = "wBy-1v-JPW"; */
 > /* Class = "NSMenuItem"; title = "열린 곡선"; ObjectID = "zyu-vC-SJu"; */
 > /* Class = "NSMenuItem"; title = "기본 스타일 다시 적용"; ObjectID = "AVQ-lj-f4d"; */
-> /* Class = "NSMenuItem"; title = "가로 가운데 정렬"; ObjectID = "1195"; */
-> /* Class = "NSMenuItem"; title = "가로 가운데 정렬"; ObjectID = "9sI-hO-Md4"; */
 > /* Class = "NSMenuItem"; title = "문자 스타일 생성"; ObjectID = "NYG-YC-JLd"; */
 > /* Class = "NSMenuItem"; title = "모든 윈도우 통합"; ObjectID = "fij-cC-LCH"; */
 > /* Class = "NSMenuItem"; title = "문단 스타일 생성"; ObjectID = "fj4-Fp-494"; */
@@ -1922,8 +1595,8 @@
 > /* Class = "NSMenuItem"; title = "외형"; ObjectID = "wm1-sj-IZt"; */
 > /* Class = "NSMenuItem"; title = "공유"; ObjectID = "xLn-eq-kmf"; */
 > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "za0-Gm-PuC"; */
+> /* Class = "NSMenuItem"; title = "문서와 함께 편집 기록 저장"; ObjectID = "iEO-Vh-RiU"; */
 > /* Class = "NSMenuItem"; title = "작업실 미리 설정 관리…"; ObjectID = "dFb-fJ-aap"; */
-> /* Class = "NSMenuItem"; title = "가운데 균등 정렬"; ObjectID = "1196"; */
 > /* Class = "NSMenuItem"; title = "상황별 툴바 보기"; ObjectID = "82H-vD-VqR"; */
 > /* Class = "NSMenuItem"; title = "오른쪽 균등 정렬"; ObjectID = "geE-kT-j69"; */
 > /* Class = "NSMenuItem"; title = "여백선 보기"; ObjectID = "1087"; */
@@ -1951,6 +1624,7 @@
 > /* Class = "NSMenuItem"; title = "기준선 재설정"; ObjectID = "1242"; */
 > /* Class = "NSMenuItem"; title = "스타일 붙이기"; ObjectID = "1325"; */
 > /* Class = "NSMenuItem"; title = "안으로 붙이기"; ObjectID = "2DS-OJ-9gj"; */
+> /* Class = "NSMenuItem"; title = "채우기 텍스트"; ObjectID = "33O-rq-hBH"; */
 > /* Class = "NSMenuItem"; title = "텍스트 스타일"; ObjectID = "3PK-kV-rhH"; */
 > /* Class = "NSMenuItem"; title = "기준선 내리기"; ObjectID = "4Jc-Wo-kBd"; */
 > /* Class = "NSMenuItem"; title = "조금씩 줄이기"; ObjectID = "83W-2Y-rL5"; */
@@ -1998,7 +1672,6 @@
 > /* Class = "NSMenuItem"; title = "작업실"; ObjectID = "aRg-Mr-7xd"; */
 > /* Class = "NSMenuItem"; title = "늘리기"; ObjectID = "bzi-jw-WXn"; */
 > /* Class = "NSMenuItem"; title = "기본값"; ObjectID = "hww-2Y-KTa"; */
-> /* Class = "NSMenuItem"; title = "가운데"; ObjectID = "nJ2-Oj-KuC"; */
 > /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "qxb-c2-k6D"; */
 > /* Class = "NSMenuItem"; title = "투명도"; ObjectID = "rfD-qh-OcG"; */
 > /* Class = "NSMenuItem"; title = "작성하는 동안 철자 확인"; ObjectID = "o7f-b4-OTT"; */
@@ -2017,7 +1690,6 @@
 > /* Class = "NSMenuItem"; title = "아랫첨자"; ObjectID = "1234"; */
 > /* Class = "NSMenuItem"; title = "교대하기"; ObjectID = "1383"; */
 > /* Class = "NSMenuItem"; title = "둘러싸기"; ObjectID = "1390"; */
-> /* Class = "NSMenuItem"; title = "대문자화"; ObjectID = "1520"; */
 > /* Class = "NSMenuItem"; title = "페르소나"; ObjectID = "806"; */
 > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "839"; */
 > /* Class = "NSMenuItem"; title = "아트보드"; ObjectID = "JpD-gZ-8Rh"; */
@@ -2031,5 +1703,6 @@
 > /* Class = "NSMenuItem"; title = "환경설정…"; ObjectID = "821"; */
 > /* Class = "NSMenuItem"; title = "내보내기…"; ObjectID = "dEY-gX-uJE"; */
 > /* Class = "NSMenuItem"; title = "배타적논리합 (결합)"; ObjectID = "xvT-Kv-m60"; */
+> /* Class = "NSMenuItem"; title = "클립보드에서 신규"; ObjectID = "CRc-Cr-N5j"; */
 > /* Class = "NSMenuItem"; title = "타이포그래피 보기"; ObjectID = "i96-Qy-QHE"; */
 > /* Class = "NSMenuItem"; title = "배타적논리합"; ObjectID = "mEr-Gt-JDx"; */

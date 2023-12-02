@@ -1,111 +1,4 @@
-1,65d0
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-409,560c344,425
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,54c2,43
 < 1002c1002
 < 1005c1005
 < 1008c1008
@@ -159,7 +52,50 @@
 < 1140c1140
 < 1143c1143
 < 1146c1146
-< 1149c1149
+---
+> 1001,1002c1001,1002
+> 1004,1005c1004,1005
+> 1007,1008c1007,1008
+> 101,102c101,102
+> 1013,1014c1013,1014
+> 1016,1017c1016,1017
+> 1019,1020c1019,1020
+> 1028,1029c1028,1029
+> 1031,1032c1031,1032
+> 104,105c104,105
+> 1040,1041c1040,1041
+> 1043,1044c1043,1044
+> 1046,1047c1046,1047
+> 1049,1050c1049,1050
+> 1052,1053c1052,1053
+> 1055,1056c1055,1056
+> 1058,1059c1058,1059
+> 1061,1062c1061,1062
+> 1064,1065c1064,1065
+> 1067,1068c1067,1068
+> 107,108c107,108
+> 1070,1071c1070,1071
+> 1076,1077c1076,1077
+> 1079,1080c1079,1080
+> 1082,1083c1082,1083
+> 1085,1086c1085,1086
+> 1091,1092c1091,1092
+> 1094,1095c1094,1095
+> 1097,1098c1097,1098
+> 11,12c11,12
+> 110,111c110,111
+> 1103,1104c1103,1104
+> 1109,1110c1109,1110
+> 1112,1113c1112,1113
+> 1115,1116c1115,1116
+> 1118,1119c1118,1119
+> 1127,1128c1127,1128
+> 113,114c113,114
+> 1133,1134c1133,1134
+> 1139,1140c1139,1140
+> 1142,1143c1142,1143
+> 1145,1146c1145,1146
+56,104c45,80
 < 114c114
 < 1152c1152
 < 1155c1155
@@ -209,57 +145,7 @@
 < 1278c1278
 < 1281c1281
 < 1284c1284
-< 1287c1287
-< 1290c1290
-< 1293c1293
-< 1296c1296
-< 1299c1299
-< 129c129
-< 12c12
-< 1302c1302
 ---
-> 1001,1002c1001,1002
-> 1004,1005c1004,1005
-> 1007,1008c1007,1008
-> 101,102c101,102
-> 1013,1014c1013,1014
-> 1016,1017c1016,1017
-> 1019,1020c1019,1020
-> 1028,1029c1028,1029
-> 1031,1032c1031,1032
-> 104,105c104,105
-> 1040,1041c1040,1041
-> 1043,1044c1043,1044
-> 1046,1047c1046,1047
-> 1049,1050c1049,1050
-> 1052,1053c1052,1053
-> 1055,1056c1055,1056
-> 1058,1059c1058,1059
-> 1064,1065c1064,1065
-> 1067,1068c1067,1068
-> 107,108c107,108
-> 1070,1071c1070,1071
-> 1076,1077c1076,1077
-> 1079,1080c1079,1080
-> 1082,1083c1082,1083
-> 1085,1086c1085,1086
-> 1091,1092c1091,1092
-> 1094,1095c1094,1095
-> 1097,1098c1097,1098
-> 11,12c11,12
-> 110,111c110,111
-> 1103,1104c1103,1104
-> 1109,1110c1109,1110
-> 1112,1113c1112,1113
-> 1115,1116c1115,1116
-> 1118,1119c1118,1119
-> 1127,1128c1127,1128
-> 113,114c113,114
-> 1133,1134c1133,1134
-> 1139,1140c1139,1140
-> 1142,1143c1142,1143
-> 1145,1146c1145,1146
-> 1148c1148
 > 1151,1152c1151,1152
 > 1157,1158c1157,1158
 > 116,117c116,117
@@ -296,11 +182,19 @@
 > 1274,1275c1274,1275
 > 128,129c128,129
 > 1283,1284c1283,1284
-> 1287c1287
+106,112c82,84
+< 1290c1290
+< 1293c1293
+< 1296c1296
+< 1299c1299
+< 129c129
+< 12c12
+< 1302c1302
+---
 > 1289,1290c1289,1290
 > 1298,1299c1298,1299
 > 1301,1302c1301,1302
-562,769c427,593
+114,154c86,120
 < 1308c1308
 < 1311c1311
 < 1314c1314
@@ -342,8 +236,43 @@
 < 180c180
 < 183c183
 < 186c186
-< 189c189
-< 192c192
+---
+> 1307,1308c1307,1308
+> 1310,1311c1310,1311
+> 1313,1314c1313,1314
+> 1319,1320c1319,1320
+> 1322,1323c1322,1323
+> 1328,1329c1328,1329
+> 1331,1332c1331,1332
+> 1334,1335c1334,1335
+> 1337,1338c1337,1338
+> 134,135c134,135
+> 1340,1341c1340,1341
+> 1343,1344c1343,1344
+> 1346,1347c1346,1347
+> 1358,1359c1358,1359
+> 1361,1362c1361,1362
+> 137,138c137,138
+> 1370,1371c1370,1371
+> 1373,1374c1373,1374
+> 14,15c14,15
+> 140,141c140,141
+> 143,144c143,144
+> 149,150c149,150
+> 152,153c152,153
+> 155,156c155,156
+> 158,159c158,159
+> 161,162c161,162
+> 164,165c164,165
+> 167,168c167,168
+> 17,18c17,18
+> 170,171c170,171
+> 173,174c173,174
+> 176,177c176,177
+> 179,180c179,180
+> 182,183c182,183
+> 185,186c185,186
+157,206c123,172
 < 195c195
 < 198c198
 < 201c201
@@ -394,8 +323,58 @@
 < 324c324
 < 327c327
 < 330c330
-< 333c333
-< 336c336
+---
+> 194,195c194,195
+> 197,198c197,198
+> 20,21c20,21
+> 200,201c200,201
+> 203,204c203,204
+> 206,207c206,207
+> 209,210c209,210
+> 212,213c212,213
+> 215,216c215,216
+> 218,219c218,219
+> 221,222c221,222
+> 224,225c224,225
+> 227,228c227,228
+> 23,24c23,24
+> 230,231c230,231
+> 233,234c233,234
+> 236,237c236,237
+> 239,240c239,240
+> 242,243c242,243
+> 245,246c245,246
+> 248,249c248,249
+> 251,252c251,252
+> 254,255c254,255
+> 257,258c257,258
+> 26,27c26,27
+> 263,264c263,264
+> 266,267c266,267
+> 269,270c269,270
+> 272c272
+> 275,276c275,276
+> 278,279c278,279
+> 281,282c281,282
+> 284,285c284,285
+> 287,288c287,288
+> 29,30c29,30
+> 290,291c290,291
+> 293,294c293,294
+> 296,297c296,297
+> 299,300c299,300
+> 302,303c302,303
+> 305,306c305,306
+> 308,309c308,309
+> 311,312c311,312
+> 314,315c314,315
+> 317,318c317,318
+> 32,33c32,33
+> 320,321c320,321
+> 323,324c323,324
+> 326,327c326,327
+> 329,330c329,330
+209,321c175,254
 < 339c339
 < 33c33
 < 342c342
@@ -510,101 +489,13 @@
 < 642c642
 < 645c645
 ---
-> 1307,1308c1307,1308
-> 1310,1311c1310,1311
-> 1313,1314c1313,1314
-> 1319,1320c1319,1320
-> 1322,1323c1322,1323
-> 1328,1329c1328,1329
-> 1331,1332c1331,1332
-> 1334,1335c1334,1335
-> 1337,1338c1337,1338
-> 134,135c134,135
-> 1340,1341c1340,1341
-> 1343,1344c1343,1344
-> 1346,1347c1346,1347
-> 1358,1359c1358,1359
-> 1361,1362c1361,1362
-> 137,138c137,138
-> 1370,1371c1370,1371
-> 1373,1374c1373,1374
-> 14,15c14,15
-> 140,141c140,141
-> 143,144c143,144
-> 149,150c149,150
-> 152,153c152,153
-> 155,156c155,156
-> 158,159c158,159
-> 161,162c161,162
-> 164,165c164,165
-> 167,168c167,168
-> 17,18c17,18
-> 170,171c170,171
-> 173,174c173,174
-> 176,177c176,177
-> 179,180c179,180
-> 182,183c182,183
-> 185,186c185,186
-> 188c188
-> 191c191
-> 194,195c194,195
-> 197,198c197,198
-> 20,21c20,21
-> 200,201c200,201
-> 203,204c203,204
-> 206,207c206,207
-> 209,210c209,210
-> 212,213c212,213
-> 215,216c215,216
-> 218,219c218,219
-> 221,222c221,222
-> 224,225c224,225
-> 227,228c227,228
-> 23,24c23,24
-> 230,231c230,231
-> 233,234c233,234
-> 236,237c236,237
-> 239,240c239,240
-> 242,243c242,243
-> 245,246c245,246
-> 248,249c248,249
-> 251,252c251,252
-> 254,255c254,255
-> 257,258c257,258
-> 26,27c26,27
-> 263,264c263,264
-> 266,267c266,267
-> 269,270c269,270
-> 272c272
-> 275,276c275,276
-> 278,279c278,279
-> 281,282c281,282
-> 284,285c284,285
-> 287,288c287,288
-> 29,30c29,30
-> 290,291c290,291
-> 293,294c293,294
-> 296,297c296,297
-> 299,300c299,300
-> 302,303c302,303
-> 305,306c305,306
-> 308,309c308,309
-> 311,312c311,312
-> 314,315c314,315
-> 317,318c317,318
-> 32,33c32,33
-> 320,321c320,321
-> 323,324c323,324
-> 326,327c326,327
-> 329,330c329,330
-> 332c332
-> 335c335
 > 338,339c338,339
 > 341,342c341,342
 > 344,345c344,345
 > 35,36c35,36
 > 350,351c350,351
 > 353,354c353,354
+> 368,369c368,369
 > 371,372c371,372
 > 374,375c374,375
 > 377,378c377,378
@@ -644,7 +535,7 @@
 > 521,522c521,522
 > 527,528c527,528
 > 53,54c53,54
-> 530c530
+> 531c531
 > 536,537c536,537
 > 539,540c539,540
 > 542,543c542,543
@@ -655,6 +546,7 @@
 > 560,561c560,561
 > 563,564c563,564
 > 566,567c566,567
+> 569,570c569,570
 > 572,573c572,573
 > 575,576c575,576
 > 578,579c578,579
@@ -677,7 +569,7 @@
 > 638,639c638,639
 > 641,642c641,642
 > 644,645c644,645
-771,848c595,652
+323,400c256,313
 < 651c651
 < 654c654
 < 657c657
@@ -781,10 +673,10 @@
 > 719,720c719,720
 > 722,723c722,723
 > 725,726c725,726
-> 734,735c734,735
-> 737,738c737,738
+> 734,738c734,735
 > 74,75c74,75
-> 740,741c740,741
+> 740,741c737,738
+> 742a740,742
 > 746,747c746,747
 > 749,750c749,750
 > 755,756c755,756
@@ -815,7 +707,7 @@
 > 86,87c86,87
 > 860,861c860,861
 > 863,864c863,864
-850,899c654,688
+402,451c315,349
 < 870c870
 < 876c876
 < 879c879
@@ -902,209 +794,195 @@
 > 995,996c995,996
 > 998,999c998,999
 > < 
-902,903d690
+454,455d351
 < < "0fT-Sr-Ifk.title" = "Fish Eye";
 < < "0tM-6R-DNP.title" = "Return to Owner…";
-919,920d705
-< < "1195.title" = "Align Center";
-< < "1196.title" = "Justify Center";
-943d727
+495d390
 < < "1315.title" = "Snapping…";
-947d730
+499d393
 < < "1339.title" = "Rasterize…";
-967,968d749
-< < "1520.title" = "Capitalization";
-< < "1521.title" = "Capitalization";
-972,974d752
+524,525d417
 < < "1Ag-BQ-9Se.title" = "Last Used";
 < < "1D2-kr-6j6.title" = "Select Parent";
-< < "1FW-iW-Qrj.title" = "Close All";
-978d755
+530d421
 < < "25J-yS-Kiu.title" = "Send To…";
-981d757
+533d423
 < < "2K7-fY-819.title" = "Crash";
-984,986d759
+536,538d425
 < < "2cA-Ot-DPA.title" = "Create Symbol";
 < < "2oN-9E-54c.title" = "Recolor…";
 < < "2pa-27-3IL.title" = "Less (or Equal)";
-988,989d760
+540,541d426
 < < "3E2-hB-5Oh.title" = "Visit Affinity Spotlight";
 < < "3N7-OT-Jpe.title" = "Select Hidden Objects";
-992d762
+544d428
 < < "4Bb-8z-B0H.title" = "Grayscale";
-997d766
+549d432
 < < "4Ju-Bm-gPf.title" = "Greater (or Equal)";
-999d767
+551d433
 < < "4rG-6L-t5v.title" = "Collapse All in Layers Panel";
-1002,1003d769
+554,555d435
 < < "57V-hj-fNT.title" = "Less";
 < < "57y-UG-He6.title" = "More…";
-1005d770
+557d436
 < < "5W5-ef-wZS.title" = "Wireframe";
-1009,1012d773
+561,564d439
 < < "6JT-zO-nw1.title" = "What's New";
 < < "6WR-iC-VYu.title" = "Publisher Persona";
 < < "6mz-fo-lZk.title" = "Equal";
 < < "795.title" = "MainMenu";
-1015d775
+567d441
 < < "7lg-Xj-Nqc.title" = "Synchronize from Selection";
-1020a781
+572a447
 > < "806.title" = "Persona";
-1025a787
+577a453
 > < "815.title" = "Persona";
-1056,1057d817
+608,609d483
 < < "890.title" = "Customize Tools…";
 < < "892.title" = "Customize Toolbar…";
-1060,1061d819
+612,613d485
 < < "8VB-ec-NxX.title" = "Import Content…";
 < < "8XZ-3F-J7Q.title" = "Color Balance…";
-1063d820
+615d486
 < < "8dw-aH-pr7.title" = "Select All on Current Layer";
-1066,1067d822
+618,619d488
 < < "951.title" = "${PRODUCT_NAME} Help";
 < < "95v-qm-PSW.title" = "YouTube Creative Sessions";
-1071,1072d825
-< < "9sI-hO-Md4.title" = "Align Center";
+624d492
 < < "9vl-Fq-6Gi.title" = "Less (or Equal)";
-1079,1080d831
+631,632d498
 < < "BGh-pS-GJv.title" = "Twist";
 < < "BdS-BV-67N.title" = "Less";
-1084d834
-< < "CRc-Cr-N5j.title" = "New from Clipboard";
-1090d839
+642d507
 < < "D6J-cR-LeQ.title" = "Normals…";
-1096d844
+648d512
 < < "E1K-4B-oHB.title" = "Preview Mode";
-1099d846
+651d514
 < < "Eig-Wp-DUQ.title" = "Expand Field";
-1102,1103d848
+654,655d516
 < < "FyW-SF-wKx.title" = "Video Tutorials";
 < < "GHj-zp-CnA.title" = "Bend - Horizontal";
-1115d859
+667d527
 < < "Jhq-5D-oac.title" = "Convert to Art Text";
-1122d865
+674d533
 < < "L5K-hB-Gxi.title" = "New from Last Preset…";
-1126,1128d868
+678,680d536
 < < "LHT-vN-UZy.title" = "Brightness / Contrast…";
 < < "LIr-zN-cde.title" = "Hairline";
 < < "Lbs-Rh-6Mh.title" = "Split Toning…";
-1137,1138d876
+689,690d544
 < < "NNU-8b-jeZ.title" = "Greater";
 < < "NVd-R0-tUN.title" = "Float View to Window";
-1142d879
+694d547
 < < "P9A-9g-GJV.title" = "Curves…";
-1151d887
+703d555
 < < "RM3-3p-ykK.title" = "Greater (or Equal)";
-1154,1156d889
+706,708d557
 < < "RzY-bE-zWl.title" = "Remove Inner Curves";
 < < "S46-Lh-2FU.title" = "Gradient Map…";
 < < "S5T-is-gKS.title" = "X-ray";
-1158d890
+710d558
 < < "Sf9-Lg-Lwe.title" = "Guides…";
-1161,1162d892
+713,714d560
 < < "SzY-r2-WSv.title" = "Perspective";
 < < "T3o-pw-aPm.title" = "Debug";
-1164d893
+716d561
 < < "TJM-fO-qnP.title" = "Exposure…";
-1166,1167d894
+718,719d562
 < < "UB3-iW-qSw.title" = "${PRODUCT_NAME} Learning Portal";
 < < "UUc-Jq-IdK.title" = "Duplicate Linked";
-1172d898
+724d566
 < < "VdO-cR-ZME.title" = "Fill Holes";
-1175d900
+727d568
 < < "W8b-dY-eJw.title" = "Document Info";
-1177d901
+729d569
 < < "Wh6-4W-cyG.title" = "Shadows / Highlights…";
-1185d908
+737d576
 < < "YgC-61-e1F.title" = "Select Hidden Objects";
-1189d911
+741d579
 < < "aCZ-ah-OSm.title" = "Cut Curves with Key Object";
-1193,1195d914
+745,747d582
 < < "aWy-W9-qvH.title" = "Show Special Characters";
 < < "acD-08-8qg.title" = "Merge Curves";
 < < "anP-wt-8Zb.title" = "Mask to Below";
-1198d916
+750d584
 < < "bWR-Jk-I5e.title" = "Quad";
-1200d917
+752d585
 < < "bqn-df-XTc.title" = "Cycle Selection Box";
-1204d920
+756d588
 < < "c3B-E5-JBK.title" = "Threshold…";
-1207d922
+759d590
 < < "cZM-eD-ia4.title" = "Warp Group";
-1209,1210d923
+761,762d591
 < < "cl7-Vi-w36.title" = "Equal";
 < < "clR-2b-X7w.title" = "Add Symbol";
-1212d924
+764d592
 < < "d26-dk-aaZ.title" = "Equal";
-1215d926
+767d594
 < < "dXL-bm-XxD.title" = "Greater";
-1228d938
+780d606
 < < "ffx-jO-M7o.title" = "Save as Regression Unit";
-1232,1233d941
+784,785d609
 < < "gKI-Sv-Veu.title" = "Greater (or Equal)";
 < < "gVD-Wo-QQs.title" = "Less (or Equal)";
-1236,1237d943
+788,789d611
 < < "gm0-Mc-hjK.title" = "Lens Filter…";
 < < "gmY-q1-aUV.title" = "Visit Support Forums";
-1245d950
-< < "iEO-Vh-RiU.title" = "Save History with Document";
-1249d953
+801d622
 < < "ixW-wO-Chb.title" = "Arc - Vertical";
-1254d957
+806d626
 < < "jJZ-pa-JcY.title" = "Select Top";
-1258d960
+810d629
 < < "jww-6e-Ca7.title" = "White Balance…";
-1260d961
+812d630
 < < "k91-tF-Luv.title" = "Warp Group";
-1265,1266d965
+817,818d634
 < < "m00-Q6-rFQ.title" = "Edit in Designer…";
 < < "mA1-bf-Wmb.title" = "Debug";
-1268d966
+820d635
 < < "mMk-G7-H6c.title" = "Quickstart Guide";
-1270d967
+822d636
 < < "mn9-7n-ayh.title" = "Arc - Horizontal";
-1274d970
-< < "nJ2-Oj-KuC.title" = "Center";
-1276d971
+828d641
 < < "nKc-4f-DFb.title" = "Posterize…";
-1278d972
+830d642
 < < "nWr-NY-sBT.title" = "Select Bottom";
-1280d973
+832d643
 < < "o11-hY-Ori.title" = "Grid and Axis…";
-1284d976
+836d646
 < < "oOY-9c-N1Y.title" = "Rasterize to Mask";
-1288d979
+840d649
 < < "one-1e-Myx.title" = "Save Restricted As… ";
-1290d980
+842d650
 < < "pBK-ij-zMD.title" = "Show Pixel Grid";
-1292d981
+844d651
 < < "pRA-rt-8gl.title" = "Less";
-1305d993
+857d663
 < < "qs3-sj-swt.title" = "Ignore Misspelled Word";
-1307,1308d994
+859,860d664
 < < "r7C-jO-2cT.title" = "One Side";
 < < "rHc-j2-wq4.title" = "Selective Color…";
-1310d995
+862d665
 < < "rty-EZ-0iT.title" = "Show Others";
-1312d996
+864d666
 < < "sgP-L6-NVV.title" = "Separate Curves";
-1316,1317d999
+868,869d669
 < < "uMi-q5-xx8.title" = "Channel Mixer…";
 < < "uQV-XK-k3k.title" = "Black & White…";
-1321,1322d1002
+873,874d672
 < < "v2c-h8-gxz.title" = "Vibrance…";
 < < "vKQ-Jf-lan.title" = "Soft Proof…";
-1329d1008
+881d678
 < < "wln-cq-Ueb.title" = "Hide Effects";
-1332d1010
+884d680
 < < "xH3-r5-PQY.title" = "Wireframe";
-1340,1342d1017
+892,894d687
 < < "yer-w8-CeL.title" = "Levels…";
 < < "yn9-Kv-EjN.title" = "Bend - Vertical";
 < < "zDf-AA-3ZY.title" = "Greater";
-1345d1019
+897d689
 < < "zi0-2J-ff0.title" = "Rename Layer…";
-1348,1796c1022,2035
+900,1348c692,1708
 < > "03H-3G-q2f.title" = "塗りつぶし&境界線カラー";
 < > "0Gn-Ti-FSz.title" = "ピクセルオブジェクト";
 < > "0QN-SF-zfs.title" = "回転をリセット";
@@ -1559,7 +1437,6 @@
 > < /* Class = "NSMenu"; title = "Alignment"; ObjectID = "5Jc-FA-nGp"; */
 > < /* Class = "NSMenu"; title = "Arrange"; ObjectID = "DiQ-1J-IMB"; */
 > < /* Class = "NSMenu"; title = "Baseline"; ObjectID = "1231"; */
-> < /* Class = "NSMenu"; title = "Capitalisation"; ObjectID = "1521"; */
 > < /* Class = "NSMenu"; title = "Character Traits"; ObjectID = "1214"; */
 > < /* Class = "NSMenu"; title = "Defaults"; ObjectID = "dzx-WR-H4b"; */
 > < /* Class = "NSMenu"; title = "Edit"; ObjectID = "828"; */
@@ -1600,8 +1477,6 @@
 > < /* Class = "NSMenuItem"; title = "Add Preset…"; ObjectID = "9w8-n8-uYP"; */
 > < /* Class = "NSMenuItem"; title = "Add"; ObjectID = "5nI-p6-hYu"; */
 > < /* Class = "NSMenuItem"; title = "Align Bottom"; ObjectID = "RBt-gf-Am1"; */
-> < /* Class = "NSMenuItem"; title = "Align Centre"; ObjectID = "1195"; */
-> < /* Class = "NSMenuItem"; title = "Align Centre"; ObjectID = "9sI-hO-Md4"; */
 > < /* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "1194"; */
 > < /* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "hov-rz-dRX"; */
 > < /* Class = "NSMenuItem"; title = "Align Middle"; ObjectID = "ilU-Cq-Y38"; */
@@ -1623,14 +1498,13 @@
 > < /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "1216"; */
 > < /* Class = "NSMenuItem"; title = "Bottom"; ObjectID = "hDh-Yf-0sK"; */
 > < /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "hWa-Th-0Ac"; */
-> < /* Class = "NSMenuItem"; title = "Capitalisation"; ObjectID = "1520"; */
-> < /* Class = "NSMenuItem"; title = "Centre"; ObjectID = "nJ2-Oj-KuC"; */
 > < /* Class = "NSMenuItem"; title = "Character Traits"; ObjectID = "1191"; */
 > < /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "o7f-b4-OTT"; */
 > < /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "CTb-NC-gUj"; */
 > < /* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "wLu-X4-5Zy"; */
 > < /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "888"; */
 > < /* Class = "NSMenuItem"; title = "Clip to Canvas"; ObjectID = "An6-fu-Y1p"; */
+> < /* Class = "NSMenuItem"; title = "Close All"; ObjectID = "1FW-iW-Qrj"; */
 > < /* Class = "NSMenuItem"; title = "Close"; ObjectID = "881"; */
 > < /* Class = "NSMenuItem"; title = "Closed Curves"; ObjectID = "Vql-C1-zUW"; */
 > < /* Class = "NSMenuItem"; title = "Constrained Objects"; ObjectID = "MIw-A1-LZ3"; */
@@ -1709,7 +1583,6 @@
 > < /* Class = "NSMenuItem"; title = "Invert"; ObjectID = "bsJ-It-5zZ"; */
 > < /* Class = "NSMenuItem"; title = "Italic"; ObjectID = "1217"; */
 > < /* Class = "NSMenuItem"; title = "Justify All"; ObjectID = "paW-gX-CC4"; */
-> < /* Class = "NSMenuItem"; title = "Justify Centre"; ObjectID = "1196"; */
 > < /* Class = "NSMenuItem"; title = "Justify Left"; ObjectID = "GMY-ne-IEz"; */
 > < /* Class = "NSMenuItem"; title = "Justify Right"; ObjectID = "geE-kT-j69"; */
 > < /* Class = "NSMenuItem"; title = "Justify"; ObjectID = "ZZg-bf-a2h"; */
@@ -1740,6 +1613,7 @@
 > < /* Class = "NSMenuItem"; title = "New Layer"; ObjectID = "Kss-By-7ox"; */
 > < /* Class = "NSMenuItem"; title = "New Pixel Layer"; ObjectID = "A5T-yU-cZR"; */
 > < /* Class = "NSMenuItem"; title = "New View"; ObjectID = "1093"; */
+> < /* Class = "NSMenuItem"; title = "New from Clipboard"; ObjectID = "CRc-Cr-N5j"; */
 > < /* Class = "NSMenuItem"; title = "New…"; ObjectID = "884"; */
 > < /* Class = "NSMenuItem"; title = "Non-Breaking Hyphen"; ObjectID = "1469"; */
 > < /* Class = "NSMenuItem"; title = "Non-Breaking Space"; ObjectID = "1478"; */
@@ -1794,6 +1668,7 @@
 > < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "za0-Gm-PuC"; */
 > < /* Class = "NSMenuItem"; title = "Save As Package…"; ObjectID = "kgf-Yg-eTT"; */
 > < /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "874"; */
+> < /* Class = "NSMenuItem"; title = "Save History with Document"; ObjectID = "iEO-Vh-RiU"; */
 > < /* Class = "NSMenuItem"; title = "Save Text Styles as Default"; ObjectID = "gZ1-YE-Xp4"; */
 > < /* Class = "NSMenuItem"; title = "Save"; ObjectID = "bvT-3L-fX5"; */
 > < /* Class = "NSMenuItem"; title = "Save"; ObjectID = "vRB-xZ-oSi"; */
@@ -1913,6 +1788,8 @@
 > > "1192.title" = "정렬";
 > > "1193.title" = "정렬";
 > > "1194.title" = "왼쪽 정렬";
+> > "1195.title" = "가로 가운데 정렬";
+> > "1196.title" = "가운데 균등 정렬";
 > > "1197.title" = "오른쪽 정렬";
 > > "1214.title" = "문자 특성";
 > > "1216.title" = "강조";
@@ -1957,9 +1834,12 @@
 > > "1470.title" = "폭 없는 공백";
 > > "1471.title" = "하이픈";
 > > "1478.title" = "줄 바꿈 없는 공백";
+> > "1520.title" = "대문자화";
+> > "1521.title" = "대문자화";
 > > "1522.title" = "없음";
 > > "1523.title" = "작은 대문자";
 > > "1524.title" = "모두 대문자";
+> > "1FW-iW-Qrj.title" = "모두 닫기";
 > > "1Xp-ax-Yd8.title" = "문단 스타일 벗기기";
 > > "1cY-eD-FYh.title" = "줄바꿈 무시";
 > > "1fK-86-ju6.title" = "뒤로 보내기";
@@ -1967,7 +1847,7 @@
 > > "2DS-OJ-9gj.title" = "안으로 붙이기";
 > > "2Vd-C7-OhK.title" = "Photo에서 편집…";
 > > "2Xc-mb-2dz.title" = "모두 잠금 풀기";
-> > "33O-rq-hBH.title" = "Lorem Ipsum";
+> > "33O-rq-hBH.title" = "채우기 텍스트";
 > > "3PK-kV-rhH.title" = "텍스트 스타일";
 > > "3x7-NM-FhS.title" = "자원 관리자...";
 > > "4FN-26-KZw.title" = "변형";
@@ -2033,6 +1913,7 @@
 > > "984.title" = "그룹 풀기";
 > > "985.title" = "그룹";
 > > "9DK-kK-Ag2.title" = "숫자 줄표";
+> > "9sI-hO-Md4.title" = "가로 가운데 정렬";
 > > "9w8-n8-uYP.title" = "미리 설정 추가…";
 > > "9zQ-Cn-yqa.title" = "위쪽 정렬";
 > > "A5T-yU-cZR.title" = "신규 픽셀 레이어";
@@ -2042,6 +1923,7 @@
 > > "Ble-xh-JDc.title" = "액자 텍스트";
 > > "Bpk-Xm-rEK.title" = "삽입";
 > > "CNR-fc-huC.title" = "안내선 잠금";
+> > "CRc-Cr-N5j.title" = "클립보드에서 신규";
 > > "CTb-NC-gUj.title" = "철자 확인";
 > > "CfD-Er-w2q.title" = "분할 보기";
 > > "Crq-Tz-Jvc.title" = "위쪽";
@@ -2158,6 +2040,7 @@
 > > "hov-rz-dRX.title" = "왼쪽 정렬";
 > > "hww-2Y-KTa.title" = "기본값";
 > > "i96-Qy-QHE.title" = "타이포그래피 보기";
+> > "iEO-Vh-RiU.title" = "문서와 함께 편집 기록 저장";
 > > "iPg-p2-hpv.title" = "레이어 효과…";
 > > "iao-Jb-L4Q.title" = "안으로 가져오기";
 > > "ilU-Cq-Y38.title" = "세로 가운데 정렬";
@@ -2178,6 +2061,7 @@
 > > "n04-uf-3Wb.title" = "텍스트 액자로 전환";
 > > "n14-9X-5nw.title" = "칠이 없는 오브젝트";
 > > "nHP-HO-qrf.title" = "넓게";
+> > "nJ2-Oj-KuC.title" = "가운데";
 > > "nKE-2h-R9m.title" = "픽셀 (레티나)";
 > > "nSI-W5-nL2.title" = "예술 텍스트";
 > > "naX-Yk-epy.title" = "맞추기";
@@ -2266,12 +2150,10 @@
 > > /* Class = "NSMenu"; title = "레이어"; ObjectID = "h3y-2z-Xp8"; */
 > > /* Class = "NSMenu"; title = "맞추기"; ObjectID = "naX-Yk-epy"; */
 > > /* Class = "NSMenu"; title = "오브젝트 선택"; ObjectID = "DQu-pg-wSH"; */
-> > /* Class = "NSMenu"; title = "대문자화"; ObjectID = "1521"; */
 > > /* Class = "NSMenu"; title = "페르소나"; ObjectID = "815"; */
 > > /* Class = "NSMenuItem"; title = "Affinity Designer 종료"; ObjectID = "823"; */
 > > /* Class = "NSMenuItem"; title = "Affinity Designer에 관하여…"; ObjectID = "826"; */
 > > /* Class = "NSMenuItem"; title = "Finder에서 찾기"; ObjectID = "ays-zs-F3b"; */
-> > /* Class = "NSMenuItem"; title = "Lorem Ipsum"; ObjectID = "33O-rq-hBH"; */
 > > /* Class = "NSMenuItem"; title = "Photo에서 편집…"; ObjectID = "2Vd-C7-OhK"; */
 > > /* Class = "NSMenuItem"; title = "Publisher에서 편집…"; ObjectID = "ZRj-rc-TaP"; */
 > > /* Class = "NSMenuItem"; title = "UI 가리기"; ObjectID = "YtA-uY-CIR"; */
@@ -2321,6 +2203,7 @@
 > > /* Class = "NSMenuItem"; title = "문자 삽입"; ObjectID = "1464"; */
 > > /* Class = "NSMenuItem"; title = "전각 공백"; ObjectID = "1467"; */
 > > /* Class = "NSMenuItem"; title = "반각 공백"; ObjectID = "1468"; */
+> > /* Class = "NSMenuItem"; title = "모두 닫기"; ObjectID = "1FW-iW-Qrj"; */
 > > /* Class = "NSMenuItem"; title = "모두 보기"; ObjectID = "824"; */
 > > /* Class = "NSMenuItem"; title = "다시 실행"; ObjectID = "835"; */
 > > /* Class = "NSMenuItem"; title = "실행 취소"; ObjectID = "841"; */
@@ -2356,8 +2239,6 @@
 > > /* Class = "NSMenuItem"; title = "실제 크기"; ObjectID = "wBy-1v-JPW"; */
 > > /* Class = "NSMenuItem"; title = "열린 곡선"; ObjectID = "zyu-vC-SJu"; */
 > > /* Class = "NSMenuItem"; title = "기본 스타일 다시 적용"; ObjectID = "AVQ-lj-f4d"; */
-> > /* Class = "NSMenuItem"; title = "가로 가운데 정렬"; ObjectID = "1195"; */
-> > /* Class = "NSMenuItem"; title = "가로 가운데 정렬"; ObjectID = "9sI-hO-Md4"; */
 > > /* Class = "NSMenuItem"; title = "문자 스타일 생성"; ObjectID = "NYG-YC-JLd"; */
 > > /* Class = "NSMenuItem"; title = "모든 윈도우 통합"; ObjectID = "fij-cC-LCH"; */
 > > /* Class = "NSMenuItem"; title = "문단 스타일 생성"; ObjectID = "fj4-Fp-494"; */
@@ -2458,8 +2339,8 @@
 > > /* Class = "NSMenuItem"; title = "외형"; ObjectID = "wm1-sj-IZt"; */
 > > /* Class = "NSMenuItem"; title = "공유"; ObjectID = "xLn-eq-kmf"; */
 > > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "za0-Gm-PuC"; */
+> > /* Class = "NSMenuItem"; title = "문서와 함께 편집 기록 저장"; ObjectID = "iEO-Vh-RiU"; */
 > > /* Class = "NSMenuItem"; title = "작업실 미리 설정 관리…"; ObjectID = "dFb-fJ-aap"; */
-> > /* Class = "NSMenuItem"; title = "가운데 균등 정렬"; ObjectID = "1196"; */
 > > /* Class = "NSMenuItem"; title = "상황별 툴바 보기"; ObjectID = "82H-vD-VqR"; */
 > > /* Class = "NSMenuItem"; title = "오른쪽 균등 정렬"; ObjectID = "geE-kT-j69"; */
 > > /* Class = "NSMenuItem"; title = "여백선 보기"; ObjectID = "1087"; */
@@ -2487,6 +2368,7 @@
 > > /* Class = "NSMenuItem"; title = "기준선 재설정"; ObjectID = "1242"; */
 > > /* Class = "NSMenuItem"; title = "스타일 붙이기"; ObjectID = "1325"; */
 > > /* Class = "NSMenuItem"; title = "안으로 붙이기"; ObjectID = "2DS-OJ-9gj"; */
+> > /* Class = "NSMenuItem"; title = "채우기 텍스트"; ObjectID = "33O-rq-hBH"; */
 > > /* Class = "NSMenuItem"; title = "텍스트 스타일"; ObjectID = "3PK-kV-rhH"; */
 > > /* Class = "NSMenuItem"; title = "기준선 내리기"; ObjectID = "4Jc-Wo-kBd"; */
 > > /* Class = "NSMenuItem"; title = "조금씩 줄이기"; ObjectID = "83W-2Y-rL5"; */
@@ -2534,7 +2416,6 @@
 > > /* Class = "NSMenuItem"; title = "작업실"; ObjectID = "aRg-Mr-7xd"; */
 > > /* Class = "NSMenuItem"; title = "늘리기"; ObjectID = "bzi-jw-WXn"; */
 > > /* Class = "NSMenuItem"; title = "기본값"; ObjectID = "hww-2Y-KTa"; */
-> > /* Class = "NSMenuItem"; title = "가운데"; ObjectID = "nJ2-Oj-KuC"; */
 > > /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "qxb-c2-k6D"; */
 > > /* Class = "NSMenuItem"; title = "투명도"; ObjectID = "rfD-qh-OcG"; */
 > > /* Class = "NSMenuItem"; title = "작성하는 동안 철자 확인"; ObjectID = "o7f-b4-OTT"; */
@@ -2553,7 +2434,6 @@
 > > /* Class = "NSMenuItem"; title = "아랫첨자"; ObjectID = "1234"; */
 > > /* Class = "NSMenuItem"; title = "교대하기"; ObjectID = "1383"; */
 > > /* Class = "NSMenuItem"; title = "둘러싸기"; ObjectID = "1390"; */
-> > /* Class = "NSMenuItem"; title = "대문자화"; ObjectID = "1520"; */
 > > /* Class = "NSMenuItem"; title = "페르소나"; ObjectID = "806"; */
 > > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "839"; */
 > > /* Class = "NSMenuItem"; title = "아트보드"; ObjectID = "JpD-gZ-8Rh"; */
@@ -2567,5 +2447,6 @@
 > > /* Class = "NSMenuItem"; title = "환경설정…"; ObjectID = "821"; */
 > > /* Class = "NSMenuItem"; title = "내보내기…"; ObjectID = "dEY-gX-uJE"; */
 > > /* Class = "NSMenuItem"; title = "배타적논리합 (결합)"; ObjectID = "xvT-Kv-m60"; */
+> > /* Class = "NSMenuItem"; title = "클립보드에서 신규"; ObjectID = "CRc-Cr-N5j"; */
 > > /* Class = "NSMenuItem"; title = "타이포그래피 보기"; ObjectID = "i96-Qy-QHE"; */
 > > /* Class = "NSMenuItem"; title = "배타적논리합"; ObjectID = "mEr-Gt-JDx"; */
