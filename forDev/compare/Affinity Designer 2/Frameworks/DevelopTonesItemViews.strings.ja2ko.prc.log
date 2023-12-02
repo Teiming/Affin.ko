@@ -59,16 +59,6 @@
 < > "w1I-Qf-1Nc.title" = "バランス";
 < > "ycP-XT-Cne.title" = "シャドウの彩度";
 ---
-> < /* Class = "NSButtonCell"; title = "Curves"; ObjectID = "9f4-qB-aiR"; */
-> < /* Class = "NSButtonCell"; title = "Split Toning"; ObjectID = "g6x-fB-GLo"; */
-> < /* Class = "NSMenuItem"; title = "Blue"; ObjectID = "TUf-RL-nig"; */
-> < /* Class = "NSMenuItem"; title = "Green"; ObjectID = "m4b-Tg-gL1"; */
-> < /* Class = "NSMenuItem"; title = "Red"; ObjectID = "mBa-Jz-oTS"; */
-> < /* Class = "NSTextFieldCell"; title = "Balance"; ObjectID = "w1I-Qf-1Nc"; */
-> < /* Class = "NSTextFieldCell"; title = "Blue"; ObjectID = "ZeW-MH-0Y1"; */
-> < /* Class = "NSTextFieldCell"; title = "Green"; ObjectID = "dZn-CS-tyC"; */
-> < /* Class = "NSTextFieldCell"; title = "Red"; ObjectID = "Lrh-Xq-XqK"; */
-> < /* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "h7e-9Y-IXx"; */
 > > "9f4-qB-aiR.title" = "곡선";
 > > "Lrh-Xq-XqK.title" = "빨강";
 > > "TUf-RL-nig.title" = "파랑";
@@ -79,13 +69,3 @@
 > > "m4b-Tg-gL1.title" = "초록";
 > > "mBa-Jz-oTS.title" = "빨강";
 > > "w1I-Qf-1Nc.title" = "밸런스";
-> > /* Class = "NSButtonCell"; title = "분할 색조"; ObjectID = "g6x-fB-GLo"; */
-> > /* Class = "NSButtonCell"; title = "곡선"; ObjectID = "9f4-qB-aiR"; */
-> > /* Class = "NSMenuItem"; title = "파랑"; ObjectID = "TUf-RL-nig"; */
-> > /* Class = "NSMenuItem"; title = "초록"; ObjectID = "m4b-Tg-gL1"; */
-> > /* Class = "NSMenuItem"; title = "빨강"; ObjectID = "mBa-Jz-oTS"; */
-> > /* Class = "NSTextFieldCell"; title = "빨강"; ObjectID = "Lrh-Xq-XqK"; */
-> > /* Class = "NSTextFieldCell"; title = "파랑"; ObjectID = "ZeW-MH-0Y1"; */
-> > /* Class = "NSTextFieldCell"; title = "초록"; ObjectID = "dZn-CS-tyC"; */
-> > /* Class = "NSTextFieldCell"; title = "노랑"; ObjectID = "h7e-9Y-IXx"; */
-> > /* Class = "NSTextFieldCell"; title = "밸런스"; ObjectID = "w1I-Qf-1Nc"; */
