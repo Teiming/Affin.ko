@@ -1,16 +1,16 @@
-3c3
-< "1.title" = "Acquire Image";
 ---
-> "1.title" = "画像の取得";
-6c6
-< "gwG-jd-rp3.documentName" = "Scan";
 ---
-> "gwG-jd-rp3.documentName" = "スキャン";
-9c9
-< "gwG-jd-rp3.overviewControlLabel" = "Overview";
 ---
-> "gwG-jd-rp3.overviewControlLabel" = "概要";
+---
 12c12
+3c3
+6c6
+9c9
+< "1.title" = "Acquire Image";
+< "gwG-jd-rp3.documentName" = "Scan";
+< "gwG-jd-rp3.overviewControlLabel" = "Overview";
 < "gwG-jd-rp3.scanControlLabel" = "Scan";
----
+> "1.title" = "画像の取得";
+> "gwG-jd-rp3.documentName" = "スキャン";
+> "gwG-jd-rp3.overviewControlLabel" = "概要";
 > "gwG-jd-rp3.scanControlLabel" = "スキャン";
