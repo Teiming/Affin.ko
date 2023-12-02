@@ -1,28 +1,28 @@
-3c3
-< "1.title" = "Median";
 ---
-> "1.title" = "メディアン";
-6c6
-< "12.title" = "Radius";
 ---
-> "12.title" = "半径";
-9c9
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
+---
+---
+---
+---
 12c12
-< "226.title" = "Cancel";
----
-> "226.title" = "キャンセル";
 15c15
-< "BpR-G2-7yH.ibShadowedToolTip" = "No split view";
----
-> "BpR-G2-7yH.ibShadowedToolTip" = "分割表示なし";
 18c18
-< "Qxa-CR-UcD.ibShadowedToolTip" = "Split view";
----
-> "Qxa-CR-UcD.ibShadowedToolTip" = "分割表示";
 21c21
+3c3
+6c6
+9c9
+< "1.title" = "Median";
+< "12.title" = "Radius";
+< "226.title" = "Cancel";
+< "26.title" = "Apply";
+< "BpR-G2-7yH.ibShadowedToolTip" = "No split view";
+< "Qxa-CR-UcD.ibShadowedToolTip" = "Split view";
 < "mXs-CF-285.ibShadowedToolTip" = "Mirror view";
----
+> "1.title" = "メディアン";
+> "12.title" = "半径";
+> "226.title" = "キャンセル";
+> "26.title" = "適用";
+> "BpR-G2-7yH.ibShadowedToolTip" = "分割表示なし";
+> "Qxa-CR-UcD.ibShadowedToolTip" = "分割表示";
 > "mXs-CF-285.ibShadowedToolTip" = "ミラー表示";
