@@ -1,201 +1,4 @@
-72,453c72,121
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,186c2,53
 < 102c102
 < 105c105
 < 108c108
@@ -396,6 +199,7 @@
 > 2,3c2,3
 > 200,201c200,201
 > 206,207c206,207
+> 215,216c215,216
 > 260,261c260,261
 > 266,267c266,267
 > 275,276c275,276
@@ -414,6 +218,7 @@
 > 38,39c38,39
 > 404,405c404,405
 > 41,42c41,42
+> 410,411c410,411
 > 413,414c413,414
 > 44,45c44,45
 > 446,447c446,447
@@ -432,7 +237,7 @@
 > 560,561c560,561
 > 584,585c584,585
 > 599,600c599,600
-455,536c123,142
+188,269c55,74
 < 627c627
 < 630c630
 < 633c633
@@ -536,27 +341,27 @@
 > 806,807c806,807
 > 821,822c821,822
 > 827,828c827,828
-538d143
+271d75
 < < "0kt-W3-gTu.title" = "Next style:";
-540,541d144
+273,274d76
 < < "1XK-kF-rUL.title" = "Style name:";
 < < "1k4-HQ-lEq.title" = "Typography Figures";
-543,546d145
+276,279d77
 < < "2QS-FX-OtG.title" = "No change";
 < < "2SJ-Wk-3XB.title" = "End characters:";
 < < "2ZY-ph-O1m.title" = "Font traits:";
 < < "2dD-HT-pN9.title" = "Typography script:";
-548d146
+281d78
 < < "3JP-bN-HSQ.title" = "Sum space before and after";
-552,553d149
+285,286d81
 < < "4Uy-Oo-f5h.title" = "Paragraph Flow";
 < < "4v5-9g-bOb.title" = "Contextual alternates";
-555,556d150
+288,289d82
 < < "5BK-Fw-eUC.title" = "Tab stop:";
 < < "5Ks-R6-FHR.title" = "Caps to small caps";
-558d151
+291d83
 < < "5PU-Yu-eIK.title" = "Font family:";
-561,568d153
+294,301d85
 < < "67c-fa-cyi.title" = "Outline:";
 < < "6GE-ld-ZOD.title" = "Relative to";
 < < "6bu-HZ-7l5.title" = "Next level:";
@@ -565,9 +370,9 @@
 < < "7JS-ow-NbL.title" = "Final forms";
 < < "7R6-m4-nfz.title" = "Small caps";
 < < "7hd-o6-Jze.title" = "Contextual ligatures";
-570d154
+303d86
 < < "7tI-H4-Uxm.title" = "Last line outdent";
-572,579d155
+305,312d87
 < < "832-gj-Dzo.title" = "Desired:";
 < < "846-uk-IRg.title" = "Character Color & Decorations";
 < < "84a-LH-hQU.title" = "Annotation forms:";
@@ -576,32 +381,32 @@
 < < "9Rf-23-SPk.title" = "Capitals:";
 < < "9kn-nC-eHk.title" = "Scientific Inferiors";
 < < "9nt-q5-l1d.title" = "lines";
-581d156
+314d88
 < < "Apj-Ch-wwh.ibShadowedToolTip" = "Right indent";
-583d157
+316d89
 < < "BG6-pB-KkJ.title" = "Letter spacing:";
-585,587d158
+318,320d90
 < < "BJv-Qc-2Mg.headerCell.title" = "Characters";
 < < "BgP-My-VFq.title" = "Caps to petite caps";
 < < "Bgq-B7-YHC.title" = "Insets";
-589,591d159
+322,324d91
 < < "BiG-5l-eri.ibShadowedToolTip" = "Text To Insert";
 < < "Bj5-c6-Ufy.title" = "Initial Words";
 < < "Blo-hv-TYs.title" = "Optical Alignment";
-593d160
+326d92
 < < "CBk-Ju-gka.title" = "Tracking:";
-595d161
+328d93
 < < "CDO-kW-gK8.title" = "Word spacing:";
-597,599d162
+330,332d94
 < < "CV8-e5-YOi.title" = "Stylistic sets:";
 < < "CcA-YX-75N.label" = "Item 8";
 < < "CfD-sy-XgW.title" = "Hyphenation:";
-602d164
+335d96
 < < "E3A-UQ-CQ9.title" = "Keyboard shortcut:";
-604,619d165
+337,338d97
 < < "EfD-b4-KCZ.label" = "Item 12";
 < < "EtM-jH-IUa.title" = "Typography language:";
-< < "FCP-et-4kr.title" = "Spelling:";
+340,352d98
 < < "FeH-8v-xio.title" = "Align to Baseline Grid";
 < < "GGZ-f3-4Yo.label" = "Item 9";
 < < "GOY-5f-6cj.title" = "Space before:";
@@ -615,21 +420,21 @@
 < < "HaS-G2-YuA.label" = "Basic Character";
 < < "HiS-he-LUM.title" = "Paragraph end zone:";
 < < "Hrg-pw-KKC.label" = "Item 10";
-621d166
+354d99
 < < "Hwv-YK-t0v.title" = "No break";
-623,624d167
+356,357d100
 < < "IlA-Gq-hrA.title" = "Indent";
 < < "IpX-1U-73j.title" = "Paragraph Tab Stops";
-627d169
+360d102
 < < "JFu-hv-YLr.title" = "Denominator";
-629,631d170
+362,364d103
 < < "JaO-RJ-IT0.label" = "Item 12";
 < < "K0x-nj-PbG.title" = "Drop Caps";
 < < "K4U-Ng-khB.title" = "Distance to text:";
-633,634d171
+366,367d104
 < < "Kyg-a1-Z86.title" = "Historical ligatures";
 < < "LCm-eI-OoB.title" = "Ornaments:";
-639,645d175
+372,378d108
 < < "N3j-Fr-T3c.title" = "Historical forms";
 < < "N9i-RJ-pSI.title" = "Space between same styles:";
 < < "O7N-TA-OvJ.title" = "No change";
@@ -637,16 +442,16 @@
 < < "Oaj-lk-xof.label" = "Item 12";
 < < "PNc-lt-aYU.title" = "Capital zone:";
 < < "PPb-OB-A1q.title" = "Table View Cell";
-648,651d177
+381,384d110
 < < "Q1l-Or-oCq.label" = "Item 12";
 < < "Q4h-EC-5qo.label" = "Item 12";
 < < "Q5a-tD-w9Y.ibShadowedToolTip" = "Space After Paragraph";
 < < "Qkc-Fy-kL3.title" = "Start numbering at:";
-653,655d178
+386,388d111
 < < "QvC-M9-y7g.title" = "Edit Text Style";
 < < "Qyt-F1-qxu.title" = "Keep with next:";
 < < "RCD-hp-iVe.title" = "Insets";
-657,663d179
+390,396d112
 < < "TXO-0Y-9fF.title" = "Figure position:";
 < < "UX9-Xe-T5p.title" = "Default tab stops:";
 < < "Uzg-3l-32E.ibShadowedToolTip" = "Add New Tab Stop";
@@ -654,10 +459,9 @@
 < < "VTf-Dk-7jR.title" = "Character variants:";
 < < "VXv-ir-QdN.title" = "Underline:";
 < < "Vfa-vH-o3E.title" = "Minimum:";
-665,666d180
+398d113
 < < "Vzm-7O-xHP.title" = "Max word count:";
-< < "W7b-DO-fwR.title" = "Decorations";
-668,677d181
+401,410d115
 < < "Wk0-cy-l0f.title" = "Characters:";
 < < "XMU-tD-8Em.title" = "Restart numbering:";
 < < "XZe-ue-GMU.title" = "Vertical scale:";
@@ -668,12 +472,12 @@
 < < "Ybr-o7-dwQ.ibShadowedToolTip" = "Left indent";
 < < "Yev-Iq-4jI.title" = "Table View Cell";
 < < "Yfh-ZW-wVl.title" = "No change";
-680d183
+413d117
 < < "Z0L-UJ-L5r.title" = "Paragraph Justification";
-683,684d185
+416,417d119
 < < "ZsN-lR-Kh3.title" = "All small caps";
 < < "Zyf-hC-2ig.title" = "Mathematical greek";
-686,694d186
+419,427d120
 < < "a5e-Zx-yjm.title" = "Horizontal scale:";
 < < "aAr-yd-ARf.title" = "Left indent:";
 < < "aIF-ea-HnX.title" = "All petite caps";
@@ -683,25 +487,25 @@
 < < "apu-nh-0Io.title" = "Standard ligatures";
 < < "axF-Pd-FTP.title" = "Combine identical";
 < < "b5k-aj-pJP.title" = "Isolated forms";
-696,699d187
+429,432d121
 < < "by0-Dq-ev6.title" = "Strikethrough:";
 < < "c8Z-c5-V85.ibShadowedToolTip" = "Character style to apply to the first words of the paragraph";
 < < "c8w-kc-mlq.title" = "Height in lines:";
 < < "cB5-yk-7m1.title" = "Tabular";
-702,703d189
+435,436d123
 < < "cuO-ge-E42.ibShadowedToolTip" = "The number of lines of text the drop cap should span";
 < < "cwo-fb-b14.label" = "Item 12";
-705,706d190
+438,439d124
 < < "dWs-5s-0kg.title" = "Baseline:";
 < < "dYf-c9-LyN.title" = "Minimum word length:";
-708,710d191
+441,443d125
 < < "eVX-JW-uSk.label" = "Item 4";
 < < "eb2-p4-LEz.title" = "Unicase";
 < < "eeb-Oj-ztD.title" = "Character Font";
-712,713d192
+445,446d126
 < < "eoJ-uG-JQ1.ibShadowedToolTip" = "Bottom indent";
 < < "euE-La-HbC.title" = "Super/subscript:";
-716,722d194
+449,455d128
 < < "fWs-vG-9iE.title" = "Petite caps";
 < < "fdB-8x-3vn.title" = "All caps";
 < < "fiD-AZ-gNT.title" = "Right indent:";
@@ -709,12 +513,12 @@
 < < "gOS-RD-VqZ.title" = "Stylistic alternates:";
 < < "gPc-Dl-jIv.title" = "Alternates:";
 < < "gvn-jS-Zh1.title" = "Use space before:";
-724,727d195
+457,460d129
 < < "hPX-qD-YWb.title" = "Slashed zero";
 < < "i0F-dM-cxk.title" = "Discretionary ligatures";
 < < "i8W-i0-IiI.title" = "Figure width:";
 < < "iJQ-l7-IB5.title" = "Font width:";
-729,735d196
+462,468d130
 < < "iu1-gm-XN3.title" = "Typography Variants";
 < < "jKz-RV-eSf.title" = "Scale for descenders";
 < < "jM2-tQ-kde.title" = "Contextual swash";
@@ -722,14 +526,14 @@
 < < "jcN-ZD-YUW.title" = "Ligatures:";
 < < "jf1-Kn-r8w.title" = "Character Language";
 < < "jnI-ka-6Ol.ibShadowedToolTip" = "Spacing between the drop cap and the adjacent text";
-737,739d197
+470,472d131
 < < "kxH-OK-Dyb.title" = "Text fill:";
 < < "lVm-vE-QWo.title" = "Capital spacing";
 < < "mC6-ED-D7H.label" = "Item 5";
-741,742d198
+474,475d132
 < < "mJD-uC-AOi.title" = "Restart numbering now";
 < < "mZB-oL-vlJ.title" = "Font size:";
-744,753d199
+477,486d133
 < < "mli-7y-VdW.title" = "Initial forms";
 < < "mty-dS-hUJ.label" = "Item 7";
 < < "nDd-8i-8oI.title" = "Prevent orphaned first lines";
@@ -740,7 +544,7 @@
 < < "oqz-MH-9eQ.title" = "Minimum:";
 < < "p2O-7l-KBg.title" = "Baseline Grid";
 < < "pGs-28-l85.ibShadowedToolTip" = "Tracking";
-755,763d200
+488,496d134
 < < "q6Z-7o-sQE.title" = "Numerator";
 < < "qFz-Wd-Fer.title" = "Style settings:";
 < < "qYv-Xv-cTg.title" = "Keep with previous paragraph";
@@ -750,44 +554,44 @@
 < < "rDO-ya-ZES.title" = "Hyphenation zone:";
 < < "rVk-nK-Hfo.title" = "Leading override:";
 < < "rWS-I7-kGM.title" = "Randomize";
-767,769d203
+500,502d137
 < < "sEQ-2k-YBQ.title" = "Case sensitive forms";
 < < "sPO-tb-faa.title" = "Titling";
 < < "sdF-kj-0Qy.title" = "Table View Cell";
-771,776d204
+504,509d138
 < < "szi-6V-YAB.title" = "Column end zone:";
 < < "t08-5S-Xkr.headerCell.title" = "Position";
 < < "t0K-kf-43v.ibShadowedToolTip" = "Maximum number of words to apply the initial word style to";
 < < "t0x-cr-Jek.label" = "Item 7";
 < < "t1l-Gy-Mzp.title" = "Show in both panels";
 < < "t3o-aB-QQm.title" = "Prevent widowed last lines";
-778,780d205
+511,513d139
 < < "tCS-hT-NAJ.title" = "Use auto-hyphenation";
 < < "tXk-9t-fYx.title" = "Typography Alternates";
 < < "tmb-Ca-bOv.title" = "Typography Capitals";
-782,784d206
+515,517d140
 < < "u2n-z6-mcp.title" = "Figure style:";
 < < "uB0-J7-Kgy.title" = "Bullets and Numbering";
 < < "ugx-k7-YhN.title" = "Character Positioning and Transform";
-786d207
+519d141
 < < "un4-Eh-hMN.title" = "Paragraph Spacing";
-788,790d208
+521,523d142
 < < "vJd-Ue-NKu.title" = "Based on:";
 < < "vOV-uO-JhB.title" = "Leading:";
 < < "vgN-MT-5cM.title" = "Old Style";
-792,793d209
+525,526d143
 < < "vpk-De-PRK.title" = "Hyphenation";
 < < "w0y-hv-u0H.title" = "Apply style to selection";
-795d210
+528d144
 < < "wT6-Ev-nez.title" = "Word position forms:";
-797,800d211
+530,533d145
 < < "wsM-E1-EFI.label" = "Item 11";
 < < "x2U-8W-lrg.title" = "Highlight:";
 < < "xN6-vp-Yr5.title" = "First line indent:";
 < < "xVX-AZ-vTy.title" = "Space after:";
-802d212
+535d146
 < < "yiE-qn-23k.title" = "No change";
-804,1072c214,424
+537,805c148,364
 < < "ze0-h2-XOZ.title" = "Fraction";
 < > "09F-CS-BBW.title" = "塗りつぶし:";
 < > "0kt-W3-gTu.title" = "次のスタイル:";
@@ -1088,6 +892,7 @@
 > < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "DKT-KH-iGd"; */
 > < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "umI-j5-JtY"; */
 > < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "dCN-za-gH1"; */
+> < /* Class = "NSTextFieldCell"; title = "Decorations"; ObjectID = "W7b-DO-fwR"; */
 > < /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "09F-CS-BBW"; */
 > < /* Class = "NSTextFieldCell"; title = "General"; ObjectID = "2Jn-NF-sma"; */
 > < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "LFB-TW-9Ej"; */
@@ -1095,6 +900,7 @@
 > < /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "ieE-eA-yTV"; */
 > < /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "mEq-hE-g3I"; */
 > < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "SuH-3E-wP4"; */
+> < /* Class = "NSTextFieldCell"; title = "Spelling:"; ObjectID = "FCP-et-4kr"; */
 > < /* Class = "NSTextFieldCell"; title = "Start:"; ObjectID = "rZb-Ns-0Rx"; */
 > < /* Class = "NSTextFieldCell"; title = "Stroke:"; ObjectID = "Pd0-Yi-9kA"; */
 > < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "PYi-cX-Bkb"; */
@@ -1151,6 +957,7 @@
 > > "DKT-KH-iGd.title" = "정렬:";
 > > "Dou-b0-YHp.title" = "텍스트 셀";
 > > "EcB-Lu-qA5.title" = "적용";
+> > "FCP-et-4kr.title" = "철자:";
 > > "Htq-96-hgV.title" = "텍스트 셀";
 > > "Icr-iY-dvs.title" = "취소";
 > > "Is2-0y-jod.title" = "텍스트 셀";
@@ -1166,6 +973,7 @@
 > > "Qpt-Uq-uvz.ibShadowedToolTip" = "편차";
 > > "SuH-3E-wP4.title" = "오른쪽:";
 > > "VvC-fE-EbQ.ibShadowedToolTip" = "문자 스타일";
+> > "W7b-DO-fwR.title" = "장식";
 > > "WXJ-Th-gmy.title" = "기본값";
 > > "YtF-04-wbW.title" = "유효한";
 > > "Ywz-2a-6QJ.title" = "텍스트 셀";
@@ -1229,9 +1037,11 @@
 > > /* Class = "NSTextFieldCell"; title = "칠:"; ObjectID = "09F-CS-BBW"; */
 > > /* Class = "NSTextFieldCell"; title = "선:"; ObjectID = "Pd0-Yi-9kA"; */
 > > /* Class = "NSTextFieldCell"; title = "일반"; ObjectID = "2Jn-NF-sma"; */
+> > /* Class = "NSTextFieldCell"; title = "장식"; ObjectID = "W7b-DO-fwR"; */
 > > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "B6u-92-hp9"; */
 > > /* Class = "NSTextFieldCell"; title = "레벨:"; ObjectID = "Bh0-bu-g1n"; */
 > > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "DKT-KH-iGd"; */
+> > /* Class = "NSTextFieldCell"; title = "철자:"; ObjectID = "FCP-et-4kr"; */
 > > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "LFB-TW-9Ej"; */
 > > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "fAf-4V-Fbb"; */
 > > /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "ieE-eA-yTV"; */

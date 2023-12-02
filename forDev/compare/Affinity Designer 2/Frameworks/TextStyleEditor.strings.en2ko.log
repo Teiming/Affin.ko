@@ -1,74 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 104,105c104,105
 110,111c110,111
 137,138c137,138
@@ -83,6 +13,7 @@
 2,3c2,3
 200,201c200,201
 206,207c206,207
+215,216c215,216
 260,261c260,261
 266,267c266,267
 275,276c275,276
@@ -101,6 +32,7 @@
 38,39c38,39
 404,405c404,405
 41,42c41,42
+410,411c410,411
 413,414c413,414
 44,45c44,45
 446,447c446,447
@@ -163,6 +95,7 @@
 < "DKT-KH-iGd.title" = "Alignment:";
 < "Dou-b0-YHp.title" = "Text Cell";
 < "EcB-Lu-qA5.title" = "Apply";
+< "FCP-et-4kr.title" = "Spelling:";
 < "Htq-96-hgV.title" = "Text Cell";
 < "Icr-iY-dvs.title" = "Cancel";
 < "Is2-0y-jod.title" = "Text Cell";
@@ -178,6 +111,7 @@
 < "Qpt-Uq-uvz.ibShadowedToolTip" = "Offset";
 < "SuH-3E-wP4.title" = "Right:";
 < "VvC-fE-EbQ.ibShadowedToolTip" = "Character Style";
+< "W7b-DO-fwR.title" = "Decorations";
 < "WXJ-Th-gmy.title" = "Default";
 < "YtF-04-wbW.title" = "Enabled";
 < "Ywz-2a-6QJ.title" = "Text Cell";
@@ -241,6 +175,7 @@
 < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "DKT-KH-iGd"; */
 < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "umI-j5-JtY"; */
 < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "dCN-za-gH1"; */
+< /* Class = "NSTextFieldCell"; title = "Decorations"; ObjectID = "W7b-DO-fwR"; */
 < /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "09F-CS-BBW"; */
 < /* Class = "NSTextFieldCell"; title = "General"; ObjectID = "2Jn-NF-sma"; */
 < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "LFB-TW-9Ej"; */
@@ -248,6 +183,7 @@
 < /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "ieE-eA-yTV"; */
 < /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "mEq-hE-g3I"; */
 < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "SuH-3E-wP4"; */
+< /* Class = "NSTextFieldCell"; title = "Spelling:"; ObjectID = "FCP-et-4kr"; */
 < /* Class = "NSTextFieldCell"; title = "Start:"; ObjectID = "rZb-Ns-0Rx"; */
 < /* Class = "NSTextFieldCell"; title = "Stroke:"; ObjectID = "Pd0-Yi-9kA"; */
 < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "PYi-cX-Bkb"; */
@@ -304,6 +240,7 @@
 > "DKT-KH-iGd.title" = "정렬:";
 > "Dou-b0-YHp.title" = "텍스트 셀";
 > "EcB-Lu-qA5.title" = "적용";
+> "FCP-et-4kr.title" = "철자:";
 > "Htq-96-hgV.title" = "텍스트 셀";
 > "Icr-iY-dvs.title" = "취소";
 > "Is2-0y-jod.title" = "텍스트 셀";
@@ -319,6 +256,7 @@
 > "Qpt-Uq-uvz.ibShadowedToolTip" = "편차";
 > "SuH-3E-wP4.title" = "오른쪽:";
 > "VvC-fE-EbQ.ibShadowedToolTip" = "문자 스타일";
+> "W7b-DO-fwR.title" = "장식";
 > "WXJ-Th-gmy.title" = "기본값";
 > "YtF-04-wbW.title" = "유효한";
 > "Ywz-2a-6QJ.title" = "텍스트 셀";
@@ -382,9 +320,11 @@
 > /* Class = "NSTextFieldCell"; title = "칠:"; ObjectID = "09F-CS-BBW"; */
 > /* Class = "NSTextFieldCell"; title = "선:"; ObjectID = "Pd0-Yi-9kA"; */
 > /* Class = "NSTextFieldCell"; title = "일반"; ObjectID = "2Jn-NF-sma"; */
+> /* Class = "NSTextFieldCell"; title = "장식"; ObjectID = "W7b-DO-fwR"; */
 > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "B6u-92-hp9"; */
 > /* Class = "NSTextFieldCell"; title = "레벨:"; ObjectID = "Bh0-bu-g1n"; */
 > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "DKT-KH-iGd"; */
+> /* Class = "NSTextFieldCell"; title = "철자:"; ObjectID = "FCP-et-4kr"; */
 > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "LFB-TW-9Ej"; */
 > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "fAf-4V-Fbb"; */
 > /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "ieE-eA-yTV"; */
