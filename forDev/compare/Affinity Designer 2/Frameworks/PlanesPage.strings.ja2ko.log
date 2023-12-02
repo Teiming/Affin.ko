@@ -1,17 +1,4 @@
-10,45c10,18
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,24c2,10
 < 12c12
 < 15c15
 < 18c18
@@ -45,25 +32,25 @@
 > 53,54c53,54
 > 56,57c56,57
 > 65,66c65,66
-47,49d19
+26,28d11
 < < "2pB-eN-rsZ.title" = "Flip vertical in plane";
 < < "2sJ-kv-xTJ.title" = "Enable Planes";
 < < "8cm-oU-1cU.title" = "In order to use the Isometric panel, a compatible grid must be configured. Click the button to modify the current grid.";
-51d20
+30d12
 < < "Ezs-8n-AZu.title" = "Flip horizontal in plane";
-53,54d21
+32,33d13
 < < "LHf-73-RQA.title" = "Rotate clockwise in plane";
 < < "Us3-KF-YCf.ibShadowedToolTip" = "Rotate clockwise in plane";
-57,58d23
+36,37d15
 < < "dC2-2e-dur.title" = "Rotate counter-clockwise in plane";
 < < "g5e-Ec-mIW.ibShadowedToolTip" = "Rotate counter-clockwise in plane";
-60,61d24
+39,40d16
 < < "h26-wd-IDr.title" = "Grid Settings...";
 < < "jNL-Gg-7Uz.ibShadowedToolTip" = "Flip horizontal in plane";
-64,65d26
+43,44d18
 < < "vvD-U6-Ib1.title" = "The active grid does not allow plane selection.";
 < < "w9t-TM-nlx.title" = "Modify Grid...";
-67,88c28,54
+46,67c20,46
 < > "0Xs-9U-Bux.ibShadowedToolTip" = "平面内で上下反転";
 < > "1ec-hw-cVw.ibShadowedToolTip" = "平面に合わせる";
 < > "2pB-eN-rsZ.title" = "平面内で上下反転";
