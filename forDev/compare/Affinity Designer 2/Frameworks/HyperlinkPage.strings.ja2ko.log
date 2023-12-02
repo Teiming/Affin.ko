@@ -1,90 +1,81 @@
-1c1,2
-< 6c6
----
-> 5,6c5,6
-> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "1fN-xE-oEr"; */
-4,9c5,8
-< > "1fN-xE-oEr.title" = "標準";
-< 9c9
-< < "2WJ-zx-mVY.ibShadowedToolTip" = "Add Hyperlink";
+9,28c9,16
 < ---
-< > "2WJ-zx-mVY.ibShadowedToolTip" = "ハイパーリンクを追加";
+< ---
+< ---
+< ---
+< ---
+< ---
 < 12c12
----
-> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "1fN-xE-oEr"; */
-> > "1fN-xE-oEr.title" = "표준";
-> 11,12c11,12
-> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "QkY-d3-q7i"; */
-12,21c11,14
-< > "QkY-d3-q7i.title" = "ユーザー定義";
 < 15c15
-< < "YpG-ou-VsK.ibShadowedToolTip" = "Go to Target";
-< ---
-< > "YpG-ou-VsK.ibShadowedToolTip" = "ハイパーリンク先へ移動";
 < 18c18
-< < "ZDF-K3-ZSH.ibShadowedToolTip" = "Remove Hyperlink";
-< ---
-< > "ZDF-K3-ZSH.ibShadowedToolTip" = "ハイパーリンクを削除";
 < 24c24
----
-> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "QkY-d3-q7i"; */
-> > "QkY-d3-q7i.title" = "사용자 정의";
-> 23,24c23,24
-> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "giK-6j-qiX"; */
-24,25c17,20
-< > "giK-6j-qiX.title" = "カテゴリ";
 < 27c27
----
-> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "giK-6j-qiX"; */
-> > "giK-6j-qiX.title" = "범주";
-> 26,27c26,27
-> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "iZh-ez-kXg"; */
-28,29c23,26
-< > "iZh-ez-kXg.headerCell.title" = "名前";
 < 30c30
----
-> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "iZh-ez-kXg"; */
-> > "iZh-ez-kXg.headerCell.title" = "이름";
-> 29,30c29,30
-> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "ijU-lM-mHj"; */
-32,37c29,32
-< > "ijU-lM-mHj.title" = "ユーザー定義";
 < 33c33
-< < "oeJ-Vg-8OU.title" = "Table View Cell";
-< ---
-< > "oeJ-Vg-8OU.title" = "表ビューセル";
 < 36c36
----
-> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "ijU-lM-mHj"; */
-> > "ijU-lM-mHj.title" = "사용자 정의";
-> 35,36c35,36
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pcj-B1-7FM"; */
-40,45c35,38
-< > "pcj-B1-7FM.title" = "テキストセル";
 < 39c39
-< < "qiq-n6-Rvv.ibShadowedToolTip" = "Go to Source";
-< ---
-< > "qiq-n6-Rvv.ibShadowedToolTip" = "ハイパーリンク元へ移動";
 < 42c42
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "pcj-B1-7FM"; */
-> > "pcj-B1-7FM.title" = "텍스트 셀";
-> 41,42c41,42
-> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "rX0-fH-UAv"; */
-48,53c41,44
-< > "rX0-fH-UAv.title" = "標準";
 < 45c45
-< < "up7-FM-6bQ.ibShadowedToolTip" = "Edit Hyperlink";
-< ---
-< > "up7-FM-6bQ.ibShadowedToolTip" = "ハイパーリンクを編集";
 < 48c48
+< 6c6
+< 9c9
 ---
-> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "rX0-fH-UAv"; */
-> > "rX0-fH-UAv.title" = "표준";
+> 11,12c11,12
+> 23,24c23,24
+> 26,27c26,27
+> 29,30c29,30
+> 35,36c35,36
+> 41,42c41,42
 > 47,48c47,48
-> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "zwu-8Z-0hc"; */
-56c47,48
+> 5,6c5,6
+30d17
+< < "2WJ-zx-mVY.ibShadowedToolTip" = "Add Hyperlink";
+32,33d18
+< < "YpG-ou-VsK.ibShadowedToolTip" = "Go to Target";
+< < "ZDF-K3-ZSH.ibShadowedToolTip" = "Remove Hyperlink";
+37d21
+< < "oeJ-Vg-8OU.title" = "Table View Cell";
+39d22
+< < "qiq-n6-Rvv.ibShadowedToolTip" = "Go to Source";
+41d23
+< < "up7-FM-6bQ.ibShadowedToolTip" = "Edit Hyperlink";
+43,56c25,48
+< > "1fN-xE-oEr.title" = "標準";
+< > "2WJ-zx-mVY.ibShadowedToolTip" = "ハイパーリンクを追加";
+< > "QkY-d3-q7i.title" = "ユーザー定義";
+< > "YpG-ou-VsK.ibShadowedToolTip" = "ハイパーリンク先へ移動";
+< > "ZDF-K3-ZSH.ibShadowedToolTip" = "ハイパーリンクを削除";
+< > "giK-6j-qiX.title" = "カテゴリ";
+< > "iZh-ez-kXg.headerCell.title" = "名前";
+< > "ijU-lM-mHj.title" = "ユーザー定義";
+< > "oeJ-Vg-8OU.title" = "表ビューセル";
+< > "pcj-B1-7FM.title" = "テキストセル";
+< > "qiq-n6-Rvv.ibShadowedToolTip" = "ハイパーリンク元へ移動";
+< > "rX0-fH-UAv.title" = "標準";
+< > "up7-FM-6bQ.ibShadowedToolTip" = "ハイパーリンクを編集";
 < > "zwu-8Z-0hc.title" = "カテゴリ";
 ---
-> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "zwu-8Z-0hc"; */
+> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "giK-6j-qiX"; */
+> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "zwu-8Z-0hc"; */
+> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "1fN-xE-oEr"; */
+> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "rX0-fH-UAv"; */
+> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "QkY-d3-q7i"; */
+> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "ijU-lM-mHj"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "iZh-ez-kXg"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pcj-B1-7FM"; */
+> > "1fN-xE-oEr.title" = "표준";
+> > "QkY-d3-q7i.title" = "사용자 정의";
+> > "giK-6j-qiX.title" = "범주";
+> > "iZh-ez-kXg.headerCell.title" = "이름";
+> > "ijU-lM-mHj.title" = "사용자 정의";
+> > "pcj-B1-7FM.title" = "텍스트 셀";
+> > "rX0-fH-UAv.title" = "표준";
 > > "zwu-8Z-0hc.title" = "범주";
+> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "1fN-xE-oEr"; */
+> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "giK-6j-qiX"; */
+> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "rX0-fH-UAv"; */
+> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "zwu-8Z-0hc"; */
+> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "QkY-d3-q7i"; */
+> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "ijU-lM-mHj"; */
+> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "iZh-ez-kXg"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "pcj-B1-7FM"; */
