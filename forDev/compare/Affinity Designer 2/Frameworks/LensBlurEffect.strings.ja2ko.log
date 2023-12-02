@@ -1,10 +1,4 @@
-7,25c7,12
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,14c2,7
 < 12c12
 < 15c15
 < 18c18
@@ -25,15 +19,15 @@
 > 35,36c35,36
 > 5,6c5,6
 > 8,9c8,9
-27,28d13
+16,17d8
 < < "214.title" = "Number of blades";
 < < "230.title" = "Blade curvature";
-32d16
+21d11
 < < "8Je-ep-DkV.title" = "Bloom Threshold";
-34,35d17
+23,24d12
 < < "UiC-hs-LoY.title" = "Bloom Factor";
 < < "VV7-TW-G6V.title" = "Bloom Color";
-37,48c19,36
+26,37c14,31
 < > "1.title" = "レンズぼかし";
 < > "12.title" = "半径";
 < > "214.title" = "ブレードの数";
