@@ -1,25 +1,4 @@
-39,87c39,56
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,29c2,19
 < 102c102
 < 105c105
 < 111c111
@@ -67,7 +46,7 @@
 > 182,183c182,183
 > 185,186c185,186
 > 188,189c188,189
-89,98c58,61
+31,40c21,24
 < 207c207
 < 213c213
 < 21c21
@@ -83,12 +62,12 @@
 > 242,243c242,243
 > 251,252c251,252
 > 260,261c260,261
-100,101c63
+42,43c26
 < 279c279
 < 282c282
 ---
 > 278,279c278,279
-103,111c65,72
+45,53c28,35
 < 291c291
 < 30c30
 < 3c3
@@ -107,59 +86,59 @@
 > 56,57c56,57
 > 59,60c59,60
 > 62,63c62,63
-113,115c74,75
+55,57c37,38
 < 78c78
 < 81c81
 < 90c90
 ---
 > 8,9c8,9
 > 89,90c89,90
-117,119d76
+59,61d39
 < 99c99
 < 9c9
 < < "1.title" = "Page Setup";
-122,123d78
+64,65d41
 < < "118.title" = "Gray/8";
 < < "119.title" = "Gray/16";
-126d80
+68d43
 < < "15.title" = "Letter";
-128d81
+70d44
 < < "1PY-kc-pGb.ibShadowedToolTip" = "Link Margins";
-134d86
+76d49
 < < "68o-3j-0m1.ibShadowedToolTip" = "Set the column guide color";
-141,142c93
+83,84c56
 < < "9JQ-9C-Xdj.title" = "Prefer Linked";
 < < "Abw-Ln-zrq.title" = "Image Placement Policy:";
 ---
 > < "9qg-RM-IC0.title" = "Button";
-146d96
+88d59
 < < "Df6-pz-aa6.title" = "Readout Units:";
-148a99
+90a62
 > < "GpO-9M-t4o.title" = "Web";
-150,151d100
+92,93d63
 < < "HWi-4u-hL4.title" = "Bicubic";
 < < "Jlc-Pq-Tgn.title" = "Lanczos 3 (separable)";
-153d101
+95d64
 < < "KsL-R5-Osi.title" = "Use Drawing Scale";
-156d103
+98d66
 < < "Ss8-gK-20Z.title" = "Box";
-160,163d106
+102,105d69
 < < "YG1-c3-jvt.title" = "Print (Press-Ready)";
 < < "Zrz-cc-Vz3.title" = "Resample:";
 < < "bFa-Qu-Q9m.title" = "Objects will:";
 < < "cBw-wq-VZx.title" = "Lanczos 3 (non-separable)";
-165,166d107
+107,108d70
 < < "cbk-nA-KYW.ibShadowedToolTip" = "Set the column guide color";
 < < "dLw-kw-O62.title" = "iPhone, iPad Mini (Retina)";
-168d108
+110d71
 < < "hbS-sF-Snn.title" = "Nearest Neighbor";
-170d109
+112d72
 < < "kfu-AN-DPj.title" = "Bilinear";
-172d110
+114d73
 < < "obs-NR-jZ3.title" = "Prefer Embedded";
-175d112
+117d75
 < < "wth-JE-2vf.title" = "Anchor:";
-178,236c115,218
+120,178c78,181
 < > "1.title" = "ページ設定";
 < > "10.title" = "ページプリセット:";
 < > "114.title" = "カラーフォーマット:";
