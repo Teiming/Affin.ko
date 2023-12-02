@@ -1,82 +1,78 @@
-1,13c1,2
-< 3c3
-< < "3Dc-RZ-0q7.title" = "Layer lock status is";
+5,35c5,8
 < ---
-< > "3Dc-RZ-0q7.title" = "レイヤーのロック状態は";
-< 6c6
-< < "6Dw-GK-tcz.title" = "Layer name is";
 < ---
-< > "6Dw-GK-tcz.title" = "レイヤー名は";
-< 9c9
-< < "7OS-ac-2zm.ibShadowedToolTip" = "Visibility";
 < ---
-< > "7OS-ac-2zm.ibShadowedToolTip" = "可視性";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 48c48
+< 6c6
+< 9c9
+< < "3Dc-RZ-0q7.title" = "Layer lock status is";
+< < "6Dw-GK-tcz.title" = "Layer name is";
+< < "7OS-ac-2zm.ibShadowedToolTip" = "Visibility";
 ---
 > 11,12c11,12
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8kf-J6-CLc"; */
-16,33c5,8
-< > "8kf-J6-CLc.title" = "テキストセル";
-< 15c15
-< < "AZK-G0-Epq.title" = "And show / hide others";
-< ---
-< > "AZK-G0-Epq.title" = "その他を表示";
-< 18c18
-< < "D6Y-pm-z7N.title" = "Layer tag is";
-< ---
-< > "D6Y-pm-z7N.title" = "レイヤータグは";
-< 21c21
-< < "Ecc-dn-hvI.title" = "Layer type is";
-< ---
-< > "Ecc-dn-hvI.title" = "レイヤータイプは";
-< 24c24
-< < "M3R-4q-Amk.title" = "Regular expressions";
-< ---
-< > "M3R-4q-Amk.title" = "正規表現";
-< 27c27
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "8kf-J6-CLc"; */
-> > "8kf-J6-CLc.title" = "텍스트 셀";
 > 26,27c26,27
-> < /* Class = "NSButton"; ibShadowedToolTip = "Show"; ObjectID = "Y2d-H9-ITU"; */
-36,37c11,14
-< > "Y2d-H9-ITU.ibShadowedToolTip" = "適用";
-< 30c30
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "보기"; ObjectID = "Y2d-H9-ITU"; */
-> > "Y2d-H9-ITU.ibShadowedToolTip" = "보기";
 > 29,30c29,30
-> < /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "b9b-B4-8WO"; */
-40,61c17,20
-< > "b9b-B4-8WO.title" = "スタイル";
-< 33c33
-< < "fcf-YH-9cU.ibShadowedToolTip" = "Visibility";
-< ---
-< > "fcf-YH-9cU.ibShadowedToolTip" = "可視性";
-< 36c36
-< < "hah-Bb-sXi.ibShadowedToolTip" = "Visibility";
-< ---
-< > "hah-Bb-sXi.ibShadowedToolTip" = "可視性";
-< 39c39
-< < "nea-9N-xmY.ibShadowedToolTip" = "Visibility";
-< ---
-< > "nea-9N-xmY.ibShadowedToolTip" = "可視性";
-< 42c42
-< < "o0T-dx-tKP.ibShadowedToolTip" = "Visibility";
-< ---
-< > "o0T-dx-tKP.ibShadowedToolTip" = "可視性";
-< 45c45
-< < "uaS-YQ-sjG.title" = "Table View Cell";
-< ---
-< > "uaS-YQ-sjG.title" = "テーブルビューセル";
-< 48c48
----
-> > /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "b9b-B4-8WO"; */
-> > "b9b-B4-8WO.title" = "스타일";
 > 47,48c47,48
-> < /* Class = "NSButton"; ibShadowedToolTip = "Hide"; ObjectID = "z83-ak-huV"; */
-64c23,24
+37,40d9
+< < "AZK-G0-Epq.title" = "And show / hide others";
+< < "D6Y-pm-z7N.title" = "Layer tag is";
+< < "Ecc-dn-hvI.title" = "Layer type is";
+< < "M3R-4q-Amk.title" = "Regular expressions";
+43,47d11
+< < "fcf-YH-9cU.ibShadowedToolTip" = "Visibility";
+< < "hah-Bb-sXi.ibShadowedToolTip" = "Visibility";
+< < "nea-9N-xmY.ibShadowedToolTip" = "Visibility";
+< < "o0T-dx-tKP.ibShadowedToolTip" = "Visibility";
+< < "uaS-YQ-sjG.title" = "Table View Cell";
+49,64c13,24
+< > "3Dc-RZ-0q7.title" = "レイヤーのロック状態は";
+< > "6Dw-GK-tcz.title" = "レイヤー名は";
+< > "7OS-ac-2zm.ibShadowedToolTip" = "可視性";
+< > "8kf-J6-CLc.title" = "テキストセル";
+< > "AZK-G0-Epq.title" = "その他を表示";
+< > "D6Y-pm-z7N.title" = "レイヤータグは";
+< > "Ecc-dn-hvI.title" = "レイヤータイプは";
+< > "M3R-4q-Amk.title" = "正規表現";
+< > "Y2d-H9-ITU.ibShadowedToolTip" = "適用";
+< > "b9b-B4-8WO.title" = "スタイル";
+< > "fcf-YH-9cU.ibShadowedToolTip" = "可視性";
+< > "hah-Bb-sXi.ibShadowedToolTip" = "可視性";
+< > "nea-9N-xmY.ibShadowedToolTip" = "可視性";
+< > "o0T-dx-tKP.ibShadowedToolTip" = "可視性";
+< > "uaS-YQ-sjG.title" = "テーブルビューセル";
 < > "z83-ak-huV.ibShadowedToolTip" = "非表示";
 ---
-> > /* Class = "NSButton"; ibShadowedToolTip = "가리기"; ObjectID = "z83-ak-huV"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Hide"; ObjectID = "z83-ak-huV"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Show"; ObjectID = "Y2d-H9-ITU"; */
+> < /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "b9b-B4-8WO"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8kf-J6-CLc"; */
+> > "8kf-J6-CLc.title" = "텍스트 셀";
+> > "Y2d-H9-ITU.ibShadowedToolTip" = "보기";
+> > "b9b-B4-8WO.title" = "스타일";
 > > "z83-ak-huV.ibShadowedToolTip" = "가리기";
+> > /* Class = "NSButton"; ibShadowedToolTip = "보기"; ObjectID = "Y2d-H9-ITU"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "가리기"; ObjectID = "z83-ak-huV"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "8kf-J6-CLc"; */
+> > /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "b9b-B4-8WO"; */
