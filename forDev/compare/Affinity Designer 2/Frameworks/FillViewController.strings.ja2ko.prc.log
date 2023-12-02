@@ -114,27 +114,6 @@
 < > "vvp-Ii-a5v.title" = "グラデーション";
 < > "yuH-NK-FxO.title" = "反転";
 ---
-> < /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "1Dp-FQ-PVb"; */
-> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "QRf-mf-Poi"; */
-> < /* Class = "NSButtonCell"; title = "Insert"; ObjectID = "apv-kE-C3S"; */
-> < /* Class = "NSMenuItem"; title = "Conical"; ObjectID = "HjM-ug-kug"; */
-> < /* Class = "NSMenuItem"; title = "Elliptical"; ObjectID = "ihr-0u-OdQ"; */
-> < /* Class = "NSMenuItem"; title = "HSL Sliders"; ObjectID = "r3h-Dn-SoG"; */
-> < /* Class = "NSMenuItem"; title = "Hue"; ObjectID = "93b-S5-6WI"; */
-> < /* Class = "NSMenuItem"; title = "Lightness"; ObjectID = "gzc-Ry-ZM4"; */
-> < /* Class = "NSMenuItem"; title = "Linear"; ObjectID = "92N-BY-b5E"; */
-> < /* Class = "NSMenuItem"; title = "RGB Hex Sliders"; ObjectID = "fwQ-ke-o0F"; */
-> < /* Class = "NSMenuItem"; title = "RGB Sliders"; ObjectID = "2d1-0p-nrj"; */
-> < /* Class = "NSMenuItem"; title = "Radial"; ObjectID = "pXi-pp-w9p"; */
-> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "p1G-N2-VfH"; */
-> < /* Class = "NSMenuItem"; title = "Tint"; ObjectID = "WW9-xY-wcu"; */
-> < /* Class = "NSTabViewItem"; label = "Gradient"; ObjectID = "ilf-ic-9Hw"; */
-> < /* Class = "NSTabViewItem"; label = "Swatches"; ObjectID = "g62-Qw-ckK"; */
-> < /* Class = "NSTextFieldCell"; title = "Noise"; ObjectID = "N2C-N9-tRf"; */
-> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "Ei0-hI-9VN"; */
-> < /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "TgV-8U-ijN"; */
-> < /* Class = "NSTextFieldCell"; title = "Recent:"; ObjectID = "dt1-oS-lmF"; */
-> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "PiU-7o-NrL"; */
 > > "1Dp-FQ-PVb.title" = "복사";
 > > "2d1-0p-nrj.title" = "RGB 슬라이더";
 > > "92N-BY-b5E.title" = "선형";
@@ -158,24 +137,3 @@
 > > "p1G-N2-VfH.title" = "채도";
 > > "pXi-pp-w9p.title" = "방사형";
 > > "r3h-Dn-SoG.title" = "HSL 슬라이더";
-> > /* Class = "NSButtonCell"; title = "복사"; ObjectID = "1Dp-FQ-PVb"; */
-> > /* Class = "NSButtonCell"; title = "삽입"; ObjectID = "apv-kE-C3S"; */
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "QRf-mf-Poi"; */
-> > /* Class = "NSMenuItem"; title = "HSL 슬라이더"; ObjectID = "r3h-Dn-SoG"; */
-> > /* Class = "NSMenuItem"; title = "RGB Hex 슬라이더"; ObjectID = "fwQ-ke-o0F"; */
-> > /* Class = "NSMenuItem"; title = "RGB 슬라이더"; ObjectID = "2d1-0p-nrj"; */
-> > /* Class = "NSMenuItem"; title = "선형"; ObjectID = "92N-BY-b5E"; */
-> > /* Class = "NSMenuItem"; title = "색채"; ObjectID = "93b-S5-6WI"; */
-> > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "WW9-xY-wcu"; */
-> > /* Class = "NSMenuItem"; title = "밝기"; ObjectID = "gzc-Ry-ZM4"; */
-> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "p1G-N2-VfH"; */
-> > /* Class = "NSMenuItem"; title = "원뿔형"; ObjectID = "HjM-ug-kug"; */
-> > /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "ihr-0u-OdQ"; */
-> > /* Class = "NSMenuItem"; title = "방사형"; ObjectID = "pXi-pp-w9p"; */
-> > /* Class = "NSTabViewItem"; label = "견본"; ObjectID = "g62-Qw-ckK"; */
-> > /* Class = "NSTabViewItem"; label = "그레이디언트"; ObjectID = "ilf-ic-9Hw"; */
-> > /* Class = "NSTextFieldCell"; title = "최근 사용 항목:"; ObjectID = "dt1-oS-lmF"; */
-> > /* Class = "NSTextFieldCell"; title = "잡음"; ObjectID = "N2C-N9-tRf"; */
-> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "PiU-7o-NrL"; */
-> > /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "TgV-8U-ijN"; */
-> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "Ei0-hI-9VN"; */
