@@ -1,110 +1,99 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2GK-yg-Hiw"; */
-4,17c5,8
-< > "2GK-yg-Hiw.title" = "キャンセル";
-< 6c6
-< < "5wf-4z-LYi.headerCell.title" = "Type";
+9,38c9,16
 < ---
-< > "5wf-4z-LYi.headerCell.title" = "タイプ";
-< 9c9
-< < "7IH-p2-IFU.ibShadowedToolTip" = "Current Formatting";
 < ---
-< > "7IH-p2-IFU.ibShadowedToolTip" = "現在のフォーマット";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 12c12
-< < "Bac-jU-0Ah.title" = "Document style:";
-< ---
-< > "Bac-jU-0Ah.title" = "ドキュメントスタイル:";
 < 18c18
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "2GK-yg-Hiw"; */
-> > "2GK-yg-Hiw.title" = "취소";
-> 17,18c17,18
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Lhl-3w-miQ"; */
-20,21c11,14
-< > "Lhl-3w-miQ.title" = "テキストセル";
 < 21c21
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Lhl-3w-miQ"; */
-> > "Lhl-3w-miQ.title" = "텍스트 셀";
-> 20,21c20,21
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MEG-4f-a4D"; */
-24,37c17,20
-< > "MEG-4f-a4D.title" = "テキストセル";
 < 24c24
-< < "Nsc-gq-wgw.title" = "Check All";
-< ---
-< > "Nsc-gq-wgw.title" = "すべてをチェック";
 < 27c27
-< < "ORZ-dn-gfa.title" = "Check Characters";
-< ---
-< > "ORZ-dn-gfa.title" = "文字をチェック";
 < 30c30
-< < "Pqa-MW-d2h.ibShadowedToolTip" = "Current Formatting";
-< ---
-< > "Pqa-MW-d2h.ibShadowedToolTip" = "現在のフォーマット";
 < 33c33
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "MEG-4f-a4D"; */
-> > "MEG-4f-a4D.title" = "텍스트 셀";
-> 32,33c32,33
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UqM-Ye-I8b"; */
-40,41c23,26
-< > "UqM-Ye-I8b.title" = "テキストセル";
 < 36c36
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "UqM-Ye-I8b"; */
-> > "UqM-Ye-I8b.title" = "텍스트 셀";
-> 35,36c35,36
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YpL-Os-qLm"; */
-44,49c29,32
-< > "YpL-Os-qLm.title" = "テキストセル";
 < 39c39
-< < "bdC-fX-exD.headerCell.title" = "Conflicts";
-< ---
-< > "bdC-fX-exD.headerCell.title" = "競合";
+< 3c3
 < 42c42
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YpL-Os-qLm"; */
-> > "YpL-Os-qLm.title" = "텍스트 셀";
-> 41,42c41,42
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eQ3-Fj-QfF"; */
-52,53c35,38
-< > "eQ3-Fj-QfF.title" = "テキストセル";
 < 45c45
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "eQ3-Fj-QfF"; */
-> > "eQ3-Fj-QfF.title" = "텍스트 셀";
-> 44,45c44,45
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iha-za-VVP"; */
-56,57c41,44
-< > "iha-za-VVP.title" = "テキストセル";
 < 48c48
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "iha-za-VVP"; */
-> > "iha-za-VVP.title" = "텍스트 셀";
-> 47,48c47,48
-> < /* Class = "NSTableColumn"; headerCell.title = "Rename To"; ObjectID = "jrw-3t-oyr"; */
-60,76c47,48
-< > "jrw-3t-oyr.headerCell.title" = "次の名前に変更";
 < 51c51
-< < "lnx-yj-6eH.title" = "Incoming style:";
-< ---
-< > "lnx-yj-6eH.title" = "受信スタイル:";
 < 54c54
-< < "nP9-d3-TVf.headerCell.title" = "Incoming Name";
-< ---
-< > "nP9-d3-TVf.headerCell.title" = "受信名";
 < 57c57
-< < "rcW-Dp-Nj7.title" = "Check Paragraphs";
-< ---
-< > "rcW-Dp-Nj7.title" = "段落をチェック";
 < 60c60
+< 6c6
+< 9c9
+---
+> 17,18c17,18
+> 2,3c2,3
+> 20,21c20,21
+> 32,33c32,33
+> 35,36c35,36
+> 41,42c41,42
+> 44,45c44,45
+> 47,48c47,48
+40,42d17
+< < "5wf-4z-LYi.headerCell.title" = "Type";
+< < "7IH-p2-IFU.ibShadowedToolTip" = "Current Formatting";
+< < "Bac-jU-0Ah.title" = "Document style:";
+45,47d19
+< < "Nsc-gq-wgw.title" = "Check All";
+< < "ORZ-dn-gfa.title" = "Check Characters";
+< < "Pqa-MW-d2h.ibShadowedToolTip" = "Current Formatting";
+50d21
+< < "bdC-fX-exD.headerCell.title" = "Conflicts";
+54,76c25,48
+< < "lnx-yj-6eH.title" = "Incoming style:";
+< < "nP9-d3-TVf.headerCell.title" = "Incoming Name";
+< < "rcW-Dp-Nj7.title" = "Check Paragraphs";
 < < "xvE-lU-BE7.title" = "Imported Text Styles";
-< ---
+< > "2GK-yg-Hiw.title" = "キャンセル";
+< > "5wf-4z-LYi.headerCell.title" = "タイプ";
+< > "7IH-p2-IFU.ibShadowedToolTip" = "現在のフォーマット";
+< > "Bac-jU-0Ah.title" = "ドキュメントスタイル:";
+< > "Lhl-3w-miQ.title" = "テキストセル";
+< > "MEG-4f-a4D.title" = "テキストセル";
+< > "Nsc-gq-wgw.title" = "すべてをチェック";
+< > "ORZ-dn-gfa.title" = "文字をチェック";
+< > "Pqa-MW-d2h.ibShadowedToolTip" = "現在のフォーマット";
+< > "UqM-Ye-I8b.title" = "テキストセル";
+< > "YpL-Os-qLm.title" = "テキストセル";
+< > "bdC-fX-exD.headerCell.title" = "競合";
+< > "eQ3-Fj-QfF.title" = "テキストセル";
+< > "iha-za-VVP.title" = "テキストセル";
+< > "jrw-3t-oyr.headerCell.title" = "次の名前に変更";
+< > "lnx-yj-6eH.title" = "受信スタイル:";
+< > "nP9-d3-TVf.headerCell.title" = "受信名";
+< > "rcW-Dp-Nj7.title" = "段落をチェック";
 < > "xvE-lU-BE7.title" = "インポートされたテキストスタイル";
 ---
-> > /* Class = "NSTableColumn"; headerCell.title = "이름 변경..."; ObjectID = "jrw-3t-oyr"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2GK-yg-Hiw"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Rename To"; ObjectID = "jrw-3t-oyr"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Lhl-3w-miQ"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MEG-4f-a4D"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UqM-Ye-I8b"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YpL-Os-qLm"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eQ3-Fj-QfF"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iha-za-VVP"; */
+> > "2GK-yg-Hiw.title" = "취소";
+> > "Lhl-3w-miQ.title" = "텍스트 셀";
+> > "MEG-4f-a4D.title" = "텍스트 셀";
+> > "UqM-Ye-I8b.title" = "텍스트 셀";
+> > "YpL-Os-qLm.title" = "텍스트 셀";
+> > "eQ3-Fj-QfF.title" = "텍스트 셀";
+> > "iha-za-VVP.title" = "텍스트 셀";
 > > "jrw-3t-oyr.headerCell.title" = "이름 변경...";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "2GK-yg-Hiw"; */
+> > /* Class = "NSTableColumn"; headerCell.title = "이름 변경..."; ObjectID = "jrw-3t-oyr"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Lhl-3w-miQ"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "MEG-4f-a4D"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "UqM-Ye-I8b"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YpL-Os-qLm"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "eQ3-Fj-QfF"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "iha-za-VVP"; */
