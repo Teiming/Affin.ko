@@ -1,0 +1,97 @@
+6,43c6,10
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 27c27
+< 30c30
+< 33c33
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+< 66c66
+< 69c69
+< 6c6
+< 9c9
+< < "1Dd-DF-A0c.title" = "Pages:";
+< < "5IE-kF-lRl.title" = "Section:";
+< < "6xr-kl-MgX.title" = "After Last Page";
+---
+> 11,12c11,12
+> 17,18c17,18
+> 20,21c20,21
+> 56,57c56,57
+> 65,66c65,66
+45d11
+< < "CJh-S3-50s.title" = "Ignore Initial Section";
+48,56d13
+< < "Jmg-QW-izK.title" = "Discard Unused Text Styles";
+< < "Lgm-gG-L3Z.title" = "Pages";
+< < "PnC-cn-739.title" = "Section";
+< < "QvC-M9-y7g.title" = "Add Pages from File";
+< < "S5F-b7-UC8.title" = "All Pages";
+< < "VOs-em-WFC.title" = "Section:";
+< < "XRO-wm-4cj.title" = "Add pages from file:";
+< < "Z2f-ne-yH8.title" = "Replacing";
+< < "cA1-n6-YEd.title" = "Pages or section:";
+58d14
+< < "fKk-Kb-cZu.title" = "Add pages:";
+60,80c16,30
+< < "piG-xd-yVq.title" = "Page Numbers:";
+< > "1Dd-DF-A0c.title" = "ページ数:";
+< > "5IE-kF-lRl.title" = "セクション:";
+< > "6xr-kl-MgX.title" = "最終ページ後";
+< > "9bm-sP-Co1.title" = "前";
+< > "CJh-S3-50s.title" = "最初のセクションを無視する";
+< > "CXZ-u6-bMc.title" = "ラベル";
+< > "IEL-yo-O4V.title" = "ラベル";
+< > "Jmg-QW-izK.title" = "未使用テキストスタイルを破棄";
+< > "Lgm-gG-L3Z.title" = "ページ";
+< > "PnC-cn-739.title" = "セクション";
+< > "QvC-M9-y7g.title" = "ファイルからページを追加";
+< > "S5F-b7-UC8.title" = "すべてのページ";
+< > "VOs-em-WFC.title" = "セクション:";
+< > "XRO-wm-4cj.title" = "ファイルからページを追加:";
+< > "Z2f-ne-yH8.title" = "置換中";
+< > "cA1-n6-YEd.title" = "ページまたはセクション:";
+< > "fIV-u8-dQJ.title" = "キャンセル";
+< > "fKk-Kb-cZu.title" = "ページを追加:";
+< > "hcL-GU-vo4.title" = "後";
+< > "piG-xd-yVq.title" = "ページ番号:";
+---
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
+> < /* Class = "NSMenuItem"; title = "After"; ObjectID = "hcL-GU-vo4"; */
+> < /* Class = "NSMenuItem"; title = "Before"; ObjectID = "9bm-sP-Co1"; */
+> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "CXZ-u6-bMc"; */
+> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "IEL-yo-O4V"; */
+> > "9bm-sP-Co1.title" = "이전";
+> > "CXZ-u6-bMc.title" = "라벨";
+> > "IEL-yo-O4V.title" = "라벨";
+> > "fIV-u8-dQJ.title" = "취소";
+> > "hcL-GU-vo4.title" = "이후";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */
+> > /* Class = "NSMenuItem"; title = "이전"; ObjectID = "9bm-sP-Co1"; */
+> > /* Class = "NSMenuItem"; title = "이후"; ObjectID = "hcL-GU-vo4"; */
+> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "CXZ-u6-bMc"; */
+> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "IEL-yo-O4V"; */

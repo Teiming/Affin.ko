@@ -1,0 +1,26 @@
+2,12c2
+< ---
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 6c6
+< < "8AS-xy-QEA.title" = "Range:";
+< < "G3r-2W-UAg.title" = "Orientation:";
+---
+> 14,15c14,15
+14,20c4,6
+< < "lRc-is-Y9S.title" = "Pages:";
+< < "z6I-dE-5vw.title" = "Fit Type:";
+< > "8AS-xy-QEA.title" = "範囲:";
+< > "G3r-2W-UAg.title" = "向き:";
+< > "KnH-uH-NcW.title" = "スケール:";
+< > "lRc-is-Y9S.title" = "ページ数:";
+< > "z6I-dE-5vw.title" = "スケーリングタイプ:";
+---
+> < /* Class = "NSTextFieldCell"; title = "Scale:"; ObjectID = "KnH-uH-NcW"; */
+> > "KnH-uH-NcW.title" = "배율:";
+> > /* Class = "NSTextFieldCell"; title = "배율:"; ObjectID = "KnH-uH-NcW"; */

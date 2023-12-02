@@ -1,0 +1,30 @@
+4,11c4,6
+< ---
+< ---
+< 12c12
+< 15c15
+< 3c3
+< 6c6
+< 9c9
+< < "3F1-ta-oAq.title" = "Box";
+---
+> 11,12c11,12
+> 5,6c5,6
+> 8,9c8,9
+15,20c10,18
+< < "YJa-aH-j3o.title" = "Create Preset...";
+< > "3F1-ta-oAq.title" = "ボックス";
+< > "7D0-58-l1D.title" = "モード:";
+< > "8LF-dh-Fag.title" = "プリセット名の変更...";
+< > "QS5-Bs-bdP.title" = "プリセットを削除";
+< > "YJa-aH-j3o.title" = "プリセットを作成...";
+---
+> < /* Class = "NSMenuItem"; title = "Delete Preset"; ObjectID = "QS5-Bs-bdP"; */
+> < /* Class = "NSMenuItem"; title = "Rename Preset..."; ObjectID = "8LF-dh-Fag"; */
+> < /* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "7D0-58-l1D"; */
+> > "7D0-58-l1D.title" = "모드:";
+> > "8LF-dh-Fag.title" = "미리 설정 이름 변경...";
+> > "QS5-Bs-bdP.title" = "미리 설정 지우기";
+> > /* Class = "NSMenuItem"; title = "미리 설정 이름 변경..."; ObjectID = "8LF-dh-Fag"; */
+> > /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "QS5-Bs-bdP"; */
+> > /* Class = "NSTextFieldCell"; title = "모드:"; ObjectID = "7D0-58-l1D"; */

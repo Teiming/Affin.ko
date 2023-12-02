@@ -1,0 +1,42 @@
+---
+---
+---
+---
+---
+---
+---
+14,15c14,15
+20,21c20,21
+23,24c23,24
+32,33c32,33
+35,36c35,36
+38,39c38,39
+41,42c41,42
+< "Qkh-t4-hcy.title" = "Delete preset";
+< "SBc-g9-Vcu.title" = "Create preset";
+< "Zib-1Z-EOy.title" = "Opacity:";
+< "fSY-0R-TuL.title" = "Rename preset";
+< "gUb-Gn-Xog.title" = "Merge";
+< "kmY-Lg-bQr.title" = "Delete";
+< "w6O-3n-idl.title" = "Reset";
+< /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "kmY-Lg-bQr"; */
+< /* Class = "NSButtonCell"; title = "Merge"; ObjectID = "gUb-Gn-Xog"; */
+< /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "w6O-3n-idl"; */
+< /* Class = "NSMenuItem"; title = "Create preset"; ObjectID = "SBc-g9-Vcu"; */
+< /* Class = "NSMenuItem"; title = "Delete preset"; ObjectID = "Qkh-t4-hcy"; */
+< /* Class = "NSMenuItem"; title = "Rename preset"; ObjectID = "fSY-0R-TuL"; */
+< /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "Zib-1Z-EOy"; */
+> "Qkh-t4-hcy.title" = "미리 설정 지우기";
+> "SBc-g9-Vcu.title" = "미리 설정 생성";
+> "Zib-1Z-EOy.title" = "불투명도:";
+> "fSY-0R-TuL.title" = "미리 설정 이름 변경";
+> "gUb-Gn-Xog.title" = "통합";
+> "kmY-Lg-bQr.title" = "지우기";
+> "w6O-3n-idl.title" = "재설정";
+> /* Class = "NSButtonCell"; title = "통합"; ObjectID = "gUb-Gn-Xog"; */
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "kmY-Lg-bQr"; */
+> /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "w6O-3n-idl"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 이름 변경"; ObjectID = "fSY-0R-TuL"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 생성"; ObjectID = "SBc-g9-Vcu"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "Qkh-t4-hcy"; */
+> /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "Zib-1Z-EOy"; */

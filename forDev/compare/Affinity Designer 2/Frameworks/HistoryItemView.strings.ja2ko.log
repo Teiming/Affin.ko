@@ -1,0 +1,18 @@
+2,6c2
+< ---
+< ---
+< 3c3
+< 6c6
+< 9c9
+---
+> 2,3c2,3
+8,12c4,6
+< < "3gg-su-aG6.ibShadowedToolTip" = "Set undo brush source";
+< < "mRz-64-j11.ibShadowedToolTip" = "Cycle future";
+< > "10.title" = "履歴項目";
+< > "3gg-su-aG6.ibShadowedToolTip" = "ブラシソースの取り消しを設定";
+< > "mRz-64-j11.ibShadowedToolTip" = "フューチャーを表示";
+---
+> < /* Class = "NSTextFieldCell"; title = "History Item"; ObjectID = "10"; */
+> > "10.title" = "편집 기록 항목";
+> > /* Class = "NSTextFieldCell"; title = "편집 기록 항목"; ObjectID = "10"; */

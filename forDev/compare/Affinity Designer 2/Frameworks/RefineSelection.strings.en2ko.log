@@ -1,0 +1,60 @@
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+20,21c20,21
+23,24c23,24
+38,39c38,39
+41,42c41,42
+5,6c5,6
+50,51c50,51
+56,57c56,57
+59,60c59,60
+68,69c68,69
+8,9c8,9
+< "0JK-RZ-Amy.title" = "Cancel";
+< "28.title" = "Apply";
+< "38.title" = "Adjustment brush";
+< "43.title" = "Overlay";
+< "UHG-Qd-TWz.title" = "Smooth";
+< "ULv-LS-Qdf.title" = "New layer";
+< "btP-ze-iAA.title" = "Selection";
+< "eR5-FL-QoE.title" = "Output";
+< "gr6-gh-xEr.title" = "Mask";
+< "t6Q-7G-0ci.title" = "Transparent";
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "28"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0JK-RZ-Amy"; */
+< /* Class = "NSMenuItem"; title = "Mask"; ObjectID = "gr6-gh-xEr"; */
+< /* Class = "NSMenuItem"; title = "New layer"; ObjectID = "ULv-LS-Qdf"; */
+< /* Class = "NSMenuItem"; title = "Overlay"; ObjectID = "43"; */
+< /* Class = "NSMenuItem"; title = "Selection"; ObjectID = "btP-ze-iAA"; */
+< /* Class = "NSMenuItem"; title = "Transparent"; ObjectID = "t6Q-7G-0ci"; */
+< /* Class = "NSTextFieldCell"; title = "Adjustment brush"; ObjectID = "38"; */
+< /* Class = "NSTextFieldCell"; title = "Output"; ObjectID = "eR5-FL-QoE"; */
+< /* Class = "NSTextFieldCell"; title = "Smooth"; ObjectID = "UHG-Qd-TWz"; */
+> "0JK-RZ-Amy.title" = "취소";
+> "28.title" = "적용";
+> "38.title" = "조정 브러시";
+> "43.title" = "오버레이";
+> "UHG-Qd-TWz.title" = "매끄럽게";
+> "ULv-LS-Qdf.title" = "신규 레이어";
+> "btP-ze-iAA.title" = "선택 항목";
+> "eR5-FL-QoE.title" = "출력";
+> "gr6-gh-xEr.title" = "마스크";
+> "t6Q-7G-0ci.title" = "투명";
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "0JK-RZ-Amy"; */
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "28"; */
+> /* Class = "NSMenuItem"; title = "선택 항목"; ObjectID = "btP-ze-iAA"; */
+> /* Class = "NSMenuItem"; title = "신규 레이어"; ObjectID = "ULv-LS-Qdf"; */
+> /* Class = "NSMenuItem"; title = "투명"; ObjectID = "t6Q-7G-0ci"; */
+> /* Class = "NSMenuItem"; title = "마스크"; ObjectID = "gr6-gh-xEr"; */
+> /* Class = "NSMenuItem"; title = "오버레이"; ObjectID = "43"; */
+> /* Class = "NSTextFieldCell"; title = "조정 브러시"; ObjectID = "38"; */
+> /* Class = "NSTextFieldCell"; title = "출력"; ObjectID = "eR5-FL-QoE"; */
+> /* Class = "NSTextFieldCell"; title = "매끄럽게"; ObjectID = "UHG-Qd-TWz"; */

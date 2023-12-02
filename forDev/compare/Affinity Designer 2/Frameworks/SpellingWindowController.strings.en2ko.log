@@ -1,0 +1,30 @@
+---
+---
+---
+---
+---
+11,12c11,12
+2,3c2,3
+32,33c32,33
+35,36c35,36
+5,6c5,6
+< "1.title" = "Spelling";
+< "1lS-M1-wtG.title" = "Selection";
+< "7jK-ex-WET.title" = "Ignore";
+< "Q22-ar-Xot.title" = "Close";
+< "QBq-5H-wTg.title" = "Text Cell";
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "Q22-ar-Xot"; */
+< /* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "7jK-ex-WET"; */
+< /* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1lS-M1-wtG"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "QBq-5H-wTg"; */
+< /* Class = "NSWindow"; title = "Spelling"; ObjectID = "1"; */
+> "1.title" = "철자";
+> "1lS-M1-wtG.title" = "선택 항목";
+> "7jK-ex-WET.title" = "무시";
+> "Q22-ar-Xot.title" = "닫기";
+> "QBq-5H-wTg.title" = "텍스트 셀";
+> /* Class = "NSButtonCell"; title = "무시"; ObjectID = "7jK-ex-WET"; */
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "Q22-ar-Xot"; */
+> /* Class = "NSMenuItem"; title = "선택 항목"; ObjectID = "1lS-M1-wtG"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "QBq-5H-wTg"; */
+> /* Class = "NSWindow"; title = "철자"; ObjectID = "1"; */

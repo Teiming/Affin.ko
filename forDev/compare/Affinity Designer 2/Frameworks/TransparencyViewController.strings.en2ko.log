@@ -1,0 +1,66 @@
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+11,12c11,12
+17,18c17,18
+2,3c2,3
+20,21c20,21
+26,27c26,27
+32,33c32,33
+35,36c35,36
+38,39c38,39
+41,42c41,42
+5,6c5,6
+8,9c8,9
+< "1Dp-FQ-PVb.title" = "Copy";
+< "92N-BY-b5E.title" = "Linear";
+< "Ei0-hI-9VN.title" = "Opacity:";
+< "HjM-ug-kug.title" = "Conical";
+< "PiU-7o-NrL.title" = "Type:";
+< "QRf-mf-Poi.title" = "Delete";
+< "TgV-8U-ijN.title" = "Position:";
+< "apv-kE-C3S.title" = "Insert";
+< "ihr-0u-OdQ.title" = "Elliptical";
+< "ilf-ic-9Hw.label" = "Transparency";
+< "pXi-pp-w9p.title" = "Radial";
+< /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "1Dp-FQ-PVb"; */
+< /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "QRf-mf-Poi"; */
+< /* Class = "NSButtonCell"; title = "Insert"; ObjectID = "apv-kE-C3S"; */
+< /* Class = "NSMenuItem"; title = "Conical"; ObjectID = "HjM-ug-kug"; */
+< /* Class = "NSMenuItem"; title = "Elliptical"; ObjectID = "ihr-0u-OdQ"; */
+< /* Class = "NSMenuItem"; title = "Linear"; ObjectID = "92N-BY-b5E"; */
+< /* Class = "NSMenuItem"; title = "Radial"; ObjectID = "pXi-pp-w9p"; */
+< /* Class = "NSTabViewItem"; label = "Transparency"; ObjectID = "ilf-ic-9Hw"; */
+< /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "Ei0-hI-9VN"; */
+< /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "TgV-8U-ijN"; */
+< /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "PiU-7o-NrL"; */
+> "1Dp-FQ-PVb.title" = "복사";
+> "92N-BY-b5E.title" = "선형";
+> "Ei0-hI-9VN.title" = "불투명도:";
+> "HjM-ug-kug.title" = "원뿔형";
+> "PiU-7o-NrL.title" = "종류:";
+> "QRf-mf-Poi.title" = "지우기";
+> "TgV-8U-ijN.title" = "위치:";
+> "apv-kE-C3S.title" = "삽입";
+> "ihr-0u-OdQ.title" = "타원형";
+> "ilf-ic-9Hw.label" = "투명도";
+> "pXi-pp-w9p.title" = "방사형";
+> /* Class = "NSButtonCell"; title = "복사"; ObjectID = "1Dp-FQ-PVb"; */
+> /* Class = "NSButtonCell"; title = "삽입"; ObjectID = "apv-kE-C3S"; */
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "QRf-mf-Poi"; */
+> /* Class = "NSMenuItem"; title = "선형"; ObjectID = "92N-BY-b5E"; */
+> /* Class = "NSMenuItem"; title = "원뿔형"; ObjectID = "HjM-ug-kug"; */
+> /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "ihr-0u-OdQ"; */
+> /* Class = "NSMenuItem"; title = "방사형"; ObjectID = "pXi-pp-w9p"; */
+> /* Class = "NSTabViewItem"; label = "투명도"; ObjectID = "ilf-ic-9Hw"; */
+> /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "PiU-7o-NrL"; */
+> /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "TgV-8U-ijN"; */
+> /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "Ei0-hI-9VN"; */

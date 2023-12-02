@@ -1,0 +1,1404 @@
+133,536c133,266
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 102c102
+< 105c105
+< 108c108
+< 111c111
+< 114c114
+< 120c120
+< 123c123
+< 126c126
+< 129c129
+< 12c12
+< 132c132
+< 135c135
+< 138c138
+< 141c141
+< 144c144
+< 147c147
+< 150c150
+< 153c153
+< 156c156
+< 159c159
+< 15c15
+< 162c162
+< 165c165
+< 168c168
+< 171c171
+< 174c174
+< 177c177
+< 180c180
+< 183c183
+< 186c186
+< 189c189
+< 18c18
+< 192c192
+< 195c195
+< 198c198
+< 201c201
+< 204c204
+< 207c207
+< 210c210
+< 213c213
+< 216c216
+< 219c219
+< 21c21
+< 222c222
+< 225c225
+< 228c228
+< 231c231
+< 234c234
+< 237c237
+< 240c240
+< 243c243
+< 246c246
+< 24c24
+< 252c252
+< 255c255
+< 258c258
+< 261c261
+< 267c267
+< 270c270
+< 273c273
+< 276c276
+< 279c279
+< 27c27
+< 282c282
+< 285c285
+< 288c288
+< 291c291
+< 294c294
+< 297c297
+< 300c300
+< 303c303
+< 306c306
+< 309c309
+< 30c30
+< 312c312
+< 315c315
+< 318c318
+< 321c321
+< 324c324
+< 327c327
+< 330c330
+< 333c333
+< 336c336
+< 339c339
+< 33c33
+< 342c342
+< 345c345
+< 348c348
+< 351c351
+< 354c354
+< 357c357
+< 360c360
+< 363c363
+< 366c366
+< 369c369
+< 36c36
+< 372c372
+< 375c375
+< 378c378
+< 381c381
+< 384c384
+< 387c387
+< 390c390
+< 393c393
+< 396c396
+< 399c399
+< 39c39
+< 3c3
+< 402c402
+< 405c405
+< 408c408
+< 411c411
+< 414c414
+< 417c417
+< 420c420
+< 423c423
+< 426c426
+< 429c429
+< 42c42
+< 432c432
+< 435c435
+< 438c438
+< 441c441
+< 444c444
+< 447c447
+< 450c450
+< 453c453
+< 456c456
+< 459c459
+< 45c45
+< 462c462
+< 465c465
+< 468c468
+< 471c471
+< 474c474
+< 477c477
+< 480c480
+< 483c483
+< 486c486
+< 489c489
+< 48c48
+< 492c492
+< 495c495
+< 498c498
+< 501c501
+< 504c504
+< 507c507
+< 510c510
+< 513c513
+< 516c516
+< 519c519
+< 51c51
+< 522c522
+< 525c525
+< 528c528
+< 531c531
+< 534c534
+< 537c537
+< 540c540
+< 543c543
+< 546c546
+< 549c549
+< 54c54
+< 552c552
+< 555c555
+< 558c558
+< 561c561
+< 564c564
+< 567c567
+< 570c570
+< 573c573
+< 576c576
+< 579c579
+< 57c57
+< 582c582
+< 585c585
+< 588c588
+< 591c591
+< 594c594
+< 597c597
+< 600c600
+< 603c603
+< 606c606
+< 609c609
+< 60c60
+< 612c612
+< 615c615
+< 618c618
+< 621c621
+< 624c624
+< 627c627
+< 630c630
+< 633c633
+< 636c636
+< 639c639
+< 63c63
+< 642c642
+< 645c645
+< 648c648
+< 651c651
+< 654c654
+< 657c657
+< 660c660
+< 663c663
+< 666c666
+< 669c669
+< 66c66
+< 672c672
+< 675c675
+< 678c678
+< 681c681
+< 684c684
+< 687c687
+< 690c690
+< 693c693
+< 696c696
+< 699c699
+< 69c69
+< 6c6
+< 702c702
+< 705c705
+< 708c708
+< 711c711
+< 714c714
+< 717c717
+< 720c720
+< 723c723
+< 726c726
+< 729c729
+< 72c72
+< 732c732
+< 735c735
+< 738c738
+< 741c741
+< 744c744
+< 747c747
+< 750c750
+< 753c753
+< 756c756
+< 759c759
+< 75c75
+< 762c762
+< 765c765
+< 768c768
+< 771c771
+< 774c774
+< 777c777
+< 780c780
+< 783c783
+< 786c786
+< 78c78
+< 792c792
+< 795c795
+< 798c798
+< 801c801
+< 804c804
+< 807c807
+< 810c810
+< 813c813
+< 81c81
+< 84c84
+< 87c87
+< 90c90
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+< < "0N8-CY-d8Y.title" = "Stretch";
+< < "0T4-D7-ytO.title" = "Separate Curves";
+---
+> 101,102c101,102
+> 104,105c104,105
+> 11,12c11,12
+> 113,114c113,114
+> 122,123c122,123
+> 128,129c128,129
+> 131,132c131,132
+> 134,135c134,135
+> 14,15c14,15
+> 140,141c140,141
+> 146,147c146,147
+> 149,150c149,150
+> 152,153c152,153
+> 155,156c155,156
+> 158,159c158,159
+> 161,162c161,162
+> 17,18c17,18
+> 176,177c176,177
+> 182,183c182,183
+> 185,186c185,186
+> 194,195c194,195
+> 197,198c197,198
+> 2,3c2,3
+> 20,21c20,21
+> 206,207c206,207
+> 218,219c218,219
+> 227,228c227,228
+> 23,24c23,24
+> 230,231c230,231
+> 233,234c233,234
+> 245,246c245,246
+> 251,252c251,252
+> 254,255c254,255
+> 257,258c257,258
+> 26,27c26,27
+> 281,282c281,282
+> 287,288c287,288
+> 308,309c308,309
+> 314,315c314,315
+> 329,330c329,330
+> 335,336c335,336
+> 338,339c338,339
+> 341,342c341,342
+> 344,345c344,345
+> 35,36c35,36
+> 350,351c350,351
+> 359,360c359,360
+> 362,363c362,363
+> 371,372c371,372
+> 38,39c38,39
+> 380,381c380,381
+> 386c386
+> 389,390c389,390
+> 392,393c392,393
+> 407,408c407,408
+> 41,42c41,42
+> 413,414c413,414
+> 416,417c416,417
+> 428,429c428,429
+> 431,432c431,432
+> 434,435c434,435
+> 437,438c437,438
+> 446,447c446,447
+> 461,462c461,462
+> 464,465c464,465
+> 47,48c47,48
+> 470,471c470,471
+> 473,474c473,474
+> 482,483c482,483
+> 485,486c485,486
+> 494c494
+> 5,6c5,6
+> 500,501c500,501
+> 503,504c503,504
+> 515,516c515,516
+> 527,528c527,528
+> 53,54c53,54
+> 536,537c536,537
+> 545c545
+> 554,555c554,555
+> 56,57c56,57
+> 560,561c560,561
+> 569,570c569,570
+> 572,573c572,573
+> 578,579c578,579
+> 581,582c581,582
+> 584,585c584,585
+> 590,591c590,591
+> 596,597c596,597
+> 605c605
+> 608,609c608,609
+> 611,612c611,612
+> 614,615c614,615
+> 62,63c62,63
+> 620,621c620,621
+> 626,627c626,627
+> 632,633c632,633
+> 638,639c638,639
+> 641,642c641,642
+> 644,645c644,645
+> 656,657c656,660
+> 659,660c662,663
+> 662,664d664
+> 668,669c668,669
+> 671,672c671,672
+> 674,675c674,675
+> 68,69c68,69
+> 680,681c680,681
+> 686,687c686,687
+> 689,690c689,690
+> 692,693c692,693
+> 695c695
+> 704,705c704,705
+> 707,708c707,708
+> 71,72c71,72
+> 710,711c710,711
+> 713,714c713,714
+> 719,720c719,720
+> 725,726c725,726
+> 728,729c728,729
+> 734,735c734,735
+> 74,75c74,75
+> 752c752
+> 758,759c758,759
+> 764,765c764,765
+> 767,768c767,768
+> 770c770
+> 776,777c776,777
+> 779,780c779,780
+> 782,783c782,783
+> 794,795c794,795
+> 8,9c8,9
+> 83,84c83,84
+> < 
+544d273
+< < "1Cf-33-HkS.title" = "Delete Anchor";
+548d276
+< < "27b-p3-mrp.title" = "Merge Curves";
+554d281
+< < "3tf-se-YlN.title" = "Thin Space";
+556d282
+< < "4B7-f7-aAh.title" = "Convert to Image Resource";
+560,561d285
+< < "5B5-SS-R2u.title" = "Insert Endnote";
+< < "5tr-sf-w1C.title" = "Right Guillemet";
+563,567d286
+< < "6DC-vC-82r.title" = "Right Indent Tab";
+< < "6SS-nO-Ddq.title" = "Go to Hyperlink Target";
+< < "6de-hM-EqY.title" = "Sentence Case";
+< < "6uF-o9-ieu.title" = "Convert Notes…";
+< < "7BX-ND-nXy.title" = "Inverted Question Mark";
+570,571d288
+< < "7cY-AC-2eM.title" = "Double Right Quote";
+< < "7gb-6n-2ch.title" = "Insert Footnote";
+573d289
+< < "89W-ed-LIn.title" = "Lower Case";
+575d290
+< < "8Ma-ZA-zVf.title" = "Delete Hyperlink";
+579d293
+< < "8ft-PE-PQz.title" = "Paragraph Marker";
+581d294
+< < "8wI-wf-gOv.title" = "Double Base Quote";
+588,591d300
+< < "Aaf-qg-jBp.title" = "Total Pages";
+< < "AqM-ug-zEz.title" = "Spaces and Tabs";
+< < "B37-ai-lSM.title" = "Size Frame to Content";
+< < "BAr-ll-u9A.title" = "Insert Hyperlink...";
+593d301
+< < "BN8-Vw-8xy.title" = "Title Case";
+596,597d303
+< < "BY5-wY-Qeg.title" = "Approximately Equal";
+< < "BgU-ns-j3y.title" = "Set…";
+600,601d305
+< < "CdM-mx-kcC.title" = "Insert Anchor...";
+< < "Cj8-8k-Fuv.title" = "Rasterize & Trim…";
+603,605d306
+< < "DWt-ZE-Qjn.title" = "Narrow Non-Breaking Space";
+< < "E2q-cT-xOj.title" = "Punctuation Space";
+< < "ECs-9v-dmM.title" = "Single Right Guillemet";
+607,608d307
+< < "EPr-6z-AhC.title" = "Upper Case";
+< < "EYB-NC-Dge.title" = "Odd Page Break";
+612,614d310
+< < "FOB-zX-wio.title" = "Dagger";
+< < "FaU-xI-D5S.title" = "Double Dagger";
+< < "Fdg-4x-VeM.title" = "Paste as Content";
+619,624d314
+< < "HGj-HX-Hvl.title" = "Next Frame Page Number";
+< < "HYH-BT-LD9.title" = "Frame Break";
+< < "Hci-Pi-a7v.title" = "Degree";
+< < "I93-eX-W3c.title" = "Double Left Quote";
+< < "IQ5-WK-1o2.title" = "Go to Note Reference";
+< < "J58-Ju-JSM.title" = "Maths";
+626d315
+< < "JZg-Eq-H9y.title" = "Maths";
+628,633d316
+< < "Ji7-4l-B30.title" = "Single Right Quote";
+< < "JjF-5x-p4r.title" = "Dashes and Hyphens";
+< < "JmW-vS-asN.title" = "Insert ";
+< < "Jod-jE-WUv.title" = "Section Marker";
+< < "JxM-dY-BdK.title" = "Pi";
+< < "JyH-yJ-8cE.title" = "Scale to Min Fit";
+635d317
+< < "Kzn-LM-pYG.title" = "Single Left Quote";
+637,640d318
+< < "LT9-eT-zj7.title" = "Insert Field";
+< < "Lgn-l3-DjU.title" = "Go to Hyperlink Target";
+< < "Liq-Ss-rJt.title" = "Convert to Picture Frame";
+< < "MKJ-NC-otr.title" = "Date and Time";
+642d319
+< < "Mrd-kZ-gdM.title" = "Delete Hyperlink";
+647d323
+< < "P9e-zT-ghQ.title" = "Inverted Exclamation Mark";
+649,650d324
+< < "Pup-6x-W4Q.title" = "Figure Space";
+< < "QC3-0w-tBs.title" = "Even Page Break";
+653,654d326
+< < "QfL-a4-DFF.title" = "Last Page in Section Run";
+< < "Qik-Nf-m9g.title" = "Left Guillemet";
+656,657d327
+< < "Qsw-dh-qCG.title" = "Zero-Width Non-Joiner";
+< < "R45-el-5eW.title" = "Delete Anchor";
+659,660d328
+< < "RIB-pb-wni.title" = "Column Break";
+< < "RgH-Hw-ajK.title" = "Capitalization";
+663,666d330
+< < "SqE-gZ-spc.title" = "Less Than or Equal";
+< < "T7R-b8-rol.title" = "Ellipsis";
+< < "TBb-kW-9PF.title" = "Plus Minus";
+< < "TOd-gP-7nM.title" = "Multiply";
+668d331
+< < "Tej-Gp-a8B.title" = "Select Parent";
+671,673d333
+< < "VCI-qn-BGi.title" = "Insert Special Character";
+< < "VLX-7A-JDw.title" = "Third Space";
+< < "VbE-SU-Ybh.title" = "Scale to Max Fit";
+678,679d337
+< < "Wj1-n9-xoN.title" = "Previous Frame Page Number";
+< < "X4t-7t-Xra.title" = "Toggle Case";
+681,684d338
+< < "XTW-CE-FbV.title" = "More…";
+< < "XmB-YD-oCr.title" = "Insert Field";
+< < "Y0A-yp-ts8.title" = "Anchor Properties...";
+< < "Y9E-3K-iU7.title" = "Hair Space";
+687d340
+< < "YbQ-we-D5c.title" = "Section Name";
+690,691d342
+< < "YpN-9b-Vht.title" = "Infinity";
+< < "ZGp-ZV-I71.title" = "Edit Cross-Reference...";
+694,697d344
+< < "aMs-6d-XhQ.title" = "Breaks";
+< < "ad0-op-7F4.title" = "Toggle Case";
+< < "bJk-Dp-bOl.title" = "Align Center";
+< < "bTR-r3-ewp.title" = "Bullet";
+700,702d346
+< < "byJ-ok-QdC.title" = "Show Note Marks";
+< < "cI5-Yu-0gN.title" = "Saved Date";
+< < "cX2-T6-A4u.title" = "Printed or Exported Date";
+704,706d347
+< < "dIL-fD-cg2.title" = "Insert Sidenote";
+< < "dpW-5U-Fsy.title" = "Page Break";
+< < "dq6-SF-4V3.title" = "Sixth Space";
+708,709d348
+< < "dyP-EV-KRZ.title" = "Dashes and Hyphens";
+< < "eDq-cr-ID6.title" = "Indent to Here";
+711,715d349
+< < "f6v-WP-Mg9.title" = "Sentence Case";
+< < "fnw-Lf-pF9.title" = "Quarter Space";
+< < "fyF-tR-Yeo.title" = "Capitalization";
+< < "fzw-h6-YBD.title" = "Find...";
+< < "g45-92-6Ek.title" = "Clear";
+717d350
+< < "gZV-UP-i3Y.title" = "Page Number";
+719,720d351
+< < "hD8-Up-zdN.title" = "Insert Hyperlink...";
+< < "hGK-Na-aeA.title" = "Created Date";
+723d353
+< < "hjz-7b-OQh.title" = "Preflight Comment";
+727d356
+< < "iWp-yO-7VJ.title" = "Edit Hyperlink...";
+729d357
+< < "iiy-i2-XRL.title" = "Breaks";
+731,733d358
+< < "jJ2-zJ-y2X.title" = "Select Top";
+< < "jNL-ui-0el.title" = "Move Selection to New Layer";
+< < "jPB-QY-vim.title" = "Capitalization";
+737d361
+< < "k1C-6e-wc7.title" = "Insert Special Character";
+739d362
+< < "kQL-ge-Xek.title" = "Frame Properties";
+741d363
+< < "kcS-aS-nOn.title" = "Running Header";
+743d364
+< < "lFz-Fq-bhn.title" = "Not Equal";
+747,749d367
+< < "lih-jg-84e.title" = "Fill Holes";
+< < "lq6-dK-Dic.title" = "Remove Inner Curves";
+< < "m3Z-CG-KJP.title" = "Go to Note Body";
+753d370
+< < "ns6-h8-x4i.title" = "Spaces and Tabs";
+757d373
+< < "oyz-2F-tUv.title" = "Upper Case";
+759d374
+< < "pUM-aU-UuK.title" = "Frame Properties";
+763,765d377
+< < "q7I-Rn-iQ2.title" = "Rasterize…";
+< < "q8m-YL-tf1.title" = "Greater Than or Equal";
+< < "q8y-8K-2uK.title" = "Anchor Properties...";
+770d381
+< < "qN9-Ui-y6I.title" = "Anchor to Center";
+772d382
+< < "rFc-PS-Dji.title" = "Select Bottom";
+775d384
+< < "rbo-2N-vVg.title" = "Trademark";
+777,783d385
+< < "s1E-2u-8Q9.title" = "Edit Hyperlink...";
+< < "s3r-0S-sY4.title" = "Notes";
+< < "sDN-Vw-iT1.title" = "Per Mille";
+< < "sKo-Pd-l3Z.title" = "Insert Anchor...";
+< < "sfp-mi-XT3.title" = "Quotation Marks";
+< < "tAm-RZ-YQe.title" = "Capitalization";
+< < "tD5-mk-Ic1.title" = "Insert Special Character";
+785d386
+< < "tfj-7X-ryo.title" = "Registered Trademark";
+788,789d388
+< < "uPr-wp-VPK.title" = "Rasterize To Mask";
+< < "uXb-4C-U4R.title" = "Title Case";
+793,794d391
+< < "vWx-pe-AWM.title" = "Show Anchors";
+< < "vwu-Tz-L0n.title" = "Insert Cross-Reference...";
+796,1068c393,785
+< < "x55-h0-sbl.title" = "Quotation Marks";
+< < "xDi-FF-KeS.title" = "Single Base Quote";
+< < "xoJ-5c-Fpr.title" = "Preflight Comment";
+< < "yHg-cS-wU3.title" = "Single Left Guillemet";
+< < "ywt-XU-etx.title" = "Lower Case";
+< < "zTi-Tu-0NN.title" = "Insert Special Character";
+< > "0N8-CY-d8Y.title" = "ストレッチ";
+< > "0T4-D7-ytO.title" = "カーブを分離";
+< > "0gv-T3-hTJ.title" = "段落の行送り";
+< > "0kp-9j-ZTs.title" = "追加";
+< > "0qg-wq-vB1.title" = "段落の行送り";
+< > "141.title" = "スタイルを作成";
+< > "143.title" = "カーブに変換";
+< > "147.title" = "レイヤーエフェクト…";
+< > "149.title" = "ペースト";
+< > "1Cf-33-HkS.title" = "アンカーを削除";
+< > "1JA-h4-qtN.title" = "ソフトハイフン";
+< > "217.title" = "スウォッチに追加…";
+< > "218.title" = "スウォッチに追加…";
+< > "27b-p3-mrp.title" = "カーブを結合";
+< > "29L-o9-QX6.title" = "ズームアウト";
+< > "2Iq-c8-LTY.title" = "右揃え";
+< > "34.title" = "コピー";
+< > "35.title" = "カット";
+< > "36.title" = "ペースト";
+< > "3tf-se-YlN.title" = "細いスペース";
+< > "41I-Gx-RfJ.title" = "左右反転";
+< > "4B7-f7-aAh.title" = "画像をリソースに変換";
+< > "4Ll-KN-sKC.title" = "右に回転";
+< > "4oi-qS-42Q.title" = "行揃え";
+< > "4qB-F1-KCm.title" = "太字";
+< > "5B5-SS-R2u.title" = "文末脚注を挿入";
+< > "5tr-sf-w1C.title" = "右二重山括弧";
+< > "610-np-gG4.title" = "右に回転";
+< > "6DC-vC-82r.title" = "右インデントタブ";
+< > "6SS-nO-Ddq.title" = "ハイパーリンクターゲットに移動";
+< > "6de-hM-EqY.title" = "センテンスケース";
+< > "6uF-o9-ieu.title" = "ノートを変換…";
+< > "7BX-ND-nXy.title" = "逆疑問符";
+< > "7CO-0b-tPT.title" = "著作権";
+< > "7Sx-e9-hth.title" = "切り取り";
+< > "7cY-AC-2eM.title" = "右二重引用符";
+< > "7gb-6n-2ch.title" = "脚注を挿入";
+< > "7vz-4Z-vOy.title" = "レイヤーページ内で検索";
+< > "89W-ed-LIn.title" = "小文字にする";
+< > "8HC-N4-Zh3.title" = "厳密な拡大";
+< > "8Ma-ZA-zVf.title" = "ハイパーリンクを削除";
+< > "8Pb-SF-W4T.title" = "スライスを作成";
+< > "8YW-Sw-Mwu.title" = "フィラーテキストを挿入";
+< > "8fo-c0-h5z.title" = "文字の特性";
+< > "8ft-PE-PQz.title" = "段落記号";
+< > "8t3-Iv-OUG.title" = "拡大";
+< > "8wI-wf-gOv.title" = "二重ベース引用符";
+< > "9CO-xE-bRv.title" = "レイヤーパネル内で検索";
+< > "9Zs-Zf-HHC.title" = "塗りつぶしからグローバルとして";
+< > "9sr-oM-tXM.title" = "下揃え";
+< > "9te-xW-Nbi.title" = "打ち消し線";
+< > "9yT-e1-2og.title" = "スモールキャップス";
+< > "AXB-52-50I.title" = "下線";
+< > "Aaf-qg-jBp.title" = "合計ページ数";
+< > "AqM-ug-zEz.title" = "スペースとタブ";
+< > "B37-ai-lSM.title" = "コンテンツに合わせてフレームのサイズを設定";
+< > "BAr-ll-u9A.title" = "ハイパーリンクを挿入...";
+< > "BCg-6g-6C2.title" = "重ね順";
+< > "BN8-Vw-8xy.title" = "タイトルケース";
+< > "BRB-V6-9t7.title" = "背面へ";
+< > "BVL-DB-jGf.title" = "交差";
+< > "BY5-wY-Qeg.title" = "ほぼ等しい";
+< > "BgU-ns-j3y.title" = "設定...";
+< > "CRL-RO-I84.title" = "全角ダッシュ";
+< > "CXA-Vz-XGo.title" = "サイズ";
+< > "CdM-mx-kcC.title" = "アンカーを挿入...";
+< > "Cj8-8k-Fuv.title" = "ラスタライズ&トリム…";
+< > "CzI-Q9-cmh.title" = "コピー";
+< > "DWt-ZE-Qjn.title" = "狭い分散禁止スペース";
+< > "E2q-cT-xOj.title" = "句読点幅スペース";
+< > "ECs-9v-dmM.title" = "右一重山括弧";
+< > "EOp-bk-Ej1.title" = "オールキャップス";
+< > "EPr-6z-AhC.title" = "大文字にする";
+< > "EYB-NC-Dge.title" = "奇数改ページ";
+< > "Ege-wu-TxG.title" = "厳密な拡大";
+< > "F7W-aK-MHd.title" = "なし";
+< > "FBZ-UB-VVJ.title" = "分散禁止スペース";
+< > "FOB-zX-wio.title" = "ダガー";
+< > "FaU-xI-D5S.title" = "ダブルダガー";
+< > "Fdg-4x-VeM.title" = "コンテンツとしてペースト";
+< > "Gib-8t-SU9.title" = "全角スペース";
+< > "Gr4-WS-gTj.title" = "グループ解除";
+< > "H0o-1b-qYP.title" = "塗りつぶしから";
+< > "HEN-ef-xZj.title" = "分散禁止スペース";
+< > "HGj-HX-Hvl.title" = "次のフレームページ番号";
+< > "HYH-BT-LD9.title" = "改フレーム";
+< > "Hci-Pi-a7v.title" = "度";
+< > "I93-eX-W3c.title" = "左二重引用符";
+< > "IQ5-WK-1o2.title" = "ノート参照に移動";
+< > "J58-Ju-JSM.title" = "数学記号";
+< > "JHc-ub-mAz.title" = "全角ダッシュ";
+< > "JZg-Eq-H9y.title" = "数学記号";
+< > "Jd6-c7-MIG.title" = "なし";
+< > "Ji7-4l-B30.title" = "右一重引用符";
+< > "JjF-5x-p4r.title" = "ダッシュとハイフン";
+< > "JmW-vS-asN.title" = "挿入 ";
+< > "Jod-jE-WUv.title" = "セクション記号";
+< > "JxM-dY-BdK.title" = "パイ";
+< > "JyH-yJ-8cE.title" = "最小フィットに合わせてスケーリング";
+< > "KUW-Ib-bGS.title" = "ゼロ幅スペース";
+< > "Kzn-LM-pYG.title" = "左一重引用符";
+< > "LDS-PK-cBr.title" = "ジオメトリ";
+< > "LT9-eT-zj7.title" = "フィールドを挿入";
+< > "Lgn-l3-DjU.title" = "ハイパーリンクターゲットに移動";
+< > "Liq-Ss-rJt.title" = "ピクチャフレームに変換";
+< > "MKJ-NC-otr.title" = "日時";
+< > "Mia-ll-JPR.title" = "線から";
+< > "Mrd-kZ-gdM.title" = "ハイパーリンクを削除";
+< > "O9K-tS-HX7.title" = "グループ化";
+< > "OFj-la-tfD.title" = "斜体";
+< > "OLL-lv-TON.title" = "サイズ";
+< > "Ops-3G-WXH.title" = "インタラクティブ";
+< > "P9e-zT-ghQ.title" = "逆感嘆符";
+< > "PL1-LL-rDB.title" = "カット";
+< > "Pup-6x-W4Q.title" = "フィギュアスペース";
+< > "QC3-0w-tBs.title" = "偶数改ページ";
+< > "QLm-it-BjS.title" = "レイヤーパネル内で検索";
+< > "QXT-Rp-ke6.title" = "縮小";
+< > "QfL-a4-DFF.title" = "セクションの最後のページの実行";
+< > "Qik-Nf-m9g.title" = "左二重山括弧";
+< > "QqR-Gg-oLz.title" = "改行";
+< > "Qsw-dh-qCG.title" = "ゼロ幅非接合子";
+< > "R45-el-5eW.title" = "アンカーを削除";
+< > "RB0-bJ-bzZ.title" = "フィギュアダッシュ";
+< > "RIB-pb-wni.title" = "改段";
+< > "RgH-Hw-ajK.title" = "大文字に変更";
+< > "RxC-vj-hmf.title" = "変形";
+< > "Spz-Ij-hRZ.title" = "ズームイン";
+< > "SqE-gZ-spc.title" = "以下";
+< > "T7R-b8-rol.title" = "省略記号";
+< > "TBb-kW-9PF.title" = "プラスマイナス";
+< > "TOd-gP-7nM.title" = "乗算";
+< > "TVG-ek-0bN.title" = "行揃え";
+< > "Tej-Gp-a8B.title" = "親を選択";
+< > "Uqz-gr-HFO.title" = "左に回転";
+< > "Utz-UF-jbh.title" = "左に回転";
+< > "VCI-qn-BGi.title" = "特殊文字を挿入";
+< > "VLX-7A-JDw.title" = "3分の1スペース";
+< > "VbE-SU-Ybh.title" = "最大フィットに合わせてスケーリング";
+< > "W9S-Ct-9cM.title" = "打ち消し線";
+< > "WDp-2b-lBZ.title" = "太字";
+< > "WIQ-Un-ar7.title" = "シンボル";
+< > "WK1-Fu-8ad.title" = "前の要素を選択";
+< > "Wj1-n9-xoN.title" = "前のフレームページ番号";
+< > "X4t-7t-Xra.title" = "大文字と小文字を切り替え";
+< > "X9L-bX-IjJ.title" = "厳密な縮小";
+< > "XTW-CE-FbV.title" = "その他…";
+< > "XmB-YD-oCr.title" = "フィールドを挿入";
+< > "Y0A-yp-ts8.title" = "アンカープロパティ...";
+< > "Y9E-3K-iU7.title" = "極細スペース";
+< > "YCo-Nt-doG.title" = "前面へ";
+< > "YDZ-0y-MSD.title" = "外側に移動";
+< > "YbQ-we-D5c.title" = "セクション名";
+< > "Ygm-5H-FWP.title" = "下線";
+< > "Ymr-Ti-V6P.title" = "コピー";
+< > "YpN-9b-Vht.title" = "無限大";
+< > "ZGp-ZV-I71.title" = "相互参照を編集...";
+< > "Zb4-l0-RiO.title" = "最背面に移動";
+< > "a5h-Xl-0rc.title" = "ソフトハイフン";
+< > "aMs-6d-XhQ.title" = "区切り";
+< > "ad0-op-7F4.title" = "大文字と小文字を切り替え";
+< > "bJk-Dp-bOl.title" = "中央揃え";
+< > "bTR-r3-ewp.title" = "箇条書き";
+< > "bTU-Md-PcT.title" = "ゼロ幅スペース";
+< > "bWJ-66-gv3.title" = "フィギュアダッシュ";
+< > "byJ-ok-QdC.title" = "ノートマークを表示";
+< > "cI5-Yu-0gN.title" = "保存日";
+< > "cX2-T6-A4u.title" = "プリントまたは書き出し日";
+< > "czU-rr-HQu.title" = "両方からグローバルとして";
+< > "dIL-fD-cg2.title" = "サイドノートを挿入";
+< > "dpW-5U-Fsy.title" = "改ページ";
+< > "dq6-SF-4V3.title" = "6分の1スペース";
+< > "dsL-GU-Gzu.title" = "なし";
+< > "dyP-EV-KRZ.title" = "ダッシュとハイフン";
+< > "eDq-cr-ID6.title" = "ここにインデント";
+< > "eod-Ou-9Nd.title" = "縮小";
+< > "f6v-WP-Mg9.title" = "センテンスケース";
+< > "fnw-Lf-pF9.title" = "4分の1スペース";
+< > "fyF-tR-Yeo.title" = "大文字に変更";
+< > "fzw-h6-YBD.title" = "検索...";
+< > "g45-92-6Ek.title" = "クリア";
+< > "gGO-kO-9nq.title" = "文字の特性";
+< > "gZV-UP-i3Y.title" = "ページ番号";
+< > "glY-MW-1zQ.title" = "レイヤーパネル内で検索";
+< > "hD8-Up-zdN.title" = "ハイパーリンクを挿入...";
+< > "hGK-Na-aeA.title" = "作成日";
+< > "hRB-Og-cqK.title" = "線からグローバルとして";
+< > "hYK-oH-jrE.title" = "次の要素を選択";
+< > "hjz-7b-OQh.title" = "プリフライトコメント";
+< > "i4Q-ic-oRq.title" = "文字の特性";
+< > "iB5-xd-LPa.title" = "回転をリセット";
+< > "iJG-E8-47u.title" = "フィラーテキストを挿入";
+< > "iWp-yO-7VJ.title" = "ハイパーリンクを編集...";
+< > "ihE-zg-TcW.title" = "貼り付け";
+< > "iiy-i2-XRL.title" = "区切り";
+< > "j0R-gF-eZk.title" = "上下反転";
+< > "jJ2-zJ-y2X.title" = "上を選択";
+< > "jNL-ui-0el.title" = "選択範囲を新しいレイヤーに移動";
+< > "jPB-QY-vim.title" = "大文字に変更";
+< > "jrf-2b-hrA.title" = "分割";
+< > "juC-k4-a15.title" = "オールキャップス";
+< > "jxY-qy-61n.title" = "重ね順";
+< > "k1C-6e-wc7.title" = "特殊文字を挿入";
+< > "k1o-sg-bjE.title" = "拡大";
+< > "kQL-ge-Xek.title" = "フレームのプロパティ";
+< > "kb7-tH-oJb.title" = "テキストフレームに変換";
+< > "kcS-aS-nOn.title" = "ランニングヘッダー";
+< > "kjI-fD-GoB.title" = "スライスページ内で検索";
+< > "lFz-Fq-bhn.title" = "等しくない";
+< > "lIi-Fa-Mdt.title" = "上下中央揃え";
+< > "lIx-O0-gHC.title" = "インタラクティブ";
+< > "lNY-UB-zUE.title" = "減算";
+< > "lih-jg-84e.title" = "穴を塗りつぶす";
+< > "lq6-dK-Dic.title" = "内側のカーブを削除";
+< > "m3Z-CG-KJP.title" = "ノート本文に移動";
+< > "mZ8-51-zNO.title" = "厳密な縮小";
+< > "mqn-mX-9vI.title" = "分散禁止ハイフン";
+< > "nQ4-ec-WVd.title" = "ジオメトリ";
+< > "ns6-h8-x4i.title" = "スペースとタブ";
+< > "oCU-WM-5oN.title" = "斜体";
+< > "oNd-QP-ozn.title" = "中マド";
+< > "oXy-Ar-CVe.title" = "変形";
+< > "oyz-2F-tUv.title" = "大文字にする";
+< > "pFH-iB-qco.title" = "タブ";
+< > "pUM-aU-UuK.title" = "フレームのプロパティ";
+< > "pdE-Wg-Amt.title" = "両方から";
+< > "pfc-Po-Ni6.title" = "シンボル";
+< > "pmX-7p-X8v.title" = "半角スペース";
+< > "q7I-Rn-iQ2.title" = "ラスタライズ…";
+< > "q8m-YL-tf1.title" = "以上";
+< > "q8y-8K-2uK.title" = "アンカープロパティ...";
+< > "q9P-XW-njc.title" = "最前面に移動";
+< > "qAV-Cy-FGV.title" = "全角スペース";
+< > "qAy-uu-R0P.title" = "左揃え";
+< > "qG2-K5-Br2.title" = "貼り付け";
+< > "qN9-Ui-y6I.title" = "中心に固定";
+< > "r7N-Kd-wJ0.title" = "スモールキャップス";
+< > "rFc-PS-Dji.title" = "下を選択";
+< > "rNP-eh-2yd.title" = "除算";
+< > "rQA-PT-2o5.title" = "改行";
+< > "rbo-2N-vVg.title" = "商標";
+< > "ryz-Es-heY.title" = "画面サイズに合わせる";
+< > "s1E-2u-8Q9.title" = "ハイパーリンクを編集...";
+< > "s3r-0S-sY4.title" = "ノート";
+< > "sDN-Vw-iT1.title" = "パーミル";
+< > "sKo-Pd-l3Z.title" = "アンカーを挿入...";
+< > "sfp-mi-XT3.title" = "引用符";
+< > "tAm-RZ-YQe.title" = "大文字に変更";
+< > "tD5-mk-Ic1.title" = "特殊文字を挿入";
+< > "tFK-NY-SaI.title" = "分散禁止ハイフン";
+< > "tfj-7X-ryo.title" = "登録商標";
+< > "uKF-tL-iuy.title" = "半角スペース";
+< > "uNI-hf-V9k.title" = "内側に移動";
+< > "uPr-wp-VPK.title" = "マスクにラスタライズ";
+< > "uXb-4C-U4R.title" = "タイトルケース";
+< > "ufX-cV-qvW.title" = "半角ダッシュ";
+< > "usZ-xW-9ln.title" = "すべてグループ解除";
+< > "vEz-32-UdD.title" = "上揃え";
+< > "vWx-pe-AWM.title" = "アンカーを表示";
+< > "vwu-Tz-L0n.title" = "相互参照を挿入...";
+< > "w6L-Zx-vbF.title" = "半角ダッシュ";
+< > "x55-h0-sbl.title" = "引用符";
+< > "xDi-FF-KeS.title" = "一重ベース引用符";
+< > "xoJ-5c-Fpr.title" = "プリフライトコメント";
+< > "yHg-cS-wU3.title" = "左一重山括弧";
+< > "ywt-XU-etx.title" = "小文字にする";
+< > "zTi-Tu-0NN.title" = "特殊文字を挿入";
+---
+> < /* Class = "NSMenu"; title = "Add to Swatches…"; ObjectID = "218"; */
+> < /* Class = "NSMenu"; title = "Alignment"; ObjectID = "4oi-qS-42Q"; */
+> < /* Class = "NSMenu"; title = "Arrange"; ObjectID = "jxY-qy-61n"; */
+> < /* Class = "NSMenu"; title = "Capitalisation"; ObjectID = "RgH-Hw-ajK"; */
+> < /* Class = "NSMenu"; title = "Capitalisation"; ObjectID = "tAm-RZ-YQe"; */
+> < /* Class = "NSMenu"; title = "Character Traits"; ObjectID = "8fo-c0-h5z"; */
+> < /* Class = "NSMenu"; title = "Character Traits"; ObjectID = "gGO-kO-9nq"; */
+> < /* Class = "NSMenu"; title = "Geometry"; ObjectID = "LDS-PK-cBr"; */
+> < /* Class = "NSMenu"; title = "Interactive"; ObjectID = "lIx-O0-gHC"; */
+> < /* Class = "NSMenu"; title = "Paragraph Leading"; ObjectID = "0qg-wq-vB1"; */
+> < /* Class = "NSMenu"; title = "Size"; ObjectID = "OLL-lv-TON"; */
+> < /* Class = "NSMenu"; title = "Symbols"; ObjectID = "WIQ-Un-ar7"; */
+> < /* Class = "NSMenu"; title = "Transform"; ObjectID = "oXy-Ar-CVe"; */
+> < /* Class = "NSMenuItem"; title = "Add to Swatches…"; ObjectID = "217"; */
+> < /* Class = "NSMenuItem"; title = "Add"; ObjectID = "0kp-9j-ZTs"; */
+> < /* Class = "NSMenuItem"; title = "Align Bottom"; ObjectID = "9sr-oM-tXM"; */
+> < /* Class = "NSMenuItem"; title = "Align Centre"; ObjectID = "bJk-Dp-bOl"; */
+> < /* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "qAy-uu-R0P"; */
+> < /* Class = "NSMenuItem"; title = "Align Middle"; ObjectID = "lIi-Fa-Mdt"; */
+> < /* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "2Iq-c8-LTY"; */
+> < /* Class = "NSMenuItem"; title = "Align Top"; ObjectID = "vEz-32-UdD"; */
+> < /* Class = "NSMenuItem"; title = "Alignment"; ObjectID = "TVG-ek-0bN"; */
+> < /* Class = "NSMenuItem"; title = "All Caps"; ObjectID = "EOp-bk-Ej1"; */
+> < /* Class = "NSMenuItem"; title = "All Caps"; ObjectID = "juC-k4-a15"; */
+> < /* Class = "NSMenuItem"; title = "Arrange"; ObjectID = "BCg-6g-6C2"; */
+> < /* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "k1o-sg-bjE"; */
+> < /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "4qB-F1-KCm"; */
+> < /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "WDp-2b-lBZ"; */
+> < /* Class = "NSMenuItem"; title = "Capitalisation"; ObjectID = "fyF-tR-Yeo"; */
+> < /* Class = "NSMenuItem"; title = "Capitalisation"; ObjectID = "jPB-QY-vim"; */
+> < /* Class = "NSMenuItem"; title = "Character Traits"; ObjectID = "i4Q-ic-oRq"; */
+> < /* Class = "NSMenuItem"; title = "Combine"; ObjectID = "oNd-QP-ozn"; */
+> < /* Class = "NSMenuItem"; title = "Convert to Curves"; ObjectID = "143"; */
+> < /* Class = "NSMenuItem"; title = "Convert to Text Frame"; ObjectID = "kb7-tH-oJb"; */
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "34"; */
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "CzI-Q9-cmh"; */
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "Ymr-Ti-V6P"; */
+> < /* Class = "NSMenuItem"; title = "Copyright"; ObjectID = "7CO-0b-tPT"; */
+> < /* Class = "NSMenuItem"; title = "Create Slice"; ObjectID = "8Pb-SF-W4T"; */
+> < /* Class = "NSMenuItem"; title = "Create Style"; ObjectID = "141"; */
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "35"; */
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "7Sx-e9-hth"; */
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "PL1-LL-rDB"; */
+> < /* Class = "NSMenuItem"; title = "Decrease"; ObjectID = "eod-Ou-9Nd"; */
+> < /* Class = "NSMenuItem"; title = "Divide"; ObjectID = "jrf-2b-hrA"; */
+> < /* Class = "NSMenuItem"; title = "Divide"; ObjectID = "rNP-eh-2yd"; */
+> < /* Class = "NSMenuItem"; title = "Em Dash"; ObjectID = "CRL-RO-I84"; */
+> < /* Class = "NSMenuItem"; title = "Em Dash"; ObjectID = "JHc-ub-mAz"; */
+> < /* Class = "NSMenuItem"; title = "Em Space"; ObjectID = "Gib-8t-SU9"; */
+> < /* Class = "NSMenuItem"; title = "Em Space"; ObjectID = "qAV-Cy-FGV"; */
+> < /* Class = "NSMenuItem"; title = "En Dash"; ObjectID = "ufX-cV-qvW"; */
+> < /* Class = "NSMenuItem"; title = "En Dash"; ObjectID = "w6L-Zx-vbF"; */
+> < /* Class = "NSMenuItem"; title = "En Space"; ObjectID = "pmX-7p-X8v"; */
+> < /* Class = "NSMenuItem"; title = "En Space"; ObjectID = "uKF-tL-iuy"; */
+> < /* Class = "NSMenuItem"; title = "Figure Dash"; ObjectID = "RB0-bJ-bzZ"; */
+> < /* Class = "NSMenuItem"; title = "Figure Dash"; ObjectID = "bWJ-66-gv3"; */
+> < /* Class = "NSMenuItem"; title = "Find in Layers Page"; ObjectID = "7vz-4Z-vOy"; */
+> < /* Class = "NSMenuItem"; title = "Find in Layers Panel"; ObjectID = "9CO-xE-bRv"; */
+> < /* Class = "NSMenuItem"; title = "Find in Layers Panel"; ObjectID = "QLm-it-BjS"; */
+> < /* Class = "NSMenuItem"; title = "Find in Layers Panel"; ObjectID = "glY-MW-1zQ"; */
+> < /* Class = "NSMenuItem"; title = "Find in Slice Page"; ObjectID = "kjI-fD-GoB"; */
+> < /* Class = "NSMenuItem"; title = "Flip Horizontal"; ObjectID = "41I-Gx-RfJ"; */
+> < /* Class = "NSMenuItem"; title = "Flip Vertical"; ObjectID = "j0R-gF-eZk"; */
+> < /* Class = "NSMenuItem"; title = "From Both As Global"; ObjectID = "czU-rr-HQu"; */
+> < /* Class = "NSMenuItem"; title = "From Both"; ObjectID = "pdE-Wg-Amt"; */
+> < /* Class = "NSMenuItem"; title = "From Fill As Global"; ObjectID = "9Zs-Zf-HHC"; */
+> < /* Class = "NSMenuItem"; title = "From Fill"; ObjectID = "H0o-1b-qYP"; */
+> < /* Class = "NSMenuItem"; title = "From Line As Global"; ObjectID = "hRB-Og-cqK"; */
+> < /* Class = "NSMenuItem"; title = "From Line"; ObjectID = "Mia-ll-JPR"; */
+> < /* Class = "NSMenuItem"; title = "Geometry"; ObjectID = "nQ4-ec-WVd"; */
+> < /* Class = "NSMenuItem"; title = "Group"; ObjectID = "O9K-tS-HX7"; */
+> < /* Class = "NSMenuItem"; title = "Increase"; ObjectID = "8t3-Iv-OUG"; */
+> < /* Class = "NSMenuItem"; title = "Insert Filler Text"; ObjectID = "8YW-Sw-Mwu"; */
+> < /* Class = "NSMenuItem"; title = "Insert Filler Text"; ObjectID = "iJG-E8-47u"; */
+> < /* Class = "NSMenuItem"; title = "Interactive"; ObjectID = "Ops-3G-WXH"; */
+> < /* Class = "NSMenuItem"; title = "Intersect"; ObjectID = "BVL-DB-jGf"; */
+> < /* Class = "NSMenuItem"; title = "Italic"; ObjectID = "OFj-la-tfD"; */
+> < /* Class = "NSMenuItem"; title = "Italic"; ObjectID = "oCU-WM-5oN"; */
+> < /* Class = "NSMenuItem"; title = "Layer Effects…"; ObjectID = "147"; */
+> < /* Class = "NSMenuItem"; title = "Line Break"; ObjectID = "QqR-Gg-oLz"; */
+> < /* Class = "NSMenuItem"; title = "Line Break"; ObjectID = "rQA-PT-2o5"; */
+> < /* Class = "NSMenuItem"; title = "Move Back One"; ObjectID = "BRB-V6-9t7"; */
+> < /* Class = "NSMenuItem"; title = "Move Forward One"; ObjectID = "YCo-Nt-doG"; */
+> < /* Class = "NSMenuItem"; title = "Move Inside"; ObjectID = "uNI-hf-V9k"; */
+> < /* Class = "NSMenuItem"; title = "Move Outside"; ObjectID = "YDZ-0y-MSD"; */
+> < /* Class = "NSMenuItem"; title = "Move to Back"; ObjectID = "Zb4-l0-RiO"; */
+> < /* Class = "NSMenuItem"; title = "Move to Front"; ObjectID = "q9P-XW-njc"; */
+> < /* Class = "NSMenuItem"; title = "Non-Breaking Hyphen"; ObjectID = "mqn-mX-9vI"; */
+> < /* Class = "NSMenuItem"; title = "Non-Breaking Hyphen"; ObjectID = "tFK-NY-SaI"; */
+> < /* Class = "NSMenuItem"; title = "Non-Breaking Space"; ObjectID = "FBZ-UB-VVJ"; */
+> < /* Class = "NSMenuItem"; title = "Non-Breaking Space"; ObjectID = "HEN-ef-xZj"; */
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "F7W-aK-MHd"; */
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "Jd6-c7-MIG"; */
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "dsL-GU-Gzu"; */
+> < /* Class = "NSMenuItem"; title = "Paragraph Leading"; ObjectID = "0gv-T3-hTJ"; */
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "149"; */
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "36"; */
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "ihE-zg-TcW"; */
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "qG2-K5-Br2"; */
+> < /* Class = "NSMenuItem"; title = "Precise Bigger"; ObjectID = "8HC-N4-Zh3"; */
+> < /* Class = "NSMenuItem"; title = "Precise Decrease"; ObjectID = "X9L-bX-IjJ"; */
+> < /* Class = "NSMenuItem"; title = "Precise Increase"; ObjectID = "Ege-wu-TxG"; */
+> < /* Class = "NSMenuItem"; title = "Precise Smaller"; ObjectID = "mZ8-51-zNO"; */
+> < /* Class = "NSMenuItem"; title = "Rasterise To Mask"; ObjectID = "uPr-wp-VPK"; */
+> < /* Class = "NSMenuItem"; title = "Rasterise…"; ObjectID = "q7I-Rn-iQ2"; */
+> < /* Class = "NSMenuItem"; title = "Reset Rotation"; ObjectID = "iB5-xd-LPa"; */
+> < /* Class = "NSMenuItem"; title = "Rotate Left"; ObjectID = "Uqz-gr-HFO"; */
+> < /* Class = "NSMenuItem"; title = "Rotate Left"; ObjectID = "Utz-UF-jbh"; */
+> < /* Class = "NSMenuItem"; title = "Rotate Right"; ObjectID = "4Ll-KN-sKC"; */
+> < /* Class = "NSMenuItem"; title = "Rotate Right"; ObjectID = "610-np-gG4"; */
+> < /* Class = "NSMenuItem"; title = "Select Next"; ObjectID = "hYK-oH-jrE"; */
+> < /* Class = "NSMenuItem"; title = "Select Previous"; ObjectID = "WK1-Fu-8ad"; */
+> < /* Class = "NSMenuItem"; title = "Size"; ObjectID = "CXA-Vz-XGo"; */
+> < /* Class = "NSMenuItem"; title = "Small Caps"; ObjectID = "9yT-e1-2og"; */
+> < /* Class = "NSMenuItem"; title = "Small Caps"; ObjectID = "r7N-Kd-wJ0"; */
+> < /* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "QXT-Rp-ke6"; */
+> < /* Class = "NSMenuItem"; title = "Soft Hyphen"; ObjectID = "1JA-h4-qtN"; */
+> < /* Class = "NSMenuItem"; title = "Soft Hyphen"; ObjectID = "a5h-Xl-0rc"; */
+> < /* Class = "NSMenuItem"; title = "Strikeout"; ObjectID = "9te-xW-Nbi"; */
+> < /* Class = "NSMenuItem"; title = "Strikeout"; ObjectID = "W9S-Ct-9cM"; */
+> < /* Class = "NSMenuItem"; title = "Subtract"; ObjectID = "lNY-UB-zUE"; */
+> < /* Class = "NSMenuItem"; title = "Symbols"; ObjectID = "pfc-Po-Ni6"; */
+> < /* Class = "NSMenuItem"; title = "Tab"; ObjectID = "pFH-iB-qco"; */
+> < /* Class = "NSMenuItem"; title = "Transform"; ObjectID = "RxC-vj-hmf"; */
+> < /* Class = "NSMenuItem"; title = "Underline"; ObjectID = "AXB-52-50I"; */
+> < /* Class = "NSMenuItem"; title = "Underline"; ObjectID = "Ygm-5H-FWP"; */
+> < /* Class = "NSMenuItem"; title = "Ungroup All"; ObjectID = "usZ-xW-9ln"; */
+> < /* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "Gr4-WS-gTj"; */
+> < /* Class = "NSMenuItem"; title = "Zero-Width Space"; ObjectID = "KUW-Ib-bGS"; */
+> < /* Class = "NSMenuItem"; title = "Zero-Width Space"; ObjectID = "bTU-Md-PcT"; */
+> < /* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "Spz-Ij-hRZ"; */
+> < /* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "29L-o9-QX6"; */
+> < /* Class = "NSMenuItem"; title = "Zoom to Fit"; ObjectID = "ryz-Es-heY"; */
+> > 
+> > "0gv-T3-hTJ.title" = "줄 간격";
+> > "0kp-9j-ZTs.title" = "추가";
+> > "0qg-wq-vB1.title" = "줄 간격";
+> > "141.title" = "스타일 생성";
+> > "143.title" = "곡선으로 전환";
+> > "147.title" = "레이어 효과…";
+> > "149.title" = "붙이기";
+> > "1JA-h4-qtN.title" = "하이픈";
+> > "217.title" = "견본에 추가…";
+> > "218.title" = "견본에 추가…";
+> > "29L-o9-QX6.title" = "축소";
+> > "2Iq-c8-LTY.title" = "오른쪽 정렬";
+> > "34.title" = "복사";
+> > "35.title" = "오려두기";
+> > "36.title" = "붙이기";
+> > "41I-Gx-RfJ.title" = "가로 뒤집기";
+> > "4Ll-KN-sKC.title" = "오른쪽으로 회전";
+> > "4oi-qS-42Q.title" = "정렬";
+> > "4qB-F1-KCm.title" = "강조";
+> > "610-np-gG4.title" = "오른쪽으로 회전";
+> > "7CO-0b-tPT.title" = "저작권";
+> > "7Sx-e9-hth.title" = "오려두기";
+> > "7vz-4Z-vOy.title" = "레이어 페이지에서 찾기";
+> > "8HC-N4-Zh3.title" = "조금씩 크게";
+> > "8Pb-SF-W4T.title" = "슬라이스 생성";
+> > "8YW-Sw-Mwu.title" = "Lorem Ipsum";
+> > "8fo-c0-h5z.title" = "문자 특성";
+> > "8t3-Iv-OUG.title" = "늘리기";
+> > "9CO-xE-bRv.title" = "레이어 패널에서 찾기";
+> > "9Zs-Zf-HHC.title" = "칠에서 (전역)";
+> > "9sr-oM-tXM.title" = "아래쪽 정렬";
+> > "9te-xW-Nbi.title" = "취소선";
+> > "9yT-e1-2og.title" = "작은 대문자";
+> > "AXB-52-50I.title" = "밑줄";
+> > "BCg-6g-6C2.title" = "순서";
+> > "BRB-V6-9t7.title" = "뒤로 보내기";
+> > "BVL-DB-jGf.title" = "교차";
+> > "CRL-RO-I84.title" = "전각 줄표";
+> > "CXA-Vz-XGo.title" = "크기";
+> > "CzI-Q9-cmh.title" = "복사";
+> > "EOp-bk-Ej1.title" = "모두 대문자";
+> > "Ege-wu-TxG.title" = "조금씩 늘리기";
+> > "F7W-aK-MHd.title" = "없음";
+> > "FBZ-UB-VVJ.title" = "줄 바꿈 없는 공백";
+> > "Gib-8t-SU9.title" = "전각 공백";
+> > "Gr4-WS-gTj.title" = "그룹 풀기";
+> > "H0o-1b-qYP.title" = "칠에서";
+> > "HEN-ef-xZj.title" = "줄 바꿈 없는 공백";
+> > "JHc-ub-mAz.title" = "전각 줄표";
+> > "Jd6-c7-MIG.title" = "없음";
+> > "KUW-Ib-bGS.title" = "폭 없는 공백";
+> > "LDS-PK-cBr.title" = "기하";
+> > "Mia-ll-JPR.title" = "선에서";
+> > "O9K-tS-HX7.title" = "그룹";
+> > "OFj-la-tfD.title" = "기울임";
+> > "OLL-lv-TON.title" = "크기";
+> > "Ops-3G-WXH.title" = "상호작용";
+> > "PL1-LL-rDB.title" = "오려두기";
+> > "QLm-it-BjS.title" = "레이어 패널에서 찾기";
+> > "QXT-Rp-ke6.title" = "작게";
+> > "QqR-Gg-oLz.title" = "줄바꿈";
+> > "RB0-bJ-bzZ.title" = "숫자 줄표";
+> > "RxC-vj-hmf.title" = "변형";
+> > "Spz-Ij-hRZ.title" = "확대";
+> > "TVG-ek-0bN.title" = "정렬";
+> > "Uqz-gr-HFO.title" = "왼쪽으로 회전";
+> > "Utz-UF-jbh.title" = "왼쪽으로 회전";
+> > "W9S-Ct-9cM.title" = "취소선";
+> > "WDp-2b-lBZ.title" = "강조";
+> > "WIQ-Un-ar7.title" = "상징";
+> > "WK1-Fu-8ad.title" = "이전 항목 선택";
+> > "X9L-bX-IjJ.title" = "조금씩 줄이기";
+> > "YCo-Nt-doG.title" = "앞으로 가져오기";
+> > "YDZ-0y-MSD.title" = "바깥으로 보내기";
+> > "Ygm-5H-FWP.title" = "밑줄";
+> > "Ymr-Ti-V6P.title" = "복사";
+> > "Zb4-l0-RiO.title" = "맨 뒤로 보내기";
+> > "a5h-Xl-0rc.title" = "하이픈";
+> > "bTU-Md-PcT.title" = "폭 없는 공백";
+> > "bWJ-66-gv3.title" = "숫자 줄표";
+> > "czU-rr-HQu.title" = "모두 (전역)";
+> > "dsL-GU-Gzu.title" = "없음";
+> > "eod-Ou-9Nd.title" = "줄이기";
+> > "gGO-kO-9nq.title" = "문자 특성";
+> > "glY-MW-1zQ.title" = "레이어 패널에서 찾기";
+> > "hRB-Og-cqK.title" = "선에서 (전역)";
+> > "hYK-oH-jrE.title" = "다음 항목 선택";
+> > "i4Q-ic-oRq.title" = "문자 특성";
+> > "iB5-xd-LPa.title" = "회전 재설정";
+> > "iJG-E8-47u.title" = "Lorem Ipsum";
+> > "ihE-zg-TcW.title" = "붙이기";
+> > "j0R-gF-eZk.title" = "세로 뒤집기";
+> > "jrf-2b-hrA.title" = "분할";
+> > "juC-k4-a15.title" = "모두 대문자";
+> > "jxY-qy-61n.title" = "순서";
+> > "k1o-sg-bjE.title" = "크게";
+> > "kb7-tH-oJb.title" = "텍스트 액자로 전환";
+> > "kjI-fD-GoB.title" = "슬라이스 페이지에서 찾기";
+> > "lIi-Fa-Mdt.title" = "세로 가운데 정렬";
+> > "lIx-O0-gHC.title" = "상호작용";
+> > "lNY-UB-zUE.title" = "제거";
+> > "mZ8-51-zNO.title" = "조금씩 작게";
+> > "mqn-mX-9vI.title" = "줄 바꿈 없는 하이픈";
+> > "nQ4-ec-WVd.title" = "기하";
+> > "oCU-WM-5oN.title" = "기울임";
+> > "oNd-QP-ozn.title" = "배타적논리합";
+> > "oXy-Ar-CVe.title" = "변형";
+> > "pFH-iB-qco.title" = "탭";
+> > "pdE-Wg-Amt.title" = "모두";
+> > "pfc-Po-Ni6.title" = "상징";
+> > "pmX-7p-X8v.title" = "반각 공백";
+> > "q9P-XW-njc.title" = "맨 앞으로 가져오기";
+> > "qAV-Cy-FGV.title" = "전각 공백";
+> > "qAy-uu-R0P.title" = "왼쪽 정렬";
+> > "qG2-K5-Br2.title" = "붙이기";
+> > "r7N-Kd-wJ0.title" = "작은 대문자";
+> > "rNP-eh-2yd.title" = "분할";
+> > "rQA-PT-2o5.title" = "줄바꿈";
+> > "ryz-Es-heY.title" = "화면 크기에 맞추기";
+> > "tFK-NY-SaI.title" = "줄 바꿈 없는 하이픈";
+> > "uKF-tL-iuy.title" = "반각 공백";
+> > "uNI-hf-V9k.title" = "안으로 가져오기";
+> > "ufX-cV-qvW.title" = "반각 줄표";
+> > "usZ-xW-9ln.title" = "모든 그룹 풀기";
+> > "vEz-32-UdD.title" = "위쪽 정렬";
+> > "w6L-Zx-vbF.title" = "반각 줄표";
+> > /* Class = "NSMenu"; title = "줄 간격"; ObjectID = "0qg-wq-vB1"; */
+> > /* Class = "NSMenu"; title = "문자 특성"; ObjectID = "8fo-c0-h5z"; */
+> > /* Class = "NSMenu"; title = "문자 특성"; ObjectID = "gGO-kO-9nq"; */
+> > /* Class = "NSMenu"; title = "정렬"; ObjectID = "4oi-qS-42Q"; */
+> > /* Class = "NSMenu"; title = "기하"; ObjectID = "LDS-PK-cBr"; */
+> > /* Class = "NSMenu"; title = "크기"; ObjectID = "OLL-lv-TON"; */
+> > /* Class = "NSMenu"; title = "상징"; ObjectID = "WIQ-Un-ar7"; */
+> > /* Class = "NSMenu"; title = "순서"; ObjectID = "jxY-qy-61n"; */
+> > /* Class = "NSMenu"; title = "변형"; ObjectID = "oXy-Ar-CVe"; */
+> > /* Class = "NSMenu"; title = "견본에 추가…"; ObjectID = "218"; */
+> > /* Class = "NSMenu"; title = "대문자화"; ObjectID = "RgH-Hw-ajK"; */
+> > /* Class = "NSMenu"; title = "상호작용"; ObjectID = "lIx-O0-gHC"; */
+> > /* Class = "NSMenu"; title = "대문자화"; ObjectID = "tAm-RZ-YQe"; */
+> > /* Class = "NSMenuItem"; title = "Lorem Ipsum"; ObjectID = "8YW-Sw-Mwu"; */
+> > /* Class = "NSMenuItem"; title = "Lorem Ipsum"; ObjectID = "iJG-E8-47u"; */
+> > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 공백"; ObjectID = "FBZ-UB-VVJ"; */
+> > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 공백"; ObjectID = "HEN-ef-xZj"; */
+> > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 하이픈"; ObjectID = "mqn-mX-9vI"; */
+> > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 하이픈"; ObjectID = "tFK-NY-SaI"; */
+> > /* Class = "NSMenuItem"; title = "폭 없는 공백"; ObjectID = "KUW-Ib-bGS"; */
+> > /* Class = "NSMenuItem"; title = "폭 없는 공백"; ObjectID = "bTU-Md-PcT"; */
+> > /* Class = "NSMenuItem"; title = "맨 뒤로 보내기"; ObjectID = "Zb4-l0-RiO"; */
+> > /* Class = "NSMenuItem"; title = "줄 간격"; ObjectID = "0gv-T3-hTJ"; */
+> > /* Class = "NSMenuItem"; title = "맨 앞으로 가져오기"; ObjectID = "q9P-XW-njc"; */
+> > /* Class = "NSMenuItem"; title = "탭"; ObjectID = "pFH-iB-qco"; */
+> > /* Class = "NSMenuItem"; title = "모두 (전역)"; ObjectID = "czU-rr-HQu"; */
+> > /* Class = "NSMenuItem"; title = "이전 항목 선택"; ObjectID = "WK1-Fu-8ad"; */
+> > /* Class = "NSMenuItem"; title = "다음 항목 선택"; ObjectID = "hYK-oH-jrE"; */
+> > /* Class = "NSMenuItem"; title = "모든 그룹 풀기"; ObjectID = "usZ-xW-9ln"; */
+> > /* Class = "NSMenuItem"; title = "전각 줄표"; ObjectID = "CRL-RO-I84"; */
+> > /* Class = "NSMenuItem"; title = "전각 공백"; ObjectID = "Gib-8t-SU9"; */
+> > /* Class = "NSMenuItem"; title = "그룹 풀기"; ObjectID = "Gr4-WS-gTj"; */
+> > /* Class = "NSMenuItem"; title = "전각 줄표"; ObjectID = "JHc-ub-mAz"; */
+> > /* Class = "NSMenuItem"; title = "숫자 줄표"; ObjectID = "RB0-bJ-bzZ"; */
+> > /* Class = "NSMenuItem"; title = "숫자 줄표"; ObjectID = "bWJ-66-gv3"; */
+> > /* Class = "NSMenuItem"; title = "문자 특성"; ObjectID = "i4Q-ic-oRq"; */
+> > /* Class = "NSMenuItem"; title = "반각 공백"; ObjectID = "pmX-7p-X8v"; */
+> > /* Class = "NSMenuItem"; title = "전각 공백"; ObjectID = "qAV-Cy-FGV"; */
+> > /* Class = "NSMenuItem"; title = "왼쪽 정렬"; ObjectID = "qAy-uu-R0P"; */
+> > /* Class = "NSMenuItem"; title = "반각 공백"; ObjectID = "uKF-tL-iuy"; */
+> > /* Class = "NSMenuItem"; title = "반각 줄표"; ObjectID = "ufX-cV-qvW"; */
+> > /* Class = "NSMenuItem"; title = "위쪽 정렬"; ObjectID = "vEz-32-UdD"; */
+> > /* Class = "NSMenuItem"; title = "반각 줄표"; ObjectID = "w6L-Zx-vbF"; */
+> > /* Class = "NSMenuItem"; title = "가로 가운데 정렬"; ObjectID = "bJk-Dp-bOl"; */
+> > /* Class = "NSMenuItem"; title = "세로 가운데 정렬"; ObjectID = "lIi-Fa-Mdt"; */
+> > /* Class = "NSMenuItem"; title = "화면 크기에 맞추기"; ObjectID = "ryz-Es-heY"; */
+> > /* Class = "NSMenuItem"; title = "가로 뒤집기"; ObjectID = "41I-Gx-RfJ"; */
+> > /* Class = "NSMenuItem"; title = "작은 대문자"; ObjectID = "9yT-e1-2og"; */
+> > /* Class = "NSMenuItem"; title = "뒤로 보내기"; ObjectID = "BRB-V6-9t7"; */
+> > /* Class = "NSMenuItem"; title = "모두 대문자"; ObjectID = "EOp-bk-Ej1"; */
+> > /* Class = "NSMenuItem"; title = "회전 재설정"; ObjectID = "iB5-xd-LPa"; */
+> > /* Class = "NSMenuItem"; title = "세로 뒤집기"; ObjectID = "j0R-gF-eZk"; */
+> > /* Class = "NSMenuItem"; title = "모두 대문자"; ObjectID = "juC-k4-a15"; */
+> > /* Class = "NSMenuItem"; title = "작은 대문자"; ObjectID = "r7N-Kd-wJ0"; */
+> > /* Class = "NSMenuItem"; title = "추가"; ObjectID = "0kp-9j-ZTs"; */
+> > /* Class = "NSMenuItem"; title = "축소"; ObjectID = "29L-o9-QX6"; */
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "34"; */
+> > /* Class = "NSMenuItem"; title = "강조"; ObjectID = "4qB-F1-KCm"; */
+> > /* Class = "NSMenuItem"; title = "밑줄"; ObjectID = "AXB-52-50I"; */
+> > /* Class = "NSMenuItem"; title = "순서"; ObjectID = "BCg-6g-6C2"; */
+> > /* Class = "NSMenuItem"; title = "교차"; ObjectID = "BVL-DB-jGf"; */
+> > /* Class = "NSMenuItem"; title = "크기"; ObjectID = "CXA-Vz-XGo"; */
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "CzI-Q9-cmh"; */
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "F7W-aK-MHd"; */
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "Jd6-c7-MIG"; */
+> > /* Class = "NSMenuItem"; title = "그룹"; ObjectID = "O9K-tS-HX7"; */
+> > /* Class = "NSMenuItem"; title = "작게"; ObjectID = "QXT-Rp-ke6"; */
+> > /* Class = "NSMenuItem"; title = "변형"; ObjectID = "RxC-vj-hmf"; */
+> > /* Class = "NSMenuItem"; title = "확대"; ObjectID = "Spz-Ij-hRZ"; */
+> > /* Class = "NSMenuItem"; title = "정렬"; ObjectID = "TVG-ek-0bN"; */
+> > /* Class = "NSMenuItem"; title = "강조"; ObjectID = "WDp-2b-lBZ"; */
+> > /* Class = "NSMenuItem"; title = "밑줄"; ObjectID = "Ygm-5H-FWP"; */
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "Ymr-Ti-V6P"; */
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "dsL-GU-Gzu"; */
+> > /* Class = "NSMenuItem"; title = "분할"; ObjectID = "jrf-2b-hrA"; */
+> > /* Class = "NSMenuItem"; title = "크게"; ObjectID = "k1o-sg-bjE"; */
+> > /* Class = "NSMenuItem"; title = "제거"; ObjectID = "lNY-UB-zUE"; */
+> > /* Class = "NSMenuItem"; title = "기하"; ObjectID = "nQ4-ec-WVd"; */
+> > /* Class = "NSMenuItem"; title = "모두"; ObjectID = "pdE-Wg-Amt"; */
+> > /* Class = "NSMenuItem"; title = "상징"; ObjectID = "pfc-Po-Ni6"; */
+> > /* Class = "NSMenuItem"; title = "분할"; ObjectID = "rNP-eh-2yd"; */
+> > /* Class = "NSMenuItem"; title = "칠에서 (전역)"; ObjectID = "9Zs-Zf-HHC"; */
+> > /* Class = "NSMenuItem"; title = "선에서 (전역)"; ObjectID = "hRB-Og-cqK"; */
+> > /* Class = "NSMenuItem"; title = "스타일 생성"; ObjectID = "141"; */
+> > /* Class = "NSMenuItem"; title = "오른쪽 정렬"; ObjectID = "2Iq-c8-LTY"; */
+> > /* Class = "NSMenuItem"; title = "조금씩 크게"; ObjectID = "8HC-N4-Zh3"; */
+> > /* Class = "NSMenuItem"; title = "아래쪽 정렬"; ObjectID = "9sr-oM-tXM"; */
+> > /* Class = "NSMenuItem"; title = "조금씩 작게"; ObjectID = "mZ8-51-zNO"; */
+> > /* Class = "NSMenuItem"; title = "텍스트 액자로 전환"; ObjectID = "kb7-tH-oJb"; */
+> > /* Class = "NSMenuItem"; title = "레이어 효과…"; ObjectID = "147"; */
+> > /* Class = "NSMenuItem"; title = "견본에 추가…"; ObjectID = "217"; */
+> > /* Class = "NSMenuItem"; title = "조금씩 늘리기"; ObjectID = "Ege-wu-TxG"; */
+> > /* Class = "NSMenuItem"; title = "조금씩 줄이기"; ObjectID = "X9L-bX-IjJ"; */
+> > /* Class = "NSMenuItem"; title = "레이어 패널에서 찾기"; ObjectID = "9CO-xE-bRv"; */
+> > /* Class = "NSMenuItem"; title = "레이어 패널에서 찾기"; ObjectID = "QLm-it-BjS"; */
+> > /* Class = "NSMenuItem"; title = "레이어 패널에서 찾기"; ObjectID = "glY-MW-1zQ"; */
+> > /* Class = "NSMenuItem"; title = "앞으로 가져오기"; ObjectID = "YCo-Nt-doG"; */
+> > /* Class = "NSMenuItem"; title = "안으로 가져오기"; ObjectID = "uNI-hf-V9k"; */
+> > /* Class = "NSMenuItem"; title = "마스크 래스터화"; ObjectID = "uPr-wp-VPK"; */
+> > /* Class = "NSMenuItem"; title = "레이어 페이지에서 찾기"; ObjectID = "7vz-4Z-vOy"; */
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "149"; */
+> > /* Class = "NSMenuItem"; title = "하이픈"; ObjectID = "1JA-h4-qtN"; */
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "36"; */
+> > /* Class = "NSMenuItem"; title = "저작권"; ObjectID = "7CO-0b-tPT"; */
+> > /* Class = "NSMenuItem"; title = "늘리기"; ObjectID = "8t3-Iv-OUG"; */
+> > /* Class = "NSMenuItem"; title = "취소선"; ObjectID = "9te-xW-Nbi"; */
+> > /* Class = "NSMenuItem"; title = "칠에서"; ObjectID = "H0o-1b-qYP"; */
+> > /* Class = "NSMenuItem"; title = "선에서"; ObjectID = "Mia-ll-JPR"; */
+> > /* Class = "NSMenuItem"; title = "기울임"; ObjectID = "OFj-la-tfD"; */
+> > /* Class = "NSMenuItem"; title = "줄바꿈"; ObjectID = "QqR-Gg-oLz"; */
+> > /* Class = "NSMenuItem"; title = "취소선"; ObjectID = "W9S-Ct-9cM"; */
+> > /* Class = "NSMenuItem"; title = "하이픈"; ObjectID = "a5h-Xl-0rc"; */
+> > /* Class = "NSMenuItem"; title = "줄이기"; ObjectID = "eod-Ou-9Nd"; */
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "ihE-zg-TcW"; */
+> > /* Class = "NSMenuItem"; title = "기울임"; ObjectID = "oCU-WM-5oN"; */
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "qG2-K5-Br2"; */
+> > /* Class = "NSMenuItem"; title = "줄바꿈"; ObjectID = "rQA-PT-2o5"; */
+> > /* Class = "NSMenuItem"; title = "곡선으로 전환"; ObjectID = "143"; */
+> > /* Class = "NSMenuItem"; title = "슬라이스 생성"; ObjectID = "8Pb-SF-W4T"; */
+> > /* Class = "NSMenuItem"; title = "왼쪽으로 회전"; ObjectID = "Uqz-gr-HFO"; */
+> > /* Class = "NSMenuItem"; title = "왼쪽으로 회전"; ObjectID = "Utz-UF-jbh"; */
+> > /* Class = "NSMenuItem"; title = "바깥으로 보내기"; ObjectID = "YDZ-0y-MSD"; */
+> > /* Class = "NSMenuItem"; title = "슬라이스 페이지에서 찾기"; ObjectID = "kjI-fD-GoB"; */
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "35"; */
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "7Sx-e9-hth"; */
+> > /* Class = "NSMenuItem"; title = "상호작용"; ObjectID = "Ops-3G-WXH"; */
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "PL1-LL-rDB"; */
+> > /* Class = "NSMenuItem"; title = "대문자화"; ObjectID = "fyF-tR-Yeo"; */
+> > /* Class = "NSMenuItem"; title = "대문자화"; ObjectID = "jPB-QY-vim"; */
+> > /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "4Ll-KN-sKC"; */
+> > /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "610-np-gG4"; */
+> > /* Class = "NSMenuItem"; title = "래스터화…"; ObjectID = "q7I-Rn-iQ2"; */
+> > /* Class = "NSMenuItem"; title = "배타적논리합"; ObjectID = "oNd-QP-ozn"; */

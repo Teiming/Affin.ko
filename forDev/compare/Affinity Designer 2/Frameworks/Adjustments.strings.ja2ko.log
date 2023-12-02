@@ -1,0 +1,682 @@
+61,262c61,122
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 102c102
+< 105c105
+< 108c108
+< 111c111
+< 114c114
+< 117c117
+< 120c120
+< 123c123
+< 126c126
+< 129c129
+< 12c12
+< 135c135
+< 141c141
+< 144c144
+< 147c147
+< 150c150
+< 153c153
+< 156c156
+< 159c159
+< 15c15
+< 162c162
+< 165c165
+< 168c168
+< 171c171
+< 174c174
+< 177c177
+< 180c180
+< 183c183
+< 186c186
+< 189c189
+< 18c18
+< 192c192
+< 195c195
+< 198c198
+< 201c201
+< 204c204
+< 207c207
+< 213c213
+< 216c216
+< 21c21
+< 222c222
+< 225c225
+< 228c228
+< 231c231
+< 234c234
+< 237c237
+< 240c240
+< 243c243
+< 249c249
+< 24c24
+< 255c255
+< 258c258
+< 261c261
+< 264c264
+< 267c267
+< 270c270
+< 273c273
+< 276c276
+< 279c279
+< 27c27
+< 291c291
+< 297c297
+< 300c300
+< 309c309
+< 30c30
+< 312c312
+< 315c315
+< 318c318
+< 321c321
+< 324c324
+< 327c327
+< 330c330
+< 333c333
+< 336c336
+< 339c339
+< 33c33
+< 342c342
+< 348c348
+< 354c354
+< 357c357
+< 360c360
+< 363c363
+< 366c366
+< 372c372
+< 375c375
+< 378c378
+< 381c381
+< 390c390
+< 399c399
+< 39c39
+< 3c3
+< 402c402
+< 405c405
+< 408c408
+< 411c411
+< 414c414
+< 417c417
+< 420c420
+< 423c423
+< 42c42
+< 432c432
+< 435c435
+< 438c438
+< 447c447
+< 450c450
+< 453c453
+< 456c456
+< 459c459
+< 45c45
+< 462c462
+< 465c465
+< 468c468
+< 471c471
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+< 63c63
+< 66c66
+< 69c69
+< 6c6
+< 72c72
+< 75c75
+< 78c78
+< 84c84
+< 87c87
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+---
+> 11,12c11,12
+> 110,111c110,111
+> 113,114c113,114
+> 116,117c116,117
+> 125,126c125,126
+> 131,132c131,132
+> 14,15c14,15
+> 170,171c170,171
+> 179c179
+> 182,183c182,183
+> 185,186c185,186
+> 188,189c188,189
+> 191,192c191,192
+> 194,195c194,195
+> 197,198c197,198
+> 2,3c2,3
+> 20,21c20,21
+> 200,204c200,201
+> 206,207c203,204
+> 208a206,208
+> 215,216c215,216
+> 224,225c224,225
+> 23,24c23,24
+> 233,234c233,234
+> 248,249c248,249
+> 254,255c254,255
+> 257,258c257,258
+> 26,27c26,27
+> 263,264c263,264
+> 266,267c266,267
+> 275,276c275,276
+> 29,30c29,30
+> 296,297c296,297
+> 311c311
+> 314,315c314,315
+> 32,33c32,33
+> 326,327c326,327
+> 347,348c347,348
+> 353,354c353,354
+> 356,357c356,357
+> 359,360c359,360
+> 362c362
+> 374c374
+> 389,390c389,390
+> 398,399c398,399
+> 41,42c41,42
+> 410,411c410,411
+> 413,414c413,414
+> 419,420c419,420
+> 437,438c437,438
+> 44c44
+> 455,456c455,456
+> 464,465c464,465
+> 56,57c56,57
+> 59,60c59,60
+> 5c5
+> 62,63c62,63
+> 74,75c74,75
+> 77,78c77,78
+> 83,84c83,84
+> 8c8
+> < 
+264d123
+< < "1WF-2W-ULi.title" = "Flip Y";
+266d124
+< < "3CG-uC-GYk.title" = "Cyan / Red";
+268,269d125
+< < "590.label" = "Recolor";
+< < "591.label" = "Selective Color";
+272d127
+< < "594.label" = "Black & White";
+278d132
+< < "601.label" = "Brightness Contrast";
+280,283d133
+< < "603.label" = "Posterize";
+< < "632.title" = "Posterize Levels";
+< < "646.title" = "Black Level";
+< < "647.title" = "White Level";
+287,289d136
+< < "676.title" = "Hue Shift";
+< < "677.title" = "Saturation Shift";
+< < "678.title" = "Luminosity Shift";
+292d138
+< < "6jJ-PQ-8Ca.title" = "Name: Identity";
+294,300d139
+< < "728.title" = "Picker";
+< < "747.title" = "Channel 1";
+< < "748.title" = "Output Channel";
+< < "749.title" = "Channel 2";
+< < "750.title" = "Channel 3";
+< < "751.title" = "Channel 4";
+< < "752.title" = "Channel 5";
+304,305d142
+< < "776.title" = "Cyan";
+< < "777.title" = "Magenta";
+307,319c144
+< < "779.title" = "Picker";
+< < "7nu-4L-dOa.title" = "Infer LUT...";
+< < "807.title" = "Proof Profile";
+< < "834.title" = "Blacks";
+< < "835.title" = "Neutrals";
+< < "836.title" = "Whites";
+< < "837.title" = "Yellows";
+< < "838.title" = "Magentas";
+< < "839.title" = "Cyans";
+< < "840.title" = "Blues";
+< < "841.title" = "Greens";
+< < "842.title" = "Reds";
+< < "843.title" = "Relative";
+---
+> < "795.title" = "Text Cell";
+321,323d145
+< < "845.title" = "Magenta";
+< < "846.title" = "Cyan";
+< < "847.title" = "Color";
+332d153
+< < "8hA-4B-coG.title" = "Optical Density";
+335,336d155
+< < "9RA-HT-1XM.title" = "Yellow / Blue";
+< < "9RO-PE-ML7.title" = "Reverse";
+340d158
+< < "Cfb-eQ-cro.title" = "Gamut Check";
+343,344d160
+< < "F1B-dz-CQs.title" = "Gradient Button";
+< < "FJM-Pj-tnJ.title" = "Gradient Button";
+346,347d161
+< < "FoF-YT-wWz.ibShadowedToolTip" = "Add Sublayer";
+< < "HIH-aE-9Eo.title" = "Gray";
+349,351d162
+< < "LlY-sL-U4J.ibShadowedToolTip" = "Blend Ranges";
+< < "O12-p4-fyI.title" = "Load LUT...";
+< < "O4P-ib-aTR.title" = "Color:";
+353,355d163
+< < "SH0-gC-ICh.title" = "Highlights";
+< < "Sb9-DD-2IB.title" = "Shadows Saturation";
+< < "TVa-re-wzI.title" = "Gray";
+357,361d164
+< < "UkO-WQ-xJ5.title" = "Highlights Hue";
+< < "VFD-A2-Zod.title" = "Highlights Saturation";
+< < "Vsw-rn-QZ3.title" = "Destination Color Space";
+< < "WnX-s3-B66.title" = "Relative Colorimetric";
+< < "XoO-je-JcW.title" = "Perceptual";
+366,371d168
+< < "auc-zD-060.label" = "Color Balance";
+< < "bxX-lF-8q5.title" = "Output Black Level";
+< < "cGF-og-2F8.label" = "Normals";
+< < "drP-OV-Mcv.title" = "Gray";
+< < "eQ2-oY-KP7.title" = "Output White Level";
+< < "eUo-tN-iyd.title" = "Midtones";
+374,376d170
+< < "hos-YN-gtv.title" = "Highlights";
+< < "k1c-fl-J8O.title" = "Black point compensation";
+< < "lCK-kn-dKy.title" = "Rendering Intent:";
+379d172
+< < "nha-He-6bH.title" = "Filter Color";
+381,383d173
+< < "obx-gE-SeM.title" = "Shadows Hue";
+< < "qQx-GQ-OaB.title" = "Source Color Space";
+< < "rFB-oR-aTd.title" = "Picker";
+385,387d174
+< < "uL2-2o-JPy.title" = "Picker";
+< < "vPj-ZK-Njl.title" = "Preserve Luminosity";
+< < "wKK-kf-WaA.title" = "Absolute Colorimetric";
+389,390d175
+< < "wy3-gN-FZL.title" = "Flip X";
+< < "yVn-Z4-xoE.title" = "Magenta / Green";
+392,524c177,353
+< < "yn3-80-URj.title" = "Mid Point:";
+< < "zfr-Cf-YQD.title" = "Preserve luminosity";
+< > "1268.title" = "線形";
+< > "1WF-2W-ULi.title" = "Y軸を反転";
+< > "29s-xQ-82u.title" = "シャドウ";
+< > "3CG-uC-GYk.title" = "シアン/赤";
+< > "548-M9-evq.label" = "明暗別色補正";
+< > "590.label" = "リカラー";
+< > "591.label" = "特定色域";
+< > "592.label" = "グラデーションマップ";
+< > "593.label" = "ソフト校正";
+< > "594.label" = "白黒";
+< > "595.label" = "チャンネルミキサー";
+< > "596.label" = "ホワイトバランス";
+< > "597.label" = "カーブ";
+< > "598.label" = "しきい値";
+< > "599.label" = "自然な彩度";
+< > "601.label" = "明るさコントラスト";
+< > "602.label" = "レベル";
+< > "603.label" = "ポスタライズ";
+< > "632.title" = "ポスタライズレベル";
+< > "646.title" = "黒レベル";
+< > "647.title" = "白レベル";
+< > "648.title" = "ガンマ";
+< > "660.title" = "明るさ";
+< > "661.title" = "コントラスト";
+< > "676.title" = "色相のシフト";
+< > "677.title" = "彩度のシフト";
+< > "678.title" = "輝度のシフト";
+< > "688.title" = "自然な彩度";
+< > "698.title" = "しきい値";
+< > "6jJ-PQ-8Ca.title" = "名前: アイデンティティ";
+< > "724.title" = "ホワイトバランス";
+< > "728.title" = "選択";
+< > "747.title" = "チャンネル1";
+< > "748.title" = "出力チャンネル";
+< > "749.title" = "チャンネル2";
+< > "750.title" = "チャンネル3";
+< > "751.title" = "チャンネル4";
+< > "752.title" = "チャンネル5";
+< > "773.title" = "赤";
+< > "774.title" = "緑";
+< > "775.title" = "青";
+< > "776.title" = "シアン";
+< > "777.title" = "マゼンタ";
+< > "778.title" = "黄";
+< > "779.title" = "選択";
+< > "7nu-4L-dOa.title" = "LUTを推測...";
+< > "807.title" = "校正プロファイル";
+< > "834.title" = "黒";
+< > "835.title" = "中間色";
+< > "836.title" = "白";
+< > "837.title" = "黄";
+< > "838.title" = "マゼンタ";
+< > "839.title" = "シアン";
+< > "840.title" = "青";
+< > "841.title" = "緑";
+< > "842.title" = "赤";
+< > "843.title" = "相対";
+< > "844.title" = "黄";
+< > "845.title" = "マゼンタ";
+< > "846.title" = "シアン";
+< > "847.title" = "カラー";
+< > "848.title" = "黒";
+< > "860.title" = "色相";
+< > "861.title" = "彩度";
+< > "866.label" = "露出";
+< > "873.title" = "削除";
+< > "874.title" = "結合";
+< > "876.title" = "露出";
+< > "8RW-fg-fTX.title" = "オフセット";
+< > "8hA-4B-coG.title" = "光学密度";
+< > "90.title" = "調整";
+< > "985.title" = "プリセットを追加";
+< > "9RA-HT-1XM.title" = "黄/青";
+< > "9RO-PE-ML7.title" = "反転";
+< > "Afa-J4-eOq.title" = "色合い";
+< > "CL8-zV-M3J.title" = "最大を入力:";
+< > "CU4-Oz-a9S.title" = "彩度";
+< > "Cfb-eQ-cro.title" = "色域チェック";
+< > "ECE-ii-ecE.title" = "不透明度:";
+< > "F0j-aU-4LH.title" = "削除";
+< > "F1B-dz-CQs.title" = "グラデーションボタン";
+< > "FJM-Pj-tnJ.title" = "グラデーションボタン";
+< > "FVI-oI-M7O.title" = "コピー";
+< > "FoF-YT-wWz.ibShadowedToolTip" = "サブレイヤーを追加";
+< > "HIH-aE-9Eo.title" = "グレー";
+< > "Lhb-OT-XtP.title" = "シャドウ";
+< > "LlY-sL-U4J.ibShadowedToolTip" = "ブレンド範囲";
+< > "O12-p4-fyI.title" = "LUTを読み込み...";
+< > "O4P-ib-aTR.title" = "カラー:";
+< > "RsH-ev-gwP.title" = "階調範囲";
+< > "SH0-gC-ICh.title" = "ハイライト";
+< > "Sb9-DD-2IB.title" = "シャドウの彩度";
+< > "TVa-re-wzI.title" = "グレー";
+< > "UGE-y4-XqV.title" = "最小を入力:";
+< > "UkO-WQ-xJ5.title" = "ハイライトの色相";
+< > "VFD-A2-Zod.title" = "ハイライトの彩度";
+< > "Vsw-rn-QZ3.title" = "デスティネーション色空間";
+< > "WnX-s3-B66.title" = "相対的な色彩を保持";
+< > "XoO-je-JcW.title" = "知覚";
+< > "Y4G-rS-c8l.title" = "リセット";
+< > "Z0B-qT-mZs.title" = "位置:";
+< > "Zg8-vC-PPh.title" = "彩度";
+< > "ari-Rp-hHB.title" = "回転";
+< > "auc-zD-060.label" = "カラーバランス";
+< > "bxX-lF-8q5.title" = "出力の黒レベル";
+< > "cGF-og-2F8.label" = "法線";
+< > "drP-OV-Mcv.title" = "グレー";
+< > "eQ2-oY-KP7.title" = "出力の白レベル";
+< > "eUo-tN-iyd.title" = "中間調";
+< > "fmI-Uy-pOl.title" = "明るさ";
+< > "gr9-dT-IPD.title" = "挿入";
+< > "hos-YN-gtv.title" = "ハイライト";
+< > "k1c-fl-J8O.title" = "黒点補正";
+< > "lCK-kn-dKy.title" = "レンダリングインテント:";
+< > "m2u-Yi-E5j.title" = "不透明度:";
+< > "mvC-0S-uxr.label" = "シャドウ/ハイライト";
+< > "nha-He-6bH.title" = "フィルターカラー";
+< > "nqj-md-AI2.title" = "スケール";
+< > "obx-gE-SeM.title" = "シャドウの色相";
+< > "qQx-GQ-OaB.title" = "ソース色空間";
+< > "rFB-oR-aTd.title" = "選択";
+< > "rYj-9w-lU3.title" = "バランス";
+< > "uL2-2o-JPy.title" = "選択";
+< > "vPj-ZK-Njl.title" = "輝度を維持";
+< > "wKK-kf-WaA.title" = "絶対的な色彩を保持";
+< > "wmU-1p-zvP.label" = "レンズフィルター";
+< > "wy3-gN-FZL.title" = "X軸を反転";
+< > "yVn-Z4-xoE.title" = "マゼンタ/緑";
+< > "yd6-dJ-uhK.title" = "描画モード:";
+< > "yn3-80-URj.title" = "中間点:";
+< > "zfr-Cf-YQD.title" = "輝度を維持";
+---
+> < /* Class = "NSButtonCell"; title = "Add Preset"; ObjectID = "985"; */
+> < /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "FVI-oI-M7O"; */
+> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "873"; */
+> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "F0j-aU-4LH"; */
+> < /* Class = "NSButtonCell"; title = "Insert"; ObjectID = "gr9-dT-IPD"; */
+> < /* Class = "NSButtonCell"; title = "Linear"; ObjectID = "1268"; */
+> < /* Class = "NSButtonCell"; title = "Merge"; ObjectID = "874"; */
+> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "Y4G-rS-c8l"; */
+> < /* Class = "NSMenuItem"; title = "Grey"; ObjectID = "drP-OV-Mcv"; */
+> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "Zg8-vC-PPh"; */
+> < /* Class = "NSMenuItem"; title = "Shadows"; ObjectID = "29s-xQ-82u"; */
+> < /* Class = "NSTabViewItem"; label = "Channel Mixer"; ObjectID = "595"; */
+> < /* Class = "NSTabViewItem"; label = "Colour Balance"; ObjectID = "auc-zD-060"; */
+> < /* Class = "NSTabViewItem"; label = "Curves"; ObjectID = "597"; */
+> < /* Class = "NSTabViewItem"; label = "Exposure"; ObjectID = "866"; */
+> < /* Class = "NSTabViewItem"; label = "Gradient Map"; ObjectID = "592"; */
+> < /* Class = "NSTabViewItem"; label = "Lens Filter"; ObjectID = "wmU-1p-zvP"; */
+> < /* Class = "NSTabViewItem"; label = "Levels"; ObjectID = "602"; */
+> < /* Class = "NSTabViewItem"; label = "Posterise"; ObjectID = "603"; */
+> < /* Class = "NSTabViewItem"; label = "Recolour"; ObjectID = "590"; */
+> < /* Class = "NSTabViewItem"; label = "Selective Colour"; ObjectID = "591"; */
+> < /* Class = "NSTabViewItem"; label = "Shadows / Highlights"; ObjectID = "mvC-0S-uxr"; */
+> < /* Class = "NSTabViewItem"; label = "Soft Proof"; ObjectID = "593"; */
+> < /* Class = "NSTabViewItem"; label = "Split Toning"; ObjectID = "548-M9-evq"; */
+> < /* Class = "NSTabViewItem"; label = "Threshold"; ObjectID = "598"; */
+> < /* Class = "NSTabViewItem"; label = "Vibrance"; ObjectID = "599"; */
+> < /* Class = "NSTabViewItem"; label = "White Balance"; ObjectID = "596"; */
+> < /* Class = "NSTextFieldCell"; title = "Balance"; ObjectID = "rYj-9w-lU3"; */
+> < /* Class = "NSTextFieldCell"; title = "Black"; ObjectID = "848"; */
+> < /* Class = "NSTextFieldCell"; title = "Blend Mode:"; ObjectID = "yd6-dJ-uhK"; */
+> < /* Class = "NSTextFieldCell"; title = "Blue"; ObjectID = "775"; */
+> < /* Class = "NSTextFieldCell"; title = "Brightness"; ObjectID = "660"; */
+> < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "847"; */
+> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "O4P-ib-aTR"; */
+> < /* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "661"; */
+> < /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "876"; */
+> < /* Class = "NSTextFieldCell"; title = "Gamma"; ObjectID = "648"; */
+> < /* Class = "NSTextFieldCell"; title = "Green"; ObjectID = "774"; */
+> < /* Class = "NSTextFieldCell"; title = "Hue"; ObjectID = "860"; */
+> < /* Class = "NSTextFieldCell"; title = "Lightness"; ObjectID = "fmI-Uy-pOl"; */
+> < /* Class = "NSTextFieldCell"; title = "Max:"; ObjectID = "CL8-zV-M3J"; */
+> < /* Class = "NSTextFieldCell"; title = "Min:"; ObjectID = "UGE-y4-XqV"; */
+> < /* Class = "NSTextFieldCell"; title = "Offset"; ObjectID = "8RW-fg-fTX"; */
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "ECE-ii-ecE"; */
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "m2u-Yi-E5j"; */
+> < /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "Z0B-qT-mZs"; */
+> < /* Class = "NSTextFieldCell"; title = "Red"; ObjectID = "773"; */
+> < /* Class = "NSTextFieldCell"; title = "Rotation"; ObjectID = "ari-Rp-hHB"; */
+> < /* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "861"; */
+> < /* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "CU4-Oz-a9S"; */
+> < /* Class = "NSTextFieldCell"; title = "Scale"; ObjectID = "nqj-md-AI2"; */
+> < /* Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "Lhb-OT-XtP"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "795"; */
+> < /* Class = "NSTextFieldCell"; title = "Threshold"; ObjectID = "698"; */
+> < /* Class = "NSTextFieldCell"; title = "Tint"; ObjectID = "Afa-J4-eOq"; */
+> < /* Class = "NSTextFieldCell"; title = "Tonal Range"; ObjectID = "RsH-ev-gwP"; */
+> < /* Class = "NSTextFieldCell"; title = "Vibrance"; ObjectID = "688"; */
+> < /* Class = "NSTextFieldCell"; title = "White Balance"; ObjectID = "724"; */
+> < /* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "778"; */
+> < /* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "844"; */
+> < /* Class = "NSWindow"; title = "Adjustments"; ObjectID = "90"; */
+> > 
+> > "1268.title" = "선형";
+> > "29s-xQ-82u.title" = "그림자";
+> > "548-M9-evq.label" = "분할 색조";
+> > "592.label" = "그레이디언트 맵";
+> > "593.label" = "미리보기";
+> > "595.label" = "채널 혼합";
+> > "596.label" = "화이트 밸런스";
+> > "597.label" = "곡선";
+> > "598.label" = "역치";
+> > "599.label" = "활기";
+> > "602.label" = "레벨";
+> > "648.title" = "감마";
+> > "660.title" = "명암";
+> > "661.title" = "대비";
+> > "688.title" = "활기";
+> > "698.title" = "역치";
+> > "724.title" = "화이트 밸런스";
+> > "773.title" = "빨강";
+> > "774.title" = "초록";
+> > "775.title" = "파랑";
+> > "778.title" = "노랑";
+> > "795.title" = "텍스트 셀";
+> > "844.title" = "노랑";
+> > "848.title" = "검정";
+> > "860.title" = "색채";
+> > "861.title" = "채도";
+> > "866.label" = "노출";
+> > "873.title" = "지우기";
+> > "874.title" = "통합";
+> > "876.title" = "노출";
+> > "8RW-fg-fTX.title" = "편차";
+> > "90.title" = "조정";
+> > "985.title" = "미리 설정 추가";
+> > "Afa-J4-eOq.title" = "틴트";
+> > "CL8-zV-M3J.title" = "최대:";
+> > "CU4-Oz-a9S.title" = "채도";
+> > "ECE-ii-ecE.title" = "불투명도:";
+> > "F0j-aU-4LH.title" = "지우기";
+> > "FVI-oI-M7O.title" = "복사";
+> > "Lhb-OT-XtP.title" = "그림자";
+> > "RsH-ev-gwP.title" = "색조 범위";
+> > "UGE-y4-XqV.title" = "최소:";
+> > "Y4G-rS-c8l.title" = "재설정";
+> > "Z0B-qT-mZs.title" = "위치:";
+> > "Zg8-vC-PPh.title" = "채도";
+> > "ari-Rp-hHB.title" = "회전";
+> > "fmI-Uy-pOl.title" = "밝기";
+> > "gr9-dT-IPD.title" = "삽입";
+> > "m2u-Yi-E5j.title" = "불투명도:";
+> > "mvC-0S-uxr.label" = "그림자 / 빛";
+> > "nqj-md-AI2.title" = "배율";
+> > "rYj-9w-lU3.title" = "밸런스";
+> > "wmU-1p-zvP.label" = "렌즈 필터";
+> > "yd6-dJ-uhK.title" = "혼합 모드:";
+> > /* Class = "NSButtonCell"; title = "미리 설정 추가"; ObjectID = "985"; */
+> > /* Class = "NSButtonCell"; title = "선형"; ObjectID = "1268"; */
+> > /* Class = "NSButtonCell"; title = "통합"; ObjectID = "874"; */
+> > /* Class = "NSButtonCell"; title = "복사"; ObjectID = "FVI-oI-M7O"; */
+> > /* Class = "NSButtonCell"; title = "삽입"; ObjectID = "gr9-dT-IPD"; */
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "873"; */
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "F0j-aU-4LH"; */
+> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "Y4G-rS-c8l"; */
+> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "Zg8-vC-PPh"; */
+> > /* Class = "NSMenuItem"; title = "회색"; ObjectID = "drP-OV-Mcv"; */
+> > /* Class = "NSMenuItem"; title = "그림자"; ObjectID = "29s-xQ-82u"; */
+> > /* Class = "NSTabViewItem"; label = "분할 색조"; ObjectID = "548-M9-evq"; */
+> > /* Class = "NSTabViewItem"; label = "색상 선택"; ObjectID = "591"; */
+> > /* Class = "NSTabViewItem"; label = "채널 혼합"; ObjectID = "595"; */
+> > /* Class = "NSTabViewItem"; label = "렌즈 필터"; ObjectID = "wmU-1p-zvP"; */
+> > /* Class = "NSTabViewItem"; label = "색상 밸런스"; ObjectID = "auc-zD-060"; */
+> > /* Class = "NSTabViewItem"; label = "곡선"; ObjectID = "597"; */
+> > /* Class = "NSTabViewItem"; label = "역치"; ObjectID = "598"; */
+> > /* Class = "NSTabViewItem"; label = "활기"; ObjectID = "599"; */
+> > /* Class = "NSTabViewItem"; label = "레벨"; ObjectID = "602"; */
+> > /* Class = "NSTabViewItem"; label = "노출"; ObjectID = "866"; */
+> > /* Class = "NSTabViewItem"; label = "그림자 / 빛"; ObjectID = "mvC-0S-uxr"; */
+> > /* Class = "NSTabViewItem"; label = "화이트 밸런스"; ObjectID = "596"; */
+> > /* Class = "NSTabViewItem"; label = "재색상"; ObjectID = "590"; */
+> > /* Class = "NSTabViewItem"; label = "미리보기"; ObjectID = "593"; */
+> > /* Class = "NSTabViewItem"; label = "포스터화"; ObjectID = "603"; */
+> > /* Class = "NSTabViewItem"; label = "그레이디언트 맵"; ObjectID = "592"; */
+> > /* Class = "NSTextFieldCell"; title = "색조 범위"; ObjectID = "RsH-ev-gwP"; */
+> > /* Class = "NSTextFieldCell"; title = "혼합 모드:"; ObjectID = "yd6-dJ-uhK"; */
+> > /* Class = "NSTextFieldCell"; title = "감마"; ObjectID = "648"; */
+> > /* Class = "NSTextFieldCell"; title = "명암"; ObjectID = "660"; */
+> > /* Class = "NSTextFieldCell"; title = "대비"; ObjectID = "661"; */
+> > /* Class = "NSTextFieldCell"; title = "활기"; ObjectID = "688"; */
+> > /* Class = "NSTextFieldCell"; title = "역치"; ObjectID = "698"; */
+> > /* Class = "NSTextFieldCell"; title = "빨강"; ObjectID = "773"; */
+> > /* Class = "NSTextFieldCell"; title = "초록"; ObjectID = "774"; */
+> > /* Class = "NSTextFieldCell"; title = "파랑"; ObjectID = "775"; */
+> > /* Class = "NSTextFieldCell"; title = "노랑"; ObjectID = "778"; */
+> > /* Class = "NSTextFieldCell"; title = "노랑"; ObjectID = "844"; */
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "847"; */
+> > /* Class = "NSTextFieldCell"; title = "검정"; ObjectID = "848"; */
+> > /* Class = "NSTextFieldCell"; title = "색채"; ObjectID = "860"; */
+> > /* Class = "NSTextFieldCell"; title = "채도"; ObjectID = "861"; */
+> > /* Class = "NSTextFieldCell"; title = "노출"; ObjectID = "876"; */
+> > /* Class = "NSTextFieldCell"; title = "편차"; ObjectID = "8RW-fg-fTX"; */
+> > /* Class = "NSTextFieldCell"; title = "틴트"; ObjectID = "Afa-J4-eOq"; */
+> > /* Class = "NSTextFieldCell"; title = "채도"; ObjectID = "CU4-Oz-a9S"; */
+> > /* Class = "NSTextFieldCell"; title = "회전"; ObjectID = "ari-Rp-hHB"; */
+> > /* Class = "NSTextFieldCell"; title = "밝기"; ObjectID = "fmI-Uy-pOl"; */
+> > /* Class = "NSTextFieldCell"; title = "배율"; ObjectID = "nqj-md-AI2"; */
+> > /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "CL8-zV-M3J"; */
+> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "O4P-ib-aTR"; */
+> > /* Class = "NSTextFieldCell"; title = "최소:"; ObjectID = "UGE-y4-XqV"; */
+> > /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "Z0B-qT-mZs"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "795"; */
+> > /* Class = "NSTextFieldCell"; title = "화이트 밸런스"; ObjectID = "724"; */
+> > /* Class = "NSTextFieldCell"; title = "그림자"; ObjectID = "Lhb-OT-XtP"; */
+> > /* Class = "NSTextFieldCell"; title = "밸런스"; ObjectID = "rYj-9w-lU3"; */
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "ECE-ii-ecE"; */
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "m2u-Yi-E5j"; */
+> > /* Class = "NSWindow"; title = "조정"; ObjectID = "90"; */

@@ -1,0 +1,18 @@
+---
+---
+---
+2,3c2,3
+20,21c20,21
+26,27c26,27
+< "Bke-4p-WUB.title" = "Text Cell";
+< "qUF-JS-brb.title" = "Document";
+< "y6f-44-92O.title" = "Selection";
+< /* Class = "NSMenuItem"; title = "Document"; ObjectID = "qUF-JS-brb"; */
+< /* Class = "NSMenuItem"; title = "Selection"; ObjectID = "y6f-44-92O"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Bke-4p-WUB"; */
+> "Bke-4p-WUB.title" = "텍스트 셀";
+> "qUF-JS-brb.title" = "문서";
+> "y6f-44-92O.title" = "선택 항목";
+> /* Class = "NSMenuItem"; title = "선택 항목"; ObjectID = "y6f-44-92O"; */
+> /* Class = "NSMenuItem"; title = "문서"; ObjectID = "qUF-JS-brb"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Bke-4p-WUB"; */

@@ -1,0 +1,731 @@
+51,296c51,100
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 102c102
+< 108c108
+< 114c114
+< 117c117
+< 123c123
+< 129c129
+< 12c12
+< 132c132
+< 135c135
+< 138c138
+< 141c141
+< 144c144
+< 147c147
+< 156c156
+< 159c159
+< 15c15
+< 162c162
+< 165c165
+< 168c168
+< 171c171
+< 174c174
+< 177c177
+< 180c180
+< 207c207
+< 210c210
+< 213c213
+< 219c219
+< 21c21
+< 222c222
+< 225c225
+< 228c228
+< 231c231
+< 234c234
+< 237c237
+< 240c240
+< 243c243
+< 246c246
+< 249c249
+< 255c255
+< 258c258
+< 261c261
+< 264c264
+< 267c267
+< 270c270
+< 273c273
+< 276c276
+< 279c279
+< 27c27
+< 282c282
+< 285c285
+< 288c288
+< 291c291
+< 294c294
+< 300c300
+< 303c303
+< 306c306
+< 309c309
+< 315c315
+< 318c318
+< 321c321
+< 324c324
+< 327c327
+< 330c330
+< 354c354
+< 357c357
+< 360c360
+< 363c363
+< 366c366
+< 369c369
+< 36c36
+< 372c372
+< 378c378
+< 381c381
+< 387c387
+< 390c390
+< 393c393
+< 396c396
+< 399c399
+< 39c39
+< 3c3
+< 402c402
+< 405c405
+< 408c408
+< 42c42
+< 432c432
+< 435c435
+< 438c438
+< 441c441
+< 444c444
+< 447c447
+< 453c453
+< 456c456
+< 45c45
+< 462c462
+< 465c465
+< 468c468
+< 471c471
+< 474c474
+< 477c477
+< 480c480
+< 486c486
+< 489c489
+< 48c48
+< 492c492
+< 495c495
+< 498c498
+< 501c501
+< 51c51
+< 525c525
+< 531c531
+< 537c537
+< 540c540
+< 543c543
+< 546c546
+< 549c549
+< 54c54
+< 552c552
+< 555c555
+< 558c558
+< 561c561
+< 567c567
+< 570c570
+< 573c573
+< 576c576
+< 579c579
+< 57c57
+< 582c582
+< 588c588
+< 591c591
+< 594c594
+< 597c597
+< 600c600
+< 603c603
+< 609c609
+< 60c60
+< 612c612
+< 63c63
+< 66c66
+< 6c6
+< 72c72
+< 75c75
+< 78c78
+< 81c81
+< 87c87
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+---
+> 11,12c11,12
+> 116,117c116,117
+> 122,123c122,123
+> 128,129c128,129
+> 14,15c14,15
+> 140,141c140,141
+> 155,156c155,156
+> 167,168c167,168
+> 170,171c170,171
+> 176,177c176,177
+> 179,180c179,180
+> 2,3c2,3
+> 206,207c206,207
+> 209,210c209,210
+> 212,213c212,213
+> 218,219c218,219
+> 230,231c230,231
+> 26,27c26,27
+> 260,261c260,261
+> 263,264c263,264
+> 287,288c287,288
+> 302,303c302,303
+> 314,315c314,315
+> 320,321c320,321
+> 329,330c329,330
+> 359,360c359,360
+> 362,363c362,363
+> 377,378c377,378
+> 380,381c380,381
+> 407,408c407,408
+> 41,42c41,42
+> 431,432c431,432
+> 437,438c437,438
+> 473,474c473,474
+> 479,480c479,480
+> 488,489c488,489
+> 494,495c494,495
+> 500,501c500,501
+> 53,54c53,54
+> 530,531c530,531
+> 539,540c539,540
+> 542,543c542,543
+> 554,555c554,555
+> 566,567c566,567
+> 575,576c575,576
+> 608,609c608,609
+> 62,63c62,63
+> 71,72c71,72
+> 80,81c80,81
+> 95,96c95,96
+298,299d101
+< < "0aX-9g-Xds.title" = "Lanczos 3 (non-separable)";
+< < "0mi-5c-YiD.title" = "Lossless";
+302d103
+< < "2ZT-xE-qVw.title" = "Resample:";
+304,305d104
+< < "3gB-rh-xOD.title" = "Lanczos 3 (non-separable)";
+< < "43z-cX-RVL.title" = "Include bleed";
+307,309d105
+< < "4R5-eA-6s6.title" = "Nearest Neighbor";
+< < "4US-Qu-zPd.title" = "WARNING! The JPEG format supports images with a maximum dimension of 65500 pixels. Your output will be scaled to fit.";
+< < "4Xe-SR-0iV.title" = "Resample:";
+311,312d106
+< < "4jJ-u0-xr2.title" = "Bilinear";
+< < "5X3-cA-DEz.title" = "(Some areas will be rasterized)";
+314d107
+< < "5ww-qO-RJR.title" = "Raster DPI:";
+316,317d108
+< < "7Kr-Lv-ZYj.title" = "Bilinear";
+< < "7nv-6l-X2B.title" = "Preview export when complete";
+319,320d109
+< < "7wL-66-lu2.title" = "Resample:";
+< < "8PI-f2-xLp.title" = "(Some areas will be rasterized)";
+322,325d110
+< < "A8a-Km-Qmp.title" = "Bilinear";
+< < "AMi-7B-l9c.title" = "Nearest Neighbor";
+< < "BN4-ak-ikV.title" = "Lanczos 3 (non-separable)";
+< < "Blp-xn-ZMm.title" = "WARNING! The PNG format supports images with a maximum dimension of 32767 pixels. Your output will be scaled to fit.";
+329,331d113
+< < "DQB-7t-QW3.title" = "Bicubic";
+< < "DQl-dz-4uf.title" = "Lanczos 3 (separable)";
+< < "Des-GD-Pgd.title" = "Nearest Neighbor";
+333,334d114
+< < "FKc-W8-srJ.title" = "Bilinear";
+< < "FtO-s2-BgX.title" = "Lanczos 3 (non-separable)";
+336,338d115
+< < "HF0-oR-fLu.title" = "Bicubic";
+< < "HJf-Ky-WoV.title" = "Resample:";
+< < "HaK-KR-DOk.title" = "Lanczos 3 (separable)";
+341d117
+< < "Jib-Vc-i15.title" = "With bleed";
+348,350d123
+< < "NKX-3g-qSr.title" = "Bicubic";
+< < "Nb8-5K-PFV.title" = "Bicubic";
+< < "NfT-7C-ADR.title" = "Bilinear";
+352,359d124
+< < "ODv-EB-pTg.title" = "Lanczos 3 (separable)";
+< < "OLw-I8-BQu.title" = "Lanczos 3 (separable)";
+< < "OTC-nk-k13.title" = "Lanczos 3 (non-separable)";
+< < "OtV-jY-L7x.title" = "Calculating";
+< < "P5F-L5-uXQ.title" = "Generating Preview…";
+< < "PGY-fz-9fG.title" = "Lanczos 3 (separable)";
+< < "Pz4-iL-btF.title" = "Nearest Neighbor";
+< < "QXz-HP-TSt.title" = "Lanczos 3 (separable)";
+362,368d126
+< < "R3G-DU-LRh.title" = "Resample:";
+< < "Ren-3Z-pDd.title" = "Bilinear";
+< < "SWO-6w-lrE.title" = "Bicubic";
+< < "TV7-mB-1Vh.title" = "Lanczos 3 (separable)";
+< < "Trp-sW-YY0.title" = "Lanczos 3 (non-separable)";
+< < "UI9-7S-QPu.title" = "Resample:";
+< < "UYp-60-tR3.title" = "Nearest Neighbor";
+370,372d127
+< < "Vf6-uA-2cW.title" = "With bleed";
+< < "Vs1-1Z-P72.title" = "Don't export layers hidden by Export Persona";
+< < "Wfs-ig-0oq.title" = "With bleed";
+374,375d128
+< < "X9b-GF-6nQ.title" = "Bicubic";
+< < "XbJ-G7-EF3.title" = "Nearest Neighbor";
+377d129
+< < "Y2a-7f-goU.title" = "Bicubic";
+379,380d130
+< < "Yga-QI-ILJ.title" = "OtherViews";
+< < "Ymq-Os-7my.title" = "Export text as curves for font independence";
+382,383d131
+< < "Zsr-ag-BTM.title" = "Nearest Neighbor";
+< < "ajL-jA-XKX.title" = "(Some areas will be rasterized)";
+386,388d133
+< < "cPB-vC-AsG.title" = "Bilinear";
+< < "cTy-50-edS.title" = "Bilinear";
+< < "cew-ry-GXp.title" = "Lanczos 3 (separable)";
+391,397d135
+< < "eWB-oR-PA4.title" = "Lanczos 3 (separable)";
+< < "ezs-dq-h6D.title" = "With bleed";
+< < "fY1-7R-Giy.title" = "Resample:";
+< < "fYs-74-yXg.title" = "Bilinear";
+< < "fb1-QL-S7z.title" = "Include bleed";
+< < "fpt-80-ER6.title" = "Lanczos 3 (non-separable)";
+< < "gQn-hn-LMp.title" = "Pages:";
+400d137
+< < "hdF-j5-yix.title" = "Bicubic";
+402,410d138
+< < "hgx-S4-PRo.title" = "Quality:";
+< < "i64-7g-fKx.title" = "Include bleed";
+< < "i6f-Qa-WbM.title" = "Bicubic";
+< < "j4F-4R-AXO.title" = "Nearest Neighbor";
+< < "jMN-2s-aid.title" = "Bicubic";
+< < "kbu-h2-8Js.title" = "Nearest Neighbor";
+< < "lvz-La-Kag.title" = "Lanczos 3 (non-separable)";
+< < "lyo-qv-ji1.title" = "(Some areas will be rasterized)";
+< < "mTe-h1-m33.title" = "PostScript level:";
+412d139
+< < "mh4-hT-5Fz.title" = "Nearest Neighbor";
+414d140
+< < "nm3-zK-uqz.title" = "Lanczos 3 (separable)";
+416d141
+< < "oZa-VM-FyU.title" = "Quality:";
+418d142
+< < "of8-cv-yPb.title" = "Raster DPI:";
+420d143
+< < "qf0-Ft-sdk.title" = "Bilinear";
+422d144
+< < "rhm-jD-wRG.title" = "Raster DPI:";
+425,427d146
+< < "saO-rV-K0v.title" = "Resample:";
+< < "sse-lI-3er.title" = "Resample:";
+< < "t95-kr-GID.title" = "Save Affinity layers";
+429,430d147
+< < "tc4-mv-c9t.title" = "With bleed";
+< < "u6N-uv-7uS.title" = "Resample:";
+432,433d148
+< < "ufj-4O-lRk.title" = "Bicubic";
+< < "vFS-yM-Tdx.title" = "With bleed";
+435,442d149
+< < "wDN-Ea-WbL.title" = "Nearest Neighbor";
+< < "wH3-97-ShG.title" = "Lanczos 3 (non-separable)";
+< < "wPV-9I-L50.title" = "Lanczos 3 (separable)";
+< < "x3X-mb-Tdb.title" = "Bilinear";
+< < "xV7-xB-xTW.title" = "Lanczos 3 (non-separable)";
+< < "xfH-o9-Wb1.title" = "Lanczos 3 (non-separable)";
+< < "yra-HS-Mbf.title" = "Quality:";
+< < "yub-E2-60N.title" = "Raster DPI:";
+444,592c151,300
+< < "zST-Qq-Xoq.title" = "Resample:";
+< > "0S5-58-zLj.title" = "プリセット:";
+< > "0aX-9g-Xds.title" = "Lanczos 3(分離不可)";
+< > "0mi-5c-YiD.title" = "ロスレス";
+< > "1MV-3Z-Ocj.title" = "サイズ:";
+< > "1Ug-YR-P59.ibShadowedToolTip" = "高さ";
+< > "2ZT-xE-qVw.title" = "リサンプル:";
+< > "3Lg-U5-qTt.title" = "サイズ:";
+< > "3gB-rh-xOD.title" = "Lanczos 3(分離不可)";
+< > "43z-cX-RVL.title" = "裁ち落としを含める";
+< > "4CW-jQ-Ups.title" = "書き出し";
+< > "4R5-eA-6s6.title" = "ニアレストネイバー";
+< > "4US-Qu-zPd.title" = "警告! JPEG形式でサポートされる画像の最大寸法は65500ピクセルです。これに合わせて出力がスケーリングされます。";
+< > "4Xe-SR-0iV.title" = "リサンプル:";
+< > "4dn-A0-5ju.title" = "キャンセル";
+< > "4jJ-u0-xr2.title" = "バイリニア";
+< > "5X3-cA-DEz.title" = "(一部の領域はラスタライズされます)";
+< > "5gb-TB-fyd.title" = "プリセット:";
+< > "5ww-qO-RJR.title" = "ラスターDPI:";
+< > "6bF-6P-NRh.ibShadowedToolTip" = "幅";
+< > "7Kr-Lv-ZYj.title" = "バイリニア";
+< > "7nv-6l-X2B.title" = "完了時に書き出しをプレビュー";
+< > "7q7-9F-XIa.ibShadowedToolTip" = "幅";
+< > "7wL-66-lu2.title" = "リサンプル:";
+< > "8PI-f2-xLp.title" = "(一部の領域はラスタライズされます)";
+< > "9eI-FX-6em.ibShadowedToolTip" = "幅";
+< > "A8a-Km-Qmp.title" = "バイリニア";
+< > "AMi-7B-l9c.title" = "ニアレストネイバー";
+< > "BN4-ak-ikV.title" = "Lanczos 3(分離不可)";
+< > "Blp-xn-ZMm.title" = "警告! PNG形式でサポートされる画像の最大寸法は32767ピクセルです。これに合わせて出力がスケーリングされます。";
+< > "CBF-du-Pvv.title" = "サイズ:";
+< > "CeC-uM-pm9.title" = "プリセット:";
+< > "Cpf-xP-Xcc.title" = "サイズ:";
+< > "DQB-7t-QW3.title" = "バイキュービック";
+< > "DQl-dz-4uf.title" = "Lanczos 3(分離可能)";
+< > "Des-GD-Pgd.title" = "ニアレストネイバー";
+< > "F0z-JX-Cv5.title" = "書き出し";
+< > "FKc-W8-srJ.title" = "バイリニア";
+< > "FtO-s2-BgX.title" = "Lanczos 3(分離不可)";
+< > "GU4-OA-5av.ibShadowedToolTip" = "高さ";
+< > "HF0-oR-fLu.title" = "バイキュービック";
+< > "HJf-Ky-WoV.title" = "リサンプル:";
+< > "HaK-KR-DOk.title" = "Lanczos 3(分離可能)";
+< > "HaK-RJ-RTB.ibShadowedToolTip" = "高さ";
+< > "Hwn-dn-OwM.ibShadowedToolTip" = "高さ";
+< > "Jib-Vc-i15.title" = "裁ち落としあり";
+< > "Jso-uC-vCH.ibShadowedToolTip" = "高さ";
+< > "Jub-VO-6lq.title" = "プリセット:";
+< > "Lkh-uo-tM1.title" = "推定ファイルサイズ:";
+< > "ME7-0X-gFP.title" = "プリセット:";
+< > "MpB-xl-2TA.ibShadowedToolTip" = "幅";
+< > "NEw-3S-wGS.ibShadowedToolTip" = "幅";
+< > "NKX-3g-qSr.title" = "バイキュービック";
+< > "Nb8-5K-PFV.title" = "バイキュービック";
+< > "NfT-7C-ADR.title" = "バイリニア";
+< > "O6l-bQ-uko.title" = "プリセット:";
+< > "ODv-EB-pTg.title" = "Lanczos 3(分離可)";
+< > "OLw-I8-BQu.title" = "Lanczos 3(分離可能)";
+< > "OTC-nk-k13.title" = "Lanczos 3(分離不可)";
+< > "OtV-jY-L7x.title" = "計算中";
+< > "P5F-L5-uXQ.title" = "プレビューを生成中…";
+< > "PGY-fz-9fG.title" = "Lanczos 3(分離可能)";
+< > "Pz4-iL-btF.title" = "ニアレストネイバー";
+< > "QXz-HP-TSt.title" = "Lanczos 3(分離可能)";
+< > "Qc9-WO-EMP.title" = "サイズ:";
+< > "Qxg-Wk-LvO.ibShadowedToolTip" = "幅";
+< > "R3G-DU-LRh.title" = "リサンプル:";
+< > "Ren-3Z-pDd.title" = "バイリニア";
+< > "SWO-6w-lrE.title" = "バイキュービック";
+< > "TV7-mB-1Vh.title" = "Lanczos 3(分離可能)";
+< > "Trp-sW-YY0.title" = "Lanczos 3(分離不可)";
+< > "UI9-7S-QPu.title" = "リサンプル:";
+< > "UYp-60-tR3.title" = "ニアレストネイバー";
+< > "VEW-yY-G9H.title" = "プリセット:";
+< > "Vf6-uA-2cW.title" = "裁ち落としあり";
+< > "Vs1-1Z-P72.title" = "書き出しペルソナで非表示にしたレイヤーを書き出ししない";
+< > "Wfs-ig-0oq.title" = "裁ち落としあり";
+< > "Wqm-6w-aCh.title" = "プリセット:";
+< > "X9b-GF-6nQ.title" = "バイキュービック";
+< > "XbJ-G7-EF3.title" = "ニアレストネイバー";
+< > "Xys-eA-wTT.title" = "サイズ:";
+< > "Y2a-7f-goU.title" = "バイキュービック";
+< > "Y6v-en-VhB.title" = "サイズ:";
+< > "Yga-QI-ILJ.title" = "その他のビュー";
+< > "Ymq-Os-7my.title" = "フォントを非依存にするためにテキストをカーブとして書き出し";
+< > "ZD0-tT-mzm.ibShadowedToolTip" = "高さ";
+< > "Zsr-ag-BTM.title" = "ニアレストネイバー";
+< > "ajL-jA-XKX.title" = "(一部の領域はラスタライズされます)";
+< > "be6-uF-6jW.title" = "プリセット:";
+< > "c7r-Kn-eYI.title" = "領域:";
+< > "cPB-vC-AsG.title" = "バイリニア";
+< > "cTy-50-edS.title" = "バイリニア";
+< > "cew-ry-GXp.title" = "Lanczos 3(分離可能)";
+< > "dGE-I9-Bpo.ibShadowedToolTip" = "幅";
+< > "e81-lX-y35.ibShadowedToolTip" = "高さ";
+< > "eWB-oR-PA4.title" = "Lanczos 3(分離可能)";
+< > "ezs-dq-h6D.title" = "裁ち落としあり";
+< > "fY1-7R-Giy.title" = "リサンプル:";
+< > "fYs-74-yXg.title" = "バイリニア";
+< > "fb1-QL-S7z.title" = "裁ち落としを含める";
+< > "fpt-80-ER6.title" = "Lanczos 3(分離不可)";
+< > "gQn-hn-LMp.title" = "ページ数:";
+< > "gVs-UY-Ooz.title" = "プリセット:";
+< > "gic-hL-0Xx.title" = "プリセット:";
+< > "hdF-j5-yix.title" = "バイキュービック";
+< > "hfh-b5-i3T.title" = "プリセット:";
+< > "hgx-S4-PRo.title" = "品質:";
+< > "i64-7g-fKx.title" = "裁ち落としを含める";
+< > "i6f-Qa-WbM.title" = "バイキュービック";
+< > "j4F-4R-AXO.title" = "ニアレストネイバー";
+< > "jMN-2s-aid.title" = "バイキュービック";
+< > "kbu-h2-8Js.title" = "ニアレストネイバー";
+< > "lvz-La-Kag.title" = "Lanczos 3(分離不可)";
+< > "lyo-qv-ji1.title" = "(一部の領域はラスタライズされます)";
+< > "mTe-h1-m33.title" = "PostScriptレベル:";
+< > "mda-oW-sll.title" = "サイズ:";
+< > "mh4-hT-5Fz.title" = "ニアレストネイバー";
+< > "nA2-zH-ZfO.ibShadowedToolTip" = "幅";
+< > "nm3-zK-uqz.title" = "Lanczos 3(分離可能)";
+< > "oDp-TL-hV9.ibShadowedToolTip" = "幅";
+< > "oZa-VM-FyU.title" = "品質:";
+< > "oa0-WO-QC9.ibShadowedToolTip" = "高さ";
+< > "of8-cv-yPb.title" = "ラスターDPI:";
+< > "pls-Wg-qGw.ibShadowedToolTip" = "高さ";
+< > "qf0-Ft-sdk.title" = "バイリニア";
+< > "qtR-S3-gT9.ibShadowedToolTip" = "幅";
+< > "rhm-jD-wRG.title" = "ラスターDPI:";
+< > "rtP-FH-chB.title" = "プリセット:";
+< > "s8u-Dq-Cg8.title" = "プリセット:";
+< > "saO-rV-K0v.title" = "リサンプル:";
+< > "sse-lI-3er.title" = "リサンプル:";
+< > "t95-kr-GID.title" = "Affinityレイヤーを保存";
+< > "tc4-cf-SOL.ibShadowedToolTip" = "高さ";
+< > "tc4-mv-c9t.title" = "裁ち落としあり";
+< > "u6N-uv-7uS.title" = "リサンプル:";
+< > "uVG-uv-Iu0.title" = "サイズ:";
+< > "ufj-4O-lRk.title" = "バイキュービック";
+< > "vFS-yM-Tdx.title" = "裁ち落としあり";
+< > "vod-D7-zgN.title" = "サイズ:";
+< > "wDN-Ea-WbL.title" = "ニアレストネイバー";
+< > "wH3-97-ShG.title" = "Lanczos 3(分離不可)";
+< > "wPV-9I-L50.title" = "Lanczos 3(分離可能)";
+< > "x3X-mb-Tdb.title" = "バイリニア";
+< > "xV7-xB-xTW.title" = "Lanczos 3(分離不可)";
+< > "xfH-o9-Wb1.title" = "Lanczos 3(分離不可)";
+< > "yra-HS-Mbf.title" = "品質:";
+< > "yub-E2-60N.title" = "ラスターDPI:";
+< > "zKc-6k-h8S.title" = "プリセット:";
+< > "zST-Qq-Xoq.title" = "リサンプル:";
+---
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4dn-A0-5ju"; */
+> < /* Class = "NSButtonCell"; title = "Export"; ObjectID = "4CW-jQ-Ups"; */
+> < /* Class = "NSTextFieldCell"; title = "Area:"; ObjectID = "c7r-Kn-eYI"; */
+> < /* Class = "NSTextFieldCell"; title = "Estimated File Size:"; ObjectID = "Lkh-uo-tM1"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "0S5-58-zLj"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "5gb-TB-fyd"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "CeC-uM-pm9"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "Jub-VO-6lq"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "ME7-0X-gFP"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "O6l-bQ-uko"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "VEW-yY-G9H"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "Wqm-6w-aCh"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "be6-uF-6jW"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "gVs-UY-Ooz"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "gic-hL-0Xx"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "hfh-b5-i3T"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "rtP-FH-chB"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "s8u-Dq-Cg8"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "zKc-6k-h8S"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "1MV-3Z-Ocj"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "3Lg-U5-qTt"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "CBF-du-Pvv"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Cpf-xP-Xcc"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Qc9-WO-EMP"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Xys-eA-wTT"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Y6v-en-VhB"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "mda-oW-sll"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "uVG-uv-Iu0"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "vod-D7-zgN"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1Ug-YR-P59"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "GU4-OA-5av"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "HaK-RJ-RTB"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "Hwn-dn-OwM"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "Jso-uC-vCH"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "ZD0-tT-mzm"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "e81-lX-y35"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "oa0-WO-QC9"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "pls-Wg-qGw"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "tc4-cf-SOL"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "6bF-6P-NRh"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "7q7-9F-XIa"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "9eI-FX-6em"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "MpB-xl-2TA"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "NEw-3S-wGS"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "Qxg-Wk-LvO"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "dGE-I9-Bpo"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "nA2-zH-ZfO"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "oDp-TL-hV9"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "qtR-S3-gT9"; */
+> < /* Class = "NSWindow"; title = "Export"; ObjectID = "F0z-JX-Cv5"; */
+> > "0S5-58-zLj.title" = "미리 설정:";
+> > "1MV-3Z-Ocj.title" = "크기:";
+> > "1Ug-YR-P59.ibShadowedToolTip" = "높이";
+> > "3Lg-U5-qTt.title" = "크기:";
+> > "4CW-jQ-Ups.title" = "내보내기";
+> > "4dn-A0-5ju.title" = "취소";
+> > "5gb-TB-fyd.title" = "미리 설정:";
+> > "6bF-6P-NRh.ibShadowedToolTip" = "너비";
+> > "7q7-9F-XIa.ibShadowedToolTip" = "너비";
+> > "9eI-FX-6em.ibShadowedToolTip" = "너비";
+> > "CBF-du-Pvv.title" = "크기:";
+> > "CeC-uM-pm9.title" = "미리 설정:";
+> > "Cpf-xP-Xcc.title" = "크기:";
+> > "F0z-JX-Cv5.title" = "내보내기";
+> > "GU4-OA-5av.ibShadowedToolTip" = "높이";
+> > "HaK-RJ-RTB.ibShadowedToolTip" = "높이";
+> > "Hwn-dn-OwM.ibShadowedToolTip" = "높이";
+> > "Jso-uC-vCH.ibShadowedToolTip" = "높이";
+> > "Jub-VO-6lq.title" = "미리 설정:";
+> > "Lkh-uo-tM1.title" = "예상 파일 크기:";
+> > "ME7-0X-gFP.title" = "미리 설정:";
+> > "MpB-xl-2TA.ibShadowedToolTip" = "너비";
+> > "NEw-3S-wGS.ibShadowedToolTip" = "너비";
+> > "O6l-bQ-uko.title" = "미리 설정:";
+> > "Qc9-WO-EMP.title" = "크기:";
+> > "Qxg-Wk-LvO.ibShadowedToolTip" = "너비";
+> > "VEW-yY-G9H.title" = "미리 설정:";
+> > "Wqm-6w-aCh.title" = "미리 설정:";
+> > "Xys-eA-wTT.title" = "크기:";
+> > "Y6v-en-VhB.title" = "크기:";
+> > "ZD0-tT-mzm.ibShadowedToolTip" = "높이";
+> > "be6-uF-6jW.title" = "미리 설정:";
+> > "c7r-Kn-eYI.title" = "영역:";
+> > "dGE-I9-Bpo.ibShadowedToolTip" = "너비";
+> > "e81-lX-y35.ibShadowedToolTip" = "높이";
+> > "gVs-UY-Ooz.title" = "미리 설정:";
+> > "gic-hL-0Xx.title" = "미리 설정:";
+> > "hfh-b5-i3T.title" = "미리 설정:";
+> > "mda-oW-sll.title" = "크기:";
+> > "nA2-zH-ZfO.ibShadowedToolTip" = "너비";
+> > "oDp-TL-hV9.ibShadowedToolTip" = "너비";
+> > "oa0-WO-QC9.ibShadowedToolTip" = "높이";
+> > "pls-Wg-qGw.ibShadowedToolTip" = "높이";
+> > "qtR-S3-gT9.ibShadowedToolTip" = "너비";
+> > "rtP-FH-chB.title" = "미리 설정:";
+> > "s8u-Dq-Cg8.title" = "미리 설정:";
+> > "tc4-cf-SOL.ibShadowedToolTip" = "높이";
+> > "uVG-uv-Iu0.title" = "크기:";
+> > "vod-D7-zgN.title" = "크기:";
+> > "zKc-6k-h8S.title" = "미리 설정:";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "4dn-A0-5ju"; */
+> > /* Class = "NSButtonCell"; title = "내보내기"; ObjectID = "4CW-jQ-Ups"; */
+> > /* Class = "NSTextFieldCell"; title = "예상 파일 크기:"; ObjectID = "Lkh-uo-tM1"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "0S5-58-zLj"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "5gb-TB-fyd"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "CeC-uM-pm9"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "Jub-VO-6lq"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "ME7-0X-gFP"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "O6l-bQ-uko"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "VEW-yY-G9H"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "Wqm-6w-aCh"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "be6-uF-6jW"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "gVs-UY-Ooz"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "gic-hL-0Xx"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "hfh-b5-i3T"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "rtP-FH-chB"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "s8u-Dq-Cg8"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "zKc-6k-h8S"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "1MV-3Z-Ocj"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "3Lg-U5-qTt"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "CBF-du-Pvv"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Cpf-xP-Xcc"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Qc9-WO-EMP"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Xys-eA-wTT"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Y6v-en-VhB"; */
+> > /* Class = "NSTextFieldCell"; title = "영역:"; ObjectID = "c7r-Kn-eYI"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "mda-oW-sll"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "uVG-uv-Iu0"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "vod-D7-zgN"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1Ug-YR-P59"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "6bF-6P-NRh"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "7q7-9F-XIa"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "9eI-FX-6em"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "GU4-OA-5av"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "HaK-RJ-RTB"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "Hwn-dn-OwM"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "Jso-uC-vCH"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "MpB-xl-2TA"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "NEw-3S-wGS"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "Qxg-Wk-LvO"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "ZD0-tT-mzm"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "dGE-I9-Bpo"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "e81-lX-y35"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "nA2-zH-ZfO"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "oDp-TL-hV9"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "oa0-WO-QC9"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "pls-Wg-qGw"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "qtR-S3-gT9"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "tc4-cf-SOL"; */
+> > /* Class = "NSWindow"; title = "내보내기"; ObjectID = "F0z-JX-Cv5"; */

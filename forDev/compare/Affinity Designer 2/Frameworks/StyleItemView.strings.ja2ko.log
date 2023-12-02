@@ -1,0 +1,25 @@
+3,8c3,4
+< ---
+< ---
+< 12c12
+< 3c3
+< 6c6
+< 9c9
+---
+> 2,3c2,3
+> 8,9c8,9
+10d5
+< < "144.title" = "Rename Style...";
+12,16c7,12
+< < "OUb-nR-qsi.title" = "Show Sync Status…";
+< > "106.title" = "スタイル";
+< > "144.title" = "スタイル名の変更...";
+< > "146.title" = "スタイルを削除";
+< > "OUb-nR-qsi.title" = "同期ステータスを表示…";
+---
+> < /* Class = "NSMenuItem"; title = "Delete Style"; ObjectID = "146"; */
+> < /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "106"; */
+> > "106.title" = "스타일";
+> > "146.title" = "스타일 지우기";
+> > /* Class = "NSMenuItem"; title = "스타일 지우기"; ObjectID = "146"; */
+> > /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "106"; */

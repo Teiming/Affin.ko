@@ -1,0 +1,764 @@
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+101c101
+104c104
+107c107
+110c110
+113c113
+116c116
+119c119
+11c11
+122c122
+125c125
+128c128
+131c131
+134c134
+137c137
+140c140
+143c143
+146c146
+149c149
+14c14
+152c152
+155c155
+158c158
+161c161
+164c164
+167c167
+170c170
+173c173
+176c176
+179c179
+17c17
+182c182
+185c185
+188c188
+191c191
+194c194
+197c197
+200c200
+203c203
+206c206
+209c209
+20c20
+212c212
+215c215
+218c218
+221c221
+224c224
+227c227
+230c230
+233c233
+236c236
+239c239
+23c23
+242c242
+245c245
+248c248
+251c251
+254c254
+257c257
+260c260
+263c263
+266c266
+269c269
+26c26
+272c272
+275c275
+278c278
+281c281
+284c284
+287c287
+290c290
+293c293
+296c296
+299c299
+29c29
+2c2
+302c302
+305c305
+308c308
+311c311
+314c314
+317c317
+320c320
+323c323
+326c326
+329c329
+32c32
+332c332
+335c335
+338c338
+341c341
+344c344
+347c347
+350c350
+353c353
+356c356
+359c359
+35c35
+362c362
+365c365
+368c368
+371c371
+374c374
+377c377
+380c380
+383c383
+386c386
+389c389
+38c38
+392c392
+395c395
+398c398
+401c401
+404c404
+407c407
+410c410
+413c413
+416c416
+419c419
+41c41
+422c422
+425c425
+428c428
+431c431
+434c434
+437c437
+440c440
+443c443
+446c446
+449c449
+44c44
+452c452
+455c455
+458c458
+461c461
+464c464
+467c467
+470c470
+473c473
+476c476
+479c479
+47c47
+482c482
+485c485
+488c488
+491c491
+494c494
+497c497
+500c500
+503c503
+506c506
+509c509
+50c50
+512c512
+515c515
+518c518
+521c521
+524c524
+527c527
+530c530
+533c533
+536c536
+539c539
+53c53
+542c542
+545c545
+548c548
+551c551
+554c554
+557c557
+560c560
+563c563
+566c566
+569c569
+56c56
+572c572
+59c59
+5c5
+62c62
+65c65
+68c68
+71c71
+74c74
+77c77
+80c80
+83c83
+86c86
+89c89
+8c8
+92c92
+95c95
+98c98
+< "2B Pencil Hatch" = "2B Pencil Hatch";
+< "Acrylic Stroke 01" = "Acrylic Stroke 01";
+< "Acrylic Stroke 02" = "Acrylic Stroke 02";
+< "Acrylic Stroke 03" = "Acrylic Stroke 03";
+< "Acrylic Stroke 04" = "Acrylic Stroke 04";
+< "Acrylic Stroke 05" = "Acrylic Stroke 05";
+< "Acrylic Stroke 06" = "Acrylic Stroke 06";
+< "Acrylic Stroke 07" = "Acrylic Stroke 07";
+< "Acrylic Stroke 08" = "Acrylic Stroke 08";
+< "Acrylic Stroke 09" = "Acrylic Stroke 09";
+< "Acrylic Stroke 10" = "Acrylic Stroke 10";
+< "Acrylic Stroke 11" = "Acrylic Stroke 11";
+< "Acrylic Stroke 12" = "Acrylic Stroke 12";
+< "Acrylic Stroke 13" = "Acrylic Stroke 13";
+< "Acrylic Stroke 14" = "Acrylic Stroke 14";
+< "Acrylic Stroke 15" = "Acrylic Stroke 15";
+< "Acrylic Stroke 16" = "Acrylic Stroke 16";
+< "Acrylics" = "Acrylics";
+< "Airbrush Dense" = "Airbrush Dense";
+< "Airbrush Light" = "Airbrush Light";
+< "Airbrush Medium" = "Airbrush Medium";
+< "Bleeding Ink" = "Bleeding Ink";
+< "Blurry Pastel" = "Blurry Pastel";
+< "Brush Pen 01" = "Brush Pen 01";
+< "Brush Pen 02" = "Brush Pen 02";
+< "Brush Pen 03" = "Brush Pen 03";
+< "Brush Pen 04" = "Brush Pen 04";
+< "Chalk on Paper (for closed curves)" = "Chalk on Paper (for closed curves)";
+< "Charcoal Dry" = "Charcoal Dry";
+< "Charcoal Smooth" = "Charcoal Smooth";
+< "Classic Flat Marker 01" = "Classic Flat Marker 01";
+< "Classic Pencil 2B (for closed curves)" = "Classic Pencil 2B (for closed curves)";
+< "Classic Pencil 2B" = "Classic Pencil 2B";
+< "Classic Pencil HB (for closed curves)" = "Classic Pencil HB (for closed curves)";
+< "Classic Pencil HB" = "Classic Pencil HB";
+< "Classic Round Marker" = "Classic Round Marker";
+< "Clean Engraving 01" = "Clean Engraving 01";
+< "Clean Engraving 02" = "Clean Engraving 02";
+< "Clean Engraving 03" = "Clean Engraving 03";
+< "Clean Engraving 04" = "Clean Engraving 04";
+< "Clean Engraving 05" = "Clean Engraving 05";
+< "Clean Engraving 06" = "Clean Engraving 06";
+< "Clean Engraving 07" = "Clean Engraving 07";
+< "Clean Engraving 08" = "Clean Engraving 08";
+< "Clean Engraving 09" = "Clean Engraving 09";
+< "Clean Engraving 10" = "Clean Engraving 10";
+< "Clean Engraving 11" = "Clean Engraving 11";
+< "Clean Engraving 12" = "Clean Engraving 12";
+< "Creative Ink 01" = "Creative Ink 01";
+< "Creative Ink 02" = "Creative Ink 02";
+< "Creative Ink 03" = "Creative Ink 03";
+< "Dash Pattern Dense" = "Dash Pattern Dense";
+< "Dash Pattern Light" = "Dash Pattern Light";
+< "Dash&Stipple 01" = "Dash&Stipple 01";
+< "Dash&Stipple 02" = "Dash&Stipple 02";
+< "Dash&Stipple 03" = "Dash&Stipple 03";
+< "Dash&Stipple 04" = "Dash&Stipple 04";
+< "Dashed Pattern" = "Dashed Pattern";
+< "Dense Charcoal (for closed curves)" = "Dense Charcoal (for closed curves)";
+< "Dense Charcoal" = "Dense Charcoal";
+< "Dense Gouache 01" = "Dense Gouache 01";
+< "Dense Gouache 02" = "Dense Gouache 02";
+< "Dense Marker" = "Dense Marker";
+< "Dense Oil Impasto 01" = "Dense Oil Impasto 01";
+< "Dense Oil Impasto 02" = "Dense Oil Impasto 02";
+< "Dense Oil Impasto 03" = "Dense Oil Impasto 03";
+< "Dense Oil Impasto 04" = "Dense Oil Impasto 04";
+< "Diagonal Ink Bold" = "Diagonal Ink Bold";
+< "Diagonal Ink Fine" = "Diagonal Ink Fine";
+< "Dry Flat Ink 01" = "Dry Flat Ink 01";
+< "Dry Flat Ink 02" = "Dry Flat Ink 02";
+< "Dry Gouache 01" = "Dry Gouache 01";
+< "Dry Gouache 02" = "Dry Gouache 02";
+< "Dry Gouache 03" = "Dry Gouache 03";
+< "Dry Gouache 04" = "Dry Gouache 04";
+< "Dry Media" = "Dry Media";
+< "Dry Speed Gouache 01" = "Dry Speed Gouache 01";
+< "Dry Speed Gouache 04" = "Dry Speed Gouache 04";
+< "Engraving" = "Engraving";
+< "Fine Oil 01" = "Fine Oil 01";
+< "Fine Oil 02" = "Fine Oil 02";
+< "Fine Oil 03" = "Fine Oil 03";
+< "Fine Oil 04" = "Fine Oil 04";
+< "Flat Marker Used Up" = "Flat Marker Used Up";
+< "Flat Watercolour 01" = "Flat Watercolor 01";
+< "Flat Watercolour 02" = "Flat Watercolor 02";
+< "Fountain Pen Ink" = "Fountain Pen Ink";
+< "Gouache 01" = "Gouache 01";
+< "Gouache 02" = "Gouache 02";
+< "Gouache Strokes" = "Gouache Strokes";
+< "Gouaches" = "Gouaches";
+< "Graded Stippling 01" = "Graded Stippling 01";
+< "Graded Stippling 02" = "Graded Stippling 02";
+< "Graphite (for closed curves)" = "Graphite (for closed curves)";
+< "Graphite Scribble 01 (for short strokes)" = "Graphite Scribble 01 (for short strokes)";
+< "Graphite Scribble 02 (for short strokes)" = "Graphite Scribble 02 (for short strokes)";
+< "Graphite Scribble 03 (for short strokes)" = "Graphite Scribble 03 (for short strokes)";
+< "Graphite Scribble 04 (for short strokes)" = "Graphite Scribble 04 (for short strokes)";
+< "Graphite Tip (for closed curves)" = "Graphite Tip (for closed curves)";
+< "Graphite Tip" = "Graphite Tip";
+< "Graphite" = "Graphite";
+< "Greasy Pastel" = "Greasy Pastel";
+< "Grunge Gouache" = "Grunge Gouache";
+< "HB Pencil Hatch" = "HB Pencil Hatch";
+< "Hatching Diagonal Dry" = "Hatching Diagonal Dry";
+< "Hatching Diagonal" = "Hatching Diagonal";
+< "Hatching Vertical Fine" = "Hatching Vertical Fine";
+< "Hatching Vertical Wobbling" = "Hatching Vertical Wobbling";
+< "Hatching Vertical" = "Hatching Vertical";
+< "India Ink 01" = "India Ink 01";
+< "India Ink 02" = "India Ink 02";
+< "India Ink 03" = "India Ink 03";
+< "India Ink 04" = "India Ink 04";
+< "Ink on Cotton Paper 01" = "Ink on Cotton Paper 01";
+< "Ink on Cotton Paper 02" = "Ink on Cotton Paper 02";
+< "Inks" = "Inks";
+< "Jagged Ink" = "Jagged Ink";
+< "Light Charcoal (for closed curves)" = "Light Charcoal (for closed curves)";
+< "Light Charcoal" = "Light Charcoal";
+< "Light Glazing Oil 01" = "Light Glazing Oil 01";
+< "Light Glazing Oil 02" = "Light Glazing Oil 02";
+< "Light Glazing Oil 03" = "Light Glazing Oil 03";
+< "Light Glazing Oil 04" = "Light Glazing Oil 04";
+< "Light Gouache 01 (for short strokes)" = "Light Gouache 01 (for short strokes)";
+< "Light Gouache 02 (for short strokes)" = "Light Gouache 02 (for short strokes)";
+< "Light Gouache 03 (for short strokes)" = "Light Gouache 03 (for short strokes)";
+< "Marker Scribble 01" = "Marker Scribble 01";
+< "Marker Scribble 02" = "Marker Scribble 02";
+< "Marker Scribble 03" = "Marker Scribble 03";
+< "Marker Scribble 04" = "Marker Scribble 04";
+< "Markers" = "Markers";
+< "Oils" = "Oils";
+< "Patterns" = "Patterns";
+< "Pencil Strokes" = "Pencil Strokes";
+< "Pencils" = "Pencils";
+< "Pens" = "Pens";
+< "Quick Marker Stroke 01" = "Quick Marker Stroke 01";
+< "Quick Marker Stroke 02" = "Quick Marker Stroke 02";
+< "Quick Marker Stroke 03" = "Quick Marker Stroke 03";
+< "Quick Marker Stroke 04" = "Quick Marker Stroke 04";
+< "Quick Marker Stroke 05" = "Quick Marker Stroke 05";
+< "Rough Engraving Rake 01" = "Rough Engraving Rake 01";
+< "Rough Engraving Rake 02" = "Rough Engraving Rake 02";
+< "Rough Engraving Rake 03" = "Rough Engraving Rake 03";
+< "Rough Engraving Rake 04" = "Rough Engraving Rake 04";
+< "Round Pastel" = "Round Pastel";
+< "Round Watercolour Dense" = "Round Watercolor Dense";
+< "Round Watercolour Light" = "Round Watercolor Light";
+< "Scribble Line (for closed curves)" = "Scribble Line (for closed curves)";
+< "Scribble Pen 01" = "Scribble Pen 01";
+< "Scribble Pen 02" = "Scribble Pen 02";
+< "Simple Ink" = "Simple Ink";
+< "Simple Pen (for closed curves)" = "Simple Pen (for closed curves)";
+< "Simple Pen (for open curves)" = "Simple Pen (for open curves)";
+< "Slant Graded Marker" = "Slant Graded Marker";
+< "Slanted Ink Pen" = "Slanted Ink Pen";
+< "Smooth Square Pastel" = "Smooth Square Pastel";
+< "Solid Pen with Pressure & Opacity" = "Solid Pen with Pressure & Opacity";
+< "Solid Pen with Pressure" = "Solid Pen with Pressure";
+< "Speed Marker Fill 01" = "Speed Marker Fill 01";
+< "Speed Marker Fill 02" = "Speed Marker Fill 02";
+< "Square Pastel" = "Square Pastel";
+< "Square Pencil" = "Square Pencil";
+< "Stippling Dense" = "Stippling Dense";
+< "Stippling Light" = "Stippling Light";
+< "Textured Pen 01" = "Textured Pen 01";
+< "Textured Pen 02" = "Textured Pen 02";
+< "Textured Pen 03" = "Textured Pen 03";
+< "Tilted Round Pencil (for closed curves)" = "Tilted Round Pencil (for closed curves)";
+< "Tilted Round Pencil" = "Tilted Round Pencil";
+< "Variable Square Pastel" = "Variable Square Pastel";
+< "Vertical Bleeding Ink 01" = "Vertical Bleeding Ink 01";
+< "Vertical Bleeding Ink 02" = "Vertical Bleeding Ink 02";
+< "Vertical Ink" = "Vertical Ink";
+< "Water Particles" = "Water Particles";
+< "Watercolour Bristle 01" = "Watercolor Bristle 01";
+< "Watercolour Bristle 02" = "Watercolor Bristle 02";
+< "Watercolour Bristle 03" = "Watercolor Bristle 03";
+< "Watercolour Bristle 04" = "Watercolor Bristle 04";
+< "Watercolour Stroke 01 (for closed curves)" = "Watercolor Stroke 01 (for closed curves)";
+< "Watercolour Stroke 02 (for closed curves)" = "Watercolor Stroke 02 (for closed curves)";
+< "Watercolour Stroke 03 (for closed curves)" = "Watercolor Stroke 03 (for closed curves)";
+< "Watercolour Stroke 04 (for closed curves)" = "Watercolor Stroke 04 (for closed curves)";
+< "Watercolour Stroke 05 (for closed curves)" = "Watercolor Stroke 05 (for closed curves)";
+< "Watercolour Stroke 06 (for closed curves)" = "Watercolor Stroke 06 (for closed curves)";
+< "Watercolours" = "Watercolors";
+< "Wet Speed Goauche 01" = "Wet Speed Goauche 01";
+< "Wobbling Gritty Pen" = "Wobbling Gritty Pen";
+< "Wobbling Smooth Pen" = "Wobbling Smooth Pen";
+< "Wobbling Watercolour Stroke" = "Wobbling Watercolor Stroke";
+< "Woodless Square" = "Woodless Square";
+> "2B Pencil Hatch" = "2B鉛筆の陰影";
+> "Acrylic Stroke 01" = "アクリルストローク01";
+> "Acrylic Stroke 02" = "アクリルストローク02";
+> "Acrylic Stroke 03" = "アクリルストローク03";
+> "Acrylic Stroke 04" = "アクリルストローク04";
+> "Acrylic Stroke 05" = "アクリルストローク05";
+> "Acrylic Stroke 06" = "アクリルストローク06";
+> "Acrylic Stroke 07" = "アクリルストローク07";
+> "Acrylic Stroke 08" = "アクリルストローク08";
+> "Acrylic Stroke 09" = "アクリルストローク09";
+> "Acrylic Stroke 10" = "アクリルストローク10";
+> "Acrylic Stroke 11" = "アクリルストローク11";
+> "Acrylic Stroke 12" = "アクリルストローク12";
+> "Acrylic Stroke 13" = "アクリルストローク13";
+> "Acrylic Stroke 14" = "アクリルストローク14";
+> "Acrylic Stroke 15" = "アクリルストローク15";
+> "Acrylic Stroke 16" = "アクリルストローク16";
+> "Acrylics" = "アクリル";
+> "Airbrush Dense" = "エアブラシ（濃い）";
+> "Airbrush Light" = "エアブラシ（ライト）";
+> "Airbrush Medium" = "エアブラシ（中濃度）";
+> "Bleeding Ink" = "にじみインク";
+> "Blurry Pastel" = "ぼかしパステル";
+> "Brush Pen 01" = "ブラシペン01";
+> "Brush Pen 02" = "ブラシペン02";
+> "Brush Pen 03" = "ブラシペン03";
+> "Brush Pen 04" = "ブラシペン04";
+> "Chalk on Paper (for closed curves)" = "ペーパー上のチョーク(閉じたカーブ用)";
+> "Charcoal Dry" = "チャコール（ドライ）";
+> "Charcoal Smooth" = "チャコール（滑らか）";
+> "Classic Flat Marker 01" = "クラシックフラットマーカー01";
+> "Classic Pencil 2B (for closed curves)" = "クラシック鉛筆2B(閉じたカーブ用)";
+> "Classic Pencil 2B" = "クラシック鉛筆2B";
+> "Classic Pencil HB (for closed curves)" = "クラシック鉛筆HB(閉じたカーブ用)";
+> "Classic Pencil HB" = "クラシック鉛筆HB";
+> "Classic Round Marker" = "クラシックラウンドマーカー";
+> "Clean Engraving 01" = "クリーンエッチング01";
+> "Clean Engraving 02" = "クリーンエッチング02";
+> "Clean Engraving 03" = "クリーンエッチング03";
+> "Clean Engraving 04" = "クリーンエッチング04";
+> "Clean Engraving 05" = "クリーンエッチング05";
+> "Clean Engraving 06" = "クリーンエッチング06";
+> "Clean Engraving 07" = "クリーンエッチング07";
+> "Clean Engraving 08" = "クリーンエッチング08";
+> "Clean Engraving 09" = "クリーンエッチング09";
+> "Clean Engraving 10" = "クリーンエッチング10";
+> "Clean Engraving 11" = "クリーンエッチング11";
+> "Clean Engraving 12" = "クリーンエッチング12";
+> "Creative Ink 01" = "クリエイティブインク01";
+> "Creative Ink 02" = "クリエイティブインク02";
+> "Creative Ink 03" = "クリエイティブインク03";
+> "Dash Pattern Dense" = "ダッシュパターン（濃い）";
+> "Dash Pattern Light" = "ダッシュパターン（ライト）";
+> "Dash&Stipple 01" = "ダッシュ＆点刻01";
+> "Dash&Stipple 02" = "ダッシュ＆点刻02";
+> "Dash&Stipple 03" = "ダッシュ＆点刻03";
+> "Dash&Stipple 04" = "ダッシュ＆点刻04";
+> "Dashed Pattern" = "破線パターン";
+> "Dense Charcoal (for closed curves)" = "濃い木炭（閉じたカーブ用）";
+> "Dense Charcoal" = "濃い木炭";
+> "Dense Gouache 01" = "濃いグワッシュ01";
+> "Dense Gouache 02" = "濃いグワッシュ02";
+> "Dense Marker" = "濃いマーカー";
+> "Dense Oil Impasto 01" = "濃い厚塗りの油彩01";
+> "Dense Oil Impasto 02" = "濃い厚塗りの油彩02";
+> "Dense Oil Impasto 03" = "濃い厚塗りの油彩03";
+> "Dense Oil Impasto 04" = "濃い厚塗りの油彩04";
+> "Diagonal Ink Bold" = "斜めインク（太）";
+> "Diagonal Ink Fine" = "斜めインク（細）";
+> "Dry Flat Ink 01" = "ドライフラットインク01";
+> "Dry Flat Ink 02" = "ドライフラットインク02";
+> "Dry Gouache 01" = "ドライグワッシュ01";
+> "Dry Gouache 02" = "ドライグワッシュ02";
+> "Dry Gouache 03" = "ドライグワッシュ03";
+> "Dry Gouache 04" = "ドライグワッシュ04";
+> "Dry Media" = "ドライメディア";
+> "Dry Speed Gouache 01" = "ドライスピードグワッシュ01";
+> "Dry Speed Gouache 04" = "ドライスピードグワッシュ04";
+> "Engraving" = "エッチング";
+> "Fine Oil 01" = "細かい油彩01";
+> "Fine Oil 02" = "細かい油彩02";
+> "Fine Oil 03" = "細かい油彩03";
+> "Fine Oil 04" = "細かい油彩04";
+> "Flat Marker Used Up" = "使い切ったフラットマーカー";
+> "Flat Watercolour 01" = "平筆水彩01";
+> "Flat Watercolour 02" = "平筆水彩02";
+> "Fountain Pen Ink" = "万年筆用インク";
+> "Gouache 01" = "グワッシュ01";
+> "Gouache 02" = "グワッシュ02";
+> "Gouache Strokes" = "グワッシュのストローク";
+> "Gouaches" = "グワッシュ";
+> "Graded Stippling 01" = "濃淡のある点刻01";
+> "Graded Stippling 02" = "濃淡のある点刻02";
+> "Graphite (for closed curves)" = "グラファイト（閉じたカーブ用）";
+> "Graphite Scribble 01 (for short strokes)" = "グラファイトスクリブル01(ショート境界線用)";
+> "Graphite Scribble 02 (for short strokes)" = "グラファイトスクリブル02(ショート境界線用)";
+> "Graphite Scribble 03 (for short strokes)" = "グラファイトスクリブル03(ショート境界線用)";
+> "Graphite Scribble 04 (for short strokes)" = "グラファイトスクリブル04(ショート境界線用)";
+> "Graphite Tip (for closed curves)" = "グラファイト先端（閉じたカーブ用）";
+> "Graphite Tip" = "グラファイト先端";
+> "Graphite" = "グラファイト";
+> "Greasy Pastel" = "油分の多いパステル";
+> "Grunge Gouache" = "グランジグワッシュ";
+> "HB Pencil Hatch" = "HB鉛筆の陰影";
+> "Hatching Diagonal Dry" = "ハッチング斜線ドライ";
+> "Hatching Diagonal" = "ハッチング斜線";
+> "Hatching Vertical Fine" = "ハッチング垂直線（細）";
+> "Hatching Vertical Wobbling" = "ハッチング垂直線（波状）";
+> "Hatching Vertical" = "ハッチング垂直線";
+> "India Ink 01" = "インドインク01";
+> "India Ink 02" = "インドインク02";
+> "India Ink 03" = "インドインク03";
+> "India Ink 04" = "インドインク04";
+> "Ink on Cotton Paper 01" = "コットンペーパー上のインク01";
+> "Ink on Cotton Paper 02" = "コットンペーパー上のインク02";
+> "Inks" = "インク";
+> "Jagged Ink" = "ギザギザのインク";
+> "Light Charcoal (for closed curves)" = "ライト木炭（閉じたカーブ用）";
+> "Light Charcoal" = "ライト木炭";
+> "Light Glazing Oil 01" = "明るいグレージングの油彩01";
+> "Light Glazing Oil 02" = "明るいグレージングの油彩02";
+> "Light Glazing Oil 03" = "明るいグレージングの油彩03";
+> "Light Glazing Oil 04" = "明るいグレージングの油彩04";
+> "Light Gouache 01 (for short strokes)" = "ライトグワッシュ01（短いストローク用）";
+> "Light Gouache 02 (for short strokes)" = "ライトグワッシュ02（短いストローク用）";
+> "Light Gouache 03 (for short strokes)" = "ライトグワッシュ03（短いストローク用）";
+> "Marker Scribble 01" = "マーカースクリブル01";
+> "Marker Scribble 02" = "マーカースクリブル02";
+> "Marker Scribble 03" = "マーカースクリブル03";
+> "Marker Scribble 04" = "マーカースクリブル04";
+> "Markers" = "マーカー";
+> "Oils" = "油彩";
+> "Patterns" = "パターン";
+> "Pencil Strokes" = "鉛筆のストローク";
+> "Pencils" = "鉛筆";
+> "Pens" = "ペン";
+> "Quick Marker Stroke 01" = "クイックマーカー境界線01";
+> "Quick Marker Stroke 02" = "クイックマーカー境界線02";
+> "Quick Marker Stroke 03" = "クイックマーカー境界線03";
+> "Quick Marker Stroke 04" = "クイックマーカー境界線04";
+> "Quick Marker Stroke 05" = "クイックマーカー境界線05";
+> "Rough Engraving Rake 01" = "荒いエッチングレーキ01";
+> "Rough Engraving Rake 02" = "荒いエッチングレーキ 02";
+> "Rough Engraving Rake 03" = "荒いエッチングレーキ 03";
+> "Rough Engraving Rake 04" = "荒いエッチングレーキ 04";
+> "Round Pastel" = "丸型パステル";
+> "Round Watercolour Dense" = "丸筆水彩（濃い）";
+> "Round Watercolour Light" = "丸筆 水彩（ライト）";
+> "Scribble Line (for closed curves)" = "スクリブルライン（閉じたカーブ用）";
+> "Scribble Pen 01" = "スクリブルペン01";
+> "Scribble Pen 02" = "スクリブルペン02";
+> "Simple Ink" = "シンプルインク";
+> "Simple Pen (for closed curves)" = "シンプルペン（閉じたカーブ用）";
+> "Simple Pen (for open curves)" = "シンプルペン（開いたカーブ用）";
+> "Slant Graded Marker" = "濃淡ありマーカー";
+> "Slanted Ink Pen" = "傾斜インクペン";
+> "Smooth Square Pastel" = "滑らかな角型パステル";
+> "Solid Pen with Pressure & Opacity" = "筆圧と不透明度付きソリッドペン";
+> "Solid Pen with Pressure" = "筆圧付きソリッドブラシ";
+> "Speed Marker Fill 01" = "スピードマーカー塗りつぶし01";
+> "Speed Marker Fill 02" = "スピードマーカー塗りつぶし02";
+> "Square Pastel" = "角型パステル";
+> "Square Pencil" = "角形鉛筆";
+> "Stippling Dense" = "点刻（濃い）";
+> "Stippling Light" = "点刻（ライト）";
+> "Textured Pen 01" = "テクスチャペン01";
+> "Textured Pen 02" = "テクスチャペン02";
+> "Textured Pen 03" = "テクスチャペン03";
+> "Tilted Round Pencil (for closed curves)" = "角度付き丸鉛筆（閉じたカーブ用）";
+> "Tilted Round Pencil" = "角度付き丸鉛筆";
+> "Variable Square Pastel" = "濃淡角型パステル";
+> "Vertical Bleeding Ink 01" = "垂直にじみインク01";
+> "Vertical Bleeding Ink 02" = "垂直にじみインク02";
+> "Vertical Ink" = "垂直インク";
+> "Water Particles" = "水粒子";
+> "Watercolour Bristle 01" = "水彩ブラシ01";
+> "Watercolour Bristle 02" = "水彩ブラシ02";
+> "Watercolour Bristle 03" = "水彩ブラシ03";
+> "Watercolour Bristle 04" = "水彩ブラシ04";
+> "Watercolour Stroke 01 (for closed curves)" = "水彩ストローク01（閉じたカーブ用）";
+> "Watercolour Stroke 02 (for closed curves)" = "水彩ストローク02（閉じたカーブ用）";
+> "Watercolour Stroke 03 (for closed curves)" = "水彩ストローク03（閉じたカーブ用）";
+> "Watercolour Stroke 04 (for closed curves)" = "水彩ストローク04（閉じたカーブ用）";
+> "Watercolour Stroke 05 (for closed curves)" = "水彩ストローク05（閉じたカーブ用）";
+> "Watercolour Stroke 06 (for closed curves)" = "水彩ストローク06 （閉じたカーブ用）";
+> "Watercolours" = "水彩";
+> "Wet Speed Goauche 01" = "ウェットスピードグワッシュ01";
+> "Wobbling Gritty Pen" = "波打ちザラザラペン";
+> "Wobbling Smooth Pen" = "波打ち滑らかペン";
+> "Wobbling Watercolour Stroke" = "波打ち水彩ストローク";
+> "Woodless Square" = "芯鉛筆（正方形）";

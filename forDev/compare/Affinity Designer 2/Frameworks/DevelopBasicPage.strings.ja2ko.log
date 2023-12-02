@@ -1,0 +1,16 @@
+2c2,5
+< 9c9
+---
+> ---
+> 2,3c2,3
+> 8,9c8,9
+> < "11.title" = "Text Cell";
+4c7,12
+< > "gDU-o6-eNC.title" = "プリセット:";
+---
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "gDU-o6-eNC"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+> > "11.title" = "텍스트 셀";
+> > "gDU-o6-eNC.title" = "미리 설정:";
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "gDU-o6-eNC"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "11"; */

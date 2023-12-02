@@ -1,0 +1,12 @@
+---
+---
+11,12c11,12
+17,18c17,18
+< "R4q-dy-SCT.title" = "Quit";
+< "bSt-ag-fOj.title" = "Edit";
+< /* Class = "NSButtonCell"; title = "Quit"; ObjectID = "R4q-dy-SCT"; */
+< /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "bSt-ag-fOj"; */
+> "R4q-dy-SCT.title" = "Affinity Designer 종료";
+> "bSt-ag-fOj.title" = "편집";
+> /* Class = "NSButtonCell"; title = "Affinity Designer 종료"; ObjectID = "R4q-dy-SCT"; */
+> /* Class = "NSMenuItem"; title = "편집"; ObjectID = "bSt-ag-fOj"; */

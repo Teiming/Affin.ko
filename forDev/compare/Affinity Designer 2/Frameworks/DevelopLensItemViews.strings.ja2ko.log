@@ -1,0 +1,128 @@
+13,48c13,24
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 63c63
+< 66c66
+< 69c69
+< 6c6
+< 72c72
+< 75c75
+< 78c78
+< 9c9
+---
+> 11,12c11,12
+> 14,15c14,15
+> 17,18c17,18
+> 2,3c2,3
+> 26,27c26,27
+> 29,30c29,30
+> 35,36c35,36
+> 38,39c38,39
+> 53,54c53,54
+> 56,57c56,57
+> 62,63c62,63
+> 74,75c74,75
+50,51d25
+< < "6Fc-w7-lMm.title" = "Also Remove Complementary Hue";
+< < "88J-co-q92.title" = "Intensity";
+55,56d28
+< < "R7e-kG-iDO.title" = "Lens Correction";
+< < "Sed-lL-DpD.title" = "Defringe";
+61,64d32
+< < "fqD-UC-yuI.title" = "Estimate From Image";
+< < "jhQ-AS-c6L.title" = "Chromatic Aberration Reduction";
+< < "kQe-AG-lwm.title" = "Use Lens Profile";
+< < "kk4-rh-pIH.title" = "Use Lens Profile";
+68,70d35
+< < "qwR-uQ-oOf.title" = "Remove Lens Vignette";
+< < "s6H-g0-79Z.title" = "Post Crop Vignette";
+< < "sVo-wQ-4Ou.title" = "Estimate From Image";
+72,96c37,72
+< < "ygT-P8-4rM.title" = "Intensity";
+< > "5mC-lq-o1J.title" = "しきい値";
+< > "6Fc-w7-lMm.title" = "補色色相も削除";
+< > "88J-co-q92.title" = "強度";
+< > "Gwd-gd-Qn8.title" = "垂直";
+< > "MVJ-Po-Pp9.title" = "スケール";
+< > "NKq-JJ-1dl.title" = "色相";
+< > "R7e-kG-iDO.title" = "レンズ補正";
+< > "Sed-lL-DpD.title" = "フリンジ除去";
+< > "UHM-FU-I4n.title" = "許容量";
+< > "VMz-N0-RMB.title" = "スケール";
+< > "WzT-xo-0Mi.title" = "レンズプロファイル";
+< > "djo-uP-ATF.title" = "硬さ";
+< > "fqD-UC-yuI.title" = "画像から推定";
+< > "jhQ-AS-c6L.title" = "色収差の軽減";
+< > "kQe-AG-lwm.title" = "レンズプロファイルの使用";
+< > "kk4-rh-pIH.title" = "レンズプロファイルの使用";
+< > "lhg-oq-4R3.title" = "水平";
+< > "mi6-f5-tFY.title" = "半径";
+< > "qsS-xB-big.title" = "ゆがみ";
+< > "qwR-uQ-oOf.title" = "レンズビネットの除去";
+< > "s6H-g0-79Z.title" = "切り抜き後のビネット";
+< > "sVo-wQ-4Ou.title" = "画像から推定";
+< > "soV-EI-pGv.title" = "回転";
+< > "ygT-P8-4rM.title" = "強度";
+---
+> < /* Class = "NSTextFieldCell"; title = "Distortion"; ObjectID = "qsS-xB-big"; */
+> < /* Class = "NSTextFieldCell"; title = "Hardness"; ObjectID = "djo-uP-ATF"; */
+> < /* Class = "NSTextFieldCell"; title = "Horizontal"; ObjectID = "lhg-oq-4R3"; */
+> < /* Class = "NSTextFieldCell"; title = "Hue"; ObjectID = "NKq-JJ-1dl"; */
+> < /* Class = "NSTextFieldCell"; title = "Lens Profile"; ObjectID = "WzT-xo-0Mi"; */
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "mi6-f5-tFY"; */
+> < /* Class = "NSTextFieldCell"; title = "Rotation"; ObjectID = "soV-EI-pGv"; */
+> < /* Class = "NSTextFieldCell"; title = "Scale"; ObjectID = "MVJ-Po-Pp9"; */
+> < /* Class = "NSTextFieldCell"; title = "Scale"; ObjectID = "VMz-N0-RMB"; */
+> < /* Class = "NSTextFieldCell"; title = "Threshold"; ObjectID = "5mC-lq-o1J"; */
+> < /* Class = "NSTextFieldCell"; title = "Tolerance"; ObjectID = "UHM-FU-I4n"; */
+> < /* Class = "NSTextFieldCell"; title = "Vertical"; ObjectID = "Gwd-gd-Qn8"; */
+> > "5mC-lq-o1J.title" = "역치";
+> > "Gwd-gd-Qn8.title" = "세로";
+> > "MVJ-Po-Pp9.title" = "배율";
+> > "NKq-JJ-1dl.title" = "색채";
+> > "UHM-FU-I4n.title" = "허용량";
+> > "VMz-N0-RMB.title" = "배율";
+> > "WzT-xo-0Mi.title" = "렌즈 프로파일";
+> > "djo-uP-ATF.title" = "굳기";
+> > "lhg-oq-4R3.title" = "가로";
+> > "mi6-f5-tFY.title" = "반지름";
+> > "qsS-xB-big.title" = "왜곡";
+> > "soV-EI-pGv.title" = "회전";
+> > /* Class = "NSTextFieldCell"; title = "렌즈 프로파일"; ObjectID = "WzT-xo-0Mi"; */
+> > /* Class = "NSTextFieldCell"; title = "역치"; ObjectID = "5mC-lq-o1J"; */
+> > /* Class = "NSTextFieldCell"; title = "세로"; ObjectID = "Gwd-gd-Qn8"; */
+> > /* Class = "NSTextFieldCell"; title = "배율"; ObjectID = "MVJ-Po-Pp9"; */
+> > /* Class = "NSTextFieldCell"; title = "색채"; ObjectID = "NKq-JJ-1dl"; */
+> > /* Class = "NSTextFieldCell"; title = "배율"; ObjectID = "VMz-N0-RMB"; */
+> > /* Class = "NSTextFieldCell"; title = "굳기"; ObjectID = "djo-uP-ATF"; */
+> > /* Class = "NSTextFieldCell"; title = "가로"; ObjectID = "lhg-oq-4R3"; */
+> > /* Class = "NSTextFieldCell"; title = "왜곡"; ObjectID = "qsS-xB-big"; */
+> > /* Class = "NSTextFieldCell"; title = "회전"; ObjectID = "soV-EI-pGv"; */
+> > /* Class = "NSTextFieldCell"; title = "허용량"; ObjectID = "UHM-FU-I4n"; */
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "mi6-f5-tFY"; */

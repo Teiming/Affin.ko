@@ -1,0 +1,582 @@
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+101,102c101,102
+104,105c104,105
+11,12c11,12
+110,111c110,111
+113,114c113,114
+116,117c116,117
+119,120c119,120
+122,123c122,123
+125,126c125,126
+131,132c131,132
+134,135c134,135
+137,138c137,138
+14,15c14,15
+140,141c140,141
+143,144c143,144
+146,147c146,147
+149,150c149,150
+152,153c152,153
+158,159c158,159
+167,168c167,168
+17,18c17,18
+170,171c170,171
+173,174c173,174
+176,177c176,177
+182,183c182,183
+185,186c185,186
+188,189c188,189
+191,192c191,192
+194,195c194,195
+197,198c197,198
+20,21c20,21
+203,204c203,204
+206,207c206,207
+209,210c209,210
+212,213c212,213
+215,216c215,216
+224,225c224,225
+23,24c23,24
+230,231c230,231
+242,243c242,243
+245,246c245,246
+248,249c248,249
+251,252c251,252
+254,255c254,255
+26,27c26,27
+260,261c260,261
+263,264c263,264
+266,267c266,267
+269,270c269,270
+275,276c275,276
+278,279c278,279
+281,282c281,282
+284,285c284,285
+29,30c29,30
+290,291c290,291
+293,294c293,294
+296,297c296,297
+299,300c299,300
+308,309c308,309
+317,318c317,318
+32,33c32,33
+320c320
+323,324c323,324
+326,327c326,327
+329,330c329,330
+332,333c332,333
+335,336c335,336
+341,342c341,342
+347,348c347,348
+35,36c35,36
+350,351c350,351
+353,354c353,354
+356,357c356,357
+359,360c359,360
+362,363c362,363
+38,39c38,39
+41,42c41,42
+44,45c44,45
+47,48c47,48
+5,6c5,6
+50,51c50,51
+53,54c53,54
+56,57c56,57
+59,60c59,60
+62,63c62,63
+65,66c65,66
+68,69c68,69
+71,72c71,72
+74,75c74,75
+77,78c77,78
+8,9c8,9
+80,81c80,81
+83,84c83,84
+86,87c86,87
+89,90c89,90
+92c92
+95c95
+98,99c98,99
+< "0cS-l8-xXi.title" = "Toggle Full Screen";
+< "1075.title" = "Zoom to Fit";
+< "1087.title" = "Show Margins";
+< "1088.title" = "Show Guides";
+< "1089.title" = "Show Grid";
+< "1093.title" = "New View";
+< "1099.title" = "Export…";
+< "1107.title" = "Pixels";
+< "1329.title" = "Zoom In";
+< "1331.title" = "Zoom Out";
+< "1353.title" = "Views";
+< "1357.title" = "Views";
+< "1362.title" = "View Mode";
+< "1364.title" = "View Mode";
+< "1366.title" = "Vector";
+< "1457.title" = "Show Rulers";
+< "1K4-tN-KJx.title" = "Select All";
+< "2s9-iX-HXn.title" = "Manage Studio Presets…";
+< "3gf-mC-XkB.title" = "Affinity Designer Help";
+< "42B-NB-XnH.title" = "Pixel Persona";
+< "5DQ-Qk-FbE.title" = "Redo";
+< "6EZ-Th-cI0.title" = "Show Left Studio";
+< "6ux-Xi-ld7.title" = "Edit";
+< "76j-dB-Jrh.title" = "Delete";
+< "79k-PD-Qmh.title" = "Copy";
+< "79s-Wv-z7r.title" = "Actual Size";
+< "7jx-II-o5w.title" = "Toggle UI";
+< "801.title" = "Help";
+< "803.title" = "View";
+< "804.title" = "File";
+< "806.title" = "Persona";
+< "807.title" = "Window";
+< "808.title" = "Window";
+< "811.title" = "Minimize";
+< "812.title" = "Zoom";
+< "813.title" = "Bring All to Front";
+< "815.title" = "Persona";
+< "816.title" = "Hide Others";
+< "818.title" = "Services";
+< "821.title" = "Preferences…";
+< "823.title" = "Quit";
+< "824.title" = "Show All";
+< "825.title" = "Hide";
+< "826.title" = "About…";
+< "827.title" = "Services";
+< "873.title" = "File";
+< "874.title" = "Save As…";
+< "877.title" = "Save";
+< "881.title" = "Close";
+< "883.title" = "Open Recent";
+< "884.title" = "New…";
+< "885.title" = "Open…";
+< "886.title" = "Print…";
+< "887.title" = "Open Recent";
+< "888.title" = "Clear Menu";
+< "889.title" = "View";
+< "893.title" = "Show Toolbar";
+< "950.title" = "Help";
+< "9qm-Q6-bCD.title" = "Rotate Left";
+< "AGf-GO-cve.title" = "Select Next";
+< "ASJ-uF-DeH.title" = "Merge All Windows";
+< "DAI-mW-P2h.title" = "Show Tools";
+< "Fqw-lW-baW.title" = "Add Preset…";
+< "G2e-37-ugE.title" = "Undo";
+< "Hnm-Oe-ITh.title" = "My Account…";
+< "KA9-dB-1ia.title" = "Share";
+< "KHV-wg-RvK.title" = "Show Context Toolbar";
+< "M7v-T4-shW.title" = "Reset Rotation";
+< "Mjs-px-SRF.title" = "Pixel Size";
+< "NfI-1h-f99.title" = "Edit";
+< "QaL-Mw-jOl.title" = "New From Clipboard";
+< "RbB-Vi-Nm1.title" = "Deselect";
+< "Tp7-RN-ZI9.title" = "Rotate Right";
+< "XF0-oF-CqE.title" = "Share";
+< "XI1-JJ-wze.title" = "Hide Studio";
+< "Y15-ob-9qE.title" = "Check for Updates";
+< "aYY-2R-a0D.title" = "Zoom";
+< "adg-Px-pjr.title" = "Pixels (Retina)";
+< "bCA-SS-KLe.title" = "Zoom to Selection";
+< "bly-XI-7Kj.title" = "Select Previous";
+< "c9a-gU-Wfj.title" = "Zoom to Width";
+< "dZU-La-XBw.title" = "Show Right Studio";
+< "hpR-I1-W8L.title" = "Support...";
+< "iq9-LM-FYM.title" = "Studio";
+< "itj-mR-80i.title" = "Select";
+< "jWT-Nz-PEE.title" = "Reset Studio";
+< "kPF-4I-QX0.title" = "Select";
+< "kfV-dk-BSh.title" = "Clip to Canvas";
+< "mYd-oY-6SX.title" = "Cut";
+< "n06-iW-mAw.title" = "Studio";
+< "oGj-HR-Y9N.title" = "Paste";
+< "sSw-Wy-rwD.title" = "Zoom";
+< "tGQ-lG-h68.title" = "Lock Guides";
+< "tXe-bY-Mf7.title" = "Outline";
+< "uP4-bW-FOM.title" = "Dock Tools";
+< /* Class = "NSMenu"; title = "Edit"; ObjectID = "6ux-Xi-ld7"; */
+< /* Class = "NSMenu"; title = "File"; ObjectID = "873"; */
+< /* Class = "NSMenu"; title = "Help"; ObjectID = "950"; */
+< /* Class = "NSMenu"; title = "Open Recent"; ObjectID = "887"; */
+< /* Class = "NSMenu"; title = "Persona"; ObjectID = "815"; */
+< /* Class = "NSMenu"; title = "Select"; ObjectID = "itj-mR-80i"; */
+< /* Class = "NSMenu"; title = "Services"; ObjectID = "827"; */
+< /* Class = "NSMenu"; title = "Share"; ObjectID = "XF0-oF-CqE"; */
+< /* Class = "NSMenu"; title = "Studio"; ObjectID = "iq9-LM-FYM"; */
+< /* Class = "NSMenu"; title = "View Mode"; ObjectID = "1364"; */
+< /* Class = "NSMenu"; title = "View"; ObjectID = "889"; */
+< /* Class = "NSMenu"; title = "Views"; ObjectID = "1357"; */
+< /* Class = "NSMenu"; title = "Window"; ObjectID = "808"; */
+< /* Class = "NSMenu"; title = "Zoom"; ObjectID = "aYY-2R-a0D"; */
+< /* Class = "NSMenuItem"; title = "About…"; ObjectID = "826"; */
+< /* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "79s-Wv-z7r"; */
+< /* Class = "NSMenuItem"; title = "Add Preset…"; ObjectID = "Fqw-lW-baW"; */
+< /* Class = "NSMenuItem"; title = "Affinity Designer Help"; ObjectID = "3gf-mC-XkB"; */
+< /* Class = "NSMenuItem"; title = "Apple Colour Picker..."; ObjectID = "iME-Vs-Qnd"; */
+< /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "813"; */
+< /* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "Y15-ob-9qE"; */
+< /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "888"; */
+< /* Class = "NSMenuItem"; title = "Clip to Canvas"; ObjectID = "kfV-dk-BSh"; */
+< /* Class = "NSMenuItem"; title = "Close"; ObjectID = "881"; */
+< /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "79k-PD-Qmh"; */
+< /* Class = "NSMenuItem"; title = "Customise Toolbar…"; ObjectID = "892"; */
+< /* Class = "NSMenuItem"; title = "Customise Tools…"; ObjectID = "890"; */
+< /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "mYd-oY-6SX"; */
+< /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "76j-dB-Jrh"; */
+< /* Class = "NSMenuItem"; title = "Deselect"; ObjectID = "RbB-Vi-Nm1"; */
+< /* Class = "NSMenuItem"; title = "Dock Tools"; ObjectID = "uP4-bW-FOM"; */
+< /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "NfI-1h-f99"; */
+< /* Class = "NSMenuItem"; title = "Export…"; ObjectID = "1099"; */
+< /* Class = "NSMenuItem"; title = "File"; ObjectID = "804"; */
+< /* Class = "NSMenuItem"; title = "Help"; ObjectID = "801"; */
+< /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "816"; */
+< /* Class = "NSMenuItem"; title = "Hide Studio"; ObjectID = "XI1-JJ-wze"; */
+< /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "825"; */
+< /* Class = "NSMenuItem"; title = "Lock Guides"; ObjectID = "tGQ-lG-h68"; */
+< /* Class = "NSMenuItem"; title = "Manage Studio Presets…"; ObjectID = "2s9-iX-HXn"; */
+< /* Class = "NSMenuItem"; title = "Merge All Windows"; ObjectID = "ASJ-uF-DeH"; */
+< /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "811"; */
+< /* Class = "NSMenuItem"; title = "My Account…"; ObjectID = "Hnm-Oe-ITh"; */
+< /* Class = "NSMenuItem"; title = "New From Clipboard"; ObjectID = "QaL-Mw-jOl"; */
+< /* Class = "NSMenuItem"; title = "New View"; ObjectID = "1093"; */
+< /* Class = "NSMenuItem"; title = "New…"; ObjectID = "884"; */
+< /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "883"; */
+< /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "885"; */
+< /* Class = "NSMenuItem"; title = "Outline"; ObjectID = "tXe-bY-Mf7"; */
+< /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "oGj-HR-Y9N"; */
+< /* Class = "NSMenuItem"; title = "Persona"; ObjectID = "806"; */
+< /* Class = "NSMenuItem"; title = "Pixel Persona"; ObjectID = "42B-NB-XnH"; */
+< /* Class = "NSMenuItem"; title = "Pixel Size"; ObjectID = "Mjs-px-SRF"; */
+< /* Class = "NSMenuItem"; title = "Pixels (Retina)"; ObjectID = "adg-Px-pjr"; */
+< /* Class = "NSMenuItem"; title = "Pixels"; ObjectID = "1107"; */
+< /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "821"; */
+< /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "886"; */
+< /* Class = "NSMenuItem"; title = "Quit"; ObjectID = "823"; */
+< /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "5DQ-Qk-FbE"; */
+< /* Class = "NSMenuItem"; title = "Reset Rotation"; ObjectID = "M7v-T4-shW"; */
+< /* Class = "NSMenuItem"; title = "Reset Studio"; ObjectID = "jWT-Nz-PEE"; */
+< /* Class = "NSMenuItem"; title = "Rotate Left"; ObjectID = "9qm-Q6-bCD"; */
+< /* Class = "NSMenuItem"; title = "Rotate Right"; ObjectID = "Tp7-RN-ZI9"; */
+< /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "874"; */
+< /* Class = "NSMenuItem"; title = "Save"; ObjectID = "877"; */
+< /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1K4-tN-KJx"; */
+< /* Class = "NSMenuItem"; title = "Select Next"; ObjectID = "AGf-GO-cve"; */
+< /* Class = "NSMenuItem"; title = "Select Previous"; ObjectID = "bly-XI-7Kj"; */
+< /* Class = "NSMenuItem"; title = "Select"; ObjectID = "kPF-4I-QX0"; */
+< /* Class = "NSMenuItem"; title = "Services"; ObjectID = "818"; */
+< /* Class = "NSMenuItem"; title = "Share"; ObjectID = "KA9-dB-1ia"; */
+< /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "824"; */
+< /* Class = "NSMenuItem"; title = "Show Context Toolbar"; ObjectID = "KHV-wg-RvK"; */
+< /* Class = "NSMenuItem"; title = "Show Grid"; ObjectID = "1089"; */
+< /* Class = "NSMenuItem"; title = "Show Guides"; ObjectID = "1088"; */
+< /* Class = "NSMenuItem"; title = "Show Left Studio"; ObjectID = "6EZ-Th-cI0"; */
+< /* Class = "NSMenuItem"; title = "Show Margins"; ObjectID = "1087"; */
+< /* Class = "NSMenuItem"; title = "Show Right Studio"; ObjectID = "dZU-La-XBw"; */
+< /* Class = "NSMenuItem"; title = "Show Rulers"; ObjectID = "1457"; */
+< /* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "893"; */
+< /* Class = "NSMenuItem"; title = "Show Tools"; ObjectID = "DAI-mW-P2h"; */
+< /* Class = "NSMenuItem"; title = "Studio"; ObjectID = "n06-iW-mAw"; */
+< /* Class = "NSMenuItem"; title = "Support..."; ObjectID = "hpR-I1-W8L"; */
+< /* Class = "NSMenuItem"; title = "Toggle Full Screen"; ObjectID = "0cS-l8-xXi"; */
+< /* Class = "NSMenuItem"; title = "Toggle UI"; ObjectID = "7jx-II-o5w"; */
+< /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "G2e-37-ugE"; */
+< /* Class = "NSMenuItem"; title = "Vector"; ObjectID = "1366"; */
+< /* Class = "NSMenuItem"; title = "View Mode"; ObjectID = "1362"; */
+< /* Class = "NSMenuItem"; title = "View"; ObjectID = "803"; */
+< /* Class = "NSMenuItem"; title = "Views"; ObjectID = "1353"; */
+< /* Class = "NSMenuItem"; title = "Window"; ObjectID = "807"; */
+< /* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "1329"; */
+< /* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "1331"; */
+< /* Class = "NSMenuItem"; title = "Zoom to Fit"; ObjectID = "1075"; */
+< /* Class = "NSMenuItem"; title = "Zoom to Selection"; ObjectID = "bCA-SS-KLe"; */
+< /* Class = "NSMenuItem"; title = "Zoom to Width"; ObjectID = "c9a-gU-Wfj"; */
+< /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "812"; */
+< /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "sSw-Wy-rwD"; */
+> "0cS-l8-xXi.title" = "전체 화면 시작";
+> "1075.title" = "화면 크기에 맞추기";
+> "1087.title" = "여백선 보기";
+> "1088.title" = "안내선 보기";
+> "1089.title" = "격자선 보기";
+> "1093.title" = "신규 뷰";
+> "1099.title" = "내보내기…";
+> "1107.title" = "픽셀";
+> "1329.title" = "확대";
+> "1331.title" = "축소";
+> "1353.title" = "뷰";
+> "1357.title" = "뷰";
+> "1362.title" = "뷰 모드";
+> "1364.title" = "뷰 모드";
+> "1366.title" = "벡터";
+> "1457.title" = "눈금자 보기";
+> "1K4-tN-KJx.title" = "전체 선택";
+> "2s9-iX-HXn.title" = "작업실 미리 설정 관리…";
+> "3gf-mC-XkB.title" = "Affinity Designer 도움말";
+> "42B-NB-XnH.title" = "픽셀 페르소나";
+> "5DQ-Qk-FbE.title" = "다시 실행";
+> "6EZ-Th-cI0.title" = "왼쪽 작업실 보기";
+> "6ux-Xi-ld7.title" = "편집";
+> "76j-dB-Jrh.title" = "지우기";
+> "79k-PD-Qmh.title" = "복사";
+> "79s-Wv-z7r.title" = "실제 크기";
+> "7jx-II-o5w.title" = "UI 가리기";
+> "801.title" = "도움말";
+> "803.title" = "뷰";
+> "804.title" = "파일";
+> "806.title" = "페르소나";
+> "807.title" = "윈도우";
+> "808.title" = "윈도우";
+> "811.title" = "최소화";
+> "812.title" = "맞추기";
+> "813.title" = "모두 앞으로 가져오기";
+> "815.title" = "페르소나";
+> "816.title" = "기타 가리기";
+> "818.title" = "서비스";
+> "821.title" = "환경설정…";
+> "823.title" = "Affinity Designer 종료";
+> "824.title" = "모두 보기";
+> "825.title" = "가리기";
+> "826.title" = "Affinity Designer에 관하여…";
+> "827.title" = "서비스";
+> "873.title" = "파일";
+> "874.title" = "다른 이름으로 저장…";
+> "877.title" = "저장";
+> "881.title" = "닫기";
+> "883.title" = "최근 사용 열기";
+> "884.title" = "신규…";
+> "885.title" = "열기…";
+> "886.title" = "인쇄…";
+> "887.title" = "최근 사용 열기";
+> "888.title" = "메뉴 지우기";
+> "889.title" = "뷰";
+> "893.title" = "툴바 보기";
+> "950.title" = "도움말";
+> "9qm-Q6-bCD.title" = "왼쪽으로 회전";
+> "AGf-GO-cve.title" = "다음 항목 선택";
+> "ASJ-uF-DeH.title" = "모든 윈도우 통합";
+> "DAI-mW-P2h.title" = "도구 보기";
+> "Fqw-lW-baW.title" = "미리 설정 추가…";
+> "G2e-37-ugE.title" = "실행 취소";
+> "Hnm-Oe-ITh.title" = "내 계정…";
+> "KA9-dB-1ia.title" = "공유";
+> "KHV-wg-RvK.title" = "상황별 툴바 보기";
+> "M7v-T4-shW.title" = "회전 재설정";
+> "Mjs-px-SRF.title" = "픽셀 크기";
+> "NfI-1h-f99.title" = "편집";
+> "QaL-Mw-jOl.title" = "클립보드에서 신규";
+> "RbB-Vi-Nm1.title" = "선택 해제";
+> "Tp7-RN-ZI9.title" = "오른쪽으로 회전";
+> "XF0-oF-CqE.title" = "공유";
+> "XI1-JJ-wze.title" = "작업실 가리기";
+> "Y15-ob-9qE.title" = "업데이트 확인";
+> "aYY-2R-a0D.title" = "맞추기";
+> "adg-Px-pjr.title" = "픽셀 (레티나)";
+> "bCA-SS-KLe.title" = "선택 항목에 맞추기";
+> "bly-XI-7Kj.title" = "이전 항목 선택";
+> "c9a-gU-Wfj.title" = "화면 너비에 맞추기";
+> "dZU-La-XBw.title" = "오른쪽 작업실 보기";
+> "hpR-I1-W8L.title" = "지원...";
+> "iq9-LM-FYM.title" = "작업실";
+> "itj-mR-80i.title" = "선택";
+> "jWT-Nz-PEE.title" = "작업실 재설정";
+> "kPF-4I-QX0.title" = "선택";
+> "kfV-dk-BSh.title" = "캔버스에 클립";
+> "mYd-oY-6SX.title" = "오려두기";
+> "n06-iW-mAw.title" = "작업실";
+> "oGj-HR-Y9N.title" = "붙이기";
+> "sSw-Wy-rwD.title" = "맞추기";
+> "tGQ-lG-h68.title" = "안내선 잠금";
+> "tXe-bY-Mf7.title" = "외형";
+> "uP4-bW-FOM.title" = "도구 고정";
+> /* Class = "NSMenu"; title = "뷰 모드"; ObjectID = "1364"; */
+> /* Class = "NSMenu"; title = "뷰"; ObjectID = "1357"; */
+> /* Class = "NSMenu"; title = "뷰"; ObjectID = "889"; */
+> /* Class = "NSMenu"; title = "최근 사용 열기"; ObjectID = "887"; */
+> /* Class = "NSMenu"; title = "편집"; ObjectID = "6ux-Xi-ld7"; */
+> /* Class = "NSMenu"; title = "파일"; ObjectID = "873"; */
+> /* Class = "NSMenu"; title = "공유"; ObjectID = "XF0-oF-CqE"; */
+> /* Class = "NSMenu"; title = "선택"; ObjectID = "itj-mR-80i"; */
+> /* Class = "NSMenu"; title = "윈도우"; ObjectID = "808"; */
+> /* Class = "NSMenu"; title = "서비스"; ObjectID = "827"; */
+> /* Class = "NSMenu"; title = "도움말"; ObjectID = "950"; */
+> /* Class = "NSMenu"; title = "맞추기"; ObjectID = "aYY-2R-a0D"; */
+> /* Class = "NSMenu"; title = "작업실"; ObjectID = "iq9-LM-FYM"; */
+> /* Class = "NSMenu"; title = "페르소나"; ObjectID = "815"; */
+> /* Class = "NSMenuItem"; title = "Affinity Designer 종료"; ObjectID = "823"; */
+> /* Class = "NSMenuItem"; title = "Affinity Designer 도움말"; ObjectID = "3gf-mC-XkB"; */
+> /* Class = "NSMenuItem"; title = "Affinity Designer에 관하여…"; ObjectID = "826"; */
+> /* Class = "NSMenuItem"; title = "Apple 색상 선택기..."; ObjectID = "iME-Vs-Qnd"; */
+> /* Class = "NSMenuItem"; title = "UI 가리기"; ObjectID = "7jx-II-o5w"; */
+> /* Class = "NSMenuItem"; title = "뷰 모드"; ObjectID = "1362"; */
+> /* Class = "NSMenuItem"; title = "내 계정…"; ObjectID = "Hnm-Oe-ITh"; */
+> /* Class = "NSMenuItem"; title = "뷰"; ObjectID = "1353"; */
+> /* Class = "NSMenuItem"; title = "뷰"; ObjectID = "803"; */
+> /* Class = "NSMenuItem"; title = "픽셀 (레티나)"; ObjectID = "adg-Px-pjr"; */
+> /* Class = "NSMenuItem"; title = "신규 뷰"; ObjectID = "1093"; */
+> /* Class = "NSMenuItem"; title = "전체 화면 시작"; ObjectID = "0cS-l8-xXi"; */
+> /* Class = "NSMenuItem"; title = "최근 사용 열기"; ObjectID = "883"; */
+> /* Class = "NSMenuItem"; title = "다음 항목 선택"; ObjectID = "AGf-GO-cve"; */
+> /* Class = "NSMenuItem"; title = "이전 항목 선택"; ObjectID = "bly-XI-7Kj"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 추가…"; ObjectID = "Fqw-lW-baW"; */
+> /* Class = "NSMenuItem"; title = "전체 선택"; ObjectID = "1K4-tN-KJx"; */
+> /* Class = "NSMenuItem"; title = "다시 실행"; ObjectID = "5DQ-Qk-FbE"; */
+> /* Class = "NSMenuItem"; title = "실제 크기"; ObjectID = "79s-Wv-z7r"; */
+> /* Class = "NSMenuItem"; title = "모두 보기"; ObjectID = "824"; */
+> /* Class = "NSMenuItem"; title = "툴바 보기"; ObjectID = "893"; */
+> /* Class = "NSMenuItem"; title = "도구 보기"; ObjectID = "DAI-mW-P2h"; */
+> /* Class = "NSMenuItem"; title = "실행 취소"; ObjectID = "G2e-37-ugE"; */
+> /* Class = "NSMenuItem"; title = "픽셀 크기"; ObjectID = "Mjs-px-SRF"; */
+> /* Class = "NSMenuItem"; title = "선택 해제"; ObjectID = "RbB-Vi-Nm1"; */
+> /* Class = "NSMenuItem"; title = "도구 고정"; ObjectID = "uP4-bW-FOM"; */
+> /* Class = "NSMenuItem"; title = "왼쪽 작업실 보기"; ObjectID = "6EZ-Th-cI0"; */
+> /* Class = "NSMenuItem"; title = "모든 윈도우 통합"; ObjectID = "ASJ-uF-DeH"; */
+> /* Class = "NSMenuItem"; title = "화면 크기에 맞추기"; ObjectID = "1075"; */
+> /* Class = "NSMenuItem"; title = "선택 항목에 맞추기"; ObjectID = "bCA-SS-KLe"; */
+> /* Class = "NSMenuItem"; title = "화면 너비에 맞추기"; ObjectID = "c9a-gU-Wfj"; */
+> /* Class = "NSMenuItem"; title = "모두 앞으로 가져오기"; ObjectID = "813"; */
+> /* Class = "NSMenuItem"; title = "기타 가리기"; ObjectID = "816"; */
+> /* Class = "NSMenuItem"; title = "메뉴 지우기"; ObjectID = "888"; */
+> /* Class = "NSMenuItem"; title = "회전 재설정"; ObjectID = "M7v-T4-shW"; */
+> /* Class = "NSMenuItem"; title = "다른 이름으로 저장…"; ObjectID = "874"; */
+> /* Class = "NSMenuItem"; title = "픽셀 페르소나"; ObjectID = "42B-NB-XnH"; */
+> /* Class = "NSMenuItem"; title = "도구 사용자화…"; ObjectID = "890"; */
+> /* Class = "NSMenuItem"; title = "툴바 사용자화…"; ObjectID = "892"; */
+> /* Class = "NSMenuItem"; title = "픽셀"; ObjectID = "1107"; */
+> /* Class = "NSMenuItem"; title = "확대"; ObjectID = "1329"; */
+> /* Class = "NSMenuItem"; title = "축소"; ObjectID = "1331"; */
+> /* Class = "NSMenuItem"; title = "벡터"; ObjectID = "1366"; */
+> /* Class = "NSMenuItem"; title = "복사"; ObjectID = "79k-PD-Qmh"; */
+> /* Class = "NSMenuItem"; title = "파일"; ObjectID = "804"; */
+> /* Class = "NSMenuItem"; title = "저장"; ObjectID = "877"; */
+> /* Class = "NSMenuItem"; title = "닫기"; ObjectID = "881"; */
+> /* Class = "NSMenuItem"; title = "공유"; ObjectID = "KA9-dB-1ia"; */
+> /* Class = "NSMenuItem"; title = "편집"; ObjectID = "NfI-1h-f99"; */
+> /* Class = "NSMenuItem"; title = "선택"; ObjectID = "kPF-4I-QX0"; */
+> /* Class = "NSMenuItem"; title = "외형"; ObjectID = "tXe-bY-Mf7"; */
+> /* Class = "NSMenuItem"; title = "지원..."; ObjectID = "hpR-I1-W8L"; */
+> /* Class = "NSMenuItem"; title = "작업실 미리 설정 관리…"; ObjectID = "2s9-iX-HXn"; */
+> /* Class = "NSMenuItem"; title = "상황별 툴바 보기"; ObjectID = "KHV-wg-RvK"; */
+> /* Class = "NSMenuItem"; title = "여백선 보기"; ObjectID = "1087"; */
+> /* Class = "NSMenuItem"; title = "안내선 보기"; ObjectID = "1088"; */
+> /* Class = "NSMenuItem"; title = "격자선 보기"; ObjectID = "1089"; */
+> /* Class = "NSMenuItem"; title = "눈금자 보기"; ObjectID = "1457"; */
+> /* Class = "NSMenuItem"; title = "안내선 잠금"; ObjectID = "tGQ-lG-h68"; */
+> /* Class = "NSMenuItem"; title = "오른쪽 작업실 보기"; ObjectID = "dZU-La-XBw"; */
+> /* Class = "NSMenuItem"; title = "작업실 가리기"; ObjectID = "XI1-JJ-wze"; */
+> /* Class = "NSMenuItem"; title = "작업실 재설정"; ObjectID = "jWT-Nz-PEE"; */
+> /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "76j-dB-Jrh"; */
+> /* Class = "NSMenuItem"; title = "도움말"; ObjectID = "801"; */
+> /* Class = "NSMenuItem"; title = "윈도우"; ObjectID = "807"; */
+> /* Class = "NSMenuItem"; title = "최소화"; ObjectID = "811"; */
+> /* Class = "NSMenuItem"; title = "맞추기"; ObjectID = "812"; */
+> /* Class = "NSMenuItem"; title = "서비스"; ObjectID = "818"; */
+> /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "825"; */
+> /* Class = "NSMenuItem"; title = "신규…"; ObjectID = "884"; */
+> /* Class = "NSMenuItem"; title = "열기…"; ObjectID = "885"; */
+> /* Class = "NSMenuItem"; title = "인쇄…"; ObjectID = "886"; */
+> /* Class = "NSMenuItem"; title = "작업실"; ObjectID = "n06-iW-mAw"; */
+> /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "oGj-HR-Y9N"; */
+> /* Class = "NSMenuItem"; title = "맞추기"; ObjectID = "sSw-Wy-rwD"; */
+> /* Class = "NSMenuItem"; title = "왼쪽으로 회전"; ObjectID = "9qm-Q6-bCD"; */
+> /* Class = "NSMenuItem"; title = "업데이트 확인"; ObjectID = "Y15-ob-9qE"; */
+> /* Class = "NSMenuItem"; title = "캔버스에 클립"; ObjectID = "kfV-dk-BSh"; */
+> /* Class = "NSMenuItem"; title = "페르소나"; ObjectID = "806"; */
+> /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "mYd-oY-6SX"; */
+> /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "Tp7-RN-ZI9"; */
+> /* Class = "NSMenuItem"; title = "내보내기…"; ObjectID = "1099"; */
+> /* Class = "NSMenuItem"; title = "환경설정…"; ObjectID = "821"; */
+> /* Class = "NSMenuItem"; title = "클립보드에서 신규"; ObjectID = "QaL-Mw-jOl"; */

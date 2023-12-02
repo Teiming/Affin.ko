@@ -1,0 +1,30 @@
+---
+---
+---
+---
+---
+11,12c11,12
+17,18c17,18
+2,3c2,3
+23,24c23,24
+29,30c29,30
+< "20A-96-OJJ.title" = "Satellite";
+< "Cd2-PL-Zpp.ibShadowedToolTip" = "Show Compass";
+< "Rct-aI-W2x.ibShadowedToolTip" = "Show Map Scale";
+< "cM1-aL-kzR.title" = "Standard";
+< "wTJ-Ul-hc7.ibShadowedToolTip" = "Use Current Location";
+< /* Class = "NSButton"; ibShadowedToolTip = "Show Compass"; ObjectID = "Cd2-PL-Zpp"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Show Map Scale"; ObjectID = "Rct-aI-W2x"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Use Current Location"; ObjectID = "wTJ-Ul-hc7"; */
+< /* Class = "NSMenuItem"; title = "Satellite"; ObjectID = "20A-96-OJJ"; */
+< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "cM1-aL-kzR"; */
+> "20A-96-OJJ.title" = "위성";
+> "Cd2-PL-Zpp.ibShadowedToolTip" = "나침반 보기";
+> "Rct-aI-W2x.ibShadowedToolTip" = "지도 배율 보기";
+> "cM1-aL-kzR.title" = "표준";
+> "wTJ-Ul-hc7.ibShadowedToolTip" = "지금 위치 사용";
+> /* Class = "NSButton"; ibShadowedToolTip = "지도 배율 보기"; ObjectID = "Rct-aI-W2x"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "지금 위치 사용"; ObjectID = "wTJ-Ul-hc7"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "나침반 보기"; ObjectID = "Cd2-PL-Zpp"; */
+> /* Class = "NSMenuItem"; title = "위성"; ObjectID = "20A-96-OJJ"; */
+> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "cM1-aL-kzR"; */

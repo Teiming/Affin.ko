@@ -1,0 +1,25 @@
+3,9c3,4
+< ---
+< ---
+< 15c15
+< 3c3
+< 6c6
+< 9c9
+< < "76x-pM-y03.title" = "See:";
+---
+> 14,15c14,15
+> 5,6c5,6
+11d5
+< < "jUB-6V-MBq.title" = "Add cross-reference";
+13,16c7,12
+< > "76x-pM-y03.title" = "参照項目:";
+< > "F0z-JX-Cv5.title" = "ウィンドウ";
+< > "jUB-6V-MBq.title" = "相互参照を追加";
+< > "zeh-OH-A6b.title" = "キャンセル";
+---
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "zeh-OH-A6b"; */
+> < /* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+> > "F0z-JX-Cv5.title" = "윈도우";
+> > "zeh-OH-A6b.title" = "취소";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "zeh-OH-A6b"; */
+> > /* Class = "NSWindow"; title = "윈도우"; ObjectID = "F0z-JX-Cv5"; */

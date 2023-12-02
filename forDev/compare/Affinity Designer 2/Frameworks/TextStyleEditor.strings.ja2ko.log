@@ -1,0 +1,1272 @@
+72,536c72,142
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 102c102
+< 105c105
+< 108c108
+< 111c111
+< 114c114
+< 117c117
+< 120c120
+< 123c123
+< 126c126
+< 129c129
+< 12c12
+< 132c132
+< 135c135
+< 138c138
+< 141c141
+< 144c144
+< 147c147
+< 150c150
+< 153c153
+< 156c156
+< 159c159
+< 15c15
+< 162c162
+< 165c165
+< 168c168
+< 171c171
+< 174c174
+< 177c177
+< 180c180
+< 183c183
+< 186c186
+< 189c189
+< 18c18
+< 192c192
+< 195c195
+< 198c198
+< 201c201
+< 204c204
+< 207c207
+< 210c210
+< 213c213
+< 216c216
+< 219c219
+< 21c21
+< 222c222
+< 225c225
+< 228c228
+< 231c231
+< 234c234
+< 240c240
+< 243c243
+< 246c246
+< 249c249
+< 24c24
+< 252c252
+< 255c255
+< 258c258
+< 261c261
+< 264c264
+< 267c267
+< 270c270
+< 273c273
+< 276c276
+< 279c279
+< 27c27
+< 282c282
+< 285c285
+< 288c288
+< 291c291
+< 294c294
+< 297c297
+< 300c300
+< 303c303
+< 306c306
+< 309c309
+< 30c30
+< 312c312
+< 315c315
+< 318c318
+< 321c321
+< 324c324
+< 327c327
+< 330c330
+< 333c333
+< 336c336
+< 339c339
+< 33c33
+< 342c342
+< 345c345
+< 348c348
+< 351c351
+< 354c354
+< 357c357
+< 360c360
+< 363c363
+< 366c366
+< 36c36
+< 378c378
+< 381c381
+< 384c384
+< 387c387
+< 390c390
+< 393c393
+< 396c396
+< 39c39
+< 3c3
+< 402c402
+< 405c405
+< 408c408
+< 411c411
+< 414c414
+< 417c417
+< 420c420
+< 423c423
+< 426c426
+< 429c429
+< 42c42
+< 432c432
+< 435c435
+< 438c438
+< 441c441
+< 444c444
+< 447c447
+< 450c450
+< 453c453
+< 456c456
+< 459c459
+< 45c45
+< 462c462
+< 465c465
+< 468c468
+< 471c471
+< 474c474
+< 477c477
+< 480c480
+< 483c483
+< 486c486
+< 489c489
+< 492c492
+< 495c495
+< 498c498
+< 501c501
+< 504c504
+< 507c507
+< 510c510
+< 513c513
+< 516c516
+< 519c519
+< 51c51
+< 522c522
+< 525c525
+< 528c528
+< 531c531
+< 534c534
+< 537c537
+< 540c540
+< 543c543
+< 546c546
+< 54c54
+< 552c552
+< 555c555
+< 558c558
+< 561c561
+< 564c564
+< 567c567
+< 570c570
+< 573c573
+< 576c576
+< 579c579
+< 57c57
+< 582c582
+< 585c585
+< 588c588
+< 591c591
+< 594c594
+< 597c597
+< 600c600
+< 603c603
+< 606c606
+< 609c609
+< 60c60
+< 612c612
+< 615c615
+< 618c618
+< 621c621
+< 624c624
+< 627c627
+< 630c630
+< 633c633
+< 636c636
+< 639c639
+< 63c63
+< 642c642
+< 645c645
+< 648c648
+< 651c651
+< 654c654
+< 657c657
+< 660c660
+< 663c663
+< 666c666
+< 669c669
+< 66c66
+< 672c672
+< 675c675
+< 678c678
+< 681c681
+< 684c684
+< 687c687
+< 690c690
+< 693c693
+< 696c696
+< 699c699
+< 69c69
+< 6c6
+< 702c702
+< 705c705
+< 708c708
+< 711c711
+< 714c714
+< 720c720
+< 723c723
+< 726c726
+< 729c729
+< 72c72
+< 732c732
+< 735c735
+< 738c738
+< 741c741
+< 744c744
+< 747c747
+< 750c750
+< 753c753
+< 756c756
+< 759c759
+< 75c75
+< 762c762
+< 765c765
+< 768c768
+< 771c771
+< 774c774
+< 777c777
+< 780c780
+< 783c783
+< 786c786
+< 789c789
+< 78c78
+< 792c792
+< 795c795
+< 798c798
+< 801c801
+< 804c804
+< 807c807
+< 810c810
+< 813c813
+< 816c816
+< 819c819
+< 81c81
+< 822c822
+< 825c825
+< 828c828
+< 831c831
+< 84c84
+< 87c87
+< 90c90
+< 93c93
+< 96c96
+< 9c9
+---
+> 104,105c104,105
+> 110,111c110,111
+> 137,138c137,138
+> 143,144c143,144
+> 149,150c149,150
+> 161,162c161,162
+> 17,18c17,18
+> 173,174c173,174
+> 179,180c179,180
+> 185,186c185,186
+> 197,198c197,198
+> 2,3c2,3
+> 200,201c200,201
+> 206,207c206,207
+> 260,261c260,261
+> 266,267c266,267
+> 275,276c275,276
+> 278,279c278,279
+> 284,285c284,285
+> 296,297c296,297
+> 305,306c305,306
+> 308,309c308,309
+> 311,312c311,312
+> 314,315c314,315
+> 32,33c32,33
+> 338,339c338,339
+> 341,342c341,342
+> 356,357c356,357
+> 377,378c377,378
+> 38,39c38,39
+> 404,405c404,405
+> 41,42c41,42
+> 413,414c413,414
+> 44,45c44,45
+> 446,447c446,447
+> 449,450c449,450
+> 455,456c455,456
+> 458,459c458,459
+> 467,468c467,468
+> 497,498c497,498
+> 512,513c512,513
+> 515,516c515,516
+> 524,525c524,525
+> 533,534c533,534
+> 545,546c545,546
+> 557,558c557,558
+> 56,57c56,57
+> 560,561c560,561
+> 584,585c584,585
+> 599,600c599,600
+> 623c623
+> 635,636c635,636
+> 644,645c644,645
+> 65,66c65,66
+> 677,678c677,678
+> 707,708c707,708
+> 71,72c71,72
+> 710,711c710,711
+> 713,714c713,714
+> 728,729c728,729
+> 74,75c74,75
+> 749,750c749,750
+> 761,762c761,762
+> 773,774c773,774
+> 779,780c779,780
+> 791,792c791,792
+> 8,9c8,9
+> 800,801c800,801
+> 806,807c806,807
+> 821,822c821,822
+> 827,828c827,828
+538d143
+< < "0kt-W3-gTu.title" = "Next style:";
+540,541d144
+< < "1XK-kF-rUL.title" = "Style name:";
+< < "1k4-HQ-lEq.title" = "Typography Figures";
+543,546d145
+< < "2QS-FX-OtG.title" = "No change";
+< < "2SJ-Wk-3XB.title" = "End characters:";
+< < "2ZY-ph-O1m.title" = "Font traits:";
+< < "2dD-HT-pN9.title" = "Typography script:";
+548d146
+< < "3JP-bN-HSQ.title" = "Sum space before and after";
+552,553d149
+< < "4Uy-Oo-f5h.title" = "Paragraph Flow";
+< < "4v5-9g-bOb.title" = "Contextual alternates";
+555,556d150
+< < "5BK-Fw-eUC.title" = "Tab stop:";
+< < "5Ks-R6-FHR.title" = "Caps to small caps";
+558d151
+< < "5PU-Yu-eIK.title" = "Font family:";
+561,568d153
+< < "67c-fa-cyi.title" = "Outline:";
+< < "6GE-ld-ZOD.title" = "Relative to";
+< < "6bu-HZ-7l5.title" = "Next level:";
+< < "6zA-ab-s7E.title" = "Alternate fraction";
+< < "780-IX-eQE.title" = "Shear:";
+< < "7JS-ow-NbL.title" = "Final forms";
+< < "7R6-m4-nfz.title" = "Small caps";
+< < "7hd-o6-Jze.title" = "Contextual ligatures";
+570d154
+< < "7tI-H4-Uxm.title" = "Last line outdent";
+572,579d155
+< < "832-gj-Dzo.title" = "Desired:";
+< < "846-uk-IRg.title" = "Character Color & Decorations";
+< < "84a-LH-hQU.title" = "Annotation forms:";
+< < "8Oe-eq-EX6.ibShadowedToolTip" = "Frame Stroke";
+< < "96X-Fd-fCg.label" = "Item 6";
+< < "9Rf-23-SPk.title" = "Capitals:";
+< < "9kn-nC-eHk.title" = "Scientific Inferiors";
+< < "9nt-q5-l1d.title" = "lines";
+581d156
+< < "Apj-Ch-wwh.ibShadowedToolTip" = "Right indent";
+583d157
+< < "BG6-pB-KkJ.title" = "Letter spacing:";
+585,587d158
+< < "BJv-Qc-2Mg.headerCell.title" = "Characters";
+< < "BgP-My-VFq.title" = "Caps to petite caps";
+< < "Bgq-B7-YHC.title" = "Insets";
+589,591d159
+< < "BiG-5l-eri.ibShadowedToolTip" = "Text To Insert";
+< < "Bj5-c6-Ufy.title" = "Initial Words";
+< < "Blo-hv-TYs.title" = "Optical Alignment";
+593d160
+< < "CBk-Ju-gka.title" = "Tracking:";
+595d161
+< < "CDO-kW-gK8.title" = "Word spacing:";
+597,599d162
+< < "CV8-e5-YOi.title" = "Stylistic sets:";
+< < "CcA-YX-75N.label" = "Item 8";
+< < "CfD-sy-XgW.title" = "Hyphenation:";
+602d164
+< < "E3A-UQ-CQ9.title" = "Keyboard shortcut:";
+604,619d165
+< < "EfD-b4-KCZ.label" = "Item 12";
+< < "EtM-jH-IUa.title" = "Typography language:";
+< < "FCP-et-4kr.title" = "Spelling:";
+< < "FeH-8v-xio.title" = "Align to Baseline Grid";
+< < "GGZ-f3-4Yo.label" = "Item 9";
+< < "GOY-5f-6cj.title" = "Space before:";
+< < "GRA-V4-gSI.ibShadowedToolTip" = "Tab Stop Indent";
+< < "GqE-7c-550.ibShadowedToolTip" = "The number of letters to include";
+< < "GvU-It-3HP.ibShadowedToolTip" = "Renumber Across Stories";
+< < "GzS-ym-hD2.title" = "Lining";
+< < "H9e-0t-Jv3.title" = "Keep paragraph together";
+< < "HFb-Vy-7V7.title" = "Minimum score:";
+< < "HIq-Ek-8Uk.title" = "Medial forms";
+< < "HaS-G2-YuA.label" = "Basic Character";
+< < "HiS-he-LUM.title" = "Paragraph end zone:";
+< < "Hrg-pw-KKC.label" = "Item 10";
+621d166
+< < "Hwv-YK-t0v.title" = "No break";
+623,624d167
+< < "IlA-Gq-hrA.title" = "Indent";
+< < "IpX-1U-73j.title" = "Paragraph Tab Stops";
+627d169
+< < "JFu-hv-YLr.title" = "Denominator";
+629,631d170
+< < "JaO-RJ-IT0.label" = "Item 12";
+< < "K0x-nj-PbG.title" = "Drop Caps";
+< < "K4U-Ng-khB.title" = "Distance to text:";
+633,634d171
+< < "Kyg-a1-Z86.title" = "Historical ligatures";
+< < "LCm-eI-OoB.title" = "Ornaments:";
+639,645d175
+< < "N3j-Fr-T3c.title" = "Historical forms";
+< < "N9i-RJ-pSI.title" = "Space between same styles:";
+< < "O7N-TA-OvJ.title" = "No change";
+< < "ORi-c1-q5u.title" = "Kerning:";
+< < "Oaj-lk-xof.label" = "Item 12";
+< < "PNc-lt-aYU.title" = "Capital zone:";
+< < "PPb-OB-A1q.title" = "Table View Cell";
+648,651d177
+< < "Q1l-Or-oCq.label" = "Item 12";
+< < "Q4h-EC-5qo.label" = "Item 12";
+< < "Q5a-tD-w9Y.ibShadowedToolTip" = "Space After Paragraph";
+< < "Qkc-Fy-kL3.title" = "Start numbering at:";
+653,655d178
+< < "QvC-M9-y7g.title" = "Edit Text Style";
+< < "Qyt-F1-qxu.title" = "Keep with next:";
+< < "RCD-hp-iVe.title" = "Insets";
+657,663d179
+< < "TXO-0Y-9fF.title" = "Figure position:";
+< < "UX9-Xe-T5p.title" = "Default tab stops:";
+< < "Uzg-3l-32E.ibShadowedToolTip" = "Add New Tab Stop";
+< < "VOl-AI-Csm.title" = "All alternates:";
+< < "VTf-Dk-7jR.title" = "Character variants:";
+< < "VXv-ir-QdN.title" = "Underline:";
+< < "Vfa-vH-o3E.title" = "Minimum:";
+665,666d180
+< < "Vzm-7O-xHP.title" = "Max word count:";
+< < "W7b-DO-fwR.title" = "Decorations";
+668,677d181
+< < "Wk0-cy-l0f.title" = "Characters:";
+< < "XMU-tD-8Em.title" = "Restart numbering:";
+< < "XZe-ue-GMU.title" = "Vertical scale:";
+< < "XfE-sZ-xIN.title" = "Max consecutive hyphens:";
+< < "Y0L-M5-dSb.ibShadowedToolTip" = "List Level";
+< < "Y3f-Lq-CbV.label" = "Item 12";
+< < "Yba-RK-08Q.ibShadowedToolTip" = "List Type";
+< < "Ybr-o7-dwQ.ibShadowedToolTip" = "Left indent";
+< < "Yev-Iq-4jI.title" = "Table View Cell";
+< < "Yfh-ZW-wVl.title" = "No change";
+680d183
+< < "Z0L-UJ-L5r.title" = "Paragraph Justification";
+683,684d185
+< < "ZsN-lR-Kh3.title" = "All small caps";
+< < "Zyf-hC-2ig.title" = "Mathematical greek";
+686,694d186
+< < "a5e-Zx-yjm.title" = "Horizontal scale:";
+< < "aAr-yd-ARf.title" = "Left indent:";
+< < "aIF-ea-HnX.title" = "All petite caps";
+< < "aOT-J9-l2d.ibShadowedToolTip" = "Leading override";
+< < "aQ8-Ev-nNP.title" = "Name:";
+< < "acf-LR-BCV.title" = "Minimum suffix:";
+< < "apu-nh-0Io.title" = "Standard ligatures";
+< < "axF-Pd-FTP.title" = "Combine identical";
+< < "b5k-aj-pJP.title" = "Isolated forms";
+696,699d187
+< < "by0-Dq-ev6.title" = "Strikethrough:";
+< < "c8Z-c5-V85.ibShadowedToolTip" = "Character style to apply to the first words of the paragraph";
+< < "c8w-kc-mlq.title" = "Height in lines:";
+< < "cB5-yk-7m1.title" = "Tabular";
+702,703d189
+< < "cuO-ge-E42.ibShadowedToolTip" = "The number of lines of text the drop cap should span";
+< < "cwo-fb-b14.label" = "Item 12";
+705,706d190
+< < "dWs-5s-0kg.title" = "Baseline:";
+< < "dYf-c9-LyN.title" = "Minimum word length:";
+708,710d191
+< < "eVX-JW-uSk.label" = "Item 4";
+< < "eb2-p4-LEz.title" = "Unicase";
+< < "eeb-Oj-ztD.title" = "Character Font";
+712,713d192
+< < "eoJ-uG-JQ1.ibShadowedToolTip" = "Bottom indent";
+< < "euE-La-HbC.title" = "Super/subscript:";
+716,722d194
+< < "fWs-vG-9iE.title" = "Petite caps";
+< < "fdB-8x-3vn.title" = "All caps";
+< < "fiD-AZ-gNT.title" = "Right indent:";
+< < "ftL-fy-wcE.title" = "Minimum prefix:";
+< < "gOS-RD-VqZ.title" = "Stylistic alternates:";
+< < "gPc-Dl-jIv.title" = "Alternates:";
+< < "gvn-jS-Zh1.title" = "Use space before:";
+724,727d195
+< < "hPX-qD-YWb.title" = "Slashed zero";
+< < "i0F-dM-cxk.title" = "Discretionary ligatures";
+< < "i8W-i0-IiI.title" = "Figure width:";
+< < "iJQ-l7-IB5.title" = "Font width:";
+729,739d196
+< < "iu1-gm-XN3.title" = "Typography Variants";
+< < "jKz-RV-eSf.title" = "Scale for descenders";
+< < "jM2-tQ-kde.title" = "Contextual swash";
+< < "jMG-lI-I16.title" = "Swash:";
+< < "jcN-ZD-YUW.title" = "Ligatures:";
+< < "jf1-Kn-r8w.title" = "Character Language";
+< < "jnI-ka-6Ol.ibShadowedToolTip" = "Spacing between the drop cap and the adjacent text";
+< < "kdN-1z-VxY.label" = "Color";
+< < "kxH-OK-Dyb.title" = "Text fill:";
+< < "lVm-vE-QWo.title" = "Capital spacing";
+< < "mC6-ED-D7H.label" = "Item 5";
+741,742d197
+< < "mJD-uC-AOi.title" = "Restart numbering now";
+< < "mZB-oL-vlJ.title" = "Font size:";
+744,753d198
+< < "mli-7y-VdW.title" = "Initial forms";
+< < "mty-dS-hUJ.label" = "Item 7";
+< < "nDd-8i-8oI.title" = "Prevent orphaned first lines";
+< < "nKi-iW-D9n.title" = "Desired:";
+< < "nxY-62-8xh.ibShadowedToolTip" = "Top indent";
+< < "nxa-Mi-Nse.title" = "Reset formatting";
+< < "oDS-US-L1K.title" = "Font weight:";
+< < "oqz-MH-9eQ.title" = "Minimum:";
+< < "p2O-7l-KBg.title" = "Baseline Grid";
+< < "pGs-28-l85.ibShadowedToolTip" = "Tracking";
+755,763d199
+< < "q6Z-7o-sQE.title" = "Numerator";
+< < "qFz-Wd-Fer.title" = "Style settings:";
+< < "qYv-Xv-cTg.title" = "Keep with previous paragraph";
+< < "qlj-Dp-vbx.ibShadowedToolTip" = "Stop applying the initial word style at any of these characters";
+< < "qob-O9-YFP.label" = "Character Positioning";
+< < "qu5-We-dm6.title" = "Align left edge";
+< < "rDO-ya-ZES.title" = "Hyphenation zone:";
+< < "rVk-nK-Hfo.title" = "Leading override:";
+< < "rWS-I7-kGM.title" = "Randomize";
+767,769d202
+< < "sEQ-2k-YBQ.title" = "Case sensitive forms";
+< < "sPO-tb-faa.title" = "Titling";
+< < "sdF-kj-0Qy.title" = "Table View Cell";
+771,776d203
+< < "szi-6V-YAB.title" = "Column end zone:";
+< < "t08-5S-Xkr.headerCell.title" = "Position";
+< < "t0K-kf-43v.ibShadowedToolTip" = "Maximum number of words to apply the initial word style to";
+< < "t0x-cr-Jek.label" = "Item 7";
+< < "t1l-Gy-Mzp.title" = "Show in both panels";
+< < "t3o-aB-QQm.title" = "Prevent widowed last lines";
+778,780d204
+< < "tCS-hT-NAJ.title" = "Use auto-hyphenation";
+< < "tXk-9t-fYx.title" = "Typography Alternates";
+< < "tmb-Ca-bOv.title" = "Typography Capitals";
+782,784d205
+< < "u2n-z6-mcp.title" = "Figure style:";
+< < "uB0-J7-Kgy.title" = "Bullets and Numbering";
+< < "ugx-k7-YhN.title" = "Character Positioning and Transform";
+786d206
+< < "un4-Eh-hMN.title" = "Paragraph Spacing";
+788,790d207
+< < "vJd-Ue-NKu.title" = "Based on:";
+< < "vOV-uO-JhB.title" = "Leading:";
+< < "vgN-MT-5cM.title" = "Old Style";
+792,793d208
+< < "vpk-De-PRK.title" = "Hyphenation";
+< < "w0y-hv-u0H.title" = "Apply style to selection";
+795d209
+< < "wT6-Ev-nez.title" = "Word position forms:";
+797,800d210
+< < "wsM-E1-EFI.label" = "Item 11";
+< < "x2U-8W-lrg.title" = "Highlight:";
+< < "xN6-vp-Yr5.title" = "First line indent:";
+< < "xVX-AZ-vTy.title" = "Space after:";
+802d211
+< < "yiE-qn-23k.title" = "No change";
+804,1072c213,424
+< < "ze0-h2-XOZ.title" = "Fraction";
+< > "09F-CS-BBW.title" = "塗りつぶし:";
+< > "0kt-W3-gTu.title" = "次のスタイル:";
+< > "1Ph-dZ-YO2.title" = "下付き文字";
+< > "1XK-kF-rUL.title" = "スタイル名:";
+< > "1k4-HQ-lEq.title" = "数字のタイポグラフィ";
+< > "2Jn-NF-sma.title" = "一般";
+< > "2QS-FX-OtG.title" = "変更なし";
+< > "2SJ-Wk-3XB.title" = "終了文字:";
+< > "2ZY-ph-O1m.title" = "フォントの特性:";
+< > "2dD-HT-pN9.title" = "タイポグラフィスクリプト:";
+< > "32A-Fm-PuE.title" = "テキストセル";
+< > "3JP-bN-HSQ.title" = "前後のスペースの合計";
+< > "3Ju-iW-s4U.headerCell.title" = "左";
+< > "3Ok-tV-cVh.title" = "プロポーショナル";
+< > "3c8-qj-of4.title" = "グローバル";
+< > "4Uy-Oo-f5h.title" = "段落流量";
+< > "4v5-9g-bOb.title" = "コンテキスト代替";
+< > "4vs-Yo-D4o.ibShadowedToolTip" = "その他";
+< > "5BK-Fw-eUC.title" = "タブ位置:";
+< > "5Ks-R6-FHR.title" = "大文字をスモールキャップスにする";
+< > "5NO-fy-Uwk.headerCell.title" = "右";
+< > "5PU-Yu-eIK.title" = "フォントファミリ:";
+< > "5Vv-yC-ypt.title" = "グループ";
+< > "63u-Re-mqS.title" = "テキスト:";
+< > "67c-fa-cyi.title" = "アウトライン:";
+< > "6GE-ld-ZOD.title" = "基準";
+< > "6bu-HZ-7l5.title" = "次のレベル:";
+< > "6zA-ab-s7E.title" = "代替分数";
+< > "780-IX-eQE.title" = "シアー:";
+< > "7JS-ow-NbL.title" = "語尾形";
+< > "7R6-m4-nfz.title" = "スモールキャップス";
+< > "7hd-o6-Jze.title" = "コンテキスト合字";
+< > "7nj-yd-aKl.title" = "追加";
+< > "7tI-H4-Uxm.title" = "最終行アウトデント";
+< > "7xO-UT-ShS.title" = "デフォルト";
+< > "832-gj-Dzo.title" = "望ましい値:";
+< > "846-uk-IRg.title" = "文字色と装飾";
+< > "84a-LH-hQU.title" = "注釈用字形:";
+< > "8Oe-eq-EX6.ibShadowedToolTip" = "フレーム境界線";
+< > "96X-Fd-fCg.label" = "アイテム6";
+< > "9Rf-23-SPk.title" = "大文字:";
+< > "9kn-nC-eHk.title" = "科学用下付き文字";
+< > "9nt-q5-l1d.title" = "行数";
+< > "Afg-QO-KVb.title" = "テキストセル";
+< > "Apj-Ch-wwh.ibShadowedToolTip" = "右インデント";
+< > "B6u-92-hp9.title" = "タイプ:";
+< > "BG6-pB-KkJ.title" = "文字間隔:";
+< > "BI3-et-y9c.title" = "テキストセル";
+< > "BJv-Qc-2Mg.headerCell.title" = "文字";
+< > "BgP-My-VFq.title" = "大文字をプチキャップスにする";
+< > "Bgq-B7-YHC.title" = "余白";
+< > "Bh0-bu-g1n.title" = "レベル:";
+< > "BiG-5l-eri.ibShadowedToolTip" = "挿入するテキスト";
+< > "Bj5-c6-Ufy.title" = "頭文字語";
+< > "Blo-hv-TYs.title" = "視覚調整";
+< > "Bv1-Rk-nkh.title" = "自動";
+< > "CBk-Ju-gka.title" = "トラッキング:";
+< > "CCn-Py-n41.ibShadowedToolTip" = "オフセット";
+< > "CDO-kW-gK8.title" = "単語間隔:";
+< > "CQ8-YJ-km1.title" = "斜体";
+< > "CV8-e5-YOi.title" = "スタイルセット:";
+< > "CcA-YX-75N.label" = "アイテム8";
+< > "CfD-sy-XgW.title" = "ハイフネーション:";
+< > "DKT-KH-iGd.title" = "行揃え:";
+< > "Dou-b0-YHp.title" = "テキストセル";
+< > "E3A-UQ-CQ9.title" = "キーボードショートカット:";
+< > "EcB-Lu-qA5.title" = "適用";
+< > "EfD-b4-KCZ.label" = "アイテム12";
+< > "EtM-jH-IUa.title" = "タイポグラフィ言語:";
+< > "FCP-et-4kr.title" = "スペル設定:";
+< > "FeH-8v-xio.title" = "ベースライングリッドに揃える";
+< > "GGZ-f3-4Yo.label" = "アイテム9";
+< > "GOY-5f-6cj.title" = "前のスペース:";
+< > "GRA-V4-gSI.ibShadowedToolTip" = "タブ位置インデント";
+< > "GqE-7c-550.ibShadowedToolTip" = "含める文字数";
+< > "GvU-It-3HP.ibShadowedToolTip" = "ストーリー間で番号の付け直し";
+< > "GzS-ym-hD2.title" = "ライニング";
+< > "H9e-0t-Jv3.title" = "段落を分割しない";
+< > "HFb-Vy-7V7.title" = "最小スコア:";
+< > "HIq-Ek-8Uk.title" = "語中形";
+< > "HaS-G2-YuA.label" = "基本文字";
+< > "HiS-he-LUM.title" = "段落の末尾ゾーン:";
+< > "Hrg-pw-KKC.label" = "アイテム10";
+< > "Htq-96-hgV.title" = "テキストセル";
+< > "Hwv-YK-t0v.title" = "分割禁止";
+< > "Icr-iY-dvs.title" = "キャンセル";
+< > "IlA-Gq-hrA.title" = "インデント";
+< > "IpX-1U-73j.title" = "段落タブ位置";
+< > "Is2-0y-jod.title" = "テキストセル";
+< > "J0H-KF-9bc.title" = "テキストセル";
+< > "JFu-hv-YLr.title" = "分母";
+< > "JUR-Hp-z7D.ibShadowedToolTip" = "オフセット";
+< > "JaO-RJ-IT0.label" = "アイテム12";
+< > "K0x-nj-PbG.title" = "ドロップキャップ";
+< > "K4U-Ng-khB.title" = "テキストまでの距離:";
+< > "KPZ-An-Nk7.label" = "一般";
+< > "Kyg-a1-Z86.title" = "歴史的合字";
+< > "LCm-eI-OoB.title" = "飾り文字:";
+< > "LFB-TW-9Ej.title" = "左:";
+< > "Lyw-5g-p6w.ibShadowedToolTip" = "オフセット";
+< > "Mc5-JY-Nex.title" = "テキストセル";
+< > "Mi9-uD-jwc.title" = "透明度:";
+< > "N3j-Fr-T3c.title" = "歴史的字形";
+< > "N9i-RJ-pSI.title" = "同じスタイル間の間隔:";
+< > "O7N-TA-OvJ.title" = "変更なし";
+< > "ORi-c1-q5u.title" = "カーニング:";
+< > "Oaj-lk-xof.label" = "アイテム12";
+< > "PNc-lt-aYU.title" = "大文字ゾーン:";
+< > "PPb-OB-A1q.title" = "表ビューセル";
+< > "PYi-cX-Bkb.title" = "スタイル:";
+< > "Pd0-Yi-9kA.title" = "境界線:";
+< > "Q1l-Or-oCq.label" = "アイテム12";
+< > "Q4h-EC-5qo.label" = "アイテム12";
+< > "Q5a-tD-w9Y.ibShadowedToolTip" = "段落後のスペース";
+< > "Qkc-Fy-kL3.title" = "番号付けの開始番号:";
+< > "Qpt-Uq-uvz.ibShadowedToolTip" = "オフセット";
+< > "QvC-M9-y7g.title" = "テキストスタイルを編集";
+< > "Qyt-F1-qxu.title" = "改ページしない:";
+< > "RCD-hp-iVe.title" = "余白";
+< > "SuH-3E-wP4.title" = "右:";
+< > "TXO-0Y-9fF.title" = "数字の位置:";
+< > "UX9-Xe-T5p.title" = "デフォルトのタブ位置:";
+< > "Uzg-3l-32E.ibShadowedToolTip" = "新規タブ位置を追加";
+< > "VOl-AI-Csm.title" = "すべての代替文字:";
+< > "VTf-Dk-7jR.title" = "異体字:";
+< > "VXv-ir-QdN.title" = "下線:";
+< > "Vfa-vH-o3E.title" = "最小:";
+< > "VvC-fE-EbQ.ibShadowedToolTip" = "文字スタイル";
+< > "Vzm-7O-xHP.title" = "最大単語数:";
+< > "W7b-DO-fwR.title" = "装飾";
+< > "WXJ-Th-gmy.title" = "デフォルト";
+< > "Wk0-cy-l0f.title" = "文字:";
+< > "XMU-tD-8Em.title" = "番号の振り直し:";
+< > "XZe-ue-GMU.title" = "縦の倍率:";
+< > "XfE-sZ-xIN.title" = "連続するハイフンの最大数:";
+< > "Y0L-M5-dSb.ibShadowedToolTip" = "リストレベル";
+< > "Y3f-Lq-CbV.label" = "アイテム12";
+< > "Yba-RK-08Q.ibShadowedToolTip" = "リストタイプ";
+< > "Ybr-o7-dwQ.ibShadowedToolTip" = "左インデント";
+< > "Yev-Iq-4jI.title" = "表ビューセル";
+< > "Yfh-ZW-wVl.title" = "変更なし";
+< > "YtF-04-wbW.title" = "有効";
+< > "Ywz-2a-6QJ.title" = "テキストセル";
+< > "Z0L-UJ-L5r.title" = "段落のジャスティフィケーション";
+< > "ZGb-sN-4cv.title" = "文字";
+< > "ZHD-BU-VfA.ibShadowedToolTip" = "オフセット";
+< > "ZsN-lR-Kh3.title" = "オールスモールキャップス";
+< > "Zyf-hC-2ig.title" = "ギリシャ数字";
+< > "a1x-Jm-qLO.ibShadowedToolTip" = "ベースライン";
+< > "a5e-Zx-yjm.title" = "横の倍率:";
+< > "aAr-yd-ARf.title" = "左インデント:";
+< > "aIF-ea-HnX.title" = "オールプチキャップス";
+< > "aOT-J9-l2d.ibShadowedToolTip" = "行送りのオーバーライド";
+< > "aQ8-Ev-nNP.title" = "名前:";
+< > "acf-LR-BCV.title" = "最小サフィックス:";
+< > "apu-nh-0Io.title" = "標準合字";
+< > "axF-Pd-FTP.title" = "同一のものを結合";
+< > "b5k-aj-pJP.title" = "独立形";
+< > "bwp-lQ-5qr.title" = "有効";
+< > "by0-Dq-ev6.title" = "打ち消し線:";
+< > "c8Z-c5-V85.ibShadowedToolTip" = "段落の最初の単語に適用する文字スタイル";
+< > "c8w-kc-mlq.title" = "高さ(行数):";
+< > "cB5-yk-7m1.title" = "表形式";
+< > "cHB-jA-132.title" = "ボタン";
+< > "cbI-tf-LCC.title" = "スタイル:";
+< > "cuO-ge-E42.ibShadowedToolTip" = "ドロップキャップを適用するテキストの行数";
+< > "cwo-fb-b14.label" = "アイテム12";
+< > "dCN-za-gH1.title" = "下:";
+< > "dWs-5s-0kg.title" = "ベースライン:";
+< > "dYf-c9-LyN.title" = "単語の最小文字数:";
+< > "eR8-vD-S4i.title" = "テキストセル";
+< > "eVX-JW-uSk.label" = "アイテム4";
+< > "eb2-p4-LEz.title" = "大文字小文字の統一";
+< > "eeb-Oj-ztD.title" = "文字フォント";
+< > "eiv-OV-zEf.ibShadowedToolTip" = "オフセット";
+< > "eoJ-uG-JQ1.ibShadowedToolTip" = "下部インデント";
+< > "euE-La-HbC.title" = "上付き/下付き文字:";
+< > "f2g-z8-KbP.title" = "序数";
+< > "fAf-4V-Fbb.title" = "タイプ:";
+< > "fWs-vG-9iE.title" = "プチキャップス";
+< > "fdB-8x-3vn.title" = "オールキャップス";
+< > "fiD-AZ-gNT.title" = "右インデント:";
+< > "ftL-fy-wcE.title" = "最小プレフィックス:";
+< > "gOS-RD-VqZ.title" = "スタイル代替:";
+< > "gPc-Dl-jIv.title" = "代替文字:";
+< > "gvn-jS-Zh1.title" = "前にスペースを使用:";
+< > "hAK-UX-SHZ.title" = "テキストセル";
+< > "hPX-qD-YWb.title" = "スラッシュ付きゼロ";
+< > "i0F-dM-cxk.title" = "随意合字";
+< > "i8W-i0-IiI.title" = "数字の幅:";
+< > "iJQ-l7-IB5.title" = "フォントの幅:";
+< > "ieE-eA-yTV.title" = "最大:";
+< > "iu1-gm-XN3.title" = "異体字のタイポグラフィ";
+< > "jKz-RV-eSf.title" = "ディセンダーに応じてスケール";
+< > "jM2-tQ-kde.title" = "コンテキストスワッシュ字形";
+< > "jMG-lI-I16.title" = "スワッシュ:";
+< > "jcN-ZD-YUW.title" = "合字:";
+< > "jf1-Kn-r8w.title" = "文字言語";
+< > "jnI-ka-6Ol.ibShadowedToolTip" = "ドロップキャップと隣接するテキストの間隔";
+< > "kdN-1z-VxY.label" = "カラー";
+< > "kxH-OK-Dyb.title" = "テキストの塗りつぶし:";
+< > "lVm-vE-QWo.title" = "大文字間隔";
+< > "mC6-ED-D7H.label" = "項目 5";
+< > "mEq-hE-g3I.title" = "最大:";
+< > "mJD-uC-AOi.title" = "この位置から番号を振り直す";
+< > "mZB-oL-vlJ.title" = "フォントサイズ:";
+< > "mke-Db-nAF.title" = "有効";
+< > "mli-7y-VdW.title" = "語頭形";
+< > "mty-dS-hUJ.label" = "アイテム7";
+< > "nDd-8i-8oI.title" = "先頭行の後に改ページをしない";
+< > "nKi-iW-D9n.title" = "望ましい値:";
+< > "nxY-62-8xh.ibShadowedToolTip" = "上部インデント";
+< > "nxa-Mi-Nse.title" = "フォーマットをリセット";
+< > "oDS-US-L1K.title" = "フォントの太さ:";
+< > "oqz-MH-9eQ.title" = "最小:";
+< > "p2O-7l-KBg.title" = "ベースライングリッド";
+< > "pGs-28-l85.ibShadowedToolTip" = "トラッキング";
+< > "pix-cn-oPQ.ibShadowedToolTip" = "オフセット";
+< > "q6Z-7o-sQE.title" = "分子";
+< > "qFz-Wd-Fer.title" = "スタイル設定:";
+< > "qYv-Xv-cTg.title" = "前の段落と分離しない";
+< > "qlj-Dp-vbx.ibShadowedToolTip" = "これらの文字のいずれにも頭文字語スタイルの適用を停止";
+< > "qob-O9-YFP.label" = "文字の位置";
+< > "qu5-We-dm6.title" = "左端を揃える";
+< > "rDO-ya-ZES.title" = "ハイフネーションゾーン:";
+< > "rVk-nK-Hfo.title" = "行送りのオーバーライド:";
+< > "rWS-I7-kGM.title" = "ランダム化";
+< > "rZb-Ns-0Rx.title" = "開始位置:";
+< > "rnE-hf-AhL.title" = "タイプ:";
+< > "s2O-OK-dgi.ibShadowedToolTip" = "オフセット";
+< > "sEQ-2k-YBQ.title" = "大文字小文字を区別する字形";
+< > "sPO-tb-faa.title" = "タイトル用字形";
+< > "sdF-kj-0Qy.title" = "表ビューセル";
+< > "sdx-RT-8AQ.ibShadowedToolTip" = "オフセット";
+< > "szi-6V-YAB.title" = "段の末尾ゾーン:";
+< > "t08-5S-Xkr.headerCell.title" = "位置";
+< > "t0K-kf-43v.ibShadowedToolTip" = "頭文字語スタイルを適用する最大単語数";
+< > "t0x-cr-Jek.label" = "アイテム7";
+< > "t1l-Gy-Mzp.title" = "両方のパネルに表示";
+< > "t3o-aB-QQm.title" = "最終行の前に改ページをしない";
+< > "tBp-6Q-cYL.title" = "テキストセル";
+< > "tCS-hT-NAJ.title" = "自動ハイフネーションを使用";
+< > "tXk-9t-fYx.title" = "代替文字のタイポグラフィ";
+< > "tmb-Ca-bOv.title" = "大文字のタイポグラフィ";
+< > "tzM-jU-WZd.title" = "デフォルト";
+< > "u2n-z6-mcp.title" = "数字のスタイル:";
+< > "uB0-J7-Kgy.title" = "箇条書きと自動番号";
+< > "ugx-k7-YhN.title" = "文字の位置と変形";
+< > "umI-j5-JtY.title" = "行揃え:";
+< > "un4-Eh-hMN.title" = "段落の間隔";
+< > "uuA-Mj-yCV.title" = "上:";
+< > "vJd-Ue-NKu.title" = "基本にするスタイル:";
+< > "vOV-uO-JhB.title" = "行送り:";
+< > "vgN-MT-5cM.title" = "オールドスタイル";
+< > "vl2-Gc-4LQ.title" = "段落";
+< > "vpk-De-PRK.title" = "ハイフネーション";
+< > "w0y-hv-u0H.title" = "スタイルを選択範囲に適用";
+< > "w1K-0I-5S4.title" = "上付き文字";
+< > "wT6-Ev-nez.title" = "単語位置字形:";
+< > "wZT-uZ-lHS.ibShadowedToolTip" = "オフセット";
+< > "wsM-E1-EFI.label" = "アイテム11";
+< > "x2U-8W-lrg.title" = "ハイライト:";
+< > "xN6-vp-Yr5.title" = "先頭行インデント:";
+< > "xVX-AZ-vTy.title" = "後のスペース:";
+< > "xg6-2O-2ek.title" = "スタイル:";
+< > "yiE-qn-23k.title" = "変更なし";
+< > "zGs-9x-ciA.title" = "標準";
+< > "ze0-h2-XOZ.title" = "分数";
+---
+> < /* Class = "NSButton"; ibShadowedToolTip = "More"; ObjectID = "4vs-Yo-D4o"; */
+> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "7nj-yd-aKl"; */
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "EcB-Lu-qA5"; */
+> < /* Class = "NSButtonCell"; title = "Auto"; ObjectID = "Bv1-Rk-nkh"; */
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "cHB-jA-132"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Icr-iY-dvs"; */
+> < /* Class = "NSButtonCell"; title = "Character"; ObjectID = "ZGb-sN-4cv"; */
+> < /* Class = "NSButtonCell"; title = "Default"; ObjectID = "7xO-UT-ShS"; */
+> < /* Class = "NSButtonCell"; title = "Default"; ObjectID = "WXJ-Th-gmy"; */
+> < /* Class = "NSButtonCell"; title = "Default"; ObjectID = "tzM-jU-WZd"; */
+> < /* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "YtF-04-wbW"; */
+> < /* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "bwp-lQ-5qr"; */
+> < /* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "mke-Db-nAF"; */
+> < /* Class = "NSButtonCell"; title = "Global"; ObjectID = "3c8-qj-of4"; */
+> < /* Class = "NSButtonCell"; title = "Group"; ObjectID = "5Vv-yC-ypt"; */
+> < /* Class = "NSButtonCell"; title = "Italic"; ObjectID = "CQ8-YJ-km1"; */
+> < /* Class = "NSButtonCell"; title = "Normal"; ObjectID = "zGs-9x-ciA"; */
+> < /* Class = "NSButtonCell"; title = "Ordinal"; ObjectID = "f2g-z8-KbP"; */
+> < /* Class = "NSButtonCell"; title = "Paragraph"; ObjectID = "vl2-Gc-4LQ"; */
+> < /* Class = "NSButtonCell"; title = "Proportional"; ObjectID = "3Ok-tV-cVh"; */
+> < /* Class = "NSButtonCell"; title = "Subscript"; ObjectID = "1Ph-dZ-YO2"; */
+> < /* Class = "NSButtonCell"; title = "Superscript"; ObjectID = "w1K-0I-5S4"; */
+> < /* Class = "NSStepper"; ibShadowedToolTip = "Baseline"; ObjectID = "a1x-Jm-qLO"; */
+> < /* Class = "NSTabViewItem"; label = "Colour"; ObjectID = "kdN-1z-VxY"; */
+> < /* Class = "NSTabViewItem"; label = "General"; ObjectID = "KPZ-An-Nk7"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Left"; ObjectID = "3Ju-iW-s4U"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Right"; ObjectID = "5NO-fy-Uwk"; */
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Character Style"; ObjectID = "VvC-fE-EbQ"; */
+> < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "DKT-KH-iGd"; */
+> < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "umI-j5-JtY"; */
+> < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "dCN-za-gH1"; */
+> < /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "09F-CS-BBW"; */
+> < /* Class = "NSTextFieldCell"; title = "General"; ObjectID = "2Jn-NF-sma"; */
+> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "LFB-TW-9Ej"; */
+> < /* Class = "NSTextFieldCell"; title = "Level:"; ObjectID = "Bh0-bu-g1n"; */
+> < /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "ieE-eA-yTV"; */
+> < /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "mEq-hE-g3I"; */
+> < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "SuH-3E-wP4"; */
+> < /* Class = "NSTextFieldCell"; title = "Start:"; ObjectID = "rZb-Ns-0Rx"; */
+> < /* Class = "NSTextFieldCell"; title = "Stroke:"; ObjectID = "Pd0-Yi-9kA"; */
+> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "PYi-cX-Bkb"; */
+> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "cbI-tf-LCC"; */
+> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "xg6-2O-2ek"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "32A-Fm-PuE"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Afg-QO-KVb"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BI3-et-y9c"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dou-b0-YHp"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Htq-96-hgV"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Is2-0y-jod"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "J0H-KF-9bc"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Mc5-JY-Nex"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ywz-2a-6QJ"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eR8-vD-S4i"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hAK-UX-SHZ"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tBp-6Q-cYL"; */
+> < /* Class = "NSTextFieldCell"; title = "Text:"; ObjectID = "63u-Re-mqS"; */
+> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "uuA-Mj-yCV"; */
+> < /* Class = "NSTextFieldCell"; title = "Transparency:"; ObjectID = "Mi9-uD-jwc"; */
+> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "B6u-92-hp9"; */
+> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "fAf-4V-Fbb"; */
+> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "rnE-hf-AhL"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "CCn-Py-n41"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "JUR-Hp-z7D"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "Lyw-5g-p6w"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "Qpt-Uq-uvz"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "ZHD-BU-VfA"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "eiv-OV-zEf"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "pix-cn-oPQ"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "s2O-OK-dgi"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "sdx-RT-8AQ"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "wZT-uZ-lHS"; */
+> > "09F-CS-BBW.title" = "칠:";
+> > "1Ph-dZ-YO2.title" = "아랫첨자";
+> > "2Jn-NF-sma.title" = "일반";
+> > "32A-Fm-PuE.title" = "텍스트 셀";
+> > "3Ju-iW-s4U.headerCell.title" = "왼쪽";
+> > "3Ok-tV-cVh.title" = "비례수(량)";
+> > "3c8-qj-of4.title" = "전역";
+> > "4vs-Yo-D4o.ibShadowedToolTip" = "더 보기";
+> > "5NO-fy-Uwk.headerCell.title" = "오른쪽";
+> > "5Vv-yC-ypt.title" = "그룹";
+> > "63u-Re-mqS.title" = "텍스트:";
+> > "7nj-yd-aKl.title" = "추가";
+> > "7xO-UT-ShS.title" = "기본값";
+> > "Afg-QO-KVb.title" = "텍스트 셀";
+> > "B6u-92-hp9.title" = "종류:";
+> > "BI3-et-y9c.title" = "텍스트 셀";
+> > "Bh0-bu-g1n.title" = "레벨:";
+> > "Bv1-Rk-nkh.title" = "자동";
+> > "CCn-Py-n41.ibShadowedToolTip" = "편차";
+> > "CQ8-YJ-km1.title" = "기울임";
+> > "DKT-KH-iGd.title" = "정렬:";
+> > "Dou-b0-YHp.title" = "텍스트 셀";
+> > "EcB-Lu-qA5.title" = "적용";
+> > "Htq-96-hgV.title" = "텍스트 셀";
+> > "Icr-iY-dvs.title" = "취소";
+> > "Is2-0y-jod.title" = "텍스트 셀";
+> > "J0H-KF-9bc.title" = "텍스트 셀";
+> > "JUR-Hp-z7D.ibShadowedToolTip" = "편차";
+> > "KPZ-An-Nk7.label" = "일반";
+> > "LFB-TW-9Ej.title" = "왼쪽:";
+> > "Lyw-5g-p6w.ibShadowedToolTip" = "편차";
+> > "Mc5-JY-Nex.title" = "텍스트 셀";
+> > "Mi9-uD-jwc.title" = "투명도:";
+> > "PYi-cX-Bkb.title" = "스타일:";
+> > "Pd0-Yi-9kA.title" = "선:";
+> > "Qpt-Uq-uvz.ibShadowedToolTip" = "편차";
+> > "SuH-3E-wP4.title" = "오른쪽:";
+> > "VvC-fE-EbQ.ibShadowedToolTip" = "문자 스타일";
+> > "WXJ-Th-gmy.title" = "기본값";
+> > "YtF-04-wbW.title" = "유효한";
+> > "Ywz-2a-6QJ.title" = "텍스트 셀";
+> > "ZGb-sN-4cv.title" = "문자";
+> > "ZHD-BU-VfA.ibShadowedToolTip" = "편차";
+> > "a1x-Jm-qLO.ibShadowedToolTip" = "기준선";
+> > "bwp-lQ-5qr.title" = "유효한";
+> > "cHB-jA-132.title" = "버튼";
+> > "cbI-tf-LCC.title" = "스타일:";
+> > "dCN-za-gH1.title" = "아래쪽";
+> > "eR8-vD-S4i.title" = "텍스트 셀";
+> > "eiv-OV-zEf.ibShadowedToolTip" = "편차";
+> > "f2g-z8-KbP.title" = "서수";
+> > "fAf-4V-Fbb.title" = "종류:";
+> > "hAK-UX-SHZ.title" = "텍스트 셀";
+> > "ieE-eA-yTV.title" = "최대:";
+> > "mEq-hE-g3I.title" = "최대:";
+> > "mke-Db-nAF.title" = "유효한";
+> > "pix-cn-oPQ.ibShadowedToolTip" = "편차";
+> > "rZb-Ns-0Rx.title" = "시작:";
+> > "rnE-hf-AhL.title" = "종류:";
+> > "s2O-OK-dgi.ibShadowedToolTip" = "편차";
+> > "sdx-RT-8AQ.ibShadowedToolTip" = "편차";
+> > "tBp-6Q-cYL.title" = "텍스트 셀";
+> > "tzM-jU-WZd.title" = "기본값";
+> > "umI-j5-JtY.title" = "정렬:";
+> > "uuA-Mj-yCV.title" = "위쪽:";
+> > "vl2-Gc-4LQ.title" = "문단";
+> > "w1K-0I-5S4.title" = "윗첨자";
+> > "wZT-uZ-lHS.ibShadowedToolTip" = "편차";
+> > "xg6-2O-2ek.title" = "스타일:";
+> > "zGs-9x-ciA.title" = "정규";
+> > /* Class = "NSButton"; ibShadowedToolTip = "더 보기"; ObjectID = "4vs-Yo-D4o"; */
+> > /* Class = "NSButtonCell"; title = "전역"; ObjectID = "3c8-qj-of4"; */
+> > /* Class = "NSButtonCell"; title = "그룹"; ObjectID = "5Vv-yC-ypt"; */
+> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "7nj-yd-aKl"; */
+> > /* Class = "NSButtonCell"; title = "자동"; ObjectID = "Bv1-Rk-nkh"; */
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "EcB-Lu-qA5"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "Icr-iY-dvs"; */
+> > /* Class = "NSButtonCell"; title = "문자"; ObjectID = "ZGb-sN-4cv"; */
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "cHB-jA-132"; */
+> > /* Class = "NSButtonCell"; title = "서수"; ObjectID = "f2g-z8-KbP"; */
+> > /* Class = "NSButtonCell"; title = "문단"; ObjectID = "vl2-Gc-4LQ"; */
+> > /* Class = "NSButtonCell"; title = "정규"; ObjectID = "zGs-9x-ciA"; */
+> > /* Class = "NSButtonCell"; title = "기본값"; ObjectID = "7xO-UT-ShS"; */
+> > /* Class = "NSButtonCell"; title = "기울임"; ObjectID = "CQ8-YJ-km1"; */
+> > /* Class = "NSButtonCell"; title = "기본값"; ObjectID = "WXJ-Th-gmy"; */
+> > /* Class = "NSButtonCell"; title = "유효한"; ObjectID = "YtF-04-wbW"; */
+> > /* Class = "NSButtonCell"; title = "유효한"; ObjectID = "bwp-lQ-5qr"; */
+> > /* Class = "NSButtonCell"; title = "유효한"; ObjectID = "mke-Db-nAF"; */
+> > /* Class = "NSButtonCell"; title = "기본값"; ObjectID = "tzM-jU-WZd"; */
+> > /* Class = "NSButtonCell"; title = "윗첨자"; ObjectID = "w1K-0I-5S4"; */
+> > /* Class = "NSButtonCell"; title = "비례수(량)"; ObjectID = "3Ok-tV-cVh"; */
+> > /* Class = "NSButtonCell"; title = "아랫첨자"; ObjectID = "1Ph-dZ-YO2"; */
+> > /* Class = "NSStepper"; ibShadowedToolTip = "기준선"; ObjectID = "a1x-Jm-qLO"; */
+> > /* Class = "NSTabViewItem"; label = "일반"; ObjectID = "KPZ-An-Nk7"; */
+> > /* Class = "NSTabViewItem"; label = "색상"; ObjectID = "kdN-1z-VxY"; */
+> > /* Class = "NSTableColumn"; headerCell.title = "왼쪽"; ObjectID = "3Ju-iW-s4U"; */
+> > /* Class = "NSTableColumn"; headerCell.title = "오른쪽"; ObjectID = "5NO-fy-Uwk"; */
+> > /* Class = "NSTextField"; ibShadowedToolTip = "문자 스타일"; ObjectID = "VvC-fE-EbQ"; */
+> > /* Class = "NSTextFieldCell"; title = "칠:"; ObjectID = "09F-CS-BBW"; */
+> > /* Class = "NSTextFieldCell"; title = "선:"; ObjectID = "Pd0-Yi-9kA"; */
+> > /* Class = "NSTextFieldCell"; title = "일반"; ObjectID = "2Jn-NF-sma"; */
+> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "B6u-92-hp9"; */
+> > /* Class = "NSTextFieldCell"; title = "레벨:"; ObjectID = "Bh0-bu-g1n"; */
+> > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "DKT-KH-iGd"; */
+> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "LFB-TW-9Ej"; */
+> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "fAf-4V-Fbb"; */
+> > /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "ieE-eA-yTV"; */
+> > /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "mEq-hE-g3I"; */
+> > /* Class = "NSTextFieldCell"; title = "시작:"; ObjectID = "rZb-Ns-0Rx"; */
+> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "rnE-hf-AhL"; */
+> > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "umI-j5-JtY"; */
+> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "uuA-Mj-yCV"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "32A-Fm-PuE"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Afg-QO-KVb"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "BI3-et-y9c"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Dou-b0-YHp"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Htq-96-hgV"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Is2-0y-jod"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "J0H-KF-9bc"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Mc5-JY-Nex"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Ywz-2a-6QJ"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "eR8-vD-S4i"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "hAK-UX-SHZ"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "tBp-6Q-cYL"; */
+> > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "dCN-za-gH1"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트:"; ObjectID = "63u-Re-mqS"; */
+> > /* Class = "NSTextFieldCell"; title = "투명도:"; ObjectID = "Mi9-uD-jwc"; */
+> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "PYi-cX-Bkb"; */
+> > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "SuH-3E-wP4"; */
+> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "cbI-tf-LCC"; */
+> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "xg6-2O-2ek"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "CCn-Py-n41"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "JUR-Hp-z7D"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "Lyw-5g-p6w"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "Qpt-Uq-uvz"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "ZHD-BU-VfA"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "eiv-OV-zEf"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "pix-cn-oPQ"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "s2O-OK-dgi"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "sdx-RT-8AQ"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "wZT-uZ-lHS"; */

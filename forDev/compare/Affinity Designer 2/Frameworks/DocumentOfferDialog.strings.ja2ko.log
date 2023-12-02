@@ -1,0 +1,44 @@
+3,24c3,4
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 3c3
+< 6c6
+< 9c9
+< < "0NS-sf-wHL.title" = "Send with history";
+< < "D1m-Q4-ZR1.title" = "Close after sending";
+< < "DVj-Vn-j3h.title" = "List all apps";
+< < "Gn8-d4-7EZ.title" = "Send a copy of this document to:";
+< < "MrK-s5-CMI.title" = "Table View Cell";
+< < "QvC-M9-y7g.title" = "Send Document";
+---
+> 20,21c20,21
+> 23,24c23,24
+27,36c7,12
+< < "zv2-h3-8YW.title" = "Send";
+< > "0NS-sf-wHL.title" = "履歴付きで送信";
+< > "D1m-Q4-ZR1.title" = "送信後に閉じる";
+< > "DVj-Vn-j3h.title" = "すべてのアプリをリスト";
+< > "Gn8-d4-7EZ.title" = "このドキュメントのコピーの送信先:";
+< > "MrK-s5-CMI.title" = "表ビューセル";
+< > "QvC-M9-y7g.title" = "ドキュメントを送信";
+< > "SCf-wZ-vaU.title" = "テキストセル";
+< > "kD8-bc-YVG.title" = "キャンセル";
+< > "zv2-h3-8YW.title" = "送信";
+---
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "kD8-bc-YVG"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SCf-wZ-vaU"; */
+> > "SCf-wZ-vaU.title" = "텍스트 셀";
+> > "kD8-bc-YVG.title" = "취소";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "kD8-bc-YVG"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "SCf-wZ-vaU"; */

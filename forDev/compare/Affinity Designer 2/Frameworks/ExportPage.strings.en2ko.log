@@ -1,0 +1,18 @@
+---
+---
+---
+11,12c11,12
+5,6c5,6
+8,9c8,9
+< "7D0-58-l1D.title" = "Mode:";
+< "8LF-dh-Fag.title" = "Rename Preset...";
+< "QS5-Bs-bdP.title" = "Delete Preset";
+< /* Class = "NSMenuItem"; title = "Delete Preset"; ObjectID = "QS5-Bs-bdP"; */
+< /* Class = "NSMenuItem"; title = "Rename Preset..."; ObjectID = "8LF-dh-Fag"; */
+< /* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "7D0-58-l1D"; */
+> "7D0-58-l1D.title" = "모드:";
+> "8LF-dh-Fag.title" = "미리 설정 이름 변경...";
+> "QS5-Bs-bdP.title" = "미리 설정 지우기";
+> /* Class = "NSMenuItem"; title = "미리 설정 이름 변경..."; ObjectID = "8LF-dh-Fag"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "QS5-Bs-bdP"; */
+> /* Class = "NSTextFieldCell"; title = "모드:"; ObjectID = "7D0-58-l1D"; */

@@ -1,0 +1,29 @@
+3,11c3,4
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 3c3
+< 6c6
+< 9c9
+< < "HRq-9o-C7A.title" = "Connection failed";
+---
+> 14,15c14,15
+> 5,6c5,6
+13,14d5
+< < "OVz-Fg-wUp.title" = "Powered by Provider";
+< < "cqn-Ov-yqI.title" = "Model Released";
+16,20c7,12
+< > "HRq-9o-C7A.title" = "接続に失敗しました";
+< > "OIb-vE-lf9.title" = "商用";
+< > "OVz-Fg-wUp.title" = "提供者の協力によって実現";
+< > "cqn-Ov-yqI.title" = "リリース済みモデル";
+< > "fjG-Me-UuM.title" = "ベクター";
+---
+> < /* Class = "NSButtonCell"; title = "Commercial"; ObjectID = "OIb-vE-lf9"; */
+> < /* Class = "NSButtonCell"; title = "Vector"; ObjectID = "fjG-Me-UuM"; */
+> > "OIb-vE-lf9.title" = "상업용";
+> > "fjG-Me-UuM.title" = "벡터";
+> > /* Class = "NSButtonCell"; title = "벡터"; ObjectID = "fjG-Me-UuM"; */
+> > /* Class = "NSButtonCell"; title = "상업용"; ObjectID = "OIb-vE-lf9"; */

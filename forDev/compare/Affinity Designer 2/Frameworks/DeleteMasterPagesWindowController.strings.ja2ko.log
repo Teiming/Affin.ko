@@ -1,0 +1,26 @@
+2,13c2
+< ---
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 3c3
+< 9c9
+< < "FQv-0w-VKW.title" = "Number of pages:";
+< < "QvC-M9-y7g.title" = "Delete Master Pages";
+< < "Uui-yx-fwy.title" = "From Master Page:";
+---
+> 14,15c14,15
+15,20c4,6
+< < "pLx-26-Egv.title" = "Delete Master Pages";
+< > "FQv-0w-VKW.title" = "ページ数:";
+< > "QvC-M9-y7g.title" = "マスターページを削除";
+< > "Uui-yx-fwy.title" = "マスターページから:";
+< > "fIV-u8-dQJ.title" = "キャンセル";
+< > "pLx-26-Egv.title" = "マスターページを削除";
+---
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
+> > "fIV-u8-dQJ.title" = "취소";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */

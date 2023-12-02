@@ -1,0 +1,18 @@
+---
+---
+---
+203,204c203,204
+77,78c77,78
+89,90c89,90
+< "B7d-wH-tGY.title" = "Text Cell";
+< "FKb-Oe-ijw.title" = "Close";
+< "bLE-Gk-15m.title" = "Text Cell";
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "FKb-Oe-ijw"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "B7d-wH-tGY"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bLE-Gk-15m"; */
+> "B7d-wH-tGY.title" = "텍스트 셀";
+> "FKb-Oe-ijw.title" = "닫기";
+> "bLE-Gk-15m.title" = "텍스트 셀";
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "FKb-Oe-ijw"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "B7d-wH-tGY"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "bLE-Gk-15m"; */

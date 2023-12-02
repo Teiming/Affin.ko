@@ -1,0 +1,14 @@
+2,8c2,6
+< ---
+< 3c3
+< 9c9
+< < "6wz-ro-cEN.title" = "Results";
+< < "jgd-VB-7GF.title" = "Address";
+< > "6wz-ro-cEN.title" = "結果";
+< > "jgd-VB-7GF.title" = "住所";
+---
+> 5,6c5,6
+> < "KIQ-xp-R6c.title" = "Text Cell";
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KIQ-xp-R6c"; */
+> > "KIQ-xp-R6c.title" = "텍스트 셀";
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "KIQ-xp-R6c"; */

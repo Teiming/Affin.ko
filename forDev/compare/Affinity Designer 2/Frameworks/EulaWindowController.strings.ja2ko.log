@@ -1,0 +1,49 @@
+3,23c3,4
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 3c3
+< 6c6
+< 9c9
+< < "7bV-Tk-MLA.title" = "Quit Application";
+< < "F0z-JX-Cv5.title" = "License Agreement (EULA)";
+< < "OX0-pY-JbQ.title" = "Main Menu";
+---
+> 11,12c11,12
+> 17,18c17,18
+25d5
+< < "aFN-c3-12e.title" = "Application";
+27,40c7,12
+< < "cxM-3Z-ITo.title" = "Application";
+< < "hsT-VP-xD1.title" = "Please read the following license agreement carefully";
+< < "vmR-dd-7d5.title" = "Accept";
+< < "xHv-eo-BTS.title" = "I accept the terms in the License Agreement";
+< > "7bV-Tk-MLA.title" = "アプリケーションを終了";
+< > "F0z-JX-Cv5.title" = "使用許諾契約書(EULA)";
+< > "OX0-pY-JbQ.title" = "メインメニュー";
+< > "R4q-dy-SCT.title" = "終了";
+< > "aFN-c3-12e.title" = "アプリケーション";
+< > "bSt-ag-fOj.title" = "編集";
+< > "cxM-3Z-ITo.title" = "アプリケーション";
+< > "hsT-VP-xD1.title" = "以下の使用許諾契約書をよく読んでください";
+< > "vmR-dd-7d5.title" = "承諾";
+< > "xHv-eo-BTS.title" = "使用許諾契約書の条項に同意します";
+---
+> < /* Class = "NSButtonCell"; title = "Quit"; ObjectID = "R4q-dy-SCT"; */
+> < /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "bSt-ag-fOj"; */
+> > "R4q-dy-SCT.title" = "Affinity Designer 종료";
+> > "bSt-ag-fOj.title" = "편집";
+> > /* Class = "NSButtonCell"; title = "Affinity Designer 종료"; ObjectID = "R4q-dy-SCT"; */
+> > /* Class = "NSMenuItem"; title = "편집"; ObjectID = "bSt-ag-fOj"; */

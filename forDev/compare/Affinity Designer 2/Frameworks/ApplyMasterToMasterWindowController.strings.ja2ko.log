@@ -1,0 +1,29 @@
+3,10c3,4
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 6c6
+< 9c9
+---
+> 14,15c14,15
+> 5,6c5,6
+12,13d5
+< < "Nbc-h8-QKk.title" = "Apply Master";
+< < "nRi-x9-qQ2.title" = "Apply Master:";
+15,20c7,12
+< < "xEl-u6-FIO.title" = "Replace Existing";
+< > "F0z-JX-Cv5.title" = "ウィンドウ";
+< > "Nbc-h8-QKk.title" = "マスターを適用";
+< > "nRi-x9-qQ2.title" = "マスターを適用:";
+< > "oDD-uP-apv.title" = "キャンセル";
+< > "xEl-u6-FIO.title" = "既存のものを置換";
+---
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "oDD-uP-apv"; */
+> < /* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+> > "F0z-JX-Cv5.title" = "윈도우";
+> > "oDD-uP-apv.title" = "취소";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "oDD-uP-apv"; */
+> > /* Class = "NSWindow"; title = "윈도우"; ObjectID = "F0z-JX-Cv5"; */

@@ -1,0 +1,77 @@
+6,32c6,10
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 51c51
+< 54c54
+< 6c6
+< 9c9
+< < "1.title" = "Resize Document";
+< < "1002.title" = "Resample:";
+---
+> 26,27c26,27
+> 29,30c29,30
+> 32,33c32,33
+> 41,42c41,42
+> 8,9c8,9
+34d11
+< < "101.title" = "Resize";
+37,38d13
+< < "1017.title" = "Lanczos 3 (separable)";
+< < "1018.title" = "Lanczos 3 (non-separable)";
+40d14
+< < "1052.title" = "Resample";
+42,60c16,30
+< < "562.title" = "Bilinear";
+< < "563.title" = "Nearest Neighbor";
+< < "603.title" = "Bicubic";
+< < "eGq-1O-StD.title" = "Placeholder";
+< > "1.title" = "ドキュメントのサイズを変更";
+< > "1002.title" = "リサンプル:";
+< > "1004.title" = "キャンセル";
+< > "101.title" = "サイズ変更";
+< > "1010.ibShadowedToolTip" = "幅";
+< > "1011.ibShadowedToolTip" = "高さ";
+< > "1017.title" = "Lanczos 3(分離可能)";
+< > "1018.title" = "Lanczos 3(分離不可)";
+< > "1024.title" = "単位:";
+< > "1052.title" = "リサンプル";
+< > "235.title" = "サイズ:";
+< > "562.title" = "バイリニア";
+< > "563.title" = "ニアレストネイバー";
+< > "603.title" = "バイキュービック";
+< > "eGq-1O-StD.title" = "プレースホルダー";
+---
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
+> < /* Class = "NSTextFieldCell"; title = "Units:"; ObjectID = "1024"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1011"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "1010"; */
+> > "1004.title" = "취소";
+> > "1010.ibShadowedToolTip" = "너비";
+> > "1011.ibShadowedToolTip" = "높이";
+> > "1024.title" = "단위:";
+> > "235.title" = "크기:";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
+> > /* Class = "NSTextFieldCell"; title = "단위:"; ObjectID = "1024"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "1010"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1011"; */

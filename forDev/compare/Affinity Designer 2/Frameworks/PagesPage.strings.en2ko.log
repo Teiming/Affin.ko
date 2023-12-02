@@ -1,0 +1,30 @@
+---
+---
+---
+---
+---
+2,3c2,3
+29,30c29,30
+50,51c50,51
+68,69c68,69
+71,72c71,72
+< "1C4-rM-gnp.title" = "Duplicate";
+< "EcN-gx-Osp.title" = "Delete";
+< "eww-Nb-wLI.ibShadowedToolTip" = "Add Pages";
+< "qUl-Mw-Z2w.title" = "Delete";
+< "rl8-1T-Y2t.title" = "Duplicate";
+< /* Class = "NSButton"; ibShadowedToolTip = "Add Pages"; ObjectID = "eww-Nb-wLI"; */
+< /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "EcN-gx-Osp"; */
+< /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "qUl-Mw-Z2w"; */
+< /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "1C4-rM-gnp"; */
+< /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "rl8-1T-Y2t"; */
+> "1C4-rM-gnp.title" = "복제";
+> "EcN-gx-Osp.title" = "지우기";
+> "eww-Nb-wLI.ibShadowedToolTip" = "페이지 추가";
+> "qUl-Mw-Z2w.title" = "지우기";
+> "rl8-1T-Y2t.title" = "복제";
+> /* Class = "NSButton"; ibShadowedToolTip = "페이지 추가"; ObjectID = "eww-Nb-wLI"; */
+> /* Class = "NSMenuItem"; title = "복제"; ObjectID = "1C4-rM-gnp"; */
+> /* Class = "NSMenuItem"; title = "복제"; ObjectID = "rl8-1T-Y2t"; */
+> /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "EcN-gx-Osp"; */
+> /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "qUl-Mw-Z2w"; */

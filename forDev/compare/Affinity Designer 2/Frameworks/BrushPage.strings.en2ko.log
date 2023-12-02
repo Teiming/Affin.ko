@@ -1,0 +1,168 @@
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+107,108c107,108
+11,12c11,12
+119,120c119,120
+122,123c122,123
+128,129c128,129
+137,138c137,138
+140,141c140,141
+143,144c143,144
+149,150c149,150
+152,153c152,153
+161,162c161,162
+164,165c164,165
+179,180c179,180
+185,186c185,186
+188,189c188,189
+197,198c197,198
+20,21c20,21
+35,36c35,36
+38,39c38,39
+41,42c41,42
+47,48c47,48
+5,6c5,6
+50,51c50,51
+53,54c53,54
+65,66c65,66
+8,9c8,9
+92,93c92,93
+98,99c98,99
+< "29x-ZG-4UJ.title" = "Rename Category…";
+< "683.title" = "User Defined";
+< "684.title" = "Standard";
+< "685.title" = "Categories";
+< "6wi-GB-u1Y.title" = "Import Brushes…";
+< "8Mu-k9-rUv.title" = "Duplicate Brush";
+< "8bf-4x-iCm.title" = "New Image Brush";
+< "AxG-jy-wkM.title" = "New Square Brush";
+< "Bae-g0-LHh.title" = "Name";
+< "Brz-mh-sxe.title" = "New Solid Brush";
+< "EWf-xj-6CY.title" = "Vector Menu";
+< "MZz-4P-csN.title" = "Delete Brush";
+< "PUk-fe-DCG.title" = "Name";
+< "SOL-jm-1vP.title" = "Rename Category…";
+< "Wl7-ZL-aaZ.title" = "Import Brushes…";
+< "YWc-B4-EYC.title" = "Export Brushes…";
+< "aFq-Os-DpJ.title" = "Edit Brush…";
+< "dpg-pI-boZ.title" = "Move Brush to Category";
+< "eKB-X7-SAz.title" = "New Textured Image Brush";
+< "eb4-ho-iE7.title" = "New Round Brush";
+< "fM3-sT-mB1.title" = "Show as List";
+< "gLd-p3-n9l.title" = "Brush Item Context Menu";
+< "jP8-fo-hO8.title" = "Auto-scroll";
+< "k0x-FY-GSh.title" = "Raster Menu";
+< "oFe-XS-Ei1.title" = "Show as List";
+< "rBF-Fx-fJ3.title" = "Rename Brush…";
+< "rD9-jN-h72.title" = "Export Brushes…";
+< "xlO-uy-hGK.title" = "Move Brush to Category";
+< /* Class = "NSMenu"; title = "Brush Item Context Menu"; ObjectID = "gLd-p3-n9l"; */
+< /* Class = "NSMenu"; title = "Move Brush to Category"; ObjectID = "dpg-pI-boZ"; */
+< /* Class = "NSMenu"; title = "Raster Menu"; ObjectID = "k0x-FY-GSh"; */
+< /* Class = "NSMenu"; title = "Vector Menu"; ObjectID = "EWf-xj-6CY"; */
+< /* Class = "NSMenuItem"; title = "Auto-scroll"; ObjectID = "jP8-fo-hO8"; */
+< /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "685"; */
+< /* Class = "NSMenuItem"; title = "Delete Brush"; ObjectID = "MZz-4P-csN"; */
+< /* Class = "NSMenuItem"; title = "Duplicate Brush"; ObjectID = "8Mu-k9-rUv"; */
+< /* Class = "NSMenuItem"; title = "Edit Brush…"; ObjectID = "aFq-Os-DpJ"; */
+< /* Class = "NSMenuItem"; title = "Export Brushes…"; ObjectID = "YWc-B4-EYC"; */
+< /* Class = "NSMenuItem"; title = "Export Brushes…"; ObjectID = "rD9-jN-h72"; */
+< /* Class = "NSMenuItem"; title = "Import Brushes…"; ObjectID = "6wi-GB-u1Y"; */
+< /* Class = "NSMenuItem"; title = "Import Brushes…"; ObjectID = "Wl7-ZL-aaZ"; */
+< /* Class = "NSMenuItem"; title = "Move Brush to Category"; ObjectID = "xlO-uy-hGK"; */
+< /* Class = "NSMenuItem"; title = "Name"; ObjectID = "Bae-g0-LHh"; */
+< /* Class = "NSMenuItem"; title = "Name"; ObjectID = "PUk-fe-DCG"; */
+< /* Class = "NSMenuItem"; title = "New Image Brush"; ObjectID = "8bf-4x-iCm"; */
+< /* Class = "NSMenuItem"; title = "New Round Brush"; ObjectID = "eb4-ho-iE7"; */
+< /* Class = "NSMenuItem"; title = "New Solid Brush"; ObjectID = "Brz-mh-sxe"; */
+< /* Class = "NSMenuItem"; title = "New Square Brush"; ObjectID = "AxG-jy-wkM"; */
+< /* Class = "NSMenuItem"; title = "New Textured Image Brush"; ObjectID = "eKB-X7-SAz"; */
+< /* Class = "NSMenuItem"; title = "Rename Brush…"; ObjectID = "rBF-Fx-fJ3"; */
+< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "29x-ZG-4UJ"; */
+< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "SOL-jm-1vP"; */
+< /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "fM3-sT-mB1"; */
+< /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "oFe-XS-Ei1"; */
+< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "684"; */
+< /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "683"; */
+> "29x-ZG-4UJ.title" = "범주 이름 변경…";
+> "683.title" = "사용자 정의";
+> "684.title" = "표준";
+> "685.title" = "범주";
+> "6wi-GB-u1Y.title" = "브러시 들여오기…";
+> "8Mu-k9-rUv.title" = "브러시 복제";
+> "8bf-4x-iCm.title" = "신규 이미지 브러시";
+> "AxG-jy-wkM.title" = "신규 사각형 브러시";
+> "Bae-g0-LHh.title" = "이름";
+> "Brz-mh-sxe.title" = "신규 단일 브러시";
+> "EWf-xj-6CY.title" = "벡터 메뉴";
+> "MZz-4P-csN.title" = "브러시 지우기";
+> "PUk-fe-DCG.title" = "이름";
+> "SOL-jm-1vP.title" = "범주 이름 변경…";
+> "Wl7-ZL-aaZ.title" = "브러시 들여오기…";
+> "YWc-B4-EYC.title" = "브러시 내보내기…";
+> "aFq-Os-DpJ.title" = "브러시 편집…";
+> "dpg-pI-boZ.title" = "브러시를 카테고리로 이동";
+> "eKB-X7-SAz.title" = "신규 질감 이미지 브러시";
+> "eb4-ho-iE7.title" = "신규 둥근 브러시";
+> "fM3-sT-mB1.title" = "목록으로 보기";
+> "gLd-p3-n9l.title" = "브러시 항목 상황별 메뉴";
+> "jP8-fo-hO8.title" = "자동 스크롤";
+> "k0x-FY-GSh.title" = "래스터 메뉴";
+> "oFe-XS-Ei1.title" = "목록으로 보기";
+> "rBF-Fx-fJ3.title" = "브러시 이름 변경…";
+> "rD9-jN-h72.title" = "브러시 내보내기…";
+> "xlO-uy-hGK.title" = "브러시를 카테고리로 이동";
+> /* Class = "NSMenu"; title = "벡터 메뉴"; ObjectID = "EWf-xj-6CY"; */
+> /* Class = "NSMenu"; title = "브러시 항목 상황별 메뉴"; ObjectID = "gLd-p3-n9l"; */
+> /* Class = "NSMenu"; title = "래스터 메뉴"; ObjectID = "k0x-FY-GSh"; */
+> /* Class = "NSMenu"; title = "브러시를 카테고리로 이동"; ObjectID = "dpg-pI-boZ"; */
+> /* Class = "NSMenuItem"; title = "신규 질감 이미지 브러시"; ObjectID = "eKB-X7-SAz"; */
+> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "29x-ZG-4UJ"; */
+> /* Class = "NSMenuItem"; title = "신규 단일 브러시"; ObjectID = "Brz-mh-sxe"; */
+> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "SOL-jm-1vP"; */
+> /* Class = "NSMenuItem"; title = "신규 둥근 브러시"; ObjectID = "eb4-ho-iE7"; */
+> /* Class = "NSMenuItem"; title = "신규 이미지 브러시"; ObjectID = "8bf-4x-iCm"; */
+> /* Class = "NSMenuItem"; title = "신규 사각형 브러시"; ObjectID = "AxG-jy-wkM"; */
+> /* Class = "NSMenuItem"; title = "자동 스크롤"; ObjectID = "jP8-fo-hO8"; */
+> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "684"; */
+> /* Class = "NSMenuItem"; title = "범주"; ObjectID = "685"; */
+> /* Class = "NSMenuItem"; title = "이름"; ObjectID = "Bae-g0-LHh"; */
+> /* Class = "NSMenuItem"; title = "이름"; ObjectID = "PUk-fe-DCG"; */
+> /* Class = "NSMenuItem"; title = "브러시 이름 변경…"; ObjectID = "rBF-Fx-fJ3"; */
+> /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "683"; */
+> /* Class = "NSMenuItem"; title = "브러시 복제"; ObjectID = "8Mu-k9-rUv"; */
+> /* Class = "NSMenuItem"; title = "브러시 지우기"; ObjectID = "MZz-4P-csN"; */
+> /* Class = "NSMenuItem"; title = "브러시 편집…"; ObjectID = "aFq-Os-DpJ"; */
+> /* Class = "NSMenuItem"; title = "브러시 들여오기…"; ObjectID = "6wi-GB-u1Y"; */
+> /* Class = "NSMenuItem"; title = "브러시 들여오기…"; ObjectID = "Wl7-ZL-aaZ"; */
+> /* Class = "NSMenuItem"; title = "브러시 내보내기…"; ObjectID = "YWc-B4-EYC"; */
+> /* Class = "NSMenuItem"; title = "브러시 내보내기…"; ObjectID = "rD9-jN-h72"; */
+> /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "fM3-sT-mB1"; */
+> /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "oFe-XS-Ei1"; */
+> /* Class = "NSMenuItem"; title = "브러시를 카테고리로 이동"; ObjectID = "xlO-uy-hGK"; */

@@ -1,0 +1,30 @@
+---
+---
+---
+---
+---
+11,12c11,12
+14,15c14,15
+17,18c17,18
+2,3c2,3
+8,9c8,9
+< "11.title" = "Text Cell";
+< "ZFs-OS-U6b.ibShadowedToolTip" = "Add Snapshot";
+< "uzY-Ie-7WH.ibShadowedToolTip" = "Delete Snapshot";
+< "ypS-Qv-Lfs.ibShadowedToolTip" = "New Document From Snapshot";
+< "zFl-C8-FIY.ibShadowedToolTip" = "Restore Snapshot";
+< /* Class = "NSButton"; ibShadowedToolTip = "Add Snapshot"; ObjectID = "ZFs-OS-U6b"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Delete Snapshot"; ObjectID = "uzY-Ie-7WH"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "New Document From Snapshot"; ObjectID = "ypS-Qv-Lfs"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Restore Snapshot"; ObjectID = "zFl-C8-FIY"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+> "11.title" = "텍스트 셀";
+> "ZFs-OS-U6b.ibShadowedToolTip" = "스냅샷 추가";
+> "uzY-Ie-7WH.ibShadowedToolTip" = "스냅샷 지우기";
+> "ypS-Qv-Lfs.ibShadowedToolTip" = "스냅샷으로부터 신규 문서";
+> "zFl-C8-FIY.ibShadowedToolTip" = "스냅샷 복원";
+> /* Class = "NSButton"; ibShadowedToolTip = "스냅샷 추가"; ObjectID = "ZFs-OS-U6b"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "스냅샷 복원"; ObjectID = "zFl-C8-FIY"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "스냅샷 지우기"; ObjectID = "uzY-Ie-7WH"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "스냅샷으로부터 신규 문서"; ObjectID = "ypS-Qv-Lfs"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "11"; */

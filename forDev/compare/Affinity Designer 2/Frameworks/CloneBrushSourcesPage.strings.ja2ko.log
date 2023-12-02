@@ -1,0 +1,26 @@
+2,13c2
+< ---
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 3c3
+< 6c6
+< 9c9
+< < "4If-Xd-aO7.ibShadowedToolTip" = "Add Global Source";
+< < "4nC-CO-kKZ.ibShadowedToolTip" = "Delete Global Source";
+< < "5PY-UL-CWX.ibShadowedToolTip" = "Toggle source preview";
+---
+> 11,12c11,12
+15,20c4,6
+< < "xNS-TC-r4Y.title" = "Table View Cell";
+< > "4If-Xd-aO7.ibShadowedToolTip" = "グローバルソースを追加";
+< > "4nC-CO-kKZ.ibShadowedToolTip" = "グローバルソースを削除";
+< > "5PY-UL-CWX.ibShadowedToolTip" = "ソースプレビューを切り替え";
+< > "Ipc-ah-zqy.title" = "テキストセル";
+< > "xNS-TC-r4Y.title" = "表ビューセル";
+---
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ipc-ah-zqy"; */
+> > "Ipc-ah-zqy.title" = "텍스트 셀";
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Ipc-ah-zqy"; */

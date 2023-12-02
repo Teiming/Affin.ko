@@ -1,0 +1,61 @@
+8,20c8,14
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 3c3
+< 6c6
+< 9c9
+---
+> 11,12c11,12
+> 17,18c17,18
+> 2,3c2,3
+> 23,24c23,24
+> 26,27c26,27
+> 29,30c29,30
+> 5,6c5,6
+23d16
+< < "HYy-nb-0kQ.title" = "Gaussian";
+25d17
+< < "U3V-LL-8qr.title" = "Sigmoid";
+27d18
+< < "Znk-3f-LUZ.title" = "Ramp";
+31,40c22,42
+< > "1lq-Zz-j6w.title" = "正方形";
+< > "2Ht-e2-FfB.title" = "線形";
+< > "HYy-nb-0kQ.title" = "ガウス";
+< > "Mm1-oo-yua.title" = "コサイン";
+< > "U3V-LL-8qr.title" = "S字曲線";
+< > "Z6B-lT-eyV.title" = "サイズ";
+< > "Znk-3f-LUZ.title" = "ランプ";
+< > "aRT-iL-yxE.title" = "速度";
+< > "lr8-VL-mjY.title" = "硬さ";
+< > "ws8-sH-KSY.title" = "不透明度";
+---
+> < /* Class = "NSMenuItem"; title = "Cosine"; ObjectID = "Mm1-oo-yua"; */
+> < /* Class = "NSMenuItem"; title = "Linear"; ObjectID = "2Ht-e2-FfB"; */
+> < /* Class = "NSMenuItem"; title = "Square"; ObjectID = "1lq-Zz-j6w"; */
+> < /* Class = "NSTextFieldCell"; title = "Hardness"; ObjectID = "lr8-VL-mjY"; */
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "ws8-sH-KSY"; */
+> < /* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "Z6B-lT-eyV"; */
+> < /* Class = "NSTextFieldCell"; title = "Speed"; ObjectID = "aRT-iL-yxE"; */
+> > "1lq-Zz-j6w.title" = "사각형";
+> > "2Ht-e2-FfB.title" = "선형";
+> > "Mm1-oo-yua.title" = "코사인";
+> > "Z6B-lT-eyV.title" = "크기";
+> > "aRT-iL-yxE.title" = "빠르기";
+> > "lr8-VL-mjY.title" = "굳기";
+> > "ws8-sH-KSY.title" = "불투명도";
+> > /* Class = "NSMenuItem"; title = "선형"; ObjectID = "2Ht-e2-FfB"; */
+> > /* Class = "NSMenuItem"; title = "사각형"; ObjectID = "1lq-Zz-j6w"; */
+> > /* Class = "NSMenuItem"; title = "코사인"; ObjectID = "Mm1-oo-yua"; */
+> > /* Class = "NSTextFieldCell"; title = "크기"; ObjectID = "Z6B-lT-eyV"; */
+> > /* Class = "NSTextFieldCell"; title = "굳기"; ObjectID = "lr8-VL-mjY"; */
+> > /* Class = "NSTextFieldCell"; title = "빠르기"; ObjectID = "aRT-iL-yxE"; */
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "ws8-sH-KSY"; */
