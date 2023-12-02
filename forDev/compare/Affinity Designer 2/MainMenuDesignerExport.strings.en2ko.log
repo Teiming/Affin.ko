@@ -1,101 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 101,102c101,102
 104,105c104,105
 11,12c11,12
@@ -142,13 +45,13 @@
 254,255c254,255
 26,27c26,27
 260,261c260,261
-263,264c263,264
 266,267c266,267
 269,270c269,270
 275,276c275,276
 278,279c278,279
 281,282c281,282
 284,285c284,285
+287,288c287,288
 29,30c29,30
 290,291c290,291
 293,294c293,294
@@ -264,13 +167,13 @@
 < "M7v-T4-shW.title" = "Reset Rotation";
 < "Mjs-px-SRF.title" = "Pixel Size";
 < "NfI-1h-f99.title" = "Edit";
-< "QaL-Mw-jOl.title" = "New From Clipboard";
 < "RbB-Vi-Nm1.title" = "Deselect";
 < "Tp7-RN-ZI9.title" = "Rotate Right";
 < "XF0-oF-CqE.title" = "Share";
 < "XI1-JJ-wze.title" = "Hide Studio";
 < "Y15-ob-9qE.title" = "Check for Updates";
 < "aYY-2R-a0D.title" = "Zoom";
+< "aaA-MQ-sn2.title" = "Close All";
 < "adg-Px-pjr.title" = "Pixels (Retina)";
 < "bCA-SS-KLe.title" = "Zoom to Selection";
 < "bly-XI-7Kj.title" = "Select Previous";
@@ -312,6 +215,7 @@
 < /* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "Y15-ob-9qE"; */
 < /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "888"; */
 < /* Class = "NSMenuItem"; title = "Clip to Canvas"; ObjectID = "kfV-dk-BSh"; */
+< /* Class = "NSMenuItem"; title = "Close All"; ObjectID = "aaA-MQ-sn2"; */
 < /* Class = "NSMenuItem"; title = "Close"; ObjectID = "881"; */
 < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "79k-PD-Qmh"; */
 < /* Class = "NSMenuItem"; title = "Customise Toolbar…"; ObjectID = "892"; */
@@ -332,7 +236,6 @@
 < /* Class = "NSMenuItem"; title = "Merge All Windows"; ObjectID = "ASJ-uF-DeH"; */
 < /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "811"; */
 < /* Class = "NSMenuItem"; title = "My Account…"; ObjectID = "Hnm-Oe-ITh"; */
-< /* Class = "NSMenuItem"; title = "New From Clipboard"; ObjectID = "QaL-Mw-jOl"; */
 < /* Class = "NSMenuItem"; title = "New View"; ObjectID = "1093"; */
 < /* Class = "NSMenuItem"; title = "New…"; ObjectID = "884"; */
 < /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "883"; */
@@ -457,13 +360,13 @@
 > "M7v-T4-shW.title" = "회전 재설정";
 > "Mjs-px-SRF.title" = "픽셀 크기";
 > "NfI-1h-f99.title" = "편집";
-> "QaL-Mw-jOl.title" = "클립보드에서 신규";
 > "RbB-Vi-Nm1.title" = "선택 해제";
 > "Tp7-RN-ZI9.title" = "오른쪽으로 회전";
 > "XF0-oF-CqE.title" = "공유";
 > "XI1-JJ-wze.title" = "작업실 가리기";
 > "Y15-ob-9qE.title" = "업데이트 확인";
 > "aYY-2R-a0D.title" = "맞추기";
+> "aaA-MQ-sn2.title" = "모두 닫기";
 > "adg-Px-pjr.title" = "픽셀 (레티나)";
 > "bCA-SS-KLe.title" = "선택 항목에 맞추기";
 > "bly-XI-7Kj.title" = "이전 항목 선택";
@@ -520,6 +423,7 @@
 > /* Class = "NSMenuItem"; title = "실행 취소"; ObjectID = "G2e-37-ugE"; */
 > /* Class = "NSMenuItem"; title = "픽셀 크기"; ObjectID = "Mjs-px-SRF"; */
 > /* Class = "NSMenuItem"; title = "선택 해제"; ObjectID = "RbB-Vi-Nm1"; */
+> /* Class = "NSMenuItem"; title = "모두 닫기"; ObjectID = "aaA-MQ-sn2"; */
 > /* Class = "NSMenuItem"; title = "도구 고정"; ObjectID = "uP4-bW-FOM"; */
 > /* Class = "NSMenuItem"; title = "왼쪽 작업실 보기"; ObjectID = "6EZ-Th-cI0"; */
 > /* Class = "NSMenuItem"; title = "모든 윈도우 통합"; ObjectID = "ASJ-uF-DeH"; */
@@ -579,4 +483,3 @@
 > /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "Tp7-RN-ZI9"; */
 > /* Class = "NSMenuItem"; title = "내보내기…"; ObjectID = "1099"; */
 > /* Class = "NSMenuItem"; title = "환경설정…"; ObjectID = "821"; */
-> /* Class = "NSMenuItem"; title = "클립보드에서 신규"; ObjectID = "QaL-Mw-jOl"; */

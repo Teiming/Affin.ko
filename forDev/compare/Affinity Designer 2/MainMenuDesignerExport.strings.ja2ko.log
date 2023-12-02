@@ -1,24 +1,4 @@
-99,194c99,159
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,77c2,62
 < 102c102
 < 105c105
 < 111c111
@@ -142,13 +122,13 @@
 > 254,255c254,255
 > 26,27c26,27
 > 260,261c260,261
-> 263,264c263,264
 > 266,267c266,267
 > 269,270c269,270
 > 275,276c275,276
 > 278,279c278,279
 > 281,282c281,282
 > 284,285c284,285
+> 287,288c287,288
 > 29,30c29,30
 > 290,291c290,291
 > 293,294c293,294
@@ -157,7 +137,7 @@
 > 308,309c308,309
 > 317,318c317,318
 > 32,33c32,33
-196,237c161,196
+79,120c64,99
 < 324c324
 < 327c327
 < 330c330
@@ -237,42 +217,42 @@
 > 92c92
 > 95c95
 > 98,99c98,99
-239d197
+122d100
 < < "0qG-cI-kIh.title" = "Hide Effects";
-247d204
+130d107
 < < "1315.title" = "Snapping…";
-260d216
+143d119
 < < "4ee-PQ-8Xp.title" = "Send To…";
-265d220
+148d123
 < < "795.title" = "MainMenu";
-268d222
+151d125
 < < "7ge-fF-3OK.title" = "Crash";
-299,300d252
+182,183d155
 < < "890.title" = "Customize Tools…";
 < < "892.title" = "Customize Toolbar…";
-307,308d258
+190,191d161
 < < "Eca-Mq-q5L.title" = "More…";
 < < "Ehc-vT-24q.title" = "Last Used";
-310d259
+193d162
 < < "G2c-Le-apI.title" = "Debug";
-312,314d260
+195,197d163
 < < "GJw-PG-iAG.title" = "Float View to Window";
 < < "Gaj-5C-Ign.title" = "Grid and Axis…";
 < < "H3s-4P-OC4.title" = "Grayscale";
-320d265
+203d168
 < < "N79-Tg-ro5.title" = "Debug";
-329d273
-< < "aaA-MQ-sn2.title" = "Close All";
-334d277
+205d169
+< < "QaL-Mw-jOl.title" = "New From Clipboard";
+217d180
 < < "cWg-5w-dst.title" = "Video Tutorials";
-336,337d278
+219,220d181
 < < "e3s-U5-veT.title" = "Designer Persona";
 < < "hB6-uH-n2Q.title" = "Hairline";
-345d285
+228d188
 < < "mDJ-gd-gE9.title" = "X-ray";
-347d286
+230d189
 < < "miI-4k-dsl.title" = "Wireframe";
-354,472c293,582
+237,355c196,485
 < < "ysh-y9-dpl.title" = "Save as Regression Unit";
 < > "0I7-ZE-BJa.title" = "ワイヤーフレーム";
 < > "0cS-l8-xXi.title" = "フルスクリーン切り替え";
@@ -415,6 +395,7 @@
 > < /* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "Y15-ob-9qE"; */
 > < /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "888"; */
 > < /* Class = "NSMenuItem"; title = "Clip to Canvas"; ObjectID = "kfV-dk-BSh"; */
+> < /* Class = "NSMenuItem"; title = "Close All"; ObjectID = "aaA-MQ-sn2"; */
 > < /* Class = "NSMenuItem"; title = "Close"; ObjectID = "881"; */
 > < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "79k-PD-Qmh"; */
 > < /* Class = "NSMenuItem"; title = "Customise Toolbar…"; ObjectID = "892"; */
@@ -435,7 +416,6 @@
 > < /* Class = "NSMenuItem"; title = "Merge All Windows"; ObjectID = "ASJ-uF-DeH"; */
 > < /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "811"; */
 > < /* Class = "NSMenuItem"; title = "My Account…"; ObjectID = "Hnm-Oe-ITh"; */
-> < /* Class = "NSMenuItem"; title = "New From Clipboard"; ObjectID = "QaL-Mw-jOl"; */
 > < /* Class = "NSMenuItem"; title = "New View"; ObjectID = "1093"; */
 > < /* Class = "NSMenuItem"; title = "New…"; ObjectID = "884"; */
 > < /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "883"; */
@@ -560,13 +540,13 @@
 > > "M7v-T4-shW.title" = "회전 재설정";
 > > "Mjs-px-SRF.title" = "픽셀 크기";
 > > "NfI-1h-f99.title" = "편집";
-> > "QaL-Mw-jOl.title" = "클립보드에서 신규";
 > > "RbB-Vi-Nm1.title" = "선택 해제";
 > > "Tp7-RN-ZI9.title" = "오른쪽으로 회전";
 > > "XF0-oF-CqE.title" = "공유";
 > > "XI1-JJ-wze.title" = "작업실 가리기";
 > > "Y15-ob-9qE.title" = "업데이트 확인";
 > > "aYY-2R-a0D.title" = "맞추기";
+> > "aaA-MQ-sn2.title" = "모두 닫기";
 > > "adg-Px-pjr.title" = "픽셀 (레티나)";
 > > "bCA-SS-KLe.title" = "선택 항목에 맞추기";
 > > "bly-XI-7Kj.title" = "이전 항목 선택";
@@ -623,6 +603,7 @@
 > > /* Class = "NSMenuItem"; title = "실행 취소"; ObjectID = "G2e-37-ugE"; */
 > > /* Class = "NSMenuItem"; title = "픽셀 크기"; ObjectID = "Mjs-px-SRF"; */
 > > /* Class = "NSMenuItem"; title = "선택 해제"; ObjectID = "RbB-Vi-Nm1"; */
+> > /* Class = "NSMenuItem"; title = "모두 닫기"; ObjectID = "aaA-MQ-sn2"; */
 > > /* Class = "NSMenuItem"; title = "도구 고정"; ObjectID = "uP4-bW-FOM"; */
 > > /* Class = "NSMenuItem"; title = "왼쪽 작업실 보기"; ObjectID = "6EZ-Th-cI0"; */
 > > /* Class = "NSMenuItem"; title = "모든 윈도우 통합"; ObjectID = "ASJ-uF-DeH"; */
@@ -682,4 +663,3 @@
 > > /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "Tp7-RN-ZI9"; */
 > > /* Class = "NSMenuItem"; title = "내보내기…"; ObjectID = "1099"; */
 > > /* Class = "NSMenuItem"; title = "환경설정…"; ObjectID = "821"; */
-> > /* Class = "NSMenuItem"; title = "클립보드에서 신규"; ObjectID = "QaL-Mw-jOl"; */
