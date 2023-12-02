@@ -1,56 +1,56 @@
-6c6
-< "15.title" = "RGB Sliders";
 ---
-> "15.title" = "RGBスライダー";
-9c9
-< "16.title" = "HSL Sliders";
 ---
-> "16.title" = "HSLスライダー";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "17.title" = "CMYK Sliders";
----
-> "17.title" = "CMYKスライダー";
 15c15
-< "18.title" = "LAB Sliders";
----
-> "18.title" = "LABスライダー";
 18c18
-< "19.title" = "Hue";
----
-> "19.title" = "色相";
 21c21
-< "20.title" = "Lightness";
----
-> "20.title" = "明るさ";
 24c24
-< "21.title" = "Saturation";
----
-> "21.title" = "彩度";
 27c27
-< "73.title" = "Grayness";
----
-> "73.title" = "グレーネス";
 30c30
-< "AGQ-AY-ymv.title" = "Tint";
----
-> "AGQ-AY-ymv.title" = "色合い";
 33c33
-< "IBs-7d-8i9.title" = "Noise";
----
-> "IBs-7d-8i9.title" = "ノイズ";
 36c36
-< "aGY-MV-mnd.title" = "RGB Hex Sliders";
----
-> "aGY-MV-mnd.title" = "RGB 16進数スライダー";
 39c39
-< "p9e-y1-NPN.title" = "Intensity";
----
-> "p9e-y1-NPN.title" = "強度";
 42c42
-< "shx-h5-acz.title" = "HSL Color Wheel";
----
-> "shx-h5-acz.title" = "HSLカラーホイール";
 45c45
+6c6
+9c9
+< "15.title" = "RGB Sliders";
+< "16.title" = "HSL Sliders";
+< "17.title" = "CMYK Sliders";
+< "18.title" = "LAB Sliders";
+< "19.title" = "Hue";
+< "20.title" = "Lightness";
+< "21.title" = "Saturation";
+< "73.title" = "Grayness";
+< "AGQ-AY-ymv.title" = "Tint";
+< "IBs-7d-8i9.title" = "Noise";
+< "aGY-MV-mnd.title" = "RGB Hex Sliders";
+< "p9e-y1-NPN.title" = "Intensity";
+< "shx-h5-acz.title" = "HSL Color Wheel";
 < "vCg-g7-I24.title" = "Swatches";
----
+> "15.title" = "RGBスライダー";
+> "16.title" = "HSLスライダー";
+> "17.title" = "CMYKスライダー";
+> "18.title" = "LABスライダー";
+> "19.title" = "色相";
+> "20.title" = "明るさ";
+> "21.title" = "彩度";
+> "73.title" = "グレーネス";
+> "AGQ-AY-ymv.title" = "色合い";
+> "IBs-7d-8i9.title" = "ノイズ";
+> "aGY-MV-mnd.title" = "RGB 16進数スライダー";
+> "p9e-y1-NPN.title" = "強度";
+> "shx-h5-acz.title" = "HSLカラーホイール";
 > "vCg-g7-I24.title" = "スウォッチ";
