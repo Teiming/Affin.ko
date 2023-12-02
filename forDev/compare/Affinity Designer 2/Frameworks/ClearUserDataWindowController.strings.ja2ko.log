@@ -1,194 +1,187 @@
-1,5c1,2
-< 3c3
-< < "1.title" = "Clear User Data";
+7,85c7,12
 < ---
-< > "1.title" = "ユーザーデータをクリア";
-< 6c6
----
-> 5,6c5,6
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6"; */
-8,21c5,8
-< > "6.title" = "キャンセル";
-< 9c9
-< < "10.title" = "Clear";
 < ---
-< > "10.title" = "クリア";
-< 12c12
-< < "19.title" = "You are about to clear your user data. Any checked items will be reset to factory default. Are you sure?";
 < ---
-< > "19.title" = "ユーザーデータをクリアしようとしています。チェックされた項目は工場出荷時のデフォルト値にリセットされます。続行しますか?";
-< 15c15
-< < "21.title" = "Clear User Defaults";
 < ---
-< > "21.title" = "ユーザーのデフォルト設定をクリア";
-< 18c18
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "6"; */
-> > "6.title" = "취소";
-> 17,18c17,18
-> < /* Class = "NSButtonCell"; title = "Reset Brushes"; ObjectID = "25"; */
-24,25c11,14
-< > "25.title" = "ブラシをリセット";
-< 21c21
----
-> > /* Class = "NSButtonCell"; title = "브러시 재설정"; ObjectID = "25"; */
-> > "25.title" = "브러시 재설정";
-> 20,21c20,21
-> < /* Class = "NSButtonCell"; title = "Reset Fills"; ObjectID = "27"; */
-28,29c17,20
-< > "27.title" = "塗りつぶしをリセット";
-< 24c24
----
-> > /* Class = "NSButtonCell"; title = "칠 재설정"; ObjectID = "27"; */
-> > "27.title" = "칠 재설정";
-> 23,24c23,24
-> < /* Class = "NSButtonCell"; title = "Reset Adjustments"; ObjectID = "37"; */
-32,37c23,26
-< > "37.title" = "調整をリセット";
-< 27c27
-< < "0M3-0f-kcy.title" = "Clear Shared User Defaults";
 < ---
-< > "0M3-0f-kcy.title" = "ユーザーの共有デフォルト設定をクリア";
-< 30c30
----
-> > /* Class = "NSButtonCell"; title = "조정 재설정"; ObjectID = "37"; */
-> > "37.title" = "조정 재설정";
-> 29,30c29,30
-> < /* Class = "NSButtonCell"; title = "Reset Studio"; ObjectID = "0sE-jO-vmg"; */
-40,61c29,32
-< > "0sE-jO-vmg.title" = "スタジオをリセット";
-< 33c33
-< < "16f-6Q-CJF.title" = "Reset Lens Favorites & History";
 < ---
-< > "16f-6Q-CJF.title" = "レンズのお気に入りと履歴をリセット";
-< 36c36
-< < "44a-Cr-km9.title" = "Reset Tool Presets";
 < ---
-< > "44a-Cr-km9.title" = "ツールプリセットをリセット";
-< 39c39
-< < "77c-7i-Gr7.title" = "Reset User-Defined Strings";
 < ---
-< > "77c-7i-Gr7.title" = "ユーザー定義文字列をリセット";
-< 42c42
-< < "9Zh-i0-uS1.title" = "Reset Macro Library";
 < ---
-< > "9Zh-i0-uS1.title" = "マクロライブラリをリセット";
-< 45c45
-< < "9gG-c8-AKy.title" = "Reset Filler Text";
 < ---
-< > "9gG-c8-AKy.title" = "フィラーテキストをリセット";
-< 48c48
----
-> > /* Class = "NSButtonCell"; title = "작업실 재설정"; ObjectID = "0sE-jO-vmg"; */
-> > "0sE-jO-vmg.title" = "작업실 재설정";
-> 47,48c47,48
-> < /* Class = "NSButtonCell"; title = "Reset Keyboard Shortcuts"; ObjectID = "AY0-CT-EgR"; */
-64,168c35,36
-< > "AY0-CT-EgR.title" = "キーボードショートカットをリセット";
-< 51c51
-< < "BC5-ae-6Be.title" = "Reset Document Presets";
 < ---
-< > "BC5-ae-6Be.title" = "ドキュメントプリセットをリセット";
-< 54c54
-< < "Mcv-Ty-aRA.title" = "Affinity Photo 2 (Beta)";
 < ---
-< > "Mcv-Ty-aRA.title" = "Affinity Photo 2 (ベータ)";
-< 57c57
-< < "PeJ-aX-0nf.title" = "Reset Document & Window States";
 < ---
-< > "PeJ-aX-0nf.title" = "ドキュメントとウィンドウのステートをリセット";
-< 60c60
-< < "R4i-RR-h8q.title" = "Reset Assets";
 < ---
-< > "R4i-RR-h8q.title" = "アセットをリセット";
-< 63c63
-< < "SqA-OB-Fwg.title" = "Reset Develop Presets";
 < ---
-< > "SqA-OB-Fwg.title" = "現像プリセットをリセット";
-< 66c66
-< < "V3O-fm-23L.title" = "Reset Most Recent Documents";
 < ---
-< > "V3O-fm-23L.title" = "最新のドキュメントをリセット";
-< 69c69
-< < "VJ7-0R-1SR.title" = "Reset Tone Map Presets";
 < ---
-< > "VJ7-0R-1SR.title" = "トーンマッププリセットをリセット";
-< 72c72
-< < "VOT-Nj-5gT.title" = "Reset File Export Presets";
 < ---
-< > "VOT-Nj-5gT.title" = "ファイル書き出しプリセットをリセット";
-< 75c75
-< < "W9S-Mm-vEs.title" = "Reset Object Styles";
 < ---
-< > "W9S-Mm-vEs.title" = "オブジェクトスタイルをリセット";
-< 78c78
-< < "YNs-JC-CgM.title" = "All Affinity 2 (Beta) apps";
 < ---
-< > "YNs-JC-CgM.title" = "All Affinity 2 (ベータ)アプリ";
-< 81c81
-< < "Zj0-d9-Zr8.title" = "Reset Table Formats";
 < ---
-< > "Zj0-d9-Zr8.title" = "表フォーマットをリセット";
-< 84c84
-< < "a3v-5m-QQn.title" = "Reset AutoCorrect";
 < ---
-< > "a3v-5m-QQn.title" = "自動補正をリセット";
-< 87c87
-< < "bKq-ut-Jhd.title" = "Reset Account Data (inc. Synced Content)";
 < ---
-< > "bKq-ut-Jhd.title" = "アカウントデータをリセット (同期コンテンツを含む)";
-< 90c90
-< < "hk6-PY-PSm.title" = "Reset Font Replacements";
 < ---
-< > "hk6-PY-PSm.title" = "フォント置換をリセット";
-< 93c93
-< < "hwP-iF-89S.title" = "Reset Live Masks";
 < ---
-< > "hwP-iF-89S.title" = "ライブマスクをリセット";
-< 96c96
-< < "ic0-oH-tIj.title" = "Reset Title Exceptions";
 < ---
-< > "ic0-oH-tIj.title" = "タイトル例外をリセット";
-< 99c99
-< < "ihX-8V-BGf.title" = "Reset Text Styles";
 < ---
-< > "ihX-8V-BGf.title" = "テキストスタイルをリセット";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 102c102
-< < "jmr-4p-btY.title" = "Reset Preflight Presets";
-< ---
-< > "jmr-4p-btY.title" = "プリフライトプリセットをリセット";
 < 105c105
-< < "meU-ex-5dc.title" = "Reset Cross-Reference Presets";
-< ---
-< > "meU-ex-5dc.title" = "相互参照プリセットをリセット";
 < 108c108
-< < "oEh-6w-m35.title" = "Reset Document-Wide Notes";
-< ---
-< > "oEh-6w-m35.title" = "ドキュメント全体のノートをリセット";
 < 111c111
-< < "pOR-Ul-z33.title" = "Deactivate Affinity 2 (Beta) apps";
-< ---
-< > "pOR-Ul-z33.title" = "Affinity 2 (ベータ)アプリを無効化";
 < 114c114
-< < "qtU-fA-WFu.title" = "Reset Content Migration Prompt";
-< ---
-< > "qtU-fA-WFu.title" = "コンテンツ移行プロンプトをリセット";
 < 117c117
-< < "rTT-8t-o4u.title" = "Reset Grid Presets";
-< ---
-< > "rTT-8t-o4u.title" = "グリッドプリセットをリセット";
 < 120c120
-< < "u90-av-IhI.title" = "Reset Visibility Options";
-< ---
-< > "u90-av-IhI.title" = "可視性オプションをリセット";
 < 123c123
-< < "uUB-3X-VTI.title" = "Reset Abbreviations";
-< ---
-< > "uUB-3X-VTI.title" = "省略形をリセット";
 < 126c126
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+< 63c63
+< 66c66
+< 69c69
+< 6c6
+< 72c72
+< 75c75
+< 78c78
+< 81c81
+< 84c84
+< 87c87
+< 90c90
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+< < "0M3-0f-kcy.title" = "Clear Shared User Defaults";
+---
+> 17,18c17,18
+> 20,21c20,21
+> 23,24c23,24
+> 29,30c29,30
+> 47,48c47,48
+> 5,6c5,6
+87,91d13
+< < "1.title" = "Clear User Data";
+< < "10.title" = "Clear";
+< < "16f-6Q-CJF.title" = "Reset Lens Favorites & History";
+< < "19.title" = "You are about to clear your user data. Any checked items will be reset to factory default. Are you sure?";
+< < "21.title" = "Clear User Defaults";
+95d16
+< < "44a-Cr-km9.title" = "Reset Tool Presets";
+97,99d17
+< < "77c-7i-Gr7.title" = "Reset User-Defined Strings";
+< < "9Zh-i0-uS1.title" = "Reset Macro Library";
+< < "9gG-c8-AKy.title" = "Reset Filler Text";
+101,168c19,36
+< < "BC5-ae-6Be.title" = "Reset Document Presets";
+< < "Mcv-Ty-aRA.title" = "Affinity Photo 2 (Beta)";
+< < "PeJ-aX-0nf.title" = "Reset Document & Window States";
+< < "R4i-RR-h8q.title" = "Reset Assets";
+< < "SqA-OB-Fwg.title" = "Reset Develop Presets";
+< < "V3O-fm-23L.title" = "Reset Most Recent Documents";
+< < "VJ7-0R-1SR.title" = "Reset Tone Map Presets";
+< < "VOT-Nj-5gT.title" = "Reset File Export Presets";
+< < "W9S-Mm-vEs.title" = "Reset Object Styles";
+< < "YNs-JC-CgM.title" = "All Affinity 2 (Beta) apps";
+< < "Zj0-d9-Zr8.title" = "Reset Table Formats";
+< < "a3v-5m-QQn.title" = "Reset AutoCorrect";
+< < "bKq-ut-Jhd.title" = "Reset Account Data (inc. Synced Content)";
+< < "hk6-PY-PSm.title" = "Reset Font Replacements";
+< < "hwP-iF-89S.title" = "Reset Live Masks";
+< < "ic0-oH-tIj.title" = "Reset Title Exceptions";
+< < "ihX-8V-BGf.title" = "Reset Text Styles";
+< < "jmr-4p-btY.title" = "Reset Preflight Presets";
+< < "meU-ex-5dc.title" = "Reset Cross-Reference Presets";
+< < "oEh-6w-m35.title" = "Reset Document-Wide Notes";
+< < "pOR-Ul-z33.title" = "Deactivate Affinity 2 (Beta) apps";
+< < "qtU-fA-WFu.title" = "Reset Content Migration Prompt";
+< < "rTT-8t-o4u.title" = "Reset Grid Presets";
+< < "u90-av-IhI.title" = "Reset Visibility Options";
+< < "uUB-3X-VTI.title" = "Reset Abbreviations";
 < < "w0s-cb-K4F.title" = "Reset Snapping Options Presets";
-< ---
+< > "0M3-0f-kcy.title" = "ユーザーの共有デフォルト設定をクリア";
+< > "0sE-jO-vmg.title" = "スタジオをリセット";
+< > "1.title" = "ユーザーデータをクリア";
+< > "10.title" = "クリア";
+< > "16f-6Q-CJF.title" = "レンズのお気に入りと履歴をリセット";
+< > "19.title" = "ユーザーデータをクリアしようとしています。チェックされた項目は工場出荷時のデフォルト値にリセットされます。続行しますか?";
+< > "21.title" = "ユーザーのデフォルト設定をクリア";
+< > "25.title" = "ブラシをリセット";
+< > "27.title" = "塗りつぶしをリセット";
+< > "37.title" = "調整をリセット";
+< > "44a-Cr-km9.title" = "ツールプリセットをリセット";
+< > "6.title" = "キャンセル";
+< > "77c-7i-Gr7.title" = "ユーザー定義文字列をリセット";
+< > "9Zh-i0-uS1.title" = "マクロライブラリをリセット";
+< > "9gG-c8-AKy.title" = "フィラーテキストをリセット";
+< > "AY0-CT-EgR.title" = "キーボードショートカットをリセット";
+< > "BC5-ae-6Be.title" = "ドキュメントプリセットをリセット";
+< > "Mcv-Ty-aRA.title" = "Affinity Photo 2 (ベータ)";
+< > "PeJ-aX-0nf.title" = "ドキュメントとウィンドウのステートをリセット";
+< > "R4i-RR-h8q.title" = "アセットをリセット";
+< > "SqA-OB-Fwg.title" = "現像プリセットをリセット";
+< > "V3O-fm-23L.title" = "最新のドキュメントをリセット";
+< > "VJ7-0R-1SR.title" = "トーンマッププリセットをリセット";
+< > "VOT-Nj-5gT.title" = "ファイル書き出しプリセットをリセット";
+< > "W9S-Mm-vEs.title" = "オブジェクトスタイルをリセット";
+< > "YNs-JC-CgM.title" = "All Affinity 2 (ベータ)アプリ";
+< > "Zj0-d9-Zr8.title" = "表フォーマットをリセット";
+< > "a3v-5m-QQn.title" = "自動補正をリセット";
+< > "bKq-ut-Jhd.title" = "アカウントデータをリセット (同期コンテンツを含む)";
+< > "hk6-PY-PSm.title" = "フォント置換をリセット";
+< > "hwP-iF-89S.title" = "ライブマスクをリセット";
+< > "ic0-oH-tIj.title" = "タイトル例外をリセット";
+< > "ihX-8V-BGf.title" = "テキストスタイルをリセット";
+< > "jmr-4p-btY.title" = "プリフライトプリセットをリセット";
+< > "meU-ex-5dc.title" = "相互参照プリセットをリセット";
+< > "oEh-6w-m35.title" = "ドキュメント全体のノートをリセット";
+< > "pOR-Ul-z33.title" = "Affinity 2 (ベータ)アプリを無効化";
+< > "qtU-fA-WFu.title" = "コンテンツ移行プロンプトをリセット";
+< > "rTT-8t-o4u.title" = "グリッドプリセットをリセット";
+< > "u90-av-IhI.title" = "可視性オプションをリセット";
+< > "uUB-3X-VTI.title" = "省略形をリセット";
 < > "w0s-cb-K4F.title" = "スナップオプションプリセットをリセット";
 ---
-> > /* Class = "NSButtonCell"; title = "키보드 단축키 재설정"; ObjectID = "AY0-CT-EgR"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6"; */
+> < /* Class = "NSButtonCell"; title = "Reset Adjustments"; ObjectID = "37"; */
+> < /* Class = "NSButtonCell"; title = "Reset Brushes"; ObjectID = "25"; */
+> < /* Class = "NSButtonCell"; title = "Reset Fills"; ObjectID = "27"; */
+> < /* Class = "NSButtonCell"; title = "Reset Keyboard Shortcuts"; ObjectID = "AY0-CT-EgR"; */
+> < /* Class = "NSButtonCell"; title = "Reset Studio"; ObjectID = "0sE-jO-vmg"; */
+> > "0sE-jO-vmg.title" = "작업실 재설정";
+> > "25.title" = "브러시 재설정";
+> > "27.title" = "칠 재설정";
+> > "37.title" = "조정 재설정";
+> > "6.title" = "취소";
 > > "AY0-CT-EgR.title" = "키보드 단축키 재설정";
+> > /* Class = "NSButtonCell"; title = "칠 재설정"; ObjectID = "27"; */
+> > /* Class = "NSButtonCell"; title = "조정 재설정"; ObjectID = "37"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "6"; */
+> > /* Class = "NSButtonCell"; title = "키보드 단축키 재설정"; ObjectID = "AY0-CT-EgR"; */
+> > /* Class = "NSButtonCell"; title = "작업실 재설정"; ObjectID = "0sE-jO-vmg"; */
+> > /* Class = "NSButtonCell"; title = "브러시 재설정"; ObjectID = "25"; */

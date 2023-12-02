@@ -1,36 +1,36 @@
-5,6c5,6
-< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6"; */
-< "6.title" = "Cancel";
 ---
-> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "6"; */
-> "6.title" = "취소";
+---
+---
+---
+---
+---
 17,18c17,18
-< /* Class = "NSButtonCell"; title = "Reset Brushes"; ObjectID = "25"; */
-< "25.title" = "Reset Brushes";
----
-> /* Class = "NSButtonCell"; title = "브러시 재설정"; ObjectID = "25"; */
-> "25.title" = "브러시 재설정";
 20,21c20,21
-< /* Class = "NSButtonCell"; title = "Reset Fills"; ObjectID = "27"; */
-< "27.title" = "Reset Fills";
----
-> /* Class = "NSButtonCell"; title = "칠 재설정"; ObjectID = "27"; */
-> "27.title" = "칠 재설정";
 23,24c23,24
-< /* Class = "NSButtonCell"; title = "Reset Adjustments"; ObjectID = "37"; */
-< "37.title" = "Reset Adjustments";
----
-> /* Class = "NSButtonCell"; title = "조정 재설정"; ObjectID = "37"; */
-> "37.title" = "조정 재설정";
 29,30c29,30
-< /* Class = "NSButtonCell"; title = "Reset Studio"; ObjectID = "0sE-jO-vmg"; */
-< "0sE-jO-vmg.title" = "Reset Studio";
----
-> /* Class = "NSButtonCell"; title = "작업실 재설정"; ObjectID = "0sE-jO-vmg"; */
-> "0sE-jO-vmg.title" = "작업실 재설정";
 47,48c47,48
-< /* Class = "NSButtonCell"; title = "Reset Keyboard Shortcuts"; ObjectID = "AY0-CT-EgR"; */
+5,6c5,6
+< "0sE-jO-vmg.title" = "Reset Studio";
+< "25.title" = "Reset Brushes";
+< "27.title" = "Reset Fills";
+< "37.title" = "Reset Adjustments";
+< "6.title" = "Cancel";
 < "AY0-CT-EgR.title" = "Reset Keyboard Shortcuts";
----
-> /* Class = "NSButtonCell"; title = "키보드 단축키 재설정"; ObjectID = "AY0-CT-EgR"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6"; */
+< /* Class = "NSButtonCell"; title = "Reset Adjustments"; ObjectID = "37"; */
+< /* Class = "NSButtonCell"; title = "Reset Brushes"; ObjectID = "25"; */
+< /* Class = "NSButtonCell"; title = "Reset Fills"; ObjectID = "27"; */
+< /* Class = "NSButtonCell"; title = "Reset Keyboard Shortcuts"; ObjectID = "AY0-CT-EgR"; */
+< /* Class = "NSButtonCell"; title = "Reset Studio"; ObjectID = "0sE-jO-vmg"; */
+> "0sE-jO-vmg.title" = "작업실 재설정";
+> "25.title" = "브러시 재설정";
+> "27.title" = "칠 재설정";
+> "37.title" = "조정 재설정";
+> "6.title" = "취소";
 > "AY0-CT-EgR.title" = "키보드 단축키 재설정";
+> /* Class = "NSButtonCell"; title = "칠 재설정"; ObjectID = "27"; */
+> /* Class = "NSButtonCell"; title = "조정 재설정"; ObjectID = "37"; */
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "6"; */
+> /* Class = "NSButtonCell"; title = "키보드 단축키 재설정"; ObjectID = "AY0-CT-EgR"; */
+> /* Class = "NSButtonCell"; title = "작업실 재설정"; ObjectID = "0sE-jO-vmg"; */
+> /* Class = "NSButtonCell"; title = "브러시 재설정"; ObjectID = "25"; */
