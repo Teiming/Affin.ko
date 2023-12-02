@@ -1,366 +1,351 @@
-1,21c1,2
-< 3c3
-< < "0Fn-Al-RRf.ibShadowedToolTip" = "Multiple keywords may be separated by semicolons or commas";
+15,157c15,28
 < ---
-< > "0Fn-Al-RRf.ibShadowedToolTip" = "複数のキーワードはセミコロンまたはカンマで区切ることができます";
-< 6c6
-< < "0dM-KD-bg5.title" = "Focal Length";
 < ---
-< > "0dM-KD-bg5.title" = "焦点距離";
-< 9c9
-< < "0kn-60-851.title" = "Attribution URL";
 < ---
-< > "0kn-60-851.title" = "属性URL";
-< 12c12
-< < "14w-A2-dCX.title" = "Raw data";
 < ---
-< > "14w-A2-dCX.title" = "RAWデータ";
-< 18c18
-< < "1x0-KF-Zeb.title" = "Desc. Writer";
 < ---
-< > "1x0-KF-Zeb.title" = "説明の著者";
-< 21c21
----
-> 20,21c20,21
-> < /* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "274-Xu-ynt"; */
-24,25c5,8
-< > "274-Xu-ynt.title" = "サイズ";
-< 24c24
----
-> > /* Class = "NSTextFieldCell"; title = "크기"; ObjectID = "274-Xu-ynt"; */
-> > "274-Xu-ynt.title" = "크기";
-> 23,24c23,24
-> < /* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "4j6-gL-RLE"; */
-28,89c11,14
-< > "4j6-gL-RLE.title" = "タイトル";
-< 27c27
-< < "4mS-29-r0g.title" = "Aperture";
 < ---
-< > "4mS-29-r0g.title" = "絞り";
-< 30c30
-< < "568-Ze-21J.title" = "Exp. Prog";
 < ---
-< > "568-Ze-21J.title" = "露出プログラム";
-< 33c33
-< < "5LK-Ce-q68.title" = "Source";
 < ---
-< > "5LK-Ce-q68.title" = "ソース";
-< 36c36
-< < "5nx-aT-6KR.title" = "Job ID";
 < ---
-< > "5nx-aT-6KR.title" = "ジョブID";
-< 39c39
-< < "66j-QE-bgR.title" = "Rating";
 < ---
-< > "66j-QE-bgR.title" = "評価";
-< 42c42
-< < "6Ww-5m-ZmA.title" = "City";
 < ---
-< > "6Ww-5m-ZmA.title" = "市区町村";
-< 45c45
-< < "8N3-Ou-wC3.title" = "Headline";
 < ---
-< > "8N3-Ou-wC3.title" = "見出し";
-< 48c48
-< < "8Ya-Zv-CoG.title" = "Country";
 < ---
-< > "8Ya-Zv-CoG.title" = "国";
-< 51c51
-< < "9QC-v7-fbW.title" = "Description";
 < ---
-< > "9QC-v7-fbW.title" = "説明";
-< 54c54
-< < "Bx6-nT-wrc.title" = "Postcode/ZIP";
 < ---
-< > "Bx6-nT-wrc.title" = "郵便番号";
-< 57c57
-< < "C2j-qv-0EQ.title" = "Phone";
 < ---
-< > "C2j-qv-0EQ.title" = "電話";
-< 60c60
-< < "CRu-Xi-7Tc.ibShadowedToolTip" = "Creative Commons license";
 < ---
-< > "CRu-Xi-7Tc.ibShadowedToolTip" = "クリエイティブコモンズライセンス";
-< 63c63
-< < "CyE-Vi-WZz.title" = "Exp. Bias";
 < ---
-< > "CyE-Vi-WZz.title" = "露出バイアス";
-< 66c66
-< < "En2-h8-dex.title" = "Date Shot";
 < ---
-< > "En2-h8-dex.title" = "日付ショット";
-< 69c69
-< < "FZi-P6-zI0.title" = "Genre";
 < ---
-< > "FZi-P6-zI0.title" = "ジャンル";
-< 75c75
----
-> > /* Class = "NSTextFieldCell"; title = "타이틀"; ObjectID = "4j6-gL-RLE"; */
-> > "4j6-gL-RLE.title" = "타이틀";
-> 74,75c74,75
-> < /* Class = "NSTextFieldCell"; title = "Copyright"; ObjectID = "GuA-Gq-Nqv"; */
-92,113c17,20
-< > "GuA-Gq-Nqv.title" = "著作権";
-< 78c78
-< < "Jd1-XC-k4f.title" = "ISO Country Code";
 < ---
-< > "Jd1-XC-k4f.title" = "ISO国コード";
-< 81c81
-< < "Kk9-vS-AmD.headerCell.title" = "Value";
 < ---
-< > "Kk9-vS-AmD.headerCell.title" = "値";
-< 84c84
-< < "KkJ-so-EnC.ibShadowedToolTip" = "Multiple scenes may be separated by semicolons or commas";
 < ---
-< > "KkJ-so-EnC.ibShadowedToolTip" = "複数のシーンはセミコロンまたはカンマで区切ることができます";
-< 87c87
-< < "L2J-hq-h0E.title" = "City";
 < ---
-< > "L2J-hq-h0E.title" = "市区町村";
-< 93c93
-< < "MbJ-xd-lam.title" = "Author Title";
 < ---
-< > "MbJ-xd-lam.title" = "作成者情報";
-< 96c96
----
-> > /* Class = "NSTextFieldCell"; title = "저작권"; ObjectID = "GuA-Gq-Nqv"; */
-> > "GuA-Gq-Nqv.title" = "저작권";
-> 95,96c95,96
-> < /* Class = "NSTextFieldCell"; title = "Maker"; ObjectID = "Nn1-Ug-q33"; */
-116,149c23,26
-< > "Nn1-Ug-q33.title" = "製造元";
-< 99c99
-< < "O6l-50-X6W.ibShadowedToolTip" = "Multiple subject codes may be separated by semicolons or commas";
 < ---
-< > "O6l-50-X6W.ibShadowedToolTip" = "複数の主題コードはセミコロンまたはカンマで区切ることができます";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 102c102
-< < "OGF-m7-mUv.ibShadowedToolTip" = "The original owner of the copyright; this could be an agency, a member of an agency or an individual";
-< ---
-< > "OGF-m7-mUv.ibShadowedToolTip" = "著作権の元所有者(代理店、代理店のメンバー、または個人である可能性があります)";
 < 105c105
-< < "RlX-21-5sG.title" = "Region";
-< ---
-< > "RlX-21-5sG.title" = "都道府県";
 < 108c108
-< < "Rlf-Ov-OWc.title" = "Public domain";
-< ---
-< > "Rlf-Ov-OWc.title" = "パブリックドメイン";
 < 111c111
-< < "TYb-BG-lv2.headerCell.title" = "Key";
-< ---
-< > "TYb-BG-lv2.headerCell.title" = "キー";
 < 114c114
-< < "UDo-Jp-JNe.title" = "Subject Codes";
-< ---
-< > "UDo-Jp-JNe.title" = "主題コード";
 < 120c120
-< < "VK8-Vd-cGE.title" = "IPTC (Contact)";
-< ---
-< > "VK8-Vd-cGE.title" = "IPTC(連絡先)";
 < 123c123
-< < "VfJ-Z7-2aJ.title" = "More Perms URL";
-< ---
-< > "VfJ-Z7-2aJ.title" = "他の許可のURL";
 < 126c126
----
-> > /* Class = "NSTextFieldCell"; title = "제조사"; ObjectID = "Nn1-Ug-q33"; */
-> > "Nn1-Ug-q33.title" = "제조사";
-> 125,126c125,126
-> < /* Class = "NSTextFieldCell"; title = "Location"; ObjectID = "WV2-Se-yn4"; */
-152,161c29,32
-< > "WV2-Se-yn4.title" = "場所";
 < 129c129
-< < "Wv7-ya-gSe.title" = "Statement";
-< ---
-< > "Wv7-ya-gSe.title" = "著作権情報";
+< 12c12
 < 132c132
-< < "XWy-5g-TYg.title" = "Attribution Name";
-< ---
-< > "XWy-5g-TYg.title" = "属性名";
 < 138c138
----
-> > /* Class = "NSTextFieldCell"; title = "위치"; ObjectID = "WV2-Se-yn4"; */
-> > "WV2-Se-yn4.title" = "위치";
-> 137,138c137,138
-> < /* Class = "NSTextFieldCell"; title = "Camera"; ObjectID = "Yfa-2a-cJU"; */
-164,166c35,39
-< > "Yfa-2a-cJU.title" = "カメラ";
 < 141c141
-< < "aEa-An-HmT.ibShadowedToolTip" = "Multiple values may be separated by a comma";
----
-> > /* Class = "NSTextFieldCell"; title = "카메라"; ObjectID = "Yfa-2a-cJU"; */
-> > "Yfa-2a-cJU.title" = "카메라";
-> 143,144c143,144
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aKN-lm-LmI"; */
-> < "aKN-lm-LmI.title" = "Text Cell";
-168,170c41,45
-< > "aEa-An-HmT.ibShadowedToolTip" = "複数の値はカンマで区切ることができます";
 < 147c147
-< < "ade-8o-Obn.title" = "Country";
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aKN-lm-LmI"; */
-> > "aKN-lm-LmI.title" = "텍스트 셀";
-> 191,192c191,192
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "k2Y-So-DSV"; */
-> < "k2Y-So-DSV.title" = "Text Cell";
-172,237c47,50
-< > "ade-8o-Obn.title" = "国";
 < 153c153
-< < "cZD-P6-HFD.title" = "Detail";
-< ---
-< > "cZD-P6-HFD.title" = "詳細";
 < 156c156
-< < "cec-Kt-iUq.label" = "Rights";
-< ---
-< > "cec-Kt-iUq.label" = "権利";
 < 159c159
-< < "dHJ-92-hnv.title" = "Credit";
-< ---
-< > "dHJ-92-hnv.title" = "クレジット";
 < 162c162
-< < "dTI-aM-0FO.ibShadowedToolTip" = "The provider of the image, who is not necessarily the owner/creator";
-< ---
-< > "dTI-aM-0FO.ibShadowedToolTip" = "画像の提供者(所有者/作成者に限らない)";
 < 165c165
-< < "dcc-ib-dM3.ibShadowedToolTip" = "A URL where additional permissions (commercial licensing, etc) are available";
-< ---
-< > "dcc-ib-dM3.ibShadowedToolTip" = "追加の権限(商用ライセンスなど)が利用可能なURL";
 < 168c168
-< < "e8V-Rh-aBR.title" = "Website";
-< ---
-< > "e8V-Rh-aBR.title" = "Webサイト";
 < 171c171
-< < "efO-dk-rEM.ibShadowedToolTip" = "Multiple values may be separated by a comma";
-< ---
-< > "efO-dk-rEM.ibShadowedToolTip" = "複数の値はカンマで区切ることができます";
 < 174c174
-< < "hwU-JC-q3u.title" = "Created at";
-< ---
-< > "hwU-JC-q3u.title" = "作成日";
 < 177c177
-< < "iNT-1O-2t0.title" = "Clear";
-< ---
-< > "iNT-1O-2t0.title" = "クリア";
 < 183c183
-< < "jLP-Al-DVE.title" = "Flash Fired";
-< ---
-< > "jLP-Al-DVE.title" = "フラッシュ点灯";
 < 186c186
-< < "jZW-rW-Ucu.ibShadowedToolTip" = "The URL to use when attributing this work";
-< ---
-< > "jZW-rW-Ucu.ibShadowedToolTip" = "この作品の属性で使用するURL";
 < 189c189
-< < "k26-12-g5a.title" = "Region";
-< ---
-< > "k26-12-g5a.title" = "都道府県";
+< 18c18
 < 195c195
-< < "kMF-pm-hXx.title" = "Address";
-< ---
-< > "kMF-pm-hXx.title" = "住所";
 < 198c198
-< < "kwG-P2-bKL.title" = "Rights";
-< ---
-< > "kwG-P2-bKL.title" = "権利";
 < 201c201
-< < "lCi-8Y-I4d.ibShadowedToolTip" = "Multiple values may be separated by a comma";
-< ---
-< > "lCi-8Y-I4d.ibShadowedToolTip" = "複数の値はカンマで区切ることができます";
 < 204c204
-< < "ohk-ts-JEg.ibShadowedToolTip" = "The copyright terms and/or holder";
-< ---
-< > "ohk-ts-JEg.ibShadowedToolTip" = "著作権に関する規約および/または所有者";
 < 207c207
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "k2Y-So-DSV"; */
-> > "k2Y-So-DSV.title" = "텍스트 셀";
-> 206,207c206,207
-> < /* Class = "NSTabViewItem"; label = "File"; ObjectID = "q9a-p7-MBF"; */
-240,257c53,56
-< > "q9a-p7-MBF.label" = "ファイル";
 < 210c210
-< < "qXi-bZ-siV.title" = "IPTC (Image)";
-< ---
-< > "qXi-bZ-siV.title" = "IPTC(画像)";
 < 213c213
-< < "rfL-QQ-Wue.title" = "Instructions";
-< ---
-< > "rfL-QQ-Wue.title" = "説明";
 < 216c216
-< < "sJf-rL-110.title" = "Keywords";
-< ---
-< > "sJf-rL-110.title" = "キーワード";
 < 219c219
-< < "sza-Df-rCA.label" = "Raw";
-< ---
-< > "sza-Df-rCA.label" = "RAW";
+< 21c21
 < 222c222
----
-> > /* Class = "NSTabViewItem"; label = "파일"; ObjectID = "q9a-p7-MBF"; */
-> > "q9a-p7-MBF.label" = "파일";
-> 221,222c221,222
-> < /* Class = "NSTextFieldCell"; title = "Author"; ObjectID = "tuS-5f-VDR"; */
-260,265c59,62
-< > "tuS-5f-VDR.title" = "作成者";
 < 225c225
-< < "txW-DQ-8tt.title" = "Metering";
-< ---
-< > "txW-DQ-8tt.title" = "測光";
 < 228c228
----
-> > /* Class = "NSTextFieldCell"; title = "저자"; ObjectID = "tuS-5f-VDR"; */
-> > "tuS-5f-VDR.title" = "저자";
-> 227,228c227,228
-> < /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "uKC-Am-XE5"; */
-268,277c65,68
-< > "uKC-Am-XE5.title" = "露出";
 < 231c231
-< < "uTp-pb-x6c.label" = "IPTC (Contact)";
-< ---
-< > "uTp-pb-x6c.label" = "IPTC(連絡先)";
 < 234c234
-< < "us8-Mt-xFf.title" = "Email";
-< ---
-< > "us8-Mt-xFf.title" = "電子メール";
 < 237c237
----
-> > /* Class = "NSTextFieldCell"; title = "노출"; ObjectID = "uKC-Am-XE5"; */
-> > "uKC-Am-XE5.title" = "노출";
-> 236,237c236,237
-> < /* Class = "NSMenuItem"; title = "Reset"; ObjectID = "wGP-MJ-mbr"; */
-280,285c71,74
-< > "wGP-MJ-mbr.title" = "リセット";
 < 240c240
-< < "wzH-n8-2Le.ibShadowedToolTip" = "The creator's preferred name to use when attributing this work";
-< ---
-< > "wzH-n8-2Le.ibShadowedToolTip" = "この作品の属性で使用する、作成者が優先する名前";
 < 243c243
----
-> > /* Class = "NSMenuItem"; title = "재설정"; ObjectID = "wGP-MJ-mbr"; */
-> > "wGP-MJ-mbr.title" = "재설정";
-> 242,243c242,243
-> < /* Class = "NSTextFieldCell"; title = "Lens"; ObjectID = "xbo-Cu-PZW"; */
-288,293c77,80
-< > "xbo-Cu-PZW.title" = "レンズ";
 < 246c246
-< < "yoM-w9-cvz.ibShadowedToolTip" = "Multiple authors may be separated by semicolons";
-< ---
-< > "yoM-w9-cvz.ibShadowedToolTip" = "複数の作成者はセミコロンで区切ることができます";
 < 249c249
----
-> > /* Class = "NSTextFieldCell"; title = "렌즈"; ObjectID = "xbo-Cu-PZW"; */
-> > "xbo-Cu-PZW.title" = "렌즈";
-> 248,249c248,249
-> < /* Class = "NSMenuItem"; title = "File"; ObjectID = "z1h-Sw-9zs"; */
-296,304c83,84
-< > "z1h-Sw-9zs.title" = "ファイル";
+< 24c24
 < 252c252
-< < "zL1-dx-245.label" = "IPTC (Image)";
-< ---
-< > "zL1-dx-245.label" = "IPTC(画像)";
 < 255c255
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+< 63c63
+< 66c66
+< 69c69
+< 6c6
+< 75c75
+< 78c78
+< 81c81
+< 84c84
+< 87c87
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+< < "0Fn-Al-RRf.ibShadowedToolTip" = "Multiple keywords may be separated by semicolons or commas";
+< < "0dM-KD-bg5.title" = "Focal Length";
+< < "0kn-60-851.title" = "Attribution URL";
+< < "14w-A2-dCX.title" = "Raw data";
+< < "1x0-KF-Zeb.title" = "Desc. Writer";
+---
+> 125,126c125,126
+> 137,138c137,138
+> 143,144c143,144
+> 191,192c191,192
+> 20,21c20,21
+> 206,207c206,207
+> 221,222c221,222
+> 227,228c227,228
+> 23,24c23,24
+> 236,237c236,237
+> 242,243c242,243
+> 248,249c248,249
+> 74,75c74,75
+> 95,96c95,96
+160,174d30
+< < "4mS-29-r0g.title" = "Aperture";
+< < "568-Ze-21J.title" = "Exp. Prog";
+< < "5LK-Ce-q68.title" = "Source";
+< < "5nx-aT-6KR.title" = "Job ID";
+< < "66j-QE-bgR.title" = "Rating";
+< < "6Ww-5m-ZmA.title" = "City";
+< < "8N3-Ou-wC3.title" = "Headline";
+< < "8Ya-Zv-CoG.title" = "Country";
+< < "9QC-v7-fbW.title" = "Description";
+< < "Bx6-nT-wrc.title" = "Postcode/ZIP";
+< < "C2j-qv-0EQ.title" = "Phone";
+< < "CRu-Xi-7Tc.ibShadowedToolTip" = "Creative Commons license";
+< < "CyE-Vi-WZz.title" = "Exp. Bias";
+< < "En2-h8-dex.title" = "Date Shot";
+< < "FZi-P6-zI0.title" = "Genre";
+176,180d31
+< < "Jd1-XC-k4f.title" = "ISO Country Code";
+< < "Kk9-vS-AmD.headerCell.title" = "Value";
+< < "KkJ-so-EnC.ibShadowedToolTip" = "Multiple scenes may be separated by semicolons or commas";
+< < "L2J-hq-h0E.title" = "City";
+< < "MbJ-xd-lam.title" = "Author Title";
+182,189d32
+< < "O6l-50-X6W.ibShadowedToolTip" = "Multiple subject codes may be separated by semicolons or commas";
+< < "OGF-m7-mUv.ibShadowedToolTip" = "The original owner of the copyright; this could be an agency, a member of an agency or an individual";
+< < "RlX-21-5sG.title" = "Region";
+< < "Rlf-Ov-OWc.title" = "Public domain";
+< < "TYb-BG-lv2.headerCell.title" = "Key";
+< < "UDo-Jp-JNe.title" = "Subject Codes";
+< < "VK8-Vd-cGE.title" = "IPTC (Contact)";
+< < "VfJ-Z7-2aJ.title" = "More Perms URL";
+191,192d33
+< < "Wv7-ya-gSe.title" = "Statement";
+< < "XWy-5g-TYg.title" = "Attribution Name";
+194,211c35,36
+< < "aEa-An-HmT.ibShadowedToolTip" = "Multiple values may be separated by a comma";
+< < "ade-8o-Obn.title" = "Country";
+< < "cZD-P6-HFD.title" = "Detail";
+< < "cec-Kt-iUq.label" = "Rights";
+< < "dHJ-92-hnv.title" = "Credit";
+< < "dTI-aM-0FO.ibShadowedToolTip" = "The provider of the image, who is not necessarily the owner/creator";
+< < "dcc-ib-dM3.ibShadowedToolTip" = "A URL where additional permissions (commercial licensing, etc) are available";
+< < "e8V-Rh-aBR.title" = "Website";
+< < "efO-dk-rEM.ibShadowedToolTip" = "Multiple values may be separated by a comma";
+< < "hwU-JC-q3u.title" = "Created At";
+< < "iNT-1O-2t0.title" = "Clear";
+< < "jLP-Al-DVE.title" = "Flash Fired";
+< < "jZW-rW-Ucu.ibShadowedToolTip" = "The URL to use when attributing this work";
+< < "k26-12-g5a.title" = "Region";
+< < "kMF-pm-hXx.title" = "Address";
+< < "kwG-P2-bKL.title" = "Rights";
+< < "lCi-8Y-I4d.ibShadowedToolTip" = "Multiple values may be separated by a comma";
+< < "ohk-ts-JEg.ibShadowedToolTip" = "The copyright terms and/or holder";
+---
+> < "aKN-lm-LmI.title" = "Text Cell";
+> < "k2Y-So-DSV.title" = "Text Cell";
+213,216d37
+< < "qXi-bZ-siV.title" = "IPTC (Image)";
+< < "rfL-QQ-Wue.title" = "Instructions";
+< < "sJf-rL-110.title" = "Keywords";
+< < "sza-Df-rCA.label" = "Raw";
+218d38
+< < "txW-DQ-8tt.title" = "Metering";
+220,221d39
+< < "uTp-pb-x6c.label" = "IPTC (Contact)";
+< < "us8-Mt-xFf.title" = "Email";
+223d40
+< < "wzH-n8-2Le.ibShadowedToolTip" = "The creator's preferred name to use when attributing this work";
+225d41
+< < "yoM-w9-cvz.ibShadowedToolTip" = "Multiple authors may be separated by semicolons";
+227,304c43,84
+< < "zL1-dx-245.label" = "IPTC (Image)";
 < < "zYN-F4-rtm.title" = "Scenes";
-< ---
+< > "0Fn-Al-RRf.ibShadowedToolTip" = "複数のキーワードはセミコロンまたはカンマで区切ることができます";
+< > "0dM-KD-bg5.title" = "焦点距離";
+< > "0kn-60-851.title" = "属性URL";
+< > "14w-A2-dCX.title" = "RAWデータ";
+< > "1x0-KF-Zeb.title" = "説明の著者";
+< > "274-Xu-ynt.title" = "サイズ";
+< > "4j6-gL-RLE.title" = "タイトル";
+< > "4mS-29-r0g.title" = "絞り";
+< > "568-Ze-21J.title" = "露出プログラム";
+< > "5LK-Ce-q68.title" = "ソース";
+< > "5nx-aT-6KR.title" = "ジョブID";
+< > "66j-QE-bgR.title" = "評価";
+< > "6Ww-5m-ZmA.title" = "市区町村";
+< > "8N3-Ou-wC3.title" = "見出し";
+< > "8Ya-Zv-CoG.title" = "国";
+< > "9QC-v7-fbW.title" = "説明";
+< > "Bx6-nT-wrc.title" = "郵便番号";
+< > "C2j-qv-0EQ.title" = "電話";
+< > "CRu-Xi-7Tc.ibShadowedToolTip" = "クリエイティブコモンズライセンス";
+< > "CyE-Vi-WZz.title" = "露出バイアス";
+< > "En2-h8-dex.title" = "日付ショット";
+< > "FZi-P6-zI0.title" = "ジャンル";
+< > "GuA-Gq-Nqv.title" = "著作権";
+< > "Jd1-XC-k4f.title" = "ISO国コード";
+< > "Kk9-vS-AmD.headerCell.title" = "値";
+< > "KkJ-so-EnC.ibShadowedToolTip" = "複数のシーンはセミコロンまたはカンマで区切ることができます";
+< > "L2J-hq-h0E.title" = "市区町村";
+< > "MbJ-xd-lam.title" = "作成者情報";
+< > "Nn1-Ug-q33.title" = "製造元";
+< > "O6l-50-X6W.ibShadowedToolTip" = "複数の主題コードはセミコロンまたはカンマで区切ることができます";
+< > "OGF-m7-mUv.ibShadowedToolTip" = "著作権の元所有者(代理店、代理店のメンバー、または個人である可能性があります)";
+< > "RlX-21-5sG.title" = "都道府県";
+< > "Rlf-Ov-OWc.title" = "パブリックドメイン";
+< > "TYb-BG-lv2.headerCell.title" = "キー";
+< > "UDo-Jp-JNe.title" = "主題コード";
+< > "VK8-Vd-cGE.title" = "IPTC(連絡先)";
+< > "VfJ-Z7-2aJ.title" = "他の許可のURL";
+< > "WV2-Se-yn4.title" = "場所";
+< > "Wv7-ya-gSe.title" = "著作権情報";
+< > "XWy-5g-TYg.title" = "属性名";
+< > "Yfa-2a-cJU.title" = "カメラ";
+< > "aEa-An-HmT.ibShadowedToolTip" = "複数の値はカンマで区切ることができます";
+< > "ade-8o-Obn.title" = "国";
+< > "cZD-P6-HFD.title" = "詳細";
+< > "cec-Kt-iUq.label" = "権利";
+< > "dHJ-92-hnv.title" = "クレジット";
+< > "dTI-aM-0FO.ibShadowedToolTip" = "画像の提供者(所有者/作成者に限らない)";
+< > "dcc-ib-dM3.ibShadowedToolTip" = "追加の権限(商用ライセンスなど)が利用可能なURL";
+< > "e8V-Rh-aBR.title" = "Webサイト";
+< > "efO-dk-rEM.ibShadowedToolTip" = "複数の値はカンマで区切ることができます";
+< > "hwU-JC-q3u.title" = "作成日";
+< > "iNT-1O-2t0.title" = "クリア";
+< > "jLP-Al-DVE.title" = "フラッシュ点灯";
+< > "jZW-rW-Ucu.ibShadowedToolTip" = "この作品の属性で使用するURL";
+< > "k26-12-g5a.title" = "都道府県";
+< > "kMF-pm-hXx.title" = "住所";
+< > "kwG-P2-bKL.title" = "権利";
+< > "lCi-8Y-I4d.ibShadowedToolTip" = "複数の値はカンマで区切ることができます";
+< > "ohk-ts-JEg.ibShadowedToolTip" = "著作権に関する規約および/または所有者";
+< > "q9a-p7-MBF.label" = "ファイル";
+< > "qXi-bZ-siV.title" = "IPTC(画像)";
+< > "rfL-QQ-Wue.title" = "説明";
+< > "sJf-rL-110.title" = "キーワード";
+< > "sza-Df-rCA.label" = "RAW";
+< > "tuS-5f-VDR.title" = "作成者";
+< > "txW-DQ-8tt.title" = "測光";
+< > "uKC-Am-XE5.title" = "露出";
+< > "uTp-pb-x6c.label" = "IPTC(連絡先)";
+< > "us8-Mt-xFf.title" = "電子メール";
+< > "wGP-MJ-mbr.title" = "リセット";
+< > "wzH-n8-2Le.ibShadowedToolTip" = "この作品の属性で使用する、作成者が優先する名前";
+< > "xbo-Cu-PZW.title" = "レンズ";
+< > "yoM-w9-cvz.ibShadowedToolTip" = "複数の作成者はセミコロンで区切ることができます";
+< > "z1h-Sw-9zs.title" = "ファイル";
+< > "zL1-dx-245.label" = "IPTC(画像)";
 < > "zYN-F4-rtm.title" = "シーン";
 ---
-> > /* Class = "NSMenuItem"; title = "파일"; ObjectID = "z1h-Sw-9zs"; */
+> < /* Class = "NSMenuItem"; title = "File"; ObjectID = "z1h-Sw-9zs"; */
+> < /* Class = "NSMenuItem"; title = "Reset"; ObjectID = "wGP-MJ-mbr"; */
+> < /* Class = "NSTabViewItem"; label = "File"; ObjectID = "q9a-p7-MBF"; */
+> < /* Class = "NSTextFieldCell"; title = "Author"; ObjectID = "tuS-5f-VDR"; */
+> < /* Class = "NSTextFieldCell"; title = "Camera"; ObjectID = "Yfa-2a-cJU"; */
+> < /* Class = "NSTextFieldCell"; title = "Copyright"; ObjectID = "GuA-Gq-Nqv"; */
+> < /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "uKC-Am-XE5"; */
+> < /* Class = "NSTextFieldCell"; title = "Lens"; ObjectID = "xbo-Cu-PZW"; */
+> < /* Class = "NSTextFieldCell"; title = "Location"; ObjectID = "WV2-Se-yn4"; */
+> < /* Class = "NSTextFieldCell"; title = "Maker"; ObjectID = "Nn1-Ug-q33"; */
+> < /* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "274-Xu-ynt"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aKN-lm-LmI"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "k2Y-So-DSV"; */
+> < /* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "4j6-gL-RLE"; */
+> > "274-Xu-ynt.title" = "크기";
+> > "4j6-gL-RLE.title" = "타이틀";
+> > "GuA-Gq-Nqv.title" = "저작권";
+> > "Nn1-Ug-q33.title" = "제조사";
+> > "WV2-Se-yn4.title" = "위치";
+> > "Yfa-2a-cJU.title" = "카메라";
+> > "aKN-lm-LmI.title" = "텍스트 셀";
+> > "k2Y-So-DSV.title" = "텍스트 셀";
+> > "q9a-p7-MBF.label" = "파일";
+> > "tuS-5f-VDR.title" = "저자";
+> > "uKC-Am-XE5.title" = "노출";
+> > "wGP-MJ-mbr.title" = "재설정";
+> > "xbo-Cu-PZW.title" = "렌즈";
 > > "z1h-Sw-9zs.title" = "파일";
+> > /* Class = "NSMenuItem"; title = "파일"; ObjectID = "z1h-Sw-9zs"; */
+> > /* Class = "NSMenuItem"; title = "재설정"; ObjectID = "wGP-MJ-mbr"; */
+> > /* Class = "NSTabViewItem"; label = "파일"; ObjectID = "q9a-p7-MBF"; */
+> > /* Class = "NSTextFieldCell"; title = "크기"; ObjectID = "274-Xu-ynt"; */
+> > /* Class = "NSTextFieldCell"; title = "위치"; ObjectID = "WV2-Se-yn4"; */
+> > /* Class = "NSTextFieldCell"; title = "저자"; ObjectID = "tuS-5f-VDR"; */
+> > /* Class = "NSTextFieldCell"; title = "노출"; ObjectID = "uKC-Am-XE5"; */
+> > /* Class = "NSTextFieldCell"; title = "렌즈"; ObjectID = "xbo-Cu-PZW"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aKN-lm-LmI"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "k2Y-So-DSV"; */
+> > /* Class = "NSTextFieldCell"; title = "타이틀"; ObjectID = "4j6-gL-RLE"; */
+> > /* Class = "NSTextFieldCell"; title = "저작권"; ObjectID = "GuA-Gq-Nqv"; */
+> > /* Class = "NSTextFieldCell"; title = "제조사"; ObjectID = "Nn1-Ug-q33"; */
+> > /* Class = "NSTextFieldCell"; title = "카메라"; ObjectID = "Yfa-2a-cJU"; */
