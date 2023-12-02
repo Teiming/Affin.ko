@@ -35,12 +35,6 @@
 < > "vDJ-ql-dek.title" = "ピクチャは縦横比を維持してスケーリングされます。フレームが完全には埋められない場合があります。";
 < > "yj7-Uo-WT4.title" = "最大フィットに合わせてスケーリング";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6tR-vm-RIN"; */
-> < /* Class = "NSButtonCell"; title = "Done"; ObjectID = "6F3-ov-81E"; */
-> < /* Class = "NSTextFieldCell"; title = "None"; ObjectID = "1ip-cP-h9u"; */
 > > "1ip-cP-h9u.title" = "없음";
 > > "6F3-ov-81E.title" = "완료";
 > > "6tR-vm-RIN.title" = "취소";
-> > /* Class = "NSButtonCell"; title = "완료"; ObjectID = "6F3-ov-81E"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "6tR-vm-RIN"; */
-> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "1ip-cP-h9u"; */
