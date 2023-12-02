@@ -1,226 +1,189 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSWindow"; title = "Guides"; ObjectID = "1"; */
-4,6c5,9
-< > "1.title" = "ガイド";
-< 6c6
-< < "4.title" = "Horizontal Guides";
----
-> > /* Class = "NSWindow"; title = "안내선"; ObjectID = "1"; */
-> > "1.title" = "안내선";
-> 11,12c11,12
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "18"; */
-> < "18.title" = "Text Cell";
-8,10c11,15
-< > "4.title" = "水平ガイド";
-< 9c9
-< < "9.title" = "Vertical Guides";
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "18"; */
-> > "18.title" = "텍스트 셀";
-> 14,15c14,15
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "24"; */
-> < "24.title" = "Text Cell";
-12,13c17,20
-< > "9.title" = "垂直ガイド";
-< 18c18
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "24"; */
-> > "24.title" = "텍스트 셀";
-> 17,18c17,18
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "26"; */
-16,18c23,26
-< > "26.title" = "閉じる";
-< 21c21
-< < "61.ibShadowedToolTip" = "Add New Brush Category";
----
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "26"; */
-> > "26.title" = "닫기";
-> 32c32
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "5It-ev-sNy"; */
-20,37c28,30
-< > "61.ibShadowedToolTip" = "新規ブラシカテゴリを追加";
-< 24c24
-< < "62.ibShadowedToolTip" = "Remove Brush Category";
+24,64c24,46
 < ---
-< > "62.ibShadowedToolTip" = "ブラシカテゴリを削除";
-< 27c27
-< < "67.ibShadowedToolTip" = "Remove Brush Category";
 < ---
-< > "67.ibShadowedToolTip" = "ブラシカテゴリを削除";
-< 30c30
-< < "68.ibShadowedToolTip" = "Add New Brush Category";
 < ---
-< > "68.ibShadowedToolTip" = "新規ブラシカテゴリを追加";
-< 33c33
-< < "5It-ev-sNy.title" = "Color:";
 < ---
-< > "5It-ev-sNy.title" = "カラー:";
-< 36c36
----
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "5It-ev-sNy"; */
-> 35,36c35,36
-> < /* Class = "NSButtonCell"; title = "Percent"; ObjectID = "6PN-K9-Tf6"; */
-40,41c33,36
-< > "6PN-K9-Tf6.title" = "パーセント";
-< 39c39
----
-> > /* Class = "NSButtonCell"; title = "백분율"; ObjectID = "6PN-K9-Tf6"; */
-> > "6PN-K9-Tf6.title" = "백분율";
-> 38,39c38,39
-> < /* Class = "NSTextFieldCell"; title = "Gutter:"; ObjectID = "8ZZ-Bw-KlB"; */
-44,45c39,42
-< > "8ZZ-Bw-KlB.title" = "余白:";
-< 42c42
----
-> > /* Class = "NSTextFieldCell"; title = "여백:"; ObjectID = "8ZZ-Bw-KlB"; */
-> > "8ZZ-Bw-KlB.title" = "여백:";
-> 41,42c41,42
-> < /* Class = "NSTextFieldCell"; title = "Column Guides"; ObjectID = "CK2-fe-Dl1"; */
-48,53c45,48
-< > "CK2-fe-Dl1.title" = "カラムガイド";
-< 45c45
-< < "CXG-5c-CXz.title" = "Filled";
 < ---
-< > "CXG-5c-CXz.title" = "塗りつぶし済み";
-< 48c48
----
-> > /* Class = "NSTextFieldCell"; title = "열 안내선"; ObjectID = "CK2-fe-Dl1"; */
-> > "CK2-fe-Dl1.title" = "열 안내선";
-> 47,48c47,48
-> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "Fni-I1-Sg7"; */
-56,57c51,54
-< > "Fni-I1-Sg7.title" = "上:";
-< 54c54
----
-> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "Fni-I1-Sg7"; */
-> > "Fni-I1-Sg7.title" = "위쪽:";
-> 53,54c53,54
-> < /* Class = "NSTextFieldCell"; title = "Columns:"; ObjectID = "KJm-8a-bnW"; */
-60,61c57,60
-< > "KJm-8a-bnW.title" = "列数:";
-< 57c57
----
-> > /* Class = "NSTextFieldCell"; title = "행:"; ObjectID = "KJm-8a-bnW"; */
-> > "KJm-8a-bnW.title" = "행:";
-> 56,57c56,57
-> < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "KjF-0p-diM"; */
-64,65c63,66
-< > "KjF-0p-diM.title" = "下:";
-< 60c60
----
-> > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "KjF-0p-diM"; */
-> > "KjF-0p-diM.title" = "아래쪽";
-> 59,60c59,60
-> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "LFc-kJ-50t"; */
-68,69c69,72
-< > "LFc-kJ-50t.title" = "左:";
-< 63c63
----
-> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "LFc-kJ-50t"; */
-> > "LFc-kJ-50t.title" = "왼쪽:";
-> 62,63c62,63
-> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "MA9-h9-3Ux"; */
-72,77c75,78
-< > "MA9-h9-3Ux.title" = "スタイル:";
-< 66c66
-< < "N0Z-Tc-y0w.title" = "Spread Origin";
 < ---
-< > "N0Z-Tc-y0w.title" = "スプレッド基点";
-< 72c72
----
-> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "MA9-h9-3Ux"; */
-> > "MA9-h9-3Ux.title" = "스타일:";
-> 71,72c71,72
-> < /* Class = "NSTextFieldCell"; title = "Rows:"; ObjectID = "RMN-16-uQd"; */
-80,81c81,84
-< > "RMN-16-uQd.title" = "行数:";
-< 78c78
----
-> > /* Class = "NSTextFieldCell"; title = "열:"; ObjectID = "RMN-16-uQd"; */
-> > "RMN-16-uQd.title" = "열:";
-> 77,78c77,78
-> < /* Class = "NSMenuItem"; title = "Outline"; ObjectID = "S38-o4-IrR"; */
-84,85c87,90
-< > "S38-o4-IrR.title" = "アウトライン";
-< 84c84
----
-> > /* Class = "NSMenuItem"; title = "외형"; ObjectID = "S38-o4-IrR"; */
-> > "S38-o4-IrR.title" = "외형";
-> 83,84c83,84
-> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "arG-dM-8U4"; */
-88,89c93,96
-< > "arG-dM-8U4.title" = "ボタン";
-< 87c87
----
-> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "arG-dM-8U4"; */
-> > "arG-dM-8U4.title" = "버튼";
-> 86,87c86,87
-> < /* Class = "NSTextFieldCell"; title = "Margins"; ObjectID = "bQs-66-fqn"; */
-92,93c99,102
-< > "bQs-66-fqn.title" = "マージン";
-< 90c90
----
-> > /* Class = "NSTextFieldCell"; title = "여백"; ObjectID = "bQs-66-fqn"; */
-> > "bQs-66-fqn.title" = "여백";
-> 89,90c89,90
-> < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "dWU-Pe-VWn"; */
-96,105c105,108
-< > "dWU-Pe-VWn.title" = "右:";
-< 93c93
-< < "e0t-Ya-eJd.ibShadowedToolTip" = "Set the margin color";
 < ---
-< > "e0t-Ya-eJd.ibShadowedToolTip" = "マージンカラーを設定";
-< 96c96
-< < "fAQ-bh-EpT.ibShadowedToolTip" = "Set the column guide color";
 < ---
-< > "fAQ-bh-EpT.ibShadowedToolTip" = "カラムガイドのカラーを設定";
-< 99c99
----
-> > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "dWU-Pe-VWn"; */
-> > "dWU-Pe-VWn.title" = "오른쪽:";
-> 98,99c98,99
-> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "fZG-vR-6NS"; */
-108,110c111,114
-< > "fZG-vR-6NS.title" = "ボタン";
+< ---
 < 102c102
-< < "ibe-KI-fUd.title" = "Color:";
----
-> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "fZG-vR-6NS"; */
-> > "fZG-vR-6NS.title" = "버튼";
-> 101c101
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "ibe-KI-fUd"; */
-112,113c116,118
-< > "ibe-KI-fUd.title" = "カラー:";
 < 105c105
----
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "ibe-KI-fUd"; */
-> 104,105c104,105
-> < /* Class = "NSButtonCell"; title = "Remove All Guides"; ObjectID = "pmh-zz-W3b"; */
-116,117c121,124
-< > "pmh-zz-W3b.title" = "ガイドをすべて削除";
 < 108c108
----
-> > /* Class = "NSButtonCell"; title = "모든 안내선 지우기"; ObjectID = "pmh-zz-W3b"; */
-> > "pmh-zz-W3b.title" = "모든 안내선 지우기";
-> 107,108c107,108
-> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "pnC-4d-0iN"; */
-120,122c127,130
-< > "pnC-4d-0iN.title" = "ボタン";
 < 111c111
-< < "puc-gW-Xy5.ibShadowedToolTip" = "Set the column guide color";
----
-> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "pnC-4d-0iN"; */
-> > "pnC-4d-0iN.title" = "버튼";
-> 113c113
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "rDq-fn-kBF"; */
-124,128c132
-< > "puc-gW-Xy5.ibShadowedToolTip" = "列ガイドのカラーを設定";
 < 114c114
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 48c48
+< 54c54
+< 57c57
+< 60c60
+< 63c63
+< 66c66
+< 6c6
+< 72c72
+< 78c78
+< 84c84
+< 87c87
+< 90c90
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+---
+> 101c101
+> 104,105c104,105
+> 107,108c107,108
+> 11,12c11,12
+> 113c113
+> 14,15c14,15
+> 17,18c17,18
+> 2,3c2,3
+> 32c32
+> 35,36c35,36
+> 38,39c38,39
+> 41,42c41,42
+> 47,48c47,48
+> 53,54c53,54
+> 56,57c56,57
+> 59,60c59,60
+> 62,63c62,63
+> 71,72c71,72
+> 77,78c77,78
+> 83,84c83,84
+> 86,87c86,87
+> 89,90c89,90
+> 98,99c98,99
+65a48,49
+> < "18.title" = "Text Cell";
+> < "24.title" = "Text Cell";
+67,72d50
+< < "4.title" = "Horizontal Guides";
+< < "5It-ev-sNy.title" = "Color:";
+< < "61.ibShadowedToolTip" = "Add New Brush Category";
+< < "62.ibShadowedToolTip" = "Remove Brush Category";
+< < "67.ibShadowedToolTip" = "Remove Brush Category";
+< < "68.ibShadowedToolTip" = "Add New Brush Category";
+75d52
+< < "9.title" = "Vertical Guides";
+77d53
+< < "CXG-5c-CXz.title" = "Filled";
+83d58
+< < "N0Z-Tc-y0w.title" = "Spread Origin";
+89,90d63
+< < "e0t-Ya-eJd.ibShadowedToolTip" = "Set the margin color";
+< < "fAQ-bh-EpT.ibShadowedToolTip" = "Set the column guide color";
+92d64
+< < "ibe-KI-fUd.title" = "Color:";
+95,128c67,132
+< < "puc-gW-Xy5.ibShadowedToolTip" = "Set the column guide color";
 < < "rDq-fn-kBF.title" = "Color:";
-< ---
+< > "1.title" = "ガイド";
+< > "26.title" = "閉じる";
+< > "4.title" = "水平ガイド";
+< > "5It-ev-sNy.title" = "カラー:";
+< > "61.ibShadowedToolTip" = "新規ブラシカテゴリを追加";
+< > "62.ibShadowedToolTip" = "ブラシカテゴリを削除";
+< > "67.ibShadowedToolTip" = "ブラシカテゴリを削除";
+< > "68.ibShadowedToolTip" = "新規ブラシカテゴリを追加";
+< > "6PN-K9-Tf6.title" = "パーセント";
+< > "8ZZ-Bw-KlB.title" = "余白:";
+< > "9.title" = "垂直ガイド";
+< > "CK2-fe-Dl1.title" = "カラムガイド";
+< > "CXG-5c-CXz.title" = "塗りつぶし済み";
+< > "Fni-I1-Sg7.title" = "上:";
+< > "KJm-8a-bnW.title" = "列数:";
+< > "KjF-0p-diM.title" = "下:";
+< > "LFc-kJ-50t.title" = "左:";
+< > "MA9-h9-3Ux.title" = "スタイル:";
+< > "N0Z-Tc-y0w.title" = "スプレッド基点";
+< > "RMN-16-uQd.title" = "行数:";
+< > "S38-o4-IrR.title" = "アウトライン";
+< > "arG-dM-8U4.title" = "ボタン";
+< > "bQs-66-fqn.title" = "マージン";
+< > "dWU-Pe-VWn.title" = "右:";
+< > "e0t-Ya-eJd.ibShadowedToolTip" = "マージンカラーを設定";
+< > "fAQ-bh-EpT.ibShadowedToolTip" = "カラムガイドのカラーを設定";
+< > "fZG-vR-6NS.title" = "ボタン";
+< > "ibe-KI-fUd.title" = "カラー:";
+< > "pmh-zz-W3b.title" = "ガイドをすべて削除";
+< > "pnC-4d-0iN.title" = "ボタン";
+< > "puc-gW-Xy5.ibShadowedToolTip" = "列ガイドのカラーを設定";
 < > "rDq-fn-kBF.title" = "カラー:";
 ---
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "arG-dM-8U4"; */
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "fZG-vR-6NS"; */
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "pnC-4d-0iN"; */
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "26"; */
+> < /* Class = "NSButtonCell"; title = "Percent"; ObjectID = "6PN-K9-Tf6"; */
+> < /* Class = "NSButtonCell"; title = "Remove All Guides"; ObjectID = "pmh-zz-W3b"; */
+> < /* Class = "NSMenuItem"; title = "Outline"; ObjectID = "S38-o4-IrR"; */
+> < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "KjF-0p-diM"; */
+> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "5It-ev-sNy"; */
+> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "ibe-KI-fUd"; */
+> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "rDq-fn-kBF"; */
+> < /* Class = "NSTextFieldCell"; title = "Column Guides"; ObjectID = "CK2-fe-Dl1"; */
+> < /* Class = "NSTextFieldCell"; title = "Columns:"; ObjectID = "KJm-8a-bnW"; */
+> < /* Class = "NSTextFieldCell"; title = "Gutter:"; ObjectID = "8ZZ-Bw-KlB"; */
+> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "LFc-kJ-50t"; */
+> < /* Class = "NSTextFieldCell"; title = "Margins"; ObjectID = "bQs-66-fqn"; */
+> < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "dWU-Pe-VWn"; */
+> < /* Class = "NSTextFieldCell"; title = "Rows:"; ObjectID = "RMN-16-uQd"; */
+> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "MA9-h9-3Ux"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "18"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "24"; */
+> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "Fni-I1-Sg7"; */
+> < /* Class = "NSWindow"; title = "Guides"; ObjectID = "1"; */
+> > "1.title" = "안내선";
+> > "18.title" = "텍스트 셀";
+> > "24.title" = "텍스트 셀";
+> > "26.title" = "닫기";
+> > "6PN-K9-Tf6.title" = "백분율";
+> > "8ZZ-Bw-KlB.title" = "여백:";
+> > "CK2-fe-Dl1.title" = "열 안내선";
+> > "Fni-I1-Sg7.title" = "위쪽:";
+> > "KJm-8a-bnW.title" = "행:";
+> > "KjF-0p-diM.title" = "아래쪽";
+> > "LFc-kJ-50t.title" = "왼쪽:";
+> > "MA9-h9-3Ux.title" = "스타일:";
+> > "RMN-16-uQd.title" = "열:";
+> > "S38-o4-IrR.title" = "외형";
+> > "arG-dM-8U4.title" = "버튼";
+> > "bQs-66-fqn.title" = "여백";
+> > "dWU-Pe-VWn.title" = "오른쪽:";
+> > "fZG-vR-6NS.title" = "버튼";
+> > "pmh-zz-W3b.title" = "모든 안내선 지우기";
+> > "pnC-4d-0iN.title" = "버튼";
+> > /* Class = "NSButtonCell"; title = "모든 안내선 지우기"; ObjectID = "pmh-zz-W3b"; */
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "26"; */
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "arG-dM-8U4"; */
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "fZG-vR-6NS"; */
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "pnC-4d-0iN"; */
+> > /* Class = "NSButtonCell"; title = "백분율"; ObjectID = "6PN-K9-Tf6"; */
+> > /* Class = "NSMenuItem"; title = "외형"; ObjectID = "S38-o4-IrR"; */
+> > /* Class = "NSTextFieldCell"; title = "열 안내선"; ObjectID = "CK2-fe-Dl1"; */
+> > /* Class = "NSTextFieldCell"; title = "행:"; ObjectID = "KJm-8a-bnW"; */
+> > /* Class = "NSTextFieldCell"; title = "열:"; ObjectID = "RMN-16-uQd"; */
+> > /* Class = "NSTextFieldCell"; title = "여백"; ObjectID = "bQs-66-fqn"; */
+> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "5It-ev-sNy"; */
+> > /* Class = "NSTextFieldCell"; title = "여백:"; ObjectID = "8ZZ-Bw-KlB"; */
+> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "Fni-I1-Sg7"; */
+> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "LFc-kJ-50t"; */
+> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "ibe-KI-fUd"; */
 > > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "rDq-fn-kBF"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "18"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "24"; */
+> > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "KjF-0p-diM"; */
+> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "MA9-h9-3Ux"; */
+> > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "dWU-Pe-VWn"; */
+> > /* Class = "NSWindow"; title = "안내선"; ObjectID = "1"; */
