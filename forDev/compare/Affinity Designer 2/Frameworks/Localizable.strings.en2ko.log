@@ -606,6 +606,7 @@
 17462c17462
 1748c1748
 17492c17492
+1751c1751
 17525c17525
 17531c17531
 17534c17534
@@ -680,6 +681,7 @@
 18308c18308
 18320c18320
 18323c18323
+18341c18341
 18344c18344
 18350c18350
 18353c18353
@@ -1421,6 +1423,7 @@
 30359c30359
 30437c30437
 30446c30446
+3050c3050
 30542c30542
 30587c30587
 30599c30599
@@ -3566,6 +3569,7 @@
 < "Insert Behind [Photo Persona Toolbar]" = "Insert Behind";
 < "Insert Filler Text [Menu]" = "Insert Filler Text";
 < "Insert Inside [Photo Persona Toolbar]" = "Insert Inside";
+< "Insert Special Character [Menu]" = "Insert Special Character";
 < "Insert Top [Photo Persona Toolbar]" = "Insert Top";
 < "Insert [Add Pages]" = "Insert";
 < "Insert [TOC Panel]" = "Insert";
@@ -3736,6 +3740,7 @@
 < "Low Frequency [Frequency Layer Name]" = "Low Frequency";
 < "Low Frequency [Low Frequency layer name]" = "Low Frequency";
 < "Low Frequency [Two up mode descriptions]" = "Low Frequency";
+< "Lower Case [Character Panel Controller]" = "Lower Case";
 < "Luminosity [Blend Modes]" = "Luminosity";
 < "Luminosity [Brush Editor blend mode name]" = "Luminosity";
 < "Luminosity [HSL Channel name]" = "Luminosity";
@@ -4720,6 +4725,7 @@
 < "Texture [Brush Editor]" = "Texture";
 < "Texture [Line page control title]" = "Texture";
 < "Texture [Reflected property]" = "Texture";
+< "Third party licences [EULA]" = "Third party licenses";
 < "Threshold [Adjustment name]" = "Threshold";
 < "Threshold [Reflectable property]" = "Threshold";
 < "Threshold [Reflected property]" = "Threshold";
@@ -6041,6 +6047,7 @@
 > "Insert Behind [Photo Persona Toolbar]" = "뒤로 삽입";
 > "Insert Filler Text [Menu]" = "채우기 텍스트";
 > "Insert Inside [Photo Persona Toolbar]" = "안으로 삽입";
+> "Insert Special Character [Menu]" = "특수문자삽입";
 > "Insert Top [Photo Persona Toolbar]" = "위로 삽입";
 > "Insert [Add Pages]" = "삽입";
 > "Insert [TOC Panel]" = "삽입";
@@ -6211,6 +6218,7 @@
 > "Low Frequency [Frequency Layer Name]" = "저주파수";
 > "Low Frequency [Low Frequency layer name]" = "저주파수";
 > "Low Frequency [Two up mode descriptions]" = "저주파수";
+> "Lower Case [Character Panel Controller]" = "소문자화";
 > "Luminosity [Blend Modes]" = "휘도";
 > "Luminosity [Brush Editor blend mode name]" = "휘도";
 > "Luminosity [HSL Channel name]" = "휘도";
@@ -7195,6 +7203,7 @@
 > "Texture [Brush Editor]" = "질감";
 > "Texture [Line page control title]" = "질감";
 > "Texture [Reflected property]" = "질감";
+> "Third party licences [EULA]" = "서드파티 자격";
 > "Threshold [Adjustment name]" = "역치";
 > "Threshold [Reflectable property]" = "역치";
 > "Threshold [Reflected property]" = "역치";
