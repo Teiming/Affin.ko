@@ -1,18 +1,4 @@
-48,122c48,94
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,62c2,48
 < 102c102
 < 105c105
 < 108c108
@@ -122,32 +108,32 @@
 > 86,87c86,87
 > 95,96c95,96
 > 98,99c98,99
-128,130d99
+68,70d53
 < < "4TD-3I-e7N.title" = "Uniform";
 < < "5M8-JP-Nyt.title" = "Trimetric left";
 < < "5lt-Rg-eba.title" = "Horizontal triangular";
-140d108
+80d62
 < < "O4d-aK-YLb.title" = "Additional axis setup";
-142d109
+82d63
 < < "P5I-wF-eTD.title" = "Intermediate divisions:";
-146d112
+86d66
 < < "SEE-46-YyH.title" = "2:1 Triangular";
-152d117
+92d71
 < < "Y1A-da-fC3.title" = "Dimetric";
-155d119
+95d73
 < < "cfE-qs-Xlp.title" = "Create plane set";
-168d131
+108d85
 < < "or0-lT-ODD.title" = "Trimetric right";
-172,173d134
+112,113d88
 < < "uhX-B2-QDe.title" = "Triangular";
 < < "vHI-yj-zll.title" = "Two axis custom";
-175d135
+115d89
 < < "wHk-zX-SXv.ibShadowedToolTip" = "Resulting Snapping and Constraining Axis";
-179d138
+119d92
 < < "yGc-2c-qia.title" = "Triangular custom";
-182d140
+122d94
 < < "zJJ-A3-Rgp.title" = "Fixed aspect ratio";
-184,244c142,282
+124,184c96,236
 < > "1P6-ef-Puj.title" = "固定対象に追加";
 < > "25j-6R-HJa.ibShadowedToolTip" = "角度が第2軸の角度に近すぎます";
 < > "2yC-HE-mID.title" = "区分:";
