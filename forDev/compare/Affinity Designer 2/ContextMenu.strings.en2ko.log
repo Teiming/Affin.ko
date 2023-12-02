@@ -1,135 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 101,102c101,102
 104,105c104,105
 11,12c11,12
@@ -181,7 +50,7 @@
 371,372c371,372
 38,39c38,39
 380,381c380,381
-386c386
+387c387
 389,390c389,390
 392,393c392,393
 407,408c407,408
@@ -200,7 +69,7 @@
 473,474c473,474
 482,483c482,483
 485,486c485,486
-494c494
+495c495
 5,6c5,6
 500,501c500,501
 503,504c503,504
@@ -208,7 +77,7 @@
 527,528c527,528
 53,54c53,54
 536,537c536,537
-545c545
+546c546
 554,555c554,555
 56,57c56,57
 560,561c560,561
@@ -219,7 +88,7 @@
 584,585c584,585
 590,591c590,591
 596,597c596,597
-605c605
+606c606
 608,609c608,609
 611,612c611,612
 614,615c614,615
@@ -252,7 +121,7 @@
 728,729c728,729
 734,735c734,735
 74,75c74,75
-752c752
+753c753
 758,759c758,759
 764,765c764,765
 767,768c767,768
@@ -326,6 +195,7 @@
 < "QXT-Rp-ke6.title" = "Smaller";
 < "QqR-Gg-oLz.title" = "Line Break";
 < "RB0-bJ-bzZ.title" = "Figure Dash";
+< "RgH-Hw-ajK.title" = "Capitalization";
 < "RxC-vj-hmf.title" = "Transform";
 < "Spz-Ij-hRZ.title" = "Zoom In";
 < "TVG-ek-0bN.title" = "Alignment";
@@ -342,11 +212,13 @@
 < "Ymr-Ti-V6P.title" = "Copy";
 < "Zb4-l0-RiO.title" = "Move to Back";
 < "a5h-Xl-0rc.title" = "Soft Hyphen";
+< "bJk-Dp-bOl.title" = "Align Center";
 < "bTU-Md-PcT.title" = "Zero-Width Space";
 < "bWJ-66-gv3.title" = "Figure Dash";
 < "czU-rr-HQu.title" = "From Both As Global";
 < "dsL-GU-Gzu.title" = "None";
 < "eod-Ou-9Nd.title" = "Decrease";
+< "fyF-tR-Yeo.title" = "Capitalization";
 < "gGO-kO-9nq.title" = "Character Traits";
 < "glY-MW-1zQ.title" = "Find in Layers Panel";
 < "hRB-Og-cqK.title" = "From Line As Global";
@@ -356,6 +228,7 @@
 < "iJG-E8-47u.title" = "Insert Filler Text";
 < "ihE-zg-TcW.title" = "Paste";
 < "j0R-gF-eZk.title" = "Flip Vertical";
+< "jPB-QY-vim.title" = "Capitalization";
 < "jrf-2b-hrA.title" = "Divide";
 < "juC-k4-a15.title" = "All Caps";
 < "jxY-qy-61n.title" = "Arrange";
@@ -383,6 +256,7 @@
 < "rNP-eh-2yd.title" = "Divide";
 < "rQA-PT-2o5.title" = "Line Break";
 < "ryz-Es-heY.title" = "Zoom to Fit";
+< "tAm-RZ-YQe.title" = "Capitalization";
 < "tFK-NY-SaI.title" = "Non-Breaking Hyphen";
 < "uKF-tL-iuy.title" = "En Space";
 < "uNI-hf-V9k.title" = "Move Inside";
@@ -393,8 +267,6 @@
 < /* Class = "NSMenu"; title = "Add to Swatches…"; ObjectID = "218"; */
 < /* Class = "NSMenu"; title = "Alignment"; ObjectID = "4oi-qS-42Q"; */
 < /* Class = "NSMenu"; title = "Arrange"; ObjectID = "jxY-qy-61n"; */
-< /* Class = "NSMenu"; title = "Capitalisation"; ObjectID = "RgH-Hw-ajK"; */
-< /* Class = "NSMenu"; title = "Capitalisation"; ObjectID = "tAm-RZ-YQe"; */
 < /* Class = "NSMenu"; title = "Character Traits"; ObjectID = "8fo-c0-h5z"; */
 < /* Class = "NSMenu"; title = "Character Traits"; ObjectID = "gGO-kO-9nq"; */
 < /* Class = "NSMenu"; title = "Geometry"; ObjectID = "LDS-PK-cBr"; */
@@ -406,7 +278,6 @@
 < /* Class = "NSMenuItem"; title = "Add to Swatches…"; ObjectID = "217"; */
 < /* Class = "NSMenuItem"; title = "Add"; ObjectID = "0kp-9j-ZTs"; */
 < /* Class = "NSMenuItem"; title = "Align Bottom"; ObjectID = "9sr-oM-tXM"; */
-< /* Class = "NSMenuItem"; title = "Align Centre"; ObjectID = "bJk-Dp-bOl"; */
 < /* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "qAy-uu-R0P"; */
 < /* Class = "NSMenuItem"; title = "Align Middle"; ObjectID = "lIi-Fa-Mdt"; */
 < /* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "2Iq-c8-LTY"; */
@@ -418,8 +289,6 @@
 < /* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "k1o-sg-bjE"; */
 < /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "4qB-F1-KCm"; */
 < /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "WDp-2b-lBZ"; */
-< /* Class = "NSMenuItem"; title = "Capitalisation"; ObjectID = "fyF-tR-Yeo"; */
-< /* Class = "NSMenuItem"; title = "Capitalisation"; ObjectID = "jPB-QY-vim"; */
 < /* Class = "NSMenuItem"; title = "Character Traits"; ObjectID = "i4Q-ic-oRq"; */
 < /* Class = "NSMenuItem"; title = "Combine"; ObjectID = "oNd-QP-ozn"; */
 < /* Class = "NSMenuItem"; title = "Convert to Curves"; ObjectID = "143"; */
@@ -549,7 +418,7 @@
 > "7vz-4Z-vOy.title" = "레이어 페이지에서 찾기";
 > "8HC-N4-Zh3.title" = "조금씩 크게";
 > "8Pb-SF-W4T.title" = "슬라이스 생성";
-> "8YW-Sw-Mwu.title" = "Lorem Ipsum";
+> "8YW-Sw-Mwu.title" = "채우기 텍스트";
 > "8fo-c0-h5z.title" = "문자 특성";
 > "8t3-Iv-OUG.title" = "늘리기";
 > "9CO-xE-bRv.title" = "레이어 패널에서 찾기";
@@ -586,6 +455,7 @@
 > "QXT-Rp-ke6.title" = "작게";
 > "QqR-Gg-oLz.title" = "줄바꿈";
 > "RB0-bJ-bzZ.title" = "숫자 줄표";
+> "RgH-Hw-ajK.title" = "대문자화";
 > "RxC-vj-hmf.title" = "변형";
 > "Spz-Ij-hRZ.title" = "확대";
 > "TVG-ek-0bN.title" = "정렬";
@@ -602,20 +472,23 @@
 > "Ymr-Ti-V6P.title" = "복사";
 > "Zb4-l0-RiO.title" = "맨 뒤로 보내기";
 > "a5h-Xl-0rc.title" = "하이픈";
+> "bJk-Dp-bOl.title" = "가로 가운데 정렬";
 > "bTU-Md-PcT.title" = "폭 없는 공백";
 > "bWJ-66-gv3.title" = "숫자 줄표";
 > "czU-rr-HQu.title" = "모두 (전역)";
 > "dsL-GU-Gzu.title" = "없음";
 > "eod-Ou-9Nd.title" = "줄이기";
+> "fyF-tR-Yeo.title" = "대문자화";
 > "gGO-kO-9nq.title" = "문자 특성";
 > "glY-MW-1zQ.title" = "레이어 패널에서 찾기";
 > "hRB-Og-cqK.title" = "선에서 (전역)";
 > "hYK-oH-jrE.title" = "다음 항목 선택";
 > "i4Q-ic-oRq.title" = "문자 특성";
 > "iB5-xd-LPa.title" = "회전 재설정";
-> "iJG-E8-47u.title" = "Lorem Ipsum";
+> "iJG-E8-47u.title" = "채우기 텍스트";
 > "ihE-zg-TcW.title" = "붙이기";
 > "j0R-gF-eZk.title" = "세로 뒤집기";
+> "jPB-QY-vim.title" = "대문자화";
 > "jrf-2b-hrA.title" = "분할";
 > "juC-k4-a15.title" = "모두 대문자";
 > "jxY-qy-61n.title" = "순서";
@@ -643,6 +516,7 @@
 > "rNP-eh-2yd.title" = "분할";
 > "rQA-PT-2o5.title" = "줄바꿈";
 > "ryz-Es-heY.title" = "화면 크기에 맞추기";
+> "tAm-RZ-YQe.title" = "대문자화";
 > "tFK-NY-SaI.title" = "줄 바꿈 없는 하이픈";
 > "uKF-tL-iuy.title" = "반각 공백";
 > "uNI-hf-V9k.title" = "안으로 가져오기";
@@ -660,11 +534,7 @@
 > /* Class = "NSMenu"; title = "순서"; ObjectID = "jxY-qy-61n"; */
 > /* Class = "NSMenu"; title = "변형"; ObjectID = "oXy-Ar-CVe"; */
 > /* Class = "NSMenu"; title = "견본에 추가…"; ObjectID = "218"; */
-> /* Class = "NSMenu"; title = "대문자화"; ObjectID = "RgH-Hw-ajK"; */
 > /* Class = "NSMenu"; title = "상호작용"; ObjectID = "lIx-O0-gHC"; */
-> /* Class = "NSMenu"; title = "대문자화"; ObjectID = "tAm-RZ-YQe"; */
-> /* Class = "NSMenuItem"; title = "Lorem Ipsum"; ObjectID = "8YW-Sw-Mwu"; */
-> /* Class = "NSMenuItem"; title = "Lorem Ipsum"; ObjectID = "iJG-E8-47u"; */
 > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 공백"; ObjectID = "FBZ-UB-VVJ"; */
 > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 공백"; ObjectID = "HEN-ef-xZj"; */
 > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 하이픈"; ObjectID = "mqn-mX-9vI"; */
@@ -693,7 +563,6 @@
 > /* Class = "NSMenuItem"; title = "반각 줄표"; ObjectID = "ufX-cV-qvW"; */
 > /* Class = "NSMenuItem"; title = "위쪽 정렬"; ObjectID = "vEz-32-UdD"; */
 > /* Class = "NSMenuItem"; title = "반각 줄표"; ObjectID = "w6L-Zx-vbF"; */
-> /* Class = "NSMenuItem"; title = "가로 가운데 정렬"; ObjectID = "bJk-Dp-bOl"; */
 > /* Class = "NSMenuItem"; title = "세로 가운데 정렬"; ObjectID = "lIi-Fa-Mdt"; */
 > /* Class = "NSMenuItem"; title = "화면 크기에 맞추기"; ObjectID = "ryz-Es-heY"; */
 > /* Class = "NSMenuItem"; title = "가로 뒤집기"; ObjectID = "41I-Gx-RfJ"; */
@@ -741,8 +610,10 @@
 > /* Class = "NSMenuItem"; title = "텍스트 액자로 전환"; ObjectID = "kb7-tH-oJb"; */
 > /* Class = "NSMenuItem"; title = "레이어 효과…"; ObjectID = "147"; */
 > /* Class = "NSMenuItem"; title = "견본에 추가…"; ObjectID = "217"; */
+> /* Class = "NSMenuItem"; title = "채우기 텍스트"; ObjectID = "8YW-Sw-Mwu"; */
 > /* Class = "NSMenuItem"; title = "조금씩 늘리기"; ObjectID = "Ege-wu-TxG"; */
 > /* Class = "NSMenuItem"; title = "조금씩 줄이기"; ObjectID = "X9L-bX-IjJ"; */
+> /* Class = "NSMenuItem"; title = "채우기 텍스트"; ObjectID = "iJG-E8-47u"; */
 > /* Class = "NSMenuItem"; title = "레이어 패널에서 찾기"; ObjectID = "9CO-xE-bRv"; */
 > /* Class = "NSMenuItem"; title = "레이어 패널에서 찾기"; ObjectID = "QLm-it-BjS"; */
 > /* Class = "NSMenuItem"; title = "레이어 패널에서 찾기"; ObjectID = "glY-MW-1zQ"; */
@@ -777,8 +648,6 @@
 > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "7Sx-e9-hth"; */
 > /* Class = "NSMenuItem"; title = "상호작용"; ObjectID = "Ops-3G-WXH"; */
 > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "PL1-LL-rDB"; */
-> /* Class = "NSMenuItem"; title = "대문자화"; ObjectID = "fyF-tR-Yeo"; */
-> /* Class = "NSMenuItem"; title = "대문자화"; ObjectID = "jPB-QY-vim"; */
 > /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "4Ll-KN-sKC"; */
 > /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "610-np-gG4"; */
 > /* Class = "NSMenuItem"; title = "래스터화…"; ObjectID = "q7I-Rn-iQ2"; */
