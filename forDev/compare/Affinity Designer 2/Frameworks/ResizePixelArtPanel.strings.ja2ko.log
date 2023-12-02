@@ -1,30 +1,29 @@
-1,9c1,2
-< 3c3
-< < "1.title" = "Resize Pixel Art Document";
+3,11c3,4
 < ---
-< > "1.title" = "ピクセルアートドキュメントのサイズを変更";
-< 6c6
-< < "101.title" = "Resize";
 < ---
-< > "101.title" = "サイズ変更";
-< 9c9
----
-> 8,9c8,9
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
-12,13c5,8
-< > "235.title" = "サイズ:";
+< ---
 < 12c12
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
-> > "235.title" = "크기:";
-> 11,12c11,12
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
-16,20c11,12
-< > "1004.title" = "キャンセル";
 < 15c15
-< < "1024.title" = "Method:";
-< ---
-< > "1024.title" = "方式:";
+< 3c3
+< 6c6
+< 9c9
+< < "1.title" = "Resize Pixel Art Document";
 ---
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
+> 11,12c11,12
+> 8,9c8,9
+13,14d5
+< < "101.title" = "Resize";
+< < "1024.title" = "Method:";
+16,20c7,12
+< > "1.title" = "ピクセルアートドキュメントのサイズを変更";
+< > "1004.title" = "キャンセル";
+< > "101.title" = "サイズ変更";
+< > "1024.title" = "方式:";
+< > "235.title" = "サイズ:";
+---
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
 > > "1004.title" = "취소";
+> > "235.title" = "크기:";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
