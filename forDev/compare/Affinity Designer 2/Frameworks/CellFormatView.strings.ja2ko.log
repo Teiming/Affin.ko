@@ -1,10 +1,10 @@
-1c1,2
+2c2
 < 3c3
 ---
 > 2,3c2,3
-> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "w0a-3d-iY0"; */
-4c5,6
+4c4,6
 < > "w0a-3d-iY0.title" = "ラベル";
 ---
-> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "w0a-3d-iY0"; */
+> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "w0a-3d-iY0"; */
 > > "w0a-3d-iY0.title" = "라벨";
+> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "w0a-3d-iY0"; */
