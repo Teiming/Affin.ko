@@ -1,12 +1,12 @@
+---
+---
+---
 245c245
-< "Inks" = "Inks";
----
-> "Inks" = "잉크";
 422c422
-< "Pencils" = "Pencils";
----
-> "Pencils" = "연필";
 473c473
+< "Inks" = "Inks";
+< "Pencils" = "Pencils";
 < "Pens" = "Pens";
----
+> "Inks" = "잉크";
+> "Pencils" = "연필";
 > "Pens" = "펜";
