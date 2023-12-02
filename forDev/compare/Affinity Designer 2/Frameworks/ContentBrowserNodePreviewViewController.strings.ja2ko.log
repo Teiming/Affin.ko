@@ -1,0 +1,49 @@
+2,21c2,3
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 6c6
+< 9c9
+< < "7AH-gn-BWc.ibShadowedToolTip" = "Delivery optimized";
+< < "Dwq-um-s0y.title" = "Revoke Public Shares…";
+< < "HVy-j2-TzX.title" = "Share with a Team";
+< < "IVf-sv-2v6.title" = "Remove from This Device…";
+< < "JBd-LZ-tpY.title" = "Created";
+< < "JPz-kL-gwZ.title" = "Sharing";
+---
+> 20,21c20,21
+> 29,30c29,30
+23,24d4
+< < "M0c-WQ-yu8.title" = "Information";
+< < "U8W-ls-hYY.title" = "Status";
+26,43c6,11
+< < "jS6-nj-w3e.title" = "Access level";
+< < "kVp-bW-YfT.title" = "Public";
+< < "odY-Ul-gTD.title" = "Share with a Team";
+< < "r91-uT-VJS.title" = "Private";
+< > "7AH-gn-BWc.ibShadowedToolTip" = "デリバリーが最適化されました";
+< > "Dwq-um-s0y.title" = "公開共有を取り消す…";
+< > "HVy-j2-TzX.title" = "チームと共有";
+< > "IVf-sv-2v6.title" = "このデバイスから削除…";
+< > "JBd-LZ-tpY.title" = "作成済み";
+< > "JPz-kL-gwZ.title" = "共有中";
+< > "LOQ-wI-2KE.title" = "変更済み";
+< > "M0c-WQ-yu8.title" = "情報";
+< > "U8W-ls-hYY.title" = "ステータス";
+< > "bLa-Qi-Pp6.title" = "作成者";
+< > "jS6-nj-w3e.title" = "アクセスレベル";
+< > "kVp-bW-YfT.title" = "公開";
+< > "odY-Ul-gTD.title" = "チームと共有";
+< > "r91-uT-VJS.title" = "プライベート";
+---
+> > "LOQ-wI-2KE.title" = "변경";
+> > "bLa-Qi-Pp6.title" = "저자";
