@@ -1,36 +1,36 @@
+---
+---
+---
+---
+---
+---
 2,3c2,3
-< /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "39a-F5-r94"; */
-< "39a-F5-r94.headerCell.title" = "Name";
----
-> /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "39a-F5-r94"; */
-> "39a-F5-r94.headerCell.title" = "이름";
-8,9c8,9
-< /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "4dE-V3-nhc"; */
-< "4dE-V3-nhc.title" = "Text";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트"; ObjectID = "4dE-V3-nhc"; */
-> "4dE-V3-nhc.title" = "텍스트";
 23,24c23,24
-< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "Tl6-eW-7o4"; */
-< "Tl6-eW-7o4.title" = "Close";
----
-> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "Tl6-eW-7o4"; */
-> "Tl6-eW-7o4.title" = "닫기";
 26,27c26,27
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YEj-bc-goA"; */
-< "YEj-bc-goA.title" = "Text Cell";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YEj-bc-goA"; */
-> "YEj-bc-goA.title" = "텍스트 셀";
 32,33c32,33
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fdS-So-n8g"; */
-< "fdS-So-n8g.title" = "Text Cell";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "fdS-So-n8g"; */
-> "fdS-So-n8g.title" = "텍스트 셀";
 41,42c41,42
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nBz-fi-2ab"; */
+8,9c8,9
+< "39a-F5-r94.headerCell.title" = "Name";
+< "4dE-V3-nhc.title" = "Text";
+< "Tl6-eW-7o4.title" = "Close";
+< "YEj-bc-goA.title" = "Text Cell";
+< "fdS-So-n8g.title" = "Text Cell";
 < "nBz-fi-2ab.title" = "Text Cell";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "nBz-fi-2ab"; */
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "Tl6-eW-7o4"; */
+< /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "39a-F5-r94"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YEj-bc-goA"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fdS-So-n8g"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nBz-fi-2ab"; */
+< /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "4dE-V3-nhc"; */
+> "39a-F5-r94.headerCell.title" = "이름";
+> "4dE-V3-nhc.title" = "텍스트";
+> "Tl6-eW-7o4.title" = "닫기";
+> "YEj-bc-goA.title" = "텍스트 셀";
+> "fdS-So-n8g.title" = "텍스트 셀";
 > "nBz-fi-2ab.title" = "텍스트 셀";
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "Tl6-eW-7o4"; */
+> /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "39a-F5-r94"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YEj-bc-goA"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "fdS-So-n8g"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "nBz-fi-2ab"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트"; ObjectID = "4dE-V3-nhc"; */
