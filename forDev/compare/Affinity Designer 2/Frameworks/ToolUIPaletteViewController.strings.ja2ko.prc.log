@@ -15,12 +15,6 @@
 < > "29.title" = "お気に入り項目をツールパネルにドラッグします:";
 < > "31.title" = "リセット";
 ---
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "22"; */
-> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "31"; */
-> < /* Class = "NSTextFieldCell"; title = "Number of Columns:"; ObjectID = "27"; */
 > > "22.title" = "닫기";
 > > "27.title" = "열 개수:";
 > > "31.title" = "재설정";
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "22"; */
-> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "31"; */
-> > /* Class = "NSTextFieldCell"; title = "열 개수:"; ObjectID = "27"; */
