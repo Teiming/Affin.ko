@@ -1,12 +1,12 @@
+---
+---
 2,3c2,3
-< /* Class = "NSButton"; ibShadowedToolTip = "Delete"; ObjectID = "3fV-jJ-Jgt"; */
-< "3fV-jJ-Jgt.ibShadowedToolTip" = "Delete";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "지우기"; ObjectID = "3fV-jJ-Jgt"; */
-> "3fV-jJ-Jgt.ibShadowedToolTip" = "지우기";
 29,30c29,30
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mNo-sw-QPa"; */
+< "3fV-jJ-Jgt.ibShadowedToolTip" = "Delete";
 < "mNo-sw-QPa.title" = "Text Cell";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mNo-sw-QPa"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Delete"; ObjectID = "3fV-jJ-Jgt"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mNo-sw-QPa"; */
+> "3fV-jJ-Jgt.ibShadowedToolTip" = "지우기";
 > "mNo-sw-QPa.title" = "텍스트 셀";
+> /* Class = "NSButton"; ibShadowedToolTip = "지우기"; ObjectID = "3fV-jJ-Jgt"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mNo-sw-QPa"; */
