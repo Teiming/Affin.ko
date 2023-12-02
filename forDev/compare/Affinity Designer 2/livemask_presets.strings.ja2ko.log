@@ -1,0 +1,21 @@
+2,5d1
+< 11c11
+< 14c14
+< 17c17
+< 2c2
+7,12d2
+< 8c8
+< < "Bandpass" = "Bandpass";
+< < "Highlights" = "Highlights";
+< < "HueRange" = "HueRange";
+< < "IntensityRange" = "IntensityRange";
+< < "Midtones" = "Midtones";
+14,19c4
+< > "Bandpass" = "バンドパス…";
+< > "Highlights" = "ハイライト";
+< > "HueRange" = "色相範囲";
+< > "IntensityRange" = "強度範囲";
+< > "Midtones" = "中間調";
+< > "Shadows" = "シャドウ";
+---
+> > "Shadows" = "그림자";
