@@ -25,12 +25,12 @@
 > "1.title" = "명쾌";
 > "210.title" = "취소";
 > "26.title" = "적용";
-> "ME4-2B-byk.ibShadowedToolTip" = "분할 뷰 모드";
-> "ckO-3j-cGO.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> "f71-R1-mla.ibShadowedToolTip" = "거울 뷰 모드";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "ckO-3j-cGO"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "ME4-2B-byk"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "f71-R1-mla"; */
+> "ME4-2B-byk.ibShadowedToolTip" = "분할 보기";
+> "ckO-3j-cGO.ibShadowedToolTip" = "분할 보기 해제";
+> "f71-R1-mla.ibShadowedToolTip" = "거울 보기";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "ckO-3j-cGO"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "ME4-2B-byk"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "f71-R1-mla"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "210"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > /* Class = "NSWindow"; title = "명쾌"; ObjectID = "1"; */
