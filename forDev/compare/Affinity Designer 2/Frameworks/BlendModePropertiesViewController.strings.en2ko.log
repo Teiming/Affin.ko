@@ -3,14 +3,14 @@
 ---
 11,12c11,12
 2,3c2,3
-5c5
+6c6
 < "10.title" = "Opacity:";
+< "12.title" = "Color:";
 < "15.title" = "Blend mode:";
 < /* Class = "NSTextFieldCell"; title = "Blend mode:"; ObjectID = "15"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "12"; */
 < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "10"; */
 > "10.title" = "불투명도:";
+> "12.title" = "색상:";
 > "15.title" = "혼합 모드:";
 > /* Class = "NSTextFieldCell"; title = "혼합 모드:"; ObjectID = "15"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "12"; */
 > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "10"; */
