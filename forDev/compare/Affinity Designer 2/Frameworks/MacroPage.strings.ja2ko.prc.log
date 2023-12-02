@@ -42,15 +42,7 @@
 < > "qS4-3J-BPr.ibShadowedToolTip" = "記録の停止";
 < > "sJ0-Be-RMT.ibShadowedToolTip" = "書き出し";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Export"; ObjectID = "sJ0-Be-RMT"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "Import"; ObjectID = "nJe-in-53f"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "W8y-bM-wtp"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
 > > "11.title" = "텍스트 셀";
 > > "W8y-bM-wtp.ibShadowedToolTip" = "재설정";
 > > "nJe-in-53f.ibShadowedToolTip" = "들여오기";
 > > "sJ0-Be-RMT.ibShadowedToolTip" = "내보내기";
-> > /* Class = "NSButton"; ibShadowedToolTip = "재설정"; ObjectID = "W8y-bM-wtp"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "들여오기"; ObjectID = "nJe-in-53f"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "내보내기"; ObjectID = "sJ0-Be-RMT"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "11"; */
