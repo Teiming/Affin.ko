@@ -1,70 +1,61 @@
-1,9c1,2
-< 3c3
-< < "1.title" = "Noise Reduction";
+7,24c7,12
 < ---
-< > "1.title" = "ノイズ軽減";
-< 6c6
-< < "12.title" = "Luminance";
 < ---
-< > "12.title" = "輝度";
-< 9c9
----
-> 8,9c8,9
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "JGm-9x-sQD"; */
-12,13c5,8
-< > "JGm-9x-sQD.title" = "キャンセル";
+< ---
+< ---
+< ---
 < 12c12
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "JGm-9x-sQD"; */
-> > "JGm-9x-sQD.title" = "취소";
-> 11,12c11,12
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "Nzp-ab-elg"; */
-16,17c11,14
-< > "Nzp-ab-elg.ibShadowedToolTip" = "分割表示";
 < 15c15
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Nzp-ab-elg"; */
-> > "Nzp-ab-elg.ibShadowedToolTip" = "분할 뷰 모드";
-> 14,15c14,15
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "Oly-Im-3wo"; */
-20,22c17,20
-< > "Oly-Im-3wo.ibShadowedToolTip" = "ミラー表示";
 < 18c18
-< < "VpN-qL-l5S.title" = "Luminance Contribution";
----
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "Oly-Im-3wo"; */
-> > "Oly-Im-3wo.ibShadowedToolTip" = "거울 뷰 모드";
-> 20c20
-> < /* Class = "NSTextFieldCell"; title = "Colours"; ObjectID = "aUH-OT-Vru"; */
-24,29c22,24
-< > "VpN-qL-l5S.title" = "輝度のレベル";
 < 21c21
-< < "aUH-OT-Vru.title" = "Colors";
-< ---
-< > "aUH-OT-Vru.title" = "カラー";
 < 24c24
----
-> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "aUH-OT-Vru"; */
-> 23,24c23,24
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "i7n-BM-gXj"; */
-32,33c27,30
-< > "i7n-BM-gXj.title" = "適用";
 < 27c27
----
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "i7n-BM-gXj"; */
-> > "i7n-BM-gXj.title" = "적용";
-> 26,27c26,27
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "kqf-Zl-6d1"; */
-36,44c33,34
-< > "kqf-Zl-6d1.ibShadowedToolTip" = "分割表示なし";
 < 30c30
-< < "mLq-P1-cxE.title" = "Colors Contribution";
-< ---
-< > "mLq-P1-cxE.title" = "カラーのレベル";
 < 33c33
+< 3c3
+< 6c6
+< 9c9
+< < "1.title" = "Noise Reduction";
+< < "12.title" = "Luminance";
+---
+> 11,12c11,12
+> 14,15c14,15
+> 20c20
+> 23,24c23,24
+> 26,27c26,27
+> 8,9c8,9
+28,29d15
+< < "VpN-qL-l5S.title" = "Luminance Contribution";
+< < "aUH-OT-Vru.title" = "Colors";
+32,44c18,34
+< < "mLq-P1-cxE.title" = "Colors Contribution";
 < < "syL-Kw-aDD.title" = "Luminance Detail";
-< ---
+< > "1.title" = "ノイズ軽減";
+< > "12.title" = "輝度";
+< > "JGm-9x-sQD.title" = "キャンセル";
+< > "Nzp-ab-elg.ibShadowedToolTip" = "分割表示";
+< > "Oly-Im-3wo.ibShadowedToolTip" = "ミラー表示";
+< > "VpN-qL-l5S.title" = "輝度のレベル";
+< > "aUH-OT-Vru.title" = "カラー";
+< > "i7n-BM-gXj.title" = "適用";
+< > "kqf-Zl-6d1.ibShadowedToolTip" = "分割表示なし";
+< > "mLq-P1-cxE.title" = "カラーのレベル";
 < > "syL-Kw-aDD.title" = "輝度のディテール";
 ---
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "kqf-Zl-6d1"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "Oly-Im-3wo"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "kqf-Zl-6d1"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "Nzp-ab-elg"; */
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "i7n-BM-gXj"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "JGm-9x-sQD"; */
+> < /* Class = "NSTextFieldCell"; title = "Colours"; ObjectID = "aUH-OT-Vru"; */
+> > "JGm-9x-sQD.title" = "취소";
+> > "Nzp-ab-elg.ibShadowedToolTip" = "분할 뷰 모드";
+> > "Oly-Im-3wo.ibShadowedToolTip" = "거울 뷰 모드";
+> > "i7n-BM-gXj.title" = "적용";
 > > "kqf-Zl-6d1.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "kqf-Zl-6d1"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Nzp-ab-elg"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "Oly-Im-3wo"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "JGm-9x-sQD"; */
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "i7n-BM-gXj"; */
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "aUH-OT-Vru"; */
