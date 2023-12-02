@@ -1,110 +1,105 @@
-1,21c1,2
-< 3c3
-< < "1Vy-EF-R6c.title" = "RGB 8-bit";
+7,47c7,12
 < ---
-< > "1Vy-EF-R6c.title" = "RGB 8ビット";
-< 9c9
-< < "3lQ-Mh-xFl.title" = "Bicubic";
 < ---
-< > "3lQ-Mh-xFl.title" = "バイキュービック";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 12c12
-< < "4oe-7L-yzx.title" = "CMYK 8-bit";
-< ---
-< > "4oe-7L-yzx.title" = "CMYK 8ビット";
 < 15c15
-< < "5dq-i9-2k7.title" = "Palettized";
-< ---
-< > "5dq-i9-2k7.title" = "減色";
 < 18c18
-< < "6e8-L9-8E1.title" = "Resample:";
-< ---
-< > "6e8-L9-8E1.title" = "リサンプル:";
 < 21c21
+< 24c24
+< 27c27
+< 30c30
+< 36c36
+< 39c39
+< 3c3
+< 45c45
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+< 66c66
+< 69c69
+< 72c72
+< 75c75
+< 84c84
+< 9c9
+< < "1Vy-EF-R6c.title" = "RGB 8-bit";
+< < "3lQ-Mh-xFl.title" = "Bicubic";
+< < "4oe-7L-yzx.title" = "CMYK 8-bit";
+< < "5dq-i9-2k7.title" = "Palettized";
+< < "6e8-L9-8E1.title" = "Resample:";
 ---
 > 20,21c20,21
-> < /* Class = "NSTextFieldCell"; title = "ICC profile:"; ObjectID = "8Ay-x3-q1t"; */
-24,33c5,8
-< > "8Ay-x3-q1t.title" = "ICCプロファイル:";
-< 24c24
-< < "E0d-2P-MOM.title" = "RGB 16-bit";
-< ---
-< > "E0d-2P-MOM.title" = "RGB 16ビット";
-< 27c27
-< < "EA4-1A-ldi.title" = "Grayscale 8-bit";
-< ---
-< > "EA4-1A-ldi.title" = "グレースケール 8ビット";
-< 30c30
----
-> > /* Class = "NSTextFieldCell"; title = "ICC 프로파일:"; ObjectID = "8Ay-x3-q1t"; */
-> > "8Ay-x3-q1t.title" = "ICC 프로파일:";
 > 29,30c29,30
-> < /* Class = "NSBox"; title = "Preset:"; ObjectID = "ENN-dC-lRq"; */
-36,49c11,14
-< > "ENN-dC-lRq.title" = "プリセット:";
-< 36c36
-< < "GW2-xL-yXt.title" = "Lanczos 3 (separable)";
-< ---
-< > "GW2-xL-yXt.title" = "Lanczos 3(分離可能)";
-< 39c39
-< < "HKt-Ur-MwP.title" = "Bilinear";
-< ---
-< > "HKt-Ur-MwP.title" = "バイリニア";
-< 45c45
-< < "Rzg-bo-Xcv.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "Rzg-bo-Xcv.title" = "Lanczos 3(分離不可)";
-< 51c51
----
-> > /* Class = "NSBox"; title = "미리 설정:"; ObjectID = "ENN-dC-lRq"; */
-> > "ENN-dC-lRq.title" = "미리 설정:";
 > 50,51c50,51
-> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "VtI-nx-w7m"; */
-52,65c17,20
-< > "VtI-nx-w7m.title" = "なし";
-< 54c54
-< < "Won-IR-ATs.title" = "Quality:";
-< ---
-< > "Won-IR-ATs.title" = "品質:";
-< 57c57
-< < "YNA-d3-JgY.title" = "Grayscale 16-bit";
-< ---
-< > "YNA-d3-JgY.title" = "グレースケール 16ビット";
-< 60c60
-< < "ZtH-Xp-d4Y.title" = "Embed ICC profile";
-< ---
-< > "ZtH-Xp-d4Y.title" = "ICCプロファイルを埋め込む";
-< 66c66
----
-> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "VtI-nx-w7m"; */
-> > "VtI-nx-w7m.title" = "없음";
 > 65,66c65,66
-> < /* Class = "NSTextFieldCell"; title = "Pixel format:"; ObjectID = "b53-B9-NEf"; */
-68,73c23,26
-< > "b53-B9-NEf.title" = "ピクセル形式:";
-< 69c69
-< < "cSn-SC-ahX.title" = "Nearest Neighbor";
-< ---
-< > "cSn-SC-ahX.title" = "ニアレストネイバー";
-< 72c72
----
-> > /* Class = "NSTextFieldCell"; title = "픽셀 포맷:"; ObjectID = "b53-B9-NEf"; */
-> > "b53-B9-NEf.title" = "픽셀 포맷:";
 > 71,72c71,72
-> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "d1u-NX-8Vq"; */
-76,81c29,32
-< > "d1u-NX-8Vq.title" = "ボタン";
-< 75c75
-< < "gaY-IU-bZd.title" = "Matte:";
-< ---
-< > "gaY-IU-bZd.title" = "マット:";
-< 84c84
----
-> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "d1u-NX-8Vq"; */
-> > "d1u-NX-8Vq.title" = "버튼";
 > 83,84c83,84
-> < /* Class = "NSTextFieldCell"; title = "File format:"; ObjectID = "scW-9j-Mie"; */
-84c35,36
+49,50d13
+< < "E0d-2P-MOM.title" = "RGB 16-bit";
+< < "EA4-1A-ldi.title" = "Grayscale 8-bit";
+52,54d14
+< < "GW2-xL-yXt.title" = "Lanczos 3 (separable)";
+< < "HKt-Ur-MwP.title" = "Bilinear";
+< < "Rzg-bo-Xcv.title" = "Lanczos 3 (non-separable)";
+56,58d15
+< < "Won-IR-ATs.title" = "Quality:";
+< < "YNA-d3-JgY.title" = "Grayscale 16-bit";
+< < "ZtH-Xp-d4Y.title" = "Embed ICC profile";
+60d16
+< < "cSn-SC-ahX.title" = "Nearest Neighbor";
+62d17
+< < "gaY-IU-bZd.title" = "Matte:";
+64,84c19,36
+< > "1Vy-EF-R6c.title" = "RGB 8ビット";
+< > "3lQ-Mh-xFl.title" = "バイキュービック";
+< > "4oe-7L-yzx.title" = "CMYK 8ビット";
+< > "5dq-i9-2k7.title" = "減色";
+< > "6e8-L9-8E1.title" = "リサンプル:";
+< > "8Ay-x3-q1t.title" = "ICCプロファイル:";
+< > "E0d-2P-MOM.title" = "RGB 16ビット";
+< > "EA4-1A-ldi.title" = "グレースケール 8ビット";
+< > "ENN-dC-lRq.title" = "プリセット:";
+< > "GW2-xL-yXt.title" = "Lanczos 3(分離可能)";
+< > "HKt-Ur-MwP.title" = "バイリニア";
+< > "Rzg-bo-Xcv.title" = "Lanczos 3(分離不可)";
+< > "VtI-nx-w7m.title" = "なし";
+< > "Won-IR-ATs.title" = "品質:";
+< > "YNA-d3-JgY.title" = "グレースケール 16ビット";
+< > "ZtH-Xp-d4Y.title" = "ICCプロファイルを埋め込む";
+< > "b53-B9-NEf.title" = "ピクセル形式:";
+< > "cSn-SC-ahX.title" = "ニアレストネイバー";
+< > "d1u-NX-8Vq.title" = "ボタン";
+< > "gaY-IU-bZd.title" = "マット:";
 < > "scW-9j-Mie.title" = "ファイル形式:";
 ---
-> > /* Class = "NSTextFieldCell"; title = "파일 포맷:"; ObjectID = "scW-9j-Mie"; */
+> < /* Class = "NSBox"; title = "Preset:"; ObjectID = "ENN-dC-lRq"; */
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "d1u-NX-8Vq"; */
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "VtI-nx-w7m"; */
+> < /* Class = "NSTextFieldCell"; title = "File format:"; ObjectID = "scW-9j-Mie"; */
+> < /* Class = "NSTextFieldCell"; title = "ICC profile:"; ObjectID = "8Ay-x3-q1t"; */
+> < /* Class = "NSTextFieldCell"; title = "Pixel format:"; ObjectID = "b53-B9-NEf"; */
+> > "8Ay-x3-q1t.title" = "ICC 프로파일:";
+> > "ENN-dC-lRq.title" = "미리 설정:";
+> > "VtI-nx-w7m.title" = "없음";
+> > "b53-B9-NEf.title" = "픽셀 포맷:";
+> > "d1u-NX-8Vq.title" = "버튼";
 > > "scW-9j-Mie.title" = "파일 포맷:";
+> > /* Class = "NSBox"; title = "미리 설정:"; ObjectID = "ENN-dC-lRq"; */
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "d1u-NX-8Vq"; */
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "VtI-nx-w7m"; */
+> > /* Class = "NSTextFieldCell"; title = "ICC 프로파일:"; ObjectID = "8Ay-x3-q1t"; */
+> > /* Class = "NSTextFieldCell"; title = "픽셀 포맷:"; ObjectID = "b53-B9-NEf"; */
+> > /* Class = "NSTextFieldCell"; title = "파일 포맷:"; ObjectID = "scW-9j-Mie"; */
