@@ -1,18 +1,18 @@
+---
+---
+---
+20,21c20,21
 5,6c5,6
-< /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "4sE-in-eNs"; */
-< "4sE-in-eNs.title" = "Label";
----
-> /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "4sE-in-eNs"; */
-> "4sE-in-eNs.title" = "라벨";
 8,9c8,9
-< /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "6LR-8u-Lro"; */
+< "4sE-in-eNs.title" = "Label";
 < "6LR-8u-Lro.title" = "Label";
----
-> /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "6LR-8u-Lro"; */
-> "6LR-8u-Lro.title" = "라벨";
-14,15c14,15
-< /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "XSv-SP-pn0"; */
 < "XSv-SP-pn0.title" = "Label";
----
-> /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "XSv-SP-pn0"; */
+< /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "4sE-in-eNs"; */
+< /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "6LR-8u-Lro"; */
+< /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "XSv-SP-pn0"; */
+> "4sE-in-eNs.title" = "라벨";
+> "6LR-8u-Lro.title" = "라벨";
 > "XSv-SP-pn0.title" = "라벨";
+> /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "4sE-in-eNs"; */
+> /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "6LR-8u-Lro"; */
+> /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "XSv-SP-pn0"; */
