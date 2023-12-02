@@ -142,30 +142,6 @@
 < > "yjb-ht-u5N.ibShadowedToolTip" = "仰角";
 < > "ztc-M7-mwU.ibShadowedToolTip" = "向き";
 ---
-> < /* Class = "NSBox"; title = "First axis"; ObjectID = "LGn-IK-u3Y"; */
-> < /* Class = "NSBox"; title = "First axis"; ObjectID = "PB5-mM-xKs"; */
-> < /* Class = "NSBox"; title = "First axis"; ObjectID = "tba-wT-oOz"; */
-> < /* Class = "NSBox"; title = "Grid setup"; ObjectID = "sxJ-S1-i56"; */
-> < /* Class = "NSBox"; title = "Second axis"; ObjectID = "PyM-fk-lNu"; */
-> < /* Class = "NSBox"; title = "Snapping axis setup"; ObjectID = "Zdo-GS-GOe"; */
-> < /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "A5K-MR-BIo"; */
-> < /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "RWB-Lf-5HG"; */
-> < /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "Rgq-HG-FHS"; */
-> < /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "jLz-9a-M89"; */
-> < /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "R2W-nq-5F3"; */
-> < /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "cZ8-Fe-DtN"; */
-> < /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "jg7-Aa-cEC"; */
-> < /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "jqL-s4-Dp3"; */
-> < /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "1X5-c9-7dt"; */
-> < /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "D9r-pG-EwG"; */
-> < /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "Dbm-fN-v7G"; */
-> < /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "mK3-Eh-GVH"; */
-> < /* Class = "NSTabViewItem"; label = "Camera"; ObjectID = "sJj-UP-gwN"; */
-> < /* Class = "NSTextFieldCell"; title = "Divisions:"; ObjectID = "UMi-Bk-3f1"; */
-> < /* Class = "NSTextFieldCell"; title = "Horizontal axis:"; ObjectID = "4BZ-sN-9II"; */
-> < /* Class = "NSTextFieldCell"; title = "Intermediate angles:"; ObjectID = "LNk-PO-QJf"; */
-> < /* Class = "NSTextFieldCell"; title = "Plane perpendicular axis:"; ObjectID = "MIc-xS-bBP"; */
-> < /* Class = "NSTextFieldCell"; title = "Vertical axis:"; ObjectID = "QMR-aM-T1o"; */
 > > "1X5-c9-7dt.title" = "추가하지 않음";
 > > "4BZ-sN-9II.title" = "가로 축:";
 > > "A5K-MR-BIo.title" = "제약 대상에 추가";
@@ -190,27 +166,3 @@
 > > "sJj-UP-gwN.label" = "카메라";
 > > "sxJ-S1-i56.title" = "격자 설정";
 > > "tba-wT-oOz.title" = "첫 번째 축";
-> > /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "LGn-IK-u3Y"; */
-> > /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "PB5-mM-xKs"; */
-> > /* Class = "NSBox"; title = "두 번째 축"; ObjectID = "PyM-fk-lNu"; */
-> > /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "tba-wT-oOz"; */
-> > /* Class = "NSBox"; title = "격자 설정"; ObjectID = "sxJ-S1-i56"; */
-> > /* Class = "NSBox"; title = "스내핑 축 설정"; ObjectID = "Zdo-GS-GOe"; */
-> > /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "A5K-MR-BIo"; */
-> > /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "RWB-Lf-5HG"; */
-> > /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "Rgq-HG-FHS"; */
-> > /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "jLz-9a-M89"; */
-> > /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "R2W-nq-5F3"; */
-> > /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "cZ8-Fe-DtN"; */
-> > /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "jg7-Aa-cEC"; */
-> > /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "jqL-s4-Dp3"; */
-> > /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "1X5-c9-7dt"; */
-> > /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "D9r-pG-EwG"; */
-> > /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "Dbm-fN-v7G"; */
-> > /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "mK3-Eh-GVH"; */
-> > /* Class = "NSTabViewItem"; label = "카메라"; ObjectID = "sJj-UP-gwN"; */
-> > /* Class = "NSTextFieldCell"; title = "가로 축:"; ObjectID = "4BZ-sN-9II"; */
-> > /* Class = "NSTextFieldCell"; title = "세로 축:"; ObjectID = "QMR-aM-T1o"; */
-> > /* Class = "NSTextFieldCell"; title = "평면 직교 축:"; ObjectID = "MIc-xS-bBP"; */
-> > /* Class = "NSTextFieldCell"; title = "사이 각도:"; ObjectID = "LNk-PO-QJf"; */
-> > /* Class = "NSTextFieldCell"; title = "구획:"; ObjectID = "UMi-Bk-3f1"; */
