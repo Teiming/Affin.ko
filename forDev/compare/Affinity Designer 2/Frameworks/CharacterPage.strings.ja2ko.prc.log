@@ -156,27 +156,6 @@
 < > "uKc-hr-F2p.ibShadowedToolTip" = "カーニング";
 < > "xOZ-PG-ltn.headerCell.title" = "左";
 ---
-> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "7FH-YH-a0w"; */
-> < /* Class = "NSImageView"; ibShadowedToolTip = "Baseline"; ObjectID = "tyu-h3-OtA"; */
-> < /* Class = "NSImageView"; ibShadowedToolTip = "Shear"; ObjectID = "m2U-gM-Vnq"; */
-> < /* Class = "NSImageView"; ibShadowedToolTip = "Vertical Scale"; ObjectID = "8Hc-tk-Dlu"; */
-> < /* Class = "NSMenuItem"; title = "Show Typography"; ObjectID = "kHA-4T-vz8"; */
-> < /* Class = "NSStepper"; ibShadowedToolTip = "Baseline"; ObjectID = "niz-yS-R9I"; */
-> < /* Class = "NSTableColumn"; headerCell.title = "Left"; ObjectID = "xOZ-PG-ltn"; */
-> < /* Class = "NSTableColumn"; headerCell.title = "Right"; ObjectID = "oLa-b3-ZXi"; */
-> < /* Class = "NSTextFieldCell"; title = "Spelling:"; ObjectID = "OBo-QZ-Rqo"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FaC-Vi-R9a"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dfh-gr-u7E"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "du3-2U-BMC"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lN0-ey-rRf"; */
-> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "rCx-Ln-9dA"; */
-> < /* Class = "NSView"; MwC-bB-jJ6.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Decorations"; ObjectID = "MwC-bB-jJ6"; */
-> < /* Class = "NSView"; QjG-om-cQE.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Typography"; ObjectID = "QjG-om-cQE"; */
-> < /* Class = "NSView"; ibShadowedToolTip = "Baseline"; ObjectID = "Rtk-qg-mHk"; */
-> < /* Class = "NSView"; ibShadowedToolTip = "Character Style"; ObjectID = "LEz-m7-8fZ"; */
-> < /* Class = "NSView"; ibShadowedToolTip = "Shear"; ObjectID = "Iy5-TZ-tM9"; */
-> < /* Class = "NSView"; ibShadowedToolTip = "Vertical Scale"; ObjectID = "MMA-he-oYt"; */
-> < /* Class = "NSView"; nNQ-ZE-RV3.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Language"; ObjectID = "nNQ-ZE-RV3"; */
 > > "7FH-YH-a0w.title" = "추가";
 > > "8Hc-tk-Dlu.ibShadowedToolTip" = "세로 배율";
 > > "FaC-Vi-R9a.title" = "텍스트 셀";
@@ -198,24 +177,3 @@
 > > "rCx-Ln-9dA.title" = "종류:";
 > > "tyu-h3-OtA.ibShadowedToolTip" = "기준선";
 > > "xOZ-PG-ltn.headerCell.title" = "왼쪽";
-> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "7FH-YH-a0w"; */
-> > /* Class = "NSImageView"; ibShadowedToolTip = "세로 배율"; ObjectID = "8Hc-tk-Dlu"; */
-> > /* Class = "NSImageView"; ibShadowedToolTip = "비틀기"; ObjectID = "m2U-gM-Vnq"; */
-> > /* Class = "NSImageView"; ibShadowedToolTip = "기준선"; ObjectID = "tyu-h3-OtA"; */
-> > /* Class = "NSMenuItem"; title = "타이포그래피 보기"; ObjectID = "kHA-4T-vz8"; */
-> > /* Class = "NSStepper"; ibShadowedToolTip = "기준선"; ObjectID = "niz-yS-R9I"; */
-> > /* Class = "NSTableColumn"; headerCell.title = "왼쪽"; ObjectID = "xOZ-PG-ltn"; */
-> > /* Class = "NSTableColumn"; headerCell.title = "오른쪽"; ObjectID = "oLa-b3-ZXi"; */
-> > /* Class = "NSTextFieldCell"; title = "철자:"; ObjectID = "OBo-QZ-Rqo"; */
-> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "rCx-Ln-9dA"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "FaC-Vi-R9a"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "dfh-gr-u7E"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "du3-2U-BMC"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "lN0-ey-rRf"; */
-> > /* Class = "NSView"; MwC-bB-jJ6.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "장식"; ObjectID = "MwC-bB-jJ6"; */
-> > /* Class = "NSView"; QjG-om-cQE.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "타이포그래피"; ObjectID = "QjG-om-cQE"; */
-> > /* Class = "NSView"; ibShadowedToolTip = "세로 배율"; ObjectID = "MMA-he-oYt"; */
-> > /* Class = "NSView"; ibShadowedToolTip = "문자 스타일"; ObjectID = "LEz-m7-8fZ"; */
-> > /* Class = "NSView"; ibShadowedToolTip = "비틀기"; ObjectID = "Iy5-TZ-tM9"; */
-> > /* Class = "NSView"; ibShadowedToolTip = "기준선"; ObjectID = "Rtk-qg-mHk"; */
-> > /* Class = "NSView"; nNQ-ZE-RV3.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "언어"; ObjectID = "nNQ-ZE-RV3"; */
