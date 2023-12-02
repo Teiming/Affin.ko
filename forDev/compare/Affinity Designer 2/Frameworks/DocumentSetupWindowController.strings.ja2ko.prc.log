@@ -107,21 +107,6 @@
 < > "rVx-la-rFZ.title" = "アイテム2";
 < > "y41-Pp-Cr8.title" = "右";
 ---
-> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "1UO-bj-1Ct"; */
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "QbK-of-2ht"; */
-> < /* Class = "NSButtonCell"; title = "Transparent background"; ObjectID = "ckv-Og-YCg"; */
-> < /* Class = "NSMenuItem"; title = "Default"; ObjectID = "hCK-bD-iSN"; */
-> < /* Class = "NSMenuItem"; title = "Left"; ObjectID = "Rwr-K9-EZe"; */
-> < /* Class = "NSMenuItem"; title = "Right"; ObjectID = "y41-Pp-Cr8"; */
-> < /* Class = "NSTabViewItem"; label = "Bleed"; ObjectID = "m8g-i7-Vfm"; */
-> < /* Class = "NSTabViewItem"; label = "Layout"; ObjectID = "khw-5N-Xyt"; */
-> < /* Class = "NSTextFieldCell"; title = "'Actual Size' Zoom:"; ObjectID = "TG6-DZ-wQy"; */
-> < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "hM3-57-U7X"; */
-> < /* Class = "NSTextFieldCell"; title = "Document Units:"; ObjectID = "3Bx-1A-7DX"; */
-> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "NmL-8u-DKg"; */
-> < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "QxF-N8-EzW"; */
-> < /* Class = "NSTextFieldCell"; title = "Start on:"; ObjectID = "RCb-3h-oZx"; */
-> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "5yD-eB-mwR"; */
 > > "0JH-MY-Wpc.title" = "색상:";
 > > "1UO-bj-1Ct.title" = "버튼";
 > > "3Bx-1A-7DX.title" = "문서 단위:";
@@ -141,18 +126,3 @@
 > > "mqP-St-PnE.title" = "색상 프로파일:";
 > > "n5O-5H-Szw.label" = "색상";
 > > "y41-Pp-Cr8.title" = "오른쪽";
-> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "1UO-bj-1Ct"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "QbK-of-2ht"; */
-> > /* Class = "NSButtonCell"; title = "투명한 배경"; ObjectID = "ckv-Og-YCg"; */
-> > /* Class = "NSMenuItem"; title = "왼쪽"; ObjectID = "Rwr-K9-EZe"; */
-> > /* Class = "NSMenuItem"; title = "기본값"; ObjectID = "hCK-bD-iSN"; */
-> > /* Class = "NSMenuItem"; title = "오른쪽"; ObjectID = "y41-Pp-Cr8"; */
-> > /* Class = "NSTabViewItem"; label = "구조"; ObjectID = "khw-5N-Xyt"; */
-> > /* Class = "NSTabViewItem"; label = "도련"; ObjectID = "m8g-i7-Vfm"; */
-> > /* Class = "NSTextFieldCell"; title = "'실제 크기' 맞추기:"; ObjectID = "TG6-DZ-wQy"; */
-> > /* Class = "NSTextFieldCell"; title = "문서 단위:"; ObjectID = "3Bx-1A-7DX"; */
-> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "5yD-eB-mwR"; */
-> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "NmL-8u-DKg"; */
-> > /* Class = "NSTextFieldCell"; title = "개시:"; ObjectID = "RCb-3h-oZx"; */
-> > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "hM3-57-U7X"; */
-> > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "QxF-N8-EzW"; */
