@@ -1,4 +1,4 @@
-92,233c92,182
+92,121c92,96
 < ---
 < ---
 < ---
@@ -29,7 +29,13 @@
 < 114c114
 < 120c120
 < 126c126
-< 12c12
+---
+> 101,102c101,102
+> 107,108c107,108
+> 113,114c113,114
+> 119,120c119,120
+> 125,126c125,126
+123,171c98,129
 < 132c132
 < 138c138
 < 141c141
@@ -79,75 +85,7 @@
 < 270c270
 < 276c276
 < 279c279
-< 27c27
-< 282c282
-< 285c285
-< 288c288
-< 294c294
-< 297c297
-< 300c300
-< 303c303
-< 306c306
-< 309c309
-< 30c30
-< 312c312
-< 315c315
-< 318c318
-< 321c321
-< 324c324
-< 327c327
-< 330c330
-< 333c333
-< 336c336
-< 339c339
-< 33c33
-< 342c342
-< 345c345
-< 348c348
-< 351c351
-< 357c357
-< 360c360
-< 363c363
-< 366c366
-< 369c369
-< 36c36
-< 372c372
-< 375c375
-< 378c378
-< 381c381
-< 384c384
-< 387c387
-< 390c390
-< 39c39
-< 3c3
-< 42c42
-< 45c45
-< 48c48
-< 51c51
-< 54c54
-< 57c57
-< 60c60
-< 63c63
-< 66c66
-< 69c69
-< 6c6
-< 72c72
-< 75c75
-< 78c78
-< 81c81
-< 84c84
-< 87c87
-< 90c90
-< 93c93
-< 96c96
-< < "1007.title" = "Highlight:";
 ---
-> 101,102c101,102
-> 107,108c107,108
-> 113,114c113,114
-> 119,120c119,120
-> 11c11
-> 125,126c125,126
 > 131,132c131,132
 > 137,138c137,138
 > 14,15c14,15
@@ -178,19 +116,38 @@
 > 245,246c245,246
 > 248,249c248,249
 > 266,267c266,267
-> 26c26
 > 275,276c275,276
 > 278,279c278,279
+173,181c131,139
+< 282c282
+< 285c285
+< 288c288
+< 294c294
+< 297c297
+< 300c300
+< 303c303
+< 306c306
+< 309c309
+---
 > 281,282c281,282
 > 284,285c284,285
 > 287,288c287,288
 > 293,294c293,294
 > 296,297c296,297
 > 299,300c299,300
-> 29c29
 > 302,303c302,303
 > 305,306c305,306
 > 308,309c308,309
+183,190c141,148
+< 312c312
+< 315c315
+< 318c318
+< 321c321
+< 324c324
+< 327c327
+< 330c330
+< 333c333
+---
 > 311,312c311,312
 > 314,315c314,315
 > 317,318c317,318
@@ -199,7 +156,29 @@
 > 323,324c323,324
 > 326,327c326,327
 > 329,330c329,330
-> 335c335
+192,212c150,162
+< 339c339
+< 33c33
+< 342c342
+< 345c345
+< 348c348
+< 351c351
+< 357c357
+< 360c360
+< 363c363
+< 366c366
+< 369c369
+< 36c36
+< 372c372
+< 375c375
+< 378c378
+< 381c381
+< 384c384
+< 387c387
+< 390c390
+< 39c39
+< 3c3
+---
 > 338,339c338,339
 > 341,342c341,342
 > 344,345c344,345
@@ -213,7 +192,14 @@
 > 383,384c383,384
 > 386,387c386,387
 > 389,390c389,390
-> 41c41
+214,219c164,170
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+---
 > 44,45c44,45
 > 47,48c47,48
 > 5,6c5,6
@@ -221,16 +207,30 @@
 > 53,54c53,54
 > 56,57c56,57
 > 59,60c59,60
-> 62c62
+221,224c172,174
+< 66c66
+< 69c69
+< 6c6
+< 72c72
+---
 > 65,66c65,66
 > 68,69c68,69
 > 71,72c71,72
-> 74c74
+226,229c176,179
+< 78c78
+< 81c81
+< 84c84
+< 87c87
+---
 > 77,78c77,78
 > 80,81c80,81
 > 83,84c83,84
 > 86,87c86,87
-> 89c89
+231,233c181,182
+< 93c93
+< 96c96
+< < "1007.title" = "Highlight:";
+---
 > 92,93c92,93
 > 95,96c95,96
 236,237d184
@@ -252,39 +252,26 @@
 < < "1246.title" = "Gradient:";
 260d195
 < < "1275.title" = "Gradient:";
-279,280d213
-< < "161.title" = "Color:";
-< < "181.title" = "Color:";
-285d217
-< < "205.title" = "Color:";
-292d223
-< < "286.title" = "Color:";
-297d227
-< < "370.title" = "Color:";
-303d232
-< < "429.title" = "Color:";
-309d237
+309d243
 < < "7Xc-9F-TTE.title" = "Specular:";
-316d243
+316d249
 < < "912.title" = "Center";
-325d251
+325d257
 < < "944.title" = "Pillow";
-328,331d253
-< < "96.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Color Overlay";
+329,330d260
 < < "978.title" = "Azimuth:";
 < < "982.title" = "Elevation:";
-< < "CbL-g2-7Ll.title" = "Color:";
-336d257
+336d265
 < < "JRt-w1-ys5.title" = "Shininess:";
-338d258
+338d266
 < < "TfO-jF-PQ8.title" = "Ambient:";
-340,341d259
+340,341d267
 < < "b17-xr-WVH.title" = "Ambient light color:";
 < < "bXO-sD-Upv.title" = "Specular color:";
-344,345d261
+344,345d269
 < < "gNU-iI-0DP.title" = "Elevation:";
 < < "i6m-A5-rN7.title" = "Azimuth:";
-349,464c265,528
+349,464c273,528
 < > "1007.title" = "ハイライト:";
 < > "1009.title" = "シャドウ:";
 < > "1052.title" = "プロファイル:";
@@ -440,13 +427,6 @@
 > < /* Class = "NSTextFieldCell"; title = "Blend mode:"; ObjectID = "830"; */
 > < /* Class = "NSTextFieldCell"; title = "Blend mode:"; ObjectID = "839"; */
 > < /* Class = "NSTextFieldCell"; title = "Blend mode:"; ObjectID = "857"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "161"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "181"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "205"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "286"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "370"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "429"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "CbL-g2-7Ll"; */
 > < /* Class = "NSTextFieldCell"; title = "Depth:"; ObjectID = "924"; */
 > < /* Class = "NSTextFieldCell"; title = "Depth:"; ObjectID = "bnU-1x-w36"; */
 > < /* Class = "NSTextFieldCell"; title = "Diffuse:"; ObjectID = "3Gn-JZ-cns"; */
@@ -492,7 +472,6 @@
 > < /* Class = "NSView"; 274.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Inner Glow"; ObjectID = "274"; */
 > < /* Class = "NSView"; 359.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Outline"; ObjectID = "359"; */
 > < /* Class = "NSView"; 411.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Inner Shadow"; ObjectID = "411"; */
-> < /* Class = "NSView"; 96.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Colour Overlay"; ObjectID = "96"; */
 > > "1009.title" = "그림자:";
 > > "1052.title" = "프로파일:";
 > > "1092.title" = "등고선";
@@ -524,25 +503,31 @@
 > > "1378.title" = "프로파일 지우기";
 > > "141.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "외부 광채";
 > > "148.title" = "반지름:";
+> > "161.title" = "색상:";
+> > "181.title" = "색상:";
 > > "188.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "외부 그림자";
 > > "2.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "가우시안 블러";
 > > "201.title" = "편차:";
 > > "202.title" = "반지름:";
+> > "205.title" = "색상:";
 > > "207.title" = "각도:";
 > > "208.title" = "불투명도:";
 > > "215.title" = "불투명도:";
 > > "221.title" = "불투명도:";
 > > "274.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "내부 광채";
 > > "283.title" = "반지름:";
+> > "286.title" = "색상:";
 > > "288.title" = "불투명도:";
 > > "30.title" = "반지름:";
 > > "359.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "외형";
 > > "368.title" = "불투명도:";
+> > "370.title" = "색상:";
 > > "373.title" = "반지름:";
 > > "3Gn-JZ-cns.title" = "확산:";
 > > "411.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "내부 그림자";
 > > "426.title" = "불투명도:";
 > > "427.title" = "각도:";
+> > "429.title" = "색상:";
 > > "432.title" = "반지름:";
 > > "433.title" = "편차:";
 > > "4LO-YN-15L.title" = "반지름:";
@@ -564,6 +549,8 @@
 > > "943.title" = "양각";
 > > "946.title" = "반전";
 > > "954.title" = "방향:";
+> > "96.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "색상 오버레이";
+> > "CbL-g2-7Ll.title" = "색상:";
 > > "DQs-Mg-dcM.title" = "알파 유지";
 > > "ENj-RY-fSm.title" = "지우기";
 > > "HPN-yv-19f.title" = "추가";
@@ -617,22 +604,15 @@
 > > /* Class = "NSTextFieldCell"; title = "세기:"; ObjectID = "1352"; */
 > > /* Class = "NSTextFieldCell"; title = "세기:"; ObjectID = "1356"; */
 > > /* Class = "NSTextFieldCell"; title = "세기:"; ObjectID = "1360"; */
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "161"; */
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "181"; */
 > > /* Class = "NSTextFieldCell"; title = "편차:"; ObjectID = "201"; */
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "205"; */
 > > /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "207"; */
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "286"; */
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "370"; */
 > > /* Class = "NSTextFieldCell"; title = "확산:"; ObjectID = "3Gn-JZ-cns"; */
 > > /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "427"; */
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "429"; */
 > > /* Class = "NSTextFieldCell"; title = "편차:"; ObjectID = "433"; */
 > > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "914"; */
 > > /* Class = "NSTextFieldCell"; title = "깊이:"; ObjectID = "924"; */
 > > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "937"; */
 > > /* Class = "NSTextFieldCell"; title = "방향:"; ObjectID = "954"; */
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "CbL-g2-7Ll"; */
 > > /* Class = "NSTextFieldCell"; title = "광원:"; ObjectID = "WRm-vP-u7z"; */
 > > /* Class = "NSTextFieldCell"; title = "깊이:"; ObjectID = "bnU-1x-w36"; */
 > > /* Class = "NSTextFieldCell"; title = "방향:"; ObjectID = "xpj-Mc-gRZ"; */
@@ -665,4 +645,3 @@
 > > /* Class = "NSView"; 274.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "내부 광채"; ObjectID = "274"; */
 > > /* Class = "NSView"; 359.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "외형"; ObjectID = "359"; */
 > > /* Class = "NSView"; 411.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "내부 그림자"; ObjectID = "411"; */
-> > /* Class = "NSView"; 96.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "색상 오버레이"; ObjectID = "96"; */

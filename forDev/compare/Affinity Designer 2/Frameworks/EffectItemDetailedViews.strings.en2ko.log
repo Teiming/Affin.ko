@@ -93,8 +93,8 @@
 107,108c107,108
 113,114c113,114
 119,120c119,120
-11c11
 125,126c125,126
+12c12
 131,132c131,132
 137,138c137,138
 14,15c14,15
@@ -125,19 +125,19 @@
 245,246c245,246
 248,249c248,249
 266,267c266,267
-26c26
 275,276c275,276
 278,279c278,279
+27c27
 281,282c281,282
 284,285c284,285
 287,288c287,288
 293,294c293,294
 296,297c296,297
 299,300c299,300
-29c29
 302,303c302,303
 305,306c305,306
 308,309c308,309
+30c30
 311,312c311,312
 314,315c314,315
 317,318c317,318
@@ -146,7 +146,7 @@
 323,324c323,324
 326,327c326,327
 329,330c329,330
-335c335
+336c336
 338,339c338,339
 341,342c341,342
 344,345c344,345
@@ -160,7 +160,7 @@
 383,384c383,384
 386,387c386,387
 389,390c389,390
-41c41
+42c42
 44,45c44,45
 47,48c47,48
 5,6c5,6
@@ -168,16 +168,16 @@
 53,54c53,54
 56,57c56,57
 59,60c59,60
-62c62
+63c63
 65,66c65,66
 68,69c68,69
 71,72c71,72
-74c74
+75c75
 77,78c77,78
 80,81c80,81
 83,84c83,84
 86,87c86,87
-89c89
+90c90
 92,93c92,93
 95,96c95,96
 < "1009.title" = "Shadow:";
@@ -211,25 +211,31 @@
 < "1378.title" = "Remove Profile";
 < "141.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Outer Glow";
 < "148.title" = "Radius:";
+< "161.title" = "Color:";
+< "181.title" = "Color:";
 < "188.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Outer Shadow";
 < "2.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Gaussian Blur";
 < "201.title" = "Offset:";
 < "202.title" = "Radius:";
+< "205.title" = "Color:";
 < "207.title" = "Angle:";
 < "208.title" = "Opacity:";
 < "215.title" = "Opacity:";
 < "221.title" = "Opacity:";
 < "274.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Inner Glow";
 < "283.title" = "Radius:";
+< "286.title" = "Color:";
 < "288.title" = "Opacity:";
 < "30.title" = "Radius:";
 < "359.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Outline";
 < "368.title" = "Opacity:";
+< "370.title" = "Color:";
 < "373.title" = "Radius:";
 < "3Gn-JZ-cns.title" = "Diffuse:";
 < "411.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Inner Shadow";
 < "426.title" = "Opacity:";
 < "427.title" = "Angle:";
+< "429.title" = "Color:";
 < "432.title" = "Radius:";
 < "433.title" = "Offset:";
 < "4LO-YN-15L.title" = "Radius:";
@@ -251,6 +257,8 @@
 < "943.title" = "Emboss";
 < "946.title" = "Invert";
 < "954.title" = "Direction:";
+< "96.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Color Overlay";
+< "CbL-g2-7Ll.title" = "Color:";
 < "DQs-Mg-dcM.title" = "Preserve alpha";
 < "ENj-RY-fSm.title" = "Remove";
 < "HPN-yv-19f.title" = "Add";
@@ -300,13 +308,6 @@
 < /* Class = "NSTextFieldCell"; title = "Blend mode:"; ObjectID = "830"; */
 < /* Class = "NSTextFieldCell"; title = "Blend mode:"; ObjectID = "839"; */
 < /* Class = "NSTextFieldCell"; title = "Blend mode:"; ObjectID = "857"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "161"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "181"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "205"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "286"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "370"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "429"; */
-< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "CbL-g2-7Ll"; */
 < /* Class = "NSTextFieldCell"; title = "Depth:"; ObjectID = "924"; */
 < /* Class = "NSTextFieldCell"; title = "Depth:"; ObjectID = "bnU-1x-w36"; */
 < /* Class = "NSTextFieldCell"; title = "Diffuse:"; ObjectID = "3Gn-JZ-cns"; */
@@ -352,7 +353,6 @@
 < /* Class = "NSView"; 274.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Inner Glow"; ObjectID = "274"; */
 < /* Class = "NSView"; 359.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Outline"; ObjectID = "359"; */
 < /* Class = "NSView"; 411.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Inner Shadow"; ObjectID = "411"; */
-< /* Class = "NSView"; 96.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Colour Overlay"; ObjectID = "96"; */
 > "1009.title" = "그림자:";
 > "1052.title" = "프로파일:";
 > "1092.title" = "등고선";
@@ -384,25 +384,31 @@
 > "1378.title" = "프로파일 지우기";
 > "141.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "외부 광채";
 > "148.title" = "반지름:";
+> "161.title" = "색상:";
+> "181.title" = "색상:";
 > "188.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "외부 그림자";
 > "2.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "가우시안 블러";
 > "201.title" = "편차:";
 > "202.title" = "반지름:";
+> "205.title" = "색상:";
 > "207.title" = "각도:";
 > "208.title" = "불투명도:";
 > "215.title" = "불투명도:";
 > "221.title" = "불투명도:";
 > "274.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "내부 광채";
 > "283.title" = "반지름:";
+> "286.title" = "색상:";
 > "288.title" = "불투명도:";
 > "30.title" = "반지름:";
 > "359.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "외형";
 > "368.title" = "불투명도:";
+> "370.title" = "색상:";
 > "373.title" = "반지름:";
 > "3Gn-JZ-cns.title" = "확산:";
 > "411.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "내부 그림자";
 > "426.title" = "불투명도:";
 > "427.title" = "각도:";
+> "429.title" = "색상:";
 > "432.title" = "반지름:";
 > "433.title" = "편차:";
 > "4LO-YN-15L.title" = "반지름:";
@@ -424,6 +430,8 @@
 > "943.title" = "양각";
 > "946.title" = "반전";
 > "954.title" = "방향:";
+> "96.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "색상 오버레이";
+> "CbL-g2-7Ll.title" = "색상:";
 > "DQs-Mg-dcM.title" = "알파 유지";
 > "ENj-RY-fSm.title" = "지우기";
 > "HPN-yv-19f.title" = "추가";
@@ -477,22 +485,15 @@
 > /* Class = "NSTextFieldCell"; title = "세기:"; ObjectID = "1352"; */
 > /* Class = "NSTextFieldCell"; title = "세기:"; ObjectID = "1356"; */
 > /* Class = "NSTextFieldCell"; title = "세기:"; ObjectID = "1360"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "161"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "181"; */
 > /* Class = "NSTextFieldCell"; title = "편차:"; ObjectID = "201"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "205"; */
 > /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "207"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "286"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "370"; */
 > /* Class = "NSTextFieldCell"; title = "확산:"; ObjectID = "3Gn-JZ-cns"; */
 > /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "427"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "429"; */
 > /* Class = "NSTextFieldCell"; title = "편차:"; ObjectID = "433"; */
 > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "914"; */
 > /* Class = "NSTextFieldCell"; title = "깊이:"; ObjectID = "924"; */
 > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "937"; */
 > /* Class = "NSTextFieldCell"; title = "방향:"; ObjectID = "954"; */
-> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "CbL-g2-7Ll"; */
 > /* Class = "NSTextFieldCell"; title = "광원:"; ObjectID = "WRm-vP-u7z"; */
 > /* Class = "NSTextFieldCell"; title = "깊이:"; ObjectID = "bnU-1x-w36"; */
 > /* Class = "NSTextFieldCell"; title = "방향:"; ObjectID = "xpj-Mc-gRZ"; */
@@ -525,4 +526,3 @@
 > /* Class = "NSView"; 274.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "내부 광채"; ObjectID = "274"; */
 > /* Class = "NSView"; 359.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "외형"; ObjectID = "359"; */
 > /* Class = "NSView"; 411.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "내부 그림자"; ObjectID = "411"; */
-> /* Class = "NSView"; 96.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "색상 오버레이"; ObjectID = "96"; */
