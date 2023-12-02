@@ -15,9 +15,5 @@
 < > "201.title" = "ラスタライズ";
 < > "206.title" = "キャンセル";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "206"; */
-> < /* Class = "NSButtonCell"; title = "Preserve layer FX"; ObjectID = "150"; */
 > > "150.title" = "레이어 효과 유지";
 > > "206.title" = "취소";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "206"; */
-> > /* Class = "NSButtonCell"; title = "레이어 효과 유지"; ObjectID = "150"; */
