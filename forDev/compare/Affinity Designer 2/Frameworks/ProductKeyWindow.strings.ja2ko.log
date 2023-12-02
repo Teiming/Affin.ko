@@ -1,151 +1,4 @@
-17,327c17,32
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,165c2,17
 < 105c105
 < 111c111
 < 114c114
@@ -327,29 +180,29 @@
 > 77,78c77,78
 > 86,87c86,87
 > 92,93c92,93
-329,330d33
+167,168d18
 < < "18b-l4-qhG.title" = "I already have an %@ or Universal License";
 < < "18y-vY-e60.title" = "Forgot your password?";
-332,334d34
+170,172d19
 < < "1Mi-RM-cZo.title" = "For macOS";
 < < "1sk-EM-GN7.title" = "BUY NOW";
 < < "2gl-1w-r5n.title" = "ACTIVATE LICENSE";
-336d35
+174d20
 < < "39f-62-vUk.title" = "Already purchased?";
-338d36
+176d21
 < < "3Zz-fV-cLc.title" = "Don't have an Affinity ID?";
-340,342d37
+178,180d22
 < < "3wg-Py-LsW.title" = "%@-day trial available!";
 < < "43X-cL-ksL.title" = "Not now";
 < < "4WX-UP-rqd.title" = "Your current license has expired.\nPlease wait while we contact the Affinity license server to check for an updated license.";
-344,346d38
+182,184d23
 < < "51W-57-t0m.title" = "Your app has been successfully registered to your Affinity account";
 < < "59E-ha-y87.title" = "BUY NOW";
 < < "5ux-2T-dlu.title" = "Continue";
-348,349d39
+186,187d24
 < < "7M4-sq-5Yd.title" = "Not now";
 < < "7jF-bE-tuV.title" = "Box";
-352,396d41
+190,234d26
 < < "8VC-G8-Tfj.title" = "THANK YOU";
 < < "98T-sQ-BA3.title" = "CREATE FREE ACCOUNT";
 < < "ATE-ri-pvV.title" = "Password:";
@@ -395,13 +248,13 @@
 < < "N6p-VX-sjG.title" = "The license for %@ is invalid!\nPlease speak to your network administrator.";
 < < "NPa-DR-fnU.title" = "Activation unsuccessful";
 < < "No9-Ey-hEM.title" = "Click below to start your trial. This will perform a one-time activation with the server so you need to be online.";
-398,402d42
+236,240d27
 < < "OBm-Ft-fPP.title" = "If you have already purchased a License for %@ for macOS, or have a Universal License for V2, you can activate it below using your Affinity ID.";
 < < "PGC-I3-0Bx.title" = "Activation successful!";
 < < "PHs-f2-hfL.title" = "SIGN IN";
 < < "PQP-Jl-gtq.title" = "EXISTING CUSTOMER? SIGN IN";
 < < "PQU-8P-xpP.title" = "The license for %@ has expired!\nPlease speak to your network administrator.";
-404,415d43
+242,253d28
 < < "QKI-Sb-h0I.title" = "Unfortunately, we are still unable to verify your license.\n\nPlease contact technical support for assistance.";
 < < "QTt-eB-Zlt.title" = "Sorry!";
 < < "Qh5-z8-Qji.title" = "Box";
@@ -414,18 +267,18 @@
 < < "Wcn-un-JgL.title" = "I already have an %@ or Universal license";
 < < "XO7-z6-yLz.title" = "BEGIN MY %@-DAY TRIAL";
 < < "YHH-r0-6Yj.title" = "Forgot your password?";
-417,422d44
+255,260d29
 < < "ZUf-3P-PJd.title" = "Purchase options";
 < < "ZaU-j5-7cX.title" = "Would you like to keep your app linked to your Affinity Store account?\nThis allows you to automatically stream any free or purchased content you have directly to your app.";
 < < "ZrG-MU-pwx.title" = "Email (Affinity ID):";
 < < "ZwB-j2-LuJ.title" = "%@-day trial activation successful!";
 < < "alH-5z-iM8.title" = "Not now";
 < < "b6g-Lg-3GA.title" = "Launch App";
-424,426d45
+262,264d30
 < < "bPt-ZN-TXW.title" = "REGISTER MY PURCHASE";
 < < "bfi-Eh-cpv.title" = "One-off purchase";
 < < "c4y-sq-D92.title" = "Activate with a different Affinity ID";
-428,441d46
+266,279d31
 < < "cS2-ZK-MOL.title" = "Activate your apps using your Affinity ID. If you purchased your Universal license from an App Store, you'll need to register your purchase on the original device first.";
 < < "crh-ZA-XBa.title" = "Purchase now to continue using %@";
 < < "cx0-iJ-09y.title" = "Purchase now or continue your trial";
@@ -440,7 +293,7 @@
 < < "fLm-aw-c62.title" = "YES PLEASE, LINK MY APP TO MY ACCOUNT";
 < < "fZ4-Vh-qVf.title" = "Thank you for purchasing %@!\n\nYour license cannot be verified at the moment.\n\nWe'll try again the next time you launch the app.";
 < < "fax-zJ-N5V.title" = "RESTORE";
-443,459d47
+281,297d32
 < < "gNc-Q7-3Ly.title" = "Now register your app to your Affinity account";
 < < "gSG-bz-Gmu.title" = "BUY NOW";
 < < "gWn-Wi-dI7.title" = "Got a Universal license?";
@@ -458,7 +311,7 @@
 < < "m7H-he-79v.title" = "Main Menu";
 < < "mX2-PC-G68.title" = "Unfortunately, we still cannot verify your license at the moment.\n\nWe'll try again the next time you launch the app.";
 < < "mv8-n3-7og.title" = "Buy %@ for macOS.";
-461,652c49,96
+299,490c34,81
 < < "o0Y-ED-Sa4.title" = "Sign up is simple and completely subscription free!";
 < < "oLN-d7-aFk.title" = "Check Connectivity…";
 < < "p6L-77-eot.title" = "Click below to begin your %@-day trial of %@ for macOS. No sign-up or credit card details required.";
