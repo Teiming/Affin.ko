@@ -1,19 +1,10 @@
-5,16c5
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,4c2
 < 12c12
 < 15c15
 < 18c18
 ---
 > 14,15c14,15
-19,30c8
+7,18c5
 < 27c27
 < 30c30
 < 33c33
@@ -28,13 +19,13 @@
 < < "8wK-nS-y9K.title" = "Detail Refinement";
 ---
 > 35,36c35,36
-32d9
+20d6
 < < "MBn-ns-Hg9.title" = "Noise Addition";
-35,37d11
+23,25d8
 < < "Yu5-hd-63P.title" = "Luminance Details";
 < < "f0D-zg-h44.title" = "Luminance Contribution";
 < < "p9K-gN-drg.title" = "Gaussian";
-39,52c13,20
+27,40c10,17
 < < "yay-ko-9FW.title" = "Intensity";
 < > "368.title" = "輝度";
 < > "371.title" = "ノイズ軽減";
