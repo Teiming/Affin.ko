@@ -157,7 +157,7 @@
 308,309c308,309
 317,318c317,318
 32,33c32,33
-320c320
+321c321
 323,324c323,324
 326,327c326,327
 329,330c329,330
@@ -277,6 +277,7 @@
 < "c9a-gU-Wfj.title" = "Zoom to Width";
 < "dZU-La-XBw.title" = "Show Right Studio";
 < "hpR-I1-W8L.title" = "Support...";
+< "iME-Vs-Qnd.title" = "Apple Color Picker...";
 < "iq9-LM-FYM.title" = "Studio";
 < "itj-mR-80i.title" = "Select";
 < "jWT-Nz-PEE.title" = "Reset Studio";
@@ -307,7 +308,6 @@
 < /* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "79s-Wv-z7r"; */
 < /* Class = "NSMenuItem"; title = "Add Preset…"; ObjectID = "Fqw-lW-baW"; */
 < /* Class = "NSMenuItem"; title = "Affinity Designer Help"; ObjectID = "3gf-mC-XkB"; */
-< /* Class = "NSMenuItem"; title = "Apple Colour Picker..."; ObjectID = "iME-Vs-Qnd"; */
 < /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "813"; */
 < /* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "Y15-ob-9qE"; */
 < /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "888"; */
@@ -399,8 +399,8 @@
 > "1331.title" = "축소";
 > "1353.title" = "뷰";
 > "1357.title" = "뷰";
-> "1362.title" = "뷰 모드";
-> "1364.title" = "뷰 모드";
+> "1362.title" = "보기";
+> "1364.title" = "보기";
 > "1366.title" = "벡터";
 > "1457.title" = "눈금자 보기";
 > "1K4-tN-KJx.title" = "전체 선택";
@@ -470,6 +470,7 @@
 > "c9a-gU-Wfj.title" = "화면 너비에 맞추기";
 > "dZU-La-XBw.title" = "오른쪽 작업실 보기";
 > "hpR-I1-W8L.title" = "지원...";
+> "iME-Vs-Qnd.title" = "Apple 색상 선택기...";
 > "iq9-LM-FYM.title" = "작업실";
 > "itj-mR-80i.title" = "선택";
 > "jWT-Nz-PEE.title" = "작업실 재설정";
@@ -482,10 +483,10 @@
 > "tGQ-lG-h68.title" = "안내선 잠금";
 > "tXe-bY-Mf7.title" = "외형";
 > "uP4-bW-FOM.title" = "도구 고정";
-> /* Class = "NSMenu"; title = "뷰 모드"; ObjectID = "1364"; */
 > /* Class = "NSMenu"; title = "뷰"; ObjectID = "1357"; */
 > /* Class = "NSMenu"; title = "뷰"; ObjectID = "889"; */
 > /* Class = "NSMenu"; title = "최근 사용 열기"; ObjectID = "887"; */
+> /* Class = "NSMenu"; title = "보기"; ObjectID = "1364"; */
 > /* Class = "NSMenu"; title = "편집"; ObjectID = "6ux-Xi-ld7"; */
 > /* Class = "NSMenu"; title = "파일"; ObjectID = "873"; */
 > /* Class = "NSMenu"; title = "공유"; ObjectID = "XF0-oF-CqE"; */
@@ -499,9 +500,7 @@
 > /* Class = "NSMenuItem"; title = "Affinity Designer 종료"; ObjectID = "823"; */
 > /* Class = "NSMenuItem"; title = "Affinity Designer 도움말"; ObjectID = "3gf-mC-XkB"; */
 > /* Class = "NSMenuItem"; title = "Affinity Designer에 관하여…"; ObjectID = "826"; */
-> /* Class = "NSMenuItem"; title = "Apple 색상 선택기..."; ObjectID = "iME-Vs-Qnd"; */
 > /* Class = "NSMenuItem"; title = "UI 가리기"; ObjectID = "7jx-II-o5w"; */
-> /* Class = "NSMenuItem"; title = "뷰 모드"; ObjectID = "1362"; */
 > /* Class = "NSMenuItem"; title = "내 계정…"; ObjectID = "Hnm-Oe-ITh"; */
 > /* Class = "NSMenuItem"; title = "뷰"; ObjectID = "1353"; */
 > /* Class = "NSMenuItem"; title = "뷰"; ObjectID = "803"; */
@@ -538,6 +537,7 @@
 > /* Class = "NSMenuItem"; title = "픽셀"; ObjectID = "1107"; */
 > /* Class = "NSMenuItem"; title = "확대"; ObjectID = "1329"; */
 > /* Class = "NSMenuItem"; title = "축소"; ObjectID = "1331"; */
+> /* Class = "NSMenuItem"; title = "보기"; ObjectID = "1362"; */
 > /* Class = "NSMenuItem"; title = "벡터"; ObjectID = "1366"; */
 > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "79k-PD-Qmh"; */
 > /* Class = "NSMenuItem"; title = "파일"; ObjectID = "804"; */
