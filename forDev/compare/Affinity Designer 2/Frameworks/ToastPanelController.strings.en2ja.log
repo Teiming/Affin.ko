@@ -1,16 +1,16 @@
-3c3
-< "1.title" = "Toast";
 ---
-> "1.title" = "トースト";
-6c6
-< "6.title" = "Cancel";
 ---
-> "6.title" = "キャンセル";
+---
+---
 12c12
-< "13.title" = "This is the title";
----
-> "13.title" = "これはタイトルです";
 15c15
+3c3
+6c6
+< "1.title" = "Toast";
+< "13.title" = "This is the title";
 < "15.title" = "This is the description, the description goes here and can span multiple lines. ";
----
+< "6.title" = "Cancel";
+> "1.title" = "トースト";
+> "13.title" = "これはタイトルです";
 > "15.title" = "これは説明です。説明をここに、複数行にわたって記述できます。 ";
+> "6.title" = "キャンセル";
