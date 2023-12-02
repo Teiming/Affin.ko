@@ -1,58 +1,54 @@
-1,5c1,2
-< 3c3
-< < "BU4-Aw-W9o.title" = "Background calibration";
+5,21c5,8
 < ---
-< > "BU4-Aw-W9o.title" = "背景のキャリブレーション";
-< 6c6
----
-> 5,6c5,6
-> < /* Class = "NSMenuItem"; title = "Mean"; ObjectID = "OKU-sB-PDf"; */
-8,17c5,8
-< > "OKU-sB-PDf.title" = "平均";
-< 9c9
-< < "ScZ-Db-uJ2.title" = "Threshold (standard deviations):";
 < ---
-< > "ScZ-Db-uJ2.title" = "しきい値 (標準偏差):";
+< ---
+< ---
+< ---
+< ---
 < 12c12
-< < "VA9-2p-Kcr.title" = "Stacking method:";
-< ---
-< > "VA9-2p-Kcr.title" = "スタッキング方法:";
 < 15c15
----
-> > /* Class = "NSMenuItem"; title = "평균"; ObjectID = "OKU-sB-PDf"; */
-> > "OKU-sB-PDf.title" = "평균";
-> 14,15c14,15
-> < /* Class = "NSTabViewItem"; label = "Median"; ObjectID = "fdI-qy-WQx"; */
-20,29c11,14
-< > "fdI-qy-WQx.label" = "メディアン";
 < 18c18
-< < "g4B-lU-gIx.label" = "Sigma clipping";
-< ---
-< > "g4B-lU-gIx.label" = "シグマクリッピング";
 < 21c21
-< < "l9g-yL-Kpd.title" = "Sigma clipping";
-< ---
-< > "l9g-yL-Kpd.title" = "シグマクリッピング";
 < 24c24
----
-> > /* Class = "NSTabViewItem"; label = "중앙값"; ObjectID = "fdI-qy-WQx"; */
-> > "fdI-qy-WQx.label" = "중앙값";
-> 23,24c23,24
-> < /* Class = "NSMenuItem"; title = "Median"; ObjectID = "lQ6-3w-wJS"; */
-32,33c17,20
-< > "lQ6-3w-wJS.title" = "メディアン";
 < 27c27
----
-> > /* Class = "NSMenuItem"; title = "중앙값"; ObjectID = "lQ6-3w-wJS"; */
-> > "lQ6-3w-wJS.title" = "중앙값";
-> 26,27c26,27
-> < /* Class = "NSTabViewItem"; label = "Mean"; ObjectID = "u7N-4S-3lQ"; */
-36,40c23,24
-< > "u7N-4S-3lQ.label" = "平均";
 < 30c30
+< 3c3
+< 6c6
+< 9c9
+< < "BU4-Aw-W9o.title" = "Background calibration";
+---
+> 14,15c14,15
+> 23,24c23,24
+> 26,27c26,27
+> 5,6c5,6
+23,24d9
+< < "ScZ-Db-uJ2.title" = "Threshold (standard deviations):";
+< < "VA9-2p-Kcr.title" = "Stacking method:";
+26,27d10
+< < "g4B-lU-gIx.label" = "Sigma clipping";
+< < "l9g-yL-Kpd.title" = "Sigma clipping";
+30,40c13,24
 < < "v8E-x6-Gc0.title" = "Clipping iterations:";
-< ---
+< > "BU4-Aw-W9o.title" = "背景のキャリブレーション";
+< > "OKU-sB-PDf.title" = "平均";
+< > "ScZ-Db-uJ2.title" = "しきい値 (標準偏差):";
+< > "VA9-2p-Kcr.title" = "スタッキング方法:";
+< > "fdI-qy-WQx.label" = "メディアン";
+< > "g4B-lU-gIx.label" = "シグマクリッピング";
+< > "l9g-yL-Kpd.title" = "シグマクリッピング";
+< > "lQ6-3w-wJS.title" = "メディアン";
+< > "u7N-4S-3lQ.label" = "平均";
 < > "v8E-x6-Gc0.title" = "クリッピング反復:";
 ---
-> > /* Class = "NSTabViewItem"; label = "평균"; ObjectID = "u7N-4S-3lQ"; */
+> < /* Class = "NSMenuItem"; title = "Mean"; ObjectID = "OKU-sB-PDf"; */
+> < /* Class = "NSMenuItem"; title = "Median"; ObjectID = "lQ6-3w-wJS"; */
+> < /* Class = "NSTabViewItem"; label = "Mean"; ObjectID = "u7N-4S-3lQ"; */
+> < /* Class = "NSTabViewItem"; label = "Median"; ObjectID = "fdI-qy-WQx"; */
+> > "OKU-sB-PDf.title" = "평균";
+> > "fdI-qy-WQx.label" = "중앙값";
+> > "lQ6-3w-wJS.title" = "중앙값";
 > > "u7N-4S-3lQ.label" = "평균";
+> > /* Class = "NSMenuItem"; title = "평균"; ObjectID = "OKU-sB-PDf"; */
+> > /* Class = "NSMenuItem"; title = "중앙값"; ObjectID = "lQ6-3w-wJS"; */
+> > /* Class = "NSTabViewItem"; label = "평균"; ObjectID = "u7N-4S-3lQ"; */
+> > /* Class = "NSTabViewItem"; label = "중앙값"; ObjectID = "fdI-qy-WQx"; */
