@@ -1,31 +1,4 @@
-17,69c17,24
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,27c2,9
 < 102c102
 < 108c108
 < 111c111
@@ -61,12 +34,12 @@
 > 35,36c35,36
 > 41,42c41,42
 > 5,6c5,6
-71,72c26
+29,30c11
 < 60c60
 < 63c63
 ---
 > 62,63c62,63
-74,81c28,31
+32,39c13,16
 < 69c69
 < 6c6
 < 72c72
@@ -80,49 +53,49 @@
 > 8,9c8,9
 > 80,81c80,81
 > 86,87c86,87
-83,86d32
+41,44d17
 < 93c93
 < 96c96
 < 99c99
 < 9c9
-89d34
+47d19
 < < "3.title" = "Lighting";
-92,97d36
+50,55d21
 < < "6XW-mL-Lsy.title" = "Scale Vertically To Fit";
 < < "7He-VW-ncs.title" = "Azimuth:";
 < < "8Rn-U7-CzL.title" = "Point";
 < < "ARm-Ol-cdR.title" = "Elevation:";
 < < "Bxf-C9-PWy.title" = "Distance:";
 < < "Cga-SD-01X.label" = "Point";
-99d37
+57d22
 < < "Fzm-g1-uqT.label" = "Point";
-101,103d38
+59,61d23
 < < "Hn4-da-mcH.title" = "Azimuth:";
 < < "Nc6-Pc-SEP.title" = "Specular color:";
 < < "OL7-UQ-ISC.title" = "Elevation:";
-105d39
+63d24
 < < "QYd-nP-ZaS.label" = "Directional";
-108d41
+66d26
 < < "VCo-hZ-ln8.title" = "Scale Horizontally To Fit";
-110,111d42
+68,69d27
 < < "WSi-yT-776.title" = "Inner cone:";
 < < "XdS-1R-7YW.title" = "Shininess:";
-113d43
+71d28
 < < "Y8d-p2-ETz.title" = "Ambient:";
-116,121d45
+74,79d30
 < < "bTQ-ZS-Peb.label" = "Spot";
 < < "c2r-fe-VBh.title" = "Outer cone:";
 < < "e64-eU-8sl.title" = "Distance:";
 < < "ecY-JN-0xF.title" = "Directional";
 < < "faY-vJ-BMC.title" = "Spot";
 < < "h6h-ZO-F20.title" = "Specular:";
-123,124d46
+81,82d31
 < < "izl-RZ-gjs.title" = "Load bump map";
 < < "jw1-lU-qnm.title" = "Texture:";
-126,127d47
+84,85d32
 < < "sAF-kF-9WL.title" = "Ambient light color:";
 < < "xf8-k3-e7Z.title" = "Clear bump map";
-129,172c49,90
+87,130c34,75
 < < "zZY-OB-X6P.title" = "Light:";
 < > "166.title" = "キャンセル";
 < > "19.title" = "適用";
