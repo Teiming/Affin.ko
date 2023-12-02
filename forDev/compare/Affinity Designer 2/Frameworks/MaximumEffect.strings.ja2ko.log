@@ -1,0 +1,36 @@
+2,9c2,8
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 3c3
+< 6c6
+< 9c9
+---
+> 11,12c11,12
+> 17,18c17,18
+> 2,3c2,3
+> 20,21c20,21
+> 23,24c23,24
+> 5,6c5,6
+> 8,9c8,9
+14d12
+< < "95.title" = "Circular";
+18,25c16,36
+< > "1.title" = "最大";
+< > "12.title" = "半径";
+< > "26.title" = "適用";
+< > "84.title" = "キャンセル";
+< > "95.title" = "循環";
+< > "TX1-Wb-3Ee.ibShadowedToolTip" = "分割表示なし";
+< > "aqG-zw-gfE.ibShadowedToolTip" = "ミラー表示";
+< > "lc4-Wv-K1a.ibShadowedToolTip" = "分割表示";
+---
+> > "1.title" = "최대";
+> > "12.title" = "반지름";
+> > "26.title" = "적용";
+> > "84.title" = "취소";
+> > "TX1-Wb-3Ee.ibShadowedToolTip" = "분할 보기 해제";
+> > "aqG-zw-gfE.ibShadowedToolTip" = "거울 보기";
+> > "lc4-Wv-K1a.ibShadowedToolTip" = "분할 보기";
