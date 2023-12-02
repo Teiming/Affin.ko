@@ -1,212 +1,4 @@
-57,530c57,112
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,267c2,57
 < 102c102
 < 105c105
 < 108c108
@@ -530,13 +322,13 @@
 > 824,825c824,825
 > 86,87c86,87
 > 98c98
-532,533d113
+269,270d58
 < < "0mY-nm-vLd.title" = "Using mobile data";
 < < "10.title" = "Reopen document(s) on startup";
-535,536d114
+272,273d59
 < < "122.title" = "UI Brightness:";
 < < "134.title" = "Reset Object Styles";
-539,552d116
+276,289d61
 < < "146.title" = "Nearest Neighbor (Fastest)";
 < < "147.title" = "Bilinear (Best Quality)";
 < < "150.title" = "View Quality:";
@@ -551,7 +343,7 @@
 < < "2GC-y0-OeK.title" = "Languages";
 < < "2eV-1Z-3td.title" = "Sync favorite lens profiles";
 < < "2em-7g-TVI.title" = "Centimeters:";
-554,560d117
+291,297d62
 < < "2l2-rr-pcN.title" = "OpenColorIO Search Folder:";
 < < "2q4-Gl-4Ry.title" = "Copy Settings & Content From Release Apps";
 < < "32.title" = "Undo Limit:";
@@ -559,15 +351,15 @@
 < < "3Aw-X1-jiD.title" = "Enable touch bar support (Requires Restart)";
 < < "3hx-i4-Dvn.title" = "High";
 < < "3vc-NJ-ZQq.title" = "Add filter as new layer";
-562,563d118
+299,300d63
 < < "52.title" = "Disk Usage Warning At:";
 < < "5OX-sF-VvZ.title" = "Software";
-565d119
+302d64
 < < "6.title" = "Reset User Defaults";
-568,569d121
+305,306d66
 < < "83T-FK-KF5.title" = "Up to 25 MB";
 < < "8UP-Kb-0J4.title" = "No size limit set";
-571,578d122
+308,315d67
 < < "8u7-jc-Kye.title" = "Create Text with Blend Gamma:";
 < < "94u-F2-kmj.title" = "Relative Colorimetric";
 < < "96.title" = "Background Gray Level:";
@@ -576,7 +368,7 @@
 < < "9bO-Km-bUS.title" = "Save thumbnails with documents";
 < < "9kd-Oz-hLP.title" = "Enable \"Save\" over imported PSD files";
 < < "9tK-oN-LQ3.title" = "Rasterize layer and erase";
-580,587d123
+317,324d68
 < < "Awx-Yh-y0q.title" = "Refine HEIC depth maps";
 < < "B6n-Gd-hsq.title" = "* Requires restart";
 < < "Bbc-eA-xQh.title" = "(requires restart)";
@@ -585,10 +377,10 @@
 < < "C5F-hF-wfO.title" = "Link...";
 < < "CKZ-YB-3j9.title" = "Up to 2 MB";
 < < "CYL-w1-7fP.title" = "Smart sharing between tools";
-589,590d124
+326,327d69
 < < "D4S-HS-cNh.title" = "⌃+Click show context menu";
 < < "DVf-oK-FBe.title" = "Box";
-592,601c126
+329,338c71
 < < "Erk-lt-AXp.title" = "Plugins will be automatically detected in the default folder:";
 < < "FVE-l7-EAF.title" = "Enable file sharing on the local area network";
 < < "Fsd-Dr-HaJ.title" = "Up to 10 MB";
@@ -601,14 +393,14 @@
 < < "HGh-ny-xsh.title" = "Use 'scrubby' zoom";
 ---
 > < "Gpm-7V-BQc.title" = "Text Cell";
-603,608d127
+340,345d72
 < < "Hfh-gj-r88.title" = "Enable canvas rotation with ⌘+scroll wheel";
 < < "Hxt-wD-f1X.title" = "No configuration selected.";
 < < "IDN-I3-V84.title" = "Send anonymous usage information";
 < < "IJf-eq-Unl.title" = "Store fonts (*.affont) will be loaded from the Affinity Fonts folder on startup:";
 < < "IQS-k3-Ejt.title" = "Unlink";
 < < "IbR-Sk-qZt.title" = "Limit initial zoom to a maximum of 100%";
-610,618d128
+347,355d73
 < < "JZJ-nx-KBs.title" = "Brush tool sharing:";
 < < "Ja8-vw-dmr.title" = "With";
 < < "Jf4-V0-1ya.title" = "Retina Rendering:";
@@ -618,12 +410,12 @@
 < < "KJi-Zx-LZG.title" = "Additional lens profiles will be loaded from the Lens Profiles folder on startup:";
 < < "LBi-xW-zKb.title" = "Force Touch context menu";
 < < "LHY-DI-9zj.title" = "Display:";
-620,623d129
+357,360d74
 < < "LgP-qc-lgh.title" = "Item 1";
 < < "Lgl-EW-yiU.title" = "Table View Cell";
 < < "Lk3-WV-Fmu.title" = "Automatically lock background layer on import";
 < < "LyN-1D-9OY.title" = "Sync favorite fonts";
-625,631d130
+362,368d75
 < < "Muk-YH-dxQ.title" = "Clear All Shortcuts";
 < < "Mz4-X4-lmd.title" = "Any synced content categories will be automatically kept up-to-date with your other devices.";
 < < "MzV-4j-Gcv.title" = "(Requires Restart)";
@@ -631,7 +423,7 @@
 < < "Nr0-16-qC9.title" = "Import PSD text as text rather than bitmap";
 < < "Nrf-Ni-XT0.title" = "Icon Style:";
 < < "Ofp-DR-n2S.title" = "Allow \"Unknown\" plugins to be used";
-633,647d131
+370,384d76
 < < "OqP-8w-QSn.title" = "Add adjustment based on selection";
 < < "Owf-cl-Rhe.title" = "Develop Assistant…";
 < < "P79-LZ-gSM.title" = "Perturb zero EXR alpha";
@@ -647,7 +439,7 @@
 < < "Rj8-WA-4SG.title" = "Replace text while typing";
 < < "RvM-7c-cru.title" = "Up to 50 MB";
 < < "S8V-oR-ZRo.title" = "Table View Cell";
-650,668d133
+387,405d78
 < < "TWv-yc-8IQ.title" = "Use mouse wheel to zoom ";
 < < "TbN-3A-CiK.title" = "Up to 100 MB";
 < < "U4l-M7-bN7.title" = "Automatically undo and redo assistant actions";
@@ -667,27 +459,27 @@
 < < "Ynk-mc-gwU.title" = "Duplicate Check";
 < < "Z50-PG-Hr9.title" = "OpenColorIO Configuration File:";
 < < "Zdg-4c-hYT.title" = "Take no action";
-670,673d134
+407,410d79
 < < "Zx4-gW-TaI.title" = "Artboard Background Gray Level:";
 < < "Zzw-n5-s9S.title" = "Black point compensation";
 < < "a0C-RI-6K3.title" = "Up to 10 MB";
 < < "a5S-9E-8Rq.title" = "Enable canvas rotation with trackpad";
-675,676d135
+412,413d80
 < < "aJs-cI-6fc.title" = "Brush shared between all tools";
 < < "aVF-qs-VBn.title" = "Languages";
-678,679d136
+415,416d81
 < < "bA7-22-BWG.title" = "Reset Beta Apps";
 < < "bal-nB-gbQ.title" = "Nudge Distance:";
-681,682d137
+418,419d82
 < < "c8X-ce-a9V.title" = "Other";
 < < "cCB-Jn-Dwy.title" = "Associate OpenEXR alpha channels";
-684,686d138
+421,423d83
 < < "cNL-lm-QT1.title" = "Enable content sync on this device  [EXPERIMENTAL]";
 < < "cQ3-Ny-e01.title" = "Open Affinity Fonts Folder in Finder";
 < < "cZt-66-0CZ.title" = "Using mobile data";
-688d139
+425d84
 < < "ddM-HT-33R.title" = "Metal";
-690,697d140
+427,434d85
 < < "eKs-VK-EvW.title" = "Hide file extension";
 < < "eZK-fl-6Cr.title" = "Inches:";
 < < "eaJ-Wy-RXU.title" = "Low quality (Fastest)";
@@ -696,9 +488,9 @@
 < < "fGc-tO-hR7.title" = "Convert opened files to working space";
 < < "fZA-Qx-cXG.title" = "Add adjustment as new layer";
 < < "ftR-SG-rIy.title" = "Detected Plugins";
-699d141
+436d86
 < < "gAd-Cw-f69.title" = "Absolute Colorimetric";
-701,708d142
+438,445d87
 < < "gkm-el-EYs.title" = "Import PSD smart objects where possible";
 < < "go6-pE-3Ph.title" = "Apply to all";
 < < "gs4-ga-C5S.title" = "Perform OCIO conversions based on file name";
@@ -707,12 +499,12 @@
 < < "h7l-Ok-A0X.title" = "Select...";
 < < "h9j-PU-8aL.title" = "Rasterize layer and apply filter";
 < < "hFJ-QS-bFF.title" = "On battery";
-710d143
+447d88
 < < "hUC-Gv-fm4.title" = "Multiple copies of this app are installed. Please use the most recent version to link with the Dropbox service.";
-713,714d145
+450,451d90
 < < "i41-e7-fE2.title" = "OpenGL (Basic)";
 < < "i4s-dH-raM.title" = "Synchronize tools between documents";
-716,722d146
+453,459d91
 < < "iJs-pb-FN1.title" = "Item 2";
 < < "iUC-00-YPK.title" = "Use only integrated GPU (requires restart)";
 < < "ivy-xk-IuN.title" = "Automatic (based on selection)";
@@ -720,48 +512,50 @@
 < < "jEH-Fv-Psa.title" = "Warn when assigning working profile to unprofiled files";
 < < "kTx-Sw-JNF.title" = "High quality (Slowest)";
 < < "kod-V4-Mll.title" = "Add filter based on selection";
-725,728d148
+462,465d93
 < < "mME-LW-51Z.title" = "Adding adjustment layer to selection:";
 < < "mVb-EU-zM2.title" = "Copy items as SVG";
 < < "mba-HU-qfa.title" = "Constrain by default";
 < < "nQb-WG-ogh.title" = "Enable EDR by default in 32bit RGB views";
-731d150
+468d95
 < < "oEP-Fu-XcC.title" = "Plugin Support Folders";
-733,736d151
+470,476c97
 < < "oMN-2Y-fYB.title" = "Take no action";
 < < "ohl-Cd-COM.title" = "Save as Default";
 < < "ovH-lh-eQy.title" = "Table View Cell";
 < < "p0b-Iv-fDQ.title" = "Other brushes on vector layers:";
-738,739d152
+< < "pXn-qP-5dD.title" = "Save";
 < < "pZf-xD-X6j.title" = "Meters:";
 < < "qNF-hd-W0i.title" = "Text Contrast:";
-741,743c154
+---
+> < "pXn-qP-5dD.title" = "Save";
+478,480c99
 < < "qfO-WN-jcY.title" = "Perceptual";
 < < "rAf-og-SGE.title" = "Alert when assistant takes an action";
 < < "rCt-7T-FLs.title" = "Do not constrain by default";
 ---
 > < "qWR-Dy-9Pl.title" = "Text Cell";
-745,748d155
+482,485d100
 < < "rKB-vq-uDw.headerCell.title" = "Keys";
 < < "reH-Bm-WKw.title" = "Serif Defaults";
 < < "rkl-23-enT.title" = "Modifier Nudge Distance:";
 < < "rtK-4s-wez.title" = "NB: Changes made to these settings will take effect when you restart Affinity.";
-752d158
+489d103
 < < "sz8-kj-jfZ.title" = "Use precise clipping";
-755,756d160
+492,493d105
 < < "tLU-CT-n3J.title" = "Select...";
 < < "tON-a8-YYk.title" = "and warn when converting on load";
-758,759d161
+495,496d106
 < < "thh-vz-zNv.title" = "Millimeters:";
 < < "tvR-mC-kEc.title" = "Dither gradients";
-761,763d162
+498,500d107
 < < "u26-Xv-TY3.title" = "(No compatible GPU)";
 < < "u9u-0a-8EI.title" = "Replace";
 < < "uBB-sZ-2R2.title" = "Auto commit filters";
-765,766d163
+502,503d108
 < < "uif-dR-Gvx.title" = "Add mask based on selection";
 < < "uth-De-zu8.title" = "Prefer to keep selection after delete";
-768,781d164
+505,518d109
 < < "vBU-EW-4vM.title" = "Up to 5 MB";
 < < "vHz-AL-G6s.title" = "Table View Cell";
 < < "vHz-PH-JfA.title" = "Open Lens Profiles Folder in Finder";
@@ -776,7 +570,7 @@
 < < "wTf-Iv-Ais.title" = "Link new content categories";
 < < "wcO-KS-p67.title" = "Always";
 < < "x18-t9-7Y0.title" = "Insert filler text as text";
-783,1056c166,330
+520,793c111,275
 < < "xbI-c4-84p.title" = "UI Contrast:";
 < < "xgK-rf-Ycw.title" = "Select object when intersects with selection marquee";
 < < "xgZ-NB-5VV.title" = "No search folder selected.";
