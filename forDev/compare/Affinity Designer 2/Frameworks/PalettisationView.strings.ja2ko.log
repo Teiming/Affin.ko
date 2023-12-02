@@ -1,19 +1,4 @@
-7,47c7,12
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,27c2,7
 < 12c12
 < 15c15
 < 18c18
@@ -47,22 +32,22 @@
 > 65,66c65,66
 > 71,72c71,72
 > 83,84c83,84
-49,50d13
+29,30d8
 < < "E0d-2P-MOM.title" = "RGB 16-bit";
 < < "EA4-1A-ldi.title" = "Grayscale 8-bit";
-52,54d14
+32,34d9
 < < "GW2-xL-yXt.title" = "Lanczos 3 (separable)";
 < < "HKt-Ur-MwP.title" = "Bilinear";
 < < "Rzg-bo-Xcv.title" = "Lanczos 3 (non-separable)";
-56,58d15
+36,38d10
 < < "Won-IR-ATs.title" = "Quality:";
 < < "YNA-d3-JgY.title" = "Grayscale 16-bit";
 < < "ZtH-Xp-d4Y.title" = "Embed ICC profile";
-60d16
+40d11
 < < "cSn-SC-ahX.title" = "Nearest Neighbor";
-62d17
+42d12
 < < "gaY-IU-bZd.title" = "Matte:";
-64,84c19,36
+44,64c14,31
 < > "1Vy-EF-R6c.title" = "RGB 8ビット";
 < > "3lQ-Mh-xFl.title" = "バイキュービック";
 < > "4oe-7L-yzx.title" = "CMYK 8ビット";
