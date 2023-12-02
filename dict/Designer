@@ -639,6 +639,7 @@ s/\"Insert at the top of the layer\";/\"위로 삽입\";/
 s/\"Insert behind the selection\";/\"뒤로 삽입\";/
 s/\"Insert inside the selection\";/\"안으로 삽입\";/
 s/\"Insert\";/\"삽입\";/
+s/\"Insert Special Character\";/\"특수문자삽입\";/
 s/\"Insertion\";/\"삽입\";/
 s/\"Inside horizontal\";/\"가로 안\";/
 s/\"Inside vertical\";/\"세로 안\";/
@@ -721,6 +722,7 @@ s/\"Loosen\";/\"넓게\";/
 s/\"Lorem Ipsum\";/\"채우기 텍스트\";/
 s/\"Low Frequency\";/\"저주파수\";/
 s/\"Lower Baseline\";/\"기준선 내리기\";/
+s/\"Lower Case\";/\"소문자화\";/
 s/\"Luminosity Jitter:\";/\"명도 일그러짐:\";/
 s/\"Luminosity\";/\"휘도\";/
 s/\"Lyr\";/\"레이어\";/

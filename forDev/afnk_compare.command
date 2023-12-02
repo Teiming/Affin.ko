@@ -38,7 +38,8 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   iconv -f utf16le -t utf8 "${JAPPATH}${NAME}" >"${KORPATH}${NAME}.ja.temp"
   diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}" | sort | uniq >./"${APPNAME}"/"${NAME}".en2ko.log
   diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}.ja.temp" | sort | uniq >./"${APPNAME}"/"${NAME}".en2ja.log
-  diff ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ko.log >~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".ja2ko.log
+  diff ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ko.log >./"${APPNAME}"/"${NAME}".ja2ko.log
+  sed -i '/ObjectID/d' ./"${APPNAME}"/"${NAME}".ja2ko.log
   echo " (로그 종료)"
   cd ~/Affin.ko/
   git add .
@@ -52,7 +53,8 @@ for ((i = 1; i <= ${FILECOUNTF}; i++)); do
   iconv -f utf16le -t utf8 "${JAPFPATH}${NAME}" >"${KORFPATH}${NAME}.ja.temp"
   diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}" | sort | uniq >./"${APPNAME}"/Frameworks/"${NAME}".en2ko.log
   diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}.ja.temp" | sort | uniq >./"${APPNAME}"/Frameworks/"${NAME}".en2ja.log
-  diff ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ko.log >~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".ja2ko.log
+  diff ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ko.log >./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.log
+  sed -i '/ObjectID/d' ./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.log
   echo " (로그 종료)"
   cd ~/Affin.ko/
   git add .
