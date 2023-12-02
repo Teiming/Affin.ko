@@ -1,0 +1,26 @@
+---
+17,18c17,18
+2,3c2,3
+23,24c23,24
+26,27c26,27
+5,6c5,6
+< "5lv-Yu-niR.title" = "Duplicate";
+< "6.title" = "Channel";
+< "U01-Cj-fqJ.title" = "Rename";
+< "jpq-u9-zJu.title" = "Delete";
+< "xm5-5f-Lrj.ibShadowedToolTip" = "Delete";
+< /* Class = "NSButton"; ibShadowedToolTip = "Delete"; ObjectID = "xm5-5f-Lrj"; */
+< /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "jpq-u9-zJu"; */
+< /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "5lv-Yu-niR"; */
+< /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "U01-Cj-fqJ"; */
+< /* Class = "NSTextFieldCell"; title = "Channel"; ObjectID = "6"; */
+> "5lv-Yu-niR.title" = "복제";
+> "6.title" = "채널";
+> "U01-Cj-fqJ.title" = "이름 변경";
+> "jpq-u9-zJu.title" = "지우기";
+> "xm5-5f-Lrj.ibShadowedToolTip" = "지우기";
+> /* Class = "NSButton"; ibShadowedToolTip = "지우기"; ObjectID = "xm5-5f-Lrj"; */
+> /* Class = "NSMenuItem"; title = "이름 변경"; ObjectID = "U01-Cj-fqJ"; */
+> /* Class = "NSMenuItem"; title = "복제"; ObjectID = "5lv-Yu-niR"; */
+> /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "jpq-u9-zJu"; */
+> /* Class = "NSTextFieldCell"; title = "채널"; ObjectID = "6"; */
