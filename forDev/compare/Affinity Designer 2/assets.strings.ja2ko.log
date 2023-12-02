@@ -1,825 +1,824 @@
-4c4
-< > "Default" = "デフォルト";
----
-> > "Default" = "기본값";
-8c8
-< > "Assets" = "アセット";
----
-> > "Assets" = "자산";
-12c12
-< > "Default" = "デフォルト";
----
-> > "Default" = "기본값";
-15,418d14
+5,212d4
 < ---
-< > "Assets" = "アセット";
-< 14c14
-< < "Simply Flat icons, by Anatolli Babii" = "Simply Flat icons, by Anatolli Babii";
 < ---
-< > "Simply Flat icons, by Anatolli Babii" = "Simply Flatアイコン、Anatolli Babii作";
-< 17c17
-< < "Creativity" = "Creativity";
 < ---
-< > "Creativity" = "クリエイティビティ";
-< 20c20
-< < "presentation" = "presentation";
 < ---
-< > "presentation" = "表記";
-< 23c23
-< < "erase" = "erase";
 < ---
-< > "erase" = "消去";
-< 26c26
-< < "cog" = "cog";
 < ---
-< > "cog" = "歯車";
-< 29c29
-< < "filter" = "filter";
 < ---
-< > "filter" = "フィルター";
-< 32c32
-< < "watch" = "watch";
 < ---
-< > "watch" = "時計";
-< 35c35
-< < "brain" = "brain";
 < ---
-< > "brain" = "脳";
-< 38c38
-< < "photo" = "photo";
 < ---
-< > "photo" = "写真";
-< 41c41
-< < "pencil" = "pencil";
 < ---
-< > "pencil" = "鉛筆";
-< 44c44
-< < "plane" = "plane";
 < ---
-< > "plane" = "平面";
-< 47c47
-< < "book" = "book";
 < ---
-< > "book" = "書籍";
-< 50c50
-< < "pen" = "pen";
 < ---
-< > "pen" = "ペン";
-< 53c53
-< < "colour" = "color";
 < ---
-< > "colour" = "カラー";
-< 56c56
-< < "notebook" = "notebook";
 < ---
-< > "notebook" = "ノートブック";
-< 59c59
-< < "folder" = "folder";
 < ---
-< > "folder" = "フォルダ";
-< 62c62
-< < "eye" = "eye";
 < ---
-< > "eye" = "目";
-< 65c65
-< < "lightbulb" = "lightbulb";
 < ---
-< > "lightbulb" = "電球";
-< 68c68
-< < "E-commerce" = "E-commerce";
 < ---
-< > "E-commerce" = "E-コマース";
-< 71c71
-< < "envelope" = "envelope";
 < ---
-< > "envelope" = "封筒";
-< 74c74
-< < "chart" = "chart";
 < ---
-< > "chart" = "図表";
-< 77c77
-< < "help" = "help";
 < ---
-< > "help" = "ヘルプ";
-< 80c80
-< < "delivery" = "delivery";
 < ---
-< > "delivery" = "配達";
-< 83c83
-< < "pay-phone" = "pay-phone";
 < ---
-< > "pay-phone" = "公衆電話";
-< 86c86
-< < "map" = "map";
 < ---
-< > "map" = "マップ";
-< 89c89
-< < "pay" = "pay";
 < ---
-< > "pay" = "支払い";
-< 92c92
-< < "secure" = "secure";
 < ---
-< > "secure" = "安全";
-< 95c95
-< < "shop" = "shop";
 < ---
-< > "shop" = "ショップ";
-< 98c98
-< < "basket-remove" = "basket-remove";
 < ---
-< > "basket-remove" = "バスケット-削除";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 101c101
-< < "basket-add" = "basket-add";
-< ---
-< > "basket-add" = "バスケット-追加";
 < 107c107
-< < "top-rated" = "top-rated";
-< ---
-< > "top-rated" = "トップレート";
 < 110c110
-< < "new" = "new";
-< ---
-< > "new" = "新規";
 < 113c113
-< < "cash" = "cash";
-< ---
-< > "cash" = "現金";
 < 116c116
-< < "trolley" = "trolley";
-< ---
-< > "trolley" = "カート";
 < 119c119
-< < "Education" = "Education";
-< ---
-< > "Education" = "教育";
+214,279d5
 < 122c122
-< < "book" = "book";
-< ---
-< > "book" = "書籍";
 < 125c125
-< < "school-bus" = "school-bus";
-< ---
-< > "school-bus" = "スクールバス";
 < 128c128
-< < "apple" = "apple";
-< ---
-< > "apple" = "リンゴ";
 < 131c131
-< < "pen" = "pen";
-< ---
-< > "pen" = "ペン";
 < 134c134
-< < "school" = "school";
-< ---
-< > "school" = "学校";
 < 137c137
-< < "certificate" = "certificate";
-< ---
-< > "certificate" = "証明書";
 < 140c140
-< < "bell" = "bell";
-< ---
-< > "bell" = "ベル";
 < 143c143
-< < "board" = "board";
-< ---
-< > "board" = "ボード";
 < 146c146
-< < "notes" = "notes";
-< ---
-< > "notes" = "ノート";
 < 149c149
-< < "globe" = "globe";
-< ---
-< > "globe" = "地球";
+< 14c14
 < 152c152
-< < "backpack" = "backpack";
-< ---
-< > "backpack" = "バックパック";
 < 155c155
-< < "geometry" = "geometry";
-< ---
-< > "geometry" = "ジオメトリ";
 < 158c158
-< < "science" = "science";
-< ---
-< > "science" = "科学";
 < 161c161
-< < "alarm" = "alarm";
-< ---
-< > "alarm" = "アラーム";
 < 164c164
-< < "graduate" = "graduate";
-< ---
-< > "graduate" = "卒業生";
 < 167c167
-< < "magazine" = "magazine";
-< ---
-< > "magazine" = "雑誌";
 < 170c170
-< < "Electronics" = "Electronics";
-< ---
-< > "Electronics" = "電子機器";
 < 173c173
-< < "settings" = "settings";
-< ---
-< > "settings" = "設定";
 < 176c176
-< < "device" = "device";
-< ---
-< > "device" = "デバイス";
 < 179c179
-< < "power" = "power";
-< ---
-< > "power" = "パワー";
+< 17c17
 < 182c182
-< < "modem" = "modem";
-< ---
-< > "modem" = "モデム";
 < 185c185
-< < "cloud" = "cloud";
-< ---
-< > "cloud" = "クラウド";
 < 188c188
-< < "webpage" = "webpage";
-< ---
-< > "webpage" = "Webページ";
 < 191c191
-< < "mouse" = "mouse";
-< ---
-< > "mouse" = "マウス";
 < 194c194
-< < "drawing-tablet" = "drawing-tablet";
-< ---
-< > "drawing-tablet" = "描画タブレット";
 < 197c197
-< < "floppy-disk" = "floppy-disk";
-< ---
-< > "floppy-disk" = "フロッピーディスク";
 < 200c200
-< < "keyboard" = "keyboard";
-< ---
-< > "keyboard" = "キーボード";
 < 203c203
-< < "camera" = "camera";
-< ---
-< > "camera" = "カメラ";
 < 206c206
-< < "printer" = "printer";
-< ---
-< > "printer" = "プリンター";
 < 209c209
-< < "tablet" = "tablet";
-< ---
-< > "tablet" = "タブレット";
+< 20c20
 < 212c212
-< < "phone" = "phone";
-< ---
-< > "phone" = "電話";
 < 215c215
-< < "laptop" = "laptop";
-< ---
-< > "laptop" = "ラップトップ";
 < 218c218
-< < "computer" = "computer";
-< ---
-< > "computer" = "コンピュータ";
 < 221c221
-< < "Finance" = "Finance";
-< ---
-< > "Finance" = "ファイナンス";
 < 224c224
-< < "calculator" = "calculator";
-< ---
-< > "calculator" = "電卓";
 < 227c227
-< < "briefcase" = "briefcase";
-< ---
-< > "briefcase" = "ブリーフケース";
 < 230c230
-< < "graph" = "graph";
-< ---
-< > "graph" = "グラフ";
 < 233c233
-< < "balance" = "balance";
-< ---
-< > "balance" = "バランス";
 < 236c236
-< < "diamond" = "diamond";
-< ---
-< > "diamond" = "ダイアモンド";
 < 239c239
-< < "invoice" = "invoice";
-< ---
-< > "invoice" = "請求書";
+< 23c23
 < 242c242
-< < "pie" = "pie";
-< ---
-< > "pie" = "扇形";
 < 245c245
-< < "safe" = "safe";
-< ---
-< > "safe" = "セーフ";
 < 248c248
-< < "coin" = "coin";
-< ---
-< > "coin" = "コイン";
 < 251c251
-< < "credit-card" = "credit-card";
-< ---
-< > "credit-card" = "クレジットカード";
 < 254c254
-< < "wallet" = "wallet";
-< ---
-< > "wallet" = "財布";
 < 257c257
-< < "savings" = "savings";
-< ---
-< > "savings" = "貯蓄";
 < 260c260
-< < "cash-machine" = "cash-machine";
-< ---
-< > "cash-machine" = "現金自動預払機";
 < 263c263
-< < "withdraw-deposit" = "withdraw-deposit";
-< ---
-< > "withdraw-deposit" = "預金引き出し";
 < 266c266
-< < "bank" = "bank";
-< ---
-< > "bank" = "銀行";
 < 269c269
-< < "money-clip" = "money-clip";
-< ---
-< > "money-clip" = "マネークリップ";
+< 26c26
 < 272c272
-< < "Marketing" = "Marketing";
-< ---
-< > "Marketing" = "マーケティング";
 < 275c275
-< < "person" = "person";
-< ---
-< > "person" = "人";
 < 278c278
-< < "chart" = "chart";
-< ---
-< > "chart" = "図表";
 < 281c281
-< < "magnify" = "magnify";
-< ---
-< > "magnify" = "拡大";
 < 284c284
-< < "network" = "network";
-< ---
-< > "network" = "ネットワーク";
 < 287c287
-< < "flag" = "flag";
-< ---
-< > "flag" = "旗";
 < 290c290
-< < "website" = "website";
-< ---
-< > "website" = "Webサイト";
 < 293c293
-< < "megaphone" = "megaphone";
-< ---
-< > "megaphone" = "メガフォン";
 < 296c296
-< < "letter" = "letter";
-< ---
-< > "letter" = "レター";
 < 299c299
-< < "message" = "message";
-< ---
-< > "message" = "メッセージ";
+< 29c29
+281,388d6
 < 302c302
-< < "bird" = "bird";
-< ---
-< > "bird" = "鳥";
 < 305c305
-< < "video" = "video";
-< ---
-< > "video" = "ビデオ";
 < 308c308
-< < "clock" = "clock";
-< ---
-< > "clock" = "時計";
 < 311c311
-< < "glasses" = "glasses";
-< ---
-< > "glasses" = "眼鏡";
 < 314c314
-< < "target" = "target";
-< ---
-< > "target" = "ターゲット";
 < 317c317
-< < "thumbs-up" = "thumbs-up";
-420,824c16
-< > "thumbs-up" = "いいね";
 < 320c320
-< < "newspaper" = "newspaper";
-< ---
-< > "newspaper" = "新聞";
 < 323c323
-< < "Office" = "Office";
-< ---
-< > "Office" = "オフィス";
 < 326c326
-< < "tea" = "tea";
-< ---
-< > "tea" = "お茶";
 < 329c329
-< < "report" = "report";
-< ---
-< > "report" = "レポート";
+< 32c32
 < 332c332
-< < "time" = "time";
-< ---
-< > "time" = "時間";
 < 335c335
-< < "pin" = "pin";
-< ---
-< > "pin" = "ピン";
 < 338c338
-< < "office" = "office";
-< ---
-< > "office" = "オフィス";
 < 341c341
-< < "cactus" = "cactus";
-< ---
-< > "cactus" = "サボテン";
 < 344c344
-< < "files" = "files";
-< ---
-< > "files" = "ファイル";
 < 347c347
-< < "coffee" = "coffee";
-< ---
-< > "coffee" = "コーヒー";
 < 350c350
-< < "bin" = "bin";
-< ---
-< > "bin" = "ビン";
 < 353c353
-< < "scissors" = "scissors";
-< ---
-< > "scissors" = "はさみ";
 < 356c356
-< < "shirt-tie" = "shirt-tie";
-< ---
-< > "shirt-tie" = "シャツ・タイ";
 < 359c359
-< < "notebook" = "notebook";
-< ---
-< > "notebook" = "ノートブック";
+< 35c35
 < 362c362
-< < "paper-plane" = "paper-plane";
-< ---
-< > "paper-plane" = "紙飛行機";
 < 365c365
-< < "list" = "list";
-< ---
-< > "list" = "リスト";
 < 368c368
-< < "envelope" = "envelope";
-< ---
-< > "envelope" = "封筒";
 < 371c371
-< < "calendar" = "calendar";
-< ---
-< > "calendar" = "カレンダー";
 < 374c374
-< < "Security" = "Security";
-< ---
-< > "Security" = "セキュリティ";
 < 377c377
-< < "no-entry" = "no-entry";
-< ---
-< > "no-entry" = "立入禁止";
 < 380c380
-< < "password" = "password";
-< ---
-< > "password" = "パスワード";
 < 383c383
-< < "computer" = "computer";
-< ---
-< > "computer" = "コンピュータ";
 < 386c386
-< < "castle" = "castle";
-< ---
-< > "castle" = "城";
 < 389c389
-< < "sheriff" = "sheriff";
-< ---
-< > "sheriff" = "保安官";
+< 38c38
 < 392c392
-< < "fingerprint-id" = "fingerprint-id";
-< ---
-< > "fingerprint-id" = "指紋ID";
 < 398c398
-< < "warning" = "warning";
-< ---
-< > "warning" = "警告";
 < 401c401
-< < "detective" = "detective";
-< ---
-< > "detective" = "探偵";
 < 404c404
-< < "key" = "key";
-< ---
-< > "key" = "キー";
 < 407c407
-< < "calculator" = "calculator";
-< ---
-< > "calculator" = "電卓";
 < 410c410
-< < "umbrella" = "umbrella";
-< ---
-< > "umbrella" = "傘";
 < 413c413
-< < "camera" = "camera";
-< ---
-< > "camera" = "カメラ";
 < 416c416
-< < "lock" = "lock";
-< ---
-< > "lock" = "ロック";
 < 419c419
-< < "shield" = "shield";
-< ---
-< > "shield" = "盾";
+< 41c41
 < 422c422
-< < "id" = "id";
-< ---
-< > "id" = "ID";
 < 428c428
-< < "troubleshoot" = "troubleshoot";
-< ---
-< > "troubleshoot" = "トラブルシュート";
 < 431c431
-< < "analytics" = "analytics";
-< ---
-< > "analytics" = "分析";
 < 434c434
-< < "person" = "person";
-< ---
-< > "person" = "人";
 < 437c437
-< < "pin-settings" = "pin-settings";
-< ---
-< > "pin-settings" = "ピン設定";
 < 440c440
-< < "report" = "report";
-< ---
-< > "report" = "レポート";
 < 443c443
-< < "star" = "star";
-< ---
-< > "star" = "星";
 < 446c446
-< < "web" = "web";
-< ---
-< > "web" = "Web";
 < 449c449
-< < "e-banking" = "e-banking";
-< ---
-< > "e-banking" = "電子バンキング";
+< 44c44
 < 452c452
-< < "announcement" = "announcement";
-< ---
-< > "announcement" = "発表";
 < 455c455
-< < "bookmark" = "bookmark";
-< ---
-< > "bookmark" = "ブックマーク";
 < 458c458
-< < "search-settings" = "search-settings";
-< ---
-< > "search-settings" = "検索設定";
 < 461c461
-< < "chart" = "chart";
-< ---
-< > "chart" = "図表";
 < 464c464
-< < "speed" = "speed";
-< ---
-< > "speed" = "速度";
 < 467c467
-< < "magnet" = "magnet";
-< ---
-< > "magnet" = "マグネット";
 < 470c470
-< < "link" = "link";
-< ---
-< > "link" = "リンク";
 < 473c473
-< < "target" = "target";
-< ---
-< > "target" = "ターゲット";
 < 476c476
-< < "Shopping" = "Shopping";
-< ---
-< > "Shopping" = "ショッピング";
 < 479c479
-< < "package" = "package";
-< ---
-< > "package" = "パッケージ";
+< 47c47
 < 482c482
-< < "label" = "label";
-< ---
-< > "label" = "ラベル";
 < 485c485
-< < "love" = "love";
-< ---
-< > "love" = "愛";
 < 488c488
-< < "shop" = "shop";
-< ---
-< > "shop" = "ショップ";
 < 491c491
-< < "gift" = "gift";
-< ---
-< > "gift" = "ギフト";
 < 494c494
-< < "receipt" = "receipt";
-< ---
-< > "receipt" = "レシート";
 < 497c497
-< < "necklace" = "necklace";
-< ---
-< > "necklace" = "ネックレス";
 < 500c500
-< < "credit-cards" = "credit-cards";
-< ---
-< > "credit-cards" = "クレジットカード";
 < 503c503
-< < "barcode" = "barcode";
-< ---
-< > "barcode" = "バーコード";
 < 506c506
-< < "sale" = "sale";
-< ---
-< > "sale" = "金庫";
 < 509c509
-< < "bag" = "bag";
-< ---
-< > "bag" = "鞄";
+< 50c50
 < 512c512
-< < "discount" = "discount";
-< ---
-< > "discount" = "割引";
 < 515c515
-< < "location" = "location";
-< ---
-< > "location" = "場所";
 < 518c518
-< < "till" = "till";
-< ---
-< > "till" = "レジ";
 < 521c521
-< < "open" = "open";
-< ---
-< > "open" = "開く";
 < 524c524
-< < "basket" = "basket";
-< ---
-< > "basket" = "バスケット";
 < 527c527
-< < "Sound" = "Sound";
-< ---
-< > "Sound" = "サウンド";
 < 530c530
-< < "keyboard" = "keyboard";
-< ---
-< > "keyboard" = "キーボード";
 < 533c533
-< < "music-folder" = "music-folder";
-< ---
-< > "music-folder" = "ミュージックフォルダ";
 < 536c536
-< < "lyrics" = "lyrics";
-< ---
-< > "lyrics" = "歌詞";
 < 539c539
-< < "equalizer" = "equalizer";
-< ---
-< > "equalizer" = "イコライザー";
+< 53c53
 < 542c542
-< < "digital" = "digital";
-< ---
-< > "digital" = "デジタル";
 < 545c545
-< < "radio" = "radio";
-< ---
-< > "radio" = "ラジオ";
 < 548c548
-< < "cassette" = "cassette";
-< ---
-< > "cassette" = "カセット";
 < 551c551
-< < "vinyl" = "vinyl";
-< ---
-< > "vinyl" = "ビニール";
 < 554c554
-< < "cd" = "cd";
-< ---
-< > "cd" = "CD";
 < 557c557
-< < "cable" = "cable";
-< ---
-< > "cable" = "ケーブル";
 < 560c560
-< < "ipod" = "ipod";
-< ---
-< > "ipod" = "iPod";
 < 563c563
-< < "speaker" = "speaker";
-< ---
-< > "speaker" = "スピーカー";
 < 566c566
-< < "stereo" = "stereo";
-< ---
-< > "stereo" = "ステレオ";
 < 569c569
-< < "microphone" = "microphone";
-< ---
-< > "microphone" = "マイク";
+< 56c56
 < 572c572
-< < "mixer" = "mixer";
-< ---
-< > "mixer" = "ミキサー";
 < 575c575
-< < "headphones" = "headphones";
-< ---
-< > "headphones" = "ヘッドフォン";
 < 578c578
-< < "Web development" = "Web development";
-< ---
-< > "Web development" = "Web開発";
 < 581c581
-< < "support" = "support";
-< ---
-< > "support" = "サポート";
 < 584c584
-< < "mobile_website" = "mobile_website";
-< ---
-< > "mobile_website" = "モバイル_Webサイト";
 < 587c587
-< < "desktop_website" = "desktop_website";
-< ---
-< > "desktop_website" = "デスクトップ_Webサイト";
 < 590c590
-< < "prototype" = "prototype";
-< ---
-< > "prototype" = "プロトタイプ";
 < 593c593
-< < "planning" = "planning";
-< ---
-< > "planning" = "プランニング";
 < 596c596
-< < "design_tools" = "design_tools";
-< ---
-< > "design_tools" = "デザイン_ツール";
 < 599c599
-< < "coding" = "coding";
-< ---
-< > "coding" = "コーディング";
+< 59c59
+390,408d7
 < 602c602
-< < "web_development" = "web_development";
-< ---
-< > "web_development" = "Web_開発";
 < 605c605
-< < "page_optimization" = "page_optimization";
-< ---
-< > "page_optimization" = "ページ_最適化";
 < 608c608
-< < "layers" = "layers";
-< ---
-< > "layers" = "レイヤー";
 < 611c611
-< < "link" = "link";
-< ---
-< > "link" = "リンク";
 < 614c614
-< < "solution" = "solution";
-< ---
-< > "solution" = "ソリューション";
 < 617c617
-< < "sitemap" = "sitemap";
-< ---
-< > "sitemap" = "サイトマップ";
 < 620c620
-< < "cloud" = "cloud";
-< ---
-< > "cloud" = "クラウド";
 < 623c623
-< < "lock" = "lock";
-< ---
-< > "lock" = "ロック";
 < 626c626
+< 62c62
+< 65c65
+< 68c68
+< 71c71
+< 74c74
+< 77c77
+< 80c80
+< 83c83
+< 86c86
+< 89c89
+410,412d8
+< 92c92
+< 95c95
+< 98c98
+415d10
+< < "Creativity" = "Creativity";
+418,824c13,16
+< < "E-commerce" = "E-commerce";
+< < "Education" = "Education";
+< < "Electronics" = "Electronics";
+< < "Finance" = "Finance";
+< < "Marketing" = "Marketing";
+< < "Office" = "Office";
+< < "Security" = "Security";
+< < "Shopping" = "Shopping";
+< < "Simply Flat icons, by Anatolli Babii" = "Simply Flat icons, by Anatolli Babii";
+< < "Sound" = "Sound";
+< < "Web development" = "Web development";
+< < "alarm" = "alarm";
 < < "analytics" = "analytics";
-< ---
+< < "analytics" = "analytics";
+< < "announcement" = "announcement";
+< < "apple" = "apple";
+< < "backpack" = "backpack";
+< < "bag" = "bag";
+< < "balance" = "balance";
+< < "bank" = "bank";
+< < "barcode" = "barcode";
+< < "basket" = "basket";
+< < "basket-add" = "basket-add";
+< < "basket-remove" = "basket-remove";
+< < "bell" = "bell";
+< < "bin" = "bin";
+< < "bird" = "bird";
+< < "board" = "board";
+< < "book" = "book";
+< < "book" = "book";
+< < "bookmark" = "bookmark";
+< < "brain" = "brain";
+< < "briefcase" = "briefcase";
+< < "cable" = "cable";
+< < "cactus" = "cactus";
+< < "calculator" = "calculator";
+< < "calculator" = "calculator";
+< < "calendar" = "calendar";
+< < "camera" = "camera";
+< < "camera" = "camera";
+< < "cash" = "cash";
+< < "cash-machine" = "cash-machine";
+< < "cassette" = "cassette";
+< < "castle" = "castle";
+< < "cd" = "cd";
+< < "certificate" = "certificate";
+< < "chart" = "chart";
+< < "chart" = "chart";
+< < "chart" = "chart";
+< < "clock" = "clock";
+< < "cloud" = "cloud";
+< < "cloud" = "cloud";
+< < "coding" = "coding";
+< < "coffee" = "coffee";
+< < "cog" = "cog";
+< < "coin" = "coin";
+< < "colour" = "color";
+< < "computer" = "computer";
+< < "computer" = "computer";
+< < "credit-card" = "credit-card";
+< < "credit-cards" = "credit-cards";
+< < "delivery" = "delivery";
+< < "design_tools" = "design_tools";
+< < "desktop_website" = "desktop_website";
+< < "detective" = "detective";
+< < "device" = "device";
+< < "diamond" = "diamond";
+< < "digital" = "digital";
+< < "discount" = "discount";
+< < "drawing-tablet" = "drawing-tablet";
+< < "e-banking" = "e-banking";
+< < "envelope" = "envelope";
+< < "envelope" = "envelope";
+< < "equalizer" = "equalizer";
+< < "erase" = "erase";
+< < "eye" = "eye";
+< < "files" = "files";
+< < "filter" = "filter";
+< < "fingerprint-id" = "fingerprint-id";
+< < "flag" = "flag";
+< < "floppy-disk" = "floppy-disk";
+< < "folder" = "folder";
+< < "geometry" = "geometry";
+< < "gift" = "gift";
+< < "glasses" = "glasses";
+< < "globe" = "globe";
+< < "graduate" = "graduate";
+< < "graph" = "graph";
+< < "headphones" = "headphones";
+< < "help" = "help";
+< < "id" = "id";
+< < "invoice" = "invoice";
+< < "ipod" = "ipod";
+< < "key" = "key";
+< < "keyboard" = "keyboard";
+< < "keyboard" = "keyboard";
+< < "label" = "label";
+< < "laptop" = "laptop";
+< < "layers" = "layers";
+< < "letter" = "letter";
+< < "lightbulb" = "lightbulb";
+< < "link" = "link";
+< < "link" = "link";
+< < "list" = "list";
+< < "location" = "location";
+< < "lock" = "lock";
+< < "lock" = "lock";
+< < "love" = "love";
+< < "lyrics" = "lyrics";
+< < "magazine" = "magazine";
+< < "magnet" = "magnet";
+< < "magnify" = "magnify";
+< < "map" = "map";
+< < "megaphone" = "megaphone";
+< < "message" = "message";
+< < "microphone" = "microphone";
+< < "mixer" = "mixer";
+< < "mobile_website" = "mobile_website";
+< < "modem" = "modem";
+< < "money-clip" = "money-clip";
+< < "mouse" = "mouse";
+< < "music-folder" = "music-folder";
+< < "necklace" = "necklace";
+< < "network" = "network";
+< < "new" = "new";
+< < "newspaper" = "newspaper";
+< < "no-entry" = "no-entry";
+< < "notebook" = "notebook";
+< < "notebook" = "notebook";
+< < "notes" = "notes";
+< < "office" = "office";
+< < "open" = "open";
+< < "package" = "package";
+< < "page_optimization" = "page_optimization";
+< < "paper-plane" = "paper-plane";
+< < "password" = "password";
+< < "pay" = "pay";
+< < "pay-phone" = "pay-phone";
+< < "pen" = "pen";
+< < "pen" = "pen";
+< < "pencil" = "pencil";
+< < "person" = "person";
+< < "person" = "person";
+< < "phone" = "phone";
+< < "photo" = "photo";
+< < "pie" = "pie";
+< < "pin" = "pin";
+< < "pin-settings" = "pin-settings";
+< < "plane" = "plane";
+< < "planning" = "planning";
+< < "power" = "power";
+< < "presentation" = "presentation";
+< < "printer" = "printer";
+< < "prototype" = "prototype";
+< < "radio" = "radio";
+< < "receipt" = "receipt";
+< < "report" = "report";
+< < "report" = "report";
+< < "safe" = "safe";
+< < "sale" = "sale";
+< < "savings" = "savings";
+< < "school" = "school";
+< < "school-bus" = "school-bus";
+< < "science" = "science";
+< < "scissors" = "scissors";
+< < "search-settings" = "search-settings";
+< < "secure" = "secure";
+< < "settings" = "settings";
+< < "sheriff" = "sheriff";
+< < "shield" = "shield";
+< < "shirt-tie" = "shirt-tie";
+< < "shop" = "shop";
+< < "shop" = "shop";
+< < "sitemap" = "sitemap";
+< < "solution" = "solution";
+< < "speaker" = "speaker";
+< < "speed" = "speed";
+< < "star" = "star";
+< < "stereo" = "stereo";
+< < "support" = "support";
+< < "tablet" = "tablet";
+< < "target" = "target";
+< < "target" = "target";
+< < "tea" = "tea";
+< < "thumbs-up" = "thumbs-up";
+< < "till" = "till";
+< < "time" = "time";
+< < "top-rated" = "top-rated";
+< < "trolley" = "trolley";
+< < "troubleshoot" = "troubleshoot";
+< < "umbrella" = "umbrella";
+< < "video" = "video";
+< < "vinyl" = "vinyl";
+< < "wallet" = "wallet";
+< < "warning" = "warning";
+< < "watch" = "watch";
+< < "web" = "web";
+< < "web_development" = "web_development";
+< < "webpage" = "webpage";
+< < "website" = "website";
+< < "withdraw-deposit" = "withdraw-deposit";
+< > "Assets" = "アセット";
+< > "Assets" = "アセット";
+< > "Creativity" = "クリエイティビティ";
+< > "Default" = "デフォルト";
+< > "Default" = "デフォルト";
+< > "E-commerce" = "E-コマース";
+< > "Education" = "教育";
+< > "Electronics" = "電子機器";
+< > "Finance" = "ファイナンス";
+< > "Marketing" = "マーケティング";
+< > "Office" = "オフィス";
+< > "Security" = "セキュリティ";
+< > "Shopping" = "ショッピング";
+< > "Simply Flat icons, by Anatolli Babii" = "Simply Flatアイコン、Anatolli Babii作";
+< > "Sound" = "サウンド";
+< > "Web development" = "Web開発";
+< > "alarm" = "アラーム";
 < > "analytics" = "分析";
+< > "analytics" = "分析";
+< > "announcement" = "発表";
+< > "apple" = "リンゴ";
+< > "backpack" = "バックパック";
+< > "bag" = "鞄";
+< > "balance" = "バランス";
+< > "bank" = "銀行";
+< > "barcode" = "バーコード";
+< > "basket" = "バスケット";
+< > "basket-add" = "バスケット-追加";
+< > "basket-remove" = "バスケット-削除";
+< > "bell" = "ベル";
+< > "bin" = "ビン";
+< > "bird" = "鳥";
+< > "board" = "ボード";
+< > "book" = "書籍";
+< > "book" = "書籍";
+< > "bookmark" = "ブックマーク";
+< > "brain" = "脳";
+< > "briefcase" = "ブリーフケース";
+< > "cable" = "ケーブル";
+< > "cactus" = "サボテン";
+< > "calculator" = "電卓";
+< > "calculator" = "電卓";
+< > "calendar" = "カレンダー";
+< > "camera" = "カメラ";
+< > "camera" = "カメラ";
+< > "cash" = "現金";
+< > "cash-machine" = "現金自動預払機";
+< > "cassette" = "カセット";
+< > "castle" = "城";
+< > "cd" = "CD";
+< > "certificate" = "証明書";
+< > "chart" = "図表";
+< > "chart" = "図表";
+< > "chart" = "図表";
+< > "clock" = "時計";
+< > "cloud" = "クラウド";
+< > "cloud" = "クラウド";
+< > "coding" = "コーディング";
+< > "coffee" = "コーヒー";
+< > "cog" = "歯車";
+< > "coin" = "コイン";
+< > "colour" = "カラー";
+< > "computer" = "コンピュータ";
+< > "computer" = "コンピュータ";
+< > "credit-card" = "クレジットカード";
+< > "credit-cards" = "クレジットカード";
+< > "delivery" = "配達";
+< > "design_tools" = "デザイン_ツール";
+< > "desktop_website" = "デスクトップ_Webサイト";
+< > "detective" = "探偵";
+< > "device" = "デバイス";
+< > "diamond" = "ダイアモンド";
+< > "digital" = "デジタル";
+< > "discount" = "割引";
+< > "drawing-tablet" = "描画タブレット";
+< > "e-banking" = "電子バンキング";
+< > "envelope" = "封筒";
+< > "envelope" = "封筒";
+< > "equalizer" = "イコライザー";
+< > "erase" = "消去";
+< > "eye" = "目";
+< > "files" = "ファイル";
+< > "filter" = "フィルター";
+< > "fingerprint-id" = "指紋ID";
+< > "flag" = "旗";
+< > "floppy-disk" = "フロッピーディスク";
+< > "folder" = "フォルダ";
+< > "geometry" = "ジオメトリ";
+< > "gift" = "ギフト";
+< > "glasses" = "眼鏡";
+< > "globe" = "地球";
+< > "graduate" = "卒業生";
+< > "graph" = "グラフ";
+< > "headphones" = "ヘッドフォン";
+< > "help" = "ヘルプ";
+< > "id" = "ID";
+< > "invoice" = "請求書";
+< > "ipod" = "iPod";
+< > "key" = "キー";
+< > "keyboard" = "キーボード";
+< > "keyboard" = "キーボード";
+< > "label" = "ラベル";
+< > "laptop" = "ラップトップ";
+< > "layers" = "レイヤー";
+< > "letter" = "レター";
+< > "lightbulb" = "電球";
+< > "link" = "リンク";
+< > "link" = "リンク";
+< > "list" = "リスト";
+< > "location" = "場所";
+< > "lock" = "ロック";
+< > "lock" = "ロック";
+< > "love" = "愛";
+< > "lyrics" = "歌詞";
+< > "magazine" = "雑誌";
+< > "magnet" = "マグネット";
+< > "magnify" = "拡大";
+< > "map" = "マップ";
+< > "megaphone" = "メガフォン";
+< > "message" = "メッセージ";
+< > "microphone" = "マイク";
+< > "mixer" = "ミキサー";
+< > "mobile_website" = "モバイル_Webサイト";
+< > "modem" = "モデム";
+< > "money-clip" = "マネークリップ";
+< > "mouse" = "マウス";
+< > "music-folder" = "ミュージックフォルダ";
+< > "necklace" = "ネックレス";
+< > "network" = "ネットワーク";
+< > "new" = "新規";
+< > "newspaper" = "新聞";
+< > "no-entry" = "立入禁止";
+< > "notebook" = "ノートブック";
+< > "notebook" = "ノートブック";
+< > "notes" = "ノート";
+< > "office" = "オフィス";
+< > "open" = "開く";
+< > "package" = "パッケージ";
+< > "page_optimization" = "ページ_最適化";
+< > "paper-plane" = "紙飛行機";
+< > "password" = "パスワード";
+< > "pay" = "支払い";
+< > "pay-phone" = "公衆電話";
+< > "pen" = "ペン";
+< > "pen" = "ペン";
+< > "pencil" = "鉛筆";
+< > "person" = "人";
+< > "person" = "人";
+< > "phone" = "電話";
+< > "photo" = "写真";
+< > "pie" = "扇形";
+< > "pin" = "ピン";
+< > "pin-settings" = "ピン設定";
+< > "plane" = "平面";
+< > "planning" = "プランニング";
+< > "power" = "パワー";
+< > "presentation" = "表記";
+< > "printer" = "プリンター";
+< > "prototype" = "プロトタイプ";
+< > "radio" = "ラジオ";
+< > "receipt" = "レシート";
+< > "report" = "レポート";
+< > "report" = "レポート";
+< > "safe" = "セーフ";
+< > "sale" = "金庫";
+< > "savings" = "貯蓄";
+< > "school" = "学校";
+< > "school-bus" = "スクールバス";
+< > "science" = "科学";
+< > "scissors" = "はさみ";
+< > "search-settings" = "検索設定";
+< > "secure" = "安全";
+< > "settings" = "設定";
+< > "sheriff" = "保安官";
+< > "shield" = "盾";
+< > "shirt-tie" = "シャツ・タイ";
+< > "shop" = "ショップ";
+< > "shop" = "ショップ";
+< > "sitemap" = "サイトマップ";
+< > "solution" = "ソリューション";
+< > "speaker" = "スピーカー";
+< > "speed" = "速度";
+< > "star" = "星";
+< > "stereo" = "ステレオ";
+< > "support" = "サポート";
+< > "tablet" = "タブレット";
+< > "target" = "ターゲット";
+< > "target" = "ターゲット";
+< > "tea" = "お茶";
+< > "thumbs-up" = "いいね";
+< > "till" = "レジ";
+< > "time" = "時間";
+< > "top-rated" = "トップレート";
+< > "trolley" = "カート";
+< > "troubleshoot" = "トラブルシュート";
+< > "umbrella" = "傘";
+< > "video" = "ビデオ";
+< > "vinyl" = "ビニール";
+< > "wallet" = "財布";
+< > "warning" = "警告";
+< > "watch" = "時計";
+< > "web" = "Web";
+< > "web_development" = "Web_開発";
+< > "webpage" = "Webページ";
+< > "website" = "Webサイト";
+< > "withdraw-deposit" = "預金引き出し";
 ---
 > > "Assets" = "자산";
+> > "Assets" = "자산";
+> > "Default" = "기본값";
+> > "Default" = "기본값";
