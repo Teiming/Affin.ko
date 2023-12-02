@@ -9,7 +9,7 @@ ENG=$(printf $RAWENG | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
 KOR=$(printf $RAWKOR | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
 
 # 결과 생성
-result=$(echo "s/\\\"$ENG\\\";/\\\"$KOR\\\";/")
+result=$(echo "s/\\\"${ENG}\\\";/\\\"${KOR}\\\";/")
 
 # 사전 등록
 cd ~/Affin.ko/dict/

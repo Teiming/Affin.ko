@@ -192,7 +192,7 @@ s/\"Brush Item Context Menu\";/\"브러시 항목 상황별 메뉴\";/
 s/\"Brush Width:\";/\"브러시 너비:\";/
 s/\"Brush\";/\"브러시\";/
 s/\"Brushes\";/\"브러시\";/
-s/\"Business\";/\"명함\";/
+s/\"Business Card\";/\"명함\";/
 s/\"Butt Cap\";/\"짧은 끝단\";/
 s/\"Button\";/\"버튼\";/
 s/\"Callout Ellipse Tool\";/\"말풍선 타원 도구\";/
@@ -213,8 +213,8 @@ s/\"Capitalization\";/\"대문자화\";/
 s/\"Categories\";/\"범주\";/
 s/\"Cell Size\";/\"셀 크기\";/
 s/\"Center\";/\"가운데\";/
-s/\"Centimetres:\";/\"센티미터:\";/
-s/\"Centimetres\";/\"센티미터\";/
+s/\"Centimeters:\";/\"센티미터:\";/
+s/\"Centimeters\";/\"센티미터\";/
 s/\"Channel Mixer\";/\"채널 혼합\";/
 s/\"Channel\";/\"채널\";/
 s/\"Channels\";/\"채널\";/
@@ -766,10 +766,10 @@ s/\"Merge curves\";/\"곡선 통합\";/
 s/\"Merge\";/\"통합\";/
 s/\"Mesh\";/\"그물\";/
 s/\"Messages\";/\"메시지\";/
-s/\"Metres:\";/\"미터:\";/
-s/\"Metres\";/\"미터\";/
-s/\"Millimetres:\";/\"밀리미터:\";/
-s/\"Millimetres\";/\"밀리미터\";/
+s/\"Meters:\";/\"미터:\";/
+s/\"Meters\";/\"미터\";/
+s/\"Millimeters:\";/\"밀리미터:\";/
+s/\"Millimeters\";/\"밀리미터\";/
 s/\"Min:\";/\"최소:\";/
 s/\"Minimize\";/\"최소화\";/
 s/\"Mirror view\";/\"거울 보기\";/
@@ -959,6 +959,7 @@ s/\"Preset manager\";/\"미리 설정 관리자\";/
 s/\"Preset name:\";/\"Enter a name for the preset\";/
 s/\"Preset:\";/\"미리 설정:\";/
 s/\"Presets\";/\"미리 설정\";/
+s/\"Press\";/\"프레스품질\";/
 s/\"Pressure:\";/\"압력:\";/
 s/\"Pressure\";/\"압력\";/
 s/\"Print\";/\"인쇄\";/
