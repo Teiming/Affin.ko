@@ -1,26 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 113c113
 116c116
 119c119
@@ -52,13 +30,9 @@
 < "Arch E1" = "Arch E1";
 < "Architectural" = "Architectural";
 < "Business Card" = "Business Card";
-< "Business Card" = "Business Card";
 < "Devices" = "Devices";
 < "Ledger" = "Ledger";
-< "Ledger" = "Ledger";
 < "Legal" = "Legal";
-< "Legal" = "Legal";
-< "Letter" = "Letter";
 < "Letter" = "Letter";
 < "Photo" = "Photo";
 < "Press Ready" = "Press Ready";
@@ -75,13 +49,9 @@
 > "Arch E1" = "アーキテクチャE1";
 > "Architectural" = "アーキテクチャ";
 > "Business Card" = "名刺";
-> "Business Card" = "名刺";
 > "Devices" = "デバイス";
 > "Ledger" = "レジャー";
-> "Ledger" = "レジャー";
 > "Legal" = "リーガル";
-> "Legal" = "リーガル";
-> "Letter" = "レター";
 > "Letter" = "レター";
 > "Photo" = "写真";
 > "Press Ready" = "プレス品質";

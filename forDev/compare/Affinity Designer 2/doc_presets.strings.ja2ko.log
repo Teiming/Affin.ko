@@ -1,27 +1,8 @@
-5,26d4
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,4d1
 < 113c113
 < 116c116
 < 119c119
-28,38d5
+6,16d2
 < 125c125
 < 158c158
 < 161c161
@@ -33,14 +14,14 @@
 < 17c17
 < 20c20
 < 23c23
-40,45d6
+18,23d3
 < 35c35
 < 38c38
 < 53c53
 < 56c56
 < 59c59
 < 71c71
-47,55c8
+25,32c5
 < < "Arch A" = "Arch A";
 < < "Arch B" = "Arch B";
 < < "Arch C" = "Arch C";
@@ -49,19 +30,15 @@
 < < "Arch E1" = "Arch E1";
 < < "Architectural" = "Architectural";
 < < "Business Card" = "Business Card";
-< < "Business Card" = "Business Card";
 ---
 > 92c92
-57,62d9
-< < "Ledger" = "Ledger";
+34,36d6
 < < "Ledger" = "Ledger";
 < < "Legal" = "Legal";
-< < "Legal" = "Legal";
 < < "Letter" = "Letter";
-< < "Letter" = "Letter";
-64d10
+38d7
 < < "Press Ready" = "Press Ready";
-66,92c12,16
+40,62c9,13
 < < "Social Media Portrait Post" = "Social Media Portrait Post";
 < < "Social Media Square Post" = "Social Media Square Post";
 < < "Social Media Story Post" = "Social Media Story Post";
@@ -74,13 +51,9 @@
 < > "Arch E1" = "アーキテクチャE1";
 < > "Architectural" = "アーキテクチャ";
 < > "Business Card" = "名刺";
-< > "Business Card" = "名刺";
 < > "Devices" = "デバイス";
 < > "Ledger" = "レジャー";
-< > "Ledger" = "レジャー";
 < > "Legal" = "リーガル";
-< > "Legal" = "リーガル";
-< > "Letter" = "レター";
 < > "Letter" = "レター";
 < > "Photo" = "写真";
 < > "Press Ready" = "プレス品質";
