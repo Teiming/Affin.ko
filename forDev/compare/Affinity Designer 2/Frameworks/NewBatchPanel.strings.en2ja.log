@@ -1,128 +1,128 @@
-3c3
-< "1.title" = "New Batch Job";
 ---
-> "1.title" = "新規一括ジョブ";
-9c9
-< "8.title" = "Cancel";
 ---
-> "8.title" = "キャンセル";
-12c12
-< "3Zr-zx-mmN.title" = "Apply";
 ---
-> "3Zr-zx-mmN.title" = "適用";
-18c18
-< "5cY-MO-oRN.title" = "Remove";
 ---
-> "5cY-MO-oRN.title" = "削除";
-21c21
-< "5uA-RT-iq0.ibShadowedToolTip" = "Maximum height";
 ---
-> "5uA-RT-iq0.ibShadowedToolTip" = "最大の高さ";
-24c24
-< "5xe-vv-Wg8.title" = "Table View Cell";
 ---
-> "5xe-vv-Wg8.title" = "表ビューセル";
-27c27
-< "9AE-BM-BdO.title" = "Available Macros";
 ---
-> "9AE-BM-BdO.title" = "使用可能なマクロ";
-30c30
-< "9J0-Y3-BCR.title" = "Remove";
 ---
-> "9J0-Y3-BCR.title" = "削除";
-33c33
-< "9UU-bz-y9v.title" = "Add";
 ---
-> "9UU-bz-y9v.title" = "追加";
-36c36
-< "BNa-SP-38g.title" = "Save as AFPhoto";
 ---
-> "BNa-SP-38g.title" = "AFPhotoとして保存";
-39c39
-< "Br9-je-FhX.headerCell.title" = "Plugin";
 ---
-> "Br9-je-FhX.headerCell.title" = "プラグイン";
-42c42
-< "CcL-Qz-jc6.title" = "Save as PNG";
 ---
-> "CcL-Qz-jc6.title" = "PNGとして保存";
-45c45
-< "EN7-KC-Npw.title" = "Save as WEBP";
 ---
-> "EN7-KC-Npw.title" = "WEBPとして保存";
-48c48
-< "Kqj-MD-FVn.title" = "Authorize…";
 ---
-> "Kqj-MD-FVn.title" = "承認…";
-51c51
-< "LCU-Bh-fwo.title" = "Save into original location";
 ---
-> "LCU-Bh-fwo.title" = "元の場所に保存";
-54c54
-< "MPL-sv-FXr.title" = "Applied Macros";
 ---
-> "MPL-sv-FXr.title" = "適用されているマクロ";
-57c57
-< "Ney-qU-cUB.title" = "Save as OpenEXR";
 ---
-> "Ney-qU-cUB.title" = "OpenEXRとして保存";
-60c60
-< "NfY-PH-eyP.ibShadowedToolTip" = "Unfinished feature / user interface.";
 ---
-> "NfY-PH-eyP.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
-66c66
-< "S9L-3g-vy6.title" = "Text Cell";
 ---
-> "S9L-3g-vy6.title" = "テキストセル";
-69c69
-< "Tn9-u6-2VM.ibShadowedToolTip" = "Maximum width";
 ---
-> "Tn9-u6-2VM.ibShadowedToolTip" = "最大の幅";
-72c72
-< "YEe-Ih-3DM.title" = "Sources";
 ---
-> "YEe-Ih-3DM.title" = "ソース";
-78c78
-< "Z2F-Uf-aTv.ibShadowedToolTip" = "Preserve aspect ratio";
 ---
-> "Z2F-Uf-aTv.ibShadowedToolTip" = "縦横比を維持";
-81c81
-< "ZUS-aG-ziL.title" = "Save as JPEG-XL";
 ---
-> "ZUS-aG-ziL.title" = "JPEG-XLとして保存";
-84c84
-< "aOB-qq-3uK.title" = "Parallel processing";
 ---
-> "aOB-qq-3uK.title" = "並列処理";
-93c93
-< "g9W-VC-wUY.title" = "Text Cell";
 ---
-> "g9W-VC-wUY.title" = "テキストセル";
+---
+---
+---
+---
+---
+---
+---
 102c102
-< "k6K-jx-mb3.title" = "Output";
----
-> "k6K-jx-mb3.title" = "出力";
 105c105
-< "kKQ-0U-DdS.title" = "Save into:";
----
-> "kKQ-0U-DdS.title" = "保存先:";
 108c108
-< "mWE-VA-Hcm.title" = "Text Cell";
----
-> "mWE-VA-Hcm.title" = "テキストセル";
 114c114
-< "qPa-6D-HGs.title" = "Save as TIFF";
----
-> "qPa-6D-HGs.title" = "TIFFとして保存";
 117c117
-< "scs-nf-Vai.title" = "Save as JPEG";
----
-> "scs-nf-Vai.title" = "JPEGとして保存";
 120c120
-< "uOg-jA-d4r.headerCell.title" = "Plugin";
----
-> "uOg-jA-d4r.headerCell.title" = "プラグイン";
 126c126
+12c12
+18c18
+21c21
+24c24
+27c27
+30c30
+33c33
+36c36
+39c39
+3c3
+42c42
+45c45
+48c48
+51c51
+54c54
+57c57
+60c60
+66c66
+69c69
+72c72
+78c78
+81c81
+84c84
+93c93
+9c9
+< "1.title" = "New Batch Job";
+< "3Zr-zx-mmN.title" = "Apply";
+< "5cY-MO-oRN.title" = "Remove";
+< "5uA-RT-iq0.ibShadowedToolTip" = "Maximum height";
+< "5xe-vv-Wg8.title" = "Table View Cell";
+< "8.title" = "Cancel";
+< "9AE-BM-BdO.title" = "Available Macros";
+< "9J0-Y3-BCR.title" = "Remove";
+< "9UU-bz-y9v.title" = "Add";
+< "BNa-SP-38g.title" = "Save as AFPhoto";
+< "Br9-je-FhX.headerCell.title" = "Plugin";
+< "CcL-Qz-jc6.title" = "Save as PNG";
+< "EN7-KC-Npw.title" = "Save as WEBP";
+< "Kqj-MD-FVn.title" = "Authorize…";
+< "LCU-Bh-fwo.title" = "Save into original location";
+< "MPL-sv-FXr.title" = "Applied Macros";
+< "Ney-qU-cUB.title" = "Save as OpenEXR";
+< "NfY-PH-eyP.ibShadowedToolTip" = "Unfinished feature / user interface.";
+< "S9L-3g-vy6.title" = "Text Cell";
+< "Tn9-u6-2VM.ibShadowedToolTip" = "Maximum width";
+< "YEe-Ih-3DM.title" = "Sources";
+< "Z2F-Uf-aTv.ibShadowedToolTip" = "Preserve aspect ratio";
+< "ZUS-aG-ziL.title" = "Save as JPEG-XL";
+< "aOB-qq-3uK.title" = "Parallel processing";
+< "g9W-VC-wUY.title" = "Text Cell";
+< "k6K-jx-mb3.title" = "Output";
+< "kKQ-0U-DdS.title" = "Save into:";
+< "mWE-VA-Hcm.title" = "Text Cell";
+< "qPa-6D-HGs.title" = "Save as TIFF";
+< "scs-nf-Vai.title" = "Save as JPEG";
+< "uOg-jA-d4r.headerCell.title" = "Plugin";
 < "wcC-Dx-0HV.headerCell.title" = "Plugin";
----
+> "1.title" = "新規一括ジョブ";
+> "3Zr-zx-mmN.title" = "適用";
+> "5cY-MO-oRN.title" = "削除";
+> "5uA-RT-iq0.ibShadowedToolTip" = "最大の高さ";
+> "5xe-vv-Wg8.title" = "表ビューセル";
+> "8.title" = "キャンセル";
+> "9AE-BM-BdO.title" = "使用可能なマクロ";
+> "9J0-Y3-BCR.title" = "削除";
+> "9UU-bz-y9v.title" = "追加";
+> "BNa-SP-38g.title" = "AFPhotoとして保存";
+> "Br9-je-FhX.headerCell.title" = "プラグイン";
+> "CcL-Qz-jc6.title" = "PNGとして保存";
+> "EN7-KC-Npw.title" = "WEBPとして保存";
+> "Kqj-MD-FVn.title" = "承認…";
+> "LCU-Bh-fwo.title" = "元の場所に保存";
+> "MPL-sv-FXr.title" = "適用されているマクロ";
+> "Ney-qU-cUB.title" = "OpenEXRとして保存";
+> "NfY-PH-eyP.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
+> "S9L-3g-vy6.title" = "テキストセル";
+> "Tn9-u6-2VM.ibShadowedToolTip" = "最大の幅";
+> "YEe-Ih-3DM.title" = "ソース";
+> "Z2F-Uf-aTv.ibShadowedToolTip" = "縦横比を維持";
+> "ZUS-aG-ziL.title" = "JPEG-XLとして保存";
+> "aOB-qq-3uK.title" = "並列処理";
+> "g9W-VC-wUY.title" = "テキストセル";
+> "k6K-jx-mb3.title" = "出力";
+> "kKQ-0U-DdS.title" = "保存先:";
+> "mWE-VA-Hcm.title" = "テキストセル";
+> "qPa-6D-HGs.title" = "TIFFとして保存";
+> "scs-nf-Vai.title" = "JPEGとして保存";
+> "uOg-jA-d4r.headerCell.title" = "プラグイン";
 > "wcC-Dx-0HV.headerCell.title" = "プラグイン";
