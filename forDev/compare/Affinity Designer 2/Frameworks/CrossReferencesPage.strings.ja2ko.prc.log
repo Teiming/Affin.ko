@@ -43,21 +43,9 @@
 < > "nwx-Rj-ne2.ibShadowedToolTip" = "ターゲット名";
 < > "oUT-B7-eUV.ibShadowedToolTip" = "現在の章";
 ---
-> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "6q2-YF-dgq"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0ZH-lP-Vq8"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HNx-Cc-jqb"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JXD-sZ-XEE"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XHc-xD-lCf"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eZb-vX-YcJ"; */
 > > "0ZH-lP-Vq8.title" = "텍스트 셀";
 > > "6q2-YF-dgq.headerCell.title" = "이름";
 > > "HNx-Cc-jqb.title" = "텍스트 셀";
 > > "JXD-sZ-XEE.title" = "텍스트 셀";
 > > "XHc-xD-lCf.title" = "텍스트 셀";
 > > "eZb-vX-YcJ.title" = "텍스트 셀";
-> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "6q2-YF-dgq"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "0ZH-lP-Vq8"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "HNx-Cc-jqb"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "JXD-sZ-XEE"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "XHc-xD-lCf"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "eZb-vX-YcJ"; */
