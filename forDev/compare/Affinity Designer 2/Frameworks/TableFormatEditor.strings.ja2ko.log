@@ -1,0 +1,462 @@
+1,13c1,2
+< 3c3
+< < "29X-Sz-EJt.ibShadowedToolTip" = "Link Insets";
+< ---
+< > "29X-Sz-EJt.ibShadowedToolTip" = "余白をリンク";
+< 6c6
+< < "2QU-dI-SLt.ibShadowedToolTip" = "Initial Advance";
+< ---
+< > "2QU-dI-SLt.ibShadowedToolTip" = "最大段落間隔";
+< 9c9
+< < "2SV-gn-uIb.ibShadowedToolTip" = "All horizontal";
+< ---
+< > "2SV-gn-uIb.ibShadowedToolTip" = "すべて水平方向";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "2m1-OT-Z7X"; */
+16,17c5,8
+< > "2m1-OT-Z7X.title" = "下:";
+< 15c15
+---
+> > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "2m1-OT-Z7X"; */
+> > "2m1-OT-Z7X.title" = "아래쪽";
+> 14,15c14,15
+> < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "3Mp-EC-Gl7"; */
+20,21c11,14
+< > "3Mp-EC-Gl7.title" = "行揃え:";
+< 18c18
+---
+> > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "3Mp-EC-Gl7"; */
+> > "3Mp-EC-Gl7.title" = "정렬:";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "3Vg-JO-aUt"; */
+24,25c17,20
+< > "3Vg-JO-aUt.title" = "右:";
+< 21c21
+---
+> > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "3Vg-JO-aUt"; */
+> > "3Vg-JO-aUt.title" = "오른쪽:";
+> 20,21c20,21
+> < /* Class = "NSView"; 3mv-9i-D8m.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Text"; ObjectID = "3mv-9i-D8m"; */
+28,29c23,26
+< > "3mv-9i-D8m.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "テキスト";
+< 24c24
+---
+> > /* Class = "NSView"; 3mv-9i-D8m.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "텍스트"; ObjectID = "3mv-9i-D8m"; */
+> > "3mv-9i-D8m.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "텍스트";
+> 23,24c23,24
+> < /* Class = "NSTextFieldCell"; title = "Stroke:"; ObjectID = "671-46-EPQ"; */
+32,41c29,32
+< > "671-46-EPQ.title" = "境界線:";
+< 27c27
+< < "7B4-ZU-2ub.ibShadowedToolTip" = "Frame Fill";
+< ---
+< > "7B4-ZU-2ub.ibShadowedToolTip" = "フレームの塗りつぶし";
+< 30c30
+< < "7dj-6X-xJP.ibShadowedToolTip" = "Add Column";
+< ---
+< > "7dj-6X-xJP.ibShadowedToolTip" = "列を追加";
+< 33c33
+---
+> > /* Class = "NSTextFieldCell"; title = "선:"; ObjectID = "671-46-EPQ"; */
+> > "671-46-EPQ.title" = "선:";
+> 32,33c32,33
+> < /* Class = "NSView"; 7sg-OP-09b.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Name"; ObjectID = "7sg-OP-09b"; */
+44,49c35,38
+< > "7sg-OP-09b.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "名前";
+< 36c36
+< < "8HF-MS-XXZ.title" = "Insets";
+< ---
+< > "8HF-MS-XXZ.title" = "余白";
+< 39c39
+---
+> > /* Class = "NSView"; 7sg-OP-09b.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "이름"; ObjectID = "7sg-OP-09b"; */
+> > "7sg-OP-09b.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "이름";
+> 38,39c38,39
+> < /* Class = "NSButton"; ibShadowedToolTip = "Outside"; ObjectID = "8kv-Ee-pcN"; */
+52,57c41,44
+< > "8kv-Ee-pcN.ibShadowedToolTip" = "外側";
+< 42c42
+< < "8nh-Ze-faU.ibShadowedToolTip" = "Bottom Text Inset";
+< ---
+< > "8nh-Ze-faU.ibShadowedToolTip" = "テキスト下の余白";
+< 45c45
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "바깥"; ObjectID = "8kv-Ee-pcN"; */
+> > "8kv-Ee-pcN.ibShadowedToolTip" = "바깥";
+> 44,45c44,45
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "96F-LQ-s7p"; */
+60,61c47,50
+< > "96F-LQ-s7p.title" = "テキストセル";
+< 48c48
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "96F-LQ-s7p"; */
+> > "96F-LQ-s7p.title" = "텍스트 셀";
+> 47,48c47,48
+> < /* Class = "NSView"; ibShadowedToolTip = "Top Text Inset"; ObjectID = "AZN-XM-ybX"; */
+64,65c53,56
+< > "AZN-XM-ybX.ibShadowedToolTip" = "テキスト上の余白";
+< 51c51
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "위쪽 텍스트 들여쓰기"; ObjectID = "AZN-XM-ybX"; */
+> > "AZN-XM-ybX.ibShadowedToolTip" = "위쪽 텍스트 들여쓰기";
+> 50,51c50,51
+> < /* Class = "NSButton"; ibShadowedToolTip = "Left"; ObjectID = "B3O-3f-oU4"; */
+68,69c59,62
+< > "B3O-3f-oU4.ibShadowedToolTip" = "左";
+< 54c54
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "왼쪽"; ObjectID = "B3O-3f-oU4"; */
+> > "B3O-3f-oU4.ibShadowedToolTip" = "왼쪽";
+> 53,54c53,54
+> < /* Class = "NSView"; BMI-tE-5wQ.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Frame"; ObjectID = "BMI-tE-5wQ"; */
+72,97c65,68
+< > "BMI-tE-5wQ.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "外枠";
+< 57c57
+< < "BbR-1L-0aF.ibShadowedToolTip" = "Frame Stroke Fill";
+< ---
+< > "BbR-1L-0aF.ibShadowedToolTip" = "フレーム境界線塗りつぶし";
+< 60c60
+< < "DTG-Xh-bGF.title" = "Table View Cell";
+< ---
+< > "DTG-Xh-bGF.title" = "表ビューセル";
+< 63c63
+< < "F0z-JX-Cv5.title" = "Edit Table Format";
+< ---
+< > "F0z-JX-Cv5.title" = "表フォーマットの編集";
+< 69c69
+< < "Is9-CZ-zdy.ibShadowedToolTip" = "Left Text Inset";
+< ---
+< > "Is9-CZ-zdy.ibShadowedToolTip" = "テキスト左の余白";
+< 72c72
+< < "Jjw-EY-Aif.ibShadowedToolTip" = "Delete Column";
+< ---
+< > "Jjw-EY-Aif.ibShadowedToolTip" = "列を削除";
+< 75c75
+< < "K3z-ct-Lho.ibShadowedToolTip" = "All vertical";
+< ---
+< > "K3z-ct-Lho.ibShadowedToolTip" = "すべて垂直方向";
+< 78c78
+---
+> > /* Class = "NSView"; BMI-tE-5wQ.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "액자"; ObjectID = "BMI-tE-5wQ"; */
+> > "BMI-tE-5wQ.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "액자";
+> 77,78c77,78
+> < /* Class = "NSButton"; ibShadowedToolTip = "Outside horizontal"; ObjectID = "Kv9-MT-JkL"; */
+100,105c71,74
+< > "Kv9-MT-JkL.ibShadowedToolTip" = "外側水平方向";
+< 81c81
+< < "LIv-Wf-QTI.ibShadowedToolTip" = "Frame Fill";
+< ---
+< > "LIv-Wf-QTI.ibShadowedToolTip" = "フレームの塗りつぶし";
+< 84c84
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "가로 바깥"; ObjectID = "Kv9-MT-JkL"; */
+> > "Kv9-MT-JkL.ibShadowedToolTip" = "가로 바깥";
+> 83,84c83,84
+> < /* Class = "NSButton"; ibShadowedToolTip = "Inside vertical"; ObjectID = "Lb9-uB-vxf"; */
+108,109c77,80
+< > "Lb9-uB-vxf.ibShadowedToolTip" = "内側垂直方向";
+< 87c87
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "세로 안"; ObjectID = "Lb9-uB-vxf"; */
+> > "Lb9-uB-vxf.ibShadowedToolTip" = "세로 안";
+> 86,87c86,87
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "Lqg-Ib-mnt"; */
+112,113c83,86
+< > "Lqg-Ib-mnt.title" = "ボタン";
+< 90c90
+---
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "Lqg-Ib-mnt"; */
+> > "Lqg-Ib-mnt.title" = "버튼";
+> 89,90c89,90
+> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "MMg-Tu-L2s"; */
+116,117c89,92
+< > "MMg-Tu-L2s.title" = "左:";
+< 93c93
+---
+> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "MMg-Tu-L2s"; */
+> > "MMg-Tu-L2s.title" = "왼쪽:";
+> 92,93c92,93
+> < /* Class = "NSButton"; ibShadowedToolTip = "Right"; ObjectID = "MRi-0N-Ubz"; */
+120,121c95,98
+< > "MRi-0N-Ubz.ibShadowedToolTip" = "右";
+< 96c96
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "오른쪽"; ObjectID = "MRi-0N-Ubz"; */
+> > "MRi-0N-Ubz.ibShadowedToolTip" = "오른쪽";
+> 95,96c95,96
+> < /* Class = "NSView"; ibShadowedToolTip = "Top Text Inset"; ObjectID = "O2W-pb-vEl"; */
+124,133c101,104
+< > "O2W-pb-vEl.ibShadowedToolTip" = "テキスト上の余白";
+< 99c99
+< < "Oh1-WE-iXO.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Insets";
+< ---
+< > "Oh1-WE-iXO.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "余白";
+< 105c105
+< < "PMi-AD-X26.title" = "Item 3";
+< ---
+< > "PMi-AD-X26.title" = "アイテム3";
+< 108c108
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "위쪽 텍스트 들여쓰기"; ObjectID = "O2W-pb-vEl"; */
+> > "O2W-pb-vEl.ibShadowedToolTip" = "위쪽 텍스트 들여쓰기";
+> 107,108c107,108
+> < /* Class = "NSButton"; ibShadowedToolTip = "Top"; ObjectID = "QLn-5f-q3a"; */
+136,137c107,110
+< > "QLn-5f-q3a.ibShadowedToolTip" = "上";
+< 111c111
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "위쪽"; ObjectID = "QLn-5f-q3a"; */
+> > "QLn-5f-q3a.ibShadowedToolTip" = "위쪽";
+> 110,111c110,111
+> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "QbI-f0-qah"; */
+140,141c113,116
+< > "QbI-f0-qah.title" = "上:";
+< 114c114
+---
+> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "QbI-f0-qah"; */
+> > "QbI-f0-qah.title" = "위쪽:";
+> 113,114c113,114
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "R2y-Rq-F8j"; */
+144,145c119,122
+< > "R2y-Rq-F8j.title" = "ボタン";
+< 117c117
+---
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "R2y-Rq-F8j"; */
+> > "R2y-Rq-F8j.title" = "버튼";
+> 116,117c116,117
+> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "RAb-rs-cyR"; */
+148,149c125,128
+< > "RAb-rs-cyR.title" = "左:";
+< 120c120
+---
+> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "RAb-rs-cyR"; */
+> > "RAb-rs-cyR.title" = "왼쪽:";
+> 119,120c119,120
+> < /* Class = "NSButton"; ibShadowedToolTip = "Outside vertical"; ObjectID = "RAu-5v-hw6"; */
+152,157c131,134
+< > "RAu-5v-hw6.ibShadowedToolTip" = "外側垂直方向";
+< 123c123
+< < "ROn-eK-jqy.title" = "Minimum:";
+< ---
+< > "ROn-eK-jqy.title" = "最小:";
+< 126c126
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "세로 바깥"; ObjectID = "RAu-5v-hw6"; */
+> > "RAu-5v-hw6.ibShadowedToolTip" = "세로 바깥";
+> 125,126c125,126
+> < /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "RdZ-2Y-L06"; */
+160,161c137,140
+< > "RdZ-2Y-L06.title" = "塗りつぶし:";
+< 129c129
+---
+> > /* Class = "NSTextFieldCell"; title = "칠:"; ObjectID = "RdZ-2Y-L06"; */
+> > "RdZ-2Y-L06.title" = "칠:";
+> 128,129c128,129
+> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "SQf-yo-Znv"; */
+164,165c143,146
+< > "SQf-yo-Znv.title" = "リセット";
+< 132c132
+---
+> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "SQf-yo-Znv"; */
+> > "SQf-yo-Znv.title" = "재설정";
+> 131,132c131,132
+> < /* Class = "NSView"; ibShadowedToolTip = "Right Text Inset"; ObjectID = "SWr-bm-Jui"; */
+168,169c149,152
+< > "SWr-bm-Jui.ibShadowedToolTip" = "テキスト右の余白";
+< 135c135
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "오른쪽 텍스트 들여쓰기"; ObjectID = "SWr-bm-Jui"; */
+> > "SWr-bm-Jui.ibShadowedToolTip" = "오른쪽 텍스트 들여쓰기";
+> 134,135c134,135
+> < /* Class = "NSButton"; ibShadowedToolTip = "Inside horizontal"; ObjectID = "SgB-Ux-hyn"; */
+172,177c155,158
+< > "SgB-Ux-hyn.ibShadowedToolTip" = "内側水平方向";
+< 138c138
+< < "TYJ-ag-m8k.ibShadowedToolTip" = "Frame Stroke Fill";
+< ---
+< > "TYJ-ag-m8k.ibShadowedToolTip" = "フレーム境界線塗りつぶし";
+< 141c141
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "가로 안"; ObjectID = "SgB-Ux-hyn"; */
+> > "SgB-Ux-hyn.ibShadowedToolTip" = "가로 안";
+> 140,141c140,141
+> < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "WbT-7a-Hga"; */
+180,185c161,164
+< > "WbT-7a-Hga.title" = "下:";
+< 144c144
+< < "X4v-d4-qfF.title" = "Initial advance:";
+< ---
+< > "X4v-d4-qfF.title" = "最大段落間隔:";
+< 147c147
+---
+> > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "WbT-7a-Hga"; */
+> > "WbT-7a-Hga.title" = "아래쪽";
+> 146,147c146,147
+> < /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "XE9-XF-198"; */
+188,189c167,170
+< > "XE9-XF-198.title" = "塗りつぶし:";
+< 150c150
+---
+> > /* Class = "NSTextFieldCell"; title = "칠:"; ObjectID = "XE9-XF-198"; */
+> > "XE9-XF-198.title" = "칠:";
+> 149,150c149,150
+> < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "Xsx-tV-e8U"; */
+192,205c173,176
+< > "Xsx-tV-e8U.title" = "右:";
+< 153c153
+< < "YSb-am-2z1.ibShadowedToolTip" = "Link Insets";
+< ---
+< > "YSb-am-2z1.ibShadowedToolTip" = "余白をリンク";
+< 159c159
+< < "a20-HT-QN6.title" = "Cell Formats";
+< ---
+< > "a20-HT-QN6.title" = "セルフォーマット";
+< 162c162
+< < "b8f-J8-T69.ibShadowedToolTip" = "Max Paragraph Space";
+< ---
+< > "b8f-J8-T69.ibShadowedToolTip" = "最大段落間隔";
+< 165c165
+---
+> > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "Xsx-tV-e8U"; */
+> > "Xsx-tV-e8U.title" = "오른쪽:";
+> 164,165c164,165
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "bDO-My-MTI"; */
+208,229c179,182
+< > "bDO-My-MTI.title" = "ボタン";
+< 168c168
+< < "bbT-3n-Z0I.title" = "Name:";
+< ---
+< > "bbT-3n-Z0I.title" = "名前:";
+< 171c171
+< < "bcz-75-wIW.ibShadowedToolTip" = "Link Insets";
+< ---
+< > "bcz-75-wIW.ibShadowedToolTip" = "余白をリンク";
+< 174c174
+< < "bg8-EY-uM1.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Vertical Position";
+< ---
+< > "bg8-EY-uM1.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "垂直位置";
+< 177c177
+< < "dHv-U5-VLJ.title" = "Item 1";
+< ---
+< > "dHv-U5-VLJ.title" = "アイテム1";
+< 180c180
+< < "dYv-33-XXa.title" = "Border:";
+< ---
+< > "dYv-33-XXa.title" = "枠線:";
+< 183c183
+---
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "bDO-My-MTI"; */
+> > "bDO-My-MTI.title" = "버튼";
+> 182,183c182,183
+> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "e7e-On-k88"; */
+232,241c185,188
+< > "e7e-On-k88.title" = "スタイル:";
+< 186c186
+< < "eFM-dq-ibD.title" = "Name:";
+< ---
+< > "eFM-dq-ibD.title" = "名前:";
+< 189c189
+< < "fBt-sw-2Lz.title" = "Item 2";
+< ---
+< > "fBt-sw-2Lz.title" = "アイテム2";
+< 192c192
+---
+> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "e7e-On-k88"; */
+> > "e7e-On-k88.title" = "스타일:";
+> 191,192c191,192
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "fey-TL-xNK"; */
+244,253c191,194
+< > "fey-TL-xNK.title" = "ボタン";
+< 198c198
+< < "gHg-uy-29T.ibShadowedToolTip" = "Bottom Text Inset";
+< ---
+< > "gHg-uy-29T.ibShadowedToolTip" = "テキスト下の余白";
+< 201c201
+< < "hB0-0b-Ib3.ibShadowedToolTip" = "Frame Stroke";
+< ---
+< > "hB0-0b-Ib3.ibShadowedToolTip" = "フレーム境界線";
+< 204c204
+---
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "fey-TL-xNK"; */
+> > "fey-TL-xNK.title" = "버튼";
+> 203,204c203,204
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hkM-iV-SNI"; */
+256,257c197,200
+< > "hkM-iV-SNI.title" = "キャンセル";
+< 207c207
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "hkM-iV-SNI"; */
+> > "hkM-iV-SNI.title" = "취소";
+> 206,207c206,207
+> < /* Class = "NSButton"; ibShadowedToolTip = "Inside"; ObjectID = "isS-aU-rOD"; */
+260,277c203,206
+< > "isS-aU-rOD.ibShadowedToolTip" = "内側";
+< 213c213
+< < "kKc-ei-tJK.ibShadowedToolTip" = "Frame Stroke";
+< ---
+< > "kKc-ei-tJK.ibShadowedToolTip" = "フレーム境界線";
+< 219c219
+< < "lz6-uk-Jog.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Stroke and Fill";
+< ---
+< > "lz6-uk-Jog.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "境界線と塗りつぶし";
+< 222c222
+< < "mJO-zx-58h.ibShadowedToolTip" = "Left Text Inset";
+< ---
+< > "mJO-zx-58h.ibShadowedToolTip" = "テキスト左の余白";
+< 225c225
+< < "mYo-7O-ccb.ibShadowedToolTip" = "Add Row";
+< ---
+< > "mYo-7O-ccb.ibShadowedToolTip" = "行を追加";
+< 228c228
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "안으로"; ObjectID = "isS-aU-rOD"; */
+> > "isS-aU-rOD.ibShadowedToolTip" = "안으로";
+> 227,228c227,228
+> < /* Class = "NSView"; ibShadowedToolTip = "Right Text Inset"; ObjectID = "nox-HI-7O9"; */
+280,281c209,212
+< > "nox-HI-7O9.ibShadowedToolTip" = "テキスト右の余白";
+< 231c231
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "오른쪽 텍스트 들여쓰기"; ObjectID = "nox-HI-7O9"; */
+> > "nox-HI-7O9.ibShadowedToolTip" = "오른쪽 텍스트 들여쓰기";
+> 230,231c230,231
+> < /* Class = "NSButton"; ibShadowedToolTip = "Bottom"; ObjectID = "q3i-Cy-2LO"; */
+284,285c215,218
+< > "q3i-Cy-2LO.ibShadowedToolTip" = "下";
+< 234c234
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "아래"; ObjectID = "q3i-Cy-2LO"; */
+> > "q3i-Cy-2LO.ibShadowedToolTip" = "아래";
+> 233,234c233,234
+> < /* Class = "NSButton"; ibShadowedToolTip = "All"; ObjectID = "rnd-5N-McF"; */
+288,289c221,224
+< > "rnd-5N-McF.ibShadowedToolTip" = "すべて";
+< 237c237
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "모두"; ObjectID = "rnd-5N-McF"; */
+> > "rnd-5N-McF.ibShadowedToolTip" = "모두";
+> 236,237c236,237
+> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "sVd-wP-bqO"; */
+292,308c227,228
+< > "sVd-wP-bqO.title" = "上:";
+< 240c240
+< < "se5-gp-TjO.ibExternalAccessibilityDescription" = "Edit Table Format";
+< ---
+< > "se5-gp-TjO.ibExternalAccessibilityDescription" = "表フォーマットの編集";
+< 243c243
+< < "tAG-ek-UjK.title" = "Apply style to selection";
+< ---
+< > "tAG-ek-UjK.title" = "スタイルを選択範囲に適用";
+< 246c246
+< < "tNM-Ye-ILx.ibShadowedToolTip" = "Delete Row";
+< ---
+< > "tNM-Ye-ILx.ibShadowedToolTip" = "行を削除";
+< 252c252
+< < "y6z-a6-TFr.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Structure";
+< ---
+< > "y6z-a6-TFr.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "構造";
+---
+> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "sVd-wP-bqO"; */
+> > "sVd-wP-bqO.title" = "위쪽:";

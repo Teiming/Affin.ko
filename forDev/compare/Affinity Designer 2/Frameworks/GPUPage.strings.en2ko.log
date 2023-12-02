@@ -1,0 +1,12 @@
+14,15c14,15
+< /* Class = "NSMenuItem"; title = "Auto"; ObjectID = "i5P-0W-pZu"; */
+< "i5P-0W-pZu.title" = "Auto";
+---
+> /* Class = "NSMenuItem"; title = "자동"; ObjectID = "i5P-0W-pZu"; */
+> "i5P-0W-pZu.title" = "자동";
+17,18c17,18
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "l40-Sx-yCo"; */
+< "l40-Sx-yCo.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "l40-Sx-yCo"; */
+> "l40-Sx-yCo.title" = "텍스트 셀";

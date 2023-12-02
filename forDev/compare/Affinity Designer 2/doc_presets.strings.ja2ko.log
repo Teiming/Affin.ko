@@ -1,0 +1,96 @@
+4,40c4
+< > "Print" = "印刷";
+< 17c17
+< < "Letter" = "Letter";
+< ---
+< > "Letter" = "レター";
+< 20c20
+< < "Legal" = "Legal";
+< ---
+< > "Legal" = "リーガル";
+< 23c23
+< < "Ledger" = "Ledger";
+< ---
+< > "Ledger" = "レジャー";
+< 35c35
+< < "Business Card" = "Business Card";
+< ---
+< > "Business Card" = "名刺";
+< 38c38
+< < "Press Ready" = "Press Ready";
+< ---
+< > "Press Ready" = "プレス品質";
+< 53c53
+< < "Letter" = "Letter";
+< ---
+< > "Letter" = "レター";
+< 56c56
+< < "Legal" = "Legal";
+< ---
+< > "Legal" = "リーガル";
+< 59c59
+< < "Ledger" = "Ledger";
+< ---
+< > "Ledger" = "レジャー";
+< 71c71
+< < "Business Card" = "Business Card";
+< ---
+< > "Business Card" = "名刺";
+---
+> > "Print" = "인쇄";
+44,46c8,10
+< > "Photo" = "写真";
+< 113c113
+< < "Social Media Square Post" = "Social Media Square Post";
+---
+> > "Photo" = "사진";
+> 92c92
+> < "Web" = "Web";
+48,56c12
+< > "Social Media Square Post" = "ソーシャルメディア正方形ポスト";
+< 116c116
+< < "Social Media Story Post" = "Social Media Story Post";
+< ---
+< > "Social Media Story Post" = "ソーシャルメディアストーリーポスト";
+< 119c119
+< < "Social Media Portrait Post" = "Social Media Portrait Post";
+< ---
+< > "Social Media Portrait Post" = "ソーシャルメディアポートレートポスト";
+---
+> > "Web" = "웹";
+60,92c16
+< > "Devices" = "デバイス";
+< 125c125
+< < "iPad Mini" = "iPad Mini";
+< ---
+< > "iPad Mini" = "iPad mini";
+< 158c158
+< < "Architectural" = "Architectural";
+< ---
+< > "Architectural" = "アーキテクチャ";
+< 161c161
+< < "Arch A" = "Arch A";
+< ---
+< > "Arch A" = "アーキテクチャA";
+< 164c164
+< < "Arch B" = "Arch B";
+< ---
+< > "Arch B" = "アーキテクチャB";
+< 167c167
+< < "Arch C" = "Arch C";
+< ---
+< > "Arch C" = "アーキテクチャC";
+< 170c170
+< < "Arch D" = "Arch D";
+< ---
+< > "Arch D" = "アーキテクチャD";
+< 173c173
+< < "Arch E" = "Arch E";
+< ---
+< > "Arch E" = "アーキテクチャE";
+< 176c176
+< < "Arch E1" = "Arch E1";
+< ---
+< > "Arch E1" = "アーキテクチャE1";
+---
+> > "Devices" = "기기";

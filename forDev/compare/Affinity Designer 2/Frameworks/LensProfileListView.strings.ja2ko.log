@@ -1,0 +1,14 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7T4-mi-TRf"; */
+4,8c5,6
+< > "7T4-mi-TRf.title" = "テキストセル";
+< 6c6
+< < "ooi-ez-Jig.title" = "Table View Cell";
+< ---
+< > "ooi-ez-Jig.title" = "表ビューセル";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "7T4-mi-TRf"; */
+> > "7T4-mi-TRf.title" = "텍스트 셀";

@@ -1,0 +1,30 @@
+8,9c8,9
+< /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
+< "235.title" = "Size:";
+---
+> /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
+> "235.title" = "크기:";
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
+< "1004.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
+> "1004.title" = "취소";
+14,15c14,15
+< /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "1010"; */
+< "1010.ibShadowedToolTip" = "Width";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "1010"; */
+> "1010.ibShadowedToolTip" = "너비";
+17,18c17,18
+< /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1011"; */
+< "1011.ibShadowedToolTip" = "Height";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1011"; */
+> "1011.ibShadowedToolTip" = "높이";
+23,24c23,24
+< /* Class = "NSTextFieldCell"; title = "Units:"; ObjectID = "1045"; */
+< "1045.title" = "Units:";
+---
+> /* Class = "NSTextFieldCell"; title = "단위:"; ObjectID = "1045"; */
+> "1045.title" = "단위:";

@@ -1,0 +1,24 @@
+2,3c2,3
+< /* Class = "NSWindow"; title = "Typography"; ObjectID = "1"; */
+< "1.title" = "Typography";
+---
+> /* Class = "NSWindow"; title = "타이포그래피"; ObjectID = "1"; */
+> "1.title" = "타이포그래피";
+5,6c5,6
+< /* Class = "NSTextFieldCell"; title = "Ligatures"; ObjectID = "92D-7R-euM"; */
+< "92D-7R-euM.title" = "Ligatures";
+---
+> /* Class = "NSTextFieldCell"; title = "합자"; ObjectID = "92D-7R-euM"; */
+> "92D-7R-euM.title" = "합자";
+17,18c17,18
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "Jvp-0X-oVh"; */
+< "Jvp-0X-oVh.title" = "Close";
+---
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "Jvp-0X-oVh"; */
+> "Jvp-0X-oVh.title" = "닫기";
+50,51c50,51
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mkG-Zh-5tF"; */
+< "mkG-Zh-5tF.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mkG-Zh-5tF"; */
+> "mkG-Zh-5tF.title" = "텍스트 셀";

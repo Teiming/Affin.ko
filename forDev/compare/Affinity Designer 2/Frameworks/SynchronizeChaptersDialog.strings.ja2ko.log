@@ -1,0 +1,42 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSButtonCell"; title = "Swatches"; ObjectID = "18J-uu-hJS"; */
+4,9c5,8
+< > "18J-uu-hJS.title" = "スウォッチ";
+< 6c6
+< < "F0z-JX-Cv5.title" = "Synchronize";
+< ---
+< > "F0z-JX-Cv5.title" = "同期";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "견본"; ObjectID = "18J-uu-hJS"; */
+> > "18J-uu-hJS.title" = "견본";
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Text Styles"; ObjectID = "M2e-92-XCR"; */
+12,25c11,14
+< > "M2e-92-XCR.title" = "テキストスタイル";
+< 12c12
+< < "TYC-kW-gcP.title" = "Table Formats";
+< ---
+< > "TYC-kW-gcP.title" = "表フォーマット";
+< 15c15
+< < "WmS-aZ-JXn.title" = "Synchronize Now";
+< ---
+< > "WmS-aZ-JXn.title" = "今すぐ同期";
+< 18c18
+< < "rpO-4j-8ol.title" = "Master Pages";
+< ---
+< > "rpO-4j-8ol.title" = "マスターページ";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "텍스트 스타일"; ObjectID = "M2e-92-XCR"; */
+> > "M2e-92-XCR.title" = "텍스트 스타일";
+> 20,21c20,21
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "uTb-Fv-nQE"; */
+28c17,18
+< > "uTb-Fv-nQE.title" = "閉じる";
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "uTb-Fv-nQE"; */
+> > "uTb-Fv-nQE.title" = "닫기";

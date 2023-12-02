@@ -1,0 +1,30 @@
+1,5c1,2
+< 3c3
+< < "1.title" = "Smooth Selection";
+< ---
+< > "1.title" = "選択範囲を滑らかにする";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+8,9c5,8
+< > "26.title" = "適用";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "49"; */
+12,13c11,14
+< > "49.title" = "半径";
+< 12c12
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "49"; */
+> > "49.title" = "반지름";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "374"; */
+16c17,18
+< > "374.title" = "キャンセル";
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "374"; */
+> > "374.title" = "취소";

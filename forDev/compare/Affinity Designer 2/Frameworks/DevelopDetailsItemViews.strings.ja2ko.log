@@ -1,0 +1,70 @@
+1,17c1,2
+< 3c3
+< < "368.title" = "Luminance";
+< ---
+< > "368.title" = "輝度";
+< 6c6
+< < "371.title" = "Noise Reduction";
+< ---
+< > "371.title" = "ノイズ軽減";
+< 9c9
+< < "4S8-84-rar.title" = "Colors Contribution";
+< ---
+< > "4S8-84-rar.title" = "カラーのレベル";
+< 12c12
+< < "8wK-nS-y9K.title" = "Detail Refinement";
+< ---
+< > "8wK-nS-y9K.title" = "ディテール調整";
+< 15c15
+---
+> 14,15c14,15
+> < /* Class = "NSTextFieldCell"; title = "Amount"; ObjectID = "Kvr-AL-15K"; */
+20,22c5,8
+< > "Kvr-AL-15K.title" = "量";
+< 18c18
+< < "MBn-ns-Hg9.title" = "Noise Addition";
+---
+> > /* Class = "NSTextFieldCell"; title = "양"; ObjectID = "Kvr-AL-15K"; */
+> > "Kvr-AL-15K.title" = "양";
+> 20c20
+> < /* Class = "NSTextFieldCell"; title = "Colours"; ObjectID = "PfS-Iw-DVn"; */
+24,26c10,12
+< > "MBn-ns-Hg9.title" = "ノイズ追加";
+< 21c21
+< < "PfS-Iw-DVn.title" = "Colors";
+---
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "PfS-Iw-DVn"; */
+> 23c23
+> < /* Class = "NSButtonCell"; title = "Colour"; ObjectID = "Pgg-Ek-LWM"; */
+28,45c14,16
+< > "PfS-Iw-DVn.title" = "カラー";
+< 24c24
+< < "Pgg-Ek-LWM.title" = "Color";
+< ---
+< > "Pgg-Ek-LWM.title" = "カラー";
+< 27c27
+< < "Yu5-hd-63P.title" = "Luminance Details";
+< ---
+< > "Yu5-hd-63P.title" = "輝度のディテール";
+< 30c30
+< < "f0D-zg-h44.title" = "Luminance Contribution";
+< ---
+< > "f0D-zg-h44.title" = "輝度のレベル";
+< 33c33
+< < "p9K-gN-drg.title" = "Gaussian";
+< ---
+< > "p9K-gN-drg.title" = "ガウス";
+< 36c36
+---
+> > /* Class = "NSButtonCell"; title = "색상"; ObjectID = "Pgg-Ek-LWM"; */
+> 35,36c35,36
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "uFB-g5-AX6"; */
+48,52c19,20
+< > "uFB-g5-AX6.title" = "半径";
+< 39c39
+< < "yay-ko-9FW.title" = "Intensity";
+< ---
+< > "yay-ko-9FW.title" = "強度";
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "uFB-g5-AX6"; */
+> > "uFB-g5-AX6.title" = "반지름";

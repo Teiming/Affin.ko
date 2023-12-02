@@ -1,0 +1,24 @@
+2c2
+< "IntensityRange" = "IntensityRange";
+---
+> "IntensityRange" = "強度範囲";
+5c5
+< "Shadows" = "Shadows";
+---
+> "Shadows" = "シャドウ";
+8c8
+< "Midtones" = "Midtones";
+---
+> "Midtones" = "中間調";
+11c11
+< "Highlights" = "Highlights";
+---
+> "Highlights" = "ハイライト";
+14c14
+< "HueRange" = "HueRange";
+---
+> "HueRange" = "色相範囲";
+17c17
+< "Bandpass" = "Bandpass";
+---
+> "Bandpass" = "バンドパス…";

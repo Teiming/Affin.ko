@@ -1,0 +1,54 @@
+1,9c1,2
+< 3c3
+< < "1.title" = "Resize Canvas";
+< ---
+< > "1.title" = "キャンバスのサイズを変更";
+< 6c6
+< < "101.title" = "Resize";
+< ---
+< > "101.title" = "サイズ変更";
+< 9c9
+---
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
+12,13c5,8
+< > "235.title" = "サイズ:";
+< 12c12
+---
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
+> > "235.title" = "크기:";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
+16,17c11,14
+< > "1004.title" = "キャンセル";
+< 15c15
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
+> > "1004.title" = "취소";
+> 14,15c14,15
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "1010"; */
+20,21c17,20
+< > "1010.ibShadowedToolTip" = "幅";
+< 18c18
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "1010"; */
+> > "1010.ibShadowedToolTip" = "너비";
+> 17,18c17,18
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1011"; */
+24,29c23,26
+< > "1011.ibShadowedToolTip" = "高さ";
+< 21c21
+< < "1032.title" = "Anchor:";
+< ---
+< > "1032.title" = "アンカー:";
+< 24c24
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1011"; */
+> > "1011.ibShadowedToolTip" = "높이";
+> 23,24c23,24
+> < /* Class = "NSTextFieldCell"; title = "Units:"; ObjectID = "1045"; */
+32c29,30
+< > "1045.title" = "単位:";
+---
+> > /* Class = "NSTextFieldCell"; title = "단위:"; ObjectID = "1045"; */
+> > "1045.title" = "단위:";

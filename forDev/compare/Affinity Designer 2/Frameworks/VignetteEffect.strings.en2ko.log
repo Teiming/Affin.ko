@@ -1,0 +1,60 @@
+2,3c2,3
+< /* Class = "NSWindow"; title = "Vignette"; ObjectID = "1"; */
+< "1.title" = "Vignette";
+---
+> /* Class = "NSWindow"; title = "비네트"; ObjectID = "1"; */
+> "1.title" = "비네트";
+5,6c5,6
+< /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "12"; */
+< "12.title" = "Exposure";
+---
+> /* Class = "NSTextFieldCell"; title = "노출"; ObjectID = "12"; */
+> "12.title" = "노출";
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+< "26.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> "26.title" = "적용";
+11,12c11,12
+< /* Class = "NSTextFieldCell"; title = "Hardness"; ObjectID = "213"; */
+< "213.title" = "Hardness";
+---
+> /* Class = "NSTextFieldCell"; title = "굳기"; ObjectID = "213"; */
+> "213.title" = "굳기";
+14,15c14,15
+< /* Class = "NSTextFieldCell"; title = "Scale"; ObjectID = "227"; */
+< "227.title" = "Scale";
+---
+> /* Class = "NSTextFieldCell"; title = "배율"; ObjectID = "227"; */
+> "227.title" = "배율";
+17,18c17,18
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "255"; */
+< "255.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "255"; */
+> "255.title" = "취소";
+20,21c20,21
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "2FL-bp-7YA"; */
+< "2FL-bp-7YA.ibShadowedToolTip" = "No split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "2FL-bp-7YA"; */
+> "2FL-bp-7YA.ibShadowedToolTip" = "분할 뷰 모드 해제";
+23,24c23,24
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "MsY-Gg-A0P"; */
+< "MsY-Gg-A0P.ibShadowedToolTip" = "Split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "MsY-Gg-A0P"; */
+> "MsY-Gg-A0P.ibShadowedToolTip" = "분할 뷰 모드";
+26,27c26,27
+< /* Class = "NSTextFieldCell"; title = "Shape"; ObjectID = "b0h-VE-9US"; */
+< "b0h-VE-9US.title" = "Shape";
+---
+> /* Class = "NSTextFieldCell"; title = "모양"; ObjectID = "b0h-VE-9US"; */
+> "b0h-VE-9US.title" = "모양";
+29,30c29,30
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "eEp-sX-DI1"; */
+< "eEp-sX-DI1.ibShadowedToolTip" = "Mirror view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "eEp-sX-DI1"; */
+> "eEp-sX-DI1.ibShadowedToolTip" = "거울 뷰 모드";

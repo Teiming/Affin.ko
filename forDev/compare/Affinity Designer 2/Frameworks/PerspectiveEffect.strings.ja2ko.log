@@ -1,0 +1,110 @@
+1,5c1,2
+< 3c3
+< < "1.title" = "Perspective";
+< ---
+< > "1.title" = "パースペクティブ";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+8,17c5,8
+< > "26.title" = "適用";
+< 12c12
+< < "411.title" = "Source";
+< ---
+< > "411.title" = "ソース";
+< 15c15
+< < "412.title" = "Destination";
+< ---
+< > "412.title" = "デスティネーション";
+< 18c18
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "415"; */
+20,21c11,14
+< > "415.title" = "モード";
+< 21c21
+---
+> > /* Class = "NSTextFieldCell"; title = "모드"; ObjectID = "415"; */
+> > "415.title" = "모드";
+> 20,21c20,21
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "419"; */
+24,53c17,20
+< > "419.title" = "キャンセル";
+< 27c27
+< < "4Gt-9R-uNV.title" = "Select Destination";
+< ---
+< > "4Gt-9R-uNV.title" = "デスティネーションを選択";
+< 30c30
+< < "4R8-eB-bhb.ibShadowedToolTip" = "Flip horizontal";
+< ---
+< > "4R8-eB-bhb.ibShadowedToolTip" = "左右反転";
+< 33c33
+< < "Bc7-sW-esj.title" = "Planes";
+< ---
+< > "Bc7-sW-esj.title" = "平面";
+< 36c36
+< < "LPj-3E-bvY.ibShadowedToolTip" = "Flip vertical";
+< ---
+< > "LPj-3E-bvY.ibShadowedToolTip" = "上下反転";
+< 39c39
+< < "UPT-Li-C5i.title" = "Box";
+< ---
+< > "UPT-Li-C5i.title" = "ボックス";
+< 42c42
+< < "YCv-Ep-oZx.ibShadowedToolTip" = "Rotate Counter-clockwise";
+< ---
+< > "YCv-Ep-oZx.ibShadowedToolTip" = "反時計回りに回転";
+< 45c45
+< < "Zqd-gu-NJg.ibShadowedToolTip" = "Rotate clockwise";
+< ---
+< > "Zqd-gu-NJg.ibShadowedToolTip" = "時計回りに回転";
+< 48c48
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "419"; */
+> > "419.title" = "취소";
+> 47,48c47,48
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "ape-wA-ILc"; */
+56,57c23,26
+< > "ape-wA-ILc.ibShadowedToolTip" = "分割表示なし";
+< 51c51
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "ape-wA-ILc"; */
+> > "ape-wA-ILc.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> 50,51c50,51
+> < /* Class = "NSButtonCell"; title = "Show grid"; ObjectID = "bRN-dS-8ts"; */
+60,65c29,32
+< > "bRN-dS-8ts.title" = "グリッドを表示";
+< 54c54
+< < "ibZ-No-kj9.title" = "Single plane";
+< ---
+< > "ibZ-No-kj9.title" = "1平面";
+< 57c57
+---
+> > /* Class = "NSButtonCell"; title = "격자 보기"; ObjectID = "bRN-dS-8ts"; */
+> > "bRN-dS-8ts.title" = "격자 보기";
+> 56,57c56,57
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "ivL-5e-Ygf"; */
+68,73c35,38
+< > "ivL-5e-Ygf.ibShadowedToolTip" = "ミラー表示";
+< 60c60
+< < "olX-in-QUf.title" = "Autoclip";
+< ---
+< > "olX-in-QUf.title" = "自動クリップ";
+< 63c63
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "ivL-5e-Ygf"; */
+> > "ivL-5e-Ygf.ibShadowedToolTip" = "거울 뷰 모드";
+> 62,63c62,63
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "tW5-uW-7Jg"; */
+76,80c41,42
+< > "tW5-uW-7Jg.ibShadowedToolTip" = "分割表示";
+< 66c66
+< < "zta-Rn-5Xe.title" = "Dual plane";
+< ---
+< > "zta-Rn-5Xe.title" = "2平面";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "tW5-uW-7Jg"; */
+> > "tW5-uW-7Jg.ibShadowedToolTip" = "분할 뷰 모드";

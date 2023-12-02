@@ -1,0 +1,166 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSWindow"; title = "Grid and Snapping Axis"; ObjectID = "1"; */
+4,5c5,8
+< > "1.title" = "グリッドとスナップ軸";
+< 6c6
+---
+> > /* Class = "NSWindow"; title = "격자 및 스내핑 축"; ObjectID = "1"; */
+> > "1.title" = "격자 및 스내핑 축";
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "26"; */
+8,9c11,14
+< > "26.title" = "閉じる";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "26"; */
+> > "26.title" = "닫기";
+> 8,9c8,9
+> < /* Class = "NSBox"; title = "Grid setup"; ObjectID = "1e0-UH-0o3"; */
+12,13c17,20
+< > "1e0-UH-0o3.title" = "グリッド設定";
+< 12c12
+---
+> > /* Class = "NSBox"; title = "격자 설정"; ObjectID = "1e0-UH-0o3"; */
+> > "1e0-UH-0o3.title" = "격자 설정";
+> 11,12c11,12
+> < /* Class = "NSMenuItem"; title = "Rename Preset…"; ObjectID = "2md-8C-v8t"; */
+16,17c23,26
+< > "2md-8C-v8t.title" = "プリセット名の変更…";
+< 15c15
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 이름 변경…"; ObjectID = "2md-8C-v8t"; */
+> > "2md-8C-v8t.title" = "미리 설정 이름 변경…";
+> 14,15c14,15
+> < /* Class = "NSMenuItem"; title = "Manage Presets…"; ObjectID = "5aB-rD-3Ry"; */
+20,21c29,32
+< > "5aB-rD-3Ry.title" = "プリセットの管理…";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 관리자…"; ObjectID = "5aB-rD-3Ry"; */
+> > "5aB-rD-3Ry.title" = "미리 설정 관리자…";
+> 17,18c17,18
+> < /* Class = "NSButtonCell"; title = "Show axis editing handles"; ObjectID = "EwR-3I-waD"; */
+24,25c35,38
+< > "EwR-3I-waD.title" = "軸編集ハンドルを表示";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "축 편집 손잡이 보기"; ObjectID = "EwR-3I-waD"; */
+> > "EwR-3I-waD.title" = "축 편집 손잡이 보기";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Subdivision lines:"; ObjectID = "JHo-nA-Cdm"; */
+28,29c41,44
+< > "JHo-nA-Cdm.title" = "サブ区分ライン:";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "보조구획 선:"; ObjectID = "JHo-nA-Cdm"; */
+> > "JHo-nA-Cdm.title" = "보조구획 선:";
+> 23,24c23,24
+> < /* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "K4y-9S-Tvg"; */
+32,33c47,50
+< > "K4y-9S-Tvg.title" = "モード:";
+< 27c27
+---
+> > /* Class = "NSTextFieldCell"; title = "모드:"; ObjectID = "K4y-9S-Tvg"; */
+> > "K4y-9S-Tvg.title" = "모드:";
+> 26,27c26,27
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "PyE-3e-26c"; */
+36,38c53,56
+< > "PyE-3e-26c.title" = "プリセット:";
+< 30c30
+< < "QLA-Ve-UDD.ibShadowedToolTip" = "Set the subdivision grid line opacity";
+---
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "PyE-3e-26c"; */
+> > "PyE-3e-26c.title" = "미리 설정:";
+> 35c35
+> < /* Class = "NSButton"; ibShadowedToolTip = "Link the grid colours"; ObjectID = "QUZ-Sa-kpD"; */
+40,49c58,60
+< > "QLA-Ve-UDD.ibShadowedToolTip" = "サブ区分グリッドラインを不透明に設定";
+< 33c33
+< < "QR4-a0-N2Q.ibShadowedToolTip" = "Set the subdivision grid line opacity";
+< ---
+< > "QR4-a0-N2Q.ibShadowedToolTip" = "サブ区分グリッドラインを不透明に設定";
+< 36c36
+< < "QUZ-Sa-kpD.ibShadowedToolTip" = "Link the grid colors";
+< ---
+< > "QUZ-Sa-kpD.ibShadowedToolTip" = "グリッドカラーをリンク";
+< 42c42
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "격자 색상 연결"; ObjectID = "QUZ-Sa-kpD"; */
+> 41,42c41,42
+> < /* Class = "NSMenuItem"; title = "Delete Preset"; ObjectID = "bfn-8U-6Ay"; */
+52,53c63,66
+< > "bfn-8U-6Ay.title" = "プリセットを削除";
+< 45c45
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "bfn-8U-6Ay"; */
+> > "bfn-8U-6Ay.title" = "미리 설정 지우기";
+> 44,45c44,45
+> < /* Class = "NSMenuItem"; title = "Create Preset…"; ObjectID = "btM-eM-F8H"; */
+56,57c69,72
+< > "btM-eM-F8H.title" = "プリセットを作成…";
+< 48c48
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 생성…"; ObjectID = "btM-eM-F8H"; */
+> > "btM-eM-F8H.title" = "미리 설정 생성…";
+> 47,48c47,48
+> < /* Class = "NSTextFieldCell"; title = "Grid lines:"; ObjectID = "eCX-Zu-S1A"; */
+60,62c75,78
+< > "eCX-Zu-S1A.title" = "グリッドライン:";
+< 51c51
+< < "g3n-km-nO9.ibShadowedToolTip" = "Set the main grid line color";
+---
+> > /* Class = "NSTextFieldCell"; title = "격자 선:"; ObjectID = "eCX-Zu-S1A"; */
+> > "eCX-Zu-S1A.title" = "격자 선:";
+> 50c50
+> < /* Class = "NSButton"; ibShadowedToolTip = "Set the main grid line colour"; ObjectID = "g3n-km-nO9"; */
+64,65c80,82
+< > "g3n-km-nO9.ibShadowedToolTip" = "メイングリッドラインのカラーを設定";
+< 54c54
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "주 격자 선 색상 설정"; ObjectID = "g3n-km-nO9"; */
+> 53,54c53,54
+> < /* Class = "NSMenuItem"; title = "Replace Preset…"; ObjectID = "ooj-mU-elY"; */
+68,69c85,88
+< > "ooj-mU-elY.title" = "プリセットの置換…";
+< 57c57
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 교체…"; ObjectID = "ooj-mU-elY"; */
+> > "ooj-mU-elY.title" = "미리 설정 교체…";
+> 56,57c56,57
+> < /* Class = "NSView"; ibShadowedToolTip = "Set the main grid line opacity"; ObjectID = "qbS-7j-WCg"; */
+72,77c91,94
+< > "qbS-7j-WCg.ibShadowedToolTip" = "メイングリッドラインを不透明に設定";
+< 60c60
+< < "r98-AF-kFe.ibShadowedToolTip" = "Select a Snapping options preset, or configure your own settings";
+< ---
+< > "r98-AF-kFe.ibShadowedToolTip" = "いずれかのスナップオプションプリセットを選択するか、独自の設定値を設定します";
+< 63c63
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "주 격자 선 불투명도 설정"; ObjectID = "qbS-7j-WCg"; */
+> > "qbS-7j-WCg.ibShadowedToolTip" = "주 격자 선 불투명도 설정";
+> 62,63c62,63
+> < /* Class = "NSButtonCell"; title = "Show grid"; ObjectID = "vYL-Kt-A12"; */
+80,81c97,100
+< > "vYL-Kt-A12.title" = "グリッドを表示";
+< 66c66
+---
+> > /* Class = "NSButtonCell"; title = "격자 보기"; ObjectID = "vYL-Kt-A12"; */
+> > "vYL-Kt-A12.title" = "격자 보기";
+> 65,66c65,66
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "vuf-dQ-R5Y"; */
+84,85c103,106
+< > "vuf-dQ-R5Y.title" = "ボタン";
+< 69c69
+---
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "vuf-dQ-R5Y"; */
+> > "vuf-dQ-R5Y.title" = "버튼";
+> 68,69c68,69
+> < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "yIL-OJ-VOD"; */
+88c109,110
+< > "yIL-OJ-VOD.title" = "ボタン";
+---
+> > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "yIL-OJ-VOD"; */
+> > "yIL-OJ-VOD.title" = "버튼";

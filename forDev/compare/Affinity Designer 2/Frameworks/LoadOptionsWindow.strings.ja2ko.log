@@ -1,0 +1,128 @@
+1,2c1,3
+< 3c3
+< < "3ib-Bh-aVn.title" = "Replace missing fonts";
+---
+> 35,36c35,36
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6VO-JP-QWI"; */
+> < "6VO-JP-QWI.title" = "Text Cell";
+4,25c5,8
+< > "3ib-Bh-aVn.title" = "不足フォントを置き換える";
+< 6c6
+< < "5RY-bF-tfI.title" = "Radio";
+< ---
+< > "5RY-bF-tfI.title" = "ラジオ";
+< 12c12
+< < "5cF-YE-N01.ibShadowedObjectValues[0]" = "Estimate";
+< ---
+< > "5cF-YE-N01.ibShadowedObjectValues[0]" = "推定";
+< 33c33
+< < "6Pk-YK-zbg.title" = "Item 2";
+< ---
+< > "6Pk-YK-zbg.title" = "アイテム2";
+< 42c42
+< < "AVo-VA-WtG.title" = "Password:";
+< ---
+< > "AVo-VA-WtG.title" = "パスワード:";
+< 45c45
+< < "F0z-JX-Cv5.title" = "PDF Options";
+< ---
+< > "F0z-JX-Cv5.title" = "PDFオプション";
+< 48c48
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "6VO-JP-QWI"; */
+> > "6VO-JP-QWI.title" = "텍스트 셀";
+> 47,48c47,48
+> < /* Class = "NSTabViewItem"; label = "View"; ObjectID = "GaR-oP-6ia"; */
+28,37c11,14
+< > "GaR-oP-6ia.label" = "表示";
+< 51c51
+< < "JTb-Os-5uu.title" = "Item 3";
+< ---
+< > "JTb-Os-5uu.title" = "アイテム3";
+< 54c54
+< < "Mgh-fQ-rlS.title" = "Open";
+< ---
+< > "Mgh-fQ-rlS.title" = "開く";
+< 57c57
+---
+> > /* Class = "NSTabViewItem"; label = "뷰"; ObjectID = "GaR-oP-6ia"; */
+> > "GaR-oP-6ia.label" = "뷰";
+> 56,57c56,57
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "NBd-cL-N1I"; */
+40,57c17,20
+< > "NBd-cL-N1I.title" = "キャンセル";
+< 60c60
+< < "OHN-cC-As1.title" = "Favor editable text over fidelity";
+< ---
+< > "OHN-cC-As1.title" = "忠実度よりも編集可能テキストを優先する";
+< 69c69
+< < "RHq-Vy-sny.title" = "Estimate";
+< ---
+< > "RHq-Vy-sny.title" = "推定";
+< 72c72
+< < "Sji-Hj-NCK.title" = "Page Preview:";
+< ---
+< > "Sji-Hj-NCK.title" = "ページプレビュー:";
+< 75c75
+< < "T37-tK-lW9.headerCell.title" = "Missing Font";
+< ---
+< > "T37-tK-lW9.headerCell.title" = "不足フォント";
+< 78c78
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "NBd-cL-N1I"; */
+> > "NBd-cL-N1I.title" = "취소";
+> 77,78c77,78
+> < /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "X2G-rS-y6U"; */
+60,62c23,27
+< > "X2G-rS-y6U.label" = "タブ";
+< 81c81
+< < "Zc1-DO-zue.title" = "Load pages:";
+---
+> > /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "X2G-rS-y6U"; */
+> > "X2G-rS-y6U.label" = "탭";
+> 95,96c95,96
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ie3-fA-WZU"; */
+> < "ie3-fA-WZU.title" = "Text Cell";
+64,66c29,33
+< > "Zc1-DO-zue.title" = "ページの読み込み:";
+< 84c84
+< < "eIb-4m-ljt.title" = "Color space:";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "ie3-fA-WZU"; */
+> > "ie3-fA-WZU.title" = "텍스트 셀";
+> 98,99c98,99
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mh5-8r-Hb1"; */
+> < "mh5-8r-Hb1.title" = "Text Cell";
+68,96c35,36
+< > "eIb-4m-ljt.title" = "色空間:";
+< 90c90
+< < "gi5-mT-uqz.headerCell.title" = "Replacement Style";
+< ---
+< > "gi5-mT-uqz.headerCell.title" = "置換スタイル";
+< 93c93
+< < "hLR-nh-gzL.title" = "of N";
+< ---
+< > "hLR-nh-gzL.title" = "%d";
+< 102c102
+< < "odZ-Xx-AzL.title" = "All the fonts used by the document are available.";
+< ---
+< > "odZ-Xx-AzL.title" = "ドキュメントで使用されているすべてのフォントが使用可能です。";
+< 105c105
+< < "qNA-Xy-wZj.headerCell.title" = "Replacement Family";
+< ---
+< > "qNA-Xy-wZj.headerCell.title" = "置換ファミリ";
+< 108c108
+< < "rre-SE-3QD.title" = "Group lines of text into text frames";
+< ---
+< > "rre-SE-3QD.title" = "テキストの行をテキストフレームにグループ化グループ化";
+< 111c111
+< < "sSf-cH-vKf.title" = "Load all pages";
+< ---
+< > "sSf-cH-vKf.title" = "すべてのページを読み込み";
+< 114c114
+< < "wYU-dS-tfO.title" = "Gray";
+< ---
+< > "wYU-dS-tfO.title" = "グレー";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mh5-8r-Hb1"; */
+> > "mh5-8r-Hb1.title" = "텍스트 셀";

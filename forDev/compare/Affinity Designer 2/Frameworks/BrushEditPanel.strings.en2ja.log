@@ -1,0 +1,912 @@
+3c3
+< "377.title" = "Flow:";
+---
+> "377.title" = "流量:";
+6c6
+< "430.title" = "Reset";
+---
+> "430.title" = "リセット";
+9c9
+< "512.label" = "Texture";
+---
+> "512.label" = "テクスチャ";
+12c12
+< "529.label" = "Dynamics";
+---
+> "529.label" = "ダイナミクス";
+15c15
+< "559.label" = "General";
+---
+> "559.label" = "一般";
+18c18
+< "562.title" = "Brush Editor";
+---
+> "562.title" = "ブラシエディタ";
+21c21
+< "579.title" = "Size:";
+---
+> "579.title" = "サイズ:";
+24c24
+< "1067.title" = "Hardness:";
+---
+> "1067.title" = "硬さ:";
+27c27
+< "1189.title" = "Spacing:";
+---
+> "1189.title" = "間隔:";
+30c30
+< "1277.title" = "Rotation:";
+---
+> "1277.title" = "回転:";
+33c33
+< "1283.title" = "Shape:";
+---
+> "1283.title" = "シェイプ:";
+39c39
+< "1491.title" = "Velocity (Inverse)";
+---
+> "1491.title" = "速度(逆)";
+42c42
+< "1492.title" = "Velocity";
+---
+> "1492.title" = "速度";
+45c45
+< "1493.title" = "Cyclic";
+---
+> "1493.title" = "サイクリック";
+48c48
+< "1494.title" = "Rotation";
+---
+> "1494.title" = "回転";
+51c51
+< "1495.title" = "Tilt";
+---
+> "1495.title" = "ティルト";
+54c54
+< "1496.title" = "Angle";
+---
+> "1496.title" = "角度";
+57c57
+< "1497.title" = "Pressure";
+---
+> "1497.title" = "筆圧";
+60c60
+< "1498.title" = "Random";
+---
+> "1498.title" = "ランダム";
+63c63
+< "1499.title" = "None";
+---
+> "1499.title" = "なし";
+66c66
+< "1500.title" = "Luminosity Jitter:";
+---
+> "1500.title" = "輝度のジッター:";
+72c72
+< "1503.title" = "Velocity (Inverse)";
+---
+> "1503.title" = "速度(逆)";
+75c75
+< "1504.title" = "Velocity";
+---
+> "1504.title" = "速度";
+78c78
+< "1505.title" = "None";
+---
+> "1505.title" = "なし";
+81c81
+< "1506.title" = "Random";
+---
+> "1506.title" = "ランダム";
+84c84
+< "1507.title" = "Pressure";
+---
+> "1507.title" = "筆圧";
+87c87
+< "1508.title" = "Angle";
+---
+> "1508.title" = "角度";
+90c90
+< "1509.title" = "Tilt";
+---
+> "1509.title" = "ティルト";
+93c93
+< "1510.title" = "Rotation";
+---
+> "1510.title" = "回転";
+96c96
+< "1511.title" = "Cyclic";
+---
+> "1511.title" = "サイクリック";
+99c99
+< "1512.title" = "Saturation Jitter:";
+---
+> "1512.title" = "彩度のジッター:";
+105c105
+< "1515.title" = "Velocity (Inverse)";
+---
+> "1515.title" = "速度(逆)";
+108c108
+< "1516.title" = "Velocity";
+---
+> "1516.title" = "速度";
+111c111
+< "1517.title" = "None";
+---
+> "1517.title" = "なし";
+114c114
+< "1518.title" = "Random";
+---
+> "1518.title" = "ランダム";
+117c117
+< "1519.title" = "Pressure";
+---
+> "1519.title" = "筆圧";
+120c120
+< "1520.title" = "Angle";
+---
+> "1520.title" = "角度";
+123c123
+< "1521.title" = "Tilt";
+---
+> "1521.title" = "ティルト";
+126c126
+< "1522.title" = "Rotation";
+---
+> "1522.title" = "回転";
+129c129
+< "1523.title" = "Cyclic";
+---
+> "1523.title" = "サイクリック";
+132c132
+< "1524.title" = "Hue Jitter:";
+---
+> "1524.title" = "色相のジッター:";
+135c135
+< "1578.title" = "Rotation Jitter:";
+---
+> "1578.title" = "回転のジッター:";
+138c138
+< "1579.title" = "Size Jitter:";
+---
+> "1579.title" = "サイズのジッター:";
+141c141
+< "1580.title" = "Flow Jitter:";
+---
+> "1580.title" = "流量のジッター:";
+147c147
+< "1610.title" = "Velocity (Inverse)";
+---
+> "1610.title" = "速度(逆)";
+150c150
+< "1611.title" = "Velocity";
+---
+> "1611.title" = "速度";
+153c153
+< "1612.title" = "None";
+---
+> "1612.title" = "なし";
+156c156
+< "1613.title" = "Random";
+---
+> "1613.title" = "ランダム";
+159c159
+< "1614.title" = "Pressure";
+---
+> "1614.title" = "筆圧";
+162c162
+< "1615.title" = "Angle";
+---
+> "1615.title" = "角度";
+165c165
+< "1616.title" = "Tilt";
+---
+> "1616.title" = "ティルト";
+168c168
+< "1617.title" = "Rotation";
+---
+> "1617.title" = "回転";
+171c171
+< "1618.title" = "Cyclic";
+---
+> "1618.title" = "サイクリック";
+177c177
+< "1621.title" = "Velocity (Inverse)";
+---
+> "1621.title" = "速度(逆)";
+180c180
+< "1622.title" = "Velocity";
+---
+> "1622.title" = "速度";
+183c183
+< "1623.title" = "None";
+---
+> "1623.title" = "なし";
+186c186
+< "1624.title" = "Random";
+---
+> "1624.title" = "ランダム";
+189c189
+< "1625.title" = "Pressure";
+---
+> "1625.title" = "筆圧";
+192c192
+< "1626.title" = "Angle";
+---
+> "1626.title" = "角度";
+195c195
+< "1627.title" = "Tilt";
+---
+> "1627.title" = "ティルト";
+198c198
+< "1628.title" = "Rotation";
+---
+> "1628.title" = "回転";
+201c201
+< "1629.title" = "Cyclic";
+---
+> "1629.title" = "サイクリック";
+207c207
+< "1632.title" = "Velocity (Inverse)";
+---
+> "1632.title" = "速度(逆)";
+210c210
+< "1633.title" = "Velocity";
+---
+> "1633.title" = "速度";
+213c213
+< "1634.title" = "Cyclic";
+---
+> "1634.title" = "サイクリック";
+216c216
+< "1635.title" = "Rotation";
+---
+> "1635.title" = "回転";
+219c219
+< "1636.title" = "Tilt";
+---
+> "1636.title" = "ティルト";
+222c222
+< "1637.title" = "Angle";
+---
+> "1637.title" = "角度";
+225c225
+< "1638.title" = "Pressure";
+---
+> "1638.title" = "筆圧";
+228c228
+< "1639.title" = "Random";
+---
+> "1639.title" = "ランダム";
+231c231
+< "1640.title" = "None";
+---
+> "1640.title" = "なし";
+234c234
+< "1725.title" = "Brush Nozzles:";
+---
+> "1725.title" = "ブラシノズル:";
+237c237
+< "1727.title" = "Base Texture:";
+---
+> "1727.title" = "ベーステクスチャ:";
+240c240
+< "1729.title" = "Add";
+---
+> "1729.title" = "追加";
+243c243
+< "1731.title" = "Remove";
+---
+> "1731.title" = "削除";
+246c246
+< "1748.title" = "Scale:";
+---
+> "1748.title" = "スケール:";
+249c249
+< "1752.title" = "Mode:";
+---
+> "1752.title" = "モード:";
+255c255
+< "1762.title" = "None";
+---
+> "1762.title" = "なし";
+258c258
+< "1763.title" = "Nozzle";
+---
+> "1763.title" = "ノズル";
+261c261
+< "1764.title" = "Final";
+---
+> "1764.title" = "最終";
+264c264
+< "1803.title" = "Scatter Y:";
+---
+> "1803.title" = "拡散Y:";
+267c267
+< "1804.title" = "Scatter X:";
+---
+> "1804.title" = "拡散X:";
+273c273
+< "1822.title" = "None";
+---
+> "1822.title" = "なし";
+276c276
+< "1823.title" = "Random";
+---
+> "1823.title" = "ランダム";
+279c279
+< "1824.title" = "Pressure";
+---
+> "1824.title" = "筆圧";
+282c282
+< "1825.title" = "Angle";
+---
+> "1825.title" = "角度";
+285c285
+< "1826.title" = "Tilt";
+---
+> "1826.title" = "ティルト";
+288c288
+< "1827.title" = "Rotation";
+---
+> "1827.title" = "回転";
+291c291
+< "1828.title" = "Cyclic";
+---
+> "1828.title" = "サイクリック";
+294c294
+< "1829.title" = "Velocity";
+---
+> "1829.title" = "速度";
+297c297
+< "1830.title" = "Velocity (Inverse)";
+---
+> "1830.title" = "速度(逆)";
+303c303
+< "1842.title" = "None";
+---
+> "1842.title" = "なし";
+306c306
+< "1843.title" = "Random";
+---
+> "1843.title" = "ランダム";
+309c309
+< "1844.title" = "Pressure";
+---
+> "1844.title" = "筆圧";
+312c312
+< "1845.title" = "Angle";
+---
+> "1845.title" = "角度";
+315c315
+< "1846.title" = "Tilt";
+---
+> "1846.title" = "ティルト";
+318c318
+< "1847.title" = "Rotation";
+---
+> "1847.title" = "回転";
+321c321
+< "1848.title" = "Cyclic";
+---
+> "1848.title" = "サイクリック";
+324c324
+< "1849.title" = "Velocity";
+---
+> "1849.title" = "速度";
+327c327
+< "1850.title" = "Velocity (Inverse)";
+---
+> "1850.title" = "速度(逆)";
+330c330
+< "1868.title" = "Shape Jitter:";
+---
+> "1868.title" = "シェイプのジッター:";
+333c333
+< "1869.title" = "Hardness Jitter:";
+---
+> "1869.title" = "硬さのジッター:";
+339c339
+< "1877.title" = "Velocity (Inverse)";
+---
+> "1877.title" = "速度(逆)";
+342c342
+< "1878.title" = "Velocity";
+---
+> "1878.title" = "速度";
+345c345
+< "1879.title" = "Cyclic";
+---
+> "1879.title" = "サイクリック";
+348c348
+< "1880.title" = "Rotation";
+---
+> "1880.title" = "回転";
+351c351
+< "1881.title" = "Tilt";
+---
+> "1881.title" = "ティルト";
+354c354
+< "1882.title" = "Angle";
+---
+> "1882.title" = "角度";
+357c357
+< "1883.title" = "Pressure";
+---
+> "1883.title" = "筆圧";
+360c360
+< "1884.title" = "Random";
+---
+> "1884.title" = "ランダム";
+363c363
+< "1885.title" = "None";
+---
+> "1885.title" = "なし";
+369c369
+< "1893.title" = "Velocity (Inverse)";
+---
+> "1893.title" = "速度(逆)";
+372c372
+< "1894.title" = "Velocity";
+---
+> "1894.title" = "速度";
+375c375
+< "1895.title" = "Cyclic";
+---
+> "1895.title" = "サイクリック";
+378c378
+< "1896.title" = "Rotation";
+---
+> "1896.title" = "回転";
+381c381
+< "1897.title" = "Tilt";
+---
+> "1897.title" = "ティルト";
+384c384
+< "1898.title" = "Angle";
+---
+> "1898.title" = "角度";
+387c387
+< "1899.title" = "Pressure";
+---
+> "1899.title" = "筆圧";
+390c390
+< "1900.title" = "Random";
+---
+> "1900.title" = "ランダム";
+393c393
+< "1901.title" = "None";
+---
+> "1901.title" = "なし";
+396c396
+< "1921.title" = "Close";
+---
+> "1921.title" = "閉じる";
+399c399
+< "1926.title" = "Set Texture";
+---
+> "1926.title" = "テクスチャを設定";
+402c402
+< "1928.title" = "Remove";
+---
+> "1928.title" = "削除";
+405c405
+< "1932.title" = "Invert";
+---
+> "1932.title" = "反転";
+408c408
+< "0Bs-9F-tlU.title" = "Angle";
+---
+> "0Bs-9F-tlU.title" = "角度";
+411c411
+< "0gx-gm-afE.title" = "Paint mixer brush tool";
+---
+> "0gx-gm-afE.title" = "ペイント混合ブラシツール";
+414c414
+< "1LJ-PM-E4I.title" = "Stylus Wheel";
+---
+> "1LJ-PM-E4I.title" = "スタイラスホイール";
+417c417
+< "1jA-wK-Xcf.title" = "Stylus Wheel";
+---
+> "1jA-wK-Xcf.title" = "スタイラスホイール";
+420c420
+< "1n6-hf-Uch.title" = "Undo brush tool";
+---
+> "1n6-hf-Uch.title" = "取り消しブラシツール";
+423c423
+< "23P-k8-ufG.title" = "Stylus Wheel";
+---
+> "23P-k8-ufG.title" = "スタイラスホイール";
+426c426
+< "33u-m2-a7I.title" = "Brush Width:";
+---
+> "33u-m2-a7I.title" = "ブラシ幅:";
+429c429
+< "37Y-s5-nCu.title" = "Erase brush tool";
+---
+> "37Y-s5-nCu.title" = "消去ブラシツール";
+432c432
+< "525-u5-R4h.title" = "Random";
+---
+> "525-u5-R4h.title" = "ランダム";
+435c435
+< "58J-Yf-GFZ.title" = "Distance";
+---
+> "58J-Yf-GFZ.title" = "距離";
+438c438
+< "6nd-GW-zPN.title" = "Blend Mode:";
+---
+> "6nd-GW-zPN.title" = "描画モード:";
+441c441
+< "6nv-pi-Y4G.title" = "Stylus Wheel";
+---
+> "6nv-pi-Y4G.title" = "スタイラスホイール";
+444c444
+< "75N-4T-hqP.title" = "Add Round";
+---
+> "75N-4T-hqP.title" = "ラウンドブラシを追加";
+447c447
+< "7CS-iu-sS3.title" = "Edit";
+---
+> "7CS-iu-sS3.title" = "編集";
+450c450
+< "7Jy-4B-Bf3.title" = "Velocity (Inverse)";
+---
+> "7Jy-4B-Bf3.title" = "速度(逆)";
+453c453
+< "8Gn-fy-xd9.title" = "Dodge brush tool";
+---
+> "8Gn-fy-xd9.title" = "覆い焼きブラシツール";
+456c456
+< "A4T-Ke-1ig.title" = "Distance";
+---
+> "A4T-Ke-1ig.title" = "距離";
+459c459
+< "Ajx-IX-6l9.title" = "Save As…";
+---
+> "Ajx-IX-6l9.title" = "名前を付けて保存…";
+462c462
+< "DEp-sI-ZY8.title" = "Velocity";
+---
+> "DEp-sI-ZY8.title" = "速度";
+465c465
+< "EJD-ch-Lxg.title" = "Random";
+---
+> "EJD-ch-Lxg.title" = "ランダム";
+468c468
+< "FVq-C2-1ef.title" = "At end of stroke";
+---
+> "FVq-C2-1ef.title" = "境界線の終端";
+471c471
+< "FXS-vR-4Hf.title" = "Add Bitmap";
+---
+> "FXS-vR-4Hf.title" = "ビットマップを追加";
+474c474
+< "FiK-2x-8JB.title" = "Name:";
+---
+> "FiK-2x-8JB.title" = "名前:";
+477c477
+< "Gfc-cE-qka.title" = "Body:";
+---
+> "Gfc-cE-qka.title" = "本体:";
+480c480
+< "Hhr-sw-ZKd.title" = "Stylus Wheel";
+---
+> "Hhr-sw-ZKd.title" = "スタイラスホイール";
+483c483
+< "HnN-yo-Ikj.title" = "Distance";
+---
+> "HnN-yo-Ikj.title" = "距離";
+486c486
+< "KV7-DB-rGw.title" = "Accumulation";
+---
+> "KV7-DB-rGw.title" = "累積";
+489c489
+< "KaM-1C-xWY.title" = "Size Variance:";
+---
+> "KaM-1C-xWY.title" = "サイズの許容誤差:";
+492c492
+< "Kfp-1f-bFh.title" = "Tilt";
+---
+> "Kfp-1f-bFh.title" = "ティルト";
+495c495
+< "LI8-7J-mdJ.title" = "Burn brush tool";
+---
+> "LI8-7J-mdJ.title" = "焼き込みブラシツール";
+501c501
+< "Lwj-PP-Mzs.label" = "Sub Brushes";
+---
+> "Lwj-PP-Mzs.label" = "サブブラシ";
+504c504
+< "MCf-c0-c3K.title" = "Distance";
+---
+> "MCf-c0-c3K.title" = "距離";
+507c507
+< "MQE-Es-wb3.title" = "Inpainting brush tool";
+---
+> "MQE-Es-wb3.title" = "インペインティングブラシツール";
+510c510
+< "MQL-Ka-u29.title" = "Remove";
+---
+> "MQL-Ka-u29.title" = "削除";
+513c513
+< "N8V-Vh-feY.title" = "Median brush tool";
+---
+> "N8V-Vh-feY.title" = "中間値ブラシツール";
+516c516
+< "PPH-Ey-PHW.title" = "Velocity";
+---
+> "PPH-Ey-PHW.title" = "速度";
+519c519
+< "PWx-g3-SWM.title" = "None";
+---
+> "PWx-g3-SWM.title" = "なし";
+522c522
+< "Pji-sS-t35.title" = "Distance";
+---
+> "Pji-sS-t35.title" = "距離";
+525c525
+< "QXP-ft-qyk.title" = "Stylus Wheel";
+---
+> "QXP-ft-qyk.title" = "スタイラスホイール";
+528c528
+< "Qln-DH-eXa.title" = "Healing brush tool";
+---
+> "Qln-DH-eXa.title" = "修復ブラシツール";
+531c531
+< "QvC-xR-Xe7.title" = "Pressure";
+---
+> "QvC-xR-Xe7.title" = "筆圧";
+534c534
+< "Rha-d5-xjf.title" = "Background erase brush tool";
+---
+> "Rha-d5-xjf.title" = "背景消去ブラシツール";
+537c537
+< "S5O-Vi-dvf.title" = "No associated tool";
+---
+> "S5O-Vi-dvf.title" = "関連ツールなし";
+540c540
+< "SMG-vS-0nD.title" = "Stylus Wheel";
+---
+> "SMG-vS-0nD.title" = "スタイラスホイール";
+543c543
+< "Sq2-yC-pKZ.title" = "Interpolate";
+---
+> "Sq2-yC-pKZ.title" = "内挿";
+546c546
+< "T1v-iG-2P4.title" = "Pressure";
+---
+> "T1v-iG-2P4.title" = "筆圧";
+549c549
+< "TGB-X8-Gc2.title" = "Distance";
+---
+> "TGB-X8-Gc2.title" = "距離";
+552c552
+< "TyV-Kw-e2E.title" = "Stylus Wheel";
+---
+> "TyV-Kw-e2E.title" = "スタイラスホイール";
+555c555
+< "UWh-IF-Uqd.title" = "Cyclic";
+---
+> "UWh-IF-Uqd.title" = "サイクリック";
+558c558
+< "UgN-LR-3ty.title" = "Blending";
+---
+> "UgN-LR-3ty.title" = "ブレンディング";
+561c561
+< "VRF-N5-wwz.title" = "Velocity (Inverse)";
+---
+> "VRF-N5-wwz.title" = "速度(逆)";
+564c564
+< "Vvq-88-emW.title" = "Sync size";
+---
+> "Vvq-88-emW.title" = "サイズを同期";
+567c567
+< "W7h-Lc-SEI.title" = "Sync spacing";
+---
+> "W7h-Lc-SEI.title" = "間隔を同期";
+570c570
+< "WGK-pJ-hEU.title" = "Wet edges:";
+---
+> "WGK-pJ-hEU.title" = "ウェットエッジ:";
+573c573
+< "X0J-2R-MZp.title" = "Distance";
+---
+> "X0J-2R-MZp.title" = "距離";
+576c576
+< "XYy-0X-nft.title" = "Blur brush tool";
+---
+> "XYy-0X-nft.title" = "ぼかしブラシツール";
+579c579
+< "XkN-gy-nXE.title" = "Velocity (Inverse)";
+---
+> "XkN-gy-nXE.title" = "速度(逆)";
+582c582
+< "XuT-c9-5bg.title" = "Direction";
+---
+> "XuT-c9-5bg.title" = "向き";
+585c585
+< "Y5Z-h0-2FR.title" = "Opacity Variance:";
+---
+> "Y5Z-h0-2FR.title" = "不透明度の許容誤差:";
+588c588
+< "YGe-mo-CFi.title" = "Associated Tool:";
+---
+> "YGe-mo-CFi.title" = "関連ツール:";
+591c591
+< "YXO-G8-ttf.title" = "None";
+---
+> "YXO-G8-ttf.title" = "なし";
+594c594
+< "ZLO-ml-YBa.title" = "At current nozzle";
+---
+> "ZLO-ml-YBa.title" = "現在のノズル";
+597c597
+< "aSA-pe-HHg.title" = "Velocity";
+---
+> "aSA-pe-HHg.title" = "速度";
+600c600
+< "ak0-UE-vVt.title" = "Label";
+---
+> "ak0-UE-vVt.title" = "ラベル";
+603c603
+< "bqi-yn-ptB.title" = "Sub Brushes";
+---
+> "bqi-yn-ptB.title" = "サブブラシ";
+606c606
+< "cBK-tc-l4L.title" = "Distance";
+---
+> "cBK-tc-l4L.title" = "距離";
+609c609
+< "cBU-Ua-fFS.title" = "Set wet edges \"off\"";
+---
+> "cBU-Ua-fFS.title" = "ウェットエッジを\"オフ\"に設定";
+612c612
+< "cFJ-1n-gQm.title" = "Distance";
+---
+> "cFJ-1n-gQm.title" = "距離";
+615c615
+< "cLT-g0-tay.title" = "Distance";
+---
+> "cLT-g0-tay.title" = "距離";
+618c618
+< "cnc-Mc-qoN.title" = "None";
+---
+> "cnc-Mc-qoN.title" = "なし";
+624c624
+< "eA8-dB-gkJ.title" = "Smudge brush tool";
+---
+> "eA8-dB-gkJ.title" = "指先ブラシツール";
+627c627
+< "fqH-Nw-bD9.title" = "Stylus Wheel";
+---
+> "fqH-Nw-bD9.title" = "スタイラスホイール";
+630c630
+< "h8W-H2-pdz.title" = "Set wet edges \"on\"";
+---
+> "h8W-H2-pdz.title" = "ウェットエッジを\"オン\"に設定";
+633c633
+< "hA9-nY-uGe.title" = "Stylus Wheel";
+---
+> "hA9-nY-uGe.title" = "スタイラスホイール";
+636c636
+< "haw-wG-row.title" = "Name:";
+---
+> "haw-wG-row.title" = "名前:";
+639c639
+< "iaW-ed-mQb.title" = "Distance";
+---
+> "iaW-ed-mQb.title" = "距離";
+642c642
+< "kVP-1R-jAM.title" = "Paint brush tool";
+---
+> "kVP-1R-jAM.title" = "ペイントブラシツール";
+645c645
+< "lEX-RB-lju.title" = "Rotation";
+---
+> "lEX-RB-lju.title" = "回転";
+648c648
+< "lrJ-0s-nl5.ibShadowedToolTip" = "Unfinished feature / user interface.";
+---
+> "lrJ-0s-nl5.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
+651c651
+< "lyI-Ap-unx.title" = "Accumulation Jitter:";
+---
+> "lyI-Ap-unx.title" = "累積ジッター:";
+654c654
+< "mqx-zA-5oz.title" = "Erase";
+---
+> "mqx-zA-5oz.title" = "消去";
+657c657
+< "nLY-he-Rfd.title" = "Stylus Wheel";
+---
+> "nLY-he-Rfd.title" = "スタイラスホイール";
+660c660
+< "nNq-f3-ufj.title" = "Don't set wet edges";
+---
+> "nNq-f3-ufj.title" = "ウェットエッジを設定しない";
+663c663
+< "nkq-gb-GOk.title" = "Pixel tool";
+---
+> "nkq-gb-GOk.title" = "ピクセルツール";
+666c666
+< "nqq-fz-xOB.title" = "Don't set blend mode";
+---
+> "nqq-fz-xOB.title" = "描画モードを設定しない";
+669c669
+< "piW-OO-2lx.title" = "Angle";
+---
+> "piW-OO-2lx.title" = "角度";
+672c672
+< "pua-Sa-cFg.title" = "Blend";
+---
+> "pua-Sa-cFg.title" = "ブレンド";
+675c675
+< "rWQ-4h-n3o.title" = "Sponge brush tool";
+---
+> "rWQ-4h-n3o.title" = "スポンジブラシツール";
+678c678
+< "t5U-03-ifC.title" = "Head Offset:";
+---
+> "t5U-03-ifC.title" = "ヘッドオフセット:";
+681c681
+< "tOm-05-u3u.title" = "Distance";
+---
+> "tOm-05-u3u.title" = "距離";
+684c684
+< "tWt-mJ-9ot.title" = "Cyclic";
+---
+> "tWt-mJ-9ot.title" = "サイクリック";
+687c687
+< "tgq-Ji-2R8.title" = "Drawing";
+---
+> "tgq-Ji-2R8.title" = "描画";
+690c690
+< "tkU-3b-Uq3.title" = "Tilt";
+---
+> "tkU-3b-Uq3.title" = "ティルト";
+693c693
+< "tqn-y8-MAd.title" = "Color replacement brush tool";
+---
+> "tqn-y8-MAd.title" = "色置換ブラシツール";
+696c696
+< "uUr-ee-OGF.title" = "Corners:";
+---
+> "uUr-ee-OGF.title" = "コーナー:";
+699c699
+< "uhy-lY-DKl.title" = "Pressure";
+---
+> "uhy-lY-DKl.title" = "筆圧";
+702c702
+< "v0n-2d-yO9.title" = "Behind current nozzle";
+---
+> "v0n-2d-yO9.title" = "現在のノズルの背面";
+705c705
+< "v4v-jx-mzv.title" = "Stylus Wheel";
+---
+> "v4v-jx-mzv.title" = "スタイラスホイール";
+708c708
+< "vLa-mB-1N0.title" = "Sharpen brush tool";
+---
+> "vLa-mB-1N0.title" = "シャープブラシツール";
+714c714
+< "xAR-3A-pkp.title" = "Rotation";
+---
+> "xAR-3A-pkp.title" = "回転";
+717c717
+< "xHQ-G7-AFb.label" = "Stroke";
+---
+> "xHQ-G7-AFb.label" = "境界線";
+720c720
+< "yLi-Zs-hHa.title" = "Custom";
+---
+> "yLi-Zs-hHa.title" = "カスタム";
+723c723
+< "ygw-py-ebp.title" = "Tail Offset:";
+---
+> "ygw-py-ebp.title" = "テールのオフセット:";
+726c726
+< "ypn-eR-AwE.title" = "Clone brush tool";
+---
+> "ypn-eR-AwE.title" = "コピーブラシツール";

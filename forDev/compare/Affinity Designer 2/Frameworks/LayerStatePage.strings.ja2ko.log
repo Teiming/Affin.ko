@@ -1,0 +1,44 @@
+1,2c1,3
+< 6c6
+< < "P81-AA-w2Q.title" = "Spread";
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Bke-4p-WUB"; */
+> < "Bke-4p-WUB.title" = "Text Cell";
+4,17c5,8
+< > "P81-AA-w2Q.title" = "スプレッド";
+< 9c9
+< < "Qvn-dx-ZFA.ibShadowedToolTip" = "Add new state";
+< ---
+< > "Qvn-dx-ZFA.ibShadowedToolTip" = "ステートを新規追加";
+< 15c15
+< < "d0e-1P-vHC.title" = "Scope:";
+< ---
+< > "d0e-1P-vHC.title" = "スコープ:";
+< 18c18
+< < "jXr-AO-BcN.ibShadowedToolTip" = "Delete state";
+< ---
+< > "jXr-AO-BcN.ibShadowedToolTip" = "ステートを削除";
+< 21c21
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Bke-4p-WUB"; */
+> > "Bke-4p-WUB.title" = "텍스트 셀";
+> 20,21c20,21
+> < /* Class = "NSMenuItem"; title = "Document"; ObjectID = "qUF-JS-brb"; */
+20,25c11,14
+< > "qUF-JS-brb.title" = "ドキュメント";
+< 24c24
+< < "ud5-rb-6sh.ibShadowedToolTip" = "Add new smart state";
+< ---
+< > "ud5-rb-6sh.ibShadowedToolTip" = "スマートステートを新規追加";
+< 27c27
+---
+> > /* Class = "NSMenuItem"; title = "문서"; ObjectID = "qUF-JS-brb"; */
+> > "qUF-JS-brb.title" = "문서";
+> 26,27c26,27
+> < /* Class = "NSMenuItem"; title = "Selection"; ObjectID = "y6f-44-92O"; */
+28c17,18
+< > "y6f-44-92O.title" = "選択";
+---
+> > /* Class = "NSMenuItem"; title = "선택 항목"; ObjectID = "y6f-44-92O"; */
+> > "y6f-44-92O.title" = "선택 항목";

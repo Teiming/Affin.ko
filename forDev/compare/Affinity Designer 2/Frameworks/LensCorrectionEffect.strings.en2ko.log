@@ -1,0 +1,48 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+< "26.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> "26.title" = "적용";
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "199"; */
+< "199.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "199"; */
+> "199.title" = "취소";
+11,12c11,12
+< /* Class = "NSTextFieldCell"; title = "Lens"; ObjectID = "5vJ-IN-Cxw"; */
+< "5vJ-IN-Cxw.title" = "Lens";
+---
+> /* Class = "NSTextFieldCell"; title = "렌즈"; ObjectID = "5vJ-IN-Cxw"; */
+> "5vJ-IN-Cxw.title" = "렌즈";
+14,15c14,15
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "6AI-0M-njb"; */
+< "6AI-0M-njb.ibShadowedToolTip" = "Mirror view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "6AI-0M-njb"; */
+> "6AI-0M-njb.ibShadowedToolTip" = "거울 뷰 모드";
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Camera"; ObjectID = "Mv1-8d-HDl"; */
+< "Mv1-8d-HDl.title" = "Camera";
+---
+> /* Class = "NSTextFieldCell"; title = "카메라"; ObjectID = "Mv1-8d-HDl"; */
+> "Mv1-8d-HDl.title" = "카메라";
+23,24c23,24
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "NKQ-St-R3O"; */
+< "NKQ-St-R3O.ibShadowedToolTip" = "No split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "NKQ-St-R3O"; */
+> "NKQ-St-R3O.ibShadowedToolTip" = "분할 뷰 모드 해제";
+26,27c26,27
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "pES-4s-fgn"; */
+< "pES-4s-fgn.ibShadowedToolTip" = "Split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "pES-4s-fgn"; */
+> "pES-4s-fgn.ibShadowedToolTip" = "분할 뷰 모드";
+32,33c32,33
+< /* Class = "NSMenu"; title = "Lens"; ObjectID = "z2B-CS-uWg"; */
+< "z2B-CS-uWg.title" = "Lens";
+---
+> /* Class = "NSMenu"; title = "렌즈"; ObjectID = "z2B-CS-uWg"; */
+> "z2B-CS-uWg.title" = "렌즈";

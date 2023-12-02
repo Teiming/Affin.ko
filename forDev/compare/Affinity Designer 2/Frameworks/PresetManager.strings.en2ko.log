@@ -1,0 +1,54 @@
+2,3c2,3
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "08d-Ns-xUu"; */
+< "08d-Ns-xUu.title" = "Close";
+---
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "08d-Ns-xUu"; */
+> "08d-Ns-xUu.title" = "닫기";
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Rename"; ObjectID = "2Ig-rk-Z9g"; */
+< "2Ig-rk-Z9g.title" = "Rename";
+---
+> /* Class = "NSButtonCell"; title = "이름 변경"; ObjectID = "2Ig-rk-Z9g"; */
+> "2Ig-rk-Z9g.title" = "이름 변경";
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Restore Master Presets"; ObjectID = "5qj-F8-5UU"; */
+< "5qj-F8-5UU.title" = "Restore Master Presets";
+---
+> /* Class = "NSButtonCell"; title = "주 미리 설정 복원"; ObjectID = "5qj-F8-5UU"; */
+> "5qj-F8-5UU.title" = "주 미리 설정 복원";
+11,12c11,12
+< /* Class = "NSWindow"; title = "Preset manager"; ObjectID = "CHo-O7-99J"; */
+< "CHo-O7-99J.title" = "Preset manager";
+---
+> /* Class = "NSWindow"; title = "미리 설정 관리자"; ObjectID = "CHo-O7-99J"; */
+> "CHo-O7-99J.title" = "미리 설정 관리자";
+14,15c14,15
+< /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Dnd-6x-3Kq"; */
+< "Dnd-6x-3Kq.title" = "Delete";
+---
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Dnd-6x-3Kq"; */
+> "Dnd-6x-3Kq.title" = "지우기";
+20,21c20,21
+< /* Class = "NSButtonCell"; title = "Import Presets…"; ObjectID = "ccv-Mu-FsN"; */
+< "ccv-Mu-FsN.title" = "Import Presets…";
+---
+> /* Class = "NSButtonCell"; title = "미리 설정 들여오기…"; ObjectID = "ccv-Mu-FsN"; */
+> "ccv-Mu-FsN.title" = "미리 설정 들여오기…";
+23,24c23,24
+< /* Class = "NSTextFieldCell"; title = "Filter:"; ObjectID = "g5h-Dw-kkQ"; */
+< "g5h-Dw-kkQ.title" = "Filter:";
+---
+> /* Class = "NSTextFieldCell"; title = "필터:"; ObjectID = "g5h-Dw-kkQ"; */
+> "g5h-Dw-kkQ.title" = "필터:";
+26,27c26,27
+< /* Class = "NSButtonCell"; title = "Export User Presets…"; ObjectID = "lyD-an-9aN"; */
+< "lyD-an-9aN.title" = "Export User Presets…";
+---
+> /* Class = "NSButtonCell"; title = "사용자 미리 설정 내보내기…"; ObjectID = "lyD-an-9aN"; */
+> "lyD-an-9aN.title" = "사용자 미리 설정 내보내기…";
+29,30c29,30
+< /* Class = "NSPopUpButton"; ibShadowedToolTip = "Filter the visible presets"; ObjectID = "onc-8i-HJA"; */
+< "onc-8i-HJA.ibShadowedToolTip" = "Filter the visible presets";
+---
+> /* Class = "NSPopUpButton"; ibShadowedToolTip = "볼 수 있는 미리 설정 필터"; ObjectID = "onc-8i-HJA"; */
+> "onc-8i-HJA.ibShadowedToolTip" = "볼 수 있는 미리 설정 필터";

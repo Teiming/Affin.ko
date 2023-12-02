@@ -1,0 +1,58 @@
+1,9c1,2
+< 3c3
+< < "1.title" = "Sphere";
+< ---
+< > "1.title" = "球体";
+< 6c6
+< < "12.title" = "Intensity";
+< ---
+< > "12.title" = "強度";
+< 9c9
+---
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+12,13c5,8
+< > "26.title" = "適用";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 11,12c11,12
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "88"; */
+16,17c11,14
+< > "88.title" = "半径";
+< 15c15
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "88"; */
+> > "88.title" = "반지름";
+> 14,15c14,15
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "413"; */
+20,21c17,20
+< > "413.title" = "キャンセル";
+< 18c18
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "413"; */
+> > "413.title" = "취소";
+> 17,18c17,18
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "CvU-lb-BpE"; */
+24,25c23,26
+< > "CvU-lb-BpE.ibShadowedToolTip" = "ミラー表示";
+< 21c21
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "CvU-lb-BpE"; */
+> > "CvU-lb-BpE.ibShadowedToolTip" = "거울 뷰 모드";
+> 20,21c20,21
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "YJo-Q7-kUz"; */
+28,29c29,32
+< > "YJo-Q7-kUz.ibShadowedToolTip" = "分割表示";
+< 24c24
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "YJo-Q7-kUz"; */
+> > "YJo-Q7-kUz.ibShadowedToolTip" = "분할 뷰 모드";
+> 23,24c23,24
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "zaY-Vy-vFv"; */
+32c35,36
+< > "zaY-Vy-vFv.ibShadowedToolTip" = "分割表示なし";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "zaY-Vy-vFv"; */
+> > "zaY-Vy-vFv.ibShadowedToolTip" = "분할 뷰 모드 해제";

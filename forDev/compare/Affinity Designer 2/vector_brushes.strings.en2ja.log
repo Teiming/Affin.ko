@@ -1,0 +1,764 @@
+2c2
+< "Oils" = "Oils";
+---
+> "Oils" = "油彩";
+5c5
+< "Dense Oil Impasto 01" = "Dense Oil Impasto 01";
+---
+> "Dense Oil Impasto 01" = "濃い厚塗りの油彩01";
+8c8
+< "Dense Oil Impasto 02" = "Dense Oil Impasto 02";
+---
+> "Dense Oil Impasto 02" = "濃い厚塗りの油彩02";
+11c11
+< "Dense Oil Impasto 03" = "Dense Oil Impasto 03";
+---
+> "Dense Oil Impasto 03" = "濃い厚塗りの油彩03";
+14c14
+< "Dense Oil Impasto 04" = "Dense Oil Impasto 04";
+---
+> "Dense Oil Impasto 04" = "濃い厚塗りの油彩04";
+17c17
+< "Light Glazing Oil 01" = "Light Glazing Oil 01";
+---
+> "Light Glazing Oil 01" = "明るいグレージングの油彩01";
+20c20
+< "Light Glazing Oil 02" = "Light Glazing Oil 02";
+---
+> "Light Glazing Oil 02" = "明るいグレージングの油彩02";
+23c23
+< "Light Glazing Oil 03" = "Light Glazing Oil 03";
+---
+> "Light Glazing Oil 03" = "明るいグレージングの油彩03";
+26c26
+< "Light Glazing Oil 04" = "Light Glazing Oil 04";
+---
+> "Light Glazing Oil 04" = "明るいグレージングの油彩04";
+29c29
+< "Fine Oil 01" = "Fine Oil 01";
+---
+> "Fine Oil 01" = "細かい油彩01";
+32c32
+< "Fine Oil 02" = "Fine Oil 02";
+---
+> "Fine Oil 02" = "細かい油彩02";
+35c35
+< "Fine Oil 03" = "Fine Oil 03";
+---
+> "Fine Oil 03" = "細かい油彩03";
+38c38
+< "Fine Oil 04" = "Fine Oil 04";
+---
+> "Fine Oil 04" = "細かい油彩04";
+41c41
+< "Acrylics" = "Acrylics";
+---
+> "Acrylics" = "アクリル";
+44c44
+< "Acrylic Stroke 01" = "Acrylic Stroke 01";
+---
+> "Acrylic Stroke 01" = "アクリルストローク01";
+47c47
+< "Acrylic Stroke 02" = "Acrylic Stroke 02";
+---
+> "Acrylic Stroke 02" = "アクリルストローク02";
+50c50
+< "Acrylic Stroke 03" = "Acrylic Stroke 03";
+---
+> "Acrylic Stroke 03" = "アクリルストローク03";
+53c53
+< "Acrylic Stroke 04" = "Acrylic Stroke 04";
+---
+> "Acrylic Stroke 04" = "アクリルストローク04";
+56c56
+< "Acrylic Stroke 05" = "Acrylic Stroke 05";
+---
+> "Acrylic Stroke 05" = "アクリルストローク05";
+59c59
+< "Acrylic Stroke 06" = "Acrylic Stroke 06";
+---
+> "Acrylic Stroke 06" = "アクリルストローク06";
+62c62
+< "Acrylic Stroke 07" = "Acrylic Stroke 07";
+---
+> "Acrylic Stroke 07" = "アクリルストローク07";
+65c65
+< "Acrylic Stroke 08" = "Acrylic Stroke 08";
+---
+> "Acrylic Stroke 08" = "アクリルストローク08";
+68c68
+< "Acrylic Stroke 09" = "Acrylic Stroke 09";
+---
+> "Acrylic Stroke 09" = "アクリルストローク09";
+71c71
+< "Acrylic Stroke 10" = "Acrylic Stroke 10";
+---
+> "Acrylic Stroke 10" = "アクリルストローク10";
+74c74
+< "Acrylic Stroke 11" = "Acrylic Stroke 11";
+---
+> "Acrylic Stroke 11" = "アクリルストローク11";
+77c77
+< "Acrylic Stroke 12" = "Acrylic Stroke 12";
+---
+> "Acrylic Stroke 12" = "アクリルストローク12";
+80c80
+< "Acrylic Stroke 13" = "Acrylic Stroke 13";
+---
+> "Acrylic Stroke 13" = "アクリルストローク13";
+83c83
+< "Acrylic Stroke 14" = "Acrylic Stroke 14";
+---
+> "Acrylic Stroke 14" = "アクリルストローク14";
+86c86
+< "Acrylic Stroke 15" = "Acrylic Stroke 15";
+---
+> "Acrylic Stroke 15" = "アクリルストローク15";
+89c89
+< "Acrylic Stroke 16" = "Acrylic Stroke 16";
+---
+> "Acrylic Stroke 16" = "アクリルストローク16";
+92c92
+< "Dry Media" = "Dry Media";
+---
+> "Dry Media" = "ドライメディア";
+95c95
+< "Round Pastel" = "Round Pastel";
+---
+> "Round Pastel" = "丸型パステル";
+98c98
+< "Square Pastel" = "Square Pastel";
+---
+> "Square Pastel" = "角型パステル";
+101c101
+< "Smooth Square Pastel" = "Smooth Square Pastel";
+---
+> "Smooth Square Pastel" = "滑らかな角型パステル";
+104c104
+< "Variable Square Pastel" = "Variable Square Pastel";
+---
+> "Variable Square Pastel" = "濃淡角型パステル";
+107c107
+< "Charcoal Smooth" = "Charcoal Smooth";
+---
+> "Charcoal Smooth" = "チャコール（滑らか）";
+110c110
+< "Charcoal Dry" = "Charcoal Dry";
+---
+> "Charcoal Dry" = "チャコール（ドライ）";
+113c113
+< "Woodless Square" = "Woodless Square";
+---
+> "Woodless Square" = "芯鉛筆（正方形）";
+116c116
+< "Chalk on Paper (for closed curves)" = "Chalk on Paper (for closed curves)";
+---
+> "Chalk on Paper (for closed curves)" = "ペーパー上のチョーク(閉じたカーブ用)";
+119c119
+< "Greasy Pastel" = "Greasy Pastel";
+---
+> "Greasy Pastel" = "油分の多いパステル";
+122c122
+< "Blurry Pastel" = "Blurry Pastel";
+---
+> "Blurry Pastel" = "ぼかしパステル";
+125c125
+< "Dense Charcoal" = "Dense Charcoal";
+---
+> "Dense Charcoal" = "濃い木炭";
+128c128
+< "Dense Charcoal (for closed curves)" = "Dense Charcoal (for closed curves)";
+---
+> "Dense Charcoal (for closed curves)" = "濃い木炭（閉じたカーブ用）";
+131c131
+< "Graphite" = "Graphite";
+---
+> "Graphite" = "グラファイト";
+134c134
+< "Graphite (for closed curves)" = "Graphite (for closed curves)";
+---
+> "Graphite (for closed curves)" = "グラファイト（閉じたカーブ用）";
+137c137
+< "Light Charcoal" = "Light Charcoal";
+---
+> "Light Charcoal" = "ライト木炭";
+140c140
+< "Light Charcoal (for closed curves)" = "Light Charcoal (for closed curves)";
+---
+> "Light Charcoal (for closed curves)" = "ライト木炭（閉じたカーブ用）";
+143c143
+< "Engraving" = "Engraving";
+---
+> "Engraving" = "エッチング";
+146c146
+< "Clean Engraving 01" = "Clean Engraving 01";
+---
+> "Clean Engraving 01" = "クリーンエッチング01";
+149c149
+< "Clean Engraving 02" = "Clean Engraving 02";
+---
+> "Clean Engraving 02" = "クリーンエッチング02";
+152c152
+< "Clean Engraving 03" = "Clean Engraving 03";
+---
+> "Clean Engraving 03" = "クリーンエッチング03";
+155c155
+< "Clean Engraving 04" = "Clean Engraving 04";
+---
+> "Clean Engraving 04" = "クリーンエッチング04";
+158c158
+< "Clean Engraving 05" = "Clean Engraving 05";
+---
+> "Clean Engraving 05" = "クリーンエッチング05";
+161c161
+< "Clean Engraving 06" = "Clean Engraving 06";
+---
+> "Clean Engraving 06" = "クリーンエッチング06";
+164c164
+< "Clean Engraving 07" = "Clean Engraving 07";
+---
+> "Clean Engraving 07" = "クリーンエッチング07";
+167c167
+< "Clean Engraving 08" = "Clean Engraving 08";
+---
+> "Clean Engraving 08" = "クリーンエッチング08";
+170c170
+< "Clean Engraving 09" = "Clean Engraving 09";
+---
+> "Clean Engraving 09" = "クリーンエッチング09";
+173c173
+< "Clean Engraving 10" = "Clean Engraving 10";
+---
+> "Clean Engraving 10" = "クリーンエッチング10";
+176c176
+< "Clean Engraving 11" = "Clean Engraving 11";
+---
+> "Clean Engraving 11" = "クリーンエッチング11";
+179c179
+< "Clean Engraving 12" = "Clean Engraving 12";
+---
+> "Clean Engraving 12" = "クリーンエッチング12";
+182c182
+< "Rough Engraving Rake 01" = "Rough Engraving Rake 01";
+---
+> "Rough Engraving Rake 01" = "荒いエッチングレーキ01";
+185c185
+< "Rough Engraving Rake 02" = "Rough Engraving Rake 02";
+---
+> "Rough Engraving Rake 02" = "荒いエッチングレーキ 02";
+188c188
+< "Rough Engraving Rake 03" = "Rough Engraving Rake 03";
+---
+> "Rough Engraving Rake 03" = "荒いエッチングレーキ 03";
+191c191
+< "Rough Engraving Rake 04" = "Rough Engraving Rake 04";
+---
+> "Rough Engraving Rake 04" = "荒いエッチングレーキ 04";
+194c194
+< "Gouaches" = "Gouaches";
+---
+> "Gouaches" = "グワッシュ";
+197c197
+< "Gouache 01" = "Gouache 01";
+---
+> "Gouache 01" = "グワッシュ01";
+200c200
+< "Gouache 02" = "Gouache 02";
+---
+> "Gouache 02" = "グワッシュ02";
+203c203
+< "Dense Gouache 01" = "Dense Gouache 01";
+---
+> "Dense Gouache 01" = "濃いグワッシュ01";
+206c206
+< "Dense Gouache 02" = "Dense Gouache 02";
+---
+> "Dense Gouache 02" = "濃いグワッシュ02";
+209c209
+< "Dry Gouache 01" = "Dry Gouache 01";
+---
+> "Dry Gouache 01" = "ドライグワッシュ01";
+212c212
+< "Dry Gouache 02" = "Dry Gouache 02";
+---
+> "Dry Gouache 02" = "ドライグワッシュ02";
+215c215
+< "Wet Speed Goauche 01" = "Wet Speed Goauche 01";
+---
+> "Wet Speed Goauche 01" = "ウェットスピードグワッシュ01";
+218c218
+< "Light Gouache 01 (for short strokes)" = "Light Gouache 01 (for short strokes)";
+---
+> "Light Gouache 01 (for short strokes)" = "ライトグワッシュ01（短いストローク用）";
+221c221
+< "Light Gouache 02 (for short strokes)" = "Light Gouache 02 (for short strokes)";
+---
+> "Light Gouache 02 (for short strokes)" = "ライトグワッシュ02（短いストローク用）";
+224c224
+< "Light Gouache 03 (for short strokes)" = "Light Gouache 03 (for short strokes)";
+---
+> "Light Gouache 03 (for short strokes)" = "ライトグワッシュ03（短いストローク用）";
+227c227
+< "Dry Gouache 03" = "Dry Gouache 03";
+---
+> "Dry Gouache 03" = "ドライグワッシュ03";
+230c230
+< "Dry Gouache 04" = "Dry Gouache 04";
+---
+> "Dry Gouache 04" = "ドライグワッシュ04";
+233c233
+< "Dry Speed Gouache 01" = "Dry Speed Gouache 01";
+---
+> "Dry Speed Gouache 01" = "ドライスピードグワッシュ01";
+236c236
+< "Dry Speed Gouache 04" = "Dry Speed Gouache 04";
+---
+> "Dry Speed Gouache 04" = "ドライスピードグワッシュ04";
+239c239
+< "Gouache Strokes" = "Gouache Strokes";
+---
+> "Gouache Strokes" = "グワッシュのストローク";
+242c242
+< "Grunge Gouache" = "Grunge Gouache";
+---
+> "Grunge Gouache" = "グランジグワッシュ";
+245c245
+< "Inks" = "Inks";
+---
+> "Inks" = "インク";
+248c248
+< "Simple Ink" = "Simple Ink";
+---
+> "Simple Ink" = "シンプルインク";
+251c251
+< "Ink on Cotton Paper 01" = "Ink on Cotton Paper 01";
+---
+> "Ink on Cotton Paper 01" = "コットンペーパー上のインク01";
+254c254
+< "Ink on Cotton Paper 02" = "Ink on Cotton Paper 02";
+---
+> "Ink on Cotton Paper 02" = "コットンペーパー上のインク02";
+257c257
+< "Jagged Ink" = "Jagged Ink";
+---
+> "Jagged Ink" = "ギザギザのインク";
+260c260
+< "Bleeding Ink" = "Bleeding Ink";
+---
+> "Bleeding Ink" = "にじみインク";
+263c263
+< "Fountain Pen Ink" = "Fountain Pen Ink";
+---
+> "Fountain Pen Ink" = "万年筆用インク";
+266c266
+< "Slanted Ink Pen" = "Slanted Ink Pen";
+---
+> "Slanted Ink Pen" = "傾斜インクペン";
+269c269
+< "Dry Flat Ink 01" = "Dry Flat Ink 01";
+---
+> "Dry Flat Ink 01" = "ドライフラットインク01";
+272c272
+< "Dry Flat Ink 02" = "Dry Flat Ink 02";
+---
+> "Dry Flat Ink 02" = "ドライフラットインク02";
+275c275
+< "Creative Ink 01" = "Creative Ink 01";
+---
+> "Creative Ink 01" = "クリエイティブインク01";
+278c278
+< "Creative Ink 02" = "Creative Ink 02";
+---
+> "Creative Ink 02" = "クリエイティブインク02";
+281c281
+< "Creative Ink 03" = "Creative Ink 03";
+---
+> "Creative Ink 03" = "クリエイティブインク03";
+284c284
+< "India Ink 01" = "India Ink 01";
+---
+> "India Ink 01" = "インドインク01";
+287c287
+< "India Ink 02" = "India Ink 02";
+---
+> "India Ink 02" = "インドインク02";
+290c290
+< "India Ink 03" = "India Ink 03";
+---
+> "India Ink 03" = "インドインク03";
+293c293
+< "India Ink 04" = "India Ink 04";
+---
+> "India Ink 04" = "インドインク04";
+296c296
+< "Markers" = "Markers";
+---
+> "Markers" = "マーカー";
+299c299
+< "Classic Flat Marker 01" = "Classic Flat Marker 01";
+---
+> "Classic Flat Marker 01" = "クラシックフラットマーカー01";
+302c302
+< "Dense Marker" = "Dense Marker";
+---
+> "Dense Marker" = "濃いマーカー";
+305c305
+< "Classic Round Marker" = "Classic Round Marker";
+---
+> "Classic Round Marker" = "クラシックラウンドマーカー";
+308c308
+< "Slant Graded Marker" = "Slant Graded Marker";
+---
+> "Slant Graded Marker" = "濃淡ありマーカー";
+311c311
+< "Flat Marker Used Up" = "Flat Marker Used Up";
+---
+> "Flat Marker Used Up" = "使い切ったフラットマーカー";
+314c314
+< "Quick Marker Stroke 01" = "Quick Marker Stroke 01";
+---
+> "Quick Marker Stroke 01" = "クイックマーカー境界線01";
+317c317
+< "Quick Marker Stroke 02" = "Quick Marker Stroke 02";
+---
+> "Quick Marker Stroke 02" = "クイックマーカー境界線02";
+320c320
+< "Quick Marker Stroke 03" = "Quick Marker Stroke 03";
+---
+> "Quick Marker Stroke 03" = "クイックマーカー境界線03";
+323c323
+< "Quick Marker Stroke 04" = "Quick Marker Stroke 04";
+---
+> "Quick Marker Stroke 04" = "クイックマーカー境界線04";
+326c326
+< "Quick Marker Stroke 05" = "Quick Marker Stroke 05";
+---
+> "Quick Marker Stroke 05" = "クイックマーカー境界線05";
+329c329
+< "Marker Scribble 01" = "Marker Scribble 01";
+---
+> "Marker Scribble 01" = "マーカースクリブル01";
+332c332
+< "Marker Scribble 02" = "Marker Scribble 02";
+---
+> "Marker Scribble 02" = "マーカースクリブル02";
+335c335
+< "Marker Scribble 03" = "Marker Scribble 03";
+---
+> "Marker Scribble 03" = "マーカースクリブル03";
+338c338
+< "Marker Scribble 04" = "Marker Scribble 04";
+---
+> "Marker Scribble 04" = "マーカースクリブル04";
+341c341
+< "Speed Marker Fill 01" = "Speed Marker Fill 01";
+---
+> "Speed Marker Fill 01" = "スピードマーカー塗りつぶし01";
+344c344
+< "Speed Marker Fill 02" = "Speed Marker Fill 02";
+---
+> "Speed Marker Fill 02" = "スピードマーカー塗りつぶし02";
+347c347
+< "Patterns" = "Patterns";
+---
+> "Patterns" = "パターン";
+350c350
+< "Hatching Diagonal" = "Hatching Diagonal";
+---
+> "Hatching Diagonal" = "ハッチング斜線";
+353c353
+< "Hatching Diagonal Dry" = "Hatching Diagonal Dry";
+---
+> "Hatching Diagonal Dry" = "ハッチング斜線ドライ";
+356c356
+< "Hatching Vertical" = "Hatching Vertical";
+---
+> "Hatching Vertical" = "ハッチング垂直線";
+359c359
+< "Hatching Vertical Wobbling" = "Hatching Vertical Wobbling";
+---
+> "Hatching Vertical Wobbling" = "ハッチング垂直線（波状）";
+362c362
+< "Hatching Vertical Fine" = "Hatching Vertical Fine";
+---
+> "Hatching Vertical Fine" = "ハッチング垂直線（細）";
+365c365
+< "Dashed Pattern" = "Dashed Pattern";
+---
+> "Dashed Pattern" = "破線パターン";
+368c368
+< "Stippling Light" = "Stippling Light";
+---
+> "Stippling Light" = "点刻（ライト）";
+371c371
+< "Stippling Dense" = "Stippling Dense";
+---
+> "Stippling Dense" = "点刻（濃い）";
+374c374
+< "Vertical Ink" = "Vertical Ink";
+---
+> "Vertical Ink" = "垂直インク";
+377c377
+< "Vertical Bleeding Ink 01" = "Vertical Bleeding Ink 01";
+---
+> "Vertical Bleeding Ink 01" = "垂直にじみインク01";
+380c380
+< "Vertical Bleeding Ink 02" = "Vertical Bleeding Ink 02";
+---
+> "Vertical Bleeding Ink 02" = "垂直にじみインク02";
+383c383
+< "Diagonal Ink Fine" = "Diagonal Ink Fine";
+---
+> "Diagonal Ink Fine" = "斜めインク（細）";
+386c386
+< "Diagonal Ink Bold" = "Diagonal Ink Bold";
+---
+> "Diagonal Ink Bold" = "斜めインク（太）";
+389c389
+< "Airbrush Dense" = "Airbrush Dense";
+---
+> "Airbrush Dense" = "エアブラシ（濃い）";
+392c392
+< "Airbrush Medium" = "Airbrush Medium";
+---
+> "Airbrush Medium" = "エアブラシ（中濃度）";
+395c395
+< "Airbrush Light" = "Airbrush Light";
+---
+> "Airbrush Light" = "エアブラシ（ライト）";
+398c398
+< "Dash&Stipple 01" = "Dash&Stipple 01";
+---
+> "Dash&Stipple 01" = "ダッシュ＆点刻01";
+401c401
+< "Dash&Stipple 02" = "Dash&Stipple 02";
+---
+> "Dash&Stipple 02" = "ダッシュ＆点刻02";
+404c404
+< "Dash&Stipple 03" = "Dash&Stipple 03";
+---
+> "Dash&Stipple 03" = "ダッシュ＆点刻03";
+407c407
+< "Dash&Stipple 04" = "Dash&Stipple 04";
+---
+> "Dash&Stipple 04" = "ダッシュ＆点刻04";
+410c410
+< "Graded Stippling 01" = "Graded Stippling 01";
+---
+> "Graded Stippling 01" = "濃淡のある点刻01";
+413c413
+< "Graded Stippling 02" = "Graded Stippling 02";
+---
+> "Graded Stippling 02" = "濃淡のある点刻02";
+416c416
+< "Dash Pattern Light" = "Dash Pattern Light";
+---
+> "Dash Pattern Light" = "ダッシュパターン（ライト）";
+419c419
+< "Dash Pattern Dense" = "Dash Pattern Dense";
+---
+> "Dash Pattern Dense" = "ダッシュパターン（濃い）";
+422c422
+< "Pencils" = "Pencils";
+---
+> "Pencils" = "鉛筆";
+425c425
+< "Classic Pencil HB" = "Classic Pencil HB";
+---
+> "Classic Pencil HB" = "クラシック鉛筆HB";
+428c428
+< "Classic Pencil 2B" = "Classic Pencil 2B";
+---
+> "Classic Pencil 2B" = "クラシック鉛筆2B";
+431c431
+< "Classic Pencil HB (for closed curves)" = "Classic Pencil HB (for closed curves)";
+---
+> "Classic Pencil HB (for closed curves)" = "クラシック鉛筆HB(閉じたカーブ用)";
+434c434
+< "Classic Pencil 2B (for closed curves)" = "Classic Pencil 2B (for closed curves)";
+---
+> "Classic Pencil 2B (for closed curves)" = "クラシック鉛筆2B(閉じたカーブ用)";
+437c437
+< "Square Pencil" = "Square Pencil";
+---
+> "Square Pencil" = "角形鉛筆";
+440c440
+< "Tilted Round Pencil" = "Tilted Round Pencil";
+---
+> "Tilted Round Pencil" = "角度付き丸鉛筆";
+443c443
+< "Tilted Round Pencil (for closed curves)" = "Tilted Round Pencil (for closed curves)";
+---
+> "Tilted Round Pencil (for closed curves)" = "角度付き丸鉛筆（閉じたカーブ用）";
+446c446
+< "Graphite Scribble 01 (for short strokes)" = "Graphite Scribble 01 (for short strokes)";
+---
+> "Graphite Scribble 01 (for short strokes)" = "グラファイトスクリブル01(ショート境界線用)";
+449c449
+< "Graphite Scribble 02 (for short strokes)" = "Graphite Scribble 02 (for short strokes)";
+---
+> "Graphite Scribble 02 (for short strokes)" = "グラファイトスクリブル02(ショート境界線用)";
+452c452
+< "Graphite Scribble 03 (for short strokes)" = "Graphite Scribble 03 (for short strokes)";
+---
+> "Graphite Scribble 03 (for short strokes)" = "グラファイトスクリブル03(ショート境界線用)";
+455c455
+< "Graphite Scribble 04 (for short strokes)" = "Graphite Scribble 04 (for short strokes)";
+---
+> "Graphite Scribble 04 (for short strokes)" = "グラファイトスクリブル04(ショート境界線用)";
+458c458
+< "Pencil Strokes" = "Pencil Strokes";
+---
+> "Pencil Strokes" = "鉛筆のストローク";
+461c461
+< "HB Pencil Hatch" = "HB Pencil Hatch";
+---
+> "HB Pencil Hatch" = "HB鉛筆の陰影";
+464c464
+< "2B Pencil Hatch" = "2B Pencil Hatch";
+---
+> "2B Pencil Hatch" = "2B鉛筆の陰影";
+467c467
+< "Graphite Tip" = "Graphite Tip";
+---
+> "Graphite Tip" = "グラファイト先端";
+470c470
+< "Graphite Tip (for closed curves)" = "Graphite Tip (for closed curves)";
+---
+> "Graphite Tip (for closed curves)" = "グラファイト先端（閉じたカーブ用）";
+473c473
+< "Pens" = "Pens";
+---
+> "Pens" = "ペン";
+476c476
+< "Solid Pen with Pressure" = "Solid Pen with Pressure";
+---
+> "Solid Pen with Pressure" = "筆圧付きソリッドブラシ";
+479c479
+< "Solid Pen with Pressure & Opacity" = "Solid Pen with Pressure & Opacity";
+---
+> "Solid Pen with Pressure & Opacity" = "筆圧と不透明度付きソリッドペン";
+482c482
+< "Simple Pen (for open curves)" = "Simple Pen (for open curves)";
+---
+> "Simple Pen (for open curves)" = "シンプルペン（開いたカーブ用）";
+485c485
+< "Simple Pen (for closed curves)" = "Simple Pen (for closed curves)";
+---
+> "Simple Pen (for closed curves)" = "シンプルペン（閉じたカーブ用）";
+488c488
+< "Brush Pen 01" = "Brush Pen 01";
+---
+> "Brush Pen 01" = "ブラシペン01";
+491c491
+< "Brush Pen 02" = "Brush Pen 02";
+---
+> "Brush Pen 02" = "ブラシペン02";
+494c494
+< "Brush Pen 03" = "Brush Pen 03";
+---
+> "Brush Pen 03" = "ブラシペン03";
+497c497
+< "Brush Pen 04" = "Brush Pen 04";
+---
+> "Brush Pen 04" = "ブラシペン04";
+500c500
+< "Wobbling Gritty Pen" = "Wobbling Gritty Pen";
+---
+> "Wobbling Gritty Pen" = "波打ちザラザラペン";
+503c503
+< "Wobbling Smooth Pen" = "Wobbling Smooth Pen";
+---
+> "Wobbling Smooth Pen" = "波打ち滑らかペン";
+506c506
+< "Textured Pen 01" = "Textured Pen 01";
+---
+> "Textured Pen 01" = "テクスチャペン01";
+509c509
+< "Textured Pen 02" = "Textured Pen 02";
+---
+> "Textured Pen 02" = "テクスチャペン02";
+512c512
+< "Textured Pen 03" = "Textured Pen 03";
+---
+> "Textured Pen 03" = "テクスチャペン03";
+515c515
+< "Scribble Pen 01" = "Scribble Pen 01";
+---
+> "Scribble Pen 01" = "スクリブルペン01";
+518c518
+< "Scribble Pen 02" = "Scribble Pen 02";
+---
+> "Scribble Pen 02" = "スクリブルペン02";
+521c521
+< "Scribble Line (for closed curves)" = "Scribble Line (for closed curves)";
+---
+> "Scribble Line (for closed curves)" = "スクリブルライン（閉じたカーブ用）";
+524c524
+< "Watercolours" = "Watercolors";
+---
+> "Watercolours" = "水彩";
+527c527
+< "Flat Watercolour 01" = "Flat Watercolor 01";
+---
+> "Flat Watercolour 01" = "平筆水彩01";
+530c530
+< "Flat Watercolour 02" = "Flat Watercolor 02";
+---
+> "Flat Watercolour 02" = "平筆水彩02";
+533c533
+< "Round Watercolour Dense" = "Round Watercolor Dense";
+---
+> "Round Watercolour Dense" = "丸筆水彩（濃い）";
+536c536
+< "Round Watercolour Light" = "Round Watercolor Light";
+---
+> "Round Watercolour Light" = "丸筆 水彩（ライト）";
+539c539
+< "Watercolour Bristle 01" = "Watercolor Bristle 01";
+---
+> "Watercolour Bristle 01" = "水彩ブラシ01";
+542c542
+< "Watercolour Bristle 02" = "Watercolor Bristle 02";
+---
+> "Watercolour Bristle 02" = "水彩ブラシ02";
+545c545
+< "Watercolour Bristle 03" = "Watercolor Bristle 03";
+---
+> "Watercolour Bristle 03" = "水彩ブラシ03";
+548c548
+< "Watercolour Bristle 04" = "Watercolor Bristle 04";
+---
+> "Watercolour Bristle 04" = "水彩ブラシ04";
+551c551
+< "Wobbling Watercolour Stroke" = "Wobbling Watercolor Stroke";
+---
+> "Wobbling Watercolour Stroke" = "波打ち水彩ストローク";
+554c554
+< "Water Particles" = "Water Particles";
+---
+> "Water Particles" = "水粒子";
+557c557
+< "Watercolour Stroke 01 (for closed curves)" = "Watercolor Stroke 01 (for closed curves)";
+---
+> "Watercolour Stroke 01 (for closed curves)" = "水彩ストローク01（閉じたカーブ用）";
+560c560
+< "Watercolour Stroke 02 (for closed curves)" = "Watercolor Stroke 02 (for closed curves)";
+---
+> "Watercolour Stroke 02 (for closed curves)" = "水彩ストローク02（閉じたカーブ用）";
+563c563
+< "Watercolour Stroke 03 (for closed curves)" = "Watercolor Stroke 03 (for closed curves)";
+---
+> "Watercolour Stroke 03 (for closed curves)" = "水彩ストローク03（閉じたカーブ用）";
+566c566
+< "Watercolour Stroke 04 (for closed curves)" = "Watercolor Stroke 04 (for closed curves)";
+---
+> "Watercolour Stroke 04 (for closed curves)" = "水彩ストローク04（閉じたカーブ用）";
+569c569
+< "Watercolour Stroke 05 (for closed curves)" = "Watercolor Stroke 05 (for closed curves)";
+---
+> "Watercolour Stroke 05 (for closed curves)" = "水彩ストローク05（閉じたカーブ用）";
+572c572
+< "Watercolour Stroke 06 (for closed curves)" = "Watercolor Stroke 06 (for closed curves)";
+---
+> "Watercolour Stroke 06 (for closed curves)" = "水彩ストローク06 （閉じたカーブ用）";

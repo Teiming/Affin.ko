@@ -1,0 +1,282 @@
+2,3c2,3
+< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "1P6-ef-Puj"; */
+< "1P6-ef-Puj.title" = "Add for constraining";
+---
+> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "1P6-ef-Puj"; */
+> "1P6-ef-Puj.title" = "제약 대상에 추가";
+5,6c5,6
+< /* Class = "NSImageView"; ibShadowedToolTip = "Angle too close to second axis angle"; ObjectID = "25j-6R-HJa"; */
+< "25j-6R-HJa.ibShadowedToolTip" = "Angle too close to second axis angle";
+---
+> /* Class = "NSImageView"; ibShadowedToolTip = "두 번째 축 각도와 너무 가깝습니다."; ObjectID = "25j-6R-HJa"; */
+> "25j-6R-HJa.ibShadowedToolTip" = "두 번째 축 각도와 너무 가깝습니다.";
+8,9c8,9
+< /* Class = "NSTextFieldCell"; title = "Divisions:"; ObjectID = "2yC-HE-mID"; */
+< "2yC-HE-mID.title" = "Divisions:";
+---
+> /* Class = "NSTextFieldCell"; title = "구획:"; ObjectID = "2yC-HE-mID"; */
+> "2yC-HE-mID.title" = "구획:";
+14,15c14,15
+< /* Class = "NSTextFieldCell"; title = "Aspect ratio:"; ObjectID = "33y-Qh-Ez6"; */
+< "33y-Qh-Ez6.title" = "Aspect ratio:";
+---
+> /* Class = "NSTextFieldCell"; title = "종횡비:"; ObjectID = "33y-Qh-Ez6"; */
+> "33y-Qh-Ez6.title" = "종횡비:";
+17,18c17,18
+< /* Class = "NSTextFieldCell"; title = "Spacing:"; ObjectID = "3G8-l9-oIw"; */
+< "3G8-l9-oIw.title" = "Spacing:";
+---
+> /* Class = "NSTextFieldCell"; title = "간격:"; ObjectID = "3G8-l9-oIw"; */
+> "3G8-l9-oIw.title" = "간격:";
+32,33c32,33
+< /* Class = "NSTextFieldCell"; title = "Gutter:"; ObjectID = "7BV-PI-tMj"; */
+< "7BV-PI-tMj.title" = "Gutter:";
+---
+> /* Class = "NSTextFieldCell"; title = "여백:"; ObjectID = "7BV-PI-tMj"; */
+> "7BV-PI-tMj.title" = "여백:";
+35,36c35,36
+< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "8Kk-uq-uyh"; */
+< "8Kk-uq-uyh.title" = "Add for snapping";
+---
+> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "8Kk-uq-uyh"; */
+> "8Kk-uq-uyh.title" = "스내핑 대상에 추가";
+38,39c38,39
+< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "8ve-EA-YJ4"; */
+< "8ve-EA-YJ4.title" = "Add for constraining";
+---
+> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "8ve-EA-YJ4"; */
+> "8ve-EA-YJ4.title" = "제약 대상에 추가";
+44,45c44,45
+< /* Class = "NSTextFieldCell"; title = "Angle:"; ObjectID = "AYo-F9-KhZ"; */
+< "AYo-F9-KhZ.title" = "Angle:";
+---
+> /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "AYo-F9-KhZ"; */
+> "AYo-F9-KhZ.title" = "각도:";
+50,51c50,51
+< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "Ex4-C1-2LH"; */
+< "Ex4-C1-2LH.title" = "Add for snapping";
+---
+> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "Ex4-C1-2LH"; */
+> "Ex4-C1-2LH.title" = "스내핑 대상에 추가";
+53,54c53,54
+< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "Fr1-lK-Ku2"; */
+< "Fr1-lK-Ku2.title" = "Do not add";
+---
+> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "Fr1-lK-Ku2"; */
+> "Fr1-lK-Ku2.title" = "추가하지 않음";
+56,57c56,57
+< /* Class = "NSTextFieldCell"; title = "First axis"; ObjectID = "LVc-FB-460"; */
+< "LVc-FB-460.title" = "First axis";
+---
+> /* Class = "NSTextFieldCell"; title = "첫 번째 축"; ObjectID = "LVc-FB-460"; */
+> "LVc-FB-460.title" = "첫 번째 축";
+59,60c59,60
+< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "Lxh-ts-ydK"; */
+< "Lxh-ts-ydK.title" = "Do not add";
+---
+> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "Lxh-ts-ydK"; */
+> "Lxh-ts-ydK.title" = "추가하지 않음";
+65,66c65,66
+< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "M5R-Q8-nOe"; */
+< "M5R-Q8-nOe.title" = "Standard";
+---
+> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "M5R-Q8-nOe"; */
+> "M5R-Q8-nOe.title" = "표준";
+71,72c71,72
+< /* Class = "NSTextFieldCell"; title = "Vertical axis:"; ObjectID = "OnS-tB-GR4"; */
+< "OnS-tB-GR4.title" = "Vertical axis:";
+---
+> /* Class = "NSTextFieldCell"; title = "세로 축:"; ObjectID = "OnS-tB-GR4"; */
+> "OnS-tB-GR4.title" = "세로 축:";
+80,81c80,81
+< /* Class = "NSTextFieldCell"; title = "Horizontal axis:"; ObjectID = "PPX-lU-hTH"; */
+< "PPX-lU-hTH.title" = "Horizontal axis:";
+---
+> /* Class = "NSTextFieldCell"; title = "가로 축:"; ObjectID = "PPX-lU-hTH"; */
+> "PPX-lU-hTH.title" = "가로 축:";
+83,84c83,84
+< /* Class = "NSBox"; title = "Second axis"; ObjectID = "PyM-fk-lNu"; */
+< "PyM-fk-lNu.title" = "Second axis";
+---
+> /* Class = "NSBox"; title = "두 번째 축"; ObjectID = "PyM-fk-lNu"; */
+> "PyM-fk-lNu.title" = "두 번째 축";
+86,87c86,87
+< /* Class = "NSTextFieldCell"; title = "Divisions:"; ObjectID = "QsO-Dr-XEn"; */
+< "QsO-Dr-XEn.title" = "Divisions:";
+---
+> /* Class = "NSTextFieldCell"; title = "구획:"; ObjectID = "QsO-Dr-XEn"; */
+> "QsO-Dr-XEn.title" = "구획:";
+95,96c95,96
+< /* Class = "NSImageView"; ibShadowedToolTip = "Angle too close to first and second axis angle"; ObjectID = "Su2-Kh-Hf7"; */
+< "Su2-Kh-Hf7.ibShadowedToolTip" = "Angle too close to first and second axis angle";
+---
+> /* Class = "NSImageView"; ibShadowedToolTip = "첫 번째 및 두 번째 축 각도와 너무 가깝습니다."; ObjectID = "Su2-Kh-Hf7"; */
+> "Su2-Kh-Hf7.ibShadowedToolTip" = "첫 번째 및 두 번째 축 각도와 너무 가깝습니다.";
+98,99c98,99
+< /* Class = "NSTextFieldCell"; title = "Gutter:"; ObjectID = "SuB-b5-VX5"; */
+< "SuB-b5-VX5.title" = "Gutter:";
+---
+> /* Class = "NSTextFieldCell"; title = "여백:"; ObjectID = "SuB-b5-VX5"; */
+> "SuB-b5-VX5.title" = "여백:";
+101,102c101,102
+< /* Class = "NSTextFieldCell"; title = "Spacing:"; ObjectID = "TTI-Xb-Uzu"; */
+< "TTI-Xb-Uzu.title" = "Spacing:";
+---
+> /* Class = "NSTextFieldCell"; title = "간격:"; ObjectID = "TTI-Xb-Uzu"; */
+> "TTI-Xb-Uzu.title" = "간격:";
+104,105c104,105
+< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "UC0-yL-793"; */
+< "UC0-yL-793.title" = "Add for snapping";
+---
+> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "UC0-yL-793"; */
+> "UC0-yL-793.title" = "스내핑 대상에 추가";
+107,108c107,108
+< /* Class = "NSMenuItem"; title = "Isometric"; ObjectID = "UVf-oa-JS0"; */
+< "UVf-oa-JS0.title" = "Isometric";
+---
+> /* Class = "NSMenuItem"; title = "등각투상"; ObjectID = "UVf-oa-JS0"; */
+> "UVf-oa-JS0.title" = "등각투상";
+116,117c116,117
+< /* Class = "NSMenuItem"; title = "Oblique"; ObjectID = "b51-SM-727"; */
+< "b51-SM-727.title" = "Oblique";
+---
+> /* Class = "NSMenuItem"; title = "사투상"; ObjectID = "b51-SM-727"; */
+> "b51-SM-727.title" = "사투상";
+119,120c119,120
+< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "bpw-yk-thI"; */
+< "bpw-yk-thI.title" = "Add for constraining";
+---
+> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "bpw-yk-thI"; */
+> "bpw-yk-thI.title" = "제약 대상에 추가";
+128,129c128,129
+< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "dOZ-lL-OFj"; */
+< "dOZ-lL-OFj.title" = "Do not add";
+---
+> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "dOZ-lL-OFj"; */
+> "dOZ-lL-OFj.title" = "추가하지 않음";
+131,132c131,132
+< /* Class = "NSTextFieldCell"; title = "Divisions:"; ObjectID = "din-dZ-6yd"; */
+< "din-dZ-6yd.title" = "Divisions:";
+---
+> /* Class = "NSTextFieldCell"; title = "구획:"; ObjectID = "din-dZ-6yd"; */
+> "din-dZ-6yd.title" = "구획:";
+134,135c134,135
+< /* Class = "NSTextFieldCell"; title = "Aspect ratio:"; ObjectID = "dr1-ho-4so"; */
+< "dr1-ho-4so.title" = "Aspect ratio:";
+---
+> /* Class = "NSTextFieldCell"; title = "종횡비:"; ObjectID = "dr1-ho-4so"; */
+> "dr1-ho-4so.title" = "종횡비:";
+137,138c137,138
+< /* Class = "NSBox"; title = "First axis"; ObjectID = "fol-2o-52d"; */
+< "fol-2o-52d.title" = "First axis";
+---
+> /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "fol-2o-52d"; */
+> "fol-2o-52d.title" = "첫 번째 축";
+140,141c140,141
+< /* Class = "NSBox"; title = "Snapping axis setup"; ObjectID = "gIR-9W-o9P"; */
+< "gIR-9W-o9P.title" = "Snapping axis setup";
+---
+> /* Class = "NSBox"; title = "스내핑 축 설정"; ObjectID = "gIR-9W-o9P"; */
+> "gIR-9W-o9P.title" = "스내핑 축 설정";
+143,144c143,144
+< /* Class = "NSBox"; title = "Up axis"; ObjectID = "hi0-L5-27P"; */
+< "hi0-L5-27P.title" = "Up axis";
+---
+> /* Class = "NSBox"; title = "위쪽 축"; ObjectID = "hi0-L5-27P"; */
+> "hi0-L5-27P.title" = "위쪽 축";
+146,147c146,147
+< /* Class = "NSTextFieldCell"; title = "Gutter:"; ObjectID = "i5h-i2-idG"; */
+< "i5h-i2-idG.title" = "Gutter:";
+---
+> /* Class = "NSTextFieldCell"; title = "여백:"; ObjectID = "i5h-i2-idG"; */
+> "i5h-i2-idG.title" = "여백:";
+149,150c149,150
+< /* Class = "NSTextFieldCell"; title = "Up axis"; ObjectID = "mbk-bW-X9w"; */
+< "mbk-bW-X9w.title" = "Up axis";
+---
+> /* Class = "NSTextFieldCell"; title = "위쪽 축"; ObjectID = "mbk-bW-X9w"; */
+> "mbk-bW-X9w.title" = "위쪽 축";
+155,156c155,156
+< /* Class = "NSTextFieldCell"; title = "Second axis"; ObjectID = "njh-5j-31C"; */
+< "njh-5j-31C.title" = "Second axis";
+---
+> /* Class = "NSTextFieldCell"; title = "두 번째 축"; ObjectID = "njh-5j-31C"; */
+> "njh-5j-31C.title" = "두 번째 축";
+158,159c158,159
+< /* Class = "NSTextFieldCell"; title = "Angle:"; ObjectID = "o5B-fq-o8k"; */
+< "o5B-fq-o8k.title" = "Angle:";
+---
+> /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "o5B-fq-o8k"; */
+> "o5B-fq-o8k.title" = "각도:";
+161,162c161,162
+< /* Class = "NSImageView"; ibShadowedToolTip = "Angle too close to first axis angle"; ObjectID = "oU7-GK-zWf"; */
+< "oU7-GK-zWf.ibShadowedToolTip" = "Angle too close to first axis angle";
+---
+> /* Class = "NSImageView"; ibShadowedToolTip = "첫 번째 축 각도와 너무 가깝습니다."; ObjectID = "oU7-GK-zWf"; */
+> "oU7-GK-zWf.ibShadowedToolTip" = "첫 번째 축 각도와 너무 가깝습니다.";
+164,165c164,165
+< /* Class = "NSImageView"; ibShadowedToolTip = "Angle too close to first axis angle"; ObjectID = "oWK-Lj-piF"; */
+< "oWK-Lj-piF.ibShadowedToolTip" = "Angle too close to first axis angle";
+---
+> /* Class = "NSImageView"; ibShadowedToolTip = "첫 번째 축 각도와 너무 가깝습니다."; ObjectID = "oWK-Lj-piF"; */
+> "oWK-Lj-piF.ibShadowedToolTip" = "첫 번째 축 각도와 너무 가깝습니다.";
+170,171c170,171
+< /* Class = "NSMenuItem"; title = "2:1 Isometric"; ObjectID = "qTe-gh-nor"; */
+< "qTe-gh-nor.title" = "2:1 Isometric";
+---
+> /* Class = "NSMenuItem"; title = "2:1 등각투상"; ObjectID = "qTe-gh-nor"; */
+> "qTe-gh-nor.title" = "2:1 등각투상";
+173,174c173,174
+< /* Class = "NSTextFieldCell"; title = "Grid type:"; ObjectID = "rkx-61-uq5"; */
+< "rkx-61-uq5.title" = "Grid type:";
+---
+> /* Class = "NSTextFieldCell"; title = "격자 종류:"; ObjectID = "rkx-61-uq5"; */
+> "rkx-61-uq5.title" = "격자 종류:";
+176,177c176,177
+< /* Class = "NSBox"; title = "Grid setup"; ObjectID = "sxJ-S1-i56"; */
+< "sxJ-S1-i56.title" = "Grid setup";
+---
+> /* Class = "NSBox"; title = "격자 설정"; ObjectID = "sxJ-S1-i56"; */
+> "sxJ-S1-i56.title" = "격자 설정";
+185,186c185,186
+< /* Class = "NSTextFieldCell"; title = "Intermediate angles:"; ObjectID = "w8d-hb-urP"; */
+< "w8d-hb-urP.title" = "Intermediate angles:";
+---
+> /* Class = "NSTextFieldCell"; title = "사이 각도:"; ObjectID = "w8d-hb-urP"; */
+> "w8d-hb-urP.title" = "사이 각도:";
+191,192c191,192
+< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "wvP-7Y-9LK"; */
+< "wvP-7Y-9LK.title" = "Add for constraining";
+---
+> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "wvP-7Y-9LK"; */
+> "wvP-7Y-9LK.title" = "제약 대상에 추가";
+194,195c194,195
+< /* Class = "NSTextFieldCell"; title = "Angle:"; ObjectID = "x5b-op-cHp"; */
+< "x5b-op-cHp.title" = "Angle:";
+---
+> /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "x5b-op-cHp"; */
+> "x5b-op-cHp.title" = "각도:";
+200,201c200,201
+< /* Class = "NSTextFieldCell"; title = "Spacing:"; ObjectID = "y8U-se-J3r"; */
+< "y8U-se-J3r.title" = "Spacing:";
+---
+> /* Class = "NSTextFieldCell"; title = "간격:"; ObjectID = "y8U-se-J3r"; */
+> "y8U-se-J3r.title" = "간격:";
+206,207c206,207
+< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "z5E-z0-2Fd"; */
+< "z5E-z0-2Fd.title" = "Do not add";
+---
+> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "z5E-z0-2Fd"; */
+> "z5E-z0-2Fd.title" = "추가하지 않음";
+209,210c209,210
+< /* Class = "NSTextFieldCell"; title = "Plane perpendicular axis:"; ObjectID = "zGG-hG-TvH"; */
+< "zGG-hG-TvH.title" = "Plane perpendicular axis:";
+---
+> /* Class = "NSTextFieldCell"; title = "평면 직교 축:"; ObjectID = "zGG-hG-TvH"; */
+> "zGG-hG-TvH.title" = "평면 직교 축:";
+215,216c215,216
+< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "zd2-R0-yJS"; */
+< "zd2-R0-yJS.title" = "Add for snapping";
+---
+> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "zd2-R0-yJS"; */
+> "zd2-R0-yJS.title" = "스내핑 대상에 추가";

@@ -1,0 +1,94 @@
+1,5c1,2
+< 3c3
+< < "1.title" = "Live Band-Pass Mask";
+< ---
+< > "1.title" = "ライブバンドパスマスク";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSMenuItem"; title = "Rename preset"; ObjectID = "9qa-Cr-gkz"; */
+8,9c5,8
+< > "9qa-Cr-gkz.title" = "プリセット名を変更";
+< 9c9
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 이름 변경"; ObjectID = "9qa-Cr-gkz"; */
+> > "9qa-Cr-gkz.title" = "미리 설정 이름 변경";
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "K4x-g6-vz5"; */
+12,21c11,14
+< > "K4x-g6-vz5.title" = "削除";
+< 12c12
+< < "Loc-Ae-w3a.title" = "Invert output";
+< ---
+< > "Loc-Ae-w3a.title" = "出力を反転";
+< 15c15
+< < "MQH-a4-RNs.title" = "Low Band";
+< ---
+< > "MQH-a4-RNs.title" = "ローバンド";
+< 18c18
+---
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "K4x-g6-vz5"; */
+> > "K4x-g6-vz5.title" = "지우기";
+> 17,18c17,18
+> < /* Class = "NSButtonCell"; title = "Merge"; ObjectID = "NQ0-4g-gDs"; */
+24,29c17,20
+< > "NQ0-4g-gDs.title" = "結合";
+< 21c21
+< < "Qyy-hp-iUk.title" = "Band-pass Blur Radius";
+< ---
+< > "Qyy-hp-iUk.title" = "バンドパスシャドウぼかし";
+< 24c24
+---
+> > /* Class = "NSButtonCell"; title = "통합"; ObjectID = "NQ0-4g-gDs"; */
+> > "NQ0-4g-gDs.title" = "통합";
+> 23,24c23,24
+> < /* Class = "NSButtonCell"; title = "Linear"; ObjectID = "WTV-JV-cV2"; */
+32,37c23,26
+< > "WTV-JV-cV2.title" = "線形";
+< 27c27
+< < "WxW-2F-sTP.title" = "High Band";
+< ---
+< > "WxW-2F-sTP.title" = "ハイバンド";
+< 30c30
+---
+> > /* Class = "NSButtonCell"; title = "선형"; ObjectID = "WTV-JV-cV2"; */
+> > "WTV-JV-cV2.title" = "선형";
+> 29,30c29,30
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "bmy-Pp-Ida"; */
+40,41c29,32
+< > "bmy-Pp-Ida.title" = "不透明度:";
+< 33c33
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "bmy-Pp-Ida"; */
+> > "bmy-Pp-Ida.title" = "불투명도:";
+> 32,33c32,33
+> < /* Class = "NSMenuItem"; title = "Create preset"; ObjectID = "dp4-YI-gqD"; */
+44,45c35,38
+< > "dp4-YI-gqD.title" = "プリセットを作成";
+< 36c36
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 생성"; ObjectID = "dp4-YI-gqD"; */
+> > "dp4-YI-gqD.title" = "미리 설정 생성";
+> 35,36c35,36
+> < /* Class = "NSMenuItem"; title = "Delete preset"; ObjectID = "dyU-CK-fmy"; */
+48,49c41,44
+< > "dyU-CK-fmy.title" = "プリセットを削除";
+< 39c39
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "dyU-CK-fmy"; */
+> > "dyU-CK-fmy.title" = "미리 설정 지우기";
+> 38,39c38,39
+> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "gdB-lE-HfE"; */
+52,60c47,48
+< > "gdB-lE-HfE.title" = "リセット";
+< 42c42
+< < "mjH-yT-uPr.title" = "Preview";
+< ---
+< > "mjH-yT-uPr.title" = "プレビュー";
+< 45c45
+< < "uhE-DR-JW9.title" = "Intensity Map";
+< ---
+< > "uhE-DR-JW9.title" = "強度マップ";
+---
+> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "gdB-lE-HfE"; */
+> > "gdB-lE-HfE.title" = "재설정";

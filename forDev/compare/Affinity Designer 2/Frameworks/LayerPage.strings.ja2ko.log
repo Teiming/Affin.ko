@@ -1,0 +1,1218 @@
+1c1,2
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "108"; */
+4,5c5,8
+< > "108.title" = "不透明度:";
+< 9c9
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "108"; */
+> > "108.title" = "불투명도:";
+> 8,9c8,9
+> < /* Class = "NSButton"; ibShadowedToolTip = "Add Layer"; ObjectID = "157"; */
+8,9c11,14
+< > "157.ibShadowedToolTip" = "レイヤーを追加";
+< 12c12
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 추가"; ObjectID = "157"; */
+> > "157.ibShadowedToolTip" = "레이어 추가";
+> 11,12c11,12
+> < /* Class = "NSButton"; ibShadowedToolTip = "Remove Layer"; ObjectID = "164"; */
+12,13c17,20
+< > "164.ibShadowedToolTip" = "レイヤーを削除";
+< 15c15
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 지우기"; ObjectID = "164"; */
+> > "164.ibShadowedToolTip" = "레이어 지우기";
+> 14,15c14,15
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mask Layer"; ObjectID = "167"; */
+16,17c23,26
+< > "167.ibShadowedToolTip" = "マスクレイヤー";
+< 18c18
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "마스크 레이어"; ObjectID = "167"; */
+> > "167.ibShadowedToolTip" = "마스크 레이어";
+> 17,18c17,18
+> < /* Class = "NSButton"; ibShadowedToolTip = "Adjustments"; ObjectID = "170"; */
+20,21c29,32
+< > "170.ibShadowedToolTip" = "調整";
+< 21c21
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "조정"; ObjectID = "170"; */
+> > "170.ibShadowedToolTip" = "조정";
+> 20,21c20,21
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "173"; */
+24,29c35,38
+< > "173.ibShadowedToolTip" = "レイヤーエフェクト";
+< 24c24
+< < "0N1-K6-tCa.title" = "Mask to Below";
+< ---
+< > "0N1-K6-tCa.title" = "下のレイヤーにマスクを使用";
+< 27c27
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "173"; */
+> > "173.ibShadowedToolTip" = "레이어 효과";
+> 26,27c26,27
+> < /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "0ei-lO-DFN"; */
+32,37c41,44
+< > "0ei-lO-DFN.title" = "ロック";
+< 30c30
+< < "0vB-oy-A9X.title" = "Procedural Texture…";
+< ---
+< > "0vB-oy-A9X.title" = "プロシージャルテクスチャ…";
+< 33c33
+---
+> > /* Class = "NSMenuItem"; title = "잠금"; ObjectID = "0ei-lO-DFN"; */
+> > "0ei-lO-DFN.title" = "잠금";
+> 32,33c32,33
+> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "2Hb-1s-nNS"; */
+40,45c47,50
+< > "2Hb-1s-nNS.title" = "複製";
+< 36c36
+< < "2UE-TY-ZEp.title" = "Field Blur…";
+< ---
+< > "2UE-TY-ZEp.title" = "フィールドぼかし…";
+< 39c39
+---
+> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "2Hb-1s-nNS"; */
+> > "2Hb-1s-nNS.title" = "복제";
+> 38,39c38,39
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "2zz-tV-sEO"; */
+48,53c53,56
+< > "2zz-tV-sEO.title" = "カット";
+< 42c42
+< < "3Cy-pU-xbV.title" = "Color Balance…";
+< ---
+< > "3Cy-pU-xbV.title" = "カラーバランス…";
+< 45c45
+---
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "2zz-tV-sEO"; */
+> > "2zz-tV-sEO.title" = "오려두기";
+> 44,45c44,45
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "3KO-uC-p7G"; */
+56,65c59,62
+< > "3KO-uC-p7G.title" = "ペースト";
+< 48c48
+< < "3PJ-5b-LTw.title" = "Preflight Comment";
+< ---
+< > "3PJ-5b-LTw.title" = "プリフライトコメント";
+< 51c51
+< < "3pC-0D-ZMZ.title" = "Select Parent";
+< ---
+< > "3pC-0D-ZMZ.title" = "親を選択";
+< 54c54
+---
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "3KO-uC-p7G"; */
+> > "3KO-uC-p7G.title" = "붙이기";
+> 53,54c53,54
+> < /* Class = "NSMenuItem"; title = "Group"; ObjectID = "3sn-hH-AxX"; */
+68,73c65,68
+< > "3sn-hH-AxX.title" = "グループ化";
+< 57c57
+< < "410-7P-30G.title" = "Release";
+< ---
+< > "410-7P-30G.title" = "解除";
+< 60c60
+---
+> > /* Class = "NSMenuItem"; title = "그룹"; ObjectID = "3sn-hH-AxX"; */
+> > "3sn-hH-AxX.title" = "그룹";
+> 59,60c59,60
+> < /* Class = "NSButton"; ibShadowedToolTip = "Lock/Unlock"; ObjectID = "4bE-Ph-Kya"; */
+76,101c71,74
+< > "4bE-Ph-Kya.ibShadowedToolTip" = "ロック/ロック解除";
+< 63c63
+< < "54n-ro-kqV.title" = "Spherical…";
+< ---
+< > "54n-ro-kqV.title" = "球面…";
+< 66c66
+< < "5IQ-Lu-TDX.title" = "Dust & Scratches…";
+< ---
+< > "5IQ-Lu-TDX.title" = "ダスト&スクラッチ…";
+< 69c69
+< < "5eK-jL-Jut.title" = "Release Mask";
+< ---
+< > "5eK-jL-Jut.title" = "マスクの解除";
+< 72c72
+< < "651-f4-Nf5.title" = "Voronoi…";
+< ---
+< > "651-f4-Nf5.title" = "水晶…";
+< 75c75
+< < "6f3-Ib-fxL.title" = "Posterize…";
+< ---
+< > "6f3-Ib-fxL.title" = "ポスタライズ…";
+< 78c78
+< < "71e-Zc-lJH.title" = "Depth Of Field…";
+< ---
+< > "71e-Zc-lJH.title" = "被写界深度…";
+< 81c81
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "잠금/잠금 풀기"; ObjectID = "4bE-Ph-Kya"; */
+> > "4bE-Ph-Kya.ibShadowedToolTip" = "잠금/잠금 풀기";
+> 80,81c80,81
+> < /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "7Ab-hq-qJg"; */
+104,105c77,80
+< > "7Ab-hq-qJg.title" = "非表示";
+< 84c84
+---
+> > /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "7Ab-hq-qJg"; */
+> > "7Ab-hq-qJg.title" = "가리기";
+> 83,84c83,84
+> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "7eK-A4-q39"; */
+108,117c83,86
+< > "7eK-A4-q39.title" = "削除";
+< 87c87
+< < "7eq-yN-pCf.title" = "Exclude from Snapping";
+< ---
+< > "7eq-yN-pCf.title" = "スナップから除外";
+< 90c90
+< < "7tZ-zN-cL9.title" = "Mask to Below";
+< ---
+< > "7tZ-zN-cL9.title" = "下のレイヤーにマスクを使用";
+< 93c93
+---
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "7eK-A4-q39"; */
+> > "7eK-A4-q39.title" = "지우기";
+> 92,93c92,93
+> < /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "87p-cM-8aU"; */
+120,125c89,92
+< > "87p-cM-8aU.title" = "ロック";
+< 96c96
+< < "8x7-Ck-GRK.title" = "Edit Frame Content";
+< ---
+< > "8x7-Ck-GRK.title" = "フレームコンテンツを編集";
+< 99c99
+---
+> > /* Class = "NSMenuItem"; title = "잠금"; ObjectID = "87p-cM-8aU"; */
+> > "87p-cM-8aU.title" = "잠금";
+> 98,99c98,99
+> < /* Class = "NSMenuItem"; title = "New Layer"; ObjectID = "9DK-c4-kDe"; */
+128,129c95,98
+< > "9DK-c4-kDe.title" = "新規レイヤー";
+< 102c102
+---
+> > /* Class = "NSMenuItem"; title = "신규 레이어"; ObjectID = "9DK-c4-kDe"; */
+> > "9DK-c4-kDe.title" = "신규 레이어";
+> 101,102c101,102
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "9OG-Fb-KB2"; */
+132,177c101,104
+< > "9OG-Fb-KB2.title" = "カット";
+< 105c105
+< < "9h1-iC-Lh3.title" = "Arc - Vertical";
+< ---
+< > "9h1-iC-Lh3.title" = "円弧 - 垂直";
+< 108c108
+< < "ADS-DR-aKK.title" = "Refine Mask...";
+< ---
+< > "ADS-DR-aKK.title" = "マスクの調整...";
+< 111c111
+< < "Adn-9m-x7e.title" = "Normals…";
+< ---
+< > "Adn-9m-x7e.title" = "法線…";
+< 114c114
+< < "Ajp-cQ-VFF.title" = "Mesh Warp…";
+< ---
+< > "Ajp-cQ-VFF.title" = "メッシュワープ…";
+< 117c117
+< < "BMy-y6-fUm.title" = "Rasterize & Trim…";
+< ---
+< > "BMy-y6-fUm.title" = "ラスタライズ&トリム…";
+< 120c120
+< < "BU4-y1-JP2.title" = "Rasterize & Trim…";
+< ---
+< > "BU4-y1-JP2.title" = "ラスタライズ&トリム…";
+< 123c123
+< < "Bhe-Rj-DGT.title" = "Twist";
+< ---
+< > "Bhe-Rj-DGT.title" = "ツイスト";
+< 126c126
+< < "BkK-Co-xJV.title" = "Color Tag Placeholder";
+< ---
+< > "BkK-Co-xJV.title" = "カラータグプレースホルダー";
+< 129c129
+< < "C8u-AZ-voy.title" = "Ripple…";
+< ---
+< > "C8u-AZ-voy.title" = "波紋…";
+< 132c132
+< < "CBp-Ub-Dp8.title" = "Selective Color…";
+< ---
+< > "CBp-Ub-Dp8.title" = "特定色域…";
+< 135c135
+< < "CNa-ig-aaT.title" = "Empty Mask";
+< ---
+< > "CNa-ig-aaT.title" = "空のマスク";
+< 138c138
+---
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "9OG-Fb-KB2"; */
+> > "9OG-Fb-KB2.title" = "오려두기";
+> 137,138c137,138
+> < /* Class = "NSMenuItem"; title = "Merge Down"; ObjectID = "CRZ-rD-EK4"; */
+180,193c107,110
+< > "CRZ-rD-EK4.title" = "下のレイヤーと結合";
+< 141c141
+< < "D3K-5a-rHG.title" = "Show Object Type";
+< ---
+< > "D3K-5a-rHG.title" = "オブジェクトタイプを表示";
+< 144c144
+< < "DAc-v6-0rC.title" = "Diffuse…";
+< ---
+< > "DAc-v6-0rC.title" = "拡散…";
+< 147c147
+< < "DXI-ee-UI2.title" = "Bend - Horizontal";
+< ---
+< > "DXI-ee-UI2.title" = "曲げ - 水平";
+< 150c150
+---
+> > /* Class = "NSMenuItem"; title = "아래 항목 통합"; ObjectID = "CRZ-rD-EK4"; */
+> > "CRZ-rD-EK4.title" = "아래 항목 통합";
+> 149,150c149,150
+> < /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Dix-1O-NLA"; */
+196,201c113,116
+< > "Dix-1O-NLA.title" = "他を隠す";
+< 153c153
+< < "DuV-rb-GfA.title" = "Expand Selection";
+< ---
+< > "DuV-rb-GfA.title" = "選択範囲の展開";
+< 156c156
+---
+> > /* Class = "NSMenuItem"; title = "기타 가리기"; ObjectID = "Dix-1O-NLA"; */
+> > "Dix-1O-NLA.title" = "기타 가리기";
+> 155,156c155,156
+> < /* Class = "NSMenuItem"; title = "Merge Visible"; ObjectID = "E6G-hK-iFa"; */
+204,217c119,122
+< > "E6G-hK-iFa.title" = "表示レイヤーを結合";
+< 159c159
+< < "EUZ-cx-w79.title" = "Levels…";
+< ---
+< > "EUZ-cx-w79.title" = "レベル…";
+< 162c162
+< < "Ebf-rT-roF.title" = "Color Tag Placeholder";
+< ---
+< > "Ebf-rT-roF.title" = "カラータグプレースホルダー";
+< 165c165
+< < "Fda-Uy-jwc.title" = "Quad";
+< ---
+< > "Fda-Uy-jwc.title" = "クアッド";
+< 168c168
+---
+> > /* Class = "NSMenuItem"; title = "보이는 항목 통합"; ObjectID = "E6G-hK-iFa"; */
+> > "E6G-hK-iFa.title" = "보이는 항목 통합";
+> 167,168c167,168
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "FoJ-NY-5Ov"; */
+220,245c125,128
+< > "FoJ-NY-5Ov.title" = "ペースト";
+< 171c171
+< < "GNc-XS-WkR.ibShadowedToolTip" = "Warp";
+< ---
+< > "GNc-XS-WkR.ibShadowedToolTip" = "ワープ";
+< 174c174
+< < "GvO-16-DzV.title" = "Denoise…";
+< ---
+< > "GvO-16-DzV.title" = "ノイズ除去…";
+< 177c177
+< < "Gye-W2-jRI.title" = "Perspective…";
+< ---
+< > "Gye-W2-jRI.title" = "パースペクティブ…";
+< 180c180
+< < "H5V-Ku-YBI.title" = "Maximum Blur…";
+< ---
+< > "H5V-Ku-YBI.title" = "最大ぼかし…";
+< 183c183
+< < "HRa-fh-uj1.title" = "Minimum Blur…";
+< ---
+< > "HRa-fh-uj1.title" = "最小ぼかし…";
+< 186c186
+< < "HY8-Nu-XR5.ibShadowedToolTip" = "Live Filters";
+< ---
+< > "HY8-Nu-XR5.ibShadowedToolTip" = "ライブフィルター";
+< 189c189
+---
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "FoJ-NY-5Ov"; */
+> > "FoJ-NY-5Ov.title" = "붙이기";
+> 188,189c188,189
+> < /* Class = "NSMenuItem"; title = "New Pixel Layer"; ObjectID = "HdJ-lz-exU"; */
+248,253c131,134
+< > "HdJ-lz-exU.title" = "新規ピクセルレイヤー";
+< 192c192
+< < "HdS-WT-IE7.title" = "Release";
+< ---
+< > "HdS-WT-IE7.title" = "解除";
+< 195c195
+---
+> > /* Class = "NSMenuItem"; title = "신규 픽셀 레이어"; ObjectID = "HdJ-lz-exU"; */
+> > "HdJ-lz-exU.title" = "신규 픽셀 레이어";
+> 194,195c194,195
+> < /* Class = "NSMenuItem"; title = "Invert"; ObjectID = "I4d-uU-nRU"; */
+256,269c137,140
+< > "I4d-uU-nRU.title" = "反転";
+< 198c198
+< < "IEh-6e-cCG.title" = "Lens Filter…";
+< ---
+< > "IEh-6e-cCG.title" = "レンズフィルター…";
+< 201c201
+< < "IMu-Gr-bUZ.title" = "Collapse Selection";
+< ---
+< > "IMu-Gr-bUZ.title" = "選択範囲の折りたたみ";
+< 204c204
+< < "Ijy-rQ-bU2.title" = "Expand Selection";
+< ---
+< > "Ijy-rQ-bU2.title" = "選択範囲の展開";
+< 207c207
+---
+> > /* Class = "NSMenuItem"; title = "반전"; ObjectID = "I4d-uU-nRU"; */
+> > "I4d-uU-nRU.title" = "반전";
+> 206,207c206,207
+> < /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "IkG-NO-9Zx"; */
+272,273c143,146
+< > "IkG-NO-9Zx.title" = "非表示";
+< 210c210
+---
+> > /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "IkG-NO-9Zx"; */
+> > "IkG-NO-9Zx.title" = "가리기";
+> 209,210c209,210
+> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "JH2-6A-U0B"; */
+276,277c149,152
+< > "JH2-6A-U0B.title" = "削除";
+< 213c213
+---
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "JH2-6A-U0B"; */
+> > "JH2-6A-U0B.title" = "지우기";
+> 212,213c212,213
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "JuM-B0-ypn"; */
+280,285c155,158
+< > "JuM-B0-ypn.title" = "ペースト";
+< 216c216
+< < "K6S-GX-59r.title" = "Displace…";
+< ---
+< > "K6S-GX-59r.title" = "置き換え…";
+< 219c219
+---
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "JuM-B0-ypn"; */
+> > "JuM-B0-ypn.title" = "붙이기";
+> 218,219c218,219
+> < /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "K8g-kE-GAk"; */
+288,309c161,164
+< > "K8g-kE-GAk.title" = "非表示";
+< 222c222
+< < "KIV-Uq-ytQ.title" = "Vignette…";
+< ---
+< > "KIV-Uq-ytQ.title" = "ビネット…";
+< 225c225
+< < "KPN-AR-hOG.title" = "Release";
+< ---
+< > "KPN-AR-hOG.title" = "解除";
+< 228c228
+< < "KYh-iz-0Po.title" = "Vibrance…";
+< ---
+< > "KYh-iz-0Po.title" = "自然な彩度…";
+< 231c231
+< < "Keu-l7-gGh.title" = "Collapse Selection";
+< ---
+< > "Keu-l7-gGh.title" = "選択範囲の折りたたみ";
+< 234c234
+< < "Kqi-y1-nN1.title" = "Threshold…";
+< ---
+< > "Kqi-y1-nN1.title" = "しきい値…";
+< 237c237
+---
+> > /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "K8g-kE-GAk"; */
+> > "K8g-kE-GAk.title" = "가리기";
+> 236,237c236,237
+> < /* Class = "NSMenuItem"; title = "Merge Visible"; ObjectID = "Lee-Dz-BaE"; */
+312,313c167,170
+< > "Lee-Dz-BaE.title" = "表示レイヤーを結合";
+< 240c240
+---
+> > /* Class = "NSMenuItem"; title = "보이는 항목 통합"; ObjectID = "Lee-Dz-BaE"; */
+> > "Lee-Dz-BaE.title" = "보이는 항목 통합";
+> 239,240c239,240
+> < /* Class = "NSMenuItem"; title = "Merge Selected"; ObjectID = "Mau-8E-HK8"; */
+316,318c173,176
+< > "Mau-8E-HK8.title" = "選択範囲を結合";
+< 243c243
+< < "MmL-mr-DDu.title" = "Rasterize to Mask";
+---
+> > /* Class = "NSMenuItem"; title = "선택 항목 통합"; ObjectID = "Mau-8E-HK8"; */
+> > "Mau-8E-HK8.title" = "선택 항목 통합";
+> 242c242
+> < /* Class = "NSMenuItem"; title = "Rasterise to Mask"; ObjectID = "MmL-mr-DDu"; */
+320,333c178,180
+< > "MmL-mr-DDu.title" = "マスクにラスタライズ";
+< 246c246
+< < "Mn9-9M-JEz.title" = "Exclude from Snapping";
+< ---
+< > "Mn9-9M-JEz.title" = "スナップから除外";
+< 249c249
+< < "NEW-bK-5WJ.title" = "Rasterize & Trim…";
+< ---
+< > "NEW-bK-5WJ.title" = "ラスタライズ&トリム…";
+< 252c252
+< < "NKx-kP-jVf.title" = "Gradient Map…";
+< ---
+< > "NKx-kP-jVf.title" = "グラデーションマップ…";
+< 255c255
+---
+> > /* Class = "NSMenuItem"; title = "마스크 래스터화"; ObjectID = "MmL-mr-DDu"; */
+> 254,255c254,255
+> < /* Class = "NSMenuItem"; title = "Large Thumbnails"; ObjectID = "OSQ-ja-PfP"; */
+336,349c183,186
+< > "OSQ-ja-PfP.title" = "サムネイル大";
+< 258c258
+< < "OSs-ig-FHC.title" = "Expand Selection";
+< ---
+< > "OSs-ig-FHC.title" = "選択範囲の展開";
+< 261c261
+< < "Omw-yO-gxY.title" = "Twirl…";
+< ---
+< > "Omw-yO-gxY.title" = "渦巻き…";
+< 264c264
+< < "Oq8-NE-dRv.title" = "Curves…";
+< ---
+< > "Oq8-NE-dRv.title" = "カーブ…";
+< 267c267
+---
+> > /* Class = "NSMenuItem"; title = "큰 마중그림"; ObjectID = "OSQ-ja-PfP"; */
+> > "OSQ-ja-PfP.title" = "큰 마중그림";
+> 266,267c266,267
+> < /* Class = "NSMenuItem"; title = "Dark"; ObjectID = "P65-bU-b5x"; */
+352,353c189,192
+< > "P65-bU-b5x.title" = "ダーク";
+< 270c270
+---
+> > /* Class = "NSMenuItem"; title = "다크"; ObjectID = "P65-bU-b5x"; */
+> > "P65-bU-b5x.title" = "다크";
+> 269,270c269,270
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "PF5-dY-ItF"; */
+356,361c195,198
+< > "PF5-dY-ItF.title" = "カット";
+< 273c273
+< < "PKn-Mm-xuT.title" = "Channel Mixer…";
+< ---
+< > "PKn-Mm-xuT.title" = "チャンネルミキサー…";
+< 276c276
+---
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "PF5-dY-ItF"; */
+> > "PF5-dY-ItF.title" = "오려두기";
+> 275,276c275,276
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "PNB-AL-3qq"; */
+364,365c201,204
+< > "PNB-AL-3qq.title" = "コピー";
+< 279c279
+---
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "PNB-AL-3qq"; */
+> > "PNB-AL-3qq.title" = "복사";
+> 278,279c278,279
+> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "QDb-v0-U5W"; */
+368,369c207,210
+< > "QDb-v0-U5W.title" = "複製";
+< 282c282
+---
+> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "QDb-v0-U5W"; */
+> > "QDb-v0-U5W.title" = "복제";
+> 281,282c281,282
+> < /* Class = "NSMenuItem"; title = "Mask"; ObjectID = "QW0-kh-KcE"; */
+372,373c213,216
+< > "QW0-kh-KcE.title" = "マスク";
+< 285c285
+---
+> > /* Class = "NSMenuItem"; title = "마스크"; ObjectID = "QW0-kh-KcE"; */
+> > "QW0-kh-KcE.title" = "마스크";
+> 284,285c284,285
+> < /* Class = "NSMenuItem"; title = "New Pixel Layer"; ObjectID = "Qgw-oc-VnG"; */
+376,381c219,222
+< > "Qgw-oc-VnG.title" = "新規ピクセルレイヤー";
+< 288c288
+< < "RaI-hw-4YR.title" = "Collapse Selection";
+< ---
+< > "RaI-hw-4YR.title" = "選択範囲の折りたたみ";
+< 291c291
+---
+> > /* Class = "NSMenuItem"; title = "신규 픽셀 레이어"; ObjectID = "Qgw-oc-VnG"; */
+> > "Qgw-oc-VnG.title" = "신규 픽셀 레이어";
+> 290,291c290,291
+> < /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "S2r-Rh-7IK"; */
+384,401c225,228
+< > "S2r-Rh-7IK.title" = "ロック";
+< 294c294
+< < "S5i-WE-IB6.title" = "Select Parent";
+< ---
+< > "S5i-WE-IB6.title" = "親を選択";
+< 297c297
+< < "Swu-Q9-rrW.title" = "Show Others";
+< ---
+< > "Swu-Q9-rrW.title" = "その他を表示";
+< 300c300
+< < "TRz-oj-Dg4.title" = "Perspective";
+< ---
+< > "TRz-oj-Dg4.title" = "パースペクティブ";
+< 303c303
+< < "TjQ-96-DeA.title" = "Exposure…";
+< ---
+< > "TjQ-96-DeA.title" = "露出…";
+< 306c306
+---
+> > /* Class = "NSMenuItem"; title = "잠금"; ObjectID = "S2r-Rh-7IK"; */
+> > "S2r-Rh-7IK.title" = "잠금";
+> 305,306c305,306
+> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "TwW-TW-fDj"; */
+404,406c231,234
+< > "TwW-TW-fDj.title" = "複製";
+< 309c309
+< < "UAm-lY-cwe.title" = "Rasterize to Mask";
+---
+> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "TwW-TW-fDj"; */
+> > "TwW-TW-fDj.title" = "복제";
+> 308c308
+> < /* Class = "NSMenuItem"; title = "Rasterise to Mask"; ObjectID = "UAm-lY-cwe"; */
+408,409c236,238
+< > "UAm-lY-cwe.title" = "マスクにラスタライズ";
+< 312c312
+---
+> > /* Class = "NSMenuItem"; title = "마스크 래스터화"; ObjectID = "UAm-lY-cwe"; */
+> 311,312c311,312
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UTa-p5-pgM"; */
+412,414c241,244
+< > "UTa-p5-pgM.title" = "テキストセル";
+< 315c315
+< < "UfA-rH-oP6.title" = "Properties…";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "UTa-p5-pgM"; */
+> > "UTa-p5-pgM.title" = "텍스트 셀";
+> 317c317
+> < /* Class = "NSMenuItem"; title = "Rasterise to Mask"; ObjectID = "UoG-zn-DFb"; */
+416,437c246,248
+< > "UfA-rH-oP6.title" = "プロパティ…";
+< 318c318
+< < "UoG-zn-DFb.title" = "Rasterize to Mask";
+< ---
+< > "UoG-zn-DFb.title" = "マスクにラスタライズ";
+< 321c321
+< < "VF8-jt-RrP.title" = "Luminosity Range Mask…";
+< ---
+< > "VF8-jt-RrP.title" = "輝度範囲マスク…";
+< 324c324
+< < "VGC-ZU-76a.title" = "Radial Blur…";
+< ---
+< > "VGC-ZU-76a.title" = "放射状ぼかし…";
+< 327c327
+< < "VvG-AZ-ANl.title" = "Collapse All Parents";
+< ---
+< > "VvG-AZ-ANl.title" = "すべての親を折りたたむ";
+< 330c330
+< < "W5X-AA-7Fa.title" = "Checkerboard";
+< ---
+< > "W5X-AA-7Fa.title" = "チェッカーボード";
+< 333c333
+---
+> > /* Class = "NSMenuItem"; title = "마스크 래스터화"; ObjectID = "UoG-zn-DFb"; */
+> 332,333c332,333
+> < /* Class = "NSMenuItem"; title = "New Pixel Layer"; ObjectID = "WFi-Kq-B9V"; */
+440,445c251,254
+< > "WFi-Kq-B9V.title" = "新規ピクセルレイヤー";
+< 336c336
+< < "XUK-pB-oQF.title" = "Lens Blur…";
+< ---
+< > "XUK-pB-oQF.title" = "レンズぼかし…";
+< 339c339
+---
+> > /* Class = "NSMenuItem"; title = "신규 픽셀 레이어"; ObjectID = "WFi-Kq-B9V"; */
+> > "WFi-Kq-B9V.title" = "신규 픽셀 레이어";
+> 338,339c338,339
+> < /* Class = "NSButton"; ibShadowedToolTip = "Edit All Layers"; ObjectID = "XUo-8X-01p"; */
+448,449c257,260
+< > "XUo-8X-01p.ibShadowedToolTip" = "すべてのレイヤーを編集";
+< 342c342
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "모든 레이어 편집"; ObjectID = "XUo-8X-01p"; */
+> > "XUo-8X-01p.ibShadowedToolTip" = "모든 레이어 편집";
+> 341,342c341,342
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Xco-Zy-yQ3"; */
+452,453c263,266
+< > "Xco-Zy-yQ3.title" = "カット";
+< 345c345
+---
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "Xco-Zy-yQ3"; */
+> > "Xco-Zy-yQ3.title" = "오려두기";
+> 344,345c344,345
+> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "Xgf-2p-THS"; */
+456,458c269,272
+< > "Xgf-2p-THS.title" = "削除";
+< 348c348
+< < "Y3K-9B-l09.title" = "Select Same Tag Color";
+---
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "Xgf-2p-THS"; */
+> > "Xgf-2p-THS.title" = "지우기";
+> 347c347
+> < /* Class = "NSMenuItem"; title = "Select Same Tag Colour"; ObjectID = "Y3K-9B-l09"; */
+460,461c274,276
+< > "Y3K-9B-l09.title" = "同じタグカラーを選択";
+< 351c351
+---
+> > /* Class = "NSMenuItem"; title = "태그 색상으로 동일 선택"; ObjectID = "Y3K-9B-l09"; */
+> 350,351c350,351
+> < /* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "Yck-jy-C1r"; */
+464,477c279,282
+< > "Yck-jy-C1r.title" = "グループ解除";
+< 357c357
+< < "ZU9-TJ-4oq.title" = "Preflight Comment";
+< ---
+< > "ZU9-TJ-4oq.title" = "プリフライトコメント";
+< 360c360
+< < "ZUW-uh-KrE.title" = "Halftone…";
+< ---
+< > "ZUW-uh-KrE.title" = "ハーフトーン…";
+< 363c363
+< < "Zcx-kR-NPS.title" = "Unsharp Mask…";
+< ---
+< > "Zcx-kR-NPS.title" = "アンシャープマスク…";
+< 366c366
+---
+> > /* Class = "NSMenuItem"; title = "그룹 풀기"; ObjectID = "Yck-jy-C1r"; */
+> > "Yck-jy-C1r.title" = "그룹 풀기";
+> 365,366c365,366
+> < /* Class = "NSMenuItem"; title = "Medium Thumbnails"; ObjectID = "a8r-CN-E4L"; */
+480,482c285,288
+< > "a8r-CN-E4L.title" = "サムネイル中";
+< 369c369
+< < "ac1-Ze-KJK.title" = "Brightness and Contrast…";
+---
+> > /* Class = "NSMenuItem"; title = "중간 마중그림"; ObjectID = "a8r-CN-E4L"; */
+> > "a8r-CN-E4L.title" = "중간 마중그림";
+> 374c374
+> < /* Class = "NSMenuItem"; title = "Select Same Tag Colour"; ObjectID = "afm-gE-ZSx"; */
+484,501c290,292
+< > "ac1-Ze-KJK.title" = "明るさとコントラスト…";
+< 372c372
+< < "aey-y9-0vT.title" = "Liquify…";
+< ---
+< > "aey-y9-0vT.title" = "ゆがみ…";
+< 375c375
+< < "afm-gE-ZSx.title" = "Select Same Tag Color";
+< ---
+< > "afm-gE-ZSx.title" = "同じタグカラーを選択";
+< 378c378
+< < "aos-pW-97h.title" = "Hue Range Mask…";
+< ---
+< > "aos-pW-97h.title" = "色相範囲マスク…";
+< 381c381
+< < "asZ-KS-OcW.title" = "Bend - Vertical";
+< ---
+< > "asZ-KS-OcW.title" = "曲げ - 垂直";
+< 384c384
+---
+> > /* Class = "NSMenuItem"; title = "태그 색상으로 동일 선택"; ObjectID = "afm-gE-ZSx"; */
+> 383,384c383,384
+> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "bYy-Pn-5XB"; */
+504,506c295,298
+< > "bYy-Pn-5XB.title" = "削除";
+< 387c387
+< < "brq-16-CzO.title" = "Fish Eye";
+---
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "bYy-Pn-5XB"; */
+> > "bYy-Pn-5XB.title" = "지우기";
+> 389c389
+> < /* Class = "NSMenuItem"; title = "Rasterise…"; ObjectID = "buw-mG-r1d"; */
+508,521c300,302
+< > "brq-16-CzO.title" = "魚眼";
+< 390c390
+< < "buw-mG-r1d.title" = "Rasterize…";
+< ---
+< > "buw-mG-r1d.title" = "ラスタライズ…";
+< 393c393
+< < "bvX-0g-T0d.title" = "Expand Selection";
+< ---
+< > "bvX-0g-T0d.title" = "選択範囲の展開";
+< 396c396
+< < "bwh-Yp-RYg.title" = "Color Tag Placeholder";
+< ---
+< > "bwh-Yp-RYg.title" = "カラータグプレースホルダー";
+< 399c399
+---
+> > /* Class = "NSMenuItem"; title = "래스터화…"; ObjectID = "buw-mG-r1d"; */
+> 398,399c398,399
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "cHP-BL-cl5"; */
+524,525c305,308
+< > "cHP-BL-cl5.title" = "コピー";
+< 402c402
+---
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "cHP-BL-cl5"; */
+> > "cHP-BL-cl5.title" = "복사";
+> 401,402c401,402
+> < /* Class = "NSMenuItem"; title = "Group"; ObjectID = "cSJ-AW-6yE"; */
+528,533c311,314
+< > "cSJ-AW-6yE.title" = "グループ化";
+< 405c405
+< < "cbF-6M-ptW.title" = "Gaussian Blur…";
+< ---
+< > "cbF-6M-ptW.title" = "ガウスぼかし…";
+< 408c408
+---
+> > /* Class = "NSMenuItem"; title = "그룹"; ObjectID = "cSJ-AW-6yE"; */
+> > "cSJ-AW-6yE.title" = "그룹";
+> 407,408c407,408
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "cp6-gI-rg4"; */
+536,541c317,320
+< > "cp6-gI-rg4.title" = "コピー";
+< 411c411
+< < "cwG-4t-ZTf.title" = "Lens Distortion…";
+< ---
+< > "cwG-4t-ZTf.title" = "レンズゆがみ…";
+< 414c414
+---
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "cp6-gI-rg4"; */
+> > "cp6-gI-rg4.title" = "복사";
+> 413,414c413,414
+> < /* Class = "NSMenuItem"; title = "New Layer"; ObjectID = "cxk-Gp-eNd"; */
+544,557c323,326
+< > "cxk-Gp-eNd.title" = "新規レイヤー";
+< 417c417
+< < "dS5-17-jOa.title" = "Collapse Selection";
+< ---
+< > "dS5-17-jOa.title" = "選択範囲の折りたたみ";
+< 420c420
+< < "dUN-TC-4vJ.title" = "Mask to Below";
+< ---
+< > "dUN-TC-4vJ.title" = "下のレイヤーにマスクを使用";
+< 423c423
+< < "ddz-dY-viZ.title" = "Bilateral Blur…";
+< ---
+< > "ddz-dY-viZ.title" = "表面ぼかし…";
+< 426c426
+---
+> > /* Class = "NSMenuItem"; title = "신규 레이어"; ObjectID = "cxk-Gp-eNd"; */
+> > "cxk-Gp-eNd.title" = "신규 레이어";
+> 425,426c425,426
+> < /* Class = "NSMenuItem"; title = "Merge Visible"; ObjectID = "dxk-Tc-mWM"; */
+560,565c329,332
+< > "dxk-Tc-mWM.title" = "表示レイヤーを結合";
+< 429c429
+< < "e8N-Q7-x1a.title" = "Band-pass Mask…";
+< ---
+< > "e8N-Q7-x1a.title" = "バンドパスマスク…";
+< 432c432
+---
+> > /* Class = "NSMenuItem"; title = "보이는 항목 통합"; ObjectID = "dxk-Tc-mWM"; */
+> > "dxk-Tc-mWM.title" = "보이는 항목 통합";
+> 431,432c431,432
+> < /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "eff-c0-fWI"; */
+568,573c335,338
+< > "eff-c0-fWI.title" = "非表示";
+< 435c435
+< < "eoK-JN-x1T.title" = "Pinch / Punch…";
+< ---
+< > "eoK-JN-x1T.title" = "ピンチ/パンチ…";
+< 438c438
+---
+> > /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "eff-c0-fWI"; */
+> > "eff-c0-fWI.title" = "가리기";
+> 437,438c437,438
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "fpe-ZH-kMm"; */
+576,577c341,344
+< > "fpe-ZH-kMm.title" = "カット";
+< 441c441
+---
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "fpe-ZH-kMm"; */
+> > "fpe-ZH-kMm.title" = "오려두기";
+> 440,441c440,441
+> < /* Class = "NSMenuItem"; title = "New Layer"; ObjectID = "fuV-8Z-OaX"; */
+580,581c347,350
+< > "fuV-8Z-OaX.title" = "新規レイヤー";
+< 444c444
+---
+> > /* Class = "NSMenuItem"; title = "신규 레이어"; ObjectID = "fuV-8Z-OaX"; */
+> > "fuV-8Z-OaX.title" = "신규 레이어";
+> 443,444c443,444
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "fxc-sC-Q4b"; */
+584,585c353,356
+< > "fxc-sC-Q4b.title" = "ペースト";
+< 447c447
+---
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "fxc-sC-Q4b"; */
+> > "fxc-sC-Q4b.title" = "붙이기";
+> 446,447c446,447
+> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "fyV-kE-dA7"; */
+588,589c359,362
+< > "fyV-kE-dA7.title" = "複製";
+< 450c450
+---
+> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "fyV-kE-dA7"; */
+> > "fyV-kE-dA7.title" = "복제";
+> 449,450c449,450
+> < /* Class = "NSMenuItem"; title = "Merge Down"; ObjectID = "gPr-k7-4dz"; */
+592,597c365,368
+< > "gPr-k7-4dz.title" = "下のレイヤーと結合";
+< 453c453
+< < "gQ1-KW-jqe.title" = "Shadows / Highlights…";
+< ---
+< > "gQ1-KW-jqe.title" = "シャドウ/ハイライト…";
+< 456c456
+---
+> > /* Class = "NSMenuItem"; title = "아래 항목 통합"; ObjectID = "gPr-k7-4dz"; */
+> > "gPr-k7-4dz.title" = "아래 항목 통합";
+> 455,456c455,456
+> < /* Class = "NSMenuItem"; title = "Merge Down"; ObjectID = "gae-Jc-6wh"; */
+600,601c371,374
+< > "gae-Jc-6wh.title" = "下のレイヤーと結合";
+< 459c459
+---
+> > /* Class = "NSMenuItem"; title = "아래 항목 통합"; ObjectID = "gae-Jc-6wh"; */
+> > "gae-Jc-6wh.title" = "아래 항목 통합";
+> 458,459c458,459
+> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "glT-tK-yZ5"; */
+604,605c377,380
+< > "glT-tK-yZ5.title" = "複製";
+< 462c462
+---
+> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "glT-tK-yZ5"; */
+> > "glT-tK-yZ5.title" = "복제";
+> 461,462c461,462
+> < /* Class = "NSMenuItem"; title = "Mesh"; ObjectID = "gv4-Nu-nnM"; */
+608,625c383,386
+< > "gv4-Nu-nnM.title" = "メッシュ";
+< 465c465
+< < "h08-4P-cH9.title" = "Black and White…";
+< ---
+< > "h08-4P-cH9.title" = "白黒…";
+< 471c471
+< < "hVz-GL-fp2.title" = "Add Noise…";
+< ---
+< > "hVz-GL-fp2.title" = "ノイズを追加…";
+< 474c474
+< < "hXM-wT-lvW.title" = "Clarity…";
+< ---
+< > "hXM-wT-lvW.title" = "明瞭度…";
+< 477c477
+< < "hXl-nq-0KU.title" = "Rasterize & Trim…";
+< ---
+< > "hXl-nq-0KU.title" = "ラスタライズ&トリム…";
+< 480c480
+---
+> > /* Class = "NSMenuItem"; title = "그물"; ObjectID = "gv4-Nu-nnM"; */
+> > "gv4-Nu-nnM.title" = "그물";
+> 479,480c479,480
+> < /* Class = "NSMenuItem"; title = "New Pixel Layer"; ObjectID = "i5T-G3-l30"; */
+628,629c389,392
+< > "i5T-G3-l30.title" = "新規ピクセルレイヤー";
+< 486c486
+---
+> > /* Class = "NSMenuItem"; title = "신규 픽셀 레이어"; ObjectID = "i5T-G3-l30"; */
+> > "i5T-G3-l30.title" = "신규 픽셀 레이어";
+> 485,486c485,486
+> < /* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "jh8-cp-7GQ"; */
+632,633c395,398
+< > "jh8-cp-7GQ.title" = "グループ解除";
+< 489c489
+---
+> > /* Class = "NSMenuItem"; title = "그룹 풀기"; ObjectID = "jh8-cp-7GQ"; */
+> > "jh8-cp-7GQ.title" = "그룹 풀기";
+> 488,489c488,489
+> < /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "k2u-Jm-0HR"; */
+636,661c401,404
+< > "k2u-Jm-0HR.title" = "非表示";
+< 492c492
+< < "k42-lm-Vm6.title" = "White Balance…";
+< ---
+< > "k42-lm-Vm6.title" = "ホワイトバランス…";
+< 495c495
+< < "k50-gt-XVh.title" = "Edit Mask";
+< ---
+< > "k50-gt-XVh.title" = "マスクを編集";
+< 498c498
+< < "kKF-TC-oUu.title" = "Thumbnail Background";
+< ---
+< > "kKF-TC-oUu.title" = "サムネイルの背景";
+< 501c501
+< < "kKi-A3-6Ez.title" = "Collapse All Parents";
+< ---
+< > "kKi-A3-6Ez.title" = "すべての親を折りたたむ";
+< 504c504
+< < "kRS-W8-hiQ.title" = "Thumbnail Background";
+< ---
+< > "kRS-W8-hiQ.title" = "サムネイルの背景";
+< 507c507
+< < "kbJ-4i-Zlx.title" = "Shadows / Highlights…";
+< ---
+< > "kbJ-4i-Zlx.title" = "シャドウ/ハイライト…";
+< 510c510
+---
+> > /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "k2u-Jm-0HR"; */
+> > "k2u-Jm-0HR.title" = "가리기";
+> 509,510c509,510
+> < /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "klj-pa-MfZ"; */
+664,665c407,410
+< > "klj-pa-MfZ.title" = "非表示";
+< 513c513
+---
+> > /* Class = "NSMenuItem"; title = "가리기"; ObjectID = "klj-pa-MfZ"; */
+> > "klj-pa-MfZ.title" = "가리기";
+> 512,513c512,513
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "ku6-Vv-PgY"; */
+668,673c413,416
+< > "ku6-Vv-PgY.title" = "ペースト";
+< 516c516
+< < "kuE-O3-tq1.title" = "Release";
+< ---
+< > "kuE-O3-tq1.title" = "解除";
+< 519c519
+---
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "ku6-Vv-PgY"; */
+> > "ku6-Vv-PgY.title" = "붙이기";
+> 518,519c518,519
+> < /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "kyq-FK-yaO"; */
+676,678c419,422
+< > "kyq-FK-yaO.title" = "他を隠す";
+< 522c522
+< < "l07-FM-57g.title" = "Rasterize…";
+---
+> > /* Class = "NSMenuItem"; title = "기타 가리기"; ObjectID = "kyq-FK-yaO"; */
+> > "kyq-FK-yaO.title" = "기타 가리기";
+> 521c521
+> < /* Class = "NSMenuItem"; title = "Rasterise…"; ObjectID = "l07-FM-57g"; */
+680,681c424,426
+< > "l07-FM-57g.title" = "ラスタライズ…";
+< 525c525
+---
+> > /* Class = "NSMenuItem"; title = "래스터화…"; ObjectID = "l07-FM-57g"; */
+> 524,525c524,525
+> < /* Class = "NSMenuItem"; title = "Auto"; ObjectID = "lFd-6K-edX"; */
+684,693c429,432
+< > "lFd-6K-edX.title" = "自動";
+< 528c528
+< < "lG0-Rq-P1m.title" = "Exclude from Snapping";
+< ---
+< > "lG0-Rq-P1m.title" = "スナップから除外";
+< 531c531
+< < "lI6-0K-5TZ.title" = "Color Tag Placeholder";
+< ---
+< > "lI6-0K-5TZ.title" = "カラータグプレースホルダー";
+< 534c534
+---
+> > /* Class = "NSMenuItem"; title = "자동"; ObjectID = "lFd-6K-edX"; */
+> > "lFd-6K-edX.title" = "자동";
+> 533,534c533,534
+> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "lal-7J-HSh"; */
+696,705c435,438
+< > "lal-7J-HSh.title" = "削除";
+< 537c537
+< < "mB8-og-JfM.title" = "Soft Proof…";
+< ---
+< > "mB8-og-JfM.title" = "ソフト校正…";
+< 540c540
+< < "nGZ-NG-6rt.title" = "Defringe…";
+< ---
+< > "nGZ-NG-6rt.title" = "フリンジ除去…";
+< 543c543
+---
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "lal-7J-HSh"; */
+> > "lal-7J-HSh.title" = "지우기";
+> 542,543c542,543
+> < /* Class = "NSMenuItem"; title = "Select Same Name"; ObjectID = "nei-8E-Af9"; */
+708,713c441,444
+< > "nei-8E-Af9.title" = "同じ名前を選択";
+< 546c546
+< < "o1n-fa-ddw.title" = "Properties…";
+< ---
+< > "o1n-fa-ddw.title" = "プロパティ…";
+< 549c549
+---
+> > /* Class = "NSMenuItem"; title = "이름으로 동일 선택"; ObjectID = "nei-8E-Af9"; */
+> > "nei-8E-Af9.title" = "이름으로 동일 선택";
+> 548,549c548,549
+> < /* Class = "NSMenuItem"; title = "Merge Visible"; ObjectID = "oGJ-lf-Xae"; */
+716,718c447,450
+< > "oGJ-lf-Xae.title" = "表示レイヤーを結合";
+< 552c552
+< < "osk-jW-QfR.title" = "Lighting…";
+---
+> > /* Class = "NSMenuItem"; title = "보이는 항목 통합"; ObjectID = "oGJ-lf-Xae"; */
+> > "oGJ-lf-Xae.title" = "보이는 항목 통합";
+> 566c566
+> < /* Class = "NSMenuItem"; title = "Rasterise to Mask"; ObjectID = "qIz-6Z-1Rf"; */
+720,745c452,454
+< > "osk-jW-QfR.title" = "照明…";
+< 555c555
+< < "pBT-rj-VoI.title" = "Set…";
+< ---
+< > "pBT-rj-VoI.title" = "設定...";
+< 558c558
+< < "pP0-hd-tRt.title" = "Median Blur…";
+< ---
+< > "pP0-hd-tRt.title" = "中間値ぼかし…";
+< 561c561
+< < "pqc-cX-alo.title" = "Clear";
+< ---
+< > "pqc-cX-alo.title" = "クリア";
+< 564c564
+< < "q4r-H9-jh3.title" = "Show Others";
+< ---
+< > "q4r-H9-jh3.title" = "その他を表示";
+< 567c567
+< < "qIz-6Z-1Rf.title" = "Rasterize to Mask";
+< ---
+< > "qIz-6Z-1Rf.title" = "マスクにラスタライズ";
+< 570c570
+< < "qLl-aR-Cpr.title" = "High Pass…";
+< ---
+< > "qLl-aR-Cpr.title" = "ハイパス…";
+< 573c573
+---
+> > /* Class = "NSMenuItem"; title = "마스크 래스터화"; ObjectID = "qIz-6Z-1Rf"; */
+> 572,573c572,573
+> < /* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "qYy-cL-52C"; */
+748,749c457,460
+< > "qYy-cL-52C.title" = "グループ解除";
+< 576c576
+---
+> > /* Class = "NSMenuItem"; title = "그룹 풀기"; ObjectID = "qYy-cL-52C"; */
+> > "qYy-cL-52C.title" = "그룹 풀기";
+> 575,576c575,576
+> < /* Class = "NSMenuItem"; title = "Small Thumbnails"; ObjectID = "qku-VS-zQE"; */
+752,769c463,466
+< > "qku-VS-zQE.title" = "サムネイル小";
+< 579c579
+< < "qu9-LW-YUs.title" = "Edit Linked";
+< ---
+< > "qu9-LW-YUs.title" = "リンクを編集";
+< 582c582
+< < "rBJ-Jn-KIP.title" = "Split Toning…";
+< ---
+< > "rBJ-Jn-KIP.title" = "明暗別色補正…";
+< 585c585
+< < "rlM-FF-7kH.title" = "Edit Detached";
+< ---
+< > "rlM-FF-7kH.title" = "切り離しを編集";
+< 588c588
+< < "rwH-Nj-DNG.title" = "Motion Blur…";
+< ---
+< > "rwH-Nj-DNG.title" = "モーションぼかし…";
+< 591c591
+---
+> > /* Class = "NSMenuItem"; title = "작은 마중그림"; ObjectID = "qku-VS-zQE"; */
+> > "qku-VS-zQE.title" = "작은 마중그림";
+> 590,591c590,591
+> < /* Class = "NSButton"; ibShadowedToolTip = "Blend Options"; ObjectID = "s48-Qf-Qft"; */
+772,774c469,472
+< > "s48-Qf-Qft.ibShadowedToolTip" = "ブレンドオプション";
+< 594c594
+< < "s5G-yy-TDC.title" = "Rasterize…";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "혼합 설정"; ObjectID = "s48-Qf-Qft"; */
+> > "s48-Qf-Qft.ibShadowedToolTip" = "혼합 설정";
+> 593c593
+> < /* Class = "NSMenuItem"; title = "Rasterise…"; ObjectID = "s5G-yy-TDC"; */
+776,781c474,476
+< > "s5G-yy-TDC.title" = "ラスタライズ…";
+< 597c597
+< < "t2c-nC-q3r.title" = "Compound Mask";
+< ---
+< > "t2c-nC-q3r.title" = "複合マスク";
+< 600c600
+---
+> > /* Class = "NSMenuItem"; title = "래스터화…"; ObjectID = "s5G-yy-TDC"; */
+> 599,600c599,600
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "trj-9r-OkX"; */
+784,789c479,482
+< > "trj-9r-OkX.title" = "コピー";
+< 603c603
+< < "twh-QL-F1w.title" = "Exclude from Snapping";
+< ---
+< > "twh-QL-F1w.title" = "スナップから除外";
+< 606c606
+---
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "trj-9r-OkX"; */
+> > "trj-9r-OkX.title" = "복사";
+> 605,606c605,606
+> < /* Class = "NSButton"; ibShadowedToolTip = "Add Pixel Layer"; ObjectID = "uef-tj-zDK"; */
+792,793c485,488
+< > "uef-tj-zDK.ibShadowedToolTip" = "ピクセルレイヤーを追加";
+< 609c609
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "픽셀 레이어 추가"; ObjectID = "uef-tj-zDK"; */
+> > "uef-tj-zDK.ibShadowedToolTip" = "픽셀 레이어 추가";
+> 608,609c608,609
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "uhS-B7-FzW"; */
+796,801c491,494
+< > "uhS-B7-FzW.title" = "コピー";
+< 612c612
+< < "vPF-yq-KPV.title" = "Arc - Horizontal";
+< ---
+< > "vPF-yq-KPV.title" = "円弧 - 水平";
+< 615c615
+---
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "uhS-B7-FzW"; */
+> > "uhS-B7-FzW.title" = "복사";
+> 614,615c614,615
+> < /* Class = "NSMenuItem"; title = "Group"; ObjectID = "vSw-c1-RjW"; */
+804,809c497,500
+< > "vSw-c1-RjW.title" = "グループ化";
+< 618c618
+< < "voD-GH-rjs.title" = "Recolor…";
+< ---
+< > "voD-GH-rjs.title" = "リカラー…";
+< 621c621
+---
+> > /* Class = "NSMenuItem"; title = "그룹"; ObjectID = "vSw-c1-RjW"; */
+> > "vSw-c1-RjW.title" = "그룹";
+> 620,621c620,621
+> < /* Class = "NSMenuItem"; title = "Auto-scroll"; ObjectID = "wWS-Et-8qg"; */
+812,821c503,506
+< > "wWS-Et-8qg.title" = "自動スクロール";
+< 624c624
+< < "waR-HC-mI3.title" = "Box Blur…";
+< ---
+< > "waR-HC-mI3.title" = "ボックスぼかし…";
+< 627c627
+< < "wmA-4c-NbV.title" = "Color Tag Placeholder";
+< ---
+< > "wmA-4c-NbV.title" = "カラータグプレースホルダー";
+< 630c630
+---
+> > /* Class = "NSMenuItem"; title = "자동 스크롤"; ObjectID = "wWS-Et-8qg"; */
+> > "wWS-Et-8qg.title" = "자동 스크롤";
+> 629,630c629,630
+> < /* Class = "NSMenuItem"; title = "Select Same Name"; ObjectID = "y2c-A2-ur8"; */
+824,829c509,512
+< > "y2c-A2-ur8.title" = "同じ名前を選択";
+< 633c633
+< < "yHq-E4-VYE.title" = "Show Group Thumbnails";
+< ---
+< > "yHq-E4-VYE.title" = "グループサムネイルを表示";
+< 636c636
+---
+> > /* Class = "NSMenuItem"; title = "이름으로 동일 선택"; ObjectID = "y2c-A2-ur8"; */
+> > "y2c-A2-ur8.title" = "이름으로 동일 선택";
+> 635,636c635,636
+> < /* Class = "NSMenuItem"; title = "New Layer"; ObjectID = "yNQ-sy-CPz"; */
+832,833c515,518
+< > "yNQ-sy-CPz.title" = "新規レイヤー";
+< 639c639
+---
+> > /* Class = "NSMenuItem"; title = "신규 레이어"; ObjectID = "yNQ-sy-CPz"; */
+> > "yNQ-sy-CPz.title" = "신규 레이어";
+> 638,639c638,639
+> < /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "yOE-y1-XVB"; */
+836,838c521,524
+< > "yOE-y1-XVB.title" = "ロック";
+< 642c642
+< < "yVL-aF-prU.title" = "Rasterize…";
+---
+> > /* Class = "NSMenuItem"; title = "잠금"; ObjectID = "yOE-y1-XVB"; */
+> > "yOE-y1-XVB.title" = "잠금";
+> 641c641
+> < /* Class = "NSMenuItem"; title = "Rasterise…"; ObjectID = "yVL-aF-prU"; */
+840,841c526,528
+< > "yVL-aF-prU.title" = "ラスタライズ…";
+< 645c645
+---
+> > /* Class = "NSMenuItem"; title = "래스터화…"; ObjectID = "yVL-aF-prU"; */
+> 644,645c644,645
+> < /* Class = "NSMenuItem"; title = "Light"; ObjectID = "zDg-eG-Geb"; */
+844,848c531,532
+< > "zDg-eG-Geb.title" = "ライト";
+< 648c648
+< < "zNn-wW-jQH.title" = "Diffuse Glow…";
+< ---
+< > "zNn-wW-jQH.title" = "光彩拡散…";
+---
+> > /* Class = "NSMenuItem"; title = "라이트"; ObjectID = "zDg-eG-Geb"; */
+> > "zDg-eG-Geb.title" = "라이트";

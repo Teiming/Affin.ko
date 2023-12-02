@@ -1,0 +1,114 @@
+1,9c1,2
+< 3c3
+< < "2ar-d6-xVq.ibShadowedToolTip" = "Delete input";
+< ---
+< > "2ar-d6-xVq.ibShadowedToolTip" = "入力を削除";
+< 6c6
+< < "8Ab-bC-Onn.ibShadowedToolTip" = "Name of input (required)";
+< ---
+< > "8Ab-bC-Onn.ibShadowedToolTip" = "入力の名前(必須)";
+< 9c9
+---
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; placeholderString = "Label"; ObjectID = "APL-jS-fkh"; */
+12,49c5,8
+< > "APL-jS-fkh.placeholderString" = "ラベル";
+< 12c12
+< < "Bta-bq-HP1.placeholderString" = "Description";
+< ---
+< > "Bta-bq-HP1.placeholderString" = "説明";
+< 15c15
+< < "FnF-lE-brL.placeholderString" = "Description";
+< ---
+< > "FnF-lE-brL.placeholderString" = "説明";
+< 18c18
+< < "HAS-1E-6b4.ibShadowedToolTip" = "Delete input";
+< ---
+< > "HAS-1E-6b4.ibShadowedToolTip" = "入力を削除";
+< 21c21
+< < "HTe-ja-65N.ibShadowedToolTip" = "Name of input (required)";
+< ---
+< > "HTe-ja-65N.ibShadowedToolTip" = "入力の名前(必須)";
+< 24c24
+< < "L6B-qh-tcx.placeholderString" = "Value";
+< ---
+< > "L6B-qh-tcx.placeholderString" = "値";
+< 27c27
+< < "OKn-tf-TRN.ibShadowedToolTip" = "Input value";
+< ---
+< > "OKn-tf-TRN.ibShadowedToolTip" = "入力値";
+< 30c30
+< < "QCf-Pb-CK6.ibShadowedToolTip" = "Name of input (required)";
+< ---
+< > "QCf-Pb-CK6.ibShadowedToolTip" = "入力の名前(必須)";
+< 33c33
+< < "UBp-r4-NJN.ibShadowedToolTip" = "Delete input";
+< ---
+< > "UBp-r4-NJN.ibShadowedToolTip" = "入力を削除";
+< 36c36
+< < "UCM-mM-3Bd.ibShadowedToolTip" = "Elevation-Rotation input";
+< ---
+< > "UCM-mM-3Bd.ibShadowedToolTip" = "仰角回転の入力";
+< 39c39
+---
+> > /* Class = "NSTextFieldCell"; placeholderString = "라벨"; ObjectID = "APL-jS-fkh"; */
+> > "APL-jS-fkh.placeholderString" = "라벨";
+> 38,39c38,39
+> < /* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "VfG-XI-ty9"; */
+52,81c11,14
+< > "VfG-XI-ty9.placeholderString" = "名前";
+< 42c42
+< < "Xvo-iT-a9T.placeholderString" = "Description";
+< ---
+< > "Xvo-iT-a9T.placeholderString" = "説明";
+< 45c45
+< < "YTN-Xi-10w.ibShadowedToolTip" = "Delete input";
+< ---
+< > "YTN-Xi-10w.ibShadowedToolTip" = "入力を削除";
+< 48c48
+< < "ZoF-zl-9Rv.ibShadowedToolTip" = "Description for the input (optional)";
+< ---
+< > "ZoF-zl-9Rv.ibShadowedToolTip" = "入力の説明(オプション)";
+< 51c51
+< < "aJI-Lb-gdq.ibShadowedToolTip" = "Description for the input (optional)";
+< ---
+< > "aJI-Lb-gdq.ibShadowedToolTip" = "入力の説明(オプション)";
+< 54c54
+< < "biO-Zh-IIM.ibShadowedToolTip" = "Name of input (required)";
+< ---
+< > "biO-Zh-IIM.ibShadowedToolTip" = "入力の名前(必須)";
+< 57c57
+< < "fLb-9q-KN4.placeholderString" = "Description";
+< ---
+< > "fLb-9q-KN4.placeholderString" = "説明";
+< 60c60
+< < "fdv-bQ-Zql.ibShadowedToolTip" = "Description for the input (optional)";
+< ---
+< > "fdv-bQ-Zql.ibShadowedToolTip" = "入力の説明(オプション)";
+< 63c63
+---
+> > /* Class = "NSTextFieldCell"; placeholderString = "이름"; ObjectID = "VfG-XI-ty9"; */
+> > "VfG-XI-ty9.placeholderString" = "이름";
+> 62,63c62,63
+> < /* Class = "NSTextFieldCell"; placeholderString = "Label"; ObjectID = "hPc-6J-YN0"; */
+84,93c17,20
+< > "hPc-6J-YN0.placeholderString" = "ラベル";
+< 66c66
+< < "kRm-NG-M0i.ibShadowedToolTip" = "Angle input";
+< ---
+< > "kRm-NG-M0i.ibShadowedToolTip" = "角度の入力";
+< 69c69
+< < "pXJ-7o-nam.ibShadowedToolTip" = "Description for the input (optional)";
+< ---
+< > "pXJ-7o-nam.ibShadowedToolTip" = "入力の説明(オプション)";
+< 72c72
+---
+> > /* Class = "NSTextFieldCell"; placeholderString = "라벨"; ObjectID = "hPc-6J-YN0"; */
+> > "hPc-6J-YN0.placeholderString" = "라벨";
+> 71,72c71,72
+> < /* Class = "NSTextFieldCell"; placeholderString = "Label"; ObjectID = "v4v-fb-yHg"; */
+96c23,24
+< > "v4v-fb-yHg.placeholderString" = "ラベル";
+---
+> > /* Class = "NSTextFieldCell"; placeholderString = "라벨"; ObjectID = "v4v-fb-yHg"; */
+> > "v4v-fb-yHg.placeholderString" = "라벨";

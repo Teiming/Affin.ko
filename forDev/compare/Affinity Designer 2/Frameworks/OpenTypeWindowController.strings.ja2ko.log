@@ -1,0 +1,92 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSWindow"; title = "Typography"; ObjectID = "1"; */
+4,5c5,8
+< > "1.title" = "タイポグラフィ";
+< 6c6
+---
+> > /* Class = "NSWindow"; title = "타이포그래피"; ObjectID = "1"; */
+> > "1.title" = "타이포그래피";
+> 5,6c5,6
+> < /* Class = "NSTextFieldCell"; title = "Ligatures"; ObjectID = "92D-7R-euM"; */
+8,17c11,14
+< > "92D-7R-euM.title" = "合字";
+< 9c9
+< < "BsD-Tb-d4Z.title" = "Stylistic Alternates";
+< ---
+< > "BsD-Tb-d4Z.title" = "スタイル代替";
+< 15c15
+< < "HCq-bX-fps.title" = "Hide irrelevant features";
+< ---
+< > "HCq-bX-fps.title" = "関連のない機能を非表示にする";
+< 18c18
+---
+> > /* Class = "NSTextFieldCell"; title = "합자"; ObjectID = "92D-7R-euM"; */
+> > "92D-7R-euM.title" = "합자";
+> 17,18c17,18
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "Jvp-0X-oVh"; */
+20,22c17,21
+< > "Jvp-0X-oVh.title" = "閉じる";
+< 21c21
+< < "OJ2-YF-Uqy.title" = "Capitals";
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "Jvp-0X-oVh"; */
+> > "Jvp-0X-oVh.title" = "닫기";
+> 50,51c50,51
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mkG-Zh-5tF"; */
+> < "mkG-Zh-5tF.title" = "Text Cell";
+24,72c23,24
+< > "OJ2-YF-Uqy.title" = "大文字";
+< 24c24
+< < "U7z-fB-Pk0.title" = "Figure Width";
+< ---
+< > "U7z-fB-Pk0.title" = "数字の幅";
+< 27c27
+< < "ZJn-Vp-vmd.title" = "Figure Style";
+< ---
+< > "ZJn-Vp-vmd.title" = "数字のスタイル";
+< 30c30
+< < "csp-h0-g3D.title" = "Ornaments";
+< ---
+< > "csp-h0-g3D.title" = "飾り文字";
+< 33c33
+< < "dGP-2b-0GY.ibShadowedToolTip" = "Show features even if not available for current selection";
+< ---
+< > "dGP-2b-0GY.ibShadowedToolTip" = "現在の選択範囲で使用できない機能も表示します";
+< 36c36
+< < "e10-up-4pv.title" = "Annotation Forms";
+< ---
+< > "e10-up-4pv.title" = "注釈用字形";
+< 39c39
+< < "ef0-Uv-Odn.title" = "Character Variants";
+< ---
+< > "ef0-Uv-Odn.title" = "異体字";
+< 42c42
+< < "gmo-43-6cu.title" = "All Alternates";
+< ---
+< > "gmo-43-6cu.title" = "すべての代替文字";
+< 45c45
+< < "jzH-wd-x7n.title" = "Alternates";
+< ---
+< > "jzH-wd-x7n.title" = "代替文字";
+< 48c48
+< < "leM-du-cwd.title" = "Word Position Forms";
+< ---
+< > "leM-du-cwd.title" = "単語位置字形";
+< 54c54
+< < "q6U-UY-XYE.title" = "Stylistic Sets";
+< ---
+< > "q6U-UY-XYE.title" = "スタイルセット";
+< 57c57
+< < "wat-hL-VWx.title" = "Swash";
+< ---
+< > "wat-hL-VWx.title" = "スワッシュ字形";
+< 60c60
+< < "zA4-x6-4Rn.title" = "Figure Position";
+< ---
+< > "zA4-x6-4Rn.title" = "数字の位置";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mkG-Zh-5tF"; */
+> > "mkG-Zh-5tF.title" = "텍스트 셀";

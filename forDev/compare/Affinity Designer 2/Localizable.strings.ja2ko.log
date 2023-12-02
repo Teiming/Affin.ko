@@ -1,0 +1,636 @@
+4c4
+< > "Cycle View Mode [Accelerator key]" = "サイクルビューモード";
+---
+> > "Cycle View Mode [Accelerator key]" = "뷰 모드 순환";
+8c8
+< > "Zoom In [Accelerator key]" = "ズームイン";
+---
+> > "Zoom In [Accelerator key]" = "확대";
+12c12
+< > "Zoom Out [Accelerator key]" = "ズームアウト";
+---
+> > "Zoom Out [Accelerator key]" = "축소";
+16,20c16
+< > "Switch to Next View [Accelerator key]" = "次のビューポイントに切り替え";
+< 14c14
+< < "Switch to Previous View [Accelerator key]" = "Switch to Previous View";
+< ---
+< > "Switch to Previous View [Accelerator key]" = "前のビューに切り替え";
+---
+> > "Switch to Next View [Accelerator key]" = "다음 뷰로 전환";
+24c20
+< > "Histogram [Accelerator key]" = "ヒストグラム";
+---
+> > "Histogram [Accelerator key]" = "히스토그램";
+28,32c24
+< > "History [Accelerator key]" = "履歴";
+< 23c23
+< < "Information [Accelerator key]" = "Information";
+< ---
+< > "Information [Accelerator key]" = "情報";
+---
+> > "History [Accelerator key]" = "편집 기록";
+36,40c28
+< > "Location [Accelerator key]" = "場所";
+< 29c29
+< < "Metadata [Accelerator key]" = "Metadata";
+< ---
+< > "Metadata [Accelerator key]" = "メタデータ";
+---
+> > "Location [Accelerator key]" = "위치";
+44,48c32
+< > "Navigator [Accelerator key]" = "ナビゲータ";
+< 35c35
+< < "Scope [Accelerator key]" = "Scope";
+< ---
+< > "Scope [Accelerator key]" = "スコープ";
+---
+> > "Navigator [Accelerator key]" = "네비게이터";
+52c36
+< > "Toggle Fill Context [Accelerator key]" = "塗りつぶしコンテキストを切り替え";
+---
+> > "Toggle Fill Context [Accelerator key]" = "칠 상황 켜고 끄기";
+56c40
+< > "Swap Line and Fill [Accelerator key]" = "線と塗りつぶしを入れ換え";
+---
+> > "Swap Line and Fill [Accelerator key]" = "선과 칠 교대";
+60c44
+< > "Set Fill None [Accelerator key]" = "塗りつぶしをなしに設定";
+---
+> > "Set Fill None [Accelerator key]" = "칠 없음";
+64,68c48
+< > "Toggle Snapping [Accelerator key]" = "スナップを切り替え";
+< 50c50
+< < "Cycle Snapping Planes [Accelerator key]" = "Cycle Snapping Planes";
+< ---
+< > "Cycle Snapping Planes [Accelerator key]" = "スナップ面を切り替え";
+---
+> > "Toggle Snapping [Accelerator key]" = "스내핑 켜고 끄기";
+72,76c52
+< > "Set Fill to Black and White [Accelerator key]" = "塗りつぶしを白黒に設定";
+< 56c56
+< < "Set Fill to 50% Grey [Accelerator key]" = "Set Fill to 50% Gray";
+< ---
+< > "Set Fill to 50% Grey [Accelerator key]" = "塗りつぶしを50%グレーに設定";
+---
+> > "Set Fill to Black and White [Accelerator key]" = "흑백으로 칠";
+80c56
+< > "32-bit Preview [Accelerator key]" = "32ビットプレビュー";
+---
+> > "32-bit Preview [Accelerator key]" = "32-비트 미리보기";
+84c60
+< > "Assets [Accelerator key]" = "アセット";
+---
+> > "Assets [Accelerator key]" = "자산";
+88c64
+< > "Brushes [Accelerator key]" = "ブラシ";
+---
+> > "Brushes [Accelerator key]" = "브러시";
+92,100c68
+< > "Character [Accelerator key]" = "文字";
+< 71c71
+< < "Colour [Accelerator key]" = "Color";
+< ---
+< > "Colour [Accelerator key]" = "カラー";
+< 74c74
+< < "Constraint [Accelerator key]" = "Constraint";
+< ---
+< > "Constraint [Accelerator key]" = "制約";
+---
+> > "Character [Accelerator key]" = "문자";
+104c72
+< > "Effects [Accelerator key]" = "エフェクト";
+---
+> > "Effects [Accelerator key]" = "효과";
+108c76
+< > "Glyph Browser [Accelerator key]" = "グリフブラウザ";
+---
+> > "Glyph Browser [Accelerator key]" = "글리프 브라우저";
+112c80
+< > "Isometric [Accelerator key]" = "等角投影";
+---
+> > "Isometric [Accelerator key]" = "등각투상";
+116c84
+< > "Layers [Accelerator key]" = "レイヤー";
+---
+> > "Layers [Accelerator key]" = "레이어";
+120c88
+< > "Paragraph [Accelerator key]" = "段落";
+---
+> > "Paragraph [Accelerator key]" = "문단";
+124c92
+< > "Snapshots [Accelerator key]" = "スナップショット";
+---
+> > "Snapshots [Accelerator key]" = "스냅샷";
+128c96
+< > "Stroke [Accelerator key]" = "境界線";
+---
+> > "Stroke [Accelerator key]" = "선";
+132c100
+< > "Styles [Accelerator key]" = "スタイル";
+---
+> > "Styles [Accelerator key]" = "스타일";
+136,140c104
+< > "Swatches [Accelerator key]" = "スウォッチ";
+< 104c104
+< < "Symbol [Accelerator key]" = "Symbol";
+< ---
+< > "Symbol [Accelerator key]" = "シンボル";
+---
+> > "Swatches [Accelerator key]" = "견본";
+144c108
+< > "Text Styles [Accelerator key]" = "テキストスタイル";
+---
+> > "Text Styles [Accelerator key]" = "텍스트 스타일";
+148,156c112
+< > "Transform [Accelerator key]" = "変形";
+< 113c113
+< < "Designer Persona. [ Workspace Warning Caption]" = "Designer Persona.";
+< ---
+< > "Designer Persona. [ Workspace Warning Caption]" = "Designerペルソナ。";
+< 116c116
+< < "Photo Persona. [ Workspace Warning Caption]" = "Photo Persona.";
+< ---
+< > "Photo Persona. [ Workspace Warning Caption]" = "Photoペルソナ。";
+---
+> > "Transform [Accelerator key]" = "변형";
+160c116
+< > "Liquify Persona [Liquify Persona]" = "ゆがみペルソナ";
+---
+> > "Liquify Persona [Liquify Persona]" = "액화 페르소나";
+164,168c120
+< > "Dismiss [Alert - Dismiss - Button]" = "解除";
+< 125c125
+< < "Please select a pixel layer or mask before entering Liquify. [Alert - Select raster larey or mask]" = "Please select a pixel layer or mask before entering Liquify.";
+< ---
+< > "Please select a pixel layer or mask before entering Liquify. [Alert - Select raster larey or mask]" = "ピクセルレイヤーまたはマスクを選択してから[ゆがみ]に入ってください。";
+---
+> > "Dismiss [Alert - Dismiss - Button]" = "해제";
+172,180c124
+< > "Tone Mapping Persona [Tone Mapping Persona]" = "トーンマッピングペルソナ";
+< 131c131
+< < "Please end your macro recording session before using Tone Mapping. [Alert - Macro Recording]" = "Please end your macro recording session before using Tone Mapping.";
+< ---
+< > "Please end your macro recording session before using Tone Mapping. [Alert - Macro Recording]" = "トーンマッピングを使用する前にマクロ記録セッションを終了してください。";
+< 134c134
+< < "Please select an RGB pixel layer before entering HDR. [Alert - Select RGB raster layer]" = "Please select an RGB pixel layer before entering HDR.";
+< ---
+< > "Please select an RGB pixel layer before entering HDR. [Alert - Select RGB raster layer]" = "RGBピクセルレイヤーを選択してから[HDR]に入ってください。";
+---
+> > "Tone Mapping Persona [Tone Mapping Persona]" = "톤 맵핑 페르소나";
+184,188c128
+< > "Develop Persona [Develop Persona]" = "現像ペルソナ";
+< 140c140
+< < "Please end your macro recording session before using Develop. [Alert - Macro Recording]" = "Please end your macro recording session before using Develop.";
+< ---
+< > "Please end your macro recording session before using Develop. [Alert - Macro Recording]" = "現像を使用する前にマクロ記録セッションを終了してください。";
+---
+> > "Develop Persona [Develop Persona]" = "현상 페르소나";
+192,196c132
+< > "Please select an RGB pixel layer before entering Develop. [Alert - Select raster larey or mask]" = "RGBピクセルレイヤーを選択してから[現像]に入ってください。";
+< 146c146
+< < "Unignore Spelling \"%@\" [Context menu]" = "Unignore Spelling \"%@\"";
+< ---
+< > "Unignore Spelling \"%@\" [Context menu]" = "スペル\"%@\"の無視を解除";
+---
+> > "Please select an RGB pixel layer before entering Develop. [Alert - Select raster larey or mask]" = "현상에 들어가기 전, RGB 픽셀 레이어를 선택해주세요.";
+200c136
+< > "Ignore Spelling [Context menu]" = "スペルを無視";
+---
+> > "Ignore Spelling [Context menu]" = "철자 무시";
+204,300c140
+< > "Learn Spelling [Context Menu]" = "スペルを学習";
+< 155c155
+< < "Unlearn Spelling \"%@\" [Context menu]" = "Unlearn Spelling \"%@\"";
+< ---
+< > "Unlearn Spelling \"%@\" [Context menu]" = "スペル\"%@\"の学習を解除";
+< 158c158
+< < "Look Up \"%@\" [Context menu]" = "Look Up \"%@\"";
+< ---
+< > "Look Up \"%@\" [Context menu]" = "\"%@\"を検索";
+< 161c161
+< < "Expand Field [Context menu]" = "Expand Field";
+< ---
+< > "Expand Field [Context menu]" = "フィールドを展開";
+< 164c164
+< < "Edit Field... [Context menu]" = "Edit Field...";
+< ---
+< > "Edit Field... [Context menu]" = "フィールドを編集...";
+< 167c167
+< < "Insert Row [Context menu]" = "Insert Row";
+< ---
+< > "Insert Row [Context menu]" = "行を挿入";
+< 170c170
+< < "Delete Row [Context menu]" = "Delete Row";
+< ---
+< > "Delete Row [Context menu]" = "行を削除";
+< 173c173
+< < "Merge Cells [Context menu]" = "Merge Cells";
+< ---
+< > "Merge Cells [Context menu]" = "セルを結合";
+< 176c176
+< < "Separate Cells [Context menu]" = "Separate Cells";
+< ---
+< > "Separate Cells [Context menu]" = "セルを分離";
+< 179c179
+< < "AutoFit Row to Contents [Context menu]" = "AutoFit Row to Contents";
+< ---
+< > "AutoFit Row to Contents [Context menu]" = "コンテンツに合わせて行を自動調整";
+< 182c182
+< < "Sort Ascending [Context menu]" = "Sort Ascending";
+< ---
+< > "Sort Ascending [Context menu]" = "昇順に並べ替え";
+< 185c185
+< < "Sort Descending [Context menu]" = "Sort Descending";
+< ---
+< > "Sort Descending [Context menu]" = "降順に並べ替え";
+< 188c188
+< < "Insert Column [Context menu]" = "Insert Column";
+< ---
+< > "Insert Column [Context menu]" = "列を挿入";
+< 191c191
+< < "Delete Column [Context menu]" = "Delete Column";
+< ---
+< > "Delete Column [Context menu]" = "列を削除";
+< 194c194
+< < "AutoFit Column to Contents [Context menu]" = "AutoFit Column to Contents";
+< ---
+< > "AutoFit Column to Contents [Context menu]" = "コンテンツに合わせて列を自動調整";
+< 197c197
+< < "Evenly Distribute Columns [Context menu]" = "Evenly Distribute Columns";
+< ---
+< > "Evenly Distribute Columns [Context menu]" = "列を均等配置";
+< 200c200
+< < "Evenly Distribute Rows [Context menu]" = "Evenly Distribute Rows";
+< ---
+< > "Evenly Distribute Rows [Context menu]" = "行を均等配置";
+< 203c203
+< < "AutoFit Row(s) [Context menu]" = "AutoFit Row(s)";
+< ---
+< > "AutoFit Row(s) [Context menu]" = "行を自動調整";
+< 206c206
+< < "AutoFit Column(s) [Context menu]" = "AutoFit Column(s)";
+< ---
+< > "AutoFit Column(s) [Context menu]" = "列を自動調整";
+< 209c209
+< < "Sort by Row Ascending [Context menu]" = "Sort by Row Ascending";
+< ---
+< > "Sort by Row Ascending [Context menu]" = "行を昇順に並べ替え";
+< 212c212
+< < "Sort by Row Descending [Context menu]" = "Sort by Row Descending";
+< ---
+< > "Sort by Row Descending [Context menu]" = "行を降順に並べ替え";
+< 215c215
+< < "Sort by Column Ascending [Context menu]" = "Sort by Column Ascending";
+< ---
+< > "Sort by Column Ascending [Context menu]" = "列を昇順に並べ替え";
+< 218c218
+< < "Sort by Column Descending [Context menu]" = "Sort by Column Descending";
+< ---
+< > "Sort by Column Descending [Context menu]" = "列を降順に並べ替え";
+< 221c221
+< < "Delete Row(s) [Context menu]" = "Delete Row(s)";
+< ---
+< > "Delete Row(s) [Context menu]" = "行を削除";
+< 224c224
+< < "Delete Column(s) [Context menu]" = "Delete Column(s)";
+< ---
+< > "Delete Column(s) [Context menu]" = "列を削除";
+---
+> > "Learn Spelling [Context Menu]" = "철자 학습";
+304,336c144
+< > "Find in Layers Panel [Accelerator key]" = "レイヤーパネル内で検索";
+< 230c230
+< < "Fields [Accelerator key]" = "Fields";
+< ---
+< > "Fields [Accelerator key]" = "フィールド";
+< 233c233
+< < "Find and Replace [Accelerator key]" = "Find and Replace";
+< ---
+< > "Find and Replace [Accelerator key]" = "検索して置換";
+< 236c236
+< < "Hyperlink [Accelerator key]" = "Hyperlink";
+< ---
+< > "Hyperlink [Accelerator key]" = "ハイパーリンク";
+< 239c239
+< < "Anchor [Accelerator key]" = "Anchor";
+< ---
+< > "Anchor [Accelerator key]" = "アンカー";
+< 242c242
+< < "Index [Accelerator key]" = "Index";
+< ---
+< > "Index [Accelerator key]" = "インデックス";
+< 245c245
+< < "Pages [Accelerator key]" = "Pages";
+< ---
+< > "Pages [Accelerator key]" = "ページ";
+< 248c248
+< < "Preflight [Accelerator key]" = "Preflight";
+< ---
+< > "Preflight [Accelerator key]" = "プリフライト";
+< 251c251
+< < "Notes [Accelerator key]" = "Notes";
+< ---
+< > "Notes [Accelerator key]" = "ノート";
+---
+> > "Find in Layers Panel [Accelerator key]" = "레이어 패널에서 찾기";
+340,364c148
+< > "Stock [Accelerator key]" = "ストック";
+< 257c257
+< < "Text Frame [Accelerator key]" = "Text Frame";
+< ---
+< > "Text Frame [Accelerator key]" = "テキストフレーム";
+< 260c260
+< < "Table [Accelerator key]" = "Table";
+< ---
+< > "Table [Accelerator key]" = "表";
+< 263c263
+< < "Table Format [Accelerator key]" = "Table Format";
+< ---
+< > "Table Format [Accelerator key]" = "表フォーマット";
+< 266c266
+< < "Table of Contents [Accelerator key]" = "Table of Contents";
+< ---
+< > "Table of Contents [Accelerator key]" = "目次";
+< 269c269
+< < "Books [Accelerator key]" = "Books";
+< ---
+< > "Books [Accelerator key]" = "書籍";
+< 272c272
+< < "Insert Hyperlink [Accelerator key]" = "Insert Hyperlink";
+< ---
+< > "Insert Hyperlink [Accelerator key]" = "ハイパーリンクを挿入";
+---
+> > "Stock [Accelerator key]" = "재고";
+368,372c152
+< > "Channels [Accelerator key]" = "チャンネル";
+< 278c278
+< < "Files [Accelerator key]" = "Files";
+< ---
+< > "Files [Accelerator key]" = "ファイル";
+---
+> > "Channels [Accelerator key]" = "채널";
+376,396c156
+< > "Info [Accelerator key]" = "情報";
+< 284c284
+< < "RAW Options [Accelerator key]" = "RAW Options";
+< ---
+< > "RAW Options [Accelerator key]" = "RAWオプション";
+< 287c287
+< < "Stacked Images [Accelerator key]" = "Stacked Images";
+< ---
+< > "Stacked Images [Accelerator key]" = "スタックされた画像";
+< 290c290
+< < "Stacked Options [Accelerator key]" = "Stacked Options";
+< ---
+< > "Stacked Options [Accelerator key]" = "スタックしたオプション";
+< 293c293
+< < "Toggle Edit Selection As Layer [Toggle Edit Selection As Layer]" = "Toggle Edit Selection As Layer";
+< ---
+< > "Toggle Edit Selection As Layer [Toggle Edit Selection As Layer]" = "選択範囲レイヤー編集を切り替え";
+< 296c296
+< < "Toggle Frequency Layer [Accelerator key]" = "Toggle Frequency Layer";
+< ---
+< > "Toggle Frequency Layer [Accelerator key]" = "周波数レイヤーを切り替え";
+---
+> > "Info [Accelerator key]" = "정보";
+400,404c160
+< > "Adjustment [Accelerator key]" = "調整";
+< 302c302
+< < "Batch [Accelerator key]" = "Batch";
+< ---
+< > "Batch [Accelerator key]" = "一括処理";
+---
+> > "Adjustment [Accelerator key]" = "조정";
+408c164
+< > "Library [Accelerator key]" = "ライブラリ";
+---
+> > "Library [Accelerator key]" = "보관함";
+412,428c168
+< > "Macro [Accelerator key]" = "マクロ";
+< 314c314
+< < "Sources [Accelerator key]" = "Sources";
+< ---
+< > "Sources [Accelerator key]" = "ソース";
+< 317c317
+< < "Links [Accelerator key]" = "Links";
+< ---
+< > "Links [Accelerator key]" = "リンク";
+< 320c320
+< < "Quick FX [Accelerator key]" = "Quick FX";
+< ---
+< > "Quick FX [Accelerator key]" = "クイックFX";
+< 323c323
+< < "States [Accelerator key]" = "States";
+< ---
+< > "States [Accelerator key]" = "ステート";
+---
+> > "Macro [Accelerator key]" = "매크로";
+432,436c172
+< > "Apply [Apply]" = "適用";
+< 332c332
+< < "Please either commit or cancel the tone mapping operation before switching to another Persona. [Alert cancel tone mapping]" = "Please either commit or cancel the tone mapping operation before switching to another Persona.";
+< ---
+< > "Please either commit or cancel the tone mapping operation before switching to another Persona. [Alert cancel tone mapping]" = "トーンマッピング操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。";
+---
+> > "Apply [Apply]" = "적용";
+440,460c176
+< > "Tone Mapping [Persona Name]" = "トーンマッピング";
+< 338c338
+< < "Please either commit or cancel the develop operation before switching to another Persona. [Alert - Cancel develop operation]" = "Please either commit or cancel the develop operation before switching to another Persona.";
+< ---
+< > "Please either commit or cancel the develop operation before switching to another Persona. [Alert - Cancel develop operation]" = "現像操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。";
+< 341c341
+< < "Please either commit or cancel the develop operation before switching to another Persona. [Alert - Cancel Develop operation]" = "Please either commit or cancel the develop operation before switching to another Persona.";
+< ---
+< > "Please either commit or cancel the develop operation before switching to another Persona. [Alert - Cancel Develop operation]" = "現像操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。";
+< 344c344
+< < "Liquify Brush [Accelerator key]" = "Liquify Brush";
+< ---
+< > "Liquify Brush [Accelerator key]" = "ゆがみブラシ";
+< 347c347
+< < "Liquify Mask [Accelerator key]" = "Liquify Mask";
+< ---
+< > "Liquify Mask [Accelerator key]" = "ゆがみマスク";
+< 350c350
+< < "Liquify Mesh [Accelerator key]" = "Liquify Mesh";
+< ---
+< > "Liquify Mesh [Accelerator key]" = "ゆがみメッシュ";
+---
+> > "Tone Mapping [Persona Name]" = "톤 맵핑";
+464c180
+< > "Invert Mask [Liquify toolbar]" = "マスクを反転";
+---
+> > "Invert Mask [Liquify toolbar]" = "마스크 반전";
+468c184
+< > "Mask All [Liquify toolbar]" = "すべてマスク";
+---
+> > "Mask All [Liquify toolbar]" = "모두 마스크";
+472,504c188
+< > "Clear Mask [Liquify toolbar]" = "マスクを消去";
+< 362c362
+< < "Develop Basic [Accelerator key]" = "Develop Basic";
+< ---
+< > "Develop Basic [Accelerator key]" = "基本の現像";
+< 365c365
+< < "Develop Details [Accelerator key]" = "Develop Details";
+< ---
+< > "Develop Details [Accelerator key]" = "詳細の現像";
+< 368c368
+< < "Develop Focus [Accelerator key]" = "Develop Focus";
+< ---
+< > "Develop Focus [Accelerator key]" = "フォーカスの現像";
+< 371c371
+< < "Develop Lens [Accelerator key]" = "Develop Lens";
+< ---
+< > "Develop Lens [Accelerator key]" = "レンズの現像";
+< 374c374
+< < "Develop Location [Accelerator key]" = "Develop Location";
+< ---
+< > "Develop Location [Accelerator key]" = "場所の現像";
+< 377c377
+< < "Develop Overlay [Accelerator key]" = "Develop Overlay";
+< ---
+< > "Develop Overlay [Accelerator key]" = "オーバーレイの現像";
+< 380c380
+< < "Develop Snapshot [Accelerator key]" = "Develop Snapshot";
+< ---
+< > "Develop Snapshot [Accelerator key]" = "スナップショットを現像";
+< 383c383
+< < "Develop Tones [Accelerator key]" = "Develop Tones";
+< ---
+< > "Develop Tones [Accelerator key]" = "トーンを現像";
+---
+> > "Clear Mask [Liquify toolbar]" = "마스크 해제";
+508c192
+< > "Export Options [Accelerator key]" = "書き出しオプション";
+---
+> > "Export Options [Accelerator key]" = "내보내기 설정";
+512,540c196
+< > "Slices [Accelerator key]" = "スライス";
+< 392c392
+< < "Next Blend Mode [Accelerator key]" = "Next Blend Mode";
+< ---
+< > "Next Blend Mode [Accelerator key]" = "次の描画モード";
+< 395c395
+< < "Previous Blend Mode [Accelerator key]" = "Previous Blend Mode";
+< ---
+< > "Previous Blend Mode [Accelerator key]" = "前の描画モード";
+< 398c398
+< < "Tone Map Overlays [Accelerator key]" = "Tone Map Overlays";
+< ---
+< > "Tone Map Overlays [Accelerator key]" = "トーンマップオーバーレイ";
+< 401c401
+< < "Tone Map Presets [Accelerator key]" = "Tone Map Presets";
+< ---
+< > "Tone Map Presets [Accelerator key]" = "トーンマッププリセット";
+< 404c404
+< < "Tone Map [Accelerator key]" = "Tone Map";
+< ---
+< > "Tone Map [Accelerator key]" = "トーンマップ";
+< 407c407
+< < "Fade… [Raster menu]" = "Fade…";
+< ---
+< > "Fade… [Raster menu]" = "フェード…";
+< 410c410
+< < "Fade %@… [Raster menu]" = "Fade %@…";
+< ---
+< > "Fade %@… [Raster menu]" = "%@をフェード…";
+---
+> > "Slices [Accelerator key]" = "슬라이스";
+544c200
+< > "Repeat %@ [Raster menu]" = "%@をリピート";
+---
+> > "Repeat %@ [Raster menu]" = "%@ 반복";
+548c204
+< > "Add Document Snapshot [Raster]" = "ドキュメントのスナップショットを追加";
+---
+> > "Add Document Snapshot [Raster]" = "문서 스냅샷 추가";
+552c208
+< > "Enter a name for the snapshot [Raster]" = "スナップショット名を入力";
+---
+> > "Enter a name for the snapshot [Raster]" = "스냅샷 이름을 입력합니다.";
+556,560c212
+< > "Saving With History [Save with History]" = "履歴付きで保存中";
+< 425c425
+< < "Enabling \"Save With History\" means that anybody you send this document to can see everything you did to create it.\r\n\r\nDo you still want to enable \"Save With History\"? [Save with History]" = "Enabling \"Save With History\" means that anybody you send this document to can see everything you did to create it.\r\n\r\nDo you still want to enable \"Save With History\"?";
+< ---
+< > "Enabling \"Save With History\" means that anybody you send this document to can see everything you did to create it.\r\n\r\nDo you still want to enable \"Save With History\"? [Save with History]" = "\"履歴付きで保存\"を有効にすると、このドキュメントを受け取ったすべてのユーザーは、このドキュメントの作成のために実行されたすべての操作を確認できます。\r\n\r\n本当に\"履歴付きで保存\"を有効にしますか?";
+---
+> > "Saving With History [Save with History]" = "편집 기록과 함께 저장";
+564c216
+< > "Yes [Save with History]" = "はい";
+---
+> > "Yes [Save with History]" = "예";
+568c220
+< > "No [Save with History]" = "いいえ";
+---
+> > "No [Save with History]" = "아니오";
+572c224
+< > "Constraints [Accelerator key]" = "制約";
+---
+> > "Constraints [Accelerator key]" = "제약";
+576,592c228
+< > "Appearance [Accelerator key]" = "アピアランス";
+< 440c440
+< < "Technical [Persona Name]" = "Technical";
+< ---
+< > "Technical [Persona Name]" = "技術的";
+< 443c443
+< < "Astrophotogrphy Stack Persona [Astrophotogrphy Stack Persona]" = "Astrophotography Stack Persona";
+< ---
+< > "Astrophotogrphy Stack Persona [Astrophotogrphy Stack Persona]" = "天体写真スタックペルソナ";
+< 446c446
+< < "Please either commit or cancel the stacked image before switching to another Persona. [Alert cancel astro stack]" = "Please either commit or cancel the stacked image before switching to another Persona.";
+< ---
+< > "Please either commit or cancel the stacked image before switching to another Persona. [Alert cancel astro stack]" = "別のペルソナに切り替える前に、スタックされた画像をコミットまたはキャンセルしてください。";
+< 449c449
+< < "Astrophotography Stack [Persona Name]" = "Astrophotography Stack";
+< ---
+< > "Astrophotography Stack [Persona Name]" = "天体写真スタック";
+---
+> > "Appearance [Accelerator key]" = "외관";
+596c232
+< > "Develop [Develop tool context toolbar]" = "現像";
+---
+> > "Develop [Develop tool context toolbar]" = "현상";
+600c236
+< > "Cancel [Cancel]" = "キャンセル";
+---
+> > "Cancel [Cancel]" = "취소";
+604c240
+< > "Develop [Persona Name]" = "現像";
+---
+> > "Develop [Persona Name]" = "현상";
+608c244
+< > "Export [Persona Name]" = "書き出し";
+---
+> > "Export [Persona Name]" = "내보내기";
+612,616c248
+< > "Panorama Persona [Panorama Persona]" = "パノラマペルソナ";
+< 470c470
+< < "Please either commit or cancel the panorama before switching to another Persona. [Alert cancel panorama]" = "Please either commit or cancel the panorama before switching to another Persona.";
+< ---
+< > "Please either commit or cancel the panorama before switching to another Persona. [Alert cancel panorama]" = "別のペルソナに切り替える前に、パノラマをコミットまたはキャンセルしてください。";
+---
+> > "Panorama Persona [Panorama Persona]" = "파노라마 페르소나";
+620c252
+< > "Panorama [Persona Name]" = "パノラマ";
+---
+> > "Panorama [Persona Name]" = "파노라마";
+624,626c256,258
+< > "Pixel [Persona Name]" = "ピクセル";
+< 482c482
+< < "Please either commit or cancel the liquify operation before switching to another Persona. [Alert cancel liquify operation]" = "Please either commit or cancel the liquify operation before switching to another Persona.";
+---
+> > "Pixel [Persona Name]" = "픽셀";
+> 479c479
+> < "Photo [Persona Name]" = "Photo";
+628c260
+< > "Please either commit or cancel the liquify operation before switching to another Persona. [Alert cancel liquify operation]" = "ゆがみ操作をコミットまたはキャンセルしてから別のペルソナに切り替えてください。";
+---
+> > "Photo [Persona Name]" = "사진";
+632c264
+< > "Liquify [Persona Name]" = "ゆがみ";
+---
+> > "Liquify [Persona Name]" = "액화";

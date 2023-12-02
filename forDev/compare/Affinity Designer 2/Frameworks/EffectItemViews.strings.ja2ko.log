@@ -1,0 +1,410 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSButtonCell"; title = "Gaussian Blur"; ObjectID = "6"; */
+4,5c5,8
+< > "6.title" = "ガウスぼかし";
+< 6c6
+---
+> > /* Class = "NSButtonCell"; title = "가우시안 블러"; ObjectID = "6"; */
+> > "6.title" = "가우시안 블러";
+> 5,6c5,6
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "30"; */
+8,9c11,14
+< > "30.title" = "半径";
+< 9c9
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "30"; */
+> > "30.title" = "반지름";
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Bevel / Emboss"; ObjectID = "68"; */
+12,13c17,20
+< > "68.title" = "ベベル/エンボス";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "음각 / 양각"; ObjectID = "68"; */
+> > "68.title" = "음각 / 양각";
+> 11,12c11,12
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "70"; */
+16,18c23,26
+< > "70.title" = "半径";
+< 15c15
+< < "100.title" = "Color Overlay";
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "70"; */
+> > "70.title" = "반지름";
+> 14c14
+> < /* Class = "NSButtonCell"; title = "Colour Overlay"; ObjectID = "100"; */
+20,21c28,30
+< > "100.title" = "カラーオーバーレイ";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "색상 오버레이"; ObjectID = "100"; */
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "130"; */
+24,25c33,36
+< > "130.title" = "半径";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "130"; */
+> > "130.title" = "반지름";
+> 23,24c23,24
+> < /* Class = "NSButtonCell"; title = "Outer Glow"; ObjectID = "146"; */
+28,29c39,42
+< > "146.title" = "外側の光彩";
+< 27c27
+---
+> > /* Class = "NSButtonCell"; title = "외부 광채"; ObjectID = "146"; */
+> > "146.title" = "외부 광채";
+> 26,27c26,27
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "148"; */
+32,34c45,48
+< > "148.title" = "半径";
+< 30c30
+< < "161.title" = "Color";
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "148"; */
+> > "148.title" = "반지름";
+> 29c29
+> < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "161"; */
+36,38c50,52
+< > "161.title" = "カラー";
+< 33c33
+< < "165.title" = "Gradient Button";
+---
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "161"; */
+> 38c38
+> < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "181"; */
+40,49c54,56
+< > "165.title" = "グラデーションボタン";
+< 36c36
+< < "180.title" = "Gradient Button";
+< ---
+< > "180.title" = "グラデーションボタン";
+< 39c39
+< < "181.title" = "Color";
+< ---
+< > "181.title" = "カラー";
+< 42c42
+---
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "181"; */
+> 41,42c41,42
+> < /* Class = "NSTextFieldCell"; title = "Offset"; ObjectID = "201"; */
+52,53c59,62
+< > "201.title" = "オフセット";
+< 45c45
+---
+> > /* Class = "NSTextFieldCell"; title = "편차"; ObjectID = "201"; */
+> > "201.title" = "편차";
+> 44,45c44,45
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "202"; */
+56,57c65,68
+< > "202.title" = "半径";
+< 48c48
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "202"; */
+> > "202.title" = "반지름";
+> 47,48c47,48
+> < /* Class = "NSButtonCell"; title = "Outer Shadow"; ObjectID = "204"; */
+60,62c71,74
+< > "204.title" = "外側のシャドウ";
+< 51c51
+< < "205.title" = "Color";
+---
+> > /* Class = "NSButtonCell"; title = "외부 그림자"; ObjectID = "204"; */
+> > "204.title" = "외부 그림자";
+> 50c50
+> < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "205"; */
+64,69c76,78
+< > "205.title" = "カラー";
+< 54c54
+< < "206.title" = "Gradient Button";
+< ---
+< > "206.title" = "グラデーションボタン";
+< 57c57
+---
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "205"; */
+> 56,57c56,57
+> < /* Class = "NSTextFieldCell"; title = "Angle"; ObjectID = "207"; */
+72,73c81,84
+< > "207.title" = "角度";
+< 60c60
+---
+> > /* Class = "NSTextFieldCell"; title = "각도"; ObjectID = "207"; */
+> > "207.title" = "각도";
+> 59,60c59,60
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "208"; */
+76,77c87,90
+< > "208.title" = "不透明度";
+< 63c63
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "208"; */
+> > "208.title" = "불투명도";
+> 62,63c62,63
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "212"; */
+80,81c93,96
+< > "212.title" = "不透明度";
+< 66c66
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "212"; */
+> > "212.title" = "불투명도";
+> 65,66c65,66
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "215"; */
+84,85c99,102
+< > "215.title" = "不透明度";
+< 69c69
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "215"; */
+> > "215.title" = "불투명도";
+> 68,69c68,69
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "221"; */
+88,89c105,108
+< > "221.title" = "不透明度";
+< 72c72
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "221"; */
+> > "221.title" = "불투명도";
+> 71,72c71,72
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "234"; */
+92,93c111,114
+< > "234.title" = "不透明度";
+< 75c75
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "234"; */
+> > "234.title" = "불투명도";
+> 74,75c74,75
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "283"; */
+96,97c117,120
+< > "283.title" = "半径";
+< 78c78
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "283"; */
+> > "283.title" = "반지름";
+> 77,78c77,78
+> < /* Class = "NSButtonCell"; title = "Inner Glow"; ObjectID = "285"; */
+100,102c123,126
+< > "285.title" = "内側の光彩";
+< 81c81
+< < "286.title" = "Color";
+---
+> > /* Class = "NSButtonCell"; title = "내부 광채"; ObjectID = "285"; */
+> > "285.title" = "내부 광채";
+> 80c80
+> < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "286"; */
+104,109c128,130
+< > "286.title" = "カラー";
+< 84c84
+< < "287.title" = "Gradient Button";
+< ---
+< > "287.title" = "グラデーションボタン";
+< 87c87
+---
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "286"; */
+> 86,87c86,87
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "288"; */
+112,113c133,136
+< > "288.title" = "不透明度";
+< 90c90
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "288"; */
+> > "288.title" = "불투명도";
+> 89,90c89,90
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "368"; */
+116,118c139,142
+< > "368.title" = "不透明度";
+< 93c93
+< < "369.title" = "Gradient Button";
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "368"; */
+> > "368.title" = "불투명도";
+> 95c95
+> < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "370"; */
+120,125c144,146
+< > "369.title" = "グラデーションボタン";
+< 96c96
+< < "370.title" = "Color";
+< ---
+< > "370.title" = "カラー";
+< 99c99
+---
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "370"; */
+> 98,99c98,99
+> < /* Class = "NSButtonCell"; title = "Outline"; ObjectID = "371"; */
+128,129c149,152
+< > "371.title" = "アウトライン";
+< 102c102
+---
+> > /* Class = "NSButtonCell"; title = "외형"; ObjectID = "371"; */
+> > "371.title" = "외형";
+> 101,102c101,102
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "373"; */
+132,133c155,158
+< > "373.title" = "半径";
+< 105c105
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "373"; */
+> > "373.title" = "반지름";
+> 104,105c104,105
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "426"; */
+136,137c161,164
+< > "426.title" = "不透明度";
+< 108c108
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "426"; */
+> > "426.title" = "불투명도";
+> 107,108c107,108
+> < /* Class = "NSTextFieldCell"; title = "Angle"; ObjectID = "427"; */
+140,142c167,170
+< > "427.title" = "角度";
+< 111c111
+< < "428.title" = "Gradient Button";
+---
+> > /* Class = "NSTextFieldCell"; title = "각도"; ObjectID = "427"; */
+> > "427.title" = "각도";
+> 113c113
+> < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "429"; */
+144,149c172,174
+< > "428.title" = "グラデーションボタン";
+< 114c114
+< < "429.title" = "Color";
+< ---
+< > "429.title" = "カラー";
+< 117c117
+---
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "429"; */
+> 116,117c116,117
+> < /* Class = "NSButtonCell"; title = "Inner Shadow"; ObjectID = "430"; */
+152,153c177,180
+< > "430.title" = "内側のシャドウ";
+< 120c120
+---
+> > /* Class = "NSButtonCell"; title = "내부 그림자"; ObjectID = "430"; */
+> > "430.title" = "내부 그림자";
+> 119,120c119,120
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "432"; */
+156,157c183,186
+< > "432.title" = "半径";
+< 123c123
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "432"; */
+> > "432.title" = "반지름";
+> 122,123c122,123
+> < /* Class = "NSTextFieldCell"; title = "Offset"; ObjectID = "433"; */
+160,161c189,192
+< > "433.title" = "オフセット";
+< 126c126
+---
+> > /* Class = "NSTextFieldCell"; title = "편차"; ObjectID = "433"; */
+> > "433.title" = "편차";
+> 125,126c125,126
+> < /* Class = "NSButtonCell"; title = "Offset Tool"; ObjectID = "499"; */
+164,165c195,198
+< > "499.title" = "オフセットツール";
+< 129c129
+---
+> > /* Class = "NSButtonCell"; title = "편차 도구"; ObjectID = "499"; */
+> > "499.title" = "편차 도구";
+> 128,129c128,129
+> < /* Class = "NSButtonCell"; title = "Offset Tool"; ObjectID = "503"; */
+168,169c201,204
+< > "503.title" = "オフセットツール";
+< 132c132
+---
+> > /* Class = "NSButtonCell"; title = "편차 도구"; ObjectID = "503"; */
+> > "503.title" = "편차 도구";
+> 131,132c131,132
+> < /* Class = "NSButtonCell"; title = "Gradient Overlay"; ObjectID = "517"; */
+172,173c207,210
+< > "517.title" = "グラデーションオーバーレイ";
+< 135c135
+---
+> > /* Class = "NSButtonCell"; title = "그레이디언트 오버레이"; ObjectID = "517"; */
+> > "517.title" = "그레이디언트 오버레이";
+> 134,135c134,135
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "519"; */
+176,177c213,216
+< > "519.title" = "不透明度";
+< 138c138
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "519"; */
+> > "519.title" = "불투명도";
+> 137,138c137,138
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "1H6-yn-E9C"; */
+180,181c219,222
+< > "1H6-yn-E9C.ibShadowedToolTip" = "レイヤーエフェクト";
+< 141c141
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "1H6-yn-E9C"; */
+> > "1H6-yn-E9C.ibShadowedToolTip" = "레이어 효과";
+> 140,141c140,141
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "2Dm-mX-vtu"; */
+184,185c225,228
+< > "2Dm-mX-vtu.ibShadowedToolTip" = "レイヤーエフェクト";
+< 144c144
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "2Dm-mX-vtu"; */
+> > "2Dm-mX-vtu.ibShadowedToolTip" = "레이어 효과";
+> 143,144c143,144
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "9aJ-JE-4q1"; */
+188,189c231,234
+< > "9aJ-JE-4q1.ibShadowedToolTip" = "レイヤーエフェクト";
+< 147c147
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "9aJ-JE-4q1"; */
+> > "9aJ-JE-4q1.ibShadowedToolTip" = "레이어 효과";
+> 146,147c146,147
+> < /* Class = "NSButtonCell"; title = "Preserve alpha"; ObjectID = "Ddr-yg-XK5"; */
+192,193c237,240
+< > "Ddr-yg-XK5.title" = "アルファの維持";
+< 150c150
+---
+> > /* Class = "NSButtonCell"; title = "알파 유지"; ObjectID = "Ddr-yg-XK5"; */
+> > "Ddr-yg-XK5.title" = "알파 유지";
+> 149,150c149,150
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "S9k-Z5-Iqu"; */
+196,197c243,246
+< > "S9k-Z5-Iqu.ibShadowedToolTip" = "レイヤーエフェクト";
+< 153c153
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "S9k-Z5-Iqu"; */
+> > "S9k-Z5-Iqu.ibShadowedToolTip" = "레이어 효과";
+> 152,153c152,153
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "TiS-dU-52M"; */
+200,201c249,252
+< > "TiS-dU-52M.ibShadowedToolTip" = "レイヤーエフェクト";
+< 156c156
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "TiS-dU-52M"; */
+> > "TiS-dU-52M.ibShadowedToolTip" = "레이어 효과";
+> 155,156c155,156
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "Zc6-J4-KKT"; */
+204,205c255,258
+< > "Zc6-J4-KKT.ibShadowedToolTip" = "レイヤーエフェクト";
+< 159c159
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "Zc6-J4-KKT"; */
+> > "Zc6-J4-KKT.ibShadowedToolTip" = "레이어 효과";
+> 158,159c158,159
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "ecr-gU-pA7"; */
+208,209c261,264
+< > "ecr-gU-pA7.ibShadowedToolTip" = "レイヤーエフェクト";
+< 162c162
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "ecr-gU-pA7"; */
+> > "ecr-gU-pA7.ibShadowedToolTip" = "레이어 효과";
+> 161,162c161,162
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "qwD-56-goS"; */
+212,213c267,270
+< > "qwD-56-goS.ibShadowedToolTip" = "レイヤーエフェクト";
+< 165c165
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "qwD-56-goS"; */
+> > "qwD-56-goS.ibShadowedToolTip" = "레이어 효과";
+> 164,165c164,165
+> < /* Class = "NSButton"; ibShadowedToolTip = "Layer Effects"; ObjectID = "yBm-Yy-u09"; */
+216c273,274
+< > "yBm-Yy-u09.ibShadowedToolTip" = "レイヤーエフェクト";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 효과"; ObjectID = "yBm-Yy-u09"; */
+> > "yBm-Yy-u09.ibShadowedToolTip" = "레이어 효과";

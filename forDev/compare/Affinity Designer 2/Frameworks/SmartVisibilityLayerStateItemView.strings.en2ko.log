@@ -1,0 +1,24 @@
+11,12c11,12
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8kf-J6-CLc"; */
+< "8kf-J6-CLc.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "8kf-J6-CLc"; */
+> "8kf-J6-CLc.title" = "텍스트 셀";
+26,27c26,27
+< /* Class = "NSButton"; ibShadowedToolTip = "Show"; ObjectID = "Y2d-H9-ITU"; */
+< "Y2d-H9-ITU.ibShadowedToolTip" = "Show";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "보기"; ObjectID = "Y2d-H9-ITU"; */
+> "Y2d-H9-ITU.ibShadowedToolTip" = "보기";
+29,30c29,30
+< /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "b9b-B4-8WO"; */
+< "b9b-B4-8WO.title" = "Style";
+---
+> /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "b9b-B4-8WO"; */
+> "b9b-B4-8WO.title" = "스타일";
+47,48c47,48
+< /* Class = "NSButton"; ibShadowedToolTip = "Hide"; ObjectID = "z83-ak-huV"; */
+< "z83-ak-huV.ibShadowedToolTip" = "Hide";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "가리기"; ObjectID = "z83-ak-huV"; */
+> "z83-ak-huV.ibShadowedToolTip" = "가리기";

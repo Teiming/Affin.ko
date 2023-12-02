@@ -1,0 +1,120 @@
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8"; */
+< "8.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "8"; */
+> "8.title" = "취소";
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "3Zr-zx-mmN"; */
+< "3Zr-zx-mmN.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "3Zr-zx-mmN"; */
+> "3Zr-zx-mmN.title" = "적용";
+17,18c17,18
+< /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "5cY-MO-oRN"; */
+< "5cY-MO-oRN.title" = "Remove";
+---
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "5cY-MO-oRN"; */
+> "5cY-MO-oRN.title" = "지우기";
+20,21c20,21
+< /* Class = "NSTextField"; ibShadowedToolTip = "Maximum height"; ObjectID = "5uA-RT-iq0"; */
+< "5uA-RT-iq0.ibShadowedToolTip" = "Maximum height";
+---
+> /* Class = "NSTextField"; ibShadowedToolTip = "최대 높이"; ObjectID = "5uA-RT-iq0"; */
+> "5uA-RT-iq0.ibShadowedToolTip" = "최대 높이";
+29,30c29,30
+< /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "9J0-Y3-BCR"; */
+< "9J0-Y3-BCR.title" = "Remove";
+---
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "9J0-Y3-BCR"; */
+> "9J0-Y3-BCR.title" = "지우기";
+32,33c32,33
+< /* Class = "NSButtonCell"; title = "Add"; ObjectID = "9UU-bz-y9v"; */
+< "9UU-bz-y9v.title" = "Add";
+---
+> /* Class = "NSButtonCell"; title = "추가"; ObjectID = "9UU-bz-y9v"; */
+> "9UU-bz-y9v.title" = "추가";
+35,36c35,36
+< /* Class = "NSButtonCell"; title = "Save as AFPhoto"; ObjectID = "BNa-SP-38g"; */
+< "BNa-SP-38g.title" = "Save as AFPhoto";
+---
+> /* Class = "NSButtonCell"; title = "AFPhoto(으)로 저장"; ObjectID = "BNa-SP-38g"; */
+> "BNa-SP-38g.title" = "AFPhoto(으)로 저장";
+38,39c38,39
+< /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "Br9-je-FhX"; */
+< "Br9-je-FhX.headerCell.title" = "Plugin";
+---
+> /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "Br9-je-FhX"; */
+> "Br9-je-FhX.headerCell.title" = "플러그인";
+41,42c41,42
+< /* Class = "NSButtonCell"; title = "Save as PNG"; ObjectID = "CcL-Qz-jc6"; */
+< "CcL-Qz-jc6.title" = "Save as PNG";
+---
+> /* Class = "NSButtonCell"; title = "PNG(으)로 저장"; ObjectID = "CcL-Qz-jc6"; */
+> "CcL-Qz-jc6.title" = "PNG(으)로 저장";
+56,57c56,57
+< /* Class = "NSButtonCell"; title = "Save as OpenEXR"; ObjectID = "Ney-qU-cUB"; */
+< "Ney-qU-cUB.title" = "Save as OpenEXR";
+---
+> /* Class = "NSButtonCell"; title = "OpenEXR(으)로 저장"; ObjectID = "Ney-qU-cUB"; */
+> "Ney-qU-cUB.title" = "OpenEXR(으)로 저장";
+65,66c65,66
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "S9L-3g-vy6"; */
+< "S9L-3g-vy6.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "S9L-3g-vy6"; */
+> "S9L-3g-vy6.title" = "텍스트 셀";
+68,69c68,69
+< /* Class = "NSTextField"; ibShadowedToolTip = "Maximum width"; ObjectID = "Tn9-u6-2VM"; */
+< "Tn9-u6-2VM.ibShadowedToolTip" = "Maximum width";
+---
+> /* Class = "NSTextField"; ibShadowedToolTip = "최대 두께"; ObjectID = "Tn9-u6-2VM"; */
+> "Tn9-u6-2VM.ibShadowedToolTip" = "최대 두께";
+77,78c77,78
+< /* Class = "NSTextField"; ibShadowedToolTip = "Preserve aspect ratio"; ObjectID = "Z2F-Uf-aTv"; */
+< "Z2F-Uf-aTv.ibShadowedToolTip" = "Preserve aspect ratio";
+---
+> /* Class = "NSTextField"; ibShadowedToolTip = "종횡비 유지"; ObjectID = "Z2F-Uf-aTv"; */
+> "Z2F-Uf-aTv.ibShadowedToolTip" = "종횡비 유지";
+92,93c92,93
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "g9W-VC-wUY"; */
+< "g9W-VC-wUY.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "g9W-VC-wUY"; */
+> "g9W-VC-wUY.title" = "텍스트 셀";
+101,102c101,102
+< /* Class = "NSTextFieldCell"; title = "Output"; ObjectID = "k6K-jx-mb3"; */
+< "k6K-jx-mb3.title" = "Output";
+---
+> /* Class = "NSTextFieldCell"; title = "출력"; ObjectID = "k6K-jx-mb3"; */
+> "k6K-jx-mb3.title" = "출력";
+107,108c107,108
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mWE-VA-Hcm"; */
+< "mWE-VA-Hcm.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mWE-VA-Hcm"; */
+> "mWE-VA-Hcm.title" = "텍스트 셀";
+113,114c113,114
+< /* Class = "NSButtonCell"; title = "Save as TIFF"; ObjectID = "qPa-6D-HGs"; */
+< "qPa-6D-HGs.title" = "Save as TIFF";
+---
+> /* Class = "NSButtonCell"; title = "TIFF(으)로 저장"; ObjectID = "qPa-6D-HGs"; */
+> "qPa-6D-HGs.title" = "TIFF(으)로 저장";
+116,117c116,117
+< /* Class = "NSButtonCell"; title = "Save as JPEG"; ObjectID = "scs-nf-Vai"; */
+< "scs-nf-Vai.title" = "Save as JPEG";
+---
+> /* Class = "NSButtonCell"; title = "JPEG(으)로 저장"; ObjectID = "scs-nf-Vai"; */
+> "scs-nf-Vai.title" = "JPEG(으)로 저장";
+119,120c119,120
+< /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "uOg-jA-d4r"; */
+< "uOg-jA-d4r.headerCell.title" = "Plugin";
+---
+> /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "uOg-jA-d4r"; */
+> "uOg-jA-d4r.headerCell.title" = "플러그인";
+125,126c125,126
+< /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "wcC-Dx-0HV"; */
+< "wcC-Dx-0HV.headerCell.title" = "Plugin";
+---
+> /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "wcC-Dx-0HV"; */
+> "wcC-Dx-0HV.headerCell.title" = "플러그인";

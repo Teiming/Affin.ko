@@ -1,0 +1,42 @@
+1,9c1,2
+< 3c3
+< < "8Gz-cX-ysY.title" = "From Right";
+< ---
+< > "8Gz-cX-ysY.title" = "右から";
+< 6c6
+< < "C7w-rx-zfC.title" = "Decimal:";
+< ---
+< > "C7w-rx-zfC.title" = "小数点:";
+< 9c9
+---
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "GAx-pU-l13"; */
+12,13c5,8
+< > "GAx-pU-l13.title" = "位置:";
+< 12c12
+---
+> > /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "GAx-pU-l13"; */
+> > "GAx-pU-l13.title" = "위치:";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Gi2-ff-WrC"; */
+16,21c11,14
+< > "Gi2-ff-WrC.title" = "削除";
+< 15c15
+< < "Qkr-Kp-NJI.title" = "Leader:";
+< ---
+< > "Qkr-Kp-NJI.title" = "リーダー:";
+< 18c18
+---
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Gi2-ff-WrC"; */
+> > "Gi2-ff-WrC.title" = "지우기";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Align:"; ObjectID = "bZd-aw-6vA"; */
+24,28c17,18
+< > "bZd-aw-6vA.title" = "整列:";
+< 21c21
+< < "xHO-Dc-xK1.title" = "Character:";
+< ---
+< > "xHO-Dc-xK1.title" = "文字:";
+---
+> > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "bZd-aw-6vA"; */
+> > "bZd-aw-6vA.title" = "정렬:";

@@ -1,0 +1,62 @@
+1,9c1,2
+< 3c3
+< < "6Jp-Bb-7Yx.title" = "Reconstruct Mesh";
+< ---
+< > "6Jp-Bb-7Yx.title" = "メッシュの再構築";
+< 6c6
+< < "8hX-Ru-Ifb.title" = "Gradient Button";
+< ---
+< > "8hX-Ru-Ifb.title" = "グラデーションボタン";
+< 9c9
+---
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "BEH-jt-cGN"; */
+12,13c5,8
+< > "BEH-jt-cGN.title" = "適用";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "BEH-jt-cGN"; */
+> > "BEH-jt-cGN.title" = "적용";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Reset Mesh"; ObjectID = "CyN-53-rlB"; */
+16,25c11,14
+< > "CyN-53-rlB.title" = "メッシュをリセット";
+< 15c15
+< < "FuA-WN-gSc.title" = "Last Mesh";
+< ---
+< > "FuA-WN-gSc.title" = "最後のメッシュ";
+< 18c18
+< < "Gjp-8c-sS1.title" = "Load Mesh...";
+< ---
+< > "Gjp-8c-sS1.title" = "メッシュを読み込み...";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "그물 재설정"; ObjectID = "CyN-53-rlB"; */
+> > "CyN-53-rlB.title" = "그물 재설정";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "OEZ-2y-poa"; */
+28,30c17,20
+< > "OEZ-2y-poa.title" = "不透明度";
+< 24c24
+< < "U0Y-H9-GnP.title" = "Divisions";
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "OEZ-2y-poa"; */
+> > "OEZ-2y-poa.title" = "불투명도";
+> 29c29
+> < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "dLt-Fp-rZu"; */
+32,44c22
+< > "U0Y-H9-GnP.title" = "区分";
+< 27c27
+< < "aTK-fd-tkZ.title" = "Show Mesh";
+< ---
+< > "aTK-fd-tkZ.title" = "メッシュを表示";
+< 30c30
+< < "dLt-Fp-rZu.title" = "Color";
+< ---
+< > "dLt-Fp-rZu.title" = "カラー";
+< 33c33
+< < "w9Q-wu-noF.title" = "Save Mesh...";
+< ---
+< > "w9Q-wu-noF.title" = "メッシュを保存...";
+---
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "dLt-Fp-rZu"; */

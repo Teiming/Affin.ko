@@ -1,0 +1,102 @@
+1,13c1,2
+< 3c3
+< < "1Dd-DF-A0c.title" = "Pages:";
+< ---
+< > "1Dd-DF-A0c.title" = "ページ数:";
+< 6c6
+< < "5IE-kF-lRl.title" = "Section:";
+< ---
+< > "5IE-kF-lRl.title" = "セクション:";
+< 9c9
+< < "6xr-kl-MgX.title" = "After Last Page";
+< ---
+< > "6xr-kl-MgX.title" = "最終ページ後";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSMenuItem"; title = "Before"; ObjectID = "9bm-sP-Co1"; */
+16,21c5,8
+< > "9bm-sP-Co1.title" = "前";
+< 15c15
+< < "CJh-S3-50s.title" = "Ignore Initial Section";
+< ---
+< > "CJh-S3-50s.title" = "最初のセクションを無視する";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "이전"; ObjectID = "9bm-sP-Co1"; */
+> > "9bm-sP-Co1.title" = "이전";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "CXZ-u6-bMc"; */
+24,25c11,14
+< > "CXZ-u6-bMc.title" = "ラベル";
+< 21c21
+---
+> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "CXZ-u6-bMc"; */
+> > "CXZ-u6-bMc.title" = "라벨";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "IEL-yo-O4V"; */
+28,65c17,20
+< > "IEL-yo-O4V.title" = "ラベル";
+< 27c27
+< < "Jmg-QW-izK.title" = "Discard Unused Text Styles";
+< ---
+< > "Jmg-QW-izK.title" = "未使用テキストスタイルを破棄";
+< 30c30
+< < "Lgm-gG-L3Z.title" = "Pages";
+< ---
+< > "Lgm-gG-L3Z.title" = "ページ";
+< 33c33
+< < "PnC-cn-739.title" = "Section";
+< ---
+< > "PnC-cn-739.title" = "セクション";
+< 39c39
+< < "QvC-M9-y7g.title" = "Add Pages from File";
+< ---
+< > "QvC-M9-y7g.title" = "ファイルからページを追加";
+< 42c42
+< < "S5F-b7-UC8.title" = "All Pages";
+< ---
+< > "S5F-b7-UC8.title" = "すべてのページ";
+< 45c45
+< < "VOs-em-WFC.title" = "Section:";
+< ---
+< > "VOs-em-WFC.title" = "セクション:";
+< 48c48
+< < "XRO-wm-4cj.title" = "Add pages from file:";
+< ---
+< > "XRO-wm-4cj.title" = "ファイルからページを追加:";
+< 51c51
+< < "Z2f-ne-yH8.title" = "Replacing";
+< ---
+< > "Z2f-ne-yH8.title" = "置換中";
+< 54c54
+< < "cA1-n6-YEd.title" = "Pages or section:";
+< ---
+< > "cA1-n6-YEd.title" = "ページまたはセクション:";
+< 57c57
+---
+> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "IEL-yo-O4V"; */
+> > "IEL-yo-O4V.title" = "라벨";
+> 56,57c56,57
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
+68,73c23,26
+< > "fIV-u8-dQJ.title" = "キャンセル";
+< 60c60
+< < "fKk-Kb-cZu.title" = "Add pages:";
+< ---
+< > "fKk-Kb-cZu.title" = "ページを追加:";
+< 66c66
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */
+> > "fIV-u8-dQJ.title" = "취소";
+> 65,66c65,66
+> < /* Class = "NSMenuItem"; title = "After"; ObjectID = "hcL-GU-vo4"; */
+76,80c29,30
+< > "hcL-GU-vo4.title" = "後";
+< 69c69
+< < "piG-xd-yVq.title" = "Page Numbers:";
+< ---
+< > "piG-xd-yVq.title" = "ページ番号:";
+---
+> > /* Class = "NSMenuItem"; title = "이후"; ObjectID = "hcL-GU-vo4"; */
+> > "hcL-GU-vo4.title" = "이후";

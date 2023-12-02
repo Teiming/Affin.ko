@@ -1,0 +1,553 @@
+1,16d0
+< 2c2
+< < "Pentagon" = "Pentagon";
+< ---
+< > "Pentagon" = "五角形";
+< 5c5
+< < "Hexagon" = "Hexagon";
+< ---
+< > "Hexagon" = "六角形";
+< 8c8
+< < "Heptagon" = "Heptagon";
+< ---
+< > "Heptagon" = "七角形";
+< 11c11
+< < "Octagon" = "Octagon";
+< ---
+< > "Octagon" = "八角形";
+20,36c4
+< > "Rounded" = "丸み付け";
+< 17c17
+< < "Channel adjustments" = "Channel adjustments";
+< ---
+< > "Channel adjustments" = "チャンネル調整";
+< 20c20
+< < "Swap Red and Green" = "Swap Red and Green";
+< ---
+< > "Swap Red and Green" = "赤と緑を入れ換え";
+< 23c23
+< < "Invert Red" = "Invert Red";
+< ---
+< > "Invert Red" = "赤を反転";
+< 26c26
+< < "Metallic" = "Metallic";
+< ---
+< > "Metallic" = "メタリック";
+---
+> > "Rounded" = "둥근";
+40c8
+< > "Default" = "デフォルト";
+---
+> > "Default" = "기본값";
+44,48c12
+< > "Amount" = "量";
+< 35c35
+< < "Bands" = "Bands";
+< ---
+< > "Bands" = "バンド";
+---
+> > "Amount" = "양";
+52,60c16
+< > "Offset" = "オフセット";
+< 41c41
+< < "Basic shapes" = "Basic shapes";
+< ---
+< > "Basic shapes" = "基本シェイプ";
+< 44c44
+< < "Chequered" = "Checkered";
+< ---
+< > "Chequered" = "チェック";
+---
+> > "Offset" = "편차";
+64,72c20
+< > "Default" = "デフォルト";
+< 50c50
+< < "Square count" = "Square count";
+< ---
+< > "Square count" = "マス数";
+< 53c53
+< < "Smoothed bars" = "Smoothed bars";
+< ---
+< > "Smoothed bars" = "滑らかなバー";
+---
+> > "Default" = "기본값";
+76,88c24
+< > "Default" = "デフォルト";
+< 59c59
+< < "Bar count" = "Bar count";
+< ---
+< > "Bar count" = "バー数";
+< 62c62
+< < "Smoothing size" = "Smoothing size";
+< ---
+< > "Smoothing size" = "平滑化サイズ";
+< 65c65
+< < "Smoothed squares" = "Smoothed squares";
+< ---
+< > "Smoothed squares" = "滑らかなマス";
+---
+> > "Default" = "기본값";
+92,104c28
+< > "Default" = "デフォルト";
+< 71c71
+< < "Bar count" = "Bar count";
+< ---
+< > "Bar count" = "バー数";
+< 74c74
+< < "Smoothing size" = "Smoothing size";
+< ---
+< > "Smoothing size" = "平滑化サイズ";
+< 77c77
+< < "Waves" = "Waves";
+< ---
+< > "Waves" = "波";
+---
+> > "Default" = "기본값";
+108,116c32
+< > "Default" = "デフォルト";
+< 83c83
+< < "Wave" = "Wave";
+< ---
+< > "Wave" = "波";
+< 86c86
+< < "Sine wave" = "Sine wave";
+< ---
+< > "Sine wave" = "正弦波";
+---
+> > "Default" = "기본값";
+120c36
+< > "Default" = "デフォルト";
+---
+> > "Default" = "기본값";
+124,132c40
+< > "Height" = "高さ";
+< 95c95
+< < "Number of waves" = "Number of waves";
+< ---
+< > "Number of waves" = "波の数";
+< 98c98
+< < "Overlapped sine waves" = "Overlapped sine waves";
+< ---
+< > "Overlapped sine waves" = "オーバーラップ正弦波";
+---
+> > "Height" = "높이";
+136c44
+< > "Default" = "デフォルト";
+---
+> > "Default" = "기본값";
+140,144c48
+< > "Height" = "高さ";
+< 107c107
+< < "Separation" = "Separation";
+< ---
+< > "Separation" = "分離";
+---
+> > "Height" = "높이";
+148,156c52
+< > "Offset" = "オフセット";
+< 113c113
+< < "Number of waves" = "Number of waves";
+< ---
+< > "Number of waves" = "波の数";
+< 116c116
+< < "Graduated random squares" = "Graduated random squares";
+< ---
+< > "Graduated random squares" = "ランダムなマス(グラデーションあり)";
+---
+> > "Offset" = "편차";
+160,164c56
+< > "Default" = "デフォルト";
+< 122c122
+< < "Number of squares" = "Number of squares";
+< ---
+< > "Number of squares" = "マスの数";
+---
+> > "Default" = "기본값";
+168,176c60
+< > "Noise" = "ノイズ";
+< 128c128
+< < "Simple Perlin Noise" = "Simple Perlin Noise";
+< ---
+< > "Simple Perlin Noise" = "シンプルパーリンノイズ";
+< 131c131
+< < "Perlin Noise" = "Perlin Noise";
+< ---
+< > "Perlin Noise" = "パーリンノイズ";
+---
+> > "Noise" = "잡음";
+180,196c64
+< > "Default" = "デフォルト";
+< 137c137
+< < "Harsh" = "Harsh";
+< ---
+< > "Harsh" = "鋭く";
+< 140c140
+< < "Smoke" = "Smoke";
+< ---
+< > "Smoke" = "スモーク";
+< 143c143
+< < "Octaves" = "Octaves";
+< ---
+< > "Octaves" = "オクターブ";
+< 146c146
+< < "Persistence" = "Persistence";
+< ---
+< > "Persistence" = "持続性";
+---
+> > "Default" = "기본값";
+200c68
+< > "Contrast" = "コントラスト";
+---
+> > "Contrast" = "대비";
+204,212c72
+< > "Brightness" = "明るさ";
+< 155c155
+< < "Cell count" = "Cell count";
+< ---
+< > "Cell count" = "セル数";
+< 158c158
+< < "Thin clouds" = "Thin clouds";
+< ---
+< > "Thin clouds" = "細い雲形";
+---
+> > "Brightness" = "명암";
+216,220c76
+< > "Dark" = "暗い";
+< 164c164
+< < "Bright" = "Bright";
+< ---
+< > "Bright" = "明るい";
+---
+> > "Dark" = "다크";
+224,232c80
+< > "Brightness" = "明るさ";
+< 170c170
+< < "Monochrome patterns" = "Monochrome patterns";
+< ---
+< > "Monochrome patterns" = "モノクロパターン";
+< 173c173
+< < "Ripples" = "Ripples";
+< ---
+< > "Ripples" = "波紋";
+---
+> > "Brightness" = "명암";
+236,248c84
+< > "Default" = "デフォルト";
+< 179c179
+< < "Square count" = "Square count";
+< ---
+< > "Square count" = "マス数";
+< 182c182
+< < "Turbulence" = "Turbulence";
+< ---
+< > "Turbulence" = "乱流";
+< 185c185
+< < "Fur" = "Fur";
+< ---
+< > "Fur" = "ファー";
+---
+> > "Default" = "기본값";
+252,268c88
+< > "Default" = "デフォルト";
+< 191c191
+< < "Square count" = "Square count";
+< ---
+< > "Square count" = "マス数";
+< 194c194
+< < "Turbulence" = "Turbulence";
+< ---
+< > "Turbulence" = "乱流";
+< 197c197
+< < "Square count turbulence" = "Square count turbulence";
+< ---
+< > "Square count turbulence" = "マス数(乱流)";
+< 200c200
+< < "Lava" = "Lava";
+< ---
+< > "Lava" = "溶岩";
+---
+> > "Default" = "기본값";
+272,288c92
+< > "Default" = "デフォルト";
+< 206c206
+< < "Square size" = "Square size";
+< ---
+< > "Square size" = "正方形サイズ";
+< 209c209
+< < "Turbulence" = "Turbulence";
+< ---
+< > "Turbulence" = "乱流";
+< 212c212
+< < "Square size turbulence" = "Square size turbulence";
+< ---
+< > "Square size turbulence" = "マスのサイズ(乱流)";
+< 215c215
+< < "Oils" = "Oils";
+< ---
+< > "Oils" = "油彩";
+---
+> > "Default" = "기본값";
+292,300c96
+< > "Default" = "デフォルト";
+< 221c221
+< < "Square count" = "Square count";
+< ---
+< > "Square count" = "マス数";
+< 224c224
+< < "Turbulence" = "Turbulence";
+< ---
+< > "Turbulence" = "乱流";
+---
+> > "Default" = "기본값";
+304,308c100
+< > "Brightness" = "明るさ";
+< 230c230
+< < "Mono swirls" = "Mono swirls";
+< ---
+< > "Mono swirls" = "単色の渦巻き";
+---
+> > "Brightness" = "명암";
+312c104
+< > "Default" = "デフォルト";
+---
+> > "Default" = "기본값";
+316c108
+< > "Width" = "幅";
+---
+> > "Width" = "너비";
+320,328c112
+< > "Offset" = "オフセット";
+< 242c242
+< < "Square count" = "Square count";
+< ---
+< > "Square count" = "マス数";
+< 245c245
+< < "Droplets" = "Droplets";
+< ---
+< > "Droplets" = "水滴";
+---
+> > "Offset" = "편차";
+332,348c116
+< > "Default" = "デフォルト";
+< 251c251
+< < "Inverted" = "Inverted";
+< ---
+< > "Inverted" = "反転済み";
+< 254c254
+< < "Mexico" = "Mexico";
+< ---
+< > "Mexico" = "メキシコ";
+< 257c257
+< < "Square count" = "Square count";
+< ---
+< > "Square count" = "マス数";
+< 260c260
+< < "Smoothing" = "Smoothing";
+< ---
+< > "Smoothing" = "平滑化";
+---
+> > "Default" = "기본값";
+352,360c120
+< > "Offset" = "オフセット";
+< 266c266
+< < "Turbulence" = "Turbulence";
+< ---
+< > "Turbulence" = "乱流";
+< 269c269
+< < "Urban Camoflage" = "Urban Camouflage";
+< ---
+< > "Urban Camoflage" = "白黒迷彩";
+---
+> > "Offset" = "편차";
+364,388c124
+< > "Default" = "デフォルト";
+< 275c275
+< < "Square count" = "Square count";
+< ---
+< > "Square count" = "マス数";
+< 278c278
+< < "Turbulence" = "Turbulence";
+< ---
+< > "Turbulence" = "乱流";
+< 281c281
+< < "Coloured patterns" = "Colored patterns";
+< ---
+< > "Coloured patterns" = "色付きパターン";
+< 284c284
+< < "Marble" = "Marble";
+< ---
+< > "Marble" = "マーブル";
+< 287c287
+< < "Lighting" = "Lighting";
+< ---
+< > "Lighting" = "照明";
+< 290c290
+< < "Simple Bump Map Lighting" = "Simple Bump Map Lighting";
+< ---
+< > "Simple Bump Map Lighting" = "シンプルバンプマップ照明";
+---
+> > "Default" = "기본값";
+392,396c128
+< > "Default" = "デフォルト";
+< 296c296
+< < "Light direction" = "Light direction";
+< ---
+< > "Light direction" = "照明の向き";
+---
+> > "Default" = "기본값";
+400,404c132
+< > "Brightness" = "明るさ";
+< 302c302
+< < "Simple Bump Map Lighting (negated Y)" = "Simple Bump Map Lighting (negated Y)";
+< ---
+< > "Simple Bump Map Lighting (negated Y)" = "シンプルバンプマップ照明(Y軸負方向)";
+---
+> > "Brightness" = "명암";
+408,412c136
+< > "Default" = "デフォルト";
+< 308c308
+< < "Light direction" = "Light direction";
+< ---
+< > "Light direction" = "照明の向き";
+---
+> > "Default" = "기본값";
+416,552c140
+< > "Brightness" = "明るさ";
+< 314c314
+< < "Common ratios" = "Common ratios";
+< ---
+< > "Common ratios" = "一般的な比率";
+< 326c326
+< < "3 : 2  (6 : 4)" = "3 : 2  (6 : 4)";
+< ---
+< > "3 : 2  (6 : 4)" = "3 : 2 (6 : 4)";
+< 329c329
+< < "4 : 3  (1.33 : 1)" = "4 : 3  (1.33 : 1)";
+< ---
+< > "4 : 3  (1.33 : 1)" = "4 : 3 (1.33 : 1)";
+< 332c332
+< < "5 : 4  (10 : 8)" = "5 : 4  (10 : 8)";
+< ---
+< > "5 : 4  (10 : 8)" = "5 : 4 (10 : 8)";
+< 335c335
+< < "16 : 9  (1.77 : 1)" = "16 : 9  (1.77 : 1)";
+< ---
+< > "16 : 9  (1.77 : 1)" = "16 : 9 (1.77 : 1)";
+< 341c341
+< < "1.618 : 1  (Golden ratio)" = "1.618 : 1  (Golden ratio)";
+< ---
+< > "1.618 : 1  (Golden ratio)" = "1.618 : 1 (黄金比)";
+< 344c344
+< < "Photographic paper (@300ppi)" = "Photographic paper (@300ppi)";
+< ---
+< > "Photographic paper (@300ppi)" = "印画紙(@300ppi)";
+< 347c347
+< < "6\" x 4\"  [4R]" = "6\" x 4\"  [4R]";
+< ---
+< > "6\" x 4\"  [4R]" = "6\" x 4\" [4R]";
+< 350c350
+< < "7\" x 5\"  [5R]" = "7\" x 5\"  [5R]";
+< ---
+< > "7\" x 5\"  [5R]" = "7\" x 5\" [5R]";
+< 353c353
+< < "8\" x 6\"  [6R]" = "8\" x 6\"  [6R]";
+< ---
+< > "8\" x 6\"  [6R]" = "8\" x 6\" [6R]";
+< 356c356
+< < "10\" x 8\"  [8R]" = "10\" x 8\"  [8R]";
+< ---
+< > "10\" x 8\"  [8R]" = "10\" x 8\" [8R]";
+< 359c359
+< < "ISO paper sizes (@300ppi)" = "ISO paper sizes (@300ppi)";
+< ---
+< > "ISO paper sizes (@300ppi)" = "ISO用紙サイズ(@300ppi)";
+< 362c362
+< < "297mm x 420mm  [A3]" = "297mm x 420mm  [A3]";
+< ---
+< > "297mm x 420mm  [A3]" = "297mm x 420mm [A3]";
+< 365c365
+< < "210mm x 297mm  [A4]" = "210mm x 297mm  [A4]";
+< ---
+< > "210mm x 297mm  [A4]" = "210mm x 297mm [A4]";
+< 368c368
+< < "148mm x 210mm  [A5]" = "148mm x 210mm  [A5]";
+< ---
+< > "148mm x 210mm  [A5]" = "148mm x 210mm [A5]";
+< 371c371
+< < "105mm x 148mm  [A6]" = "105mm x 148mm  [A6]";
+< ---
+< > "105mm x 148mm  [A6]" = "105mm x 148mm [A6]";
+< 374c374
+< < "US paper sizes (@300ppi)" = "US paper sizes (@300ppi)";
+< ---
+< > "US paper sizes (@300ppi)" = "米国用紙サイズ(@300ppi)";
+< 377c377
+< < "8.5\" x 11\"  [Letter, ANSI A]" = "8.5\" x 11\"  [Letter, ANSI A]";
+< ---
+< > "8.5\" x 11\"  [Letter, ANSI A]" = "8.5\" x 11\" [レター、ANSI A]";
+< 380c380
+< < "8.5\" x 14\"  [Legal]" = "8.5\" x 14\"  [Legal]";
+< ---
+< > "8.5\" x 14\"  [Legal]" = "8.5\" x 14\" [リーガル]";
+< 383c383
+< < "11\" x 17\"  [Tabloid, ANSI B]" = "11\" x 17\"  [Tabloid, ANSI B]";
+< ---
+< > "11\" x 17\"  [Tabloid, ANSI B]" = "11\" x 17\" [タブロイド、ANSI B]";
+< 386c386
+< < "Cinematic ratios" = "Cinematic ratios";
+< ---
+< > "Cinematic ratios" = "映画用の比率";
+< 389c389
+< < "1.85 : 1  (Widescreen theatrical)" = "1.85 : 1  (Widescreen theatrical)";
+< ---
+< > "1.85 : 1  (Widescreen theatrical)" = "1.85 : 1 (ワイド画面劇場)";
+< 392c392
+< < "2.35 : 1  (Anamorphic, pre 1970)" = "2.35 : 1  (Anamorphic, pre 1970)";
+< ---
+< > "2.35 : 1  (Anamorphic, pre 1970)" = "2.35 : 1 (アナモルフィック、1970年以前)";
+< 395c395
+< < "2.39 : 1  (Anamorphic, post 1970)" = "2.39 : 1  (Anamorphic, post 1970)";
+< ---
+< > "2.39 : 1  (Anamorphic, post 1970)" = "2.39 : 1 (アナモルフィック、1970年以降)";
+< 398c398
+< < "Screen sizes" = "Screen sizes";
+< ---
+< > "Screen sizes" = "画面サイズ";
+< 401c401
+< < "640 x 480  [VGA]" = "640 x 480  [VGA]";
+< ---
+< > "640 x 480  [VGA]" = "640 x 480 [VGA]";
+< 404c404
+< < "800 x 600  [SVGA]" = "800 x 600  [SVGA]";
+< ---
+< > "800 x 600  [SVGA]" = "800 x 600 [SVGA]";
+< 407c407
+< < "1024 x 768  [XGA]" = "1024 x 768  [XGA]";
+< ---
+< > "1024 x 768  [XGA]" = "1024 x 768 [XGA]";
+< 410c410
+< < "1280 x 768  [WXGA]" = "1280 x 768  [WXGA]";
+< ---
+< > "1280 x 768  [WXGA]" = "1280 x 768 [WXGA]";
+< 413c413
+< < "1280 x 1024  [SXGA]" = "1280 x 1024  [SXGA]";
+< ---
+< > "1280 x 1024  [SXGA]" = "1280 x 1024 [SXGA]";
+< 416c416
+< < "1280 x 720  [HD 720]" = "1280 x 720  [HD 720]";
+< ---
+< > "1280 x 720  [HD 720]" = "1280 x 720 [HD720]";
+< 419c419
+< < "1920 x 1080  [HD 1080]" = "1920 x 1080  [HD 1080]";
+< ---
+< > "1920 x 1080  [HD 1080]" = "1920 x 1080 [HD1080]";
+< 422c422
+< < "2048 x 1080  [2K]" = "2048 x 1080  [2K]";
+< ---
+< > "2048 x 1080  [2K]" = "2048 x 1080 [2K]";
+< 425c425
+< < "4096 x 2160  [4K]" = "4096 x 2160  [4K]";
+< ---
+< > "4096 x 2160  [4K]" = "4096 x 2160 [4K]";
+---
+> > "Brightness" = "명암";

@@ -1,0 +1,42 @@
+8,9c8,9
+< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "9zG-hx-XXG"; */
+< "9zG-hx-XXG.title" = "Standard";
+---
+> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "9zG-hx-XXG"; */
+> "9zG-hx-XXG.title" = "표준";
+26,27c26,27
+< /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "MZx-QI-kWg"; */
+< "MZx-QI-kWg.title" = "Delete";
+---
+> /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "MZx-QI-kWg"; */
+> "MZx-QI-kWg.title" = "지우기";
+47,48c47,48
+< /* Class = "NSMenuItem"; title = "Name"; ObjectID = "YKI-ZG-Cck"; */
+< "YKI-ZG-Cck.title" = "Name";
+---
+> /* Class = "NSMenuItem"; title = "이름"; ObjectID = "YKI-ZG-Cck"; */
+> "YKI-ZG-Cck.title" = "이름";
+74,75c74,75
+< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "olL-E7-Jqg"; */
+< "olL-E7-Jqg.title" = "Rename Category…";
+---
+> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "olL-E7-Jqg"; */
+> "olL-E7-Jqg.title" = "범주 이름 변경…";
+77,78c77,78
+< /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "qvh-Cd-Zi3"; */
+< "qvh-Cd-Zi3.title" = "Categories";
+---
+> /* Class = "NSMenuItem"; title = "범주"; ObjectID = "qvh-Cd-Zi3"; */
+> "qvh-Cd-Zi3.title" = "범주";
+83,84c83,84
+< /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "t9g-eb-W0g"; */
+< "t9g-eb-W0g.title" = "Show as List";
+---
+> /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "t9g-eb-W0g"; */
+> "t9g-eb-W0g.title" = "목록으로 보기";
+89,90c89,90
+< /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "vyA-nq-YEr"; */
+< "vyA-nq-YEr.title" = "User Defined";
+---
+> /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "vyA-nq-YEr"; */
+> "vyA-nq-YEr.title" = "사용자 정의";

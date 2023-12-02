@@ -1,0 +1,72 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Force pixel alignment"; ObjectID = "3T9-TS-9ti"; */
+< "3T9-TS-9ti.title" = "Force pixel alignment";
+---
+> /* Class = "NSButtonCell"; title = "강제 픽셀 정렬"; ObjectID = "3T9-TS-9ti"; */
+> "3T9-TS-9ti.title" = "강제 픽셀 정렬";
+32,33c32,33
+< /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "EyH-4n-zr8"; */
+< "EyH-4n-zr8.title" = "Preset:";
+---
+> /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "EyH-4n-zr8"; */
+> "EyH-4n-zr8.title" = "미리 설정:";
+35,36c35,36
+< /* Class = "NSButtonCell"; title = "Snap to margin"; ObjectID = "Gkl-N0-P3Q"; */
+< "Gkl-N0-P3Q.title" = "Snap to margin";
+---
+> /* Class = "NSButtonCell"; title = "여백선에 스냅"; ObjectID = "Gkl-N0-P3Q"; */
+> "Gkl-N0-P3Q.title" = "여백선에 스냅";
+38,39c38,39
+< /* Class = "NSMenuItem"; title = "Create preset"; ObjectID = "Gsz-Qc-N1v"; */
+< "Gsz-Qc-N1v.title" = "Create preset";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 생성"; ObjectID = "Gsz-Qc-N1v"; */
+> "Gsz-Qc-N1v.title" = "미리 설정 생성";
+47,48c47,48
+< /* Class = "NSMenuItem"; title = "Delete preset"; ObjectID = "JG4-X2-RoC"; */
+< "JG4-X2-RoC.title" = "Delete preset";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "JG4-X2-RoC"; */
+> "JG4-X2-RoC.title" = "미리 설정 지우기";
+50,51c50,51
+< /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "JdA-f5-0s4"; */
+< "JdA-f5-0s4.title" = "Maximum:";
+---
+> /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "JdA-f5-0s4"; */
+> "JdA-f5-0s4.title" = "최대:";
+68,69c68,69
+< /* Class = "NSTextFieldCell"; title = "Candidates:"; ObjectID = "SlC-Yd-G0i"; */
+< "SlC-Yd-G0i.title" = "Candidates:";
+---
+> /* Class = "NSTextFieldCell"; title = "후보:"; ObjectID = "SlC-Yd-G0i"; */
+> "SlC-Yd-G0i.title" = "후보:";
+71,72c71,72
+< /* Class = "NSButtonCell"; title = "Move by whole pixels"; ObjectID = "bGQ-a9-3br"; */
+< "bGQ-a9-3br.title" = "Move by whole pixels";
+---
+> /* Class = "NSButtonCell"; title = "픽셀 단위로 이동"; ObjectID = "bGQ-a9-3br"; */
+> "bGQ-a9-3br.title" = "픽셀 단위로 이동";
+77,78c77,78
+< /* Class = "NSButtonCell"; title = "Snap to guides"; ObjectID = "chn-GC-rSI"; */
+< "chn-GC-rSI.title" = "Snap to guides";
+---
+> /* Class = "NSButtonCell"; title = "안내선에 스냅"; ObjectID = "chn-GC-rSI"; */
+> "chn-GC-rSI.title" = "안내선에 스냅";
+101,102c101,102
+< /* Class = "NSButtonCell"; title = "Snap to grid"; ObjectID = "lZL-z7-XwY"; */
+< "lZL-z7-XwY.title" = "Snap to grid";
+---
+> /* Class = "NSButtonCell"; title = "격자선에 스냅"; ObjectID = "lZL-z7-XwY"; */
+> "lZL-z7-XwY.title" = "격자선에 스냅";
+110,111c110,111
+< /* Class = "NSMenuItem"; title = "Rename preset"; ObjectID = "quf-Cj-L5F"; */
+< "quf-Cj-L5F.title" = "Rename preset";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 이름 변경"; ObjectID = "quf-Cj-L5F"; */
+> "quf-Cj-L5F.title" = "미리 설정 이름 변경";
+122,123c122,123
+< /* Class = "NSMenuItem"; title = "All layers"; ObjectID = "vDT-Wp-5Xc"; */
+< "vDT-Wp-5Xc.title" = "All layers";
+---
+> /* Class = "NSMenuItem"; title = "모든 레이어"; ObjectID = "vDT-Wp-5Xc"; */
+> "vDT-Wp-5Xc.title" = "모든 레이어";

@@ -1,0 +1,30 @@
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+< "26.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> "26.title" = "적용";
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "226"; */
+< "226.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "226"; */
+> "226.title" = "취소";
+26,27c26,27
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "Fl0-nZ-ahO"; */
+< "Fl0-nZ-ahO.ibShadowedToolTip" = "Split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Fl0-nZ-ahO"; */
+> "Fl0-nZ-ahO.ibShadowedToolTip" = "분할 뷰 모드";
+35,36c35,36
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "qcQ-lD-v4y"; */
+< "qcQ-lD-v4y.ibShadowedToolTip" = "No split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "qcQ-lD-v4y"; */
+> "qcQ-lD-v4y.ibShadowedToolTip" = "분할 뷰 모드 해제";
+38,39c38,39
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "wCl-n6-vg1"; */
+< "wCl-n6-vg1.ibShadowedToolTip" = "Mirror view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "wCl-n6-vg1"; */
+> "wCl-n6-vg1.ibShadowedToolTip" = "거울 뷰 모드";

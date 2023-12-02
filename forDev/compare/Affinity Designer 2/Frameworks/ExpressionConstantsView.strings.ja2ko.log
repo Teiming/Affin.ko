@@ -1,0 +1,38 @@
+1,13c1,2
+< 3c3
+< < "6oL-ZU-7Rm.ibShadowedToolTip" = "Add integer number input";
+< ---
+< > "6oL-ZU-7Rm.ibShadowedToolTip" = "整数値の入力を追加";
+< 6c6
+< < "Axy-Uh-wvZ.ibShadowedToolTip" = "Add angle input";
+< ---
+< > "Axy-Uh-wvZ.ibShadowedToolTip" = "角度の入力を追加";
+< 9c9
+< < "YQl-Na-78Q.ibShadowedToolTip" = "Add [0,1] range input";
+< ---
+< > "YQl-Na-78Q.ibShadowedToolTip" = "[0,1]範囲の入力を追加";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZPc-Ua-yoI"; */
+16,32c5,6
+< > "ZPc-Ua-yoI.title" = "テキストセル";
+< 15c15
+< < "dch-wF-G1p.ibShadowedToolTip" = "Add elevation-rotation input";
+< ---
+< > "dch-wF-G1p.ibShadowedToolTip" = "仰角回転の入力を追加";
+< 18c18
+< < "gBH-UA-Ppp.title" = "Table View Cell";
+< ---
+< > "gBH-UA-Ppp.title" = "表ビューセル";
+< 21c21
+< < "oCU-FB-auQ.ibShadowedToolTip" = "Add [-1,1] range input";
+< ---
+< > "oCU-FB-auQ.ibShadowedToolTip" = "[-1,1]範囲の入力を追加";
+< 24c24
+< < "uux-X0-aYg.ibShadowedToolTip" = "Add real number input";
+< ---
+< > "uux-X0-aYg.ibShadowedToolTip" = "実数の入力を追加";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "ZPc-Ua-yoI"; */
+> > "ZPc-Ua-yoI.title" = "텍스트 셀";

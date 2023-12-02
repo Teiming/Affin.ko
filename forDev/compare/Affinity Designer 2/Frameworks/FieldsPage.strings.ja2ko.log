@@ -1,0 +1,58 @@
+1,9c1,2
+< 3c3
+< < "Dw0-d6-CVq.title" = "Table View Cell";
+< ---
+< > "Dw0-d6-CVq.title" = "表ビューセル";
+< 6c6
+< < "EQ0-Uk-pd5.ibShadowedToolTip" = "Default Format";
+< ---
+< > "EQ0-Uk-pd5.ibShadowedToolTip" = "デフォルトフォーマット";
+< 9c9
+---
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gva-n6-xeI"; */
+12,21c5,8
+< > "Gva-n6-xeI.title" = "テキストセル";
+< 12c12
+< < "N5Q-Qu-1sd.title" = "Table View Cell";
+< ---
+< > "N5Q-Qu-1sd.title" = "表ビューセル";
+< 18c18
+< < "UtU-gc-ouM.title" = "Table View Cell";
+< ---
+< > "UtU-gc-ouM.title" = "表ビューセル";
+< 21c21
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Gva-n6-xeI"; */
+> > "Gva-n6-xeI.title" = "텍스트 셀";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VPY-N4-lKs"; */
+24,29c11,14
+< > "VPY-N4-lKs.title" = "テキストセル";
+< 24c24
+< < "XKr-Mp-p7W.title" = "Table View Cell";
+< ---
+< > "XKr-Mp-p7W.title" = "表ビューセル";
+< 27c27
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "VPY-N4-lKs"; */
+> > "VPY-N4-lKs.title" = "텍스트 셀";
+> 26,27c26,27
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hqo-df-oyb"; */
+32,37c17,20
+< > "hqo-df-oyb.title" = "テキストセル";
+< 30c30
+< < "puZ-2K-JXF.title" = "Double-click field name to insert";
+< ---
+< > "puZ-2K-JXF.title" = "フィールド名をダブルクリックして挿入";
+< 33c33
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "hqo-df-oyb"; */
+> > "hqo-df-oyb.title" = "텍스트 셀";
+> 32,33c32,33
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xOB-Ke-ocm"; */
+40c23,24
+< > "xOB-Ke-ocm.title" = "テキストセル";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "xOB-Ke-ocm"; */
+> > "xOB-Ke-ocm.title" = "텍스트 셀";

@@ -1,0 +1,78 @@
+1,9c1,2
+< 3c3
+< < "1.title" = "Color Chooser";
+< ---
+< > "1.title" = "色の選択";
+< 9c9
+< < "41.title" = "CMYK Sliders";
+< ---
+< > "41.title" = "CMYKスライダー";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSMenuItem"; title = "RGB Sliders"; ObjectID = "42"; */
+12,17c5,8
+< > "42.title" = "RGBスライダー";
+< 15c15
+< < "43.title" = "HSL Color Wheel";
+< ---
+< > "43.title" = "HSLカラーホイール";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "RGB 슬라이더"; ObjectID = "42"; */
+> > "42.title" = "RGB 슬라이더";
+> 17,18c17,18
+> < /* Class = "NSMenuItem"; title = "HSL Sliders"; ObjectID = "44"; */
+20,21c11,14
+< > "44.title" = "HSLスライダー";
+< 21c21
+---
+> > /* Class = "NSMenuItem"; title = "HSL 슬라이더"; ObjectID = "44"; */
+> > "44.title" = "HSL 슬라이더";
+> 20,21c20,21
+> < /* Class = "NSMenuItem"; title = "Hue"; ObjectID = "45"; */
+24,25c17,20
+< > "45.title" = "色相";
+< 24c24
+---
+> > /* Class = "NSMenuItem"; title = "색채"; ObjectID = "45"; */
+> > "45.title" = "색채";
+> 23,24c23,24
+> < /* Class = "NSMenuItem"; title = "Lightness"; ObjectID = "46"; */
+28,29c23,26
+< > "46.title" = "明るさ";
+< 27c27
+---
+> > /* Class = "NSMenuItem"; title = "밝기"; ObjectID = "46"; */
+> > "46.title" = "밝기";
+> 26,27c26,27
+> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "47"; */
+32,33c29,32
+< > "47.title" = "彩度";
+< 60c60
+---
+> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "47"; */
+> > "47.title" = "채도";
+> 59,60c59,60
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "351"; */
+36,37c35,38
+< > "351.title" = "閉じる";
+< 75c75
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "351"; */
+> > "351.title" = "닫기";
+> 74,75c74,75
+> < /* Class = "NSTextFieldCell"; title = "Intensity:"; ObjectID = "6IY-3g-LNZ"; */
+40,48c41,42
+< > "6IY-3g-LNZ.title" = "強度:";
+< 99c99
+< < "rwX-e2-yFU.title" = "32-bit:";
+< ---
+< > "rwX-e2-yFU.title" = "32ビット:";
+< 102c102
+< < "uA3-ry-hvL.title" = "Relative to View";
+< ---
+< > "uA3-ry-hvL.title" = "ビューへの相対";
+---
+> > /* Class = "NSTextFieldCell"; title = "세기:"; ObjectID = "6IY-3g-LNZ"; */
+> > "6IY-3g-LNZ.title" = "세기:";

@@ -1,0 +1,50 @@
+1,9c1,2
+< 3c3
+< < "1.title" = "Ripple";
+< ---
+< > "1.title" = "波紋";
+< 6c6
+< < "12.title" = "Intensity";
+< ---
+< > "12.title" = "強度";
+< 9c9
+---
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+12,13c5,8
+< > "26.title" = "適用";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "183"; */
+16,17c11,14
+< > "183.title" = "キャンセル";
+< 15c15
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "183"; */
+> > "183.title" = "취소";
+> 14,15c14,15
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "5SE-Ft-Lp3"; */
+20,21c17,20
+< > "5SE-Ft-Lp3.ibShadowedToolTip" = "ミラー表示";
+< 18c18
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "5SE-Ft-Lp3"; */
+> > "5SE-Ft-Lp3.ibShadowedToolTip" = "거울 뷰 모드";
+> 17,18c17,18
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "YAk-af-wUW"; */
+24,25c23,26
+< > "YAk-af-wUW.ibShadowedToolTip" = "分割表示なし";
+< 21c21
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "YAk-af-wUW"; */
+> > "YAk-af-wUW.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> 20,21c20,21
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "rkg-ca-7cX"; */
+28c29,30
+< > "rkg-ca-7cX.ibShadowedToolTip" = "分割表示";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "rkg-ca-7cX"; */
+> > "rkg-ca-7cX.ibShadowedToolTip" = "분할 뷰 모드";

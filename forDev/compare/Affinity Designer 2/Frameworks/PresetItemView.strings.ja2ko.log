@@ -1,0 +1,50 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "106"; */
+4,5c5,8
+< > "106.title" = "スタイル";
+< 6c6
+---
+> > /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "106"; */
+> > "106.title" = "스타일";
+> 5,6c5,6
+> < /* Class = "NSMenuItem"; title = "Rename Preset..."; ObjectID = "144"; */
+8,9c11,14
+< > "144.title" = "プリセット名の変更...";
+< 9c9
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 이름 변경..."; ObjectID = "144"; */
+> > "144.title" = "미리 설정 이름 변경...";
+> 8,9c8,9
+> < /* Class = "NSMenuItem"; title = "Delete Preset"; ObjectID = "146"; */
+12,13c17,20
+< > "146.title" = "プリセットを削除";
+< 12c12
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "146"; */
+> > "146.title" = "미리 설정 지우기";
+> 11,12c11,12
+> < /* Class = "NSMenuItem"; title = "Revert user changes"; ObjectID = "X5a-CO-c9Z"; */
+16,17c23,26
+< > "X5a-CO-c9Z.title" = "ユーザーの変更を復元";
+< 15c15
+---
+> > /* Class = "NSMenuItem"; title = "사용자 변경 되돌리기"; ObjectID = "X5a-CO-c9Z"; */
+> > "X5a-CO-c9Z.title" = "사용자 변경 되돌리기";
+> 14,15c14,15
+> < /* Class = "NSMenuItem"; title = "Export preset..."; ObjectID = "X5r-Q5-FoB"; */
+20,21c29,32
+< > "X5r-Q5-FoB.title" = "プリセットを書き出し...";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "내보내기 미리 설정..."; ObjectID = "X5r-Q5-FoB"; */
+> > "X5r-Q5-FoB.title" = "내보내기 미리 설정...";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "ixE-Kk-ma5"; */
+24c35,36
+< > "ixE-Kk-ma5.title" = "スタイル";
+---
+> > /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "ixE-Kk-ma5"; */
+> > "ixE-Kk-ma5.title" = "스타일";

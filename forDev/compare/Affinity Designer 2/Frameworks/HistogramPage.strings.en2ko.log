@@ -1,0 +1,78 @@
+5,6c5,6
+< /* Class = "NSTextFieldCell"; title = "Std. Dev.: -"; ObjectID = "29"; */
+< "29.title" = "Std. Dev.: -";
+---
+> /* Class = "NSTextFieldCell"; title = "표준 편차: -"; ObjectID = "29"; */
+> "29.title" = "표준 편차: -";
+8,9c8,9
+< /* Class = "NSTextFieldCell"; title = "Median: -"; ObjectID = "31"; */
+< "31.title" = "Median: -";
+---
+> /* Class = "NSTextFieldCell"; title = "중앙값: -"; ObjectID = "31"; */
+> "31.title" = "중앙값: -";
+11,12c11,12
+< /* Class = "NSTextFieldCell"; title = "Pixels: -"; ObjectID = "35"; */
+< "35.title" = "Pixels: -";
+---
+> /* Class = "NSTextFieldCell"; title = "픽셀: -"; ObjectID = "35"; */
+> "35.title" = "픽셀: -";
+17,18c17,18
+< /* Class = "NSTextFieldCell"; title = "Pixels: 0"; ObjectID = "41"; */
+< "41.title" = "Pixels: 0";
+---
+> /* Class = "NSTextFieldCell"; title = "픽셀: 0"; ObjectID = "41"; */
+> "41.title" = "픽셀: 0";
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Percentile: 0"; ObjectID = "45"; */
+< "45.title" = "Percentile: 0";
+---
+> /* Class = "NSTextFieldCell"; title = "백분율: 0"; ObjectID = "45"; */
+> "45.title" = "백분율: 0";
+26,27c26,27
+< /* Class = "NSMenuItem"; title = "Blue Channel"; ObjectID = "AsM-Bv-O9Z"; */
+< "AsM-Bv-O9Z.title" = "Blue Channel";
+---
+> /* Class = "NSMenuItem"; title = "파랑 채널"; ObjectID = "AsM-Bv-O9Z"; */
+> "AsM-Bv-O9Z.title" = "파랑 채널";
+29,30c29,30
+< /* Class = "NSButtonCell"; title = "Marquee"; ObjectID = "Do1-cG-Ego"; */
+< "Do1-cG-Ego.title" = "Marquee";
+---
+> /* Class = "NSButtonCell"; title = "천막"; ObjectID = "Do1-cG-Ego"; */
+> "Do1-cG-Ego.title" = "천막";
+32,33c32,33
+< /* Class = "NSTextFieldCell"; title = "Min:"; ObjectID = "N68-1K-ZYy"; */
+< "N68-1K-ZYy.title" = "Min:";
+---
+> /* Class = "NSTextFieldCell"; title = "최소:"; ObjectID = "N68-1K-ZYy"; */
+> "N68-1K-ZYy.title" = "최소:";
+38,39c38,39
+< /* Class = "NSMenuItem"; title = "Red Channel"; ObjectID = "bwP-aM-2mO"; */
+< "bwP-aM-2mO.title" = "Red Channel";
+---
+> /* Class = "NSMenuItem"; title = "빨강 채널"; ObjectID = "bwP-aM-2mO"; */
+> "bwP-aM-2mO.title" = "빨강 채널";
+41,42c41,42
+< /* Class = "NSMenuItem"; title = "Green Channel"; ObjectID = "n1v-2h-mAY"; */
+< "n1v-2h-mAY.title" = "Green Channel";
+---
+> /* Class = "NSMenuItem"; title = "초록 채널"; ObjectID = "n1v-2h-mAY"; */
+> "n1v-2h-mAY.title" = "초록 채널";
+44,45c44,45
+< /* Class = "NSTextFieldCell"; title = "Max:"; ObjectID = "pCs-qB-MjK"; */
+< "pCs-qB-MjK.title" = "Max:";
+---
+> /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "pCs-qB-MjK"; */
+> "pCs-qB-MjK.title" = "최대:";
+47,48c47,48
+< /* Class = "NSMenuItem"; title = "All Channels"; ObjectID = "qqr-za-stZ"; */
+< "qqr-za-stZ.title" = "All Channels";
+---
+> /* Class = "NSMenuItem"; title = "모든 채널"; ObjectID = "qqr-za-stZ"; */
+> "qqr-za-stZ.title" = "모든 채널";
+50,51c50,51
+< /* Class = "NSButtonCell"; title = "Layer"; ObjectID = "r5W-c1-Ode"; */
+< "r5W-c1-Ode.title" = "Layer";
+---
+> /* Class = "NSButtonCell"; title = "레이어"; ObjectID = "r5W-c1-Ode"; */
+> "r5W-c1-Ode.title" = "레이어";

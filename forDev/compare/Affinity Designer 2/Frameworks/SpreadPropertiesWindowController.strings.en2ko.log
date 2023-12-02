@@ -1,0 +1,96 @@
+2,3c2,3
+< /* Class = "NSButtonCell"; title = "Portrait"; ObjectID = "0kZ-ps-B3C"; */
+< "0kZ-ps-B3C.title" = "Portrait";
+---
+> /* Class = "NSButtonCell"; title = "세로 방향"; ObjectID = "0kZ-ps-B3C"; */
+> "0kZ-ps-B3C.title" = "세로 방향";
+5,6c5,6
+< /* Class = "NSMenuItem"; title = "Page"; ObjectID = "40o-Kn-gHp"; */
+< "40o-Kn-gHp.title" = "Page";
+---
+> /* Class = "NSMenuItem"; title = "페이지"; ObjectID = "40o-Kn-gHp"; */
+> "40o-Kn-gHp.title" = "페이지";
+8,9c8,9
+< /* Class = "NSTextFieldCell"; title = "Right Margin:"; ObjectID = "4J9-gn-87x"; */
+< "4J9-gn-87x.title" = "Right Margin:";
+---
+> /* Class = "NSTextFieldCell"; title = "오른쪽 여백:"; ObjectID = "4J9-gn-87x"; */
+> "4J9-gn-87x.title" = "오른쪽 여백:";
+17,18c17,18
+< /* Class = "NSTabViewItem"; label = "Margins"; ObjectID = "7uR-Mx-pgO"; */
+< "7uR-Mx-pgO.label" = "Margins";
+---
+> /* Class = "NSTabViewItem"; label = "여백"; ObjectID = "7uR-Mx-pgO"; */
+> "7uR-Mx-pgO.label" = "여백";
+23,24c23,24
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8JZ-Po-xQk"; */
+< "8JZ-Po-xQk.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "8JZ-Po-xQk"; */
+> "8JZ-Po-xQk.title" = "텍스트 셀";
+29,30c29,30
+< /* Class = "NSButtonCell"; title = "Retrieve Margin from Printer"; ObjectID = "Bfj-zn-Q2a"; */
+< "Bfj-zn-Q2a.title" = "Retrieve Margin from Printer";
+---
+> /* Class = "NSButtonCell"; title = "프린터 여백을 이용"; ObjectID = "Bfj-zn-Q2a"; */
+> "Bfj-zn-Q2a.title" = "프린터 여백을 이용";
+32,33c32,33
+< /* Class = "NSButtonCell"; title = "Include Margins"; ObjectID = "CoU-Wz-8Jo"; */
+< "CoU-Wz-8Jo.title" = "Include Margins";
+---
+> /* Class = "NSButtonCell"; title = "여백 포함"; ObjectID = "CoU-Wz-8Jo"; */
+> "CoU-Wz-8Jo.title" = "여백 포함";
+38,39c38,39
+< /* Class = "NSTextFieldCell"; title = "Bottom Margin:"; ObjectID = "I3q-rv-S84"; */
+< "I3q-rv-S84.title" = "Bottom Margin:";
+---
+> /* Class = "NSTextFieldCell"; title = "아래쪽 여백:"; ObjectID = "I3q-rv-S84"; */
+> "I3q-rv-S84.title" = "아래쪽 여백:";
+44,45c44,45
+< /* Class = "NSTextFieldCell"; title = "Top Margin:"; ObjectID = "JAb-49-cXb"; */
+< "JAb-49-cXb.title" = "Top Margin:";
+---
+> /* Class = "NSTextFieldCell"; title = "위쪽 여백:"; ObjectID = "JAb-49-cXb"; */
+> "JAb-49-cXb.title" = "위쪽 여백:";
+59,60c59,60
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Vvg-Da-lik"; */
+< "Vvg-Da-lik.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "Vvg-Da-lik"; */
+> "Vvg-Da-lik.title" = "취소";
+65,66c65,66
+< /* Class = "NSTextFieldCell"; title = "Dimensions:"; ObjectID = "cOX-0Q-PCg"; */
+< "cOX-0Q-PCg.title" = "Dimensions:";
+---
+> /* Class = "NSTextFieldCell"; title = "치수:"; ObjectID = "cOX-0Q-PCg"; */
+> "cOX-0Q-PCg.title" = "치수:";
+74,75c74,75
+< /* Class = "NSTextFieldCell"; title = "Left Margin:"; ObjectID = "fel-jY-k6C"; */
+< "fel-jY-k6C.title" = "Left Margin:";
+---
+> /* Class = "NSTextFieldCell"; title = "왼쪽 여백"; ObjectID = "fel-jY-k6C"; */
+> "fel-jY-k6C.title" = "왼쪽 여백";
+77,78c77,78
+< /* Class = "NSTextFieldCell"; title = "Page Preset:"; ObjectID = "hNo-eV-q96"; */
+< "hNo-eV-q96.title" = "Page Preset:";
+---
+> /* Class = "NSTextFieldCell"; title = "페이지 미리 설정:"; ObjectID = "hNo-eV-q96"; */
+> "hNo-eV-q96.title" = "페이지 미리 설정:";
+80,81c80,81
+< /* Class = "NSTabViewItem"; label = "Dimensions"; ObjectID = "lNu-al-TL8"; */
+< "lNu-al-TL8.label" = "Dimensions";
+---
+> /* Class = "NSTabViewItem"; label = "치수"; ObjectID = "lNu-al-TL8"; */
+> "lNu-al-TL8.label" = "치수";
+86,87c86,87
+< /* Class = "NSButtonCell"; title = "Button"; ObjectID = "q5k-vH-bcS"; */
+< "q5k-vH-bcS.title" = "Button";
+---
+> /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "q5k-vH-bcS"; */
+> "q5k-vH-bcS.title" = "버튼";
+92,93c92,93
+< /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "wLl-2c-Ptq"; */
+< "wLl-2c-Ptq.title" = "Type:";
+---
+> /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "wLl-2c-Ptq"; */
+> "wLl-2c-Ptq.title" = "종류:";

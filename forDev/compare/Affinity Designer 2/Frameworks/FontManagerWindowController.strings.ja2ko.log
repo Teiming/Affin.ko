@@ -1,0 +1,86 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "39a-F5-r94"; */
+4,9c5,8
+< > "39a-F5-r94.headerCell.title" = "名前";
+< 6c6
+< < "3Xo-xf-YXb.headerCell.title" = "Substitution Style";
+< ---
+< > "3Xo-xf-YXb.headerCell.title" = "代替スタイル";
+< 9c9
+---
+> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "39a-F5-r94"; */
+> > "39a-F5-r94.headerCell.title" = "이름";
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "4dE-V3-nhc"; */
+12,29c11,14
+< > "4dE-V3-nhc.title" = "テキスト";
+< 12c12
+< < "Ds6-n2-qBB.title" = "Item 2";
+< ---
+< > "Ds6-n2-qBB.title" = "アイテム2";
+< 15c15
+< < "EFj-tm-gkt.headerCell.title" = "Substitution";
+< ---
+< > "EFj-tm-gkt.headerCell.title" = "代替";
+< 18c18
+< < "NhE-Bu-Jcr.title" = "Table View Cell";
+< ---
+< > "NhE-Bu-Jcr.title" = "表ビューセル";
+< 21c21
+< < "QvC-M9-y7g.title" = "Font Manager";
+< ---
+< > "QvC-M9-y7g.title" = "フォントマネージャー";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트"; ObjectID = "4dE-V3-nhc"; */
+> > "4dE-V3-nhc.title" = "텍스트";
+> 23,24c23,24
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "Tl6-eW-7o4"; */
+32,33c17,20
+< > "Tl6-eW-7o4.title" = "閉じる";
+< 27c27
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "Tl6-eW-7o4"; */
+> > "Tl6-eW-7o4.title" = "닫기";
+> 26,27c26,27
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YEj-bc-goA"; */
+36,41c23,26
+< > "YEj-bc-goA.title" = "テキストセル";
+< 30c30
+< < "arv-Xg-H4d.title" = "Item 3";
+< ---
+< > "arv-Xg-H4d.title" = "アイテム3";
+< 33c33
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YEj-bc-goA"; */
+> > "YEj-bc-goA.title" = "텍스트 셀";
+> 32,33c32,33
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fdS-So-n8g"; */
+44,53c29,32
+< > "fdS-So-n8g.title" = "テキストセル";
+< 36c36
+< < "i8b-mW-tqL.title" = "Locate";
+< ---
+< > "i8b-mW-tqL.title" = "検索";
+< 39c39
+< < "idB-G8-d3c.headerCell.title" = "Status";
+< ---
+< > "idB-G8-d3c.headerCell.title" = "ステータス";
+< 42c42
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "fdS-So-n8g"; */
+> > "fdS-So-n8g.title" = "텍스트 셀";
+> 41,42c41,42
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nBz-fi-2ab"; */
+56,60c35,36
+< > "nBz-fi-2ab.title" = "テキストセル";
+< 45c45
+< < "saJ-0v-QKT.title" = "Table View Cell";
+< ---
+< > "saJ-0v-QKT.title" = "表ビューセル";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "nBz-fi-2ab"; */
+> > "nBz-fi-2ab.title" = "텍스트 셀";

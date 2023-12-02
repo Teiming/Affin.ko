@@ -1,0 +1,66 @@
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "13"; */
+< "13.title" = "Delete";
+---
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "13"; */
+> "13.title" = "지우기";
+14,15c14,15
+< /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "14"; */
+< "14.title" = "Copy";
+---
+> /* Class = "NSButtonCell"; title = "복사"; ObjectID = "14"; */
+> "14.title" = "복사";
+17,18c17,18
+< /* Class = "NSButtonCell"; title = "Insert"; ObjectID = "15"; */
+< "15.title" = "Insert";
+---
+> /* Class = "NSButtonCell"; title = "삽입"; ObjectID = "15"; */
+> "15.title" = "삽입";
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "31"; */
+< "31.title" = "Position:";
+---
+> /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "31"; */
+> "31.title" = "위치:";
+26,27c26,27
+< /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "33"; */
+< "33.title" = "Opacity:";
+---
+> /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "33"; */
+> "33.title" = "불투명도:";
+29,30c29,30
+< /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "34"; */
+< "34.title" = "Type:";
+---
+> /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "34"; */
+> "34.title" = "종류:";
+35,36c35,36
+< /* Class = "NSMenuItem"; title = "Conical"; ObjectID = "37"; */
+< "37.title" = "Conical";
+---
+> /* Class = "NSMenuItem"; title = "원뿔형"; ObjectID = "37"; */
+> "37.title" = "원뿔형";
+38,39c38,39
+< /* Class = "NSMenuItem"; title = "Elliptical"; ObjectID = "38"; */
+< "38.title" = "Elliptical";
+---
+> /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "38"; */
+> "38.title" = "타원형";
+41,42c41,42
+< /* Class = "NSMenuItem"; title = "Radial"; ObjectID = "39"; */
+< "39.title" = "Radial";
+---
+> /* Class = "NSMenuItem"; title = "방사형"; ObjectID = "39"; */
+> "39.title" = "방사형";
+44,45c44,45
+< /* Class = "NSMenuItem"; title = "Linear"; ObjectID = "40"; */
+< "40.title" = "Linear";
+---
+> /* Class = "NSMenuItem"; title = "선형"; ObjectID = "40"; */
+> "40.title" = "선형";
+47,48c47,48
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "41"; */
+< "41.title" = "Close";
+---
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "41"; */
+> "41.title" = "닫기";

@@ -1,0 +1,62 @@
+1,5c1,2
+< 3c3
+< < "1.title" = "Develop FITS";
+< ---
+< > "1.title" = "FITSを現像";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+8,17c5,8
+< > "26.title" = "適用";
+< 12c12
+< < "413.title" = "Inferred";
+< ---
+< > "413.title" = "推測";
+< 18c18
+< < "417.title" = "FITS Bayer Pattern";
+< ---
+< > "417.title" = "FITS Bayerパターン";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 20,21c20,21
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "421"; */
+20,21c11,14
+< > "421.title" = "キャンセル";
+< 24c24
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "421"; */
+> > "421.title" = "취소";
+> 23,24c23,24
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "J5Q-3N-3zE"; */
+24,25c17,20
+< > "J5Q-3N-3zE.ibShadowedToolTip" = "分割表示";
+< 27c27
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "J5Q-3N-3zE"; */
+> > "J5Q-3N-3zE.ibShadowedToolTip" = "분할 뷰 모드";
+> 26,27c26,27
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "R1r-Vu-qc5"; */
+28,29c23,26
+< > "R1r-Vu-qc5.ibShadowedToolTip" = "分割表示なし";
+< 30c30
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "R1r-Vu-qc5"; */
+> > "R1r-Vu-qc5.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> 29,30c29,30
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "VNT-Qb-zna"; */
+32,33c29,32
+< > "VNT-Qb-zna.ibShadowedToolTip" = "ミラー表示";
+< 42c42
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "VNT-Qb-zna"; */
+> > "VNT-Qb-zna.ibShadowedToolTip" = "거울 뷰 모드";
+> 41,42c41,42
+> < /* Class = "NSMenuItem"; title = "Monochrome"; ObjectID = "ro4-6L-WAI"; */
+36c35,36
+< > "ro4-6L-WAI.title" = "モノクロ";
+---
+> > /* Class = "NSMenuItem"; title = "단색"; ObjectID = "ro4-6L-WAI"; */
+> > "ro4-6L-WAI.title" = "단색";

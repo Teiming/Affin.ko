@@ -1,0 +1,12 @@
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SCf-wZ-vaU"; */
+< "SCf-wZ-vaU.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "SCf-wZ-vaU"; */
+> "SCf-wZ-vaU.title" = "텍스트 셀";
+23,24c23,24
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "kD8-bc-YVG"; */
+< "kD8-bc-YVG.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "kD8-bc-YVG"; */
+> "kD8-bc-YVG.title" = "취소";

@@ -1,0 +1,12 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Export"; ObjectID = "101"; */
+< "101.title" = "Export";
+---
+> /* Class = "NSButtonCell"; title = "내보내기"; ObjectID = "101"; */
+> "101.title" = "내보내기";
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
+< "1004.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
+> "1004.title" = "취소";

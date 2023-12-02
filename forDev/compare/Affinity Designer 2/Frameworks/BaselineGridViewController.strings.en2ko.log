@@ -1,0 +1,20 @@
+5,6c5,6
+< /* Class = "NSView"; ibShadowedToolTip = "Set the main grid line opacity"; ObjectID = "8nV-dz-1wL"; */
+< "8nV-dz-1wL.ibShadowedToolTip" = "Set the main grid line opacity";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "주 격자 선 불투명도 설정"; ObjectID = "8nV-dz-1wL"; */
+> "8nV-dz-1wL.ibShadowedToolTip" = "주 격자 선 불투명도 설정";
+8c8
+< /* Class = "NSButton"; ibShadowedToolTip = "Set the main grid line colour"; ObjectID = "9Yh-Gd-kYX"; */
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "주 격자 선 색상 설정"; ObjectID = "9Yh-Gd-kYX"; */
+23,24c23,24
+< /* Class = "NSButtonCell"; title = "Button"; ObjectID = "jRA-SJ-1QQ"; */
+< "jRA-SJ-1QQ.title" = "Button";
+---
+> /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "jRA-SJ-1QQ"; */
+> "jRA-SJ-1QQ.title" = "버튼";
+26c26
+< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "tGu-ts-o5h"; */
+---
+> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "tGu-ts-o5h"; */

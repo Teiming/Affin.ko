@@ -1,0 +1,50 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "08d-Ns-xUu"; */
+4,5c5,8
+< > "08d-Ns-xUu.title" = "キャンセル";
+< 6c6
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "08d-Ns-xUu"; */
+> > "08d-Ns-xUu.title" = "취소";
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Create"; ObjectID = "67K-LN-16B"; */
+8,9c11,14
+< > "67K-LN-16B.title" = "作成";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "생성"; ObjectID = "67K-LN-16B"; */
+> > "67K-LN-16B.title" = "생성";
+> 8,9c8,9
+> < /* Class = "NSWindow"; title = "Create preset"; ObjectID = "CHo-O7-99J"; */
+12,25c17,20
+< > "CHo-O7-99J.title" = "プリセットを作成";
+< 12c12
+< < "Cq9-yS-SPn.placeholderString" = "Enter a name for the preset";
+< ---
+< > "Cq9-yS-SPn.placeholderString" = "プリセットの名前を入力";
+< 15c15
+< < "LmR-rb-hmS.ibShadowedToolTip" = "Select a category into which the preset will be created";
+< ---
+< > "LmR-rb-hmS.ibShadowedToolTip" = "プリセットが作成されるカテゴリを選択します";
+< 18c18
+< < "QBX-mm-KJs.title" = "Category:";
+< ---
+< > "QBX-mm-KJs.title" = "カテゴリ:";
+< 24c24
+---
+> > /* Class = "NSWindow"; title = "미리 설정 생성"; ObjectID = "CHo-O7-99J"; */
+> > "CHo-O7-99J.title" = "미리 설정 생성";
+> 23,24c23,24
+> < /* Class = "NSTextFieldCell"; title = "Preset name:"; ObjectID = "hUj-0e-2hS"; */
+28,32c23,24
+< > "hUj-0e-2hS.title" = "プリセット名:";
+< 27c27
+< < "oNK-SY-aaK.ibShadowedToolTip" = "Enter a name for the preset";
+< ---
+< > "oNK-SY-aaK.ibShadowedToolTip" = "プリセットの名前を入力";
+---
+> > /* Class = "NSTextFieldCell"; title = "Enter a name for the preset"; ObjectID = "hUj-0e-2hS"; */
+> > "hUj-0e-2hS.title" = "Enter a name for the preset";

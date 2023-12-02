@@ -1,0 +1,54 @@
+1,5c1,2
+< 3c3
+< < "1.title" = "Select Sampled Color";
+< ---
+< > "1.title" = "サンプルカラーの選択";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+8,9c5,8
+< > "26.title" = "適用";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "Tolerance"; ObjectID = "49"; */
+12,25c11,14
+< > "49.title" = "許容量";
+< 15c15
+< < "104.title" = "RGB Cube";
+< ---
+< > "104.title" = "RGBキューブ";
+< 18c18
+< < "105.title" = "CIELAB Cube";
+< ---
+< > "105.title" = "CIELABキューブ";
+< 21c21
+< < "148.title" = "Model";
+< ---
+< > "148.title" = "モデル";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "허용량"; ObjectID = "49"; */
+> > "49.title" = "허용량";
+> 23,24c23,24
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "458"; */
+28,33c17,20
+< > "458.title" = "キャンセル";
+< 27c27
+< < "Wa1-ye-Hlp.title" = "Intensity";
+< ---
+< > "Wa1-ye-Hlp.title" = "強度";
+< 30c30
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "458"; */
+> > "458.title" = "취소";
+> 29,30c29,30
+> < /* Class = "NSMenuItem"; title = "Alpha"; ObjectID = "qFf-iE-6wA"; */
+36c23,24
+< > "qFf-iE-6wA.title" = "アルファ";
+---
+> > /* Class = "NSMenuItem"; title = "알파"; ObjectID = "qFf-iE-6wA"; */
+> > "qFf-iE-6wA.title" = "알파";

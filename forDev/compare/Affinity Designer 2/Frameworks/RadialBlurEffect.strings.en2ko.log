@@ -1,0 +1,36 @@
+5,6c5,6
+< /* Class = "NSTextFieldCell"; title = "Angle"; ObjectID = "12"; */
+< "12.title" = "Angle";
+---
+> /* Class = "NSTextFieldCell"; title = "각도"; ObjectID = "12"; */
+> "12.title" = "각도";
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+< "26.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> "26.title" = "적용";
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "213"; */
+< "213.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "213"; */
+> "213.title" = "취소";
+14,15c14,15
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "Iy4-Tx-Ord"; */
+< "Iy4-Tx-Ord.ibShadowedToolTip" = "No split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "Iy4-Tx-Ord"; */
+> "Iy4-Tx-Ord.ibShadowedToolTip" = "분할 뷰 모드 해제";
+17,18c17,18
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "MpY-5L-fPk"; */
+< "MpY-5L-fPk.ibShadowedToolTip" = "Mirror view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "MpY-5L-fPk"; */
+> "MpY-5L-fPk.ibShadowedToolTip" = "거울 뷰 모드";
+20,21c20,21
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "XOg-Nz-XP1"; */
+< "XOg-Nz-XP1.ibShadowedToolTip" = "Split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "XOg-Nz-XP1"; */
+> "XOg-Nz-XP1.ibShadowedToolTip" = "분할 뷰 모드";

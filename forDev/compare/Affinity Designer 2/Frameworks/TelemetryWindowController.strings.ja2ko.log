@@ -1,0 +1,94 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1X3-0l-ehQ"; */
+4,5c5,8
+< > "1X3-0l-ehQ.title" = "テキストセル";
+< 6c6
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "1X3-0l-ehQ"; */
+> > "1X3-0l-ehQ.title" = "텍스트 셀";
+> 5,6c5,6
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5hq-Fg-Iad"; */
+8,9c11,14
+< > "5hq-Fg-Iad.title" = "テキストセル";
+< 9c9
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "5hq-Fg-Iad"; */
+> > "5hq-Fg-Iad.title" = "텍스트 셀";
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "6R7-Vn-W04"; */
+12,21c17,20
+< > "6R7-Vn-W04.title" = "リセット";
+< 15c15
+< < "F0z-JX-Cv5.title" = "Telemetry";
+< ---
+< > "F0z-JX-Cv5.title" = "テレメトリー";
+< 18c18
+< < "K94-54-AsO.title" = "Copy Kernel";
+< ---
+< > "K94-54-AsO.title" = "カーネルをコピー";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "6R7-Vn-W04"; */
+> > "6R7-Vn-W04.title" = "재설정";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "P6m-SD-84H"; */
+24,29c23,26
+< > "P6m-SD-84H.title" = "テキストセル";
+< 24c24
+< < "RPd-Bu-1No.title" = "Enable labeling";
+< ---
+< > "RPd-Bu-1No.title" = "ラベリングを有効にする";
+< 27c27
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "P6m-SD-84H"; */
+> > "P6m-SD-84H.title" = "텍스트 셀";
+> 26,27c26,27
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YoF-uy-WRw"; */
+32,37c29,32
+< > "YoF-uy-WRw.title" = "テキストセル";
+< 30c30
+< < "dvO-59-zbI.headerCell.title" = "Compile";
+< ---
+< > "dvO-59-zbI.headerCell.title" = "コンパイル";
+< 33c33
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YoF-uy-WRw"; */
+> > "YoF-uy-WRw.title" = "텍스트 셀";
+> 32,33c32,33
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "js4-x7-k3u"; */
+40,53c35,38
+< > "js4-x7-k3u.title" = "テキストセル";
+< 36c36
+< < "ksA-JL-Jdh.headerCell.title" = "Worst";
+< ---
+< > "ksA-JL-Jdh.headerCell.title" = "ワースト";
+< 42c42
+< < "q1u-5a-Oc1.headerCell.title" = "Best";
+< ---
+< > "q1u-5a-Oc1.headerCell.title" = "最適";
+< 45c45
+< < "tLn-nb-SM5.headerCell.title" = "Assembly";
+< ---
+< > "tLn-nb-SM5.headerCell.title" = "アセンブリ";
+< 48c48
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "js4-x7-k3u"; */
+> > "js4-x7-k3u.title" = "텍스트 셀";
+> 47,48c47,48
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vO9-dd-tHx"; */
+56,64c41,42
+< > "vO9-dd-tHx.title" = "テキストセル";
+< 51c51
+< < "vWX-6E-HpH.title" = "Enable telemetry";
+< ---
+< > "vWX-6E-HpH.title" = "テレメトリーを有効にする";
+< 54c54
+< < "yzg-rm-CBh.headerCell.title" = "Avg";
+< ---
+< > "yzg-rm-CBh.headerCell.title" = "平均";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "vO9-dd-tHx"; */
+> > "vO9-dd-tHx.title" = "텍스트 셀";

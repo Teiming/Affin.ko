@@ -1,0 +1,266 @@
+1c1,2
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "683"; */
+4,5c5,8
+< > "683.title" = "ユーザー定義";
+< 9c9
+---
+> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "683"; */
+> > "683.title" = "사용자 정의";
+> 8,9c8,9
+> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "684"; */
+8,9c11,14
+< > "684.title" = "標準";
+< 12c12
+---
+> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "684"; */
+> > "684.title" = "표준";
+> 11,12c11,12
+> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "685"; */
+12,21c17,20
+< > "685.title" = "カテゴリ";
+< 15c15
+< < "757.ibShadowedToolTip" = "Edit Brush";
+< ---
+< > "757.ibShadowedToolTip" = "ブラシを編集";
+< 18c18
+< < "0xZ-ca-7WO.title" = "Create New Category…";
+< ---
+< > "0xZ-ca-7WO.title" = "新規カテゴリを作成…";
+< 21c21
+---
+> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "685"; */
+> > "685.title" = "범주";
+> 20,21c20,21
+> < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "29x-ZG-4UJ"; */
+24,33c23,26
+< > "29x-ZG-4UJ.title" = "カテゴリ名を変更…";
+< 24c24
+< < "2nt-OZ-fCn.title" = "Update Brush";
+< ---
+< > "2nt-OZ-fCn.title" = "ブラシを更新";
+< 27c27
+< < "6On-Gn-SLX.title" = "Enable Associated Tools";
+< ---
+< > "6On-Gn-SLX.title" = "関連ツールを有効にする";
+< 30c30
+---
+> > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "29x-ZG-4UJ"; */
+> > "29x-ZG-4UJ.title" = "범주 이름 변경…";
+> 29,30c29,30
+> < /* Class = "NSMenuItem"; title = "Import Brushes…"; ObjectID = "6wi-GB-u1Y"; */
+36,37c29,32
+< > "6wi-GB-u1Y.title" = "ブラシをインポート…";
+< 33c33
+---
+> > /* Class = "NSMenuItem"; title = "브러시 들여오기…"; ObjectID = "6wi-GB-u1Y"; */
+> > "6wi-GB-u1Y.title" = "브러시 들여오기…";
+> 32,33c32,33
+> < /* Class = "NSMenuItem"; title = "Duplicate Brush"; ObjectID = "8Mu-k9-rUv"; */
+40,41c35,38
+< > "8Mu-k9-rUv.title" = "ブラシを複製";
+< 36c36
+---
+> > /* Class = "NSMenuItem"; title = "브러시 복제"; ObjectID = "8Mu-k9-rUv"; */
+> > "8Mu-k9-rUv.title" = "브러시 복제";
+> 35,36c35,36
+> < /* Class = "NSMenuItem"; title = "New Image Brush"; ObjectID = "8bf-4x-iCm"; */
+44,49c41,44
+< > "8bf-4x-iCm.title" = "新規画像ブラシ";
+< 39c39
+< < "9bz-aZ-Pjf.title" = "Main Menu";
+< ---
+< > "9bz-aZ-Pjf.title" = "メインメニュー";
+< 42c42
+---
+> > /* Class = "NSMenuItem"; title = "신규 이미지 브러시"; ObjectID = "8bf-4x-iCm"; */
+> > "8bf-4x-iCm.title" = "신규 이미지 브러시";
+> 41,42c41,42
+> < /* Class = "NSMenuItem"; title = "New Square Brush"; ObjectID = "AxG-jy-wkM"; */
+52,53c47,50
+< > "AxG-jy-wkM.title" = "新規正方形ブラシ";
+< 45c45
+---
+> > /* Class = "NSMenuItem"; title = "신규 사각형 브러시"; ObjectID = "AxG-jy-wkM"; */
+> > "AxG-jy-wkM.title" = "신규 사각형 브러시";
+> 44,45c44,45
+> < /* Class = "NSMenuItem"; title = "New Solid Brush"; ObjectID = "Brz-mh-sxe"; */
+56,61c53,56
+< > "Brz-mh-sxe.title" = "新規ソリッドブラシ";
+< 48c48
+< < "Dj0-Sz-JUD.title" = "Auto-switch Category";
+< ---
+< > "Dj0-Sz-JUD.title" = "自動切り替えカテゴリ";
+< 51c51
+---
+> > /* Class = "NSMenuItem"; title = "신규 단일 브러시"; ObjectID = "Brz-mh-sxe"; */
+> > "Brz-mh-sxe.title" = "신규 단일 브러시";
+> 50,51c50,51
+> < /* Class = "NSMenu"; title = "Vector Menu"; ObjectID = "EWf-xj-6CY"; */
+64,85c59,62
+< > "EWf-xj-6CY.title" = "ベクターメニュー";
+< 54c54
+< < "FMS-rv-LVv.title" = "Delete Category…";
+< ---
+< > "FMS-rv-LVv.title" = "カテゴリを削除…";
+< 57c57
+< < "H7d-fP-p0M.title" = "Date Added";
+< ---
+< > "H7d-fP-p0M.title" = "追加日";
+< 60c60
+< < "KIE-EB-qxu.title" = "Uninstall Pack…";
+< ---
+< > "KIE-EB-qxu.title" = "パックをアンインストール…";
+< 63c63
+< < "M7e-jf-GHF.title" = "Reset Brush";
+< ---
+< > "M7e-jf-GHF.title" = "ブラシをリセット";
+< 66c66
+< < "MK8-L1-viL.title" = "Sort Categories By";
+< ---
+< > "MK8-L1-viL.title" = "次の項目でカテゴリを並べ替え";
+< 69c69
+---
+> > /* Class = "NSMenu"; title = "벡터 메뉴"; ObjectID = "EWf-xj-6CY"; */
+> > "EWf-xj-6CY.title" = "벡터 메뉴";
+> 68,69c68,69
+> < /* Class = "NSMenuItem"; title = "Delete Brush"; ObjectID = "MZz-4P-csN"; */
+88,89c65,68
+< > "MZz-4P-csN.title" = "ブラシを削除";
+< 72c72
+---
+> > /* Class = "NSMenuItem"; title = "브러시 지우기"; ObjectID = "MZz-4P-csN"; */
+> > "MZz-4P-csN.title" = "브러시 지우기";
+> 71,72c71,72
+> < /* Class = "NSMenuItem"; title = "Name"; ObjectID = "PUk-fe-DCG"; */
+92,101c71,74
+< > "PUk-fe-DCG.title" = "名前";
+< 75c75
+< < "UhM-C6-U4Q.title" = "New Brush From Selection";
+< ---
+< > "UhM-C6-U4Q.title" = "選択範囲からの新しいブラシ";
+< 78c78
+< < "YsM-XK-SZd.title" = "Copy Brush to Category";
+< ---
+< > "YsM-XK-SZd.title" = "ブラシをカテゴリにコピー";
+< 81c81
+---
+> > /* Class = "NSMenuItem"; title = "이름"; ObjectID = "PUk-fe-DCG"; */
+> > "PUk-fe-DCG.title" = "이름";
+> 80,81c80,81
+> < /* Class = "NSMenuItem"; title = "Edit Brush…"; ObjectID = "aFq-Os-DpJ"; */
+104,105c77,80
+< > "aFq-Os-DpJ.title" = "ブラシを編集…";
+< 84c84
+---
+> > /* Class = "NSMenuItem"; title = "브러시 편집…"; ObjectID = "aFq-Os-DpJ"; */
+> > "aFq-Os-DpJ.title" = "브러시 편집…";
+> 83,84c83,84
+> < /* Class = "NSMenu"; title = "Move Brush to Category"; ObjectID = "dpg-pI-boZ"; */
+108,109c83,86
+< > "dpg-pI-boZ.title" = "ブラシをカテゴリに移動";
+< 87c87
+---
+> > /* Class = "NSMenu"; title = "브러시를 카테고리로 이동"; ObjectID = "dpg-pI-boZ"; */
+> > "dpg-pI-boZ.title" = "브러시를 카테고리로 이동";
+> 86,87c86,87
+> < /* Class = "NSMenuItem"; title = "New Textured Image Brush"; ObjectID = "eKB-X7-SAz"; */
+112,113c89,92
+< > "eKB-X7-SAz.title" = "新規テクスチャ画像ブラシ";
+< 90c90
+---
+> > /* Class = "NSMenuItem"; title = "신규 질감 이미지 브러시"; ObjectID = "eKB-X7-SAz"; */
+> > "eKB-X7-SAz.title" = "신규 질감 이미지 브러시";
+> 89,90c89,90
+> < /* Class = "NSMenuItem"; title = "New Round Brush"; ObjectID = "eb4-ho-iE7"; */
+116,121c95,98
+< > "eb4-ho-iE7.title" = "新規ラウンドブラシ";
+< 93c93
+< < "egt-yc-37w.title" = "Link Category";
+< ---
+< > "egt-yc-37w.title" = "カテゴリをリンク";
+< 96c96
+---
+> > /* Class = "NSMenuItem"; title = "신규 둥근 브러시"; ObjectID = "eb4-ho-iE7"; */
+> > "eb4-ho-iE7.title" = "신규 둥근 브러시";
+> 95,96c95,96
+> < /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "fM3-sT-mB1"; */
+124,125c101,104
+< > "fM3-sT-mB1.title" = "リストとして表示";
+< 99c99
+---
+> > /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "fM3-sT-mB1"; */
+> > "fM3-sT-mB1.title" = "목록으로 보기";
+> 98,99c98,99
+> < /* Class = "NSMenu"; title = "Brush Item Context Menu"; ObjectID = "gLd-p3-n9l"; */
+128,133c107,110
+< > "gLd-p3-n9l.title" = "ブラシ項目コンテキストメニュー";
+< 102c102
+< < "gZ8-JY-svq.title" = "Sort Categories By";
+< ---
+< > "gZ8-JY-svq.title" = "次の項目でカテゴリを並べ替え";
+< 105c105
+---
+> > /* Class = "NSMenu"; title = "브러시 항목 상황별 메뉴"; ObjectID = "gLd-p3-n9l"; */
+> > "gLd-p3-n9l.title" = "브러시 항목 상황별 메뉴";
+> 104,105c104,105
+> < /* Class = "NSMenuItem"; title = "Auto-scroll"; ObjectID = "jP8-fo-hO8"; */
+136,137c113,116
+< > "jP8-fo-hO8.title" = "自動スクロール";
+< 108c108
+---
+> > /* Class = "NSMenuItem"; title = "자동 스크롤"; ObjectID = "jP8-fo-hO8"; */
+> > "jP8-fo-hO8.title" = "자동 스크롤";
+> 107,108c107,108
+> < /* Class = "NSMenu"; title = "Raster Menu"; ObjectID = "k0x-FY-GSh"; */
+140,149c119,122
+< > "k0x-FY-GSh.title" = "ラスターメニュー";
+< 111c111
+< < "mQl-Mc-BC1.title" = "Copy Brush to Category";
+< ---
+< > "mQl-Mc-BC1.title" = "ブラシをカテゴリにコピー";
+< 114c114
+< < "nL7-2p-lAL.title" = "Show Brush Names";
+< ---
+< > "nL7-2p-lAL.title" = "ブラシの名称を表示";
+< 117c117
+---
+> > /* Class = "NSMenu"; title = "래스터 메뉴"; ObjectID = "k0x-FY-GSh"; */
+> > "k0x-FY-GSh.title" = "래스터 메뉴";
+> 116,117c116,117
+> < /* Class = "NSMenuItem"; title = "Rename Brush…"; ObjectID = "rBF-Fx-fJ3"; */
+152,153c125,128
+< > "rBF-Fx-fJ3.title" = "ブラシ名を変更…";
+< 120c120
+---
+> > /* Class = "NSMenuItem"; title = "브러시 이름 변경…"; ObjectID = "rBF-Fx-fJ3"; */
+> > "rBF-Fx-fJ3.title" = "브러시 이름 변경…";
+> 119,120c119,120
+> < /* Class = "NSMenuItem"; title = "Export Brushes…"; ObjectID = "rD9-jN-h72"; */
+156,161c131,134
+< > "rD9-jN-h72.title" = "ブラシを書き出し…";
+< 123c123
+< < "rjh-yd-yX0.title" = "New Intensity Brush";
+< ---
+< > "rjh-yd-yX0.title" = "新規強度ブラシ";
+< 126c126
+---
+> > /* Class = "NSMenuItem"; title = "브러시 내보내기…"; ObjectID = "rD9-jN-h72"; */
+> > "rD9-jN-h72.title" = "브러시 내보내기…";
+> 125,126c125,126
+> < /* Class = "NSMenuItem"; title = "Move Brush to Category"; ObjectID = "xlO-uy-hGK"; */
+164,172c137,138
+< > "xlO-uy-hGK.title" = "ブラシをカテゴリに移動";
+< 129c129
+< < "yI3-f7-efv.title" = "Duplicate Category";
+< ---
+< > "yI3-f7-efv.title" = "カテゴリを複製";
+< 132c132
+< < "yLi-iL-gyF.title" = "New Textured Intensity Brush";
+< ---
+< > "yLi-iL-gyF.title" = "新規テクスチャ強度ブラシ";
+---
+> > /* Class = "NSMenuItem"; title = "브러시를 카테고리로 이동"; ObjectID = "xlO-uy-hGK"; */
+> > "xlO-uy-hGK.title" = "브러시를 카테고리로 이동";

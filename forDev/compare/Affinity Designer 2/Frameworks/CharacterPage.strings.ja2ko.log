@@ -1,0 +1,270 @@
+1,5c1,2
+< 3c3
+< < "28U-Ek-iXg.title" = "Typography language:";
+< ---
+< > "28U-Ek-iXg.title" = "タイポグラフィ言語:";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "7FH-YH-a0w"; */
+8,9c5,8
+< > "7FH-YH-a0w.title" = "追加";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "7FH-YH-a0w"; */
+> > "7FH-YH-a0w.title" = "추가";
+> 8,9c8,9
+> < /* Class = "NSImageView"; ibShadowedToolTip = "Vertical Scale"; ObjectID = "8Hc-tk-Dlu"; */
+12,17c11,14
+< > "8Hc-tk-Dlu.ibShadowedToolTip" = "縦の倍率";
+< 12c12
+< < "AvW-De-pGe.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Optical Alignment";
+< ---
+< > "AvW-De-pGe.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "視覚調整";
+< 15c15
+---
+> > /* Class = "NSImageView"; ibShadowedToolTip = "세로 배율"; ObjectID = "8Hc-tk-Dlu"; */
+> > "8Hc-tk-Dlu.ibShadowedToolTip" = "세로 배율";
+> 14,15c14,15
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FaC-Vi-R9a"; */
+20,33c17,20
+< > "FaC-Vi-R9a.title" = "テキストセル";
+< 18c18
+< < "G8j-cQ-Vij.ibShadowedToolTip" = "Tracking";
+< ---
+< > "G8j-cQ-Vij.ibShadowedToolTip" = "トラッキング";
+< 21c21
+< < "Gv8-gn-iod.ibShadowedToolTip" = "Stylistic Sets";
+< ---
+< > "Gv8-gn-iod.ibShadowedToolTip" = "スタイルセット";
+< 24c24
+< < "HSc-ix-1QR.ibShadowedToolTip" = "Cell Stroke";
+< ---
+< > "HSc-ix-1QR.ibShadowedToolTip" = "セル境界線";
+< 27c27
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "FaC-Vi-R9a"; */
+> > "FaC-Vi-R9a.title" = "텍스트 셀";
+> 26,27c26,27
+> < /* Class = "NSView"; ibShadowedToolTip = "Shear"; ObjectID = "Iy5-TZ-tM9"; */
+36,41c23,26
+< > "Iy5-TZ-tM9.ibShadowedToolTip" = "シアー";
+< 30c30
+< < "L8L-td-m0f.title" = "Typography script:";
+< ---
+< > "L8L-td-m0f.title" = "タイポグラフィスクリプト:";
+< 33c33
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "비틀기"; ObjectID = "Iy5-TZ-tM9"; */
+> > "Iy5-TZ-tM9.ibShadowedToolTip" = "비틀기";
+> 32,33c32,33
+> < /* Class = "NSView"; ibShadowedToolTip = "Character Style"; ObjectID = "LEz-m7-8fZ"; */
+44,45c29,32
+< > "LEz-m7-8fZ.ibShadowedToolTip" = "文字スタイル";
+< 36c36
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "문자 스타일"; ObjectID = "LEz-m7-8fZ"; */
+> > "LEz-m7-8fZ.ibShadowedToolTip" = "문자 스타일";
+> 35,36c35,36
+> < /* Class = "NSView"; ibShadowedToolTip = "Vertical Scale"; ObjectID = "MMA-he-oYt"; */
+48,61c35,38
+< > "MMA-he-oYt.ibShadowedToolTip" = "縦の倍率";
+< 39c39
+< < "MwC-bB-jJ6.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Decorations";
+< ---
+< > "MwC-bB-jJ6.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "装飾";
+< 42c42
+< < "NVd-hd-Qan.ibShadowedToolTip" = "Swash";
+< ---
+< > "NVd-hd-Qan.ibShadowedToolTip" = "スワッシュ字形";
+< 45c45
+< < "OBo-QZ-Rqo.title" = "Spelling:";
+< ---
+< > "OBo-QZ-Rqo.title" = "スペル設定:";
+< 48c48
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "세로 배율"; ObjectID = "MMA-he-oYt"; */
+> > "MMA-he-oYt.ibShadowedToolTip" = "세로 배율";
+> 47,48c47,48
+> < /* Class = "NSView"; QjG-om-cQE.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Typography"; ObjectID = "QjG-om-cQE"; */
+64,69c41,44
+< > "QjG-om-cQE.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "タイポグラフィ";
+< 51c51
+< < "R1b-2Q-asG.ibShadowedToolTip" = "Font Style";
+< ---
+< > "R1b-2Q-asG.ibShadowedToolTip" = "フォントスタイル";
+< 54c54
+---
+> > /* Class = "NSView"; QjG-om-cQE.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "타이포그래피"; ObjectID = "QjG-om-cQE"; */
+> > "QjG-om-cQE.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "타이포그래피";
+> 53,54c53,54
+> < /* Class = "NSView"; ibShadowedToolTip = "Baseline"; ObjectID = "Rtk-qg-mHk"; */
+72,109c47,50
+< > "Rtk-qg-mHk.ibShadowedToolTip" = "ベースライン";
+< 57c57
+< < "Sb8-10-3oU.ibShadowedToolTip" = "Tracking";
+< ---
+< > "Sb8-10-3oU.ibShadowedToolTip" = "トラッキング";
+< 60c60
+< < "UfP-gT-7uA.ibShadowedToolTip" = "Tracking";
+< ---
+< > "UfP-gT-7uA.ibShadowedToolTip" = "トラッキング";
+< 63c63
+< < "W6z-Rh-Fzk.ibShadowedToolTip" = "Super/Subscript";
+< ---
+< > "W6z-Rh-Fzk.ibShadowedToolTip" = "上付き/下付き文字";
+< 66c66
+< < "WdK-3W-Yq2.ibShadowedToolTip" = "Kerning";
+< ---
+< > "WdK-3W-Yq2.ibShadowedToolTip" = "カーニング";
+< 69c69
+< < "Wff-cn-Fws.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Positioning and Transform";
+< ---
+< > "Wff-cn-Fws.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "位置と変形";
+< 72c72
+< < "Y30-rU-kVg.title" = "No break";
+< ---
+< > "Y30-rU-kVg.title" = "分割禁止";
+< 75c75
+< < "Zg9-SP-rTI.ibShadowedToolTip" = "Horizontal Scale";
+< ---
+< > "Zg9-SP-rTI.ibShadowedToolTip" = "横の倍率";
+< 78c78
+< < "a1Z-Am-m7M.ibShadowedToolTip" = "Leading Override";
+< ---
+< > "a1Z-Am-m7M.ibShadowedToolTip" = "行送りのオーバーライド";
+< 81c81
+< < "b4h-Q7-jvr.headerCell.title" = "Characters";
+< ---
+< > "b4h-Q7-jvr.headerCell.title" = "文字";
+< 87c87
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "기준선"; ObjectID = "Rtk-qg-mHk"; */
+> > "Rtk-qg-mHk.ibShadowedToolTip" = "기준선";
+> 86,87c86,87
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dfh-gr-u7E"; */
+112,113c53,56
+< > "dfh-gr-u7E.title" = "テキストセル";
+< 90c90
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "dfh-gr-u7E"; */
+> > "dfh-gr-u7E.title" = "텍스트 셀";
+> 89,90c89,90
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "du3-2U-BMC"; */
+116,137c59,62
+< > "du3-2U-BMC.title" = "テキストセル";
+< 93c93
+< < "eCY-Vd-JMr.ibShadowedToolTip" = "Horizontal Scale";
+< ---
+< > "eCY-Vd-JMr.ibShadowedToolTip" = "横の倍率";
+< 96c96
+< < "gn3-II-tKP.ibShadowedToolTip" = "Kerning";
+< ---
+< > "gn3-II-tKP.ibShadowedToolTip" = "カーニング";
+< 99c99
+< < "hEE-WT-eyd.ibShadowedToolTip" = "Leading Override";
+< ---
+< > "hEE-WT-eyd.ibShadowedToolTip" = "行送りのオーバーライド";
+< 102c102
+< < "hdW-R2-tSQ.ibShadowedToolTip" = "Font Family";
+< ---
+< > "hdW-R2-tSQ.ibShadowedToolTip" = "フォントファミリ";
+< 105c105
+< < "hes-HN-DCy.title" = "Hyphenation:";
+< ---
+< > "hes-HN-DCy.title" = "ハイフネーション:";
+< 108c108
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "du3-2U-BMC"; */
+> > "du3-2U-BMC.title" = "텍스트 셀";
+> 107,108c107,108
+> < /* Class = "NSMenuItem"; title = "Show Typography"; ObjectID = "kHA-4T-vz8"; */
+140,141c65,68
+< > "kHA-4T-vz8.title" = "タイポグラフィを表示";
+< 111c111
+---
+> > /* Class = "NSMenuItem"; title = "타이포그래피 보기"; ObjectID = "kHA-4T-vz8"; */
+> > "kHA-4T-vz8.title" = "타이포그래피 보기";
+> 110,111c110,111
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lN0-ey-rRf"; */
+144,145c71,74
+< > "lN0-ey-rRf.title" = "テキストセル";
+< 114c114
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "lN0-ey-rRf"; */
+> > "lN0-ey-rRf.title" = "텍스트 셀";
+> 113,114c113,114
+> < /* Class = "NSImageView"; ibShadowedToolTip = "Shear"; ObjectID = "m2U-gM-Vnq"; */
+148,153c77,80
+< > "m2U-gM-Vnq.ibShadowedToolTip" = "シアー";
+< 117c117
+< < "mwf-CV-v3q.ibShadowedToolTip" = "Leading Override";
+< ---
+< > "mwf-CV-v3q.ibShadowedToolTip" = "行送りのオーバーライド";
+< 120c120
+---
+> > /* Class = "NSImageView"; ibShadowedToolTip = "비틀기"; ObjectID = "m2U-gM-Vnq"; */
+> > "m2U-gM-Vnq.ibShadowedToolTip" = "비틀기";
+> 119,120c119,120
+> < /* Class = "NSView"; nNQ-ZE-RV3.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Language"; ObjectID = "nNQ-ZE-RV3"; */
+156,157c83,86
+< > "nNQ-ZE-RV3.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "言語";
+< 123c123
+---
+> > /* Class = "NSView"; nNQ-ZE-RV3.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "언어"; ObjectID = "nNQ-ZE-RV3"; */
+> > "nNQ-ZE-RV3.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "언어";
+> 122,123c122,123
+> < /* Class = "NSStepper"; ibShadowedToolTip = "Baseline"; ObjectID = "niz-yS-R9I"; */
+160,161c89,92
+< > "niz-yS-R9I.ibShadowedToolTip" = "ベースライン";
+< 126c126
+---
+> > /* Class = "NSStepper"; ibShadowedToolTip = "기준선"; ObjectID = "niz-yS-R9I"; */
+> > "niz-yS-R9I.ibShadowedToolTip" = "기준선";
+> 125,126c125,126
+> < /* Class = "NSTableColumn"; headerCell.title = "Right"; ObjectID = "oLa-b3-ZXi"; */
+164,165c95,98
+< > "oLa-b3-ZXi.headerCell.title" = "右";
+< 129c129
+---
+> > /* Class = "NSTableColumn"; headerCell.title = "오른쪽"; ObjectID = "oLa-b3-ZXi"; */
+> > "oLa-b3-ZXi.headerCell.title" = "오른쪽";
+> 128,129c128,129
+> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "rCx-Ln-9dA"; */
+168,181c101,104
+< > "rCx-Ln-9dA.title" = "タイプ:";
+< 132c132
+< < "rgC-dA-bjf.ibShadowedToolTip" = "Font Size";
+< ---
+< > "rgC-dA-bjf.ibShadowedToolTip" = "フォントサイズ";
+< 135c135
+< < "rsr-wa-NJe.ibShadowedToolTip" = "Character Variants";
+< ---
+< > "rsr-wa-NJe.ibShadowedToolTip" = "異体字";
+< 138c138
+< < "sBR-0b-XTI.ibShadowedToolTip" = "Font Collection";
+< ---
+< > "sBR-0b-XTI.ibShadowedToolTip" = "フォントコレクション";
+< 141c141
+---
+> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "rCx-Ln-9dA"; */
+> > "rCx-Ln-9dA.title" = "종류:";
+> 140,141c140,141
+> < /* Class = "NSImageView"; ibShadowedToolTip = "Baseline"; ObjectID = "tyu-h3-OtA"; */
+184,189c107,110
+< > "tyu-h3-OtA.ibShadowedToolTip" = "ベースライン";
+< 144c144
+< < "uKc-hr-F2p.ibShadowedToolTip" = "Kerning";
+< ---
+< > "uKc-hr-F2p.ibShadowedToolTip" = "カーニング";
+< 147c147
+---
+> > /* Class = "NSImageView"; ibShadowedToolTip = "기준선"; ObjectID = "tyu-h3-OtA"; */
+> > "tyu-h3-OtA.ibShadowedToolTip" = "기준선";
+> 146,147c146,147
+> < /* Class = "NSTableColumn"; headerCell.title = "Left"; ObjectID = "xOZ-PG-ltn"; */
+192c113,114
+< > "xOZ-PG-ltn.headerCell.title" = "左";
+---
+> > /* Class = "NSTableColumn"; headerCell.title = "왼쪽"; ObjectID = "xOZ-PG-ltn"; */
+> > "xOZ-PG-ltn.headerCell.title" = "왼쪽";

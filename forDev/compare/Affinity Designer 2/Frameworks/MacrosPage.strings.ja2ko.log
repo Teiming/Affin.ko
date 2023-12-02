@@ -1,0 +1,86 @@
+1,69c1,2
+< 3c3
+< < "1fc-0A-Jdf.title" = "Top right";
+< ---
+< > "1fc-0A-Jdf.title" = "右上";
+< 6c6
+< < "69F-Id-tDU.title" = "Main Menu";
+< ---
+< > "69F-Id-tDU.title" = "メインメニュー";
+< 9c9
+< < "90L-bR-Vmo.title" = "Uninstall Pack...";
+< ---
+< > "90L-bR-Vmo.title" = "パックをアンインストール…";
+< 12c12
+< < "DkW-d4-wqS.title" = "Export Macros...";
+< ---
+< > "DkW-d4-wqS.title" = "マクロを書き出し...";
+< 15c15
+< < "Ej2-69-GJJ.title" = "Create New Category…";
+< ---
+< > "Ej2-69-GJJ.title" = "新規カテゴリを作成…";
+< 18c18
+< < "M4z-pd-Ou6.title" = "Top left";
+< ---
+< > "M4z-pd-Ou6.title" = "左上";
+< 21c21
+< < "N7p-bP-H2Q.title" = "Delete Category…";
+< ---
+< > "N7p-bP-H2Q.title" = "カテゴリを削除…";
+< 24c24
+< < "Ngc-Su-FC7.title" = "Move Up";
+< ---
+< > "Ngc-Su-FC7.title" = "上に移動";
+< 30c30
+< < "Uq0-2s-rc3.title" = "Bottom right";
+< ---
+< > "Uq0-2s-rc3.title" = "右下";
+< 33c33
+< < "VYR-rN-5i0.title" = "Center";
+< ---
+< > "VYR-rN-5i0.title" = "中央";
+< 36c36
+< < "ZCy-p4-RhM.title" = "Import Macros…";
+< ---
+< > "ZCy-p4-RhM.title" = "マクロをインポート...";
+< 39c39
+< < "aYT-gQ-fv9.title" = "Bottom left";
+< ---
+< > "aYT-gQ-fv9.title" = "左下";
+< 42c42
+< < "cIB-dH-lNo.title" = "Max fit";
+< ---
+< > "cIB-dH-lNo.title" = "最大フィット";
+< 45c45
+< < "dvY-O8-Md1.title" = "Min fit";
+< ---
+< > "dvY-O8-Md1.title" = "最小フィット";
+< 48c48
+< < "erX-EE-kI7.title" = "Stretch";
+< ---
+< > "erX-EE-kI7.title" = "ストレッチ";
+< 51c51
+< < "jSa-A8-ZOo.title" = "Duplicate Category";
+< ---
+< > "jSa-A8-ZOo.title" = "カテゴリを複製";
+< 57c57
+< < "quP-6Z-OMN.title" = "No scale";
+< ---
+< > "quP-6Z-OMN.title" = "スケールなし";
+< 60c60
+---
+> 59,60c59,60
+> < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "ube-kc-Yz7"; */
+72,80c5,6
+< > "ube-kc-Yz7.title" = "カテゴリ名を変更…";
+< 63c63
+< < "vsA-gg-lba.title" = "No alignment";
+< ---
+< > "vsA-gg-lba.title" = "行揃えなし";
+< 66c66
+< < "yJp-13-X6P.title" = "Move Down";
+< ---
+< > "yJp-13-X6P.title" = "下に移動";
+---
+> > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "ube-kc-Yz7"; */
+> > "ube-kc-Yz7.title" = "이름 변경...";

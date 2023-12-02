@@ -1,0 +1,126 @@
+1,5c1,2
+< 3c3
+< < "1.title" = "Halftone";
+< ---
+< > "1.title" = "ハーフトーン";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSTextFieldCell"; title = "Cell Size"; ObjectID = "12"; */
+8,9c5,8
+< > "12.title" = "セルサイズ";
+< 9c9
+---
+> > /* Class = "NSTextFieldCell"; title = "셀 크기"; ObjectID = "12"; */
+> > "12.title" = "셀 크기";
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+12,13c11,14
+< > "26.title" = "適用";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100"; */
+16,17c17,20
+< > "100.title" = "キャンセル";
+< 15c15
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "100"; */
+> > "100.title" = "취소";
+> 14,15c14,15
+> < /* Class = "NSMenuItem"; title = "Item"; ObjectID = "47B-FK-Yq1"; */
+20,21c23,26
+< > "47B-FK-Yq1.title" = "アイテム";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "항목"; ObjectID = "47B-FK-Yq1"; */
+> > "47B-FK-Yq1.title" = "항목";
+> 17,18c17,18
+> < /* Class = "NSMenuItem"; title = "Monochrome"; ObjectID = "5BA-uM-b6z"; */
+24,29c29,32
+< > "5BA-uM-b6z.title" = "モノクロ";
+< 21c21
+< < "9C1-VV-GvL.title" = "Round";
+< ---
+< > "9C1-VV-GvL.title" = "ラウンド";
+< 24c24
+---
+> > /* Class = "NSMenuItem"; title = "단색"; ObjectID = "5BA-uM-b6z"; */
+> > "5BA-uM-b6z.title" = "단색";
+> 23,24c23,24
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "KHj-pC-25w"; */
+32,49c35,38
+< > "KHj-pC-25w.ibShadowedToolTip" = "ミラー表示";
+< 27c27
+< < "OoJ-Ud-45Q.title" = "Gray Component Replacement";
+< ---
+< > "OoJ-Ud-45Q.title" = "グレーコンポーネントの置換";
+< 30c30
+< < "Q5M-O5-iql.title" = "Line";
+< ---
+< > "Q5M-O5-iql.title" = "線";
+< 36c36
+< < "Qzf-oL-3SC.title" = "Screen";
+< ---
+< > "Qzf-oL-3SC.title" = "スクリーン";
+< 39c39
+< < "Scc-Mm-4KF.title" = "Dot";
+< ---
+< > "Scc-Mm-4KF.title" = "ドット";
+< 42c42
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "KHj-pC-25w"; */
+> > "KHj-pC-25w.ibShadowedToolTip" = "거울 뷰 모드";
+> 41,42c41,42
+> < /* Class = "NSMenuItem"; title = "Cosine"; ObjectID = "YF3-dq-gr7"; */
+52,57c41,44
+< > "YF3-dq-gr7.title" = "コサイン";
+< 45c45
+< < "b0D-NO-33a.title" = "Circular";
+< ---
+< > "b0D-NO-33a.title" = "循環";
+< 48c48
+---
+> > /* Class = "NSMenuItem"; title = "코사인"; ObjectID = "YF3-dq-gr7"; */
+> > "YF3-dq-gr7.title" = "코사인";
+> 47,48c47,48
+> < /* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "eKl-jE-goz"; */
+60,62c47,50
+< > "eKl-jE-goz.title" = "コントラスト";
+< 54c54
+< < "jOP-6z-MT5.title" = "Under Color Removal";
+---
+> > /* Class = "NSTextFieldCell"; title = "대비"; ObjectID = "eKl-jE-goz"; */
+> > "eKl-jE-goz.title" = "대비";
+> 56c56
+> < /* Class = "NSMenuItem"; title = "Colour"; ObjectID = "kD9-sV-H0R"; */
+64,69c52,54
+< > "jOP-6z-MT5.title" = "下色除去(UCR)";
+< 57c57
+< < "kD9-sV-H0R.title" = "Color";
+< ---
+< > "kD9-sV-H0R.title" = "カラー";
+< 60c60
+---
+> > /* Class = "NSMenuItem"; title = "색상"; ObjectID = "kD9-sV-H0R"; */
+> 59,60c59,60
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "mIV-HS-pW3"; */
+72,73c57,60
+< > "mIV-HS-pW3.ibShadowedToolTip" = "分割表示なし";
+< 63c63
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "mIV-HS-pW3"; */
+> > "mIV-HS-pW3.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> 62,63c62,63
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "oXm-bk-Sje"; */
+76,80c63,64
+< > "oXm-bk-Sje.ibShadowedToolTip" = "分割表示";
+< 66c66
+< < "yT7-EY-npm.title" = "Screen Angle";
+< ---
+< > "yT7-EY-npm.title" = "スクリーン角度";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "oXm-bk-Sje"; */
+> > "oXm-bk-Sje.ibShadowedToolTip" = "분할 뷰 모드";

@@ -1,0 +1,40 @@
+3c3
+< "6.title" = "Channel";
+---
+> "6.title" = "チャンネル";
+6c6
+< "0Q3-9y-0PE.title" = "Toggle Visible";
+---
+> "0Q3-9y-0PE.title" = "表示/非表示を切り替え";
+9c9
+< "32P-H5-Vzy.title" = "Create Spare Channel";
+---
+> "32P-H5-Vzy.title" = "スペアチャンネルを作成";
+12c12
+< "7DH-oj-ggi.title" = "Toggle Editable";
+---
+> "7DH-oj-ggi.title" = "編集可否を切り替え";
+15c15
+< "DV2-25-exf.title" = "Subtract From Pixel Selection";
+---
+> "DV2-25-exf.title" = "ピクセル選択範囲から減算";
+18c18
+< "Ieq-qU-8e1.ibShadowedToolTip" = "Editable";
+---
+> "Ieq-qU-8e1.ibShadowedToolTip" = "編集可能";
+21c21
+< "Xe0-pM-s1J.title" = "Load To Pixel Selection";
+---
+> "Xe0-pM-s1J.title" = "ピクセル選択範囲に読み込み";
+24c24
+< "e2S-7c-pfR.title" = "Add To Pixel Selection";
+---
+> "e2S-7c-pfR.title" = "ピクセル選択範囲に加算";
+27c27
+< "lpi-h3-IXq.ibShadowedToolTip" = "Visible";
+---
+> "lpi-h3-IXq.ibShadowedToolTip" = "表示";
+30c30
+< "pSL-Lp-V6A.title" = "Intersect With Pixel Selection";
+---
+> "pSL-Lp-V6A.title" = "ピクセル選択範囲と交差";

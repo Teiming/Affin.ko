@@ -1,0 +1,1792 @@
+3c3
+< "795.title" = "MainMenu";
+---
+> "795.title" = "メインメニュー";
+6c6
+< "801.title" = "Help";
+---
+> "801.title" = "ヘルプ";
+9c9
+< "803.title" = "View";
+---
+> "803.title" = "表示";
+12c12
+< "804.title" = "File";
+---
+> "804.title" = "ファイル";
+15c15
+< "805.title" = "Edit";
+---
+> "805.title" = "編集";
+21c21
+< "807.title" = "Window";
+---
+> "807.title" = "ウィンドウ";
+24c24
+< "808.title" = "Window";
+---
+> "808.title" = "ウィンドウ";
+27c27
+< "811.title" = "Minimize";
+---
+> "811.title" = "最小化";
+30c30
+< "812.title" = "Zoom";
+---
+> "812.title" = "ズーム";
+33c33
+< "813.title" = "Toggle Full Screen";
+---
+> "813.title" = "フルスクリーン切り替え";
+39c39
+< "816.title" = "Hide Others";
+---
+> "816.title" = "他を隠す";
+42c42
+< "818.title" = "Services";
+---
+> "818.title" = "サービス";
+45c45
+< "821.title" = "Preferences…";
+---
+> "821.title" = "環境設定…";
+48c48
+< "823.title" = "Quit";
+---
+> "823.title" = "終了";
+51c51
+< "824.title" = "Show All";
+---
+> "824.title" = "すべて表示";
+54c54
+< "825.title" = "Hide";
+---
+> "825.title" = "非表示";
+57c57
+< "826.title" = "About…";
+---
+> "826.title" = "製品情報…";
+60c60
+< "827.title" = "Services";
+---
+> "827.title" = "サービス";
+63c63
+< "828.title" = "Edit";
+---
+> "828.title" = "編集";
+66c66
+< "835.title" = "Redo";
+---
+> "835.title" = "やり直し";
+69c69
+< "837.title" = "Copy";
+---
+> "837.title" = "コピー";
+72c72
+< "838.title" = "Paste";
+---
+> "838.title" = "ペースト";
+75c75
+< "839.title" = "Cut";
+---
+> "839.title" = "カット";
+78c78
+< "841.title" = "Undo";
+---
+> "841.title" = "取り消し";
+81c81
+< "842.title" = "Select All";
+---
+> "842.title" = "すべて選択";
+84c84
+< "843.title" = "Delete";
+---
+> "843.title" = "削除";
+87c87
+< "873.title" = "File";
+---
+> "873.title" = "ファイル";
+90c90
+< "874.title" = "Save As…";
+---
+> "874.title" = "名前を付けて保存…";
+93c93
+< "881.title" = "Close";
+---
+> "881.title" = "閉じる";
+96c96
+< "882.title" = "Document Setup…";
+---
+> "882.title" = "ドキュメント設定…";
+99c99
+< "883.title" = "Open Recent";
+---
+> "883.title" = "最近使用したドキュメントを開く";
+102c102
+< "884.title" = "New…";
+---
+> "884.title" = "新規…";
+105c105
+< "885.title" = "Open…";
+---
+> "885.title" = "開く…";
+108c108
+< "886.title" = "Print…";
+---
+> "886.title" = "プリント…";
+111c111
+< "887.title" = "Open Recent";
+---
+> "887.title" = "最近使用したドキュメントを開く";
+114c114
+< "888.title" = "Clear Menu";
+---
+> "888.title" = "最近使用したファイルのリストを消去";
+117c117
+< "889.title" = "View";
+---
+> "889.title" = "表示";
+120c120
+< "890.title" = "Customize Tools…";
+---
+> "890.title" = "ツールをカスタマイズ…";
+123c123
+< "892.title" = "Customize Toolbar…";
+---
+> "892.title" = "ツールバーをカスタマイズ…";
+126c126
+< "893.title" = "Show Toolbar";
+---
+> "893.title" = "ツールバーを表示";
+129c129
+< "950.title" = "Help";
+---
+> "950.title" = "ヘルプ";
+132c132
+< "951.title" = "${PRODUCT_NAME} Help";
+---
+> "951.title" = "${PRODUCT_NAME}ヘルプ";
+135c135
+< "984.title" = "Ungroup";
+---
+> "984.title" = "グループ解除";
+138c138
+< "985.title" = "Group";
+---
+> "985.title" = "グループ化";
+141c141
+< "1062.title" = "Duplicate";
+---
+> "1062.title" = "複製";
+144c144
+< "1075.title" = "Zoom to Fit";
+---
+> "1075.title" = "画面サイズに合わせる";
+150c150
+< "1087.title" = "Show Margins";
+---
+> "1087.title" = "マージンを表示";
+153c153
+< "1088.title" = "Show Guides";
+---
+> "1088.title" = "ガイドを表示";
+156c156
+< "1089.title" = "Show Grid";
+---
+> "1089.title" = "グリッドを表示";
+159c159
+< "1093.title" = "New View";
+---
+> "1093.title" = "新規ビュー";
+162c162
+< "1107.title" = "Pixels";
+---
+> "1107.title" = "ピクセル";
+165c165
+< "1130.title" = "Lock";
+---
+> "1130.title" = "ロック";
+168c168
+< "1131.title" = "Unlock";
+---
+> "1131.title" = "ロックを解除";
+171c171
+< "1189.title" = "Text";
+---
+> "1189.title" = "テキスト";
+174c174
+< "1190.title" = "Text";
+---
+> "1190.title" = "テキスト";
+177c177
+< "1191.title" = "Character Traits";
+---
+> "1191.title" = "文字の特性";
+180c180
+< "1192.title" = "Alignment";
+---
+> "1192.title" = "行揃え";
+183c183
+< "1193.title" = "Alignment";
+---
+> "1193.title" = "行揃え";
+186c186
+< "1194.title" = "Align Left";
+---
+> "1194.title" = "左揃え";
+189c189
+< "1195.title" = "Align Center";
+---
+> "1195.title" = "中央揃え";
+192c192
+< "1196.title" = "Justify Center";
+---
+> "1196.title" = "均等配置(最終行中央揃え)";
+195c195
+< "1197.title" = "Align Right";
+---
+> "1197.title" = "右揃え";
+198c198
+< "1214.title" = "Character Traits";
+---
+> "1214.title" = "文字の特性";
+201c201
+< "1216.title" = "Bold";
+---
+> "1216.title" = "太字";
+204c204
+< "1217.title" = "Italic";
+---
+> "1217.title" = "斜体";
+207c207
+< "1218.title" = "Underline";
+---
+> "1218.title" = "下線";
+210c210
+< "1223.title" = "Spacing";
+---
+> "1223.title" = "間隔";
+213c213
+< "1224.title" = "Ligatures";
+---
+> "1224.title" = "合字";
+216c216
+< "1225.title" = "Baseline";
+---
+> "1225.title" = "ベースライン";
+219c219
+< "1231.title" = "Baseline";
+---
+> "1231.title" = "ベースライン";
+222c222
+< "1232.title" = "Use Default";
+---
+> "1232.title" = "デフォルトを使用";
+225c225
+< "1233.title" = "Superscript";
+---
+> "1233.title" = "上付き文字";
+228c228
+< "1234.title" = "Subscript";
+---
+> "1234.title" = "下付き文字";
+231c231
+< "1237.title" = "Ligatures";
+---
+> "1237.title" = "合字";
+234c234
+< "1238.title" = "Use None";
+---
+> "1238.title" = "何も使用しない";
+237c237
+< "1241.title" = "Spacing";
+---
+> "1241.title" = "間隔";
+240c240
+< "1242.title" = "Use Default";
+---
+> "1242.title" = "デフォルトを使用";
+243c243
+< "1243.title" = "Use None";
+---
+> "1243.title" = "何も使用しない";
+246c246
+< "1244.title" = "Tighten";
+---
+> "1244.title" = "狭める";
+249c249
+< "1245.title" = "Loosen More";
+---
+> "1245.title" = "さらに拡げる";
+252c252
+< "1305.title" = "Create Style";
+---
+> "1305.title" = "スタイルを作成";
+255c255
+< "1307.title" = "Convert to Curves";
+---
+> "1307.title" = "カーブに変換";
+258c258
+< "1310.title" = "Place…";
+---
+> "1310.title" = "配置…";
+261c261
+< "1315.title" = "Snapping…";
+---
+> "1315.title" = "スナップ…";
+264c264
+< "1325.title" = "Paste Style";
+---
+> "1325.title" = "スタイルをペースト";
+267c267
+< "1329.title" = "Zoom In";
+---
+> "1329.title" = "ズームイン";
+270c270
+< "1331.title" = "Zoom Out";
+---
+> "1331.title" = "ズームアウト";
+273c273
+< "1339.title" = "Rasterize…";
+---
+> "1339.title" = "ラスタライズ…";
+276c276
+< "1353.title" = "Views";
+---
+> "1353.title" = "ビュー";
+279c279
+< "1357.title" = "Views";
+---
+> "1357.title" = "ビュー";
+282c282
+< "1362.title" = "View Mode";
+---
+> "1362.title" = "ビューモード";
+285c285
+< "1364.title" = "View Mode";
+---
+> "1364.title" = "ビューモード";
+288c288
+< "1366.title" = "Vector";
+---
+> "1366.title" = "ベクター";
+291c291
+< "1383.title" = "Alternate (Even-Odd)";
+---
+> "1383.title" = "交互(奇数-偶数)";
+294c294
+< "1385.title" = "Fill Mode";
+---
+> "1385.title" = "塗りつぶしモード";
+297c297
+< "1386.title" = "Fill Mode";
+---
+> "1386.title" = "塗りつぶしモード";
+300c300
+< "1390.title" = "Winding (Non-Zero)";
+---
+> "1390.title" = "ワインディング(非ゼロ)";
+303c303
+< "1457.title" = "Show Rulers";
+---
+> "1457.title" = "ルーラーを表示";
+306c306
+< "1464.title" = "Insert Character";
+---
+> "1464.title" = "文字を挿入";
+309c309
+< "1465.title" = "Insert Character";
+---
+> "1465.title" = "文字を挿入";
+312c312
+< "1466.title" = "Line Break";
+---
+> "1466.title" = "改行";
+315c315
+< "1467.title" = "Em Space";
+---
+> "1467.title" = "全角スペース";
+318c318
+< "1468.title" = "En Space";
+---
+> "1468.title" = "半角スペース";
+321c321
+< "1469.title" = "Non-Breaking Hyphen";
+---
+> "1469.title" = "分散禁止ハイフン";
+324c324
+< "1470.title" = "Zero-Width Space";
+---
+> "1470.title" = "ゼロ幅スペース";
+327c327
+< "1471.title" = "Soft Hyphen";
+---
+> "1471.title" = "ソフトハイフン";
+330c330
+< "1478.title" = "Non-Breaking Space";
+---
+> "1478.title" = "分散禁止スペース";
+333c333
+< "1520.title" = "Capitalization";
+---
+> "1520.title" = "大文字に変更";
+336c336
+< "1521.title" = "Capitalization";
+---
+> "1521.title" = "大文字に変更";
+339c339
+< "1522.title" = "None";
+---
+> "1522.title" = "なし";
+342c342
+< "1523.title" = "Small Caps";
+---
+> "1523.title" = "スモールキャップス";
+345c345
+< "1524.title" = "All Caps";
+---
+> "1524.title" = "オールキャップス";
+348c348
+< "03H-3G-q2f.title" = "Fill & Stroke Color";
+---
+> "03H-3G-q2f.title" = "塗りつぶし&境界線カラー";
+351c351
+< "0Gn-Ti-FSz.title" = "Pixel Objects";
+---
+> "0Gn-Ti-FSz.title" = "ピクセルオブジェクト";
+354c354
+< "0QN-SF-zfs.title" = "Reset Rotation";
+---
+> "0QN-SF-zfs.title" = "回転をリセット";
+357c357
+< "0fT-Sr-Ifk.title" = "Fish Eye";
+---
+> "0fT-Sr-Ifk.title" = "魚眼";
+360c360
+< "0tM-6R-DNP.title" = "Return to Owner…";
+---
+> "0tM-6R-DNP.title" = "所有者に返す…";
+363c363
+< "1Ag-BQ-9Se.title" = "Last Used";
+---
+> "1Ag-BQ-9Se.title" = "最後の使用";
+366c366
+< "1D2-kr-6j6.title" = "Select Parent";
+---
+> "1D2-kr-6j6.title" = "親を選択";
+369c369
+< "1FW-iW-Qrj.title" = "Close All";
+---
+> "1FW-iW-Qrj.title" = "すべて閉じる";
+372c372
+< "1Xp-ax-Yd8.title" = "Set No Paragraph Style";
+---
+> "1Xp-ax-Yd8.title" = "段落スタイルなしを設定";
+375c375
+< "1cY-eD-FYh.title" = "Ignore Text Wraps";
+---
+> "1cY-eD-FYh.title" = "テキストの回り込みを無視";
+378c378
+< "1fK-86-ju6.title" = "Move Back One";
+---
+> "1fK-86-ju6.title" = "背面へ";
+381c381
+< "25J-yS-Kiu.title" = "Send To…";
+---
+> "25J-yS-Kiu.title" = "送信先…";
+384c384
+< "28B-UL-jS6.title" = "Delete Unused Styles";
+---
+> "28B-UL-jS6.title" = "未使用のスタイルを削除";
+387c387
+< "2DS-OJ-9gj.title" = "Paste Inside";
+---
+> "2DS-OJ-9gj.title" = "内側にペースト";
+390c390
+< "2K7-fY-819.title" = "Crash";
+---
+> "2K7-fY-819.title" = "クラッシュ";
+393c393
+< "2Vd-C7-OhK.title" = "Edit in Photo…";
+---
+> "2Vd-C7-OhK.title" = "Photoで編集…";
+396c396
+< "2Xc-mb-2dz.title" = "Unlock All";
+---
+> "2Xc-mb-2dz.title" = "すべてロック解除";
+399c399
+< "2cA-Ot-DPA.title" = "Create Symbol";
+---
+> "2cA-Ot-DPA.title" = "シンボルを作成";
+402c402
+< "2oN-9E-54c.title" = "Recolor…";
+---
+> "2oN-9E-54c.title" = "リカラー…";
+405c405
+< "2pa-27-3IL.title" = "Less (or Equal)";
+---
+> "2pa-27-3IL.title" = "以下";
+408c408
+< "33O-rq-hBH.title" = "Insert Filler Text";
+---
+> "33O-rq-hBH.title" = "フィラーテキストを挿入";
+411c411
+< "3E2-hB-5Oh.title" = "Visit Affinity Spotlight";
+---
+> "3E2-hB-5Oh.title" = "Affinity Spotlightに移動";
+414c414
+< "3N7-OT-Jpe.title" = "Select Hidden Objects";
+---
+> "3N7-OT-Jpe.title" = "非表示のオブジェクトを選択";
+417c417
+< "3PK-kV-rhH.title" = "Text Styles";
+---
+> "3PK-kV-rhH.title" = "テキストスタイル";
+420c420
+< "3x7-NM-FhS.title" = "Resource Manager...";
+---
+> "3x7-NM-FhS.title" = "リソースマネージャー...";
+423c423
+< "4Bb-8z-B0H.title" = "Grayscale";
+---
+> "4Bb-8z-B0H.title" = "グレースケール";
+426c426
+< "4FN-26-KZw.title" = "Transform";
+---
+> "4FN-26-KZw.title" = "変形";
+429c429
+< "4Id-nX-N7H.title" = "Tight";
+---
+> "4Id-nX-N7H.title" = "狭い";
+432c432
+< "4Jc-Wo-kBd.title" = "Lower Baseline";
+---
+> "4Jc-Wo-kBd.title" = "ベースラインを下げる";
+435c435
+< "4Jt-hw-bJu.title" = "Strikeout";
+---
+> "4Jt-hw-bJu.title" = "打ち消し線";
+438c438
+< "4Ju-Bm-gPf.title" = "Greater (or Equal)";
+---
+> "4Ju-Bm-gPf.title" = "以上";
+441c441
+< "4Rx-il-gRN.title" = "Precise Bigger";
+---
+> "4Rx-il-gRN.title" = "厳密な拡大";
+444c444
+< "4rG-6L-t5v.title" = "Collapse All in Layers Panel";
+---
+> "4rG-6L-t5v.title" = "レイヤーパネルですべて折りたたむ";
+447c447
+< "4ty-1I-i2t.title" = "Spread Setup…";
+---
+> "4ty-1I-i2t.title" = "スプレッド設定…";
+450c450
+< "4y3-gR-cgv.title" = "Path Text";
+---
+> "4y3-gR-cgv.title" = "パステキスト";
+453c453
+< "57V-hj-fNT.title" = "Less";
+---
+> "57V-hj-fNT.title" = "未満";
+456c456
+< "57y-UG-He6.title" = "More…";
+---
+> "57y-UG-He6.title" = "その他…";
+459c459
+< "5Jc-FA-nGp.title" = "Alignment";
+---
+> "5Jc-FA-nGp.title" = "行揃え";
+462c462
+< "5W5-ef-wZS.title" = "Wireframe";
+---
+> "5W5-ef-wZS.title" = "ワイヤーフレーム";
+465c465
+< "5nI-p6-hYu.title" = "Add";
+---
+> "5nI-p6-hYu.title" = "追加";
+471c471
+< "5vY-2i-N05.title" = "Flip Vertical";
+---
+> "5vY-2i-N05.title" = "上下反転";
+474c474
+< "67w-fZ-emw.title" = "Height";
+---
+> "67w-fZ-emw.title" = "高さ";
+477c477
+< "6JT-zO-nw1.title" = "What's New";
+---
+> "6JT-zO-nw1.title" = "${PRODUCT_NAME}の最新情報";
+480c480
+< "6WR-iC-VYu.title" = "Publisher Persona";
+---
+> "6WR-iC-VYu.title" = "Publisherペルソナ";
+483c483
+< "6mz-fo-lZk.title" = "Equal";
+---
+> "6mz-fo-lZk.title" = "等しい";
+486c486
+< "7Ru-0w-rUG.title" = "Show Column Guides";
+---
+> "7Ru-0w-rUG.title" = "カラムガイドを表示";
+489c489
+< "7ef-qq-INZ.title" = "Studio";
+---
+> "7ef-qq-INZ.title" = "スタジオ";
+492c492
+< "7lg-Xj-Nqc.title" = "Synchronize from Selection";
+---
+> "7lg-Xj-Nqc.title" = "選択範囲から同期";
+495c495
+< "7qR-Uq-p4B.title" = "Width";
+---
+> "7qR-Uq-p4B.title" = "幅";
+498c498
+< "82H-vD-VqR.title" = "Show Context Toolbar";
+---
+> "82H-vD-VqR.title" = "コンテキストツールバーを表示";
+501c501
+< "83W-2Y-rL5.title" = "Precise Decrease";
+---
+> "83W-2Y-rL5.title" = "厳密な縮小";
+504c504
+< "86E-yX-Rtm.title" = "Paste FX";
+---
+> "86E-yX-Rtm.title" = "エフェクトをペースト";
+507c507
+< "8PK-Bh-XtU.title" = "My Account…";
+---
+> "8PK-Bh-XtU.title" = "マイアカウント...";
+510c510
+< "8VB-ec-NxX.title" = "Import Content…";
+---
+> "8VB-ec-NxX.title" = "コンテンツをインポート…";
+513c513
+< "8XZ-3F-J7Q.title" = "Color Balance…";
+---
+> "8XZ-3F-J7Q.title" = "カラーバランス…";
+516c516
+< "8Zv-Bg-xT2.title" = "Paragraph Leading";
+---
+> "8Zv-Bg-xT2.title" = "段落の行送り";
+519c519
+< "8dw-aH-pr7.title" = "Select All on Current Layer";
+---
+> "8dw-aH-pr7.title" = "現在のレイヤーにあるすべてを選択";
+522c522
+< "8nY-ha-31n.title" = "Distribute Horizontally";
+---
+> "8nY-ha-31n.title" = "水平方向に均等配置";
+525c525
+< "95v-qm-PSW.title" = "YouTube Creative Sessions";
+---
+> "95v-qm-PSW.title" = "YouTubeクリエイティブセッション";
+528c528
+< "9DK-kK-Ag2.title" = "Figure Dash";
+---
+> "9DK-kK-Ag2.title" = "フィギュアダッシュ";
+531c531
+< "9sI-hO-Md4.title" = "Align Center";
+---
+> "9sI-hO-Md4.title" = "中央揃え";
+534c534
+< "9vl-Fq-6Gi.title" = "Less (or Equal)";
+---
+> "9vl-Fq-6Gi.title" = "以下";
+537c537
+< "9w8-n8-uYP.title" = "Add Preset…";
+---
+> "9w8-n8-uYP.title" = "プリセットを追加…";
+540c540
+< "9zQ-Cn-yqa.title" = "Align Top";
+---
+> "9zQ-Cn-yqa.title" = "上揃え";
+543c543
+< "A5T-yU-cZR.title" = "New Pixel Layer";
+---
+> "A5T-yU-cZR.title" = "新規ピクセルレイヤー";
+546c546
+< "AVQ-lj-f4d.title" = "Reapply Base Styles";
+---
+> "AVQ-lj-f4d.title" = "ベーススタイルを再適用";
+549c549
+< "An6-fu-Y1p.title" = "Clip to Canvas";
+---
+> "An6-fu-Y1p.title" = "キャンバスに合わせてクリップ";
+552c552
+< "B7B-su-xmv.title" = "Delete Paragraph Style";
+---
+> "B7B-su-xmv.title" = "段落スタイルを削除";
+555c555
+< "BGh-pS-GJv.title" = "Twist";
+---
+> "BGh-pS-GJv.title" = "ツイスト";
+558c558
+< "BdS-BV-67N.title" = "Less";
+---
+> "BdS-BV-67N.title" = "未満";
+561c561
+< "Ble-xh-JDc.title" = "Frame Text";
+---
+> "Ble-xh-JDc.title" = "フレームテキスト";
+564c564
+< "Bpk-Xm-rEK.title" = "Insertion";
+---
+> "Bpk-Xm-rEK.title" = "挿入";
+567c567
+< "CNR-fc-huC.title" = "Lock Guides";
+---
+> "CNR-fc-huC.title" = "ガイドをロック";
+570c570
+< "CRc-Cr-N5j.title" = "New from Clipboard";
+---
+> "CRc-Cr-N5j.title" = "クリップボードから新規作成";
+573c573
+< "CTb-NC-gUj.title" = "Check Spelling";
+---
+> "CTb-NC-gUj.title" = "スペルチェック";
+576c576
+< "CfD-Er-w2q.title" = "Split View";
+---
+> "CfD-Er-w2q.title" = "分割表示";
+579c579
+< "Crq-Tz-Jvc.title" = "Top";
+---
+> "Crq-Tz-Jvc.title" = "上";
+582c582
+< "CvI-D0-ERa.title" = "Default";
+---
+> "CvI-D0-ERa.title" = "デフォルト";
+585c585
+< "D2v-ID-xc2.title" = "Select";
+---
+> "D2v-ID-xc2.title" = "選択";
+588c588
+< "D6J-cR-LeQ.title" = "Normals…";
+---
+> "D6J-cR-LeQ.title" = "法線…";
+591c591
+< "DEg-VF-zkA.title" = "Release Compound";
+---
+> "DEg-VF-zkA.title" = "複合オブジェクトを解除";
+594c594
+< "DQu-pg-wSH.title" = "Select Object";
+---
+> "DQu-pg-wSH.title" = "オブジェクトを選択";
+597c597
+< "Deb-5h-lTl.title" = "Text Wrap";
+---
+> "Deb-5h-lTl.title" = "テキストの回り込み";
+600c600
+< "Dfj-0Q-5ey.title" = "Select Previous";
+---
+> "Dfj-0Q-5ey.title" = "前の要素を選択";
+603c603
+< "DiQ-1J-IMB.title" = "Arrange";
+---
+> "DiQ-1J-IMB.title" = "重ね順";
+606c606
+< "E1K-4B-oHB.title" = "Preview Mode";
+---
+> "E1K-4B-oHB.title" = "プレビューモード";
+609c609
+< "EBM-9c-AS6.title" = "Insertion";
+---
+> "EBM-9c-AS6.title" = "挿入";
+612c612
+< "EbZ-iH-4tu.title" = "Space Horizontally";
+---
+> "EbZ-iH-4tu.title" = "水平方向に等間隔配置";
+615c615
+< "Eig-Wp-DUQ.title" = "Expand Field";
+---
+> "Eig-Wp-DUQ.title" = "フィールドを展開";
+618c618
+< "F5b-Qs-TxU.title" = "Inside";
+---
+> "F5b-Qs-TxU.title" = "内側";
+621c621
+< "Fcg-OK-m5D.title" = "Zoom";
+---
+> "Fcg-OK-m5D.title" = "ズーム";
+624c624
+< "FyW-SF-wKx.title" = "Video Tutorials";
+---
+> "FyW-SF-wKx.title" = "ビデオチュートリアル";
+627c627
+< "GHj-zp-CnA.title" = "Bend - Horizontal";
+---
+> "GHj-zp-CnA.title" = "曲げ - 水平";
+630c630
+< "GMY-ne-IEz.title" = "Justify Left";
+---
+> "GMY-ne-IEz.title" = "均等配置(最終行左揃え)";
+633c633
+< "Gc7-1c-IPY.title" = "Detach and Delete All Styles";
+---
+> "Gc7-1c-IPY.title" = "すべてのスタイルを切り離して削除";
+636c636
+< "Gfb-Y7-eoF.title" = "Layer";
+---
+> "Gfb-Y7-eoF.title" = "レイヤー";
+639c639
+< "HAT-In-9Up.title" = "En Dash";
+---
+> "HAT-In-9Up.title" = "半角ダッシュ";
+642c642
+< "HWg-sJ-H8l.title" = "Export as Template…";
+---
+> "HWg-sJ-H8l.title" = "テンプレートとして書き出し...";
+645c645
+< "HdA-fP-H3D.title" = "Paragraph Leading";
+---
+> "HdA-fP-H3D.title" = "段落の行送り";
+648c648
+< "HgB-ps-CKb.title" = "Stroke Color";
+---
+> "HgB-ps-CKb.title" = "境界線カラー";
+651c651
+< "HuU-Hn-ZOl.title" = "Geometry";
+---
+> "HuU-Hn-ZOl.title" = "ジオメトリ";
+654c654
+< "Ikm-qI-xr4.title" = "Select Object";
+---
+> "Ikm-qI-xr4.title" = "オブジェクトを選択";
+657c657
+< "Ite-wP-CRS.title" = "Decrease";
+---
+> "Ite-wP-CRS.title" = "縮小";
+660c660
+< "JFh-gc-Rav.title" = "Intersect";
+---
+> "JFh-gc-Rav.title" = "交差";
+663c663
+< "Jhq-5D-oac.title" = "Convert to Art Text";
+---
+> "Jhq-5D-oac.title" = "アートテキストに変換";
+666c666
+< "JjC-RP-On1.title" = "Select";
+---
+> "JjC-RP-On1.title" = "選択";
+669c669
+< "JmB-re-qgo.title" = "Import Text Styles…";
+---
+> "JmB-re-qgo.title" = "テキストスタイルをインポート…";
+672c672
+< "JpD-gZ-8Rh.title" = "Artboards";
+---
+> "JpD-gZ-8Rh.title" = "アートボード";
+675c675
+< "K9S-F2-SAt.title" = "Move to Front";
+---
+> "K9S-F2-SAt.title" = "最前面に移動";
+678c678
+< "KoK-K1-FV0.title" = "Rotate Right";
+---
+> "KoK-K1-FV0.title" = "右に回転";
+681c681
+< "Kss-By-7ox.title" = "New Layer";
+---
+> "Kss-By-7ox.title" = "新規レイヤー";
+684c684
+< "L5K-hB-Gxi.title" = "New from Last Preset…";
+---
+> "L5K-hB-Gxi.title" = "最後のプリセットから新規作成…";
+687c687
+< "L78-oO-bVh.title" = "Rotate Left";
+---
+> "L78-oO-bVh.title" = "左に回転";
+690c690
+< "LDo-1g-Kye.title" = "Show";
+---
+> "LDo-1g-Kye.title" = "表示";
+693c693
+< "LG2-Vy-mDL.title" = "Name";
+---
+> "LG2-Vy-mDL.title" = "名前";
+696c696
+< "LHT-vN-UZy.title" = "Brightness / Contrast…";
+---
+> "LHT-vN-UZy.title" = "明るさ/コントラスト…";
+699c699
+< "LIr-zN-cde.title" = "Hairline";
+---
+> "LIr-zN-cde.title" = "細線";
+702c702
+< "Lbs-Rh-6Mh.title" = "Split Toning…";
+---
+> "Lbs-Rh-6Mh.title" = "明暗別色補正…";
+705c705
+< "Lj6-oc-PhE.title" = "Hide Studio";
+---
+> "Lj6-oc-PhE.title" = "スタジオを非表示";
+708c708
+< "LjP-sQ-hPg.title" = "Photo Persona";
+---
+> "LjP-sQ-hPg.title" = "Photoペルソナ";
+711c711
+< "LrI-M7-J3t.title" = "Mesh";
+---
+> "LrI-M7-J3t.title" = "メッシュ";
+714c714
+< "LyZ-It-qgA.title" = "Geometry";
+---
+> "LyZ-It-qgA.title" = "ジオメトリ";
+717c717
+< "MIw-A1-LZ3.title" = "Constrained Objects";
+---
+> "MIw-A1-LZ3.title" = "制約付きオブジェクト";
+720c720
+< "MPh-xh-zNq.title" = "None";
+---
+> "MPh-xh-zNq.title" = "なし";
+723c723
+< "MZn-yx-s0R.title" = "Undashed Objects";
+---
+> "MZn-yx-s0R.title" = "破線なしオブジェクト";
+726c726
+< "NLI-fE-Ayx.title" = "Space Vertically";
+---
+> "NLI-fE-Ayx.title" = "垂直方向に等間隔配置";
+729c729
+< "NNU-8b-jeZ.title" = "Greater";
+---
+> "NNU-8b-jeZ.title" = "より大きい";
+732c732
+< "NVd-R0-tUN.title" = "Float View to Window";
+---
+> "NVd-R0-tUN.title" = "ウィンドウにフロート表示";
+735c735
+< "NYG-YC-JLd.title" = "Create Character Style";
+---
+> "NYG-YC-JLd.title" = "文字スタイルを作成";
+738c738
+< "Oll-Tu-Xib.title" = "Tighten More";
+---
+> "Oll-Tu-Xib.title" = "さらに狭める";
+741c741
+< "P3r-1H-plh.title" = "Align Right";
+---
+> "P3r-1H-plh.title" = "右揃え";
+744c744
+< "P9A-9g-GJV.title" = "Curves…";
+---
+> "P9A-9g-GJV.title" = "カーブ…";
+747c747
+< "PHF-sc-jzi.title" = "Single View";
+---
+> "PHF-sc-jzi.title" = "シングルビュー";
+750c750
+< "PPW-Zn-dZ9.title" = "Divide";
+---
+> "PPW-Zn-dZ9.title" = "除算";
+756c756
+< "Pdf-BG-vv1.title" = "Arrange";
+---
+> "Pdf-BG-vv1.title" = "重ね順";
+759c759
+< "Q7Q-BH-2nH.title" = "Revert";
+---
+> "Q7Q-BH-2nH.title" = "復元";
+762c762
+< "QAM-Fe-5UN.title" = "Pixel Persona";
+---
+> "QAM-Fe-5UN.title" = "ピクセルペルソナ";
+765c765
+< "QsI-a3-XdF.title" = "Precise Lower Baseline";
+---
+> "QsI-a3-XdF.title" = "ベースラインを厳密に下げる";
+768c768
+< "RBt-gf-Am1.title" = "Align Bottom";
+---
+> "RBt-gf-Am1.title" = "下揃え";
+771c771
+< "REy-uC-1gq.title" = "Update Paragraph Style";
+---
+> "REy-uC-1gq.title" = "段落スタイルを更新";
+774c774
+< "RM3-3p-ykK.title" = "Greater (or Equal)";
+---
+> "RM3-3p-ykK.title" = "以上";
+777c777
+< "RQ7-0O-s0j.title" = "Images";
+---
+> "RQ7-0O-s0j.title" = "画像";
+783c783
+< "Rgl-aj-iJ1.title" = "Vertical Alignment";
+---
+> "Rgl-aj-iJ1.title" = "垂直方向揃え";
+786c786
+< "RzY-bE-zWl.title" = "Remove Inner Curves";
+---
+> "RzY-bE-zWl.title" = "内側のカーブを削除";
+789c789
+< "S46-Lh-2FU.title" = "Gradient Map…";
+---
+> "S46-Lh-2FU.title" = "グラデーションマップ…";
+792c792
+< "S5T-is-gKS.title" = "X-ray";
+---
+> "S5T-is-gKS.title" = "X線";
+795c795
+< "SPJ-mB-QtS.title" = "Intersect (Compound)";
+---
+> "SPJ-mB-QtS.title" = "交差(複合)";
+798c798
+< "Sf9-Lg-Lwe.title" = "Guides…";
+---
+> "Sf9-Lg-Lwe.title" = "ガイド…";
+801c801
+< "Shc-p4-Cjj.title" = "Zoom to Width";
+---
+> "Shc-p4-Cjj.title" = "幅に合わせてズーム";
+804c804
+< "Snu-Lp-OX8.title" = "Opaque Objects";
+---
+> "Snu-Lp-OX8.title" = "不透明オブジェクト";
+807c807
+< "SzY-r2-WSv.title" = "Perspective";
+---
+> "SzY-r2-WSv.title" = "パースペクティブ";
+810c810
+< "T3o-pw-aPm.title" = "Debug";
+---
+> "T3o-pw-aPm.title" = "デバッグ";
+813c813
+< "T5D-a2-SS7.title" = "Reset Studio";
+---
+> "T5D-a2-SS7.title" = "スタジオをリセット";
+816c816
+< "TJM-fO-qnP.title" = "Exposure…";
+---
+> "TJM-fO-qnP.title" = "露出…";
+819c819
+< "TPM-Bu-G1n.title" = "Raise Baseline";
+---
+> "TPM-Bu-G1n.title" = "ベースラインを上げる";
+822c822
+< "UB3-iW-qSw.title" = "${PRODUCT_NAME} Learning Portal";
+---
+> "UB3-iW-qSw.title" = "${PRODUCT_NAME}学習ポータル";
+825c825
+< "UUc-Jq-IdK.title" = "Duplicate Linked";
+---
+> "UUc-Jq-IdK.title" = "リンク複製";
+828c828
+< "Ulj-Mn-Oyg.title" = "Shapes";
+---
+> "Ulj-Mn-Oyg.title" = "シェイプ";
+831c831
+< "VM8-Tz-3iO.title" = "Share";
+---
+> "VM8-Tz-3iO.title" = "共有";
+834c834
+< "VQj-RS-qy7.title" = "Precise Smaller";
+---
+> "VQj-RS-qy7.title" = "厳密な縮小";
+837c837
+< "VRS-AG-xkz.title" = "Set No Character Style";
+---
+> "VRS-AG-xkz.title" = "文字スタイルなしを設定";
+840c840
+< "VdO-cR-ZME.title" = "Fill Holes";
+---
+> "VdO-cR-ZME.title" = "穴を塗りつぶす";
+843c843
+< "VmM-8g-VbQ.title" = "Invert Pixel Selection";
+---
+> "VmM-8g-VbQ.title" = "ピクセル選択範囲を反転";
+846c846
+< "Vql-C1-zUW.title" = "Closed Curves";
+---
+> "Vql-C1-zUW.title" = "閉じたカーブ";
+849c849
+< "W8b-dY-eJw.title" = "Document Info";
+---
+> "W8b-dY-eJw.title" = "ドキュメント情報";
+852c852
+< "WDl-dG-mYt.title" = "Rotate Right";
+---
+> "WDl-dG-mYt.title" = "右に回転";
+855c855
+< "Wh6-4W-cyG.title" = "Shadows / Highlights…";
+---
+> "Wh6-4W-cyG.title" = "シャドウ/ハイライト…";
+858c858
+< "Wxr-K3-Xb3.title" = "Bigger";
+---
+> "Wxr-K3-Xb3.title" = "拡大";
+861c861
+< "X9V-N1-aE0.title" = "Groups";
+---
+> "X9V-N1-aE0.title" = "グループ";
+864c864
+< "Xee-W0-2Tr.title" = "Export Persona";
+---
+> "Xee-W0-2Tr.title" = "書き出しペルソナ";
+867c867
+< "Xem-8c-abs.title" = "Apple Color Picker...";
+---
+> "Xem-8c-abs.title" = "Appleカラーピッカー...";
+870c870
+< "Xnq-Dr-A25.title" = "Hide Others";
+---
+> "Xnq-Dr-A25.title" = "他を隠す";
+876c876
+< "YBk-ac-ZfK.title" = "Transparent Objects";
+---
+> "YBk-ac-ZfK.title" = "透明オブジェクト";
+879c879
+< "Ydf-xe-VEc.title" = "Transform";
+---
+> "Ydf-xe-VEc.title" = "変形";
+882c882
+< "YgC-61-e1F.title" = "Select Hidden Objects";
+---
+> "YgC-61-e1F.title" = "非表示のオブジェクトを選択";
+885c885
+< "YtA-uY-CIR.title" = "Toggle UI";
+---
+> "YtA-uY-CIR.title" = "UI切り替え";
+888c888
+< "ZRj-rc-TaP.title" = "Edit in Publisher…";
+---
+> "ZRj-rc-TaP.title" = "Publisherで編集…";
+891c891
+< "ZZg-bf-a2h.title" = "Justify";
+---
+> "ZZg-bf-a2h.title" = "両端揃え";
+894c894
+< "aCZ-ah-OSm.title" = "Cut Curves with Key Object";
+---
+> "aCZ-ah-OSm.title" = "キーオブジェクトでカーブを切断";
+897c897
+< "aKF-Bo-uSE.title" = "Reapply Text Styles";
+---
+> "aKF-Bo-uSE.title" = "テキストスタイルを再適用";
+900c900
+< "aRg-Mr-7xd.title" = "Studio";
+---
+> "aRg-Mr-7xd.title" = "スタジオ";
+903c903
+< "aSV-Y9-3AP.title" = "Curves";
+---
+> "aSV-Y9-3AP.title" = "カーブ";
+906c906
+< "aWy-W9-qvH.title" = "Show Special Characters";
+---
+> "aWy-W9-qvH.title" = "特殊文字を表示";
+909c909
+< "acD-08-8qg.title" = "Merge Curves";
+---
+> "acD-08-8qg.title" = "カーブを結合";
+912c912
+< "anP-wt-8Zb.title" = "Mask to Below";
+---
+> "anP-wt-8Zb.title" = "下のレイヤーにマスクを使用";
+915c915
+< "awr-i5-fcw.title" = "Distribute Vertically";
+---
+> "awr-i5-fcw.title" = "垂直方向に均等配置";
+918c918
+< "ays-zs-F3b.title" = "Reveal in Finder";
+---
+> "ays-zs-F3b.title" = "Finderで表示";
+921c921
+< "bWR-Jk-I5e.title" = "Quad";
+---
+> "bWR-Jk-I5e.title" = "クアッド";
+924c924
+< "bbH-KR-aQE.title" = "Move to Next View Point";
+---
+> "bbH-KR-aQE.title" = "次のビューポイントに移動";
+927c927
+< "bqn-df-XTc.title" = "Cycle Selection Box";
+---
+> "bqn-df-XTc.title" = "選択ボックスを切り替え";
+930c930
+< "bsJ-It-5zZ.title" = "Invert";
+---
+> "bsJ-It-5zZ.title" = "反転";
+933c933
+< "bvT-3L-fX5.title" = "Save";
+---
+> "bvT-3L-fX5.title" = "保存";
+936c936
+< "bzi-jw-WXn.title" = "Increase";
+---
+> "bzi-jw-WXn.title" = "拡大";
+939c939
+< "c3B-E5-JBK.title" = "Threshold…";
+---
+> "c3B-E5-JBK.title" = "しきい値…";
+942c942
+< "cGc-Nf-hdS.title" = "Show Right Studio";
+---
+> "cGc-Nf-hdS.title" = "右のスタジオを表示";
+945c945
+< "cPV-z6-sIE.title" = "Filled Objects";
+---
+> "cPV-z6-sIE.title" = "塗りつぶされたオブジェクト";
+948c948
+< "cZM-eD-ia4.title" = "Warp Group";
+---
+> "cZM-eD-ia4.title" = "ワープグループ";
+951c951
+< "ckN-4d-7vs.title" = "Show All";
+---
+> "ckN-4d-7vs.title" = "すべて表示";
+954c954
+< "cl7-Vi-w36.title" = "Equal";
+---
+> "cl7-Vi-w36.title" = "等しい";
+957c957
+< "clR-2b-X7w.title" = "Add Symbol";
+---
+> "clR-2b-X7w.title" = "シンボルを追加";
+960c960
+< "csY-5B-aHc.title" = "Promote Group to Layer";
+---
+> "csY-5B-aHc.title" = "グループをレイヤーに昇格";
+963c963
+< "d26-dk-aaZ.title" = "Equal";
+---
+> "d26-dk-aaZ.title" = "等しい";
+966c966
+< "dEY-gX-uJE.title" = "Export…";
+---
+> "dEY-gX-uJE.title" = "書き出し…";
+969c969
+< "dFb-fJ-aap.title" = "Manage Studio Presets…";
+---
+> "dFb-fJ-aap.title" = "スタジオプリセットを管理…";
+972c972
+< "dXL-bm-XxD.title" = "Greater";
+---
+> "dXL-bm-XxD.title" = "より大きい";
+975c975
+< "dab-jI-Bnl.title" = "Precise Raise Baseline";
+---
+> "dab-jI-Bnl.title" = "ベースラインを厳密に上げる";
+978c978
+< "dc0-Nt-74U.title" = "Stroke Weight";
+---
+> "dc0-Nt-74U.title" = "境界線の重み";
+981c981
+< "dzx-WR-H4b.title" = "Defaults";
+---
+> "dzx-WR-H4b.title" = "デフォルト";
+984c984
+< "e2t-Rh-Wi3.title" = "Convert Object to Artboard";
+---
+> "e2t-Rh-Wi3.title" = "オブジェクトをアートボードに変換";
+987c987
+< "eEe-yt-o4K.title" = "Spelling Options…";
+---
+> "eEe-yt-o4K.title" = "スペルオプション…";
+990c990
+< "eHP-5e-1ZB.title" = "Convert Artboard to Object";
+---
+> "eHP-5e-1ZB.title" = "アートボードをオブジェクトに変換";
+993c993
+< "eRb-Wh-EQz.title" = "Spelling";
+---
+> "eRb-Wh-EQz.title" = "スペル設定";
+996c996
+< "edl-I2-Ekm.title" = "Expand Stroke";
+---
+> "edl-I2-Ekm.title" = "境界線を展開";
+999c999
+< "eiL-rC-9xr.title" = "Create Compound";
+---
+> "eiL-rC-9xr.title" = "複合オブジェクトを作成";
+1002c1002
+< "fNq-US-qXn.title" = "Text Wrap";
+---
+> "fNq-US-qXn.title" = "テキストの回り込み";
+1005c1005
+< "fVC-AI-mh5.title" = "Top";
+---
+> "fVC-AI-mh5.title" = "上";
+1008c1008
+< "fdX-a5-q2f.title" = "Stroked Objects";
+---
+> "fdX-a5-q2f.title" = "境界線付きオブジェクト";
+1011c1011
+< "ffx-jO-M7o.title" = "Save as Regression Unit";
+---
+> "ffx-jO-M7o.title" = "回帰単位として保存";
+1014c1014
+< "fgx-MX-lXZ.title" = "Dashed Objects";
+---
+> "fgx-MX-lXZ.title" = "破線付きオブジェクト";
+1017c1017
+< "fij-cC-LCH.title" = "Merge All Windows";
+---
+> "fij-cC-LCH.title" = "すべてのウィンドウを結合";
+1020c1020
+< "fj4-Fp-494.title" = "Create Paragraph Style";
+---
+> "fj4-Fp-494.title" = "段落スタイルを作成";
+1023c1023
+< "gKI-Sv-Veu.title" = "Greater (or Equal)";
+---
+> "gKI-Sv-Veu.title" = "以上";
+1026c1026
+< "gVD-Wo-QQs.title" = "Less (or Equal)";
+---
+> "gVD-Wo-QQs.title" = "以下";
+1029c1029
+< "gZ1-YE-Xp4.title" = "Save Text Styles as Default";
+---
+> "gZ1-YE-Xp4.title" = "テキストスタイルをデフォルトとして保存";
+1032c1032
+< "geE-kT-j69.title" = "Justify Right";
+---
+> "geE-kT-j69.title" = "均等配置(最終行右揃え)";
+1035c1035
+< "gm0-Mc-hjK.title" = "Lens Filter…";
+---
+> "gm0-Mc-hjK.title" = "レンズフィルター…";
+1038c1038
+< "gmY-q1-aUV.title" = "Visit Support Forums";
+---
+> "gmY-q1-aUV.title" = "サポートフォーラムに移動";
+1041c1041
+< "h2e-jb-eqj.title" = "Flip Horizontal";
+---
+> "h2e-jb-eqj.title" = "左右反転";
+1044c1044
+< "h3y-2z-Xp8.title" = "Layer";
+---
+> "h3y-2z-Xp8.title" = "レイヤー";
+1047c1047
+< "hDh-Yf-0sK.title" = "Bottom";
+---
+> "hDh-Yf-0sK.title" = "下";
+1050c1050
+< "hWa-Th-0Ac.title" = "Bring All to Front";
+---
+> "hWa-Th-0Ac.title" = "すべて前面に移動";
+1053c1053
+< "hov-rz-dRX.title" = "Align Left";
+---
+> "hov-rz-dRX.title" = "左揃え";
+1056c1056
+< "hww-2Y-KTa.title" = "Defaults";
+---
+> "hww-2Y-KTa.title" = "デフォルト";
+1059c1059
+< "i96-Qy-QHE.title" = "Show Typography";
+---
+> "i96-Qy-QHE.title" = "タイポグラフィを表示";
+1062c1062
+< "iEO-Vh-RiU.title" = "Save History with Document";
+---
+> "iEO-Vh-RiU.title" = "ドキュメントに関する履歴を保存";
+1065c1065
+< "iPg-p2-hpv.title" = "Layer Effects…";
+---
+> "iPg-p2-hpv.title" = "レイヤーエフェクト…";
+1068c1068
+< "iao-Jb-L4Q.title" = "Move Inside";
+---
+> "iao-Jb-L4Q.title" = "内側に移動";
+1071c1071
+< "ilU-Cq-Y38.title" = "Align Middle";
+---
+> "ilU-Cq-Y38.title" = "上下中央揃え";
+1074c1074
+< "ixW-wO-Chb.title" = "Arc - Vertical";
+---
+> "ixW-wO-Chb.title" = "円弧 - 垂直";
+1077c1077
+< "j2n-1l-yXS.title" = "Zoom to Selection";
+---
+> "j2n-1l-yXS.title" = "選択範囲にズーム";
+1080c1080
+< "j4N-zC-ebD.title" = "Use All";
+---
+> "j4N-zC-ebD.title" = "すべて使用";
+1083c1083
+< "jAm-E6-rb4.title" = "Vector Layers";
+---
+> "jAm-E6-rb4.title" = "ベクターレイヤー";
+1086c1086
+< "jBQ-7f-1Rz.title" = "Add (Compound)";
+---
+> "jBQ-7f-1Rz.title" = "追加(複合)";
+1089c1089
+< "jJZ-pa-JcY.title" = "Select Top";
+---
+> "jJZ-pa-JcY.title" = "上を選択";
+1092c1092
+< "jOT-uZ-ODQ.title" = "Pixel Size";
+---
+> "jOT-uZ-ODQ.title" = "ピクセルサイズ";
+1095c1095
+< "jZl-ao-W2J.title" = "Move to Back";
+---
+> "jZl-ao-W2J.title" = "最背面に移動";
+1098c1098
+< "jlm-SR-2pz.title" = "Deselect";
+---
+> "jlm-SR-2pz.title" = "選択解除";
+1101c1101
+< "jww-6e-Ca7.title" = "White Balance…";
+---
+> "jww-6e-Ca7.title" = "ホワイトバランス…";
+1104c1104
+< "k3i-8n-a92.title" = "Select Same";
+---
+> "k3i-8n-a92.title" = "同一を選択";
+1107c1107
+< "k91-tF-Luv.title" = "Warp Group";
+---
+> "k91-tF-Luv.title" = "ワープグループ";
+1110c1110
+< "kUy-YE-X1C.title" = "Move to Previous View Point";
+---
+> "kUy-YE-X1C.title" = "以前のビューポイントに移動";
+1113c1113
+< "kYB-XR-fyN.title" = "New Adjustment";
+---
+> "kYB-XR-fyN.title" = "新規調整";
+1116c1116
+< "kgf-Yg-eTT.title" = "Save As Package…";
+---
+> "kgf-Yg-eTT.title" = "パッケージとして保存…";
+1119c1119
+< "liY-TX-Baf.title" = "Vertical Alignment";
+---
+> "liY-TX-Baf.title" = "垂直方向揃え";
+1122c1122
+< "m00-Q6-rFQ.title" = "Edit in Designer…";
+---
+> "m00-Q6-rFQ.title" = "Designerで編集…";
+1125c1125
+< "mA1-bf-Wmb.title" = "Debug";
+---
+> "mA1-bf-Wmb.title" = "デバッグ";
+1128c1128
+< "mEr-Gt-JDx.title" = "Xor";
+---
+> "mEr-Gt-JDx.title" = "中マド";
+1131c1131
+< "mMk-G7-H6c.title" = "Quickstart Guide";
+---
+> "mMk-G7-H6c.title" = "クィックスタートガイド";
+1134c1134
+< "mhH-Dz-O1z.title" = "Show Left Studio";
+---
+> "mhH-Dz-O1z.title" = "左のスタジオを表示";
+1137c1137
+< "mn9-7n-ayh.title" = "Arc - Horizontal";
+---
+> "mn9-7n-ayh.title" = "円弧 - 水平";
+1140c1140
+< "n04-uf-3Wb.title" = "Convert to Text Frame";
+---
+> "n04-uf-3Wb.title" = "テキストフレームに変換";
+1143c1143
+< "n14-9X-5nw.title" = "Unfilled Objects";
+---
+> "n14-9X-5nw.title" = "塗りつぶされていないオブジェクト";
+1146c1146
+< "nHP-HO-qrf.title" = "Loosen";
+---
+> "nHP-HO-qrf.title" = "拡げる";
+1149c1149
+< "nJ2-Oj-KuC.title" = "Center";
+---
+> "nJ2-Oj-KuC.title" = "中央";
+1152c1152
+< "nKE-2h-R9m.title" = "Pixels (Retina)";
+---
+> "nKE-2h-R9m.title" = "ピクセル(Retina)";
+1155c1155
+< "nKc-4f-DFb.title" = "Posterize…";
+---
+> "nKc-4f-DFb.title" = "ポスタライズ…";
+1158c1158
+< "nSI-W5-nL2.title" = "Art Text";
+---
+> "nSI-W5-nL2.title" = "アートテキスト";
+1161c1161
+< "nWr-NY-sBT.title" = "Select Bottom";
+---
+> "nWr-NY-sBT.title" = "下を選択";
+1164c1164
+< "naX-Yk-epy.title" = "Zoom";
+---
+> "naX-Yk-epy.title" = "ズーム";
+1167c1167
+< "o11-hY-Ori.title" = "Grid and Axis…";
+---
+> "o11-hY-Ori.title" = "グリッドおよび軸…";
+1170c1170
+< "o6L-Kv-Yhr.title" = "Spelling";
+---
+> "o6L-Kv-Yhr.title" = "スペル設定";
+1173c1173
+< "o7f-b4-OTT.title" = "Check Spelling While Typing";
+---
+> "o7f-b4-OTT.title" = "入力中にスペルチェック";
+1176c1176
+< "oGt-tZ-Qx4.title" = "Dock Tools";
+---
+> "oGt-tZ-Qx4.title" = "ツールをドッキング";
+1179c1179
+< "oOY-9c-N1Y.title" = "Rasterize to Mask";
+---
+> "oOY-9c-N1Y.title" = "マスクにラスタライズ";
+1182c1182
+< "oZU-Iw-JFf.title" = "Subtract (Compound)";
+---
+> "oZU-Iw-JFf.title" = "型抜き(複合)";
+1185c1185
+< "oaH-uj-twB.title" = "Factory Reset";
+---
+> "oaH-uj-twB.title" = "出荷時の設定にリセット";
+1188c1188
+< "oli-Ka-mai.title" = "Embedded Documents";
+---
+> "oli-Ka-mai.title" = "埋め込みドキュメント";
+1191c1191
+< "one-1e-Myx.title" = "Save Restricted As… ";
+---
+> "one-1e-Myx.title" = "制約付きの名前を変更して保存… ";
+1194c1194
+< "oxe-6t-ENF.title" = "Size";
+---
+> "oxe-6t-ENF.title" = "サイズ";
+1197c1197
+< "pOo-m1-JCv.title" = "Em Dash";
+---
+> "pOo-m1-JCv.title" = "全角ダッシュ";
+1200c1200
+< "pRA-rt-8gl.title" = "Less";
+---
+> "pRA-rt-8gl.title" = "未満";
+1203c1203
+< "pUA-oB-Kwl.title" = "Show Bleed";
+---
+> "pUA-oB-Kwl.title" = "裁ち落としを表示";
+1206c1206
+< "pWi-eA-dhd.title" = "Find in Layers Panel";
+---
+> "pWi-eA-dhd.title" = "レイヤーパネル内で検索";
+1209c1209
+< "pWq-7Y-iRf.title" = "Rotate Left";
+---
+> "pWq-7Y-iRf.title" = "左に回転";
+1212c1212
+< "paW-gX-CC4.title" = "Justify All";
+---
+> "paW-gX-CC4.title" = "すべての行を均等配置";
+1215c1215
+< "pdf-nZ-azi.title" = "Smaller";
+---
+> "pdf-nZ-azi.title" = "縮小";
+1218c1218
+< "pfV-9I-vOB.title" = "New Adjustment";
+---
+> "pfV-9I-vOB.title" = "新規調整";
+1221c1221
+< "phe-so-vU0.title" = "Symbols";
+---
+> "phe-so-vU0.title" = "シンボル";
+1224c1224
+< "pjJ-hF-rtX.title" = "Size";
+---
+> "pjJ-hF-rtX.title" = "サイズ";
+1227c1227
+< "prU-g4-Oym.title" = "Shape";
+---
+> "prU-g4-Oym.title" = "シェイプ";
+1230c1230
+< "psY-ga-bCc.title" = "Move Forward One";
+---
+> "psY-ga-bCc.title" = "前面へ";
+1233c1233
+< "pz9-1S-cfX.title" = "Alignment";
+---
+> "pz9-1S-cfX.title" = "行揃え";
+1236c1236
+< "qJp-4b-tGJ.title" = "Update Character Style";
+---
+> "qJp-4b-tGJ.title" = "文字スタイルを更新";
+1239c1239
+< "qs3-sj-swt.title" = "Ignore Misspelled Word";
+---
+> "qs3-sj-swt.title" = "スペル誤りの単語を無視";
+1242c1242
+< "qxb-c2-k6D.title" = "Hide";
+---
+> "qxb-c2-k6D.title" = "非表示";
+1245c1245
+< "r7C-jO-2cT.title" = "One Side";
+---
+> "r7C-jO-2cT.title" = "片側";
+1248c1248
+< "rHc-j2-wq4.title" = "Selective Color…";
+---
+> "rHc-j2-wq4.title" = "特定色域…";
+1251c1251
+< "rfD-qh-OcG.title" = "Transparency";
+---
+> "rfD-qh-OcG.title" = "透明度";
+1254c1254
+< "rty-EZ-0iT.title" = "Show Others";
+---
+> "rty-EZ-0iT.title" = "その他を表示";
+1257c1257
+< "sF3-Ce-UTB.title" = "Move Outside";
+---
+> "sF3-Ce-UTB.title" = "外側に移動";
+1263c1263
+< "sgP-L6-NVV.title" = "Separate Curves";
+---
+> "sgP-L6-NVV.title" = "カーブを分離";
+1266c1266
+< "tA5-lK-lyF.title" = "Ungroup All";
+---
+> "tA5-lK-lyF.title" = "すべてグループ解除";
+1269c1269
+< "tW5-K5-ahn.title" = "Show Tools";
+---
+> "tW5-K5-ahn.title" = "ツールを表示";
+1272c1272
+< "tgw-QS-Pn7.title" = "Select Same";
+---
+> "tgw-QS-Pn7.title" = "同一を選択";
+1275c1275
+< "uMi-q5-xx8.title" = "Channel Mixer…";
+---
+> "uMi-q5-xx8.title" = "チャンネルミキサー…";
+1278c1278
+< "uQV-XK-k3k.title" = "Black & White…";
+---
+> "uQV-XK-k3k.title" = "白黒…";
+1281c1281
+< "uys-gy-ZgQ.title" = "Subtract";
+---
+> "uys-gy-ZgQ.title" = "型抜き";
+1284c1284
+< "uzY-xL-U3w.title" = "Tag Color";
+---
+> "uzY-xL-U3w.title" = "タグカラー";
+1287c1287
+< "v2P-6I-jqM.title" = "Blend Mode";
+---
+> "v2P-6I-jqM.title" = "描画モード";
+1290c1290
+< "v2c-h8-gxz.title" = "Vibrance…";
+---
+> "v2c-h8-gxz.title" = "自然な彩度…";
+1293c1293
+< "vKQ-Jf-lan.title" = "Soft Proof…";
+---
+> "vKQ-Jf-lan.title" = "ソフト校正…";
+1296c1296
+< "vRB-xZ-oSi.title" = "Save";
+---
+> "vRB-xZ-oSi.title" = "保存";
+1299c1299
+< "vaS-4t-alL.title" = "Unstroked Objects";
+---
+> "vaS-4t-alL.title" = "境界線なしオブジェクト";
+1302c1302
+< "vg1-3z-4TP.title" = "Fill Color";
+---
+> "vg1-3z-4TP.title" = "塗りつぶしカラー";
+1305c1305
+< "vte-HW-jpR.title" = "Behind";
+---
+> "vte-HW-jpR.title" = "背面";
+1308c1308
+< "wBy-1v-JPW.title" = "Actual Size";
+---
+> "wBy-1v-JPW.title" = "実寸";
+1311c1311
+< "wLu-X4-5Zy.title" = "Check for Updates";
+---
+> "wLu-X4-5Zy.title" = "アップデートの有無をチェック";
+1314c1314
+< "wln-cq-Ueb.title" = "Draw Effects";
+---
+> "wln-cq-Ueb.title" = "エフェクトを描画";
+1317c1317
+< "wm1-sj-IZt.title" = "Outline";
+---
+> "wm1-sj-IZt.title" = "アウトライン";
+1320c1320
+< "xAU-bc-qIX.title" = "Precise Increase";
+---
+> "xAU-bc-qIX.title" = "厳密な拡大";
+1323c1323
+< "xH3-r5-PQY.title" = "Wireframe";
+---
+> "xH3-r5-PQY.title" = "ワイヤーフレーム";
+1326c1326
+< "xLn-eq-kmf.title" = "Share";
+---
+> "xLn-eq-kmf.title" = "共有";
+1329c1329
+< "xNr-O1-3Xp.title" = "Always Show Selection in Layers Panel ";
+---
+> "xNr-O1-3Xp.title" = "選択項目を常にレイヤーパネルに表示 ";
+1332c1332
+< "xfZ-YZ-wa9.title" = "Delete Character Style";
+---
+> "xfZ-YZ-wa9.title" = "文字スタイルを削除";
+1335c1335
+< "xvT-Kv-m60.title" = "Xor (Compound)";
+---
+> "xvT-Kv-m60.title" = "中マド(複合)";
+1338c1338
+< "xyc-WK-KO3.title" = "Select Next";
+---
+> "xyc-WK-KO3.title" = "次の要素を選択";
+1341c1341
+< "yHx-GK-ewa.title" = "Use Default";
+---
+> "yHx-GK-ewa.title" = "デフォルトを使用";
+1344c1344
+< "yR6-Ay-dia.title" = "Paste Without Format";
+---
+> "yR6-Ay-dia.title" = "書式を解除してペースト";
+1347c1347
+< "yer-w8-CeL.title" = "Levels…";
+---
+> "yer-w8-CeL.title" = "レベル…";
+1350c1350
+< "yn9-Kv-EjN.title" = "Bend - Vertical";
+---
+> "yn9-Kv-EjN.title" = "曲げ - 垂直";
+1353c1353
+< "zDf-AA-3ZY.title" = "Greater";
+---
+> "zDf-AA-3ZY.title" = "より大きい";
+1356c1356
+< "zZ2-9t-eDH.title" = "Convert to Text Path";
+---
+> "zZ2-9t-eDH.title" = "テキストパスに変換";
+1359c1359
+< "za0-Gm-PuC.title" = "Rotation";
+---
+> "za0-Gm-PuC.title" = "回転";
+1362c1362
+< "zi0-2J-ff0.title" = "Rename Layer…";
+---
+> "zi0-2J-ff0.title" = "レイヤー名を変更…";
+1368c1368
+< "zwL-Nw-wkx.title" = "Text Styles";
+---
+> "zwL-Nw-wkx.title" = "テキストスタイル";
+1371c1371
+< "zyu-vC-SJu.title" = "Open Curves";
+---
+> "zyu-vC-SJu.title" = "開いたカーブ";

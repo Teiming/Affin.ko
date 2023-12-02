@@ -1,0 +1,58 @@
+1,13c1,2
+< 3c3
+< < "1Bk-c8-6gQ.title" = "White balance:";
+< ---
+< > "1Bk-c8-6gQ.title" = "ホワイトバランス:";
+< 6c6
+< < "BU4-Aw-W9o.title" = "Subtract black level";
+< ---
+< > "BU4-Aw-W9o.title" = "減算ブラックレベル";
+< 9c9
+< < "OKU-sB-PDf.title" = "Inferred";
+< ---
+< > "OKU-sB-PDf.title" = "推測";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSMenuItem"; title = "Camera"; ObjectID = "UQ4-jh-JCY"; */
+16,21c5,8
+< > "UQ4-jh-JCY.title" = "カメラ";
+< 15c15
+< < "VA9-2p-Kcr.title" = "FITS Bayer pattern:";
+< ---
+< > "VA9-2p-Kcr.title" = "FITS Bayerパターン:";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "카메라"; ObjectID = "UQ4-jh-JCY"; */
+> > "UQ4-jh-JCY.title" = "카메라";
+> 17,18c17,18
+> < /* Class = "NSMenuItem"; title = "Default"; ObjectID = "YlV-6h-Hyf"; */
+24,37c11,14
+< > "YlV-6h-Hyf.title" = "デフォルト";
+< 21c21
+< < "ZQY-V2-gws.title" = "Daylight";
+< ---
+< > "ZQY-V2-gws.title" = "夏時間";
+< 27c27
+< < "d8W-VO-zZG.title" = "Demosaic Method:";
+< ---
+< > "d8W-VO-zZG.title" = "デモザイク方法:";
+< 33c33
+< < "diy-ws-lqd.title" = "Master Flat";
+< ---
+< > "diy-ws-lqd.title" = "マスターフラット";
+< 42c42
+---
+> > /* Class = "NSMenuItem"; title = "기본값"; ObjectID = "YlV-6h-Hyf"; */
+> > "YlV-6h-Hyf.title" = "기본값";
+> 41,42c41,42
+> < /* Class = "NSMenuItem"; title = "Monochrome"; ObjectID = "nhq-0u-ePo"; */
+40,44c17,18
+< > "nhq-0u-ePo.title" = "モノクロ";
+< 45c45
+< < "wXW-ED-eEc.title" = "Bilinear";
+< ---
+< > "wXW-ED-eEc.title" = "バイリニア";
+---
+> > /* Class = "NSMenuItem"; title = "단색"; ObjectID = "nhq-0u-ePo"; */
+> > "nhq-0u-ePo.title" = "단색";

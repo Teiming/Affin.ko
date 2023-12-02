@@ -1,0 +1,697 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSButtonCell"; title = "Auto"; ObjectID = "0K6-Ua-XvK"; */
+4,9c5,8
+< > "0K6-Ua-XvK.title" = "自動";
+< 6c6
+< < "1e3-Wz-saZ.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Hyphenation";
+< ---
+< > "1e3-Wz-saZ.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "ハイフネーション";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "자동"; ObjectID = "0K6-Ua-XvK"; */
+> > "0K6-Ua-XvK.title" = "자동";
+> 8,9c8,9
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Character Style"; ObjectID = "1mP-DE-MzA"; */
+12,33c11,14
+< > "1mP-DE-MzA.ibShadowedToolTip" = "文字スタイル";
+< 12c12
+< < "2gU-sP-Sg5.title" = "End characters:";
+< ---
+< > "2gU-sP-Sg5.title" = "終了文字:";
+< 15c15
+< < "3wn-yZ-aOQ.ibShadowedToolTip" = "Maximum Letter Spacing";
+< ---
+< > "3wn-yZ-aOQ.ibShadowedToolTip" = "最大文字間隔";
+< 18c18
+< < "4aw-jh-QGX.ibShadowedToolTip" = "Default Tab Stops";
+< ---
+< > "4aw-jh-QGX.ibShadowedToolTip" = "デフォルトのタブ位置";
+< 21c21
+< < "4is-dF-Hu2.ibShadowedToolTip" = "Minimum Letter Spacing";
+< ---
+< > "4is-dF-Hu2.ibShadowedToolTip" = "最小文字間隔";
+< 24c24
+< < "6Ds-qe-Imm.headerCell.title" = "Position";
+< ---
+< > "6Ds-qe-Imm.headerCell.title" = "位置";
+< 27c27
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "문자 스타일"; ObjectID = "1mP-DE-MzA"; */
+> > "1mP-DE-MzA.ibShadowedToolTip" = "문자 스타일";
+> 26,27c26,27
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6Ix-QO-Aud"; */
+36,41c17,20
+< > "6Ix-QO-Aud.title" = "テキストセル";
+< 30c30
+< < "6Rx-1h-QqN.ibShadowedToolTip" = "Left Indent";
+< ---
+< > "6Rx-1h-QqN.ibShadowedToolTip" = "左インデント";
+< 33c33
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "6Ix-QO-Aud"; */
+> > "6Ix-QO-Aud.title" = "텍스트 셀";
+> 32,33c32,33
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "6Ya-PA-xRD"; */
+44,45c23,26
+< > "6Ya-PA-xRD.ibShadowedToolTip" = "オフセット";
+< 36c36
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "6Ya-PA-xRD"; */
+> > "6Ya-PA-xRD.ibShadowedToolTip" = "편차";
+> 35,36c35,36
+> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "76l-OW-rMe"; */
+48,85c29,32
+< > "76l-OW-rMe.title" = "スタイル:";
+< 39c39
+< < "77v-6g-bto.title" = "Combine identical";
+< ---
+< > "77v-6g-bto.title" = "同一のものを結合";
+< 42c42
+< < "87d-wj-Ytw.ibShadowedToolTip" = "Stop applying the initial word style at any of these characters";
+< ---
+< > "87d-wj-Ytw.ibShadowedToolTip" = "これらの文字のいずれにも頭文字語スタイルの適用を停止";
+< 45c45
+< < "8A0-kd-ciJ.title" = "...";
+< ---
+< > "8A0-kd-ciJ.title" = "…";
+< 48c48
+< < "8Ha-j8-1J4.ibShadowedToolTip" = "Add New Tab Stop";
+< ---
+< > "8Ha-j8-1J4.ibShadowedToolTip" = "新規タブ位置を追加";
+< 51c51
+< < "8Uh-b2-ZiR.ibShadowedToolTip" = "Last Line Outdent";
+< ---
+< > "8Uh-b2-ZiR.ibShadowedToolTip" = "最終行アウトデント";
+< 54c54
+< < "8tM-OH-3WT.title" = "Capital zone:";
+< ---
+< > "8tM-OH-3WT.title" = "大文字ゾーン:";
+< 57c57
+< < "9HW-Qu-UuN.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Tab Stops";
+< ---
+< > "9HW-Qu-UuN.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "タブ位置";
+< 60c60
+< < "9fc-Z1-fcs.ibShadowedToolTip" = "Desired Letter Spacing";
+< ---
+< > "9fc-Z1-fcs.ibShadowedToolTip" = "望ましい文字間隔";
+< 63c63
+< < "A8T-dE-5f5.ibShadowedToolTip" = "Maximum Word Spacing";
+< ---
+< > "A8T-dE-5f5.ibShadowedToolTip" = "最大単語間隔";
+< 66c66
+---
+> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "76l-OW-rMe"; */
+> > "76l-OW-rMe.title" = "스타일:";
+> 65,66c65,66
+> < /* Class = "NSButton"; ibShadowedToolTip = "More"; ObjectID = "AWP-7J-l8M"; */
+88,109c35,38
+< > "AWP-7J-l8M.ibShadowedToolTip" = "その他";
+< 69c69
+< < "B0k-Og-UPy.ibShadowedToolTip" = "Desired Word Spacing";
+< ---
+< > "B0k-Og-UPy.ibShadowedToolTip" = "望ましい単語間隔";
+< 72c72
+< < "BUi-3q-lfC.title" = "Minimum score:";
+< ---
+< > "BUi-3q-lfC.title" = "最小スコア:";
+< 75c75
+< < "BVg-YE-dJY.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Drop Caps";
+< ---
+< > "BVg-YE-dJY.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "ドロップキャップ";
+< 78c78
+< < "CSL-zg-qkG.ibShadowedToolTip" = "Space Between Paragraphs";
+< ---
+< > "CSL-zg-qkG.ibShadowedToolTip" = "段落間のスペース";
+< 81c81
+< < "D2I-Ye-Oap.title" = "Minimum suffix:";
+< ---
+< > "D2I-Ye-Oap.title" = "最小サフィックス:";
+< 84c84
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "더 보기"; ObjectID = "AWP-7J-l8M"; */
+> > "AWP-7J-l8M.ibShadowedToolTip" = "더 보기";
+> 83,84c83,84
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "D8s-kZ-7c9"; */
+112,117c41,44
+< > "D8s-kZ-7c9.ibShadowedToolTip" = "オフセット";
+< 90c90
+< < "DlY-Pm-C7j.title" = "Align to Baseline Grid";
+< ---
+< > "DlY-Pm-C7j.title" = "ベースライングリッドに揃える";
+< 93c93
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "D8s-kZ-7c9"; */
+> > "D8s-kZ-7c9.ibShadowedToolTip" = "편차";
+> 92,93c92,93
+> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "EQC-BO-eA5"; */
+120,125c47,50
+< > "EQC-BO-eA5.title" = "上:";
+< 96c96
+< < "GIo-2m-2OV.ibShadowedToolTip" = "The number of lines of text the drop cap should span";
+< ---
+< > "GIo-2m-2OV.ibShadowedToolTip" = "ドロップキャップを適用するテキストの行数";
+< 99c99
+---
+> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "EQC-BO-eA5"; */
+> > "EQC-BO-eA5.title" = "위쪽:";
+> 98,99c98,99
+> < /* Class = "NSView"; GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Spacing"; ObjectID = "GIv-fL-Kvw"; */
+128,157c53,56
+< > "GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "間隔";
+< 102c102
+< < "HsB-o3-n2n.title" = "Max consecutive hyphens:";
+< ---
+< > "HsB-o3-n2n.title" = "連続するハイフンの最大数:";
+< 105c105
+< < "I0J-zY-9Q4.title" = "Height in lines:";
+< ---
+< > "I0J-zY-9Q4.title" = "高さ(行数):";
+< 108c108
+< < "IOl-vv-3xN.title" = "Keep with next:";
+< ---
+< > "IOl-vv-3xN.title" = "改ページしない:";
+< 111c111
+< < "IQP-Zs-AXm.ibShadowedToolTip" = "Text To Insert";
+< ---
+< > "IQP-Zs-AXm.ibShadowedToolTip" = "挿入するテキスト";
+< 114c114
+< < "IV0-ef-QVb.title" = "Use space before:";
+< ---
+< > "IV0-ef-QVb.title" = "前にスペースを使用:";
+< 117c117
+< < "J4L-9c-Yjh.ibShadowedToolTip" = "List Level";
+< ---
+< > "J4L-9c-Yjh.ibShadowedToolTip" = "リストレベル";
+< 120c120
+< < "JD9-Qt-wUP.ibShadowedToolTip" = "Left Indent";
+< ---
+< > "JD9-Qt-wUP.ibShadowedToolTip" = "左インデント";
+< 123c123
+---
+> > /* Class = "NSView"; GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "간격"; ObjectID = "GIv-fL-Kvw"; */
+> > "GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "간격";
+> 122,123c122,123
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KjM-Kd-6oQ"; */
+160,161c59,62
+< > "KjM-Kd-6oQ.title" = "テキストセル";
+< 126c126
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "KjM-Kd-6oQ"; */
+> > "KjM-Kd-6oQ.title" = "텍스트 셀";
+> 125,126c125,126
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "Kvb-jy-3vn"; */
+164,169c65,68
+< > "Kvb-jy-3vn.ibShadowedToolTip" = "オフセット";
+< 129c129
+< < "LI8-sB-ijB.title" = "Scale for descenders";
+< ---
+< > "LI8-sB-ijB.title" = "ディセンダーに応じてスケール";
+< 132c132
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "Kvb-jy-3vn"; */
+> > "Kvb-jy-3vn.ibShadowedToolTip" = "편차";
+> 131,132c131,132
+> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "Lwi-0R-JHP"; */
+172,197c71,74
+< > "Lwi-0R-JHP.title" = "左:";
+< 135c135
+< < "LzM-29-BXR.title" = "Prevent widowed last lines";
+< ---
+< > "LzM-29-BXR.title" = "最終行の前に改ページをしない";
+< 138c138
+< < "MHI-jP-HFs.title" = "Column end zone:";
+< ---
+< > "MHI-jP-HFs.title" = "段の末尾ゾーン:";
+< 141c141
+< < "MUm-XP-vZx.title" = "Use auto-hyphenation";
+< ---
+< > "MUm-XP-vZx.title" = "自動ハイフネーションを使用";
+< 144c144
+< < "Nld-1A-9o0.ibShadowedToolTip" = "TabStop Indent";
+< ---
+< > "Nld-1A-9o0.ibShadowedToolTip" = "タブ位置インデント";
+< 147c147
+< < "Obr-Y6-BvG.title" = "Relative to";
+< ---
+< > "Obr-Y6-BvG.title" = "基準";
+< 150c150
+< < "Q1B-hS-6Q8.ibShadowedToolTip" = "First Line Indent";
+< ---
+< > "Q1B-hS-6Q8.ibShadowedToolTip" = "先頭行インデント";
+< 153c153
+---
+> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "Lwi-0R-JHP"; */
+> > "Lwi-0R-JHP.title" = "왼쪽:";
+> 152,153c152,153
+> < /* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "QQY-T3-Nr5"; */
+200,201c77,80
+< > "QQY-T3-Nr5.title" = "有効";
+< 156c156
+---
+> > /* Class = "NSButtonCell"; title = "유효한"; ObjectID = "QQY-T3-Nr5"; */
+> > "QQY-T3-Nr5.title" = "유효한";
+> 155,156c155,156
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "QRz-X5-xcQ"; */
+204,217c83,86
+< > "QRz-X5-xcQ.ibShadowedToolTip" = "オフセット";
+< 159c159
+< < "QXM-mg-WeW.ibShadowedToolTip" = "Space After Paragraph";
+< ---
+< > "QXM-mg-WeW.ibShadowedToolTip" = "段落後のスペース";
+< 162c162
+< < "Qg5-TU-Rhg.ibShadowedToolTip" = "Desired Letter Spacing";
+< ---
+< > "Qg5-TU-Rhg.ibShadowedToolTip" = "望ましい文字間隔";
+< 165c165
+< < "ROq-ZC-YHC.ibShadowedToolTip" = "Maximum number of words to apply the initial word style to";
+< ---
+< > "ROq-ZC-YHC.ibShadowedToolTip" = "頭文字語スタイルを適用する最大単語数";
+< 168c168
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "QRz-X5-xcQ"; */
+> > "QRz-X5-xcQ.ibShadowedToolTip" = "편차";
+> 167,168c167,168
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "SJq-1N-9Tn"; */
+220,233c89,92
+< > "SJq-1N-9Tn.ibShadowedToolTip" = "オフセット";
+< 171c171
+< < "SOO-Mi-Swv.ibShadowedToolTip" = "Last Line Outdent";
+< ---
+< > "SOO-Mi-Swv.ibShadowedToolTip" = "最終行アウトデント";
+< 174c174
+< < "T64-lX-SGZ.ibShadowedToolTip" = "Minimum Word Spacing";
+< ---
+< > "T64-lX-SGZ.ibShadowedToolTip" = "最小単語間隔";
+< 177c177
+< < "TK2-YA-YWu.ibShadowedToolTip" = "Maximum Word Spacing";
+< ---
+< > "TK2-YA-YWu.ibShadowedToolTip" = "最大単語間隔";
+< 180c180
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "SJq-1N-9Tn"; */
+> > "SJq-1N-9Tn.ibShadowedToolTip" = "편차";
+> 179,180c179,180
+> < /* Class = "NSTextFieldCell"; title = "Start:"; ObjectID = "UEd-UY-JhR"; */
+236,249c95,98
+< > "UEd-UY-JhR.title" = "開始位置:";
+< 183c183
+< < "UbB-LK-gf7.ibShadowedToolTip" = "List Type";
+< ---
+< > "UbB-LK-gf7.ibShadowedToolTip" = "リストタイプ";
+< 186c186
+< < "Ur2-ts-fNM.ibShadowedToolTip" = "Space Before Paragraph";
+< ---
+< > "Ur2-ts-fNM.ibShadowedToolTip" = "段落前のスペース";
+< 189c189
+< < "V7D-XP-KTg.title" = "Item 1";
+< ---
+< > "V7D-XP-KTg.title" = "アイテム1";
+< 192c192
+---
+> > /* Class = "NSTextFieldCell"; title = "시작:"; ObjectID = "UEd-UY-JhR"; */
+> > "UEd-UY-JhR.title" = "시작:";
+> 191,192c191,192
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VF2-Gj-Nob"; */
+252,253c101,104
+< > "VF2-Gj-Nob.title" = "テキストセル";
+< 195c195
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "VF2-Gj-Nob"; */
+> > "VF2-Gj-Nob.title" = "텍스트 셀";
+> 194,195c194,195
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "Vet-9q-AYy"; */
+256,277c107,110
+< > "Vet-9q-AYy.ibShadowedToolTip" = "オフセット";
+< 198c198
+< < "Vwj-2c-pWw.ibShadowedToolTip" = "Character style to apply to the first words of the paragraph";
+< ---
+< > "Vwj-2c-pWw.ibShadowedToolTip" = "段落の最初の単語に適用する文字スタイル";
+< 201c201
+< < "Wzw-xt-0ww.ibShadowedToolTip" = "Maximum Letter Spacing";
+< ---
+< > "Wzw-xt-0ww.ibShadowedToolTip" = "最大文字間隔";
+< 204c204
+< < "YJo-fs-z86.title" = "Prevent orphaned first lines";
+< ---
+< > "YJo-fs-z86.title" = "先頭行の後に改ページをしない";
+< 207c207
+< < "Yhu-Md-Tz8.title" = "Indent";
+< ---
+< > "Yhu-Md-Tz8.title" = "インデント";
+< 210c210
+< < "ZBz-5Z-e7Q.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Justification";
+< ---
+< > "ZBz-5Z-e7Q.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "ジャスティフィケーション";
+< 213c213
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "Vet-9q-AYy"; */
+> > "Vet-9q-AYy.ibShadowedToolTip" = "편차";
+> 212,213c212,213
+> < /* Class = "NSTextFieldCell"; title = "Stroke:"; ObjectID = "ZqT-Bt-jPR"; */
+280,293c113,116
+< > "ZqT-Bt-jPR.title" = "境界線:";
+< 216c216
+< < "a15-WH-2La.ibShadowedToolTip" = "Leading";
+< ---
+< > "a15-WH-2La.ibShadowedToolTip" = "行送り";
+< 219c219
+< < "a4j-bP-8ge.title" = "Item 2";
+< ---
+< > "a4j-bP-8ge.title" = "アイテム2";
+< 222c222
+< < "are-aK-4Ec.title" = "Minimum prefix:";
+< ---
+< > "are-aK-4Ec.title" = "最小プレフィックス:";
+< 225c225
+---
+> > /* Class = "NSTextFieldCell"; title = "선:"; ObjectID = "ZqT-Bt-jPR"; */
+> > "ZqT-Bt-jPR.title" = "선:";
+> 224,225c224,225
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "c1X-PC-Sng"; */
+296,301c119,122
+< > "c1X-PC-Sng.ibShadowedToolTip" = "オフセット";
+< 228c228
+< < "cTz-uI-oC9.ibShadowedToolTip" = "Space Before Paragraph";
+< ---
+< > "cTz-uI-oC9.ibShadowedToolTip" = "段落前のスペース";
+< 231c231
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "c1X-PC-Sng"; */
+> > "c1X-PC-Sng.ibShadowedToolTip" = "편차";
+> 230,231c230,231
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "df9-XL-y2V"; */
+304,305c125,128
+< > "df9-XL-y2V.ibShadowedToolTip" = "オフセット";
+< 234c234
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "df9-XL-y2V"; */
+> > "df9-XL-y2V.ibShadowedToolTip" = "편차";
+> 233,237c233,234
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "dvR-Rf-Rut"; */
+307,309c130,131
+< ---
+< > "dvR-Rf-Rut.ibShadowedToolTip" = "オフセット";
+< 237c237
+---
+> < 
+> < /* Class = "NSTextFieldCell"; title = "Level:"; ObjectID = "dvc-po-pnF"; */
+312,313c134,137
+< > "dvc-po-pnF.title" = "レベル:";
+< 240c240
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "dvR-Rf-Rut"; */
+> > "dvR-Rf-Rut.ibShadowedToolTip" = "편차";
+> 239,240c236,237
+> < /* Class = "NSTextFieldCell"; title = "Text:"; ObjectID = "eJm-Fp-baZ"; */
+316,317c140,143
+< > "eJm-Fp-baZ.title" = "テキスト:";
+< 243c243
+---
+> > /* Class = "NSTextFieldCell"; title = "레벨:"; ObjectID = "dvc-po-pnF"; */
+> > "dvc-po-pnF.title" = "레벨:";
+> 242,243c239,240
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "f6F-wu-U11"; */
+320,341c146,153
+< > "f6F-wu-U11.ibShadowedToolTip" = "オフセット";
+< 246c246
+< < "gQf-WA-aEk.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Initial Words";
+< ---
+< > "gQf-WA-aEk.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "頭文字語";
+< 249c249
+< < "ggN-IE-Nau.ibShadowedToolTip" = "Paragraph Style";
+< ---
+< > "ggN-IE-Nau.ibShadowedToolTip" = "段落スタイル";
+< 252c252
+< < "h6V-7B-GSl.title" = "Space between same styles:";
+< ---
+< > "h6V-7B-GSl.title" = "同じスタイル間の間隔:";
+< 255c255
+< < "hGe-Zm-wUx.title" = "Tabstop:";
+< ---
+< > "hGe-Zm-wUx.title" = "タブ位置:";
+< 258c258
+< < "hPz-r4-LGc.ibShadowedToolTip" = "Right Indent";
+< ---
+< > "hPz-r4-LGc.ibShadowedToolTip" = "右インデント";
+< 261c261
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트:"; ObjectID = "eJm-Fp-baZ"; */
+> > "eJm-Fp-baZ.title" = "텍스트:";
+> 244a242,244
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "f6F-wu-U11"; */
+> > "f6F-wu-U11.ibShadowedToolTip" = "편차";
+> > 
+> 260,261c260,261
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hR2-AW-5zt"; */
+344,345c156,159
+< > "hR2-AW-5zt.title" = "テキストセル";
+< 264c264
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "hR2-AW-5zt"; */
+> > "hR2-AW-5zt.title" = "텍스트 셀";
+> 263,264c263,264
+> < /* Class = "NSTextFieldCell"; title = "Transparency:"; ObjectID = "hT4-sJ-UM2"; */
+348,373c162,165
+< > "hT4-sJ-UM2.title" = "透明度:";
+< 267c267
+< < "hTz-XO-P1Z.title" = "Sum space before and after";
+< ---
+< > "hTz-XO-P1Z.title" = "前後のスペースの合計";
+< 270c270
+< < "hbC-8h-pm3.title" = "Paragraph end zone:";
+< ---
+< > "hbC-8h-pm3.title" = "段落の末尾ゾーン:";
+< 273c273
+< < "hoT-SR-elU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Decorations";
+< ---
+< > "hoT-SR-elU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "装飾";
+< 276c276
+< < "hzZ-nL-wy4.ibShadowedToolTip" = "Spacing between the drop cap and the adjacent text";
+< ---
+< > "hzZ-nL-wy4.ibShadowedToolTip" = "ドロップキャップと隣接するテキストの間隔";
+< 279c279
+< < "isI-U7-d4u.title" = "Minimum word length:";
+< ---
+< > "isI-U7-d4u.title" = "単語の最小文字数:";
+< 282c282
+< < "ixu-cF-cXN.ibShadowedToolTip" = "Space After Paragraph";
+< ---
+< > "ixu-cF-cXN.ibShadowedToolTip" = "段落後のスペース";
+< 285c285
+---
+> > /* Class = "NSTextFieldCell"; title = "투명도:"; ObjectID = "hT4-sJ-UM2"; */
+> > "hT4-sJ-UM2.title" = "투명도:";
+> 284,285c284,285
+> < /* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "j0S-XL-SgV"; */
+376,377c168,171
+< > "j0S-XL-SgV.title" = "有効";
+< 288c288
+---
+> > /* Class = "NSButtonCell"; title = "유효한"; ObjectID = "j0S-XL-SgV"; */
+> > "j0S-XL-SgV.title" = "유효한";
+> 287,288c287,288
+> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "jqC-kp-Otr"; */
+380,389c174,177
+< > "jqC-kp-Otr.title" = "スタイル:";
+< 291c291
+< < "k0y-nj-h6Z.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Flow Options";
+< ---
+< > "k0y-nj-h6Z.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "流し込みのオプション";
+< 294c294
+< < "kEc-Kj-EbW.title" = "Restart numbering now";
+< ---
+< > "kEc-Kj-EbW.title" = "この位置から番号を振り直す";
+< 297c297
+---
+> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "jqC-kp-Otr"; */
+> > "jqC-kp-Otr.title" = "스타일:";
+> 296,297c296,297
+> < /* Class = "NSButtonCell"; title = "Global"; ObjectID = "kdU-mG-SZd"; */
+392,401c180,183
+< > "kdU-mG-SZd.title" = "グローバル";
+< 300c300
+< < "kjf-yV-FbM.title" = "lines";
+< ---
+< > "kjf-yV-FbM.title" = "行数";
+< 303c303
+< < "l5R-xq-J4b.ibShadowedToolTip" = "Use Space Before";
+< ---
+< > "l5R-xq-J4b.ibShadowedToolTip" = "前にスペースを使用";
+< 306c306
+---
+> > /* Class = "NSButtonCell"; title = "전역"; ObjectID = "kdU-mG-SZd"; */
+> > "kdU-mG-SZd.title" = "전역";
+> 305,306c305,306
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "lNi-Sx-J7J"; */
+404,405c186,189
+< > "lNi-Sx-J7J.ibShadowedToolTip" = "オフセット";
+< 309c309
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "lNi-Sx-J7J"; */
+> > "lNi-Sx-J7J.ibShadowedToolTip" = "편차";
+> 308,309c308,309
+> < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "lSc-oG-AWH"; */
+408,441c192,195
+< > "lSc-oG-AWH.title" = "下:";
+< 312c312
+< < "lvb-0q-YcY.ibShadowedToolTip" = "The number of letters to include";
+< ---
+< > "lvb-0q-YcY.ibShadowedToolTip" = "含める文字数";
+< 315c315
+< < "m0L-r4-3im.ibShadowedToolTip" = "Minimum Letter Spacing";
+< ---
+< > "m0L-r4-3im.ibShadowedToolTip" = "最小文字間隔";
+< 318c318
+< < "mL2-vC-cC1.title" = "Restart numbering:";
+< ---
+< > "mL2-vC-cC1.title" = "番号の振り直し:";
+< 321c321
+< < "mU9-hN-oaq.title" = "Max word count:";
+< ---
+< > "mU9-hN-oaq.title" = "最大単語数:";
+< 324c324
+< < "muS-9F-oOa.ibShadowedToolTip" = "Frame Stroke";
+< ---
+< > "muS-9F-oOa.ibShadowedToolTip" = "フレーム境界線";
+< 327c327
+< < "n5S-7J-MV5.title" = "Name:";
+< ---
+< > "n5S-7J-MV5.title" = "名前:";
+< 333c333
+< < "nru-fG-gQR.title" = "Item 3";
+< ---
+< > "nru-fG-gQR.title" = "アイテム3";
+< 336c336
+< < "nyj-pw-0dr.title" = "Keep with previous paragraph";
+< ---
+< > "nyj-pw-0dr.title" = "前の段落と分離しない";
+< 339c339
+---
+> > /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "lSc-oG-AWH"; */
+> > "lSc-oG-AWH.title" = "아래쪽";
+> 338,339c338,339
+> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "o2j-iO-Tdd"; */
+444,481c198,201
+< > "o2j-iO-Tdd.title" = "タイプ:";
+< 342c342
+< < "oN6-4p-EjF.ibShadowedToolTip" = "Minimum Word Spacing";
+< ---
+< > "oN6-4p-EjF.ibShadowedToolTip" = "最小単語間隔";
+< 345c345
+< < "ocA-MI-M8n.title" = "Keep paragraph together";
+< ---
+< > "ocA-MI-M8n.title" = "段落を分割しない";
+< 348c348
+< < "pBS-3w-vvp.title" = "Align left edge";
+< ---
+< > "pBS-3w-vvp.title" = "左端を揃える";
+< 351c351
+< < "pRr-ZM-SO2.title" = "Distance to text:";
+< ---
+< > "pRr-ZM-SO2.title" = "テキストまでの距離:";
+< 354c354
+< < "q0C-5c-1AK.ibShadowedToolTip" = "First Line Indent";
+< ---
+< > "q0C-5c-1AK.ibShadowedToolTip" = "先頭行インデント";
+< 357c357
+< < "qGJ-IB-XGY.title" = "Leading:";
+< ---
+< > "qGJ-IB-XGY.title" = "行送り:";
+< 360c360
+< < "qNx-Z7-xvg.ibShadowedToolTip" = "Right Indent";
+< ---
+< > "qNx-Z7-xvg.ibShadowedToolTip" = "右インデント";
+< 363c363
+< < "qi1-CL-WuY.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Bullets and Numbering";
+< ---
+< > "qi1-CL-WuY.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "箇条書きと自動番号";
+< 366c366
+< < "qwN-CL-tnl.ibShadowedToolTip" = "Renumber Across Stories";
+< ---
+< > "qwN-CL-tnl.ibShadowedToolTip" = "ストーリー間で番号の付け直し";
+< 369c369
+---
+> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "o2j-iO-Tdd"; */
+> > "o2j-iO-Tdd.title" = "종류:";
+> 368,369c368,369
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "qwS-we-s9s"; */
+484,485c204,207
+< > "qwS-we-s9s.ibShadowedToolTip" = "オフセット";
+< 372c372
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "qwS-we-s9s"; */
+> > "qwS-we-s9s.ibShadowedToolTip" = "편차";
+> 371,372c371,372
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "s5h-NR-VP8"; */
+488,489c210,213
+< > "s5h-NR-VP8.title" = "テキストセル";
+< 375c375
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "s5h-NR-VP8"; */
+> > "s5h-NR-VP8.title" = "텍스트 셀";
+> 374,375c374,375
+> < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "sAS-id-cIj"; */
+492,493c216,219
+< > "sAS-id-cIj.title" = "スタイル:";
+< 378c378
+---
+> > /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "sAS-id-cIj"; */
+> > "sAS-id-cIj.title" = "스타일:";
+> 377,378c377,378
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "uCL-I9-qxs"; */
+496,497c222,225
+< > "uCL-I9-qxs.ibShadowedToolTip" = "オフセット";
+< 381c381
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "uCL-I9-qxs"; */
+> > "uCL-I9-qxs.ibShadowedToolTip" = "편차";
+> 380,381c380,381
+> < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "ulH-wd-5vq"; */
+500,509c228,231
+< > "ulH-wd-5vq.title" = "右:";
+< 384c384
+< < "vDG-9N-osY.title" = "Hyphenation zone:";
+< ---
+< > "vDG-9N-osY.title" = "ハイフネーションゾーン:";
+< 387c387
+< < "vEr-xz-69v.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Baseline Grid";
+< ---
+< > "vEr-xz-69v.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "ベースライングリッド";
+< 390c390
+---
+> > /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "ulH-wd-5vq"; */
+> > "ulH-wd-5vq.title" = "오른쪽:";
+> 389,390c389,390
+> < /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "vny-Th-VYe"; */
+512,513c234,237
+< > "vny-Th-VYe.title" = "塗りつぶし:";
+< 393c393
+---
+> > /* Class = "NSTextFieldCell"; title = "칠:"; ObjectID = "vny-Th-VYe"; */
+> > "vny-Th-VYe.title" = "칠:";
+> 392,393c392,393
+> < /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "vvB-bq-fP3"; */
+516,532c240,241
+< > "vvB-bq-fP3.ibShadowedToolTip" = "オフセット";
+< 396c396
+< < "wGZ-1W-TAr.ibShadowedToolTip" = "Desired Word Spacing";
+< ---
+< > "wGZ-1W-TAr.ibShadowedToolTip" = "望ましい単語間隔";
+< 399c399
+< < "xUq-h4-3nl.ibShadowedToolTip" = "Space After Paragraph";
+< ---
+< > "xUq-h4-3nl.ibShadowedToolTip" = "段落後のスペース";
+< 405c405
+< < "zeE-AD-tAl.title" = "Start numbering at:";
+< ---
+< > "zeE-AD-tAl.title" = "番号付けの開始番号:";
+< 408c408
+< < "zt8-yN-oY2.title" = "Characters:";
+< ---
+< > "zt8-yN-oY2.title" = "文字:";
+---
+> > /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "vvB-bq-fP3"; */
+> > "vvB-bq-fP3.ibShadowedToolTip" = "편차";

@@ -1,0 +1,18 @@
+26,27c26,27
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "22"; */
+< "22.title" = "Close";
+---
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "22"; */
+> "22.title" = "닫기";
+29,30c29,30
+< /* Class = "NSTextFieldCell"; title = "Number of Columns:"; ObjectID = "27"; */
+< "27.title" = "Number of Columns:";
+---
+> /* Class = "NSTextFieldCell"; title = "열 개수:"; ObjectID = "27"; */
+> "27.title" = "열 개수:";
+35,36c35,36
+< /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "31"; */
+< "31.title" = "Reset";
+---
+> /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "31"; */
+> "31.title" = "재설정";

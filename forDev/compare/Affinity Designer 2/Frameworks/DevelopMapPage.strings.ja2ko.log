@@ -1,0 +1,62 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSMenuItem"; title = "Satellite"; ObjectID = "20A-96-OJJ"; */
+4,13c5,8
+< > "20A-96-OJJ.title" = "衛星";
+< 6c6
+< < "4cP-8f-hLh.ibShadowedToolTip" = "Show Points Of Interest";
+< ---
+< > "4cP-8f-hLh.ibShadowedToolTip" = "POIの表示";
+< 9c9
+< < "8Up-0V-dao.ibShadowedToolTip" = "Previous Locations";
+< ---
+< > "8Up-0V-dao.ibShadowedToolTip" = "これまでに表示した場所";
+< 12c12
+---
+> > /* Class = "NSMenuItem"; title = "위성"; ObjectID = "20A-96-OJJ"; */
+> > "20A-96-OJJ.title" = "위성";
+> 11,12c11,12
+> < /* Class = "NSButton"; ibShadowedToolTip = "Show Compass"; ObjectID = "Cd2-PL-Zpp"; */
+16,21c11,14
+< > "Cd2-PL-Zpp.ibShadowedToolTip" = "方位記号の表示";
+< 15c15
+< < "LDx-fg-4Eq.ibShadowedToolTip" = "Locate By Address";
+< ---
+< > "LDx-fg-4Eq.ibShadowedToolTip" = "住所で指定";
+< 18c18
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "나침반 보기"; ObjectID = "Cd2-PL-Zpp"; */
+> > "Cd2-PL-Zpp.ibShadowedToolTip" = "나침반 보기";
+> 17,18c17,18
+> < /* Class = "NSButton"; ibShadowedToolTip = "Show Map Scale"; ObjectID = "Rct-aI-W2x"; */
+24,29c17,20
+< > "Rct-aI-W2x.ibShadowedToolTip" = "マップ縮尺の表示";
+< 21c21
+< < "TWz-R2-MfG.title" = "Hybrid";
+< ---
+< > "TWz-R2-MfG.title" = "ハイブリッド";
+< 24c24
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "지도 배율 보기"; ObjectID = "Rct-aI-W2x"; */
+> > "Rct-aI-W2x.ibShadowedToolTip" = "지도 배율 보기";
+> 23,24c23,24
+> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "cM1-aL-kzR"; */
+32,37c23,26
+< > "cM1-aL-kzR.title" = "標準";
+< 27c27
+< < "h6f-0t-Rho.ibShadowedToolTip" = "Show Zoom Controls";
+< ---
+< > "h6f-0t-Rho.ibShadowedToolTip" = "ズームコントロールの表示";
+< 30c30
+---
+> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "cM1-aL-kzR"; */
+> > "cM1-aL-kzR.title" = "표준";
+> 29,30c29,30
+> < /* Class = "NSButton"; ibShadowedToolTip = "Use Current Location"; ObjectID = "wTJ-Ul-hc7"; */
+40c29,30
+< > "wTJ-Ul-hc7.ibShadowedToolTip" = "現在の場所を使用";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "지금 위치 사용"; ObjectID = "wTJ-Ul-hc7"; */
+> > "wTJ-Ul-hc7.ibShadowedToolTip" = "지금 위치 사용";

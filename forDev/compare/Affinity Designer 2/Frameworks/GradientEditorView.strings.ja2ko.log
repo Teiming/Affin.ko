@@ -1,0 +1,62 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "84"; */
+4,5c5,8
+< > "84.title" = "削除";
+< 6c6
+---
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "84"; */
+> > "84.title" = "지우기";
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "85"; */
+8,9c11,14
+< > "85.title" = "コピー";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "복사"; ObjectID = "85"; */
+> > "85.title" = "복사";
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Insert"; ObjectID = "86"; */
+12,14c17,20
+< > "86.title" = "挿入";
+< 12c12
+< < "100.title" = "Color:";
+---
+> > /* Class = "NSButtonCell"; title = "삽입"; ObjectID = "86"; */
+> > "86.title" = "삽입";
+> 11c11
+> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "100"; */
+16,21c22,24
+< > "100.title" = "カラー:";
+< 15c15
+< < "101.title" = "Gradient Button";
+< ---
+< > "101.title" = "グラデーションボタン";
+< 18c18
+---
+> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "100"; */
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "102"; */
+24,29c27,30
+< > "102.title" = "位置:";
+< 21c21
+< < "103.title" = "Mid Point:";
+< ---
+< > "103.title" = "中間点:";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "102"; */
+> > "102.title" = "위치:";
+> 23,24c23,24
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "104"; */
+32,36c33,34
+< > "104.title" = "不透明度:";
+< 27c27
+< < "133.title" = "Reverse";
+< ---
+< > "133.title" = "反転";
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "104"; */
+> > "104.title" = "불투명도:";

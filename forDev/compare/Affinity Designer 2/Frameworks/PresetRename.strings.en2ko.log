@@ -1,0 +1,24 @@
+2,3c2,3
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "08d-Ns-xUu"; */
+< "08d-Ns-xUu.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "08d-Ns-xUu"; */
+> "08d-Ns-xUu.title" = "취소";
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Rename"; ObjectID = "67K-LN-16B"; */
+< "67K-LN-16B.title" = "Rename";
+---
+> /* Class = "NSButtonCell"; title = "이름 변경"; ObjectID = "67K-LN-16B"; */
+> "67K-LN-16B.title" = "이름 변경";
+8,9c8,9
+< /* Class = "NSWindow"; title = "Rename preset"; ObjectID = "CHo-O7-99J"; */
+< "CHo-O7-99J.title" = "Rename preset";
+---
+> /* Class = "NSWindow"; title = "미리 설정 이름 변경"; ObjectID = "CHo-O7-99J"; */
+> "CHo-O7-99J.title" = "미리 설정 이름 변경";
+14,15c14,15
+< /* Class = "NSTextFieldCell"; title = "Preset name:"; ObjectID = "hUj-0e-2hS"; */
+< "hUj-0e-2hS.title" = "Preset name:";
+---
+> /* Class = "NSTextFieldCell"; title = "Enter a name for the preset"; ObjectID = "hUj-0e-2hS"; */
+> "hUj-0e-2hS.title" = "Enter a name for the preset";

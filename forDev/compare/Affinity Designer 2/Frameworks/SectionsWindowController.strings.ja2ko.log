@@ -1,0 +1,94 @@
+1,17c1,2
+< 3c3
+< < "1wa-4H-QE4.title" = "Number style:";
+< ---
+< > "1wa-4H-QE4.title" = "番号スタイル:";
+< 6c6
+< < "7Bm-x5-Rc0.title" = "A, B, C, D…";
+< ---
+< > "7Bm-x5-Rc0.title" = "A、B、C、D…";
+< 9c9
+< < "K2T-Km-9BF.ibShadowedToolTip" = "Add Section";
+< ---
+< > "K2T-Km-9BF.ibShadowedToolTip" = "セクションを追加";
+< 12c12
+< < "L4e-h0-r6a.title" = "01, 02, 03, 04…";
+< ---
+< > "L4e-h0-r6a.title" = "01、02、03、04…";
+< 15c15
+---
+> 14,15c14,15
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "LoM-m0-t8w"; */
+20,77c5,8
+< > "LoM-m0-t8w.title" = "閉じる";
+< 18c18
+< < "MFN-QJ-Phl.title" = "I, II, III, IV…";
+< ---
+< > "MFN-QJ-Phl.title" = "I、II、III、IV…";
+< 21c21
+< < "NdC-y7-3nF.title" = "Section Manager";
+< ---
+< > "NdC-y7-3nF.title" = "セクションマネージャー";
+< 24c24
+< < "SIk-pn-q8X.title" = "1, 2, 3, 4…";
+< ---
+< > "SIk-pn-q8X.title" = "1、2、3、4…";
+< 27c27
+< < "XYH-ea-E5Q.title" = "Continue page numbering";
+< ---
+< > "XYH-ea-E5Q.title" = "ページ番号付けを続行";
+< 30c30
+< < "Y30-5g-nFc.title" = "i, ii, iii, iv…";
+< ---
+< > "Y30-5g-nFc.title" = "i、ii、iii、iv…";
+< 33c33
+< < "cUP-UR-J1m.title" = "Restart page numbering at";
+< ---
+< > "cUP-UR-J1m.title" = "次でページ番号付けを再開";
+< 36c36
+< < "cnk-fB-bhn.ibShadowedToolTip" = "Remove Section";
+< ---
+< > "cnk-fB-bhn.ibShadowedToolTip" = "セクションを削除";
+< 39c39
+< < "eJ9-H8-bhf.title" = "0001, 0002, 0003, 0004…";
+< ---
+< > "eJ9-H8-bhf.title" = "0001、0002、0003、0004…";
+< 42c42
+< < "gG2-jC-E9l.title" = "Include on Export";
+< ---
+< > "gG2-jC-E9l.title" = "エクスポートに含める";
+< 45c45
+< < "iQU-5D-42L.title" = "Section 1 - Prefix";
+< ---
+< > "iQU-5D-42L.title" = "セクション1 - プレフィックス";
+< 48c48
+< < "iil-dG-aoB.title" = "a, b, c, d…";
+< ---
+< > "iil-dG-aoB.title" = "a、b、c、d…";
+< 51c51
+< < "kYI-ac-l6l.title" = "Pages 1007-2007";
+< ---
+< > "kYI-ac-l6l.title" = "ページ1007～2007";
+< 54c54
+< < "lgK-TR-GgS.title" = "Section name:";
+< ---
+< > "lgK-TR-GgS.title" = "セクション名:";
+< 60c60
+< < "qir-3b-G2d.title" = "Start on page:";
+< ---
+< > "qir-3b-G2d.title" = "開始ページ:";
+< 63c63
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "LoM-m0-t8w"; */
+> > "LoM-m0-t8w.title" = "닫기";
+> 62,63c62,63
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yPy-6q-Z1N"; */
+80,84c11,12
+< > "yPy-6q-Z1N.title" = "テキストセル";
+< 66c66
+< < "zF2-qw-cvc.title" = "001, 002, 003, 004…";
+< ---
+< > "zF2-qw-cvc.title" = "001、002、003、004…";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "yPy-6q-Z1N"; */
+> > "yPy-6q-Z1N.title" = "텍스트 셀";

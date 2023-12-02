@@ -1,0 +1,78 @@
+1,5c1,2
+< 3c3
+< < "1.title" = "Remove Background";
+< ---
+< > "1.title" = "背景を削除";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+8,9c5,8
+< > "26.title" = "適用";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "210"; */
+12,13c11,14
+< > "210.title" = "キャンセル";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "210"; */
+> > "210.title" = "취소";
+> 11,12c11,12
+> < /* Class = "NSTextFieldCell"; title = "Radius:"; ObjectID = "299-Qg-gwy"; */
+16,29c17,20
+< > "299-Qg-gwy.title" = "半径:";
+< 15c15
+< < "3uv-u4-8Qj.title" = "Gray:";
+< ---
+< > "3uv-u4-8Qj.title" = "グレー:";
+< 18c18
+< < "9Rx-ke-sZy.title" = "Blue:";
+< ---
+< > "9Rx-ke-sZy.title" = "青:";
+< 21c21
+< < "Emz-Eh-oYo.title" = "Sample color at handle";
+< ---
+< > "Emz-Eh-oYo.title" = "ハンドルのサンプルカラー";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "반지름:"; ObjectID = "299-Qg-gwy"; */
+> > "299-Qg-gwy.title" = "반지름:";
+> 23,24c23,24
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "Ltk-tI-wRy"; */
+32,33c23,26
+< > "Ltk-tI-wRy.ibShadowedToolTip" = "分割表示";
+< 27c27
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Ltk-tI-wRy"; */
+> > "Ltk-tI-wRy.ibShadowedToolTip" = "분할 뷰 모드";
+> 26,27c26,27
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "MOA-Oa-wtv"; */
+36,49c29,32
+< > "MOA-Oa-wtv.ibShadowedToolTip" = "分割表示なし";
+< 30c30
+< < "MsI-gk-9x9.title" = "Green:";
+< ---
+< > "MsI-gk-9x9.title" = "緑:";
+< 33c33
+< < "pKP-tq-Aoh.title" = "Red:";
+< ---
+< > "pKP-tq-Aoh.title" = "赤:";
+< 36c36
+< < "qYH-aA-W1a.title" = "Output black level:";
+< ---
+< > "qYH-aA-W1a.title" = "出力の黒レベル:";
+< 39c39
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "MOA-Oa-wtv"; */
+> > "MOA-Oa-wtv.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> 38,39c38,39
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "z1c-Hh-uOd"; */
+52c35,36
+< > "z1c-Hh-uOd.ibShadowedToolTip" = "ミラー表示";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "z1c-Hh-uOd"; */
+> > "z1c-Hh-uOd.ibShadowedToolTip" = "거울 뷰 모드";

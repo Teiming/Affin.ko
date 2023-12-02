@@ -1,0 +1,241 @@
+2,3c2,3
+< /* Class = "NSButtonCell"; title = "Auto"; ObjectID = "0K6-Ua-XvK"; */
+< "0K6-Ua-XvK.title" = "Auto";
+---
+> /* Class = "NSButtonCell"; title = "자동"; ObjectID = "0K6-Ua-XvK"; */
+> "0K6-Ua-XvK.title" = "자동";
+8,9c8,9
+< /* Class = "NSTextField"; ibShadowedToolTip = "Character Style"; ObjectID = "1mP-DE-MzA"; */
+< "1mP-DE-MzA.ibShadowedToolTip" = "Character Style";
+---
+> /* Class = "NSTextField"; ibShadowedToolTip = "문자 스타일"; ObjectID = "1mP-DE-MzA"; */
+> "1mP-DE-MzA.ibShadowedToolTip" = "문자 스타일";
+26,27c26,27
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6Ix-QO-Aud"; */
+< "6Ix-QO-Aud.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "6Ix-QO-Aud"; */
+> "6Ix-QO-Aud.title" = "텍스트 셀";
+32,33c32,33
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "6Ya-PA-xRD"; */
+< "6Ya-PA-xRD.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "6Ya-PA-xRD"; */
+> "6Ya-PA-xRD.ibShadowedToolTip" = "편차";
+35,36c35,36
+< /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "76l-OW-rMe"; */
+< "76l-OW-rMe.title" = "Style:";
+---
+> /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "76l-OW-rMe"; */
+> "76l-OW-rMe.title" = "스타일:";
+65,66c65,66
+< /* Class = "NSButton"; ibShadowedToolTip = "More"; ObjectID = "AWP-7J-l8M"; */
+< "AWP-7J-l8M.ibShadowedToolTip" = "More";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "더 보기"; ObjectID = "AWP-7J-l8M"; */
+> "AWP-7J-l8M.ibShadowedToolTip" = "더 보기";
+83,84c83,84
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "D8s-kZ-7c9"; */
+< "D8s-kZ-7c9.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "D8s-kZ-7c9"; */
+> "D8s-kZ-7c9.ibShadowedToolTip" = "편차";
+92,93c92,93
+< /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "EQC-BO-eA5"; */
+< "EQC-BO-eA5.title" = "Top:";
+---
+> /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "EQC-BO-eA5"; */
+> "EQC-BO-eA5.title" = "위쪽:";
+98,99c98,99
+< /* Class = "NSView"; GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Spacing"; ObjectID = "GIv-fL-Kvw"; */
+< "GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Spacing";
+---
+> /* Class = "NSView"; GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "간격"; ObjectID = "GIv-fL-Kvw"; */
+> "GIv-fL-Kvw.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "간격";
+122,123c122,123
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KjM-Kd-6oQ"; */
+< "KjM-Kd-6oQ.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "KjM-Kd-6oQ"; */
+> "KjM-Kd-6oQ.title" = "텍스트 셀";
+125,126c125,126
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "Kvb-jy-3vn"; */
+< "Kvb-jy-3vn.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "Kvb-jy-3vn"; */
+> "Kvb-jy-3vn.ibShadowedToolTip" = "편차";
+131,132c131,132
+< /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "Lwi-0R-JHP"; */
+< "Lwi-0R-JHP.title" = "Left:";
+---
+> /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "Lwi-0R-JHP"; */
+> "Lwi-0R-JHP.title" = "왼쪽:";
+152,153c152,153
+< /* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "QQY-T3-Nr5"; */
+< "QQY-T3-Nr5.title" = "Enabled";
+---
+> /* Class = "NSButtonCell"; title = "유효한"; ObjectID = "QQY-T3-Nr5"; */
+> "QQY-T3-Nr5.title" = "유효한";
+155,156c155,156
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "QRz-X5-xcQ"; */
+< "QRz-X5-xcQ.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "QRz-X5-xcQ"; */
+> "QRz-X5-xcQ.ibShadowedToolTip" = "편차";
+167,168c167,168
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "SJq-1N-9Tn"; */
+< "SJq-1N-9Tn.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "SJq-1N-9Tn"; */
+> "SJq-1N-9Tn.ibShadowedToolTip" = "편차";
+179,180c179,180
+< /* Class = "NSTextFieldCell"; title = "Start:"; ObjectID = "UEd-UY-JhR"; */
+< "UEd-UY-JhR.title" = "Start:";
+---
+> /* Class = "NSTextFieldCell"; title = "시작:"; ObjectID = "UEd-UY-JhR"; */
+> "UEd-UY-JhR.title" = "시작:";
+191,192c191,192
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VF2-Gj-Nob"; */
+< "VF2-Gj-Nob.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "VF2-Gj-Nob"; */
+> "VF2-Gj-Nob.title" = "텍스트 셀";
+194,195c194,195
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "Vet-9q-AYy"; */
+< "Vet-9q-AYy.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "Vet-9q-AYy"; */
+> "Vet-9q-AYy.ibShadowedToolTip" = "편차";
+212,213c212,213
+< /* Class = "NSTextFieldCell"; title = "Stroke:"; ObjectID = "ZqT-Bt-jPR"; */
+< "ZqT-Bt-jPR.title" = "Stroke:";
+---
+> /* Class = "NSTextFieldCell"; title = "선:"; ObjectID = "ZqT-Bt-jPR"; */
+> "ZqT-Bt-jPR.title" = "선:";
+224,225c224,225
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "c1X-PC-Sng"; */
+< "c1X-PC-Sng.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "c1X-PC-Sng"; */
+> "c1X-PC-Sng.ibShadowedToolTip" = "편차";
+230,231c230,231
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "df9-XL-y2V"; */
+< "df9-XL-y2V.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "df9-XL-y2V"; */
+> "df9-XL-y2V.ibShadowedToolTip" = "편차";
+233,237c233,234
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "dvR-Rf-Rut"; */
+< "dvR-Rf-Rut.ibShadowedToolTip" = "Offset";
+< 
+< /* Class = "NSTextFieldCell"; title = "Level:"; ObjectID = "dvc-po-pnF"; */
+< "dvc-po-pnF.title" = "Level:";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "dvR-Rf-Rut"; */
+> "dvR-Rf-Rut.ibShadowedToolTip" = "편차";
+239,240c236,237
+< /* Class = "NSTextFieldCell"; title = "Text:"; ObjectID = "eJm-Fp-baZ"; */
+< "eJm-Fp-baZ.title" = "Text:";
+---
+> /* Class = "NSTextFieldCell"; title = "레벨:"; ObjectID = "dvc-po-pnF"; */
+> "dvc-po-pnF.title" = "레벨:";
+242,243c239,240
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "f6F-wu-U11"; */
+< "f6F-wu-U11.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트:"; ObjectID = "eJm-Fp-baZ"; */
+> "eJm-Fp-baZ.title" = "텍스트:";
+244a242,244
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "f6F-wu-U11"; */
+> "f6F-wu-U11.ibShadowedToolTip" = "편차";
+> 
+260,261c260,261
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hR2-AW-5zt"; */
+< "hR2-AW-5zt.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "hR2-AW-5zt"; */
+> "hR2-AW-5zt.title" = "텍스트 셀";
+263,264c263,264
+< /* Class = "NSTextFieldCell"; title = "Transparency:"; ObjectID = "hT4-sJ-UM2"; */
+< "hT4-sJ-UM2.title" = "Transparency:";
+---
+> /* Class = "NSTextFieldCell"; title = "투명도:"; ObjectID = "hT4-sJ-UM2"; */
+> "hT4-sJ-UM2.title" = "투명도:";
+284,285c284,285
+< /* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "j0S-XL-SgV"; */
+< "j0S-XL-SgV.title" = "Enabled";
+---
+> /* Class = "NSButtonCell"; title = "유효한"; ObjectID = "j0S-XL-SgV"; */
+> "j0S-XL-SgV.title" = "유효한";
+287,288c287,288
+< /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "jqC-kp-Otr"; */
+< "jqC-kp-Otr.title" = "Style:";
+---
+> /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "jqC-kp-Otr"; */
+> "jqC-kp-Otr.title" = "스타일:";
+296,297c296,297
+< /* Class = "NSButtonCell"; title = "Global"; ObjectID = "kdU-mG-SZd"; */
+< "kdU-mG-SZd.title" = "Global";
+---
+> /* Class = "NSButtonCell"; title = "전역"; ObjectID = "kdU-mG-SZd"; */
+> "kdU-mG-SZd.title" = "전역";
+305,306c305,306
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "lNi-Sx-J7J"; */
+< "lNi-Sx-J7J.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "lNi-Sx-J7J"; */
+> "lNi-Sx-J7J.ibShadowedToolTip" = "편차";
+308,309c308,309
+< /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "lSc-oG-AWH"; */
+< "lSc-oG-AWH.title" = "Bottom:";
+---
+> /* Class = "NSTextFieldCell"; title = "아래쪽"; ObjectID = "lSc-oG-AWH"; */
+> "lSc-oG-AWH.title" = "아래쪽";
+338,339c338,339
+< /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "o2j-iO-Tdd"; */
+< "o2j-iO-Tdd.title" = "Type:";
+---
+> /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "o2j-iO-Tdd"; */
+> "o2j-iO-Tdd.title" = "종류:";
+368,369c368,369
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "qwS-we-s9s"; */
+< "qwS-we-s9s.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "qwS-we-s9s"; */
+> "qwS-we-s9s.ibShadowedToolTip" = "편차";
+371,372c371,372
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "s5h-NR-VP8"; */
+< "s5h-NR-VP8.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "s5h-NR-VP8"; */
+> "s5h-NR-VP8.title" = "텍스트 셀";
+374,375c374,375
+< /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "sAS-id-cIj"; */
+< "sAS-id-cIj.title" = "Style:";
+---
+> /* Class = "NSTextFieldCell"; title = "스타일:"; ObjectID = "sAS-id-cIj"; */
+> "sAS-id-cIj.title" = "스타일:";
+377,378c377,378
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "uCL-I9-qxs"; */
+< "uCL-I9-qxs.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "uCL-I9-qxs"; */
+> "uCL-I9-qxs.ibShadowedToolTip" = "편차";
+380,381c380,381
+< /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "ulH-wd-5vq"; */
+< "ulH-wd-5vq.title" = "Right:";
+---
+> /* Class = "NSTextFieldCell"; title = "오른쪽:"; ObjectID = "ulH-wd-5vq"; */
+> "ulH-wd-5vq.title" = "오른쪽:";
+389,390c389,390
+< /* Class = "NSTextFieldCell"; title = "Fill:"; ObjectID = "vny-Th-VYe"; */
+< "vny-Th-VYe.title" = "Fill:";
+---
+> /* Class = "NSTextFieldCell"; title = "칠:"; ObjectID = "vny-Th-VYe"; */
+> "vny-Th-VYe.title" = "칠:";
+392,393c392,393
+< /* Class = "NSView"; ibShadowedToolTip = "Offset"; ObjectID = "vvB-bq-fP3"; */
+< "vvB-bq-fP3.ibShadowedToolTip" = "Offset";
+---
+> /* Class = "NSView"; ibShadowedToolTip = "편차"; ObjectID = "vvB-bq-fP3"; */
+> "vvB-bq-fP3.ibShadowedToolTip" = "편차";

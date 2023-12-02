@@ -1,0 +1,36 @@
+2,3c2,3
+< /* Class = "NSButtonCell"; title = "Before"; ObjectID = "2ud-at-7Y0"; */
+< "2ud-at-7Y0.title" = "Before";
+---
+> /* Class = "NSButtonCell"; title = "이전"; ObjectID = "2ud-at-7Y0"; */
+> "2ud-at-7Y0.title" = "이전";
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "After"; ObjectID = "J5Y-93-wX8"; */
+< "J5Y-93-wX8.title" = "After";
+---
+> /* Class = "NSButtonCell"; title = "이후"; ObjectID = "J5Y-93-wX8"; */
+> "J5Y-93-wX8.title" = "이후";
+14,15c14,15
+< /* Class = "NSTextFieldCell"; title = "Page:"; ObjectID = "ORj-93-aUn"; */
+< "ORj-93-aUn.title" = "Page:";
+---
+> /* Class = "NSTextFieldCell"; title = "페이지:"; ObjectID = "ORj-93-aUn"; */
+> "ORj-93-aUn.title" = "페이지:";
+20,21c20,21
+< /* Class = "NSWindow"; title = "Add Page"; ObjectID = "QvC-M9-y7g"; */
+< "QvC-M9-y7g.title" = "Add Page";
+---
+> /* Class = "NSWindow"; title = "페이지 추가"; ObjectID = "QvC-M9-y7g"; */
+> "QvC-M9-y7g.title" = "페이지 추가";
+26,27c26,27
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
+< "fIV-u8-dQJ.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */
+> "fIV-u8-dQJ.title" = "취소";
+29,30c29,30
+< /* Class = "NSTextFieldCell"; title = "Add Pages"; ObjectID = "pLx-26-Egv"; */
+< "pLx-26-Egv.title" = "Add Pages";
+---
+> /* Class = "NSTextFieldCell"; title = "페이지 추가"; ObjectID = "pLx-26-Egv"; */
+> "pLx-26-Egv.title" = "페이지 추가";

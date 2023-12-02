@@ -1,0 +1,36 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSButton"; ibShadowedToolTip = "Add Gradient Overlay"; ObjectID = "4If-Xd-aO7"; */
+4,5c5,8
+< > "4If-Xd-aO7.ibShadowedToolTip" = "グラデーションオーバーレイを追加";
+< 6c6
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "그레이디언트 오버레이 추가"; ObjectID = "4If-Xd-aO7"; */
+> > "4If-Xd-aO7.ibShadowedToolTip" = "그레이디언트 오버레이 추가";
+> 5,6c5,6
+> < /* Class = "NSButton"; ibShadowedToolTip = "Delete Overlay"; ObjectID = "4nC-CO-kKZ"; */
+8,9c11,20
+< > "4nC-CO-kKZ.ibShadowedToolTip" = "オーバーレイを削除";
+< 12c12
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "오버레이 지우기"; ObjectID = "4nC-CO-kKZ"; */
+> > "4nC-CO-kKZ.ibShadowedToolTip" = "오버레이 지우기";
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ipc-ah-zqy"; */
+> < "Ipc-ah-zqy.title" = "Text Cell";
+> ---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Ipc-ah-zqy"; */
+> > "Ipc-ah-zqy.title" = "텍스트 셀";
+> 11,12c11,12
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "bU9-nI-7Qw"; */
+12,16c23,24
+< > "bU9-nI-7Qw.title" = "不透明度:";
+< 15c15
+< < "pjW-6a-wYS.ibShadowedToolTip" = "Add Brush Overlay";
+< ---
+< > "pjW-6a-wYS.ibShadowedToolTip" = "ブラシオーバーレイを追加";
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "bU9-nI-7Qw"; */
+> > "bU9-nI-7Qw.title" = "불투명도:";

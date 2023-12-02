@@ -1,0 +1,22 @@
+1,9c1,2
+< 3c3
+< < "0Nj-0z-57u.title" = "Go to page:";
+< ---
+< > "0Nj-0z-57u.title" = "ページに移動:";
+< 9c9
+< < "QvC-M9-y7g.title" = "Go to Page";
+< ---
+< > "QvC-M9-y7g.title" = "ページに移動";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
+12,16c5,6
+< > "fIV-u8-dQJ.title" = "キャンセル";
+< 15c15
+< < "pLx-26-Egv.title" = "Go to Page";
+< ---
+< > "pLx-26-Egv.title" = "ページに移動";
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */
+> > "fIV-u8-dQJ.title" = "취소";

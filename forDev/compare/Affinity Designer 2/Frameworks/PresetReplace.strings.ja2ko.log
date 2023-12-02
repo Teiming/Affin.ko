@@ -1,0 +1,30 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "08d-Ns-xUu"; */
+4,24c5,6
+< > "08d-Ns-xUu.title" = "キャンセル";
+< 6c6
+< < "67K-LN-16B.title" = "Replace";
+< ---
+< > "67K-LN-16B.title" = "置換";
+< 9c9
+< < "CHo-O7-99J.title" = "Replace preset";
+< ---
+< > "CHo-O7-99J.title" = "プリセットの置換";
+< 12c12
+< < "LmR-rb-hmS.ibShadowedToolTip" = "Select a Snapping options preset, or configure your own settings";
+< ---
+< > "LmR-rb-hmS.ibShadowedToolTip" = "いずれかのスナップオプションプリセットを選択するか、独自の設定値を設定します";
+< 18c18
+< < "c0d-b6-9hv.title" = "Warning: This cannot be undone and will replace the existing preset.";
+< ---
+< > "c0d-b6-9hv.title" = "警告: 既存のプリセットが置き換えられます。この操作は取り消せません。";
+< 21c21
+< < "lpo-3e-OG6.title" = "Select a preset to replace";
+< ---
+< > "lpo-3e-OG6.title" = "置き換えるプリセットを選択";
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "08d-Ns-xUu"; */
+> > "08d-Ns-xUu.title" = "취소";

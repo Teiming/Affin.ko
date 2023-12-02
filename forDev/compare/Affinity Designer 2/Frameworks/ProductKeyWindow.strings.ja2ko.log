@@ -1,0 +1,682 @@
+1,5c1,2
+< 3c3
+< < "0t1-5o-KAz.title" = "Quit Application";
+< ---
+< > "0t1-5o-KAz.title" = "アプリケーションを終了";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Quit"; ObjectID = "0ve-39-CjH"; */
+8,13c5,8
+< > "0ve-39-CjH.title" = "終了";
+< 9c9
+< < "18b-l4-qhG.title" = "I already have an %@ or Universal License";
+< ---
+< > "18b-l4-qhG.title" = "%@またはユニバーサルライセンスを持っています";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "Affinity Designer 종료"; ObjectID = "0ve-39-CjH"; */
+> > "0ve-39-CjH.title" = "Affinity Designer 종료";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "1Ij-bI-Wlo"; */
+16,29c11,14
+< > "1Ij-bI-Wlo.title" = "閉じる";
+< 15c15
+< < "1Mi-RM-cZo.title" = "For macOS";
+< ---
+< > "1Mi-RM-cZo.title" = "macOS用";
+< 21c21
+< < "1sk-EM-GN7.title" = "BUY NOW";
+< ---
+< > "1sk-EM-GN7.title" = "今すぐ購入";
+< 24c24
+< < "2gl-1w-r5n.title" = "ACTIVATE LICENSE";
+< ---
+< > "2gl-1w-r5n.title" = "ライセンスの有効化";
+< 27c27
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "1Ij-bI-Wlo"; */
+> > "1Ij-bI-Wlo.title" = "닫기";
+> 26,27c26,27
+> < /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "2ib-b1-Kep"; */
+32,37c17,20
+< > "2ib-b1-Kep.title" = "コピー";
+< 30c30
+< < "39f-62-vUk.title" = "Already purchased?";
+< ---
+< > "39f-62-vUk.title" = "購入済みですか？";
+< 33c33
+---
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "2ib-b1-Kep"; */
+> > "2ib-b1-Kep.title" = "복사";
+> 32,33c32,33
+> < /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "3QY-qV-bvH"; */
+40,41c23,26
+< > "3QY-qV-bvH.title" = "取り消し";
+< 36c36
+---
+> > /* Class = "NSMenuItem"; title = "실행 취소"; ObjectID = "3QY-qV-bvH"; */
+> > "3QY-qV-bvH.title" = "실행 취소";
+> 35,36c35,36
+> < /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "3fw-hF-jhx"; */
+44,57c29,32
+< > "3fw-hF-jhx.title" = "ペースト";
+< 39c39
+< < "3wg-Py-LsW.title" = "%@-day trial available!";
+< ---
+< > "3wg-Py-LsW.title" = "試用期間は%@日です。";
+< 42c42
+< < "43X-cL-ksL.title" = "Not now";
+< ---
+< > "43X-cL-ksL.title" = "後で";
+< 51c51
+< < "4WX-UP-rqd.title" = "Your current license has expired.\nPlease wait while we contact the Affinity license server to check for an updated license.";
+< ---
+< > "4WX-UP-rqd.title" = "お使いのライセンスの有効期限が切れました。\nAffinityライセンスサーバーで更新ライセンスの確認が完了するまでお待ちください。";
+< 57c57
+---
+> > /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "3fw-hF-jhx"; */
+> > "3fw-hF-jhx.title" = "붙이기";
+> 56,57c56,57
+> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "4lA-gN-VK7"; */
+60,73c35,38
+< > "4lA-gN-VK7.title" = "削除";
+< 60c60
+< < "51W-57-t0m.title" = "Your app has been successfully registered to your Affinity account";
+< ---
+< > "51W-57-t0m.title" = "アプリのライセンスが登録され、Affinityアカウントにリンクされました";
+< 63c63
+< < "59E-ha-y87.title" = "BUY NOW";
+< ---
+< > "59E-ha-y87.title" = "今すぐ購入";
+< 69c69
+< < "5ux-2T-dlu.title" = "Continue";
+< ---
+< > "5ux-2T-dlu.title" = "続行";
+< 72c72
+---
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "4lA-gN-VK7"; */
+> > "4lA-gN-VK7.title" = "지우기";
+> 71,72c71,72
+> < /* Class = "NSMenu"; title = "Edit"; ObjectID = "6Gh-iY-3Q6"; */
+76,85c41,44
+< > "6Gh-iY-3Q6.title" = "編集";
+< 75c75
+< < "7M4-sq-5Yd.title" = "Not now";
+< ---
+< > "7M4-sq-5Yd.title" = "後で";
+< 78c78
+< < "7jF-bE-tuV.title" = "Box";
+< ---
+< > "7jF-bE-tuV.title" = "ボックス";
+< 81c81
+---
+> > /* Class = "NSMenu"; title = "편집"; ObjectID = "6Gh-iY-3Q6"; */
+> > "6Gh-iY-3Q6.title" = "편집";
+> 80,81c80,81
+> < /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "7sa-PP-Yfn"; */
+88,253c47,50
+< > "7sa-PP-Yfn.title" = "やり直し";
+< 84c84
+< < "7zb-9e-76P.title" = "Password:";
+< ---
+< > "7zb-9e-76P.title" = "パスワード:";
+< 90c90
+< < "8VC-G8-Tfj.title" = "THANK YOU";
+< ---
+< > "8VC-G8-Tfj.title" = "ありがとうございます";
+< 99c99
+< < "B0u-oR-iVW.title" = "QUIT APP";
+< ---
+< > "B0u-oR-iVW.title" = "アプリを終了";
+< 102c102
+< < "BZp-1g-l4F.title" = "Having trouble? Click here to save a purchase receipt for Affinity technical support.";
+< ---
+< > "BZp-1g-l4F.title" = "お困りですか？ここをクリックして、Affinity技術サポートの購入レシートを保存してください。";
+< 105c105
+< < "Bjb-Qb-99Y.title" = "Thank you for your purchase";
+< ---
+< > "Bjb-Qb-99Y.title" = "ご購入いただきありがとうございます";
+< 108c108
+< < "Blm-Pa-IbS.title" = "Back";
+< ---
+< > "Blm-Pa-IbS.title" = "戻る";
+< 111c111
+< < "BmR-xd-0ex.title" = "ACTIVATE";
+< ---
+< > "BmR-xd-0ex.title" = "有効化";
+< 114c114
+< < "BpX-qP-PgD.title" = "Application";
+< ---
+< > "BpX-qP-PgD.title" = "アプリケーション";
+< 117c117
+< < "BqJ-Zk-dXZ.title" = "Having trouble? Click here to save a purchase receipt for Affinity technical support.";
+< ---
+< > "BqJ-Zk-dXZ.title" = "お困りですか? ここをクリックして、Affinityテクニカルサポート用の購入レシートを保存してください。";
+< 120c120
+< < "C3v-Sj-0dP.title" = "START %@-DAY TRIAL";
+< ---
+< > "C3v-Sj-0dP.title" = "%@日間の試用を開始";
+< 123c123
+< < "CbL-Lf-3bT.title" = "I already have an %@ or Universal License";
+< ---
+< > "CbL-Lf-3bT.title" = "%@またはユニバーサルライセンスを持っています";
+< 126c126
+< < "Cwd-1n-2XQ.title" = "Affinity V2 Universal License";
+< ---
+< > "Cwd-1n-2XQ.title" = "Affinity v2 ユニバーサルライセンス";
+< 129c129
+< < "D0q-lk-wkO.title" = "CONTINUE TRIAL";
+< ---
+< > "D0q-lk-wkO.title" = "試用を続行";
+< 132c132
+< < "ECz-XN-mi5.title" = "Please enter your Affinity ID and password below to activate your license.\nThis will perform a one-time license check with the server so you need to be online.";
+< ---
+< > "ECz-XN-mi5.title" = "以下にAffinity IDとパスワードを入力して、ライセンスをアクティベートしてください。\nそのためにサーバーで1回限りのライセンスチェックが実行されるため、オンラインである必要があります。";
+< 135c135
+< < "Ehn-hS-a7u.title" = "Thank you for activating your trial. We hope you enjoy using %@!";
+< ---
+< > "Ehn-hS-a7u.title" = "試用版を有効化していただきありがとうございます。%@の使用をお楽しみください。";
+< 141c141
+< < "FGX-Jm-0xK.title" = "Want to start a trial?";
+< ---
+< > "FGX-Jm-0xK.title" = "試用を開始しますか？";
+< 144c144
+< < "FIK-Xe-KPz.title" = "Not now";
+< ---
+< > "FIK-Xe-KPz.title" = "後で";
+< 147c147
+< < "FKH-Va-bTN.title" = "DOWNLOAD MY OTHER AFFINITY APPS";
+< ---
+< > "FKH-Va-bTN.title" = "他のAFFINITYアプリをダウンロード";
+< 153c153
+< < "FTn-1p-xl7.title" = "One-off purchase";
+< ---
+< > "FTn-1p-xl7.title" = "1回限りの購入";
+< 156c156
+< < "Fzd-FR-MMB.title" = "QUIT APP";
+< ---
+< > "Fzd-FR-MMB.title" = "アプリを終了";
+< 165c165
+< < "H5h-4z-hgH.label" = "AppStoreWelcome";
+< ---
+< > "H5h-4z-hgH.label" = "AppStoreようこそ";
+< 168c168
+< < "Hwr-AT-5yv.title" = "Password:";
+< ---
+< > "Hwr-AT-5yv.title" = "パスワード:";
+< 174c174
+< < "ICa-bR-xzp.title" = "CONTINUE TRIAL";
+< ---
+< > "ICa-bR-xzp.title" = "試用を続行";
+< 177c177
+< < "IKJ-cY-xHB.title" = "Without it, you won't be able to sign in to unlock all the other apps in the Affinity Suite.";
+< ---
+< > "IKJ-cY-xHB.title" = "アカウントがないと、サインインしてAffinityスイートの他のアプリをロック解除することができません。";
+< 180c180
+< < "IgH-Ch-u3I.title" = "Progress text";
+< ---
+< > "IgH-Ch-u3I.title" = "進行状況テキスト";
+< 183c183
+< < "Ij9-S2-yK8.title" = "Purchase now to continue using %@";
+< ---
+< > "Ij9-S2-yK8.title" = "%@を引き続きご利用になるには、製品版を購入してください";
+< 186c186
+< < "Iov-ah-vNs.title" = "Purchase %@";
+< ---
+< > "Iov-ah-vNs.title" = "%@の購入";
+< 189c189
+< < "Ip0-Tu-oe5.title" = "Go to my account";
+< ---
+< > "Ip0-Tu-oe5.title" = "マイアカウントに移動";
+< 192c192
+< < "IvC-89-YuK.title" = "If you've reinstalled macOS since making your purchase, you can restore it here.";
+< ---
+< > "IvC-89-YuK.title" = "ご購入後にmacOSを再インストールされた場合は、こちらから復元できます。";
+< 195c195
+< < "JCY-gG-UbA.title" = "Need help?";
+< ---
+< > "JCY-gG-UbA.title" = "何かお困りですか?";
+< 198c198
+< < "JSk-hB-fei.title" = "I already have an %@ or Universal License";
+< ---
+< > "JSk-hB-fei.title" = "%@またはユニバーサルライセンスを持っています";
+< 204c204
+< < "KvI-fX-hrt.title" = "Purchase now or start your %@ day trial";
+< ---
+< > "KvI-fX-hrt.title" = "今すぐ購入、または%@日間の試用を開始";
+< 207c207
+< < "KzE-ph-NK7.title" = "Thank you for your purchase";
+< ---
+< > "KzE-ph-NK7.title" = "ご購入いただきありがとうございます";
+< 210c210
+< < "L3U-Bd-hht.title" = "Purchased %@ from the Mac App Store?";
+< ---
+< > "L3U-Bd-hht.title" = "%@をMac App Storeから購入されましたか?";
+< 216c216
+< < "LgJ-ZR-qBd.title" = "Activation successful!";
+< ---
+< > "LgJ-ZR-qBd.title" = "アクティベーションが完了しました。";
+< 219c219
+< < "Lqp-ed-Hgd.title" = "Skip";
+< ---
+< > "Lqp-ed-Hgd.title" = "スキップ";
+< 222c222
+< < "MB9-ct-wWH.title" = "Are you sure you don't want to create your account?";
+< ---
+< > "MB9-ct-wWH.title" = "アカウントを作成しなくてもよろしいですか？";
+< 225c225
+< < "MRC-ld-Xy1.title" = "Activate with a different Affinity ID";
+< ---
+< > "MRC-ld-Xy1.title" = "別のAffinity IDでアクティベートする";
+< 228c228
+< < "N6p-VX-sjG.title" = "The license for %@ is invalid!\nPlease speak to your network administrator.";
+< ---
+< > "N6p-VX-sjG.title" = "%@のライセンスが無効です。\nネットワーク管理者にご相談ください。";
+< 231c231
+< < "NPa-DR-fnU.title" = "Activation unsuccessful";
+< ---
+< > "NPa-DR-fnU.title" = "アクティベーションに失敗しました";
+< 237c237
+< < "No9-Ey-hEM.title" = "Click below to start your trial. This will perform a one-time activation with the server so you need to be online.";
+< ---
+< > "No9-Ey-hEM.title" = "以下をクリックして試用を開始してください。その際、サーバーで1回限りのアクティベーションが実行されるため、オンラインである必要があります。";
+< 240c240
+---
+> > /* Class = "NSMenuItem"; title = "다시 실행"; ObjectID = "7sa-PP-Yfn"; */
+> > "7sa-PP-Yfn.title" = "다시 실행";
+> 239,240c239,240
+> < /* Class = "NSMenu"; title = "Help"; ObjectID = "O4X-eN-7dc"; */
+256,273c53,56
+< > "O4X-eN-7dc.title" = "ヘルプ";
+< 243c243
+< < "OBm-Ft-fPP.title" = "If you have already purchased a License for %@ for macOS, or have a Universal License for V2, you can activate it below using your Affinity ID.";
+< ---
+< > "OBm-Ft-fPP.title" = "すでにmacOS版%@ライセンスを購入されている方、またはV2のユニバーサルライセンスをお持ちの方は、以下からAffinity IDでアクティベーションを行うことができます。";
+< 258c258
+< < "PGC-I3-0Bx.title" = "Activation successful!";
+< ---
+< > "PGC-I3-0Bx.title" = "アクティベーションが完了しました。";
+< 261c261
+< < "PQP-Jl-gtq.title" = "EXISTING CUSTOMER? SIGN IN";
+< ---
+< > "PQP-Jl-gtq.title" = "既存のお客様ですか？サインイン";
+< 264c264
+< < "PQU-8P-xpP.title" = "The license for %@ has expired!\nPlease speak to your network administrator.";
+< ---
+< > "PQU-8P-xpP.title" = "%@のライセンスが失効しています。\nネットワーク管理者にご相談ください。";
+< 270c270
+---
+> > /* Class = "NSMenu"; title = "도움말"; ObjectID = "O4X-eN-7dc"; */
+> > "O4X-eN-7dc.title" = "도움말";
+> 269,270c269,270
+> < /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "PXd-fh-7hg"; */
+276,278c59,63
+< > "PXd-fh-7hg.title" = "編集";
+< 279c279
+< < "QKI-Sb-h0I.title" = "Unfortunately, we are still unable to verify your license.\n\nPlease contact technical support for assistance.";
+---
+> > /* Class = "NSMenuItem"; title = "편집"; ObjectID = "PXd-fh-7hg"; */
+> > "PXd-fh-7hg.title" = "편집";
+> 320,321c320,321
+> < /* Class = "NSMenuItem"; title = "Help"; ObjectID = "Z4x-mA-d9q"; */
+> < "Z4x-mA-d9q.title" = "Help";
+280,282c65,69
+< > "QKI-Sb-h0I.title" = "残念ですが、まだライセンスの確認ができません。\n\n支援のための技術サポートにお問い合わせください。";
+< 282c282
+< < "QTt-eB-Zlt.title" = "Sorry!";
+---
+> > /* Class = "NSMenuItem"; title = "도움말"; ObjectID = "Z4x-mA-d9q"; */
+> > "Z4x-mA-d9q.title" = "도움말";
+> 341,342c341,342
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "bP8-hQ-QJV"; */
+> < "bP8-hQ-QJV.title" = "Close";
+284,365c71,74
+< > "QTt-eB-Zlt.title" = "申し訳ありません。";
+< 285c285
+< < "Qh5-z8-Qji.title" = "Box";
+< ---
+< > "Qh5-z8-Qji.title" = "ボックス";
+< 288c288
+< < "Rdk-lV-ayK.title" = "CREATE FREE ACCOUNT";
+< ---
+< > "Rdk-lV-ayK.title" = "無料アカウントを作成";
+< 291c291
+< < "RkY-We-y1A.title" = "CREATE FREE ACCOUNT";
+< ---
+< > "RkY-We-y1A.title" = "無料アカウントを作成";
+< 294c294
+< < "RoL-cI-Mfh.title" = "GUIDE";
+< ---
+< > "RoL-cI-Mfh.title" = "ガイド";
+< 297c297
+< < "SGG-lj-i23.title" = "Need help?";
+< ---
+< > "SGG-lj-i23.title" = "何かお困りですか?";
+< 300c300
+< < "STs-jn-d4u.title" = "CONTINUE";
+< ---
+< > "STs-jn-d4u.title" = "試用を開始";
+< 303c303
+< < "Tjh-pu-EPL.label" = "Activate single-user license with Affinity ID";
+< ---
+< > "Tjh-pu-EPL.label" = "Affinity IDでシングルユーザーライセンスをアクティベートする";
+< 312c312
+< < "Wcn-un-JgL.title" = "I already have an %@ or Universal license";
+< ---
+< > "Wcn-un-JgL.title" = "すでに%@またはユニバーサルライセンスを持っています";
+< 315c315
+< < "XO7-z6-yLz.title" = "BEGIN MY %@-DAY TRIAL";
+< ---
+< > "XO7-z6-yLz.title" = "%@日の試用版を使ってみる";
+< 318c318
+< < "YHH-r0-6Yj.title" = "Forgot your password?";
+< ---
+< > "YHH-r0-6Yj.title" = "パスワードをお忘れですか?";
+< 321c321
+< < "Z4x-mA-d9q.title" = "Help";
+< ---
+< > "Z4x-mA-d9q.title" = "ヘルプ";
+< 324c324
+< < "ZUf-3P-PJd.title" = "Purchase options";
+< ---
+< > "ZUf-3P-PJd.title" = "購入オプション";
+< 327c327
+< < "ZaU-j5-7cX.title" = "Would you like to keep your app linked to your Affinity Store account?\nThis allows you to automatically stream any free or purchased content you have directly to your app.";
+< ---
+< > "ZaU-j5-7cX.title" = "アプリをAffinity Storeアカウントにリンクしたままにしますか?\nリンクしたままにすると、お持ちの無料コンテンツまたは購入済みコンテンツを直接アプリに自動的にストリーミングできます。";
+< 330c330
+< < "ZwB-j2-LuJ.title" = "%@-day trial activation successful!";
+< ---
+< > "ZwB-j2-LuJ.title" = "%@日間の試用版が正常に有効化されました。";
+< 333c333
+< < "alH-5z-iM8.title" = "Not now";
+< ---
+< > "alH-5z-iM8.title" = "後で";
+< 339c339
+< < "b6g-Lg-3GA.title" = "Launch App";
+< ---
+< > "b6g-Lg-3GA.title" = "アプリを起動";
+< 342c342
+< < "bP8-hQ-QJV.title" = "Close";
+< ---
+< > "bP8-hQ-QJV.title" = "閉じる";
+< 345c345
+< < "bfi-Eh-cpv.title" = "One-off purchase";
+< ---
+< > "bfi-Eh-cpv.title" = "1回限りの購入";
+< 348c348
+< < "bjc-fM-vpm.label" = "Item 20";
+< ---
+< > "bjc-fM-vpm.label" = "アイテム20";
+< 351c351
+< < "c4y-sq-D92.title" = "Activate with a different Affinity ID";
+< ---
+< > "c4y-sq-D92.title" = "別のAffinity IDでアクティベートする";
+< 360c360
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "bP8-hQ-QJV"; */
+> > "bP8-hQ-QJV.title" = "닫기";
+> 359,360c359,360
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cPZ-1i-YtT"; */
+368,425c77,80
+< > "cPZ-1i-YtT.title" = "キャンセル";
+< 363c363
+< < "cS2-ZK-MOL.title" = "Activate your apps using your Affinity ID. If you purchased your Universal license from an App Store, you'll need to register your purchase on the original device first.";
+< ---
+< > "cS2-ZK-MOL.title" = "Affinity IDを使用してアプリを有効化してください。App Storeからユニバーサルライセンスを購入された場合は、まず元のデバイスに購入を登録する必要があります。";
+< 369c369
+< < "crh-ZA-XBa.title" = "Purchase now to continue using %@";
+< ---
+< > "crh-ZA-XBa.title" = "%@を引き続きご利用になるには、製品版を購入してください";
+< 372c372
+< < "cx0-iJ-09y.title" = "Purchase now or continue your trial";
+< ---
+< > "cx0-iJ-09y.title" = "今すぐご購入ください。試用版を引き続きご利用いただくことも可能です";
+< 378c378
+< < "dBg-JR-iTB.title" = "BEGIN MY %@-DAY TRIAL";
+< ---
+< > "dBg-JR-iTB.title" = "%@日の試用版を使ってみる";
+< 384c384
+< < "e4l-D0-cu9.title" = "%@-day trial activation successful!";
+< ---
+< > "e4l-D0-cu9.title" = "%@日間の試用版が正常にアクティベートされました。";
+< 387c387
+< < "e5k-y5-060.title" = "EXISTING CUSTOMER? SIGN IN";
+< ---
+< > "e5k-y5-060.title" = "既存のお客様ですか？サインイン";
+< 390c390
+< < "eJ6-7l-HiC.title" = "Need help?";
+< ---
+< > "eJ6-7l-HiC.title" = "何かお困りですか?";
+< 393c393
+< < "eWY-IH-TR1.title" = "Continue registration";
+< ---
+< > "eWY-IH-TR1.title" = "登録を続ける";
+< 396c396
+< < "eds-WW-0pe.title" = "Now register your app to your Affinity account";
+< ---
+< > "eds-WW-0pe.title" = "購入コンテンツをAffinityアカウントにリンクしてください";
+< 399c399
+< < "eyC-qp-e8Q.title" = "LAUNCH %@";
+< ---
+< > "eyC-qp-e8Q.title" = "%@を起動";
+< 402c402
+< < "fCE-Y6-gkX.title" = "Box";
+< ---
+< > "fCE-Y6-gkX.title" = "ボックス";
+< 405c405
+< < "fLm-aw-c62.title" = "YES PLEASE, LINK MY APP TO MY ACCOUNT";
+< ---
+< > "fLm-aw-c62.title" = "はい、私のアプリを私のアカウントにリンクしてください";
+< 408c408
+< < "fZ4-Vh-qVf.title" = "Thank you for purchasing %@!\n\nYour license cannot be verified at the moment.\n\nWe'll try again the next time you launch the app.";
+< ---
+< > "fZ4-Vh-qVf.title" = "%@をご購入いただきありがとうございます!\n\n現在ライセンスを確認できません。\n\n次回アプリを起動する際に再試行します。";
+< 411c411
+< < "fax-zJ-N5V.title" = "RESTORE";
+< ---
+< > "fax-zJ-N5V.title" = "復元する";
+< 414c414
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "cPZ-1i-YtT"; */
+> > "cPZ-1i-YtT.title" = "취소";
+> 413,414c413,414
+> < /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "fg4-qC-A8b"; */
+428,509c83,86
+< > "fg4-qC-A8b.title" = "カット";
+< 417c417
+< < "gNc-Q7-3Ly.title" = "Now register your app to your Affinity account";
+< ---
+< > "gNc-Q7-3Ly.title" = "今すぐアプリをAffinityアカウントに登録してください";
+< 420c420
+< < "gSG-bz-Gmu.title" = "BUY NOW";
+< ---
+< > "gSG-bz-Gmu.title" = "今すぐ購入";
+< 423c423
+< < "gWn-Wi-dI7.title" = "Got a Universal license?";
+< ---
+< > "gWn-Wi-dI7.title" = "ユニバーサルライセンスをお持ちですか?";
+< 426c426
+< < "giy-og-5cz.title" = "Forgot your password?";
+< ---
+< > "giy-og-5cz.title" = "パスワードをお忘れですか?";
+< 429c429
+< < "go4-sf-41C.title" = "Back";
+< ---
+< > "go4-sf-41C.title" = "戻る";
+< 432c432
+< < "h43-cn-ukd.title" = "Unlock your trial for a one-off purchase price. No subscription.";
+< ---
+< > "h43-cn-ukd.title" = "1 回限りの購入価格で試用版のロックが解除されます。サブスクリプションはありません。";
+< 435c435
+< < "hI7-ko-JdA.title" = "Want to purchase?";
+< ---
+< > "hI7-ko-JdA.title" = "購入しますか?";
+< 438c438
+< < "hr8-gF-RQJ.title" = "CREATE FREE ACCOUNT";
+< ---
+< > "hr8-gF-RQJ.title" = "無料アカウントを作成";
+< 441c441
+< < "ik5-mH-3HW.title" = "Box";
+< ---
+< > "ik5-mH-3HW.title" = "ボックス";
+< 444c444
+< < "imX-rB-Gal.title" = "Purchase now or continue your trial";
+< ---
+< > "imX-rB-Gal.title" = "今すぐご購入ください。試用版を引き続きご利用いただくことも可能です";
+< 447c447
+< < "jaw-us-nUk.title" = "ACTIVATE";
+< ---
+< > "jaw-us-nUk.title" = "有効化";
+< 450c450
+< < "k39-Yf-dm5.title" = "EXISTING CUSTOMER? SIGN IN";
+< ---
+< > "k39-Yf-dm5.title" = "既存のお客様ですか？サインイン";
+< 456c456
+< < "kD1-3C-Hrz.title" = "SIGN IN";
+< ---
+< > "kD1-3C-Hrz.title" = "サインイン";
+< 459c459
+< < "kXa-Vm-p1Y.title" = "Still have questions?";
+< ---
+< > "kXa-Vm-p1Y.title" = "ご質問がありますか?";
+< 462c462
+< < "kdq-3X-oHd.title" = "Start Trial";
+< ---
+< > "kdq-3X-oHd.title" = "試用を開始";
+< 465c465
+< < "ltv-hW-UD7.title" = "Email (Affinity ID):";
+< ---
+< > "ltv-hW-UD7.title" = "電子メール(Affinity ID):";
+< 468c468
+< < "m7H-he-79v.title" = "Main Menu";
+< ---
+< > "m7H-he-79v.title" = "メインメニュー";
+< 471c471
+< < "mFA-xk-5I4.label" = "Activate multi-user license with shared key";
+< ---
+< > "mFA-xk-5I4.label" = "共有キーでマルチユーザー ライセンスをアクティベートする";
+< 474c474
+< < "mX2-PC-G68.title" = "Unfortunately, we still cannot verify your license at the moment.\n\nWe'll try again the next time you launch the app.";
+< ---
+< > "mX2-PC-G68.title" = "残念ですが、現在ライセンスをまだ確認できません。\n\n次回アプリを起動する際に再試行します。";
+< 480c480
+< < "mv8-n3-7og.title" = "Buy %@ for macOS.";
+< ---
+< > "mv8-n3-7og.title" = "macOS版%@を購入する。";
+< 483c483
+---
+> > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "fg4-qC-A8b"; */
+> > "fg4-qC-A8b.title" = "오려두기";
+> 482,483c482,483
+> < /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "n5q-mh-rjL"; */
+512,616c89,90
+< > "n5q-mh-rjL.title" = "すべて選択";
+< 486c486
+< < "oLN-d7-aFk.title" = "Check Connectivity…";
+< ---
+< > "oLN-d7-aFk.title" = "接続を確認します…";
+< 489c489
+< < "p6L-77-eot.title" = "Click below to begin your %@-day trial of %@ for macOS. No sign-up or credit card details required.";
+< ---
+< > "p6L-77-eot.title" = "以下をクリックして、macOS版%@の%@日間試用を開始してください。サインアップやクレジットカードの情報は必要ありません。";
+< 495c495
+< < "pfg-HI-y0h.title" = "Activate";
+< ---
+< > "pfg-HI-y0h.title" = "有効化";
+< 498c498
+< < "qae-yK-JYp.title" = "You have %@ days remaining";
+< ---
+< > "qae-yK-JYp.title" = "残り%@日です";
+< 501c501
+< < "rLK-1q-TZG.title" = "Thank you for purchasing %@ - you are ready to go!";
+< ---
+< > "rLK-1q-TZG.title" = "%@をご購入いただきありがとうございます! 存分にご活用ください。";
+< 504c504
+< < "rST-5p-PHb.title" = "All apps, all platforms";
+< ---
+< > "rST-5p-PHb.title" = "全アプリ、全プラットフォーム";
+< 507c507
+< < "riM-GQ-JQU.title" = "Continue";
+< ---
+< > "riM-GQ-JQU.title" = "続行";
+< 513c513
+< < "sRJ-2P-k96.title" = "YOUR TRIAL HAS EXPIRED!";
+< ---
+< > "sRJ-2P-k96.title" = "試用版の有効期限が終了しました！";
+< 516c516
+< < "skc-zD-jJJ.title" = "You have %@ days remaining";
+< ---
+< > "skc-zD-jJJ.title" = "残り%@日です";
+< 519c519
+< < "t1Z-yY-po5.title" = "LAUNCH APP";
+< ---
+< > "t1Z-yY-po5.title" = "アプリを起動";
+< 522c522
+< < "tCf-hd-z1A.title" = "Get version 2 of Affinity Designer, Affinity Photo and Affinity Publisher for one low bundle price. All apps. All platforms. No subscription.";
+< ---
+< > "tCf-hd-z1A.title" = "Affinity Designer、Affinity Photo、Affinity Publisherのバージョン2を低価格の一括バンドル価格で提供しています。すべてのアプリ。すべてのプラットフォーム。サブスクリプションはありません。";
+< 528c528
+< < "tkT-aI-TIR.title" = "Application";
+< ---
+< > "tkT-aI-TIR.title" = "アプリケーション";
+< 531c531
+< < "tqN-fB-q4w.title" = "Switch to another account";
+< ---
+< > "tqN-fB-q4w.title" = "別のアカウントに切り替え";
+< 534c534
+< < "uGA-Jw-E0V.title" = "Back";
+< ---
+< > "uGA-Jw-E0V.title" = "戻る";
+< 537c537
+< < "uHA-eI-LVo.title" = "Back";
+< ---
+< > "uHA-eI-LVo.title" = "戻る";
+< 540c540
+< < "ulb-XI-E9k.title" = "Go to my account";
+< ---
+< > "ulb-XI-E9k.title" = "マイアカウントに移動";
+< 543c543
+< < "v35-WI-sNa.title" = "Your trial has expired";
+< ---
+< > "v35-WI-sNa.title" = "試用版の有効期限が終了しました";
+< 546c546
+< < "v63-gP-hQK.title" = "Launch App";
+< ---
+< > "v63-gP-hQK.title" = "アプリを起動";
+< 549c549
+< < "vFq-xo-HNo.title" = "Your universal license has been successfully registered to your Affinity account";
+< ---
+< > "vFq-xo-HNo.title" = "ユニバーサルライセンスがAffinityアカウントに正常に登録されました";
+< 552c552
+< < "vJO-RS-Dkq.title" = "Thank you";
+< ---
+< > "vJO-RS-Dkq.title" = "ありがとうございます";
+< 558c558
+< < "vXU-qE-zFe.title" = "Thank you for activating your trial. We hope you enjoy using %@!";
+< ---
+< > "vXU-qE-zFe.title" = "試用版を有効化していただきありがとうございます。%@の使用をお楽しみください。";
+< 561c561
+< < "wav-89-MUo.title" = "Sign in to your Affinity account";
+< ---
+< > "wav-89-MUo.title" = "Affinityアカウントにサインイン";
+< 570c570
+< < "xcQ-bO-Ls0.title" = "Thank you";
+< ---
+< > "xcQ-bO-Ls0.title" = "ありがとうございます";
+< 573c573
+< < "xe5-gQ-bIm.title" = "Need help?";
+< ---
+< > "xe5-gQ-bIm.title" = "何かお困りですか?";
+< 579c579
+< < "zB4-Xx-Zzw.title" = "Please enter your Affinity ID login details below.";
+< ---
+< > "zB4-Xx-Zzw.title" = "以下にAffinity IDのログイン情報を入力してください。";
+< 582c582
+< < "zX8-sA-PsD.title" = "License expired";
+< ---
+< > "zX8-sA-PsD.title" = "ライセンス期限切れ";
+---
+> > /* Class = "NSMenuItem"; title = "전체 선택"; ObjectID = "n5q-mh-rjL"; */
+> > "n5q-mh-rjL.title" = "전체 선택";

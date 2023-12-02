@@ -1,0 +1,110 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Length"; ObjectID = "17Y-9k-NuI"; */
+4,5c5,8
+< > "17Y-9k-NuI.title" = "長さ";
+< 6c6
+---
+> > /* Class = "NSTextFieldCell"; title = "길이"; ObjectID = "17Y-9k-NuI"; */
+> > "17Y-9k-NuI.title" = "길이";
+> 5,6c5,6
+> < /* Class = "NSTextFieldCell"; title = "n/a"; ObjectID = "6CY-jT-OT5"; */
+8,9c11,14
+< > "6CY-jT-OT5.title" = "該当なし";
+< 9c9
+---
+> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "6CY-jT-OT5"; */
+> > "6CY-jT-OT5.title" = "없음";
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "n/a"; ObjectID = "6vj-IW-EwY"; */
+12,13c17,20
+< > "6vj-IW-EwY.title" = "該当なし";
+< 12c12
+---
+> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "6vj-IW-EwY"; */
+> > "6vj-IW-EwY.title" = "없음";
+> 11,12c11,12
+> < /* Class = "NSTextFieldCell"; title = "Points"; ObjectID = "7gH-a0-T0X"; */
+16,17c23,26
+< > "7gH-a0-T0X.title" = "ポイント";
+< 15c15
+---
+> > /* Class = "NSTextFieldCell"; title = "포인트"; ObjectID = "7gH-a0-T0X"; */
+> > "7gH-a0-T0X.title" = "포인트";
+> 14,15c14,15
+> < /* Class = "NSTextFieldCell"; title = "Beam"; ObjectID = "COy-mg-VHE"; */
+20,21c29,32
+< > "COy-mg-VHE.title" = "ビーム";
+< 18c18
+---
+> > /* Class = "NSTextFieldCell"; title = "빔"; ObjectID = "COy-mg-VHE"; */
+> > "COy-mg-VHE.title" = "빔";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "n/a"; ObjectID = "EcT-6p-OPo"; */
+24,25c35,38
+< > "EcT-6p-OPo.title" = "該当なし";
+< 21c21
+---
+> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "EcT-6p-OPo"; */
+> > "EcT-6p-OPo.title" = "없음";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "n/a"; ObjectID = "GCp-lC-5IQ"; */
+28,29c41,44
+< > "GCp-lC-5IQ.title" = "該当なし";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "GCp-lC-5IQ"; */
+> > "GCp-lC-5IQ.title" = "없음";
+> 23,24c23,24
+> < /* Class = "NSButtonCell"; title = "Show AF Regions"; ObjectID = "NZP-VF-O8l"; */
+32,37c47,50
+< > "NZP-VF-O8l.title" = "AF領域を表示";
+< 27c27
+< < "ZfZ-gD-SnA.title" = "Hyperfocal";
+< ---
+< > "ZfZ-gD-SnA.title" = "過焦点";
+< 33c33
+---
+> > /* Class = "NSButtonCell"; title = "AF 영역 보기"; ObjectID = "NZP-VF-O8l"; */
+> > "NZP-VF-O8l.title" = "AF 영역 보기";
+> 32,33c32,33
+> < /* Class = "NSTextFieldCell"; title = "n/a"; ObjectID = "kA5-Ix-eEr"; */
+40,41c53,56
+< > "kA5-Ix-eEr.title" = "該当なし";
+< 36c36
+---
+> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "kA5-Ix-eEr"; */
+> > "kA5-Ix-eEr.title" = "없음";
+> 35,36c35,36
+> < /* Class = "NSTextFieldCell"; title = "n/a"; ObjectID = "ofD-ZR-zsO"; */
+44,45c59,62
+< > "ofD-ZR-zsO.title" = "該当なし";
+< 39c39
+---
+> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "ofD-ZR-zsO"; */
+> > "ofD-ZR-zsO.title" = "없음";
+> 38,39c38,39
+> < /* Class = "NSTextFieldCell"; title = "Valid"; ObjectID = "tKT-w1-hxF"; */
+48,49c65,68
+< > "tKT-w1-hxF.title" = "有効";
+< 42c42
+---
+> > /* Class = "NSTextFieldCell"; title = "유효"; ObjectID = "tKT-w1-hxF"; */
+> > "tKT-w1-hxF.title" = "유효";
+> 41,42c41,42
+> < /* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "wDd-Ia-yoS"; */
+52,53c71,74
+< > "wDd-Ia-yoS.title" = "モード";
+< 45c45
+---
+> > /* Class = "NSTextFieldCell"; title = "모드"; ObjectID = "wDd-Ia-yoS"; */
+> > "wDd-Ia-yoS.title" = "모드";
+> 44,45c44,45
+> < /* Class = "NSTextFieldCell"; title = "n/a"; ObjectID = "x9H-ml-rMQ"; */
+56c77,78
+< > "x9H-ml-rMQ.title" = "該当なし";
+---
+> > /* Class = "NSTextFieldCell"; title = "없음"; ObjectID = "x9H-ml-rMQ"; */
+> > "x9H-ml-rMQ.title" = "없음";

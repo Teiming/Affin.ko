@@ -1,0 +1,68 @@
+1,2c1,3
+< 9c9
+< < "7D7-aU-xM7.title" = "Item 3";
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+> < "11.title" = "Text Cell";
+4,25c5,8
+< > "7D7-aU-xM7.title" = "アイテム3";
+< 12c12
+< < "8i5-a7-4c0.title" = "Enter a name for the macro:";
+< ---
+< > "8i5-a7-4c0.title" = "マクロ名を入力:";
+< 15c15
+< < "Dat-0m-mxv.title" = "Item 2";
+< ---
+< > "Dat-0m-mxv.title" = "アイテム2";
+< 18c18
+< < "JP0-zg-JoZ.ibShadowedToolTip" = "Start recording";
+< ---
+< > "JP0-zg-JoZ.ibShadowedToolTip" = "記録の開始";
+< 21c21
+< < "Jqq-w3-PCR.ibShadowedToolTip" = "Add To Library";
+< ---
+< > "Jqq-w3-PCR.ibShadowedToolTip" = "ライブラリに追加";
+< 24c24
+< < "L4B-sG-w24.title" = "Category:";
+< ---
+< > "L4B-sG-w24.title" = "カテゴリ:";
+< 27c27
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "11"; */
+> > "11.title" = "텍스트 셀";
+> 26,27c26,27
+> < /* Class = "NSButton"; ibShadowedToolTip = "Reset"; ObjectID = "W8y-bM-wtp"; */
+28,33c11,14
+< > "W8y-bM-wtp.ibShadowedToolTip" = "リセット";
+< 30c30
+< < "dZD-kN-7XN.title" = "Item 1";
+< ---
+< > "dZD-kN-7XN.title" = "アイテム1";
+< 33c33
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "재설정"; ObjectID = "W8y-bM-wtp"; */
+> > "W8y-bM-wtp.ibShadowedToolTip" = "재설정";
+> 32,33c32,33
+> < /* Class = "NSButton"; ibShadowedToolTip = "Import"; ObjectID = "nJe-in-53f"; */
+36,45c17,20
+< > "nJe-in-53f.ibShadowedToolTip" = "インポート";
+< 36c36
+< < "o1H-1L-6Nq.ibShadowedToolTip" = "Play";
+< ---
+< > "o1H-1L-6Nq.ibShadowedToolTip" = "実行";
+< 39c39
+< < "qS4-3J-BPr.ibShadowedToolTip" = "Stop recording";
+< ---
+< > "qS4-3J-BPr.ibShadowedToolTip" = "記録の停止";
+< 42c42
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "들여오기"; ObjectID = "nJe-in-53f"; */
+> > "nJe-in-53f.ibShadowedToolTip" = "들여오기";
+> 41,42c41,42
+> < /* Class = "NSButton"; ibShadowedToolTip = "Export"; ObjectID = "sJ0-Be-RMT"; */
+48c23,24
+< > "sJ0-Be-RMT.ibShadowedToolTip" = "書き出し";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "내보내기"; ObjectID = "sJ0-Be-RMT"; */
+> > "sJ0-Be-RMT.ibShadowedToolTip" = "내보내기";

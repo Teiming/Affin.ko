@@ -1,0 +1,214 @@
+1,5c1,2
+< 3c3
+< < "1Tw-ds-gDv.title" = "Candidate List";
+< ---
+< > "1Tw-ds-gDv.title" = "候補リスト";
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Force pixel alignment"; ObjectID = "3T9-TS-9ti"; */
+8,37c5,8
+< > "3T9-TS-9ti.title" = "ピクセルへの整列を強制";
+< 9c9
+< < "6dS-g1-dGG.title" = "Box";
+< ---
+< > "6dS-g1-dGG.title" = "四角形";
+< 12c12
+< < "8nP-0Q-3Ik.title" = "Box";
+< ---
+< > "8nP-0Q-3Ik.title" = "四角形";
+< 15c15
+< < "APk-w8-O4B.title" = "Include spread mid points";
+< ---
+< > "APk-w8-O4B.title" = "スプレッドの中間点を含める";
+< 18c18
+< < "B5S-ry-lVC.title" = "Snap to pixel selection bounds";
+< ---
+< > "B5S-ry-lVC.title" = "ピクセル選択範囲境界にスナップ";
+< 21c21
+< < "Czw-0X-gXK.title" = "Include bounding box mid points";
+< ---
+< > "Czw-0X-gXK.title" = "境界ボックスの中間点を含める";
+< 24c24
+< < "DRD-gS-VkX.title" = "Snap to spread";
+< ---
+< > "DRD-gS-VkX.title" = "スプレッドにスナップ";
+< 30c30
+< < "DvF-Qe-cnh.title" = "Snap to baseline grid";
+< ---
+< > "DvF-Qe-cnh.title" = "ベースライングリッドにスナップ";
+< 33c33
+---
+> > /* Class = "NSButtonCell"; title = "강제 픽셀 정렬"; ObjectID = "3T9-TS-9ti"; */
+> > "3T9-TS-9ti.title" = "강제 픽셀 정렬";
+> 32,33c32,33
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "EyH-4n-zr8"; */
+40,41c11,14
+< > "EyH-4n-zr8.title" = "プリセット:";
+< 36c36
+---
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "EyH-4n-zr8"; */
+> > "EyH-4n-zr8.title" = "미리 설정:";
+> 35,36c35,36
+> < /* Class = "NSButtonCell"; title = "Snap to margin"; ObjectID = "Gkl-N0-P3Q"; */
+44,45c17,20
+< > "Gkl-N0-P3Q.title" = "マージンにスナップ";
+< 39c39
+---
+> > /* Class = "NSButtonCell"; title = "여백선에 스냅"; ObjectID = "Gkl-N0-P3Q"; */
+> > "Gkl-N0-P3Q.title" = "여백선에 스냅";
+> 38,39c38,39
+> < /* Class = "NSMenuItem"; title = "Create preset"; ObjectID = "Gsz-Qc-N1v"; */
+48,57c23,26
+< > "Gsz-Qc-N1v.title" = "プリセットを作成";
+< 42c42
+< < "H2f-oN-T9O.title" = "Box";
+< ---
+< > "H2f-oN-T9O.title" = "四角形";
+< 45c45
+< < "Irf-l7-s1Q.ibShadowedToolTip" = "Show which objects in the document are currently in the Snapping Candidate list with a purple outline";
+< ---
+< > "Irf-l7-s1Q.ibShadowedToolTip" = "このドキュメント内のオブジェクトのうち、現在スナップ候補リストに含まれているオブジェクトを紫色のアウトラインで示します";
+< 48c48
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 생성"; ObjectID = "Gsz-Qc-N1v"; */
+> > "Gsz-Qc-N1v.title" = "미리 설정 생성";
+> 47,48c47,48
+> < /* Class = "NSMenuItem"; title = "Delete preset"; ObjectID = "JG4-X2-RoC"; */
+60,61c29,32
+< > "JG4-X2-RoC.title" = "プリセットを削除";
+< 51c51
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "JG4-X2-RoC"; */
+> > "JG4-X2-RoC.title" = "미리 설정 지우기";
+> 50,51c50,51
+> < /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "JdA-f5-0s4"; */
+64,85c35,38
+< > "JdA-f5-0s4.title" = "最大:";
+< 54c54
+< < "L3W-Sl-jsj.title" = "Show snapping candidates";
+< ---
+< > "L3W-Sl-jsj.title" = "スナップ候補の表示";
+< 57c57
+< < "LyH-9N-TzJ.title" = "Box";
+< ---
+< > "LyH-9N-TzJ.title" = "四角形";
+< 60c60
+< < "P61-cl-MpC.title" = "Immediate layers";
+< ---
+< > "P61-cl-MpC.title" = "直接レイヤー";
+< 63c63
+< < "Qqa-hm-uHk.title" = "Snap to shape key points";
+< ---
+< > "Qqa-hm-uHk.title" = "シェイプのキーポイントにスナップ";
+< 66c66
+< < "RxJ-TW-bcA.title" = "Immediate layers and children";
+< ---
+< > "RxJ-TW-bcA.title" = "直接レイヤーと子";
+< 69c69
+---
+> > /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "JdA-f5-0s4"; */
+> > "JdA-f5-0s4.title" = "최대:";
+> 68,69c68,69
+> < /* Class = "NSTextFieldCell"; title = "Candidates:"; ObjectID = "SlC-Yd-G0i"; */
+88,89c41,44
+< > "SlC-Yd-G0i.title" = "候補:";
+< 72c72
+---
+> > /* Class = "NSTextFieldCell"; title = "후보:"; ObjectID = "SlC-Yd-G0i"; */
+> > "SlC-Yd-G0i.title" = "후보:";
+> 71,72c71,72
+> < /* Class = "NSButtonCell"; title = "Move by whole pixels"; ObjectID = "bGQ-a9-3br"; */
+92,97c47,50
+< > "bGQ-a9-3br.title" = "ピクセル単位で移動";
+< 75c75
+< < "cUG-AP-k4n.ibShadowedToolTip" = "The maximum number of objects that will be held in the snapping candidate list";
+< ---
+< > "cUG-AP-k4n.ibShadowedToolTip" = "スナップ候補リストに含まれるオブジェクトの最大数";
+< 78c78
+---
+> > /* Class = "NSButtonCell"; title = "픽셀 단위로 이동"; ObjectID = "bGQ-a9-3br"; */
+> > "bGQ-a9-3br.title" = "픽셀 단위로 이동";
+> 77,78c77,78
+> < /* Class = "NSButtonCell"; title = "Snap to guides"; ObjectID = "chn-GC-rSI"; */
+100,129c53,56
+< > "chn-GC-rSI.title" = "ガイドにスナップ";
+< 81c81
+< < "csu-yE-1qt.title" = "Snap to object bounding boxes";
+< ---
+< > "csu-yE-1qt.title" = "オブジェクトの境界ボックスにスナップ";
+< 84c84
+< < "e1f-UT-w5P.title" = "Include margin mid points";
+< ---
+< > "e1f-UT-w5P.title" = "マージンの中間点を含める";
+< 87c87
+< < "e4c-3f-g8b.title" = "Only snap to visible objects";
+< ---
+< > "e4c-3f-g8b.title" = "表示オブジェクトのみにスナップ";
+< 90c90
+< < "eec-p5-FSf.title" = "Screen tolerance:";
+< ---
+< > "eec-p5-FSf.title" = "スクリーン許容範囲:";
+< 93c93
+< < "fjG-ij-72k.title" = "Snap to object geometry";
+< ---
+< > "fjG-ij-72k.title" = "オブジェクトジオメトリにスナップ";
+< 96c96
+< < "iAa-Xq-hV8.title" = "Snap to gaps and sizes";
+< ---
+< > "iAa-Xq-hV8.title" = "ギャップとサイズにスナップ";
+< 99c99
+< < "j8f-hG-HbF.ibShadowedToolTip" = "If set, only objects that are currently visible can be snapped to";
+< ---
+< > "j8f-hG-HbF.ibShadowedToolTip" = "設定すると、現在表示中のオブジェクトにのみスナップできます";
+< 102c102
+---
+> > /* Class = "NSButtonCell"; title = "안내선에 스냅"; ObjectID = "chn-GC-rSI"; */
+> > "chn-GC-rSI.title" = "안내선에 스냅";
+> 101,102c101,102
+> < /* Class = "NSButtonCell"; title = "Snap to grid"; ObjectID = "lZL-z7-XwY"; */
+132,137c59,62
+< > "lZL-z7-XwY.title" = "グリッドにスナップ";
+< 108c108
+< < "pb6-c1-z4O.ibShadowedToolTip" = "Select a Snapping options preset, or configure your own settings";
+< ---
+< > "pb6-c1-z4O.ibShadowedToolTip" = "いずれかのスナップオプションプリセットを選択するか、独自の設定値を設定します";
+< 111c111
+---
+> > /* Class = "NSButtonCell"; title = "격자선에 스냅"; ObjectID = "lZL-z7-XwY"; */
+> > "lZL-z7-XwY.title" = "격자선에 스냅";
+> 110,111c110,111
+> < /* Class = "NSMenuItem"; title = "Rename preset"; ObjectID = "quf-Cj-L5F"; */
+140,153c65,68
+< > "quf-Cj-L5F.title" = "プリセット名の変更";
+< 114c114
+< < "rsm-Hh-Gqs.ibShadowedToolTip" = "The candidate options determine which objects in your document can be snapped to";
+< ---
+< > "rsm-Hh-Gqs.ibShadowedToolTip" = "候補オプションで、ドキュメント内のスナップ可能なオブジェクトを指定します";
+< 117c117
+< < "uo3-7W-8P8.title" = "Box";
+< ---
+< > "uo3-7W-8P8.title" = "ボックス";
+< 120c120
+< < "urp-Jd-iPG.title" = "Enable snapping";
+< ---
+< > "urp-Jd-iPG.title" = "スナップを有効にする";
+< 123c123
+---
+> > /* Class = "NSMenuItem"; title = "미리 설정 이름 변경"; ObjectID = "quf-Cj-L5F"; */
+> > "quf-Cj-L5F.title" = "미리 설정 이름 변경";
+> 122,123c122,123
+> < /* Class = "NSMenuItem"; title = "All layers"; ObjectID = "vDT-Wp-5Xc"; */
+156,164c71,72
+< > "vDT-Wp-5Xc.title" = "すべてのレイヤー";
+< 126c126
+< < "wJs-nd-UsG.ibShadowedToolTip" = "Snapping tolerance is the distance in screen pixels between objects where a snap will be made";
+< ---
+< > "wJs-nd-UsG.ibShadowedToolTip" = "スナップ許容範囲とは、スナップするオブジェクト間の距離(スクリーンピクセル単位)です";
+< 129c129
+< < "xOk-il-8cZ.title" = "Box";
+< ---
+< > "xOk-il-8cZ.title" = "四角形";
+---
+> > /* Class = "NSMenuItem"; title = "모든 레이어"; ObjectID = "vDT-Wp-5Xc"; */
+> > "vDT-Wp-5Xc.title" = "모든 레이어";

@@ -1,0 +1,66 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSButtonCell"; title = "Done"; ObjectID = "H7S-Kq-meK"; */
+4,25c5,8
+< > "H7S-Kq-meK.title" = "完了";
+< 6c6
+< < "P6X-bj-nXi.headerCell.title" = "Description";
+< ---
+< > "P6X-bj-nXi.headerCell.title" = "説明";
+< 9c9
+< < "PI1-tN-3rZ.ibShadowedToolTip" = "The path is invalid";
+< ---
+< > "PI1-tN-3rZ.ibShadowedToolTip" = "パスは無効です";
+< 12c12
+< < "PO7-S0-Gix.title" = "Path components:";
+< ---
+< > "PO7-S0-Gix.title" = "パスの構成要素:";
+< 15c15
+< < "XVJ-vf-Lup.title" = "Table View Cell";
+< ---
+< > "XVJ-vf-Lup.title" = "表ビューセル";
+< 18c18
+< < "YRX-eq-afB.title" = "Enter text or drag-drop variable tokens from the available list to form the common output path.";
+< ---
+< > "YRX-eq-afB.title" = "テキストを入力するか、使用可能な変数トークンのリストからトークンをドラッグ&ドロップして、共通出力パスを指定します。";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "완료"; ObjectID = "H7S-Kq-meK"; */
+> > "H7S-Kq-meK.title" = "완료";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aED-9K-gWc"; */
+28,41c11,14
+< > "aED-9K-gWc.title" = "テキストセル";
+< 24c24
+< < "kgW-Q9-Mqk.title" = "Table View Cell";
+< ---
+< > "kgW-Q9-Mqk.title" = "表ビューセル";
+< 27c27
+< < "oSr-bz-vN4.headerCell.title" = "Variable";
+< ---
+< > "oSr-bz-vN4.headerCell.title" = "変数";
+< 30c30
+< < "q55-JW-fxj.placeholderString" = "Drag tokens and enter text to form a path template";
+< ---
+< > "q55-JW-fxj.placeholderString" = "トークンをドラッグし、テキストを入力してパステンプレートを指定します";
+< 33c33
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aED-9K-gWc"; */
+> > "aED-9K-gWc.title" = "텍스트 셀";
+> 32,33c32,33
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rax-DG-ZCb"; */
+44,45c17,20
+< > "rax-DG-ZCb.title" = "テキストセル";
+< 36c36
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "rax-DG-ZCb"; */
+> > "rax-DG-ZCb.title" = "텍스트 셀";
+> 35,36c35,36
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xIn-39-M8k"; */
+48c23,24
+< > "xIn-39-M8k.title" = "キャンセル";
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "xIn-39-M8k"; */
+> > "xIn-39-M8k.title" = "취소";

@@ -1,0 +1,34 @@
+1,17c1,2
+< 3c3
+< < "7Kf-Oh-qyD.title" = "Toys…";
+< ---
+< > "7Kf-Oh-qyD.title" = "玩具…";
+< 6c6
+< < "NSj-5l-tq2.title" = "Manual";
+< ---
+< > "NSj-5l-tq2.title" = "手動";
+< 9c9
+< < "Uv7-IG-orR.title" = "Telemetry…";
+< ---
+< > "Uv7-IG-orR.title" = "テレメトリー…";
+< 12c12
+< < "Wwh-e4-sGQ.title" = "Table View Cell";
+< ---
+< > "Wwh-e4-sGQ.title" = "表ビューセル";
+< 15c15
+---
+> 14,15c14,15
+> < /* Class = "NSMenuItem"; title = "Auto"; ObjectID = "i5P-0W-pZu"; */
+20,21c5,8
+< > "i5P-0W-pZu.title" = "自動";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "자동"; ObjectID = "i5P-0W-pZu"; */
+> > "i5P-0W-pZu.title" = "자동";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "l40-Sx-yCo"; */
+24c11,12
+< > "l40-Sx-yCo.title" = "テキストセル";
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "l40-Sx-yCo"; */
+> > "l40-Sx-yCo.title" = "텍스트 셀";

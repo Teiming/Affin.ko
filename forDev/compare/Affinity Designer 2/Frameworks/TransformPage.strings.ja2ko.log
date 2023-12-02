@@ -1,0 +1,90 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Rotation"; ObjectID = "3"; */
+4,5c5,8
+< > "3.ibShadowedToolTip" = "回転";
+< 6c6
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "회전"; ObjectID = "3"; */
+> > "3.ibShadowedToolTip" = "회전";
+> 5,6c5,6
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Shear"; ObjectID = "7"; */
+8,9c11,14
+< > "7.ibShadowedToolTip" = "シアー";
+< 15c15
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "비틀기"; ObjectID = "7"; */
+> > "7.ibShadowedToolTip" = "비틀기";
+> 14,15c14,15
+> < /* Class = "NSTextField"; ibShadowedToolTip = "X Position"; ObjectID = "38"; */
+12,13c17,20
+< > "38.ibShadowedToolTip" = "X方向の位置";
+< 21c21
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "X 위치"; ObjectID = "38"; */
+> > "38.ibShadowedToolTip" = "X 위치";
+> 20,21c20,21
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Y Position"; ObjectID = "40"; */
+16,17c23,26
+< > "40.ibShadowedToolTip" = "Y方向の位置";
+< 27c27
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "Y 위치"; ObjectID = "40"; */
+> > "40.ibShadowedToolTip" = "Y 위치";
+> 26,27c26,27
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Width"; ObjectID = "44"; */
+20,21c29,32
+< > "44.ibShadowedToolTip" = "幅";
+< 33c33
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "너비"; ObjectID = "44"; */
+> > "44.ibShadowedToolTip" = "너비";
+> 32,33c32,33
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Height"; ObjectID = "46"; */
+24,25c35,38
+< > "46.ibShadowedToolTip" = "高さ";
+< 42c42
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "높이"; ObjectID = "46"; */
+> > "46.ibShadowedToolTip" = "높이";
+> 41,42c41,42
+> < /* Class = "NSTextField"; ibShadowedToolTip = "X Offset"; ObjectID = "39z-HQ-peQ"; */
+28,29c41,44
+< > "39z-HQ-peQ.ibShadowedToolTip" = "Xオフセット";
+< 45c45
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "X 편차"; ObjectID = "39z-HQ-peQ"; */
+> > "39z-HQ-peQ.ibShadowedToolTip" = "X 편차";
+> 44,45c44,45
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Scale"; ObjectID = "8Z5-0y-kKX"; */
+32,33c47,50
+< > "8Z5-0y-kKX.ibShadowedToolTip" = "スケール";
+< 48c48
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "배율"; ObjectID = "8Z5-0y-kKX"; */
+> > "8Z5-0y-kKX.ibShadowedToolTip" = "배율";
+> 47,48c47,48
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Y Offset"; ObjectID = "IZG-VJ-Z9W"; */
+36,37c53,56
+< > "IZG-VJ-Z9W.ibShadowedToolTip" = "Yオフセット";
+< 57c57
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "Y 편차"; ObjectID = "IZG-VJ-Z9W"; */
+> > "IZG-VJ-Z9W.ibShadowedToolTip" = "Y 편차";
+> 56,57c56,57
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Length"; ObjectID = "U34-dz-JbJ"; */
+40,41c59,62
+< > "U34-dz-JbJ.ibShadowedToolTip" = "長さ";
+< 60c60
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "길이"; ObjectID = "U34-dz-JbJ"; */
+> > "U34-dz-JbJ.ibShadowedToolTip" = "길이";
+> 59,60c59,60
+> < /* Class = "NSTextField"; ibShadowedToolTip = "Rotate"; ObjectID = "XHQ-fi-VzW"; */
+44c65,66
+< > "XHQ-fi-VzW.ibShadowedToolTip" = "回転";
+---
+> > /* Class = "NSTextField"; ibShadowedToolTip = "회전"; ObjectID = "XHQ-fi-VzW"; */
+> > "XHQ-fi-VzW.ibShadowedToolTip" = "회전";

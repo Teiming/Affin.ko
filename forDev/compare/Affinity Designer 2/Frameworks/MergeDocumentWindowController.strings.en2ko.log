@@ -1,0 +1,30 @@
+11,12c11,12
+< /* Class = "NSMenuItem"; title = "Before"; ObjectID = "9bm-sP-Co1"; */
+< "9bm-sP-Co1.title" = "Before";
+---
+> /* Class = "NSMenuItem"; title = "이전"; ObjectID = "9bm-sP-Co1"; */
+> "9bm-sP-Co1.title" = "이전";
+17,18c17,18
+< /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "CXZ-u6-bMc"; */
+< "CXZ-u6-bMc.title" = "Label";
+---
+> /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "CXZ-u6-bMc"; */
+> "CXZ-u6-bMc.title" = "라벨";
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "IEL-yo-O4V"; */
+< "IEL-yo-O4V.title" = "Label";
+---
+> /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "IEL-yo-O4V"; */
+> "IEL-yo-O4V.title" = "라벨";
+56,57c56,57
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
+< "fIV-u8-dQJ.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */
+> "fIV-u8-dQJ.title" = "취소";
+65,66c65,66
+< /* Class = "NSMenuItem"; title = "After"; ObjectID = "hcL-GU-vo4"; */
+< "hcL-GU-vo4.title" = "After";
+---
+> /* Class = "NSMenuItem"; title = "이후"; ObjectID = "hcL-GU-vo4"; */
+> "hcL-GU-vo4.title" = "이후";

@@ -1,0 +1,54 @@
+1,9c1,2
+< 6c6
+< < "2f6-o5-pQF.title" = "Raster (Multi GPU):";
+< ---
+< > "2f6-o5-pQF.title" = "ラスター (マルチGPU):";
+< 9c9
+< < "9tz-cp-zVk.title" = "Raster (Multi CPU):";
+< ---
+< > "9tz-cp-zVk.title" = "ラスター (マルチCPU):";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSWindow"; title = "Benchmark"; ObjectID = "F0z-JX-Cv5"; */
+12,48c5,6
+< > "F0z-JX-Cv5.title" = "ベンチマーク";
+< 15c15
+< < "HvZ-Jb-z8d.title" = "The benchmark measures vector performance (CPU) and raster performance (CPU/GPU). The results strongly correlate to real-world performance over the majority of user documents.\n\nResults are comparable between different platforms, but are not comparable between different benchmark versions - even on the same platform.\n\nResults are linearly comparable (double the score means twice as fast).\n\nEach test is performed once and the result discarded, then performed again and the result taken. To obtain averaged results, multiple benchmark runs must be performed by the user.\n\nPlease ensure no other applications are running in the background before starting the benchmark.";
+< ---
+< > "HvZ-Jb-z8d.title" = "ベンチマークはベクターパフォーマンス(CPU)とラスターパフォーマンス(CPU/GPU)を測定します。結果は、大多数のユーザードキュメントの実際のパフォーマンスと強く相関しています。\n\n結果は異なるプラットフォーム間で比較可能ですが、同じプラットフォーム上であっても、異なるベンチマークバージョン間で比較することはできません。\n\n結果は線形的に比較できます(スコアが2倍になると、スピードも2倍になります)。\n\n各テストは1回実行され、結果は破棄されます。その後、再実行され、結果が取得されます。 結果の平均を取るには、ユーザーは複数のベンチマークを実行する必要があります。\n\nベンチマークを開始する前に、他のアプリケーションがバックグラウンドで実行されていないことを確認してください。";
+< 18c18
+< < "IRt-WE-fyO.title" = "Combined (Single GPU):";
+< ---
+< > "IRt-WE-fyO.title" = "結合 (単一GPU):";
+< 24c24
+< < "Q1w-d8-BYQ.title" = "Vector (Multi CPU):";
+< ---
+< > "Q1w-d8-BYQ.title" = "ベクター (マルチCPU):";
+< 30c30
+< < "Rzg-6s-6p7.title" = "Run Benchmark";
+< ---
+< > "Rzg-6s-6p7.title" = "ベンチマークを実行";
+< 36c36
+< < "YZj-yg-z8G.title" = "Version: ";
+< ---
+< > "YZj-yg-z8G.title" = "バージョン: ";
+< 48c48
+< < "oJK-lK-4Fj.title" = "Combined (Multi CPU):";
+< ---
+< > "oJK-lK-4Fj.title" = "結合 (複数CPU):";
+< 51c51
+< < "pP8-Bu-cEG.title" = "Raster (Single GPU):";
+< ---
+< > "pP8-Bu-cEG.title" = "ラスター (シングルGPU):";
+< 57c57
+< < "vcF-if-lt1.title" = "Vector (Single CPU):";
+< ---
+< > "vcF-if-lt1.title" = "ベクター (シングルCPU):";
+< 60c60
+< < "yb7-ZH-nRt.title" = "Combined (Multi GPU):";
+< ---
+< > "yb7-ZH-nRt.title" = "結合 (複数GPU):";
+---
+> > /* Class = "NSWindow"; title = "벤치마크"; ObjectID = "F0z-JX-Cv5"; */
+> > "F0z-JX-Cv5.title" = "벤치마크";

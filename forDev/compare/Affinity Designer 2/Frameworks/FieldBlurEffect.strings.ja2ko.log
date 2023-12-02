@@ -1,0 +1,58 @@
+1,9c1,2
+< 3c3
+< < "1.title" = "Field Blur";
+< ---
+< > "1.title" = "フィールドぼかし";
+< 6c6
+< < "12.title" = "Global Radius";
+< ---
+< > "12.title" = "グローバル半径";
+< 9c9
+---
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+12,13c5,8
+< > "26.title" = "適用";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "210"; */
+16,25c11,14
+< > "210.title" = "キャンセル";
+< 15c15
+< < "299-Qg-gwy.title" = "Selected Handle Level";
+< ---
+< > "299-Qg-gwy.title" = "選択されているハンドルレベル";
+< 18c18
+< < "L1D-3S-CeX.title" = "Selected Handle Power";
+< ---
+< > "L1D-3S-CeX.title" = "選択されているハンドルパワー";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "210"; */
+> > "210.title" = "취소";
+> 20,21c20,21
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "Ltk-tI-wRy"; */
+28,29c17,20
+< > "Ltk-tI-wRy.ibShadowedToolTip" = "分割表示";
+< 24c24
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Ltk-tI-wRy"; */
+> > "Ltk-tI-wRy.ibShadowedToolTip" = "분할 뷰 모드";
+> 23,24c23,24
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "MOA-Oa-wtv"; */
+32,33c23,26
+< > "MOA-Oa-wtv.ibShadowedToolTip" = "分割表示なし";
+< 27c27
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "MOA-Oa-wtv"; */
+> > "MOA-Oa-wtv.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> 26,27c26,27
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "z1c-Hh-uOd"; */
+36c29,30
+< > "z1c-Hh-uOd.ibShadowedToolTip" = "ミラー表示";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "z1c-Hh-uOd"; */
+> > "z1c-Hh-uOd.ibShadowedToolTip" = "거울 뷰 모드";

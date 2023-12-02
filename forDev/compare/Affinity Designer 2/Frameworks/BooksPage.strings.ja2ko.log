@@ -1,0 +1,240 @@
+1,2c1,3
+< 3c3
+< < "0RN-4Y-iUU.ibShadowedToolTip" = "Synchronize Chapters";
+---
+> 50,51c50,51
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DgW-h3-iGO"; */
+> < "DgW-h3-iGO.title" = "Text Cell";
+4,93c5,8
+< > "0RN-4Y-iUU.ibShadowedToolTip" = "章を同期";
+< 6c6
+< < "1iv-L6-xfY.title" = "Close Book";
+< ---
+< > "1iv-L6-xfY.title" = "書籍を閉じる";
+< 9c9
+< < "2Mq-rx-j2a.title" = "Add Chapter…";
+< ---
+< > "2Mq-rx-j2a.title" = "章を追加…";
+< 12c12
+< < "2vn-5R-eDw.title" = "Open Chapter";
+< ---
+< > "2vn-5R-eDw.title" = "章を開く";
+< 15c15
+< < "3nR-1W-Bph.title" = "New Book";
+< ---
+< > "3nR-1W-Bph.title" = "新しい書籍";
+< 18c18
+< < "4pf-zX-K40.title" = "Endnotes";
+< ---
+< > "4pf-zX-K40.title" = "文末脚注";
+< 21c21
+< < "5Y2-vF-ZIi.title" = "Pad";
+< ---
+< > "5Y2-vF-ZIi.title" = "パッド";
+< 24c24
+< < "6zQ-RC-mV4.title" = "Update Numbers Before Output";
+< ---
+< > "6zQ-RC-mV4.title" = "出力前に番号を更新";
+< 27c27
+< < "73Y-cv-vcb.title" = "Update Cross-References";
+< ---
+< > "73Y-cv-vcb.title" = "相互参照を更新";
+< 30c30
+< < "7cH-aV-sW5.title" = "This book currently has no chapters. Add afpub files using the add button below.";
+< ---
+< > "7cH-aV-sW5.title" = "この書籍にはまだ章がありません。下の追加ボタンを使用して、afpubファイルを追加してください。";
+< 33c33
+< < "88p-Da-FAh.title" = "Synchronize";
+< ---
+< > "88p-Da-FAh.title" = "同期";
+< 36c36
+< < "8hL-qx-lOh.title" = "Open Book…";
+< ---
+< > "8hL-qx-lOh.title" = "書籍を開く...";
+< 39c39
+< < "9Gi-kL-P1k.title" = "Update Page Numbers Automatically";
+< ---
+< > "9Gi-kL-P1k.title" = "ページ番号を自動更新";
+< 42c42
+< < "9RA-tx-wQ5.title" = "Update Cross-References Before Output";
+< ---
+< > "9RA-tx-wQ5.title" = "出力前に相互参照を更新";
+< 45c45
+< < "Bor-m1-YXE.title" = "Update Endnotes Before Output";
+< ---
+< > "Bor-m1-YXE.title" = "出力前に文末脚注を更新";
+< 48c48
+< < "CMY-Pk-DuC.title" = "Cross-References";
+< ---
+< > "CMY-Pk-DuC.title" = "相互参照";
+< 57c57
+< < "Ejp-eW-tjN.title" = "Stray Pages";
+< ---
+< > "Ejp-eW-tjN.title" = "浮遊ページ";
+< 60c60
+< < "FI2-o1-AYW.title" = "Table View Cell";
+< ---
+< > "FI2-o1-AYW.title" = "テーブルビューセル";
+< 63c63
+< < "FTj-nQ-aLm.title" = "Save Open Chapters";
+< ---
+< > "FTj-nQ-aLm.title" = "開いた章を保存";
+< 66c66
+< < "FV3-9o-Snq.title" = "Page Number Options…";
+< ---
+< > "FV3-9o-Snq.title" = "ページ番号のオプション...";
+< 69c69
+< < "GQ5-DU-XeS.title" = "Close Open Chapters";
+< ---
+< > "GQ5-DU-XeS.title" = "開いた章を閉じる";
+< 72c72
+< < "GeR-jr-Zhy.title" = "Open book...";
+< ---
+< > "GeR-jr-Zhy.title" = "書籍を開く...";
+< 75c75
+< < "HPD-Jg-rvi.title" = "You do not currently have any books open";
+< ---
+< > "HPD-Jg-rvi.title" = "開いている書籍がありません";
+< 78c78
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "DgW-h3-iGO"; */
+> > "DgW-h3-iGO.title" = "텍스트 셀";
+> 77,78c77,78
+> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "IKn-KI-5lS"; */
+96,101c11,14
+< > "IKn-KI-5lS.headerCell.title" = "名前";
+< 81c81
+< < "JPR-Fa-mVp.title" = "Update Numbers";
+< ---
+< > "JPR-Fa-mVp.title" = "番号を更新";
+< 84c84
+---
+> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "IKn-KI-5lS"; */
+> > "IKn-KI-5lS.headerCell.title" = "이름";
+> 83,84c83,84
+> < /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "NhY-ly-IgX"; */
+104,145c17,20
+< > "NhY-ly-IgX.title" = "プリント...";
+< 87c87
+< < "PBt-pF-YhS.title" = "Merge Where Possible";
+< ---
+< > "PBt-pF-YhS.title" = "可能な場合は結合";
+< 90c90
+< < "TbY-qQ-fT4.title" = "Open";
+< ---
+< > "TbY-qQ-fT4.title" = "開く";
+< 93c93
+< < "Tcf-B5-zEN.title" = "Set Style Source Chapter";
+< ---
+< > "Tcf-B5-zEN.title" = "元の章のスタイルを設定";
+< 96c96
+< < "UJ4-ve-VEH.title" = "Endnotes";
+< ---
+< > "UJ4-ve-VEH.title" = "文末脚注";
+< 99c99
+< < "XOx-cE-Nzx.title" = "List Numbers";
+< ---
+< > "XOx-cE-Nzx.title" = "番号をリスト";
+< 102c102
+< < "bZB-Ra-hl9.title" = "Update Numbers";
+< ---
+< > "bZB-Ra-hl9.title" = "番号を更新";
+< 105c105
+< < "cjl-qw-x8m.title" = "All Numbers";
+< ---
+< > "cjl-qw-x8m.title" = "すべての番号";
+< 108c108
+< < "dbA-6s-viJ.title" = "Preflight";
+< ---
+< > "dbA-6s-viJ.title" = "プリフライト";
+< 111c111
+< < "eDs-bG-Rtz.ibShadowedToolTip" = "Remove Chapter";
+< ---
+< > "eDs-bG-Rtz.ibShadowedToolTip" = "章を削除";
+< 114c114
+< < "eMW-8N-J7b.title" = "Note Numbers";
+< ---
+< > "eMW-8N-J7b.title" = "番号をメモ";
+< 117c117
+---
+> > /* Class = "NSMenuItem"; title = "인쇄…"; ObjectID = "NhY-ly-IgX"; */
+> > "NhY-ly-IgX.title" = "인쇄…";
+> 116,117c116,117
+> < /* Class = "NSMenuItem"; title = "Remove"; ObjectID = "for-aG-sBr"; */
+148,177c23,26
+< > "for-aG-sBr.title" = "削除";
+< 120c120
+< < "gae-j9-3e7.title" = "Update Numbers";
+< ---
+< > "gae-j9-3e7.title" = "番号を更新";
+< 123c123
+< < "h0y-I4-ATD.ibShadowedToolTip" = "Add Chapter";
+< ---
+< > "h0y-I4-ATD.ibShadowedToolTip" = "章を追加";
+< 126c126
+< < "kce-Hw-Tp4.title" = "Remove Chapter";
+< ---
+< > "kce-Hw-Tp4.title" = "章を削除";
+< 129c129
+< < "kfi-V5-YIe.title" = "Page Numbers";
+< ---
+< > "kfi-V5-YIe.title" = "ページ番号";
+< 132c132
+< < "ksX-YA-sCT.title" = "Create new book";
+< ---
+< > "ksX-YA-sCT.title" = "書籍を新規作成";
+< 135c135
+< < "ky1-11-iFl.title" = "Stray Pages";
+< ---
+< > "ky1-11-iFl.title" = "浮遊ページ";
+< 138c138
+< < "lOK-qQ-QSS.title" = "Synchronize";
+< ---
+< > "lOK-qQ-QSS.title" = "同期";
+< 144c144
+---
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "for-aG-sBr"; */
+> > "for-aG-sBr.title" = "지우기";
+> 143,144c143,144
+> < /* Class = "NSMenuItem"; title = "Export…"; ObjectID = "m47-XC-eqb"; */
+180,181c29,32
+< > "m47-XC-eqb.title" = "書き出し...";
+< 147c147
+---
+> > /* Class = "NSMenuItem"; title = "내보내기…"; ObjectID = "m47-XC-eqb"; */
+> > "m47-XC-eqb.title" = "내보내기…";
+> 146,147c146,147
+> < /* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "rNw-XT-jPj"; */
+184,212c35,36
+< > "rNw-XT-jPj.title" = "Finderで表示";
+< 150c150
+< < "s7I-nh-d7S.title" = "Insert Endnotes";
+< ---
+< > "s7I-nh-d7S.title" = "文末脚注を挿入";
+< 153c153
+< < "tap-74-kFl.title" = "Save Book";
+< ---
+< > "tap-74-kFl.title" = "書籍を保存";
+< 156c156
+< < "tdN-U9-gjD.title" = "Cross-References";
+< ---
+< > "tdN-U9-gjD.title" = "相互参照";
+< 159c159
+< < "thD-sc-eUY.title" = "Synchronize Settings…";
+< ---
+< > "thD-sc-eUY.title" = "設定を同期…";
+< 162c162
+< < "vWV-BJ-7So.title" = "Update Endnotes";
+< ---
+< > "vWV-BJ-7So.title" = "文末脚注を更新";
+< 165c165
+< < "wWa-BZ-hme.title" = "Save Book As…";
+< ---
+< > "wWa-BZ-hme.title" = "名前を付けて書籍を保存...";
+< 168c168
+< < "xqA-ks-zJ8.title" = "Replace Chapter…";
+< ---
+< > "xqA-ks-zJ8.title" = "章を置換…";
+---
+> > /* Class = "NSMenuItem"; title = "Finder에서 찾기"; ObjectID = "rNw-XT-jPj"; */
+> > "rNw-XT-jPj.title" = "Finder에서 찾기";

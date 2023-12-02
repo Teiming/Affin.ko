@@ -1,0 +1,24 @@
+14,15c14,15
+< /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "Y9C-cY-t7h"; */
+< "Y9C-cY-t7h.title" = "Delete";
+---
+> /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "Y9C-cY-t7h"; */
+> "Y9C-cY-t7h.title" = "지우기";
+17,18c17,18
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aGA-1U-QDO"; */
+< "aGA-1U-QDO.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aGA-1U-QDO"; */
+> "aGA-1U-QDO.title" = "텍스트 셀";
+20,21c20,21
+< /* Class = "NSButton"; ibShadowedToolTip = "Remove Layer"; ObjectID = "c4c-FG-eib"; */
+< "c4c-FG-eib.ibShadowedToolTip" = "Remove Layer";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "레이어 지우기"; ObjectID = "c4c-FG-eib"; */
+> "c4c-FG-eib.ibShadowedToolTip" = "레이어 지우기";
+23,24c23,24
+< /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "cTL-4a-86p"; */
+< "cTL-4a-86p.title" = "Duplicate";
+---
+> /* Class = "NSMenuItem"; title = "복제"; ObjectID = "cTL-4a-86p"; */
+> "cTL-4a-86p.title" = "복제";

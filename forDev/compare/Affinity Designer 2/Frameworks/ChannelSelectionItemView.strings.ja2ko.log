@@ -1,0 +1,42 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Channel"; ObjectID = "6"; */
+4,5c5,8
+< > "6.title" = "チャンネル";
+< 6c6
+---
+> > /* Class = "NSTextFieldCell"; title = "채널"; ObjectID = "6"; */
+> > "6.title" = "채널";
+> 5,6c5,6
+> < /* Class = "NSMenuItem"; title = "Fill"; ObjectID = "8Oh-Jc-9Je"; */
+8,21c11,14
+< > "8Oh-Jc-9Je.title" = "塗りつぶし";
+< 9c9
+< < "9ev-uB-3HM.title" = "Create Mask Layer";
+< ---
+< > "9ev-uB-3HM.title" = "マスクレイヤーを作成";
+< 12c12
+< < "Eo8-IS-eFX.title" = "Clear";
+< ---
+< > "Eo8-IS-eFX.title" = "クリア";
+< 15c15
+< < "Jhe-BH-ecw.title" = "Create Grayscale Layer";
+< ---
+< > "Jhe-BH-ecw.title" = "グレースケールレイヤーを作成";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "칠"; ObjectID = "8Oh-Jc-9Je"; */
+> > "8Oh-Jc-9Je.title" = "칠";
+> 17,18c17,18
+> < /* Class = "NSMenuItem"; title = "Invert"; ObjectID = "ftZ-eK-DPO"; */
+24,28c17,18
+< > "ftZ-eK-DPO.title" = "反転";
+< 21c21
+< < "zLw-s4-GJV.title" = "Create Spare Channel";
+< ---
+< > "zLw-s4-GJV.title" = "スペアチャンネルを作成";
+---
+> > /* Class = "NSMenuItem"; title = "반전"; ObjectID = "ftZ-eK-DPO"; */
+> > "ftZ-eK-DPO.title" = "반전";

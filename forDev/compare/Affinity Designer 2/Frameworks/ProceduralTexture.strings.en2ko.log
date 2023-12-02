@@ -1,0 +1,84 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+< "26.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> "26.title" = "적용";
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "409"; */
+< "409.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "409"; */
+> "409.title" = "취소";
+20,21c20,21
+< /* Class = "NSMenuItem"; title = "Replace Preset…"; ObjectID = "FF3-zW-9BI"; */
+< "FF3-zW-9BI.title" = "Replace Preset…";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 교체…"; ObjectID = "FF3-zW-9BI"; */
+> "FF3-zW-9BI.title" = "미리 설정 교체…";
+23,24c23,24
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "HAM-xc-XWL"; */
+< "HAM-xc-XWL.ibShadowedToolTip" = "No split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "HAM-xc-XWL"; */
+> "HAM-xc-XWL.ibShadowedToolTip" = "분할 뷰 모드 해제";
+29,30c29,30
+< /* Class = "NSMenuItem"; title = "Delete Preset"; ObjectID = "KPD-TO-M8a"; */
+< "KPD-TO-M8a.title" = "Delete Preset";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "KPD-TO-M8a"; */
+> "KPD-TO-M8a.title" = "미리 설정 지우기";
+35,36c35,36
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O32-9B-Qcb"; */
+< "O32-9B-Qcb.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "O32-9B-Qcb"; */
+> "O32-9B-Qcb.title" = "텍스트 셀";
+38,39c38,39
+< /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "OJr-9Q-Zi7"; */
+< "OJr-9Q-Zi7.title" = "Preset:";
+---
+> /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "OJr-9Q-Zi7"; */
+> "OJr-9Q-Zi7.title" = "미리 설정:";
+41,42c41,42
+< /* Class = "NSMenuItem"; title = "Create Preset…"; ObjectID = "QUN-N2-3j8"; */
+< "QUN-N2-3j8.title" = "Create Preset…";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 생성…"; ObjectID = "QUN-N2-3j8"; */
+> "QUN-N2-3j8.title" = "미리 설정 생성…";
+44,45c44,45
+< /* Class = "NSTextFieldCell"; title = "Equations"; ObjectID = "WEp-G8-si7"; */
+< "WEp-G8-si7.title" = "Equations";
+---
+> /* Class = "NSTextFieldCell"; title = "수식"; ObjectID = "WEp-G8-si7"; */
+> "WEp-G8-si7.title" = "수식";
+47,48c47,48
+< /* Class = "NSMenuItem"; title = "Manage Presets…"; ObjectID = "XYs-6N-kzE"; */
+< "XYs-6N-kzE.title" = "Manage Presets…";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 관리자…"; ObjectID = "XYs-6N-kzE"; */
+> "XYs-6N-kzE.title" = "미리 설정 관리자…";
+50,51c50,51
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "YM1-iR-xw4"; */
+< "YM1-iR-xw4.ibShadowedToolTip" = "Mirror view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "YM1-iR-xw4"; */
+> "YM1-iR-xw4.ibShadowedToolTip" = "거울 뷰 모드";
+62,63c62,63
+< /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "e8u-nf-ZA5"; */
+< "e8u-nf-ZA5.title" = "Preset:";
+---
+> /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "e8u-nf-ZA5"; */
+> "e8u-nf-ZA5.title" = "미리 설정:";
+71,72c71,72
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "iXX-PJ-A0s"; */
+< "iXX-PJ-A0s.ibShadowedToolTip" = "Split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "iXX-PJ-A0s"; */
+> "iXX-PJ-A0s.ibShadowedToolTip" = "분할 뷰 모드";
+80,81c80,81
+< /* Class = "NSMenuItem"; title = "Rename Preset…"; ObjectID = "u2R-2O-9SM"; */
+< "u2R-2O-9SM.title" = "Rename Preset…";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 이름 변경…"; ObjectID = "u2R-2O-9SM"; */
+> "u2R-2O-9SM.title" = "미리 설정 이름 변경…";

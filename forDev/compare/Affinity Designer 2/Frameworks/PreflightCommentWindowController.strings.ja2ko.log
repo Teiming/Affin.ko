@@ -1,0 +1,26 @@
+1,9c1,2
+< 3c3
+< < "F0z-JX-Cv5.title" = "Preflight Comment";
+< ---
+< > "F0z-JX-Cv5.title" = "プリフライトコメント";
+< 6c6
+< < "HNC-PO-JjN.ibShadowedToolTip" = "Enter a name for the preset";
+< ---
+< > "HNC-PO-JjN.ibShadowedToolTip" = "プリセットの名前を入力";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "oqI-3l-KrN"; */
+12,20c5,6
+< > "oqI-3l-KrN.title" = "キャンセル";
+< 15c15
+< < "tfI-u1-DXh.placeholderString" = "Enter a reminder to appear in preflight";
+< ---
+< > "tfI-u1-DXh.placeholderString" = "プレフライトに表示するリマインダーを入力";
+< 18c18
+< < "xdh-2Q-KKj.title" = "Comment:";
+< ---
+< > "xdh-2Q-KKj.title" = "コメント:";
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "oqI-3l-KrN"; */
+> > "oqI-3l-KrN.title" = "취소";

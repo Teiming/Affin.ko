@@ -1,0 +1,26 @@
+1,9c1,2
+< 3c3
+< < "F0z-JX-Cv5.title" = "Create New Document Preset";
+< ---
+< > "F0z-JX-Cv5.title" = "新しいドキュメントプリセットを作成";
+< 6c6
+< < "J75-m7-bDx.title" = "Icon:";
+< ---
+< > "J75-m7-bDx.title" = "アイコン:";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Ofx-IH-8Yk"; */
+12,20c5,6
+< > "Ofx-IH-8Yk.title" = "キャンセル";
+< 15c15
+< < "WdQ-bo-9MM.title" = "Category:";
+< ---
+< > "WdQ-bo-9MM.title" = "カテゴリ:";
+< 18c18
+< < "qpR-5B-5nQ.title" = "Enter the name of the preset:";
+< ---
+< > "qpR-5B-5nQ.title" = "プリセットの名前を入力:";
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "Ofx-IH-8Yk"; */
+> > "Ofx-IH-8Yk.title" = "취소";

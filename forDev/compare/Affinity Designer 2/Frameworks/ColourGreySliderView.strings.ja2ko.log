@@ -1,0 +1,10 @@
+1,2c1,2
+< 3c3
+< < "22.title" = "Gray";
+---
+> 2c2
+> < /* Class = "NSTextFieldCell"; title = "Grey"; ObjectID = "22"; */
+4c4
+< > "22.title" = "グレー";
+---
+> > /* Class = "NSTextFieldCell"; title = "회색"; ObjectID = "22"; */

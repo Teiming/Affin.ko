@@ -1,0 +1,30 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Rename"; ObjectID = "KPz-VH-ML0"; */
+< "KPz-VH-ML0.title" = "Rename";
+---
+> /* Class = "NSButtonCell"; title = "이름 변경"; ObjectID = "KPz-VH-ML0"; */
+> "KPz-VH-ML0.title" = "이름 변경";
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "LYK-dK-Igd"; */
+< "LYK-dK-Igd.title" = "Close";
+---
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "LYK-dK-Igd"; */
+> "LYK-dK-Igd.title" = "닫기";
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Wre-B3-Zlx"; */
+< "Wre-B3-Zlx.title" = "Delete";
+---
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Wre-B3-Zlx"; */
+> "Wre-B3-Zlx.title" = "지우기";
+14,15c14,15
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YPA-BD-b3G"; */
+< "YPA-BD-b3G.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YPA-BD-b3G"; */
+> "YPA-BD-b3G.title" = "텍스트 셀";
+17,18c17,18
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "cLf-5a-WQh"; */
+< "cLf-5a-WQh.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "cLf-5a-WQh"; */
+> "cLf-5a-WQh.title" = "적용";

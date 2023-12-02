@@ -1,0 +1,12 @@
+2,3c2,3
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+< "11.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "11"; */
+> "11.title" = "텍스트 셀";
+8,9c8,9
+< /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "eOq-2N-KHp"; */
+< "eOq-2N-KHp.title" = "Preset:";
+---
+> /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "eOq-2N-KHp"; */
+> "eOq-2N-KHp.title" = "미리 설정:";

@@ -1,0 +1,66 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSWindow"; title = "Mirror"; ObjectID = "1"; */
+4,5c5,8
+< > "1.title" = "ミラー";
+< 6c6
+---
+> > /* Class = "NSWindow"; title = "거울"; ObjectID = "1"; */
+> > "1.title" = "거울";
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+8,9c11,14
+< > "26.title" = "適用";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > "26.title" = "적용";
+> 8,9c8,9
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "199"; */
+12,13c17,20
+< > "199.title" = "キャンセル";
+< 12c12
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "199"; */
+> > "199.title" = "취소";
+> 11,12c11,12
+> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "3H6-CQ-Qkq"; */
+16,17c23,26
+< > "3H6-CQ-Qkq.ibShadowedToolTip" = "分割表示なし";
+< 15c15
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "3H6-CQ-Qkq"; */
+> > "3H6-CQ-Qkq.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> 14,15c14,15
+> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "9Ei-3U-sz4"; */
+20,21c29,32
+< > "9Ei-3U-sz4.ibShadowedToolTip" = "分割表示";
+< 18c18
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "9Ei-3U-sz4"; */
+> > "9Ei-3U-sz4.ibShadowedToolTip" = "분할 뷰 모드";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Output"; ObjectID = "KQR-3e-ZqL"; */
+24,29c35,38
+< > "KQR-3e-ZqL.title" = "出力";
+< 21c21
+< < "NH6-Zh-Y2X.title" = "Input";
+< ---
+< > "NH6-Zh-Y2X.title" = "入力";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "출력"; ObjectID = "KQR-3e-ZqL"; */
+> > "KQR-3e-ZqL.title" = "출력";
+> 23,24c23,24
+> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "cdJ-7P-tRI"; */
+32,36c41,42
+< > "cdJ-7P-tRI.ibShadowedToolTip" = "ミラー表示";
+< 27c27
+< < "s4n-JP-uzW.title" = "Number of mirrors";
+< ---
+< > "s4n-JP-uzW.title" = "ミラー数";
+---
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "cdJ-7P-tRI"; */
+> > "cdJ-7P-tRI.ibShadowedToolTip" = "거울 뷰 모드";

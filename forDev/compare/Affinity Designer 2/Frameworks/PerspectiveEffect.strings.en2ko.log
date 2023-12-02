@@ -1,0 +1,42 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+< "26.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> "26.title" = "적용";
+17,18c17,18
+< /* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "415"; */
+< "415.title" = "Mode";
+---
+> /* Class = "NSTextFieldCell"; title = "모드"; ObjectID = "415"; */
+> "415.title" = "모드";
+20,21c20,21
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "419"; */
+< "419.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "419"; */
+> "419.title" = "취소";
+47,48c47,48
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "ape-wA-ILc"; */
+< "ape-wA-ILc.ibShadowedToolTip" = "No split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "ape-wA-ILc"; */
+> "ape-wA-ILc.ibShadowedToolTip" = "분할 뷰 모드 해제";
+50,51c50,51
+< /* Class = "NSButtonCell"; title = "Show grid"; ObjectID = "bRN-dS-8ts"; */
+< "bRN-dS-8ts.title" = "Show grid";
+---
+> /* Class = "NSButtonCell"; title = "격자 보기"; ObjectID = "bRN-dS-8ts"; */
+> "bRN-dS-8ts.title" = "격자 보기";
+56,57c56,57
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "ivL-5e-Ygf"; */
+< "ivL-5e-Ygf.ibShadowedToolTip" = "Mirror view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "ivL-5e-Ygf"; */
+> "ivL-5e-Ygf.ibShadowedToolTip" = "거울 뷰 모드";
+62,63c62,63
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "tW5-uW-7Jg"; */
+< "tW5-uW-7Jg.ibShadowedToolTip" = "Split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "tW5-uW-7Jg"; */
+> "tW5-uW-7Jg.ibShadowedToolTip" = "분할 뷰 모드";

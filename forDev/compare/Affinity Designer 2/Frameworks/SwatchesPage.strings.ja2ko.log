@@ -1,0 +1,537 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "21"; */
+4,5c5,8
+< > "21.title" = "不透明度:";
+< 18c18
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "21"; */
+> > "21.title" = "불투명도:";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Recent:"; ObjectID = "48"; */
+8,13c11,14
+< > "48.title" = "最近使用したもの:";
+< 21c21
+< < "0XQ-Dp-i9p.title" = "Delete Palette…";
+< ---
+< > "0XQ-Dp-i9p.title" = "パレットを削除…";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "최근 사용 항목:"; ObjectID = "48"; */
+> > "48.title" = "최근 사용 항목:";
+> 23,24c23,24
+> < /* Class = "NSMenuItem"; title = "Large"; ObjectID = "2m3-UA-vhT"; */
+16,17c17,20
+< > "2m3-UA-vhT.title" = "大";
+< 27c27
+---
+> > /* Class = "NSMenuItem"; title = "크게"; ObjectID = "2m3-UA-vhT"; */
+> > "2m3-UA-vhT.title" = "크게";
+> 26,27c26,27
+> < /* Class = "NSMenuItem"; title = "As System Palette"; ObjectID = "4Sv-Gb-VDR"; */
+20,21c23,26
+< > "4Sv-Gb-VDR.title" = "システムパレットとして";
+< 30c30
+---
+> > /* Class = "NSMenuItem"; title = "시스템 팔레트로"; ObjectID = "4Sv-Gb-VDR"; */
+> > "4Sv-Gb-VDR.title" = "시스템 팔레트로";
+> 29,30c29,30
+> < /* Class = "NSMenuItem"; title = "Square"; ObjectID = "4VJ-6L-UfV"; */
+24,26c29,32
+< > "4VJ-6L-UfV.title" = "正方形";
+< 33c33
+< < "4fX-75-WPj.title" = "Create Color Chord";
+---
+> > /* Class = "NSMenuItem"; title = "사각형"; ObjectID = "4VJ-6L-UfV"; */
+> > "4VJ-6L-UfV.title" = "사각형";
+> 32c32
+> < /* Class = "NSMenu"; title = "Create Colour Chord"; ObjectID = "4fX-75-WPj"; */
+28,29c34,36
+< > "4fX-75-WPj.title" = "カラーコードを作成";
+< 36c36
+---
+> > /* Class = "NSMenu"; title = "색상 코드 생성"; ObjectID = "4fX-75-WPj"; */
+> 35,36c35,36
+> < /* Class = "NSMenuItem"; title = "Create Palette From Document"; ObjectID = "4jC-c4-oW2"; */
+32,33c39,42
+< > "4jC-c4-oW2.title" = "ドキュメントからパレットを作成";
+< 39c39
+---
+> > /* Class = "NSMenuItem"; title = "문서로부터 팔레트 생성"; ObjectID = "4jC-c4-oW2"; */
+> > "4jC-c4-oW2.title" = "문서로부터 팔레트 생성";
+> 38,39c38,39
+> < /* Class = "NSMenuItem"; title = "Set as Default for"; ObjectID = "5Zj-aB-NkD"; */
+36,38c45,48
+< > "5Zj-aB-NkD.title" = "デフォルトとして設定";
+< 42c42
+< < "6y5-C0-TmG.title" = "Create Color Chord";
+---
+> > /* Class = "NSMenuItem"; title = "기본값으로 설정하기"; ObjectID = "5Zj-aB-NkD"; */
+> > "5Zj-aB-NkD.title" = "기본값으로 설정하기";
+> 41c41
+> < /* Class = "NSMenuItem"; title = "Create Colour Chord"; ObjectID = "6y5-C0-TmG"; */
+40,41c50,52
+< > "6y5-C0-TmG.title" = "カラーコードを作成";
+< 45c45
+---
+> > /* Class = "NSMenuItem"; title = "색상 코드 생성"; ObjectID = "6y5-C0-TmG"; */
+> 44,45c44,45
+> < /* Class = "NSMenuItem"; title = "Delete Fill"; ObjectID = "702-F3-BkM"; */
+44,49c55,58
+< > "702-F3-BkM.title" = "塗りつぶしを削除";
+< 48c48
+< < "90B-4q-FDG.title" = "Accented Analogic";
+< ---
+< > "90B-4q-FDG.title" = "アクセント色と類似色";
+< 51c51
+---
+> > /* Class = "NSMenuItem"; title = "칠 지우기"; ObjectID = "702-F3-BkM"; */
+> > "702-F3-BkM.title" = "칠 지우기";
+> 50,51c50,51
+> < /* Class = "NSMenuItem"; title = "Sort"; ObjectID = "939-qT-dCy"; */
+52,53c61,64
+< > "939-qT-dCy.title" = "並べ替え";
+< 54c54
+---
+> > /* Class = "NSMenuItem"; title = "정렬"; ObjectID = "939-qT-dCy"; */
+> > "939-qT-dCy.title" = "정렬";
+> 53,54c53,54
+> < /* Class = "NSMenuItem"; title = "Remove Default for"; ObjectID = "AoK-tK-t3z"; */
+56,61c67,70
+< > "AoK-tK-t3z.title" = "次のデフォルト設定を削除";
+< 57c57
+< < "AvM-iu-PI5.title" = "Accented Analogic";
+< ---
+< > "AvM-iu-PI5.title" = "アクセント色と類似色";
+< 60c60
+---
+> > /* Class = "NSMenuItem"; title = "기본값 지우기"; ObjectID = "AoK-tK-t3z"; */
+> > "AoK-tK-t3z.title" = "기본값 지우기";
+> 59,60c59,60
+> < /* Class = "NSMenuItem"; title = "Edit Fill…"; ObjectID = "CMJ-rh-fXD"; */
+64,65c73,76
+< > "CMJ-rh-fXD.title" = "塗りつぶしの編集…";
+< 63c63
+---
+> > /* Class = "NSMenuItem"; title = "칠 편집…"; ObjectID = "CMJ-rh-fXD"; */
+> > "CMJ-rh-fXD.title" = "칠 편집…";
+> 62,63c62,63
+> < /* Class = "NSMenuItem"; title = "Complementary"; ObjectID = "CX9-2x-YHJ"; */
+68,73c79,82
+< > "CX9-2x-YHJ.title" = "補色";
+< 66c66
+< < "DU5-ep-6C2.title" = "Gray/8";
+< ---
+< > "DU5-ep-6C2.title" = "グレー/8";
+< 69c69
+---
+> > /* Class = "NSMenuItem"; title = "보색"; ObjectID = "CX9-2x-YHJ"; */
+> > "CX9-2x-YHJ.title" = "보색";
+> 68,69c68,69
+> < /* Class = "NSMenuItem"; title = "Make Copy"; ObjectID = "DZJ-lK-gO1"; */
+76,77c85,88
+< > "DZJ-lK-gO1.title" = "コピーを作成";
+< 72c72
+---
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "DZJ-lK-gO1"; */
+> > "DZJ-lK-gO1.title" = "복사";
+> 71,72c71,72
+> < /* Class = "NSMenuItem"; title = "Alphabetical"; ObjectID = "EqU-Y7-uib"; */
+80,81c91,94
+< > "EqU-Y7-uib.title" = "アルファベット順";
+< 75c75
+---
+> > /* Class = "NSMenuItem"; title = "알파벳순"; ObjectID = "EqU-Y7-uib"; */
+> > "EqU-Y7-uib.title" = "알파벳순";
+> 74,75c74,75
+> < /* Class = "NSMenu"; title = "Sort"; ObjectID = "G7c-Su-VAk"; */
+84,85c97,100
+< > "G7c-Su-VAk.title" = "並べ替え";
+< 78c78
+---
+> > /* Class = "NSMenu"; title = "정렬"; ObjectID = "G7c-Su-VAk"; */
+> > "G7c-Su-VAk.title" = "정렬";
+> 77,78c77,78
+> < /* Class = "NSMenuItem"; title = "Create Palette From Image…"; ObjectID = "GTV-TK-xt0"; */
+88,89c103,106
+< > "GTV-TK-xt0.title" = "画像からパレットを作成…";
+< 81c81
+---
+> > /* Class = "NSMenuItem"; title = "이미지로부터 팔레트 생성…"; ObjectID = "GTV-TK-xt0"; */
+> > "GTV-TK-xt0.title" = "이미지로부터 팔레트 생성…";
+> 80,81c80,81
+> < /* Class = "NSMenuItem"; title = "Analogous"; ObjectID = "Gad-hH-GjM"; */
+92,93c109,112
+< > "Gad-hH-GjM.title" = "類似色";
+< 84c84
+---
+> > /* Class = "NSMenuItem"; title = "유사색"; ObjectID = "Gad-hH-GjM"; */
+> > "Gad-hH-GjM.title" = "유사색";
+> 83,84c83,84
+> < /* Class = "NSMenu"; title = "Set as Default for"; ObjectID = "GlH-WA-0ql"; */
+96,105c115,118
+< > "GlH-WA-0ql.title" = "デフォルトとして設定";
+< 87c87
+< < "Gp9-sN-I78.title" = "Gray/8";
+< ---
+< > "Gp9-sN-I78.title" = "グレー/8";
+< 90c90
+< < "HFx-hi-kfL.title" = "Rename Palette…";
+< ---
+< > "HFx-hi-kfL.title" = "パレット名を変更...";
+< 96c96
+---
+> > /* Class = "NSMenu"; title = "기본값으로 설정하기"; ObjectID = "GlH-WA-0ql"; */
+> > "GlH-WA-0ql.title" = "기본값으로 설정하기";
+> 95,96c95,96
+> < /* Class = "NSMenuItem"; title = "As Application Palette"; ObjectID = "HY9-Co-b0N"; */
+108,113c121,124
+< > "HY9-Co-b0N.title" = "アプリケーションパレットとして";
+< 99c99
+< < "HYw-IY-jyY.title" = "Tetradic";
+< ---
+< > "HYw-IY-jyY.title" = "4色配色";
+< 102c102
+---
+> > /* Class = "NSMenuItem"; title = "응용프로그램 팔레트로"; ObjectID = "HY9-Co-b0N"; */
+> > "HY9-Co-b0N.title" = "응용프로그램 팔레트로";
+> 101,102c101,102
+> < /* Class = "NSMenu"; title = "Import Palette…"; ObjectID = "HqM-yS-mXn"; */
+116,117c127,130
+< > "HqM-yS-mXn.title" = "パレットをインポート…";
+< 105c105
+---
+> > /* Class = "NSMenu"; title = "팔레트 들여오기…"; ObjectID = "HqM-yS-mXn"; */
+> > "HqM-yS-mXn.title" = "팔레트 들여오기…";
+> 104,105c104,105
+> < /* Class = "NSMenuItem"; title = "Tints"; ObjectID = "I29-uM-OPY"; */
+120,125c133,136
+< > "I29-uM-OPY.title" = "色合い";
+< 108c108
+< < "ID1-UI-EuY.title" = "Link Palette";
+< ---
+< > "ID1-UI-EuY.title" = "パレットをリンク";
+< 111c111
+---
+> > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "I29-uM-OPY"; */
+> > "I29-uM-OPY.title" = "틴트";
+> 110,111c110,111
+> < /* Class = "NSMenuItem"; title = "Make Global"; ObjectID = "IDB-lr-5hd"; */
+128,137c139,142
+< > "IDB-lr-5hd.title" = "グローバルにする";
+< 114c114
+< < "IhS-jO-2Z2.title" = "Spot";
+< ---
+< > "IhS-jO-2Z2.title" = "スポット";
+< 117c117
+< < "JQh-fB-Ibz.title" = "Overprint";
+< ---
+< > "JQh-fB-Ibz.title" = "オーバープリント";
+< 120c120
+---
+> > /* Class = "NSMenuItem"; title = "전역 만들기"; ObjectID = "IDB-lr-5hd"; */
+> > "IDB-lr-5hd.title" = "전역 만들기";
+> 119,120c119,120
+> < /* Class = "NSMenuItem"; title = "Shades"; ObjectID = "JfY-3x-waS"; */
+140,141c145,148
+< > "JfY-3x-waS.title" = "陰影";
+< 123c123
+---
+> > /* Class = "NSMenuItem"; title = "셰이드"; ObjectID = "JfY-3x-waS"; */
+> > "JfY-3x-waS.title" = "셰이드";
+> 122,123c122,123
+> < /* Class = "NSMenuItem"; title = "As Application Palette"; ObjectID = "Jxa-b6-x9h"; */
+144,145c151,154
+< > "Jxa-b6-x9h.title" = "アプリケーションパレットとして";
+< 126c126
+---
+> > /* Class = "NSMenuItem"; title = "응용프로그램 팔레트로"; ObjectID = "Jxa-b6-x9h"; */
+> > "Jxa-b6-x9h.title" = "응용프로그램 팔레트로";
+> 125,126c125,126
+> < /* Class = "NSMenuItem"; title = "Complementary"; ObjectID = "K4N-2d-5Wg"; */
+148,150c157,160
+< > "K4N-2d-5Wg.title" = "補色";
+< 129c129
+< < "KdP-pp-jb0.title" = "Delete Color";
+---
+> > /* Class = "NSMenuItem"; title = "보색"; ObjectID = "K4N-2d-5Wg"; */
+> > "K4N-2d-5Wg.title" = "보색";
+> 128c128
+> < /* Class = "NSMenuItem"; title = "Delete Colour"; ObjectID = "KdP-pp-jb0"; */
+152,153c162,164
+< > "KdP-pp-jb0.title" = "カラーを削除";
+< 132c132
+---
+> > /* Class = "NSMenuItem"; title = "색상 지우기"; ObjectID = "KdP-pp-jb0"; */
+> 131,135c131,132
+> < /* Class = "NSMenuItem"; title = "As Document Palette"; ObjectID = "MQJ-dV-vvh"; */
+155,157c166,167
+< ---
+< > "MQJ-dV-vvh.title" = "ドキュメントパレットとして";
+< 135c135
+---
+> < 
+> < /* Class = "NSMenuItem"; title = "Export Palette…"; ObjectID = "NUe-XC-0vt"; */
+160,161c170,173
+< > "NUe-XC-0vt.title" = "パレットを書き出し…";
+< 138c138
+---
+> > /* Class = "NSMenuItem"; title = "문서 팔레트로"; ObjectID = "MQJ-dV-vvh"; */
+> > "MQJ-dV-vvh.title" = "문서 팔레트로";
+> 137,138c134,135
+> < /* Class = "NSMenuItem"; title = "Shades"; ObjectID = "P0S-kK-7hx"; */
+164,165c176,179
+< > "P0S-kK-7hx.title" = "陰影";
+< 141c141
+---
+> > /* Class = "NSMenuItem"; title = "팔레트 내보내기…"; ObjectID = "NUe-XC-0vt"; */
+> > "NUe-XC-0vt.title" = "팔레트 내보내기…";
+> 140,141c137,138
+> < /* Class = "NSMenuItem"; title = "Tones"; ObjectID = "QbD-w5-wlR"; */
+168,170c182,189
+< > "QbD-w5-wlR.title" = "色調";
+< 150c150
+< < "UdG-ak-nUF.title" = "Tetradic";
+---
+> > /* Class = "NSMenuItem"; title = "셰이드"; ObjectID = "P0S-kK-7hx"; */
+> > "P0S-kK-7hx.title" = "셰이드";
+> 142a140,142
+> > /* Class = "NSMenuItem"; title = "톤"; ObjectID = "QbD-w5-wlR"; */
+> > "QbD-w5-wlR.title" = "톤";
+> > 
+> 155c155
+> < /* Class = "NSMenu"; title = "Create Colour Chord"; ObjectID = "VTD-CS-DWs"; */
+172,174c191,193
+< > "UdG-ak-nUF.title" = "4色配色";
+< 153c153
+< < "V1H-S2-b5e.title" = "Uninstall Pack…";
+---
+> > /* Class = "NSMenu"; title = "색상 코드 생성"; ObjectID = "VTD-CS-DWs"; */
+> 158c158
+> < /* Class = "NSMenuItem"; title = "Create Colour Chord"; ObjectID = "Xur-q2-nZs"; */
+176,178c195,197
+< > "V1H-S2-b5e.title" = "パックをアンインストール…";
+< 156c156
+< < "VTD-CS-DWs.title" = "Create Color Chord";
+---
+> > /* Class = "NSMenuItem"; title = "색상 코드 생성"; ObjectID = "Xur-q2-nZs"; */
+> 161c161
+> < /* Class = "NSMenuItem"; title = "Add Global Colour…"; ObjectID = "Xwd-QQ-yzz"; */
+180,189c199,201
+< > "VTD-CS-DWs.title" = "カラーコードを作成";
+< 159c159
+< < "Xur-q2-nZs.title" = "Create Color Chord";
+< ---
+< > "Xur-q2-nZs.title" = "カラーコードを作成";
+< 162c162
+< < "Xwd-QQ-yzz.title" = "Add Global Color…";
+< ---
+< > "Xwd-QQ-yzz.title" = "グローバルカラーを追加…";
+< 165c165
+---
+> > /* Class = "NSMenuItem"; title = "전역 색상 추가…"; ObjectID = "Xwd-QQ-yzz"; */
+> 164,165c164,165
+> < /* Class = "NSMenuItem"; title = "Medium"; ObjectID = "YwF-wG-KCG"; */
+192,193c204,207
+< > "YwF-wG-KCG.title" = "中";
+< 174c174
+---
+> > /* Class = "NSMenuItem"; title = "중간"; ObjectID = "YwF-wG-KCG"; */
+> > "YwF-wG-KCG.title" = "중간";
+> 173,174c173,174
+> < /* Class = "NSMenuItem"; title = "As System Palette"; ObjectID = "a3f-B0-2oj"; */
+196,197c210,213
+< > "a3f-B0-2oj.title" = "システムパレットとして";
+< 177c177
+---
+> > /* Class = "NSMenuItem"; title = "시스템 팔레트로"; ObjectID = "a3f-B0-2oj"; */
+> > "a3f-B0-2oj.title" = "시스템 팔레트로";
+> 176,177c176,177
+> < /* Class = "NSMenu"; title = "Appearance"; ObjectID = "aGG-Cg-LNV"; */
+200,205c216,219
+< > "aGG-Cg-LNV.title" = "アピアランス";
+< 180c180
+< < "aGu-j9-PHV.title" = "Add Document Palette…";
+< ---
+< > "aGu-j9-PHV.title" = "ドキュメントパレットを追加…";
+< 183c183
+---
+> > /* Class = "NSMenu"; title = "외관"; ObjectID = "aGG-Cg-LNV"; */
+> > "aGG-Cg-LNV.title" = "외관";
+> 182,183c182,183
+> < /* Class = "NSMenuItem"; title = "Square"; ObjectID = "cWa-ih-qi3"; */
+208,213c222,225
+< > "cWa-ih-qi3.title" = "正方形";
+< 186c186
+< < "dWJ-U2-sg7.title" = "Triadic";
+< ---
+< > "dWJ-U2-sg7.title" = "3色配色";
+< 189c189
+---
+> > /* Class = "NSMenuItem"; title = "사각형"; ObjectID = "cWa-ih-qi3"; */
+> > "cWa-ih-qi3.title" = "사각형";
+> 188,189c188,189
+> < /* Class = "NSMenuItem"; title = "Split Complementary"; ObjectID = "dYw-Xq-gLf"; */
+216,217c228,231
+< > "dYw-Xq-gLf.title" = "分裂補色";
+< 192c192
+---
+> > /* Class = "NSMenuItem"; title = "분할 보색"; ObjectID = "dYw-Xq-gLf"; */
+> > "dYw-Xq-gLf.title" = "분할 보색";
+> 191,192c191,192
+> < /* Class = "NSMenuItem"; title = "Appearance"; ObjectID = "dg4-EJ-yMJ"; */
+220,225c234,237
+< > "dg4-EJ-yMJ.title" = "アピアランス";
+< 195c195
+< < "dux-4X-fFF.title" = "Add Application Palette…";
+< ---
+< > "dux-4X-fFF.title" = "アプリケーションパレットを追加…";
+< 198c198
+---
+> > /* Class = "NSMenuItem"; title = "외관"; ObjectID = "dg4-EJ-yMJ"; */
+> > "dg4-EJ-yMJ.title" = "외관";
+> 197,198c197,198
+> < /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "eYC-aa-7bA"; */
+228,229c240,243
+< > "eYC-aa-7bA.title" = "リストとして表示";
+< 201c201
+---
+> > /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "eYC-aa-7bA"; */
+> > "eYC-aa-7bA.title" = "목록으로 보기";
+> 200,201c200,201
+> < /* Class = "NSMenuItem"; title = "Edit Fill…"; ObjectID = "epK-Z2-CCi"; */
+232,233c246,249
+< > "epK-Z2-CCi.title" = "塗りつぶしの編集…";
+< 204c204
+---
+> > /* Class = "NSMenuItem"; title = "칠 편집…"; ObjectID = "epK-Z2-CCi"; */
+> > "epK-Z2-CCi.title" = "칠 편집…";
+> 203,204c203,204
+> < /* Class = "NSMenuItem"; title = "Split Complementary"; ObjectID = "fvX-tM-iab"; */
+236,237c252,255
+< > "fvX-tM-iab.title" = "分裂補色";
+< 207c207
+---
+> > /* Class = "NSMenuItem"; title = "분할 보색"; ObjectID = "fvX-tM-iab"; */
+> > "fvX-tM-iab.title" = "분할 보색";
+> 206,207c206,207
+> < /* Class = "NSMenu"; title = "Create Palette From Document"; ObjectID = "g7B-r3-Cg9"; */
+240,245c258,261
+< > "g7B-r3-Cg9.title" = "ドキュメントからパレットを作成";
+< 210c210
+< < "gwh-jU-MUm.title" = "Duplicate Palette";
+< ---
+< > "gwh-jU-MUm.title" = "パレットを複製";
+< 213c213
+---
+> > /* Class = "NSMenu"; title = "문서로부터 팔레트 생성"; ObjectID = "g7B-r3-Cg9"; */
+> > "g7B-r3-Cg9.title" = "문서로부터 팔레트 생성";
+> 212,213c212,213
+> < /* Class = "NSMenuItem"; title = "Make Copy"; ObjectID = "hHD-rJ-o1m"; */
+248,250c264,267
+< > "hHD-rJ-o1m.title" = "コピーを作成";
+< 216c216
+< < "hww-Pz-dO4.title" = "Gray/16";
+---
+> > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "hHD-rJ-o1m"; */
+> > "hHD-rJ-o1m.title" = "복사";
+> 218c218
+> < /* Class = "NSMenuItem"; title = "Colour"; ObjectID = "iEs-Vi-9xL"; */
+252,257c269,271
+< > "hww-Pz-dO4.title" = "グレー/16";
+< 219c219
+< < "iEs-Vi-9xL.title" = "Color";
+< ---
+< > "iEs-Vi-9xL.title" = "カラー";
+< 222c222
+---
+> > /* Class = "NSMenuItem"; title = "색상"; ObjectID = "iEs-Vi-9xL"; */
+> 221,222c221,222
+> < /* Class = "NSMenuItem"; title = "Tints"; ObjectID = "iPH-Af-1hV"; */
+260,261c274,277
+< > "iPH-Af-1hV.title" = "色合い";
+< 225c225
+---
+> > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "iPH-Af-1hV"; */
+> > "iPH-Af-1hV.title" = "틴트";
+> 224,225c224,225
+> < /* Class = "NSMenuItem"; title = "Small"; ObjectID = "inX-wr-RKe"; */
+264,273c280,283
+< > "inX-wr-RKe.title" = "小";
+< 228c228
+< < "m1k-Ok-hHi.title" = "Rename Global Color…";
+< ---
+< > "m1k-Ok-hHi.title" = "グローバルカラー名を変更…";
+< 231c231
+< < "myK-2X-pCg.title" = "Gray/16";
+< ---
+< > "myK-2X-pCg.title" = "グレー/16";
+< 234c234
+---
+> > /* Class = "NSMenuItem"; title = "작게"; ObjectID = "inX-wr-RKe"; */
+> > "inX-wr-RKe.title" = "작게";
+> 233,234c233,234
+> < /* Class = "NSMenuItem"; title = "As Document Palette"; ObjectID = "pDz-xh-gwR"; */
+276,281c286,289
+< > "pDz-xh-gwR.title" = "ドキュメントパレットとして";
+< 237c237
+< < "scn-NV-XDi.title" = "Rename Spot…";
+< ---
+< > "scn-NV-XDi.title" = "スポット名を変更…";
+< 240c240
+---
+> > /* Class = "NSMenuItem"; title = "문서 팔레트로"; ObjectID = "pDz-xh-gwR"; */
+> > "pDz-xh-gwR.title" = "문서 팔레트로";
+> 239,240c239,240
+> < /* Class = "NSMenuItem"; title = "Analogous"; ObjectID = "txL-Ca-Sml"; */
+284,289c292,295
+< > "txL-Ca-Sml.title" = "類似色";
+< 243c243
+< < "uvZ-5z-z3z.title" = "Add System Palette…";
+< ---
+< > "uvZ-5z-z3z.title" = "システムパレットを追加…";
+< 249c249
+---
+> > /* Class = "NSMenuItem"; title = "유사색"; ObjectID = "txL-Ca-Sml"; */
+> > "txL-Ca-Sml.title" = "유사색";
+> 248,249c248,249
+> < /* Class = "NSMenuItem"; title = "Import Palette…"; ObjectID = "vk6-Qx-5wZ"; */
+292,293c298,301
+< > "vk6-Qx-5wZ.title" = "パレットをインポート…";
+< 252c252
+---
+> > /* Class = "NSMenuItem"; title = "팔레트 들여오기…"; ObjectID = "vk6-Qx-5wZ"; */
+> > "vk6-Qx-5wZ.title" = "팔레트 들여오기…";
+> 251,252c251,252
+> < /* Class = "NSMenuItem"; title = "Tones"; ObjectID = "wE5-DI-w9d"; */
+296,298c304,307
+< > "wE5-DI-w9d.title" = "色調";
+< 258c258
+< < "wun-qU-pjK.title" = "Add Registration Color";
+---
+> > /* Class = "NSMenuItem"; title = "톤"; ObjectID = "wE5-DI-w9d"; */
+> > "wE5-DI-w9d.title" = "톤";
+> 257c257
+> < /* Class = "NSMenuItem"; title = "Add Registration Colour"; ObjectID = "wun-qU-pjK"; */
+300,305c309,311
+< > "wun-qU-pjK.title" = "登録カラーを追加";
+< 264c264
+< < "x3w-7z-z1B.title" = "Triadic";
+< ---
+< > "x3w-7z-z1B.title" = "3色配色";
+< 267c267
+---
+> > /* Class = "NSMenuItem"; title = "등록 색상을 추가"; ObjectID = "wun-qU-pjK"; */
+> 266,267c266,267
+> < /* Class = "NSMenu"; title = "Remove Default for"; ObjectID = "yM2-Cv-TP5"; */
+308,312c314,315
+< > "yM2-Cv-TP5.title" = "次のデフォルト設定を削除";
+< 270c270
+< < "z8O-nQ-v5e.title" = "Rename Fill…";
+< ---
+< > "z8O-nQ-v5e.title" = "塗りつぶし名を変更…";
+---
+> > /* Class = "NSMenu"; title = "기본값 지우기"; ObjectID = "yM2-Cv-TP5"; */
+> > "yM2-Cv-TP5.title" = "기본값 지우기";

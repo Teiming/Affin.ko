@@ -1,0 +1,548 @@
+2c2
+< "Levels" = "Levels";
+---
+> "Levels" = "レベル";
+5c5
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+8c8
+< "Darken" = "Darken";
+---
+> "Darken" = "暗くする";
+11c11
+< "Lighten" = "Lighten";
+---
+> "Lighten" = "比較(明)";
+14c14
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+17c17
+< "Darken" = "Darken";
+---
+> "Darken" = "暗くする";
+20c20
+< "Lighten" = "Lighten";
+---
+> "Lighten" = "比較(明)";
+23c23
+< "WhiteBalance" = "WhiteBalance";
+---
+> "WhiteBalance" = "ホワイトバランス";
+26c26
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+29c29
+< "Warm" = "Warm";
+---
+> "Warm" = "暖色";
+32c32
+< "Cool" = "Cool";
+---
+> "Cool" = "寒冷";
+35c35
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+38c38
+< "Warm" = "Warm";
+---
+> "Warm" = "暖色";
+41c41
+< "Cool" = "Cool";
+---
+> "Cool" = "寒冷";
+47c47
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+50c50
+< "Desaturate" = "Desaturate";
+---
+> "Desaturate" = "彩度を下げる";
+53c53
+< "Invert Hue" = "Invert Hue";
+---
+> "Invert Hue" = "色相を反転";
+56c56
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+59c59
+< "Desaturate" = "Desaturate";
+---
+> "Desaturate" = "彩度を下げる";
+62c62
+< "Invert Hue" = "Invert Hue";
+---
+> "Invert Hue" = "色相を反転";
+65c65
+< "Recolour" = "Recolor";
+---
+> "Recolour" = "リカラー";
+68c68
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+71c71
+< "Coarse Sepia" = "Coarse Sepia";
+---
+> "Coarse Sepia" = "粗いセピア";
+74c74
+< "Fire" = "Fire";
+---
+> "Fire" = "火";
+77c77
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+80c80
+< "Coarse Sepia" = "Coarse Sepia";
+---
+> "Coarse Sepia" = "粗いセピア";
+83c83
+< "Fire" = "Fire";
+---
+> "Fire" = "火";
+86c86
+< "BlackAndWhite" = "BlackAndWhite";
+---
+> "BlackAndWhite" = "白黒";
+89c89
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+92c92
+< "Cold" = "Cold";
+---
+> "Cold" = "寒色";
+95c95
+< "Warm" = "Warm";
+---
+> "Warm" = "暖色";
+98c98
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+101c101
+< "Cold" = "Cold";
+---
+> "Cold" = "寒色";
+104c104
+< "Warm" = "Warm";
+---
+> "Warm" = "暖色";
+107c107
+< "BrightnessContrast" = "BrightnessContrast";
+---
+> "BrightnessContrast" = "明るさコントラスト";
+110c110
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+113c113
+< "Lighter" = "Lighter";
+---
+> "Lighter" = "より明るい";
+116c116
+< "Darker" = "Darker";
+---
+> "Darker" = "より暗い";
+119c119
+< "Lower Contrast" = "Lower Contrast";
+---
+> "Lower Contrast" = "コントラストを下げる";
+122c122
+< "Increase Contrast" = "Increase Contrast";
+---
+> "Increase Contrast" = "コントラストを上げる";
+125c125
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+128c128
+< "Lighter" = "Lighter";
+---
+> "Lighter" = "より明るい";
+131c131
+< "Darker" = "Darker";
+---
+> "Darker" = "より暗い";
+134c134
+< "Lower Contrast" = "Lower Contrast";
+---
+> "Lower Contrast" = "コントラストを下げる";
+137c137
+< "Increase Contrast" = "Increase Contrast";
+---
+> "Increase Contrast" = "コントラストを上げる";
+140c140
+< "Posterise" = "Posterise";
+---
+> "Posterise" = "ポスタライズ";
+143c143
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+146c146
+< "Harsh" = "Harsh";
+---
+> "Harsh" = "鋭く";
+149c149
+< "Soft" = "Soft";
+---
+> "Soft" = "ソフト";
+152c152
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+155c155
+< "Harsh" = "Harsh";
+---
+> "Harsh" = "鋭く";
+158c158
+< "Soft" = "Soft";
+---
+> "Soft" = "ソフト";
+161c161
+< "Vibrance" = "Vibrance";
+---
+> "Vibrance" = "自然な彩度";
+164c164
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+167c167
+< "Simplify" = "Simplify";
+---
+> "Simplify" = "単純化";
+170c170
+< "Complicate" = "Complicate";
+---
+> "Complicate" = "複雑化";
+173c173
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+176c176
+< "Simplify" = "Simplify";
+---
+> "Simplify" = "単純化";
+179c179
+< "Complicate" = "Complicate";
+---
+> "Complicate" = "複雑化";
+182c182
+< "Exposure" = "Exposure";
+---
+> "Exposure" = "露出";
+185c185
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+188c188
+< "-1 Stop" = "-1 Stop";
+---
+> "-1 Stop" = "1段下げる";
+191c191
+< "+1 Stop" = "+1 Stop";
+---
+> "+1 Stop" = "1段上げる";
+194c194
+< "-2 Stops" = "-2 Stops";
+---
+> "-2 Stops" = "2段下げる";
+197c197
+< "+2 Stops" = "+2 Stops";
+---
+> "+2 Stops" = "2段上げる";
+200c200
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+203c203
+< "-1 Stop" = "-1 Stop";
+---
+> "-1 Stop" = "1段下げる";
+206c206
+< "+1 Stop" = "+1 Stop";
+---
+> "+1 Stop" = "1段上げる";
+209c209
+< "-2 Stops" = "-2 Stops";
+---
+> "-2 Stops" = "2段下げる";
+212c212
+< "+2 Stops" = "+2 Stops";
+---
+> "+2 Stops" = "2段上げる";
+215c215
+< "ShadowsHighlights" = "ShadowsHighlights";
+---
+> "ShadowsHighlights" = "シャドウ/ハイライト";
+218c218
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+221c221
+< "Extreme" = "Extreme";
+---
+> "Extreme" = "最大";
+224c224
+< "Soft" = "Soft";
+---
+> "Soft" = "ソフト";
+227c227
+< "Dump Shadows" = "Dump Shadows";
+---
+> "Dump Shadows" = "シャドウつぶれ";
+230c230
+< "Blow Highlights" = "Blow Highlights";
+---
+> "Blow Highlights" = "ハイライトとび";
+233c233
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+236c236
+< "Extreme" = "Extreme";
+---
+> "Extreme" = "最大";
+239c239
+< "Soft" = "Soft";
+---
+> "Soft" = "ソフト";
+242c242
+< "Dump Shadows" = "Dump Shadows";
+---
+> "Dump Shadows" = "シャドウつぶれ";
+245c245
+< "Blow Highlights" = "Blow Highlights";
+---
+> "Blow Highlights" = "ハイライトとび";
+248c248
+< "Threshold" = "Threshold";
+---
+> "Threshold" = "しきい値";
+251c251
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+254c254
+< "Favour Light" = "Favor Light";
+---
+> "Favour Light" = "明るさを保持";
+257c257
+< "Favour Dark" = "Favor Dark";
+---
+> "Favour Dark" = "暗さを保持";
+260c260
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+263c263
+< "Favour Light" = "Favor Light";
+---
+> "Favour Light" = "明るさを保持";
+266c266
+< "Favour Dark" = "Favor Dark";
+---
+> "Favour Dark" = "暗さを保持";
+269c269
+< "Curves" = "Curves";
+---
+> "Curves" = "カーブ";
+272c272
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+275c275
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+278c278
+< "ChannelMixer" = "ChannelMixer";
+---
+> "ChannelMixer" = "チャンネルミキサー";
+281c281
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+284c284
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+287c287
+< "GradientMap" = "GradientMap";
+---
+> "GradientMap" = "グラデーションマップ";
+290c290
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+293c293
+< "Ultra Violet" = "Ultra Violet";
+---
+> "Ultra Violet" = "紫外線";
+296c296
+< "Nuclear" = "Nuclear";
+---
+> "Nuclear" = "中心";
+299c299
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+302c302
+< "Ultra Violet" = "Ultra Violet";
+---
+> "Ultra Violet" = "紫外線";
+305c305
+< "Nuclear" = "Nuclear";
+---
+> "Nuclear" = "中心";
+308c308
+< "SelectiveColour" = "SelectiveColor";
+---
+> "SelectiveColour" = "特定色域";
+311c311
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+314c314
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+317c317
+< "ColourBalance" = "ColorBalance";
+---
+> "ColourBalance" = "カラーバランス";
+320c320
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+323c323
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+326c326
+< "Invert" = "Invert";
+---
+> "Invert" = "反転";
+329c329
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+332c332
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+335c335
+< "SoftProof" = "SoftProof";
+---
+> "SoftProof" = "ソフト校正";
+338c338
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+347c347
+< "Greyscale D50" = "Grayscale D50";
+---
+> "Greyscale D50" = "Greyscale D50";
+350c350
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+359c359
+< "Greyscale D50" = "Grayscale D50";
+---
+> "Greyscale D50" = "Greyscale D50";
+365c365
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+368c368
+< "Deuteranope (Simulate)" = "Deuteranope (Simulate)";
+---
+> "Deuteranope (Simulate)" = "2型2色覚者(再現)";
+371c371
+< "Protanope (Simulate)" = "Protanope (Simulate)";
+---
+> "Protanope (Simulate)" = "1型2色覚者(再現)";
+374c374
+< "Tritanope (Simulate)" = "Tritanope (Simulate)";
+---
+> "Tritanope (Simulate)" = "3型2色覚者(再現)";
+377c377
+< "Deuteranope (Daltonize)" = "Deuteranope (Daltonize)";
+---
+> "Deuteranope (Daltonize)" = "2型2色覚者(ドルトン式)";
+380c380
+< "Protanope (Daltonize)" = "Protanope (Daltonize)";
+---
+> "Protanope (Daltonize)" = "1型2色覚者(ドルトン式)";
+383c383
+< "Tritanope (Daltonize)" = "Tritanope (Daltonize)";
+---
+> "Tritanope (Daltonize)" = "3型2色覚者(ドルトン式)";
+386c386
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+389c389
+< "Deuteranope (Simulate)" = "Deuteranope (Simulate)";
+---
+> "Deuteranope (Simulate)" = "2型2色覚者(再現)";
+392c392
+< "Protanope (Simulate)" = "Protanope (Simulate)";
+---
+> "Protanope (Simulate)" = "1型2色覚者(再現)";
+395c395
+< "Tritanope (Simulate)" = "Tritanope (Simulate)";
+---
+> "Tritanope (Simulate)" = "3型2色覚者(再現)";
+398c398
+< "Deuteranope (Daltonize)" = "Deuteranope (Daltonize)";
+---
+> "Deuteranope (Daltonize)" = "2型2色覚者(ドルトン式)";
+401c401
+< "Protanope (Daltonize)" = "Protanope (Daltonize)";
+---
+> "Protanope (Daltonize)" = "1型2色覚者(ドルトン式)";
+404c404
+< "Tritanope (Daltonize)" = "Tritanope (Daltonize)";
+---
+> "Tritanope (Daltonize)" = "3型2色覚者(ドルトン式)";
+407c407
+< "PhotoFilter" = "PhotoFilter";
+---
+> "PhotoFilter" = "写真フィルター";
+410c410
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+413c413
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+416c416
+< "SplitToning" = "SplitToning";
+---
+> "SplitToning" = "明暗別色補正";
+419c419
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+422c422
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+428c428
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";
+431c431
+< "Default" = "Default";
+---
+> "Default" = "デフォルト";

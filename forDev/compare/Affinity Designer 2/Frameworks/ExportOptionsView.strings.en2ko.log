@@ -1,0 +1,82 @@
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "1lb-Wk-1pU"; */
+< "1lb-Wk-1pU.title" = "Preset:";
+---
+> /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "1lb-Wk-1pU"; */
+> "1lb-Wk-1pU.title" = "미리 설정:";
+86,87c86,87
+< /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "5D4-1a-2mi"; */
+< "5D4-1a-2mi.title" = "Automatic";
+---
+> /* Class = "NSMenuItem"; title = "자동"; ObjectID = "5D4-1a-2mi"; */
+> "5D4-1a-2mi.title" = "자동";
+122,123c122,123
+< /* Class = "NSTextFieldCell"; title = "ICC profile:"; ObjectID = "8Ay-x3-q1t"; */
+< "8Ay-x3-q1t.title" = "ICC profile:";
+---
+> /* Class = "NSTextFieldCell"; title = "ICC 프로파일:"; ObjectID = "8Ay-x3-q1t"; */
+> "8Ay-x3-q1t.title" = "ICC 프로파일:";
+131,132c131,132
+< /* Class = "NSMenuItem"; title = "Custom"; ObjectID = "8J4-ZV-BVh"; */
+< "8J4-ZV-BVh.title" = "Custom";
+---
+> /* Class = "NSMenuItem"; title = "사용자화"; ObjectID = "8J4-ZV-BVh"; */
+> "8J4-ZV-BVh.title" = "사용자화";
+455,456c455,456
+< /* Class = "NSMenuItem"; title = "Delete preset"; ObjectID = "Qqt-U9-Yzj"; */
+< "Qqt-U9-Yzj.title" = "Delete preset";
+---
+> /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "Qqt-U9-Yzj"; */
+> "Qqt-U9-Yzj.title" = "미리 설정 지우기";
+644,645c644,645
+< /* Class = "NSTextFieldCell"; title = "Pixel format:"; ObjectID = "b53-B9-NEf"; */
+< "b53-B9-NEf.title" = "Pixel format:";
+---
+> /* Class = "NSTextFieldCell"; title = "픽셀 포맷:"; ObjectID = "b53-B9-NEf"; */
+> "b53-B9-NEf.title" = "픽셀 포맷:";
+677,678c677,678
+< /* Class = "NSButtonCell"; title = "Button"; ObjectID = "d1u-NX-8Vq"; */
+< "d1u-NX-8Vq.title" = "Button";
+---
+> /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "d1u-NX-8Vq"; */
+> "d1u-NX-8Vq.title" = "버튼";
+737c737
+< /* Class = "NSTextFieldCell"; title = "Colour Space:"; ObjectID = "eup-RI-K4d"; */
+---
+> /* Class = "NSTextFieldCell"; title = "색공간:"; ObjectID = "eup-RI-K4d"; */
+779,780c779,780
+< /* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "hh6-am-TrE"; */
+< "hh6-am-TrE.title" = "Profile:";
+---
+> /* Class = "NSTextFieldCell"; title = "프로파일:"; ObjectID = "hh6-am-TrE"; */
+> "hh6-am-TrE.title" = "프로파일:";
+839,840c839,840
+< /* Class = "NSMenuItem"; title = "Everything"; ObjectID = "lvC-58-b0F"; */
+< "lvC-58-b0F.title" = "Everything";
+---
+> /* Class = "NSMenuItem"; title = "모두"; ObjectID = "lvC-58-b0F"; */
+> "lvC-58-b0F.title" = "모두";
+854,855c854,855
+< /* Class = "NSButtonCell"; title = "Button"; ObjectID = "mfe-Nx-PsA"; */
+< "mfe-Nx-PsA.title" = "Button";
+---
+> /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "mfe-Nx-PsA"; */
+> "mfe-Nx-PsA.title" = "버튼";
+932,933c932,933
+< /* Class = "NSTextFieldCell"; title = "File format:"; ObjectID = "scW-9j-Mie"; */
+< "scW-9j-Mie.title" = "File format:";
+---
+> /* Class = "NSTextFieldCell"; title = "파일 포맷:"; ObjectID = "scW-9j-Mie"; */
+> "scW-9j-Mie.title" = "파일 포맷:";
+941,942c941,942
+< /* Class = "NSMenuItem"; title = "None"; ObjectID = "tFN-3b-dej"; */
+< "tFN-3b-dej.title" = "None";
+---
+> /* Class = "NSMenuItem"; title = "없음"; ObjectID = "tFN-3b-dej"; */
+> "tFN-3b-dej.title" = "없음";
+1010,1011c1010,1011
+< /* Class = "NSMenuItem"; title = "None"; ObjectID = "yoS-VC-Lw5"; */
+< "yoS-VC-Lw5.title" = "None";
+---
+> /* Class = "NSMenuItem"; title = "없음"; ObjectID = "yoS-VC-Lw5"; */
+> "yoS-VC-Lw5.title" = "없음";

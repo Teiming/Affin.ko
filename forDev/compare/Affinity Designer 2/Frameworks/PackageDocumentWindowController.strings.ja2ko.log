@@ -1,0 +1,234 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "846-uk-IRg"; */
+4,5c5,8
+< > "846-uk-IRg.title" = "画像";
+< 6c6
+---
+> > /* Class = "NSTextFieldCell"; title = "이미지"; ObjectID = "846-uk-IRg"; */
+> > "846-uk-IRg.title" = "이미지";
+> 5,6c5,6
+> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "AOh-da-eaH"; */
+8,21c11,14
+< > "AOh-da-eaH.headerCell.title" = "名前";
+< 9c9
+< < "GAa-5u-DXs.title" = "Missing:";
+< ---
+< > "GAa-5u-DXs.title" = "欠落:";
+< 12c12
+< < "Gf8-79-sZC.title" = "Total:";
+< ---
+< > "Gf8-79-sZC.title" = "合計:";
+< 18c18
+< < "HaS-G2-YuA.label" = "Fonts";
+< ---
+< > "HaS-G2-YuA.label" = "フォント";
+< 21c21
+---
+> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "AOh-da-eaH"; */
+> > "AOh-da-eaH.headerCell.title" = "이름";
+> 20,21c20,21
+> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Hiv-5K-1jP"; */
+24,29c17,20
+< > "Hiv-5K-1jP.headerCell.title" = "名前";
+< 24c24
+< < "I7p-NN-E5F.headerCell.title" = "Status";
+< ---
+< > "I7p-NN-E5F.headerCell.title" = "ステータス";
+< 27c27
+---
+> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "Hiv-5K-1jP"; */
+> > "Hiv-5K-1jP.headerCell.title" = "이름";
+> 26,27c26,27
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Icr-iY-dvs"; */
+32,37c23,26
+< > "Icr-iY-dvs.title" = "キャンセル";
+< 30c30
+< < "Jaw-w9-ooy.headerCell.title" = "Install";
+< ---
+< > "Jaw-w9-ooy.headerCell.title" = "インストール";
+< 33c33
+---
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "Icr-iY-dvs"; */
+> > "Icr-iY-dvs.title" = "취소";
+> 32,33c32,33
+> < /* Class = "NSTabViewItem"; label = "Summary"; ObjectID = "KPZ-An-Nk7"; */
+40,45c29,32
+< > "KPZ-An-Nk7.label" = "概要";
+< 36c36
+< < "MMt-mV-dda.headerCell.title" = "Status";
+< ---
+< > "MMt-mV-dda.headerCell.title" = "ステータス";
+< 39c39
+---
+> > /* Class = "NSTabViewItem"; label = "요약"; ObjectID = "KPZ-An-Nk7"; */
+> > "KPZ-An-Nk7.label" = "요약";
+> 38,39c38,39
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Mc5-JY-Nex"; */
+48,53c35,38
+< > "Mc5-JY-Nex.title" = "テキストセル";
+< 42c42
+< < "OZ0-oh-ucR.headerCell.title" = "Package";
+< ---
+< > "OZ0-oh-ucR.headerCell.title" = "パッケージ";
+< 45c45
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Mc5-JY-Nex"; */
+> > "Mc5-JY-Nex.title" = "텍스트 셀";
+> 44,45c44,45
+> < /* Class = "NSTextFieldCell"; title = "Document"; ObjectID = "Pms-DO-0yR"; */
+56,69c41,44
+< > "Pms-DO-0yR.title" = "ドキュメント";
+< 48c48
+< < "Pts-3U-Oyn.title" = "Total:";
+< ---
+< > "Pts-3U-Oyn.title" = "合計:";
+< 51c51
+< < "QvC-M9-y7g.title" = "Package Document";
+< ---
+< > "QvC-M9-y7g.title" = "パッケージドキュメント";
+< 54c54
+< < "RWs-ME-1Lx.title" = "Restricted:";
+< ---
+< > "RWs-ME-1Lx.title" = "制限付き:";
+< 57c57
+---
+> > /* Class = "NSTextFieldCell"; title = "문서"; ObjectID = "Pms-DO-0yR"; */
+> > "Pms-DO-0yR.title" = "문서";
+> 56,57c56,57
+> < /* Class = "NSTextFieldCell"; title = "Options"; ObjectID = "Xn4-wg-CBC"; */
+72,73c47,50
+< > "Xn4-wg-CBC.title" = "オプション";
+< 60c60
+---
+> > /* Class = "NSTextFieldCell"; title = "설정"; ObjectID = "Xn4-wg-CBC"; */
+> > "Xn4-wg-CBC.title" = "설정";
+> 59,60c59,60
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "a1D-0P-pXC"; */
+76,89c53,56
+< > "a1D-0P-pXC.title" = "テキストセル";
+< 63c63
+< < "a5G-O4-ur2.title" = "Include Fonts";
+< ---
+< > "a5G-O4-ur2.title" = "フォントを含める";
+< 66c66
+< < "b1B-CT-cLW.title" = "Linked:";
+< ---
+< > "b1B-CT-cLW.title" = "リンク済み:";
+< 69c69
+< < "bd0-M3-tYH.title" = "Scope";
+< ---
+< > "bd0-M3-tYH.title" = "スコープ";
+< 72c72
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "a1D-0P-pXC"; */
+> > "a1D-0P-pXC.title" = "텍스트 셀";
+> 71,72c71,72
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dPK-FW-Ho9"; */
+92,101c59,62
+< > "dPK-FW-Ho9.title" = "テキストセル";
+< 75c75
+< < "eeb-Oj-ztD.title" = "Fonts";
+< ---
+< > "eeb-Oj-ztD.title" = "フォント";
+< 78c78
+< < "g2C-PJ-KB3.headerCell.title" = "Package";
+< ---
+< > "g2C-PJ-KB3.headerCell.title" = "パッケージ";
+< 81c81
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "dPK-FW-Ho9"; */
+> > "dPK-FW-Ho9.title" = "텍스트 셀";
+> 80,81c80,81
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iDp-YK-75j"; */
+104,117c65,68
+< > "iDp-YK-75j.title" = "テキストセル";
+< 84c84
+< < "igB-5c-S2W.title" = "Include Images";
+< ---
+< > "igB-5c-S2W.title" = "画像を含める";
+< 87c87
+< < "kdV-la-FIW.title" = "Missing:";
+< ---
+< > "kdV-la-FIW.title" = "欠落:";
+< 90c90
+< < "nV3-5e-cVR.title" = "Package Document";
+< ---
+< > "nV3-5e-cVR.title" = "パッケージドキュメント";
+< 93c93
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "iDp-YK-75j"; */
+> > "iDp-YK-75j.title" = "텍스트 셀";
+> 92,93c92,93
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oO0-3I-JRD"; */
+120,125c71,74
+< > "oO0-3I-JRD.title" = "テキストセル";
+< 96c96
+< < "pRY-Vq-n1y.title" = "Modified:";
+< ---
+< > "pRY-Vq-n1y.title" = "変更済み:";
+< 99c99
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "oO0-3I-JRD"; */
+> > "oO0-3I-JRD.title" = "텍스트 셀";
+> 98,99c98,99
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pel-ci-JOD"; */
+128,133c77,80
+< > "pel-ci-JOD.title" = "テキストセル";
+< 102c102
+< < "qkB-24-xOI.title" = "Fonts";
+< ---
+< > "qkB-24-xOI.title" = "フォント";
+< 105c105
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "pel-ci-JOD"; */
+> > "pel-ci-JOD.title" = "텍스트 셀";
+> 104,105c104,105
+> < /* Class = "NSTabViewItem"; label = "Images"; ObjectID = "qob-O9-YFP"; */
+136,137c83,86
+< > "qob-O9-YFP.label" = "画像";
+< 108c108
+---
+> > /* Class = "NSTabViewItem"; label = "이미지"; ObjectID = "qob-O9-YFP"; */
+> > "qob-O9-YFP.label" = "이미지";
+> 107,108c107,108
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rZk-j6-CuL"; */
+140,145c89,92
+< > "rZk-j6-CuL.title" = "テキストセル";
+< 111c111
+< < "sdF-kj-0Qy.title" = "Table View Cell";
+< ---
+< > "sdF-kj-0Qy.title" = "表ビューセル";
+< 114c114
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "rZk-j6-CuL"; */
+> > "rZk-j6-CuL.title" = "텍스트 셀";
+> 113,114c113,114
+> < /* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "taq-8K-lF2"; */
+148,149c95,98
+< > "taq-8K-lF2.title" = "画像";
+< 117c117
+---
+> > /* Class = "NSTextFieldCell"; title = "이미지"; ObjectID = "taq-8K-lF2"; */
+> > "taq-8K-lF2.title" = "이미지";
+> 116,117c116,117
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "u8U-eg-x6L"; */
+152,153c101,104
+< > "u8U-eg-x6L.title" = "テキストセル";
+< 120c120
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "u8U-eg-x6L"; */
+> > "u8U-eg-x6L.title" = "텍스트 셀";
+> 119,120c119,120
+> < /* Class = "NSTextFieldCell"; title = "Summary"; ObjectID = "v78-bM-Zci"; */
+156,160c107,108
+< > "v78-bM-Zci.title" = "概要";
+< 123c123
+< < "xoh-mo-WUh.title" = "Modified:";
+< ---
+< > "xoh-mo-WUh.title" = "変更済み:";
+---
+> > /* Class = "NSTextFieldCell"; title = "요약"; ObjectID = "v78-bM-Zci"; */
+> > "v78-bM-Zci.title" = "요약";

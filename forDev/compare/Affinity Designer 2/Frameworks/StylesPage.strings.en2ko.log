@@ -1,0 +1,60 @@
+5,6c5,6
+< /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "56"; */
+< "56.title" = "Categories";
+---
+> /* Class = "NSMenuItem"; title = "범주"; ObjectID = "56"; */
+> "56.title" = "범주";
+8,9c8,9
+< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "57"; */
+< "57.title" = "Standard";
+---
+> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "57"; */
+> "57.title" = "표준";
+11,12c11,12
+< /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "58"; */
+< "58.title" = "User Defined";
+---
+> /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "58"; */
+> "58.title" = "사용자 정의";
+14,15c14,15
+< /* Class = "NSMenuItem"; title = "Add New Category…"; ObjectID = "DyL-eB-Ng3"; */
+< "DyL-eB-Ng3.title" = "Add New Category…";
+---
+> /* Class = "NSMenuItem"; title = "신규 범주 추가…"; ObjectID = "DyL-eB-Ng3"; */
+> "DyL-eB-Ng3.title" = "신규 범주 추가…";
+17,18c17,18
+< /* Class = "NSMenuItem"; title = "Import Styles…"; ObjectID = "FOR-vN-3Jf"; */
+< "FOR-vN-3Jf.title" = "Import Styles…";
+---
+> /* Class = "NSMenuItem"; title = "스타일 들여오기…"; ObjectID = "FOR-vN-3Jf"; */
+> "FOR-vN-3Jf.title" = "스타일 들여오기…";
+20,21c20,21
+< /* Class = "NSMenuItem"; title = "Export Styles…"; ObjectID = "Gae-4h-oOc"; */
+< "Gae-4h-oOc.title" = "Export Styles…";
+---
+> /* Class = "NSMenuItem"; title = "스타일 내보내기…"; ObjectID = "Gae-4h-oOc"; */
+> "Gae-4h-oOc.title" = "스타일 내보내기…";
+26,27c26,27
+< /* Class = "NSMenuItem"; title = "Name"; ObjectID = "Qdg-4L-iaQ"; */
+< "Qdg-4L-iaQ.title" = "Name";
+---
+> /* Class = "NSMenuItem"; title = "이름"; ObjectID = "Qdg-4L-iaQ"; */
+> "Qdg-4L-iaQ.title" = "이름";
+29,30c29,30
+< /* Class = "NSMenuItem"; title = "Add Style from Selection"; ObjectID = "Yj6-1f-Ed3"; */
+< "Yj6-1f-Ed3.title" = "Add Style from Selection";
+---
+> /* Class = "NSMenuItem"; title = "선택 항목에서 스타일 추가"; ObjectID = "Yj6-1f-Ed3"; */
+> "Yj6-1f-Ed3.title" = "선택 항목에서 스타일 추가";
+50,51c50,51
+< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "rZu-IS-m6Q"; */
+< "rZu-IS-m6Q.title" = "Rename Category…";
+---
+> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "rZu-IS-m6Q"; */
+> "rZu-IS-m6Q.title" = "범주 이름 변경…";
+53,54c53,54
+< /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "uqc-3g-Fu8"; */
+< "uqc-3g-Fu8.title" = "Show as List";
+---
+> /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "uqc-3g-Fu8"; */
+> "uqc-3g-Fu8.title" = "목록으로 보기";

@@ -1,0 +1,106 @@
+1,13c1,2
+< 3c3
+< < "1.title" = "Transparency Editor";
+< ---
+< > "1.title" = "透明度エディタ";
+< 6c6
+< < "7.title" = "Highlight";
+< ---
+< > "7.title" = "ハイライト";
+< 9c9
+< < "12.title" = "Reverse";
+< ---
+< > "12.title" = "反転";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "13"; */
+16,17c5,8
+< > "13.title" = "削除";
+< 15c15
+---
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "13"; */
+> > "13.title" = "지우기";
+> 14,15c14,15
+> < /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "14"; */
+20,21c11,14
+< > "14.title" = "コピー";
+< 18c18
+---
+> > /* Class = "NSButtonCell"; title = "복사"; ObjectID = "14"; */
+> > "14.title" = "복사";
+> 17,18c17,18
+> < /* Class = "NSButtonCell"; title = "Insert"; ObjectID = "15"; */
+24,25c17,20
+< > "15.title" = "挿入";
+< 21c21
+---
+> > /* Class = "NSButtonCell"; title = "삽입"; ObjectID = "15"; */
+> > "15.title" = "삽입";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "31"; */
+28,33c23,26
+< > "31.title" = "位置:";
+< 24c24
+< < "32.title" = "Mid Point:";
+< ---
+< > "32.title" = "中間点:";
+< 27c27
+---
+> > /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "31"; */
+> > "31.title" = "위치:";
+> 26,27c26,27
+> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "33"; */
+36,37c29,32
+< > "33.title" = "不透明度:";
+< 30c30
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "33"; */
+> > "33.title" = "불투명도:";
+> 29,30c29,30
+> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "34"; */
+40,41c35,38
+< > "34.title" = "タイプ:";
+< 36c36
+---
+> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "34"; */
+> > "34.title" = "종류:";
+> 35,36c35,36
+> < /* Class = "NSMenuItem"; title = "Conical"; ObjectID = "37"; */
+44,45c41,44
+< > "37.title" = "円錐形";
+< 39c39
+---
+> > /* Class = "NSMenuItem"; title = "원뿔형"; ObjectID = "37"; */
+> > "37.title" = "원뿔형";
+> 38,39c38,39
+> < /* Class = "NSMenuItem"; title = "Elliptical"; ObjectID = "38"; */
+48,49c47,50
+< > "38.title" = "楕円形";
+< 42c42
+---
+> > /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "38"; */
+> > "38.title" = "타원형";
+> 41,42c41,42
+> < /* Class = "NSMenuItem"; title = "Radial"; ObjectID = "39"; */
+52,53c53,56
+< > "39.title" = "放射状";
+< 45c45
+---
+> > /* Class = "NSMenuItem"; title = "방사형"; ObjectID = "39"; */
+> > "39.title" = "방사형";
+> 44,45c44,45
+> < /* Class = "NSMenuItem"; title = "Linear"; ObjectID = "40"; */
+56,57c59,62
+< > "40.title" = "線形";
+< 48c48
+---
+> > /* Class = "NSMenuItem"; title = "선형"; ObjectID = "40"; */
+> > "40.title" = "선형";
+> 47,48c47,48
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "41"; */
+60c65,66
+< > "41.title" = "閉じる";
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "41"; */
+> > "41.title" = "닫기";

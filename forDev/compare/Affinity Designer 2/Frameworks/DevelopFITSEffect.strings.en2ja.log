@@ -1,0 +1,36 @@
+3c3
+< "1.title" = "Develop FITS";
+---
+> "1.title" = "FITSを現像";
+6c6
+< "26.title" = "Apply";
+---
+> "26.title" = "適用";
+12c12
+< "413.title" = "Inferred";
+---
+> "413.title" = "推測";
+18c18
+< "417.title" = "FITS Bayer Pattern";
+---
+> "417.title" = "FITS Bayerパターン";
+21c21
+< "421.title" = "Cancel";
+---
+> "421.title" = "キャンセル";
+24c24
+< "J5Q-3N-3zE.ibShadowedToolTip" = "Split view";
+---
+> "J5Q-3N-3zE.ibShadowedToolTip" = "分割表示";
+27c27
+< "R1r-Vu-qc5.ibShadowedToolTip" = "No split view";
+---
+> "R1r-Vu-qc5.ibShadowedToolTip" = "分割表示なし";
+30c30
+< "VNT-Qb-zna.ibShadowedToolTip" = "Mirror view";
+---
+> "VNT-Qb-zna.ibShadowedToolTip" = "ミラー表示";
+42c42
+< "ro4-6L-WAI.title" = "Monochrome";
+---
+> "ro4-6L-WAI.title" = "モノクロ";

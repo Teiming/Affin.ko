@@ -1,0 +1,48 @@
+2,3c2,3
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2GK-yg-Hiw"; */
+< "2GK-yg-Hiw.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "2GK-yg-Hiw"; */
+> "2GK-yg-Hiw.title" = "취소";
+17,18c17,18
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Lhl-3w-miQ"; */
+< "Lhl-3w-miQ.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Lhl-3w-miQ"; */
+> "Lhl-3w-miQ.title" = "텍스트 셀";
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MEG-4f-a4D"; */
+< "MEG-4f-a4D.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "MEG-4f-a4D"; */
+> "MEG-4f-a4D.title" = "텍스트 셀";
+32,33c32,33
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UqM-Ye-I8b"; */
+< "UqM-Ye-I8b.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "UqM-Ye-I8b"; */
+> "UqM-Ye-I8b.title" = "텍스트 셀";
+35,36c35,36
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YpL-Os-qLm"; */
+< "YpL-Os-qLm.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YpL-Os-qLm"; */
+> "YpL-Os-qLm.title" = "텍스트 셀";
+41,42c41,42
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eQ3-Fj-QfF"; */
+< "eQ3-Fj-QfF.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "eQ3-Fj-QfF"; */
+> "eQ3-Fj-QfF.title" = "텍스트 셀";
+44,45c44,45
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iha-za-VVP"; */
+< "iha-za-VVP.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "iha-za-VVP"; */
+> "iha-za-VVP.title" = "텍스트 셀";
+47,48c47,48
+< /* Class = "NSTableColumn"; headerCell.title = "Rename To"; ObjectID = "jrw-3t-oyr"; */
+< "jrw-3t-oyr.headerCell.title" = "Rename To";
+---
+> /* Class = "NSTableColumn"; headerCell.title = "이름 변경..."; ObjectID = "jrw-3t-oyr"; */
+> "jrw-3t-oyr.headerCell.title" = "이름 변경...";

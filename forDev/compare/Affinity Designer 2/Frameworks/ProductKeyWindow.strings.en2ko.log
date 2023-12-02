@@ -1,0 +1,90 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Quit"; ObjectID = "0ve-39-CjH"; */
+< "0ve-39-CjH.title" = "Quit";
+---
+> /* Class = "NSButtonCell"; title = "Affinity Designer 종료"; ObjectID = "0ve-39-CjH"; */
+> "0ve-39-CjH.title" = "Affinity Designer 종료";
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "1Ij-bI-Wlo"; */
+< "1Ij-bI-Wlo.title" = "Close";
+---
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "1Ij-bI-Wlo"; */
+> "1Ij-bI-Wlo.title" = "닫기";
+26,27c26,27
+< /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "2ib-b1-Kep"; */
+< "2ib-b1-Kep.title" = "Copy";
+---
+> /* Class = "NSMenuItem"; title = "복사"; ObjectID = "2ib-b1-Kep"; */
+> "2ib-b1-Kep.title" = "복사";
+32,33c32,33
+< /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "3QY-qV-bvH"; */
+< "3QY-qV-bvH.title" = "Undo";
+---
+> /* Class = "NSMenuItem"; title = "실행 취소"; ObjectID = "3QY-qV-bvH"; */
+> "3QY-qV-bvH.title" = "실행 취소";
+35,36c35,36
+< /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "3fw-hF-jhx"; */
+< "3fw-hF-jhx.title" = "Paste";
+---
+> /* Class = "NSMenuItem"; title = "붙이기"; ObjectID = "3fw-hF-jhx"; */
+> "3fw-hF-jhx.title" = "붙이기";
+56,57c56,57
+< /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "4lA-gN-VK7"; */
+< "4lA-gN-VK7.title" = "Delete";
+---
+> /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "4lA-gN-VK7"; */
+> "4lA-gN-VK7.title" = "지우기";
+71,72c71,72
+< /* Class = "NSMenu"; title = "Edit"; ObjectID = "6Gh-iY-3Q6"; */
+< "6Gh-iY-3Q6.title" = "Edit";
+---
+> /* Class = "NSMenu"; title = "편집"; ObjectID = "6Gh-iY-3Q6"; */
+> "6Gh-iY-3Q6.title" = "편집";
+80,81c80,81
+< /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "7sa-PP-Yfn"; */
+< "7sa-PP-Yfn.title" = "Redo";
+---
+> /* Class = "NSMenuItem"; title = "다시 실행"; ObjectID = "7sa-PP-Yfn"; */
+> "7sa-PP-Yfn.title" = "다시 실행";
+239,240c239,240
+< /* Class = "NSMenu"; title = "Help"; ObjectID = "O4X-eN-7dc"; */
+< "O4X-eN-7dc.title" = "Help";
+---
+> /* Class = "NSMenu"; title = "도움말"; ObjectID = "O4X-eN-7dc"; */
+> "O4X-eN-7dc.title" = "도움말";
+269,270c269,270
+< /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "PXd-fh-7hg"; */
+< "PXd-fh-7hg.title" = "Edit";
+---
+> /* Class = "NSMenuItem"; title = "편집"; ObjectID = "PXd-fh-7hg"; */
+> "PXd-fh-7hg.title" = "편집";
+320,321c320,321
+< /* Class = "NSMenuItem"; title = "Help"; ObjectID = "Z4x-mA-d9q"; */
+< "Z4x-mA-d9q.title" = "Help";
+---
+> /* Class = "NSMenuItem"; title = "도움말"; ObjectID = "Z4x-mA-d9q"; */
+> "Z4x-mA-d9q.title" = "도움말";
+341,342c341,342
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "bP8-hQ-QJV"; */
+< "bP8-hQ-QJV.title" = "Close";
+---
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "bP8-hQ-QJV"; */
+> "bP8-hQ-QJV.title" = "닫기";
+359,360c359,360
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cPZ-1i-YtT"; */
+< "cPZ-1i-YtT.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "cPZ-1i-YtT"; */
+> "cPZ-1i-YtT.title" = "취소";
+413,414c413,414
+< /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "fg4-qC-A8b"; */
+< "fg4-qC-A8b.title" = "Cut";
+---
+> /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "fg4-qC-A8b"; */
+> "fg4-qC-A8b.title" = "오려두기";
+482,483c482,483
+< /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "n5q-mh-rjL"; */
+< "n5q-mh-rjL.title" = "Select All";
+---
+> /* Class = "NSMenuItem"; title = "전체 선택"; ObjectID = "n5q-mh-rjL"; */
+> "n5q-mh-rjL.title" = "전체 선택";

@@ -1,0 +1,106 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSWindow"; title = "Blend Options"; ObjectID = "1"; */
+4,9c5,8
+< > "1.title" = "ブレンドオプション";
+< 6c6
+< < "30R-st-e6I.title" = "Underlying Composition Ranges";
+< ---
+< > "30R-st-e6I.title" = "基になるコンポジション範囲";
+< 9c9
+---
+> > /* Class = "NSWindow"; title = "혼합 설정"; ObjectID = "1"; */
+> > "1.title" = "혼합 설정";
+> 8,9c8,9
+> < /* Class = "NSTextFieldCell"; title = "Out:"; ObjectID = "4gA-yu-pkk"; */
+12,13c11,14
+< > "4gA-yu-pkk.title" = "出力:";
+< 12c12
+---
+> > /* Class = "NSTextFieldCell"; title = "바깥:"; ObjectID = "4gA-yu-pkk"; */
+> > "4gA-yu-pkk.title" = "바깥:";
+> 11,12c11,12
+> < /* Class = "NSButtonCell"; title = "Linear"; ObjectID = "Are-CW-8Sa"; */
+16,17c17,20
+< > "Are-CW-8Sa.title" = "線形";
+< 15c15
+---
+> > /* Class = "NSButtonCell"; title = "선형"; ObjectID = "Are-CW-8Sa"; */
+> > "Are-CW-8Sa.title" = "선형";
+> 14,15c14,15
+> < /* Class = "NSTextFieldCell"; title = "In:"; ObjectID = "Bzj-Ne-xYT"; */
+20,21c23,26
+< > "Bzj-Ne-xYT.title" = "入力:";
+< 18c18
+---
+> > /* Class = "NSTextFieldCell"; title = "안:"; ObjectID = "Bzj-Ne-xYT"; */
+> > "Bzj-Ne-xYT.title" = "안:";
+> 17,18c17,18
+> < /* Class = "NSTextFieldCell"; title = "Fill Opacity:"; ObjectID = "Qc6-Qq-ibr"; */
+24,25c29,32
+< > "Qc6-Qq-ibr.title" = "塗りつぶしの不透明度:";
+< 21c21
+---
+> > /* Class = "NSTextFieldCell"; title = "칠 불투명도:"; ObjectID = "Qc6-Qq-ibr"; */
+> > "Qc6-Qq-ibr.title" = "칠 불투명도:";
+> 20,21c20,21
+> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "UvU-cZ-LAA"; */
+28,29c35,38
+< > "UvU-cZ-LAA.title" = "リセット";
+< 24c24
+---
+> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "UvU-cZ-LAA"; */
+> > "UvU-cZ-LAA.title" = "재설정";
+> 23,24c23,24
+> < /* Class = "NSTextFieldCell"; title = "Out:"; ObjectID = "bKY-Q6-dc9"; */
+32,37c41,44
+< > "bKY-Q6-dc9.title" = "出力:";
+< 27c27
+< < "g73-q3-xPA.title" = "Coverage Map:";
+< ---
+< > "g73-q3-xPA.title" = "カバレッジマップ:";
+< 30c30
+---
+> > /* Class = "NSTextFieldCell"; title = "바깥:"; ObjectID = "bKY-Q6-dc9"; */
+> > "bKY-Q6-dc9.title" = "바깥:";
+> 29,30c29,30
+> < /* Class = "NSButtonCell"; title = "Linear"; ObjectID = "iaW-69-RJj"; */
+40,53c47,50
+< > "iaW-69-RJj.title" = "線形";
+< 33c33
+< < "jzn-CV-mnh.title" = "Blend Gamma:";
+< ---
+< > "jzn-CV-mnh.title" = "ブレンドガンマ:";
+< 36c36
+< < "kRg-NO-690.title" = "Source Layer Ranges";
+< ---
+< > "kRg-NO-690.title" = "ソースレイヤー範囲";
+< 39c39
+< < "kzn-SN-g8x.title" = "Antialiasing:";
+< ---
+< > "kzn-SN-g8x.title" = "アンチエイリアス:";
+< 42c42
+---
+> > /* Class = "NSButtonCell"; title = "선형"; ObjectID = "iaW-69-RJj"; */
+> > "iaW-69-RJj.title" = "선형";
+> 41,42c41,42
+> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "wof-xk-tuS"; */
+56,61c53,56
+< > "wof-xk-tuS.title" = "リセット";
+< 45c45
+< < "x1T-dI-Nvo.title" = "Pressure Flyout";
+< ---
+< > "x1T-dI-Nvo.title" = "筆圧ポップアップメニュー";
+< 48c48
+---
+> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "wof-xk-tuS"; */
+> > "wof-xk-tuS.title" = "재설정";
+> 47,48c47,48
+> < /* Class = "NSTextFieldCell"; title = "In:"; ObjectID = "xFO-VV-qgO"; */
+64c59,60
+< > "xFO-VV-qgO.title" = "入力:";
+---
+> > /* Class = "NSTextFieldCell"; title = "안:"; ObjectID = "xFO-VV-qgO"; */
+> > "xFO-VV-qgO.title" = "안:";

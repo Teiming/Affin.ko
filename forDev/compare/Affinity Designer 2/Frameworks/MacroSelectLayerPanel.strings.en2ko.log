@@ -1,0 +1,12 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Select"; ObjectID = "101"; */
+< "101.title" = "Select";
+---
+> /* Class = "NSButtonCell"; title = "선택"; ObjectID = "101"; */
+> "101.title" = "선택";
+14,15c14,15
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SxL-SC-ll3"; */
+< "SxL-SC-ll3.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "SxL-SC-ll3"; */
+> "SxL-SC-ll3.title" = "취소";

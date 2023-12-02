@@ -1,0 +1,18 @@
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8"; */
+< "8.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "8"; */
+> "8.title" = "취소";
+11,12c11,12
+< /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "Br9-je-FhX"; */
+< "Br9-je-FhX.headerCell.title" = "Plugin";
+---
+> /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "Br9-je-FhX"; */
+> "Br9-je-FhX.headerCell.title" = "플러그인";
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mWE-VA-Hcm"; */
+< "mWE-VA-Hcm.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mWE-VA-Hcm"; */
+> "mWE-VA-Hcm.title" = "텍스트 셀";

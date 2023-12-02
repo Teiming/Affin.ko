@@ -1,0 +1,1482 @@
+1c1,2
+< 3c3
+---
+> 2,3c2,3
+> < /* Class = "NSTextFieldCell"; title = "Flow:"; ObjectID = "377"; */
+4,5c5,8
+< > "377.title" = "流量:";
+< 6c6
+---
+> > /* Class = "NSTextFieldCell"; title = "흐름:"; ObjectID = "377"; */
+> > "377.title" = "흐름:";
+> 5,6c5,6
+> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "430"; */
+8,9c11,14
+< > "430.title" = "リセット";
+< 9c9
+---
+> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "430"; */
+> > "430.title" = "재설정";
+> 8,9c8,9
+> < /* Class = "NSTabViewItem"; label = "Texture"; ObjectID = "512"; */
+12,13c17,20
+< > "512.label" = "テクスチャ";
+< 12c12
+---
+> > /* Class = "NSTabViewItem"; label = "질감"; ObjectID = "512"; */
+> > "512.label" = "질감";
+> 11,12c11,12
+> < /* Class = "NSTabViewItem"; label = "Dynamics"; ObjectID = "529"; */
+16,17c23,26
+< > "529.label" = "ダイナミクス";
+< 15c15
+---
+> > /* Class = "NSTabViewItem"; label = "역동"; ObjectID = "529"; */
+> > "529.label" = "역동";
+> 14,15c14,15
+> < /* Class = "NSTabViewItem"; label = "General"; ObjectID = "559"; */
+20,25c29,32
+< > "559.label" = "一般";
+< 18c18
+< < "562.title" = "Brush Editor";
+< ---
+< > "562.title" = "ブラシエディタ";
+< 21c21
+---
+> > /* Class = "NSTabViewItem"; label = "일반"; ObjectID = "559"; */
+> > "559.label" = "일반";
+> 20,21c20,21
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "579"; */
+28,29c35,38
+< > "579.title" = "サイズ:";
+< 24c24
+---
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "579"; */
+> > "579.title" = "크기:";
+> 23,24c23,24
+> < /* Class = "NSTextFieldCell"; title = "Hardness:"; ObjectID = "1067"; */
+32,33c41,44
+< > "1067.title" = "硬さ:";
+< 27c27
+---
+> > /* Class = "NSTextFieldCell"; title = "굳기:"; ObjectID = "1067"; */
+> > "1067.title" = "굳기:";
+> 26,27c26,27
+> < /* Class = "NSTextFieldCell"; title = "Spacing:"; ObjectID = "1189"; */
+36,37c47,50
+< > "1189.title" = "間隔:";
+< 30c30
+---
+> > /* Class = "NSTextFieldCell"; title = "간격:"; ObjectID = "1189"; */
+> > "1189.title" = "간격:";
+> 29,30c29,30
+> < /* Class = "NSTextFieldCell"; title = "Rotation:"; ObjectID = "1277"; */
+40,45c53,56
+< > "1277.title" = "回転:";
+< 33c33
+< < "1283.title" = "Shape:";
+< ---
+< > "1283.title" = "シェイプ:";
+< 39c39
+---
+> > /* Class = "NSTextFieldCell"; title = "회전:"; ObjectID = "1277"; */
+> > "1277.title" = "회전:";
+> 38,39c38,39
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1491"; */
+48,49c59,62
+< > "1491.title" = "速度(逆)";
+< 42c42
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1491"; */
+> > "1491.title" = "속도 (뒤집힌)";
+> 41,42c41,42
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1492"; */
+52,57c65,68
+< > "1492.title" = "速度";
+< 45c45
+< < "1493.title" = "Cyclic";
+< ---
+< > "1493.title" = "サイクリック";
+< 48c48
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1492"; */
+> > "1492.title" = "속도";
+> 47,48c47,48
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1494"; */
+60,65c71,74
+< > "1494.title" = "回転";
+< 51c51
+< < "1495.title" = "Tilt";
+< ---
+< > "1495.title" = "ティルト";
+< 54c54
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1494"; */
+> > "1494.title" = "회전";
+> 53,54c53,54
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1496"; */
+68,69c77,80
+< > "1496.title" = "角度";
+< 57c57
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1496"; */
+> > "1496.title" = "각도";
+> 56,57c56,57
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1497"; */
+72,73c83,86
+< > "1497.title" = "筆圧";
+< 60c60
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1497"; */
+> > "1497.title" = "압력";
+> 59,60c59,60
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1498"; */
+76,77c89,92
+< > "1498.title" = "ランダム";
+< 63c63
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1498"; */
+> > "1498.title" = "무작위";
+> 62,63c62,63
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1499"; */
+80,81c95,98
+< > "1499.title" = "なし";
+< 66c66
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1499"; */
+> > "1499.title" = "없음";
+> 65,66c65,66
+> < /* Class = "NSTextFieldCell"; title = "Luminosity Jitter:"; ObjectID = "1500"; */
+84,85c101,104
+< > "1500.title" = "輝度のジッター:";
+< 72c72
+---
+> > /* Class = "NSTextFieldCell"; title = "명도 일그러짐:"; ObjectID = "1500"; */
+> > "1500.title" = "명도 일그러짐:";
+> 71,72c71,72
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1503"; */
+88,89c107,110
+< > "1503.title" = "速度(逆)";
+< 75c75
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1503"; */
+> > "1503.title" = "속도 (뒤집힌)";
+> 74,75c74,75
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1504"; */
+92,93c113,116
+< > "1504.title" = "速度";
+< 78c78
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1504"; */
+> > "1504.title" = "속도";
+> 77,78c77,78
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1505"; */
+96,97c119,122
+< > "1505.title" = "なし";
+< 81c81
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1505"; */
+> > "1505.title" = "없음";
+> 80,81c80,81
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1506"; */
+100,101c125,128
+< > "1506.title" = "ランダム";
+< 84c84
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1506"; */
+> > "1506.title" = "무작위";
+> 83,84c83,84
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1507"; */
+104,105c131,134
+< > "1507.title" = "筆圧";
+< 87c87
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1507"; */
+> > "1507.title" = "압력";
+> 86,87c86,87
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1508"; */
+108,113c137,140
+< > "1508.title" = "角度";
+< 90c90
+< < "1509.title" = "Tilt";
+< ---
+< > "1509.title" = "ティルト";
+< 93c93
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1508"; */
+> > "1508.title" = "각도";
+> 92,93c92,93
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1510"; */
+116,121c143,146
+< > "1510.title" = "回転";
+< 96c96
+< < "1511.title" = "Cyclic";
+< ---
+< > "1511.title" = "サイクリック";
+< 99c99
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1510"; */
+> > "1510.title" = "회전";
+> 98,99c98,99
+> < /* Class = "NSTextFieldCell"; title = "Saturation Jitter:"; ObjectID = "1512"; */
+124,125c149,152
+< > "1512.title" = "彩度のジッター:";
+< 105c105
+---
+> > /* Class = "NSTextFieldCell"; title = "채도 일그러짐:"; ObjectID = "1512"; */
+> > "1512.title" = "채도 일그러짐:";
+> 104,105c104,105
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1515"; */
+128,129c155,158
+< > "1515.title" = "速度(逆)";
+< 108c108
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1515"; */
+> > "1515.title" = "속도 (뒤집힌)";
+> 107,108c107,108
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1516"; */
+132,133c161,164
+< > "1516.title" = "速度";
+< 111c111
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1516"; */
+> > "1516.title" = "속도";
+> 110,111c110,111
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1517"; */
+136,137c167,170
+< > "1517.title" = "なし";
+< 114c114
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1517"; */
+> > "1517.title" = "없음";
+> 113,114c113,114
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1518"; */
+140,141c173,176
+< > "1518.title" = "ランダム";
+< 117c117
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1518"; */
+> > "1518.title" = "무작위";
+> 116,117c116,117
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1519"; */
+144,145c179,182
+< > "1519.title" = "筆圧";
+< 120c120
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1519"; */
+> > "1519.title" = "압력";
+> 119,120c119,120
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1520"; */
+148,153c185,188
+< > "1520.title" = "角度";
+< 123c123
+< < "1521.title" = "Tilt";
+< ---
+< > "1521.title" = "ティルト";
+< 126c126
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1520"; */
+> > "1520.title" = "각도";
+> 125,126c125,126
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1522"; */
+156,165c191,194
+< > "1522.title" = "回転";
+< 129c129
+< < "1523.title" = "Cyclic";
+< ---
+< > "1523.title" = "サイクリック";
+< 132c132
+< < "1524.title" = "Hue Jitter:";
+< ---
+< > "1524.title" = "色相のジッター:";
+< 135c135
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1522"; */
+> > "1522.title" = "회전";
+> 134,135c134,135
+> < /* Class = "NSTextFieldCell"; title = "Rotation Jitter:"; ObjectID = "1578"; */
+168,169c197,200
+< > "1578.title" = "回転のジッター:";
+< 138c138
+---
+> > /* Class = "NSTextFieldCell"; title = "회전 일그러짐:"; ObjectID = "1578"; */
+> > "1578.title" = "회전 일그러짐:";
+> 137,138c137,138
+> < /* Class = "NSTextFieldCell"; title = "Size Jitter:"; ObjectID = "1579"; */
+172,173c203,206
+< > "1579.title" = "サイズのジッター:";
+< 141c141
+---
+> > /* Class = "NSTextFieldCell"; title = "크기 일그러짐:"; ObjectID = "1579"; */
+> > "1579.title" = "크기 일그러짐:";
+> 140,141c140,141
+> < /* Class = "NSTextFieldCell"; title = "Flow Jitter:"; ObjectID = "1580"; */
+176,177c209,212
+< > "1580.title" = "流量のジッター:";
+< 147c147
+---
+> > /* Class = "NSTextFieldCell"; title = "흐름 일그러짐:"; ObjectID = "1580"; */
+> > "1580.title" = "흐름 일그러짐:";
+> 146,147c146,147
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1610"; */
+180,181c215,218
+< > "1610.title" = "速度(逆)";
+< 150c150
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1610"; */
+> > "1610.title" = "속도 (뒤집힌)";
+> 149,150c149,150
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1611"; */
+184,185c221,224
+< > "1611.title" = "速度";
+< 153c153
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1611"; */
+> > "1611.title" = "속도";
+> 152,153c152,153
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1612"; */
+188,189c227,230
+< > "1612.title" = "なし";
+< 156c156
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1612"; */
+> > "1612.title" = "없음";
+> 155,156c155,156
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1613"; */
+192,193c233,236
+< > "1613.title" = "ランダム";
+< 159c159
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1613"; */
+> > "1613.title" = "무작위";
+> 158,159c158,159
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1614"; */
+196,197c239,242
+< > "1614.title" = "筆圧";
+< 162c162
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1614"; */
+> > "1614.title" = "압력";
+> 161,162c161,162
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1615"; */
+200,205c245,248
+< > "1615.title" = "角度";
+< 165c165
+< < "1616.title" = "Tilt";
+< ---
+< > "1616.title" = "ティルト";
+< 168c168
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1615"; */
+> > "1615.title" = "각도";
+> 167,168c167,168
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1617"; */
+208,213c251,254
+< > "1617.title" = "回転";
+< 171c171
+< < "1618.title" = "Cyclic";
+< ---
+< > "1618.title" = "サイクリック";
+< 177c177
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1617"; */
+> > "1617.title" = "회전";
+> 176,177c176,177
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1621"; */
+216,217c257,260
+< > "1621.title" = "速度(逆)";
+< 180c180
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1621"; */
+> > "1621.title" = "속도 (뒤집힌)";
+> 179,183c179,180
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1622"; */
+219,221c262,263
+< ---
+< > "1622.title" = "速度";
+< 183c183
+---
+> < 
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1623"; */
+224,225c266,269
+< > "1623.title" = "なし";
+< 186c186
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1622"; */
+> > "1622.title" = "속도";
+> 185,186c182,183
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1624"; */
+228,229c272,275
+< > "1624.title" = "ランダム";
+< 189c189
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1623"; */
+> > "1623.title" = "없음";
+> 188,189c185,186
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1625"; */
+232,233c278,281
+< > "1625.title" = "筆圧";
+< 192c192
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1624"; */
+> > "1624.title" = "무작위";
+> 191,192c188,189
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1626"; */
+236,241c284,291
+< > "1626.title" = "角度";
+< 195c195
+< < "1627.title" = "Tilt";
+< ---
+< > "1627.title" = "ティルト";
+< 198c198
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1625"; */
+> > "1625.title" = "압력";
+> 193a191,193
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1626"; */
+> > "1626.title" = "각도";
+> > 
+> 197,198c197,198
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1628"; */
+244,249c294,297
+< > "1628.title" = "回転";
+< 201c201
+< < "1629.title" = "Cyclic";
+< ---
+< > "1629.title" = "サイクリック";
+< 207c207
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1628"; */
+> > "1628.title" = "회전";
+> 206,207c206,207
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1632"; */
+252,253c300,303
+< > "1632.title" = "速度(逆)";
+< 210c210
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1632"; */
+> > "1632.title" = "속도 (뒤집힌)";
+> 209,210c209,210
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1633"; */
+256,261c306,309
+< > "1633.title" = "速度";
+< 213c213
+< < "1634.title" = "Cyclic";
+< ---
+< > "1634.title" = "サイクリック";
+< 216c216
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1633"; */
+> > "1633.title" = "속도";
+> 215,216c215,216
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1635"; */
+264,269c312,315
+< > "1635.title" = "回転";
+< 219c219
+< < "1636.title" = "Tilt";
+< ---
+< > "1636.title" = "ティルト";
+< 222c222
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1635"; */
+> > "1635.title" = "회전";
+> 221,222c221,222
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1637"; */
+272,273c318,321
+< > "1637.title" = "角度";
+< 225c225
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1637"; */
+> > "1637.title" = "각도";
+> 224,225c224,225
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1638"; */
+276,277c324,327
+< > "1638.title" = "筆圧";
+< 228c228
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1638"; */
+> > "1638.title" = "압력";
+> 227,228c227,228
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1639"; */
+280,281c330,333
+< > "1639.title" = "ランダム";
+< 231c231
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1639"; */
+> > "1639.title" = "무작위";
+> 230,231c230,231
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1640"; */
+284,293c336,339
+< > "1640.title" = "なし";
+< 234c234
+< < "1725.title" = "Brush Nozzles:";
+< ---
+< > "1725.title" = "ブラシノズル:";
+< 237c237
+< < "1727.title" = "Base Texture:";
+< ---
+< > "1727.title" = "ベーステクスチャ:";
+< 240c240
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1640"; */
+> > "1640.title" = "없음";
+> 239,240c239,240
+> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "1729"; */
+296,297c342,345
+< > "1729.title" = "追加";
+< 243c243
+---
+> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "1729"; */
+> > "1729.title" = "추가";
+> 242,243c242,243
+> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "1731"; */
+300,301c348,351
+< > "1731.title" = "削除";
+< 246c246
+---
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "1731"; */
+> > "1731.title" = "지우기";
+> 245,246c245,246
+> < /* Class = "NSTextFieldCell"; title = "Scale:"; ObjectID = "1748"; */
+304,305c354,357
+< > "1748.title" = "スケール:";
+< 249c249
+---
+> > /* Class = "NSTextFieldCell"; title = "배율:"; ObjectID = "1748"; */
+> > "1748.title" = "배율:";
+> 248,249c248,249
+> < /* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "1752"; */
+308,309c360,363
+< > "1752.title" = "モード:";
+< 255c255
+---
+> > /* Class = "NSTextFieldCell"; title = "모드:"; ObjectID = "1752"; */
+> > "1752.title" = "모드:";
+> 254,255c254,255
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1762"; */
+312,317c366,369
+< > "1762.title" = "なし";
+< 258c258
+< < "1763.title" = "Nozzle";
+< ---
+< > "1763.title" = "ノズル";
+< 261c261
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1762"; */
+> > "1762.title" = "없음";
+> 260,261c260,261
+> < /* Class = "NSMenuItem"; title = "Final"; ObjectID = "1764"; */
+320,321c372,375
+< > "1764.title" = "最終";
+< 264c264
+---
+> > /* Class = "NSMenuItem"; title = "마지막"; ObjectID = "1764"; */
+> > "1764.title" = "마지막";
+> 263,264c263,264
+> < /* Class = "NSTextFieldCell"; title = "Scatter Y:"; ObjectID = "1803"; */
+324,325c378,381
+< > "1803.title" = "拡散Y:";
+< 267c267
+---
+> > /* Class = "NSTextFieldCell"; title = "세로 흩어짐:"; ObjectID = "1803"; */
+> > "1803.title" = "세로 흩어짐:";
+> 266,267c266,267
+> < /* Class = "NSTextFieldCell"; title = "Scatter X:"; ObjectID = "1804"; */
+328,329c384,387
+< > "1804.title" = "拡散X:";
+< 273c273
+---
+> > /* Class = "NSTextFieldCell"; title = "가로 흩어짐:"; ObjectID = "1804"; */
+> > "1804.title" = "가로 흩어짐:";
+> 272,273c272,273
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1822"; */
+332,333c390,393
+< > "1822.title" = "なし";
+< 276c276
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1822"; */
+> > "1822.title" = "없음";
+> 275,276c275,276
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1823"; */
+336,337c396,399
+< > "1823.title" = "ランダム";
+< 279c279
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1823"; */
+> > "1823.title" = "무작위";
+> 278,279c278,279
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1824"; */
+340,341c402,405
+< > "1824.title" = "筆圧";
+< 282c282
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1824"; */
+> > "1824.title" = "압력";
+> 281,282c281,282
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1825"; */
+344,349c408,411
+< > "1825.title" = "角度";
+< 285c285
+< < "1826.title" = "Tilt";
+< ---
+< > "1826.title" = "ティルト";
+< 288c288
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1825"; */
+> > "1825.title" = "각도";
+> 287,288c287,288
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1827"; */
+352,357c414,417
+< > "1827.title" = "回転";
+< 291c291
+< < "1828.title" = "Cyclic";
+< ---
+< > "1828.title" = "サイクリック";
+< 294c294
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1827"; */
+> > "1827.title" = "회전";
+> 293,294c293,294
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1829"; */
+360,361c420,423
+< > "1829.title" = "速度";
+< 297c297
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1829"; */
+> > "1829.title" = "속도";
+> 296,297c296,297
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1830"; */
+364,365c426,429
+< > "1830.title" = "速度(逆)";
+< 303c303
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1830"; */
+> > "1830.title" = "속도 (뒤집힌)";
+> 302,303c302,303
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1842"; */
+368,369c432,435
+< > "1842.title" = "なし";
+< 306c306
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1842"; */
+> > "1842.title" = "없음";
+> 305,306c305,306
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1843"; */
+372,373c438,441
+< > "1843.title" = "ランダム";
+< 309c309
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1843"; */
+> > "1843.title" = "무작위";
+> 308,309c308,309
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1844"; */
+376,377c444,447
+< > "1844.title" = "筆圧";
+< 312c312
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1844"; */
+> > "1844.title" = "압력";
+> 311,312c311,312
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1845"; */
+380,385c450,453
+< > "1845.title" = "角度";
+< 315c315
+< < "1846.title" = "Tilt";
+< ---
+< > "1846.title" = "ティルト";
+< 318c318
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1845"; */
+> > "1845.title" = "각도";
+> 317,318c317,318
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1847"; */
+388,393c456,459
+< > "1847.title" = "回転";
+< 321c321
+< < "1848.title" = "Cyclic";
+< ---
+< > "1848.title" = "サイクリック";
+< 324c324
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1847"; */
+> > "1847.title" = "회전";
+> 323,324c323,324
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1849"; */
+396,397c462,465
+< > "1849.title" = "速度";
+< 327c327
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1849"; */
+> > "1849.title" = "속도";
+> 326,327c326,327
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1850"; */
+400,409c468,471
+< > "1850.title" = "速度(逆)";
+< 330c330
+< < "1868.title" = "Shape Jitter:";
+< ---
+< > "1868.title" = "シェイプのジッター:";
+< 333c333
+< < "1869.title" = "Hardness Jitter:";
+< ---
+< > "1869.title" = "硬さのジッター:";
+< 339c339
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1850"; */
+> > "1850.title" = "속도 (뒤집힌)";
+> 338,339c338,339
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1877"; */
+412,413c474,477
+< > "1877.title" = "速度(逆)";
+< 342c342
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1877"; */
+> > "1877.title" = "속도 (뒤집힌)";
+> 341,342c341,342
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1878"; */
+416,421c480,483
+< > "1878.title" = "速度";
+< 345c345
+< < "1879.title" = "Cyclic";
+< ---
+< > "1879.title" = "サイクリック";
+< 348c348
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1878"; */
+> > "1878.title" = "속도";
+> 347,348c347,348
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1880"; */
+424,429c486,489
+< > "1880.title" = "回転";
+< 351c351
+< < "1881.title" = "Tilt";
+< ---
+< > "1881.title" = "ティルト";
+< 354c354
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1880"; */
+> > "1880.title" = "회전";
+> 353,354c353,354
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1882"; */
+432,433c492,495
+< > "1882.title" = "角度";
+< 357c357
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1882"; */
+> > "1882.title" = "각도";
+> 356,357c356,357
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1883"; */
+436,437c498,501
+< > "1883.title" = "筆圧";
+< 360c360
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1883"; */
+> > "1883.title" = "압력";
+> 359,360c359,360
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1884"; */
+440,441c504,507
+< > "1884.title" = "ランダム";
+< 363c363
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1884"; */
+> > "1884.title" = "무작위";
+> 362,363c362,363
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1885"; */
+444,445c510,513
+< > "1885.title" = "なし";
+< 369c369
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1885"; */
+> > "1885.title" = "없음";
+> 368,369c368,369
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "1893"; */
+448,449c516,519
+< > "1893.title" = "速度(逆)";
+< 372c372
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "1893"; */
+> > "1893.title" = "속도 (뒤집힌)";
+> 371,372c371,372
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "1894"; */
+452,457c522,525
+< > "1894.title" = "速度";
+< 375c375
+< < "1895.title" = "Cyclic";
+< ---
+< > "1895.title" = "サイクリック";
+< 378c378
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "1894"; */
+> > "1894.title" = "속도";
+> 377,378c377,378
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "1896"; */
+460,465c528,531
+< > "1896.title" = "回転";
+< 381c381
+< < "1897.title" = "Tilt";
+< ---
+< > "1897.title" = "ティルト";
+< 384c384
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "1896"; */
+> > "1896.title" = "회전";
+> 383,384c383,384
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "1898"; */
+468,469c534,537
+< > "1898.title" = "角度";
+< 387c387
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "1898"; */
+> > "1898.title" = "각도";
+> 386,387c386,387
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "1899"; */
+472,473c540,543
+< > "1899.title" = "筆圧";
+< 390c390
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "1899"; */
+> > "1899.title" = "압력";
+> 389,390c389,390
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "1900"; */
+476,477c546,549
+< > "1900.title" = "ランダム";
+< 393c393
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "1900"; */
+> > "1900.title" = "무작위";
+> 392,393c392,393
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "1901"; */
+480,481c552,555
+< > "1901.title" = "なし";
+< 396c396
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1901"; */
+> > "1901.title" = "없음";
+> 395,396c395,396
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "1921"; */
+484,485c558,561
+< > "1921.title" = "閉じる";
+< 399c399
+---
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "1921"; */
+> > "1921.title" = "닫기";
+> 398,399c398,399
+> < /* Class = "NSButtonCell"; title = "Set Texture"; ObjectID = "1926"; */
+488,489c564,567
+< > "1926.title" = "テクスチャを設定";
+< 402c402
+---
+> > /* Class = "NSButtonCell"; title = "질감 설정"; ObjectID = "1926"; */
+> > "1926.title" = "질감 설정";
+> 401,402c401,402
+> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "1928"; */
+492,493c570,573
+< > "1928.title" = "削除";
+< 405c405
+---
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "1928"; */
+> > "1928.title" = "지우기";
+> 404,405c404,405
+> < /* Class = "NSButtonCell"; title = "Invert"; ObjectID = "1932"; */
+496,497c576,579
+< > "1932.title" = "反転";
+< 408c408
+---
+> > /* Class = "NSButtonCell"; title = "반전"; ObjectID = "1932"; */
+> > "1932.title" = "반전";
+> 407,408c407,408
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "0Bs-9F-tlU"; */
+500,521c582,585
+< > "0Bs-9F-tlU.title" = "角度";
+< 411c411
+< < "0gx-gm-afE.title" = "Paint mixer brush tool";
+< ---
+< > "0gx-gm-afE.title" = "ペイント混合ブラシツール";
+< 414c414
+< < "1LJ-PM-E4I.title" = "Stylus Wheel";
+< ---
+< > "1LJ-PM-E4I.title" = "スタイラスホイール";
+< 417c417
+< < "1jA-wK-Xcf.title" = "Stylus Wheel";
+< ---
+< > "1jA-wK-Xcf.title" = "スタイラスホイール";
+< 420c420
+< < "1n6-hf-Uch.title" = "Undo brush tool";
+< ---
+< > "1n6-hf-Uch.title" = "取り消しブラシツール";
+< 423c423
+< < "23P-k8-ufG.title" = "Stylus Wheel";
+< ---
+< > "23P-k8-ufG.title" = "スタイラスホイール";
+< 426c426
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "0Bs-9F-tlU"; */
+> > "0Bs-9F-tlU.title" = "각도";
+> 425,426c425,426
+> < /* Class = "NSTextFieldCell"; title = "Brush Width:"; ObjectID = "33u-m2-a7I"; */
+524,529c588,591
+< > "33u-m2-a7I.title" = "ブラシ幅:";
+< 429c429
+< < "37Y-s5-nCu.title" = "Erase brush tool";
+< ---
+< > "37Y-s5-nCu.title" = "消去ブラシツール";
+< 432c432
+---
+> > /* Class = "NSTextFieldCell"; title = "브러시 너비:"; ObjectID = "33u-m2-a7I"; */
+> > "33u-m2-a7I.title" = "브러시 너비:";
+> 431,432c431,432
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "525-u5-R4h"; */
+532,537c594,597
+< > "525-u5-R4h.title" = "ランダム";
+< 435c435
+< < "58J-Yf-GFZ.title" = "Distance";
+< ---
+< > "58J-Yf-GFZ.title" = "距離";
+< 438c438
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "525-u5-R4h"; */
+> > "525-u5-R4h.title" = "무작위";
+> 437,438c437,438
+> < /* Class = "NSTextFieldCell"; title = "Blend Mode:"; ObjectID = "6nd-GW-zPN"; */
+540,545c600,603
+< > "6nd-GW-zPN.title" = "描画モード:";
+< 441c441
+< < "6nv-pi-Y4G.title" = "Stylus Wheel";
+< ---
+< > "6nv-pi-Y4G.title" = "スタイラスホイール";
+< 444c444
+---
+> > /* Class = "NSTextFieldCell"; title = "혼합 모드:"; ObjectID = "6nd-GW-zPN"; */
+> > "6nd-GW-zPN.title" = "혼합 모드:";
+> 443,444c443,444
+> < /* Class = "NSButtonCell"; title = "Add Round"; ObjectID = "75N-4T-hqP"; */
+548,549c606,609
+< > "75N-4T-hqP.title" = "ラウンドブラシを追加";
+< 447c447
+---
+> > /* Class = "NSButtonCell"; title = "둥근 브러시 추가"; ObjectID = "75N-4T-hqP"; */
+> > "75N-4T-hqP.title" = "둥근 브러시 추가";
+> 446,447c446,447
+> < /* Class = "NSButtonCell"; title = "Edit"; ObjectID = "7CS-iu-sS3"; */
+552,553c612,615
+< > "7CS-iu-sS3.title" = "編集";
+< 450c450
+---
+> > /* Class = "NSButtonCell"; title = "편집"; ObjectID = "7CS-iu-sS3"; */
+> > "7CS-iu-sS3.title" = "편집";
+> 449,450c449,450
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "7Jy-4B-Bf3"; */
+556,565c618,621
+< > "7Jy-4B-Bf3.title" = "速度(逆)";
+< 453c453
+< < "8Gn-fy-xd9.title" = "Dodge brush tool";
+< ---
+< > "8Gn-fy-xd9.title" = "覆い焼きブラシツール";
+< 456c456
+< < "A4T-Ke-1ig.title" = "Distance";
+< ---
+< > "A4T-Ke-1ig.title" = "距離";
+< 459c459
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "7Jy-4B-Bf3"; */
+> > "7Jy-4B-Bf3.title" = "속도 (뒤집힌)";
+> 458,459c458,459
+> < /* Class = "NSButtonCell"; title = "Save As…"; ObjectID = "Ajx-IX-6l9"; */
+568,569c624,627
+< > "Ajx-IX-6l9.title" = "名前を付けて保存…";
+< 462c462
+---
+> > /* Class = "NSButtonCell"; title = "다른 이름으로 저장…"; ObjectID = "Ajx-IX-6l9"; */
+> > "Ajx-IX-6l9.title" = "다른 이름으로 저장…";
+> 461,462c461,462
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "DEp-sI-ZY8"; */
+572,573c630,633
+< > "DEp-sI-ZY8.title" = "速度";
+< 465c465
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "DEp-sI-ZY8"; */
+> > "DEp-sI-ZY8.title" = "속도";
+> 464,465c464,465
+> < /* Class = "NSMenuItem"; title = "Random"; ObjectID = "EJD-ch-Lxg"; */
+576,589c636,639
+< > "EJD-ch-Lxg.title" = "ランダム";
+< 468c468
+< < "FVq-C2-1ef.title" = "At end of stroke";
+< ---
+< > "FVq-C2-1ef.title" = "境界線の終端";
+< 471c471
+< < "FXS-vR-4Hf.title" = "Add Bitmap";
+< ---
+< > "FXS-vR-4Hf.title" = "ビットマップを追加";
+< 474c474
+< < "FiK-2x-8JB.title" = "Name:";
+< ---
+< > "FiK-2x-8JB.title" = "名前:";
+< 477c477
+---
+> > /* Class = "NSMenuItem"; title = "무작위"; ObjectID = "EJD-ch-Lxg"; */
+> > "EJD-ch-Lxg.title" = "무작위";
+> 476,477c476,477
+> < /* Class = "NSTextFieldCell"; title = "Body:"; ObjectID = "Gfc-cE-qka"; */
+592,605c642,645
+< > "Gfc-cE-qka.title" = "本体:";
+< 480c480
+< < "Hhr-sw-ZKd.title" = "Stylus Wheel";
+< ---
+< > "Hhr-sw-ZKd.title" = "スタイラスホイール";
+< 483c483
+< < "HnN-yo-Ikj.title" = "Distance";
+< ---
+< > "HnN-yo-Ikj.title" = "距離";
+< 486c486
+< < "KV7-DB-rGw.title" = "Accumulation";
+< ---
+< > "KV7-DB-rGw.title" = "累積";
+< 489c489
+---
+> > /* Class = "NSTextFieldCell"; title = "몸:"; ObjectID = "Gfc-cE-qka"; */
+> > "Gfc-cE-qka.title" = "몸:";
+> 488,489c488,489
+> < /* Class = "NSTextFieldCell"; title = "Size Variance:"; ObjectID = "KaM-1C-xWY"; */
+608,617c648,651
+< > "KaM-1C-xWY.title" = "サイズの許容誤差:";
+< 492c492
+< < "Kfp-1f-bFh.title" = "Tilt";
+< ---
+< > "Kfp-1f-bFh.title" = "ティルト";
+< 495c495
+< < "LI8-7J-mdJ.title" = "Burn brush tool";
+< ---
+< > "LI8-7J-mdJ.title" = "焼き込みブラシツール";
+< 501c501
+---
+> > /* Class = "NSTextFieldCell"; title = "크기 분산:"; ObjectID = "KaM-1C-xWY"; */
+> > "KaM-1C-xWY.title" = "크기 분산:";
+> 500,501c500,501
+> < /* Class = "NSTabViewItem"; label = "Sub Brushes"; ObjectID = "Lwj-PP-Mzs"; */
+620,629c654,657
+< > "Lwj-PP-Mzs.label" = "サブブラシ";
+< 504c504
+< < "MCf-c0-c3K.title" = "Distance";
+< ---
+< > "MCf-c0-c3K.title" = "距離";
+< 507c507
+< < "MQE-Es-wb3.title" = "Inpainting brush tool";
+< ---
+< > "MQE-Es-wb3.title" = "インペインティングブラシツール";
+< 510c510
+---
+> > /* Class = "NSTabViewItem"; label = "보조 브러시"; ObjectID = "Lwj-PP-Mzs"; */
+> > "Lwj-PP-Mzs.label" = "보조 브러시";
+> 509,510c509,510
+> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "MQL-Ka-u29"; */
+632,637c660,663
+< > "MQL-Ka-u29.title" = "削除";
+< 513c513
+< < "N8V-Vh-feY.title" = "Median brush tool";
+< ---
+< > "N8V-Vh-feY.title" = "中間値ブラシツール";
+< 516c516
+---
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "MQL-Ka-u29"; */
+> > "MQL-Ka-u29.title" = "지우기";
+> 515,516c515,516
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "PPH-Ey-PHW"; */
+640,641c666,669
+< > "PPH-Ey-PHW.title" = "速度";
+< 519c519
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "PPH-Ey-PHW"; */
+> > "PPH-Ey-PHW.title" = "속도";
+> 518,519c518,519
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "PWx-g3-SWM"; */
+644,657c672,675
+< > "PWx-g3-SWM.title" = "なし";
+< 522c522
+< < "Pji-sS-t35.title" = "Distance";
+< ---
+< > "Pji-sS-t35.title" = "距離";
+< 525c525
+< < "QXP-ft-qyk.title" = "Stylus Wheel";
+< ---
+< > "QXP-ft-qyk.title" = "スタイラスホイール";
+< 528c528
+< < "Qln-DH-eXa.title" = "Healing brush tool";
+< ---
+< > "Qln-DH-eXa.title" = "修復ブラシツール";
+< 531c531
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "PWx-g3-SWM"; */
+> > "PWx-g3-SWM.title" = "없음";
+> 530,531c530,531
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "QvC-xR-Xe7"; */
+659,670d676
+< ---
+< > "QvC-xR-Xe7.title" = "筆圧";
+< 534c534
+< < "Rha-d5-xjf.title" = "Background erase brush tool";
+< ---
+< > "Rha-d5-xjf.title" = "背景消去ブラシツール";
+< 537c537
+< < "S5O-Vi-dvf.title" = "No associated tool";
+< ---
+< > "S5O-Vi-dvf.title" = "関連ツールなし";
+< 540c540
+< < "SMG-vS-0nD.title" = "Stylus Wheel";
+672,677c678,681
+< > "SMG-vS-0nD.title" = "スタイラスホイール";
+< 543c543
+< < "Sq2-yC-pKZ.title" = "Interpolate";
+< ---
+< > "Sq2-yC-pKZ.title" = "内挿";
+< 546c546
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "QvC-xR-Xe7"; */
+> > "QvC-xR-Xe7.title" = "압력";
+> 545,546c545,546
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "T1v-iG-2P4"; */
+680,693c684,687
+< > "T1v-iG-2P4.title" = "筆圧";
+< 549c549
+< < "TGB-X8-Gc2.title" = "Distance";
+< ---
+< > "TGB-X8-Gc2.title" = "距離";
+< 552c552
+< < "TyV-Kw-e2E.title" = "Stylus Wheel";
+< ---
+< > "TyV-Kw-e2E.title" = "スタイラスホイール";
+< 555c555
+< < "UWh-IF-Uqd.title" = "Cyclic";
+< ---
+< > "UWh-IF-Uqd.title" = "サイクリック";
+< 558c558
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "T1v-iG-2P4"; */
+> > "T1v-iG-2P4.title" = "압력";
+> 557,558c557,558
+> < /* Class = "NSTextFieldCell"; title = "Blending"; ObjectID = "UgN-LR-3ty"; */
+696,697c690,693
+< > "UgN-LR-3ty.title" = "ブレンディング";
+< 561c561
+---
+> > /* Class = "NSTextFieldCell"; title = "혼합하기"; ObjectID = "UgN-LR-3ty"; */
+> > "UgN-LR-3ty.title" = "혼합하기";
+> 560,561c560,561
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "VRF-N5-wwz"; */
+700,701c696,699
+< > "VRF-N5-wwz.title" = "速度(逆)";
+< 564c564
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "VRF-N5-wwz"; */
+> > "VRF-N5-wwz.title" = "속도 (뒤집힌)";
+> 563,564c563,564
+> < /* Class = "NSButtonCell"; title = "Sync size"; ObjectID = "Vvq-88-emW"; */
+704,705c702,705
+< > "Vvq-88-emW.title" = "サイズを同期";
+< 567c567
+---
+> > /* Class = "NSButtonCell"; title = "크기 동기화"; ObjectID = "Vvq-88-emW"; */
+> > "Vvq-88-emW.title" = "크기 동기화";
+> 566,567c566,567
+> < /* Class = "NSButtonCell"; title = "Sync spacing"; ObjectID = "W7h-Lc-SEI"; */
+708,709c708,711
+< > "W7h-Lc-SEI.title" = "間隔を同期";
+< 570c570
+---
+> > /* Class = "NSButtonCell"; title = "간격 동기화"; ObjectID = "W7h-Lc-SEI"; */
+> > "W7h-Lc-SEI.title" = "간격 동기화";
+> 569,570c569,570
+> < /* Class = "NSTextFieldCell"; title = "Wet edges:"; ObjectID = "WGK-pJ-hEU"; */
+712,721c714,717
+< > "WGK-pJ-hEU.title" = "ウェットエッジ:";
+< 573c573
+< < "X0J-2R-MZp.title" = "Distance";
+< ---
+< > "X0J-2R-MZp.title" = "距離";
+< 576c576
+< < "XYy-0X-nft.title" = "Blur brush tool";
+< ---
+< > "XYy-0X-nft.title" = "ぼかしブラシツール";
+< 579c579
+---
+> > /* Class = "NSTextFieldCell"; title = "젖은 모서리:"; ObjectID = "WGK-pJ-hEU"; */
+> > "WGK-pJ-hEU.title" = "젖은 모서리:";
+> 578,579c578,579
+> < /* Class = "NSMenuItem"; title = "Velocity (Inverse)"; ObjectID = "XkN-gy-nXE"; */
+724,729c720,723
+< > "XkN-gy-nXE.title" = "速度(逆)";
+< 582c582
+< < "XuT-c9-5bg.title" = "Direction";
+< ---
+< > "XuT-c9-5bg.title" = "向き";
+< 585c585
+---
+> > /* Class = "NSMenuItem"; title = "속도 (뒤집힌)"; ObjectID = "XkN-gy-nXE"; */
+> > "XkN-gy-nXE.title" = "속도 (뒤집힌)";
+> 584,585c584,585
+> < /* Class = "NSTextFieldCell"; title = "Opacity Variance:"; ObjectID = "Y5Z-h0-2FR"; */
+732,737c726,729
+< > "Y5Z-h0-2FR.title" = "不透明度の許容誤差:";
+< 588c588
+< < "YGe-mo-CFi.title" = "Associated Tool:";
+< ---
+< > "YGe-mo-CFi.title" = "関連ツール:";
+< 591c591
+---
+> > /* Class = "NSTextFieldCell"; title = "불투명도 분산:"; ObjectID = "Y5Z-h0-2FR"; */
+> > "Y5Z-h0-2FR.title" = "불투명도 분산:";
+> 590,591c590,591
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "YXO-G8-ttf"; */
+740,745c732,735
+< > "YXO-G8-ttf.title" = "なし";
+< 594c594
+< < "ZLO-ml-YBa.title" = "At current nozzle";
+< ---
+< > "ZLO-ml-YBa.title" = "現在のノズル";
+< 597c597
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "YXO-G8-ttf"; */
+> > "YXO-G8-ttf.title" = "없음";
+> 596,597c596,597
+> < /* Class = "NSMenuItem"; title = "Velocity"; ObjectID = "aSA-pe-HHg"; */
+748,749c738,741
+< > "aSA-pe-HHg.title" = "速度";
+< 600c600
+---
+> > /* Class = "NSMenuItem"; title = "속도"; ObjectID = "aSA-pe-HHg"; */
+> > "aSA-pe-HHg.title" = "속도";
+> 599,600c599,600
+> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "ak0-UE-vVt"; */
+752,753c744,747
+< > "ak0-UE-vVt.title" = "ラベル";
+< 603c603
+---
+> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "ak0-UE-vVt"; */
+> > "ak0-UE-vVt.title" = "라벨";
+> 602,603c602,603
+> < /* Class = "NSTextFieldCell"; title = "Sub Brushes"; ObjectID = "bqi-yn-ptB"; */
+756,773c750,753
+< > "bqi-yn-ptB.title" = "サブブラシ";
+< 606c606
+< < "cBK-tc-l4L.title" = "Distance";
+< ---
+< > "cBK-tc-l4L.title" = "距離";
+< 609c609
+< < "cBU-Ua-fFS.title" = "Set wet edges \"off\"";
+< ---
+< > "cBU-Ua-fFS.title" = "ウェットエッジを\"オフ\"に設定";
+< 612c612
+< < "cFJ-1n-gQm.title" = "Distance";
+< ---
+< > "cFJ-1n-gQm.title" = "距離";
+< 615c615
+< < "cLT-g0-tay.title" = "Distance";
+< ---
+< > "cLT-g0-tay.title" = "距離";
+< 618c618
+---
+> > /* Class = "NSTextFieldCell"; title = "보조 브러시"; ObjectID = "bqi-yn-ptB"; */
+> > "bqi-yn-ptB.title" = "보조 브러시";
+> 617,618c617,618
+> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "cnc-Mc-qoN"; */
+776,805c756,759
+< > "cnc-Mc-qoN.title" = "なし";
+< 624c624
+< < "eA8-dB-gkJ.title" = "Smudge brush tool";
+< ---
+< > "eA8-dB-gkJ.title" = "指先ブラシツール";
+< 627c627
+< < "fqH-Nw-bD9.title" = "Stylus Wheel";
+< ---
+< > "fqH-Nw-bD9.title" = "スタイラスホイール";
+< 630c630
+< < "h8W-H2-pdz.title" = "Set wet edges \"on\"";
+< ---
+< > "h8W-H2-pdz.title" = "ウェットエッジを\"オン\"に設定";
+< 633c633
+< < "hA9-nY-uGe.title" = "Stylus Wheel";
+< ---
+< > "hA9-nY-uGe.title" = "スタイラスホイール";
+< 636c636
+< < "haw-wG-row.title" = "Name:";
+< ---
+< > "haw-wG-row.title" = "名前:";
+< 639c639
+< < "iaW-ed-mQb.title" = "Distance";
+< ---
+< > "iaW-ed-mQb.title" = "距離";
+< 642c642
+< < "kVP-1R-jAM.title" = "Paint brush tool";
+< ---
+< > "kVP-1R-jAM.title" = "ペイントブラシツール";
+< 645c645
+---
+> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "cnc-Mc-qoN"; */
+> > "cnc-Mc-qoN.title" = "없음";
+> 644,645c644,645
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "lEX-RB-lju"; */
+808,817c762,765
+< > "lEX-RB-lju.title" = "回転";
+< 648c648
+< < "lrJ-0s-nl5.ibShadowedToolTip" = "Unfinished feature / user interface.";
+< ---
+< > "lrJ-0s-nl5.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
+< 651c651
+< < "lyI-Ap-unx.title" = "Accumulation Jitter:";
+< ---
+< > "lyI-Ap-unx.title" = "累積ジッター:";
+< 654c654
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "lEX-RB-lju"; */
+> > "lEX-RB-lju.title" = "회전";
+> 653,654c653,654
+> < /* Class = "NSMenuItem"; title = "Erase"; ObjectID = "mqx-zA-5oz"; */
+820,825c768,771
+< > "mqx-zA-5oz.title" = "消去";
+< 657c657
+< < "nLY-he-Rfd.title" = "Stylus Wheel";
+< ---
+< > "nLY-he-Rfd.title" = "スタイラスホイール";
+< 660c660
+---
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "mqx-zA-5oz"; */
+> > "mqx-zA-5oz.title" = "지우기";
+> 659,660c659,660
+> < /* Class = "NSMenuItem"; title = "Don't set wet edges"; ObjectID = "nNq-f3-ufj"; */
+828,833c774,777
+< > "nNq-f3-ufj.title" = "ウェットエッジを設定しない";
+< 663c663
+< < "nkq-gb-GOk.title" = "Pixel tool";
+< ---
+< > "nkq-gb-GOk.title" = "ピクセルツール";
+< 666c666
+---
+> > /* Class = "NSMenuItem"; title = "젖은 모서리 설정하지 않음"; ObjectID = "nNq-f3-ufj"; */
+> > "nNq-f3-ufj.title" = "젖은 모서리 설정하지 않음";
+> 665,666c665,666
+> < /* Class = "NSMenuItem"; title = "Don't set blend mode"; ObjectID = "nqq-fz-xOB"; */
+836,837c780,783
+< > "nqq-fz-xOB.title" = "描画モードを設定しない";
+< 669c669
+---
+> > /* Class = "NSMenuItem"; title = "혼합 모드 설정하지 않음"; ObjectID = "nqq-fz-xOB"; */
+> > "nqq-fz-xOB.title" = "혼합 모드 설정하지 않음";
+> 668,669c668,669
+> < /* Class = "NSMenuItem"; title = "Angle"; ObjectID = "piW-OO-2lx"; */
+840,841c786,789
+< > "piW-OO-2lx.title" = "角度";
+< 672c672
+---
+> > /* Class = "NSMenuItem"; title = "각도"; ObjectID = "piW-OO-2lx"; */
+> > "piW-OO-2lx.title" = "각도";
+> 671,672c671,672
+> < /* Class = "NSMenuItem"; title = "Blend"; ObjectID = "pua-Sa-cFg"; */
+844,849c792,795
+< > "pua-Sa-cFg.title" = "ブレンド";
+< 675c675
+< < "rWQ-4h-n3o.title" = "Sponge brush tool";
+< ---
+< > "rWQ-4h-n3o.title" = "スポンジブラシツール";
+< 678c678
+---
+> > /* Class = "NSMenuItem"; title = "혼합"; ObjectID = "pua-Sa-cFg"; */
+> > "pua-Sa-cFg.title" = "혼합";
+> 677,678c677,678
+> < /* Class = "NSTextFieldCell"; title = "Head Offset:"; ObjectID = "t5U-03-ifC"; */
+852,861c798,801
+< > "t5U-03-ifC.title" = "ヘッドオフセット:";
+< 681c681
+< < "tOm-05-u3u.title" = "Distance";
+< ---
+< > "tOm-05-u3u.title" = "距離";
+< 684c684
+< < "tWt-mJ-9ot.title" = "Cyclic";
+< ---
+< > "tWt-mJ-9ot.title" = "サイクリック";
+< 687c687
+---
+> > /* Class = "NSTextFieldCell"; title = "머리 편차:"; ObjectID = "t5U-03-ifC"; */
+> > "t5U-03-ifC.title" = "머리 편차:";
+> 686,687c686,687
+> < /* Class = "NSTextFieldCell"; title = "Drawing"; ObjectID = "tgq-Ji-2R8"; */
+864,873c804,807
+< > "tgq-Ji-2R8.title" = "描画";
+< 690c690
+< < "tkU-3b-Uq3.title" = "Tilt";
+< ---
+< > "tkU-3b-Uq3.title" = "ティルト";
+< 693c693
+< < "tqn-y8-MAd.title" = "Color replacement brush tool";
+< ---
+< > "tqn-y8-MAd.title" = "色置換ブラシツール";
+< 696c696
+---
+> > /* Class = "NSTextFieldCell"; title = "그리기"; ObjectID = "tgq-Ji-2R8"; */
+> > "tgq-Ji-2R8.title" = "그리기";
+> 695,696c695,696
+> < /* Class = "NSTextFieldCell"; title = "Corners:"; ObjectID = "uUr-ee-OGF"; */
+876,877c810,813
+< > "uUr-ee-OGF.title" = "コーナー:";
+< 699c699
+---
+> > /* Class = "NSTextFieldCell"; title = "꼭짓점:"; ObjectID = "uUr-ee-OGF"; */
+> > "uUr-ee-OGF.title" = "꼭짓점:";
+> 698,699c698,699
+> < /* Class = "NSMenuItem"; title = "Pressure"; ObjectID = "uhy-lY-DKl"; */
+880,893c816,819
+< > "uhy-lY-DKl.title" = "筆圧";
+< 702c702
+< < "v0n-2d-yO9.title" = "Behind current nozzle";
+< ---
+< > "v0n-2d-yO9.title" = "現在のノズルの背面";
+< 705c705
+< < "v4v-jx-mzv.title" = "Stylus Wheel";
+< ---
+< > "v4v-jx-mzv.title" = "スタイラスホイール";
+< 708c708
+< < "vLa-mB-1N0.title" = "Sharpen brush tool";
+< ---
+< > "vLa-mB-1N0.title" = "シャープブラシツール";
+< 714c714
+---
+> > /* Class = "NSMenuItem"; title = "압력"; ObjectID = "uhy-lY-DKl"; */
+> > "uhy-lY-DKl.title" = "압력";
+> 713,714c713,714
+> < /* Class = "NSMenuItem"; title = "Rotation"; ObjectID = "xAR-3A-pkp"; */
+896,897c822,825
+< > "xAR-3A-pkp.title" = "回転";
+< 717c717
+---
+> > /* Class = "NSMenuItem"; title = "회전"; ObjectID = "xAR-3A-pkp"; */
+> > "xAR-3A-pkp.title" = "회전";
+> 716,717c716,717
+> < /* Class = "NSTabViewItem"; label = "Stroke"; ObjectID = "xHQ-G7-AFb"; */
+900,901c828,831
+< > "xHQ-G7-AFb.label" = "境界線";
+< 720c720
+---
+> > /* Class = "NSTabViewItem"; label = "선"; ObjectID = "xHQ-G7-AFb"; */
+> > "xHQ-G7-AFb.label" = "선";
+> 719,720c719,720
+> < /* Class = "NSButtonCell"; title = "Custom"; ObjectID = "yLi-Zs-hHa"; */
+904,905c834,837
+< > "yLi-Zs-hHa.title" = "カスタム";
+< 723c723
+---
+> > /* Class = "NSButtonCell"; title = "사용자화"; ObjectID = "yLi-Zs-hHa"; */
+> > "yLi-Zs-hHa.title" = "사용자화";
+> 722,723c722,723
+> < /* Class = "NSTextFieldCell"; title = "Tail Offset:"; ObjectID = "ygw-py-ebp"; */
+908,909c840,843
+< > "ygw-py-ebp.title" = "テールのオフセット:";
+< 726c726
+---
+> > /* Class = "NSTextFieldCell"; title = "꼬리 편차:"; ObjectID = "ygw-py-ebp"; */
+> > "ygw-py-ebp.title" = "꼬리 편차:";
+> 725,726c725,726
+> < /* Class = "NSMenuItem"; title = "Clone brush tool"; ObjectID = "ypn-eR-AwE"; */
+912c846,847
+< > "ypn-eR-AwE.title" = "コピーブラシツール";
+---
+> > /* Class = "NSMenuItem"; title = "복제 브러시 도구"; ObjectID = "ypn-eR-AwE"; */
+> > "ypn-eR-AwE.title" = "복제 브러시 도구";

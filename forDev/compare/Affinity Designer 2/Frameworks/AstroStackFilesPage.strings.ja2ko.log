@@ -1,0 +1,88 @@
+1,13c1,2
+< 3c3
+< < "1tO-OD-ouq.title" = "Flat frames";
+< ---
+< > "1tO-OD-ouq.title" = "フラットフレーム数";
+< 6c6
+< < "2Cb-5P-15Q.ibShadowedToolTip" = "Change the minimum quality of files to stack";
+< ---
+< > "2Cb-5P-15Q.ibShadowedToolTip" = "スタックするファイルの最小数量を変更";
+< 9c9
+< < "3Vy-JN-L5B.title" = "Dark flat frames";
+< ---
+< > "3Vy-JN-L5B.title" = "ダークフラットフレーム数";
+< 12c12
+---
+> 11,12c11,12
+> < /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "482-rS-xj5"; */
+16,18c5,9
+< > "482-rS-xj5.title" = "タイプ:";
+< 15c15
+< < "4nC-CO-kKZ.ibShadowedToolTip" = "Remove selected files from the list";
+---
+> > /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "482-rS-xj5"; */
+> > "482-rS-xj5.title" = "종류:";
+> 29,30c29,30
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ipc-ah-zqy"; */
+> < "Ipc-ah-zqy.title" = "Text Cell";
+20,65c11,14
+< > "4nC-CO-kKZ.ibShadowedToolTip" = "選択したファイルをリストから削除";
+< 18c18
+< < "5O3-Ot-ZrH.title" = "Bias frames";
+< ---
+< > "5O3-Ot-ZrH.title" = "バイアスフレーム数";
+< 21c21
+< < "6Lw-Js-Z2f.title" = "Light frames";
+< ---
+< > "6Lw-Js-Z2f.title" = "ライトフレーム数";
+< 24c24
+< < "7rX-rG-9Kx.ibShadowedToolTip" = "Select the type of files to show";
+< ---
+< > "7rX-rG-9Kx.ibShadowedToolTip" = "表示するファイルのタイプを選択";
+< 27c27
+< < "CLz-oN-fui.ibShadowedToolTip" = "Select a file group";
+< ---
+< > "CLz-oN-fui.ibShadowedToolTip" = "ファイルグループを選択";
+< 33c33
+< < "Sns-iH-qKn.ibShadowedToolTip" = "Add files to the list";
+< ---
+< > "Sns-iH-qKn.ibShadowedToolTip" = "ファイルをリストに追加";
+< 36c36
+< < "bU9-nI-7Qw.title" = "File group:";
+< ---
+< > "bU9-nI-7Qw.title" = "ファイルグループ:";
+< 39c39
+< < "bmc-zc-7bZ.title" = "Select best light frames:";
+< ---
+< > "bmc-zc-7bZ.title" = "最高のライトフレームを選択:";
+< 45c45
+< < "eJA-3W-1fd.title" = "Dark frames";
+< ---
+< > "eJA-3W-1fd.title" = "ダークフレーム数";
+< 48c48
+< < "hE3-fH-WYD.ibShadowedToolTip" = "Select the type of files to show";
+< ---
+< > "hE3-fH-WYD.ibShadowedToolTip" = "表示するファイルのタイプを選択";
+< 51c51
+< < "hJT-0L-Juw.ibShadowedToolTip" = "Add a file group";
+< ---
+< > "hJT-0L-Juw.ibShadowedToolTip" = "ファイルグループを追加";
+< 54c54
+< < "oOl-aa-buo.ibShadowedToolTip" = "Delete a file group";
+< ---
+< > "oOl-aa-buo.ibShadowedToolTip" = "ファイルグループを削除";
+< 57c57
+---
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Ipc-ah-zqy"; */
+> > "Ipc-ah-zqy.title" = "텍스트 셀";
+> 56,57c56,57
+> < /* Class = "NSTextFieldCell"; title = "Filter:"; ObjectID = "sgY-B6-ufz"; */
+68,72c17,18
+< > "sgY-B6-ufz.title" = "フィルター:";
+< 60c60
+< < "vkP-Sr-vYG.title" = "Add Files";
+< ---
+< > "vkP-Sr-vYG.title" = "ファイルを追加";
+---
+> > /* Class = "NSTextFieldCell"; title = "필터:"; ObjectID = "sgY-B6-ufz"; */
+> > "sgY-B6-ufz.title" = "필터:";

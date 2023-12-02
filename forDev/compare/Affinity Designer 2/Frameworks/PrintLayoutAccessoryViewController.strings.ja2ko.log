@@ -1,0 +1,122 @@
+1,17c1,2
+< 3c3
+< < "0Ay-6l-gqe.title" = "Skip:";
+< ---
+< > "0Ay-6l-gqe.title" = "スキップ:";
+< 6c6
+< < "6LW-my-jwz.title" = "Across:";
+< ---
+< > "6LW-my-jwz.title" = "全域:";
+< 9c9
+< < "C8j-Hh-853.title" = "Fill last page";
+< ---
+< > "C8j-Hh-853.title" = "最後のページを埋める";
+< 12c12
+< < "F8W-Jd-ZlD.title" = "Overlap:";
+< ---
+< > "F8W-Jd-ZlD.title" = "オーバーラップ:";
+< 15c15
+---
+> 14,15c14,15
+> < /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "FUU-o5-I23"; */
+20,21c5,8
+< > "FUU-o5-I23.label" = "タブ";
+< 18c18
+---
+> > /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "FUU-o5-I23"; */
+> > "FUU-o5-I23.label" = "탭";
+> 17,18c17,18
+> < /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "G2V-OH-1ko"; */
+24,45c11,14
+< > "G2V-OH-1ko.label" = "タブ";
+< 21c21
+< < "JTu-KU-y3e.title" = "Model:";
+< ---
+< > "JTu-KU-y3e.title" = "モデル:";
+< 24c24
+< < "Kbd-s8-qwq.ibShadowedToolTip" = "Top Offset";
+< ---
+< > "Kbd-s8-qwq.ibShadowedToolTip" = "上のオフセット";
+< 27c27
+< < "Ly5-x1-mDL.ibShadowedToolTip" = "Vertical Gap";
+< ---
+< > "Ly5-x1-mDL.ibShadowedToolTip" = "垂直ギャップ";
+< 30c30
+< < "QA0-54-fjt.ibShadowedToolTip" = "Horizontal Gap";
+< ---
+< > "QA0-54-fjt.ibShadowedToolTip" = "水平ギャップ";
+< 33c33
+< < "QsW-ej-okK.title" = "VGap:";
+< ---
+< > "QsW-ej-okK.title" = "垂直ギャップ:";
+< 36c36
+---
+> > /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "G2V-OH-1ko"; */
+> > "G2V-OH-1ko.label" = "탭";
+> 35,36c35,36
+> < /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "cB7-q9-lYG"; */
+48,61c17,20
+< > "cB7-q9-lYG.label" = "タブ";
+< 39c39
+< < "d35-zV-MVK.title" = "HGap:";
+< ---
+< > "d35-zV-MVK.title" = "水平ギャップ:";
+< 42c42
+< < "eYD-UY-N35.ibShadowedToolTip" = "Left Offset";
+< ---
+< > "eYD-UY-N35.ibShadowedToolTip" = "左のオフセット";
+< 45c45
+< < "f0b-fJ-F3h.title" = "Down:";
+< ---
+< > "f0b-fJ-F3h.title" = "下:";
+< 48c48
+---
+> > /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "cB7-q9-lYG"; */
+> > "cB7-q9-lYG.label" = "탭";
+> 47,48c47,48
+> < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "hyp-kx-HSb"; */
+64,65c23,26
+< > "hyp-kx-HSb.title" = "上:";
+< 51c51
+---
+> > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "hyp-kx-HSb"; */
+> > "hyp-kx-HSb.title" = "위쪽:";
+> 50,51c50,51
+> < /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "iFc-LM-s2S"; */
+68,81c29,32
+< > "iFc-LM-s2S.label" = "タブ";
+< 54c54
+< < "kVz-ge-mOK.title" = "Item 3";
+< ---
+< > "kVz-ge-mOK.title" = "アイテム3";
+< 57c57
+< < "mBO-6e-Ma8.title" = "Repeat:";
+< ---
+< > "mBO-6e-Ma8.title" = "繰り返し:";
+< 60c60
+< < "nqI-UU-lm2.title" = "Item 2";
+< ---
+< > "nqI-UU-lm2.title" = "アイテム2";
+< 63c63
+---
+> > /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "iFc-LM-s2S"; */
+> > "iFc-LM-s2S.label" = "탭";
+> 62,63c62,63
+> < /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "rri-6J-KJO"; */
+84,89c35,38
+< > "rri-6J-KJO.label" = "タブ";
+< 66c66
+< < "s48-he-iyp.title" = "Item 1";
+< ---
+< > "s48-he-iyp.title" = "アイテム1";
+< 69c69
+---
+> > /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "rri-6J-KJO"; */
+> > "rri-6J-KJO.label" = "탭";
+> 68,69c68,69
+> < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "whU-z6-Zx2"; */
+92c41,42
+< > "whU-z6-Zx2.title" = "左:";
+---
+> > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "whU-z6-Zx2"; */
+> > "whU-z6-Zx2.title" = "왼쪽:";

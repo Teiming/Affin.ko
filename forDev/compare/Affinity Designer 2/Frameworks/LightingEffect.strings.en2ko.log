@@ -1,0 +1,90 @@
+5,6c5,6
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "19"; */
+< "19.title" = "Apply";
+---
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "19"; */
+> "19.title" = "적용";
+8,9c8,9
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "166"; */
+< "166.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "166"; */
+> "166.title" = "취소";
+11,12c11,12
+< /* Class = "NSButtonCell"; title = "Add"; ObjectID = "3L9-ez-9dz"; */
+< "3L9-ez-9dz.title" = "Add";
+---
+> /* Class = "NSButtonCell"; title = "추가"; ObjectID = "3L9-ez-9dz"; */
+> "3L9-ez-9dz.title" = "추가";
+14,15c14,15
+< /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "5Dg-dT-Mtl"; */
+< "5Dg-dT-Mtl.title" = "Opacity:";
+---
+> /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "5Dg-dT-Mtl"; */
+> "5Dg-dT-Mtl.title" = "불투명도:";
+35,36c35,36
+< /* Class = "NSTextFieldCell"; title = "Diffuse:"; ObjectID = "FJB-2T-3V6"; */
+< "FJB-2T-3V6.title" = "Diffuse:";
+---
+> /* Class = "NSTextFieldCell"; title = "확산:"; ObjectID = "FJB-2T-3V6"; */
+> "FJB-2T-3V6.title" = "확산:";
+41,42c41,42
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "HmW-k6-fI7"; */
+< "HmW-k6-fI7.ibShadowedToolTip" = "No split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "HmW-k6-fI7"; */
+> "HmW-k6-fI7.ibShadowedToolTip" = "분할 뷰 모드 해제";
+53c53
+< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "P31-aL-rOx"; */
+---
+> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "P31-aL-rOx"; */
+62,63c62,63
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "TDQ-Ja-W05"; */
+< "TDQ-Ja-W05.ibShadowedToolTip" = "Mirror view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "TDQ-Ja-W05"; */
+> "TDQ-Ja-W05.ibShadowedToolTip" = "거울 뷰 모드";
+65c65
+< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "UU6-Ls-agM"; */
+---
+> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "UU6-Ls-agM"; */
+71,72c71,72
+< /* Class = "NSTextFieldCell"; title = "Direction:"; ObjectID = "WCo-Xc-Mx0"; */
+< "WCo-Xc-Mx0.title" = "Direction:";
+---
+> /* Class = "NSTextFieldCell"; title = "방향:"; ObjectID = "WCo-Xc-Mx0"; */
+> "WCo-Xc-Mx0.title" = "방향:";
+80,81c80,81
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "Xex-XR-XXl"; */
+< "Xex-XR-XXl.ibShadowedToolTip" = "Split view";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Xex-XR-XXl"; */
+> "Xex-XR-XXl.ibShadowedToolTip" = "분할 뷰 모드";
+86,87c86,87
+< /* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "Y8h-at-oau"; */
+< "Y8h-at-oau.title" = "Type:";
+---
+> /* Class = "NSTextFieldCell"; title = "종류:"; ObjectID = "Y8h-at-oau"; */
+> "Y8h-at-oau.title" = "종류:";
+89c89
+< /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "aNx-al-6va"; */
+---
+> /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "aNx-al-6va"; */
+113,114c113,114
+< /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "h8r-K4-ZZB"; */
+< "h8r-K4-ZZB.title" = "Remove";
+---
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "h8r-K4-ZZB"; */
+> "h8r-K4-ZZB.title" = "지우기";
+122,123c122,123
+< /* Class = "NSTextFieldCell"; title = "Direction:"; ObjectID = "n8m-Tl-bix"; */
+< "n8m-Tl-bix.title" = "Direction:";
+---
+> /* Class = "NSTextFieldCell"; title = "방향:"; ObjectID = "n8m-Tl-bix"; */
+> "n8m-Tl-bix.title" = "방향:";
+131,132c131,132
+< /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "yBr-Et-oT7"; */
+< "yBr-Et-oT7.title" = "Copy";
+---
+> /* Class = "NSButtonCell"; title = "복사"; ObjectID = "yBr-Et-oT7"; */
+> "yBr-Et-oT7.title" = "복사";

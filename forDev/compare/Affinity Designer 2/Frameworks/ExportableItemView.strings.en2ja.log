@@ -1,0 +1,100 @@
+3c3
+< "4.ibShadowedToolTip" = "The Slice name is used for creating filenames for the output files";
+---
+> "4.ibShadowedToolTip" = "スライス名は、出力ファイルのファイル名を作成するために使用されます";
+6c6
+< "5.placeholderString" = "Slice name";
+---
+> "5.placeholderString" = "スライス名";
+9c9
+< "5.title" = "Slice name";
+---
+> "5.title" = "スライス名";
+12c12
+< "4q9-AJ-5eL.ibShadowedToolTip" = "Configure additional properties for the exported item, including output filename and custom DPI";
+---
+> "4q9-AJ-5eL.ibShadowedToolTip" = "書き出される項目について、出力ファイル名やカスタムDPIなどの追加のプロパティを設定します";
+15c15
+< "8Rz-Ib-b6y.ibShadowedToolTip" = "Configure additional properties for the exported item";
+---
+> "8Rz-Ib-b6y.ibShadowedToolTip" = "書き出される項目の追加のプロパティを設定します";
+18c18
+< "8wF-Ab-VhZ.title" = "Path:";
+---
+> "8wF-Ab-VhZ.title" = "パス:";
+21c21
+< "Bpp-4y-mkK.ibShadowedToolTip" = "Click to add new export format";
+---
+> "Bpp-4y-mkK.ibShadowedToolTip" = "クリックして、新しい書き出しフォーマットを追加します";
+24c24
+< "CEa-B8-Iza.ibShadowedToolTip" = "For quick configuration, you can choose an Export Options preset";
+---
+> "CEa-B8-Iza.ibShadowedToolTip" = "設定を短時間で終わらせるため、書き出しオプションプリセットを選択できます";
+27c27
+< "EbW-uy-YkG.title" = "Builder:";
+---
+> "EbW-uy-YkG.title" = "ビルダー:";
+30c30
+< "If7-B0-pZN.ibShadowedToolTip" = "Select an Export Description builder. The builder will generate a supplemental file based on the set of files being exported by this Slice.";
+---
+> "If7-B0-pZN.ibShadowedToolTip" = "書き出し記述ビルダーを選択します。このビルダーは、このスライスによって書き出される一連のファイルに基づいて補助ファイルを生成します。";
+33c33
+< "LVa-Cd-oJF.ibShadowedToolTip" = "Choose a size scaling or absolute size for the exported image";
+---
+> "LVa-Cd-oJF.ibShadowedToolTip" = "書き出される画像のサイズスケールまたは絶対サイズを選択します";
+36c36
+< "UBp-r4-NJN.ibShadowedToolTip" = "Click to delete export format";
+---
+> "UBp-r4-NJN.ibShadowedToolTip" = "クリックして、書き出しフォーマットを削除します";
+39c39
+< "Ybr-bH-Wsy.title" = "Export Selected";
+---
+> "Ybr-bH-Wsy.title" = "選択項目を書き出し";
+42c42
+< "Zgt-Fk-2xa.ibShadowedToolTip" = "Click to export all formats for this item";
+---
+> "Zgt-Fk-2xa.ibShadowedToolTip" = "クリックして、この項目のすべてのフォーマットを書き出します";
+45c45
+< "aHf-Wc-sLp.ibShadowedToolTip" = "Export configuration needs attention";
+---
+> "aHf-Wc-sLp.ibShadowedToolTip" = "書き出し設定を確認する必要があります";
+48c48
+< "aOb-6i-vuR.ibShadowedToolTip" = "Click to delete export size";
+---
+> "aOb-6i-vuR.ibShadowedToolTip" = "クリックして、書き出しサイズを削除します";
+51c51
+< "eDo-p4-XXG.ibShadowedToolTip" = "Click to add new export size";
+---
+> "eDo-p4-XXG.ibShadowedToolTip" = "クリックして、新しい書き出しサイズを追加します";
+54c54
+< "gvF-Sm-hSb.ibShadowedToolTip" = "Click to export this format";
+---
+> "gvF-Sm-hSb.ibShadowedToolTip" = "クリックして、このフォーマットを書き出します";
+57c57
+< "gwj-c4-lGM.ibShadowedToolTip" = "Check to include in \"Export Slices\"";
+---
+> "gwj-c4-lGM.ibShadowedToolTip" = "チェックすると\"スライスを書き出し\"に追加されます";
+60c60
+< "kdE-qe-fqe.title" = "Export Selected";
+---
+> "kdE-qe-fqe.title" = "選択項目を書き出し";
+63c63
+< "prl-uN-dTq.ibShadowedToolTip" = "Export configuration needs attention";
+---
+> "prl-uN-dTq.ibShadowedToolTip" = "書き出し設定を確認する必要があります";
+66c66
+< "sdv-C6-F5F.ibShadowedToolTip" = "Click to export this size";
+---
+> "sdv-C6-F5F.ibShadowedToolTip" = "クリックしてこのサイズを書き出します";
+69c69
+< "tHv-JU-R2X.ibShadowedToolTip" = "Configure a common path for items exported from this Slice";
+---
+> "tHv-JU-R2X.ibShadowedToolTip" = "このスライスによって書き出される項目の共通パスを設定します";
+72c72
+< "tMi-P2-jbO.title" = "Export Selected";
+---
+> "tMi-P2-jbO.title" = "選択項目を書き出し";
+78c78
+< "yLl-mv-BA3.ibShadowedToolTip" = "Export configuration needs attention";
+---
+> "yLl-mv-BA3.ibShadowedToolTip" = "書き出し設定を確認する必要があります";

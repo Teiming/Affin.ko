@@ -1,0 +1,60 @@
+4,8c4
+< > "Default" = "デフォルト";
+< 5c5
+< < "Unicorn" = "Unicorn";
+< ---
+< > "Unicorn" = "ユニコーン";
+---
+> > "Default" = "기본값";
+12,16c8
+< > "Style" = "スタイル";
+< 11c11
+< < "Lunar" = "Lunar";
+< ---
+< > "Lunar" = "ルナ";
+---
+> > "Style" = "스타일";
+20,24c12
+< > "Style" = "スタイル";
+< 17c17
+< < "Scribbler" = "Scribbler";
+< ---
+< > "Scribbler" = "いたずら書き";
+---
+> > "Style" = "스타일";
+28,32c16
+< > "Style" = "スタイル";
+< 23c23
+< < "Squirm" = "Squirm";
+< ---
+< > "Squirm" = "うねり";
+---
+> > "Style" = "스타일";
+36,40c20
+< > "Style" = "スタイル";
+< 29c29
+< < "Vintage" = "Vintage";
+< ---
+< > "Vintage" = "ビンテージ";
+---
+> > "Style" = "스타일";
+44,48c24
+< > "Style" = "スタイル";
+< 35c35
+< < "Phoenix" = "Phoenix";
+< ---
+< > "Phoenix" = "フェニックス";
+---
+> > "Style" = "스타일";
+52,56c28
+< > "Style" = "スタイル";
+< 41c41
+< < "Halftone" = "Halftone";
+< ---
+< > "Halftone" = "ハーフトーン";
+---
+> > "Style" = "스타일";
+60c32
+< > "Style" = "スタイル";
+---
+> > "Style" = "스타일";

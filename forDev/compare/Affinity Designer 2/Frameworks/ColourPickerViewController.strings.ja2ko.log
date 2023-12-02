@@ -1,0 +1,94 @@
+1c1,2
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSMenuItem"; title = "RGB Sliders"; ObjectID = "15"; */
+4,5c5,8
+< > "15.title" = "RGBスライダー";
+< 9c9
+---
+> > /* Class = "NSMenuItem"; title = "RGB 슬라이더"; ObjectID = "15"; */
+> > "15.title" = "RGB 슬라이더";
+> 8,9c8,9
+> < /* Class = "NSMenuItem"; title = "HSL Sliders"; ObjectID = "16"; */
+8,17c11,14
+< > "16.title" = "HSLスライダー";
+< 12c12
+< < "17.title" = "CMYK Sliders";
+< ---
+< > "17.title" = "CMYKスライダー";
+< 15c15
+< < "18.title" = "LAB Sliders";
+< ---
+< > "18.title" = "LABスライダー";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "HSL 슬라이더"; ObjectID = "16"; */
+> > "16.title" = "HSL 슬라이더";
+> 17,18c17,18
+> < /* Class = "NSMenuItem"; title = "Hue"; ObjectID = "19"; */
+20,21c17,20
+< > "19.title" = "色相";
+< 21c21
+---
+> > /* Class = "NSMenuItem"; title = "색채"; ObjectID = "19"; */
+> > "19.title" = "색채";
+> 20,21c20,21
+> < /* Class = "NSMenuItem"; title = "Lightness"; ObjectID = "20"; */
+24,25c23,26
+< > "20.title" = "明るさ";
+< 24c24
+---
+> > /* Class = "NSMenuItem"; title = "밝기"; ObjectID = "20"; */
+> > "20.title" = "밝기";
+> 23,24c23,24
+> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "21"; */
+28,33c29,32
+< > "21.title" = "彩度";
+< 27c27
+< < "73.title" = "Grayness";
+< ---
+< > "73.title" = "グレーネス";
+< 30c30
+---
+> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "21"; */
+> > "21.title" = "채도";
+> 29,30c29,30
+> < /* Class = "NSMenuItem"; title = "Tint"; ObjectID = "AGQ-AY-ymv"; */
+36,37c35,38
+< > "AGQ-AY-ymv.title" = "色合い";
+< 33c33
+---
+> > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "AGQ-AY-ymv"; */
+> > "AGQ-AY-ymv.title" = "틴트";
+> 32,33c32,33
+> < /* Class = "NSTextFieldCell"; title = "Noise"; ObjectID = "IBs-7d-8i9"; */
+40,41c41,44
+< > "IBs-7d-8i9.title" = "ノイズ";
+< 36c36
+---
+> > /* Class = "NSTextFieldCell"; title = "잡음"; ObjectID = "IBs-7d-8i9"; */
+> > "IBs-7d-8i9.title" = "잡음";
+> 35,36c35,36
+> < /* Class = "NSMenuItem"; title = "RGB Hex Sliders"; ObjectID = "aGY-MV-mnd"; */
+44,53c47,50
+< > "aGY-MV-mnd.title" = "RGB 16進数スライダー";
+< 39c39
+< < "p9e-y1-NPN.title" = "Intensity";
+< ---
+< > "p9e-y1-NPN.title" = "強度";
+< 42c42
+< < "shx-h5-acz.title" = "HSL Color Wheel";
+< ---
+< > "shx-h5-acz.title" = "HSLカラーホイール";
+< 45c45
+---
+> > /* Class = "NSMenuItem"; title = "RGB Hex 슬라이더"; ObjectID = "aGY-MV-mnd"; */
+> > "aGY-MV-mnd.title" = "RGB Hex 슬라이더";
+> 44,45c44,45
+> < /* Class = "NSMenuItem"; title = "Swatches"; ObjectID = "vCg-g7-I24"; */
+56c53,54
+< > "vCg-g7-I24.title" = "スウォッチ";
+---
+> > /* Class = "NSMenuItem"; title = "견본"; ObjectID = "vCg-g7-I24"; */
+> > "vCg-g7-I24.title" = "견본";

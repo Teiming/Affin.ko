@@ -1,0 +1,54 @@
+5,6c5,6
+< /* Class = "NSButton"; ibShadowedToolTip = "Fit to plane"; ObjectID = "1ec-hw-cVw"; */
+< "1ec-hw-cVw.ibShadowedToolTip" = "Fit to plane";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "평면에 맞춤"; ObjectID = "1ec-hw-cVw"; */
+> "1ec-hw-cVw.ibShadowedToolTip" = "평면에 맞춤";
+17,18c17,18
+< /* Class = "NSButtonCell"; title = "Top"; ObjectID = "AEM-cq-Gvc"; */
+< "AEM-cq-Gvc.title" = "Top";
+---
+> /* Class = "NSButtonCell"; title = "위쪽"; ObjectID = "AEM-cq-Gvc"; */
+> "AEM-cq-Gvc.title" = "위쪽";
+23,24c23,24
+< /* Class = "NSButtonCell"; title = "Fit to plane"; ObjectID = "HLI-yQ-ewr"; */
+< "HLI-yQ-ewr.title" = "Fit to plane";
+---
+> /* Class = "NSButtonCell"; title = "평면에 맞춤"; ObjectID = "HLI-yQ-ewr"; */
+> "HLI-yQ-ewr.title" = "평면에 맞춤";
+32,33c32,33
+< /* Class = "NSButtonCell"; title = "Side"; ObjectID = "XYX-Ax-u60"; */
+< "XYX-Ax-u60.title" = "Side";
+---
+> /* Class = "NSButtonCell"; title = "옆쪽"; ObjectID = "XYX-Ax-u60"; */
+> "XYX-Ax-u60.title" = "옆쪽";
+35,36c35,36
+< /* Class = "NSTextFieldCell"; title = "Plane editing options"; ObjectID = "aUu-fL-o1d"; */
+< "aUu-fL-o1d.title" = "Plane editing options";
+---
+> /* Class = "NSTextFieldCell"; title = "평면 편집 설정"; ObjectID = "aUu-fL-o1d"; */
+> "aUu-fL-o1d.title" = "평면 편집 설정";
+44,45c44,45
+< /* Class = "NSButtonCell"; title = "Front"; ObjectID = "gLs-sE-XeX"; */
+< "gLs-sE-XeX.title" = "Front";
+---
+> /* Class = "NSButtonCell"; title = "앞쪽"; ObjectID = "gLs-sE-XeX"; */
+> "gLs-sE-XeX.title" = "앞쪽";
+53,54c53,54
+< /* Class = "NSTextFieldCell"; title = "Current plane"; ObjectID = "kaS-oY-U3e"; */
+< "kaS-oY-U3e.title" = "Current plane";
+---
+> /* Class = "NSTextFieldCell"; title = "지금 평면"; ObjectID = "kaS-oY-U3e"; */
+> "kaS-oY-U3e.title" = "지금 평면";
+56,57c56,57
+< /* Class = "NSButtonCell"; title = "Edit in plane"; ObjectID = "oob-dD-Z5w"; */
+< "oob-dD-Z5w.title" = "Edit in plane";
+---
+> /* Class = "NSButtonCell"; title = "평면에서 편집"; ObjectID = "oob-dD-Z5w"; */
+> "oob-dD-Z5w.title" = "평면에서 편집";
+65,66c65,66
+< /* Class = "NSButton"; ibShadowedToolTip = "Edit in plane"; ObjectID = "xnv-ri-gE8"; */
+< "xnv-ri-gE8.ibShadowedToolTip" = "Edit in plane";
+---
+> /* Class = "NSButton"; ibShadowedToolTip = "평면에서 편집"; ObjectID = "xnv-ri-gE8"; */
+> "xnv-ri-gE8.ibShadowedToolTip" = "평면에서 편집";

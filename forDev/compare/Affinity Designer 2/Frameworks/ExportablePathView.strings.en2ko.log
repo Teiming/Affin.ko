@@ -1,0 +1,24 @@
+2,3c2,3
+< /* Class = "NSButtonCell"; title = "Done"; ObjectID = "H7S-Kq-meK"; */
+< "H7S-Kq-meK.title" = "Done";
+---
+> /* Class = "NSButtonCell"; title = "완료"; ObjectID = "H7S-Kq-meK"; */
+> "H7S-Kq-meK.title" = "완료";
+20,21c20,21
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aED-9K-gWc"; */
+< "aED-9K-gWc.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aED-9K-gWc"; */
+> "aED-9K-gWc.title" = "텍스트 셀";
+32,33c32,33
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rax-DG-ZCb"; */
+< "rax-DG-ZCb.title" = "Text Cell";
+---
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "rax-DG-ZCb"; */
+> "rax-DG-ZCb.title" = "텍스트 셀";
+35,36c35,36
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xIn-39-M8k"; */
+< "xIn-39-M8k.title" = "Cancel";
+---
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "xIn-39-M8k"; */
+> "xIn-39-M8k.title" = "취소";

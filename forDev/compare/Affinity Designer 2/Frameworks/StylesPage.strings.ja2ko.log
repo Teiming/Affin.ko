@@ -1,0 +1,110 @@
+1c1,2
+< 6c6
+---
+> 5,6c5,6
+> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "56"; */
+4,5c5,8
+< > "56.title" = "カテゴリ";
+< 9c9
+---
+> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "56"; */
+> > "56.title" = "범주";
+> 8,9c8,9
+> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "57"; */
+8,9c11,14
+< > "57.title" = "標準";
+< 12c12
+---
+> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "57"; */
+> > "57.title" = "표준";
+> 11,12c11,12
+> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "58"; */
+12,13c17,20
+< > "58.title" = "ユーザー定義";
+< 15c15
+---
+> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "58"; */
+> > "58.title" = "사용자 정의";
+> 14,15c14,15
+> < /* Class = "NSMenuItem"; title = "Add New Category…"; ObjectID = "DyL-eB-Ng3"; */
+16,17c23,26
+< > "DyL-eB-Ng3.title" = "新規カテゴリを追加…";
+< 18c18
+---
+> > /* Class = "NSMenuItem"; title = "신규 범주 추가…"; ObjectID = "DyL-eB-Ng3"; */
+> > "DyL-eB-Ng3.title" = "신규 범주 추가…";
+> 17,18c17,18
+> < /* Class = "NSMenuItem"; title = "Import Styles…"; ObjectID = "FOR-vN-3Jf"; */
+20,21c29,32
+< > "FOR-vN-3Jf.title" = "スタイルをインポート…";
+< 21c21
+---
+> > /* Class = "NSMenuItem"; title = "스타일 들여오기…"; ObjectID = "FOR-vN-3Jf"; */
+> > "FOR-vN-3Jf.title" = "스타일 들여오기…";
+> 20,21c20,21
+> < /* Class = "NSMenuItem"; title = "Export Styles…"; ObjectID = "Gae-4h-oOc"; */
+24,29c35,38
+< > "Gae-4h-oOc.title" = "スタイルを書き出し…";
+< 24c24
+< < "Gck-0F-Ltt.title" = "Sort Categories By";
+< ---
+< > "Gck-0F-Ltt.title" = "次の項目でカテゴリを並べ替え";
+< 27c27
+---
+> > /* Class = "NSMenuItem"; title = "스타일 내보내기…"; ObjectID = "Gae-4h-oOc"; */
+> > "Gae-4h-oOc.title" = "스타일 내보내기…";
+> 26,27c26,27
+> < /* Class = "NSMenuItem"; title = "Name"; ObjectID = "Qdg-4L-iaQ"; */
+32,33c41,44
+< > "Qdg-4L-iaQ.title" = "名前";
+< 30c30
+---
+> > /* Class = "NSMenuItem"; title = "이름"; ObjectID = "Qdg-4L-iaQ"; */
+> > "Qdg-4L-iaQ.title" = "이름";
+> 29,30c29,30
+> < /* Class = "NSMenuItem"; title = "Add Style from Selection"; ObjectID = "Yj6-1f-Ed3"; */
+36,61c47,50
+< > "Yj6-1f-Ed3.title" = "選択からスタイルを追加";
+< 33c33
+< < "ZsN-31-Npp.title" = "Uninstall Pack…";
+< ---
+< > "ZsN-31-Npp.title" = "パックをアンインストール…";
+< 36c36
+< < "c48-4l-dt4.title" = "Sort Categories By";
+< ---
+< > "c48-4l-dt4.title" = "次の項目でカテゴリを並べ替え";
+< 39c39
+< < "cCV-7R-i66.title" = "Link Category";
+< ---
+< > "cCV-7R-i66.title" = "カテゴリをリンク";
+< 42c42
+< < "dpg-OT-SJk.title" = "Duplicate Category";
+< ---
+< > "dpg-OT-SJk.title" = "カテゴリを複製";
+< 45c45
+< < "mCW-SN-0Mv.title" = "Date Added";
+< ---
+< > "mCW-SN-0Mv.title" = "追加日";
+< 48c48
+< < "quo-Sk-LPt.title" = "Delete Category…";
+< ---
+< > "quo-Sk-LPt.title" = "カテゴリを削除…";
+< 51c51
+---
+> > /* Class = "NSMenuItem"; title = "선택 항목에서 스타일 추가"; ObjectID = "Yj6-1f-Ed3"; */
+> > "Yj6-1f-Ed3.title" = "선택 항목에서 스타일 추가";
+> 50,51c50,51
+> < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "rZu-IS-m6Q"; */
+64,65c53,56
+< > "rZu-IS-m6Q.title" = "カテゴリ名を変更…";
+< 54c54
+---
+> > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "rZu-IS-m6Q"; */
+> > "rZu-IS-m6Q.title" = "범주 이름 변경…";
+> 53,54c53,54
+> < /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "uqc-3g-Fu8"; */
+68c59,60
+< > "uqc-3g-Fu8.title" = "リストとして表示";
+---
+> > /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "uqc-3g-Fu8"; */
+> > "uqc-3g-Fu8.title" = "목록으로 보기";
