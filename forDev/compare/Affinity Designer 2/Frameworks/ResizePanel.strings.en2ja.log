@@ -1,60 +1,60 @@
-3c3
-< "1.title" = "Resize Document";
 ---
-> "1.title" = "ドキュメントのサイズを変更";
-6c6
-< "101.title" = "Resize";
 ---
-> "101.title" = "サイズ変更";
-9c9
-< "235.title" = "Size:";
 ---
-> "235.title" = "サイズ:";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 15c15
-< "562.title" = "Bilinear";
----
-> "562.title" = "バイリニア";
 18c18
-< "563.title" = "Nearest Neighbor";
----
-> "563.title" = "ニアレストネイバー";
 21c21
-< "603.title" = "Bicubic";
----
-> "603.title" = "バイキュービック";
 24c24
-< "1002.title" = "Resample:";
----
-> "1002.title" = "リサンプル:";
 27c27
-< "1004.title" = "Cancel";
----
-> "1004.title" = "キャンセル";
 30c30
-< "1010.ibShadowedToolTip" = "Width";
----
-> "1010.ibShadowedToolTip" = "幅";
 33c33
-< "1011.ibShadowedToolTip" = "Height";
----
-> "1011.ibShadowedToolTip" = "高さ";
 36c36
-< "1017.title" = "Lanczos 3 (separable)";
----
-> "1017.title" = "Lanczos 3(分離可能)";
 39c39
-< "1018.title" = "Lanczos 3 (non-separable)";
----
-> "1018.title" = "Lanczos 3(分離不可)";
+3c3
 42c42
-< "1024.title" = "Units:";
----
-> "1024.title" = "単位:";
 51c51
-< "1052.title" = "Resample";
----
-> "1052.title" = "リサンプル";
 54c54
+6c6
+9c9
+< "1.title" = "Resize Document";
+< "1002.title" = "Resample:";
+< "1004.title" = "Cancel";
+< "101.title" = "Resize";
+< "1010.ibShadowedToolTip" = "Width";
+< "1011.ibShadowedToolTip" = "Height";
+< "1017.title" = "Lanczos 3 (separable)";
+< "1018.title" = "Lanczos 3 (non-separable)";
+< "1024.title" = "Units:";
+< "1052.title" = "Resample";
+< "235.title" = "Size:";
+< "562.title" = "Bilinear";
+< "563.title" = "Nearest Neighbor";
+< "603.title" = "Bicubic";
 < "eGq-1O-StD.title" = "Placeholder";
----
+> "1.title" = "ドキュメントのサイズを変更";
+> "1002.title" = "リサンプル:";
+> "1004.title" = "キャンセル";
+> "101.title" = "サイズ変更";
+> "1010.ibShadowedToolTip" = "幅";
+> "1011.ibShadowedToolTip" = "高さ";
+> "1017.title" = "Lanczos 3(分離可能)";
+> "1018.title" = "Lanczos 3(分離不可)";
+> "1024.title" = "単位:";
+> "1052.title" = "リサンプル";
+> "235.title" = "サイズ:";
+> "562.title" = "バイリニア";
+> "563.title" = "ニアレストネイバー";
+> "603.title" = "バイキュービック";
 > "eGq-1O-StD.title" = "プレースホルダー";

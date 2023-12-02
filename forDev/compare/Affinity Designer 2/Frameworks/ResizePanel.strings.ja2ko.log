@@ -1,82 +1,77 @@
-1,9c1,2
-< 3c3
-< < "1.title" = "Resize Document";
+6,32c6,10
 < ---
-< > "1.title" = "ドキュメントのサイズを変更";
-< 6c6
-< < "101.title" = "Resize";
 < ---
-< > "101.title" = "サイズ変更";
-< 9c9
----
-> 8,9c8,9
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
-12,29c5,8
-< > "235.title" = "サイズ:";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 15c15
-< < "562.title" = "Bilinear";
-< ---
-< > "562.title" = "バイリニア";
 < 18c18
-< < "563.title" = "Nearest Neighbor";
-< ---
-< > "563.title" = "ニアレストネイバー";
 < 21c21
-< < "603.title" = "Bicubic";
-< ---
-< > "603.title" = "バイキュービック";
 < 24c24
-< < "1002.title" = "Resample:";
-< ---
-< > "1002.title" = "リサンプル:";
 < 27c27
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
-> > "235.title" = "크기:";
-> 26,27c26,27
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
-32,33c11,14
-< > "1004.title" = "キャンセル";
 < 30c30
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
-> > "1004.title" = "취소";
-> 29,30c29,30
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "1010"; */
-36,37c17,20
-< > "1010.ibShadowedToolTip" = "幅";
 < 33c33
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "1010"; */
-> > "1010.ibShadowedToolTip" = "너비";
-> 32,33c32,33
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1011"; */
-40,49c23,26
-< > "1011.ibShadowedToolTip" = "高さ";
 < 36c36
-< < "1017.title" = "Lanczos 3 (separable)";
-< ---
-< > "1017.title" = "Lanczos 3(分離可能)";
 < 39c39
-< < "1018.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "1018.title" = "Lanczos 3(分離不可)";
+< 3c3
 < 42c42
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1011"; */
-> > "1011.ibShadowedToolTip" = "높이";
-> 41,42c41,42
-> < /* Class = "NSTextFieldCell"; title = "Units:"; ObjectID = "1024"; */
-52,60c29,30
-< > "1024.title" = "単位:";
 < 51c51
-< < "1052.title" = "Resample";
-< ---
-< > "1052.title" = "リサンプル";
 < 54c54
+< 6c6
+< 9c9
+< < "1.title" = "Resize Document";
+< < "1002.title" = "Resample:";
+---
+> 26,27c26,27
+> 29,30c29,30
+> 32,33c32,33
+> 41,42c41,42
+> 8,9c8,9
+34d11
+< < "101.title" = "Resize";
+37,38d13
+< < "1017.title" = "Lanczos 3 (separable)";
+< < "1018.title" = "Lanczos 3 (non-separable)";
+40d14
+< < "1052.title" = "Resample";
+42,60c16,30
+< < "562.title" = "Bilinear";
+< < "563.title" = "Nearest Neighbor";
+< < "603.title" = "Bicubic";
 < < "eGq-1O-StD.title" = "Placeholder";
-< ---
+< > "1.title" = "ドキュメントのサイズを変更";
+< > "1002.title" = "リサンプル:";
+< > "1004.title" = "キャンセル";
+< > "101.title" = "サイズ変更";
+< > "1010.ibShadowedToolTip" = "幅";
+< > "1011.ibShadowedToolTip" = "高さ";
+< > "1017.title" = "Lanczos 3(分離可能)";
+< > "1018.title" = "Lanczos 3(分離不可)";
+< > "1024.title" = "単位:";
+< > "1052.title" = "リサンプル";
+< > "235.title" = "サイズ:";
+< > "562.title" = "バイリニア";
+< > "563.title" = "ニアレストネイバー";
+< > "603.title" = "バイキュービック";
 < > "eGq-1O-StD.title" = "プレースホルダー";
 ---
-> > /* Class = "NSTextFieldCell"; title = "단위:"; ObjectID = "1024"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
+> < /* Class = "NSTextFieldCell"; title = "Units:"; ObjectID = "1024"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1011"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "1010"; */
+> > "1004.title" = "취소";
+> > "1010.ibShadowedToolTip" = "너비";
+> > "1011.ibShadowedToolTip" = "높이";
 > > "1024.title" = "단위:";
+> > "235.title" = "크기:";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
+> > /* Class = "NSTextFieldCell"; title = "단위:"; ObjectID = "1024"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "1010"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1011"; */
