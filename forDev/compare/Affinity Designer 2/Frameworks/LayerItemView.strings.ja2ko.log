@@ -1,154 +1,144 @@
-1,21c1,2
-< 3c3
-< < "5.placeholderString" = "Name of Object";
+10,58c10,18
 < ---
-< > "5.placeholderString" = "オブジェクト名";
-< 6c6
-< < "5.title" = "Sample description text";
 < ---
-< > "5.title" = "サンプル説明テキスト";
-< 9c9
-< < "26.ibShadowedToolTip" = "Is visible";
 < ---
-< > "26.ibShadowedToolTip" = "可視状態です";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 12c12
-< < "29.ibShadowedToolTip" = "Has layer effects";
-< ---
-< > "29.ibShadowedToolTip" = "レイヤーエフェクトがかかっています";
 < 15c15
-< < "31.ibShadowedToolTip" = "Is locked";
-< ---
-< > "31.ibShadowedToolTip" = "ロックされています";
 < 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+< 63c63
+< 66c66
+< 69c69
+< 6c6
+< 72c72
+< 75c75
+< 78c78
+< 81c81
+< 84c84
+< 87c87
+< 9c9
 ---
 > 17,18c17,18
-> < /* Class = "NSMenuItem"; title = "Intersect"; ObjectID = "1Fl-Zk-tL9"; */
-24,41c5,8
-< > "1Fl-Zk-tL9.title" = "交差";
-< 21c21
-< < "1Ha-2Q-p8x.ibShadowedToolTip" = "Is Linked";
-< ---
-< > "1Ha-2Q-p8x.ibShadowedToolTip" = "リンクされています";
-< 24c24
-< < "2cM-eT-3vw.ibShadowedToolTip" = "Inline in Text";
-< ---
-< > "2cM-eT-3vw.ibShadowedToolTip" = "テキスト内にインライン表示";
-< 27c27
-< < "5rJ-Ee-L9w.title" = "Range";
-< ---
-< > "5rJ-Ee-L9w.title" = "範囲";
-< 30c30
-< < "6sX-la-jZJ.ibShadowedToolTip" = "Floating Near Text";
-< ---
-< > "6sX-la-jZJ.ibShadowedToolTip" = "テキスト付近にフローティング";
-< 33c33
----
-> > /* Class = "NSMenuItem"; title = "교차"; ObjectID = "1Fl-Zk-tL9"; */
-> > "1Fl-Zk-tL9.title" = "교차";
 > 32,33c32,33
-> < /* Class = "NSMenuItem"; title = "Median"; ObjectID = "79s-mH-O0w"; */
-44,49c11,14
-< > "79s-mH-O0w.title" = "メディアン";
-< 36c36
-< < "LQ1-kp-M6D.title" = "Minimum";
-< ---
-< > "LQ1-kp-M6D.title" = "最小";
-< 39c39
----
-> > /* Class = "NSMenuItem"; title = "중앙값"; ObjectID = "79s-mH-O0w"; */
-> > "79s-mH-O0w.title" = "중앙값";
 > 38,39c38,39
-> < /* Class = "NSMenuItem"; title = "Add"; ObjectID = "Mhc-Aa-7zP"; */
-52,61c17,20
-< > "Mhc-Aa-7zP.title" = "追加";
-< 42c42
-< < "Njf-bh-Saq.title" = "Skewness";
-< ---
-< > "Njf-bh-Saq.title" = "歪度";
-< 45c45
-< < "OSa-1t-2sr.title" = "Variance";
-< ---
-< > "OSa-1t-2sr.title" = "許容誤差";
-< 48c48
----
-> > /* Class = "NSMenuItem"; title = "추가"; ObjectID = "Mhc-Aa-7zP"; */
-> > "Mhc-Aa-7zP.title" = "추가";
 > 47,48c47,48
-> < /* Class = "NSMenuItem"; title = "Xor"; ObjectID = "OWo-CO-hni"; */
-64,77c23,26
-< > "OWo-CO-hni.title" = "中マド";
-< 51c51
-< < "OkT-OF-dKh.placeholderString" = "Name of Object";
-< ---
-< > "OkT-OF-dKh.placeholderString" = "オブジェクト名";
-< 54c54
-< < "OkT-OF-dKh.title" = "Sample description text";
-< ---
-< > "OkT-OF-dKh.title" = "サンプル説明テキスト";
-< 57c57
-< < "P7O-kF-7Dq.title" = "Total";
-< ---
-< > "P7O-kF-7Dq.title" = "合計";
-< 60c60
----
-> > /* Class = "NSMenuItem"; title = "배타적논리합"; ObjectID = "OWo-CO-hni"; */
-> > "OWo-CO-hni.title" = "배타적논리합";
 > 59,60c59,60
-> < /* Class = "NSMenuItem"; title = "Standard Deviation"; ObjectID = "R3J-Zw-oL3"; */
-80,85c29,32
-< > "R3J-Zw-oL3.title" = "標準偏差";
-< 63c63
-< < "Voc-Do-r8c.ibShadowedToolTip" = "Is Linked";
-< ---
-< > "Voc-Do-r8c.ibShadowedToolTip" = "リンクされています";
-< 66c66
----
-> > /* Class = "NSMenuItem"; title = "표준 편차"; ObjectID = "R3J-Zw-oL3"; */
-> > "R3J-Zw-oL3.title" = "표준 편차";
 > 65,66c65,66
-> < /* Class = "NSMenuItem"; title = "Mean"; ObjectID = "Ysx-6h-3SW"; */
-88,89c35,38
-< > "Ysx-6h-3SW.title" = "平均";
-< 69c69
----
-> > /* Class = "NSMenuItem"; title = "평균"; ObjectID = "Ysx-6h-3SW"; */
-> > "Ysx-6h-3SW.title" = "평균";
 > 68,69c68,69
-> < /* Class = "NSMenuItem"; title = "Subtract"; ObjectID = "Z1u-g8-GZa"; */
-92,101c41,44
-< > "Z1u-g8-GZa.title" = "型抜き";
-< 72c72
-< < "a3g-4p-BIz.title" = "Outlier";
-< ---
-< > "a3g-4p-BIz.title" = "外れ値";
-< 75c75
-< < "b34-jO-UKN.ibShadowedToolTip" = "Is excluded from snapping";
-< ---
-< > "b34-jO-UKN.ibShadowedToolTip" = "スナップから除外されています";
-< 78c78
----
-> > /* Class = "NSMenuItem"; title = "제거"; ObjectID = "Z1u-g8-GZa"; */
-> > "Z1u-g8-GZa.title" = "제거";
 > 77,78c77,78
-> < /* Class = "NSMenuItem"; title = "Maximum"; ObjectID = "de3-Bd-gB3"; */
-104,105c47,50
-< > "de3-Bd-gB3.title" = "最大";
-< 81c81
----
-> > /* Class = "NSMenuItem"; title = "최대"; ObjectID = "de3-Bd-gB3"; */
-> > "de3-Bd-gB3.title" = "최대";
 > 80,81c80,81
-> < /* Class = "NSMenuItem"; title = "Entropy"; ObjectID = "isl-FC-6Mj"; */
-108,116c53,54
-< > "isl-FC-6Mj.title" = "エントロピー";
-< 84c84
+60,68d19
+< < "1Ha-2Q-p8x.ibShadowedToolTip" = "Is Linked";
+< < "26.ibShadowedToolTip" = "Is visible";
+< < "29.ibShadowedToolTip" = "Has layer effects";
+< < "2cM-eT-3vw.ibShadowedToolTip" = "Inline in Text";
+< < "31.ibShadowedToolTip" = "Is locked";
+< < "5.placeholderString" = "Name of Object";
+< < "5.title" = "Sample description text";
+< < "5rJ-Ee-L9w.title" = "Range";
+< < "6sX-la-jZJ.ibShadowedToolTip" = "Floating Near Text";
+70d20
+< < "LQ1-kp-M6D.title" = "Minimum";
+72,73d21
+< < "Njf-bh-Saq.title" = "Skewness";
+< < "OSa-1t-2sr.title" = "Variance";
+75,77d22
+< < "OkT-OF-dKh.placeholderString" = "Name of Object";
+< < "OkT-OF-dKh.title" = "Sample description text";
+< < "P7O-kF-7Dq.title" = "Total";
+79d23
+< < "Voc-Do-r8c.ibShadowedToolTip" = "Is Linked";
+82,83d25
+< < "a3g-4p-BIz.title" = "Outlier";
+< < "b34-jO-UKN.ibShadowedToolTip" = "Is excluded from snapping";
+86,116c28,54
 < < "pWs-Kh-SH0.title" = "Mid-Range";
-< ---
-< > "pWs-Kh-SH0.title" = "中範囲";
-< 87c87
 < < "vgN-GW-ZyI.title" = "Kurtosis";
-< ---
+< > "1Fl-Zk-tL9.title" = "交差";
+< > "1Ha-2Q-p8x.ibShadowedToolTip" = "リンクされています";
+< > "26.ibShadowedToolTip" = "可視状態です";
+< > "29.ibShadowedToolTip" = "レイヤーエフェクトがかかっています";
+< > "2cM-eT-3vw.ibShadowedToolTip" = "テキスト内にインライン表示";
+< > "31.ibShadowedToolTip" = "ロックされています";
+< > "5.placeholderString" = "オブジェクト名";
+< > "5.title" = "サンプル説明テキスト";
+< > "5rJ-Ee-L9w.title" = "範囲";
+< > "6sX-la-jZJ.ibShadowedToolTip" = "テキスト付近にフローティング";
+< > "79s-mH-O0w.title" = "メディアン";
+< > "LQ1-kp-M6D.title" = "最小";
+< > "Mhc-Aa-7zP.title" = "追加";
+< > "Njf-bh-Saq.title" = "歪度";
+< > "OSa-1t-2sr.title" = "許容誤差";
+< > "OWo-CO-hni.title" = "中マド";
+< > "OkT-OF-dKh.placeholderString" = "オブジェクト名";
+< > "OkT-OF-dKh.title" = "サンプル説明テキスト";
+< > "P7O-kF-7Dq.title" = "合計";
+< > "R3J-Zw-oL3.title" = "標準偏差";
+< > "Voc-Do-r8c.ibShadowedToolTip" = "リンクされています";
+< > "Ysx-6h-3SW.title" = "平均";
+< > "Z1u-g8-GZa.title" = "型抜き";
+< > "a3g-4p-BIz.title" = "外れ値";
+< > "b34-jO-UKN.ibShadowedToolTip" = "スナップから除外されています";
+< > "de3-Bd-gB3.title" = "最大";
+< > "isl-FC-6Mj.title" = "エントロピー";
+< > "pWs-Kh-SH0.title" = "中範囲";
 < > "vgN-GW-ZyI.title" = "尖度";
 ---
-> > /* Class = "NSMenuItem"; title = "엔트로피"; ObjectID = "isl-FC-6Mj"; */
+> < /* Class = "NSMenuItem"; title = "Add"; ObjectID = "Mhc-Aa-7zP"; */
+> < /* Class = "NSMenuItem"; title = "Entropy"; ObjectID = "isl-FC-6Mj"; */
+> < /* Class = "NSMenuItem"; title = "Intersect"; ObjectID = "1Fl-Zk-tL9"; */
+> < /* Class = "NSMenuItem"; title = "Maximum"; ObjectID = "de3-Bd-gB3"; */
+> < /* Class = "NSMenuItem"; title = "Mean"; ObjectID = "Ysx-6h-3SW"; */
+> < /* Class = "NSMenuItem"; title = "Median"; ObjectID = "79s-mH-O0w"; */
+> < /* Class = "NSMenuItem"; title = "Standard Deviation"; ObjectID = "R3J-Zw-oL3"; */
+> < /* Class = "NSMenuItem"; title = "Subtract"; ObjectID = "Z1u-g8-GZa"; */
+> < /* Class = "NSMenuItem"; title = "Xor"; ObjectID = "OWo-CO-hni"; */
+> > "1Fl-Zk-tL9.title" = "교차";
+> > "79s-mH-O0w.title" = "중앙값";
+> > "Mhc-Aa-7zP.title" = "추가";
+> > "OWo-CO-hni.title" = "배타적논리합";
+> > "R3J-Zw-oL3.title" = "표준 편차";
+> > "Ysx-6h-3SW.title" = "평균";
+> > "Z1u-g8-GZa.title" = "제거";
+> > "de3-Bd-gB3.title" = "최대";
 > > "isl-FC-6Mj.title" = "엔트로피";
+> > /* Class = "NSMenuItem"; title = "표준 편차"; ObjectID = "R3J-Zw-oL3"; */
+> > /* Class = "NSMenuItem"; title = "교차"; ObjectID = "1Fl-Zk-tL9"; */
+> > /* Class = "NSMenuItem"; title = "추가"; ObjectID = "Mhc-Aa-7zP"; */
+> > /* Class = "NSMenuItem"; title = "평균"; ObjectID = "Ysx-6h-3SW"; */
+> > /* Class = "NSMenuItem"; title = "제거"; ObjectID = "Z1u-g8-GZa"; */
+> > /* Class = "NSMenuItem"; title = "최대"; ObjectID = "de3-Bd-gB3"; */
+> > /* Class = "NSMenuItem"; title = "중앙값"; ObjectID = "79s-mH-O0w"; */
+> > /* Class = "NSMenuItem"; title = "엔트로피"; ObjectID = "isl-FC-6Mj"; */
+> > /* Class = "NSMenuItem"; title = "배타적논리합"; ObjectID = "OWo-CO-hni"; */
