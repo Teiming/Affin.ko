@@ -1,10 +1,4 @@
-7,24c7,12
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,13c2,7
 < 12c12
 < 15c15
 < 18c18
@@ -24,16 +18,16 @@
 > 20,21c20,21
 > 35,36c35,36
 > 8,9c8,9
-26d13
+15d8
 < < "12.title" = "Shadows Strength";
-29d15
+18d10
 < < "49.title" = "Shadows Radius";
-32,35d17
+21,24d12
 < < "Poe-8p-RRo.title" = "Highlights Strength";
 < < "Qjb-vV-2dR.title" = "Shadows Range";
 < < "S19-ax-GG0.title" = "Highlights Radius";
 < < "YTk-nu-Vfq.title" = "Highlights Range";
-37,48c19,36
+26,37c14,31
 < > "1.title" = "シャドウ/ハイライト";
 < > "12.title" = "シャドウの強度";
 < > "26.title" = "適用";
