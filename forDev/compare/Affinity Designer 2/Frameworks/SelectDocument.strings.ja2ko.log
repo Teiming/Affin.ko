@@ -1,38 +1,35 @@
-1,5c1,2
-< 3c3
-< < "1.title" = "Select Document";
+4,13c4,6
 < ---
-< > "1.title" = "ドキュメントを選択";
-< 9c9
----
-> 8,9c8,9
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8"; */
-8,9c5,8
-< > "8.title" = "キャンセル";
+< ---
+< ---
 < 12c12
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "8"; */
-> > "8.title" = "취소";
-> 11,12c11,12
-> < /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "Br9-je-FhX"; */
-12,21c11,14
-< > "Br9-je-FhX.headerCell.title" = "プラグイン";
 < 15c15
-< < "NfY-PH-eyP.ibShadowedToolTip" = "Unfinished feature / user interface.";
-< ---
-< > "NfY-PH-eyP.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
 < 18c18
-< < "bqd-3F-yA0.title" = "Table View Cell";
-< ---
-< > "bqd-3F-yA0.title" = "表ビューセル";
 < 21c21
+< 3c3
+< 9c9
+< < "1.title" = "Select Document";
 ---
-> > /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "Br9-je-FhX"; */
-> > "Br9-je-FhX.headerCell.title" = "플러그인";
+> 11,12c11,12
 > 20,21c20,21
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mWE-VA-Hcm"; */
-24c17,18
+> 8,9c8,9
+16,17d8
+< < "NfY-PH-eyP.ibShadowedToolTip" = "Unfinished feature / user interface.";
+< < "bqd-3F-yA0.title" = "Table View Cell";
+19,24c10,18
+< > "1.title" = "ドキュメントを選択";
+< > "8.title" = "キャンセル";
+< > "Br9-je-FhX.headerCell.title" = "プラグイン";
+< > "NfY-PH-eyP.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
+< > "bqd-3F-yA0.title" = "表ビューセル";
 < > "mWE-VA-Hcm.title" = "テキストセル";
 ---
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mWE-VA-Hcm"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "Br9-je-FhX"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mWE-VA-Hcm"; */
+> > "8.title" = "취소";
+> > "Br9-je-FhX.headerCell.title" = "플러그인";
 > > "mWE-VA-Hcm.title" = "텍스트 셀";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "8"; */
+> > /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "Br9-je-FhX"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mWE-VA-Hcm"; */
