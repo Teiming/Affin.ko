@@ -1,230 +1,201 @@
-1c1,2
+21,74c21,40
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 102c102
+< 105c105
+< 108c108
+< 111c111
+< 114c114
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
 < 3c3
----
-> 2,3c2,3
-> < /* Class = "NSButtonCell"; title = "Enhance"; ObjectID = "146"; */
-4,5c5,8
-< > "146.title" = "エンハンス";
+< 42c42
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+< 63c63
+< 66c66
+< 69c69
 < 6c6
----
-> > /* Class = "NSButtonCell"; title = "개선"; ObjectID = "146"; */
-> > "146.title" = "개선";
-> 5,6c5,6
-> < /* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "148"; */
-8,9c11,14
-< > "148.title" = "コントラスト";
+< 72c72
+< 75c75
+< 78c78
+< 84c84
+< 87c87
+< 90c90
+< 93c93
+< 96c96
+< 99c99
 < 9c9
 ---
-> > /* Class = "NSTextFieldCell"; title = "대비"; ObjectID = "148"; */
-> > "148.title" = "대비";
-> 8,9c8,9
-> < /* Class = "NSButtonCell"; title = "Exposure"; ObjectID = "517"; */
-12,13c17,20
-< > "517.title" = "露出";
-< 12c12
----
-> > /* Class = "NSButtonCell"; title = "노출"; ObjectID = "517"; */
-> > "517.title" = "노출";
-> 11,12c11,12
-> < /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "519"; */
-16,25c23,26
-< > "519.title" = "露出";
-< 15c15
-< < "3wO-YA-YAH.title" = "Blackpoint";
-< ---
-< > "3wO-YA-YAH.title" = "黒点";
-< 18c18
-< < "5nq-ru-9PA.title" = "Master";
-< ---
-< > "5nq-ru-9PA.title" = "マスター";
-< 21c21
----
-> > /* Class = "NSTextFieldCell"; title = "노출"; ObjectID = "519"; */
-> > "519.title" = "노출";
-> 20,21c20,21
-> < /* Class = "NSMenuItem"; title = "Red"; ObjectID = "646-Pn-2Hn"; */
-28,29c29,32
-< > "646-Pn-2Hn.title" = "赤";
-< 24c24
----
-> > /* Class = "NSMenuItem"; title = "빨강"; ObjectID = "646-Pn-2Hn"; */
-> > "646-Pn-2Hn.title" = "빨강";
-> 23,24c23,24
-> < /* Class = "NSMenuItem"; title = "Blue"; ObjectID = "73u-lT-udc"; */
-32,33c35,38
-< > "73u-lT-udc.title" = "青";
-< 27c27
----
-> > /* Class = "NSMenuItem"; title = "파랑"; ObjectID = "73u-lT-udc"; */
-> > "73u-lT-udc.title" = "파랑";
-> 26,27c26,27
-> < /* Class = "NSMenuItem"; title = "Green"; ObjectID = "DNr-qx-4Ed"; */
-36,61c41,44
-< > "DNr-qx-4Ed.title" = "緑";
-< 30c30
-< < "DVJ-em-n7g.title" = "Main";
-< ---
-< > "DVJ-em-n7g.title" = "メイン";
-< 33c33
-< < "FVl-by-VIj.title" = "Extreme";
-< ---
-< > "FVl-by-VIj.title" = "最大";
-< 36c36
-< < "G3Z-Ns-9XA.title" = "Detail";
-< ---
-< > "G3Z-Ns-9XA.title" = "ディテール";
-< 39c39
-< < "GxU-EK-ePK.title" = "Local Contrast";
-< ---
-< > "GxU-EK-ePK.title" = "ローカルコントラスト";
-< 42c42
-< < "H9q-Do-dsI.title" = "Shadows & Highlights";
-< ---
-< > "H9q-Do-dsI.title" = "シャドウとハイライト";
-< 45c45
-< < "I59-eF-BMf.title" = "Tone Compression";
-< ---
-< > "I59-eF-BMf.title" = "トーン圧縮";
-< 48c48
----
-> > /* Class = "NSMenuItem"; title = "초록"; ObjectID = "DNr-qx-4Ed"; */
-> > "DNr-qx-4Ed.title" = "초록";
-> 47,48c47,48
-> < /* Class = "NSTextFieldCell"; title = "Details"; ObjectID = "IMQ-FH-n0C"; */
-64,66c47,50
-< > "IMQ-FH-n0C.title" = "ディテール";
-< 51c51
-< < "IQF-8H-Ezg.title" = "Colors";
----
-> > /* Class = "NSTextFieldCell"; title = "세부사항"; ObjectID = "IMQ-FH-n0C"; */
-> > "IMQ-FH-n0C.title" = "세부사항";
-> 50c50
-> < /* Class = "NSTextFieldCell"; title = "Colours"; ObjectID = "IQF-8H-Ezg"; */
-68,69c52,54
-< > "IQF-8H-Ezg.title" = "カラー";
-< 54c54
----
-> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "IQF-8H-Ezg"; */
-> 53,54c53,54
-> < /* Class = "NSTextFieldCell"; title = "Brightness"; ObjectID = "Olc-Kg-HVM"; */
-72,73c57,60
-< > "Olc-Kg-HVM.title" = "明るさ";
-< 57c57
----
-> > /* Class = "NSTextFieldCell"; title = "명암"; ObjectID = "Olc-Kg-HVM"; */
-> > "Olc-Kg-HVM.title" = "명암";
-> 56,57c56,57
-> < /* Class = "NSButtonCell"; title = "Curves"; ObjectID = "R2e-xA-CeU"; */
-76,93c63,66
-< > "R2e-xA-CeU.title" = "カーブ";
-< 60c60
-< < "S9o-5I-gKZ.title" = "Coarse";
-< ---
-< > "S9o-5I-gKZ.title" = "粗い";
-< 63c63
-< < "SI8-RD-LbE.title" = "Clamp to SDR";
-< ---
-< > "SI8-RD-LbE.title" = "SDRに固定";
-< 66c66
-< < "TOA-3W-Uit.title" = "Highlights";
-< ---
-< > "TOA-3W-Uit.title" = "ハイライト";
-< 69c69
-< < "Z0z-wa-lr2.title" = "Luminance";
-< ---
-< > "Z0z-wa-lr2.title" = "輝度";
-< 72c72
----
-> > /* Class = "NSButtonCell"; title = "곡선"; ObjectID = "R2e-xA-CeU"; */
-> > "R2e-xA-CeU.title" = "곡선";
-> 71,72c71,72
-> < /* Class = "NSTextFieldCell"; title = "Vibrance"; ObjectID = "Z3v-D7-xVW"; */
-96,97c69,72
-< > "Z3v-D7-xVW.title" = "自然な彩度";
-< 75c75
----
-> > /* Class = "NSTextFieldCell"; title = "활기"; ObjectID = "Z3v-D7-xVW"; */
-> > "Z3v-D7-xVW.title" = "활기";
-> 74,75c74,75
-> < /* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "adM-kp-T68"; */
-100,105c75,78
-< > "adM-kp-T68.title" = "彩度";
-< 78c78
-< < "e4B-aZ-cjY.title" = "Extreme";
-< ---
-< > "e4B-aZ-cjY.title" = "最大";
-< 84c84
----
-> > /* Class = "NSTextFieldCell"; title = "채도"; ObjectID = "adM-kp-T68"; */
-> > "adM-kp-T68.title" = "채도";
-> 83,84c83,84
-> < /* Class = "NSTextFieldCell"; title = "Medium"; ObjectID = "gou-zL-xzk"; */
-108,109c81,84
-< > "gou-zL-xzk.title" = "中";
-< 87c87
----
-> > /* Class = "NSTextFieldCell"; title = "중간"; ObjectID = "gou-zL-xzk"; */
-> > "gou-zL-xzk.title" = "중간";
-> 86,87c86,87
-> < /* Class = "NSTextFieldCell"; title = "Temperature"; ObjectID = "gvs-8F-iJJ"; */
-112,113c87,90
-< > "gvs-8F-iJJ.title" = "温度";
-< 90c90
----
-> > /* Class = "NSTextFieldCell"; title = "온도"; ObjectID = "gvs-8F-iJJ"; */
-> > "gvs-8F-iJJ.title" = "온도";
-> 89,90c89,90
-> < /* Class = "NSButtonCell"; title = "White Balance"; ObjectID = "hRc-ek-dPD"; */
-116,121c93,96
-< > "hRc-ek-dPD.title" = "ホワイトバランス";
-< 93c93
-< < "iIo-N8-yn1.title" = "Detail Refinement";
-< ---
-< > "iIo-N8-yn1.title" = "ディテール調整";
-< 96c96
----
-> > /* Class = "NSButtonCell"; title = "화이트 밸런스"; ObjectID = "hRc-ek-dPD"; */
-> > "hRc-ek-dPD.title" = "화이트 밸런스";
-> 95,96c95,96
-> < /* Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "lOh-fh-6cu"; */
-124,129c99,102
-< > "lOh-fh-6cu.title" = "シャドウ";
-< 99c99
-< < "pGA-c5-XDE.title" = "Noise Reduction";
-< ---
-< > "pGA-c5-XDE.title" = "ノイズ軽減";
-< 102c102
----
-> > /* Class = "NSTextFieldCell"; title = "그림자"; ObjectID = "lOh-fh-6cu"; */
-> > "lOh-fh-6cu.title" = "그림자";
 > 101,102c101,102
-> < /* Class = "NSTextFieldCell"; title = "Tint"; ObjectID = "qOl-tL-vQE"; */
-132,137c105,108
-< > "qOl-tL-vQE.title" = "色合い";
-< 105c105
-< < "ry5-OH-miu.title" = "Fine";
-< ---
-< > "ry5-OH-miu.title" = "詳細";
-< 108c108
----
-> > /* Class = "NSTextFieldCell"; title = "틴트"; ObjectID = "qOl-tL-vQE"; */
-> > "qOl-tL-vQE.title" = "틴트";
 > 107,108c107,108
-> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "sYs-IA-PBA"; */
-140,141c111,114
-< > "sYs-IA-PBA.title" = "半径";
-< 111c111
----
-> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "sYs-IA-PBA"; */
-> > "sYs-IA-PBA.title" = "반지름";
+> 11,12c11,12
 > 110,111c110,111
-> < /* Class = "NSTextFieldCell"; title = "Amount"; ObjectID = "uYT-Im-XCd"; */
-144,148c117,118
-< > "uYT-Im-XCd.title" = "量";
-< 114c114
+> 2,3c2,3
+> 20,21c20,21
+> 23,24c23,24
+> 26,27c26,27
+> 47,48c47,48
+> 5,6c5,6
+> 50c50
+> 53,54c53,54
+> 56,57c56,57
+> 71,72c71,72
+> 74,75c74,75
+> 8,9c8,9
+> 83,84c83,84
+> 86,87c86,87
+> 89,90c89,90
+> 95,96c95,96
+77d42
+< < "3wO-YA-YAH.title" = "Blackpoint";
+80d44
+< < "5nq-ru-9PA.title" = "Master";
+84,89d47
+< < "DVJ-em-n7g.title" = "Main";
+< < "FVl-by-VIj.title" = "Extreme";
+< < "G3Z-Ns-9XA.title" = "Detail";
+< < "GxU-EK-ePK.title" = "Local Contrast";
+< < "H9q-Do-dsI.title" = "Shadows & Highlights";
+< < "I59-eF-BMf.title" = "Tone Compression";
+91d48
+< < "IQF-8H-Ezg.title" = "Colors";
+94,97d50
+< < "S9o-5I-gKZ.title" = "Coarse";
+< < "SI8-RD-LbE.title" = "Clamp to SDR";
+< < "TOA-3W-Uit.title" = "Highlights";
+< < "Z0z-wa-lr2.title" = "Luminance";
+100d52
+< < "e4B-aZ-cjY.title" = "Extreme";
+104d55
+< < "iIo-N8-yn1.title" = "Detail Refinement";
+106d56
+< < "pGA-c5-XDE.title" = "Noise Reduction";
+108d57
+< < "ry5-OH-miu.title" = "Fine";
+111,148c60,118
 < < "xAa-F7-hRU.title" = "Contribution";
-< ---
+< > "146.title" = "エンハンス";
+< > "148.title" = "コントラスト";
+< > "3wO-YA-YAH.title" = "黒点";
+< > "517.title" = "露出";
+< > "519.title" = "露出";
+< > "5nq-ru-9PA.title" = "マスター";
+< > "646-Pn-2Hn.title" = "赤";
+< > "73u-lT-udc.title" = "青";
+< > "DNr-qx-4Ed.title" = "緑";
+< > "DVJ-em-n7g.title" = "メイン";
+< > "FVl-by-VIj.title" = "最大";
+< > "G3Z-Ns-9XA.title" = "ディテール";
+< > "GxU-EK-ePK.title" = "ローカルコントラスト";
+< > "H9q-Do-dsI.title" = "シャドウとハイライト";
+< > "I59-eF-BMf.title" = "トーン圧縮";
+< > "IMQ-FH-n0C.title" = "ディテール";
+< > "IQF-8H-Ezg.title" = "カラー";
+< > "Olc-Kg-HVM.title" = "明るさ";
+< > "R2e-xA-CeU.title" = "カーブ";
+< > "S9o-5I-gKZ.title" = "粗い";
+< > "SI8-RD-LbE.title" = "SDRに固定";
+< > "TOA-3W-Uit.title" = "ハイライト";
+< > "Z0z-wa-lr2.title" = "輝度";
+< > "Z3v-D7-xVW.title" = "自然な彩度";
+< > "adM-kp-T68.title" = "彩度";
+< > "e4B-aZ-cjY.title" = "最大";
+< > "gou-zL-xzk.title" = "中";
+< > "gvs-8F-iJJ.title" = "温度";
+< > "hRc-ek-dPD.title" = "ホワイトバランス";
+< > "iIo-N8-yn1.title" = "ディテール調整";
+< > "lOh-fh-6cu.title" = "シャドウ";
+< > "pGA-c5-XDE.title" = "ノイズ軽減";
+< > "qOl-tL-vQE.title" = "色合い";
+< > "ry5-OH-miu.title" = "詳細";
+< > "sYs-IA-PBA.title" = "半径";
+< > "uYT-Im-XCd.title" = "量";
 < > "xAa-F7-hRU.title" = "レベル";
 ---
-> > /* Class = "NSTextFieldCell"; title = "양"; ObjectID = "uYT-Im-XCd"; */
+> < /* Class = "NSButtonCell"; title = "Curves"; ObjectID = "R2e-xA-CeU"; */
+> < /* Class = "NSButtonCell"; title = "Enhance"; ObjectID = "146"; */
+> < /* Class = "NSButtonCell"; title = "Exposure"; ObjectID = "517"; */
+> < /* Class = "NSButtonCell"; title = "White Balance"; ObjectID = "hRc-ek-dPD"; */
+> < /* Class = "NSMenuItem"; title = "Blue"; ObjectID = "73u-lT-udc"; */
+> < /* Class = "NSMenuItem"; title = "Green"; ObjectID = "DNr-qx-4Ed"; */
+> < /* Class = "NSMenuItem"; title = "Red"; ObjectID = "646-Pn-2Hn"; */
+> < /* Class = "NSTextFieldCell"; title = "Amount"; ObjectID = "uYT-Im-XCd"; */
+> < /* Class = "NSTextFieldCell"; title = "Brightness"; ObjectID = "Olc-Kg-HVM"; */
+> < /* Class = "NSTextFieldCell"; title = "Colours"; ObjectID = "IQF-8H-Ezg"; */
+> < /* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "148"; */
+> < /* Class = "NSTextFieldCell"; title = "Details"; ObjectID = "IMQ-FH-n0C"; */
+> < /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "519"; */
+> < /* Class = "NSTextFieldCell"; title = "Medium"; ObjectID = "gou-zL-xzk"; */
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "sYs-IA-PBA"; */
+> < /* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "adM-kp-T68"; */
+> < /* Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "lOh-fh-6cu"; */
+> < /* Class = "NSTextFieldCell"; title = "Temperature"; ObjectID = "gvs-8F-iJJ"; */
+> < /* Class = "NSTextFieldCell"; title = "Tint"; ObjectID = "qOl-tL-vQE"; */
+> < /* Class = "NSTextFieldCell"; title = "Vibrance"; ObjectID = "Z3v-D7-xVW"; */
+> > "146.title" = "개선";
+> > "148.title" = "대비";
+> > "517.title" = "노출";
+> > "519.title" = "노출";
+> > "646-Pn-2Hn.title" = "빨강";
+> > "73u-lT-udc.title" = "파랑";
+> > "DNr-qx-4Ed.title" = "초록";
+> > "IMQ-FH-n0C.title" = "세부사항";
+> > "Olc-Kg-HVM.title" = "명암";
+> > "R2e-xA-CeU.title" = "곡선";
+> > "Z3v-D7-xVW.title" = "활기";
+> > "adM-kp-T68.title" = "채도";
+> > "gou-zL-xzk.title" = "중간";
+> > "gvs-8F-iJJ.title" = "온도";
+> > "hRc-ek-dPD.title" = "화이트 밸런스";
+> > "lOh-fh-6cu.title" = "그림자";
+> > "qOl-tL-vQE.title" = "틴트";
+> > "sYs-IA-PBA.title" = "반지름";
 > > "uYT-Im-XCd.title" = "양";
+> > /* Class = "NSButtonCell"; title = "개선"; ObjectID = "146"; */
+> > /* Class = "NSButtonCell"; title = "노출"; ObjectID = "517"; */
+> > /* Class = "NSButtonCell"; title = "곡선"; ObjectID = "R2e-xA-CeU"; */
+> > /* Class = "NSButtonCell"; title = "화이트 밸런스"; ObjectID = "hRc-ek-dPD"; */
+> > /* Class = "NSMenuItem"; title = "빨강"; ObjectID = "646-Pn-2Hn"; */
+> > /* Class = "NSMenuItem"; title = "파랑"; ObjectID = "73u-lT-udc"; */
+> > /* Class = "NSMenuItem"; title = "초록"; ObjectID = "DNr-qx-4Ed"; */
+> > /* Class = "NSTextFieldCell"; title = "양"; ObjectID = "uYT-Im-XCd"; */
+> > /* Class = "NSTextFieldCell"; title = "대비"; ObjectID = "148"; */
+> > /* Class = "NSTextFieldCell"; title = "노출"; ObjectID = "519"; */
+> > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "IQF-8H-Ezg"; */
+> > /* Class = "NSTextFieldCell"; title = "명암"; ObjectID = "Olc-Kg-HVM"; */
+> > /* Class = "NSTextFieldCell"; title = "활기"; ObjectID = "Z3v-D7-xVW"; */
+> > /* Class = "NSTextFieldCell"; title = "채도"; ObjectID = "adM-kp-T68"; */
+> > /* Class = "NSTextFieldCell"; title = "중간"; ObjectID = "gou-zL-xzk"; */
+> > /* Class = "NSTextFieldCell"; title = "온도"; ObjectID = "gvs-8F-iJJ"; */
+> > /* Class = "NSTextFieldCell"; title = "틴트"; ObjectID = "qOl-tL-vQE"; */
+> > /* Class = "NSTextFieldCell"; title = "그림자"; ObjectID = "lOh-fh-6cu"; */
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "sYs-IA-PBA"; */
+> > /* Class = "NSTextFieldCell"; title = "세부사항"; ObjectID = "IMQ-FH-n0C"; */
