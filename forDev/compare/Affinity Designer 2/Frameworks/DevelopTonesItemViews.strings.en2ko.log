@@ -1,60 +1,60 @@
-5,6c5,6
-< /* Class = "NSButtonCell"; title = "Curves"; ObjectID = "9f4-qB-aiR"; */
-< "9f4-qB-aiR.title" = "Curves";
 ---
-> /* Class = "NSButtonCell"; title = "곡선"; ObjectID = "9f4-qB-aiR"; */
-> "9f4-qB-aiR.title" = "곡선";
+---
+---
+---
+---
+---
+---
+---
+---
+---
 14,15c14,15
-< /* Class = "NSTextFieldCell"; title = "Red"; ObjectID = "Lrh-Xq-XqK"; */
-< "Lrh-Xq-XqK.title" = "Red";
----
-> /* Class = "NSTextFieldCell"; title = "빨강"; ObjectID = "Lrh-Xq-XqK"; */
-> "Lrh-Xq-XqK.title" = "빨강";
 23,24c23,24
-< /* Class = "NSMenuItem"; title = "Blue"; ObjectID = "TUf-RL-nig"; */
-< "TUf-RL-nig.title" = "Blue";
----
-> /* Class = "NSMenuItem"; title = "파랑"; ObjectID = "TUf-RL-nig"; */
-> "TUf-RL-nig.title" = "파랑";
 26,27c26,27
-< /* Class = "NSTextFieldCell"; title = "Blue"; ObjectID = "ZeW-MH-0Y1"; */
-< "ZeW-MH-0Y1.title" = "Blue";
----
-> /* Class = "NSTextFieldCell"; title = "파랑"; ObjectID = "ZeW-MH-0Y1"; */
-> "ZeW-MH-0Y1.title" = "파랑";
 29,30c29,30
-< /* Class = "NSTextFieldCell"; title = "Green"; ObjectID = "dZn-CS-tyC"; */
-< "dZn-CS-tyC.title" = "Green";
----
-> /* Class = "NSTextFieldCell"; title = "초록"; ObjectID = "dZn-CS-tyC"; */
-> "dZn-CS-tyC.title" = "초록";
 35,36c35,36
-< /* Class = "NSButtonCell"; title = "Split Toning"; ObjectID = "g6x-fB-GLo"; */
-< "g6x-fB-GLo.title" = "Split Toning";
----
-> /* Class = "NSButtonCell"; title = "분할 색조"; ObjectID = "g6x-fB-GLo"; */
-> "g6x-fB-GLo.title" = "분할 색조";
 38,39c38,39
-< /* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "h7e-9Y-IXx"; */
-< "h7e-9Y-IXx.title" = "Yellow";
----
-> /* Class = "NSTextFieldCell"; title = "노랑"; ObjectID = "h7e-9Y-IXx"; */
-> "h7e-9Y-IXx.title" = "노랑";
 41,42c41,42
-< /* Class = "NSMenuItem"; title = "Green"; ObjectID = "m4b-Tg-gL1"; */
-< "m4b-Tg-gL1.title" = "Green";
----
-> /* Class = "NSMenuItem"; title = "초록"; ObjectID = "m4b-Tg-gL1"; */
-> "m4b-Tg-gL1.title" = "초록";
 44,45c44,45
-< /* Class = "NSMenuItem"; title = "Red"; ObjectID = "mBa-Jz-oTS"; */
-< "mBa-Jz-oTS.title" = "Red";
----
-> /* Class = "NSMenuItem"; title = "빨강"; ObjectID = "mBa-Jz-oTS"; */
-> "mBa-Jz-oTS.title" = "빨강";
+5,6c5,6
 53,54c53,54
-< /* Class = "NSTextFieldCell"; title = "Balance"; ObjectID = "w1I-Qf-1Nc"; */
+< "9f4-qB-aiR.title" = "Curves";
+< "Lrh-Xq-XqK.title" = "Red";
+< "TUf-RL-nig.title" = "Blue";
+< "ZeW-MH-0Y1.title" = "Blue";
+< "dZn-CS-tyC.title" = "Green";
+< "g6x-fB-GLo.title" = "Split Toning";
+< "h7e-9Y-IXx.title" = "Yellow";
+< "m4b-Tg-gL1.title" = "Green";
+< "mBa-Jz-oTS.title" = "Red";
 < "w1I-Qf-1Nc.title" = "Balance";
----
-> /* Class = "NSTextFieldCell"; title = "밸런스"; ObjectID = "w1I-Qf-1Nc"; */
+< /* Class = "NSButtonCell"; title = "Curves"; ObjectID = "9f4-qB-aiR"; */
+< /* Class = "NSButtonCell"; title = "Split Toning"; ObjectID = "g6x-fB-GLo"; */
+< /* Class = "NSMenuItem"; title = "Blue"; ObjectID = "TUf-RL-nig"; */
+< /* Class = "NSMenuItem"; title = "Green"; ObjectID = "m4b-Tg-gL1"; */
+< /* Class = "NSMenuItem"; title = "Red"; ObjectID = "mBa-Jz-oTS"; */
+< /* Class = "NSTextFieldCell"; title = "Balance"; ObjectID = "w1I-Qf-1Nc"; */
+< /* Class = "NSTextFieldCell"; title = "Blue"; ObjectID = "ZeW-MH-0Y1"; */
+< /* Class = "NSTextFieldCell"; title = "Green"; ObjectID = "dZn-CS-tyC"; */
+< /* Class = "NSTextFieldCell"; title = "Red"; ObjectID = "Lrh-Xq-XqK"; */
+< /* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "h7e-9Y-IXx"; */
+> "9f4-qB-aiR.title" = "곡선";
+> "Lrh-Xq-XqK.title" = "빨강";
+> "TUf-RL-nig.title" = "파랑";
+> "ZeW-MH-0Y1.title" = "파랑";
+> "dZn-CS-tyC.title" = "초록";
+> "g6x-fB-GLo.title" = "분할 색조";
+> "h7e-9Y-IXx.title" = "노랑";
+> "m4b-Tg-gL1.title" = "초록";
+> "mBa-Jz-oTS.title" = "빨강";
 > "w1I-Qf-1Nc.title" = "밸런스";
+> /* Class = "NSButtonCell"; title = "분할 색조"; ObjectID = "g6x-fB-GLo"; */
+> /* Class = "NSButtonCell"; title = "곡선"; ObjectID = "9f4-qB-aiR"; */
+> /* Class = "NSMenuItem"; title = "파랑"; ObjectID = "TUf-RL-nig"; */
+> /* Class = "NSMenuItem"; title = "초록"; ObjectID = "m4b-Tg-gL1"; */
+> /* Class = "NSMenuItem"; title = "빨강"; ObjectID = "mBa-Jz-oTS"; */
+> /* Class = "NSTextFieldCell"; title = "빨강"; ObjectID = "Lrh-Xq-XqK"; */
+> /* Class = "NSTextFieldCell"; title = "파랑"; ObjectID = "ZeW-MH-0Y1"; */
+> /* Class = "NSTextFieldCell"; title = "초록"; ObjectID = "dZn-CS-tyC"; */
+> /* Class = "NSTextFieldCell"; title = "노랑"; ObjectID = "h7e-9Y-IXx"; */
+> /* Class = "NSTextFieldCell"; title = "밸런스"; ObjectID = "w1I-Qf-1Nc"; */
