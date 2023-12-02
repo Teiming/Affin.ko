@@ -1,66 +1,56 @@
-1,5c1,2
-< 3c3
-< < "1.title" = "Outline Selection";
+8,19c8,14
 < ---
-< > "1.title" = "アウトライン選択";
-< 6c6
----
-> 5,6c5,6
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-8,9c5,8
-< > "26.title" = "適用";
-< 9c9
----
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> > "26.title" = "적용";
-> 8,9c8,9
-> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "49"; */
-12,13c11,14
-< > "49.title" = "半径";
+< ---
 < 12c12
----
-> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "49"; */
-> > "49.title" = "반지름";
-> 11,12c11,12
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "374"; */
-16,21c17,20
-< > "374.title" = "キャンセル";
 < 15c15
-< < "414.title" = "Circular";
-< ---
-< > "414.title" = "循環";
 < 21c21
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "374"; */
-> > "374.title" = "취소";
-> 20,21c20,21
-> < /* Class = "NSMenuItem"; title = "Inside"; ObjectID = "422"; */
-24,26c23,26
-< > "422.title" = "内側";
 < 24c24
-< < "423.title" = "Center";
----
-> > /* Class = "NSMenuItem"; title = "안으로"; ObjectID = "422"; */
-> > "422.title" = "안으로";
-> 23c23
-> < /* Class = "NSMenuItem"; title = "Centre"; ObjectID = "423"; */
-28,29c28,30
-< > "423.title" = "中央";
 < 27c27
----
-> > /* Class = "NSMenuItem"; title = "가운데"; ObjectID = "423"; */
-> 26,27c26,27
-> < /* Class = "NSMenuItem"; title = "Outside"; ObjectID = "424"; */
-32,33c33,36
-< > "424.title" = "外側";
 < 30c30
+< 3c3
+< 6c6
+< 9c9
+< < "1.title" = "Outline Selection";
 ---
-> > /* Class = "NSMenuItem"; title = "바깥"; ObjectID = "424"; */
-> > "424.title" = "바깥";
+> 11,12c11,12
+> 20,21c20,21
+> 23c23
+> 26,27c26,27
 > 29,30c29,30
-> < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "425"; */
-36c39,40
+> 5,6c5,6
+> 8,9c8,9
+22d16
+< < "414.title" = "Circular";
+24d17
+< < "423.title" = "Center";
+28,36c21,40
+< > "1.title" = "アウトライン選択";
+< > "26.title" = "適用";
+< > "374.title" = "キャンセル";
+< > "414.title" = "循環";
+< > "422.title" = "内側";
+< > "423.title" = "中央";
+< > "424.title" = "外側";
 < > "425.title" = "行揃え:";
+< > "49.title" = "半径";
 ---
-> > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "425"; */
+> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "374"; */
+> < /* Class = "NSMenuItem"; title = "Centre"; ObjectID = "423"; */
+> < /* Class = "NSMenuItem"; title = "Inside"; ObjectID = "422"; */
+> < /* Class = "NSMenuItem"; title = "Outside"; ObjectID = "424"; */
+> < /* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "425"; */
+> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "49"; */
+> > "26.title" = "적용";
+> > "374.title" = "취소";
+> > "422.title" = "안으로";
+> > "424.title" = "바깥";
 > > "425.title" = "정렬:";
+> > "49.title" = "반지름";
+> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "374"; */
+> > /* Class = "NSMenuItem"; title = "바깥"; ObjectID = "424"; */
+> > /* Class = "NSMenuItem"; title = "안으로"; ObjectID = "422"; */
+> > /* Class = "NSMenuItem"; title = "가운데"; ObjectID = "423"; */
+> > /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "425"; */
+> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "49"; */
