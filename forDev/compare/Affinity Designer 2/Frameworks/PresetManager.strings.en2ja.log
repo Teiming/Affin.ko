@@ -1,40 +1,40 @@
-3c3
-< "08d-Ns-xUu.title" = "Close";
 ---
-> "08d-Ns-xUu.title" = "閉じる";
-6c6
-< "2Ig-rk-Z9g.title" = "Rename";
 ---
-> "2Ig-rk-Z9g.title" = "名前を変更";
-9c9
-< "5qj-F8-5UU.title" = "Restore Master Presets";
 ---
-> "5qj-F8-5UU.title" = "マスタープリセットの復元";
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "CHo-O7-99J.title" = "Preset manager";
----
-> "CHo-O7-99J.title" = "プリセットマネージャー";
 15c15
-< "Dnd-6x-3Kq.title" = "Delete";
----
-> "Dnd-6x-3Kq.title" = "削除";
 21c21
-< "ccv-Mu-FsN.title" = "Import Presets…";
----
-> "ccv-Mu-FsN.title" = "プリセットをインポート…";
 24c24
-< "g5h-Dw-kkQ.title" = "Filter:";
----
-> "g5h-Dw-kkQ.title" = "フィルター:";
 27c27
-< "lyD-an-9aN.title" = "Export User Presets…";
----
-> "lyD-an-9aN.title" = "ユーザープリセットを書き出し…";
 30c30
-< "onc-8i-HJA.ibShadowedToolTip" = "Filter the visible presets";
----
-> "onc-8i-HJA.ibShadowedToolTip" = "表示されるプリセットをフィルター";
 33c33
+3c3
+6c6
+9c9
+< "08d-Ns-xUu.title" = "Close";
+< "2Ig-rk-Z9g.title" = "Rename";
+< "5qj-F8-5UU.title" = "Restore Master Presets";
+< "CHo-O7-99J.title" = "Preset manager";
+< "Dnd-6x-3Kq.title" = "Delete";
+< "ccv-Mu-FsN.title" = "Import Presets…";
+< "g5h-Dw-kkQ.title" = "Filter:";
+< "lyD-an-9aN.title" = "Export User Presets…";
+< "onc-8i-HJA.ibShadowedToolTip" = "Filter the visible presets";
 < "tWo-fn-Imi.title" = "Create Category…";
----
+> "08d-Ns-xUu.title" = "閉じる";
+> "2Ig-rk-Z9g.title" = "名前を変更";
+> "5qj-F8-5UU.title" = "マスタープリセットの復元";
+> "CHo-O7-99J.title" = "プリセットマネージャー";
+> "Dnd-6x-3Kq.title" = "削除";
+> "ccv-Mu-FsN.title" = "プリセットをインポート…";
+> "g5h-Dw-kkQ.title" = "フィルター:";
+> "lyD-an-9aN.title" = "ユーザープリセットを書き出し…";
+> "onc-8i-HJA.ibShadowedToolTip" = "表示されるプリセットをフィルター";
 > "tWo-fn-Imi.title" = "カテゴリを作成…";

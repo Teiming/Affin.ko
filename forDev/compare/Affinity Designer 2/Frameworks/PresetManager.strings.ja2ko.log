@@ -1,78 +1,62 @@
-1c1,2
+10,20c10,18
+< ---
+< 12c12
+< 15c15
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
 < 3c3
----
-> 2,3c2,3
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "08d-Ns-xUu"; */
-4,5c5,8
-< > "08d-Ns-xUu.title" = "閉じる";
 < 6c6
----
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "08d-Ns-xUu"; */
-> > "08d-Ns-xUu.title" = "닫기";
-> 5,6c5,6
-> < /* Class = "NSButtonCell"; title = "Rename"; ObjectID = "2Ig-rk-Z9g"; */
-8,9c11,14
-< > "2Ig-rk-Z9g.title" = "名前を変更";
 < 9c9
 ---
-> > /* Class = "NSButtonCell"; title = "이름 변경"; ObjectID = "2Ig-rk-Z9g"; */
-> > "2Ig-rk-Z9g.title" = "이름 변경";
-> 8,9c8,9
-> < /* Class = "NSButtonCell"; title = "Restore Master Presets"; ObjectID = "5qj-F8-5UU"; */
-12,13c17,20
-< > "5qj-F8-5UU.title" = "マスタープリセットの復元";
-< 12c12
----
-> > /* Class = "NSButtonCell"; title = "주 미리 설정 복원"; ObjectID = "5qj-F8-5UU"; */
-> > "5qj-F8-5UU.title" = "주 미리 설정 복원";
 > 11,12c11,12
-> < /* Class = "NSWindow"; title = "Preset manager"; ObjectID = "CHo-O7-99J"; */
-16,17c23,26
-< > "CHo-O7-99J.title" = "プリセットマネージャー";
-< 15c15
----
-> > /* Class = "NSWindow"; title = "미리 설정 관리자"; ObjectID = "CHo-O7-99J"; */
-> > "CHo-O7-99J.title" = "미리 설정 관리자";
 > 14,15c14,15
-> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Dnd-6x-3Kq"; */
-20,21c29,32
-< > "Dnd-6x-3Kq.title" = "削除";
-< 21c21
----
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Dnd-6x-3Kq"; */
-> > "Dnd-6x-3Kq.title" = "지우기";
+> 2,3c2,3
 > 20,21c20,21
-> < /* Class = "NSButtonCell"; title = "Import Presets…"; ObjectID = "ccv-Mu-FsN"; */
-24,25c35,38
-< > "ccv-Mu-FsN.title" = "プリセットをインポート…";
-< 24c24
----
-> > /* Class = "NSButtonCell"; title = "미리 설정 들여오기…"; ObjectID = "ccv-Mu-FsN"; */
-> > "ccv-Mu-FsN.title" = "미리 설정 들여오기…";
 > 23,24c23,24
-> < /* Class = "NSTextFieldCell"; title = "Filter:"; ObjectID = "g5h-Dw-kkQ"; */
-28,29c41,44
-< > "g5h-Dw-kkQ.title" = "フィルター:";
-< 27c27
----
-> > /* Class = "NSTextFieldCell"; title = "필터:"; ObjectID = "g5h-Dw-kkQ"; */
-> > "g5h-Dw-kkQ.title" = "필터:";
 > 26,27c26,27
-> < /* Class = "NSButtonCell"; title = "Export User Presets…"; ObjectID = "lyD-an-9aN"; */
-32,33c47,50
-< > "lyD-an-9aN.title" = "ユーザープリセットを書き出し…";
-< 30c30
----
-> > /* Class = "NSButtonCell"; title = "사용자 미리 설정 내보내기…"; ObjectID = "lyD-an-9aN"; */
-> > "lyD-an-9aN.title" = "사용자 미리 설정 내보내기…";
 > 29,30c29,30
-> < /* Class = "NSPopUpButton"; ibShadowedToolTip = "Filter the visible presets"; ObjectID = "onc-8i-HJA"; */
-36,40c53,54
-< > "onc-8i-HJA.ibShadowedToolTip" = "表示されるプリセットをフィルター";
-< 33c33
+> 5,6c5,6
+> 8,9c8,9
+30,40c28,54
 < < "tWo-fn-Imi.title" = "Create Category…";
-< ---
+< > "08d-Ns-xUu.title" = "閉じる";
+< > "2Ig-rk-Z9g.title" = "名前を変更";
+< > "5qj-F8-5UU.title" = "マスタープリセットの復元";
+< > "CHo-O7-99J.title" = "プリセットマネージャー";
+< > "Dnd-6x-3Kq.title" = "削除";
+< > "ccv-Mu-FsN.title" = "プリセットをインポート…";
+< > "g5h-Dw-kkQ.title" = "フィルター:";
+< > "lyD-an-9aN.title" = "ユーザープリセットを書き出し…";
+< > "onc-8i-HJA.ibShadowedToolTip" = "表示されるプリセットをフィルター";
 < > "tWo-fn-Imi.title" = "カテゴリを作成…";
 ---
-> > /* Class = "NSPopUpButton"; ibShadowedToolTip = "볼 수 있는 미리 설정 필터"; ObjectID = "onc-8i-HJA"; */
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "08d-Ns-xUu"; */
+> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Dnd-6x-3Kq"; */
+> < /* Class = "NSButtonCell"; title = "Export User Presets…"; ObjectID = "lyD-an-9aN"; */
+> < /* Class = "NSButtonCell"; title = "Import Presets…"; ObjectID = "ccv-Mu-FsN"; */
+> < /* Class = "NSButtonCell"; title = "Rename"; ObjectID = "2Ig-rk-Z9g"; */
+> < /* Class = "NSButtonCell"; title = "Restore Master Presets"; ObjectID = "5qj-F8-5UU"; */
+> < /* Class = "NSPopUpButton"; ibShadowedToolTip = "Filter the visible presets"; ObjectID = "onc-8i-HJA"; */
+> < /* Class = "NSTextFieldCell"; title = "Filter:"; ObjectID = "g5h-Dw-kkQ"; */
+> < /* Class = "NSWindow"; title = "Preset manager"; ObjectID = "CHo-O7-99J"; */
+> > "08d-Ns-xUu.title" = "닫기";
+> > "2Ig-rk-Z9g.title" = "이름 변경";
+> > "5qj-F8-5UU.title" = "주 미리 설정 복원";
+> > "CHo-O7-99J.title" = "미리 설정 관리자";
+> > "Dnd-6x-3Kq.title" = "지우기";
+> > "ccv-Mu-FsN.title" = "미리 설정 들여오기…";
+> > "g5h-Dw-kkQ.title" = "필터:";
+> > "lyD-an-9aN.title" = "사용자 미리 설정 내보내기…";
 > > "onc-8i-HJA.ibShadowedToolTip" = "볼 수 있는 미리 설정 필터";
+> > /* Class = "NSButtonCell"; title = "주 미리 설정 복원"; ObjectID = "5qj-F8-5UU"; */
+> > /* Class = "NSButtonCell"; title = "미리 설정 들여오기…"; ObjectID = "ccv-Mu-FsN"; */
+> > /* Class = "NSButtonCell"; title = "이름 변경"; ObjectID = "2Ig-rk-Z9g"; */
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "08d-Ns-xUu"; */
+> > /* Class = "NSButtonCell"; title = "사용자 미리 설정 내보내기…"; ObjectID = "lyD-an-9aN"; */
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Dnd-6x-3Kq"; */
+> > /* Class = "NSPopUpButton"; ibShadowedToolTip = "볼 수 있는 미리 설정 필터"; ObjectID = "onc-8i-HJA"; */
+> > /* Class = "NSTextFieldCell"; title = "필터:"; ObjectID = "g5h-Dw-kkQ"; */
+> > /* Class = "NSWindow"; title = "미리 설정 관리자"; ObjectID = "CHo-O7-99J"; */
