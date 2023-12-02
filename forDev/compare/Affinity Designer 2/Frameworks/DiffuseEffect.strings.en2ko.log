@@ -25,12 +25,12 @@
 > "1.title" = "확산";
 > "26.title" = "적용";
 > "418.title" = "취소";
-> "N8T-FF-OqH.ibShadowedToolTip" = "거울 뷰 모드";
-> "Phf-kw-Rdu.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> "tpx-9j-n6H.ibShadowedToolTip" = "분할 뷰 모드";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "Phf-kw-Rdu"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "N8T-FF-OqH"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "tpx-9j-n6H"; */
+> "N8T-FF-OqH.ibShadowedToolTip" = "거울 보기";
+> "Phf-kw-Rdu.ibShadowedToolTip" = "분할 보기 해제";
+> "tpx-9j-n6H.ibShadowedToolTip" = "분할 보기";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "Phf-kw-Rdu"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "N8T-FF-OqH"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "tpx-9j-n6H"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "418"; */
 > /* Class = "NSWindow"; title = "확산"; ObjectID = "1"; */
