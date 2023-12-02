@@ -1,22 +1,20 @@
-1c1,2
+3,6c3,4
+< ---
+< 12c12
 < 6c6
----
-> 5,6c5,6
-> < /* Class = "NSMenuItem"; title = "Manage Presets…"; ObjectID = "Cfc-K1-U29"; */
-4,5c5,8
-< > "Cfc-K1-U29.title" = "プリセットの管理…";
 < 9c9
 ---
-> > /* Class = "NSMenuItem"; title = "미리 설정 관리자…"; ObjectID = "Cfc-K1-U29"; */
-> > "Cfc-K1-U29.title" = "미리 설정 관리자…";
+> 5,6c5,6
 > 8,9c8,9
-> < /* Class = "NSMenuItem"; title = "Create Preset…"; ObjectID = "Yj6-1f-Ed3"; */
-8,12c11,12
-< > "Yj6-1f-Ed3.title" = "プリセットを作成…";
-< 12c12
+9,12c7,12
 < < "tNQ-am-OfI.ibShadowedToolTip" = "Search for name";
-< ---
+< > "Cfc-K1-U29.title" = "プリセットの管理…";
+< > "Yj6-1f-Ed3.title" = "プリセットを作成…";
 < > "tNQ-am-OfI.ibShadowedToolTip" = "名前を検索";
 ---
-> > /* Class = "NSMenuItem"; title = "미리 설정 생성…"; ObjectID = "Yj6-1f-Ed3"; */
+> < /* Class = "NSMenuItem"; title = "Create Preset…"; ObjectID = "Yj6-1f-Ed3"; */
+> < /* Class = "NSMenuItem"; title = "Manage Presets…"; ObjectID = "Cfc-K1-U29"; */
+> > "Cfc-K1-U29.title" = "미리 설정 관리자…";
 > > "Yj6-1f-Ed3.title" = "미리 설정 생성…";
+> > /* Class = "NSMenuItem"; title = "미리 설정 생성…"; ObjectID = "Yj6-1f-Ed3"; */
+> > /* Class = "NSMenuItem"; title = "미리 설정 관리자…"; ObjectID = "Cfc-K1-U29"; */
