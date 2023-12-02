@@ -1,43 +1,4 @@
-29,135c29,56
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,69c2,29
 < 102c102
 < 105c105
 < 108c108
@@ -135,21 +96,21 @@
 > 8,9c8,9
 > 92,93c92,93
 > 98,99c98,99
-137,138d57
+71,72d30
 < < "2nt-OZ-fCn.title" = "Update Brush";
 < < "3RG-1M-fhY.title" = "Main Menu";
-142,143d60
+76,77d33
 < < "6On-Gn-SLX.title" = "Enable Associated Tools";
 < < "6RP-QA-clg.title" = "Sort Categories By";
-145d61
+79d34
 < < "757.ibShadowedToolTip" = "Edit Brush";
-148d63
+82d36
 < < "9bz-aZ-Pjf.title" = "Main Menu";
-152,154d66
+86,88d39
 < < "Cl5-sM-CHi.title" = "Synced to My Devices";
 < < "Dj0-Sz-JUD.title" = "Auto-switch Category";
 < < "EBU-au-fwc.title" = "Create New Category…";
-156,163d67
+90,97d40
 < < "Ey7-oo-yph.title" = "Uninstall Pack…";
 < < "FIq-YV-G5b.title" = "Shared with a Team";
 < < "FMS-rv-LVv.title" = "Delete Category…";
@@ -158,36 +119,36 @@
 < < "KIE-EB-qxu.title" = "Uninstall Pack…";
 < < "M7e-jf-GHF.title" = "Reset Brush";
 < < "MK8-L1-viL.title" = "Sort Categories By";
-165d68
+99d41
 < < "Oip-kq-vEM.title" = "Delete Category…";
-167,168d69
+101,102d42
 < < "PvU-6M-DGE.title" = "Shared with a Team";
 < < "R2M-fY-H2d.title" = "Show Sync Status…";
-170,172d70
+104,106d43
 < < "Sqs-98-rwr.title" = "Sort Categories By";
 < < "U4G-dG-yIv.title" = "Duplicate Category";
 < < "UhM-C6-U4Q.title" = "New Brush From Selection";
-175d72
+109d45
 < < "YsM-XK-SZd.title" = "Copy Brush to Category";
-177,178d73
+111,112d46
 < < "btJ-u1-AOe.title" = "Download Brush";
 < < "dnb-xd-Gpx.title" = "Sync Category";
-182d76
+116d49
 < < "egt-yc-37w.title" = "Link Category";
-185,186d78
+119,120d51
 < < "gZ8-JY-svq.title" = "Sort Categories By";
 < < "h4Z-rQ-eMm.title" = "Just This App";
-189,192d80
+123,126d53
 < < "kCo-4u-Kb6.title" = "Date Added";
 < < "kMR-XM-HAE.title" = "Sync Category";
 < < "mQl-Mc-BC1.title" = "Copy Brush to Category";
 < < "nL7-2p-lAL.title" = "Show Brush Names";
-194d81
+128d54
 < < "phf-Av-nw9.title" = "Cancel Download";
-197,198d83
+131,132d56
 < < "rjh-yd-yX0.title" = "New Intensity Brush";
 < < "xcu-wk-2oD.title" = "Show Sync Status…";
-200,268c85,168
+134,202c58,141
 < < "yI3-f7-efv.title" = "Duplicate Category";
 < < "yLi-iL-gyF.title" = "New Textured Intensity Brush";
 < > "0xZ-ca-7WO.title" = "新規カテゴリを作成…";
