@@ -1,140 +1,140 @@
-14c14
-< "Rounded" = "Rounded";
 ---
-> "Rounded" = "둥근";
-29c29
-< "Default" = "Default";
 ---
-> "Default" = "기본값";
-32c32
-< "Amount" = "Amount";
 ---
-> "Amount" = "양";
-38c38
-< "Offset" = "Offset";
 ---
-> "Offset" = "편차";
-47c47
-< "Default" = "Default";
 ---
-> "Default" = "기본값";
-56c56
-< "Default" = "Default";
 ---
-> "Default" = "기본값";
-68c68
-< "Default" = "Default";
 ---
-> "Default" = "기본값";
-80c80
-< "Default" = "Default";
 ---
-> "Default" = "기본값";
-89c89
-< "Default" = "Default";
 ---
-> "Default" = "기본값";
-92c92
-< "Height" = "Height";
 ---
-> "Height" = "높이";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 101c101
-< "Default" = "Default";
----
-> "Default" = "기본값";
 104c104
-< "Height" = "Height";
----
-> "Height" = "높이";
 110c110
-< "Offset" = "Offset";
----
-> "Offset" = "편차";
 119c119
-< "Default" = "Default";
----
-> "Default" = "기본값";
 125c125
-< "Noise" = "Noise";
----
-> "Noise" = "잡음";
 134c134
-< "Default" = "Default";
----
-> "Default" = "기본값";
 149c149
-< "Contrast" = "Contrast";
----
-> "Contrast" = "대비";
+14c14
 152c152
-< "Brightness" = "Brightness";
----
-> "Brightness" = "명암";
 161c161
-< "Dark" = "Dark";
----
-> "Dark" = "다크";
 167c167
-< "Brightness" = "Brightness";
----
-> "Brightness" = "명암";
 176c176
-< "Default" = "Default";
----
-> "Default" = "기본값";
 188c188
-< "Default" = "Default";
----
-> "Default" = "기본값";
 203c203
-< "Default" = "Default";
----
-> "Default" = "기본값";
 218c218
-< "Default" = "Default";
----
-> "Default" = "기본값";
 227c227
-< "Brightness" = "Brightness";
----
-> "Brightness" = "명암";
 233c233
-< "Default" = "Default";
----
-> "Default" = "기본값";
 236c236
-< "Width" = "Width";
----
-> "Width" = "너비";
 239c239
-< "Offset" = "Offset";
----
-> "Offset" = "편차";
 248c248
-< "Default" = "Default";
----
-> "Default" = "기본값";
 263c263
-< "Offset" = "Offset";
----
-> "Offset" = "편차";
 272c272
-< "Default" = "Default";
----
-> "Default" = "기본값";
 293c293
-< "Default" = "Default";
----
-> "Default" = "기본값";
 299c299
-< "Brightness" = "Brightness";
----
-> "Brightness" = "명암";
+29c29
 305c305
-< "Default" = "Default";
----
-> "Default" = "기본값";
 311c311
+32c32
+38c38
+47c47
+56c56
+68c68
+80c80
+89c89
+92c92
+< "Amount" = "Amount";
 < "Brightness" = "Brightness";
----
+< "Brightness" = "Brightness";
+< "Brightness" = "Brightness";
+< "Brightness" = "Brightness";
+< "Brightness" = "Brightness";
+< "Contrast" = "Contrast";
+< "Dark" = "Dark";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Default" = "Default";
+< "Height" = "Height";
+< "Height" = "Height";
+< "Noise" = "Noise";
+< "Offset" = "Offset";
+< "Offset" = "Offset";
+< "Offset" = "Offset";
+< "Offset" = "Offset";
+< "Rounded" = "Rounded";
+< "Width" = "Width";
+> "Amount" = "양";
 > "Brightness" = "명암";
+> "Brightness" = "명암";
+> "Brightness" = "명암";
+> "Brightness" = "명암";
+> "Brightness" = "명암";
+> "Contrast" = "대비";
+> "Dark" = "다크";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Default" = "기본값";
+> "Height" = "높이";
+> "Height" = "높이";
+> "Noise" = "잡음";
+> "Offset" = "편차";
+> "Offset" = "편차";
+> "Offset" = "편차";
+> "Offset" = "편차";
+> "Rounded" = "둥근";
+> "Width" = "너비";
