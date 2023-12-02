@@ -1,0 +1,12 @@
+---
+---
+20,21c20,21
+29,30c29,30
+< "LOQ-wI-2KE.title" = "Modified";
+< "bLa-Qi-Pp6.title" = "Author";
+< /* Class = "NSTextFieldCell"; title = "Author"; ObjectID = "bLa-Qi-Pp6"; */
+< /* Class = "NSTextFieldCell"; title = "Modified"; ObjectID = "LOQ-wI-2KE"; Note = "As in modification time/date"; */
+> "LOQ-wI-2KE.title" = "변경";
+> "bLa-Qi-Pp6.title" = "저자";
+> /* Class = "NSTextFieldCell"; title = "변경"; ObjectID = "LOQ-wI-2KE"; Note = "As in modification time/date"; */
+> /* Class = "NSTextFieldCell"; title = "저자"; ObjectID = "bLa-Qi-Pp6"; */
