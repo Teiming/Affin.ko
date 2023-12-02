@@ -1,172 +1,268 @@
-6c6
-< "683.title" = "User Defined";
 ---
-> "683.title" = "ユーザー定義";
-9c9
-< "684.title" = "Standard";
 ---
-> "684.title" = "標準";
-12c12
-< "685.title" = "Categories";
 ---
-> "685.title" = "カテゴリ";
-15c15
-< "757.ibShadowedToolTip" = "Edit Brush";
 ---
-> "757.ibShadowedToolTip" = "ブラシを編集";
-18c18
-< "0xZ-ca-7WO.title" = "Create New Category…";
 ---
-> "0xZ-ca-7WO.title" = "新規カテゴリを作成…";
-21c21
-< "29x-ZG-4UJ.title" = "Rename Category…";
 ---
-> "29x-ZG-4UJ.title" = "カテゴリ名を変更…";
-24c24
-< "2nt-OZ-fCn.title" = "Update Brush";
 ---
-> "2nt-OZ-fCn.title" = "ブラシを更新";
-27c27
-< "6On-Gn-SLX.title" = "Enable Associated Tools";
 ---
-> "6On-Gn-SLX.title" = "関連ツールを有効にする";
-30c30
-< "6wi-GB-u1Y.title" = "Import Brushes…";
 ---
-> "6wi-GB-u1Y.title" = "ブラシをインポート…";
-33c33
-< "8Mu-k9-rUv.title" = "Duplicate Brush";
 ---
-> "8Mu-k9-rUv.title" = "ブラシを複製";
-36c36
-< "8bf-4x-iCm.title" = "New Image Brush";
 ---
-> "8bf-4x-iCm.title" = "新規画像ブラシ";
-39c39
-< "9bz-aZ-Pjf.title" = "Main Menu";
 ---
-> "9bz-aZ-Pjf.title" = "メインメニュー";
-42c42
-< "AxG-jy-wkM.title" = "New Square Brush";
 ---
-> "AxG-jy-wkM.title" = "新規正方形ブラシ";
-45c45
-< "Brz-mh-sxe.title" = "New Solid Brush";
 ---
-> "Brz-mh-sxe.title" = "新規ソリッドブラシ";
-48c48
-< "Dj0-Sz-JUD.title" = "Auto-switch Category";
 ---
-> "Dj0-Sz-JUD.title" = "自動切り替えカテゴリ";
-51c51
-< "EWf-xj-6CY.title" = "Vector Menu";
 ---
-> "EWf-xj-6CY.title" = "ベクターメニュー";
-54c54
-< "FMS-rv-LVv.title" = "Delete Category…";
 ---
-> "FMS-rv-LVv.title" = "カテゴリを削除…";
-57c57
-< "H7d-fP-p0M.title" = "Date Added";
 ---
-> "H7d-fP-p0M.title" = "追加日";
-60c60
-< "KIE-EB-qxu.title" = "Uninstall Pack…";
 ---
-> "KIE-EB-qxu.title" = "パックをアンインストール…";
-63c63
-< "M7e-jf-GHF.title" = "Reset Brush";
 ---
-> "M7e-jf-GHF.title" = "ブラシをリセット";
-66c66
-< "MK8-L1-viL.title" = "Sort Categories By";
 ---
-> "MK8-L1-viL.title" = "次の項目でカテゴリを並べ替え";
-69c69
-< "MZz-4P-csN.title" = "Delete Brush";
 ---
-> "MZz-4P-csN.title" = "ブラシを削除";
-72c72
-< "PUk-fe-DCG.title" = "Name";
 ---
-> "PUk-fe-DCG.title" = "名前";
-75c75
-< "UhM-C6-U4Q.title" = "New Brush From Selection";
 ---
-> "UhM-C6-U4Q.title" = "選択範囲からの新しいブラシ";
-78c78
-< "YsM-XK-SZd.title" = "Copy Brush to Category";
 ---
-> "YsM-XK-SZd.title" = "ブラシをカテゴリにコピー";
-81c81
-< "aFq-Os-DpJ.title" = "Edit Brush…";
 ---
-> "aFq-Os-DpJ.title" = "ブラシを編集…";
-84c84
-< "dpg-pI-boZ.title" = "Move Brush to Category";
 ---
-> "dpg-pI-boZ.title" = "ブラシをカテゴリに移動";
-87c87
-< "eKB-X7-SAz.title" = "New Textured Image Brush";
 ---
-> "eKB-X7-SAz.title" = "新規テクスチャ画像ブラシ";
-90c90
-< "eb4-ho-iE7.title" = "New Round Brush";
 ---
-> "eb4-ho-iE7.title" = "新規ラウンドブラシ";
-93c93
-< "egt-yc-37w.title" = "Link Category";
 ---
-> "egt-yc-37w.title" = "カテゴリをリンク";
-96c96
-< "fM3-sT-mB1.title" = "Show as List";
 ---
-> "fM3-sT-mB1.title" = "リストとして表示";
-99c99
-< "gLd-p3-n9l.title" = "Brush Item Context Menu";
 ---
-> "gLd-p3-n9l.title" = "ブラシ項目コンテキストメニュー";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 102c102
-< "gZ8-JY-svq.title" = "Sort Categories By";
----
-> "gZ8-JY-svq.title" = "次の項目でカテゴリを並べ替え";
 105c105
-< "jP8-fo-hO8.title" = "Auto-scroll";
----
-> "jP8-fo-hO8.title" = "自動スクロール";
 108c108
-< "k0x-FY-GSh.title" = "Raster Menu";
----
-> "k0x-FY-GSh.title" = "ラスターメニュー";
 111c111
-< "mQl-Mc-BC1.title" = "Copy Brush to Category";
----
-> "mQl-Mc-BC1.title" = "ブラシをカテゴリにコピー";
 114c114
-< "nL7-2p-lAL.title" = "Show Brush Names";
----
-> "nL7-2p-lAL.title" = "ブラシの名称を表示";
 117c117
-< "rBF-Fx-fJ3.title" = "Rename Brush…";
----
-> "rBF-Fx-fJ3.title" = "ブラシ名を変更…";
 120c120
-< "rD9-jN-h72.title" = "Export Brushes…";
----
-> "rD9-jN-h72.title" = "ブラシを書き出し…";
 123c123
-< "rjh-yd-yX0.title" = "New Intensity Brush";
----
-> "rjh-yd-yX0.title" = "新規強度ブラシ";
 126c126
-< "xlO-uy-hGK.title" = "Move Brush to Category";
----
-> "xlO-uy-hGK.title" = "ブラシをカテゴリに移動";
 129c129
-< "yI3-f7-efv.title" = "Duplicate Category";
----
-> "yI3-f7-efv.title" = "カテゴリを複製";
+12c12
 132c132
+135c135
+138c138
+141c141
+144c144
+147c147
+150c150
+153c153
+156c156
+159c159
+15c15
+162c162
+165c165
+168c168
+171c171
+174c174
+177c177
+180c180
+183c183
+186c186
+189c189
+18c18
+192c192
+195c195
+198c198
+201c201
+204c204
+21c21
+24c24
+27c27
+30c30
+33c33
+36c36
+39c39
+42c42
+45c45
+48c48
+51c51
+54c54
+57c57
+60c60
+63c63
+66c66
+69c69
+6c6
+72c72
+75c75
+78c78
+81c81
+84c84
+87c87
+90c90
+93c93
+96c96
+99c99
+9c9
+< "0xZ-ca-7WO.title" = "Create New Category…";
+< "29x-ZG-4UJ.title" = "Rename Category…";
+< "2nt-OZ-fCn.title" = "Update Brush";
+< "3RG-1M-fhY.title" = "Main Menu";
+< "683.title" = "User Defined";
+< "684.title" = "Standard";
+< "685.title" = "Categories";
+< "6On-Gn-SLX.title" = "Enable Associated Tools";
+< "6RP-QA-clg.title" = "Sort Categories By";
+< "6wi-GB-u1Y.title" = "Import Brushes…";
+< "757.ibShadowedToolTip" = "Edit Brush";
+< "8Mu-k9-rUv.title" = "Duplicate Brush";
+< "8bf-4x-iCm.title" = "New Image Brush";
+< "9bz-aZ-Pjf.title" = "Main Menu";
+< "AxG-jy-wkM.title" = "New Square Brush";
+< "Bae-g0-LHh.title" = "Name";
+< "Brz-mh-sxe.title" = "New Solid Brush";
+< "Cl5-sM-CHi.title" = "Synced to My Devices";
+< "Dj0-Sz-JUD.title" = "Auto-switch Category";
+< "EBU-au-fwc.title" = "Create New Category…";
+< "EWf-xj-6CY.title" = "Vector Menu";
+< "Ey7-oo-yph.title" = "Uninstall Pack…";
+< "FIq-YV-G5b.title" = "Shared with a Team";
+< "FMS-rv-LVv.title" = "Delete Category…";
+< "H7d-fP-p0M.title" = "Date Added";
+< "IhS-R6-2mq.title" = "Linked on This Device";
+< "KIE-EB-qxu.title" = "Uninstall Pack…";
+< "M7e-jf-GHF.title" = "Reset Brush";
+< "MK8-L1-viL.title" = "Sort Categories By";
+< "MZz-4P-csN.title" = "Delete Brush";
+< "Oip-kq-vEM.title" = "Delete Category…";
+< "PUk-fe-DCG.title" = "Name";
+< "PvU-6M-DGE.title" = "Shared with a Team";
+< "R2M-fY-H2d.title" = "Show Sync Status…";
+< "SOL-jm-1vP.title" = "Rename Category…";
+< "Sqs-98-rwr.title" = "Sort Categories By";
+< "U4G-dG-yIv.title" = "Duplicate Category";
+< "UhM-C6-U4Q.title" = "New Brush From Selection";
+< "Wl7-ZL-aaZ.title" = "Import Brushes…";
+< "YWc-B4-EYC.title" = "Export Brushes…";
+< "YsM-XK-SZd.title" = "Copy Brush to Category";
+< "aFq-Os-DpJ.title" = "Edit Brush…";
+< "btJ-u1-AOe.title" = "Download Brush";
+< "dnb-xd-Gpx.title" = "Sync Category";
+< "dpg-pI-boZ.title" = "Move Brush to Category";
+< "eKB-X7-SAz.title" = "New Textured Image Brush";
+< "eb4-ho-iE7.title" = "New Round Brush";
+< "egt-yc-37w.title" = "Link Category";
+< "fM3-sT-mB1.title" = "Show as List";
+< "gLd-p3-n9l.title" = "Brush Item Context Menu";
+< "gZ8-JY-svq.title" = "Sort Categories By";
+< "h4Z-rQ-eMm.title" = "Just This App";
+< "jP8-fo-hO8.title" = "Auto-scroll";
+< "k0x-FY-GSh.title" = "Raster Menu";
+< "kCo-4u-Kb6.title" = "Date Added";
+< "kMR-XM-HAE.title" = "Sync Category";
+< "mQl-Mc-BC1.title" = "Copy Brush to Category";
+< "nL7-2p-lAL.title" = "Show Brush Names";
+< "oFe-XS-Ei1.title" = "Show as List";
+< "phf-Av-nw9.title" = "Cancel Download";
+< "rBF-Fx-fJ3.title" = "Rename Brush…";
+< "rD9-jN-h72.title" = "Export Brushes…";
+< "rjh-yd-yX0.title" = "New Intensity Brush";
+< "xcu-wk-2oD.title" = "Show Sync Status…";
+< "xlO-uy-hGK.title" = "Move Brush to Category";
+< "yI3-f7-efv.title" = "Duplicate Category";
 < "yLi-iL-gyF.title" = "New Textured Intensity Brush";
----
+> "0xZ-ca-7WO.title" = "新規カテゴリを作成…";
+> "29x-ZG-4UJ.title" = "カテゴリ名を変更…";
+> "2nt-OZ-fCn.title" = "ブラシを更新";
+> "3RG-1M-fhY.title" = "メインメニュー";
+> "683.title" = "ユーザー定義";
+> "684.title" = "標準";
+> "685.title" = "カテゴリ";
+> "6On-Gn-SLX.title" = "関連ツールを有効にする";
+> "6RP-QA-clg.title" = "次の項目でカテゴリを並べ替え";
+> "6wi-GB-u1Y.title" = "ブラシをインポート…";
+> "757.ibShadowedToolTip" = "ブラシを編集";
+> "8Mu-k9-rUv.title" = "ブラシを複製";
+> "8bf-4x-iCm.title" = "新規画像ブラシ";
+> "9bz-aZ-Pjf.title" = "メインメニュー";
+> "AxG-jy-wkM.title" = "新規正方形ブラシ";
+> "Bae-g0-LHh.title" = "名前";
+> "Brz-mh-sxe.title" = "新規ソリッドブラシ";
+> "Cl5-sM-CHi.title" = "自分のデバイスに同期済み";
+> "Dj0-Sz-JUD.title" = "自動切り替えカテゴリ";
+> "EBU-au-fwc.title" = "新規カテゴリを作成…";
+> "EWf-xj-6CY.title" = "ベクターメニュー";
+> "Ey7-oo-yph.title" = "パックをアンインストール…";
+> "FIq-YV-G5b.title" = "チームと共有済み";
+> "FMS-rv-LVv.title" = "カテゴリを削除…";
+> "H7d-fP-p0M.title" = "追加日";
+> "IhS-R6-2mq.title" = "このデバイスでリンク済み";
+> "KIE-EB-qxu.title" = "パックをアンインストール…";
+> "M7e-jf-GHF.title" = "ブラシをリセット";
+> "MK8-L1-viL.title" = "次の項目でカテゴリを並べ替え";
+> "MZz-4P-csN.title" = "ブラシを削除";
+> "Oip-kq-vEM.title" = "カテゴリを削除…";
+> "PUk-fe-DCG.title" = "名前";
+> "PvU-6M-DGE.title" = "チームと共有済み";
+> "R2M-fY-H2d.title" = "同期ステータスを表示…";
+> "SOL-jm-1vP.title" = "カテゴリ名を変更…";
+> "Sqs-98-rwr.title" = "次の項目でカテゴリを並べ替え";
+> "U4G-dG-yIv.title" = "カテゴリを複製";
+> "UhM-C6-U4Q.title" = "選択範囲からの新しいブラシ";
+> "Wl7-ZL-aaZ.title" = "ブラシをインポート…";
+> "YWc-B4-EYC.title" = "ブラシを書き出し…";
+> "YsM-XK-SZd.title" = "ブラシをカテゴリにコピー";
+> "aFq-Os-DpJ.title" = "ブラシを編集…";
+> "btJ-u1-AOe.title" = "ブラシをダウンロード";
+> "dnb-xd-Gpx.title" = "カテゴリを同期";
+> "dpg-pI-boZ.title" = "ブラシをカテゴリに移動";
+> "eKB-X7-SAz.title" = "新規テクスチャ画像ブラシ";
+> "eb4-ho-iE7.title" = "新規ラウンドブラシ";
+> "egt-yc-37w.title" = "カテゴリをリンク";
+> "fM3-sT-mB1.title" = "リストとして表示";
+> "gLd-p3-n9l.title" = "ブラシ項目コンテキストメニュー";
+> "gZ8-JY-svq.title" = "次の項目でカテゴリを並べ替え";
+> "h4Z-rQ-eMm.title" = "このアプリのみ";
+> "jP8-fo-hO8.title" = "自動スクロール";
+> "k0x-FY-GSh.title" = "ラスターメニュー";
+> "kCo-4u-Kb6.title" = "追加日";
+> "kMR-XM-HAE.title" = "カテゴリを同期";
+> "mQl-Mc-BC1.title" = "ブラシをカテゴリにコピー";
+> "nL7-2p-lAL.title" = "ブラシの名称を表示";
+> "oFe-XS-Ei1.title" = "リストとして表示";
+> "phf-Av-nw9.title" = "ダウンロードをキャンセル";
+> "rBF-Fx-fJ3.title" = "ブラシ名を変更…";
+> "rD9-jN-h72.title" = "ブラシを書き出し…";
+> "rjh-yd-yX0.title" = "新規強度ブラシ";
+> "xcu-wk-2oD.title" = "同期ステータスを表示…";
+> "xlO-uy-hGK.title" = "ブラシをカテゴリに移動";
+> "yI3-f7-efv.title" = "カテゴリを複製";
 > "yLi-iL-gyF.title" = "新規テクスチャ強度ブラシ";
