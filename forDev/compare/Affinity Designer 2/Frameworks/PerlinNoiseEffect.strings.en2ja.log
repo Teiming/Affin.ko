@@ -1,40 +1,40 @@
-3c3
-< "1.title" = "Perlin Noise";
 ---
-> "1.title" = "パーリンノイズ";
-6c6
-< "12.title" = "Octaves";
 ---
-> "12.title" = "オクターブ";
-9c9
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "88.title" = "Zoom";
----
-> "88.title" = "ズーム";
 15c15
-< "410.title" = "Persistence";
----
-> "410.title" = "持続性";
 21c21
-< "436.title" = "Blend Mode";
----
-> "436.title" = "描画モード";
 24c24
-< "454.title" = "Cancel";
----
-> "454.title" = "キャンセル";
 27c27
-< "0RD-ZT-Es8.ibShadowedToolTip" = "Mirror view";
----
-> "0RD-ZT-Es8.ibShadowedToolTip" = "ミラー表示";
 30c30
-< "21N-zr-oTi.ibShadowedToolTip" = "Split view";
----
-> "21N-zr-oTi.ibShadowedToolTip" = "分割表示";
 33c33
+3c3
+6c6
+9c9
+< "0RD-ZT-Es8.ibShadowedToolTip" = "Mirror view";
+< "1.title" = "Perlin Noise";
+< "12.title" = "Octaves";
+< "21N-zr-oTi.ibShadowedToolTip" = "Split view";
+< "26.title" = "Apply";
+< "410.title" = "Persistence";
+< "436.title" = "Blend Mode";
+< "454.title" = "Cancel";
+< "88.title" = "Zoom";
 < "YvA-NQ-Dq1.ibShadowedToolTip" = "No split view";
----
+> "0RD-ZT-Es8.ibShadowedToolTip" = "ミラー表示";
+> "1.title" = "パーリンノイズ";
+> "12.title" = "オクターブ";
+> "21N-zr-oTi.ibShadowedToolTip" = "分割表示";
+> "26.title" = "適用";
+> "410.title" = "持続性";
+> "436.title" = "描画モード";
+> "454.title" = "キャンセル";
+> "88.title" = "ズーム";
 > "YvA-NQ-Dq1.ibShadowedToolTip" = "分割表示なし";

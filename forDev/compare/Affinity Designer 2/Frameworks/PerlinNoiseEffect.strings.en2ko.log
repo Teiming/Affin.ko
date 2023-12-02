@@ -1,42 +1,42 @@
-8,9c8,9
-< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-< "26.title" = "Apply";
 ---
-> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> "26.title" = "적용";
+---
+---
+---
+---
+---
+---
 11,12c11,12
-< /* Class = "NSTextFieldCell"; title = "Zoom"; ObjectID = "88"; */
-< "88.title" = "Zoom";
----
-> /* Class = "NSTextFieldCell"; title = "맞추기"; ObjectID = "88"; */
-> "88.title" = "맞추기";
 20,21c20,21
-< /* Class = "NSTextFieldCell"; title = "Blend Mode"; ObjectID = "436"; */
-< "436.title" = "Blend Mode";
----
-> /* Class = "NSTextFieldCell"; title = "혼합 모드"; ObjectID = "436"; */
-> "436.title" = "혼합 모드";
 23,24c23,24
-< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "454"; */
-< "454.title" = "Cancel";
----
-> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "454"; */
-> "454.title" = "취소";
 26,27c26,27
-< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "0RD-ZT-Es8"; */
-< "0RD-ZT-Es8.ibShadowedToolTip" = "Mirror view";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "0RD-ZT-Es8"; */
-> "0RD-ZT-Es8.ibShadowedToolTip" = "거울 뷰 모드";
 29,30c29,30
-< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "21N-zr-oTi"; */
-< "21N-zr-oTi.ibShadowedToolTip" = "Split view";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "21N-zr-oTi"; */
-> "21N-zr-oTi.ibShadowedToolTip" = "분할 뷰 모드";
 32,33c32,33
-< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "YvA-NQ-Dq1"; */
+8,9c8,9
+< "0RD-ZT-Es8.ibShadowedToolTip" = "Mirror view";
+< "21N-zr-oTi.ibShadowedToolTip" = "Split view";
+< "26.title" = "Apply";
+< "436.title" = "Blend Mode";
+< "454.title" = "Cancel";
+< "88.title" = "Zoom";
 < "YvA-NQ-Dq1.ibShadowedToolTip" = "No split view";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "YvA-NQ-Dq1"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "0RD-ZT-Es8"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "YvA-NQ-Dq1"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "21N-zr-oTi"; */
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "454"; */
+< /* Class = "NSTextFieldCell"; title = "Blend Mode"; ObjectID = "436"; */
+< /* Class = "NSTextFieldCell"; title = "Zoom"; ObjectID = "88"; */
+> "0RD-ZT-Es8.ibShadowedToolTip" = "거울 뷰 모드";
+> "21N-zr-oTi.ibShadowedToolTip" = "분할 뷰 모드";
+> "26.title" = "적용";
+> "436.title" = "혼합 모드";
+> "454.title" = "취소";
+> "88.title" = "맞추기";
 > "YvA-NQ-Dq1.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "YvA-NQ-Dq1"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "0RD-ZT-Es8"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "21N-zr-oTi"; */
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "454"; */
+> /* Class = "NSTextFieldCell"; title = "혼합 모드"; ObjectID = "436"; */
+> /* Class = "NSTextFieldCell"; title = "맞추기"; ObjectID = "88"; */
