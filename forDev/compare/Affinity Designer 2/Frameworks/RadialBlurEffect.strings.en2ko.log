@@ -25,12 +25,12 @@
 > "12.title" = "각도";
 > "213.title" = "취소";
 > "26.title" = "적용";
-> "Iy4-Tx-Ord.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> "MpY-5L-fPk.ibShadowedToolTip" = "거울 뷰 모드";
-> "XOg-Nz-XP1.ibShadowedToolTip" = "분할 뷰 모드";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "Iy4-Tx-Ord"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "MpY-5L-fPk"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "XOg-Nz-XP1"; */
+> "Iy4-Tx-Ord.ibShadowedToolTip" = "분할 보기 해제";
+> "MpY-5L-fPk.ibShadowedToolTip" = "거울 보기";
+> "XOg-Nz-XP1.ibShadowedToolTip" = "분할 보기";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "Iy4-Tx-Ord"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "MpY-5L-fPk"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "XOg-Nz-XP1"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "213"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > /* Class = "NSTextFieldCell"; title = "각도"; ObjectID = "12"; */
