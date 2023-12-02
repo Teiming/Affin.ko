@@ -18,9 +18,5 @@
 < > "1024.title" = "方式:";
 < > "235.title" = "サイズ:";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
 > > "1004.title" = "취소";
 > > "235.title" = "크기:";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
