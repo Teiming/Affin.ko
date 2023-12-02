@@ -172,21 +172,9 @@
 < > "wWa-BZ-hme.title" = "名前を付けて書籍を保存...";
 < > "xqA-ks-zJ8.title" = "章を置換…";
 ---
-> < /* Class = "NSMenuItem"; title = "Export…"; ObjectID = "m47-XC-eqb"; */
-> < /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "NhY-ly-IgX"; */
-> < /* Class = "NSMenuItem"; title = "Remove"; ObjectID = "for-aG-sBr"; */
-> < /* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "rNw-XT-jPj"; */
-> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "IKn-KI-5lS"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DgW-h3-iGO"; */
 > > "DgW-h3-iGO.title" = "텍스트 셀";
 > > "IKn-KI-5lS.headerCell.title" = "이름";
 > > "NhY-ly-IgX.title" = "인쇄…";
 > > "for-aG-sBr.title" = "지우기";
 > > "m47-XC-eqb.title" = "내보내기…";
 > > "rNw-XT-jPj.title" = "Finder에서 찾기";
-> > /* Class = "NSMenuItem"; title = "Finder에서 찾기"; ObjectID = "rNw-XT-jPj"; */
-> > /* Class = "NSMenuItem"; title = "인쇄…"; ObjectID = "NhY-ly-IgX"; */
-> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "for-aG-sBr"; */
-> > /* Class = "NSMenuItem"; title = "내보내기…"; ObjectID = "m47-XC-eqb"; */
-> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "IKn-KI-5lS"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "DgW-h3-iGO"; */
