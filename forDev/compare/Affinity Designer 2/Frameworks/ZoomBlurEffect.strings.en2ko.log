@@ -25,12 +25,12 @@
 > "12.title" = "반지름";
 > "210.title" = "취소";
 > "26.title" = "적용";
-> "c3I-pS-pof.ibShadowedToolTip" = "분할 뷰 모드";
-> "hcl-4m-n8h.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> "tTW-EE-chI.ibShadowedToolTip" = "거울 뷰 모드";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "hcl-4m-n8h"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "c3I-pS-pof"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "tTW-EE-chI"; */
+> "c3I-pS-pof.ibShadowedToolTip" = "분할 보기";
+> "hcl-4m-n8h.ibShadowedToolTip" = "분할 보기 해제";
+> "tTW-EE-chI.ibShadowedToolTip" = "거울 보기";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "hcl-4m-n8h"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "c3I-pS-pof"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "tTW-EE-chI"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "210"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "12"; */
