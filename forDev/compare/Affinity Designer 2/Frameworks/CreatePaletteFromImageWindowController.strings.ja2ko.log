@@ -1,0 +1,40 @@
+2,12c2,3
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 3c3
+< 6c6
+< 9c9
+---
+> 17,18c17,18
+> 2,3c2,3
+14,17d4
+< < "9mK-oW-BDT.title" = "Select Image…";
+< < "F0z-JX-Cv5.title" = "Create Palette From Image";
+< < "HeD-D7-hOM.title" = "Box";
+< < "OJr-1l-2n5.title" = "Item 1";
+19,34c6,11
+< < "WPo-5I-sxM.title" = "Number of Colors:";
+< < "YHg-vA-z9f.title" = "Item 2";
+< < "fBe-oG-d0F.title" = "Location:";
+< < "kVC-81-Dof.title" = "Preview";
+< < "wgC-fa-5fz.title" = "Item 3";
+< > "8x1-Vm-8YL.title" = "作成";
+< > "9mK-oW-BDT.title" = "画像を選択…";
+< > "F0z-JX-Cv5.title" = "画像からパレットを作成";
+< > "HeD-D7-hOM.title" = "ボックス";
+< > "OJr-1l-2n5.title" = "アイテム1";
+< > "OwC-8G-793.title" = "キャンセル";
+< > "WPo-5I-sxM.title" = "色数:";
+< > "YHg-vA-z9f.title" = "アイテム2";
+< > "fBe-oG-d0F.title" = "場所:";
+< > "kVC-81-Dof.title" = "プレビュー";
+< > "wgC-fa-5fz.title" = "アイテム3";
+---
+> > "8x1-Vm-8YL.title" = "생성";
+> > "OwC-8G-793.title" = "취소";
