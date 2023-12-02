@@ -1,20 +1,20 @@
-3c3
-< "3F1-ta-oAq.title" = "Box";
 ---
-> "3F1-ta-oAq.title" = "ボックス";
-6c6
-< "7D0-58-l1D.title" = "Mode:";
 ---
-> "7D0-58-l1D.title" = "モード:";
-9c9
-< "8LF-dh-Fag.title" = "Rename Preset...";
 ---
-> "8LF-dh-Fag.title" = "プリセット名の変更...";
+---
+---
 12c12
-< "QS5-Bs-bdP.title" = "Delete Preset";
----
-> "QS5-Bs-bdP.title" = "プリセットを削除";
 15c15
+3c3
+6c6
+9c9
+< "3F1-ta-oAq.title" = "Box";
+< "7D0-58-l1D.title" = "Mode:";
+< "8LF-dh-Fag.title" = "Rename Preset...";
+< "QS5-Bs-bdP.title" = "Delete Preset";
 < "YJa-aH-j3o.title" = "Create Preset...";
----
+> "3F1-ta-oAq.title" = "ボックス";
+> "7D0-58-l1D.title" = "モード:";
+> "8LF-dh-Fag.title" = "プリセット名の変更...";
+> "QS5-Bs-bdP.title" = "プリセットを削除";
 > "YJa-aH-j3o.title" = "プリセットを作成...";
