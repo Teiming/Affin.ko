@@ -1,0 +1,335 @@
+---
+101c101
+104c104
+107c107
+110c110
+113c113
+116c116
+119c119
+11c11
+122c122
+125c125
+128c128
+131c131
+134c134
+137c137
+140c140
+143c143
+146c146
+149c149
+14c14
+152c152
+155c155
+158c158
+161c161
+164c164
+167c167
+170c170
+173c173
+176c176
+179c179
+17c17
+182c182
+185c185
+188c188
+191c191
+194c194
+197c197
+200c200
+203c203
+206c206
+209c209
+20c20
+212c212
+215c215
+218c218
+221c221
+224c224
+227c227
+230c230
+233c233
+236c236
+239c239
+23c23
+242c242
+245c245
+248c248
+251c251
+254c254
+257c257
+260c260
+263c263
+266c266
+269c269
+26c26
+272c272
+275c275
+278c278
+281c281
+284c284
+287c287
+290c290
+293c293
+296c296
+299c299
+29c29
+2c2
+302c302
+305c305
+308c308
+311c311
+314c314
+326c326
+329c329
+32c32
+332c332
+335c335
+341c341
+344c344
+347c347
+350c350
+353c353
+356c356
+359c359
+35c35
+362c362
+365c365
+368c368
+371c371
+374c374
+377c377
+380c380
+383c383
+386c386
+389c389
+38c38
+392c392
+395c395
+398c398
+401c401
+404c404
+407c407
+410c410
+413c413
+416c416
+419c419
+41c41
+422c422
+425c425
+44c44
+47c47
+50c50
+53c53
+56c56
+59c59
+5c5
+62c62
+65c65
+68c68
+71c71
+74c74
+77c77
+80c80
+83c83
+86c86
+89c89
+8c8
+92c92
+95c95
+98c98
+< "1.618 : 1  (Golden ratio)" = "1.618 : 1  (Golden ratio)";
+< "1.85 : 1  (Widescreen theatrical)" = "1.85 : 1  (Widescreen theatrical)";
+< "1024 x 768  [XGA]" = "1024 x 768  [XGA]";
+< "105mm x 148mm  [A6]" = "105mm x 148mm  [A6]";
+< "10\" x 8\"  [8R]" = "10\" x 8\"  [8R]";
+< "11\" x 17\"  [Tabloid, ANSI B]" = "11\" x 17\"  [Tabloid, ANSI B]";
+< "1280 x 1024  [SXGA]" = "1280 x 1024  [SXGA]";
+< "1280 x 720  [HD 720]" = "1280 x 720  [HD 720]";
+< "1280 x 768  [WXGA]" = "1280 x 768  [WXGA]";
+< "148mm x 210mm  [A5]" = "148mm x 210mm  [A5]";
+< "16 : 9  (1.77 : 1)" = "16 : 9  (1.77 : 1)";
+< "1920 x 1080  [HD 1080]" = "1920 x 1080  [HD 1080]";
+< "2.35 : 1  (Anamorphic, pre 1970)" = "2.35 : 1  (Anamorphic, pre 1970)";
+< "2.39 : 1  (Anamorphic, post 1970)" = "2.39 : 1  (Anamorphic, post 1970)";
+< "2048 x 1080  [2K]" = "2048 x 1080  [2K]";
+< "210mm x 297mm  [A4]" = "210mm x 297mm  [A4]";
+< "297mm x 420mm  [A3]" = "297mm x 420mm  [A3]";
+< "3 : 2  (6 : 4)" = "3 : 2  (6 : 4)";
+< "4 : 3  (1.33 : 1)" = "4 : 3  (1.33 : 1)";
+< "4096 x 2160  [4K]" = "4096 x 2160  [4K]";
+< "5 : 4  (10 : 8)" = "5 : 4  (10 : 8)";
+< "640 x 480  [VGA]" = "640 x 480  [VGA]";
+< "6\" x 4\"  [4R]" = "6\" x 4\"  [4R]";
+< "7\" x 5\"  [5R]" = "7\" x 5\"  [5R]";
+< "8.5\" x 11\"  [Letter, ANSI A]" = "8.5\" x 11\"  [Letter, ANSI A]";
+< "8.5\" x 14\"  [Legal]" = "8.5\" x 14\"  [Legal]";
+< "800 x 600  [SVGA]" = "800 x 600  [SVGA]";
+< "8\" x 6\"  [6R]" = "8\" x 6\"  [6R]";
+< "Amount" = "Amount";
+< "Bands" = "Bands";
+< "Bar count" = "Bar count";
+< "Basic shapes" = "Basic shapes";
+< "Bright" = "Bright";
+< "Brightness" = "Brightness";
+< "Cell count" = "Cell count";
+< "Channel adjustments" = "Channel adjustments";
+< "Chequered" = "Checkered";
+< "Cinematic ratios" = "Cinematic ratios";
+< "Coloured patterns" = "Colored patterns";
+< "Common ratios" = "Common ratios";
+< "Contrast" = "Contrast";
+< "Dark" = "Dark";
+< "Default" = "Default";
+< "Droplets" = "Droplets";
+< "Fur" = "Fur";
+< "Graduated random squares" = "Graduated random squares";
+< "Harsh" = "Harsh";
+< "Height" = "Height";
+< "Heptagon" = "Heptagon";
+< "Hexagon" = "Hexagon";
+< "ISO paper sizes (@300ppi)" = "ISO paper sizes (@300ppi)";
+< "Invert Red" = "Invert Red";
+< "Inverted" = "Inverted";
+< "Lava" = "Lava";
+< "Light direction" = "Light direction";
+< "Lighting" = "Lighting";
+< "Marble" = "Marble";
+< "Metallic" = "Metallic";
+< "Mexico" = "Mexico";
+< "Mono swirls" = "Mono swirls";
+< "Monochrome patterns" = "Monochrome patterns";
+< "Noise" = "Noise";
+< "Number of squares" = "Number of squares";
+< "Number of waves" = "Number of waves";
+< "Octagon" = "Octagon";
+< "Octaves" = "Octaves";
+< "Offset" = "Offset";
+< "Oils" = "Oils";
+< "Overlapped sine waves" = "Overlapped sine waves";
+< "Pentagon" = "Pentagon";
+< "Perlin Noise" = "Perlin Noise";
+< "Persistence" = "Persistence";
+< "Photographic paper (@300ppi)" = "Photographic paper (@300ppi)";
+< "Ripples" = "Ripples";
+< "Rounded" = "Rounded";
+< "Screen sizes" = "Screen sizes";
+< "Separation" = "Separation";
+< "Simple Bump Map Lighting (negated Y)" = "Simple Bump Map Lighting (negated Y)";
+< "Simple Bump Map Lighting" = "Simple Bump Map Lighting";
+< "Simple Perlin Noise" = "Simple Perlin Noise";
+< "Sine wave" = "Sine wave";
+< "Smoke" = "Smoke";
+< "Smoothed bars" = "Smoothed bars";
+< "Smoothed squares" = "Smoothed squares";
+< "Smoothing size" = "Smoothing size";
+< "Smoothing" = "Smoothing";
+< "Square count turbulence" = "Square count turbulence";
+< "Square count" = "Square count";
+< "Square size turbulence" = "Square size turbulence";
+< "Square size" = "Square size";
+< "Swap Red and Green" = "Swap Red and Green";
+< "Thin clouds" = "Thin clouds";
+< "Turbulence" = "Turbulence";
+< "US paper sizes (@300ppi)" = "US paper sizes (@300ppi)";
+< "Urban Camoflage" = "Urban Camouflage";
+< "Wave" = "Wave";
+< "Waves" = "Waves";
+< "Width" = "Width";
+> "1.618 : 1  (Golden ratio)" = "1.618 : 1 (黄金比)";
+> "1.85 : 1  (Widescreen theatrical)" = "1.85 : 1 (ワイド画面劇場)";
+> "1024 x 768  [XGA]" = "1024 x 768 [XGA]";
+> "105mm x 148mm  [A6]" = "105mm x 148mm [A6]";
+> "10\" x 8\"  [8R]" = "10\" x 8\" [8R]";
+> "11\" x 17\"  [Tabloid, ANSI B]" = "11\" x 17\" [タブロイド、ANSI B]";
+> "1280 x 1024  [SXGA]" = "1280 x 1024 [SXGA]";
+> "1280 x 720  [HD 720]" = "1280 x 720 [HD720]";
+> "1280 x 768  [WXGA]" = "1280 x 768 [WXGA]";
+> "148mm x 210mm  [A5]" = "148mm x 210mm [A5]";
+> "16 : 9  (1.77 : 1)" = "16 : 9 (1.77 : 1)";
+> "1920 x 1080  [HD 1080]" = "1920 x 1080 [HD1080]";
+> "2.35 : 1  (Anamorphic, pre 1970)" = "2.35 : 1 (アナモルフィック、1970年以前)";
+> "2.39 : 1  (Anamorphic, post 1970)" = "2.39 : 1 (アナモルフィック、1970年以降)";
+> "2048 x 1080  [2K]" = "2048 x 1080 [2K]";
+> "210mm x 297mm  [A4]" = "210mm x 297mm [A4]";
+> "297mm x 420mm  [A3]" = "297mm x 420mm [A3]";
+> "3 : 2  (6 : 4)" = "3 : 2 (6 : 4)";
+> "4 : 3  (1.33 : 1)" = "4 : 3 (1.33 : 1)";
+> "4096 x 2160  [4K]" = "4096 x 2160 [4K]";
+> "5 : 4  (10 : 8)" = "5 : 4 (10 : 8)";
+> "640 x 480  [VGA]" = "640 x 480 [VGA]";
+> "6\" x 4\"  [4R]" = "6\" x 4\" [4R]";
+> "7\" x 5\"  [5R]" = "7\" x 5\" [5R]";
+> "8.5\" x 11\"  [Letter, ANSI A]" = "8.5\" x 11\" [レター、ANSI A]";
+> "8.5\" x 14\"  [Legal]" = "8.5\" x 14\" [リーガル]";
+> "800 x 600  [SVGA]" = "800 x 600 [SVGA]";
+> "8\" x 6\"  [6R]" = "8\" x 6\" [6R]";
+> "Amount" = "量";
+> "Bands" = "バンド";
+> "Bar count" = "バー数";
+> "Basic shapes" = "基本シェイプ";
+> "Bright" = "明るい";
+> "Brightness" = "明るさ";
+> "Cell count" = "セル数";
+> "Channel adjustments" = "チャンネル調整";
+> "Chequered" = "チェック";
+> "Cinematic ratios" = "映画用の比率";
+> "Coloured patterns" = "色付きパターン";
+> "Common ratios" = "一般的な比率";
+> "Contrast" = "コントラスト";
+> "Dark" = "暗い";
+> "Default" = "デフォルト";
+> "Droplets" = "水滴";
+> "Fur" = "ファー";
+> "Graduated random squares" = "ランダムなマス(グラデーションあり)";
+> "Harsh" = "鋭く";
+> "Height" = "高さ";
+> "Heptagon" = "七角形";
+> "Hexagon" = "六角形";
+> "ISO paper sizes (@300ppi)" = "ISO用紙サイズ(@300ppi)";
+> "Invert Red" = "赤を反転";
+> "Inverted" = "反転済み";
+> "Lava" = "溶岩";
+> "Light direction" = "照明の向き";
+> "Lighting" = "照明";
+> "Marble" = "マーブル";
+> "Metallic" = "メタリック";
+> "Mexico" = "メキシコ";
+> "Mono swirls" = "単色の渦巻き";
+> "Monochrome patterns" = "モノクロパターン";
+> "Noise" = "ノイズ";
+> "Number of squares" = "マスの数";
+> "Number of waves" = "波の数";
+> "Octagon" = "八角形";
+> "Octaves" = "オクターブ";
+> "Offset" = "オフセット";
+> "Oils" = "油彩";
+> "Overlapped sine waves" = "オーバーラップ正弦波";
+> "Pentagon" = "五角形";
+> "Perlin Noise" = "パーリンノイズ";
+> "Persistence" = "持続性";
+> "Photographic paper (@300ppi)" = "印画紙(@300ppi)";
+> "Ripples" = "波紋";
+> "Rounded" = "丸み付け";
+> "Screen sizes" = "画面サイズ";
+> "Separation" = "分離";
+> "Simple Bump Map Lighting (negated Y)" = "シンプルバンプマップ照明(Y軸負方向)";
+> "Simple Bump Map Lighting" = "シンプルバンプマップ照明";
+> "Simple Perlin Noise" = "シンプルパーリンノイズ";
+> "Sine wave" = "正弦波";
+> "Smoke" = "スモーク";
+> "Smoothed bars" = "滑らかなバー";
+> "Smoothed squares" = "滑らかなマス";
+> "Smoothing size" = "平滑化サイズ";
+> "Smoothing" = "平滑化";
+> "Square count turbulence" = "マス数(乱流)";
+> "Square count" = "マス数";
+> "Square size turbulence" = "マスのサイズ(乱流)";
+> "Square size" = "正方形サイズ";
+> "Swap Red and Green" = "赤と緑を入れ換え";
+> "Thin clouds" = "細い雲形";
+> "Turbulence" = "乱流";
+> "US paper sizes (@300ppi)" = "米国用紙サイズ(@300ppi)";
+> "Urban Camoflage" = "白黒迷彩";
+> "Wave" = "波";
+> "Waves" = "波";
+> "Width" = "幅";
