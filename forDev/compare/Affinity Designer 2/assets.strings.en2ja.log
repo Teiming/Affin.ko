@@ -1,0 +1,579 @@
+---
+101c101
+107c107
+110c110
+113c113
+116c116
+119c119
+11c11
+122c122
+125c125
+128c128
+131c131
+134c134
+137c137
+140c140
+143c143
+146c146
+149c149
+14c14
+152c152
+155c155
+158c158
+161c161
+164c164
+167c167
+170c170
+173c173
+176c176
+179c179
+17c17
+182c182
+185c185
+188c188
+191c191
+194c194
+197c197
+200c200
+203c203
+206c206
+209c209
+20c20
+212c212
+215c215
+218c218
+221c221
+224c224
+227c227
+230c230
+233c233
+236c236
+239c239
+23c23
+242c242
+245c245
+248c248
+251c251
+254c254
+257c257
+260c260
+263c263
+266c266
+269c269
+26c26
+272c272
+275c275
+278c278
+281c281
+284c284
+287c287
+290c290
+293c293
+296c296
+299c299
+29c29
+2c2
+302c302
+305c305
+308c308
+311c311
+314c314
+317c317
+320c320
+323c323
+326c326
+329c329
+32c32
+332c332
+335c335
+338c338
+341c341
+344c344
+347c347
+350c350
+353c353
+356c356
+359c359
+35c35
+362c362
+365c365
+368c368
+371c371
+374c374
+377c377
+380c380
+383c383
+386c386
+389c389
+38c38
+392c392
+398c398
+401c401
+404c404
+407c407
+410c410
+413c413
+416c416
+419c419
+41c41
+422c422
+428c428
+431c431
+434c434
+437c437
+440c440
+443c443
+446c446
+449c449
+44c44
+452c452
+455c455
+458c458
+461c461
+464c464
+467c467
+470c470
+473c473
+476c476
+479c479
+47c47
+482c482
+485c485
+488c488
+491c491
+494c494
+497c497
+500c500
+503c503
+506c506
+509c509
+50c50
+512c512
+515c515
+518c518
+521c521
+524c524
+527c527
+530c530
+533c533
+536c536
+539c539
+53c53
+542c542
+545c545
+548c548
+551c551
+554c554
+557c557
+560c560
+563c563
+566c566
+569c569
+56c56
+572c572
+575c575
+578c578
+581c581
+584c584
+587c587
+590c590
+593c593
+596c596
+599c599
+59c59
+5c5
+602c602
+605c605
+608c608
+611c611
+614c614
+617c617
+620c620
+623c623
+626c626
+62c62
+65c65
+68c68
+71c71
+74c74
+77c77
+80c80
+83c83
+86c86
+89c89
+8c8
+92c92
+95c95
+98c98
+< "Assets" = "Assets";
+< "Creativity" = "Creativity";
+< "Default" = "Default";
+< "E-commerce" = "E-commerce";
+< "Education" = "Education";
+< "Electronics" = "Electronics";
+< "Finance" = "Finance";
+< "Marketing" = "Marketing";
+< "Office" = "Office";
+< "Security" = "Security";
+< "Shopping" = "Shopping";
+< "Simply Flat icons, by Anatolli Babii" = "Simply Flat icons, by Anatolli Babii";
+< "Sound" = "Sound";
+< "Web development" = "Web development";
+< "alarm" = "alarm";
+< "analytics" = "analytics";
+< "announcement" = "announcement";
+< "apple" = "apple";
+< "backpack" = "backpack";
+< "bag" = "bag";
+< "balance" = "balance";
+< "bank" = "bank";
+< "barcode" = "barcode";
+< "basket" = "basket";
+< "basket-add" = "basket-add";
+< "basket-remove" = "basket-remove";
+< "bell" = "bell";
+< "bin" = "bin";
+< "bird" = "bird";
+< "board" = "board";
+< "book" = "book";
+< "bookmark" = "bookmark";
+< "brain" = "brain";
+< "briefcase" = "briefcase";
+< "cable" = "cable";
+< "cactus" = "cactus";
+< "calculator" = "calculator";
+< "calendar" = "calendar";
+< "camera" = "camera";
+< "cash" = "cash";
+< "cash-machine" = "cash-machine";
+< "cassette" = "cassette";
+< "castle" = "castle";
+< "cd" = "cd";
+< "certificate" = "certificate";
+< "chart" = "chart";
+< "clock" = "clock";
+< "cloud" = "cloud";
+< "coding" = "coding";
+< "coffee" = "coffee";
+< "cog" = "cog";
+< "coin" = "coin";
+< "colour" = "color";
+< "computer" = "computer";
+< "credit-card" = "credit-card";
+< "credit-cards" = "credit-cards";
+< "delivery" = "delivery";
+< "design_tools" = "design_tools";
+< "desktop_website" = "desktop_website";
+< "detective" = "detective";
+< "device" = "device";
+< "diamond" = "diamond";
+< "digital" = "digital";
+< "discount" = "discount";
+< "drawing-tablet" = "drawing-tablet";
+< "e-banking" = "e-banking";
+< "envelope" = "envelope";
+< "equalizer" = "equalizer";
+< "erase" = "erase";
+< "eye" = "eye";
+< "files" = "files";
+< "filter" = "filter";
+< "fingerprint-id" = "fingerprint-id";
+< "flag" = "flag";
+< "floppy-disk" = "floppy-disk";
+< "folder" = "folder";
+< "geometry" = "geometry";
+< "gift" = "gift";
+< "glasses" = "glasses";
+< "globe" = "globe";
+< "graduate" = "graduate";
+< "graph" = "graph";
+< "headphones" = "headphones";
+< "help" = "help";
+< "id" = "id";
+< "invoice" = "invoice";
+< "ipod" = "ipod";
+< "key" = "key";
+< "keyboard" = "keyboard";
+< "label" = "label";
+< "laptop" = "laptop";
+< "layers" = "layers";
+< "letter" = "letter";
+< "lightbulb" = "lightbulb";
+< "link" = "link";
+< "list" = "list";
+< "location" = "location";
+< "lock" = "lock";
+< "love" = "love";
+< "lyrics" = "lyrics";
+< "magazine" = "magazine";
+< "magnet" = "magnet";
+< "magnify" = "magnify";
+< "map" = "map";
+< "megaphone" = "megaphone";
+< "message" = "message";
+< "microphone" = "microphone";
+< "mixer" = "mixer";
+< "mobile_website" = "mobile_website";
+< "modem" = "modem";
+< "money-clip" = "money-clip";
+< "mouse" = "mouse";
+< "music-folder" = "music-folder";
+< "necklace" = "necklace";
+< "network" = "network";
+< "new" = "new";
+< "newspaper" = "newspaper";
+< "no-entry" = "no-entry";
+< "notebook" = "notebook";
+< "notes" = "notes";
+< "office" = "office";
+< "open" = "open";
+< "package" = "package";
+< "page_optimization" = "page_optimization";
+< "paper-plane" = "paper-plane";
+< "password" = "password";
+< "pay" = "pay";
+< "pay-phone" = "pay-phone";
+< "pen" = "pen";
+< "pencil" = "pencil";
+< "person" = "person";
+< "phone" = "phone";
+< "photo" = "photo";
+< "pie" = "pie";
+< "pin" = "pin";
+< "pin-settings" = "pin-settings";
+< "plane" = "plane";
+< "planning" = "planning";
+< "power" = "power";
+< "presentation" = "presentation";
+< "printer" = "printer";
+< "prototype" = "prototype";
+< "radio" = "radio";
+< "receipt" = "receipt";
+< "report" = "report";
+< "safe" = "safe";
+< "sale" = "sale";
+< "savings" = "savings";
+< "school" = "school";
+< "school-bus" = "school-bus";
+< "science" = "science";
+< "scissors" = "scissors";
+< "search-settings" = "search-settings";
+< "secure" = "secure";
+< "settings" = "settings";
+< "sheriff" = "sheriff";
+< "shield" = "shield";
+< "shirt-tie" = "shirt-tie";
+< "shop" = "shop";
+< "sitemap" = "sitemap";
+< "solution" = "solution";
+< "speaker" = "speaker";
+< "speed" = "speed";
+< "star" = "star";
+< "stereo" = "stereo";
+< "support" = "support";
+< "tablet" = "tablet";
+< "target" = "target";
+< "tea" = "tea";
+< "thumbs-up" = "thumbs-up";
+< "till" = "till";
+< "time" = "time";
+< "top-rated" = "top-rated";
+< "trolley" = "trolley";
+< "troubleshoot" = "troubleshoot";
+< "umbrella" = "umbrella";
+< "video" = "video";
+< "vinyl" = "vinyl";
+< "wallet" = "wallet";
+< "warning" = "warning";
+< "watch" = "watch";
+< "web" = "web";
+< "web_development" = "web_development";
+< "webpage" = "webpage";
+< "website" = "website";
+< "withdraw-deposit" = "withdraw-deposit";
+> "Assets" = "アセット";
+> "Creativity" = "クリエイティビティ";
+> "Default" = "デフォルト";
+> "E-commerce" = "E-コマース";
+> "Education" = "教育";
+> "Electronics" = "電子機器";
+> "Finance" = "ファイナンス";
+> "Marketing" = "マーケティング";
+> "Office" = "オフィス";
+> "Security" = "セキュリティ";
+> "Shopping" = "ショッピング";
+> "Simply Flat icons, by Anatolli Babii" = "Simply Flatアイコン、Anatolli Babii作";
+> "Sound" = "サウンド";
+> "Web development" = "Web開発";
+> "alarm" = "アラーム";
+> "analytics" = "分析";
+> "announcement" = "発表";
+> "apple" = "リンゴ";
+> "backpack" = "バックパック";
+> "bag" = "鞄";
+> "balance" = "バランス";
+> "bank" = "銀行";
+> "barcode" = "バーコード";
+> "basket" = "バスケット";
+> "basket-add" = "バスケット-追加";
+> "basket-remove" = "バスケット-削除";
+> "bell" = "ベル";
+> "bin" = "ビン";
+> "bird" = "鳥";
+> "board" = "ボード";
+> "book" = "書籍";
+> "bookmark" = "ブックマーク";
+> "brain" = "脳";
+> "briefcase" = "ブリーフケース";
+> "cable" = "ケーブル";
+> "cactus" = "サボテン";
+> "calculator" = "電卓";
+> "calendar" = "カレンダー";
+> "camera" = "カメラ";
+> "cash" = "現金";
+> "cash-machine" = "現金自動預払機";
+> "cassette" = "カセット";
+> "castle" = "城";
+> "cd" = "CD";
+> "certificate" = "証明書";
+> "chart" = "図表";
+> "clock" = "時計";
+> "cloud" = "クラウド";
+> "coding" = "コーディング";
+> "coffee" = "コーヒー";
+> "cog" = "歯車";
+> "coin" = "コイン";
+> "colour" = "カラー";
+> "computer" = "コンピュータ";
+> "credit-card" = "クレジットカード";
+> "credit-cards" = "クレジットカード";
+> "delivery" = "配達";
+> "design_tools" = "デザイン_ツール";
+> "desktop_website" = "デスクトップ_Webサイト";
+> "detective" = "探偵";
+> "device" = "デバイス";
+> "diamond" = "ダイアモンド";
+> "digital" = "デジタル";
+> "discount" = "割引";
+> "drawing-tablet" = "描画タブレット";
+> "e-banking" = "電子バンキング";
+> "envelope" = "封筒";
+> "equalizer" = "イコライザー";
+> "erase" = "消去";
+> "eye" = "目";
+> "files" = "ファイル";
+> "filter" = "フィルター";
+> "fingerprint-id" = "指紋ID";
+> "flag" = "旗";
+> "floppy-disk" = "フロッピーディスク";
+> "folder" = "フォルダ";
+> "geometry" = "ジオメトリ";
+> "gift" = "ギフト";
+> "glasses" = "眼鏡";
+> "globe" = "地球";
+> "graduate" = "卒業生";
+> "graph" = "グラフ";
+> "headphones" = "ヘッドフォン";
+> "help" = "ヘルプ";
+> "id" = "ID";
+> "invoice" = "請求書";
+> "ipod" = "iPod";
+> "key" = "キー";
+> "keyboard" = "キーボード";
+> "label" = "ラベル";
+> "laptop" = "ラップトップ";
+> "layers" = "レイヤー";
+> "letter" = "レター";
+> "lightbulb" = "電球";
+> "link" = "リンク";
+> "list" = "リスト";
+> "location" = "場所";
+> "lock" = "ロック";
+> "love" = "愛";
+> "lyrics" = "歌詞";
+> "magazine" = "雑誌";
+> "magnet" = "マグネット";
+> "magnify" = "拡大";
+> "map" = "マップ";
+> "megaphone" = "メガフォン";
+> "message" = "メッセージ";
+> "microphone" = "マイク";
+> "mixer" = "ミキサー";
+> "mobile_website" = "モバイル_Webサイト";
+> "modem" = "モデム";
+> "money-clip" = "マネークリップ";
+> "mouse" = "マウス";
+> "music-folder" = "ミュージックフォルダ";
+> "necklace" = "ネックレス";
+> "network" = "ネットワーク";
+> "new" = "新規";
+> "newspaper" = "新聞";
+> "no-entry" = "立入禁止";
+> "notebook" = "ノートブック";
+> "notes" = "ノート";
+> "office" = "オフィス";
+> "open" = "開く";
+> "package" = "パッケージ";
+> "page_optimization" = "ページ_最適化";
+> "paper-plane" = "紙飛行機";
+> "password" = "パスワード";
+> "pay" = "支払い";
+> "pay-phone" = "公衆電話";
+> "pen" = "ペン";
+> "pencil" = "鉛筆";
+> "person" = "人";
+> "phone" = "電話";
+> "photo" = "写真";
+> "pie" = "扇形";
+> "pin" = "ピン";
+> "pin-settings" = "ピン設定";
+> "plane" = "平面";
+> "planning" = "プランニング";
+> "power" = "パワー";
+> "presentation" = "表記";
+> "printer" = "プリンター";
+> "prototype" = "プロトタイプ";
+> "radio" = "ラジオ";
+> "receipt" = "レシート";
+> "report" = "レポート";
+> "safe" = "セーフ";
+> "sale" = "金庫";
+> "savings" = "貯蓄";
+> "school" = "学校";
+> "school-bus" = "スクールバス";
+> "science" = "科学";
+> "scissors" = "はさみ";
+> "search-settings" = "検索設定";
+> "secure" = "安全";
+> "settings" = "設定";
+> "sheriff" = "保安官";
+> "shield" = "盾";
+> "shirt-tie" = "シャツ・タイ";
+> "shop" = "ショップ";
+> "sitemap" = "サイトマップ";
+> "solution" = "ソリューション";
+> "speaker" = "スピーカー";
+> "speed" = "速度";
+> "star" = "星";
+> "stereo" = "ステレオ";
+> "support" = "サポート";
+> "tablet" = "タブレット";
+> "target" = "ターゲット";
+> "tea" = "お茶";
+> "thumbs-up" = "いいね";
+> "till" = "レジ";
+> "time" = "時間";
+> "top-rated" = "トップレート";
+> "trolley" = "カート";
+> "troubleshoot" = "トラブルシュート";
+> "umbrella" = "傘";
+> "video" = "ビデオ";
+> "vinyl" = "ビニール";
+> "wallet" = "財布";
+> "warning" = "警告";
+> "watch" = "時計";
+> "web" = "Web";
+> "web_development" = "Web_開発";
+> "webpage" = "Webページ";
+> "website" = "Webサイト";
+> "withdraw-deposit" = "預金引き出し";
