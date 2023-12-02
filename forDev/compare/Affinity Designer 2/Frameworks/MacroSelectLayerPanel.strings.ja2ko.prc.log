@@ -30,9 +30,5 @@
 < > "g7g-wa-v0k.title" = "レイヤー1を上から選択";
 < > "xyb-XU-Gvg.title" = "\"\"という名前のレイヤーを選択";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SxL-SC-ll3"; */
-> < /* Class = "NSButtonCell"; title = "Select"; ObjectID = "101"; */
 > > "101.title" = "선택";
 > > "SxL-SC-ll3.title" = "취소";
-> > /* Class = "NSButtonCell"; title = "선택"; ObjectID = "101"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "SxL-SC-ll3"; */
