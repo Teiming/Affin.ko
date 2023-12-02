@@ -1,42 +1,42 @@
+---
+---
+---
+---
+---
+---
+---
 14,15c14,15
-< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "FUU-o5-I23"; */
-< "FUU-o5-I23.label" = "Tab";
----
-> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "FUU-o5-I23"; */
-> "FUU-o5-I23.label" = "탭";
 17,18c17,18
-< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "G2V-OH-1ko"; */
-< "G2V-OH-1ko.label" = "Tab";
----
-> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "G2V-OH-1ko"; */
-> "G2V-OH-1ko.label" = "탭";
 35,36c35,36
-< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "cB7-q9-lYG"; */
-< "cB7-q9-lYG.label" = "Tab";
----
-> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "cB7-q9-lYG"; */
-> "cB7-q9-lYG.label" = "탭";
 47,48c47,48
-< /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "hyp-kx-HSb"; */
-< "hyp-kx-HSb.title" = "Top:";
----
-> /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "hyp-kx-HSb"; */
-> "hyp-kx-HSb.title" = "위쪽:";
 50,51c50,51
-< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "iFc-LM-s2S"; */
-< "iFc-LM-s2S.label" = "Tab";
----
-> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "iFc-LM-s2S"; */
-> "iFc-LM-s2S.label" = "탭";
 62,63c62,63
-< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "rri-6J-KJO"; */
-< "rri-6J-KJO.label" = "Tab";
----
-> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "rri-6J-KJO"; */
-> "rri-6J-KJO.label" = "탭";
 68,69c68,69
-< /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "whU-z6-Zx2"; */
+< "FUU-o5-I23.label" = "Tab";
+< "G2V-OH-1ko.label" = "Tab";
+< "cB7-q9-lYG.label" = "Tab";
+< "hyp-kx-HSb.title" = "Top:";
+< "iFc-LM-s2S.label" = "Tab";
+< "rri-6J-KJO.label" = "Tab";
 < "whU-z6-Zx2.title" = "Left:";
----
-> /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "whU-z6-Zx2"; */
+< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "FUU-o5-I23"; */
+< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "G2V-OH-1ko"; */
+< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "cB7-q9-lYG"; */
+< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "iFc-LM-s2S"; */
+< /* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "rri-6J-KJO"; */
+< /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "whU-z6-Zx2"; */
+< /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "hyp-kx-HSb"; */
+> "FUU-o5-I23.label" = "탭";
+> "G2V-OH-1ko.label" = "탭";
+> "cB7-q9-lYG.label" = "탭";
+> "hyp-kx-HSb.title" = "위쪽:";
+> "iFc-LM-s2S.label" = "탭";
+> "rri-6J-KJO.label" = "탭";
 > "whU-z6-Zx2.title" = "왼쪽:";
+> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "FUU-o5-I23"; */
+> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "G2V-OH-1ko"; */
+> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "cB7-q9-lYG"; */
+> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "iFc-LM-s2S"; */
+> /* Class = "NSTabViewItem"; label = "탭"; ObjectID = "rri-6J-KJO"; */
+> /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "hyp-kx-HSb"; */
+> /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "whU-z6-Zx2"; */
