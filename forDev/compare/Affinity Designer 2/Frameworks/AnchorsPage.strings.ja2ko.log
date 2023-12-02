@@ -1,46 +1,42 @@
-1,5c1,2
-< 3c3
-< < "Lkb-sj-JdS.ibShadowedToolTip" = "Remove Anchor";
+5,15c5,8
 < ---
-< > "Lkb-sj-JdS.ibShadowedToolTip" = "アンカーを削除";
-< 9c9
----
-> 8,9c8,9
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "V8w-Ri-r0g"; */
-8,13c5,8
-< > "V8w-Ri-r0g.title" = "テキストセル";
+< ---
+< ---
 < 12c12
-< < "a14-Nd-nVK.ibShadowedToolTip" = "Go to Anchor";
-< ---
-< > "a14-Nd-nVK.ibShadowedToolTip" = "アンカーに移動";
 < 15c15
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "V8w-Ri-r0g"; */
-> > "V8w-Ri-r0g.title" = "텍스트 셀";
-> 14,15c14,15
-> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "fPP-E1-lnT"; */
-16,21c11,14
-< > "fPP-E1-lnT.title" = "標準";
 < 18c18
-< < "gx6-zC-xfn.ibShadowedToolTip" = "New Anchor";
-< ---
-< > "gx6-zC-xfn.ibShadowedToolTip" = "新しいアンカー";
 < 21c21
----
-> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "fPP-E1-lnT"; */
-> > "fPP-E1-lnT.title" = "표준";
-> 20,21c20,21
-> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "osV-31-IYQ"; */
-24,25c17,20
-< > "osV-31-IYQ.title" = "カテゴリ";
 < 24c24
+< 3c3
+< 9c9
+< < "Lkb-sj-JdS.ibShadowedToolTip" = "Remove Anchor";
 ---
-> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "osV-31-IYQ"; */
-> > "osV-31-IYQ.title" = "범주";
+> 14,15c14,15
+> 20,21c20,21
 > 23,24c23,24
-> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "wkh-KL-tHt"; */
-28c23,24
+> 8,9c8,9
+17d9
+< < "a14-Nd-nVK.ibShadowedToolTip" = "Go to Anchor";
+19d10
+< < "gx6-zC-xfn.ibShadowedToolTip" = "New Anchor";
+22,28c13,24
+< > "Lkb-sj-JdS.ibShadowedToolTip" = "アンカーを削除";
+< > "V8w-Ri-r0g.title" = "テキストセル";
+< > "a14-Nd-nVK.ibShadowedToolTip" = "アンカーに移動";
+< > "fPP-E1-lnT.title" = "標準";
+< > "gx6-zC-xfn.ibShadowedToolTip" = "新しいアンカー";
+< > "osV-31-IYQ.title" = "カテゴリ";
 < > "wkh-KL-tHt.title" = "ユーザー定義";
 ---
-> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "wkh-KL-tHt"; */
+> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "osV-31-IYQ"; */
+> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "fPP-E1-lnT"; */
+> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "wkh-KL-tHt"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "V8w-Ri-r0g"; */
+> > "V8w-Ri-r0g.title" = "텍스트 셀";
+> > "fPP-E1-lnT.title" = "표준";
+> > "osV-31-IYQ.title" = "범주";
 > > "wkh-KL-tHt.title" = "사용자 정의";
+> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "fPP-E1-lnT"; */
+> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "osV-31-IYQ"; */
+> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "wkh-KL-tHt"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "V8w-Ri-r0g"; */

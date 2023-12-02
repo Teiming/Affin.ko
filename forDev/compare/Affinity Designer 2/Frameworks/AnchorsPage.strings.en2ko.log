@@ -1,24 +1,24 @@
-8,9c8,9
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "V8w-Ri-r0g"; */
-< "V8w-Ri-r0g.title" = "Text Cell";
 ---
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "V8w-Ri-r0g"; */
-> "V8w-Ri-r0g.title" = "텍스트 셀";
+---
+---
+---
 14,15c14,15
-< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "fPP-E1-lnT"; */
-< "fPP-E1-lnT.title" = "Standard";
----
-> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "fPP-E1-lnT"; */
-> "fPP-E1-lnT.title" = "표준";
 20,21c20,21
-< /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "osV-31-IYQ"; */
-< "osV-31-IYQ.title" = "Categories";
----
-> /* Class = "NSMenuItem"; title = "범주"; ObjectID = "osV-31-IYQ"; */
-> "osV-31-IYQ.title" = "범주";
 23,24c23,24
-< /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "wkh-KL-tHt"; */
+8,9c8,9
+< "V8w-Ri-r0g.title" = "Text Cell";
+< "fPP-E1-lnT.title" = "Standard";
+< "osV-31-IYQ.title" = "Categories";
 < "wkh-KL-tHt.title" = "User Defined";
----
-> /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "wkh-KL-tHt"; */
+< /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "osV-31-IYQ"; */
+< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "fPP-E1-lnT"; */
+< /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "wkh-KL-tHt"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "V8w-Ri-r0g"; */
+> "V8w-Ri-r0g.title" = "텍스트 셀";
+> "fPP-E1-lnT.title" = "표준";
+> "osV-31-IYQ.title" = "범주";
 > "wkh-KL-tHt.title" = "사용자 정의";
+> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "fPP-E1-lnT"; */
+> /* Class = "NSMenuItem"; title = "범주"; ObjectID = "osV-31-IYQ"; */
+> /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "wkh-KL-tHt"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "V8w-Ri-r0g"; */
