@@ -1,32 +1,32 @@
-3c3
-< "08d-Ns-xUu.title" = "Cancel";
 ---
-> "08d-Ns-xUu.title" = "キャンセル";
-6c6
-< "67K-LN-16B.title" = "Create";
 ---
-> "67K-LN-16B.title" = "作成";
-9c9
-< "CHo-O7-99J.title" = "Create preset";
 ---
-> "CHo-O7-99J.title" = "プリセットを作成";
+---
+---
+---
+---
+---
 12c12
-< "Cq9-yS-SPn.placeholderString" = "Enter a name for the preset";
----
-> "Cq9-yS-SPn.placeholderString" = "プリセットの名前を入力";
 15c15
-< "LmR-rb-hmS.ibShadowedToolTip" = "Select a category into which the preset will be created";
----
-> "LmR-rb-hmS.ibShadowedToolTip" = "プリセットが作成されるカテゴリを選択します";
 18c18
-< "QBX-mm-KJs.title" = "Category:";
----
-> "QBX-mm-KJs.title" = "カテゴリ:";
 24c24
-< "hUj-0e-2hS.title" = "Preset name:";
----
-> "hUj-0e-2hS.title" = "プリセット名:";
 27c27
+3c3
+6c6
+9c9
+< "08d-Ns-xUu.title" = "Cancel";
+< "67K-LN-16B.title" = "Create";
+< "CHo-O7-99J.title" = "Create preset";
+< "Cq9-yS-SPn.placeholderString" = "Enter a name for the preset";
+< "LmR-rb-hmS.ibShadowedToolTip" = "Select a category into which the preset will be created";
+< "QBX-mm-KJs.title" = "Category:";
+< "hUj-0e-2hS.title" = "Preset name:";
 < "oNK-SY-aaK.ibShadowedToolTip" = "Enter a name for the preset";
----
+> "08d-Ns-xUu.title" = "キャンセル";
+> "67K-LN-16B.title" = "作成";
+> "CHo-O7-99J.title" = "プリセットを作成";
+> "Cq9-yS-SPn.placeholderString" = "プリセットの名前を入力";
+> "LmR-rb-hmS.ibShadowedToolTip" = "プリセットが作成されるカテゴリを選択します";
+> "QBX-mm-KJs.title" = "カテゴリ:";
+> "hUj-0e-2hS.title" = "プリセット名:";
 > "oNK-SY-aaK.ibShadowedToolTip" = "プリセットの名前を入力";
