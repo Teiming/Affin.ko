@@ -31,18 +31,8 @@
 < > "jpq-u9-zJu.title" = "削除";
 < > "xm5-5f-Lrj.ibShadowedToolTip" = "削除";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Delete"; ObjectID = "xm5-5f-Lrj"; */
-> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "jpq-u9-zJu"; */
-> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "5lv-Yu-niR"; */
-> < /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "U01-Cj-fqJ"; */
-> < /* Class = "NSTextFieldCell"; title = "Channel"; ObjectID = "6"; */
 > > "5lv-Yu-niR.title" = "복제";
 > > "6.title" = "채널";
 > > "U01-Cj-fqJ.title" = "이름 변경";
 > > "jpq-u9-zJu.title" = "지우기";
 > > "xm5-5f-Lrj.ibShadowedToolTip" = "지우기";
-> > /* Class = "NSButton"; ibShadowedToolTip = "지우기"; ObjectID = "xm5-5f-Lrj"; */
-> > /* Class = "NSMenuItem"; title = "이름 변경"; ObjectID = "U01-Cj-fqJ"; */
-> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "5lv-Yu-niR"; */
-> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "jpq-u9-zJu"; */
-> > /* Class = "NSTextFieldCell"; title = "채널"; ObjectID = "6"; */
