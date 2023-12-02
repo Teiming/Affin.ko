@@ -1,36 +1,36 @@
-3c3
-< "1.title" = "Mirror";
 ---
-> "1.title" = "ミラー";
-6c6
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
-9c9
-< "199.title" = "Cancel";
 ---
-> "199.title" = "キャンセル";
+---
+---
+---
+---
+---
+---
 12c12
-< "3H6-CQ-Qkq.ibShadowedToolTip" = "No split view";
----
-> "3H6-CQ-Qkq.ibShadowedToolTip" = "分割表示なし";
 15c15
-< "9Ei-3U-sz4.ibShadowedToolTip" = "Split view";
----
-> "9Ei-3U-sz4.ibShadowedToolTip" = "分割表示";
 18c18
-< "KQR-3e-ZqL.title" = "Output";
----
-> "KQR-3e-ZqL.title" = "出力";
 21c21
-< "NH6-Zh-Y2X.title" = "Input";
----
-> "NH6-Zh-Y2X.title" = "入力";
 24c24
-< "cdJ-7P-tRI.ibShadowedToolTip" = "Mirror view";
----
-> "cdJ-7P-tRI.ibShadowedToolTip" = "ミラー表示";
 27c27
+3c3
+6c6
+9c9
+< "1.title" = "Mirror";
+< "199.title" = "Cancel";
+< "26.title" = "Apply";
+< "3H6-CQ-Qkq.ibShadowedToolTip" = "No split view";
+< "9Ei-3U-sz4.ibShadowedToolTip" = "Split view";
+< "KQR-3e-ZqL.title" = "Output";
+< "NH6-Zh-Y2X.title" = "Input";
+< "cdJ-7P-tRI.ibShadowedToolTip" = "Mirror view";
 < "s4n-JP-uzW.title" = "Number of mirrors";
----
+> "1.title" = "ミラー";
+> "199.title" = "キャンセル";
+> "26.title" = "適用";
+> "3H6-CQ-Qkq.ibShadowedToolTip" = "分割表示なし";
+> "9Ei-3U-sz4.ibShadowedToolTip" = "分割表示";
+> "KQR-3e-ZqL.title" = "出力";
+> "NH6-Zh-Y2X.title" = "入力";
+> "cdJ-7P-tRI.ibShadowedToolTip" = "ミラー表示";
 > "s4n-JP-uzW.title" = "ミラー数";
