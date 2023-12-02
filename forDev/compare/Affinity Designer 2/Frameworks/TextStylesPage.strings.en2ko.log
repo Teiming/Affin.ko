@@ -1,78 +1,78 @@
-5,6c5,6
-< /* Class = "NSMenuItem"; title = "Sort by Type"; ObjectID = "0TR-SH-lht"; */
-< "0TR-SH-lht.title" = "Sort by Type";
 ---
-> /* Class = "NSMenuItem"; title = "종류에 따라 정렬"; ObjectID = "0TR-SH-lht"; */
-> "0TR-SH-lht.title" = "종류에 따라 정렬";
-8,9c8,9
-< /* Class = "NSMenuItem"; title = "Save Styles as Default"; ObjectID = "3aK-Vh-PRE"; */
-< "3aK-Vh-PRE.title" = "Save Styles as Default";
 ---
-> /* Class = "NSMenuItem"; title = "스타일을 기본값으로 저장"; ObjectID = "3aK-Vh-PRE"; */
-> "3aK-Vh-PRE.title" = "스타일을 기본값으로 저장";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 11,12c11,12
-< /* Class = "NSMenuItem"; title = "Show Hierarchical"; ObjectID = "9Qg-RQ-EpH"; */
-< "9Qg-RQ-EpH.title" = "Show Hierarchical";
----
-> /* Class = "NSMenuItem"; title = "계층 보기"; ObjectID = "9Qg-RQ-EpH"; */
-> "9Qg-RQ-EpH.title" = "계층 보기";
 14,15c14,15
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FTf-5A-akH"; */
-< "FTf-5A-akH.title" = "Text Cell";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "FTf-5A-akH"; */
-> "FTf-5A-akH.title" = "텍스트 셀";
 17,18c17,18
-< /* Class = "NSMenuItem"; title = "Detach and Delete All Styles"; ObjectID = "H3d-ju-Ocu"; */
-< "H3d-ju-Ocu.title" = "Detach and Delete All Styles";
----
-> /* Class = "NSMenuItem"; title = "모든 스타일 벗기고 지우기"; ObjectID = "H3d-ju-Ocu"; */
-> "H3d-ju-Ocu.title" = "모든 스타일 벗기고 지우기";
 20,21c20,21
-< /* Class = "NSMenuItem"; title = "Delete Unused Styles"; ObjectID = "Lgn-B2-vts"; */
-< "Lgn-B2-vts.title" = "Delete Unused Styles";
----
-> /* Class = "NSMenuItem"; title = "미사용된 스타일 지우기"; ObjectID = "Lgn-B2-vts"; */
-> "Lgn-B2-vts.title" = "미사용된 스타일 지우기";
 26,27c26,27
-< /* Class = "NSMenuItem"; title = "Show Samples"; ObjectID = "RcV-Sz-iZo"; */
-< "RcV-Sz-iZo.title" = "Show Samples";
----
-> /* Class = "NSMenuItem"; title = "샘플 보기"; ObjectID = "RcV-Sz-iZo"; */
-> "RcV-Sz-iZo.title" = "샘플 보기";
 29,30c29,30
-< /* Class = "NSButton"; ibShadowedToolTip = "Update Paragraph Style"; ObjectID = "Rh9-Ps-OHa"; */
-< "Rh9-Ps-OHa.ibShadowedToolTip" = "Update Paragraph Style";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "문단 스타일 업데이트"; ObjectID = "Rh9-Ps-OHa"; */
-> "Rh9-Ps-OHa.ibShadowedToolTip" = "문단 스타일 업데이트";
 32,33c32,33
-< /* Class = "NSButton"; ibShadowedToolTip = "Reapply Text Styles"; ObjectID = "Vgf-tk-IjW"; */
-< "Vgf-tk-IjW.ibShadowedToolTip" = "Reapply Text Styles";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "텍스트 스타일 다시 적용"; ObjectID = "Vgf-tk-IjW"; */
-> "Vgf-tk-IjW.ibShadowedToolTip" = "텍스트 스타일 다시 적용";
 41,42c41,42
-< /* Class = "NSButton"; ibShadowedToolTip = "Update Character Style"; ObjectID = "i33-nF-hhe"; */
-< "i33-nF-hhe.ibShadowedToolTip" = "Update Character Style";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "문자 스타일 업데이트"; ObjectID = "i33-nF-hhe"; */
-> "i33-nF-hhe.ibShadowedToolTip" = "문자 스타일 업데이트";
 44,45c44,45
-< /* Class = "NSButton"; ibShadowedToolTip = "Delete Style"; ObjectID = "j2o-A4-Ib4"; */
-< "j2o-A4-Ib4.ibShadowedToolTip" = "Delete Style";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "스타일 지우기"; ObjectID = "j2o-A4-Ib4"; */
-> "j2o-A4-Ib4.ibShadowedToolTip" = "스타일 지우기";
 47,48c47,48
-< /* Class = "NSButton"; ibShadowedToolTip = "Create Paragraph Style"; ObjectID = "vIX-j6-BwL"; */
-< "vIX-j6-BwL.ibShadowedToolTip" = "Create Paragraph Style";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "문단 스타일 생성"; ObjectID = "vIX-j6-BwL"; */
-> "vIX-j6-BwL.ibShadowedToolTip" = "문단 스타일 생성";
+5,6c5,6
 50,51c50,51
-< /* Class = "NSButton"; ibShadowedToolTip = "Create Character Style"; ObjectID = "xmU-OP-5v3"; */
+8,9c8,9
+< "0TR-SH-lht.title" = "Sort by Type";
+< "3aK-Vh-PRE.title" = "Save Styles as Default";
+< "9Qg-RQ-EpH.title" = "Show Hierarchical";
+< "FTf-5A-akH.title" = "Text Cell";
+< "H3d-ju-Ocu.title" = "Detach and Delete All Styles";
+< "Lgn-B2-vts.title" = "Delete Unused Styles";
+< "RcV-Sz-iZo.title" = "Show Samples";
+< "Rh9-Ps-OHa.ibShadowedToolTip" = "Update Paragraph Style";
+< "Vgf-tk-IjW.ibShadowedToolTip" = "Reapply Text Styles";
+< "i33-nF-hhe.ibShadowedToolTip" = "Update Character Style";
+< "j2o-A4-Ib4.ibShadowedToolTip" = "Delete Style";
+< "vIX-j6-BwL.ibShadowedToolTip" = "Create Paragraph Style";
 < "xmU-OP-5v3.ibShadowedToolTip" = "Create Character Style";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "문자 스타일 생성"; ObjectID = "xmU-OP-5v3"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Create Character Style"; ObjectID = "xmU-OP-5v3"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Create Paragraph Style"; ObjectID = "vIX-j6-BwL"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Delete Style"; ObjectID = "j2o-A4-Ib4"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Reapply Text Styles"; ObjectID = "Vgf-tk-IjW"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Update Character Style"; ObjectID = "i33-nF-hhe"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Update Paragraph Style"; ObjectID = "Rh9-Ps-OHa"; */
+< /* Class = "NSMenuItem"; title = "Delete Unused Styles"; ObjectID = "Lgn-B2-vts"; */
+< /* Class = "NSMenuItem"; title = "Detach and Delete All Styles"; ObjectID = "H3d-ju-Ocu"; */
+< /* Class = "NSMenuItem"; title = "Save Styles as Default"; ObjectID = "3aK-Vh-PRE"; */
+< /* Class = "NSMenuItem"; title = "Show Hierarchical"; ObjectID = "9Qg-RQ-EpH"; */
+< /* Class = "NSMenuItem"; title = "Show Samples"; ObjectID = "RcV-Sz-iZo"; */
+< /* Class = "NSMenuItem"; title = "Sort by Type"; ObjectID = "0TR-SH-lht"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FTf-5A-akH"; */
+> "0TR-SH-lht.title" = "종류에 따라 정렬";
+> "3aK-Vh-PRE.title" = "스타일을 기본값으로 저장";
+> "9Qg-RQ-EpH.title" = "계층 보기";
+> "FTf-5A-akH.title" = "텍스트 셀";
+> "H3d-ju-Ocu.title" = "모든 스타일 벗기고 지우기";
+> "Lgn-B2-vts.title" = "미사용된 스타일 지우기";
+> "RcV-Sz-iZo.title" = "샘플 보기";
+> "Rh9-Ps-OHa.ibShadowedToolTip" = "문단 스타일 업데이트";
+> "Vgf-tk-IjW.ibShadowedToolTip" = "텍스트 스타일 다시 적용";
+> "i33-nF-hhe.ibShadowedToolTip" = "문자 스타일 업데이트";
+> "j2o-A4-Ib4.ibShadowedToolTip" = "스타일 지우기";
+> "vIX-j6-BwL.ibShadowedToolTip" = "문단 스타일 생성";
 > "xmU-OP-5v3.ibShadowedToolTip" = "문자 스타일 생성";
+> /* Class = "NSButton"; ibShadowedToolTip = "문단 스타일 생성"; ObjectID = "vIX-j6-BwL"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "문자 스타일 생성"; ObjectID = "xmU-OP-5v3"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "문단 스타일 업데이트"; ObjectID = "Rh9-Ps-OHa"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "문자 스타일 업데이트"; ObjectID = "i33-nF-hhe"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "텍스트 스타일 다시 적용"; ObjectID = "Vgf-tk-IjW"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "스타일 지우기"; ObjectID = "j2o-A4-Ib4"; */
+> /* Class = "NSMenuItem"; title = "계층 보기"; ObjectID = "9Qg-RQ-EpH"; */
+> /* Class = "NSMenuItem"; title = "샘플 보기"; ObjectID = "RcV-Sz-iZo"; */
+> /* Class = "NSMenuItem"; title = "모든 스타일 벗기고 지우기"; ObjectID = "H3d-ju-Ocu"; */
+> /* Class = "NSMenuItem"; title = "종류에 따라 정렬"; ObjectID = "0TR-SH-lht"; */
+> /* Class = "NSMenuItem"; title = "미사용된 스타일 지우기"; ObjectID = "Lgn-B2-vts"; */
+> /* Class = "NSMenuItem"; title = "스타일을 기본값으로 저장"; ObjectID = "3aK-Vh-PRE"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "FTf-5A-akH"; */
