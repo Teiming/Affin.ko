@@ -24,13 +24,13 @@
 < /* Class = "NSTextFieldCell"; title = "Blend Mode"; ObjectID = "sgi-ag-17d"; */
 > "210.title" = "취소";
 > "26.title" = "적용";
-> "9DS-7a-sQc.ibShadowedToolTip" = "분할 뷰 모드";
-> "LPY-aQ-npz.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> "bb4-Xc-bFw.ibShadowedToolTip" = "거울 뷰 모드";
+> "9DS-7a-sQc.ibShadowedToolTip" = "분할 보기";
+> "LPY-aQ-npz.ibShadowedToolTip" = "분할 보기 해제";
+> "bb4-Xc-bFw.ibShadowedToolTip" = "거울 보기";
 > "sgi-ag-17d.title" = "혼합 모드";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "LPY-aQ-npz"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "9DS-7a-sQc"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "bb4-Xc-bFw"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "LPY-aQ-npz"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "9DS-7a-sQc"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "bb4-Xc-bFw"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "210"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > /* Class = "NSTextFieldCell"; title = "혼합 모드"; ObjectID = "sgi-ag-17d"; */
