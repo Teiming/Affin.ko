@@ -1,15 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
 11c11
 14c14
 17c17
@@ -23,26 +12,14 @@
 5c5
 8c8
 < "Black & White" = "Black & White";
-< "Black & White" = "Black & White";
-< "Convert to sRGB" = "Convert to sRGB";
 < "Convert to sRGB" = "Convert to sRGB";
 < "Default" = "Default";
-< "Default" = "Default";
-< "Flip Horizontal" = "Flip Horizontal";
 < "Flip Horizontal" = "Flip Horizontal";
 < "Flip Vertical" = "Flip Vertical";
-< "Flip Vertical" = "Flip Vertical";
-< "Strip metadata" = "Strip metadata";
 < "Strip metadata" = "Strip metadata";
 > "Black & White" = "白黒";
-> "Black & White" = "白黒";
-> "Convert to sRGB" = "sRGBに変換";
 > "Convert to sRGB" = "sRGBに変換";
 > "Default" = "デフォルト";
-> "Default" = "デフォルト";
-> "Flip Horizontal" = "左右反転";
 > "Flip Horizontal" = "左右反転";
 > "Flip Vertical" = "上下反転";
-> "Flip Vertical" = "上下反転";
-> "Strip metadata" = "メタデータを削除";
 > "Strip metadata" = "メタデータを削除";

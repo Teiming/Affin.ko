@@ -1,41 +1,23 @@
-7,13d6
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2d1
 < 11c11
-17,19d9
+6,8d4
 < 23c23
 < 26c26
 < 29c29
-23,28d12
+12,15d7
 < 5c5
 < 8c8
 < < "Black & White" = "Black & White";
-< < "Black & White" = "Black & White";
 < < "Convert to sRGB" = "Convert to sRGB";
-< < "Convert to sRGB" = "Convert to sRGB";
-35,48c19,24
-< < "Strip metadata" = "Strip metadata";
+19,25c11,13
 < < "Strip metadata" = "Strip metadata";
 < > "Black & White" = "白黒";
-< > "Black & White" = "白黒";
-< > "Convert to sRGB" = "sRGBに変換";
 < > "Convert to sRGB" = "sRGBに変換";
 < > "Default" = "デフォルト";
-< > "Default" = "デフォルト";
-< > "Flip Horizontal" = "左右反転";
 < > "Flip Horizontal" = "左右反転";
 < > "Flip Vertical" = "上下反転";
-< > "Flip Vertical" = "上下反転";
-< > "Strip metadata" = "メタデータを削除";
 < > "Strip metadata" = "メタデータを削除";
 ---
 > > "Default" = "기본값";
-> > "Default" = "기본값";
 > > "Flip Horizontal" = "가로 뒤집기";
-> > "Flip Horizontal" = "가로 뒤집기";
-> > "Flip Vertical" = "세로 뒤집기";
 > > "Flip Vertical" = "세로 뒤집기";
