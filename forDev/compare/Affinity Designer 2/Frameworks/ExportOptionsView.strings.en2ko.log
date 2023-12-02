@@ -19,7 +19,7 @@
 455,456c455,456
 647,648c647,648
 680,681c680,681
-740c740
+741c741
 785,786c785,786
 848,849c848,849
 86,87c86,87
@@ -33,6 +33,7 @@
 < "Qqt-U9-Yzj.title" = "Delete preset";
 < "b53-B9-NEf.title" = "Pixel format:";
 < "d1u-NX-8Vq.title" = "Button";
+< "eup-RI-K4d.title" = "Color Space:";
 < "hh6-am-TrE.title" = "Profile:";
 < "lvC-58-b0F.title" = "Everything";
 < "mfe-Nx-PsA.title" = "Button";
@@ -47,7 +48,6 @@
 < /* Class = "NSMenuItem"; title = "Everything"; ObjectID = "lvC-58-b0F"; */
 < /* Class = "NSMenuItem"; title = "None"; ObjectID = "tFN-3b-dej"; */
 < /* Class = "NSMenuItem"; title = "None"; ObjectID = "yoS-VC-Lw5"; */
-< /* Class = "NSTextFieldCell"; title = "Colour Space:"; ObjectID = "eup-RI-K4d"; */
 < /* Class = "NSTextFieldCell"; title = "File format:"; ObjectID = "scW-9j-Mie"; */
 < /* Class = "NSTextFieldCell"; title = "ICC profile:"; ObjectID = "8Ay-x3-q1t"; */
 < /* Class = "NSTextFieldCell"; title = "Pixel format:"; ObjectID = "b53-B9-NEf"; */
@@ -60,6 +60,7 @@
 > "Qqt-U9-Yzj.title" = "미리 설정 지우기";
 > "b53-B9-NEf.title" = "픽셀 포맷:";
 > "d1u-NX-8Vq.title" = "버튼";
+> "eup-RI-K4d.title" = "색공간:";
 > "hh6-am-TrE.title" = "프로파일:";
 > "lvC-58-b0F.title" = "모두";
 > "mfe-Nx-PsA.title" = "버튼";
@@ -78,5 +79,4 @@
 > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "1lb-Wk-1pU"; */
 > /* Class = "NSTextFieldCell"; title = "픽셀 포맷:"; ObjectID = "b53-B9-NEf"; */
 > /* Class = "NSTextFieldCell"; title = "파일 포맷:"; ObjectID = "scW-9j-Mie"; */
-> /* Class = "NSTextFieldCell"; title = "색공간:"; ObjectID = "eup-RI-K4d"; */
 > /* Class = "NSTextFieldCell"; title = "프로파일:"; ObjectID = "hh6-am-TrE"; */

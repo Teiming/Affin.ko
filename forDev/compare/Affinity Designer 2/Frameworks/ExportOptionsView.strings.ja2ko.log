@@ -1,4 +1,4 @@
-15,568c15,28
+15,481c15,21
 < ---
 < ---
 < ---
@@ -466,7 +466,15 @@
 < 729c729
 < 72c72
 < 735c735
-< 741c741
+---
+> 1022,1023c1022,1023
+> 122,123c122,123
+> 131,132c131,132
+> 20,21c20,21
+> 455,456c455,456
+> 647,648c647,648
+> 680,681c680,681
+483,568c23,28
 < 744c744
 < 747c747
 < 750c750
@@ -554,14 +562,6 @@
 < < "1d6-mA-mlV.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "1ey-hs-GXR.ibShadowedToolTip" = "Selection contains multiple advanced blending strategies";
 ---
-> 1022,1023c1022,1023
-> 122,123c122,123
-> 131,132c131,132
-> 20,21c20,21
-> 455,456c455,456
-> 647,648c647,648
-> 680,681c680,681
-> 740c740
 > 785,786c785,786
 > 848,849c848,849
 > 86,87c86,87
@@ -748,7 +748,7 @@
 < < "cW2-Kn-n2P.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "cfv-KF-vrV.title" = "Flatten transforms";
 < < "cfy-Nk-9nm.ibShadowedToolTip" = "Selection contains multiple settings";
-750,773d35
+750,761d35
 < < "d7G-Q2-PrO.ibShadowedToolTip" = "Choose the pixel data type to use for all other pixels (including unknown channels)";
 < < "dCV-fx-mnI.title" = "Embed metadata";
 < < "dCh-iC-buP.ibShadowedToolTip" = "Selection contains multiple settings";
@@ -761,7 +761,7 @@
 < < "eIL-tj-Cqd.ibShadowedToolTip" = "Selection contains multiple convert to paths settings";
 < < "eUn-jW-DSj.ibShadowedToolTip" = "Metadata will be embedded";
 < < "edz-Rv-iHT.ibShadowedToolTip" = "Selection contains multiple resampler types";
-< < "eup-RI-K4d.title" = "Color Space:";
+763,773d36
 < < "exd-qy-a3P.title" = "Include hyperlinks";
 < < "f8W-45-a4W.ibShadowedToolTip" = "Selection contains multiple downsample settings";
 < < "f9E-PB-vnw.ibShadowedToolTip" = "An OCIO color profile will be applied if one can be identified from the output filename";
@@ -773,7 +773,7 @@
 < < "gaY-IU-bZd.title" = "Matte:";
 < < "hVU-UQ-z7u.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "hXU-kw-3JN.title" = "Encryption Level:";
-775,788d36
+775,788d37
 < < "hsk-BJ-NTr.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "i0K-gD-l4t.title" = "Allow JPEG compression";
 < < "iGi-Mh-20J.ibShadowedToolTip" = "Selection contains multiple settings";
@@ -788,11 +788,11 @@
 < < "k1Y-U0-A3n.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "keZ-Js-Xa1.title" = "Radio";
 < < "kmK-zo-0BK.title" = "Embed metadata";
-790,792d37
+790,792d38
 < < "m3E-yQ-3Mu.ibShadowedToolTip" = "Selection contains multiple embed metadata options";
 < < "mNR-BK-r2U.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "mWu-S7-EJE.title" = "Quality:";
-794,814d38
+794,814d39
 < < "mnl-id-ppO.ibShadowedToolTip" = "Selection contains multiple settings";
 < < "mt1-YX-Jkr.title" = "Preserve editability";
 < < "nMX-Tn-ASz.title" = "Use document resolution";
@@ -814,10 +814,10 @@
 < < "rpo-eu-Cwh.title" = "16-bit (HALF)";
 < < "s75-eS-eZq.ibShadowedToolTip" = "Selection contains multiple matte colors";
 < < "sUA-BB-JnF.ibShadowedToolTip" = "Compatibility mode is required for many third party applications that do not handle PSD vector masks. Results in larger file sizes.";
-816,817d39
+816,817d40
 < < "seB-25-dDq.title" = "Preserve accuracy";
 < < "sxF-Xr-IQm.title" = "Progressive";
-819,837d40
+819,837d41
 < < "tr1-f2-WUj.label" = "Empty";
 < < "tz6-tv-eeQ.ibShadowedToolTip" = "Metadata will be embedded";
 < < "tzB-wu-9dM.title" = "Enable copying of content";
@@ -837,7 +837,7 @@
 < < "xiH-c0-hBV.title" = "Above:";
 < < "xij-AZ-7WT.title" = "Compression:";
 < < "yC7-Nz-ia1.title" = "Rename preset...";
-839,1124c42,82
+839,1124c43,82
 < < "yrU-Nz-yx1.title" = "Palettized";
 < < "z0C-lV-mql.ibShadowedToolTip" = "Rasterize layer contents (including raster and vector masks, layer effects and adjustments)";
 < < "zVF-TF-eVD.title" = "Convert clips to paths";
@@ -1133,7 +1133,6 @@
 > < /* Class = "NSMenuItem"; title = "Everything"; ObjectID = "lvC-58-b0F"; */
 > < /* Class = "NSMenuItem"; title = "None"; ObjectID = "tFN-3b-dej"; */
 > < /* Class = "NSMenuItem"; title = "None"; ObjectID = "yoS-VC-Lw5"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour Space:"; ObjectID = "eup-RI-K4d"; */
 > < /* Class = "NSTextFieldCell"; title = "File format:"; ObjectID = "scW-9j-Mie"; */
 > < /* Class = "NSTextFieldCell"; title = "ICC profile:"; ObjectID = "8Ay-x3-q1t"; */
 > < /* Class = "NSTextFieldCell"; title = "Pixel format:"; ObjectID = "b53-B9-NEf"; */
@@ -1146,6 +1145,7 @@
 > > "Qqt-U9-Yzj.title" = "미리 설정 지우기";
 > > "b53-B9-NEf.title" = "픽셀 포맷:";
 > > "d1u-NX-8Vq.title" = "버튼";
+> > "eup-RI-K4d.title" = "색공간:";
 > > "hh6-am-TrE.title" = "프로파일:";
 > > "lvC-58-b0F.title" = "모두";
 > > "mfe-Nx-PsA.title" = "버튼";
@@ -1164,5 +1164,4 @@
 > > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "1lb-Wk-1pU"; */
 > > /* Class = "NSTextFieldCell"; title = "픽셀 포맷:"; ObjectID = "b53-B9-NEf"; */
 > > /* Class = "NSTextFieldCell"; title = "파일 포맷:"; ObjectID = "scW-9j-Mie"; */
-> > /* Class = "NSTextFieldCell"; title = "색공간:"; ObjectID = "eup-RI-K4d"; */
 > > /* Class = "NSTextFieldCell"; title = "프로파일:"; ObjectID = "hh6-am-TrE"; */
