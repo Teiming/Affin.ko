@@ -1,14 +1,14 @@
-1c1,2
+2,4c2
+< ---
 < 3c3
+< 6c6
 ---
 > 2,3c2,3
-> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "iNx-gM-djz"; */
-4,8c5,6
-< > "iNx-gM-djz.title" = "ラベル";
-< 6c6
+6,8c4,6
 < < "jhg-k1-8fF.ibShadowedToolTip" = "Export as PDF Bookmark";
-< ---
+< > "iNx-gM-djz.title" = "ラベル";
 < > "jhg-k1-8fF.ibShadowedToolTip" = "PDFブックマークとして書き出し";
 ---
-> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "iNx-gM-djz"; */
+> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "iNx-gM-djz"; */
 > > "iNx-gM-djz.title" = "라벨";
+> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "iNx-gM-djz"; */
