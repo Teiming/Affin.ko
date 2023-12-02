@@ -1,0 +1,93 @@
+2,18c2,14
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 48c48
+< 51c51
+< 6c6
+< 9c9
+< < "27.title" = "Mean: -";
+---
+> 11,12c11,12
+> 17,18c17,18
+> 20,21c20,21
+> 26,27c26,27
+> 29,30c29,30
+> 32,33c32,33
+> 38,39c38,39
+> 41,42c41,42
+> 44,45c44,45
+> 47,48c47,48
+> 5,6c5,6
+> 50,51c50,51
+> 8,9c8,9
+22d17
+< < "37.title" = "Level: 0";
+28d22
+< < "R1T-CA-D4X.ibShadowedToolTip" = "Coarse histogram - click to generate fine.";
+34,49c28,66
+< > "27.title" = "平均: -";
+< > "29.title" = "標準偏差: -";
+< > "31.title" = "中間値: -";
+< > "35.title" = "ピクセル数: -";
+< > "37.title" = "レベル: 0";
+< > "41.title" = "ピクセル数: 0";
+< > "45.title" = "パーセント: 0";
+< > "AsM-Bv-O9Z.title" = "青チャンネル";
+< > "Do1-cG-Ego.title" = "選択";
+< > "N68-1K-ZYy.title" = "最小:";
+< > "R1T-CA-D4X.ibShadowedToolTip" = "粗いヒストグラム - クリックで詳細なヒストグラムを生成します。";
+< > "bwP-aM-2mO.title" = "赤チャンネル";
+< > "n1v-2h-mAY.title" = "緑チャンネル";
+< > "pCs-qB-MjK.title" = "最大:";
+< > "qqr-za-stZ.title" = "すべてのチャンネル";
+< > "r5W-c1-Ode.title" = "レイヤー";
+---
+> < /* Class = "NSButtonCell"; title = "Layer"; ObjectID = "r5W-c1-Ode"; */
+> < /* Class = "NSButtonCell"; title = "Marquee"; ObjectID = "Do1-cG-Ego"; */
+> < /* Class = "NSMenuItem"; title = "All Channels"; ObjectID = "qqr-za-stZ"; */
+> < /* Class = "NSMenuItem"; title = "Blue Channel"; ObjectID = "AsM-Bv-O9Z"; */
+> < /* Class = "NSMenuItem"; title = "Green Channel"; ObjectID = "n1v-2h-mAY"; */
+> < /* Class = "NSMenuItem"; title = "Red Channel"; ObjectID = "bwP-aM-2mO"; */
+> < /* Class = "NSTextFieldCell"; title = "Max:"; ObjectID = "pCs-qB-MjK"; */
+> < /* Class = "NSTextFieldCell"; title = "Median: -"; ObjectID = "31"; */
+> < /* Class = "NSTextFieldCell"; title = "Min:"; ObjectID = "N68-1K-ZYy"; */
+> < /* Class = "NSTextFieldCell"; title = "Percentile: 0"; ObjectID = "45"; */
+> < /* Class = "NSTextFieldCell"; title = "Pixels: -"; ObjectID = "35"; */
+> < /* Class = "NSTextFieldCell"; title = "Pixels: 0"; ObjectID = "41"; */
+> < /* Class = "NSTextFieldCell"; title = "Std. Dev.: -"; ObjectID = "29"; */
+> > "29.title" = "표준 편차: -";
+> > "31.title" = "중앙값: -";
+> > "35.title" = "픽셀: -";
+> > "41.title" = "픽셀: 0";
+> > "45.title" = "백분율: 0";
+> > "AsM-Bv-O9Z.title" = "파랑 채널";
+> > "Do1-cG-Ego.title" = "천막";
+> > "N68-1K-ZYy.title" = "최소:";
+> > "bwP-aM-2mO.title" = "빨강 채널";
+> > "n1v-2h-mAY.title" = "초록 채널";
+> > "pCs-qB-MjK.title" = "최대:";
+> > "qqr-za-stZ.title" = "모든 채널";
+> > "r5W-c1-Ode.title" = "레이어";
+> > /* Class = "NSButtonCell"; title = "천막"; ObjectID = "Do1-cG-Ego"; */
+> > /* Class = "NSButtonCell"; title = "레이어"; ObjectID = "r5W-c1-Ode"; */
+> > /* Class = "NSMenuItem"; title = "파랑 채널"; ObjectID = "AsM-Bv-O9Z"; */
+> > /* Class = "NSMenuItem"; title = "빨강 채널"; ObjectID = "bwP-aM-2mO"; */
+> > /* Class = "NSMenuItem"; title = "초록 채널"; ObjectID = "n1v-2h-mAY"; */
+> > /* Class = "NSMenuItem"; title = "모든 채널"; ObjectID = "qqr-za-stZ"; */
+> > /* Class = "NSTextFieldCell"; title = "표준 편차: -"; ObjectID = "29"; */
+> > /* Class = "NSTextFieldCell"; title = "픽셀: -"; ObjectID = "35"; */
+> > /* Class = "NSTextFieldCell"; title = "픽셀: 0"; ObjectID = "41"; */
+> > /* Class = "NSTextFieldCell"; title = "최소:"; ObjectID = "N68-1K-ZYy"; */
+> > /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "pCs-qB-MjK"; */
+> > /* Class = "NSTextFieldCell"; title = "중앙값: -"; ObjectID = "31"; */
+> > /* Class = "NSTextFieldCell"; title = "백분율: 0"; ObjectID = "45"; */
