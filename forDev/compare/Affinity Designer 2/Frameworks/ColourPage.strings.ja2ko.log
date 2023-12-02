@@ -1,218 +1,176 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "117"; */
-4,9c5,8
-< > "117.title" = "不透明度";
+25,60c25,48
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 126c126
+< 129c129
+< 135c135
+< 138c138
+< 141c141
+< 144c144
+< 180c180
+< 183c183
+< 186c186
+< 189c189
 < 18c18
-< < "151.title" = "Grayscale";
-< ---
-< > "151.title" = "グレースケール";
+< 192c192
+< 195c195
+< 198c198
+< 201c201
 < 24c24
----
-> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "117"; */
-> > "117.title" = "불투명도";
-> 23,24c23,24
-> < /* Class = "NSMenuItem"; title = "Lightness"; ObjectID = "156"; */
-12,13c11,14
-< > "156.title" = "明るさ";
 < 27c27
----
-> > /* Class = "NSMenuItem"; title = "밝기"; ObjectID = "156"; */
-> > "156.title" = "밝기";
-> 26,27c26,27
-> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "157"; */
-16,17c17,20
-< > "157.title" = "彩度";
 < 30c30
----
-> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "157"; */
-> > "157.title" = "채도";
-> 29,30c29,30
-> < /* Class = "NSMenuItem"; title = "Hue"; ObjectID = "158"; */
-20,25c23,26
-< > "158.title" = "色相";
+< 3c3
 < 66c66
-< < "11g-wl-3Vf.title" = "Accented Analogic";
-< ---
-< > "11g-wl-3Vf.title" = "アクセント色と類似色";
 < 69c69
----
-> > /* Class = "NSMenuItem"; title = "색채"; ObjectID = "158"; */
-> > "158.title" = "색채";
-> 68,69c68,69
-> < /* Class = "NSMenuItem"; title = "Shades"; ObjectID = "1rW-MI-NUn"; */
-28,29c29,32
-< > "1rW-MI-NUn.title" = "陰影";
 < 72c72
----
-> > /* Class = "NSMenuItem"; title = "셰이드"; ObjectID = "1rW-MI-NUn"; */
-> > "1rW-MI-NUn.title" = "셰이드";
-> 71,72c71,72
-> < /* Class = "NSMenuItem"; title = "Tint"; ObjectID = "6fp-eW-IR1"; */
-32,33c35,38
-< > "6fp-eW-IR1.title" = "色合い";
 < 75c75
----
-> > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "6fp-eW-IR1"; */
-> > "6fp-eW-IR1.title" = "틴트";
-> 74,75c74,75
-> < /* Class = "NSMenuItem"; title = "Tones"; ObjectID = "8ml-lp-ysk"; */
-36,37c41,44
-< > "8ml-lp-ysk.title" = "色調";
 < 78c78
----
-> > /* Class = "NSMenuItem"; title = "톤"; ObjectID = "8ml-lp-ysk"; */
-> > "8ml-lp-ysk.title" = "톤";
-> 77,78c77,78
-> < /* Class = "NSMenuItem"; title = "Percentage"; ObjectID = "DAT-ck-Rws"; */
-40,41c47,50
-< > "DAT-ck-Rws.title" = "パーセント";
 < 81c81
----
-> > /* Class = "NSMenuItem"; title = "백분율"; ObjectID = "DAT-ck-Rws"; */
-> > "DAT-ck-Rws.title" = "백분율";
-> 80,81c80,81
-> < /* Class = "NSMenuItem"; title = "Complementary"; ObjectID = "EDZ-Uc-gG8"; */
-44,46c53,56
-< > "EDZ-Uc-gG8.title" = "補色";
 < 84c84
-< < "FlE-Iu-JvL.title" = "Add Color to Swatch";
----
-> > /* Class = "NSMenuItem"; title = "보색"; ObjectID = "EDZ-Uc-gG8"; */
-> > "EDZ-Uc-gG8.title" = "보색";
-> 83c83
-> < /* Class = "NSMenuItem"; title = "Add Colour to Swatch"; ObjectID = "FlE-Iu-JvL"; */
-48,50c58,60
-< > "FlE-Iu-JvL.title" = "色をスウォッチに追加";
 < 87c87
-< < "OOt-ef-F5w.title" = "Copy Color to Clipboard as Hex";
----
-> > /* Class = "NSMenuItem"; title = "견본에 색상 추가"; ObjectID = "FlE-Iu-JvL"; */
-> 86c86
-> < /* Class = "NSMenuItem"; title = "Copy Colour to Clipboard as Hex"; ObjectID = "OOt-ef-F5w"; */
-52,53c62,64
-< > "OOt-ef-F5w.title" = "色を16進数としてクリップボードにコピー";
 < 90c90
----
-> > /* Class = "NSMenuItem"; title = "Hex로 색상 복사"; ObjectID = "OOt-ef-F5w"; */
-> 89,90c89,90
-> < /* Class = "NSMenuItem"; title = "Analogous"; ObjectID = "OYJ-90-td8"; */
-56,57c67,70
-< > "OYJ-90-td8.title" = "類似色";
 < 93c93
----
-> > /* Class = "NSMenuItem"; title = "유사색"; ObjectID = "OYJ-90-td8"; */
-> > "OYJ-90-td8.title" = "유사색";
-> 92,93c92,93
-> < /* Class = "NSMenuItem"; title = "Square"; ObjectID = "OaA-pv-xhZ"; */
-60,61c73,76
-< > "OaA-pv-xhZ.title" = "正方形";
 < 96c96
 ---
-> > /* Class = "NSMenuItem"; title = "사각형"; ObjectID = "OaA-pv-xhZ"; */
-> > "OaA-pv-xhZ.title" = "사각형";
-> 95,96c95,96
-> < /* Class = "NSMenuItem"; title = "16 bit"; ObjectID = "ObJ-Kh-397"; */
-64,77c79,82
-< > "ObJ-Kh-397.title" = "16ビット";
-< 126c126
-< < "Rl6-bA-FIV.title" = "Tetradic";
-< ---
-< > "Rl6-bA-FIV.title" = "4色配色";
-< 129c129
-< < "VmH-Di-OxV.title" = "Triadic";
-< ---
-< > "VmH-Di-OxV.title" = "3色配色";
-< 135c135
-< < "aqf-d0-Bwm.title" = "RGB Hex";
-< ---
-< > "aqf-d0-Bwm.title" = "RGB 16進";
-< 138c138
----
-> > /* Class = "NSMenuItem"; title = "16 비트"; ObjectID = "ObJ-Kh-397"; */
-> > "ObJ-Kh-397.title" = "16 비트";
 > 137,138c137,138
-> < /* Class = "NSMenuItem"; title = "Sliders"; ObjectID = "dbt-Xy-95N"; */
-80,81c85,88
-< > "dbt-Xy-95N.title" = "スライダー";
-< 141c141
----
-> > /* Class = "NSMenuItem"; title = "슬라이더"; ObjectID = "dbt-Xy-95N"; */
-> > "dbt-Xy-95N.title" = "슬라이더";
 > 140,141c140,141
-> < /* Class = "NSMenuItem"; title = "Wheel"; ObjectID = "eCr-eu-k3v"; */
-84,85c91,94
-< > "eCr-eu-k3v.title" = "ホイール";
-< 144c144
----
-> > /* Class = "NSMenuItem"; title = "휠"; ObjectID = "eCr-eu-k3v"; */
-> > "eCr-eu-k3v.title" = "휠";
 > 143,144c143,144
-> < /* Class = "NSMenuItem"; title = "8 bit"; ObjectID = "hx8-gu-BWJ"; */
-88,93c97,100
-< > "hx8-gu-BWJ.title" = "8ビット";
-< 180c180
-< < "jBo-NG-AkO.title" = "Triangle";
-< ---
-< > "jBo-NG-AkO.title" = "三角形";
-< 183c183
----
-> > /* Class = "NSMenuItem"; title = "8 비트"; ObjectID = "hx8-gu-BWJ"; */
-> > "hx8-gu-BWJ.title" = "8 비트";
 > 182,183c182,183
-> < /* Class = "NSMenuItem"; title = "Square"; ObjectID = "jth-tA-kjB"; */
-96,97c103,106
-< > "jth-tA-kjB.title" = "正方形";
-< 186c186
----
-> > /* Class = "NSMenuItem"; title = "사각형"; ObjectID = "jth-tA-kjB"; */
-> > "jth-tA-kjB.title" = "사각형";
 > 185,186c185,186
-> < /* Class = "NSMenuItem"; title = "Boxes"; ObjectID = "mk9-Um-MiR"; */
-100,101c109,112
-< > "mk9-Um-MiR.title" = "ボックス";
-< 189c189
----
-> > /* Class = "NSMenuItem"; title = "상자"; ObjectID = "mk9-Um-MiR"; */
-> > "mk9-Um-MiR.title" = "상자";
 > 188,189c188,189
-> < /* Class = "NSMenuItem"; title = "Add Chord to Swatch"; ObjectID = "oEh-PX-et1"; */
-104,105c115,118
-< > "oEh-PX-et1.title" = "コードをスウォッチに追加";
-< 192c192
----
-> > /* Class = "NSMenuItem"; title = "견본에 코드 추가"; ObjectID = "oEh-PX-et1"; */
-> > "oEh-PX-et1.title" = "견본에 코드 추가";
 > 191,192c191,192
-> < /* Class = "NSMenuItem"; title = "Split Complementary"; ObjectID = "rQF-fE-eyb"; */
-108,109c121,124
-< > "rQF-fE-eyb.title" = "分裂補色";
-< 195c195
----
-> > /* Class = "NSMenuItem"; title = "분할 보색"; ObjectID = "rQF-fE-eyb"; */
-> > "rQF-fE-eyb.title" = "분할 보색";
 > 194,195c194,195
-> < /* Class = "NSMenuItem"; title = "8 bit"; ObjectID = "v2g-by-7qs"; */
-112,113c127,130
-< > "v2g-by-7qs.title" = "8ビット";
-< 198c198
----
-> > /* Class = "NSMenuItem"; title = "8 비트"; ObjectID = "v2g-by-7qs"; */
-> > "v2g-by-7qs.title" = "8 비트";
 > 197,198c197,198
-> < /* Class = "NSMenuItem"; title = "Tints"; ObjectID = "x4x-Dg-gd3"; */
-116,117c133,136
-< > "x4x-Dg-gd3.title" = "色合い";
-< 201c201
----
-> > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "x4x-Dg-gd3"; */
-> > "x4x-Dg-gd3.title" = "틴트";
+> 2,3c2,3
 > 200,201c200,201
-> < /* Class = "NSMenu"; title = "Add Chord to Swatch"; ObjectID = "zmb-Ei-kek"; */
-120c139,140
+> 23,24c23,24
+> 26,27c26,27
+> 29,30c29,30
+> 68,69c68,69
+> 71,72c71,72
+> 74,75c74,75
+> 77,78c77,78
+> 80,81c80,81
+> 83c83
+> 86c86
+> 89,90c89,90
+> 92,93c92,93
+> 95,96c95,96
+62,63d49
+< < "11g-wl-3Vf.title" = "Accented Analogic";
+< < "151.title" = "Grayscale";
+72,73d57
+< < "FlE-Iu-JvL.title" = "Add Color to Swatch";
+< < "OOt-ef-F5w.title" = "Copy Color to Clipboard as Hex";
+77,79d60
+< < "Rl6-bA-FIV.title" = "Tetradic";
+< < "VmH-Di-OxV.title" = "Triadic";
+< < "aqf-d0-Bwm.title" = "RGB Hex";
+83d63
+< < "jBo-NG-AkO.title" = "Triangle";
+91,120c71,140
+< > "117.title" = "不透明度";
+< > "11g-wl-3Vf.title" = "アクセント色と類似色";
+< > "151.title" = "グレースケール";
+< > "156.title" = "明るさ";
+< > "157.title" = "彩度";
+< > "158.title" = "色相";
+< > "1rW-MI-NUn.title" = "陰影";
+< > "6fp-eW-IR1.title" = "色合い";
+< > "8ml-lp-ysk.title" = "色調";
+< > "DAT-ck-Rws.title" = "パーセント";
+< > "EDZ-Uc-gG8.title" = "補色";
+< > "FlE-Iu-JvL.title" = "色をスウォッチに追加";
+< > "OOt-ef-F5w.title" = "色を16進数としてクリップボードにコピー";
+< > "OYJ-90-td8.title" = "類似色";
+< > "OaA-pv-xhZ.title" = "正方形";
+< > "ObJ-Kh-397.title" = "16ビット";
+< > "Rl6-bA-FIV.title" = "4色配色";
+< > "VmH-Di-OxV.title" = "3色配色";
+< > "aqf-d0-Bwm.title" = "RGB 16進";
+< > "dbt-Xy-95N.title" = "スライダー";
+< > "eCr-eu-k3v.title" = "ホイール";
+< > "hx8-gu-BWJ.title" = "8ビット";
+< > "jBo-NG-AkO.title" = "三角形";
+< > "jth-tA-kjB.title" = "正方形";
+< > "mk9-Um-MiR.title" = "ボックス";
+< > "oEh-PX-et1.title" = "コードをスウォッチに追加";
+< > "rQF-fE-eyb.title" = "分裂補色";
+< > "v2g-by-7qs.title" = "8ビット";
+< > "x4x-Dg-gd3.title" = "色合い";
 < > "zmb-Ei-kek.title" = "コードをスウォッチに追加";
 ---
-> > /* Class = "NSMenu"; title = "견본에 코드 추가"; ObjectID = "zmb-Ei-kek"; */
+> < /* Class = "NSMenu"; title = "Add Chord to Swatch"; ObjectID = "zmb-Ei-kek"; */
+> < /* Class = "NSMenuItem"; title = "16 bit"; ObjectID = "ObJ-Kh-397"; */
+> < /* Class = "NSMenuItem"; title = "8 bit"; ObjectID = "hx8-gu-BWJ"; */
+> < /* Class = "NSMenuItem"; title = "8 bit"; ObjectID = "v2g-by-7qs"; */
+> < /* Class = "NSMenuItem"; title = "Add Chord to Swatch"; ObjectID = "oEh-PX-et1"; */
+> < /* Class = "NSMenuItem"; title = "Add Colour to Swatch"; ObjectID = "FlE-Iu-JvL"; */
+> < /* Class = "NSMenuItem"; title = "Analogous"; ObjectID = "OYJ-90-td8"; */
+> < /* Class = "NSMenuItem"; title = "Boxes"; ObjectID = "mk9-Um-MiR"; */
+> < /* Class = "NSMenuItem"; title = "Complementary"; ObjectID = "EDZ-Uc-gG8"; */
+> < /* Class = "NSMenuItem"; title = "Copy Colour to Clipboard as Hex"; ObjectID = "OOt-ef-F5w"; */
+> < /* Class = "NSMenuItem"; title = "Hue"; ObjectID = "158"; */
+> < /* Class = "NSMenuItem"; title = "Lightness"; ObjectID = "156"; */
+> < /* Class = "NSMenuItem"; title = "Percentage"; ObjectID = "DAT-ck-Rws"; */
+> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "157"; */
+> < /* Class = "NSMenuItem"; title = "Shades"; ObjectID = "1rW-MI-NUn"; */
+> < /* Class = "NSMenuItem"; title = "Sliders"; ObjectID = "dbt-Xy-95N"; */
+> < /* Class = "NSMenuItem"; title = "Split Complementary"; ObjectID = "rQF-fE-eyb"; */
+> < /* Class = "NSMenuItem"; title = "Square"; ObjectID = "OaA-pv-xhZ"; */
+> < /* Class = "NSMenuItem"; title = "Square"; ObjectID = "jth-tA-kjB"; */
+> < /* Class = "NSMenuItem"; title = "Tint"; ObjectID = "6fp-eW-IR1"; */
+> < /* Class = "NSMenuItem"; title = "Tints"; ObjectID = "x4x-Dg-gd3"; */
+> < /* Class = "NSMenuItem"; title = "Tones"; ObjectID = "8ml-lp-ysk"; */
+> < /* Class = "NSMenuItem"; title = "Wheel"; ObjectID = "eCr-eu-k3v"; */
+> < /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "117"; */
+> > "117.title" = "불투명도";
+> > "156.title" = "밝기";
+> > "157.title" = "채도";
+> > "158.title" = "색채";
+> > "1rW-MI-NUn.title" = "셰이드";
+> > "6fp-eW-IR1.title" = "틴트";
+> > "8ml-lp-ysk.title" = "톤";
+> > "DAT-ck-Rws.title" = "백분율";
+> > "EDZ-Uc-gG8.title" = "보색";
+> > "OYJ-90-td8.title" = "유사색";
+> > "OaA-pv-xhZ.title" = "사각형";
+> > "ObJ-Kh-397.title" = "16 비트";
+> > "dbt-Xy-95N.title" = "슬라이더";
+> > "eCr-eu-k3v.title" = "휠";
+> > "hx8-gu-BWJ.title" = "8 비트";
+> > "jth-tA-kjB.title" = "사각형";
+> > "mk9-Um-MiR.title" = "상자";
+> > "oEh-PX-et1.title" = "견본에 코드 추가";
+> > "rQF-fE-eyb.title" = "분할 보색";
+> > "v2g-by-7qs.title" = "8 비트";
+> > "x4x-Dg-gd3.title" = "틴트";
 > > "zmb-Ei-kek.title" = "견본에 코드 추가";
+> > /* Class = "NSMenu"; title = "견본에 코드 추가"; ObjectID = "zmb-Ei-kek"; */
+> > /* Class = "NSMenuItem"; title = "16 비트"; ObjectID = "ObJ-Kh-397"; */
+> > /* Class = "NSMenuItem"; title = "8 비트"; ObjectID = "hx8-gu-BWJ"; */
+> > /* Class = "NSMenuItem"; title = "8 비트"; ObjectID = "v2g-by-7qs"; */
+> > /* Class = "NSMenuItem"; title = "Hex로 색상 복사"; ObjectID = "OOt-ef-F5w"; */
+> > /* Class = "NSMenuItem"; title = "톤"; ObjectID = "8ml-lp-ysk"; */
+> > /* Class = "NSMenuItem"; title = "휠"; ObjectID = "eCr-eu-k3v"; */
+> > /* Class = "NSMenuItem"; title = "분할 보색"; ObjectID = "rQF-fE-eyb"; */
+> > /* Class = "NSMenuItem"; title = "밝기"; ObjectID = "156"; */
+> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "157"; */
+> > /* Class = "NSMenuItem"; title = "색채"; ObjectID = "158"; */
+> > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "6fp-eW-IR1"; */
+> > /* Class = "NSMenuItem"; title = "보색"; ObjectID = "EDZ-Uc-gG8"; */
+> > /* Class = "NSMenuItem"; title = "상자"; ObjectID = "mk9-Um-MiR"; */
+> > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "x4x-Dg-gd3"; */
+> > /* Class = "NSMenuItem"; title = "견본에 색상 추가"; ObjectID = "FlE-Iu-JvL"; */
+> > /* Class = "NSMenuItem"; title = "견본에 코드 추가"; ObjectID = "oEh-PX-et1"; */
+> > /* Class = "NSMenuItem"; title = "셰이드"; ObjectID = "1rW-MI-NUn"; */
+> > /* Class = "NSMenuItem"; title = "백분율"; ObjectID = "DAT-ck-Rws"; */
+> > /* Class = "NSMenuItem"; title = "유사색"; ObjectID = "OYJ-90-td8"; */
+> > /* Class = "NSMenuItem"; title = "사각형"; ObjectID = "OaA-pv-xhZ"; */
+> > /* Class = "NSMenuItem"; title = "사각형"; ObjectID = "jth-tA-kjB"; */
+> > /* Class = "NSMenuItem"; title = "슬라이더"; ObjectID = "dbt-Xy-95N"; */
+> > /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "117"; */
