@@ -1,92 +1,4 @@
-141,456c141,282
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,229c2,143
 < 105c105
 < 108c108
 < 111c111
@@ -458,119 +370,119 @@
 > 92,93c92,93
 > 98,99c98,99
 > < 
-458d283
+231d144
 < < "0gx-gm-afE.title" = "Paint mixer brush tool";
-462d286
+235d147
 < < "1283.title" = "Shape:";
-465d288
+238d149
 < < "1493.title" = "Cyclic";
-467d289
+240d150
 < < "1495.title" = "Tilt";
-479d300
+252d161
 < < "1509.title" = "Tilt";
-481d301
+254d162
 < < "1511.title" = "Cyclic";
-489d308
+262d169
 < < "1521.title" = "Tilt";
-491,492d309
+264,265d170
 < < "1523.title" = "Cyclic";
 < < "1524.title" = "Hue Jitter:";
-502d318
+275d179
 < < "1616.title" = "Tilt";
-504d319
+277d180
 < < "1618.title" = "Cyclic";
-511d325
+284d186
 < < "1627.title" = "Tilt";
-513d326
+286d187
 < < "1629.title" = "Cyclic";
-516d328
+289d189
 < < "1634.title" = "Cyclic";
-518d329
+291d190
 < < "1636.title" = "Tilt";
-523,524d333
+296,297d194
 < < "1725.title" = "Brush Nozzles:";
 < < "1727.title" = "Base Texture:";
-530d338
+303d199
 < < "1763.title" = "Nozzle";
-538d345
+311d206
 < < "1826.title" = "Tilt";
-540d346
+313d207
 < < "1828.title" = "Cyclic";
-547d352
+320d213
 < < "1846.title" = "Tilt";
-549d353
+322d214
 < < "1848.title" = "Cyclic";
-552,553d355
+325,326d216
 < < "1868.title" = "Shape Jitter:";
 < < "1869.title" = "Hardness Jitter:";
-556d357
+329d218
 < < "1879.title" = "Cyclic";
-558d358
+331d219
 < < "1881.title" = "Tilt";
-565d364
+338d225
 < < "1895.title" = "Cyclic";
-567d365
+340d226
 < < "1897.title" = "Tilt";
-576,579d373
+349,352d234
 < < "1LJ-PM-E4I.title" = "Stylus Wheel";
 < < "1jA-wK-Xcf.title" = "Stylus Wheel";
 < < "1n6-hf-Uch.title" = "Undo brush tool";
 < < "23P-k8-ufG.title" = "Stylus Wheel";
-582d375
+355d236
 < < "37Y-s5-nCu.title" = "Erase brush tool";
-588d380
+361d241
 < < "562.title" = "Brush Editor";
-590d381
+363d242
 < < "58J-Yf-GFZ.title" = "Distance";
-592d382
+365d243
 < < "6nv-pi-Y4G.title" = "Stylus Wheel";
-596,597d385
+369,370d246
 < < "8Gn-fy-xd9.title" = "Dodge brush tool";
 < < "A4T-Ke-1ig.title" = "Distance";
-601,603d388
+374,376d249
 < < "FVq-C2-1ef.title" = "At end of stroke";
 < < "FXS-vR-4Hf.title" = "Add Bitmap";
 < < "FiK-2x-8JB.title" = "Name:";
-605,607d389
+378,380d250
 < < "Hhr-sw-ZKd.title" = "Stylus Wheel";
 < < "HnN-yo-Ikj.title" = "Distance";
 < < "KV7-DB-rGw.title" = "Accumulation";
-609,610d390
+382,383d251
 < < "Kfp-1f-bFh.title" = "Tilt";
 < < "LI8-7J-mdJ.title" = "Burn brush tool";
-612,613d391
+385,386d252
 < < "MCf-c0-c3K.title" = "Distance";
 < < "MQE-Es-wb3.title" = "Inpainting brush tool";
-615d392
+388d253
 < < "N8V-Vh-feY.title" = "Median brush tool";
-618,620d394
+391,393d255
 < < "Pji-sS-t35.title" = "Distance";
 < < "QXP-ft-qyk.title" = "Stylus Wheel";
 < < "Qln-DH-eXa.title" = "Healing brush tool";
-622,625d395
+395,398d256
 < < "Rha-d5-xjf.title" = "Background erase brush tool";
 < < "S5O-Vi-dvf.title" = "No associated tool";
 < < "SMG-vS-0nD.title" = "Stylus Wheel";
 < < "Sq2-yC-pKZ.title" = "Interpolate";
-627,629d396
+400,402d257
 < < "TGB-X8-Gc2.title" = "Distance";
 < < "TyV-Kw-e2E.title" = "Stylus Wheel";
 < < "UWh-IF-Uqd.title" = "Cyclic";
-635,636d401
+408,409d262
 < < "X0J-2R-MZp.title" = "Distance";
 < < "XYy-0X-nft.title" = "Blur brush tool";
-638d402
+411d263
 < < "XuT-c9-5bg.title" = "Direction";
-640d403
+413d264
 < < "YGe-mo-CFi.title" = "Associated Tool:";
-642d404
+415d265
 < < "ZLO-ml-YBa.title" = "At current nozzle";
-646,649d407
+419,422d268
 < < "cBK-tc-l4L.title" = "Distance";
 < < "cBU-Ua-fFS.title" = "Set wet edges \"off\"";
 < < "cFJ-1n-gQm.title" = "Distance";
 < < "cLT-g0-tay.title" = "Distance";
-651,657d408
+424,430d269
 < < "eA8-dB-gkJ.title" = "Smudge brush tool";
 < < "fqH-Nw-bD9.title" = "Stylus Wheel";
 < < "h8W-H2-pdz.title" = "Set wet edges \"on\"";
@@ -578,26 +490,26 @@
 < < "haw-wG-row.title" = "Name:";
 < < "iaW-ed-mQb.title" = "Distance";
 < < "kVP-1R-jAM.title" = "Paint brush tool";
-659,660d409
+432,433d270
 < < "lrJ-0s-nl5.ibShadowedToolTip" = "Unfinished feature / user interface.";
 < < "lyI-Ap-unx.title" = "Accumulation Jitter:";
-662d410
+435d271
 < < "nLY-he-Rfd.title" = "Stylus Wheel";
-664d411
+437d272
 < < "nkq-gb-GOk.title" = "Pixel tool";
-668d414
+441d275
 < < "rWQ-4h-n3o.title" = "Sponge brush tool";
-670,671d415
+443,444d276
 < < "tOm-05-u3u.title" = "Distance";
 < < "tWt-mJ-9ot.title" = "Cyclic";
-673,674d416
+446,447d277
 < < "tkU-3b-Uq3.title" = "Tilt";
 < < "tqn-y8-MAd.title" = "Color replacement brush tool";
-677,679d418
+450,452d279
 < < "v0n-2d-yO9.title" = "Behind current nozzle";
 < < "v4v-jx-mzv.title" = "Stylus Wheel";
 < < "vLa-mB-1N0.title" = "Sharpen brush tool";
-685,912c424,847
+458,685c285,708
 < > "0Bs-9F-tlU.title" = "角度";
 < > "0gx-gm-afE.title" = "ペイント混合ブラシツール";
 < > "1067.title" = "硬さ:";
