@@ -1,0 +1,27 @@
+2,7c2,6
+< 12c12
+< 18c18
+< 3c3
+< 6c6
+< 9c9
+< < "F0z-JX-Cv5.title" = "Studio Presets Manager";
+---
+> 11,12c11,12
+> 14,15c14,15
+> 17,18c17,18
+> 5,6c5,6
+> 8,9c8,9
+10a10
+> < "YPA-BD-b3G.title" = "Text Cell";
+12,16c12,26
+< > "F0z-JX-Cv5.title" = "スタジオプリセットマネージャー";
+< > "KPz-VH-ML0.title" = "名前を変更";
+< > "LYK-dK-Igd.title" = "閉じる";
+< > "Wre-B3-Zlx.title" = "削除";
+< > "cLf-5a-WQh.title" = "適用";
+---
+> > "KPz-VH-ML0.title" = "이름 변경";
+> > "LYK-dK-Igd.title" = "닫기";
+> > "Wre-B3-Zlx.title" = "지우기";
+> > "YPA-BD-b3G.title" = "텍스트 셀";
+> > "cLf-5a-WQh.title" = "적용";
