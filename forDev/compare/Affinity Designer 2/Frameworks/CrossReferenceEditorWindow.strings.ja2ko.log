@@ -1,38 +1,34 @@
-1,5c1,2
-< 3c3
-< < "0L7-Yi-v5u.ibShadowedToolTip" = "Current Page";
+4,13c4,6
 < ---
-< > "0L7-Yi-v5u.ibShadowedToolTip" = "現在のページ";
-< 9c9
----
-> 8,9c8,9
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "CMn-vQ-FzM"; */
-8,9c5,8
-< > "CMn-vQ-FzM.title" = "テキストセル";
+< ---
+< ---
 < 12c12
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "CMn-vQ-FzM"; */
-> > "CMn-vQ-FzM.title" = "텍스트 셀";
-> 11,12c11,12
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "CTU-ZM-4qF"; */
-12,13c11,14
-< > "CTU-ZM-4qF.title" = "テキストセル";
 < 15c15
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "CTU-ZM-4qF"; */
-> > "CTU-ZM-4qF.title" = "텍스트 셀";
-> 14,15c14,15
-> < /* Class = "NSTableColumn"; headerCell.title = "Page"; ObjectID = "Oym-U7-s3f"; */
-16,24c17,18
-< > "Oym-U7-s3f.headerCell.title" = "ページ";
 < 18c18
-< < "bmb-lp-4fn.ibShadowedToolTip" = "Target Name";
-< ---
-< > "bmb-lp-4fn.ibShadowedToolTip" = "ターゲット名";
 < 21c21
+< 3c3
+< 9c9
+< < "0L7-Yi-v5u.ibShadowedToolTip" = "Current Page";
+---
+> 11,12c11,12
+> 14,15c14,15
+> 8,9c8,9
+17,24c10,18
+< < "bmb-lp-4fn.ibShadowedToolTip" = "Target Name";
 < < "nY9-US-IQ4.headerCell.title" = "Target Name";
-< ---
+< > "0L7-Yi-v5u.ibShadowedToolTip" = "現在のページ";
+< > "CMn-vQ-FzM.title" = "テキストセル";
+< > "CTU-ZM-4qF.title" = "テキストセル";
+< > "Oym-U7-s3f.headerCell.title" = "ページ";
+< > "bmb-lp-4fn.ibShadowedToolTip" = "ターゲット名";
 < > "nY9-US-IQ4.headerCell.title" = "ターゲット名";
 ---
-> > /* Class = "NSTableColumn"; headerCell.title = "페이지"; ObjectID = "Oym-U7-s3f"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Page"; ObjectID = "Oym-U7-s3f"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "CMn-vQ-FzM"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "CTU-ZM-4qF"; */
+> > "CMn-vQ-FzM.title" = "텍스트 셀";
+> > "CTU-ZM-4qF.title" = "텍스트 셀";
 > > "Oym-U7-s3f.headerCell.title" = "페이지";
+> > /* Class = "NSTableColumn"; headerCell.title = "페이지"; ObjectID = "Oym-U7-s3f"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "CMn-vQ-FzM"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "CTU-ZM-4qF"; */
