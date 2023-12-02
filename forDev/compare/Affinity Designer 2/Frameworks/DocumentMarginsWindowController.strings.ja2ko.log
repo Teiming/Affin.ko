@@ -1,0 +1,36 @@
+2,9c2,9
+< 12c12
+< 15c15
+< 21c21
+< 24c24
+< 27c27
+< 3c3
+< 6c6
+< 9c9
+---
+> 11,12c11,12
+> 14,15c14,15
+> 2,3c2,3
+> 20,21c20,21
+> 23,24c23,24
+> 26,27c26,27
+> 5,6c5,6
+> 8,9c8,9
+18,25c18,41
+< > "87G-BP-xQf.title" = "プリンターからマージンを取得";
+< > "8GO-mA-rHg.title" = "左:";
+< > "9qf-5e-Cj2.title" = "上:";
+< > "F0z-JX-Cv5.title" = "マージン";
+< > "IL7-Nb-YGl.title" = "キャンセル";
+< > "NPX-3H-iKd.title" = "マージンを含める";
+< > "aMI-lA-mk0.title" = "右:";
+< > "mbi-oj-3OE.title" = "下:";
+---
+> > "87G-BP-xQf.title" = "프린터 여백을 이용";
+> > "8GO-mA-rHg.title" = "왼쪽:";
+> > "9qf-5e-Cj2.title" = "위쪽:";
+> > "F0z-JX-Cv5.title" = "여백";
+> > "IL7-Nb-YGl.title" = "취소";
+> > "NPX-3H-iKd.title" = "여백 포함";
+> > "aMI-lA-mk0.title" = "오른쪽:";
+> > "mbi-oj-3OE.title" = "아래쪽";
