@@ -16,8 +16,6 @@
 ---
 ---
 ---
----
----
 11,12c11,12
 14,15c14,15
 17,18c17,18
@@ -26,12 +24,10 @@
 23,24c23,24
 26,27c26,27
 29,30c29,30
-38c38
 44,45c44,45
 47,48c47,48
 5,6c5,6
 50,51c50,51
-53c53
 56,57c56,57
 59,60c59,60
 71,72c71,72
@@ -57,8 +53,6 @@
 < "vuf-dQ-R5Y.title" = "Button";
 < "yIL-OJ-VOD.title" = "Button";
 < /* Class = "NSBox"; title = "Grid setup"; ObjectID = "1e0-UH-0o3"; */
-< /* Class = "NSButton"; ibShadowedToolTip = "Link the grid colours"; ObjectID = "QUZ-Sa-kpD"; */
-< /* Class = "NSButton"; ibShadowedToolTip = "Set the main grid line colour"; ObjectID = "g3n-km-nO9"; */
 < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "KsZ-gU-ra6"; */
 < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "vuf-dQ-R5Y"; */
 < /* Class = "NSButtonCell"; title = "Button"; ObjectID = "yIL-OJ-VOD"; */
@@ -95,8 +89,6 @@
 > "vuf-dQ-R5Y.title" = "버튼";
 > "yIL-OJ-VOD.title" = "버튼";
 > /* Class = "NSBox"; title = "격자 설정"; ObjectID = "1e0-UH-0o3"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "주 격자 선 색상 설정"; ObjectID = "g3n-km-nO9"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "격자 색상 연결"; ObjectID = "QUZ-Sa-kpD"; */
 > /* Class = "NSButtonCell"; title = "축 편집 손잡이 보기"; ObjectID = "EwR-3I-waD"; */
 > /* Class = "NSButtonCell"; title = "격자 보기"; ObjectID = "vYL-Kt-A12"; */
 > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "26"; */
