@@ -1,0 +1,71 @@
+---
+11,12c11,12
+14,15c14,15
+17,18c17,18
+2,3c2,3
+20,21c20,21
+26,27c26,27
+29,30c29,30
+32,33c32,33
+35,36c35,36
+44,45c44,45
+5,6c5,6
+50,51c50,51
+53,54c53,54
+65,66c65,66
+< "1cr-Zp-47l.title" = "Cancel";
+< "BbR-Pb-RBv.title" = "Apply";
+< "MMk-5J-giJ.title" = "Last Selected";
+< "OTB-cM-W9o.title" = "Align to:";
+< "TPb-CF-ZoR.title" = "Space";
+< "UNO-Ns-MGf.title" = "Auto Distribute";
+< "Xiu-I9-b1b.title" = "First Selected";
+< "Xp5-cH-yet.title" = "Last Selected";
+< "ZTx-er-Kme.title" = "Space";
+< "aqn-Kj-Mws.title" = "Auto Distribute";
+< "bcY-81-lAu.title" = "Margin";
+< "gqd-x0-CcQ.title" = "First Selected";
+< "kec-KU-4UP.title" = "Align to:";
+< "wBY-fk-Hqy.title" = "Margin";
+< /* Class = "NSBox"; title = "Space"; ObjectID = "TPb-CF-ZoR"; */
+< /* Class = "NSBox"; title = "Space"; ObjectID = "ZTx-er-Kme"; */
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "BbR-Pb-RBv"; */
+< /* Class = "NSButtonCell"; title = "Auto Distribute"; ObjectID = "UNO-Ns-MGf"; */
+< /* Class = "NSButtonCell"; title = "Auto Distribute"; ObjectID = "aqn-Kj-Mws"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1cr-Zp-47l"; */
+< /* Class = "NSMenuItem"; title = "First Selected"; ObjectID = "Xiu-I9-b1b"; */
+< /* Class = "NSMenuItem"; title = "First Selected"; ObjectID = "gqd-x0-CcQ"; */
+< /* Class = "NSMenuItem"; title = "Last Selected"; ObjectID = "MMk-5J-giJ"; */
+< /* Class = "NSMenuItem"; title = "Last Selected"; ObjectID = "Xp5-cH-yet"; */
+< /* Class = "NSMenuItem"; title = "Margin"; ObjectID = "bcY-81-lAu"; */
+< /* Class = "NSMenuItem"; title = "Margin"; ObjectID = "wBY-fk-Hqy"; */
+< /* Class = "NSTextFieldCell"; title = "Align to:"; ObjectID = "OTB-cM-W9o"; */
+< /* Class = "NSTextFieldCell"; title = "Align to:"; ObjectID = "kec-KU-4UP"; */
+> "1cr-Zp-47l.title" = "취소";
+> "BbR-Pb-RBv.title" = "적용";
+> "MMk-5J-giJ.title" = "마지막 선택 항목";
+> "OTB-cM-W9o.title" = "정렬 대상:";
+> "TPb-CF-ZoR.title" = "공백";
+> "UNO-Ns-MGf.title" = "자동 분배";
+> "Xiu-I9-b1b.title" = "처음 선택 항목";
+> "Xp5-cH-yet.title" = "마지막 선택 항목";
+> "ZTx-er-Kme.title" = "공백";
+> "aqn-Kj-Mws.title" = "자동 분배";
+> "bcY-81-lAu.title" = "여백";
+> "gqd-x0-CcQ.title" = "처음 선택 항목";
+> "kec-KU-4UP.title" = "정렬 대상:";
+> "wBY-fk-Hqy.title" = "여백";
+> /* Class = "NSBox"; title = "공백"; ObjectID = "TPb-CF-ZoR"; */
+> /* Class = "NSBox"; title = "공백"; ObjectID = "ZTx-er-Kme"; */
+> /* Class = "NSButtonCell"; title = "자동 분배"; ObjectID = "UNO-Ns-MGf"; */
+> /* Class = "NSButtonCell"; title = "자동 분배"; ObjectID = "aqn-Kj-Mws"; */
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1cr-Zp-47l"; */
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "BbR-Pb-RBv"; */
+> /* Class = "NSMenuItem"; title = "처음 선택 항목"; ObjectID = "Xiu-I9-b1b"; */
+> /* Class = "NSMenuItem"; title = "처음 선택 항목"; ObjectID = "gqd-x0-CcQ"; */
+> /* Class = "NSMenuItem"; title = "여백"; ObjectID = "bcY-81-lAu"; */
+> /* Class = "NSMenuItem"; title = "여백"; ObjectID = "wBY-fk-Hqy"; */
+> /* Class = "NSMenuItem"; title = "마지막 선택 항목"; ObjectID = "MMk-5J-giJ"; */
+> /* Class = "NSMenuItem"; title = "마지막 선택 항목"; ObjectID = "Xp5-cH-yet"; */
+> /* Class = "NSTextFieldCell"; title = "정렬 대상:"; ObjectID = "OTB-cM-W9o"; */
+> /* Class = "NSTextFieldCell"; title = "정렬 대상:"; ObjectID = "kec-KU-4UP"; */
