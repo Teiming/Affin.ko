@@ -40,13 +40,6 @@
 < > "cFB-gx-R5L.title" = "テキストセル";
 < > "oN1-fS-9tl.headerCell.title" = "競合";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "b5A-Iq-rOW"; */
-> < /* Class = "NSTableColumn"; headerCell.title = "Rename To"; ObjectID = "XPe-nu-Iy4"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5pe-0O-xvD"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Hdl-Fk-1hi"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Qv5-kM-Xfj"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wyd-yV-qin"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cFB-gx-R5L"; */
 > > "5pe-0O-xvD.title" = "텍스트 셀";
 > > "Hdl-Fk-1hi.title" = "텍스트 셀";
 > > "Qv5-kM-Xfj.title" = "텍스트 셀";
@@ -54,10 +47,3 @@
 > > "XPe-nu-Iy4.headerCell.title" = "이름 변경...";
 > > "b5A-Iq-rOW.title" = "취소";
 > > "cFB-gx-R5L.title" = "텍스트 셀";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "b5A-Iq-rOW"; */
-> > /* Class = "NSTableColumn"; headerCell.title = "이름 변경..."; ObjectID = "XPe-nu-Iy4"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "5pe-0O-xvD"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Hdl-Fk-1hi"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Qv5-kM-Xfj"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Wyd-yV-qin"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "cFB-gx-R5L"; */
