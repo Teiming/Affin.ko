@@ -1,108 +1,108 @@
-3c3
-< "5ni-m7-3Tf.title" = "Text Cell";
 ---
-> "5ni-m7-3Tf.title" = "テキストセル";
-6c6
-< "9Up-kQ-27c.title" = "Text Cell";
 ---
-> "9Up-kQ-27c.title" = "テキストセル";
-9c9
-< "CuL-hU-lOE.ibShadowedToolTip" = "The user scale is used instead of the exported image scale when forming paths or writing description files. It does not affect the size of the exported image.";
 ---
-> "CuL-hU-lOE.ibShadowedToolTip" = "パスを指定するときや記述ファイルを作成するときは、書き出される画像のスケールではなくユーザースケールが使用されます。このスケールは、書き出される画像のサイズに影響しません。";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "GqA-nR-yW1.title" = "User variables:";
----
-> "GqA-nR-yW1.title" = "ユーザー変数:";
 15c15
-< "H7S-Kq-meK.title" = "Done";
----
-> "H7S-Kq-meK.title" = "完了";
 18c18
-< "HH0-Oe-Ihv.placeholderString" = "Not set";
----
-> "HH0-Oe-Ihv.placeholderString" = "設定しない";
 21c21
-< "LuR-GI-Z85.placeholderString" = "Name";
----
-> "LuR-GI-Z85.placeholderString" = "名前";
 24c24
-< "O0a-0B-DeR.headerCell.title" = "Name";
----
-> "O0a-0B-DeR.headerCell.title" = "名前";
 27c27
-< "P6X-bj-nXi.headerCell.title" = "Description";
----
-> "P6X-bj-nXi.headerCell.title" = "説明";
 30c30
-< "PI1-tN-3rZ.ibShadowedToolTip" = "The path is invalid";
----
-> "PI1-tN-3rZ.ibShadowedToolTip" = "パスは無効です";
 33c33
-< "PO7-S0-Gix.title" = "Path components:";
----
-> "PO7-S0-Gix.title" = "パスの構成要素:";
 36c36
-< "WpL-4Y-96Z.headerCell.title" = "Value";
----
-> "WpL-4Y-96Z.headerCell.title" = "値";
 39c39
-< "XVJ-vf-Lup.title" = "Table View Cell";
----
-> "XVJ-vf-Lup.title" = "表ビューセル";
+3c3
 42c42
-< "YRX-eq-afB.title" = "Enter text or drag-drop variable tokens from the available list to form the output path. Note, the file extension will be added automatically.";
----
-> "YRX-eq-afB.title" = "テキストを入力するか、使用可能な変数トークンのリストからトークンをドラッグ&ドロップして、出力パスを指定します。ファイル拡張子は自動的に追加されることに注意してください。";
 45c45
-< "Yxw-bx-Cy8.title" = "Text Cell";
----
-> "Yxw-bx-Cy8.title" = "テキストセル";
 48c48
-< "aED-9K-gWc.title" = "Text Cell";
----
-> "aED-9K-gWc.title" = "テキストセル";
 51c51
-< "eEl-zb-Ozf.ibShadowedToolTip" = "The DPI value is used in the exported file, and overrides the DPI of the document.";
----
-> "eEl-zb-Ozf.ibShadowedToolTip" = "DPI値は書き出されるファイルで使用され、ドキュメントのDPIに優先します。";
 54c54
-< "h8x-fJ-RFy.placeholderString" = "Not set";
----
-> "h8x-fJ-RFy.placeholderString" = "設定しない";
 57c57
-< "jj2-Cm-Adi.title" = "Table View Cell";
----
-> "jj2-Cm-Adi.title" = "表ビューセル";
 60c60
-< "kgW-Q9-Mqk.title" = "Table View Cell";
----
-> "kgW-Q9-Mqk.title" = "表ビューセル";
 63c63
-< "mVC-dK-SLm.placeholderString" = "Value";
----
-> "mVC-dK-SLm.placeholderString" = "値";
 66c66
-< "n2S-NR-rJW.title" = "Exported DPI:";
----
-> "n2S-NR-rJW.title" = "書き出されるDPI:";
 69c69
-< "oSr-bz-vN4.headerCell.title" = "Variable";
----
-> "oSr-bz-vN4.headerCell.title" = "変数";
+6c6
 72c72
-< "q55-JW-fxj.placeholderString" = "Drag tokens and enter text to form a path template";
----
-> "q55-JW-fxj.placeholderString" = "トークンをドラッグし、テキストを入力してパステンプレートを指定します";
 75c75
-< "rax-DG-ZCb.title" = "Text Cell";
----
-> "rax-DG-ZCb.title" = "テキストセル";
 78c78
-< "w2B-Md-0BA.title" = "User scale:";
----
-> "w2B-Md-0BA.title" = "ユーザースケール:";
 81c81
+9c9
+< "5ni-m7-3Tf.title" = "Text Cell";
+< "9Up-kQ-27c.title" = "Text Cell";
+< "CuL-hU-lOE.ibShadowedToolTip" = "The user scale is used instead of the exported image scale when forming paths or writing description files. It does not affect the size of the exported image.";
+< "GqA-nR-yW1.title" = "User variables:";
+< "H7S-Kq-meK.title" = "Done";
+< "HH0-Oe-Ihv.placeholderString" = "Not set";
+< "LuR-GI-Z85.placeholderString" = "Name";
+< "O0a-0B-DeR.headerCell.title" = "Name";
+< "P6X-bj-nXi.headerCell.title" = "Description";
+< "PI1-tN-3rZ.ibShadowedToolTip" = "The path is invalid";
+< "PO7-S0-Gix.title" = "Path components:";
+< "WpL-4Y-96Z.headerCell.title" = "Value";
+< "XVJ-vf-Lup.title" = "Table View Cell";
+< "YRX-eq-afB.title" = "Enter text or drag-drop variable tokens from the available list to form the output path. Note, the file extension will be added automatically.";
+< "Yxw-bx-Cy8.title" = "Text Cell";
+< "aED-9K-gWc.title" = "Text Cell";
+< "eEl-zb-Ozf.ibShadowedToolTip" = "The DPI value is used in the exported file, and overrides the DPI of the document.";
+< "h8x-fJ-RFy.placeholderString" = "Not set";
+< "jj2-Cm-Adi.title" = "Table View Cell";
+< "kgW-Q9-Mqk.title" = "Table View Cell";
+< "mVC-dK-SLm.placeholderString" = "Value";
+< "n2S-NR-rJW.title" = "Exported DPI:";
+< "oSr-bz-vN4.headerCell.title" = "Variable";
+< "q55-JW-fxj.placeholderString" = "Drag tokens and enter text to form a path template";
+< "rax-DG-ZCb.title" = "Text Cell";
+< "w2B-Md-0BA.title" = "User scale:";
 < "xIn-39-M8k.title" = "Cancel";
----
+> "5ni-m7-3Tf.title" = "テキストセル";
+> "9Up-kQ-27c.title" = "テキストセル";
+> "CuL-hU-lOE.ibShadowedToolTip" = "パスを指定するときや記述ファイルを作成するときは、書き出される画像のスケールではなくユーザースケールが使用されます。このスケールは、書き出される画像のサイズに影響しません。";
+> "GqA-nR-yW1.title" = "ユーザー変数:";
+> "H7S-Kq-meK.title" = "完了";
+> "HH0-Oe-Ihv.placeholderString" = "設定しない";
+> "LuR-GI-Z85.placeholderString" = "名前";
+> "O0a-0B-DeR.headerCell.title" = "名前";
+> "P6X-bj-nXi.headerCell.title" = "説明";
+> "PI1-tN-3rZ.ibShadowedToolTip" = "パスは無効です";
+> "PO7-S0-Gix.title" = "パスの構成要素:";
+> "WpL-4Y-96Z.headerCell.title" = "値";
+> "XVJ-vf-Lup.title" = "表ビューセル";
+> "YRX-eq-afB.title" = "テキストを入力するか、使用可能な変数トークンのリストからトークンをドラッグ&ドロップして、出力パスを指定します。ファイル拡張子は自動的に追加されることに注意してください。";
+> "Yxw-bx-Cy8.title" = "テキストセル";
+> "aED-9K-gWc.title" = "テキストセル";
+> "eEl-zb-Ozf.ibShadowedToolTip" = "DPI値は書き出されるファイルで使用され、ドキュメントのDPIに優先します。";
+> "h8x-fJ-RFy.placeholderString" = "設定しない";
+> "jj2-Cm-Adi.title" = "表ビューセル";
+> "kgW-Q9-Mqk.title" = "表ビューセル";
+> "mVC-dK-SLm.placeholderString" = "値";
+> "n2S-NR-rJW.title" = "書き出されるDPI:";
+> "oSr-bz-vN4.headerCell.title" = "変数";
+> "q55-JW-fxj.placeholderString" = "トークンをドラッグし、テキストを入力してパステンプレートを指定します";
+> "rax-DG-ZCb.title" = "テキストセル";
+> "w2B-Md-0BA.title" = "ユーザースケール:";
 > "xIn-39-M8k.title" = "キャンセル";
