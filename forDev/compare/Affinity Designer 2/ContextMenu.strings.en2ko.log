@@ -3,6 +3,7 @@
 104,105c104,105
 11,12c11,12
 113,114c113,114
+119,120c119,120
 122,123c122,123
 128,129c128,129
 131,132c131,132
@@ -57,6 +58,7 @@
 41,42c41,42
 413,414c413,414
 416,417c416,417
+419,420c419,420
 428,429c428,429
 431,432c431,432
 434,435c434,435
@@ -92,6 +94,7 @@
 608,609c608,609
 611,612c611,612
 614,615c614,615
+617,618c617,618
 62,63c62,63
 620,621c620,621
 626,627c626,627
@@ -99,9 +102,9 @@
 638,639c638,639
 641,642c641,642
 644,645c644,645
-656,657c656,660
-659,660c662,663
-662,664d664
+656,657c656,657
+659,660c659,660
+662,663c662,663
 668,669c668,669
 671,672c671,672
 674,675c674,675
@@ -122,6 +125,7 @@
 734,735c734,735
 74,75c74,75
 753c753
+755,756c755,756
 758,759c758,759
 764,765c764,765
 767,768c767,768
@@ -131,8 +135,9 @@
 782,783c782,783
 794,795c794,795
 8,9c8,9
+809,810c809,810
+812,813c812,813
 83,84c83,84
-< 
 < "0gv-T3-hTJ.title" = "Paragraph Leading";
 < "0kp-9j-ZTs.title" = "Add";
 < "0qg-wq-vB1.title" = "Paragraph Leading";
@@ -156,6 +161,7 @@
 < "7CO-0b-tPT.title" = "Copyright";
 < "7Sx-e9-hth.title" = "Cut";
 < "7vz-4Z-vOy.title" = "Find in Layers Page";
+< "89W-ed-LIn.title" = "Lower Case";
 < "8HC-N4-Zh3.title" = "Precise Bigger";
 < "8Pb-SF-W4T.title" = "Create Slice";
 < "8YW-Sw-Mwu.title" = "Insert Filler Text";
@@ -201,6 +207,7 @@
 < "TVG-ek-0bN.title" = "Alignment";
 < "Uqz-gr-HFO.title" = "Rotate Left";
 < "Utz-UF-jbh.title" = "Rotate Left";
+< "VCI-qn-BGi.title" = "Insert Special Character";
 < "W9S-Ct-9cM.title" = "Strikeout";
 < "WDp-2b-lBZ.title" = "Bold";
 < "WIQ-Un-ar7.title" = "Symbols";
@@ -232,6 +239,7 @@
 < "jrf-2b-hrA.title" = "Divide";
 < "juC-k4-a15.title" = "All Caps";
 < "jxY-qy-61n.title" = "Arrange";
+< "k1C-6e-wc7.title" = "Insert Special Character";
 < "k1o-sg-bjE.title" = "Bigger";
 < "kb7-tH-oJb.title" = "Convert to Text Frame";
 < "kjI-fD-GoB.title" = "Find in Slice Page";
@@ -257,6 +265,7 @@
 < "rQA-PT-2o5.title" = "Line Break";
 < "ryz-Es-heY.title" = "Zoom to Fit";
 < "tAm-RZ-YQe.title" = "Capitalization";
+< "tD5-mk-Ic1.title" = "Insert Special Character";
 < "tFK-NY-SaI.title" = "Non-Breaking Hyphen";
 < "uKF-tL-iuy.title" = "En Space";
 < "uNI-hf-V9k.title" = "Move Inside";
@@ -264,12 +273,16 @@
 < "usZ-xW-9ln.title" = "Ungroup All";
 < "vEz-32-UdD.title" = "Align Top";
 < "w6L-Zx-vbF.title" = "En Dash";
+< "ywt-XU-etx.title" = "Lower Case";
+< "zTi-Tu-0NN.title" = "Insert Special Character";
 < /* Class = "NSMenu"; title = "Add to Swatches…"; ObjectID = "218"; */
 < /* Class = "NSMenu"; title = "Alignment"; ObjectID = "4oi-qS-42Q"; */
 < /* Class = "NSMenu"; title = "Arrange"; ObjectID = "jxY-qy-61n"; */
 < /* Class = "NSMenu"; title = "Character Traits"; ObjectID = "8fo-c0-h5z"; */
 < /* Class = "NSMenu"; title = "Character Traits"; ObjectID = "gGO-kO-9nq"; */
 < /* Class = "NSMenu"; title = "Geometry"; ObjectID = "LDS-PK-cBr"; */
+< /* Class = "NSMenu"; title = "Insert Special Character"; ObjectID = "k1C-6e-wc7"; */
+< /* Class = "NSMenu"; title = "Insert Special Character"; ObjectID = "tD5-mk-Ic1"; */
 < /* Class = "NSMenu"; title = "Interactive"; ObjectID = "lIx-O0-gHC"; */
 < /* Class = "NSMenu"; title = "Paragraph Leading"; ObjectID = "0qg-wq-vB1"; */
 < /* Class = "NSMenu"; title = "Size"; ObjectID = "OLL-lv-TON"; */
@@ -333,6 +346,8 @@
 < /* Class = "NSMenuItem"; title = "Increase"; ObjectID = "8t3-Iv-OUG"; */
 < /* Class = "NSMenuItem"; title = "Insert Filler Text"; ObjectID = "8YW-Sw-Mwu"; */
 < /* Class = "NSMenuItem"; title = "Insert Filler Text"; ObjectID = "iJG-E8-47u"; */
+< /* Class = "NSMenuItem"; title = "Insert Special Character"; ObjectID = "VCI-qn-BGi"; */
+< /* Class = "NSMenuItem"; title = "Insert Special Character"; ObjectID = "zTi-Tu-0NN"; */
 < /* Class = "NSMenuItem"; title = "Interactive"; ObjectID = "Ops-3G-WXH"; */
 < /* Class = "NSMenuItem"; title = "Intersect"; ObjectID = "BVL-DB-jGf"; */
 < /* Class = "NSMenuItem"; title = "Italic"; ObjectID = "OFj-la-tfD"; */
@@ -340,6 +355,8 @@
 < /* Class = "NSMenuItem"; title = "Layer Effects…"; ObjectID = "147"; */
 < /* Class = "NSMenuItem"; title = "Line Break"; ObjectID = "QqR-Gg-oLz"; */
 < /* Class = "NSMenuItem"; title = "Line Break"; ObjectID = "rQA-PT-2o5"; */
+< /* Class = "NSMenuItem"; title = "Lower Case"; ObjectID = "89W-ed-LIn"; */
+< /* Class = "NSMenuItem"; title = "Lower Case"; ObjectID = "ywt-XU-etx"; */
 < /* Class = "NSMenuItem"; title = "Move Back One"; ObjectID = "BRB-V6-9t7"; */
 < /* Class = "NSMenuItem"; title = "Move Forward One"; ObjectID = "YCo-Nt-doG"; */
 < /* Class = "NSMenuItem"; title = "Move Inside"; ObjectID = "uNI-hf-V9k"; */
@@ -392,7 +409,6 @@
 < /* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "Spz-Ij-hRZ"; */
 < /* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "29L-o9-QX6"; */
 < /* Class = "NSMenuItem"; title = "Zoom to Fit"; ObjectID = "ryz-Es-heY"; */
-> 
 > "0gv-T3-hTJ.title" = "줄 간격";
 > "0kp-9j-ZTs.title" = "추가";
 > "0qg-wq-vB1.title" = "줄 간격";
@@ -416,6 +432,7 @@
 > "7CO-0b-tPT.title" = "저작권";
 > "7Sx-e9-hth.title" = "오려두기";
 > "7vz-4Z-vOy.title" = "레이어 페이지에서 찾기";
+> "89W-ed-LIn.title" = "소문자화";
 > "8HC-N4-Zh3.title" = "조금씩 크게";
 > "8Pb-SF-W4T.title" = "슬라이스 생성";
 > "8YW-Sw-Mwu.title" = "채우기 텍스트";
@@ -461,6 +478,7 @@
 > "TVG-ek-0bN.title" = "정렬";
 > "Uqz-gr-HFO.title" = "왼쪽으로 회전";
 > "Utz-UF-jbh.title" = "왼쪽으로 회전";
+> "VCI-qn-BGi.title" = "특수문자삽입";
 > "W9S-Ct-9cM.title" = "취소선";
 > "WDp-2b-lBZ.title" = "강조";
 > "WIQ-Un-ar7.title" = "상징";
@@ -492,6 +510,7 @@
 > "jrf-2b-hrA.title" = "분할";
 > "juC-k4-a15.title" = "모두 대문자";
 > "jxY-qy-61n.title" = "순서";
+> "k1C-6e-wc7.title" = "특수문자삽입";
 > "k1o-sg-bjE.title" = "크게";
 > "kb7-tH-oJb.title" = "텍스트 액자로 전환";
 > "kjI-fD-GoB.title" = "슬라이스 페이지에서 찾기";
@@ -517,6 +536,7 @@
 > "rQA-PT-2o5.title" = "줄바꿈";
 > "ryz-Es-heY.title" = "화면 크기에 맞추기";
 > "tAm-RZ-YQe.title" = "대문자화";
+> "tD5-mk-Ic1.title" = "특수문자삽입";
 > "tFK-NY-SaI.title" = "줄 바꿈 없는 하이픈";
 > "uKF-tL-iuy.title" = "반각 공백";
 > "uNI-hf-V9k.title" = "안으로 가져오기";
@@ -524,6 +544,8 @@
 > "usZ-xW-9ln.title" = "모든 그룹 풀기";
 > "vEz-32-UdD.title" = "위쪽 정렬";
 > "w6L-Zx-vbF.title" = "반각 줄표";
+> "ywt-XU-etx.title" = "소문자화";
+> "zTi-Tu-0NN.title" = "특수문자삽입";
 > /* Class = "NSMenu"; title = "줄 간격"; ObjectID = "0qg-wq-vB1"; */
 > /* Class = "NSMenu"; title = "문자 특성"; ObjectID = "8fo-c0-h5z"; */
 > /* Class = "NSMenu"; title = "문자 특성"; ObjectID = "gGO-kO-9nq"; */
@@ -535,6 +557,8 @@
 > /* Class = "NSMenu"; title = "변형"; ObjectID = "oXy-Ar-CVe"; */
 > /* Class = "NSMenu"; title = "견본에 추가…"; ObjectID = "218"; */
 > /* Class = "NSMenu"; title = "상호작용"; ObjectID = "lIx-O0-gHC"; */
+> /* Class = "NSMenu"; title = "특수문자삽입"; ObjectID = "k1C-6e-wc7"; */
+> /* Class = "NSMenu"; title = "특수문자삽입"; ObjectID = "tD5-mk-Ic1"; */
 > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 공백"; ObjectID = "FBZ-UB-VVJ"; */
 > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 공백"; ObjectID = "HEN-ef-xZj"; */
 > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 하이픈"; ObjectID = "mqn-mX-9vI"; */
@@ -646,9 +670,13 @@
 > /* Class = "NSMenuItem"; title = "슬라이스 페이지에서 찾기"; ObjectID = "kjI-fD-GoB"; */
 > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "35"; */
 > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "7Sx-e9-hth"; */
+> /* Class = "NSMenuItem"; title = "소문자화"; ObjectID = "89W-ed-LIn"; */
 > /* Class = "NSMenuItem"; title = "상호작용"; ObjectID = "Ops-3G-WXH"; */
 > /* Class = "NSMenuItem"; title = "오려두기"; ObjectID = "PL1-LL-rDB"; */
+> /* Class = "NSMenuItem"; title = "소문자화"; ObjectID = "ywt-XU-etx"; */
 > /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "4Ll-KN-sKC"; */
 > /* Class = "NSMenuItem"; title = "오른쪽으로 회전"; ObjectID = "610-np-gG4"; */
 > /* Class = "NSMenuItem"; title = "래스터화…"; ObjectID = "q7I-Rn-iQ2"; */
+> /* Class = "NSMenuItem"; title = "특수문자삽입"; ObjectID = "VCI-qn-BGi"; */
 > /* Class = "NSMenuItem"; title = "배타적논리합"; ObjectID = "oNd-QP-ozn"; */
+> /* Class = "NSMenuItem"; title = "특수문자삽입"; ObjectID = "zTi-Tu-0NN"; */

@@ -1,4 +1,4 @@
-2,102c2,52
+2,102c2,53
 < 102c102
 < 105c105
 < 108c108
@@ -105,6 +105,7 @@
 > 104,105c104,105
 > 11,12c11,12
 > 113,114c113,114
+> 119,120c119,120
 > 122,123c122,123
 > 128,129c128,129
 > 131,132c131,132
@@ -152,7 +153,7 @@
 > 371,372c371,372
 > 38,39c38,39
 > 380,381c380,381
-104,143c54,71
+104,143c55,73
 < 390c390
 < 393c393
 < 396c396
@@ -200,6 +201,7 @@
 > 41,42c41,42
 > 413,414c413,414
 > 416,417c416,417
+> 419,420c419,420
 > 428,429c428,429
 > 431,432c431,432
 > 434,435c434,435
@@ -212,7 +214,7 @@
 > 473,474c473,474
 > 482,483c482,483
 > 485,486c485,486
-145,161c73,79
+145,161c75,81
 < 498c498
 < 501c501
 < 504c504
@@ -238,7 +240,7 @@
 > 527,528c527,528
 > 53,54c53,54
 > 536,537c536,537
-163,183c81,90
+163,183c83,92
 < 549c549
 < 54c54
 < 552c552
@@ -271,7 +273,7 @@
 > 584,585c584,585
 > 590,591c590,591
 > 596,597c596,597
-185,238c92,123
+185,238c94,126
 < 609c609
 < 60c60
 < 612c612
@@ -330,6 +332,7 @@
 > 608,609c608,609
 > 611,612c611,612
 > 614,615c614,615
+> 617,618c617,618
 > 62,63c62,63
 > 620,621c620,621
 > 626,627c626,627
@@ -337,9 +340,9 @@
 > 638,639c638,639
 > 641,642c641,642
 > 644,645c644,645
-> 656,657c656,660
-> 659,660c662,663
-> 662,664d664
+> 656,657c656,657
+> 659,660c659,660
+> 662,663c662,663
 > 668,669c668,669
 > 671,672c671,672
 > 674,675c674,675
@@ -359,7 +362,7 @@
 > 728,729c728,729
 > 734,735c734,735
 > 74,75c74,75
-240,270c125,135
+240,270c128,140
 < 756c756
 < 759c759
 < 75c75
@@ -392,6 +395,7 @@
 < < "0N8-CY-d8Y.title" = "Stretch";
 < < "0T4-D7-ytO.title" = "Separate Curves";
 ---
+> 755,756c755,756
 > 758,759c758,759
 > 764,765c764,765
 > 767,768c767,768
@@ -401,209 +405,202 @@
 > 782,783c782,783
 > 794,795c794,795
 > 8,9c8,9
+> 809,810c809,810
+> 812,813c812,813
 > 83,84c83,84
-> < 
-278d142
+278d147
 < < "1Cf-33-HkS.title" = "Delete Anchor";
-282d145
+282d150
 < < "27b-p3-mrp.title" = "Merge Curves";
-288d150
+288d155
 < < "3tf-se-YlN.title" = "Thin Space";
-290d151
+290d156
 < < "4B7-f7-aAh.title" = "Convert to Image Resource";
-294,295d154
+294,295d159
 < < "5B5-SS-R2u.title" = "Insert Endnote";
 < < "5tr-sf-w1C.title" = "Right Guillemet";
-297,301d155
+297,301d160
 < < "6DC-vC-82r.title" = "Right Indent Tab";
 < < "6SS-nO-Ddq.title" = "Go to Hyperlink Target";
 < < "6de-hM-EqY.title" = "Sentence Case";
 < < "6uF-o9-ieu.title" = "Convert Notes…";
 < < "7BX-ND-nXy.title" = "Inverted Question Mark";
-304,305d157
+304,305d162
 < < "7cY-AC-2eM.title" = "Double Right Quote";
 < < "7gb-6n-2ch.title" = "Insert Footnote";
-307d158
-< < "89W-ed-LIn.title" = "Lower Case";
-309d159
+309d165
 < < "8Ma-ZA-zVf.title" = "Delete Hyperlink";
-313d162
+313d168
 < < "8ft-PE-PQz.title" = "Paragraph Marker";
-315d163
+315d169
 < < "8wI-wf-gOv.title" = "Double Base Quote";
-322,325d169
+322,325d175
 < < "Aaf-qg-jBp.title" = "Total Pages";
 < < "AqM-ug-zEz.title" = "Spaces and Tabs";
 < < "B37-ai-lSM.title" = "Size Frame to Content";
 < < "BAr-ll-u9A.title" = "Insert Hyperlink...";
-327d170
+327d176
 < < "BN8-Vw-8xy.title" = "Title Case";
-330,331d172
+330,331d178
 < < "BY5-wY-Qeg.title" = "Approximately Equal";
 < < "BgU-ns-j3y.title" = "Set…";
-334,335d174
+334,335d180
 < < "CdM-mx-kcC.title" = "Insert Anchor...";
 < < "Cj8-8k-Fuv.title" = "Rasterize & Trim…";
-337,339d175
+337,339d181
 < < "DWt-ZE-Qjn.title" = "Narrow Non-Breaking Space";
 < < "E2q-cT-xOj.title" = "Punctuation Space";
 < < "ECs-9v-dmM.title" = "Single Right Guillemet";
-341,342d176
+341,342d182
 < < "EPr-6z-AhC.title" = "Upper Case";
 < < "EYB-NC-Dge.title" = "Odd Page Break";
-346,348d179
+346,348d185
 < < "FOB-zX-wio.title" = "Dagger";
 < < "FaU-xI-D5S.title" = "Double Dagger";
 < < "Fdg-4x-VeM.title" = "Paste as Content";
-353,358d183
+353,358d189
 < < "HGj-HX-Hvl.title" = "Next Frame Page Number";
 < < "HYH-BT-LD9.title" = "Frame Break";
 < < "Hci-Pi-a7v.title" = "Degree";
 < < "I93-eX-W3c.title" = "Double Left Quote";
 < < "IQ5-WK-1o2.title" = "Go to Note Reference";
 < < "J58-Ju-JSM.title" = "Maths";
-360d184
+360d190
 < < "JZg-Eq-H9y.title" = "Maths";
-362,367d185
+362,367d191
 < < "Ji7-4l-B30.title" = "Single Right Quote";
 < < "JjF-5x-p4r.title" = "Dashes and Hyphens";
 < < "JmW-vS-asN.title" = "Insert ";
 < < "Jod-jE-WUv.title" = "Section Marker";
 < < "JxM-dY-BdK.title" = "Pi";
 < < "JyH-yJ-8cE.title" = "Scale to Min Fit";
-369d186
+369d192
 < < "Kzn-LM-pYG.title" = "Single Left Quote";
-371,374d187
+371,374d193
 < < "LT9-eT-zj7.title" = "Insert Field";
 < < "Lgn-l3-DjU.title" = "Go to Hyperlink Target";
 < < "Liq-Ss-rJt.title" = "Convert to Picture Frame";
 < < "MKJ-NC-otr.title" = "Date and Time";
-376d188
+376d194
 < < "Mrd-kZ-gdM.title" = "Delete Hyperlink";
-381d192
+381d198
 < < "P9e-zT-ghQ.title" = "Inverted Exclamation Mark";
-383,384d193
+383,384d199
 < < "Pup-6x-W4Q.title" = "Figure Space";
 < < "QC3-0w-tBs.title" = "Even Page Break";
-387,388d195
+387,388d201
 < < "QfL-a4-DFF.title" = "Last Page in Section Run";
 < < "Qik-Nf-m9g.title" = "Left Guillemet";
-390,391d196
+390,391d202
 < < "Qsw-dh-qCG.title" = "Zero-Width Non-Joiner";
 < < "R45-el-5eW.title" = "Delete Anchor";
-393d197
+393d203
 < < "RIB-pb-wni.title" = "Column Break";
-397,400d200
+397,400d206
 < < "SqE-gZ-spc.title" = "Less Than or Equal";
 < < "T7R-b8-rol.title" = "Ellipsis";
 < < "TBb-kW-9PF.title" = "Plus Minus";
 < < "TOd-gP-7nM.title" = "Multiply";
-402d201
+402d207
 < < "Tej-Gp-a8B.title" = "Select Parent";
-405,407d203
-< < "VCI-qn-BGi.title" = "Insert Special Character";
+406,407d210
 < < "VLX-7A-JDw.title" = "Third Space";
 < < "VbE-SU-Ybh.title" = "Scale to Max Fit";
-412,413d207
+412,413d214
 < < "Wj1-n9-xoN.title" = "Previous Frame Page Number";
 < < "X4t-7t-Xra.title" = "Toggle Case";
-415,418d208
+415,418d215
 < < "XTW-CE-FbV.title" = "More…";
 < < "XmB-YD-oCr.title" = "Insert Field";
 < < "Y0A-yp-ts8.title" = "Anchor Properties...";
 < < "Y9E-3K-iU7.title" = "Hair Space";
-421d210
+421d217
 < < "YbQ-we-D5c.title" = "Section Name";
-424,425d212
+424,425d219
 < < "YpN-9b-Vht.title" = "Infinity";
 < < "ZGp-ZV-I71.title" = "Edit Cross-Reference...";
-428,429d214
+428,429d221
 < < "aMs-6d-XhQ.title" = "Breaks";
 < < "ad0-op-7F4.title" = "Toggle Case";
-431d215
+431d222
 < < "bTR-r3-ewp.title" = "Bullet";
-434,436d217
+434,436d224
 < < "byJ-ok-QdC.title" = "Show Note Marks";
 < < "cI5-Yu-0gN.title" = "Saved Date";
 < < "cX2-T6-A4u.title" = "Printed or Exported Date";
-438,440d218
+438,440d225
 < < "dIL-fD-cg2.title" = "Insert Sidenote";
 < < "dpW-5U-Fsy.title" = "Page Break";
 < < "dq6-SF-4V3.title" = "Sixth Space";
-442,443d219
+442,443d226
 < < "dyP-EV-KRZ.title" = "Dashes and Hyphens";
 < < "eDq-cr-ID6.title" = "Indent to Here";
-445,446d220
+445,446d227
 < < "f6v-WP-Mg9.title" = "Sentence Case";
 < < "fnw-Lf-pF9.title" = "Quarter Space";
-448,449d221
+448,449d228
 < < "fzw-h6-YBD.title" = "Find...";
 < < "g45-92-6Ek.title" = "Clear";
-451d222
+451d229
 < < "gZV-UP-i3Y.title" = "Page Number";
-453,454d223
+453,454d230
 < < "hD8-Up-zdN.title" = "Insert Hyperlink...";
 < < "hGK-Na-aeA.title" = "Created Date";
-457d225
+457d232
 < < "hjz-7b-OQh.title" = "Preflight Comment";
-461d228
+461d235
 < < "iWp-yO-7VJ.title" = "Edit Hyperlink...";
-463d229
+463d236
 < < "iiy-i2-XRL.title" = "Breaks";
-465,466d230
+465,466d237
 < < "jJ2-zJ-y2X.title" = "Select Top";
 < < "jNL-ui-0el.title" = "Move Selection to New Layer";
-471d234
-< < "k1C-6e-wc7.title" = "Insert Special Character";
-473d235
+473d243
 < < "kQL-ge-Xek.title" = "Frame Properties";
-475d236
+475d244
 < < "kcS-aS-nOn.title" = "Running Header";
-477d237
+477d245
 < < "lFz-Fq-bhn.title" = "Not Equal";
-481,483d240
+481,483d248
 < < "lih-jg-84e.title" = "Fill Holes";
 < < "lq6-dK-Dic.title" = "Remove Inner Curves";
 < < "m3Z-CG-KJP.title" = "Go to Note Body";
-487d243
+487d251
 < < "ns6-h8-x4i.title" = "Spaces and Tabs";
-491d246
+491d254
 < < "oyz-2F-tUv.title" = "Upper Case";
-493d247
+493d255
 < < "pUM-aU-UuK.title" = "Frame Properties";
-497,499d250
+497,499d258
 < < "q7I-Rn-iQ2.title" = "Rasterize…";
 < < "q8m-YL-tf1.title" = "Greater Than or Equal";
 < < "q8y-8K-2uK.title" = "Anchor Properties...";
-504d254
+504d262
 < < "qN9-Ui-y6I.title" = "Anchor to Center";
-506d255
+506d263
 < < "rFc-PS-Dji.title" = "Select Bottom";
-509d257
+509d265
 < < "rbo-2N-vVg.title" = "Trademark";
-511,515d258
+511,515d266
 < < "s1E-2u-8Q9.title" = "Edit Hyperlink...";
 < < "s3r-0S-sY4.title" = "Notes";
 < < "sDN-Vw-iT1.title" = "Per Mille";
 < < "sKo-Pd-l3Z.title" = "Insert Anchor...";
 < < "sfp-mi-XT3.title" = "Quotation Marks";
-517d259
-< < "tD5-mk-Ic1.title" = "Insert Special Character";
-519d260
+519d269
 < < "tfj-7X-ryo.title" = "Registered Trademark";
-522,523d262
+522,523d271
 < < "uPr-wp-VPK.title" = "Rasterize To Mask";
 < < "uXb-4C-U4R.title" = "Title Case";
-527,528d265
+527,528d274
 < < "vWx-pe-AWM.title" = "Show Anchors";
 < < "vwu-Tz-L0n.title" = "Insert Cross-Reference...";
-530,802c267,654
+530,533d275
 < < "x55-h0-sbl.title" = "Quotation Marks";
 < < "xDi-FF-KeS.title" = "Single Base Quote";
 < < "xoJ-5c-Fpr.title" = "Preflight Comment";
 < < "yHg-cS-wU3.title" = "Single Left Guillemet";
-< < "ywt-XU-etx.title" = "Lower Case";
-< < "zTi-Tu-0NN.title" = "Insert Special Character";
+536,802c278,682
 < > "0N8-CY-d8Y.title" = "ストレッチ";
 < > "0T4-D7-ytO.title" = "カーブを分離";
 < > "0gv-T3-hTJ.title" = "段落の行送り";
@@ -872,7 +869,6 @@
 < > "ywt-XU-etx.title" = "小文字にする";
 < > "zTi-Tu-0NN.title" = "特殊文字を挿入";
 ---
-> > 
 > > "0gv-T3-hTJ.title" = "줄 간격";
 > > "0kp-9j-ZTs.title" = "추가";
 > > "0qg-wq-vB1.title" = "줄 간격";
@@ -896,6 +892,7 @@
 > > "7CO-0b-tPT.title" = "저작권";
 > > "7Sx-e9-hth.title" = "오려두기";
 > > "7vz-4Z-vOy.title" = "레이어 페이지에서 찾기";
+> > "89W-ed-LIn.title" = "소문자화";
 > > "8HC-N4-Zh3.title" = "조금씩 크게";
 > > "8Pb-SF-W4T.title" = "슬라이스 생성";
 > > "8YW-Sw-Mwu.title" = "채우기 텍스트";
@@ -941,6 +938,7 @@
 > > "TVG-ek-0bN.title" = "정렬";
 > > "Uqz-gr-HFO.title" = "왼쪽으로 회전";
 > > "Utz-UF-jbh.title" = "왼쪽으로 회전";
+> > "VCI-qn-BGi.title" = "특수문자삽입";
 > > "W9S-Ct-9cM.title" = "취소선";
 > > "WDp-2b-lBZ.title" = "강조";
 > > "WIQ-Un-ar7.title" = "상징";
@@ -972,6 +970,7 @@
 > > "jrf-2b-hrA.title" = "분할";
 > > "juC-k4-a15.title" = "모두 대문자";
 > > "jxY-qy-61n.title" = "순서";
+> > "k1C-6e-wc7.title" = "특수문자삽입";
 > > "k1o-sg-bjE.title" = "크게";
 > > "kb7-tH-oJb.title" = "텍스트 액자로 전환";
 > > "kjI-fD-GoB.title" = "슬라이스 페이지에서 찾기";
@@ -997,6 +996,7 @@
 > > "rQA-PT-2o5.title" = "줄바꿈";
 > > "ryz-Es-heY.title" = "화면 크기에 맞추기";
 > > "tAm-RZ-YQe.title" = "대문자화";
+> > "tD5-mk-Ic1.title" = "특수문자삽입";
 > > "tFK-NY-SaI.title" = "줄 바꿈 없는 하이픈";
 > > "uKF-tL-iuy.title" = "반각 공백";
 > > "uNI-hf-V9k.title" = "안으로 가져오기";
@@ -1004,3 +1004,5 @@
 > > "usZ-xW-9ln.title" = "모든 그룹 풀기";
 > > "vEz-32-UdD.title" = "위쪽 정렬";
 > > "w6L-Zx-vbF.title" = "반각 줄표";
+> > "ywt-XU-etx.title" = "소문자화";
+> > "zTi-Tu-0NN.title" = "특수문자삽입";
