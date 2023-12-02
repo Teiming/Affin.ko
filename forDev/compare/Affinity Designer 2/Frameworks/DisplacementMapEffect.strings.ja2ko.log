@@ -1,12 +1,4 @@
-6,28c6,10
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,16c2,6
 < 12c12
 < 15c15
 < 18c18
@@ -28,15 +20,15 @@
 > 35,36c35,36
 > 38,39c38,39
 > 8,9c8,9
-31,34d12
+19,22d8
 < < "308.title" = "Load Map From File";
 < < "316.title" = "Scale To Fit";
 < < "327.title" = "Load Map From Layers Beneath";
 < < "El2-Gg-8E6.title" = "Load Method";
-36,37d13
+24,25d9
 < < "JWQ-1h-Np2.title" = "Red/Green offset";
 < < "n8a-1U-qAq.title" = "Sobel 3x3 intensity offset";
-40,52c16,30
+28,40c12,26
 < > "1.title" = "置き換え";
 < > "12.title" = "強さ";
 < > "226.title" = "キャンセル";
