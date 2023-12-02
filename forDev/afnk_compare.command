@@ -34,15 +34,14 @@ FILECOUNTF=$(ls -a "${JAPFPATH}" | grep "i" | sed -n "=" | tail -n "1")
 for ((i = 1; i <= ${FILECOUNT}; i++)); do
   NAME=$(/bin/ls "${JAPPATH}" | /usr/bin/sed -n "${i}p")
   echo ${i}
-  cd ~/Affin.ko/forDev/compare/
+  cd ~/literate-winner
   iconv -f utf16le -t utf8 "${JAPPATH}${NAME}" >"${KORPATH}${NAME}.ja.temp"
   diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}" | sort | uniq >./"${APPNAME}"/"${NAME}".en2ko.log
   diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}.ja.temp" | sort | uniq >./"${APPNAME}"/"${NAME}".en2ja.log
-  diff ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ko.log >./"${APPNAME}"/"${NAME}".ja2ko.pre.log
+  diff "${APPNAME}"/"${NAME}".en2ja.log "${APPNAME}"/"${NAME}".en2ko.log >./"${APPNAME}"/"${NAME}".ja2ko.pre.log
   cat ./"${APPNAME}"/"${NAME}".ja2ko.pre.log | sed '/ObjectID/d' >./"${APPNAME}"/"${NAME}".ja2ko.log
   rm ./"${APPNAME}"/"${NAME}".ja2ko.pre.log
   echo " (로그 종료)"
-  cd ~/Affin.ko/
   git add .
   git commit -m "${APPVERS} ${APPNAME} ${NAME} Updated"
 done
@@ -50,15 +49,15 @@ done
 for ((i = 1; i <= ${FILECOUNTF}; i++)); do
   NAME=$(/bin/ls "${JAPFPATH}" | /usr/bin/sed -n "${i}p")
   echo ${NAME}
-  cd ~/Affin.ko/forDev/compare/
+  cd ~/literate-winner
   iconv -f utf16le -t utf8 "${JAPFPATH}${NAME}" >"${KORFPATH}${NAME}.ja.temp"
   diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}" | sort | uniq >./"${APPNAME}"/Frameworks/"${NAME}".en2ko.log
   diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}.ja.temp" | sort | uniq >./"${APPNAME}"/Frameworks/"${NAME}".en2ja.log
-  diff ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ko.log >./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.pre.log
+  diff "${APPNAME}"/Frameworks/"${NAME}".en2ja.log "${APPNAME}"/Frameworks/"${NAME}".en2ko.log >./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.pre.log
   cat ./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.pre.log | sed '/ObjectID/d' >./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.log
   rm ./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.pre.log
   echo " (로그 종료)"
-  cd ~/Affin.ko/
   git add .
   git commit -m "${APPVERS} ${APPNAME} ${NAME} Updated"
 done
+git push
