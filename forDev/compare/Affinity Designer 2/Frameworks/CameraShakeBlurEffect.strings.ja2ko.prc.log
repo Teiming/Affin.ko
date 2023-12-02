@@ -34,18 +34,8 @@
 < > "kAv-gF-0it.ibShadowedToolTip" = "分割表示";
 < > "r9C-Ip-3t3.title" = "ショット全体を通したぶれ";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "WNc-i0-V8y"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "D1p-ZD-e2J"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "kAv-gF-0it"; */
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "249"; */
 > > "249.title" = "취소";
 > > "26.title" = "적용";
 > > "D1p-ZD-e2J.ibShadowedToolTip" = "분할 보기 해제";
 > > "WNc-i0-V8y.ibShadowedToolTip" = "거울 보기";
 > > "kAv-gF-0it.ibShadowedToolTip" = "분할 보기";
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "D1p-ZD-e2J"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "WNc-i0-V8y"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "kAv-gF-0it"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "249"; */
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
