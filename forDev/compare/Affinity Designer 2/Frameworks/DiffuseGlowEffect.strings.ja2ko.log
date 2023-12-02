@@ -1,0 +1,43 @@
+2,12c2,9
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 3c3
+< 6c6
+< 9c9
+< < "1.title" = "Diffuse Glow";
+---
+> 14,15c14,15
+> 17,18c17,18
+> 20,21c20,21
+> 23,24c23,24
+> 26,27c26,27
+> 29,30c29,30
+> 5,6c5,6
+> 8,9c8,9
+14d10
+< < "213.title" = "Intensity";
+22,31c18,41
+< > "1.title" = "光彩拡散";
+< > "12.title" = "半径";
+< > "213.title" = "強度";
+< > "230.title" = "不透明度";
+< > "234.title" = "しきい値";
+< > "26.title" = "適用";
+< > "340.title" = "キャンセル";
+< > "Cnu-zW-FwI.ibShadowedToolTip" = "分割表示";
+< > "dbR-Rt-n6u.ibShadowedToolTip" = "ミラー表示";
+< > "saL-bQ-DzL.ibShadowedToolTip" = "分割表示なし";
+---
+> > "12.title" = "반지름";
+> > "230.title" = "불투명도";
+> > "234.title" = "역치";
+> > "26.title" = "적용";
+> > "340.title" = "취소";
+> > "Cnu-zW-FwI.ibShadowedToolTip" = "분할 보기";
+> > "dbR-Rt-n6u.ibShadowedToolTip" = "거울 보기";
+> > "saL-bQ-DzL.ibShadowedToolTip" = "분할 보기 해제";
