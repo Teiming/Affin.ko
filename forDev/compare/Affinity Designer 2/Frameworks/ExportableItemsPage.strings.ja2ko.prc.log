@@ -67,21 +67,9 @@
 < > "sob-v2-stO.ibShadowedToolTip" = "コピー";
 < > "wlp-3t-jVU.title" = "一括ビルダー:";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "sob-v2-stO"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "Delete selected slice"; ObjectID = "1lE-O9-BA0"; */
-> < /* Class = "NSButtonCell"; title = "Continuous"; ObjectID = "6Qj-kD-Crr"; */
-> < /* Class = "NSButtonCell"; title = "Export Slices (000)"; ObjectID = "1zz-pF-T9N"; */
-> < /* Class = "NSTextFieldCell"; title = "Export preset:"; ObjectID = "dXe-cM-5k8"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "75"; */
 > > "1lE-O9-BA0.ibShadowedToolTip" = "선택된 슬라이스 지우기";
 > > "1zz-pF-T9N.title" = "슬라이스 내보내기 (000)";
 > > "6Qj-kD-Crr.title" = "연속";
 > > "75.title" = "텍스트 셀";
 > > "dXe-cM-5k8.title" = "내보내기 미리 설정:";
 > > "sob-v2-stO.ibShadowedToolTip" = "복사";
-> > /* Class = "NSButton"; ibShadowedToolTip = "복사"; ObjectID = "sob-v2-stO"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "선택된 슬라이스 지우기"; ObjectID = "1lE-O9-BA0"; */
-> > /* Class = "NSButtonCell"; title = "연속"; ObjectID = "6Qj-kD-Crr"; */
-> > /* Class = "NSButtonCell"; title = "슬라이스 내보내기 (000)"; ObjectID = "1zz-pF-T9N"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "75"; */
-> > /* Class = "NSTextFieldCell"; title = "내보내기 미리 설정:"; ObjectID = "dXe-cM-5k8"; */
