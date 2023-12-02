@@ -47,9 +47,5 @@
 < > "fVH-bZ-vLQ.title" = "ステップによって影響を受けるエリアにズーム";
 < > "nRK-5G-0I6.title" = "コーデック";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
-> < /* Class = "NSButtonCell"; title = "Export"; ObjectID = "101"; */
 > > "1004.title" = "취소";
 > > "101.title" = "내보내기";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
-> > /* Class = "NSButtonCell"; title = "내보내기"; ObjectID = "101"; */
