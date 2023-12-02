@@ -1,108 +1,101 @@
-1c1,8
+7,40c7,12
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 27c27
+< 30c30
+< 33c33
+< 39c39
+< 42c42
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+< 57c57
+< 60c60
+< 63c63
+< 69c69
 < 6c6
----
-> 2,3c2,3
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "75"; */
-> < "75.title" = "Text Cell";
-> ---
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "75"; */
-> > "75.title" = "텍스트 셀";
-> 5,6c5,6
-> < /* Class = "NSButton"; ibShadowedToolTip = "Delete selected slice"; ObjectID = "1lE-O9-BA0"; */
-4,5c11,14
-< > "1lE-O9-BA0.ibShadowedToolTip" = "選択スライスを削除";
+< 72c72
 < 9c9
 ---
-> > /* Class = "NSButton"; ibShadowedToolTip = "선택된 슬라이스 지우기"; ObjectID = "1lE-O9-BA0"; */
-> > "1lE-O9-BA0.ibShadowedToolTip" = "선택된 슬라이스 지우기";
-> 8,9c8,9
-> < /* Class = "NSButtonCell"; title = "Export Slices (000)"; ObjectID = "1zz-pF-T9N"; */
-8,9c17,20
-< > "1zz-pF-T9N.title" = "スライスを書き出し(000)";
-< 12c12
----
-> > /* Class = "NSButtonCell"; title = "슬라이스 내보내기 (000)"; ObjectID = "1zz-pF-T9N"; */
-> > "1zz-pF-T9N.title" = "슬라이스 내보내기 (000)";
 > 11,12c11,12
-> < /* Class = "NSButtonCell"; title = "Continuous"; ObjectID = "6Qj-kD-Crr"; */
-12,53c23,26
-< > "6Qj-kD-Crr.title" = "連続";
-< 15c15
-< < "8XY-qY-Se9.title" = "Replace export setup";
-< ---
-< > "8XY-qY-Se9.title" = "書き出しセットアップを置換";
-< 18c18
-< < "Ai0-Xh-qx1.title" = "Copy export setup";
-< ---
-< > "Ai0-Xh-qx1.title" = "書き出しセットアップをコピー";
-< 21c21
-< < "Awt-Ya-cjd.title" = "Rename export setup preset...";
-< ---
-< > "Awt-Ya-cjd.title" = "書き出しセットアッププリセットの名前を変更...";
-< 27c27
-< < "HIa-wo-uxu.title" = "Add export format";
-< ---
-< > "HIa-wo-uxu.title" = "書き出しフォーマットを追加";
-< 30c30
-< < "JeO-zZ-qDg.ibShadowedToolTip" = "Paste new item";
-< ---
-< > "JeO-zZ-qDg.ibShadowedToolTip" = "新規項目をペースト";
-< 33c33
-< < "JiO-XD-i7F.ibShadowedToolTip" = "Select an Export Batch Description builder. The batch description builder will generate supplemental files based on the entire set of files being exported.";
-< ---
-< > "JiO-XD-i7F.ibShadowedToolTip" = "書き出し一括記述ビルダーを選択します。一括記述ビルダーは、書き出される一連のファイルに基づいて補助ファイルを生成します。";
-< 39c39
-< < "LS1-xU-cXf.ibShadowedToolTip" = "Export batch description builder";
-< ---
-< > "LS1-xU-cXf.ibShadowedToolTip" = "書き出し一括記述ビルダー";
-< 42c42
-< < "SkF-mC-K1N.title" = "Delete export setup preset";
-< ---
-< > "SkF-mC-K1N.title" = "書き出しセットアッププリセットを削除";
-< 45c45
-< < "WKB-ip-DD9.title" = "Replace export format";
-< ---
-< > "WKB-ip-DD9.title" = "書き出しフォーマットを置換";
-< 48c48
-< < "cJ3-AN-sAj.title" = "Copy export format";
-< ---
-< > "cJ3-AN-sAj.title" = "書き出しフォーマットをコピー";
-< 51c51
----
-> > /* Class = "NSButtonCell"; title = "연속"; ObjectID = "6Qj-kD-Crr"; */
-> > "6Qj-kD-Crr.title" = "연속";
+> 2,3c2,3
+> 5,6c5,6
 > 50,51c50,51
-> < /* Class = "NSTextFieldCell"; title = "Export preset:"; ObjectID = "dXe-cM-5k8"; */
-56,73c29,32
-< > "dXe-cM-5k8.title" = "書き出しプリセット:";
-< 54c54
-< < "jVd-n8-FZZ.ibShadowedToolTip" = "Select an export setup preset to apply it to the selected slices";
-< ---
-< > "jVd-n8-FZZ.ibShadowedToolTip" = "選択されているスライスに適用する書き出しセットアッププリセットを選択します";
-< 57c57
-< < "kCi-LW-PWn.ibShadowedToolTip" = "Click to export all checked Slices";
-< ---
-< > "kCi-LW-PWn.ibShadowedToolTip" = "クリックすると、チェックしたすべてのスライスを書き出します";
-< 60c60
-< < "kfU-cd-Ez0.title" = "Create export setup preset...";
-< ---
-< > "kfU-cd-Ez0.title" = "書き出しセットアッププリセットを作成...";
-< 63c63
-< < "mFR-cj-5MN.ibShadowedToolTip" = "Paste and replace";
-< ---
-< > "mFR-cj-5MN.ibShadowedToolTip" = "ペーストと置換";
-< 69c69
----
-> > /* Class = "NSTextFieldCell"; title = "내보내기 미리 설정:"; ObjectID = "dXe-cM-5k8"; */
-> > "dXe-cM-5k8.title" = "내보내기 미리 설정:";
 > 68,69c68,69
-> < /* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "sob-v2-stO"; */
-76,80c35,36
-< > "sob-v2-stO.ibShadowedToolTip" = "コピー";
-< 72c72
+> 8,9c8,9
+44,53c16
+< < "8XY-qY-Se9.title" = "Replace export setup";
+< < "Ai0-Xh-qx1.title" = "Copy export setup";
+< < "Awt-Ya-cjd.title" = "Rename export setup preset...";
+< < "HIa-wo-uxu.title" = "Add export format";
+< < "JeO-zZ-qDg.ibShadowedToolTip" = "Paste new item";
+< < "JiO-XD-i7F.ibShadowedToolTip" = "Select an Export Batch Description builder. The batch description builder will generate supplemental files based on the entire set of files being exported.";
+< < "LS1-xU-cXf.ibShadowedToolTip" = "Export batch description builder";
+< < "SkF-mC-K1N.title" = "Delete export setup preset";
+< < "WKB-ip-DD9.title" = "Replace export format";
+< < "cJ3-AN-sAj.title" = "Copy export format";
+---
+> < "75.title" = "Text Cell";
+55,58d17
+< < "jVd-n8-FZZ.ibShadowedToolTip" = "Select an export setup preset to apply it to the selected slices";
+< < "kCi-LW-PWn.ibShadowedToolTip" = "Click to export all checked Slices";
+< < "kfU-cd-Ez0.title" = "Create export setup preset...";
+< < "mFR-cj-5MN.ibShadowedToolTip" = "Paste and replace";
+60,80c19,36
 < < "wlp-3t-jVU.title" = "Batch builder:";
-< ---
+< > "1lE-O9-BA0.ibShadowedToolTip" = "選択スライスを削除";
+< > "1zz-pF-T9N.title" = "スライスを書き出し(000)";
+< > "6Qj-kD-Crr.title" = "連続";
+< > "8XY-qY-Se9.title" = "書き出しセットアップを置換";
+< > "Ai0-Xh-qx1.title" = "書き出しセットアップをコピー";
+< > "Awt-Ya-cjd.title" = "書き出しセットアッププリセットの名前を変更...";
+< > "HIa-wo-uxu.title" = "書き出しフォーマットを追加";
+< > "JeO-zZ-qDg.ibShadowedToolTip" = "新規項目をペースト";
+< > "JiO-XD-i7F.ibShadowedToolTip" = "書き出し一括記述ビルダーを選択します。一括記述ビルダーは、書き出される一連のファイルに基づいて補助ファイルを生成します。";
+< > "LS1-xU-cXf.ibShadowedToolTip" = "書き出し一括記述ビルダー";
+< > "SkF-mC-K1N.title" = "書き出しセットアッププリセットを削除";
+< > "WKB-ip-DD9.title" = "書き出しフォーマットを置換";
+< > "cJ3-AN-sAj.title" = "書き出しフォーマットをコピー";
+< > "dXe-cM-5k8.title" = "書き出しプリセット:";
+< > "jVd-n8-FZZ.ibShadowedToolTip" = "選択されているスライスに適用する書き出しセットアッププリセットを選択します";
+< > "kCi-LW-PWn.ibShadowedToolTip" = "クリックすると、チェックしたすべてのスライスを書き出します";
+< > "kfU-cd-Ez0.title" = "書き出しセットアッププリセットを作成...";
+< > "mFR-cj-5MN.ibShadowedToolTip" = "ペーストと置換";
+< > "sob-v2-stO.ibShadowedToolTip" = "コピー";
 < > "wlp-3t-jVU.title" = "一括ビルダー:";
 ---
-> > /* Class = "NSButton"; ibShadowedToolTip = "복사"; ObjectID = "sob-v2-stO"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "sob-v2-stO"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Delete selected slice"; ObjectID = "1lE-O9-BA0"; */
+> < /* Class = "NSButtonCell"; title = "Continuous"; ObjectID = "6Qj-kD-Crr"; */
+> < /* Class = "NSButtonCell"; title = "Export Slices (000)"; ObjectID = "1zz-pF-T9N"; */
+> < /* Class = "NSTextFieldCell"; title = "Export preset:"; ObjectID = "dXe-cM-5k8"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "75"; */
+> > "1lE-O9-BA0.ibShadowedToolTip" = "선택된 슬라이스 지우기";
+> > "1zz-pF-T9N.title" = "슬라이스 내보내기 (000)";
+> > "6Qj-kD-Crr.title" = "연속";
+> > "75.title" = "텍스트 셀";
+> > "dXe-cM-5k8.title" = "내보내기 미리 설정:";
 > > "sob-v2-stO.ibShadowedToolTip" = "복사";
+> > /* Class = "NSButton"; ibShadowedToolTip = "복사"; ObjectID = "sob-v2-stO"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "선택된 슬라이스 지우기"; ObjectID = "1lE-O9-BA0"; */
+> > /* Class = "NSButtonCell"; title = "연속"; ObjectID = "6Qj-kD-Crr"; */
+> > /* Class = "NSButtonCell"; title = "슬라이스 내보내기 (000)"; ObjectID = "1zz-pF-T9N"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "75"; */
+> > /* Class = "NSTextFieldCell"; title = "내보내기 미리 설정:"; ObjectID = "dXe-cM-5k8"; */
