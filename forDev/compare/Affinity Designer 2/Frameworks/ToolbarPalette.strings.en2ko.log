@@ -1,24 +1,24 @@
-2,3c2,3
-< /* Class = "NSButtonCell"; title = "Done"; ObjectID = "5"; */
-< "5.title" = "Done";
 ---
-> /* Class = "NSButtonCell"; title = "완료"; ObjectID = "5"; */
-> "5.title" = "완료";
-5,6c5,6
-< /* Class = "NSTextFieldCell"; title = "Show"; ObjectID = "8"; */
-< "8.title" = "Show";
 ---
-> /* Class = "NSTextFieldCell"; title = "보기"; ObjectID = "8"; */
-> "8.title" = "보기";
+---
+---
 11,12c11,12
-< /* Class = "NSMenuItem"; title = "Icon and Text"; ObjectID = "22"; */
-< "22.title" = "Icon and Text";
----
-> /* Class = "NSMenuItem"; title = "아이콘과 텍스트"; ObjectID = "22"; */
-> "22.title" = "아이콘과 텍스트";
 14,15c14,15
-< /* Class = "NSMenuItem"; title = "Icon Only"; ObjectID = "23"; */
+2,3c2,3
+5,6c5,6
+< "22.title" = "Icon and Text";
 < "23.title" = "Icon Only";
----
-> /* Class = "NSMenuItem"; title = "아이콘만"; ObjectID = "23"; */
+< "5.title" = "Done";
+< "8.title" = "Show";
+< /* Class = "NSButtonCell"; title = "Done"; ObjectID = "5"; */
+< /* Class = "NSMenuItem"; title = "Icon Only"; ObjectID = "23"; */
+< /* Class = "NSMenuItem"; title = "Icon and Text"; ObjectID = "22"; */
+< /* Class = "NSTextFieldCell"; title = "Show"; ObjectID = "8"; */
+> "22.title" = "아이콘과 텍스트";
 > "23.title" = "아이콘만";
+> "5.title" = "완료";
+> "8.title" = "보기";
+> /* Class = "NSButtonCell"; title = "완료"; ObjectID = "5"; */
+> /* Class = "NSMenuItem"; title = "아이콘과 텍스트"; ObjectID = "22"; */
+> /* Class = "NSMenuItem"; title = "아이콘만"; ObjectID = "23"; */
+> /* Class = "NSTextFieldCell"; title = "보기"; ObjectID = "8"; */
