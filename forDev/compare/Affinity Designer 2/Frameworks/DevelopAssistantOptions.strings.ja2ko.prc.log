@@ -99,12 +99,6 @@
 < > "szV-bK-vCM.title" = "なし";
 < > "wY7-sY-0QA.ibShadowedToolTip" = "現像に入るときにレンズ補正プロファイルを最初に選択する方法を決定します。";
 ---
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "ssP-qC-g9f"; */
-> < /* Class = "NSMenuItem"; title = "Europe"; ObjectID = "7Xi-FV-e4d"; */
-> < /* Class = "NSMenuItem"; title = "None"; ObjectID = "szV-bK-vCM"; */
 > > "7Xi-FV-e4d.title" = "유럽";
 > > "ssP-qC-g9f.title" = "닫기";
 > > "szV-bK-vCM.title" = "없음";
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "ssP-qC-g9f"; */
-> > /* Class = "NSMenuItem"; title = "유럽"; ObjectID = "7Xi-FV-e4d"; */
-> > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "szV-bK-vCM"; */
