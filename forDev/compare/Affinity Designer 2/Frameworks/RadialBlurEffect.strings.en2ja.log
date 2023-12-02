@@ -1,28 +1,28 @@
-3c3
-< "1.title" = "Radial Blur";
 ---
-> "1.title" = "放射状ぼかし";
-6c6
-< "12.title" = "Angle";
 ---
-> "12.title" = "角度";
-9c9
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
+---
+---
+---
+---
 12c12
-< "213.title" = "Cancel";
----
-> "213.title" = "キャンセル";
 15c15
-< "Iy4-Tx-Ord.ibShadowedToolTip" = "No split view";
----
-> "Iy4-Tx-Ord.ibShadowedToolTip" = "分割表示なし";
 18c18
-< "MpY-5L-fPk.ibShadowedToolTip" = "Mirror view";
----
-> "MpY-5L-fPk.ibShadowedToolTip" = "ミラー表示";
 21c21
+3c3
+6c6
+9c9
+< "1.title" = "Radial Blur";
+< "12.title" = "Angle";
+< "213.title" = "Cancel";
+< "26.title" = "Apply";
+< "Iy4-Tx-Ord.ibShadowedToolTip" = "No split view";
+< "MpY-5L-fPk.ibShadowedToolTip" = "Mirror view";
 < "XOg-Nz-XP1.ibShadowedToolTip" = "Split view";
----
+> "1.title" = "放射状ぼかし";
+> "12.title" = "角度";
+> "213.title" = "キャンセル";
+> "26.title" = "適用";
+> "Iy4-Tx-Ord.ibShadowedToolTip" = "分割表示なし";
+> "MpY-5L-fPk.ibShadowedToolTip" = "ミラー表示";
 > "XOg-Nz-XP1.ibShadowedToolTip" = "分割表示";
