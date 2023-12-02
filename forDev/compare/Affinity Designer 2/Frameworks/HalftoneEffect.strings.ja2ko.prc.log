@@ -66,16 +66,6 @@
 < > "oXm-bk-Sje.ibShadowedToolTip" = "分割表示";
 < > "yT7-EY-npm.title" = "スクリーン角度";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "KHj-pC-25w"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "mIV-HS-pW3"; */
-> < /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "oXm-bk-Sje"; */
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100"; */
-> < /* Class = "NSMenuItem"; title = "Cosine"; ObjectID = "YF3-dq-gr7"; */
-> < /* Class = "NSMenuItem"; title = "Item"; ObjectID = "47B-FK-Yq1"; */
-> < /* Class = "NSMenuItem"; title = "Monochrome"; ObjectID = "5BA-uM-b6z"; */
-> < /* Class = "NSTextFieldCell"; title = "Cell Size"; ObjectID = "12"; */
-> < /* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "eKl-jE-goz"; */
 > > "100.title" = "취소";
 > > "12.title" = "셀 크기";
 > > "26.title" = "적용";
@@ -87,13 +77,3 @@
 > > "kD9-sV-H0R.title" = "색상";
 > > "mIV-HS-pW3.ibShadowedToolTip" = "분할 보기 해제";
 > > "oXm-bk-Sje.ibShadowedToolTip" = "분할 보기";
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "mIV-HS-pW3"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "KHj-pC-25w"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "oXm-bk-Sje"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "100"; */
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> > /* Class = "NSMenuItem"; title = "항목"; ObjectID = "47B-FK-Yq1"; */
-> > /* Class = "NSMenuItem"; title = "단색"; ObjectID = "5BA-uM-b6z"; */
-> > /* Class = "NSMenuItem"; title = "코사인"; ObjectID = "YF3-dq-gr7"; */
-> > /* Class = "NSTextFieldCell"; title = "셀 크기"; ObjectID = "12"; */
-> > /* Class = "NSTextFieldCell"; title = "대비"; ObjectID = "eKl-jE-goz"; */
