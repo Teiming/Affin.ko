@@ -1,60 +1,60 @@
-5,6c5,6
-< /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "15"; */
-< "15.title" = "Radius";
 ---
-> /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "15"; */
-> "15.title" = "반지름";
-8,9c8,9
-< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "19"; */
-< "19.title" = "Apply";
 ---
-> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "19"; */
-> "19.title" = "적용";
+---
+---
+---
+---
+---
+---
+---
+---
 14,15c14,15
-< /* Class = "NSMenuItem"; title = "Elliptical"; ObjectID = "32"; */
-< "32.title" = "Elliptical";
----
-> /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "32"; */
-> "32.title" = "타원형";
 20,21c20,21
-< /* Class = "NSTextFieldCell"; title = "Vibrance"; ObjectID = "102"; */
-< "102.title" = "Vibrance";
----
-> /* Class = "NSTextFieldCell"; title = "활기"; ObjectID = "102"; */
-> "102.title" = "활기";
 23,24c23,24
-< /* Class = "NSTextFieldCell"; title = "Clarity"; ObjectID = "135"; */
-< "135.title" = "Clarity";
----
-> /* Class = "NSTextFieldCell"; title = "명쾌"; ObjectID = "135"; */
-> "135.title" = "명쾌";
 26,27c26,27
-< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "166"; */
-< "166.title" = "Cancel";
----
-> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "166"; */
-> "166.title" = "취소";
 29,30c29,30
-< /* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "396"; */
-< "396.title" = "Mode";
----
-> /* Class = "NSTextFieldCell"; title = "모드"; ObjectID = "396"; */
-> "396.title" = "모드";
 32,33c32,33
-< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "9Nv-4z-CJ6"; */
-< "9Nv-4z-CJ6.ibShadowedToolTip" = "Split view";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "9Nv-4z-CJ6"; */
-> "9Nv-4z-CJ6.ibShadowedToolTip" = "분할 뷰 모드";
 35,36c35,36
-< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "Ey6-gC-wKB"; */
-< "Ey6-gC-wKB.ibShadowedToolTip" = "No split view";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "Ey6-gC-wKB"; */
-> "Ey6-gC-wKB.ibShadowedToolTip" = "분할 뷰 모드 해제";
 38,39c38,39
-< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "pri-8L-abp"; */
+5,6c5,6
+8,9c8,9
+< "102.title" = "Vibrance";
+< "135.title" = "Clarity";
+< "15.title" = "Radius";
+< "166.title" = "Cancel";
+< "19.title" = "Apply";
+< "32.title" = "Elliptical";
+< "396.title" = "Mode";
+< "9Nv-4z-CJ6.ibShadowedToolTip" = "Split view";
+< "Ey6-gC-wKB.ibShadowedToolTip" = "No split view";
 < "pri-8L-abp.ibShadowedToolTip" = "Mirror view";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "pri-8L-abp"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "pri-8L-abp"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "Ey6-gC-wKB"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "9Nv-4z-CJ6"; */
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "19"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "166"; */
+< /* Class = "NSMenuItem"; title = "Elliptical"; ObjectID = "32"; */
+< /* Class = "NSTextFieldCell"; title = "Clarity"; ObjectID = "135"; */
+< /* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "396"; */
+< /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "15"; */
+< /* Class = "NSTextFieldCell"; title = "Vibrance"; ObjectID = "102"; */
+> "102.title" = "활기";
+> "135.title" = "명쾌";
+> "15.title" = "반지름";
+> "166.title" = "취소";
+> "19.title" = "적용";
+> "32.title" = "타원형";
+> "396.title" = "모드";
+> "9Nv-4z-CJ6.ibShadowedToolTip" = "분할 뷰 모드";
+> "Ey6-gC-wKB.ibShadowedToolTip" = "분할 뷰 모드 해제";
 > "pri-8L-abp.ibShadowedToolTip" = "거울 뷰 모드";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "Ey6-gC-wKB"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "9Nv-4z-CJ6"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "pri-8L-abp"; */
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "166"; */
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "19"; */
+> /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "32"; */
+> /* Class = "NSTextFieldCell"; title = "활기"; ObjectID = "102"; */
+> /* Class = "NSTextFieldCell"; title = "명쾌"; ObjectID = "135"; */
+> /* Class = "NSTextFieldCell"; title = "모드"; ObjectID = "396"; */
+> /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "15"; */
