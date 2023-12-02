@@ -1,74 +1,64 @@
-1,9c1,2
-< 3c3
-< < "29.title" = "AMainMenu";
+8,22c8,14
 < ---
-< > "29.title" = "Aメインメニュー";
+< ---
+< ---
+< ---
 < 12c12
-< < "58.title" = "About Designer";
-< ---
-< > "58.title" = "Designerについて";
 < 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
 ---
 > 14,15c14,15
-> < /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
-12,13c5,8
-< > "129.title" = "環境設定…";
-< 18c18
----
-> > /* Class = "NSMenuItem"; title = "환경설정…"; ObjectID = "129"; */
-> > "129.title" = "환경설정…";
 > 17,18c17,18
-> < /* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
-16,17c11,14
-< > "130.title" = "サービス";
-< 21c21
----
-> > /* Class = "NSMenu"; title = "서비스"; ObjectID = "130"; */
-> > "130.title" = "서비스";
 > 20,21c20,21
-> < /* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
-20,29c17,20
-< > "131.title" = "サービス";
-< 24c24
-< < "134.title" = "Hide Designer";
-< ---
-< > "134.title" = "Designerを隠す";
-< 27c27
-< < "136.title" = "Quit Designer";
-< ---
-< > "136.title" = "Designerを終了";
-< 30c30
----
-> > /* Class = "NSMenuItem"; title = "서비스"; ObjectID = "131"; */
-> > "131.title" = "서비스";
 > 29,30c29,30
-> < /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
-32,33c23,26
-< > "145.title" = "他を隠す";
-< 33c33
----
-> > /* Class = "NSMenuItem"; title = "기타 가리기"; ObjectID = "145"; */
-> > "145.title" = "기타 가리기";
 > 32,33c32,33
-> < /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
-36,37c29,32
-< > "150.title" = "すべて表示";
-< 36c36
----
-> > /* Class = "NSMenuItem"; title = "모두 보기"; ObjectID = "150"; */
-> > "150.title" = "모두 보기";
 > 35,36c35,36
-> < /* Class = "NSWindow"; title = "Window"; ObjectID = "VIN-Ub-wlk"; */
-40,41c35,38
-< > "VIN-Ub-wlk.title" = "ウィンドウ";
-< 39c39
----
-> > /* Class = "NSWindow"; title = "윈도우"; ObjectID = "VIN-Ub-wlk"; */
-> > "VIN-Ub-wlk.title" = "윈도우";
 > 38,39c38,39
-> < /* Class = "NSTextFieldCell"; title = "Version"; ObjectID = "g5w-Gk-ajv"; */
-44c41,42
+26,27d17
+< < "134.title" = "Hide Designer";
+< < "136.title" = "Quit Designer";
+30,31d19
+< < "29.title" = "AMainMenu";
+< < "58.title" = "About Designer";
+34,44c22,42
+< > "129.title" = "環境設定…";
+< > "130.title" = "サービス";
+< > "131.title" = "サービス";
+< > "134.title" = "Designerを隠す";
+< > "136.title" = "Designerを終了";
+< > "145.title" = "他を隠す";
+< > "150.title" = "すべて表示";
+< > "29.title" = "Aメインメニュー";
+< > "58.title" = "Designerについて";
+< > "VIN-Ub-wlk.title" = "ウィンドウ";
 < > "g5w-Gk-ajv.title" = "バージョン";
 ---
-> > /* Class = "NSTextFieldCell"; title = "버전"; ObjectID = "g5w-Gk-ajv"; */
+> < /* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+> < /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+> < /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+> < /* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+> < /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+> < /* Class = "NSTextFieldCell"; title = "Version"; ObjectID = "g5w-Gk-ajv"; */
+> < /* Class = "NSWindow"; title = "Window"; ObjectID = "VIN-Ub-wlk"; */
+> > "129.title" = "환경설정…";
+> > "130.title" = "서비스";
+> > "131.title" = "서비스";
+> > "145.title" = "기타 가리기";
+> > "150.title" = "모두 보기";
+> > "VIN-Ub-wlk.title" = "윈도우";
 > > "g5w-Gk-ajv.title" = "버전";
+> > /* Class = "NSMenu"; title = "서비스"; ObjectID = "130"; */
+> > /* Class = "NSMenuItem"; title = "모두 보기"; ObjectID = "150"; */
+> > /* Class = "NSMenuItem"; title = "기타 가리기"; ObjectID = "145"; */
+> > /* Class = "NSMenuItem"; title = "서비스"; ObjectID = "131"; */
+> > /* Class = "NSMenuItem"; title = "환경설정…"; ObjectID = "129"; */
+> > /* Class = "NSTextFieldCell"; title = "버전"; ObjectID = "g5w-Gk-ajv"; */
+> > /* Class = "NSWindow"; title = "윈도우"; ObjectID = "VIN-Ub-wlk"; */
