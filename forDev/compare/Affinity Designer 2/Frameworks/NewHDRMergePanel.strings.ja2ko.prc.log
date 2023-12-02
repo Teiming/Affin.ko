@@ -50,21 +50,9 @@
 < > "mWE-VA-Hcm.title" = "テキストセル";
 < > "uzZ-t0-VUg.title" = "パースペクティブ";
 ---
-> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "9UU-bz-y9v"; */
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8"; */
-> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "5cY-MO-oRN"; */
-> < /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "Br9-je-FhX"; */
-> < /* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "YEe-Ih-3DM"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mWE-VA-Hcm"; */
 > > "5cY-MO-oRN.title" = "지우기";
 > > "8.title" = "취소";
 > > "9UU-bz-y9v.title" = "추가";
 > > "Br9-je-FhX.headerCell.title" = "플러그인";
 > > "YEe-Ih-3DM.title" = "이미지";
 > > "mWE-VA-Hcm.title" = "텍스트 셀";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "8"; */
-> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "9UU-bz-y9v"; */
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "5cY-MO-oRN"; */
-> > /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "Br9-je-FhX"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "mWE-VA-Hcm"; */
-> > /* Class = "NSTextFieldCell"; title = "이미지"; ObjectID = "YEe-Ih-3DM"; */
