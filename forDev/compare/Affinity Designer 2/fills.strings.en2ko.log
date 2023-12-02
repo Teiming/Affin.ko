@@ -24,6 +24,7 @@
 ---
 ---
 ---
+---
 11c11
 14c14
 17c17
@@ -49,6 +50,7 @@
 5c5
 62c62
 65c65
+68c68
 8c8
 < "Black 10%" = "Black 10%";
 < "Black 15%" = "Black 15%";
@@ -72,6 +74,7 @@
 < "Black to transparent" = "Black to transparent";
 < "Black to white" = "Black to white";
 < "Black" = "Black";
+< "Colours" = "Colors";
 < "Gradients" = "Gradients";
 < "White to black" = "White to black";
 < "White to transparent" = "White to transparent";
@@ -98,6 +101,7 @@
 > "Black to transparent" = "검정에서 투명";
 > "Black to white" = "검정에서 하양";
 > "Black" = "검정";
+> "Colours" = "색상";
 > "Gradients" = "그레이디언트";
 > "White to black" = "하양에서 검정";
 > "White to transparent" = "하양에서 투명";

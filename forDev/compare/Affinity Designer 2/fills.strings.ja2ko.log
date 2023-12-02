@@ -1,15 +1,10 @@
-27,28d26
+28d27
 < ---
-< ---
-36d33
+36d34
 < 2c2
-55d51
-< 68c68
-79d74
-< < "Colours" = "Colors";
-81d75
+81d78
 < < "Greys" = "Grays";
-85,112c79,104
+85,112c82,108
 < > "Black 10%" = "黒10%";
 < > "Black 15%" = "黒15%";
 < > "Black 20%" = "黒20%";
@@ -61,6 +56,7 @@
 > > "Black to transparent" = "검정에서 투명";
 > > "Black to white" = "검정에서 하양";
 > > "Black" = "검정";
+> > "Colours" = "색상";
 > > "Gradients" = "그레이디언트";
 > > "White to black" = "하양에서 검정";
 > > "White to transparent" = "하양에서 투명";
