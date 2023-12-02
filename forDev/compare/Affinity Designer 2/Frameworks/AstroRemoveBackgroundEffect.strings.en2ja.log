@@ -1,52 +1,52 @@
-3c3
-< "1.title" = "Remove Background";
 ---
-> "1.title" = "背景を削除";
-6c6
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
-9c9
-< "210.title" = "Cancel";
 ---
-> "210.title" = "キャンセル";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "299-Qg-gwy.title" = "Radius:";
----
-> "299-Qg-gwy.title" = "半径:";
 15c15
-< "3uv-u4-8Qj.title" = "Gray:";
----
-> "3uv-u4-8Qj.title" = "グレー:";
 18c18
-< "9Rx-ke-sZy.title" = "Blue:";
----
-> "9Rx-ke-sZy.title" = "青:";
 21c21
-< "Emz-Eh-oYo.title" = "Sample color at handle";
----
-> "Emz-Eh-oYo.title" = "ハンドルのサンプルカラー";
 24c24
-< "Ltk-tI-wRy.ibShadowedToolTip" = "Split view";
----
-> "Ltk-tI-wRy.ibShadowedToolTip" = "分割表示";
 27c27
-< "MOA-Oa-wtv.ibShadowedToolTip" = "No split view";
----
-> "MOA-Oa-wtv.ibShadowedToolTip" = "分割表示なし";
 30c30
-< "MsI-gk-9x9.title" = "Green:";
----
-> "MsI-gk-9x9.title" = "緑:";
 33c33
-< "pKP-tq-Aoh.title" = "Red:";
----
-> "pKP-tq-Aoh.title" = "赤:";
 36c36
-< "qYH-aA-W1a.title" = "Output black level:";
----
-> "qYH-aA-W1a.title" = "出力の黒レベル:";
 39c39
+3c3
+6c6
+9c9
+< "1.title" = "Remove Background";
+< "210.title" = "Cancel";
+< "26.title" = "Apply";
+< "299-Qg-gwy.title" = "Radius:";
+< "3uv-u4-8Qj.title" = "Gray:";
+< "9Rx-ke-sZy.title" = "Blue:";
+< "Emz-Eh-oYo.title" = "Sample color at handle";
+< "Ltk-tI-wRy.ibShadowedToolTip" = "Split view";
+< "MOA-Oa-wtv.ibShadowedToolTip" = "No split view";
+< "MsI-gk-9x9.title" = "Green:";
+< "pKP-tq-Aoh.title" = "Red:";
+< "qYH-aA-W1a.title" = "Output black level:";
 < "z1c-Hh-uOd.ibShadowedToolTip" = "Mirror view";
----
+> "1.title" = "背景を削除";
+> "210.title" = "キャンセル";
+> "26.title" = "適用";
+> "299-Qg-gwy.title" = "半径:";
+> "3uv-u4-8Qj.title" = "グレー:";
+> "9Rx-ke-sZy.title" = "青:";
+> "Emz-Eh-oYo.title" = "ハンドルのサンプルカラー";
+> "Ltk-tI-wRy.ibShadowedToolTip" = "分割表示";
+> "MOA-Oa-wtv.ibShadowedToolTip" = "分割表示なし";
+> "MsI-gk-9x9.title" = "緑:";
+> "pKP-tq-Aoh.title" = "赤:";
+> "qYH-aA-W1a.title" = "出力の黒レベル:";
 > "z1c-Hh-uOd.ibShadowedToolTip" = "ミラー表示";
