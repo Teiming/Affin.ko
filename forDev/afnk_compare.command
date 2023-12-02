@@ -22,7 +22,7 @@ case ${Application} in
   ;;
 esac
 
-APPVERS=2.2.1
+APPVERS=2.3.0
 
 ENGPATH=~/Applications/"${APPNAME}".app/Contents/Resources/en-US.lproj/
 JAPPATH=~/Applications/"${APPNAME}".app/Contents/Resources/ja.lproj/
@@ -46,7 +46,7 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   echo " (로그 종료)"
   cd ~/Affin.ko/
   git add .
-  git commit -m "${APPNAME} ${NAME} Updated"
+  git commit -m "${APPNAME} ${APPNAME} ${NAME} Updated"
 done
 
 for ((i = 1; i <= ${FILECOUNTF}; i++)); do

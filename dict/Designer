@@ -1,4 +1,3 @@
-s/Do you still want to enable "Save With History"?\";/정말 "편집 기록과 함께 저장"할까요?\";/
 s/\" \[Locked]\";/\" \[잠금]\";/
 s/\" \[Modified]\";/\" \[변경]\";/
 s/\"%1 |CLICK|+|TERTIARY| to preserve frame formatting.\";/\"%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.\";/
@@ -47,7 +46,6 @@ s/\"Add\";/\"추가\";/
 s/\"Adjustment brush\";/\"조정 브러시\";/
 s/\"Adjustment\";/\"조정\";/
 s/\"Adjustments\";/\"조정\";/
-s/\"Advanced Affinity Designer Affinity Designer Frameworks Affinity Designer Beta Affinity Designer Beta Frameworks Affinity Photo Affinity Photo Frameworks Affinity Photo Beta Affinity Photo Beta Frameworks Affinity Publisher Affinity Publisher Frameworks Affinity Publisher Beta Affinity Publisher Beta Frameworks Converter DictionaryDesigner DictionaryDiff DictionaryPhoto DictionaryPublisher Diff Syncor Translator Language:\";/\"Advanced Affinity Designer Affinity Designer Frameworks Affinity Designer Beta Affinity Designer Beta Frameworks Affinity Photo Affinity Photo Frameworks Affinity Photo Beta Affinity Photo Beta Frameworks Affinity Publisher Affinity Publisher Frameworks Affinity Publisher Beta Affinity Publisher Beta Frameworks Converter DictionaryDesigner DictionaryDiff DictionaryPhoto DictionaryPublisher Diff Syncor Translator 언어:\";/
 s/\"Advanced\";/\"고급\";/
 s/\"Affinity Designer Help\";/\"Affinity Designer 도움말\";/
 s/\"After\";/\"이후\";/
@@ -334,7 +332,7 @@ s/\"Custom\";/\"사용자화\";/
 s/\"Customise Toolbar…\";/\"툴바 사용자화…\";/
 s/\"Customise Tools…\";/\"도구 사용자화…\";/
 s/\"Cut\";/\"오려두기\";/
-s/\"Cycle View Mode\";/\"뷰 모드 순환\";/
+s/\"Cycle View Mode\";/\"보기 순환\";/
 s/\"Daily\";/\"매일\";/
 s/\"Dark\";/\"다크\";/
 s/\"Darken\";/\"어둡게\";/
@@ -769,7 +767,7 @@ s/\"Millimetres:\";/\"밀리미터:\";/
 s/\"Millimetres\";/\"밀리미터\";/
 s/\"Min:\";/\"최소:\";/
 s/\"Minimize\";/\"최소화\";/
-s/\"Mirror view\";/\"거울 뷰 모드\";/
+s/\"Mirror view\";/\"거울 보기\";/
 s/\"Mirror\";/\"거울\";/
 s/\"Miscellaneous\";/\"기타\";/
 s/\"Mitre Join\";/\"짜임 결합\";/
@@ -828,7 +826,7 @@ s/\"No Camera Data\";/\"카메라 데이터 없음\";/
 s/\"No Line Style\";/\"선 스타일 없음\";/
 s/\"No Selection\";/\"선택 항목 없음\";/
 s/\"No Snapshot\";/\"스냅샷 없음\";/
-s/\"No split view\";/\"분할 뷰 모드 해제\";/
+s/\"No split view\";/\"분할 보기 해제\";/
 s/\"No\";/\"아니오\";/
 s/\"Node Tool\";/\"마디 도구\";/
 s/\"Node\";/\"마디\";/
@@ -862,7 +860,7 @@ s/\"Out:\";/\"바깥:\";/
 s/\"Outer Glow\";/\"외부 광채\";/
 s/\"Outer Shadow\";/\"외부 그림자\";/
 s/\"Outer\";/\"외부\";/
-s/\"Outline view mode\";/\"외형 뷰 모드\";/
+s/\"Outline view mode\";/\"외형 보기\";/
 s/\"Outline\";/\"외형\";/
 s/\"Outline…\";/\"외형…\";/
 s/\"Output Angle\";/\"출력 각도\";/
@@ -916,7 +914,7 @@ s/\"Pixel Persona\";/\"픽셀 페르소나\";/
 s/\"Pixel Size\";/\"픽셀 크기\";/
 s/\"Pixel Tool\";/\"픽셀 도구\";/
 s/\"Pixel format:\";/\"픽셀 포맷:\";/
-s/\"Pixel view mode\";/\"픽셀 뷰 모드\";/
+s/\"Pixel view mode\";/\"픽셀 보기\";/
 s/\"Pixel\";/\"픽셀\";/
 s/\"Pixels (Retina)\";/\"픽셀 (레티나)\";/
 s/\"Pixels: -\";/\"픽셀: -\";/
@@ -1039,7 +1037,7 @@ s/\"Restore Snapshot\";/\"스냅샷 복원\";/
 s/\"Restore unsaved file?\";/\"저장하지 않은 파일을 복원하겠습니까?\";/
 s/\"Restore\";/\"복원\";/
 s/\"Retina Pixels\";/\"레티나 픽셀\";/
-s/\"Retina pixel view mode\";/\"레티나 픽셀 뷰 모드\";/
+s/\"Retina pixel view mode\";/\"레티나 픽셀 보기\";/
 s/\"Retrieve Margin from Printer\";/\"프린터 여백을 이용\";/
 s/\"Reveal in Finder\";/\"Finder에서 찾기\";/
 s/\"Reverse Curve\";/\"곡선 반대로\";/
@@ -1200,7 +1198,7 @@ s/\"Show\";/\"보기\";/
 s/\"Side\";/\"옆쪽\";/
 s/\"Single Strikethrough\";/\"단일 취소선\";/
 s/\"Single Underline\";/\"단일 밑줄\";/
-s/\"Single View\";/\"단일 뷰 모드\";/
+s/\"Single View\";/\"단일 보기\";/
 s/\"Single radius\";/\"단일 반지름\";/
 s/\"Size Jitter:\";/\"크기 일그러짐:\";/
 s/\"Size Variance:\";/\"크기 분산:\";/
@@ -1253,8 +1251,8 @@ s/\"Spelling Options…\";/\"철자 설정…\";/
 s/\"Spelling\";/\"철자\";/
 s/\"Split Complementary\";/\"분할 보색\";/
 s/\"Split Toning\";/\"분할 색조\";/
-s/\"Split View\";/\"분할 뷰 모드\";/
-s/\"Split view\";/\"분할 뷰 모드\";/
+s/\"Split View\";/\"분할 보기\";/
+s/\"Split view\";/\"분할 보기\";/
 s/\"Split\";/\"분할\";/
 s/\"Spread Margin\";/\"스프레드 여백\";/
 s/\"Spread Setup…\";/\"스프레드 설정…\";/
@@ -1440,7 +1438,7 @@ s/\"Vertical Scale\";/\"세로 배율\";/
 s/\"Vertical axis:\";/\"세로 축:\";/
 s/\"Vertical\";/\"세로\";/
 s/\"Vibrance\";/\"활기\";/
-s/\"View Mode\";/\"뷰 모드\";/
+s/\"View Mode\";/\"보기\";/
 s/\"View Samples\";/\"샘플 보기\";/
 s/\"View Tool\";/\"뷰 도구\";/
 s/\"View Tutorials\";/\"튜토리얼 보기\";/
