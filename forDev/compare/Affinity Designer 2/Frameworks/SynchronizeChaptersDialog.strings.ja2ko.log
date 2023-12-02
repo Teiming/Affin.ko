@@ -1,42 +1,40 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSButtonCell"; title = "Swatches"; ObjectID = "18J-uu-hJS"; */
-4,9c5,8
-< > "18J-uu-hJS.title" = "スウォッチ";
-< 6c6
-< < "F0z-JX-Cv5.title" = "Synchronize";
+4,14c4,6
 < ---
-< > "F0z-JX-Cv5.title" = "同期";
+< ---
+< ---
+< ---
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 3c3
+< 6c6
 < 9c9
 ---
-> > /* Class = "NSButtonCell"; title = "견본"; ObjectID = "18J-uu-hJS"; */
-> > "18J-uu-hJS.title" = "견본";
-> 8,9c8,9
-> < /* Class = "NSButtonCell"; title = "Text Styles"; ObjectID = "M2e-92-XCR"; */
-12,25c11,14
-< > "M2e-92-XCR.title" = "テキストスタイル";
-< 12c12
-< < "TYC-kW-gcP.title" = "Table Formats";
-< ---
-< > "TYC-kW-gcP.title" = "表フォーマット";
-< 15c15
-< < "WmS-aZ-JXn.title" = "Synchronize Now";
-< ---
-< > "WmS-aZ-JXn.title" = "今すぐ同期";
-< 18c18
-< < "rpO-4j-8ol.title" = "Master Pages";
-< ---
-< > "rpO-4j-8ol.title" = "マスターページ";
-< 21c21
----
-> > /* Class = "NSButtonCell"; title = "텍스트 스타일"; ObjectID = "M2e-92-XCR"; */
-> > "M2e-92-XCR.title" = "텍스트 스타일";
+> 2,3c2,3
 > 20,21c20,21
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "uTb-Fv-nQE"; */
-28c17,18
+> 8,9c8,9
+16d7
+< < "F0z-JX-Cv5.title" = "Synchronize";
+18,20d8
+< < "TYC-kW-gcP.title" = "Table Formats";
+< < "WmS-aZ-JXn.title" = "Synchronize Now";
+< < "rpO-4j-8ol.title" = "Master Pages";
+22,28c10,18
+< > "18J-uu-hJS.title" = "スウォッチ";
+< > "F0z-JX-Cv5.title" = "同期";
+< > "M2e-92-XCR.title" = "テキストスタイル";
+< > "TYC-kW-gcP.title" = "表フォーマット";
+< > "WmS-aZ-JXn.title" = "今すぐ同期";
+< > "rpO-4j-8ol.title" = "マスターページ";
 < > "uTb-Fv-nQE.title" = "閉じる";
 ---
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "uTb-Fv-nQE"; */
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "uTb-Fv-nQE"; */
+> < /* Class = "NSButtonCell"; title = "Swatches"; ObjectID = "18J-uu-hJS"; */
+> < /* Class = "NSButtonCell"; title = "Text Styles"; ObjectID = "M2e-92-XCR"; */
+> > "18J-uu-hJS.title" = "견본";
+> > "M2e-92-XCR.title" = "텍스트 스타일";
 > > "uTb-Fv-nQE.title" = "닫기";
+> > /* Class = "NSButtonCell"; title = "견본"; ObjectID = "18J-uu-hJS"; */
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "uTb-Fv-nQE"; */
+> > /* Class = "NSButtonCell"; title = "텍스트 스타일"; ObjectID = "M2e-92-XCR"; */
