@@ -65,18 +65,8 @@
 < > "hcL-GU-vo4.title" = "後";
 < > "piG-xd-yVq.title" = "ページ番号:";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fIV-u8-dQJ"; */
-> < /* Class = "NSMenuItem"; title = "After"; ObjectID = "hcL-GU-vo4"; */
-> < /* Class = "NSMenuItem"; title = "Before"; ObjectID = "9bm-sP-Co1"; */
-> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "CXZ-u6-bMc"; */
-> < /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "IEL-yo-O4V"; */
 > > "9bm-sP-Co1.title" = "이전";
 > > "CXZ-u6-bMc.title" = "라벨";
 > > "IEL-yo-O4V.title" = "라벨";
 > > "fIV-u8-dQJ.title" = "취소";
 > > "hcL-GU-vo4.title" = "이후";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "fIV-u8-dQJ"; */
-> > /* Class = "NSMenuItem"; title = "이전"; ObjectID = "9bm-sP-Co1"; */
-> > /* Class = "NSMenuItem"; title = "이후"; ObjectID = "hcL-GU-vo4"; */
-> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "CXZ-u6-bMc"; */
-> > /* Class = "NSTextFieldCell"; title = "라벨"; ObjectID = "IEL-yo-O4V"; */
