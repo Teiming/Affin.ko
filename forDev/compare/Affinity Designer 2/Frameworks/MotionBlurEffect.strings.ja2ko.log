@@ -1,0 +1,35 @@
+2,10c2,8
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 3c3
+< 6c6
+< 9c9
+< < "1.title" = "Motion Blur";
+---
+> 11,12c11,12
+> 14,15c14,15
+> 17,18c17,18
+> 20,21c20,21
+> 23,24c23,24
+> 5,6c5,6
+> 8,9c8,9
+18,25c16,36
+< > "1.title" = "モーションぼかし";
+< > "12.title" = "半径";
+< > "213.title" = "回転";
+< > "236.title" = "キャンセル";
+< > "26.title" = "適用";
+< > "FPW-ho-Fhp.ibShadowedToolTip" = "ミラー表示";
+< > "HOs-ed-DYa.ibShadowedToolTip" = "分割表示なし";
+< > "YFi-To-EqF.ibShadowedToolTip" = "分割表示";
+---
+> > "12.title" = "반지름";
+> > "213.title" = "회전";
+> > "236.title" = "취소";
+> > "26.title" = "적용";
+> > "FPW-ho-Fhp.ibShadowedToolTip" = "거울 보기";
+> > "HOs-ed-DYa.ibShadowedToolTip" = "분할 보기 해제";
+> > "YFi-To-EqF.ibShadowedToolTip" = "분할 보기";
