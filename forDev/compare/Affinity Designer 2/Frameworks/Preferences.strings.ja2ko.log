@@ -1,1170 +1,1219 @@
-1,33c1,2
-< 3c3
-< < "6.title" = "Reset User Defaults";
+57,530c57,112
 < ---
-< > "6.title" = "ユーザーのデフォルト設定をリセット";
-< 6c6
-< < "10.title" = "Reopen document(s) on startup";
 < ---
-< > "10.title" = "起動時にドキュメントを再度開く";
-< 9c9
-< < "19.title" = "RAM Usage Limit:";
 < ---
-< > "19.title" = "RAM使用量上限:";
-< 12c12
-< < "32.title" = "Undo Limit:";
 < ---
-< > "32.title" = "取り消し回数上限:";
-< 15c15
-< < "52.title" = "Disk Usage Warning At:";
 < ---
-< > "52.title" = "ディスク使用量警告レベル:";
-< 18c18
-< < "96.title" = "Background Gray Level:";
 < ---
-< > "96.title" = "背景グレーレベル:";
-< 21c21
-< < "122.title" = "UI Brightness:";
 < ---
-< > "122.title" = "UIの明るさ:";
-< 24c24
-< < "134.title" = "Reset Object Styles";
 < ---
-< > "134.title" = "オブジェクトスタイルをリセット";
-< 27c27
----
-> 26,27c26,27
-> < /* Class = "NSButtonCell"; title = "Reset Brushes"; ObjectID = "136"; */
-36,37c5,8
-< > "136.title" = "ブラシをリセット";
-< 30c30
----
-> > /* Class = "NSButtonCell"; title = "브러시 재설정"; ObjectID = "136"; */
-> > "136.title" = "브러시 재설정";
-> 29,30c29,30
-> < /* Class = "NSButtonCell"; title = "Reset Fills"; ObjectID = "138"; */
-40,85c11,14
-< > "138.title" = "塗りつぶしをリセット";
-< 36c36
-< < "146.title" = "Nearest Neighbor (Fastest)";
 < ---
-< > "146.title" = "ニアレストネイバー(速度優先)";
-< 39c39
-< < "147.title" = "Bilinear (Best Quality)";
 < ---
-< > "147.title" = "バイリニア(品質優先)";
-< 42c42
-< < "150.title" = "View Quality:";
 < ---
-< > "150.title" = "表示品質:";
-< 48c48
-< < "160.title" = "RGB Color Profile:";
 < ---
-< > "160.title" = "RGBカラープロファイル:";
-< 51c51
-< < "163.title" = "CMYK Color Profile:";
 < ---
-< > "163.title" = "CMYKカラープロファイル:";
-< 57c57
-< < "171.title" = "Grayscale Color Profile:";
 < ---
-< > "171.title" = "グレースケールカラープロファイル:";
-< 63c63
-< < "179.title" = "LAB Color Profile:";
 < ---
-< > "179.title" = "LABカラープロファイル:";
-< 69c69
-< < "198.title" = "File Recovery Interval:";
 < ---
-< > "198.title" = "自動保存間隔:";
-< 72c72
-< < "202.title" = "seconds";
 < ---
-< > "202.title" = "秒";
-< 75c75
-< < "03Q-Dj-gAw.title" = "No sharing between tools";
 < ---
-< > "03Q-Dj-gAw.title" = "ツール間の共有なし";
-< 78c78
-< < "083-g3-aRU.title" = "Enable assistant";
 < ---
-< > "083-g3-aRU.title" = "アシスタントを有効にする";
-< 81c81
----
-> > /* Class = "NSButtonCell"; title = "칠 재설정"; ObjectID = "138"; */
-> > "138.title" = "칠 재설정";
-> 80,81c80,81
-> < /* Class = "NSTextFieldCell"; title = "Document"; ObjectID = "0Kk-WY-Uht"; */
-88,89c17,20
-< > "0Kk-WY-Uht.title" = "ドキュメント";
-< 84c84
----
-> > /* Class = "NSTextFieldCell"; title = "문서"; ObjectID = "0Kk-WY-Uht"; */
-> > "0Kk-WY-Uht.title" = "문서";
-> 83,84c83,84
-> < /* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "10A-2O-k7o"; */
-92,94c23,26
-< > "10A-2O-k7o.title" = "毎月";
-< 87c87
-< < "1p0-Wi-3zw.title" = "Revert to Default";
----
-> > /* Class = "NSMenuItem"; title = "매월"; ObjectID = "10A-2O-k7o"; */
-> > "10A-2O-k7o.title" = "매월";
-> 92c92
-> < /* Class = "NSTextFieldCell"; title = "Centimetres:"; ObjectID = "2em-7g-TVI"; */
-96,105c28,30
-< > "1p0-Wi-3zw.title" = "デフォルト設定に戻す";
-< 90c90
-< < "2GC-y0-OeK.title" = "Languages";
 < ---
-< > "2GC-y0-OeK.title" = "言語";
-< 93c93
-< < "2em-7g-TVI.title" = "Centimeters:";
 < ---
-< > "2em-7g-TVI.title" = "センチメートル:";
-< 96c96
----
-> > /* Class = "NSTextFieldCell"; title = "센티미터:"; ObjectID = "2em-7g-TVI"; */
-> 95,96c95,96
-> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "2hs-d2-ydE"; */
-108,133c33,36
-< > "2hs-d2-ydE.title" = "追加";
-< 99c99
-< < "2l2-rr-pcN.title" = "OpenColorIO Search Folder:";
 < ---
-< > "2l2-rr-pcN.title" = "OpenColorIO検索フォルダ:";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 102c102
-< < "2q4-Gl-4Ry.title" = "Copy Settings & Content From Release Apps";
-< ---
-< > "2q4-Gl-4Ry.title" = "リリースアプリから設定とコンテンツをコピー";
 < 105c105
-< < "36I-uN-Xw2.title" = "32bit RGB Color Profile:";
-< ---
-< > "36I-uN-Xw2.title" = "32ビットRGBカラープロファイル:";
 < 108c108
-< < "3Aw-X1-jiD.title" = "Enable touch bar support (Requires Restart)";
-< ---
-< > "3Aw-X1-jiD.title" = "Touch barのサポートを有効にする(再起動が必要)";
 < 111c111
-< < "3hx-i4-Dvn.title" = "High";
-< ---
-< > "3hx-i4-Dvn.title" = "高";
 < 114c114
-< < "3vc-NJ-ZQq.title" = "Add filter as new layer";
-< ---
-< > "3vc-NJ-ZQq.title" = "フィルターを新規レイヤーとして追加";
 < 117c117
----
-> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "2hs-d2-ydE"; */
-> > "2hs-d2-ydE.title" = "추가";
-> 116,117c116,117
-> < /* Class = "NSTextFieldCell"; title = "Tool Handle Size:"; ObjectID = "4A0-aG-lvk"; */
-136,141c39,42
-< > "4A0-aG-lvk.title" = "ツールUIサイズ:";
 < 120c120
-< < "5OX-sF-VvZ.title" = "Software";
-< ---
-< > "5OX-sF-VvZ.title" = "ソフトウェア";
 < 123c123
----
-> > /* Class = "NSTextFieldCell"; title = "도구 손잡이 크기:"; ObjectID = "4A0-aG-lvk"; */
-> > "4A0-aG-lvk.title" = "도구 손잡이 크기:";
-> 122,123c122,123
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5Q9-Ki-iyd"; */
-144,145c45,48
-< > "5Q9-Ki-iyd.title" = "テキストセル";
 < 126c126
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "5Q9-Ki-iyd"; */
-> > "5Q9-Ki-iyd.title" = "텍스트 셀";
-> 125,126c125,126
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "67i-DT-CNB"; */
-148,149c51,54
-< > "67i-DT-CNB.title" = "テキストセル";
 < 129c129
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "67i-DT-CNB"; */
-> > "67i-DT-CNB.title" = "텍스트 셀";
-> 128,129c128,129
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6lR-wM-Xw8"; */
-152,153c57,60
-< > "6lR-wM-Xw8.title" = "テキストセル";
+< 12c12
+< 132c132
 < 135c135
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "6lR-wM-Xw8"; */
-> > "6lR-wM-Xw8.title" = "텍스트 셀";
-> 134,135c134,135
-> < /* Class = "NSTextFieldCell"; title = "Picas:"; ObjectID = "8WD-5D-Yp9"; */
-156,185c63,66
-< > "8WD-5D-Yp9.title" = "パイカ:";
 < 141c141
-< < "8u7-jc-Kye.title" = "Create Text with Blend Gamma:";
-< ---
-< > "8u7-jc-Kye.title" = "テキスト作成時のブレンドガンマ:";
 < 144c144
-< < "94u-F2-kmj.title" = "Relative Colorimetric";
-< ---
-< > "94u-F2-kmj.title" = "相対的な色彩を保持";
 < 147c147
-< < "9Cm-gN-cAN.headerCell.title" = "Items";
-< ---
-< > "9Cm-gN-cAN.headerCell.title" = "項目";
-< 150c150
-< < "9bC-rL-ft6.title" = "Authorize Global";
-< ---
-< > "9bC-rL-ft6.title" = "グローバルを承認";
 < 153c153
-< < "9bO-Km-bUS.title" = "Save thumbnails with documents";
-< ---
-< > "9bO-Km-bUS.title" = "ドキュメントと一緒にサムネイルを保存";
 < 156c156
-< < "9kd-Oz-hLP.title" = "Enable \"Save\" over imported PSD files";
-< ---
-< > "9kd-Oz-hLP.title" = "インポートしたPSDファイルの\"上書き保存\"を有効にする";
 < 159c159
-< < "9tK-oN-LQ3.title" = "Rasterize layer and erase";
-< ---
-< > "9tK-oN-LQ3.title" = "レイヤーをラスタライズして消去";
+< 15c15
 < 162c162
----
-> > /* Class = "NSTextFieldCell"; title = "파이카:"; ObjectID = "8WD-5D-Yp9"; */
-> > "8WD-5D-Yp9.title" = "파이카:";
-> 161,162c161,162
-> < /* Class = "NSTextFieldCell"; title = "Feet:"; ObjectID = "Ag7-1X-Pgy"; */
-188,217c69,72
-< > "Ag7-1X-Pgy.title" = "フィート:";
 < 165c165
-< < "Awx-Yh-y0q.title" = "Refine HEIC depth maps";
-< ---
-< > "Awx-Yh-y0q.title" = "HEIC深度マップを調整";
 < 168c168
-< < "B6n-Gd-hsq.title" = "* Requires restart";
-< ---
-< > "B6n-Gd-hsq.title" = "* 再起動が必要";
+< 171c171
 < 174c174
-< < "Bbc-eA-xQh.title" = "(requires restart)";
-< ---
-< > "Bbc-eA-xQh.title" = "(再起動が必要)";
 < 177c177
-< < "Bg4-3B-NoC.title" = "Place mask layer inside and erase";
-< ---
-< > "Bg4-3B-NoC.title" = "マスクレイヤーを内部に配置して消去";
 < 180c180
-< < "BlI-5b-F1Y.title" = "Languages";
-< ---
-< > "BlI-5b-F1Y.title" = "言語";
-< 183c183
-< < "C5F-hF-wfO.title" = "Link...";
-< ---
-< > "C5F-hF-wfO.title" = "リンク...";
 < 186c186
-< < "CYL-w1-7fP.title" = "Smart sharing between tools";
-< ---
-< > "CYL-w1-7fP.title" = "ツール間でスマート共有";
 < 189c189
----
-> > /* Class = "NSTextFieldCell"; title = "피트:"; ObjectID = "Ag7-1X-Pgy"; */
-> > "Ag7-1X-Pgy.title" = "피트:";
-> 188,189c188,189
-> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "Czu-ld-vwy"; */
-220,229c75,78
-< > "Czu-ld-vwy.title" = "追加";
+< 18c18
+< 192c192
 < 195c195
-< < "D4S-HS-cNh.title" = "⌃+Click show context menu";
-< ---
-< > "D4S-HS-cNh.title" = "⌃+クリックでコンテキストメニューを表示";
 < 198c198
-< < "DVf-oK-FBe.title" = "Box";
-< ---
-< > "DVf-oK-FBe.title" = "四角形";
 < 201c201
----
-> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "Czu-ld-vwy"; */
-> > "Czu-ld-vwy.title" = "추가";
-> 200,201c200,201
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EGC-Td-Cj1"; */
-232,234c81,85
-< > "EGC-Td-Cj1.title" = "テキストセル";
 < 204c204
-< < "Erk-lt-AXp.title" = "Plugins will be automatically detected in the default folder:";
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "EGC-Td-Cj1"; */
-> > "EGC-Td-Cj1.title" = "텍스트 셀";
-> 221,222c221,222
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gpm-7V-BQc"; */
-> < "Gpm-7V-BQc.title" = "Text Cell";
-236,261c87,90
-< > "Erk-lt-AXp.title" = "プラグインの自動検出が行われるデフォルトフォルダ:";
-< 207c207
-< < "FVE-l7-EAF.title" = "Enable file sharing on the local area network";
-< ---
-< > "FVE-l7-EAF.title" = "ローカルエリアネットワークでのファイルの共有を有効化";
+< 210c210
 < 213c213
-< < "GFd-Qa-bQg.title" = "Load metadata from XMP sidecars";
-< ---
-< > "GFd-Qa-bQg.title" = "XMPサイドカーからメタデータを読み込み";
 < 216c216
-< < "GFv-wD-FKj.title" = "Use ⇧ modifier to cycle tools";
-< ---
-< > "GFv-wD-FKj.title" = "⇧ 修飾キーを使用してツールを切り替え";
 < 219c219
-< < "GUA-hP-bAS.title" = "Plugin Search Folders";
-< ---
-< > "GUA-hP-bAS.title" = "プラグイン検索フォルダ";
+< 21c21
+< 222c222
 < 225c225
-< < "HFk-hX-yTQ.title" = "* Language:";
-< ---
-< > "HFk-hX-yTQ.title" = "* 言語:";
-< 228c228
-< < "HGh-ny-xsh.title" = "Use 'scrubby' zoom";
-< ---
-< > "HGh-ny-xsh.title" = "'スクラブ'ズームを使用";
 < 231c231
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Gpm-7V-BQc"; */
-> > "Gpm-7V-BQc.title" = "텍스트 셀";
-> 230,231c230,231
-> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "Hca-bR-5lw"; */
-264,289c93,96
-< > "Hca-bR-5lw.title" = "削除";
 < 234c234
-< < "Hfh-gj-r88.title" = "Enable canvas rotation with ⌘+scroll wheel";
-< ---
-< > "Hfh-gj-r88.title" = "⌘+ホイールのスクロールでキャンバスの回転を有効化";
 < 237c237
-< < "Hxt-wD-f1X.title" = "No configuration selected.";
-< ---
-< > "Hxt-wD-f1X.title" = "設定が選択されていません。";
 < 240c240
-< < "IDN-I3-V84.title" = "Send anonymous usage information";
-< ---
-< > "IDN-I3-V84.title" = "匿名で使用状況に関する情報を送信する";
-< 243c243
-< < "IJf-eq-Unl.title" = "Store fonts (*.affont) will be loaded from the Affinity Fonts folder on startup:";
-< ---
-< > "IJf-eq-Unl.title" = "ストアのフォント(*.affont)は、起動時にAffinityフォントフォルダから読み込まれます:";
 < 246c246
-< < "IQS-k3-Ejt.title" = "Unlink";
-< ---
-< > "IQS-k3-Ejt.title" = "リンクを解除";
 < 249c249
-< < "IbR-Sk-qZt.title" = "Limit initial zoom to a maximum of 100%";
-< ---
-< > "IbR-Sk-qZt.title" = "初期ズームを最大100％に制限";
+< 24c24
 < 252c252
----
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Hca-bR-5lw"; */
-> > "Hca-bR-5lw.title" = "지우기";
-> 251,252c251,252
-> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "JAA-OP-cHT"; */
-292,329c99,102
-< > "JAA-OP-cHT.title" = "削除";
 < 255c255
-< < "JZJ-nx-KBs.title" = "Brush tool sharing:";
-< ---
-< > "JZJ-nx-KBs.title" = "ブラシツールの共有:";
 < 258c258
-< < "Ja8-vw-dmr.title" = "With";
-< ---
-< > "Ja8-vw-dmr.title" = "次で置換";
 < 261c261
-< < "Jf4-V0-1ya.title" = "Retina Rendering:";
-< ---
-< > "Jf4-V0-1ya.title" = "Retinaレンダリング:";
 < 264c264
-< < "JoT-jw-z8D.title" = "Take no action";
-< ---
-< > "JoT-jw-z8D.title" = "何もしない";
 < 267c267
-< < "Jp7-wT-AK6.title" = "Show Text in points";
-< ---
-< > "Jp7-wT-AK6.title" = "テキストをポイント単位で表示";
 < 270c270
-< < "JzX-ez-rK9.title" = "Item 3";
-< ---
-< > "JzX-ez-rK9.title" = "アイテム3";
+< 273c273
 < 276c276
-< < "KJi-Zx-LZG.title" = "Additional lens profiles will be loaded from the Lens Profiles folder on startup:";
-< ---
-< > "KJi-Zx-LZG.title" = "起動時に追加のレンズプロファイルがレンズプロファイルのフォルダから読み込まれます:";
+< 279c279
+< 27c27
+< 282c282
 < 285c285
-< < "LBi-xW-zKb.title" = "Force Touch context menu";
-< ---
-< > "LBi-xW-zKb.title" = "コンテキストメニューのタッチを強制";
 < 288c288
-< < "LHY-DI-9zj.title" = "Display:";
-< ---
-< > "LHY-DI-9zj.title" = "ディスプレイ:";
 < 291c291
----
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "JAA-OP-cHT"; */
-> > "JAA-OP-cHT.title" = "지우기";
-> 290,291c290,291
-> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "LW8-fO-HUf"; */
-332,345c105,108
-< > "LW8-fO-HUf.title" = "彩度";
 < 294c294
-< < "LgP-qc-lgh.title" = "Item 1";
-< ---
-< > "LgP-qc-lgh.title" = "アイテム1";
-< 297c297
-< < "Lgl-EW-yiU.title" = "Table View Cell";
-< ---
-< > "Lgl-EW-yiU.title" = "表ビューセル";
 < 300c300
-< < "Lk3-WV-Fmu.title" = "Automatically lock background layer on import";
-< ---
-< > "Lk3-WV-Fmu.title" = "インポート時に背景レイヤーを自動的にロックする";
-< 303c303
----
-> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "LW8-fO-HUf"; */
-> > "LW8-fO-HUf.title" = "채도";
-> 302,303c302,303
-> < /* Class = "NSMenuItem"; title = "Never"; ObjectID = "MIf-Oa-R60"; */
-348,373c111,114
-< > "MIf-Oa-R60.title" = "チェックしない";
-< 306c306
-< < "Muk-YH-dxQ.title" = "Clear All Shortcuts";
-< ---
-< > "Muk-YH-dxQ.title" = "すべてのショートカットをクリア";
 < 309c309
-< < "MzV-4j-Gcv.title" = "(Requires Restart)";
-< ---
-< > "MzV-4j-Gcv.title" = "(再起動が必要)";
+< 30c30
+< 312c312
 < 315c315
-< < "Nln-Jt-ZWp.title" = "Always use white background for Font dropdown";
-< ---
-< > "Nln-Jt-ZWp.title" = "[フォント]ドロップダウンで常に白の背景を使用";
 < 318c318
-< < "Nr0-16-qC9.title" = "Import PSD text as text rather than bitmap";
-< ---
-< > "Nr0-16-qC9.title" = "忠実度よりも編集可能テキストを優先する(PSD、PDF、およびAI)";
 < 321c321
-< < "Nrf-Ni-XT0.title" = "Icon Style:";
-< ---
-< > "Nrf-Ni-XT0.title" = "アイコンスタイル:";
 < 324c324
-< < "Ofp-DR-n2S.title" = "Allow \"Unknown\" plugins to be used";
-< ---
-< > "Ofp-DR-n2S.title" = "\"不明な\"プラグインの使用を許可";
 < 327c327
----
-> > /* Class = "NSMenuItem"; title = "하지 않음"; ObjectID = "MIf-Oa-R60"; */
-> > "MIf-Oa-R60.title" = "하지 않음";
-> 326,327c326,327
-> < /* Class = "NSButtonCell"; title = "and warn"; ObjectID = "Ohv-Qn-qnu"; */
-376,429c117,120
-< > "Ohv-Qn-qnu.title" = "さらに警告";
 < 330c330
-< < "OqP-8w-QSn.title" = "Add adjustment based on selection";
-< ---
-< > "OqP-8w-QSn.title" = "調整を子レイヤーとして追加";
 < 333c333
-< < "Owf-cl-Rhe.title" = "Develop Assistant…";
-< ---
-< > "Owf-cl-Rhe.title" = "現像アシスタント…";
 < 336c336
-< < "P79-LZ-gSM.title" = "Perturb zero EXR alpha";
-< ---
-< > "P79-LZ-gSM.title" = "ゼロEXRアルファを撹乱";
 < 339c339
-< < "POs-I1-pIW.title" = "Preserve Unicode breaks when copying plain text";
-< ---
-< > "POs-I1-pIW.title" = "コピープレーンテキストで区切りを正規化";
-< 342c342
-< < "PYH-HM-VSZ.title" = "Modifiers are not permitted.";
-< ---
-< > "PYH-HM-VSZ.title" = "修飾キーは許容されません。";
 < 345c345
-< < "Poz-2U-dnm.title" = "Add new pixel layer and paint";
-< ---
-< > "Poz-2U-dnm.title" = "新規ピクセルレイヤーとペイントを追加";
 < 348c348
-< < "QOh-TO-rAe.title" = "Post divide EXR colors by alpha";
-< ---
-< > "QOh-TO-rAe.title" = "アルファでEXRカラーを分割後";
 < 351c351
-< < "QPw-YW-cnB.title" = "Apple Defaults";
-< ---
-< > "QPw-YW-cnB.title" = "Appleのデフォルト";
 < 354c354
-< < "QhS-wU-aLg.title" = "Rendering Intent:";
-< ---
-< > "QhS-wU-aLg.title" = "レンダリングインテント:";
 < 357c357
-< < "QkW-ng-aqK.title" = "Languages";
-< ---
-< > "QkW-ng-aqK.title" = "言語";
 < 360c360
-< < "RJO-XA-Q7Y.title" = "Warning: This option is only recommended for users who wish to use PSD as an interchange format with DAM applications. Incompatibility between the Affinity format and PSD may cause certain document features to get rasterised or lost.";
-< ---
-< > "RJO-XA-Q7Y.title" = "警告: このオプションは、PSDをDAMアプリケーションとの相互交換フォーマットとして使う場合にのみ推奨します。AffinityフォーマットとPSDには互換性がないため、特定のドキュメント機能がラスタライズされるか失われることがあります。";
 < 363c363
-< < "Rj8-WA-4SG.title" = "Replace text while typing";
-< ---
-< > "Rj8-WA-4SG.title" = "入力中にテキストを置換";
 < 366c366
-< < "S8V-oR-ZRo.title" = "Table View Cell";
-< ---
-< > "S8V-oR-ZRo.title" = "表ビューセル";
 < 369c369
----
-> > /* Class = "NSButtonCell"; title = "경고"; ObjectID = "Ohv-Qn-qnu"; */
-> > "Ohv-Qn-qnu.title" = "경고";
-> 368,369c368,369
-> < /* Class = "NSMenuItem"; title = "Daily"; ObjectID = "SAm-r5-oEF"; */
-432,433c123,126
-< > "SAm-r5-oEF.title" = "毎日";
+< 36c36
 < 372c372
----
-> > /* Class = "NSMenuItem"; title = "매일"; ObjectID = "SAm-r5-oEF"; */
-> > "SAm-r5-oEF.title" = "매일";
-> 371,372c371,372
-> < /* Class = "NSButtonCell"; title = "Load"; ObjectID = "SZh-eH-JZF"; */
-436,493c129,132
-< > "SZh-eH-JZF.title" = "読み込み";
 < 375c375
-< < "TWv-yc-8IQ.title" = "Use mouse wheel to zoom ";
-< ---
-< > "TWv-yc-8IQ.title" = "ズームにマウスホイールを使用 ";
 < 378c378
-< < "U4l-M7-bN7.title" = "Automatically undo and redo assistant actions";
-< ---
-< > "U4l-M7-bN7.title" = "アシスタントのアクションを自動的に元に戻してやり直します";
 < 381c381
-< < "VJ1-br-Ap3.title" = "Applying filters to vector layers:";
-< ---
-< > "VJ1-br-Ap3.title" = "ベクターレイヤーにフィルターを適用:";
 < 384c384
-< < "VuJ-F0-8tY.title" = "Same Affinity account only";
-< ---
-< > "VuJ-F0-8tY.title" = "同一のAffinityアカウントのみ";
 < 387c387
-< < "WXe-1Q-iS5.title" = "Languages";
-< ---
-< > "WXe-1Q-iS5.title" = "言語";
 < 390c390
-< < "Wap-LQ-Fqv.title" = "Automatically update linked resources when modified externally";
-< ---
-< > "Wap-LQ-Fqv.title" = "外部変更時にリンクされたリソースを自動的に更新";
 < 393c393
-< < "XCv-4y-bbc.title" = "Adding mask layer to selection:";
-< ---
-< > "XCv-4y-bbc.title" = "選択範囲にマスクレイヤーを追加:";
 < 396c396
-< < "XM9-Y6-DGn.title" = "Move Tool Aspect Constrain:";
-< ---
-< > "XM9-Y6-DGn.title" = "移動ツールの縦横比制約:";
 < 399c399
-< < "Xa7-PQ-O2r.title" = "Ignore Modifier";
-< ---
-< > "Xa7-PQ-O2r.title" = "修飾キーを無視";
+< 39c39
+< 3c3
 < 402c402
-< < "YOp-ue-Nem.title" = "Existing settings & content across your beta apps will be overwritten.\nRequires app restart.";
-< ---
-< > "YOp-ue-Nem.title" = "既存の設定とコンテンツはベータアプリ全般で上書きされます。\nアプリの再起動が必要です。";
 < 405c405
-< < "YQI-Yc-lXt.title" = "Enable Metal compute acceleration";
-< ---
-< > "YQI-Yc-lXt.title" = "Metalアクセラレーションの計算を有効化";
 < 408c408
-< < "Ynk-mc-gwU.title" = "Duplicate Check";
-< ---
-< > "Ynk-mc-gwU.title" = "重複チェック";
+< 411c411
 < 414c414
-< < "Z50-PG-Hr9.title" = "OpenColorIO Configuration File:";
-< ---
-< > "Z50-PG-Hr9.title" = "OpenColorIO設定ファイル:";
 < 417c417
-< < "Zdg-4c-hYT.title" = "Take no action";
-< ---
-< > "Zdg-4c-hYT.title" = "何もしない";
 < 420c420
----
-> > /* Class = "NSButtonCell"; title = "불러오기"; ObjectID = "SZh-eH-JZF"; */
-> > "SZh-eH-JZF.title" = "불러오기";
-> 419,420c419,420
-> < /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "ZlX-bP-RZL"; */
-496,509c135,138
-< > "ZlX-bP-RZL.title" = "テキスト";
 < 423c423
-< < "Zx4-gW-TaI.title" = "Artboard Background Gray Level:";
-< ---
-< > "Zx4-gW-TaI.title" = "アートボード背景グレーレベル:";
 < 426c426
-< < "Zzw-n5-s9S.title" = "Black point compensation";
-< ---
-< > "Zzw-n5-s9S.title" = "黒点補正";
 < 429c429
-< < "a5S-9E-8Rq.title" = "Enable canvas rotation with trackpad";
-< ---
-< > "a5S-9E-8Rq.title" = "Trackpadでキャンバス回転を有効にする";
+< 42c42
 < 432c432
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트"; ObjectID = "ZlX-bP-RZL"; */
-> > "ZlX-bP-RZL.title" = "텍스트";
-> 431,432c431,432
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aFw-bD-sZR"; */
-512,521c141,144
-< > "aFw-bD-sZR.title" = "テキストセル";
 < 435c435
-< < "aJs-cI-6fc.title" = "Brush shared between all tools";
-< ---
-< > "aJs-cI-6fc.title" = "すべてのツールで共有されるブラシ";
 < 438c438
-< < "aVF-qs-VBn.title" = "Languages";
-< ---
-< > "aVF-qs-VBn.title" = "言語";
 < 441c441
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aFw-bD-sZR"; */
-> > "aFw-bD-sZR.title" = "텍스트 셀";
-> 440,441c440,441
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ajJ-Af-1Rj"; */
-524,533c147,150
-< > "ajJ-Af-1Rj.title" = "テキストセル";
+< 444c444
 < 447c447
-< < "bA7-22-BWG.title" = "Reset Beta Apps";
-< ---
-< > "bA7-22-BWG.title" = "ベータアプリをリセット";
 < 450c450
-< < "bal-nB-gbQ.title" = "Nudge Distance:";
-< ---
-< > "bal-nB-gbQ.title" = "微調整の距離:";
 < 453c453
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "ajJ-Af-1Rj"; */
-> > "ajJ-Af-1Rj.title" = "텍스트 셀";
-> 452,453c452,453
-> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "brD-ZI-VQ6"; */
-536,545c153,156
-< > "brD-ZI-VQ6.title" = "リセット";
 < 456c456
-< < "c8X-ce-a9V.title" = "Other";
-< ---
-< > "c8X-ce-a9V.title" = "その他";
 < 459c459
-< < "cCB-Jn-Dwy.title" = "Associate OpenEXR alpha channels";
-< ---
-< > "cCB-Jn-Dwy.title" = "OpenEXRアルファチャンネルの関連付け";
-< 462c462
----
-> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "brD-ZI-VQ6"; */
-> > "brD-ZI-VQ6.title" = "재설정";
-> 461,462c461,462
-> < /* Class = "NSButtonCell"; title = "Show brush previews"; ObjectID = "cM0-lx-OpF"; */
-548,553c159,162
-< > "cM0-lx-OpF.title" = "ブラシプレビューの表示";
 < 465c465
-< < "cQ3-Ny-e01.title" = "Open Affinity Fonts Folder in Finder";
-< ---
-< > "cQ3-Ny-e01.title" = "FinderでAffinityフォントフォルダを開く";
 < 468c468
----
-> > /* Class = "NSButtonCell"; title = "브러시 미리보기 보기"; ObjectID = "cM0-lx-OpF"; */
-> > "cM0-lx-OpF.title" = "브러시 미리보기 보기";
-> 467,468c467,468
-> < /* Class = "NSButtonCell"; title = "Reset Fonts"; ObjectID = "cvf-Ij-dft"; */
-556,561c165,168
-< > "cvf-Ij-dft.title" = "フォントのリセット";
 < 471c471
-< < "ddM-HT-33R.title" = "Metal";
-< ---
-< > "ddM-HT-33R.title" = "メタル";
 < 474c474
----
-> > /* Class = "NSButtonCell"; title = "서체 재설정"; ObjectID = "cvf-Ij-dft"; */
-> > "cvf-Ij-dft.title" = "서체 재설정";
-> 473,474c473,474
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "e9o-Fx-R2e"; */
-564,593c171,174
-< > "e9o-Fx-R2e.title" = "テキストセル";
 < 477c477
-< < "eKs-VK-EvW.title" = "Hide file extension";
-< ---
-< > "eKs-VK-EvW.title" = "ファイル拡張子を非表示";
 < 480c480
-< < "eZK-fl-6Cr.title" = "Inches:";
-< ---
-< > "eZK-fl-6Cr.title" = "インチ:";
 < 483c483
-< < "eaJ-Wy-RXU.title" = "Low quality (Fastest)";
-< ---
-< > "eaJ-Wy-RXU.title" = "低品質(最速)";
 < 486c486
-< < "el1-AH-WTB.title" = "Box";
-< ---
-< > "el1-AH-WTB.title" = "ボックス";
 < 489c489
-< < "fGc-tO-hR7.title" = "Convert opened files to working space";
-< ---
-< > "fGc-tO-hR7.title" = "開いたファイルを作業中の色空間に変換";
+< 48c48
 < 492c492
-< < "fZA-Qx-cXG.title" = "Add adjustment as new layer";
-< ---
-< > "fZA-Qx-cXG.title" = "調整を新規レイヤーとして追加";
 < 495c495
-< < "ftR-SG-rIy.title" = "Detected Plugins";
-< ---
-< > "ftR-SG-rIy.title" = "検出済みプラグイン";
-< 498c498
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "e9o-Fx-R2e"; */
-> > "e9o-Fx-R2e.title" = "텍스트 셀";
-> 497,498c497,498
-> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "fxC-GT-H7W"; */
-596,629c177,180
-< > "fxC-GT-H7W.title" = "削除";
 < 501c501
-< < "gAd-Cw-f69.title" = "Absolute Colorimetric";
-< ---
-< > "gAd-Cw-f69.title" = "絶対的な色彩を保持";
 < 504c504
-< < "gkm-el-EYs.title" = "Import PSD smart objects where possible";
-< ---
-< > "gkm-el-EYs.title" = "可能であればPSDスマートオブジェクトをインポート";
 < 507c507
-< < "go6-pE-3Ph.title" = "Apply to all";
-< ---
-< > "go6-pE-3Ph.title" = "すべてに適用";
 < 510c510
-< < "gs4-ga-C5S.title" = "Perform OCIO conversions based on file name";
-< ---
-< > "gs4-ga-C5S.title" = "ファイル名に基づいてOCIO変換を実行";
 < 513c513
-< < "gsG-bb-y54.title" = "Take no action";
-< ---
-< > "gsG-bb-y54.title" = "何もしない";
 < 516c516
-< < "h2I-42-n2a.title" = "Rasterize layer and apply brush";
-< ---
-< > "h2I-42-n2a.title" = "レイヤーをラスタライズしてブラシを適用";
 < 519c519
-< < "h7l-Ok-A0X.title" = "Select...";
-< ---
-< > "h7l-Ok-A0X.title" = "選択...";
+< 51c51
 < 522c522
-< < "h9j-PU-8aL.title" = "Rasterize layer and apply filter";
-< ---
-< > "h9j-PU-8aL.title" = "レイヤーをラスタライズしてフィルターを適用";
 < 525c525
----
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "fxC-GT-H7W"; */
-> > "fxC-GT-H7W.title" = "지우기";
-> 524,525c524,525
-> < /* Class = "NSTextFieldCell"; title = "Points:"; ObjectID = "hLc-I2-9F6"; */
-632,637c183,186
-< > "hLc-I2-9F6.title" = "ポイント:";
 < 528c528
-< < "hUC-Gv-fm4.title" = "Multiple copies of this app are installed. Please use the most recent version to link with the Dropbox service.";
-< ---
-< > "hUC-Gv-fm4.title" = "このアプリの複数のコピーがインストールされています。最新バージョンを使用して、Dropboxサービスにリンクしてください。";
 < 531c531
----
-> > /* Class = "NSTextFieldCell"; title = "포인트:"; ObjectID = "hLc-I2-9F6"; */
-> > "hLc-I2-9F6.title" = "포인트:";
-> 530,531c530,531
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hfh-Uj-tKa"; */
-640,641c189,192
-< > "hfh-Uj-tKa.title" = "テキストセル";
 < 534c534
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "hfh-Uj-tKa"; */
-> > "hfh-Uj-tKa.title" = "텍스트 셀";
-> 533,534c533,534
-> < /* Class = "NSButtonCell"; title = "Always show brush crosshair"; ObjectID = "hhS-Fd-NXj"; */
-644,653c195,198
-< > "hhS-Fd-NXj.title" = "ブラシ十字線を常に表示";
 < 537c537
-< < "i41-e7-fE2.title" = "OpenGL (Basic)";
-< ---
-< > "i41-e7-fE2.title" = "OpenGL(基本)";
 < 540c540
-< < "i4s-dH-raM.title" = "Synchronize tools between documents";
-< ---
-< > "i4s-dH-raM.title" = "ドキュメント間でツールを同期";
 < 543c543
----
-> > /* Class = "NSButtonCell"; title = "브러시 십자선 항상 보기"; ObjectID = "hhS-Fd-NXj"; */
-> > "hhS-Fd-NXj.title" = "브러시 십자선 항상 보기";
-> 542,543c542,543
-> < /* Class = "NSTextFieldCell"; title = "Yards:"; ObjectID = "i9X-e6-6vh"; */
-656,685c201,204
-< > "i9X-e6-6vh.title" = "ヤード:";
 < 546c546
-< < "iJs-pb-FN1.title" = "Item 2";
-< ---
-< > "iJs-pb-FN1.title" = "アイテム2";
 < 549c549
-< < "iUC-00-YPK.title" = "Use only integrated GPU (requires restart)";
-< ---
-< > "iUC-00-YPK.title" = "統合GPUのみを使用(再起動が必要)";
 < 552c552
-< < "ivy-xk-IuN.title" = "Automatic (based on selection)";
-< ---
-< > "ivy-xk-IuN.title" = "自動(選択項目で判断)";
 < 555c555
-< < "jCc-NI-Hxe.title" = "UI Font Size:";
-< ---
-< > "jCc-NI-Hxe.title" = "フォントUIサイズ:";
 < 558c558
-< < "jEH-Fv-Psa.title" = "Warn when assigning working profile to unprofiled files";
-< ---
-< > "jEH-Fv-Psa.title" = "作業中のプロファイルを未プロファイルのファイルに割り当てる際に警告";
 < 561c561
-< < "kTx-Sw-JNF.title" = "High quality (Slowest)";
-< ---
-< > "kTx-Sw-JNF.title" = "高品質(最遅)";
 < 564c564
-< < "kod-V4-Mll.title" = "Add filter based on selection";
-< ---
-< > "kod-V4-Mll.title" = "フィルターを子レイヤーとして追加";
 < 567c567
----
-> > /* Class = "NSTextFieldCell"; title = "야드:"; ObjectID = "i9X-e6-6vh"; */
-> > "i9X-e6-6vh.title" = "야드:";
-> 566,567c566,567
-> < /* Class = "NSTextFieldCell"; title = "Decimal Places for Unit Types:"; ObjectID = "lVv-ZL-7fT"; */
-688,689c207,210
-< > "lVv-ZL-7fT.title" = "各単位の小数部桁数:";
 < 570c570
----
-> > /* Class = "NSTextFieldCell"; title = "단위 종류별 소수점 위치:"; ObjectID = "lVv-ZL-7fT"; */
-> > "lVv-ZL-7fT.title" = "단위 종류별 소수점 위치:";
-> 569,570c569,570
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ldm-bB-6lv"; */
-692,709c213,216
-< > "ldm-bB-6lv.title" = "テキストセル";
+< 573c573
 < 576c576
-< < "mME-LW-51Z.title" = "Adding adjustment layer to selection:";
-< ---
-< > "mME-LW-51Z.title" = "選択範囲に調整レイヤーを追加:";
 < 579c579
-< < "mVb-EU-zM2.title" = "Copy items as SVG";
-< ---
-< > "mVb-EU-zM2.title" = "項目をSVGとしてコピー";
+< 57c57
 < 582c582
-< < "mba-HU-qfa.title" = "Constrain by default";
-< ---
-< > "mba-HU-qfa.title" = "デフォルトで制約";
+< 585c585
 < 588c588
-< < "nQb-WG-ogh.title" = "Enable EDR by default in 32bit RGB views";
-< ---
-< > "nQb-WG-ogh.title" = "EDRをデフォルトで32ビットRGB表示で有効にする";
 < 591c591
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "ldm-bB-6lv"; */
-> > "ldm-bB-6lv.title" = "텍스트 셀";
-> 590,591c590,591
-> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "nUv-nQ-bej"; */
-712,713c219,222
-< > "nUv-nQ-bej.title" = "追加";
 < 594c594
----
-> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "nUv-nQ-bej"; */
-> > "nUv-nQ-bej.title" = "추가";
-> 593,594c593,594
-> < /* Class = "NSButtonCell"; title = "Default"; ObjectID = "o2K-Nt-f8S"; */
-716,721c225,228
-< > "o2K-Nt-f8S.title" = "デフォルト";
 < 597c597
-< < "oEP-Fu-XcC.title" = "Plugin Support Folders";
-< ---
-< > "oEP-Fu-XcC.title" = "プラグインサポートフォルダ";
 < 600c600
----
-> > /* Class = "NSButtonCell"; title = "기본값"; ObjectID = "o2K-Nt-f8S"; */
-> > "o2K-Nt-f8S.title" = "기본값";
-> 599,600c599,600
-> < /* Class = "NSTextFieldCell"; title = "UI Style:"; ObjectID = "oJ5-8y-OKL"; */
-724,741c231,234
-< > "oJ5-8y-OKL.title" = "UIスタイル:";
 < 603c603
-< < "oMN-2Y-fYB.title" = "Take no action";
-< ---
-< > "oMN-2Y-fYB.title" = "何もしない";
 < 606c606
-< < "ohl-Cd-COM.title" = "Save as Default";
-< ---
-< > "ohl-Cd-COM.title" = "デフォルトとして保存";
 < 609c609
-< < "ovH-lh-eQy.title" = "Table View Cell";
-< ---
-< > "ovH-lh-eQy.title" = "表ビューセル";
 < 612c612
-< < "p0b-Iv-fDQ.title" = "Other brushes on vector layers:";
-< ---
-< > "p0b-Iv-fDQ.title" = "ベクターレイヤー上の他のブラシ:";
 < 615c615
----
-> > /* Class = "NSTextFieldCell"; title = "UI 스타일:"; ObjectID = "oJ5-8y-OKL"; */
-> > "oJ5-8y-OKL.title" = "UI 스타일:";
-> 614,615c614,615
-> < /* Class = "NSButtonCell"; title = "Save"; ObjectID = "pXn-qP-5dD"; */
-744,746c237,240
-< > "pXn-qP-5dD.title" = "保存";
 < 618c618
-< < "pZf-xD-X6j.title" = "Meters:";
----
-> > /* Class = "NSButtonCell"; title = "저장"; ObjectID = "pXn-qP-5dD"; */
-> > "pXn-qP-5dD.title" = "저장";
-> 617c617
-> < /* Class = "NSTextFieldCell"; title = "Metres:"; ObjectID = "pZf-xD-X6j"; */
-748,753c242,244
-< > "pZf-xD-X6j.title" = "メートル:";
 < 621c621
-< < "qNF-hd-W0i.title" = "Text Contrast:";
-< ---
-< > "qNF-hd-W0i.title" = "テキストコントラスト:";
 < 624c624
----
-> > /* Class = "NSTextFieldCell"; title = "미터:"; ObjectID = "pZf-xD-X6j"; */
-> 623,624c623,624
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qSV-mQ-VUP"; */
-756,758c247,251
-< > "qSV-mQ-VUP.title" = "テキストセル";
+< 627c627
 < 630c630
-< < "qfO-WN-jcY.title" = "Perceptual";
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "qSV-mQ-VUP"; */
-> > "qSV-mQ-VUP.title" = "텍스트 셀";
-> 626,627c626,627
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qWR-Dy-9Pl"; */
-> < "qWR-Dy-9Pl.title" = "Text Cell";
-760,769c253,256
-< > "qfO-WN-jcY.title" = "知覚";
 < 633c633
-< < "rAf-og-SGE.title" = "Alert when assistant takes an action";
-< ---
-< > "rAf-og-SGE.title" = "アシスタントが処理を行うときにアラート";
 < 636c636
-< < "rCt-7T-FLs.title" = "Do not constrain by default";
-< ---
-< > "rCt-7T-FLs.title" = "デフォルトで制約しない";
 < 639c639
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "qWR-Dy-9Pl"; */
-> > "qWR-Dy-9Pl.title" = "텍스트 셀";
-> 638,639c638,639
-> < /* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "rH6-JP-CII"; */
-772,789c259,262
-< > "rH6-JP-CII.title" = "毎週";
-< 642c642
-< < "rKB-vq-uDw.headerCell.title" = "Keys";
-< ---
-< > "rKB-vq-uDw.headerCell.title" = "キー";
+< 63c63
 < 645c645
-< < "reH-Bm-WKw.title" = "Serif Defaults";
-< ---
-< > "reH-Bm-WKw.title" = "Serifのデフォルト";
 < 648c648
-< < "rkl-23-enT.title" = "Modifier Nudge Distance:";
-< ---
-< > "rkl-23-enT.title" = "修飾キー使用時の微調整距離:";
 < 651c651
-< < "rtK-4s-wez.title" = "NB: Changes made to these settings will take effect when you restart Affinity.";
-< ---
-< > "rtK-4s-wez.title" = "注: これらの設定に加えた変更は、Affinityの再起動時に有効になります。";
-< 654c654
----
-> > /* Class = "NSMenuItem"; title = "매주"; ObjectID = "rH6-JP-CII"; */
-> > "rH6-JP-CII.title" = "매주";
-> 653,654c653,654
-> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "sK1-2C-auM"; */
-792,793c265,268
-< > "sK1-2C-auM.title" = "削除";
 < 657c657
----
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "sK1-2C-auM"; */
-> > "sK1-2C-auM.title" = "지우기";
-> 656,657c656,657
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "sUW-n4-Gs8"; */
-796,797c271,274
-< > "sUW-n4-Gs8.title" = "閉じる";
 < 660c660
----
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "sUW-n4-Gs8"; */
-> > "sUW-n4-Gs8.title" = "닫기";
-> 659,660c659,660
-> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "srO-bO-lsi"; */
-800,805c277,280
-< > "srO-bO-lsi.title" = "追加";
 < 663c663
-< < "sz8-kj-jfZ.title" = "Use precise clipping";
-< ---
-< > "sz8-kj-jfZ.title" = "正確なクリッピングを使用";
 < 666c666
----
-> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "srO-bO-lsi"; */
-> > "srO-bO-lsi.title" = "추가";
-> 665,666c665,666
-> < /* Class = "NSTextFieldCell"; title = "Check for updates:"; ObjectID = "tCR-Fz-UYe"; */
-808,809c283,286
-< > "tCR-Fz-UYe.title" = "アップデートの有無をチェック:";
 < 669c669
----
-> > /* Class = "NSTextFieldCell"; title = "업데이트 확인:"; ObjectID = "tCR-Fz-UYe"; */
-> > "tCR-Fz-UYe.title" = "업데이트 확인:";
-> 668,669c668,669
-> < /* Class = "NSTextFieldCell"; title = "Degrees:"; ObjectID = "tHV-mB-1dl"; */
-812,821c289,292
-< > "tHV-mB-1dl.title" = "度:";
 < 672c672
-< < "tLU-CT-n3J.title" = "Select...";
-< ---
-< > "tLU-CT-n3J.title" = "選択...";
 < 675c675
-< < "tON-a8-YYk.title" = "and warn when converting on load";
-< ---
-< > "tON-a8-YYk.title" = "読み込み時に変換を行う場合に警告";
 < 678c678
----
-> > /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "tHV-mB-1dl"; */
-> > "tHV-mB-1dl.title" = "각도:";
-> 677,678c677,678
-> < /* Class = "NSTextFieldCell"; title = "Pixels:"; ObjectID = "taV-Af-jHh"; */
-824,826c295,298
-< > "taV-Af-jHh.title" = "ピクセル:";
 < 681c681
-< < "thh-vz-zNv.title" = "Millimeters:";
----
-> > /* Class = "NSTextFieldCell"; title = "픽셀:"; ObjectID = "taV-Af-jHh"; */
-> > "taV-Af-jHh.title" = "픽셀:";
-> 680c680
-> < /* Class = "NSTextFieldCell"; title = "Millimetres:"; ObjectID = "thh-vz-zNv"; */
-828,833c300,302
-< > "thh-vz-zNv.title" = "ミリメートル:";
 < 684c684
-< < "tvR-mC-kEc.title" = "Dither gradients";
-< ---
-< > "tvR-mC-kEc.title" = "グラデーションをディザリングする";
 < 687c687
----
-> > /* Class = "NSTextFieldCell"; title = "밀리미터:"; ObjectID = "thh-vz-zNv"; */
-> 686,687c686,687
-> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "twM-cH-hNT"; */
-836,849c305,308
-< > "twM-cH-hNT.title" = "追加";
 < 690c690
-< < "u26-Xv-TY3.title" = "(No compatible GPU)";
-< ---
-< > "u26-Xv-TY3.title" = "(互換GPUなし)";
 < 693c693
-< < "u9u-0a-8EI.title" = "Replace";
-< ---
-< > "u9u-0a-8EI.title" = "置換";
-< 696c696
-< < "uBB-sZ-2R2.title" = "Auto commit filters";
-< ---
-< > "uBB-sZ-2R2.title" = "フィルターを自動コミット";
 < 699c699
----
-> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "twM-cH-hNT"; */
-> > "twM-cH-hNT.title" = "추가";
-> 698,699c698,699
-> < /* Class = "NSButtonCell"; title = "Factory Reset"; ObjectID = "udH-9x-fd8"; */
-852,861c311,314
-< > "udH-9x-fd8.title" = "出荷時の設定にリセット";
+< 69c69
+< 6c6
 < 702c702
-< < "uif-dR-Gvx.title" = "Add mask based on selection";
-< ---
-< > "uif-dR-Gvx.title" = "マスクを子レイヤーとして追加";
 < 705c705
-< < "uth-De-zu8.title" = "Prefer to keep selection after delete";
-< ---
-< > "uth-De-zu8.title" = "削除後に選択を維持することを希望";
 < 708c708
----
-> > /* Class = "NSButtonCell"; title = "기본값 재설정"; ObjectID = "udH-9x-fd8"; */
-> > "udH-9x-fd8.title" = "기본값 재설정";
-> 707,708c707,708
-> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "v2W-TQ-upg"; */
-864,909c317,320
-< > "v2W-TQ-upg.title" = "削除";
 < 711c711
-< < "vHz-AL-G6s.title" = "Table View Cell";
-< ---
-< > "vHz-AL-G6s.title" = "表ビューセル";
 < 714c714
-< < "vHz-PH-JfA.title" = "Open Lens Profiles Folder in Finder";
-< ---
-< > "vHz-PH-JfA.title" = "レンズプロファイルのフォルダをFinderで開く";
 < 717c717
-< < "vaL-Af-YK1.title" = "Show Lines in points";
-< ---
-< > "vaL-Af-YK1.title" = "ラインをポイント単位で表示";
 < 720c720
-< < "vfW-sD-uvA.title" = "Automatic (Best)";
-< ---
-< > "vfW-sD-uvA.title" = "自動(最適)";
 < 723c723
-< < "vqD-fC-7kl.title" = "Erasing from vector layers:";
-< ---
-< > "vqD-fC-7kl.title" = "ベクターレイヤーから消去:";
 < 726c726
-< < "vuy-Nt-O5a.title" = "Hardware Acceleration:";
-< ---
-< > "vuy-Nt-O5a.title" = "ハードウェアアクセラレーション:";
 < 729c729
-< < "w10-i4-bM1.title" = "Painting with no layer selected:";
-< ---
-< > "w10-i4-bM1.title" = "レイヤーを選択せずに描画:";
+< 72c72
 < 732c732
-< < "wRJ-ZX-YBe.title" = "Tooltip Delay:";
-< ---
-< > "wRJ-ZX-YBe.title" = "ツールチップを表示するまでの時間:";
 < 735c735
-< < "wTP-Ig-RE9.title" = "Add mask as new layer";
-< ---
-< > "wTP-Ig-RE9.title" = "マスクを新規レイヤーとして追加";
 < 738c738
-< < "wTf-Iv-Ais.title" = "Link new content categories";
-< ---
-< > "wTf-Iv-Ais.title" = "新しいコンテンツカテゴリをリンク";
 < 741c741
-< < "x18-t9-7Y0.title" = "Insert filler text as text";
-< ---
-< > "x18-t9-7Y0.title" = "フィラーテキストをテキストとして挿入";
+< 744c744
 < 747c747
----
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "v2W-TQ-upg"; */
-> > "v2W-TQ-upg.title" = "지우기";
-> 746,747c746,747
-> < /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "xLS-NV-SsZ"; */
-912,944c323,324
-< > "xLS-NV-SsZ.headerCell.title" = "プラグイン";
 < 750c750
-< < "xbI-c4-84p.title" = "UI Contrast:";
-< ---
-< > "xbI-c4-84p.title" = "UIコントラスト:";
 < 753c753
-< < "xgK-rf-Ycw.title" = "Select object when intersects with selection marquee";
-< ---
-< > "xgK-rf-Ycw.title" = "選択マーキーと交差するオブジェクトを選択する";
 < 756c756
-< < "xgZ-NB-5VV.title" = "No search folder selected.";
-< ---
-< > "xgZ-NB-5VV.title" = "検索フォルダが選択されていません。";
 < 759c759
-< < "y2e-Ww-wKH.headerCell.title" = "Status";
-< ---
-< > "y2e-Ww-wKH.headerCell.title" = "ステータス";
+< 75c75
 < 762c762
-< < "yKS-l6-vq6.title" = "Reset Text Styles";
-< ---
-< > "yKS-l6-vq6.title" = "テキストスタイルをリセット";
 < 765c765
-< < "ySU-o8-rcP.title" = "Open Default Folder in Finder";
-< ---
-< > "ySU-o8-rcP.title" = "デフォルトフォルダをFinderで開く";
 < 768c768
-< < "yop-I4-WQH.title" = "Adding filter layer to selection:";
-< ---
-< > "yop-I4-WQH.title" = "選択範囲にフィルターレイヤーを追加:";
+< 771c771
 < 774c774
+< 777c777
+< 780c780
+< 783c783
+< 786c786
+< 789c789
+< 78c78
+< 792c792
+< 795c795
+< 798c798
+< 801c801
+< 804c804
+< 807c807
+< 810c810
+< 813c813
+< 816c816
+< 819c819
+< 81c81
+< 825c825
+< 828c828
+< 831c831
+< 834c834
+< 837c837
+< 840c840
+< 843c843
+< 846c846
+< 849c849
+< 84c84
+< 855c855
+< 858c858
+< 87c87
+< 90c90
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+< < "03Q-Dj-gAw.title" = "No sharing between tools";
+< < "083-g3-aRU.title" = "Enable assistant";
+---
+> 101,102c101,102
+> 122,123c122,123
+> 128,129c128,129
+> 131,132c131,132
+> 134,135c134,135
+> 146,147c146,147
+> 173,174c173,174
+> 203,204c203,204
+> 215,216c215,216
+> 242,243c242,243
+> 254,255c254,255
+> 26,27c26,27
+> 275,276c275,276
+> 29,30c29,30
+> 314,315c314,315
+> 329,330c329,330
+> 356,357c356,357
+> 404,405c404,405
+> 407,408c407,408
+> 470,471c470,471
+> 485,486c485,486
+> 494,495c494,495
+> 506,507c506,507
+> 515,516c515,516
+> 527,528c527,528
+> 533,534c533,534
+> 560,561c560,561
+> 566,567c566,567
+> 593,594c593,594
+> 599,600c599,600
+> 602,603c602,603
+> 611,612c611,612
+> 635,636c635,636
+> 638,639c638,639
+> 659,660c659,660
+> 662,663c662,663
+> 668,669c668,669
+> 683,684c683,684
+> 686c686
+> 692,693c692,693
+> 695,696c695,696
+> 707,708c707,708
+> 722,723c722,723
+> 725,726c725,726
+> 728,729c728,729
+> 734,735c734,735
+> 737,738c737,738
+> 746,747c746,747
+> 749c749
+> 755,756c755,756
+> 767,768c767,768
+> 776,777c776,777
+> 80,81c80,81
+> 824,825c824,825
+> 86,87c86,87
+> 98c98
+532,533d113
+< < "0mY-nm-vLd.title" = "Using mobile data";
+< < "10.title" = "Reopen document(s) on startup";
+535,536d114
+< < "122.title" = "UI Brightness:";
+< < "134.title" = "Reset Object Styles";
+539,552d116
+< < "146.title" = "Nearest Neighbor (Fastest)";
+< < "147.title" = "Bilinear (Best Quality)";
+< < "150.title" = "View Quality:";
+< < "160.title" = "RGB Color Profile:";
+< < "163.title" = "CMYK Color Profile:";
+< < "171.title" = "Grayscale Color Profile:";
+< < "179.title" = "LAB Color Profile:";
+< < "19.title" = "RAM Usage Limit:";
+< < "198.title" = "File Recovery Interval:";
+< < "1p0-Wi-3zw.title" = "Revert to Default";
+< < "202.title" = "seconds";
+< < "2GC-y0-OeK.title" = "Languages";
+< < "2eV-1Z-3td.title" = "Sync favorite lens profiles";
+< < "2em-7g-TVI.title" = "Centimeters:";
+554,560d117
+< < "2l2-rr-pcN.title" = "OpenColorIO Search Folder:";
+< < "2q4-Gl-4Ry.title" = "Copy Settings & Content From Release Apps";
+< < "32.title" = "Undo Limit:";
+< < "36I-uN-Xw2.title" = "32bit RGB Color Profile:";
+< < "3Aw-X1-jiD.title" = "Enable touch bar support (Requires Restart)";
+< < "3hx-i4-Dvn.title" = "High";
+< < "3vc-NJ-ZQq.title" = "Add filter as new layer";
+562,563d118
+< < "52.title" = "Disk Usage Warning At:";
+< < "5OX-sF-VvZ.title" = "Software";
+565d119
+< < "6.title" = "Reset User Defaults";
+568,569d121
+< < "83T-FK-KF5.title" = "Up to 25 MB";
+< < "8UP-Kb-0J4.title" = "No size limit set";
+571,578d122
+< < "8u7-jc-Kye.title" = "Create Text with Blend Gamma:";
+< < "94u-F2-kmj.title" = "Relative Colorimetric";
+< < "96.title" = "Background Gray Level:";
+< < "9Cm-gN-cAN.headerCell.title" = "Items";
+< < "9bC-rL-ft6.title" = "Authorize Global";
+< < "9bO-Km-bUS.title" = "Save thumbnails with documents";
+< < "9kd-Oz-hLP.title" = "Enable \"Save\" over imported PSD files";
+< < "9tK-oN-LQ3.title" = "Rasterize layer and erase";
+580,587d123
+< < "Awx-Yh-y0q.title" = "Refine HEIC depth maps";
+< < "B6n-Gd-hsq.title" = "* Requires restart";
+< < "Bbc-eA-xQh.title" = "(requires restart)";
+< < "Bg4-3B-NoC.title" = "Place mask layer inside and erase";
+< < "BlI-5b-F1Y.title" = "Languages";
+< < "C5F-hF-wfO.title" = "Link...";
+< < "CKZ-YB-3j9.title" = "Up to 2 MB";
+< < "CYL-w1-7fP.title" = "Smart sharing between tools";
+589,590d124
+< < "D4S-HS-cNh.title" = "⌃+Click show context menu";
+< < "DVf-oK-FBe.title" = "Box";
+592,601c126
+< < "Erk-lt-AXp.title" = "Plugins will be automatically detected in the default folder:";
+< < "FVE-l7-EAF.title" = "Enable file sharing on the local area network";
+< < "Fsd-Dr-HaJ.title" = "Up to 10 MB";
+< < "GFd-Qa-bQg.title" = "Load metadata from XMP sidecars";
+< < "GFv-wD-FKj.title" = "Use ⇧ modifier to cycle tools";
+< < "GUA-hP-bAS.title" = "Plugin Search Folders";
+< < "GVU-kx-q61.title" = "Up to 25 MB";
+< < "HEb-M7-Ymd.title" = "Make all new categories synced";
+< < "HFk-hX-yTQ.title" = "* Language:";
+< < "HGh-ny-xsh.title" = "Use 'scrubby' zoom";
+---
+> < "Gpm-7V-BQc.title" = "Text Cell";
+603,608d127
+< < "Hfh-gj-r88.title" = "Enable canvas rotation with ⌘+scroll wheel";
+< < "Hxt-wD-f1X.title" = "No configuration selected.";
+< < "IDN-I3-V84.title" = "Send anonymous usage information";
+< < "IJf-eq-Unl.title" = "Store fonts (*.affont) will be loaded from the Affinity Fonts folder on startup:";
+< < "IQS-k3-Ejt.title" = "Unlink";
+< < "IbR-Sk-qZt.title" = "Limit initial zoom to a maximum of 100%";
+610,618d128
+< < "JZJ-nx-KBs.title" = "Brush tool sharing:";
+< < "Ja8-vw-dmr.title" = "With";
+< < "Jf4-V0-1ya.title" = "Retina Rendering:";
+< < "JoT-jw-z8D.title" = "Take no action";
+< < "Jp7-wT-AK6.title" = "Show Text in points";
+< < "JzX-ez-rK9.title" = "Item 3";
+< < "KJi-Zx-LZG.title" = "Additional lens profiles will be loaded from the Lens Profiles folder on startup:";
+< < "LBi-xW-zKb.title" = "Force Touch context menu";
+< < "LHY-DI-9zj.title" = "Display:";
+620,623d129
+< < "LgP-qc-lgh.title" = "Item 1";
+< < "Lgl-EW-yiU.title" = "Table View Cell";
+< < "Lk3-WV-Fmu.title" = "Automatically lock background layer on import";
+< < "LyN-1D-9OY.title" = "Sync favorite fonts";
+625,631d130
+< < "Muk-YH-dxQ.title" = "Clear All Shortcuts";
+< < "Mz4-X4-lmd.title" = "Any synced content categories will be automatically kept up-to-date with your other devices.";
+< < "MzV-4j-Gcv.title" = "(Requires Restart)";
+< < "Nln-Jt-ZWp.title" = "Always use white background for font dropdown";
+< < "Nr0-16-qC9.title" = "Import PSD text as text rather than bitmap";
+< < "Nrf-Ni-XT0.title" = "Icon Style:";
+< < "Ofp-DR-n2S.title" = "Allow \"Unknown\" plugins to be used";
+633,647d131
+< < "OqP-8w-QSn.title" = "Add adjustment based on selection";
+< < "Owf-cl-Rhe.title" = "Develop Assistant…";
+< < "P79-LZ-gSM.title" = "Perturb zero EXR alpha";
+< < "POs-I1-pIW.title" = "Preserve Unicode breaks when copying plain text";
+< < "PYH-HM-VSZ.title" = "Modifiers are not permitted.";
+< < "Poz-2U-dnm.title" = "Add new pixel layer and paint";
+< < "QOh-TO-rAe.title" = "Post divide EXR colors by alpha";
+< < "QPw-YW-cnB.title" = "Apple Defaults";
+< < "QhS-wU-aLg.title" = "Rendering Intent:";
+< < "QkW-ng-aqK.title" = "Languages";
+< < "RJO-XA-Q7Y.title" = "Warning: This option is only recommended for users who wish to use PSD as an interchange format with DAM applications. Incompatibility between the Affinity format and PSD may cause certain document features to get rasterized or lost.";
+< < "RNi-No-gXz.title" = "Automatically download my purchases";
+< < "Rj8-WA-4SG.title" = "Replace text while typing";
+< < "RvM-7c-cru.title" = "Up to 50 MB";
+< < "S8V-oR-ZRo.title" = "Table View Cell";
+650,668d133
+< < "TWv-yc-8IQ.title" = "Use mouse wheel to zoom ";
+< < "TbN-3A-CiK.title" = "Up to 100 MB";
+< < "U4l-M7-bN7.title" = "Automatically undo and redo assistant actions";
+< < "UcN-d4-1IQ.title" = "Up to 100 MB";
+< < "VJ1-br-Ap3.title" = "Applying filters to vector layers:";
+< < "VuJ-F0-8tY.title" = "Same Affinity account only";
+< < "WM5-vl-2vB.title" = "Show sync status icon on content:";
+< < "WXe-1Q-iS5.title" = "Languages";
+< < "Wap-LQ-Fqv.title" = "Automatically update linked resources when modified externally";
+< < "XCv-4y-bbc.title" = "Adding mask layer to selection:";
+< < "XJn-Dz-rvb.title" = "Automatically sync large content";
+< < "XM9-Y6-DGn.title" = "Move Tool Aspect Constrain:";
+< < "Xa7-PQ-O2r.title" = "Ignore Modifier";
+< < "YOp-ue-Nem.title" = "Existing settings & content across your beta apps will be overwritten.\nRequires app restart.";
+< < "YQI-Yc-lXt.title" = "Enable Metal compute acceleration";
+< < "YYW-ty-i5v.title" = "No size limit set";
+< < "Ynk-mc-gwU.title" = "Duplicate Check";
+< < "Z50-PG-Hr9.title" = "OpenColorIO Configuration File:";
+< < "Zdg-4c-hYT.title" = "Take no action";
+670,673d134
+< < "Zx4-gW-TaI.title" = "Artboard Background Gray Level:";
+< < "Zzw-n5-s9S.title" = "Black point compensation";
+< < "a0C-RI-6K3.title" = "Up to 10 MB";
+< < "a5S-9E-8Rq.title" = "Enable canvas rotation with trackpad";
+675,676d135
+< < "aJs-cI-6fc.title" = "Brush shared between all tools";
+< < "aVF-qs-VBn.title" = "Languages";
+678,679d136
+< < "bA7-22-BWG.title" = "Reset Beta Apps";
+< < "bal-nB-gbQ.title" = "Nudge Distance:";
+681,682d137
+< < "c8X-ce-a9V.title" = "Other";
+< < "cCB-Jn-Dwy.title" = "Associate OpenEXR alpha channels";
+684,686d138
+< < "cNL-lm-QT1.title" = "Enable content sync on this device  [EXPERIMENTAL]";
+< < "cQ3-Ny-e01.title" = "Open Affinity Fonts Folder in Finder";
+< < "cZt-66-0CZ.title" = "Using mobile data";
+688d139
+< < "ddM-HT-33R.title" = "Metal";
+690,697d140
+< < "eKs-VK-EvW.title" = "Hide file extension";
+< < "eZK-fl-6Cr.title" = "Inches:";
+< < "eaJ-Wy-RXU.title" = "Low quality (Fastest)";
+< < "el1-AH-WTB.title" = "Box";
+< < "fC5-NG-Nxl.title" = "Up to 50 MB";
+< < "fGc-tO-hR7.title" = "Convert opened files to working space";
+< < "fZA-Qx-cXG.title" = "Add adjustment as new layer";
+< < "ftR-SG-rIy.title" = "Detected Plugins";
+699d141
+< < "gAd-Cw-f69.title" = "Absolute Colorimetric";
+701,708d142
+< < "gkm-el-EYs.title" = "Import PSD smart objects where possible";
+< < "go6-pE-3Ph.title" = "Apply to all";
+< < "gs4-ga-C5S.title" = "Perform OCIO conversions based on file name";
+< < "gsG-bb-y54.title" = "Take no action";
+< < "h2I-42-n2a.title" = "Rasterize layer and apply brush";
+< < "h7l-Ok-A0X.title" = "Select...";
+< < "h9j-PU-8aL.title" = "Rasterize layer and apply filter";
+< < "hFJ-QS-bFF.title" = "On battery";
+710d143
+< < "hUC-Gv-fm4.title" = "Multiple copies of this app are installed. Please use the most recent version to link with the Dropbox service.";
+713,714d145
+< < "i41-e7-fE2.title" = "OpenGL (Basic)";
+< < "i4s-dH-raM.title" = "Synchronize tools between documents";
+716,722d146
+< < "iJs-pb-FN1.title" = "Item 2";
+< < "iUC-00-YPK.title" = "Use only integrated GPU (requires restart)";
+< < "ivy-xk-IuN.title" = "Automatic (based on selection)";
+< < "jCc-NI-Hxe.title" = "UI Font Size:";
+< < "jEH-Fv-Psa.title" = "Warn when assigning working profile to unprofiled files";
+< < "kTx-Sw-JNF.title" = "High quality (Slowest)";
+< < "kod-V4-Mll.title" = "Add filter based on selection";
+725,728d148
+< < "mME-LW-51Z.title" = "Adding adjustment layer to selection:";
+< < "mVb-EU-zM2.title" = "Copy items as SVG";
+< < "mba-HU-qfa.title" = "Constrain by default";
+< < "nQb-WG-ogh.title" = "Enable EDR by default in 32bit RGB views";
+731d150
+< < "oEP-Fu-XcC.title" = "Plugin Support Folders";
+733,736d151
+< < "oMN-2Y-fYB.title" = "Take no action";
+< < "ohl-Cd-COM.title" = "Save as Default";
+< < "ovH-lh-eQy.title" = "Table View Cell";
+< < "p0b-Iv-fDQ.title" = "Other brushes on vector layers:";
+738,739d152
+< < "pZf-xD-X6j.title" = "Meters:";
+< < "qNF-hd-W0i.title" = "Text Contrast:";
+741,743c154
+< < "qfO-WN-jcY.title" = "Perceptual";
+< < "rAf-og-SGE.title" = "Alert when assistant takes an action";
+< < "rCt-7T-FLs.title" = "Do not constrain by default";
+---
+> < "qWR-Dy-9Pl.title" = "Text Cell";
+745,748d155
+< < "rKB-vq-uDw.headerCell.title" = "Keys";
+< < "reH-Bm-WKw.title" = "Serif Defaults";
+< < "rkl-23-enT.title" = "Modifier Nudge Distance:";
+< < "rtK-4s-wez.title" = "NB: Changes made to these settings will take effect when you restart Affinity.";
+752d158
+< < "sz8-kj-jfZ.title" = "Use precise clipping";
+755,756d160
+< < "tLU-CT-n3J.title" = "Select...";
+< < "tON-a8-YYk.title" = "and warn when converting on load";
+758,759d161
+< < "thh-vz-zNv.title" = "Millimeters:";
+< < "tvR-mC-kEc.title" = "Dither gradients";
+761,763d162
+< < "u26-Xv-TY3.title" = "(No compatible GPU)";
+< < "u9u-0a-8EI.title" = "Replace";
+< < "uBB-sZ-2R2.title" = "Auto commit filters";
+765,766d163
+< < "uif-dR-Gvx.title" = "Add mask based on selection";
+< < "uth-De-zu8.title" = "Prefer to keep selection after delete";
+768,781d164
+< < "vBU-EW-4vM.title" = "Up to 5 MB";
+< < "vHz-AL-G6s.title" = "Table View Cell";
+< < "vHz-PH-JfA.title" = "Open Lens Profiles Folder in Finder";
+< < "vaL-Af-YK1.title" = "Show Lines in points";
+< < "vfW-sD-uvA.title" = "Automatic (Best)";
+< < "vqD-fC-7kl.title" = "Erasing from vector layers:";
+< < "vuy-Nt-O5a.title" = "Hardware Acceleration:";
+< < "w10-i4-bM1.title" = "Painting with no layer selected:";
+< < "w6W-ON-jnU.title" = "Only when important";
+< < "wRJ-ZX-YBe.title" = "Tooltip Delay:";
+< < "wTP-Ig-RE9.title" = "Add mask as new layer";
+< < "wTf-Iv-Ais.title" = "Link new content categories";
+< < "wcO-KS-p67.title" = "Always";
+< < "x18-t9-7Y0.title" = "Insert filler text as text";
+783,1056c166,330
+< < "xbI-c4-84p.title" = "UI Contrast:";
+< < "xgK-rf-Ycw.title" = "Select object when intersects with selection marquee";
+< < "xgZ-NB-5VV.title" = "No search folder selected.";
+< < "y2e-Ww-wKH.headerCell.title" = "Status";
+< < "yBV-CS-l1d.title" = "Up to 1 MB";
+< < "yKS-l6-vq6.title" = "Reset Text Styles";
+< < "ySU-o8-rcP.title" = "Open Default Folder in Finder";
+< < "yop-I4-WQH.title" = "Adding filter layer to selection:";
+< < "zeO-7C-JUI.title" = "On battery";
 < < "zqt-7m-LfC.title" = "Ask for name when creating Layers and Groups";
-< ---
+< > "03Q-Dj-gAw.title" = "ツール間の共有なし";
+< > "083-g3-aRU.title" = "アシスタントを有効にする";
+< > "0Kk-WY-Uht.title" = "ドキュメント";
+< > "0mY-nm-vLd.title" = "モバイルデータ使用時";
+< > "10.title" = "起動時にドキュメントを再度開く";
+< > "10A-2O-k7o.title" = "毎月";
+< > "122.title" = "UIの明るさ:";
+< > "134.title" = "オブジェクトスタイルをリセット";
+< > "136.title" = "ブラシをリセット";
+< > "138.title" = "塗りつぶしをリセット";
+< > "146.title" = "ニアレストネイバー(速度優先)";
+< > "147.title" = "バイリニア(品質優先)";
+< > "150.title" = "表示品質:";
+< > "160.title" = "RGBカラープロファイル:";
+< > "163.title" = "CMYKカラープロファイル:";
+< > "171.title" = "グレースケールカラープロファイル:";
+< > "179.title" = "LABカラープロファイル:";
+< > "19.title" = "RAM使用量上限:";
+< > "198.title" = "自動保存間隔:";
+< > "1p0-Wi-3zw.title" = "デフォルト設定に戻す";
+< > "202.title" = "秒";
+< > "2GC-y0-OeK.title" = "言語";
+< > "2eV-1Z-3td.title" = "お気に入りレンズプロファイルを同期";
+< > "2em-7g-TVI.title" = "センチメートル:";
+< > "2hs-d2-ydE.title" = "追加";
+< > "2l2-rr-pcN.title" = "OpenColorIO検索フォルダ:";
+< > "2q4-Gl-4Ry.title" = "リリースアプリから設定とコンテンツをコピー";
+< > "32.title" = "取り消し回数上限:";
+< > "36I-uN-Xw2.title" = "32ビットRGBカラープロファイル:";
+< > "3Aw-X1-jiD.title" = "Touch barのサポートを有効にする(再起動が必要)";
+< > "3hx-i4-Dvn.title" = "高";
+< > "3vc-NJ-ZQq.title" = "フィルターを新規レイヤーとして追加";
+< > "4A0-aG-lvk.title" = "ツールUIサイズ:";
+< > "52.title" = "ディスク使用量警告レベル:";
+< > "5OX-sF-VvZ.title" = "ソフトウェア";
+< > "5Q9-Ki-iyd.title" = "テキストセル";
+< > "6.title" = "ユーザーのデフォルト設定をリセット";
+< > "67i-DT-CNB.title" = "テキストセル";
+< > "6lR-wM-Xw8.title" = "テキストセル";
+< > "83T-FK-KF5.title" = "最大25 MB";
+< > "8UP-Kb-0J4.title" = "サイズ制限が設定されていません";
+< > "8WD-5D-Yp9.title" = "パイカ:";
+< > "8u7-jc-Kye.title" = "テキスト作成時のブレンドガンマ:";
+< > "94u-F2-kmj.title" = "相対的な色彩を保持";
+< > "96.title" = "背景グレーレベル:";
+< > "9Cm-gN-cAN.headerCell.title" = "項目";
+< > "9bC-rL-ft6.title" = "グローバルを承認";
+< > "9bO-Km-bUS.title" = "ドキュメントと一緒にサムネイルを保存";
+< > "9kd-Oz-hLP.title" = "インポートしたPSDファイルの\"上書き保存\"を有効にする";
+< > "9tK-oN-LQ3.title" = "レイヤーをラスタライズして消去";
+< > "Ag7-1X-Pgy.title" = "フィート:";
+< > "Awx-Yh-y0q.title" = "HEIC深度マップを調整";
+< > "B6n-Gd-hsq.title" = "* 再起動が必要";
+< > "Bbc-eA-xQh.title" = "(再起動が必要)";
+< > "Bg4-3B-NoC.title" = "マスクレイヤーを内部に配置して消去";
+< > "BlI-5b-F1Y.title" = "言語";
+< > "C5F-hF-wfO.title" = "リンク...";
+< > "CKZ-YB-3j9.title" = "最大2 MB";
+< > "CYL-w1-7fP.title" = "ツール間でスマート共有";
+< > "Czu-ld-vwy.title" = "追加";
+< > "D4S-HS-cNh.title" = "⌃+クリックでコンテキストメニューを表示";
+< > "DVf-oK-FBe.title" = "四角形";
+< > "EGC-Td-Cj1.title" = "テキストセル";
+< > "Erk-lt-AXp.title" = "プラグインの自動検出が行われるデフォルトフォルダ:";
+< > "FVE-l7-EAF.title" = "ローカルエリアネットワークでのファイルの共有を有効化";
+< > "Fsd-Dr-HaJ.title" = "最大10 MB";
+< > "GFd-Qa-bQg.title" = "XMPサイドカーからメタデータを読み込み";
+< > "GFv-wD-FKj.title" = "⇧ 修飾キーを使用してツールを切り替え";
+< > "GUA-hP-bAS.title" = "プラグイン検索フォルダ";
+< > "GVU-kx-q61.title" = "最大25 MB";
+< > "HEb-M7-Ymd.title" = "すべての新規カテゴリを同期する";
+< > "HFk-hX-yTQ.title" = "* 言語:";
+< > "HGh-ny-xsh.title" = "'スクラブ'ズームを使用";
+< > "Hca-bR-5lw.title" = "削除";
+< > "Hfh-gj-r88.title" = "⌘+ホイールのスクロールでキャンバスの回転を有効化";
+< > "Hxt-wD-f1X.title" = "設定が選択されていません。";
+< > "IDN-I3-V84.title" = "匿名で使用状況に関する情報を送信する";
+< > "IJf-eq-Unl.title" = "ストアのフォント(*.affont)は、起動時にAffinityフォントフォルダから読み込まれます:";
+< > "IQS-k3-Ejt.title" = "リンクを解除";
+< > "IbR-Sk-qZt.title" = "初期ズームを最大100％に制限";
+< > "JAA-OP-cHT.title" = "削除";
+< > "JZJ-nx-KBs.title" = "ブラシツールの共有:";
+< > "Ja8-vw-dmr.title" = "次で置換";
+< > "Jf4-V0-1ya.title" = "Retinaレンダリング:";
+< > "JoT-jw-z8D.title" = "何もしない";
+< > "Jp7-wT-AK6.title" = "テキストをポイント単位で表示";
+< > "JzX-ez-rK9.title" = "アイテム3";
+< > "KJi-Zx-LZG.title" = "起動時に追加のレンズプロファイルがレンズプロファイルのフォルダから読み込まれます:";
+< > "LBi-xW-zKb.title" = "コンテキストメニューのタッチを強制";
+< > "LHY-DI-9zj.title" = "ディスプレイ:";
+< > "LW8-fO-HUf.title" = "彩度";
+< > "LgP-qc-lgh.title" = "アイテム1";
+< > "Lgl-EW-yiU.title" = "表ビューセル";
+< > "Lk3-WV-Fmu.title" = "インポート時に背景レイヤーを自動的にロックする";
+< > "LyN-1D-9OY.title" = "お気に入りフォントを同期";
+< > "MIf-Oa-R60.title" = "チェックしない";
+< > "Muk-YH-dxQ.title" = "すべてのショートカットをクリア";
+< > "Mz4-X4-lmd.title" = "同期されたコンテンツのカテゴリはすべて他のデバイスで自動的に最新に保たれます。";
+< > "MzV-4j-Gcv.title" = "(再起動が必要)";
+< > "Nln-Jt-ZWp.title" = "[フォント]ドロップダウンで常に白の背景を使用";
+< > "Nr0-16-qC9.title" = "忠実度よりも編集可能テキストを優先する(PSD、PDF、およびAI)";
+< > "Nrf-Ni-XT0.title" = "アイコンスタイル:";
+< > "Ofp-DR-n2S.title" = "\"不明な\"プラグインの使用を許可";
+< > "Ohv-Qn-qnu.title" = "さらに警告";
+< > "OqP-8w-QSn.title" = "調整を子レイヤーとして追加";
+< > "Owf-cl-Rhe.title" = "現像アシスタント…";
+< > "P79-LZ-gSM.title" = "ゼロEXRアルファを撹乱";
+< > "POs-I1-pIW.title" = "コピープレーンテキストで区切りを正規化";
+< > "PYH-HM-VSZ.title" = "修飾キーは許容されません。";
+< > "Poz-2U-dnm.title" = "新規ピクセルレイヤーとペイントを追加";
+< > "QOh-TO-rAe.title" = "アルファでEXRカラーを分割後";
+< > "QPw-YW-cnB.title" = "Appleのデフォルト";
+< > "QhS-wU-aLg.title" = "レンダリングインテント:";
+< > "QkW-ng-aqK.title" = "言語";
+< > "RJO-XA-Q7Y.title" = "警告: このオプションは、PSDをDAMアプリケーションとの相互交換フォーマットとして使う場合にのみ推奨します。AffinityフォーマットとPSDには互換性がないため、特定のドキュメント機能がラスタライズされるか失われることがあります。";
+< > "RNi-No-gXz.title" = "購入を自動ダウンロード";
+< > "Rj8-WA-4SG.title" = "入力中にテキストを置換";
+< > "RvM-7c-cru.title" = "最大50 MB";
+< > "S8V-oR-ZRo.title" = "表ビューセル";
+< > "SAm-r5-oEF.title" = "毎日";
+< > "SZh-eH-JZF.title" = "読み込み";
+< > "TWv-yc-8IQ.title" = "ズームにマウスホイールを使用 ";
+< > "TbN-3A-CiK.title" = "最大100 MB";
+< > "U4l-M7-bN7.title" = "アシスタントのアクションを自動的に元に戻してやり直します";
+< > "UcN-d4-1IQ.title" = "最大100 MB";
+< > "VJ1-br-Ap3.title" = "ベクターレイヤーにフィルターを適用:";
+< > "VuJ-F0-8tY.title" = "同一のAffinityアカウントのみ";
+< > "WM5-vl-2vB.title" = "コンテンツ上に同期ステータスアイコンを表示:";
+< > "WXe-1Q-iS5.title" = "言語";
+< > "Wap-LQ-Fqv.title" = "外部変更時にリンクされたリソースを自動的に更新";
+< > "XCv-4y-bbc.title" = "選択範囲にマスクレイヤーを追加:";
+< > "XJn-Dz-rvb.title" = "大きいコンテンツを自動同期";
+< > "XM9-Y6-DGn.title" = "移動ツールの縦横比制約:";
+< > "Xa7-PQ-O2r.title" = "修飾キーを無視";
+< > "YOp-ue-Nem.title" = "既存の設定とコンテンツはベータアプリ全般で上書きされます。\nアプリの再起動が必要です。";
+< > "YQI-Yc-lXt.title" = "Metalアクセラレーションの計算を有効化";
+< > "YYW-ty-i5v.title" = "サイズ制限が設定されていません";
+< > "Ynk-mc-gwU.title" = "重複チェック";
+< > "Z50-PG-Hr9.title" = "OpenColorIO設定ファイル:";
+< > "Zdg-4c-hYT.title" = "何もしない";
+< > "ZlX-bP-RZL.title" = "テキスト";
+< > "Zx4-gW-TaI.title" = "アートボード背景グレーレベル:";
+< > "Zzw-n5-s9S.title" = "黒点補正";
+< > "a0C-RI-6K3.title" = "最大10 MB";
+< > "a5S-9E-8Rq.title" = "Trackpadでキャンバス回転を有効にする";
+< > "aFw-bD-sZR.title" = "テキストセル";
+< > "aJs-cI-6fc.title" = "すべてのツールで共有されるブラシ";
+< > "aVF-qs-VBn.title" = "言語";
+< > "ajJ-Af-1Rj.title" = "テキストセル";
+< > "bA7-22-BWG.title" = "ベータアプリをリセット";
+< > "bal-nB-gbQ.title" = "微調整の距離:";
+< > "brD-ZI-VQ6.title" = "リセット";
+< > "c8X-ce-a9V.title" = "その他";
+< > "cCB-Jn-Dwy.title" = "OpenEXRアルファチャンネルの関連付け";
+< > "cM0-lx-OpF.title" = "ブラシプレビューの表示";
+< > "cNL-lm-QT1.title" = "このデバイスのコンテンツ同期を有効にする [実験的]";
+< > "cQ3-Ny-e01.title" = "FinderでAffinityフォントフォルダを開く";
+< > "cZt-66-0CZ.title" = "モバイルデータ使用時";
+< > "cvf-Ij-dft.title" = "フォントのリセット";
+< > "ddM-HT-33R.title" = "メタル";
+< > "e9o-Fx-R2e.title" = "テキストセル";
+< > "eKs-VK-EvW.title" = "ファイル拡張子を非表示";
+< > "eZK-fl-6Cr.title" = "インチ:";
+< > "eaJ-Wy-RXU.title" = "低品質(最速)";
+< > "el1-AH-WTB.title" = "ボックス";
+< > "fC5-NG-Nxl.title" = "最大50 MB";
+< > "fGc-tO-hR7.title" = "開いたファイルを作業中の色空間に変換";
+< > "fZA-Qx-cXG.title" = "調整を新規レイヤーとして追加";
+< > "ftR-SG-rIy.title" = "検出済みプラグイン";
+< > "fxC-GT-H7W.title" = "削除";
+< > "gAd-Cw-f69.title" = "絶対的な色彩を保持";
+< > "gYN-gc-Wd7.title" = "しない";
+< > "gkm-el-EYs.title" = "可能であればPSDスマートオブジェクトをインポート";
+< > "go6-pE-3Ph.title" = "すべてに適用";
+< > "gs4-ga-C5S.title" = "ファイル名に基づいてOCIO変換を実行";
+< > "gsG-bb-y54.title" = "何もしない";
+< > "h2I-42-n2a.title" = "レイヤーをラスタライズしてブラシを適用";
+< > "h7l-Ok-A0X.title" = "選択...";
+< > "h9j-PU-8aL.title" = "レイヤーをラスタライズしてフィルターを適用";
+< > "hFJ-QS-bFF.title" = "バッテリー使用時";
+< > "hLc-I2-9F6.title" = "ポイント:";
+< > "hUC-Gv-fm4.title" = "このアプリの複数のコピーがインストールされています。最新バージョンを使用して、Dropboxサービスにリンクしてください。";
+< > "hfh-Uj-tKa.title" = "テキストセル";
+< > "hhS-Fd-NXj.title" = "ブラシ十字線を常に表示";
+< > "i41-e7-fE2.title" = "OpenGL(基本)";
+< > "i4s-dH-raM.title" = "ドキュメント間でツールを同期";
+< > "i9X-e6-6vh.title" = "ヤード:";
+< > "iJs-pb-FN1.title" = "アイテム2";
+< > "iUC-00-YPK.title" = "統合GPUのみを使用(再起動が必要)";
+< > "ivy-xk-IuN.title" = "自動(選択項目で判断)";
+< > "jCc-NI-Hxe.title" = "フォントUIサイズ:";
+< > "jEH-Fv-Psa.title" = "作業中のプロファイルを未プロファイルのファイルに割り当てる際に警告";
+< > "kTx-Sw-JNF.title" = "高品質(最遅)";
+< > "kod-V4-Mll.title" = "フィルターを子レイヤーとして追加";
+< > "lVv-ZL-7fT.title" = "各単位の小数部桁数:";
+< > "ldm-bB-6lv.title" = "テキストセル";
+< > "mME-LW-51Z.title" = "選択範囲に調整レイヤーを追加:";
+< > "mVb-EU-zM2.title" = "項目をSVGとしてコピー";
+< > "mba-HU-qfa.title" = "デフォルトで制約";
+< > "nQb-WG-ogh.title" = "EDRをデフォルトで32ビットRGB表示で有効にする";
+< > "nUv-nQ-bej.title" = "追加";
+< > "o2K-Nt-f8S.title" = "デフォルト";
+< > "oEP-Fu-XcC.title" = "プラグインサポートフォルダ";
+< > "oJ5-8y-OKL.title" = "UIスタイル:";
+< > "oMN-2Y-fYB.title" = "何もしない";
+< > "ohl-Cd-COM.title" = "デフォルトとして保存";
+< > "ovH-lh-eQy.title" = "表ビューセル";
+< > "p0b-Iv-fDQ.title" = "ベクターレイヤー上の他のブラシ:";
+< > "pXn-qP-5dD.title" = "保存";
+< > "pZf-xD-X6j.title" = "メートル:";
+< > "qNF-hd-W0i.title" = "テキストコントラスト:";
+< > "qSV-mQ-VUP.title" = "テキストセル";
+< > "qfO-WN-jcY.title" = "知覚";
+< > "rAf-og-SGE.title" = "アシスタントが処理を行うときにアラート";
+< > "rCt-7T-FLs.title" = "デフォルトで制約しない";
+< > "rH6-JP-CII.title" = "毎週";
+< > "rKB-vq-uDw.headerCell.title" = "キー";
+< > "reH-Bm-WKw.title" = "Serifのデフォルト";
+< > "rkl-23-enT.title" = "修飾キー使用時の微調整距離:";
+< > "rtK-4s-wez.title" = "注: これらの設定に加えた変更は、Affinityの再起動時に有効になります。";
+< > "sK1-2C-auM.title" = "削除";
+< > "sUW-n4-Gs8.title" = "閉じる";
+< > "srO-bO-lsi.title" = "追加";
+< > "sz8-kj-jfZ.title" = "正確なクリッピングを使用";
+< > "tCR-Fz-UYe.title" = "アップデートの有無をチェック:";
+< > "tHV-mB-1dl.title" = "度:";
+< > "tLU-CT-n3J.title" = "選択...";
+< > "tON-a8-YYk.title" = "読み込み時に変換を行う場合に警告";
+< > "taV-Af-jHh.title" = "ピクセル:";
+< > "thh-vz-zNv.title" = "ミリメートル:";
+< > "tvR-mC-kEc.title" = "グラデーションをディザリングする";
+< > "twM-cH-hNT.title" = "追加";
+< > "u26-Xv-TY3.title" = "(互換GPUなし)";
+< > "u9u-0a-8EI.title" = "置換";
+< > "uBB-sZ-2R2.title" = "フィルターを自動コミット";
+< > "udH-9x-fd8.title" = "出荷時の設定にリセット";
+< > "uif-dR-Gvx.title" = "マスクを子レイヤーとして追加";
+< > "uth-De-zu8.title" = "削除後に選択を維持することを希望";
+< > "v2W-TQ-upg.title" = "削除";
+< > "vBU-EW-4vM.title" = "最大5 MB";
+< > "vHz-AL-G6s.title" = "表ビューセル";
+< > "vHz-PH-JfA.title" = "レンズプロファイルのフォルダをFinderで開く";
+< > "vaL-Af-YK1.title" = "ラインをポイント単位で表示";
+< > "vfW-sD-uvA.title" = "自動(最適)";
+< > "vqD-fC-7kl.title" = "ベクターレイヤーから消去:";
+< > "vuy-Nt-O5a.title" = "ハードウェアアクセラレーション:";
+< > "w10-i4-bM1.title" = "レイヤーを選択せずに描画:";
+< > "w6W-ON-jnU.title" = "重要な場合のみ";
+< > "wRJ-ZX-YBe.title" = "ツールチップを表示するまでの時間:";
+< > "wTP-Ig-RE9.title" = "マスクを新規レイヤーとして追加";
+< > "wTf-Iv-Ais.title" = "新しいコンテンツカテゴリをリンク";
+< > "wcO-KS-p67.title" = "常時";
+< > "x18-t9-7Y0.title" = "フィラーテキストをテキストとして挿入";
+< > "xLS-NV-SsZ.headerCell.title" = "プラグイン";
+< > "xbI-c4-84p.title" = "UIコントラスト:";
+< > "xgK-rf-Ycw.title" = "選択マーキーと交差するオブジェクトを選択する";
+< > "xgZ-NB-5VV.title" = "検索フォルダが選択されていません。";
+< > "y2e-Ww-wKH.headerCell.title" = "ステータス";
+< > "yBV-CS-l1d.title" = "最大1 MB";
+< > "yKS-l6-vq6.title" = "テキストスタイルをリセット";
+< > "ySU-o8-rcP.title" = "デフォルトフォルダをFinderで開く";
+< > "yop-I4-WQH.title" = "選択範囲にフィルターレイヤーを追加:";
+< > "zeO-7C-JUI.title" = "バッテリー使用時";
 < > "zqt-7m-LfC.title" = "レイヤーとグループの作成時に名前をリクエスト";
 ---
-> > /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "xLS-NV-SsZ"; */
+> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "2hs-d2-ydE"; */
+> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "Czu-ld-vwy"; */
+> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "nUv-nQ-bej"; */
+> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "srO-bO-lsi"; */
+> < /* Class = "NSButtonCell"; title = "Add"; ObjectID = "twM-cH-hNT"; */
+> < /* Class = "NSButtonCell"; title = "Always show brush crosshair"; ObjectID = "hhS-Fd-NXj"; */
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "sUW-n4-Gs8"; */
+> < /* Class = "NSButtonCell"; title = "Default"; ObjectID = "o2K-Nt-f8S"; */
+> < /* Class = "NSButtonCell"; title = "Factory Reset"; ObjectID = "udH-9x-fd8"; */
+> < /* Class = "NSButtonCell"; title = "Load"; ObjectID = "SZh-eH-JZF"; */
+> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "Hca-bR-5lw"; */
+> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "JAA-OP-cHT"; */
+> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "fxC-GT-H7W"; */
+> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "sK1-2C-auM"; */
+> < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "v2W-TQ-upg"; */
+> < /* Class = "NSButtonCell"; title = "Reset Brushes"; ObjectID = "136"; */
+> < /* Class = "NSButtonCell"; title = "Reset Fills"; ObjectID = "138"; */
+> < /* Class = "NSButtonCell"; title = "Reset Fonts"; ObjectID = "cvf-Ij-dft"; */
+> < /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "brD-ZI-VQ6"; */
+> < /* Class = "NSButtonCell"; title = "Save"; ObjectID = "pXn-qP-5dD"; */
+> < /* Class = "NSButtonCell"; title = "Show brush previews"; ObjectID = "cM0-lx-OpF"; */
+> < /* Class = "NSButtonCell"; title = "and warn"; ObjectID = "Ohv-Qn-qnu"; */
+> < /* Class = "NSMenuItem"; title = "Daily"; ObjectID = "SAm-r5-oEF"; */
+> < /* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "10A-2O-k7o"; */
+> < /* Class = "NSMenuItem"; title = "Never"; ObjectID = "MIf-Oa-R60"; */
+> < /* Class = "NSMenuItem"; title = "Never"; ObjectID = "gYN-gc-Wd7"; */
+> < /* Class = "NSMenuItem"; title = "Saturation"; ObjectID = "LW8-fO-HUf"; */
+> < /* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "rH6-JP-CII"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Plugin"; ObjectID = "xLS-NV-SsZ"; */
+> < /* Class = "NSTextFieldCell"; title = "Centimetres:"; ObjectID = "2em-7g-TVI"; */
+> < /* Class = "NSTextFieldCell"; title = "Check for updates:"; ObjectID = "tCR-Fz-UYe"; */
+> < /* Class = "NSTextFieldCell"; title = "Decimal Places for Unit Types:"; ObjectID = "lVv-ZL-7fT"; */
+> < /* Class = "NSTextFieldCell"; title = "Degrees:"; ObjectID = "tHV-mB-1dl"; */
+> < /* Class = "NSTextFieldCell"; title = "Document"; ObjectID = "0Kk-WY-Uht"; */
+> < /* Class = "NSTextFieldCell"; title = "Feet:"; ObjectID = "Ag7-1X-Pgy"; */
+> < /* Class = "NSTextFieldCell"; title = "Metres:"; ObjectID = "pZf-xD-X6j"; */
+> < /* Class = "NSTextFieldCell"; title = "Millimetres:"; ObjectID = "thh-vz-zNv"; */
+> < /* Class = "NSTextFieldCell"; title = "Picas:"; ObjectID = "8WD-5D-Yp9"; */
+> < /* Class = "NSTextFieldCell"; title = "Pixels:"; ObjectID = "taV-Af-jHh"; */
+> < /* Class = "NSTextFieldCell"; title = "Points:"; ObjectID = "hLc-I2-9F6"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5Q9-Ki-iyd"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "67i-DT-CNB"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6lR-wM-Xw8"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EGC-Td-Cj1"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gpm-7V-BQc"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aFw-bD-sZR"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ajJ-Af-1Rj"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "e9o-Fx-R2e"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hfh-Uj-tKa"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ldm-bB-6lv"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qSV-mQ-VUP"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qWR-Dy-9Pl"; */
+> < /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "ZlX-bP-RZL"; */
+> < /* Class = "NSTextFieldCell"; title = "Tool Handle Size:"; ObjectID = "4A0-aG-lvk"; */
+> < /* Class = "NSTextFieldCell"; title = "UI Style:"; ObjectID = "oJ5-8y-OKL"; */
+> < /* Class = "NSTextFieldCell"; title = "Yards:"; ObjectID = "i9X-e6-6vh"; */
+> > "0Kk-WY-Uht.title" = "문서";
+> > "10A-2O-k7o.title" = "매월";
+> > "136.title" = "브러시 재설정";
+> > "138.title" = "칠 재설정";
+> > "2hs-d2-ydE.title" = "추가";
+> > "4A0-aG-lvk.title" = "도구 손잡이 크기:";
+> > "5Q9-Ki-iyd.title" = "텍스트 셀";
+> > "67i-DT-CNB.title" = "텍스트 셀";
+> > "6lR-wM-Xw8.title" = "텍스트 셀";
+> > "8WD-5D-Yp9.title" = "파이카:";
+> > "Ag7-1X-Pgy.title" = "피트:";
+> > "Czu-ld-vwy.title" = "추가";
+> > "EGC-Td-Cj1.title" = "텍스트 셀";
+> > "Gpm-7V-BQc.title" = "텍스트 셀";
+> > "Hca-bR-5lw.title" = "지우기";
+> > "JAA-OP-cHT.title" = "지우기";
+> > "LW8-fO-HUf.title" = "채도";
+> > "MIf-Oa-R60.title" = "하지 않음";
+> > "Ohv-Qn-qnu.title" = "경고";
+> > "SAm-r5-oEF.title" = "매일";
+> > "SZh-eH-JZF.title" = "불러오기";
+> > "ZlX-bP-RZL.title" = "텍스트";
+> > "aFw-bD-sZR.title" = "텍스트 셀";
+> > "ajJ-Af-1Rj.title" = "텍스트 셀";
+> > "brD-ZI-VQ6.title" = "재설정";
+> > "cM0-lx-OpF.title" = "브러시 미리보기 보기";
+> > "cvf-Ij-dft.title" = "서체 재설정";
+> > "e9o-Fx-R2e.title" = "텍스트 셀";
+> > "fxC-GT-H7W.title" = "지우기";
+> > "gYN-gc-Wd7.title" = "하지 않음";
+> > "hLc-I2-9F6.title" = "포인트:";
+> > "hfh-Uj-tKa.title" = "텍스트 셀";
+> > "hhS-Fd-NXj.title" = "브러시 십자선 항상 보기";
+> > "i9X-e6-6vh.title" = "야드:";
+> > "lVv-ZL-7fT.title" = "단위 종류별 소수점 위치:";
+> > "ldm-bB-6lv.title" = "텍스트 셀";
+> > "nUv-nQ-bej.title" = "추가";
+> > "o2K-Nt-f8S.title" = "기본값";
+> > "oJ5-8y-OKL.title" = "UI 스타일:";
+> > "pXn-qP-5dD.title" = "저장";
+> > "qSV-mQ-VUP.title" = "텍스트 셀";
+> > "qWR-Dy-9Pl.title" = "텍스트 셀";
+> > "rH6-JP-CII.title" = "매주";
+> > "sK1-2C-auM.title" = "지우기";
+> > "sUW-n4-Gs8.title" = "닫기";
+> > "srO-bO-lsi.title" = "추가";
+> > "tCR-Fz-UYe.title" = "업데이트 확인:";
+> > "tHV-mB-1dl.title" = "각도:";
+> > "taV-Af-jHh.title" = "픽셀:";
+> > "twM-cH-hNT.title" = "추가";
+> > "udH-9x-fd8.title" = "기본값 재설정";
+> > "v2W-TQ-upg.title" = "지우기";
 > > "xLS-NV-SsZ.headerCell.title" = "플러그인";
+> > /* Class = "NSButtonCell"; title = "칠 재설정"; ObjectID = "138"; */
+> > /* Class = "NSButtonCell"; title = "서체 재설정"; ObjectID = "cvf-Ij-dft"; */
+> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "2hs-d2-ydE"; */
+> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "Czu-ld-vwy"; */
+> > /* Class = "NSButtonCell"; title = "경고"; ObjectID = "Ohv-Qn-qnu"; */
+> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "nUv-nQ-bej"; */
+> > /* Class = "NSButtonCell"; title = "저장"; ObjectID = "pXn-qP-5dD"; */
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "sUW-n4-Gs8"; */
+> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "srO-bO-lsi"; */
+> > /* Class = "NSButtonCell"; title = "추가"; ObjectID = "twM-cH-hNT"; */
+> > /* Class = "NSButtonCell"; title = "브러시 십자선 항상 보기"; ObjectID = "hhS-Fd-NXj"; */
+> > /* Class = "NSButtonCell"; title = "브러시 재설정"; ObjectID = "136"; */
+> > /* Class = "NSButtonCell"; title = "기본값 재설정"; ObjectID = "udH-9x-fd8"; */
+> > /* Class = "NSButtonCell"; title = "브러시 미리보기 보기"; ObjectID = "cM0-lx-OpF"; */
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Hca-bR-5lw"; */
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "JAA-OP-cHT"; */
+> > /* Class = "NSButtonCell"; title = "재설정"; ObjectID = "brD-ZI-VQ6"; */
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "fxC-GT-H7W"; */
+> > /* Class = "NSButtonCell"; title = "기본값"; ObjectID = "o2K-Nt-f8S"; */
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "sK1-2C-auM"; */
+> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "v2W-TQ-upg"; */
+> > /* Class = "NSButtonCell"; title = "불러오기"; ObjectID = "SZh-eH-JZF"; */
+> > /* Class = "NSMenuItem"; title = "하지 않음"; ObjectID = "MIf-Oa-R60"; */
+> > /* Class = "NSMenuItem"; title = "하지 않음"; ObjectID = "gYN-gc-Wd7"; */
+> > /* Class = "NSMenuItem"; title = "매월"; ObjectID = "10A-2O-k7o"; */
+> > /* Class = "NSMenuItem"; title = "채도"; ObjectID = "LW8-fO-HUf"; */
+> > /* Class = "NSMenuItem"; title = "매일"; ObjectID = "SAm-r5-oEF"; */
+> > /* Class = "NSMenuItem"; title = "매주"; ObjectID = "rH6-JP-CII"; */
+> > /* Class = "NSTableColumn"; headerCell.title = "플러그인"; ObjectID = "xLS-NV-SsZ"; */
+> > /* Class = "NSTextFieldCell"; title = "UI 스타일:"; ObjectID = "oJ5-8y-OKL"; */
+> > /* Class = "NSTextFieldCell"; title = "도구 손잡이 크기:"; ObjectID = "4A0-aG-lvk"; */
+> > /* Class = "NSTextFieldCell"; title = "단위 종류별 소수점 위치:"; ObjectID = "lVv-ZL-7fT"; */
+> > /* Class = "NSTextFieldCell"; title = "문서"; ObjectID = "0Kk-WY-Uht"; */
+> > /* Class = "NSTextFieldCell"; title = "피트:"; ObjectID = "Ag7-1X-Pgy"; */
+> > /* Class = "NSTextFieldCell"; title = "야드:"; ObjectID = "i9X-e6-6vh"; */
+> > /* Class = "NSTextFieldCell"; title = "미터:"; ObjectID = "pZf-xD-X6j"; */
+> > /* Class = "NSTextFieldCell"; title = "각도:"; ObjectID = "tHV-mB-1dl"; */
+> > /* Class = "NSTextFieldCell"; title = "픽셀:"; ObjectID = "taV-Af-jHh"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "5Q9-Ki-iyd"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "67i-DT-CNB"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "6lR-wM-Xw8"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "EGC-Td-Cj1"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Gpm-7V-BQc"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aFw-bD-sZR"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "ajJ-Af-1Rj"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "e9o-Fx-R2e"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "hfh-Uj-tKa"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "ldm-bB-6lv"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "qSV-mQ-VUP"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "qWR-Dy-9Pl"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트"; ObjectID = "ZlX-bP-RZL"; */
+> > /* Class = "NSTextFieldCell"; title = "파이카:"; ObjectID = "8WD-5D-Yp9"; */
+> > /* Class = "NSTextFieldCell"; title = "포인트:"; ObjectID = "hLc-I2-9F6"; */
+> > /* Class = "NSTextFieldCell"; title = "업데이트 확인:"; ObjectID = "tCR-Fz-UYe"; */
+> > /* Class = "NSTextFieldCell"; title = "센티미터:"; ObjectID = "2em-7g-TVI"; */
+> > /* Class = "NSTextFieldCell"; title = "밀리미터:"; ObjectID = "thh-vz-zNv"; */
