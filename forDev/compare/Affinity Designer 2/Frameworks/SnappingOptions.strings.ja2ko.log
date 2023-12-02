@@ -1,18 +1,16 @@
-1c1,2
+3,4c3,4
 < 3c3
----
-> 2,3c2,3
-> < /* Class = "NSWindow"; title = "Snapping"; ObjectID = "90"; */
-4,5c5,8
-< > "90.title" = "スナップ";
 < 6c6
 ---
-> > /* Class = "NSWindow"; title = "스내핑"; ObjectID = "90"; */
-> > "90.title" = "스내핑";
+> 2,3c2,3
 > 5,6c5,6
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "186"; */
-8c11,12
+7,8c7,12
 < > "186.title" = "閉じる";
+< > "90.title" = "スナップ";
 ---
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "186"; */
+> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "186"; */
+> < /* Class = "NSWindow"; title = "Snapping"; ObjectID = "90"; */
 > > "186.title" = "닫기";
+> > "90.title" = "스내핑";
+> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "186"; */
+> > /* Class = "NSWindow"; title = "스내핑"; ObjectID = "90"; */
