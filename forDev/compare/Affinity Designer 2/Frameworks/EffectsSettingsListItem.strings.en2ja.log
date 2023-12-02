@@ -1,12 +1,12 @@
+---
+---
+---
 3c3
-< "10.title" = "Label";
----
-> "10.title" = "ラベル";
 6c6
-< "Jpo-u0-8YC.ibShadowedToolTip" = "Duplicate effect";
----
-> "Jpo-u0-8YC.ibShadowedToolTip" = "エフェクトを複製";
 9c9
+< "10.title" = "Label";
+< "Jpo-u0-8YC.ibShadowedToolTip" = "Duplicate effect";
 < "rcR-Mg-ZNF.ibShadowedToolTip" = "Delete effect";
----
+> "10.title" = "ラベル";
+> "Jpo-u0-8YC.ibShadowedToolTip" = "エフェクトを複製";
 > "rcR-Mg-ZNF.ibShadowedToolTip" = "エフェクトを削除";
