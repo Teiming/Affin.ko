@@ -23,12 +23,15 @@ cat ./Photo | sort | uniq >Photo.temp && mv Photo.temp Photo
 cat ./Publisher | sort | uniq >Publisher.temp && mv Publisher.temp Publisher
 diff3 ./Designer ./Photo ./Publisher >./diff3.log
 
+# Sync to github
+cd ~/Affin.ko
+git add .
+git commit -m "Update Dictionary (${ENG} → ${KOR})"
+git push
+
 # printf "주의할 특수문자 &" >>DictionaryDiff
 # cat DictionaryDesigner | grep "&" >>DictionaryDiff
 # cat DictionaryPhoto | grep "&" >>DictionaryDiff
 # cat DictionaryPublisher | grep "&" >>DictionaryDiff
-# git add Dictionary*
-# git commit -m "Update Dictionary (${ENG} → ${KOR})"
-# git push
 # ln -sf ~/Affin.ko/Affin.ko-dictionary /usr/local/bin/afdic
 # afdic

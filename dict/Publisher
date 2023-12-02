@@ -24,7 +24,7 @@ s/\"Add Crop Preset\";/\"크롭 미리 설정 추가\";/
 s/\"Add Document Palette\";/\"문서 팔레트 추가\";/
 s/\"Add Document Snapshot\";/\"문서 스냅샷 추가\";/
 s/\"Add Global Colour…\";/\"전역 색상 추가…\";/
-s/\"Add Gradient Overlay\";/\"그레이디언트 오버레이 추가\";/
+s/\"Add Gradient Overlay\";/\"그라디언트 오버레이 추가\";/
 s/\"Add Layer\";/\"레이어 추가\";/
 s/\"Add New Category...\";/\"신규 범주 추가...\";/
 s/\"Add New Category…\";/\"신규 범주 추가…\";/
@@ -137,7 +137,6 @@ s/\"Benchmark\";/\"벤치마크\";/
 s/\"Bevel \/ Emboss\";/\"음각 \/ 양각\";/
 s/\"Big\";/\"큰\";/
 s/\"Bigger\";/\"크게\";/
-s/\"Black &amp; White\";/\"흑백\";/
 s/\"Black 10%\";/\"검정 10%\";/
 s/\"Black 15%\";/\"검정 15%\";/
 s/\"Black 20%\";/\"검정 20%\";/
@@ -159,6 +158,7 @@ s/\"Black 90%\";/\"검정 90%\";/
 s/\"Black 95%\";/\"검정 95%\";/
 s/\"Black to transparent\";/\"검정에서 투명\";/
 s/\"Black to white\";/\"검정에서 하양\";/
+s/\"BlackAndWhite\";/\"흑백\";/
 s/\"Black\";/\"검정\";/
 s/\"Bleed:\";/\"도련:\";/
 s/\"Bleed\";/\"도련\";/
@@ -193,6 +193,7 @@ s/\"Brush Item Context Menu\";/\"브러시 항목 상황별 메뉴\";/
 s/\"Brush Width:\";/\"브러시 너비:\";/
 s/\"Brush\";/\"브러시\";/
 s/\"Brushes\";/\"브러시\";/
+s/\"Business\";/\"명함\";/
 s/\"Butt Cap\";/\"뭉툭한 단면\";/
 s/\"Button\";/\"버튼\";/
 s/\"Callout Ellipse Tool\";/\"외치기 타원 도구\";/
@@ -544,14 +545,14 @@ s/\"Glass\";/\"유리\";/
 s/\"Global\";/\"전역\";/
 s/\"Glow\";/\"광채\";/
 s/\"Glyph Browser\";/\"글리프 브라우저\";/
-s/\"Gradient Map\";/\"그레이디언트 맵\";/
-s/\"Gradient Overlay\";/\"그레이디언트 오버레이\";/
-s/\"Gradient\";/\"그레이디언트\";/
-s/\"Gradients\";/\"그레이디언트\";/
+s/\"Gradient Map\";/\"그라디언트 맵\";/
+s/\"Gradient Overlay\";/\"그라디언트 오버레이\";/
+s/\"Gradient\";/\"그라디언트\";/
+s/\"Gradients\";/\"그라디언트\";/
+s/\"Gray\";/\"회색\";/
+s/\"Grays\";/\"회색\";/
 s/\"Green Channel\";/\"초록 채널\";/
 s/\"Green\";/\"초록\";/
-s/\"Grey\";/\"회색\";/
-s/\"Greys\";/\"회색\";/
 s/\"Grid and Axis Manager…\";/\"격자선 관리자…\";/
 s/\"Grid and Snapping Axis\";/\"격자 및 스내핑 축\";/
 s/\"Grid lines:\";/\"격자 선:\";/
@@ -852,6 +853,7 @@ s/\"Opacity\";/\"불투명도\";/
 s/\"Opaque Objects\";/\"불투명 오브젝트\";/
 s/\"Open Curves\";/\"열린 곡선\";/
 s/\"Open Recent\";/\"최근 사용 열기\";/
+s/\"Open\";/\"열기\";/
 s/\"Open…\";/\"열기…\";/
 s/\"Options\";/\"설정\";/
 s/\"Orange\";/\"주황\";/
@@ -1046,7 +1048,7 @@ s/\"Reverse Curve\";/\"곡선 반대로\";/
 s/\"Reverse Curves\";/\"곡선 반대로\";/
 s/\"Reverse curve\";/\"곡선 반대로\";/
 s/\"Reverse curves\";/\"곡선 반대로\";/
-s/\"Reverse gradient\";/\"그레이디언트 반대로\";/
+s/\"Reverse gradient\";/\"그라디언트 반대로\";/
 s/\"Revert Defaults\";/\"기본값 되돌리기\";/
 s/\"Revert defaults\";/\"기본값 되돌리기\";/
 s/\"Revert user changes\";/\"사용자 변경 되돌리기\";/
@@ -1067,7 +1069,7 @@ s/\"Rotate Anticlockwise\";/\"반시계방향으로 회전\";/
 s/\"Rotate Clockwise\";/\"시계방향으로 회전\";/
 s/\"Rotate Left\";/\"왼쪽으로 회전\";/
 s/\"Rotate Right\";/\"오른쪽으로 회전\";/
-s/\"Rotate gradient\";/\"그레이디언트 회전\";/
+s/\"Rotate gradient\";/\"그라디언트 회전\";/
 s/\"Rotate\";/\"회전\";/
 s/\"Rotation Jitter:\";/\"회전 일그러짐:\";/
 s/\"Rotation:\";/\"회전:\";/
@@ -1080,6 +1082,7 @@ s/\"Rounded\";/\"둥근\";/
 s/\"Row Marquee Tool\";/\"행 천막 도구\";/
 s/\"Rows:\";/\"열:\";/
 s/\"Salmon\";/\"연어\";/
+s/\"Samples\";/\"견본\";/
 s/\"Satellite\";/\"위성\";/
 s/\"Saturate\";/\"채도\";/
 s/\"Saturation Jitter:\";/\"채도 일그러짐:\";/
@@ -1139,7 +1142,7 @@ s/\"Separate curves\";/\"곡선 분리\";/
 s/\"Separated Mode\";/\"분리 모드\";/
 s/\"Services\";/\"서비스\";/
 s/\"Set Fill None\";/\"칠 없음\";/
-s/\"Set Fill to 50% Grey\";/\"50% 회색으로 칠\";/
+s/\"Set Fill to 50% Gray\";/\"50% 회색으로 칠\";/
 s/\"Set Fill to Black and White\";/\"흑백으로 칠\";/
 s/\"Set No Character Style\";/\"문자 스타일 벗기기\";/
 s/\"Set No Paragraph Style\";/\"문단 스타일 벗기기\";/
@@ -1186,7 +1189,7 @@ s/\"Show Pixel Selection\";/\"픽셀 선택 항목 보기\";/
 s/\"Show Right Studio\";/\"오른쪽 작업실 보기\";/
 s/\"Show Rotation Centre\";/\"회전 중심 보기\";/
 s/\"Show Rulers\";/\"눈금자 보기\";/
-s/\"Show Samples\";/\"샘플 보기\";/
+s/\"Show Samples\";/\"견본 보기\";/
 s/\"Show Text Styles\";/\"텍스트 스타일 보기\";/
 s/\"Show Toolbar\";/\"툴바 보기\";/
 s/\"Show Tools\";/\"도구 보기\";/
@@ -1441,7 +1444,7 @@ s/\"Vertical axis:\";/\"세로 축:\";/
 s/\"Vertical\";/\"세로\";/
 s/\"Vibrance\";/\"활기\";/
 s/\"View Mode\";/\"뷰 모드\";/
-s/\"View Samples\";/\"샘플 보기\";/
+s/\"View Samples\";/\"견본 보기\";/
 s/\"View Tool\";/\"뷰 도구\";/
 s/\"View Tutorials\";/\"튜토리얼 보기\";/
 s/\"View\";/\"뷰\";/
