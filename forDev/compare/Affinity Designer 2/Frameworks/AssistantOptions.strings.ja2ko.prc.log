@@ -99,9 +99,5 @@
 < > "n1K-Q4-60T.title" = "すべてのツールで共有されるブラシ";
 < > "uul-Qd-CVA.title" = "複雑なアシスタントアクションをワンストップで元に戻す/やり直す";
 ---
-> < /* Class = "NSButtonCell"; title = "Close"; ObjectID = "186"; */
-> < /* Class = "NSWindow"; title = "Assistant"; ObjectID = "90"; */
 > > "186.title" = "닫기";
 > > "90.title" = "손쉬운 사용";
-> > /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "186"; */
-> > /* Class = "NSWindow"; title = "손쉬운 사용"; ObjectID = "90"; */
