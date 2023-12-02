@@ -1,14 +1,14 @@
-1,2c1,2
+2,5c2
+< ---
 < 3c3
+< 6c6
 < < "taL-Q6-C3X.title" = "Box";
 ---
-> 5c5
-> < /* Class = "NSTextFieldCell"; title = "Defaults"; ObjectID = "teu-vy-Iaf"; */
-4,8c4
+> 5,6c5,6
+7,8c4,6
 < > "taL-Q6-C3X.title" = "ボックス";
-< 6c6
-< < "teu-vy-Iaf.title" = "Default Format";
-< ---
 < > "teu-vy-Iaf.title" = "デフォルトフォーマット";
 ---
+> < /* Class = "NSTextFieldCell"; title = "Defaults"; ObjectID = "teu-vy-Iaf"; */
+> > "teu-vy-Iaf.title" = "기본값";
 > > /* Class = "NSTextFieldCell"; title = "기본값"; ObjectID = "teu-vy-Iaf"; */
