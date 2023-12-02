@@ -419,11 +419,11 @@
 1274,1275c1274,1275
 128,129c128,129
 1283,1284c1283,1284
-1286c1286
+1287c1287
 1289,1290c1289,1290
 1298,1299c1298,1299
 1301,1302c1301,1302
-1304c1304
+1305c1305
 1307,1308c1307,1308
 1310,1311c1310,1311
 1313,1314c1313,1314
@@ -519,9 +519,9 @@
 35,36c35,36
 350,351c350,351
 353,354c353,354
-371,375c371,372
-377,378c374,375
-379a377,379
+371,372c371,372
+374,375c374,375
+377,378c377,378
 38,39c38,39
 383,384c383,384
 386,387c386,387
@@ -577,9 +577,9 @@
 59,60c59,60
 590,591c590,591
 593,594c593,594
-596,597c596,597
-599,600c599,600
-602,603c602,603
+596,600c596,597
+602,603c599,600
+604a602,604
 608,609c608,609
 611,612c611,612
 617,618c617,618
@@ -591,7 +591,7 @@
 638,639c638,639
 641,642c641,642
 644,645c644,645
-647c647
+648c648
 65,66c65,66
 650,651c650,651
 653,654c653,654
@@ -650,7 +650,7 @@
 86,87c86,87
 860,861c860,861
 863,864c863,864
-866c866
+867c867
 869,870c869,870
 875,876c875,876
 878,879c878,879
@@ -852,6 +852,7 @@
 < "HAT-In-9Up.title" = "En Dash";
 < "HWg-sJ-H8l.title" = "Export as Template…";
 < "HdA-fP-H3D.title" = "Paragraph Leading";
+< "HgB-ps-CKb.title" = "Stroke Color";
 < "HuU-Hn-ZOl.title" = "Geometry";
 < "Ikm-qI-xr4.title" = "Select Object";
 < "Ite-wP-CRS.title" = "Decrease";
@@ -901,6 +902,7 @@
 < "Wxr-K3-Xb3.title" = "Bigger";
 < "X9V-N1-aE0.title" = "Groups";
 < "Xee-W0-2Tr.title" = "Export Persona";
+< "Xem-8c-abs.title" = "Apple Color Picker...";
 < "Xnq-Dr-A25.title" = "Hide Others";
 < "YBk-ac-ZfK.title" = "Transparent Objects";
 < "Ydf-xe-VEc.title" = "Transform";
@@ -996,9 +998,11 @@
 < "tW5-K5-ahn.title" = "Show Tools";
 < "tgw-QS-Pn7.title" = "Select Same";
 < "uys-gy-ZgQ.title" = "Subtract";
+< "uzY-xL-U3w.title" = "Tag Color";
 < "v2P-6I-jqM.title" = "Blend Mode";
 < "vRB-xZ-oSi.title" = "Save";
 < "vaS-4t-alL.title" = "Unstroked Objects";
+< "vg1-3z-4TP.title" = "Fill Color";
 < "vte-HW-jpR.title" = "Behind";
 < "wBy-1v-JPW.title" = "Actual Size";
 < "wLu-X4-5Zy.title" = "Check for Updates";
@@ -1073,7 +1077,6 @@
 < /* Class = "NSMenuItem"; title = "All Caps"; ObjectID = "1524"; */
 < /* Class = "NSMenuItem"; title = "Alternate (Even-Odd)"; ObjectID = "1383"; */
 < /* Class = "NSMenuItem"; title = "Always Show Selection in Layers Panel "; ObjectID = "xNr-O1-3Xp"; */
-< /* Class = "NSMenuItem"; title = "Apple Colour Picker..."; ObjectID = "Xem-8c-abs"; */
 < /* Class = "NSMenuItem"; title = "Arrange"; ObjectID = "Pdf-BG-vv1"; */
 < /* Class = "NSMenuItem"; title = "Art Text"; ObjectID = "nSI-W5-nL2"; */
 < /* Class = "NSMenuItem"; title = "Artboards"; ObjectID = "JpD-gZ-8Rh"; */
@@ -1140,7 +1143,6 @@
 < /* Class = "NSMenuItem"; title = "Factory Reset"; ObjectID = "oaH-uj-twB"; */
 < /* Class = "NSMenuItem"; title = "Figure Dash"; ObjectID = "9DK-kK-Ag2"; */
 < /* Class = "NSMenuItem"; title = "File"; ObjectID = "804"; */
-< /* Class = "NSMenuItem"; title = "Fill Colour"; ObjectID = "vg1-3z-4TP"; */
 < /* Class = "NSMenuItem"; title = "Fill Mode"; ObjectID = "1385"; */
 < /* Class = "NSMenuItem"; title = "Filled Objects"; ObjectID = "cPV-z6-sIE"; */
 < /* Class = "NSMenuItem"; title = "Find in Layers Panel"; ObjectID = "pWi-eA-dhd"; */
@@ -1299,7 +1301,6 @@
 < /* Class = "NSMenuItem"; title = "Split View"; ObjectID = "CfD-Er-w2q"; */
 < /* Class = "NSMenuItem"; title = "Spread Setup…"; ObjectID = "4ty-1I-i2t"; */
 < /* Class = "NSMenuItem"; title = "Strikeout"; ObjectID = "4Jt-hw-bJu"; */
-< /* Class = "NSMenuItem"; title = "Stroke Colour"; ObjectID = "HgB-ps-CKb"; */
 < /* Class = "NSMenuItem"; title = "Stroke Weight"; ObjectID = "dc0-Nt-74U"; */
 < /* Class = "NSMenuItem"; title = "Stroked Objects"; ObjectID = "fdX-a5-q2f"; */
 < /* Class = "NSMenuItem"; title = "Studio"; ObjectID = "aRg-Mr-7xd"; */
@@ -1309,7 +1310,6 @@
 < /* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "1233"; */
 < /* Class = "NSMenuItem"; title = "Symbols"; ObjectID = "phe-so-vU0"; */
 < /* Class = "NSMenuItem"; title = "Synchronise from Selection"; ObjectID = "7lg-Xj-Nqc"; */
-< /* Class = "NSMenuItem"; title = "Tag Colour"; ObjectID = "uzY-xL-U3w"; */
 < /* Class = "NSMenuItem"; title = "Text Styles"; ObjectID = "3PK-kV-rhH"; */
 < /* Class = "NSMenuItem"; title = "Text Wrap"; ObjectID = "Deb-5h-lTl"; */
 < /* Class = "NSMenuItem"; title = "Text"; ObjectID = "1189"; */
@@ -1404,8 +1404,8 @@
 > "1331.title" = "축소";
 > "1353.title" = "뷰";
 > "1357.title" = "뷰";
-> "1362.title" = "뷰 모드";
-> "1364.title" = "뷰 모드";
+> "1362.title" = "보기";
+> "1364.title" = "보기";
 > "1366.title" = "벡터";
 > "1383.title" = "교대하기";
 > "1385.title" = "칠 모드";
@@ -1507,7 +1507,7 @@
 > "Bpk-Xm-rEK.title" = "삽입";
 > "CNR-fc-huC.title" = "안내선 잠금";
 > "CTb-NC-gUj.title" = "철자 확인";
-> "CfD-Er-w2q.title" = "분할 뷰 모드";
+> "CfD-Er-w2q.title" = "분할 보기";
 > "Crq-Tz-Jvc.title" = "위쪽";
 > "CvI-D0-ERa.title" = "기본값";
 > "D2v-ID-xc2.title" = "선택";
@@ -1526,6 +1526,7 @@
 > "HAT-In-9Up.title" = "반각 줄표";
 > "HWg-sJ-H8l.title" = "템플릿으로 내보내기…";
 > "HdA-fP-H3D.title" = "줄 간격";
+> "HgB-ps-CKb.title" = "선 색상";
 > "HuU-Hn-ZOl.title" = "기하";
 > "Ikm-qI-xr4.title" = "오브젝트 선택";
 > "Ite-wP-CRS.title" = "줄이기";
@@ -1550,7 +1551,7 @@
 > "NYG-YC-JLd.title" = "문자 스타일 생성";
 > "Oll-Tu-Xib.title" = "더욱 좁게";
 > "P3r-1H-plh.title" = "오른쪽 정렬";
-> "PHF-sc-jzi.title" = "단일 뷰 모드";
+> "PHF-sc-jzi.title" = "단일 보기";
 > "PPW-Zn-dZ9.title" = "분할";
 > "Pdf-BG-vv1.title" = "순서";
 > "Q7Q-BH-2nH.title" = "되돌리기";
@@ -1575,6 +1576,7 @@
 > "Wxr-K3-Xb3.title" = "크게";
 > "X9V-N1-aE0.title" = "그룹";
 > "Xee-W0-2Tr.title" = "내보내기 페르소나";
+> "Xem-8c-abs.title" = "Apple 색상 선택기...";
 > "Xnq-Dr-A25.title" = "기타 가리기";
 > "YBk-ac-ZfK.title" = "투명 오브젝트";
 > "Ydf-xe-VEc.title" = "변형";
@@ -1670,9 +1672,11 @@
 > "tW5-K5-ahn.title" = "도구 보기";
 > "tgw-QS-Pn7.title" = "동일 선택";
 > "uys-gy-ZgQ.title" = "제거";
+> "uzY-xL-U3w.title" = "태그 색상";
 > "v2P-6I-jqM.title" = "혼합 모드";
 > "vRB-xZ-oSi.title" = "저장";
 > "vaS-4t-alL.title" = "선이 없는 오브젝트";
+> "vg1-3z-4TP.title" = "칠 색상";
 > "vte-HW-jpR.title" = "뒤로";
 > "wBy-1v-JPW.title" = "실제 크기";
 > "wLu-X4-5Zy.title" = "업데이트 확인";
@@ -1689,7 +1693,6 @@
 > "za0-Gm-PuC.title" = "회전";
 > "zwL-Nw-wkx.title" = "텍스트 스타일";
 > "zyu-vC-SJu.title" = "열린 곡선";
-> /* Class = "NSMenu"; title = "뷰 모드"; ObjectID = "1364"; */
 > /* Class = "NSMenu"; title = "칠 모드"; ObjectID = "1386"; */
 > /* Class = "NSMenu"; title = "줄 간격"; ObjectID = "HdA-fP-H3D"; */
 > /* Class = "NSMenu"; title = "뷰"; ObjectID = "1357"; */
@@ -1703,6 +1706,7 @@
 > /* Class = "NSMenu"; title = "정렬"; ObjectID = "1193"; */
 > /* Class = "NSMenu"; title = "합자"; ObjectID = "1237"; */
 > /* Class = "NSMenu"; title = "간격"; ObjectID = "1241"; */
+> /* Class = "NSMenu"; title = "보기"; ObjectID = "1364"; */
 > /* Class = "NSMenu"; title = "정렬"; ObjectID = "5Jc-FA-nGp"; */
 > /* Class = "NSMenu"; title = "편집"; ObjectID = "828"; */
 > /* Class = "NSMenu"; title = "파일"; ObjectID = "873"; */
@@ -1730,7 +1734,6 @@
 > /* Class = "NSMenu"; title = "페르소나"; ObjectID = "815"; */
 > /* Class = "NSMenuItem"; title = "Affinity Designer 종료"; ObjectID = "823"; */
 > /* Class = "NSMenuItem"; title = "Affinity Designer에 관하여…"; ObjectID = "826"; */
-> /* Class = "NSMenuItem"; title = "Apple 색상 선택기..."; ObjectID = "Xem-8c-abs"; */
 > /* Class = "NSMenuItem"; title = "Finder에서 찾기"; ObjectID = "ays-zs-F3b"; */
 > /* Class = "NSMenuItem"; title = "Lorem Ipsum"; ObjectID = "33O-rq-hBH"; */
 > /* Class = "NSMenuItem"; title = "Photo에서 편집…"; ObjectID = "2Vd-C7-OhK"; */
@@ -1740,12 +1743,9 @@
 > /* Class = "NSMenuItem"; title = "줄 바꿈 없는 하이픈"; ObjectID = "1469"; */
 > /* Class = "NSMenuItem"; title = "폭 없는 공백"; ObjectID = "1470"; */
 > /* Class = "NSMenuItem"; title = "맨 뒤로 보내기"; ObjectID = "jZl-ao-W2J"; */
-> /* Class = "NSMenuItem"; title = "뷰 모드"; ObjectID = "1362"; */
 > /* Class = "NSMenuItem"; title = "칠 모드"; ObjectID = "1385"; */
 > /* Class = "NSMenuItem"; title = "줄 간격"; ObjectID = "8Zv-Bg-xT2"; */
-> /* Class = "NSMenuItem"; title = "선 색상"; ObjectID = "HgB-ps-CKb"; */
 > /* Class = "NSMenuItem"; title = "선 두께"; ObjectID = "dc0-Nt-74U"; */
-> /* Class = "NSMenuItem"; title = "칠 색상"; ObjectID = "vg1-3z-4TP"; */
 > /* Class = "NSMenuItem"; title = "열 안내선 보기"; ObjectID = "7Ru-0w-rUG"; */
 > /* Class = "NSMenuItem"; title = "맨 앞으로 가져오기"; ObjectID = "K9S-F2-SAt"; */
 > /* Class = "NSMenuItem"; title = "내 계정…"; ObjectID = "8PK-Bh-XtU"; */
@@ -1756,8 +1756,6 @@
 > /* Class = "NSMenuItem"; title = "추가 (결합)"; ObjectID = "jBQ-7f-1Rz"; */
 > /* Class = "NSMenuItem"; title = "제거 (결합)"; ObjectID = "oZU-Iw-JFf"; */
 > /* Class = "NSMenuItem"; title = "픽셀 (레티나)"; ObjectID = "nKE-2h-R9m"; */
-> /* Class = "NSMenuItem"; title = "분할 뷰 모드"; ObjectID = "CfD-Er-w2q"; */
-> /* Class = "NSMenuItem"; title = "단일 뷰 모드"; ObjectID = "PHF-sc-jzi"; */
 > /* Class = "NSMenuItem"; title = "다음 뷰 포인트로 이동"; ObjectID = "bbH-KR-aQE"; */
 > /* Class = "NSMenuItem"; title = "이전 뷰 포인트로 이동"; ObjectID = "kUy-YE-X1C"; */
 > /* Class = "NSMenuItem"; title = "신규 뷰"; ObjectID = "1093"; */
@@ -1797,11 +1795,13 @@
 > /* Class = "NSMenuItem"; title = "숫자 줄표"; ObjectID = "9DK-kK-Ag2"; */
 > /* Class = "NSMenuItem"; title = "위쪽 정렬"; ObjectID = "9zQ-Cn-yqa"; */
 > /* Class = "NSMenuItem"; title = "철자 확인"; ObjectID = "CTb-NC-gUj"; */
+> /* Class = "NSMenuItem"; title = "분할 보기"; ObjectID = "CfD-Er-w2q"; */
 > /* Class = "NSMenuItem"; title = "결합 해제"; ObjectID = "DEg-VF-zkA"; */
 > /* Class = "NSMenuItem"; title = "가로 공백"; ObjectID = "EbZ-iH-4tu"; */
 > /* Class = "NSMenuItem"; title = "반각 줄표"; ObjectID = "HAT-In-9Up"; */
 > /* Class = "NSMenuItem"; title = "세로 공백"; ObjectID = "NLI-fE-Ayx"; */
 > /* Class = "NSMenuItem"; title = "더욱 좁게"; ObjectID = "Oll-Tu-Xib"; */
+> /* Class = "NSMenuItem"; title = "단일 보기"; ObjectID = "PHF-sc-jzi"; */
 > /* Class = "NSMenuItem"; title = "세로 정렬"; ObjectID = "Rgl-aj-iJ1"; */
 > /* Class = "NSMenuItem"; title = "닫힌 곡선"; ObjectID = "Vql-C1-zUW"; */
 > /* Class = "NSMenuItem"; title = "세로 분배"; ObjectID = "awr-i5-fcw"; */
@@ -1816,7 +1816,6 @@
 > /* Class = "NSMenuItem"; title = "도구 고정"; ObjectID = "oGt-tZ-Qx4"; */
 > /* Class = "NSMenuItem"; title = "전각 줄표"; ObjectID = "pOo-m1-JCv"; */
 > /* Class = "NSMenuItem"; title = "도구 보기"; ObjectID = "tW5-K5-ahn"; */
-> /* Class = "NSMenuItem"; title = "태그 색상"; ObjectID = "uzY-xL-U3w"; */
 > /* Class = "NSMenuItem"; title = "혼합 모드"; ObjectID = "v2P-6I-jqM"; */
 > /* Class = "NSMenuItem"; title = "실제 크기"; ObjectID = "wBy-1v-JPW"; */
 > /* Class = "NSMenuItem"; title = "열린 곡선"; ObjectID = "zyu-vC-SJu"; */
@@ -1877,6 +1876,7 @@
 > /* Class = "NSMenuItem"; title = "좁게"; ObjectID = "1244"; */
 > /* Class = "NSMenuItem"; title = "확대"; ObjectID = "1329"; */
 > /* Class = "NSMenuItem"; title = "축소"; ObjectID = "1331"; */
+> /* Class = "NSMenuItem"; title = "보기"; ObjectID = "1362"; */
 > /* Class = "NSMenuItem"; title = "벡터"; ObjectID = "1366"; */
 > /* Class = "NSMenuItem"; title = "없음"; ObjectID = "1522"; */
 > /* Class = "NSMenuItem"; title = "변형"; ObjectID = "4FN-26-KZw"; */
