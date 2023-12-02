@@ -30,19 +30,9 @@
 < > "85.title" = "コピー";
 < > "86.title" = "挿入";
 ---
-> < /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "85"; */
-> < /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "84"; */
-> < /* Class = "NSButtonCell"; title = "Insert"; ObjectID = "86"; */
-> < /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "104"; */
-> < /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "102"; */
 > > "100.title" = "색상:";
 > > "102.title" = "위치:";
 > > "104.title" = "불투명도:";
 > > "84.title" = "지우기";
 > > "85.title" = "복사";
 > > "86.title" = "삽입";
-> > /* Class = "NSButtonCell"; title = "복사"; ObjectID = "85"; */
-> > /* Class = "NSButtonCell"; title = "삽입"; ObjectID = "86"; */
-> > /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "84"; */
-> > /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "102"; */
-> > /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "104"; */
