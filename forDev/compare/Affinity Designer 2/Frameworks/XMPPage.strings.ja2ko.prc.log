@@ -245,20 +245,6 @@
 < > "zL1-dx-245.label" = "IPTC(画像)";
 < > "zYN-F4-rtm.title" = "シーン";
 ---
-> < /* Class = "NSMenuItem"; title = "File"; ObjectID = "z1h-Sw-9zs"; */
-> < /* Class = "NSMenuItem"; title = "Reset"; ObjectID = "wGP-MJ-mbr"; */
-> < /* Class = "NSTabViewItem"; label = "File"; ObjectID = "q9a-p7-MBF"; */
-> < /* Class = "NSTextFieldCell"; title = "Author"; ObjectID = "tuS-5f-VDR"; */
-> < /* Class = "NSTextFieldCell"; title = "Camera"; ObjectID = "Yfa-2a-cJU"; */
-> < /* Class = "NSTextFieldCell"; title = "Copyright"; ObjectID = "GuA-Gq-Nqv"; */
-> < /* Class = "NSTextFieldCell"; title = "Exposure"; ObjectID = "uKC-Am-XE5"; */
-> < /* Class = "NSTextFieldCell"; title = "Lens"; ObjectID = "xbo-Cu-PZW"; */
-> < /* Class = "NSTextFieldCell"; title = "Location"; ObjectID = "WV2-Se-yn4"; */
-> < /* Class = "NSTextFieldCell"; title = "Maker"; ObjectID = "Nn1-Ug-q33"; */
-> < /* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "274-Xu-ynt"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aKN-lm-LmI"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "k2Y-So-DSV"; */
-> < /* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "4j6-gL-RLE"; */
 > > "274-Xu-ynt.title" = "크기";
 > > "4j6-gL-RLE.title" = "타이틀";
 > > "GuA-Gq-Nqv.title" = "저작권";
@@ -273,17 +259,3 @@
 > > "wGP-MJ-mbr.title" = "재설정";
 > > "xbo-Cu-PZW.title" = "렌즈";
 > > "z1h-Sw-9zs.title" = "파일";
-> > /* Class = "NSMenuItem"; title = "파일"; ObjectID = "z1h-Sw-9zs"; */
-> > /* Class = "NSMenuItem"; title = "재설정"; ObjectID = "wGP-MJ-mbr"; */
-> > /* Class = "NSTabViewItem"; label = "파일"; ObjectID = "q9a-p7-MBF"; */
-> > /* Class = "NSTextFieldCell"; title = "크기"; ObjectID = "274-Xu-ynt"; */
-> > /* Class = "NSTextFieldCell"; title = "위치"; ObjectID = "WV2-Se-yn4"; */
-> > /* Class = "NSTextFieldCell"; title = "저자"; ObjectID = "tuS-5f-VDR"; */
-> > /* Class = "NSTextFieldCell"; title = "노출"; ObjectID = "uKC-Am-XE5"; */
-> > /* Class = "NSTextFieldCell"; title = "렌즈"; ObjectID = "xbo-Cu-PZW"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aKN-lm-LmI"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "k2Y-So-DSV"; */
-> > /* Class = "NSTextFieldCell"; title = "타이틀"; ObjectID = "4j6-gL-RLE"; */
-> > /* Class = "NSTextFieldCell"; title = "저작권"; ObjectID = "GuA-Gq-Nqv"; */
-> > /* Class = "NSTextFieldCell"; title = "제조사"; ObjectID = "Nn1-Ug-q33"; */
-> > /* Class = "NSTextFieldCell"; title = "카메라"; ObjectID = "Yfa-2a-cJU"; */
