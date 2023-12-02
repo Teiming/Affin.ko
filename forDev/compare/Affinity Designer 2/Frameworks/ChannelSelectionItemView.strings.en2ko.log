@@ -1,0 +1,16 @@
+---
+17,18c17,18
+2,3c2,3
+5,6c5,6
+< "6.title" = "Channel";
+< "8Oh-Jc-9Je.title" = "Fill";
+< "ftZ-eK-DPO.title" = "Invert";
+< /* Class = "NSMenuItem"; title = "Fill"; ObjectID = "8Oh-Jc-9Je"; */
+< /* Class = "NSMenuItem"; title = "Invert"; ObjectID = "ftZ-eK-DPO"; */
+< /* Class = "NSTextFieldCell"; title = "Channel"; ObjectID = "6"; */
+> "6.title" = "채널";
+> "8Oh-Jc-9Je.title" = "칠";
+> "ftZ-eK-DPO.title" = "반전";
+> /* Class = "NSMenuItem"; title = "칠"; ObjectID = "8Oh-Jc-9Je"; */
+> /* Class = "NSMenuItem"; title = "반전"; ObjectID = "ftZ-eK-DPO"; */
+> /* Class = "NSTextFieldCell"; title = "채널"; ObjectID = "6"; */
