@@ -1,36 +1,36 @@
-3c3
-< "1.title" = "Z-Map Blur";
 ---
-> "1.title" = "Zマップぼかし";
-6c6
-< "12.title" = "Radius";
 ---
-> "12.title" = "半径";
-9c9
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
+---
+---
+---
+---
+---
+---
 12c12
-< "226.title" = "Cancel";
----
-> "226.title" = "キャンセル";
 15c15
-< "308.title" = "Load Map From File";
----
-> "308.title" = "マップをファイルから読み込み";
 18c18
-< "90u-L0-6Rg.title" = "Invert";
----
-> "90u-L0-6Rg.title" = "反転";
 21c21
-< "Fl0-nZ-ahO.ibShadowedToolTip" = "Split view";
----
-> "Fl0-nZ-ahO.ibShadowedToolTip" = "分割表示";
 24c24
-< "qcQ-lD-v4y.ibShadowedToolTip" = "No split view";
----
-> "qcQ-lD-v4y.ibShadowedToolTip" = "分割表示なし";
 27c27
+3c3
+6c6
+9c9
+< "1.title" = "Z-Map Blur";
+< "12.title" = "Radius";
+< "226.title" = "Cancel";
+< "26.title" = "Apply";
+< "308.title" = "Load Map From File";
+< "90u-L0-6Rg.title" = "Invert";
+< "Fl0-nZ-ahO.ibShadowedToolTip" = "Split view";
+< "qcQ-lD-v4y.ibShadowedToolTip" = "No split view";
 < "wCl-n6-vg1.ibShadowedToolTip" = "Mirror view";
----
+> "1.title" = "Zマップぼかし";
+> "12.title" = "半径";
+> "226.title" = "キャンセル";
+> "26.title" = "適用";
+> "308.title" = "マップをファイルから読み込み";
+> "90u-L0-6Rg.title" = "反転";
+> "Fl0-nZ-ahO.ibShadowedToolTip" = "分割表示";
+> "qcQ-lD-v4y.ibShadowedToolTip" = "分割表示なし";
 > "wCl-n6-vg1.ibShadowedToolTip" = "ミラー表示";
