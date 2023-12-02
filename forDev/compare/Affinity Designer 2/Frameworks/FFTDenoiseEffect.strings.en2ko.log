@@ -1,60 +1,60 @@
-5,6c5,6
-< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "Em6-TH-4fU"; */
-< "Em6-TH-4fU.ibShadowedToolTip" = "Mirror view";
 ---
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "Em6-TH-4fU"; */
-> "Em6-TH-4fU.ibShadowedToolTip" = "거울 뷰 모드";
-8,9c8,9
-< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "JGm-9x-sQD"; */
-< "JGm-9x-sQD.title" = "Cancel";
 ---
-> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "JGm-9x-sQD"; */
-> "JGm-9x-sQD.title" = "취소";
+---
+---
+---
+---
+---
+---
+---
+---
 11,12c11,12
-< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "M7r-pW-SBy"; */
-< "M7r-pW-SBy.ibShadowedToolTip" = "Split view";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "M7r-pW-SBy"; */
-> "M7r-pW-SBy.ibShadowedToolTip" = "분할 뷰 모드";
 14,15c14,15
-< /* Class = "NSButtonCell"; title = "More"; ObjectID = "WQX-Zg-i43"; */
-< "WQX-Zg-i43.title" = "More";
----
-> /* Class = "NSButtonCell"; title = "더 보기"; ObjectID = "WQX-Zg-i43"; */
-> "WQX-Zg-i43.title" = "더 보기";
 17,18c17,18
-< /* Class = "NSTextFieldCell"; title = "Flow:"; ObjectID = "aaj-CV-AFb"; */
-< "aaj-CV-AFb.title" = "Flow:";
----
-> /* Class = "NSTextFieldCell"; title = "흐름:"; ObjectID = "aaj-CV-AFb"; */
-> "aaj-CV-AFb.title" = "흐름:";
 20,21c20,21
-< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "i7n-BM-gXj"; */
-< "i7n-BM-gXj.title" = "Apply";
----
-> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "i7n-BM-gXj"; */
-> "i7n-BM-gXj.title" = "적용";
 23,24c23,24
-< /* Class = "NSTextFieldCell"; title = "Hardness:"; ObjectID = "mkE-WV-C4p"; */
-< "mkE-WV-C4p.title" = "Hardness:";
----
-> /* Class = "NSTextFieldCell"; title = "굳기:"; ObjectID = "mkE-WV-C4p"; */
-> "mkE-WV-C4p.title" = "굳기:";
 26,27c26,27
-< /* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "sal-iK-r0i"; */
-< "sal-iK-r0i.title" = "Width:";
----
-> /* Class = "NSTextFieldCell"; title = "너비:"; ObjectID = "sal-iK-r0i"; */
-> "sal-iK-r0i.title" = "너비:";
 29,30c29,30
-< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "yya-c3-fi8"; */
-< "yya-c3-fi8.ibShadowedToolTip" = "No split view";
----
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "yya-c3-fi8"; */
-> "yya-c3-fi8.ibShadowedToolTip" = "분할 뷰 모드 해제";
 32,33c32,33
-< /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "z62-rK-4j2"; */
+5,6c5,6
+8,9c8,9
+< "Em6-TH-4fU.ibShadowedToolTip" = "Mirror view";
+< "JGm-9x-sQD.title" = "Cancel";
+< "M7r-pW-SBy.ibShadowedToolTip" = "Split view";
+< "WQX-Zg-i43.title" = "More";
+< "aaj-CV-AFb.title" = "Flow:";
+< "i7n-BM-gXj.title" = "Apply";
+< "mkE-WV-C4p.title" = "Hardness:";
+< "sal-iK-r0i.title" = "Width:";
+< "yya-c3-fi8.ibShadowedToolTip" = "No split view";
 < "z62-rK-4j2.title" = "Opacity:";
----
-> /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "z62-rK-4j2"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Mirror view"; ObjectID = "Em6-TH-4fU"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "No split view"; ObjectID = "yya-c3-fi8"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Split view"; ObjectID = "M7r-pW-SBy"; */
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "i7n-BM-gXj"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "JGm-9x-sQD"; */
+< /* Class = "NSButtonCell"; title = "More"; ObjectID = "WQX-Zg-i43"; */
+< /* Class = "NSTextFieldCell"; title = "Flow:"; ObjectID = "aaj-CV-AFb"; */
+< /* Class = "NSTextFieldCell"; title = "Hardness:"; ObjectID = "mkE-WV-C4p"; */
+< /* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "z62-rK-4j2"; */
+< /* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "sal-iK-r0i"; */
+> "Em6-TH-4fU.ibShadowedToolTip" = "거울 뷰 모드";
+> "JGm-9x-sQD.title" = "취소";
+> "M7r-pW-SBy.ibShadowedToolTip" = "분할 뷰 모드";
+> "WQX-Zg-i43.title" = "더 보기";
+> "aaj-CV-AFb.title" = "흐름:";
+> "i7n-BM-gXj.title" = "적용";
+> "mkE-WV-C4p.title" = "굳기:";
+> "sal-iK-r0i.title" = "너비:";
+> "yya-c3-fi8.ibShadowedToolTip" = "분할 뷰 모드 해제";
 > "z62-rK-4j2.title" = "불투명도:";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "yya-c3-fi8"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "Em6-TH-4fU"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "M7r-pW-SBy"; */
+> /* Class = "NSButtonCell"; title = "더 보기"; ObjectID = "WQX-Zg-i43"; */
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "JGm-9x-sQD"; */
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "i7n-BM-gXj"; */
+> /* Class = "NSTextFieldCell"; title = "흐름:"; ObjectID = "aaj-CV-AFb"; */
+> /* Class = "NSTextFieldCell"; title = "굳기:"; ObjectID = "mkE-WV-C4p"; */
+> /* Class = "NSTextFieldCell"; title = "너비:"; ObjectID = "sal-iK-r0i"; */
+> /* Class = "NSTextFieldCell"; title = "불투명도:"; ObjectID = "z62-rK-4j2"; */

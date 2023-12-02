@@ -1,44 +1,44 @@
-3c3
-< "1.title" = "FFT Denoise";
 ---
-> "1.title" = "FFTノイズ除去";
-6c6
-< "Em6-TH-4fU.ibShadowedToolTip" = "Mirror view";
 ---
-> "Em6-TH-4fU.ibShadowedToolTip" = "ミラー表示";
-9c9
-< "JGm-9x-sQD.title" = "Cancel";
 ---
-> "JGm-9x-sQD.title" = "キャンセル";
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "M7r-pW-SBy.ibShadowedToolTip" = "Split view";
----
-> "M7r-pW-SBy.ibShadowedToolTip" = "分割表示";
 15c15
-< "WQX-Zg-i43.title" = "More";
----
-> "WQX-Zg-i43.title" = "その他";
 18c18
-< "aaj-CV-AFb.title" = "Flow:";
----
-> "aaj-CV-AFb.title" = "流量:";
 21c21
-< "i7n-BM-gXj.title" = "Apply";
----
-> "i7n-BM-gXj.title" = "適用";
 24c24
-< "mkE-WV-C4p.title" = "Hardness:";
----
-> "mkE-WV-C4p.title" = "硬さ:";
 27c27
-< "sal-iK-r0i.title" = "Width:";
----
-> "sal-iK-r0i.title" = "幅:";
 30c30
-< "yya-c3-fi8.ibShadowedToolTip" = "No split view";
----
-> "yya-c3-fi8.ibShadowedToolTip" = "分割表示なし";
 33c33
+3c3
+6c6
+9c9
+< "1.title" = "FFT Denoise";
+< "Em6-TH-4fU.ibShadowedToolTip" = "Mirror view";
+< "JGm-9x-sQD.title" = "Cancel";
+< "M7r-pW-SBy.ibShadowedToolTip" = "Split view";
+< "WQX-Zg-i43.title" = "More";
+< "aaj-CV-AFb.title" = "Flow:";
+< "i7n-BM-gXj.title" = "Apply";
+< "mkE-WV-C4p.title" = "Hardness:";
+< "sal-iK-r0i.title" = "Width:";
+< "yya-c3-fi8.ibShadowedToolTip" = "No split view";
 < "z62-rK-4j2.title" = "Opacity:";
----
+> "1.title" = "FFTノイズ除去";
+> "Em6-TH-4fU.ibShadowedToolTip" = "ミラー表示";
+> "JGm-9x-sQD.title" = "キャンセル";
+> "M7r-pW-SBy.ibShadowedToolTip" = "分割表示";
+> "WQX-Zg-i43.title" = "その他";
+> "aaj-CV-AFb.title" = "流量:";
+> "i7n-BM-gXj.title" = "適用";
+> "mkE-WV-C4p.title" = "硬さ:";
+> "sal-iK-r0i.title" = "幅:";
+> "yya-c3-fi8.ibShadowedToolTip" = "分割表示なし";
 > "z62-rK-4j2.title" = "不透明度:";
