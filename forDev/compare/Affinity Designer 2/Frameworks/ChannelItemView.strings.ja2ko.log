@@ -1,0 +1,35 @@
+2,13c2
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 30c30
+< 3c3
+< 6c6
+< 9c9
+< < "0Q3-9y-0PE.title" = "Toggle Visible";
+< < "32P-H5-Vzy.title" = "Create Spare Channel";
+---
+> 2,3c2,3
+15,31c4,6
+< < "7DH-oj-ggi.title" = "Toggle Editable";
+< < "DV2-25-exf.title" = "Subtract From Pixel Selection";
+< < "Ieq-qU-8e1.ibShadowedToolTip" = "Editable";
+< < "Xe0-pM-s1J.title" = "Load To Pixel Selection";
+< < "e2S-7c-pfR.title" = "Add To Pixel Selection";
+< < "lpi-h3-IXq.ibShadowedToolTip" = "Visible";
+< < "pSL-Lp-V6A.title" = "Intersect With Pixel Selection";
+< > "0Q3-9y-0PE.title" = "表示/非表示を切り替え";
+< > "32P-H5-Vzy.title" = "スペアチャンネルを作成";
+< > "6.title" = "チャンネル";
+< > "7DH-oj-ggi.title" = "編集可否を切り替え";
+< > "DV2-25-exf.title" = "ピクセル選択範囲から減算";
+< > "Ieq-qU-8e1.ibShadowedToolTip" = "編集可能";
+< > "Xe0-pM-s1J.title" = "ピクセル選択範囲に読み込み";
+< > "e2S-7c-pfR.title" = "ピクセル選択範囲に加算";
+< > "lpi-h3-IXq.ibShadowedToolTip" = "表示";
+< > "pSL-Lp-V6A.title" = "ピクセル選択範囲と交差";
+---
+> > "6.title" = "채널";
