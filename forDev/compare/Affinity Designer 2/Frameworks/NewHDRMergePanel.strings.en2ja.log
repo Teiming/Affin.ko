@@ -1,60 +1,60 @@
-3c3
-< "1.title" = "New HDR Merge";
 ---
-> "1.title" = "新規HDR結合";
-9c9
-< "8.title" = "Cancel";
 ---
-> "8.title" = "キャンセル";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "5cY-MO-oRN.title" = "Remove";
----
-> "5cY-MO-oRN.title" = "削除";
 15c15
-< "7jS-01-qt0.title" = "Noise reduction";
----
-> "7jS-01-qt0.title" = "ノイズ軽減";
 18c18
-< "9UU-bz-y9v.title" = "Add";
----
-> "9UU-bz-y9v.title" = "追加";
 21c21
-< "Br9-je-FhX.headerCell.title" = "Plugin";
----
-> "Br9-je-FhX.headerCell.title" = "プラグイン";
 24c24
-< "JJP-5z-VBo.title" = "Tone map HDR image";
----
-> "JJP-5z-VBo.title" = "HDRイメージをトーンマップ";
 27c27
-< "LMA-rE-Lpd.title" = "Automatically remove ghosts";
----
-> "LMA-rE-Lpd.title" = "ゴーストを自動除去";
 30c30
-< "Mkv-6N-N7T.title" = "Automatically align images";
----
-> "Mkv-6N-N7T.title" = "自動的に画像を並べる";
 33c33
-< "NfY-PH-eyP.ibShadowedToolTip" = "Unfinished feature / user interface.";
----
-> "NfY-PH-eyP.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
 36c36
-< "YEe-Ih-3DM.title" = "Images";
----
-> "YEe-Ih-3DM.title" = "画像";
 39c39
-< "bqd-3F-yA0.title" = "Table View Cell";
----
-> "bqd-3F-yA0.title" = "表ビューセル";
+3c3
 42c42
-< "gj5-8y-Pgs.title" = "Scale, rotate and translate";
----
-> "gj5-8y-Pgs.title" = "拡大/縮小、回転、変換";
 45c45
-< "mWE-VA-Hcm.title" = "Text Cell";
----
-> "mWE-VA-Hcm.title" = "テキストセル";
 48c48
+9c9
+< "1.title" = "New HDR Merge";
+< "5cY-MO-oRN.title" = "Remove";
+< "7jS-01-qt0.title" = "Noise reduction";
+< "8.title" = "Cancel";
+< "9UU-bz-y9v.title" = "Add";
+< "Br9-je-FhX.headerCell.title" = "Plugin";
+< "JJP-5z-VBo.title" = "Tone map HDR image";
+< "LMA-rE-Lpd.title" = "Automatically remove ghosts";
+< "Mkv-6N-N7T.title" = "Automatically align images";
+< "NfY-PH-eyP.ibShadowedToolTip" = "Unfinished feature / user interface.";
+< "YEe-Ih-3DM.title" = "Images";
+< "bqd-3F-yA0.title" = "Table View Cell";
+< "gj5-8y-Pgs.title" = "Scale, rotate and translate";
+< "mWE-VA-Hcm.title" = "Text Cell";
 < "uzZ-t0-VUg.title" = "Perspective";
----
+> "1.title" = "新規HDR結合";
+> "5cY-MO-oRN.title" = "削除";
+> "7jS-01-qt0.title" = "ノイズ軽減";
+> "8.title" = "キャンセル";
+> "9UU-bz-y9v.title" = "追加";
+> "Br9-je-FhX.headerCell.title" = "プラグイン";
+> "JJP-5z-VBo.title" = "HDRイメージをトーンマップ";
+> "LMA-rE-Lpd.title" = "ゴーストを自動除去";
+> "Mkv-6N-N7T.title" = "自動的に画像を並べる";
+> "NfY-PH-eyP.ibShadowedToolTip" = "未完成の機能/ユーザーインターフェース。";
+> "YEe-Ih-3DM.title" = "画像";
+> "bqd-3F-yA0.title" = "表ビューセル";
+> "gj5-8y-Pgs.title" = "拡大/縮小、回転、変換";
+> "mWE-VA-Hcm.title" = "テキストセル";
 > "uzZ-t0-VUg.title" = "パースペクティブ";
