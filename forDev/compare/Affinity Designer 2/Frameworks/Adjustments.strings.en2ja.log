@@ -1,524 +1,524 @@
-3c3
-< "90.title" = "Adjustments";
 ---
-> "90.title" = "調整";
-6c6
-< "590.label" = "Recolor";
 ---
-> "590.label" = "リカラー";
-9c9
-< "591.label" = "Selective Color";
 ---
-> "591.label" = "特定色域";
-12c12
-< "592.label" = "Gradient Map";
 ---
-> "592.label" = "グラデーションマップ";
-15c15
-< "593.label" = "Soft Proof";
 ---
-> "593.label" = "ソフト校正";
-18c18
-< "594.label" = "Black & White";
 ---
-> "594.label" = "白黒";
-21c21
-< "595.label" = "Channel Mixer";
 ---
-> "595.label" = "チャンネルミキサー";
-24c24
-< "596.label" = "White Balance";
 ---
-> "596.label" = "ホワイトバランス";
-27c27
-< "597.label" = "Curves";
 ---
-> "597.label" = "カーブ";
-30c30
-< "598.label" = "Threshold";
 ---
-> "598.label" = "しきい値";
-33c33
-< "599.label" = "Vibrance";
 ---
-> "599.label" = "自然な彩度";
-39c39
-< "601.label" = "Brightness Contrast";
 ---
-> "601.label" = "明るさコントラスト";
-42c42
-< "602.label" = "Levels";
 ---
-> "602.label" = "レベル";
-45c45
-< "603.label" = "Posterize";
 ---
-> "603.label" = "ポスタライズ";
-48c48
-< "632.title" = "Posterize Levels";
 ---
-> "632.title" = "ポスタライズレベル";
-51c51
-< "646.title" = "Black Level";
 ---
-> "646.title" = "黒レベル";
-54c54
-< "647.title" = "White Level";
 ---
-> "647.title" = "白レベル";
-57c57
-< "648.title" = "Gamma";
 ---
-> "648.title" = "ガンマ";
-60c60
-< "660.title" = "Brightness";
 ---
-> "660.title" = "明るさ";
-63c63
-< "661.title" = "Contrast";
 ---
-> "661.title" = "コントラスト";
-66c66
-< "676.title" = "Hue Shift";
 ---
-> "676.title" = "色相のシフト";
-69c69
-< "677.title" = "Saturation Shift";
 ---
-> "677.title" = "彩度のシフト";
-72c72
-< "678.title" = "Luminosity Shift";
 ---
-> "678.title" = "輝度のシフト";
-75c75
-< "688.title" = "Vibrance";
 ---
-> "688.title" = "自然な彩度";
-78c78
-< "698.title" = "Threshold";
 ---
-> "698.title" = "しきい値";
-84c84
-< "724.title" = "White Balance";
 ---
-> "724.title" = "ホワイトバランス";
-87c87
-< "728.title" = "Picker";
 ---
-> "728.title" = "選択";
-93c93
-< "747.title" = "Channel 1";
 ---
-> "747.title" = "チャンネル1";
-96c96
-< "748.title" = "Output Channel";
 ---
-> "748.title" = "出力チャンネル";
-99c99
-< "749.title" = "Channel 2";
 ---
-> "749.title" = "チャンネル2";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 102c102
-< "750.title" = "Channel 3";
----
-> "750.title" = "チャンネル3";
 105c105
-< "751.title" = "Channel 4";
----
-> "751.title" = "チャンネル4";
 108c108
-< "752.title" = "Channel 5";
----
-> "752.title" = "チャンネル5";
 111c111
-< "773.title" = "Red";
----
-> "773.title" = "赤";
 114c114
-< "774.title" = "Green";
----
-> "774.title" = "緑";
 117c117
-< "775.title" = "Blue";
----
-> "775.title" = "青";
 120c120
-< "776.title" = "Cyan";
----
-> "776.title" = "シアン";
 123c123
-< "777.title" = "Magenta";
----
-> "777.title" = "マゼンタ";
 126c126
-< "778.title" = "Yellow";
----
-> "778.title" = "黄";
 129c129
-< "779.title" = "Picker";
----
-> "779.title" = "選択";
+12c12
 135c135
-< "807.title" = "Proof Profile";
----
-> "807.title" = "校正プロファイル";
 141c141
-< "834.title" = "Blacks";
----
-> "834.title" = "黒";
 144c144
-< "835.title" = "Neutrals";
----
-> "835.title" = "中間色";
 147c147
-< "836.title" = "Whites";
----
-> "836.title" = "白";
 150c150
-< "837.title" = "Yellows";
----
-> "837.title" = "黄";
 153c153
-< "838.title" = "Magentas";
----
-> "838.title" = "マゼンタ";
 156c156
-< "839.title" = "Cyans";
----
-> "839.title" = "シアン";
 159c159
-< "840.title" = "Blues";
----
-> "840.title" = "青";
+15c15
 162c162
-< "841.title" = "Greens";
----
-> "841.title" = "緑";
 165c165
-< "842.title" = "Reds";
----
-> "842.title" = "赤";
 168c168
-< "843.title" = "Relative";
----
-> "843.title" = "相対";
 171c171
-< "844.title" = "Yellow";
----
-> "844.title" = "黄";
 174c174
-< "845.title" = "Magenta";
----
-> "845.title" = "マゼンタ";
 177c177
-< "846.title" = "Cyan";
----
-> "846.title" = "シアン";
 180c180
-< "847.title" = "Color";
----
-> "847.title" = "カラー";
 183c183
-< "848.title" = "Black";
----
-> "848.title" = "黒";
 186c186
-< "860.title" = "Hue";
----
-> "860.title" = "色相";
 189c189
-< "861.title" = "Saturation";
----
-> "861.title" = "彩度";
+18c18
 192c192
-< "866.label" = "Exposure";
----
-> "866.label" = "露出";
 195c195
-< "873.title" = "Delete";
----
-> "873.title" = "削除";
 198c198
-< "874.title" = "Merge";
----
-> "874.title" = "結合";
 201c201
-< "876.title" = "Exposure";
----
-> "876.title" = "露出";
 204c204
-< "985.title" = "Add Preset";
----
-> "985.title" = "プリセットを追加";
 207c207
-< "1268.title" = "Linear";
----
-> "1268.title" = "線形";
 213c213
-< "1WF-2W-ULi.title" = "Flip Y";
----
-> "1WF-2W-ULi.title" = "Y軸を反転";
 216c216
-< "29s-xQ-82u.title" = "Shadows";
----
-> "29s-xQ-82u.title" = "シャドウ";
+21c21
 222c222
-< "3CG-uC-GYk.title" = "Cyan / Red";
----
-> "3CG-uC-GYk.title" = "シアン/赤";
 225c225
-< "548-M9-evq.label" = "Split Toning";
----
-> "548-M9-evq.label" = "明暗別色補正";
 228c228
-< "6jJ-PQ-8Ca.title" = "Name: Identity";
----
-> "6jJ-PQ-8Ca.title" = "名前: アイデンティティ";
 231c231
-< "7nu-4L-dOa.title" = "Infer LUT...";
----
-> "7nu-4L-dOa.title" = "LUTを推測...";
 234c234
-< "8RW-fg-fTX.title" = "Offset";
----
-> "8RW-fg-fTX.title" = "オフセット";
 237c237
-< "8hA-4B-coG.title" = "Optical Density";
----
-> "8hA-4B-coG.title" = "光学密度";
 240c240
-< "9RA-HT-1XM.title" = "Yellow / Blue";
----
-> "9RA-HT-1XM.title" = "黄/青";
 243c243
-< "9RO-PE-ML7.title" = "Reverse";
----
-> "9RO-PE-ML7.title" = "反転";
 249c249
-< "Afa-J4-eOq.title" = "Tint";
----
-> "Afa-J4-eOq.title" = "色合い";
+24c24
 255c255
-< "CL8-zV-M3J.title" = "Max:";
----
-> "CL8-zV-M3J.title" = "最大を入力:";
 258c258
-< "CU4-Oz-a9S.title" = "Saturation";
----
-> "CU4-Oz-a9S.title" = "彩度";
 261c261
-< "Cfb-eQ-cro.title" = "Gamut Check";
----
-> "Cfb-eQ-cro.title" = "色域チェック";
 264c264
-< "ECE-ii-ecE.title" = "Opacity:";
----
-> "ECE-ii-ecE.title" = "不透明度:";
 267c267
-< "F0j-aU-4LH.title" = "Delete";
----
-> "F0j-aU-4LH.title" = "削除";
 270c270
-< "F1B-dz-CQs.title" = "Gradient Button";
----
-> "F1B-dz-CQs.title" = "グラデーションボタン";
 273c273
-< "FJM-Pj-tnJ.title" = "Gradient Button";
----
-> "FJM-Pj-tnJ.title" = "グラデーションボタン";
 276c276
-< "FVI-oI-M7O.title" = "Copy";
----
-> "FVI-oI-M7O.title" = "コピー";
 279c279
-< "FoF-YT-wWz.ibShadowedToolTip" = "Add Sublayer";
----
-> "FoF-YT-wWz.ibShadowedToolTip" = "サブレイヤーを追加";
+27c27
 291c291
-< "HIH-aE-9Eo.title" = "Gray";
----
-> "HIH-aE-9Eo.title" = "グレー";
 297c297
-< "Lhb-OT-XtP.title" = "Shadows";
----
-> "Lhb-OT-XtP.title" = "シャドウ";
 300c300
-< "LlY-sL-U4J.ibShadowedToolTip" = "Blend Ranges";
----
-> "LlY-sL-U4J.ibShadowedToolTip" = "ブレンド範囲";
 309c309
-< "O12-p4-fyI.title" = "Load LUT...";
----
-> "O12-p4-fyI.title" = "LUTを読み込み...";
+30c30
 312c312
-< "O4P-ib-aTR.title" = "Color:";
----
-> "O4P-ib-aTR.title" = "カラー:";
 315c315
-< "RsH-ev-gwP.title" = "Tonal Range";
----
-> "RsH-ev-gwP.title" = "階調範囲";
 318c318
-< "SH0-gC-ICh.title" = "Highlights";
----
-> "SH0-gC-ICh.title" = "ハイライト";
 321c321
-< "Sb9-DD-2IB.title" = "Shadows Saturation";
----
-> "Sb9-DD-2IB.title" = "シャドウの彩度";
 324c324
-< "TVa-re-wzI.title" = "Gray";
----
-> "TVa-re-wzI.title" = "グレー";
 327c327
-< "UGE-y4-XqV.title" = "Min:";
----
-> "UGE-y4-XqV.title" = "最小を入力:";
 330c330
-< "UkO-WQ-xJ5.title" = "Highlights Hue";
----
-> "UkO-WQ-xJ5.title" = "ハイライトの色相";
 333c333
-< "VFD-A2-Zod.title" = "Highlights Saturation";
----
-> "VFD-A2-Zod.title" = "ハイライトの彩度";
 336c336
-< "Vsw-rn-QZ3.title" = "Destination Color Space";
----
-> "Vsw-rn-QZ3.title" = "デスティネーション色空間";
 339c339
-< "WnX-s3-B66.title" = "Relative Colorimetric";
----
-> "WnX-s3-B66.title" = "相対的な色彩を保持";
+33c33
 342c342
-< "XoO-je-JcW.title" = "Perceptual";
----
-> "XoO-je-JcW.title" = "知覚";
 348c348
-< "Y4G-rS-c8l.title" = "Reset";
----
-> "Y4G-rS-c8l.title" = "リセット";
 354c354
-< "Z0B-qT-mZs.title" = "Position:";
----
-> "Z0B-qT-mZs.title" = "位置:";
 357c357
-< "Zg8-vC-PPh.title" = "Saturation";
----
-> "Zg8-vC-PPh.title" = "彩度";
 360c360
-< "ari-Rp-hHB.title" = "Rotation";
----
-> "ari-Rp-hHB.title" = "回転";
 363c363
-< "auc-zD-060.label" = "Color Balance";
----
-> "auc-zD-060.label" = "カラーバランス";
 366c366
-< "bxX-lF-8q5.title" = "Output Black Level";
----
-> "bxX-lF-8q5.title" = "出力の黒レベル";
 372c372
-< "cGF-og-2F8.label" = "Normals";
----
-> "cGF-og-2F8.label" = "法線";
 375c375
-< "drP-OV-Mcv.title" = "Gray";
----
-> "drP-OV-Mcv.title" = "グレー";
 378c378
-< "eQ2-oY-KP7.title" = "Output White Level";
----
-> "eQ2-oY-KP7.title" = "出力の白レベル";
 381c381
-< "eUo-tN-iyd.title" = "Midtones";
----
-> "eUo-tN-iyd.title" = "中間調";
 390c390
-< "fmI-Uy-pOl.title" = "Lightness";
----
-> "fmI-Uy-pOl.title" = "明るさ";
 399c399
-< "gr9-dT-IPD.title" = "Insert";
----
-> "gr9-dT-IPD.title" = "挿入";
+39c39
+3c3
 402c402
-< "hos-YN-gtv.title" = "Highlights";
----
-> "hos-YN-gtv.title" = "ハイライト";
 405c405
-< "k1c-fl-J8O.title" = "Black point compensation";
----
-> "k1c-fl-J8O.title" = "黒点補正";
 408c408
-< "lCK-kn-dKy.title" = "Rendering Intent:";
----
-> "lCK-kn-dKy.title" = "レンダリングインテント:";
 411c411
-< "m2u-Yi-E5j.title" = "Opacity:";
----
-> "m2u-Yi-E5j.title" = "不透明度:";
 414c414
-< "mvC-0S-uxr.label" = "Shadows / Highlights";
----
-> "mvC-0S-uxr.label" = "シャドウ/ハイライト";
 417c417
-< "nha-He-6bH.title" = "Filter Color";
----
-> "nha-He-6bH.title" = "フィルターカラー";
 420c420
-< "nqj-md-AI2.title" = "Scale";
----
-> "nqj-md-AI2.title" = "スケール";
 423c423
-< "obx-gE-SeM.title" = "Shadows Hue";
----
-> "obx-gE-SeM.title" = "シャドウの色相";
+42c42
 432c432
-< "qQx-GQ-OaB.title" = "Source Color Space";
----
-> "qQx-GQ-OaB.title" = "ソース色空間";
 435c435
-< "rFB-oR-aTd.title" = "Picker";
----
-> "rFB-oR-aTd.title" = "選択";
 438c438
-< "rYj-9w-lU3.title" = "Balance";
----
-> "rYj-9w-lU3.title" = "バランス";
 447c447
-< "uL2-2o-JPy.title" = "Picker";
----
-> "uL2-2o-JPy.title" = "選択";
 450c450
-< "vPj-ZK-Njl.title" = "Preserve Luminosity";
----
-> "vPj-ZK-Njl.title" = "輝度を維持";
 453c453
-< "wKK-kf-WaA.title" = "Absolute Colorimetric";
----
-> "wKK-kf-WaA.title" = "絶対的な色彩を保持";
 456c456
-< "wmU-1p-zvP.label" = "Lens Filter";
----
-> "wmU-1p-zvP.label" = "レンズフィルター";
 459c459
-< "wy3-gN-FZL.title" = "Flip X";
----
-> "wy3-gN-FZL.title" = "X軸を反転";
+45c45
 462c462
-< "yVn-Z4-xoE.title" = "Magenta / Green";
----
-> "yVn-Z4-xoE.title" = "マゼンタ/緑";
 465c465
-< "yd6-dJ-uhK.title" = "Blend Mode:";
----
-> "yd6-dJ-uhK.title" = "描画モード:";
 468c468
-< "yn3-80-URj.title" = "Mid Point:";
----
-> "yn3-80-URj.title" = "中間点:";
 471c471
+48c48
+51c51
+54c54
+57c57
+60c60
+63c63
+66c66
+69c69
+6c6
+72c72
+75c75
+78c78
+84c84
+87c87
+93c93
+96c96
+99c99
+9c9
+< "1268.title" = "Linear";
+< "1WF-2W-ULi.title" = "Flip Y";
+< "29s-xQ-82u.title" = "Shadows";
+< "3CG-uC-GYk.title" = "Cyan / Red";
+< "548-M9-evq.label" = "Split Toning";
+< "590.label" = "Recolor";
+< "591.label" = "Selective Color";
+< "592.label" = "Gradient Map";
+< "593.label" = "Soft Proof";
+< "594.label" = "Black & White";
+< "595.label" = "Channel Mixer";
+< "596.label" = "White Balance";
+< "597.label" = "Curves";
+< "598.label" = "Threshold";
+< "599.label" = "Vibrance";
+< "601.label" = "Brightness Contrast";
+< "602.label" = "Levels";
+< "603.label" = "Posterize";
+< "632.title" = "Posterize Levels";
+< "646.title" = "Black Level";
+< "647.title" = "White Level";
+< "648.title" = "Gamma";
+< "660.title" = "Brightness";
+< "661.title" = "Contrast";
+< "676.title" = "Hue Shift";
+< "677.title" = "Saturation Shift";
+< "678.title" = "Luminosity Shift";
+< "688.title" = "Vibrance";
+< "698.title" = "Threshold";
+< "6jJ-PQ-8Ca.title" = "Name: Identity";
+< "724.title" = "White Balance";
+< "728.title" = "Picker";
+< "747.title" = "Channel 1";
+< "748.title" = "Output Channel";
+< "749.title" = "Channel 2";
+< "750.title" = "Channel 3";
+< "751.title" = "Channel 4";
+< "752.title" = "Channel 5";
+< "773.title" = "Red";
+< "774.title" = "Green";
+< "775.title" = "Blue";
+< "776.title" = "Cyan";
+< "777.title" = "Magenta";
+< "778.title" = "Yellow";
+< "779.title" = "Picker";
+< "7nu-4L-dOa.title" = "Infer LUT...";
+< "807.title" = "Proof Profile";
+< "834.title" = "Blacks";
+< "835.title" = "Neutrals";
+< "836.title" = "Whites";
+< "837.title" = "Yellows";
+< "838.title" = "Magentas";
+< "839.title" = "Cyans";
+< "840.title" = "Blues";
+< "841.title" = "Greens";
+< "842.title" = "Reds";
+< "843.title" = "Relative";
+< "844.title" = "Yellow";
+< "845.title" = "Magenta";
+< "846.title" = "Cyan";
+< "847.title" = "Color";
+< "848.title" = "Black";
+< "860.title" = "Hue";
+< "861.title" = "Saturation";
+< "866.label" = "Exposure";
+< "873.title" = "Delete";
+< "874.title" = "Merge";
+< "876.title" = "Exposure";
+< "8RW-fg-fTX.title" = "Offset";
+< "8hA-4B-coG.title" = "Optical Density";
+< "90.title" = "Adjustments";
+< "985.title" = "Add Preset";
+< "9RA-HT-1XM.title" = "Yellow / Blue";
+< "9RO-PE-ML7.title" = "Reverse";
+< "Afa-J4-eOq.title" = "Tint";
+< "CL8-zV-M3J.title" = "Max:";
+< "CU4-Oz-a9S.title" = "Saturation";
+< "Cfb-eQ-cro.title" = "Gamut Check";
+< "ECE-ii-ecE.title" = "Opacity:";
+< "F0j-aU-4LH.title" = "Delete";
+< "F1B-dz-CQs.title" = "Gradient Button";
+< "FJM-Pj-tnJ.title" = "Gradient Button";
+< "FVI-oI-M7O.title" = "Copy";
+< "FoF-YT-wWz.ibShadowedToolTip" = "Add Sublayer";
+< "HIH-aE-9Eo.title" = "Gray";
+< "Lhb-OT-XtP.title" = "Shadows";
+< "LlY-sL-U4J.ibShadowedToolTip" = "Blend Ranges";
+< "O12-p4-fyI.title" = "Load LUT...";
+< "O4P-ib-aTR.title" = "Color:";
+< "RsH-ev-gwP.title" = "Tonal Range";
+< "SH0-gC-ICh.title" = "Highlights";
+< "Sb9-DD-2IB.title" = "Shadows Saturation";
+< "TVa-re-wzI.title" = "Gray";
+< "UGE-y4-XqV.title" = "Min:";
+< "UkO-WQ-xJ5.title" = "Highlights Hue";
+< "VFD-A2-Zod.title" = "Highlights Saturation";
+< "Vsw-rn-QZ3.title" = "Destination Color Space";
+< "WnX-s3-B66.title" = "Relative Colorimetric";
+< "XoO-je-JcW.title" = "Perceptual";
+< "Y4G-rS-c8l.title" = "Reset";
+< "Z0B-qT-mZs.title" = "Position:";
+< "Zg8-vC-PPh.title" = "Saturation";
+< "ari-Rp-hHB.title" = "Rotation";
+< "auc-zD-060.label" = "Color Balance";
+< "bxX-lF-8q5.title" = "Output Black Level";
+< "cGF-og-2F8.label" = "Normals";
+< "drP-OV-Mcv.title" = "Gray";
+< "eQ2-oY-KP7.title" = "Output White Level";
+< "eUo-tN-iyd.title" = "Midtones";
+< "fmI-Uy-pOl.title" = "Lightness";
+< "gr9-dT-IPD.title" = "Insert";
+< "hos-YN-gtv.title" = "Highlights";
+< "k1c-fl-J8O.title" = "Black point compensation";
+< "lCK-kn-dKy.title" = "Rendering Intent:";
+< "m2u-Yi-E5j.title" = "Opacity:";
+< "mvC-0S-uxr.label" = "Shadows / Highlights";
+< "nha-He-6bH.title" = "Filter Color";
+< "nqj-md-AI2.title" = "Scale";
+< "obx-gE-SeM.title" = "Shadows Hue";
+< "qQx-GQ-OaB.title" = "Source Color Space";
+< "rFB-oR-aTd.title" = "Picker";
+< "rYj-9w-lU3.title" = "Balance";
+< "uL2-2o-JPy.title" = "Picker";
+< "vPj-ZK-Njl.title" = "Preserve Luminosity";
+< "wKK-kf-WaA.title" = "Absolute Colorimetric";
+< "wmU-1p-zvP.label" = "Lens Filter";
+< "wy3-gN-FZL.title" = "Flip X";
+< "yVn-Z4-xoE.title" = "Magenta / Green";
+< "yd6-dJ-uhK.title" = "Blend Mode:";
+< "yn3-80-URj.title" = "Mid Point:";
 < "zfr-Cf-YQD.title" = "Preserve luminosity";
----
+> "1268.title" = "線形";
+> "1WF-2W-ULi.title" = "Y軸を反転";
+> "29s-xQ-82u.title" = "シャドウ";
+> "3CG-uC-GYk.title" = "シアン/赤";
+> "548-M9-evq.label" = "明暗別色補正";
+> "590.label" = "リカラー";
+> "591.label" = "特定色域";
+> "592.label" = "グラデーションマップ";
+> "593.label" = "ソフト校正";
+> "594.label" = "白黒";
+> "595.label" = "チャンネルミキサー";
+> "596.label" = "ホワイトバランス";
+> "597.label" = "カーブ";
+> "598.label" = "しきい値";
+> "599.label" = "自然な彩度";
+> "601.label" = "明るさコントラスト";
+> "602.label" = "レベル";
+> "603.label" = "ポスタライズ";
+> "632.title" = "ポスタライズレベル";
+> "646.title" = "黒レベル";
+> "647.title" = "白レベル";
+> "648.title" = "ガンマ";
+> "660.title" = "明るさ";
+> "661.title" = "コントラスト";
+> "676.title" = "色相のシフト";
+> "677.title" = "彩度のシフト";
+> "678.title" = "輝度のシフト";
+> "688.title" = "自然な彩度";
+> "698.title" = "しきい値";
+> "6jJ-PQ-8Ca.title" = "名前: アイデンティティ";
+> "724.title" = "ホワイトバランス";
+> "728.title" = "選択";
+> "747.title" = "チャンネル1";
+> "748.title" = "出力チャンネル";
+> "749.title" = "チャンネル2";
+> "750.title" = "チャンネル3";
+> "751.title" = "チャンネル4";
+> "752.title" = "チャンネル5";
+> "773.title" = "赤";
+> "774.title" = "緑";
+> "775.title" = "青";
+> "776.title" = "シアン";
+> "777.title" = "マゼンタ";
+> "778.title" = "黄";
+> "779.title" = "選択";
+> "7nu-4L-dOa.title" = "LUTを推測...";
+> "807.title" = "校正プロファイル";
+> "834.title" = "黒";
+> "835.title" = "中間色";
+> "836.title" = "白";
+> "837.title" = "黄";
+> "838.title" = "マゼンタ";
+> "839.title" = "シアン";
+> "840.title" = "青";
+> "841.title" = "緑";
+> "842.title" = "赤";
+> "843.title" = "相対";
+> "844.title" = "黄";
+> "845.title" = "マゼンタ";
+> "846.title" = "シアン";
+> "847.title" = "カラー";
+> "848.title" = "黒";
+> "860.title" = "色相";
+> "861.title" = "彩度";
+> "866.label" = "露出";
+> "873.title" = "削除";
+> "874.title" = "結合";
+> "876.title" = "露出";
+> "8RW-fg-fTX.title" = "オフセット";
+> "8hA-4B-coG.title" = "光学密度";
+> "90.title" = "調整";
+> "985.title" = "プリセットを追加";
+> "9RA-HT-1XM.title" = "黄/青";
+> "9RO-PE-ML7.title" = "反転";
+> "Afa-J4-eOq.title" = "色合い";
+> "CL8-zV-M3J.title" = "最大を入力:";
+> "CU4-Oz-a9S.title" = "彩度";
+> "Cfb-eQ-cro.title" = "色域チェック";
+> "ECE-ii-ecE.title" = "不透明度:";
+> "F0j-aU-4LH.title" = "削除";
+> "F1B-dz-CQs.title" = "グラデーションボタン";
+> "FJM-Pj-tnJ.title" = "グラデーションボタン";
+> "FVI-oI-M7O.title" = "コピー";
+> "FoF-YT-wWz.ibShadowedToolTip" = "サブレイヤーを追加";
+> "HIH-aE-9Eo.title" = "グレー";
+> "Lhb-OT-XtP.title" = "シャドウ";
+> "LlY-sL-U4J.ibShadowedToolTip" = "ブレンド範囲";
+> "O12-p4-fyI.title" = "LUTを読み込み...";
+> "O4P-ib-aTR.title" = "カラー:";
+> "RsH-ev-gwP.title" = "階調範囲";
+> "SH0-gC-ICh.title" = "ハイライト";
+> "Sb9-DD-2IB.title" = "シャドウの彩度";
+> "TVa-re-wzI.title" = "グレー";
+> "UGE-y4-XqV.title" = "最小を入力:";
+> "UkO-WQ-xJ5.title" = "ハイライトの色相";
+> "VFD-A2-Zod.title" = "ハイライトの彩度";
+> "Vsw-rn-QZ3.title" = "デスティネーション色空間";
+> "WnX-s3-B66.title" = "相対的な色彩を保持";
+> "XoO-je-JcW.title" = "知覚";
+> "Y4G-rS-c8l.title" = "リセット";
+> "Z0B-qT-mZs.title" = "位置:";
+> "Zg8-vC-PPh.title" = "彩度";
+> "ari-Rp-hHB.title" = "回転";
+> "auc-zD-060.label" = "カラーバランス";
+> "bxX-lF-8q5.title" = "出力の黒レベル";
+> "cGF-og-2F8.label" = "法線";
+> "drP-OV-Mcv.title" = "グレー";
+> "eQ2-oY-KP7.title" = "出力の白レベル";
+> "eUo-tN-iyd.title" = "中間調";
+> "fmI-Uy-pOl.title" = "明るさ";
+> "gr9-dT-IPD.title" = "挿入";
+> "hos-YN-gtv.title" = "ハイライト";
+> "k1c-fl-J8O.title" = "黒点補正";
+> "lCK-kn-dKy.title" = "レンダリングインテント:";
+> "m2u-Yi-E5j.title" = "不透明度:";
+> "mvC-0S-uxr.label" = "シャドウ/ハイライト";
+> "nha-He-6bH.title" = "フィルターカラー";
+> "nqj-md-AI2.title" = "スケール";
+> "obx-gE-SeM.title" = "シャドウの色相";
+> "qQx-GQ-OaB.title" = "ソース色空間";
+> "rFB-oR-aTd.title" = "選択";
+> "rYj-9w-lU3.title" = "バランス";
+> "uL2-2o-JPy.title" = "選択";
+> "vPj-ZK-Njl.title" = "輝度を維持";
+> "wKK-kf-WaA.title" = "絶対的な色彩を保持";
+> "wmU-1p-zvP.label" = "レンズフィルター";
+> "wy3-gN-FZL.title" = "X軸を反転";
+> "yVn-Z4-xoE.title" = "マゼンタ/緑";
+> "yd6-dJ-uhK.title" = "描画モード:";
+> "yn3-80-URj.title" = "中間点:";
 > "zfr-Cf-YQD.title" = "輝度を維持";
