@@ -1,102 +1,89 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSMenuItem"; title = "Custom"; ObjectID = "3qi-44-PlX"; */
-4,6c5,9
-< > "3qi-44-PlX.title" = "カスタム";
-< 6c6
-< < "3uF-Sk-pDh.headerCell.title" = "Error";
----
-> > /* Class = "NSMenuItem"; title = "사용자화"; ObjectID = "3qi-44-PlX"; */
-> > "3qi-44-PlX.title" = "사용자화";
-> 11,12c11,12
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cb6-rz-ItV"; */
-> < "Cb6-rz-ItV.title" = "Text Cell";
-8,10c11,15
-< > "3uF-Sk-pDh.headerCell.title" = "エラー";
+10,28c10,18
+< ---
+< ---
+< ---
+< ---
+< ---
 < 15c15
+< 27c27
+< 30c30
+< 33c33
+< 36c36
+< 39c39
+< 3c3
+< 42c42
+< 45c45
+< 51c51
+< 54c54
+< 57c57
+< 63c63
+< 6c6
+---
+> 11,12c11,12
+> 17,18c17,18
+> 2,3c2,3
+> 20,21c20,21
+> 26,27c26,27
+> 29,30c29,30
+> 35,36c35,36
+> 38,39c38,39
+> 65,66c65,66
+30,31c20,22
+< < "3uF-Sk-pDh.headerCell.title" = "Error";
 < < "DV2-WL-8dS.title" = "Edit profile";
 ---
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Cb6-rz-ItV"; */
-> > "Cb6-rz-ItV.title" = "텍스트 셀";
-> 17,18c17,18
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dvn-IJ-JQb"; */
+> < "Cb6-rz-ItV.title" = "Text Cell";
 > < "Dvn-IJ-JQb.title" = "Text Cell";
-12,13c17,26
-< > "DV2-WL-8dS.title" = "プロファイルを編集";
-< 27c27
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Dvn-IJ-JQb"; */
-> > "Dvn-IJ-JQb.title" = "텍스트 셀";
-> 20,21c20,21
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gnz-jH-hNx"; */
 > < "Gnz-jH-hNx.title" = "Text Cell";
-> ---
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Gnz-jH-hNx"; */
-> > "Gnz-jH-hNx.title" = "텍스트 셀";
-> 26,27c26,27
-> < /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[0] = "Never"; ObjectID = "QAj-rG-1VF"; */
-16,17c29,32
-< > "QAj-rG-1VF.ibShadowedLabels[0]" = "チェックしない";
-< 30c30
----
-> > /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[0] = "하지 않음"; ObjectID = "QAj-rG-1VF"; */
-> > "QAj-rG-1VF.ibShadowedLabels[0]" = "하지 않음";
-> 29,30c29,30
-> < /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[1] = "Export"; ObjectID = "QAj-rG-1VF"; */
-20,25c35,38
-< > "QAj-rG-1VF.ibShadowedLabels[1]" = "書き出し";
-< 33c33
+34d24
 < < "QAj-rG-1VF.ibShadowedLabels[2]" = "Live";
-< ---
-< > "QAj-rG-1VF.ibShadowedLabels[2]" = "ライブ";
-< 36c36
----
-> > /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[1] = "내보내기"; ObjectID = "QAj-rG-1VF"; */
-> > "QAj-rG-1VF.ibShadowedLabels[1]" = "내보내기";
-> 35,36c35,36
-> < /* Class = "NSTableColumn"; headerCell.title = "Page"; ObjectID = "UPs-WV-nKN"; */
-28,29c41,44
-< > "UPs-WV-nKN.headerCell.title" = "ページ";
-< 39c39
----
-> > /* Class = "NSTableColumn"; headerCell.title = "페이지"; ObjectID = "UPs-WV-nKN"; */
-> > "UPs-WV-nKN.headerCell.title" = "페이지";
-> 38,39c38,39
-> < /* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "Yyl-Bx-V75"; */
-32,34c47,51
-< > "Yyl-Bx-V75.title" = "プロファイル:";
-< 42c42
+37,56c27,54
 < < "aLO-n0-8fW.title" = "Create preset…";
----
-> > /* Class = "NSTextFieldCell"; title = "프로파일:"; ObjectID = "Yyl-Bx-V75"; */
-> > "Yyl-Bx-V75.title" = "프로파일:";
-> 65,66c65,66
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xcA-rU-NtY"; */
-> < "xcA-rU-NtY.title" = "Text Cell";
-36,56c53,54
-< > "aLO-n0-8fW.title" = "プリセットを作成…";
-< 45c45
 < < "aLU-13-tN7.title" = "Manage presets";
-< ---
-< > "aLU-13-tN7.title" = "プリセットの管理";
-< 51c51
 < < "jDN-mO-Qk6.title" = "Fix";
-< ---
-< > "jDN-mO-Qk6.title" = "修正";
-< 54c54
 < < "kLJ-Ag-DU1.title" = "Check Now";
-< ---
-< > "kLJ-Ag-DU1.title" = "今すぐチェック";
-< 57c57
 < < "oT0-bd-4yw.title" = "Letter";
-< ---
-< > "oT0-bd-4yw.title" = "レター";
-< 63c63
 < < "q4t-dy-7YO.title" = "Check:";
-< ---
+< > "3qi-44-PlX.title" = "カスタム";
+< > "3uF-Sk-pDh.headerCell.title" = "エラー";
+< > "DV2-WL-8dS.title" = "プロファイルを編集";
+< > "QAj-rG-1VF.ibShadowedLabels[0]" = "チェックしない";
+< > "QAj-rG-1VF.ibShadowedLabels[1]" = "書き出し";
+< > "QAj-rG-1VF.ibShadowedLabels[2]" = "ライブ";
+< > "UPs-WV-nKN.headerCell.title" = "ページ";
+< > "Yyl-Bx-V75.title" = "プロファイル:";
+< > "aLO-n0-8fW.title" = "プリセットを作成…";
+< > "aLU-13-tN7.title" = "プリセットの管理";
+< > "jDN-mO-Qk6.title" = "修正";
+< > "kLJ-Ag-DU1.title" = "今すぐチェック";
+< > "oT0-bd-4yw.title" = "レター";
 < > "q4t-dy-7YO.title" = "チェック:";
 ---
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "xcA-rU-NtY"; */
+> < "xcA-rU-NtY.title" = "Text Cell";
+> < /* Class = "NSMenuItem"; title = "Custom"; ObjectID = "3qi-44-PlX"; */
+> < /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[0] = "Never"; ObjectID = "QAj-rG-1VF"; */
+> < /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[1] = "Export"; ObjectID = "QAj-rG-1VF"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Page"; ObjectID = "UPs-WV-nKN"; */
+> < /* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "Yyl-Bx-V75"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cb6-rz-ItV"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dvn-IJ-JQb"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gnz-jH-hNx"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xcA-rU-NtY"; */
+> > "3qi-44-PlX.title" = "사용자화";
+> > "Cb6-rz-ItV.title" = "텍스트 셀";
+> > "Dvn-IJ-JQb.title" = "텍스트 셀";
+> > "Gnz-jH-hNx.title" = "텍스트 셀";
+> > "QAj-rG-1VF.ibShadowedLabels[0]" = "하지 않음";
+> > "QAj-rG-1VF.ibShadowedLabels[1]" = "내보내기";
+> > "UPs-WV-nKN.headerCell.title" = "페이지";
+> > "Yyl-Bx-V75.title" = "프로파일:";
 > > "xcA-rU-NtY.title" = "텍스트 셀";
+> > /* Class = "NSMenuItem"; title = "사용자화"; ObjectID = "3qi-44-PlX"; */
+> > /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[0] = "하지 않음"; ObjectID = "QAj-rG-1VF"; */
+> > /* Class = "NSSegmentedCell"; QAj-rG-1VF.ibShadowedLabels[1] = "내보내기"; ObjectID = "QAj-rG-1VF"; */
+> > /* Class = "NSTableColumn"; headerCell.title = "페이지"; ObjectID = "UPs-WV-nKN"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Cb6-rz-ItV"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Dvn-IJ-JQb"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Gnz-jH-hNx"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "xcA-rU-NtY"; */
+> > /* Class = "NSTextFieldCell"; title = "프로파일:"; ObjectID = "Yyl-Bx-V75"; */
