@@ -1,7 +1,3 @@
-echo "→ Check Update"
-cd ~/Affin.ko/
-git pull
-
 echo "→ Select Application"
 echo "1: Affinity Designer 2"
 echo "2: Affinity Photo 2"
@@ -40,8 +36,8 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   echo ${i}
   cd ~/Affin.ko/forDev/compare/
   iconv -f utf16le -t utf8 "${JAPPATH}${NAME}" >"${KORPATH}${NAME}.ja.temp"
-  diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}" | sort >./"${APPNAME}"/"${NAME}".en2ko.log
-  diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}.ja.temp" | sort >./"${APPNAME}"/"${NAME}".en2ja.log
+  diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}" | sort | uniq >./"${APPNAME}"/"${NAME}".en2ko.log
+  diff "${KORPATH}${NAME}.temp" "${KORPATH}${NAME}.ja.temp" | sort | uniq >./"${APPNAME}"/"${NAME}".en2ja.log
   diff ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".en2ko.log >~/Affin.ko/forDev/compare/"${APPNAME}"/"${NAME}".ja2ko.log
   echo " (로그 종료)"
   cd ~/Affin.ko/
@@ -54,8 +50,8 @@ for ((i = 1; i <= ${FILECOUNTF}; i++)); do
   echo ${NAME}
   cd ~/Affin.ko/forDev/compare/
   iconv -f utf16le -t utf8 "${JAPFPATH}${NAME}" >"${KORFPATH}${NAME}.ja.temp"
-  diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}" | sort >./"${APPNAME}"/Frameworks/"${NAME}".en2ko.log
-  diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}.ja.temp" | sort >./"${APPNAME}"/Frameworks/"${NAME}".en2ja.log
+  diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}" | sort | uniq >./"${APPNAME}"/Frameworks/"${NAME}".en2ko.log
+  diff "${KORFPATH}${NAME}.temp" "${KORFPATH}${NAME}.ja.temp" | sort | uniq >./"${APPNAME}"/Frameworks/"${NAME}".en2ja.log
   diff ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ja.log ~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".en2ko.log >~/Affin.ko/forDev/compare/"${APPNAME}"/Frameworks/"${NAME}".ja2ko.log
   echo " (로그 종료)"
   cd ~/Affin.ko/
