@@ -1,46 +1,4 @@
-84,148c84,100
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,24c2,18
 < 102c102
 < 105c105
 < 111c111
@@ -82,7 +40,7 @@
 > 17,18c17,18
 > 170,171c170,171
 > 173,174c173,174
-150,163c102,111
+26,39c20,29
 < 180c180
 < 183c183
 < 186c186
@@ -108,11 +66,11 @@
 > 206,207c206,207
 > 209,210c209,210
 > 215,216c215,216
-165c113
+41c31
 < 237c237
 ---
 > 236,237c236,237
-168,215c116,145
+44,74c34,52
 < 246c246
 < 249c249
 < 24c24
@@ -144,23 +102,6 @@
 < 327c327
 < 330c330
 < 333c333
-< 336c336
-< 339c339
-< 33c33
-< 342c342
-< 345c345
-< 348c348
-< 351c351
-< 354c354
-< 357c357
-< 360c360
-< 363c363
-< 366c366
-< 36c36
-< 372c372
-< 378c378
-< 381c381
-< 384c384
 ---
 > 248,249c248,249
 > 26,27c26,27
@@ -181,18 +122,35 @@
 > 32,33c32,33
 > 326,327c326,327
 > 332,333c332,333
-> 336c336
+76,79c54,55
+< 339c339
+< 33c33
+< 342c342
+< 345c345
+---
 > 338,339c338,339
 > 341,342c341,342
-> 348c348
+81,87c57,60
+< 351c351
+< 354c354
+< 357c357
+< 360c360
+< 363c363
+< 366c366
+< 36c36
+---
 > 35,36c35,36
 > 356,357c356,357
 > 362,363c362,363
 > 365,366c365,366
-> 372c372
+89,91c62,63
+< 378c378
+< 381c381
+< 384c384
+---
 > 38,39c38,39
 > 383,384c383,384
-217,223c147,150
+93,99c65,68
 < 390c390
 < 396c396
 < 399c399
@@ -205,14 +163,14 @@
 > 398,399c398,399
 > 401,402c401,402
 > 404,405c404,405
-225,228c152
+101,104c70
 < 414c414
 < 420c420
 < 426c426
 < 429c429
 ---
 > 428,429c428,429
-230,235c154,157
+106,111c72,75
 < 432c432
 < 435c435
 < 45c45
@@ -224,7 +182,7 @@
 > 44,45c44,45
 > 50,51c50,51
 > 53,54c53,54
-237,250c159,166
+113,126c77,84
 < 60c60
 < 63c63
 < 66c66
@@ -248,79 +206,79 @@
 > 86,87c86,87
 > 89,90c89,90
 > 98,99c98,99
-252d167
+128d85
 < < "0XQ-Dp-i9p.title" = "Delete Palette…";
-262d176
+138d94
 < < "57i-1K-Kew.title" = "Gray/8";
-267,268d180
+143,144d98
 < < "8o6-B1-OFg.title" = "Gray/16";
 < < "90B-4q-FDG.title" = "Accented Analogic";
-271d182
+147d100
 < < "ABL-iB-lXt.title" = "Uninstall Pack…";
-273d183
+149d101
 < < "AvM-iu-PI5.title" = "Accented Analogic";
-277,278d186
+153,154d104
 < < "DKN-2I-wQS.title" = "Linked on This Device";
 < < "DU5-ep-6C2.title" = "Gray/8";
-281d188
+157d106
 < < "Ebi-Ti-lcE.title" = "Shared with a Team";
-288,289d194
+164,165d112
 < < "Gp9-sN-I78.title" = "Gray/8";
 < < "HFx-hi-kfL.title" = "Rename Palette…";
-291d195
+167d113
 < < "HYw-IY-jyY.title" = "Tetradic";
-295d198
+171d116
 < < "ID1-UI-EuY.title" = "Link Palette";
-297d199
+173d117
 < < "IhS-jO-2Z2.title" = "Spot";
-299d200
+175d118
 < < "JQh-fB-Ibz.title" = "Overprint";
-306d206
+182d124
 < < "MZi-Fh-Y6i.title" = "Synced to My Devices";
-312d211
+188d129
 < < "QWj-b5-7DW.title" = "Show Sync Status…";
-314,315d212
+190,191d130
 < < "UdG-ak-nUF.title" = "Tetradic";
 < < "V1H-S2-b5e.title" = "Uninstall Pack…";
-320d216
+196d134
 < < "YfU-LA-zcW.title" = "Sync Palette";
-322d217
+198d135
 < < "Z6t-pG-W7u.title" = "Duplicate Palette";
-326,328d220
+202,204d138
 < < "aGu-j9-PHV.title" = "Add Document Palette…";
 < < "ao2-6k-vMe.title" = "Just This App";
 < < "bWt-dV-n4z.title" = "Gray/16";
-330d221
+206d139
 < < "dWJ-U2-sg7.title" = "Triadic";
-333d223
+209d141
 < < "dux-4X-fFF.title" = "Add Application Palette…";
-337,338d226
+213,214d144
 < < "fce-Od-utk.title" = "Delete Palette…";
 < < "fho-5H-kLP.title" = "Sync Palette";
-343,344d230
+219,220d148
 < < "grV-iS-ie9.title" = "Add System Palette…";
 < < "gwh-jU-MUm.title" = "Duplicate Palette";
-346d231
+222d149
 < < "hww-Pz-dO4.title" = "Gray/16";
-351d235
+227d153
 < < "jBU-5w-P9P.title" = "Shared with a Team";
-353,354d236
+229,230d154
 < < "m1k-Ok-hHi.title" = "Rename Global Color…";
 < < "myK-2X-pCg.title" = "Gray/16";
-356d237
+232d155
 < < "opK-hS-ii0.title" = "Add Application Palette…";
-360,361d240
+236,237d158
 < < "scn-NV-XDi.title" = "Rename Spot…";
 < < "tIl-VM-c2B.title" = "Rename Palette…";
-364d242
+240d160
 < < "uvZ-5z-z3z.title" = "Add System Palette…";
-370,372d247
+246,248d165
 < < "x1p-gJ-zni.title" = "Add Document Palette…";
 < < "x3w-7z-z1B.title" = "Triadic";
 < < "xhp-L0-xgZ.title" = "Gray/8";
-374d248
+250d166
 < < "z8O-nQ-v5e.title" = "Rename Fill…";
-376,500c250,476
+252,376c168,394
 < > "0N8-TS-1oH.title" = "中";
 < > "0XQ-Dp-i9p.title" = "パレットを削除…";
 < > "21.title" = "不透明度:";
