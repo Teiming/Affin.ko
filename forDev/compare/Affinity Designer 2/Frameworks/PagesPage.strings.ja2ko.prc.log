@@ -92,18 +92,8 @@
 < > "yDr-Lt-Pwh.title" = "マスターを適用…";
 < > "ywB-7t-khj.title" = "スプレッドに移動";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Add Pages"; ObjectID = "eww-Nb-wLI"; */
-> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "EcN-gx-Osp"; */
-> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "qUl-Mw-Z2w"; */
-> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "1C4-rM-gnp"; */
-> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "rl8-1T-Y2t"; */
 > > "1C4-rM-gnp.title" = "복제";
 > > "EcN-gx-Osp.title" = "지우기";
 > > "eww-Nb-wLI.ibShadowedToolTip" = "페이지 추가";
 > > "qUl-Mw-Z2w.title" = "지우기";
 > > "rl8-1T-Y2t.title" = "복제";
-> > /* Class = "NSButton"; ibShadowedToolTip = "페이지 추가"; ObjectID = "eww-Nb-wLI"; */
-> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "1C4-rM-gnp"; */
-> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "rl8-1T-Y2t"; */
-> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "EcN-gx-Osp"; */
-> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "qUl-Mw-Z2w"; */
