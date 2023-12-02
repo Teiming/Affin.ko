@@ -46,7 +46,7 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   echo " (로그 종료)"
   cd ~/Affin.ko/
   git add .
-  git commit -m "${APPNAME} ${APPNAME} ${NAME} Updated"
+  git commit -m "${APPVERS} ${APPNAME} ${NAME} Updated"
 done
 
 for ((i = 1; i <= ${FILECOUNTF}; i++)); do
