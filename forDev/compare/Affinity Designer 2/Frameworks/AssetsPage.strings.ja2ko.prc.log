@@ -219,25 +219,6 @@
 < > "z37-ql-NOT.title" = "このアプリのみ";
 < > "zYL-N8-ZqW.title" = "次の項目でカテゴリを並べ替え";
 ---
-> < /* Class = "NSMenu"; title = "Background"; ObjectID = "Rhv-Bw-4r1"; */
-> < /* Class = "NSMenu"; title = "Background"; ObjectID = "dqy-ic-suO"; */
-> < /* Class = "NSMenuItem"; title = "Auto"; ObjectID = "6lX-i3-ehz"; */
-> < /* Class = "NSMenuItem"; title = "Auto"; ObjectID = "XuQ-yY-qTs"; */
-> < /* Class = "NSMenuItem"; title = "Background"; ObjectID = "6ff-va-Iad"; */
-> < /* Class = "NSMenuItem"; title = "Background"; ObjectID = "Cmj-Tf-EIS"; */
-> < /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "qvh-Cd-Zi3"; */
-> < /* Class = "NSMenuItem"; title = "Dark"; ObjectID = "Tr1-od-EI0"; */
-> < /* Class = "NSMenuItem"; title = "Dark"; ObjectID = "gkX-ts-Dag"; */
-> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "MZx-QI-kWg"; */
-> < /* Class = "NSMenuItem"; title = "Light"; ObjectID = "3cK-FM-4zD"; */
-> < /* Class = "NSMenuItem"; title = "Light"; ObjectID = "wxu-6p-Uv2"; */
-> < /* Class = "NSMenuItem"; title = "Name"; ObjectID = "Vd8-yU-P6a"; */
-> < /* Class = "NSMenuItem"; title = "Name"; ObjectID = "YKI-ZG-Cck"; */
-> < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "im6-F0-BkG"; */
-> < /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "olL-E7-Jqg"; */
-> < /* Class = "NSMenuItem"; title = "Show as List"; ObjectID = "t9g-eb-W0g"; */
-> < /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "9zG-hx-XXG"; */
-> < /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "vyA-nq-YEr"; */
 > > "3cK-FM-4zD.title" = "라이트";
 > > "6ff-va-Iad.title" = "배경";
 > > "6lX-i3-ehz.title" = "자동";
@@ -257,22 +238,3 @@
 > > "t9g-eb-W0g.title" = "목록으로 보기";
 > > "vyA-nq-YEr.title" = "사용자 정의";
 > > "wxu-6p-Uv2.title" = "라이트";
-> > /* Class = "NSMenu"; title = "배경"; ObjectID = "Rhv-Bw-4r1"; */
-> > /* Class = "NSMenu"; title = "배경"; ObjectID = "dqy-ic-suO"; */
-> > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "im6-F0-BkG"; */
-> > /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "olL-E7-Jqg"; */
-> > /* Class = "NSMenuItem"; title = "배경"; ObjectID = "6ff-va-Iad"; */
-> > /* Class = "NSMenuItem"; title = "자동"; ObjectID = "6lX-i3-ehz"; */
-> > /* Class = "NSMenuItem"; title = "표준"; ObjectID = "9zG-hx-XXG"; */
-> > /* Class = "NSMenuItem"; title = "배경"; ObjectID = "Cmj-Tf-EIS"; */
-> > /* Class = "NSMenuItem"; title = "다크"; ObjectID = "Tr1-od-EI0"; */
-> > /* Class = "NSMenuItem"; title = "이름"; ObjectID = "Vd8-yU-P6a"; */
-> > /* Class = "NSMenuItem"; title = "자동"; ObjectID = "XuQ-yY-qTs"; */
-> > /* Class = "NSMenuItem"; title = "이름"; ObjectID = "YKI-ZG-Cck"; */
-> > /* Class = "NSMenuItem"; title = "다크"; ObjectID = "gkX-ts-Dag"; */
-> > /* Class = "NSMenuItem"; title = "범주"; ObjectID = "qvh-Cd-Zi3"; */
-> > /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "vyA-nq-YEr"; */
-> > /* Class = "NSMenuItem"; title = "라이트"; ObjectID = "3cK-FM-4zD"; */
-> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "MZx-QI-kWg"; */
-> > /* Class = "NSMenuItem"; title = "라이트"; ObjectID = "wxu-6p-Uv2"; */
-> > /* Class = "NSMenuItem"; title = "목록으로 보기"; ObjectID = "t9g-eb-W0g"; */
