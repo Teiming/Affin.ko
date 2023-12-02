@@ -38,12 +38,12 @@
 > > "213.title" = "회전";
 > > "236.title" = "취소";
 > > "26.title" = "적용";
-> > "FPW-ho-Fhp.ibShadowedToolTip" = "거울 뷰 모드";
-> > "HOs-ed-DYa.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> > "YFi-To-EqF.ibShadowedToolTip" = "분할 뷰 모드";
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "HOs-ed-DYa"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "FPW-ho-Fhp"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "YFi-To-EqF"; */
+> > "FPW-ho-Fhp.ibShadowedToolTip" = "거울 보기";
+> > "HOs-ed-DYa.ibShadowedToolTip" = "분할 보기 해제";
+> > "YFi-To-EqF.ibShadowedToolTip" = "분할 보기";
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "HOs-ed-DYa"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "FPW-ho-Fhp"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "YFi-To-EqF"; */
 > > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "236"; */
 > > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > > /* Class = "NSTextFieldCell"; title = "회전"; ObjectID = "213"; */
