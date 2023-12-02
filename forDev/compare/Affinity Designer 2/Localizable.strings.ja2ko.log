@@ -1,114 +1,20 @@
-68,160d67
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-162d68
+3d2
 < 104c104
-165,166d70
+6,7d4
 < 113c113
 < 116c116
-170d73
+11d7
 < 125c125
-172,173d74
+13,14d8
 < 131c131
 < 134c134
-175d75
+16d9
 < 140c140
-177d76
+18d10
 < 146c146
-179d77
+20d11
 < 14c14
-181,189d78
+22,30d12
 < 155c155
 < 158c158
 < 161c161
@@ -118,7 +24,7 @@
 < 173c173
 < 176c176
 < 179c179
-191,200d79
+32,41d13
 < 182c182
 < 185c185
 < 188c188
@@ -129,14 +35,14 @@
 < 203c203
 < 206c206
 < 209c209
-202,207d80
+43,48d14
 < 212c212
 < 215c215
 < 218c218
 < 221c221
 < 224c224
 < 227c227
-209,217d81
+50,58d15
 < 233c233
 < 236c236
 < 239c239
@@ -146,43 +52,43 @@
 < 248c248
 < 251c251
 < 254c254
-219,222d82
+60,63d16
 < 260c260
 < 263c263
 < 266c266
 < 269c269
-224,226d83
+65,67d17
 < 272c272
 < 275c275
 < 278c278
-228d84
+69d18
 < 284c284
-230,234d85
+71,75d19
 < 290c290
 < 293c293
 < 296c296
 < 299c299
 < 29c29
-236d86
+77d20
 < 302c302
-238d87
+79d21
 < 308c308
-241,244d89
+82,85d23
 < 320c320
 < 323c323
 < 326c326
 < 329c329
-247d91
+88d25
 < 338c338
-249,253d92
+90,94d26
 < 344c344
 < 347c347
 < 350c350
 < 353c353
 < 356c356
-255d93
+96d27
 < 35c35
-258,265d95
+99,106d29
 < 368c368
 < 371c371
 < 374c374
@@ -191,7 +97,7 @@
 < 383c383
 < 386c386
 < 389c389
-269,275d98
+110,116d32
 < 398c398
 < 401c401
 < 404c404
@@ -199,29 +105,29 @@
 < 410c410
 < 413c413
 < 416c416
-281d103
+122d37
 < 431c431
-286,287d107
+127,128d41
 < 446c446
 < 449c449
-289,290d108
+130,131d42
 < 452c452
 < 455c455
-296d113
+137d47
 < 476c476
-300c117
+141c51
 < 488c488
 ---
 > 485c485
-302d118
+143d52
 < 50c50
-304d119
+145d53
 < 56c56
-311d125
+152d59
 < 74c74
-324d137
+165d71
 < < "Anchor [Accelerator key]" = "Anchor";
-328,335d140
+169,176d74
 < < "Astrophotography Stack [Persona Name]" = "Astrophotography Stack";
 < < "Astrophotogrphy Stack Persona [Astrophotogrphy Stack Persona]" = "Astrophotography Stack Persona";
 < < "AutoFit Column to Contents [Context menu]" = "AutoFit Column to Contents";
@@ -230,12 +136,12 @@
 < < "AutoFit Row(s) [Context menu]" = "AutoFit Row(s)";
 < < "Batch [Accelerator key]" = "Batch";
 < < "Books [Accelerator key]" = "Books";
-342d146
+183d80
 < < "Constraint [Accelerator key]" = "Constraint";
-344,345d147
+185,186d81
 < < "Convert Text to Field... [Context menu]" = "Convert Text to Field...";
 < < "Cycle Snapping Planes [Accelerator key]" = "Cycle Snapping Planes";
-347,357d148
+188,198d82
 < < "Delete Column [Context menu]" = "Delete Column";
 < < "Delete Column(s) [Context menu]" = "Delete Column(s)";
 < < "Delete Row [Context menu]" = "Delete Row";
@@ -247,52 +153,52 @@
 < < "Develop Lens [Accelerator key]" = "Develop Lens";
 < < "Develop Location [Accelerator key]" = "Develop Location";
 < < "Develop Overlay [Accelerator key]" = "Develop Overlay";
-359,360d149
+200,201d83
 < < "Develop Snapshot [Accelerator key]" = "Develop Snapshot";
 < < "Develop Tones [Accelerator key]" = "Develop Tones";
-364d152
+205d86
 < < "Edit Field... [Context menu]" = "Edit Field...";
-366d153
+207d87
 < < "Enabling \"Save With History\" means that anybody you send this document to can see everything you did to create it.\r\n\r\nDo you still want to enable \"Save With History\"? [Save with History]" = "Enabling \"Save With History\" means that anybody you send this document to can see everything you did to create it.\r\n\r\nDo you still want to enable \"Save With History\"?";
-368,370d154
+209,211d88
 < < "Evenly Distribute Columns [Context menu]" = "Evenly Distribute Columns";
 < < "Evenly Distribute Rows [Context menu]" = "Evenly Distribute Rows";
 < < "Expand Field [Context menu]" = "Expand Field";
-373,377d156
+214,218d90
 < < "Fade %@… [Raster menu]" = "Fade %@…";
 < < "Fade… [Raster menu]" = "Fade…";
 < < "Fields [Accelerator key]" = "Fields";
 < < "Files [Accelerator key]" = "Files";
 < < "Find and Replace [Accelerator key]" = "Find and Replace";
-382d160
+223d94
 < < "Hyperlink [Accelerator key]" = "Hyperlink";
-384d161
+225d95
 < < "Index [Accelerator key]" = "Index";
-386,389d162
+227,230d96
 < < "Information [Accelerator key]" = "Information";
 < < "Insert Column [Context menu]" = "Insert Column";
 < < "Insert Hyperlink [Accelerator key]" = "Insert Hyperlink";
 < < "Insert Row [Context menu]" = "Insert Row";
-395,398d167
+236,239d101
 < < "Links [Accelerator key]" = "Links";
 < < "Liquify Brush [Accelerator key]" = "Liquify Brush";
 < < "Liquify Mask [Accelerator key]" = "Liquify Mask";
 < < "Liquify Mesh [Accelerator key]" = "Liquify Mesh";
-402d170
+243d104
 < < "Look Up \"%@\" [Context menu]" = "Look Up \"%@\"";
-405,406d172
+246,247d106
 < < "Merge Cells [Context menu]" = "Merge Cells";
 < < "Metadata [Accelerator key]" = "Metadata";
-408d173
+249d107
 < < "Next Blend Mode [Accelerator key]" = "Next Blend Mode";
-410,411d174
+251,252d108
 < < "Notes [Accelerator key]" = "Notes";
 < < "Pages [Accelerator key]" = "Pages";
-415c178
+256c112
 < < "Photo Persona. [ Workspace Warning Caption]" = "Photo Persona.";
 ---
 > < "Photo [Persona Name]" = "Photo";
-417,425d179
+258,266d113
 < < "Please either commit or cancel the develop operation before switching to another Persona. [Alert - Cancel Develop operation]" = "Please either commit or cancel the develop operation before switching to another Persona.";
 < < "Please either commit or cancel the develop operation before switching to another Persona. [Alert - Cancel develop operation]" = "Please either commit or cancel the develop operation before switching to another Persona.";
 < < "Please either commit or cancel the liquify operation before switching to another Persona. [Alert cancel liquify operation]" = "Please either commit or cancel the liquify operation before switching to another Persona.";
@@ -302,18 +208,18 @@
 < < "Please end your macro recording session before using Develop. [Alert - Macro Recording]" = "Please end your macro recording session before using Develop.";
 < < "Please end your macro recording session before using Tone Mapping. [Alert - Macro Recording]" = "Please end your macro recording session before using Tone Mapping.";
 < < "Please select a pixel layer or mask before entering Liquify. [Alert - Select raster larey or mask]" = "Please select a pixel layer or mask before entering Liquify.";
-427,431d180
+268,272d114
 < < "Please select an RGB pixel layer before entering HDR. [Alert - Select RGB raster layer]" = "Please select an RGB pixel layer before entering HDR.";
 < < "Preflight [Accelerator key]" = "Preflight";
 < < "Previous Blend Mode [Accelerator key]" = "Previous Blend Mode";
 < < "Quick FX [Accelerator key]" = "Quick FX";
 < < "RAW Options [Accelerator key]" = "RAW Options";
-434,435d182
+275,276d116
 < < "Scope [Accelerator key]" = "Scope";
 < < "Separate Cells [Context menu]" = "Separate Cells";
-437d183
+278d117
 < < "Set Fill to 50% Grey [Accelerator key]" = "Set Fill to 50% Gray";
-441,450d186
+282,291d120
 < < "Sort Ascending [Context menu]" = "Sort Ascending";
 < < "Sort Descending [Context menu]" = "Sort Descending";
 < < "Sort by Column Ascending [Context menu]" = "Sort by Column Ascending";
@@ -324,7 +230,7 @@
 < < "Stacked Images [Accelerator key]" = "Stacked Images";
 < < "Stacked Options [Accelerator key]" = "Stacked Options";
 < < "States [Accelerator key]" = "States";
-457,464d192
+298,305d126
 < < "Switch to Previous View [Accelerator key]" = "Switch to Previous View";
 < < "Symbol [Accelerator key]" = "Symbol";
 < < "Table Format [Accelerator key]" = "Table Format";
@@ -333,18 +239,18 @@
 < < "Tags [Accelerator key]" = "Tags";
 < < "Technical [Persona Name]" = "Technical";
 < < "Text Frame [Accelerator key]" = "Text Frame";
-466d193
+307d127
 < < "Toggle Edit Selection As Layer [Toggle Edit Selection As Layer]" = "Toggle Edit Selection As Layer";
-468d194
+309d128
 < < "Toggle Frequency Layer [Accelerator key]" = "Toggle Frequency Layer";
-470,472d195
+311,313d129
 < < "Tone Map Overlays [Accelerator key]" = "Tone Map Overlays";
 < < "Tone Map Presets [Accelerator key]" = "Tone Map Presets";
 < < "Tone Map [Accelerator key]" = "Tone Map";
-476,477d198
+317,318d132
 < < "Unignore Spelling \"%@\" [Context menu]" = "Unignore Spelling \"%@\"";
 < < "Unlearn Spelling \"%@\" [Context menu]" = "Unlearn Spelling \"%@\"";
-481,640c202,268
+322,481c136,202
 < > "32-bit Preview [Accelerator key]" = "32ビットプレビュー";
 < > "Add Document Snapshot [Raster]" = "ドキュメントのスナップショットを追加";
 < > "Adjustment [Accelerator key]" = "調整";
