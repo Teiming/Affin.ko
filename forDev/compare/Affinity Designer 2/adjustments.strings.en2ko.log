@@ -1,60 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 110c110
 11c11
 125c125
@@ -107,6 +51,7 @@
 56c56
 59c59
 5c5
+65c65
 68c68
 77c77
 89c89
@@ -114,115 +59,25 @@
 98c98
 < "Curves" = "Curves";
 < "Darken" = "Darken";
-< "Darken" = "Darken";
 < "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Default" = "Default";
-< "Desaturate" = "Desaturate";
 < "Desaturate" = "Desaturate";
 < "Exposure" = "Exposure";
 < "Invert" = "Invert";
 < "Levels" = "Levels";
 < "Lighten" = "Lighten";
-< "Lighten" = "Lighten";
 < "Posterise" = "Posterise";
+< "Recolour" = "Recolor";
 < "Threshold" = "Threshold";
 < "Vibrance" = "Vibrance";
 > "Curves" = "곡선";
 > "Darken" = "어둡게";
-> "Darken" = "어둡게";
 > "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Default" = "기본값";
-> "Desaturate" = "채도 낮추기";
 > "Desaturate" = "채도 낮추기";
 > "Exposure" = "노출";
 > "Invert" = "반전";
 > "Levels" = "레벨";
 > "Lighten" = "밝게";
-> "Lighten" = "밝게";
 > "Posterise" = "포스터화";
+> "Recolour" = "재색상";
 > "Threshold" = "역치";
 > "Vibrance" = "활기";
