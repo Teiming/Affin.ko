@@ -1,88 +1,108 @@
-3c3
-< "1.title" = "Grid and Snapping Axis";
 ---
-> "1.title" = "グリッドとスナップ軸";
-6c6
-< "26.title" = "Close";
 ---
-> "26.title" = "閉じる";
-9c9
-< "1e0-UH-0o3.title" = "Grid setup";
 ---
-> "1e0-UH-0o3.title" = "グリッド設定";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "2md-8C-v8t.title" = "Rename Preset…";
----
-> "2md-8C-v8t.title" = "プリセット名の変更…";
 15c15
-< "5aB-rD-3Ry.title" = "Manage Presets…";
----
-> "5aB-rD-3Ry.title" = "プリセットの管理…";
 18c18
-< "EwR-3I-waD.title" = "Show axis editing handles";
----
-> "EwR-3I-waD.title" = "軸編集ハンドルを表示";
 21c21
-< "JHo-nA-Cdm.title" = "Subdivision lines:";
----
-> "JHo-nA-Cdm.title" = "サブ区分ライン:";
 24c24
-< "K4y-9S-Tvg.title" = "Mode:";
----
-> "K4y-9S-Tvg.title" = "モード:";
 27c27
-< "PyE-3e-26c.title" = "Preset:";
----
-> "PyE-3e-26c.title" = "プリセット:";
 30c30
-< "QLA-Ve-UDD.ibShadowedToolTip" = "Set the subdivision grid line opacity";
----
-> "QLA-Ve-UDD.ibShadowedToolTip" = "サブ区分グリッドラインを不透明に設定";
 33c33
-< "QR4-a0-N2Q.ibShadowedToolTip" = "Set the subdivision grid line opacity";
----
-> "QR4-a0-N2Q.ibShadowedToolTip" = "サブ区分グリッドラインを不透明に設定";
 36c36
-< "QUZ-Sa-kpD.ibShadowedToolTip" = "Link the grid colors";
----
-> "QUZ-Sa-kpD.ibShadowedToolTip" = "グリッドカラーをリンク";
-42c42
-< "bfn-8U-6Ay.title" = "Delete Preset";
----
-> "bfn-8U-6Ay.title" = "プリセットを削除";
+39c39
+3c3
 45c45
-< "btM-eM-F8H.title" = "Create Preset…";
----
-> "btM-eM-F8H.title" = "プリセットを作成…";
 48c48
-< "eCX-Zu-S1A.title" = "Grid lines:";
----
-> "eCX-Zu-S1A.title" = "グリッドライン:";
 51c51
-< "g3n-km-nO9.ibShadowedToolTip" = "Set the main grid line color";
----
-> "g3n-km-nO9.ibShadowedToolTip" = "メイングリッドラインのカラーを設定";
 54c54
-< "ooj-mU-elY.title" = "Replace Preset…";
----
-> "ooj-mU-elY.title" = "プリセットの置換…";
 57c57
-< "qbS-7j-WCg.ibShadowedToolTip" = "Set the main grid line opacity";
----
-> "qbS-7j-WCg.ibShadowedToolTip" = "メイングリッドラインを不透明に設定";
 60c60
-< "r98-AF-kFe.ibShadowedToolTip" = "Select a Snapping options preset, or configure your own settings";
----
-> "r98-AF-kFe.ibShadowedToolTip" = "いずれかのスナップオプションプリセットを選択するか、独自の設定値を設定します";
 63c63
-< "vYL-Kt-A12.title" = "Show grid";
----
-> "vYL-Kt-A12.title" = "グリッドを表示";
 66c66
-< "vuf-dQ-R5Y.title" = "Button";
----
-> "vuf-dQ-R5Y.title" = "ボタン";
 69c69
+6c6
+72c72
+75c75
+78c78
+81c81
+84c84
+9c9
+< "1.title" = "Grid and Snapping Axis";
+< "1e0-UH-0o3.title" = "Grid setup";
+< "26.title" = "Close";
+< "2md-8C-v8t.title" = "Rename Preset…";
+< "5aB-rD-3Ry.title" = "Manage Presets…";
+< "EwR-3I-waD.title" = "Show axis editing handles";
+< "JHo-nA-Cdm.title" = "Subdivision lines:";
+< "K4y-9S-Tvg.title" = "Mode:";
+< "KsZ-gU-ra6.title" = "Button";
+< "PyE-3e-26c.title" = "Preset:";
+< "QLA-Ve-UDD.ibShadowedToolTip" = "Set the subdivision grid line opacity";
+< "QR4-a0-N2Q.ibShadowedToolTip" = "Set the subdivision grid line opacity";
+< "QUZ-Sa-kpD.ibShadowedToolTip" = "Link the grid colors";
+< "bfn-8U-6Ay.title" = "Delete Preset";
+< "btM-eM-F8H.title" = "Create Preset…";
+< "eCX-Zu-S1A.title" = "Grid lines:";
+< "g3n-km-nO9.ibShadowedToolTip" = "Set the main grid line color";
+< "ooj-mU-elY.title" = "Replace Preset…";
+< "qbS-7j-WCg.ibShadowedToolTip" = "Set the main grid line opacity";
+< "r5x-Bj-MS5.title" = "Pixel grid lines:";
+< "r98-AF-kFe.ibShadowedToolTip" = "Select a Snapping options preset, or configure your own settings";
+< "tdI-fM-AaR.ibShadowedToolTip" = "Set the subdivision grid line opacity";
+< "vYL-Kt-A12.title" = "Show grid";
+< "vuf-dQ-R5Y.title" = "Button";
+< "xVE-AG-NUN.ibShadowedToolTip" = "Set the subdivision grid line opacity";
+< "xbe-CR-dY9.title" = "Show pixel grid";
 < "yIL-OJ-VOD.title" = "Button";
----
+> "1.title" = "グリッドとスナップ軸";
+> "1e0-UH-0o3.title" = "グリッド設定";
+> "26.title" = "閉じる";
+> "2md-8C-v8t.title" = "プリセット名の変更…";
+> "5aB-rD-3Ry.title" = "プリセットの管理…";
+> "EwR-3I-waD.title" = "軸編集ハンドルを表示";
+> "JHo-nA-Cdm.title" = "サブ区分ライン:";
+> "K4y-9S-Tvg.title" = "モード:";
+> "KsZ-gU-ra6.title" = "ボタン";
+> "PyE-3e-26c.title" = "プリセット:";
+> "QLA-Ve-UDD.ibShadowedToolTip" = "サブ区分グリッドラインを不透明に設定";
+> "QR4-a0-N2Q.ibShadowedToolTip" = "サブ区分グリッドラインを不透明に設定";
+> "QUZ-Sa-kpD.ibShadowedToolTip" = "グリッドカラーをリンク";
+> "bfn-8U-6Ay.title" = "プリセットを削除";
+> "btM-eM-F8H.title" = "プリセットを作成…";
+> "eCX-Zu-S1A.title" = "グリッドライン:";
+> "g3n-km-nO9.ibShadowedToolTip" = "メイングリッドラインのカラーを設定";
+> "ooj-mU-elY.title" = "プリセットの置換…";
+> "qbS-7j-WCg.ibShadowedToolTip" = "メイングリッドラインを不透明に設定";
+> "r5x-Bj-MS5.title" = "ピクセルグリッドライン:";
+> "r98-AF-kFe.ibShadowedToolTip" = "いずれかのスナップオプションプリセットを選択するか、独自の設定値を設定します";
+> "tdI-fM-AaR.ibShadowedToolTip" = "サブ区分グリッドラインの不透明度を設定";
+> "vYL-Kt-A12.title" = "グリッドを表示";
+> "vuf-dQ-R5Y.title" = "ボタン";
+> "xVE-AG-NUN.ibShadowedToolTip" = "サブ区分グリッドラインの不透明度を設定";
+> "xbe-CR-dY9.title" = "ピクセルグリッドを表示";
 > "yIL-OJ-VOD.title" = "ボタン";
