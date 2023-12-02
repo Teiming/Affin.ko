@@ -1,4 +1,4 @@
-72,536c72,142
+72,453c72,121
 < ---
 < ---
 < ---
@@ -381,7 +381,58 @@
 < 615c615
 < 618c618
 < 621c621
-< 624c624
+---
+> 104,105c104,105
+> 110,111c110,111
+> 137,138c137,138
+> 143,144c143,144
+> 149,150c149,150
+> 161,162c161,162
+> 17,18c17,18
+> 173,174c173,174
+> 179,180c179,180
+> 185,186c185,186
+> 197,198c197,198
+> 2,3c2,3
+> 200,201c200,201
+> 206,207c206,207
+> 260,261c260,261
+> 266,267c266,267
+> 275,276c275,276
+> 278,279c278,279
+> 284,285c284,285
+> 296,297c296,297
+> 305,306c305,306
+> 308,309c308,309
+> 311,312c311,312
+> 314,315c314,315
+> 32,33c32,33
+> 338,339c338,339
+> 341,342c341,342
+> 356,357c356,357
+> 377,378c377,378
+> 38,39c38,39
+> 404,405c404,405
+> 41,42c41,42
+> 413,414c413,414
+> 44,45c44,45
+> 446,447c446,447
+> 449,450c449,450
+> 455,456c455,456
+> 458,459c458,459
+> 467,468c467,468
+> 497,498c497,498
+> 512,513c512,513
+> 515,516c515,516
+> 524,525c524,525
+> 533,534c533,534
+> 545,546c545,546
+> 557,558c557,558
+> 56,57c56,57
+> 560,561c560,561
+> 584,585c584,585
+> 599,600c599,600
+455,536c123,142
 < 627c627
 < 630c630
 < 633c633
@@ -465,57 +516,6 @@
 < 96c96
 < 9c9
 ---
-> 104,105c104,105
-> 110,111c110,111
-> 137,138c137,138
-> 143,144c143,144
-> 149,150c149,150
-> 161,162c161,162
-> 17,18c17,18
-> 173,174c173,174
-> 179,180c179,180
-> 185,186c185,186
-> 197,198c197,198
-> 2,3c2,3
-> 200,201c200,201
-> 206,207c206,207
-> 260,261c260,261
-> 266,267c266,267
-> 275,276c275,276
-> 278,279c278,279
-> 284,285c284,285
-> 296,297c296,297
-> 305,306c305,306
-> 308,309c308,309
-> 311,312c311,312
-> 314,315c314,315
-> 32,33c32,33
-> 338,339c338,339
-> 341,342c341,342
-> 356,357c356,357
-> 377,378c377,378
-> 38,39c38,39
-> 404,405c404,405
-> 41,42c41,42
-> 413,414c413,414
-> 44,45c44,45
-> 446,447c446,447
-> 449,450c449,450
-> 455,456c455,456
-> 458,459c458,459
-> 467,468c467,468
-> 497,498c497,498
-> 512,513c512,513
-> 515,516c515,516
-> 524,525c524,525
-> 533,534c533,534
-> 545,546c545,546
-> 557,558c557,558
-> 56,57c56,57
-> 560,561c560,561
-> 584,585c584,585
-> 599,600c599,600
-> 623c623
 > 635,636c635,636
 > 644,645c644,645
 > 65,66c65,66
@@ -714,7 +714,7 @@
 < < "i0F-dM-cxk.title" = "Discretionary ligatures";
 < < "i8W-i0-IiI.title" = "Figure width:";
 < < "iJQ-l7-IB5.title" = "Font width:";
-729,739d196
+729,735d196
 < < "iu1-gm-XN3.title" = "Typography Variants";
 < < "jKz-RV-eSf.title" = "Scale for descenders";
 < < "jM2-tQ-kde.title" = "Contextual swash";
@@ -722,14 +722,14 @@
 < < "jcN-ZD-YUW.title" = "Ligatures:";
 < < "jf1-Kn-r8w.title" = "Character Language";
 < < "jnI-ka-6Ol.ibShadowedToolTip" = "Spacing between the drop cap and the adjacent text";
-< < "kdN-1z-VxY.label" = "Color";
+737,739d197
 < < "kxH-OK-Dyb.title" = "Text fill:";
 < < "lVm-vE-QWo.title" = "Capital spacing";
 < < "mC6-ED-D7H.label" = "Item 5";
-741,742d197
+741,742d198
 < < "mJD-uC-AOi.title" = "Restart numbering now";
 < < "mZB-oL-vlJ.title" = "Font size:";
-744,753d198
+744,753d199
 < < "mli-7y-VdW.title" = "Initial forms";
 < < "mty-dS-hUJ.label" = "Item 7";
 < < "nDd-8i-8oI.title" = "Prevent orphaned first lines";
@@ -740,7 +740,7 @@
 < < "oqz-MH-9eQ.title" = "Minimum:";
 < < "p2O-7l-KBg.title" = "Baseline Grid";
 < < "pGs-28-l85.ibShadowedToolTip" = "Tracking";
-755,763d199
+755,763d200
 < < "q6Z-7o-sQE.title" = "Numerator";
 < < "qFz-Wd-Fer.title" = "Style settings:";
 < < "qYv-Xv-cTg.title" = "Keep with previous paragraph";
@@ -750,44 +750,44 @@
 < < "rDO-ya-ZES.title" = "Hyphenation zone:";
 < < "rVk-nK-Hfo.title" = "Leading override:";
 < < "rWS-I7-kGM.title" = "Randomize";
-767,769d202
+767,769d203
 < < "sEQ-2k-YBQ.title" = "Case sensitive forms";
 < < "sPO-tb-faa.title" = "Titling";
 < < "sdF-kj-0Qy.title" = "Table View Cell";
-771,776d203
+771,776d204
 < < "szi-6V-YAB.title" = "Column end zone:";
 < < "t08-5S-Xkr.headerCell.title" = "Position";
 < < "t0K-kf-43v.ibShadowedToolTip" = "Maximum number of words to apply the initial word style to";
 < < "t0x-cr-Jek.label" = "Item 7";
 < < "t1l-Gy-Mzp.title" = "Show in both panels";
 < < "t3o-aB-QQm.title" = "Prevent widowed last lines";
-778,780d204
+778,780d205
 < < "tCS-hT-NAJ.title" = "Use auto-hyphenation";
 < < "tXk-9t-fYx.title" = "Typography Alternates";
 < < "tmb-Ca-bOv.title" = "Typography Capitals";
-782,784d205
+782,784d206
 < < "u2n-z6-mcp.title" = "Figure style:";
 < < "uB0-J7-Kgy.title" = "Bullets and Numbering";
 < < "ugx-k7-YhN.title" = "Character Positioning and Transform";
-786d206
+786d207
 < < "un4-Eh-hMN.title" = "Paragraph Spacing";
-788,790d207
+788,790d208
 < < "vJd-Ue-NKu.title" = "Based on:";
 < < "vOV-uO-JhB.title" = "Leading:";
 < < "vgN-MT-5cM.title" = "Old Style";
-792,793d208
+792,793d209
 < < "vpk-De-PRK.title" = "Hyphenation";
 < < "w0y-hv-u0H.title" = "Apply style to selection";
-795d209
+795d210
 < < "wT6-Ev-nez.title" = "Word position forms:";
-797,800d210
+797,800d211
 < < "wsM-E1-EFI.label" = "Item 11";
 < < "x2U-8W-lrg.title" = "Highlight:";
 < < "xN6-vp-Yr5.title" = "First line indent:";
 < < "xVX-AZ-vTy.title" = "Space after:";
-802d211
+802d212
 < < "yiE-qn-23k.title" = "No change";
-804,1072c213,424
+804,1072c214,424
 < < "ze0-h2-XOZ.title" = "Fraction";
 < > "09F-CS-BBW.title" = "塗りつぶし:";
 < > "0kt-W3-gTu.title" = "次のスタイル:";
@@ -1081,7 +1081,6 @@
 > < /* Class = "NSButtonCell"; title = "Subscript"; ObjectID = "1Ph-dZ-YO2"; */
 > < /* Class = "NSButtonCell"; title = "Superscript"; ObjectID = "w1K-0I-5S4"; */
 > < /* Class = "NSStepper"; ibShadowedToolTip = "Baseline"; ObjectID = "a1x-Jm-qLO"; */
-> < /* Class = "NSTabViewItem"; label = "Colour"; ObjectID = "kdN-1z-VxY"; */
 > < /* Class = "NSTabViewItem"; label = "General"; ObjectID = "KPZ-An-Nk7"; */
 > < /* Class = "NSTableColumn"; headerCell.title = "Left"; ObjectID = "3Ju-iW-s4U"; */
 > < /* Class = "NSTableColumn"; headerCell.title = "Right"; ObjectID = "5NO-fy-Uwk"; */
@@ -1183,6 +1182,7 @@
 > > "fAf-4V-Fbb.title" = "종류:";
 > > "hAK-UX-SHZ.title" = "텍스트 셀";
 > > "ieE-eA-yTV.title" = "최대:";
+> > "kdN-1z-VxY.label" = "색상";
 > > "mEq-hE-g3I.title" = "최대:";
 > > "mke-Db-nAF.title" = "유효한";
 > > "pix-cn-oPQ.ibShadowedToolTip" = "편차";
@@ -1223,7 +1223,6 @@
 > > /* Class = "NSButtonCell"; title = "아랫첨자"; ObjectID = "1Ph-dZ-YO2"; */
 > > /* Class = "NSStepper"; ibShadowedToolTip = "기준선"; ObjectID = "a1x-Jm-qLO"; */
 > > /* Class = "NSTabViewItem"; label = "일반"; ObjectID = "KPZ-An-Nk7"; */
-> > /* Class = "NSTabViewItem"; label = "색상"; ObjectID = "kdN-1z-VxY"; */
 > > /* Class = "NSTableColumn"; headerCell.title = "왼쪽"; ObjectID = "3Ju-iW-s4U"; */
 > > /* Class = "NSTableColumn"; headerCell.title = "오른쪽"; ObjectID = "5NO-fy-Uwk"; */
 > > /* Class = "NSTextField"; ibShadowedToolTip = "문자 스타일"; ObjectID = "VvC-fE-EbQ"; */

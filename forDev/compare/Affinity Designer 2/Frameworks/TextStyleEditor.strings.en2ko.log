@@ -119,7 +119,7 @@
 560,561c560,561
 584,585c584,585
 599,600c599,600
-623c623
+624c624
 635,636c635,636
 644,645c644,645
 65,66c65,66
@@ -194,6 +194,7 @@
 < "fAf-4V-Fbb.title" = "Type:";
 < "hAK-UX-SHZ.title" = "Text Cell";
 < "ieE-eA-yTV.title" = "Maximum:";
+< "kdN-1z-VxY.label" = "Color";
 < "mEq-hE-g3I.title" = "Maximum:";
 < "mke-Db-nAF.title" = "Enabled";
 < "pix-cn-oPQ.ibShadowedToolTip" = "Offset";
@@ -233,7 +234,6 @@
 < /* Class = "NSButtonCell"; title = "Subscript"; ObjectID = "1Ph-dZ-YO2"; */
 < /* Class = "NSButtonCell"; title = "Superscript"; ObjectID = "w1K-0I-5S4"; */
 < /* Class = "NSStepper"; ibShadowedToolTip = "Baseline"; ObjectID = "a1x-Jm-qLO"; */
-< /* Class = "NSTabViewItem"; label = "Colour"; ObjectID = "kdN-1z-VxY"; */
 < /* Class = "NSTabViewItem"; label = "General"; ObjectID = "KPZ-An-Nk7"; */
 < /* Class = "NSTableColumn"; headerCell.title = "Left"; ObjectID = "3Ju-iW-s4U"; */
 < /* Class = "NSTableColumn"; headerCell.title = "Right"; ObjectID = "5NO-fy-Uwk"; */
@@ -335,6 +335,7 @@
 > "fAf-4V-Fbb.title" = "종류:";
 > "hAK-UX-SHZ.title" = "텍스트 셀";
 > "ieE-eA-yTV.title" = "최대:";
+> "kdN-1z-VxY.label" = "색상";
 > "mEq-hE-g3I.title" = "최대:";
 > "mke-Db-nAF.title" = "유효한";
 > "pix-cn-oPQ.ibShadowedToolTip" = "편차";
@@ -375,7 +376,6 @@
 > /* Class = "NSButtonCell"; title = "아랫첨자"; ObjectID = "1Ph-dZ-YO2"; */
 > /* Class = "NSStepper"; ibShadowedToolTip = "기준선"; ObjectID = "a1x-Jm-qLO"; */
 > /* Class = "NSTabViewItem"; label = "일반"; ObjectID = "KPZ-An-Nk7"; */
-> /* Class = "NSTabViewItem"; label = "색상"; ObjectID = "kdN-1z-VxY"; */
 > /* Class = "NSTableColumn"; headerCell.title = "왼쪽"; ObjectID = "3Ju-iW-s4U"; */
 > /* Class = "NSTableColumn"; headerCell.title = "오른쪽"; ObjectID = "5NO-fy-Uwk"; */
 > /* Class = "NSTextField"; ibShadowedToolTip = "문자 스타일"; ObjectID = "VvC-fE-EbQ"; */
