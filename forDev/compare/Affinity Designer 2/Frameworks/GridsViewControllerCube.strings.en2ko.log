@@ -1,144 +1,144 @@
-5,6c5,6
-< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "1X5-c9-7dt"; */
-< "1X5-c9-7dt.title" = "Do not add";
 ---
-> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "1X5-c9-7dt"; */
-> "1X5-c9-7dt.title" = "추가하지 않음";
-14,15c14,15
-< /* Class = "NSTextFieldCell"; title = "Horizontal axis:"; ObjectID = "4BZ-sN-9II"; */
-< "4BZ-sN-9II.title" = "Horizontal axis:";
 ---
-> /* Class = "NSTextFieldCell"; title = "가로 축:"; ObjectID = "4BZ-sN-9II"; */
-> "4BZ-sN-9II.title" = "가로 축:";
-23,24c23,24
-< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "A5K-MR-BIo"; */
-< "A5K-MR-BIo.title" = "Add for constraining";
 ---
-> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "A5K-MR-BIo"; */
-> "A5K-MR-BIo.title" = "제약 대상에 추가";
-29,30c29,30
-< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "D9r-pG-EwG"; */
-< "D9r-pG-EwG.title" = "Do not add";
 ---
-> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "D9r-pG-EwG"; */
-> "D9r-pG-EwG.title" = "추가하지 않음";
-32,33c32,33
-< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "Dbm-fN-v7G"; */
-< "Dbm-fN-v7G.title" = "Do not add";
 ---
-> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "Dbm-fN-v7G"; */
-> "Dbm-fN-v7G.title" = "추가하지 않음";
-41,42c41,42
-< /* Class = "NSBox"; title = "First axis"; ObjectID = "LGn-IK-u3Y"; */
-< "LGn-IK-u3Y.title" = "First axis";
 ---
-> /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "LGn-IK-u3Y"; */
-> "LGn-IK-u3Y.title" = "첫 번째 축";
-44,45c44,45
-< /* Class = "NSTextFieldCell"; title = "Intermediate angles:"; ObjectID = "LNk-PO-QJf"; */
-< "LNk-PO-QJf.title" = "Intermediate angles:";
 ---
-> /* Class = "NSTextFieldCell"; title = "사이 각도:"; ObjectID = "LNk-PO-QJf"; */
-> "LNk-PO-QJf.title" = "사이 각도:";
-50,51c50,51
-< /* Class = "NSTextFieldCell"; title = "Plane perpendicular axis:"; ObjectID = "MIc-xS-bBP"; */
-< "MIc-xS-bBP.title" = "Plane perpendicular axis:";
 ---
-> /* Class = "NSTextFieldCell"; title = "평면 직교 축:"; ObjectID = "MIc-xS-bBP"; */
-> "MIc-xS-bBP.title" = "평면 직교 축:";
-59,60c59,60
-< /* Class = "NSBox"; title = "First axis"; ObjectID = "PB5-mM-xKs"; */
-< "PB5-mM-xKs.title" = "First axis";
 ---
-> /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "PB5-mM-xKs"; */
-> "PB5-mM-xKs.title" = "첫 번째 축";
-65,66c65,66
-< /* Class = "NSBox"; title = "Second axis"; ObjectID = "PyM-fk-lNu"; */
-< "PyM-fk-lNu.title" = "Second axis";
 ---
-> /* Class = "NSBox"; title = "두 번째 축"; ObjectID = "PyM-fk-lNu"; */
-> "PyM-fk-lNu.title" = "두 번째 축";
-68,69c68,69
-< /* Class = "NSTextFieldCell"; title = "Vertical axis:"; ObjectID = "QMR-aM-T1o"; */
-< "QMR-aM-T1o.title" = "Vertical axis:";
 ---
-> /* Class = "NSTextFieldCell"; title = "세로 축:"; ObjectID = "QMR-aM-T1o"; */
-> "QMR-aM-T1o.title" = "세로 축:";
-71,72c71,72
-< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "R2W-nq-5F3"; */
-< "R2W-nq-5F3.title" = "Add for snapping";
 ---
-> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "R2W-nq-5F3"; */
-> "R2W-nq-5F3.title" = "스내핑 대상에 추가";
-77,78c77,78
-< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "RWB-Lf-5HG"; */
-< "RWB-Lf-5HG.title" = "Add for constraining";
 ---
-> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "RWB-Lf-5HG"; */
-> "RWB-Lf-5HG.title" = "제약 대상에 추가";
-80,81c80,81
-< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "Rgq-HG-FHS"; */
-< "Rgq-HG-FHS.title" = "Add for constraining";
 ---
-> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "Rgq-HG-FHS"; */
-> "Rgq-HG-FHS.title" = "제약 대상에 추가";
-86,87c86,87
-< /* Class = "NSTextFieldCell"; title = "Divisions:"; ObjectID = "UMi-Bk-3f1"; */
-< "UMi-Bk-3f1.title" = "Divisions:";
 ---
-> /* Class = "NSTextFieldCell"; title = "구획:"; ObjectID = "UMi-Bk-3f1"; */
-> "UMi-Bk-3f1.title" = "구획:";
-95,96c95,96
-< /* Class = "NSBox"; title = "Snapping axis setup"; ObjectID = "Zdo-GS-GOe"; */
-< "Zdo-GS-GOe.title" = "Snapping axis setup";
 ---
-> /* Class = "NSBox"; title = "스내핑 축 설정"; ObjectID = "Zdo-GS-GOe"; */
-> "Zdo-GS-GOe.title" = "스내핑 축 설정";
+---
+---
+---
+---
+---
+---
+---
+---
 101,102c101,102
-< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "cZ8-Fe-DtN"; */
-< "cZ8-Fe-DtN.title" = "Add for snapping";
----
-> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "cZ8-Fe-DtN"; */
-> "cZ8-Fe-DtN.title" = "스내핑 대상에 추가";
 116,117c116,117
-< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "jLz-9a-M89"; */
-< "jLz-9a-M89.title" = "Add for constraining";
----
-> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "jLz-9a-M89"; */
-> "jLz-9a-M89.title" = "제약 대상에 추가";
 119,120c119,120
-< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "jg7-Aa-cEC"; */
-< "jg7-Aa-cEC.title" = "Add for snapping";
----
-> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "jg7-Aa-cEC"; */
-> "jg7-Aa-cEC.title" = "스내핑 대상에 추가";
 122,123c122,123
-< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "jqL-s4-Dp3"; */
-< "jqL-s4-Dp3.title" = "Add for snapping";
----
-> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "jqL-s4-Dp3"; */
-> "jqL-s4-Dp3.title" = "스내핑 대상에 추가";
 131,132c131,132
-< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "mK3-Eh-GVH"; */
-< "mK3-Eh-GVH.title" = "Do not add";
----
-> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "mK3-Eh-GVH"; */
-> "mK3-Eh-GVH.title" = "추가하지 않음";
+14,15c14,15
 149,150c149,150
-< /* Class = "NSTabViewItem"; label = "Camera"; ObjectID = "sJj-UP-gwN"; */
-< "sJj-UP-gwN.label" = "Camera";
----
-> /* Class = "NSTabViewItem"; label = "카메라"; ObjectID = "sJj-UP-gwN"; */
-> "sJj-UP-gwN.label" = "카메라";
 155,156c155,156
-< /* Class = "NSBox"; title = "Grid setup"; ObjectID = "sxJ-S1-i56"; */
-< "sxJ-S1-i56.title" = "Grid setup";
----
-> /* Class = "NSBox"; title = "격자 설정"; ObjectID = "sxJ-S1-i56"; */
-> "sxJ-S1-i56.title" = "격자 설정";
 161,162c161,162
-< /* Class = "NSBox"; title = "First axis"; ObjectID = "tba-wT-oOz"; */
+23,24c23,24
+29,30c29,30
+32,33c32,33
+41,42c41,42
+44,45c44,45
+5,6c5,6
+50,51c50,51
+59,60c59,60
+65,66c65,66
+68,69c68,69
+71,72c71,72
+77,78c77,78
+80,81c80,81
+86,87c86,87
+95,96c95,96
+< "1X5-c9-7dt.title" = "Do not add";
+< "4BZ-sN-9II.title" = "Horizontal axis:";
+< "A5K-MR-BIo.title" = "Add for constraining";
+< "D9r-pG-EwG.title" = "Do not add";
+< "Dbm-fN-v7G.title" = "Do not add";
+< "LGn-IK-u3Y.title" = "First axis";
+< "LNk-PO-QJf.title" = "Intermediate angles:";
+< "MIc-xS-bBP.title" = "Plane perpendicular axis:";
+< "PB5-mM-xKs.title" = "First axis";
+< "PyM-fk-lNu.title" = "Second axis";
+< "QMR-aM-T1o.title" = "Vertical axis:";
+< "R2W-nq-5F3.title" = "Add for snapping";
+< "RWB-Lf-5HG.title" = "Add for constraining";
+< "Rgq-HG-FHS.title" = "Add for constraining";
+< "UMi-Bk-3f1.title" = "Divisions:";
+< "Zdo-GS-GOe.title" = "Snapping axis setup";
+< "cZ8-Fe-DtN.title" = "Add for snapping";
+< "jLz-9a-M89.title" = "Add for constraining";
+< "jg7-Aa-cEC.title" = "Add for snapping";
+< "jqL-s4-Dp3.title" = "Add for snapping";
+< "mK3-Eh-GVH.title" = "Do not add";
+< "sJj-UP-gwN.label" = "Camera";
+< "sxJ-S1-i56.title" = "Grid setup";
 < "tba-wT-oOz.title" = "First axis";
----
-> /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "tba-wT-oOz"; */
+< /* Class = "NSBox"; title = "First axis"; ObjectID = "LGn-IK-u3Y"; */
+< /* Class = "NSBox"; title = "First axis"; ObjectID = "PB5-mM-xKs"; */
+< /* Class = "NSBox"; title = "First axis"; ObjectID = "tba-wT-oOz"; */
+< /* Class = "NSBox"; title = "Grid setup"; ObjectID = "sxJ-S1-i56"; */
+< /* Class = "NSBox"; title = "Second axis"; ObjectID = "PyM-fk-lNu"; */
+< /* Class = "NSBox"; title = "Snapping axis setup"; ObjectID = "Zdo-GS-GOe"; */
+< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "A5K-MR-BIo"; */
+< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "RWB-Lf-5HG"; */
+< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "Rgq-HG-FHS"; */
+< /* Class = "NSMenuItem"; title = "Add for constraining"; ObjectID = "jLz-9a-M89"; */
+< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "R2W-nq-5F3"; */
+< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "cZ8-Fe-DtN"; */
+< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "jg7-Aa-cEC"; */
+< /* Class = "NSMenuItem"; title = "Add for snapping"; ObjectID = "jqL-s4-Dp3"; */
+< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "1X5-c9-7dt"; */
+< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "D9r-pG-EwG"; */
+< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "Dbm-fN-v7G"; */
+< /* Class = "NSMenuItem"; title = "Do not add"; ObjectID = "mK3-Eh-GVH"; */
+< /* Class = "NSTabViewItem"; label = "Camera"; ObjectID = "sJj-UP-gwN"; */
+< /* Class = "NSTextFieldCell"; title = "Divisions:"; ObjectID = "UMi-Bk-3f1"; */
+< /* Class = "NSTextFieldCell"; title = "Horizontal axis:"; ObjectID = "4BZ-sN-9II"; */
+< /* Class = "NSTextFieldCell"; title = "Intermediate angles:"; ObjectID = "LNk-PO-QJf"; */
+< /* Class = "NSTextFieldCell"; title = "Plane perpendicular axis:"; ObjectID = "MIc-xS-bBP"; */
+< /* Class = "NSTextFieldCell"; title = "Vertical axis:"; ObjectID = "QMR-aM-T1o"; */
+> "1X5-c9-7dt.title" = "추가하지 않음";
+> "4BZ-sN-9II.title" = "가로 축:";
+> "A5K-MR-BIo.title" = "제약 대상에 추가";
+> "D9r-pG-EwG.title" = "추가하지 않음";
+> "Dbm-fN-v7G.title" = "추가하지 않음";
+> "LGn-IK-u3Y.title" = "첫 번째 축";
+> "LNk-PO-QJf.title" = "사이 각도:";
+> "MIc-xS-bBP.title" = "평면 직교 축:";
+> "PB5-mM-xKs.title" = "첫 번째 축";
+> "PyM-fk-lNu.title" = "두 번째 축";
+> "QMR-aM-T1o.title" = "세로 축:";
+> "R2W-nq-5F3.title" = "스내핑 대상에 추가";
+> "RWB-Lf-5HG.title" = "제약 대상에 추가";
+> "Rgq-HG-FHS.title" = "제약 대상에 추가";
+> "UMi-Bk-3f1.title" = "구획:";
+> "Zdo-GS-GOe.title" = "스내핑 축 설정";
+> "cZ8-Fe-DtN.title" = "스내핑 대상에 추가";
+> "jLz-9a-M89.title" = "제약 대상에 추가";
+> "jg7-Aa-cEC.title" = "스내핑 대상에 추가";
+> "jqL-s4-Dp3.title" = "스내핑 대상에 추가";
+> "mK3-Eh-GVH.title" = "추가하지 않음";
+> "sJj-UP-gwN.label" = "카메라";
+> "sxJ-S1-i56.title" = "격자 설정";
 > "tba-wT-oOz.title" = "첫 번째 축";
+> /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "LGn-IK-u3Y"; */
+> /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "PB5-mM-xKs"; */
+> /* Class = "NSBox"; title = "두 번째 축"; ObjectID = "PyM-fk-lNu"; */
+> /* Class = "NSBox"; title = "첫 번째 축"; ObjectID = "tba-wT-oOz"; */
+> /* Class = "NSBox"; title = "격자 설정"; ObjectID = "sxJ-S1-i56"; */
+> /* Class = "NSBox"; title = "스내핑 축 설정"; ObjectID = "Zdo-GS-GOe"; */
+> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "A5K-MR-BIo"; */
+> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "RWB-Lf-5HG"; */
+> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "Rgq-HG-FHS"; */
+> /* Class = "NSMenuItem"; title = "제약 대상에 추가"; ObjectID = "jLz-9a-M89"; */
+> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "R2W-nq-5F3"; */
+> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "cZ8-Fe-DtN"; */
+> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "jg7-Aa-cEC"; */
+> /* Class = "NSMenuItem"; title = "스내핑 대상에 추가"; ObjectID = "jqL-s4-Dp3"; */
+> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "1X5-c9-7dt"; */
+> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "D9r-pG-EwG"; */
+> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "Dbm-fN-v7G"; */
+> /* Class = "NSMenuItem"; title = "추가하지 않음"; ObjectID = "mK3-Eh-GVH"; */
+> /* Class = "NSTabViewItem"; label = "카메라"; ObjectID = "sJj-UP-gwN"; */
+> /* Class = "NSTextFieldCell"; title = "가로 축:"; ObjectID = "4BZ-sN-9II"; */
+> /* Class = "NSTextFieldCell"; title = "세로 축:"; ObjectID = "QMR-aM-T1o"; */
+> /* Class = "NSTextFieldCell"; title = "평면 직교 축:"; ObjectID = "MIc-xS-bBP"; */
+> /* Class = "NSTextFieldCell"; title = "사이 각도:"; ObjectID = "LNk-PO-QJf"; */
+> /* Class = "NSTextFieldCell"; title = "구획:"; ObjectID = "UMi-Bk-3f1"; */
