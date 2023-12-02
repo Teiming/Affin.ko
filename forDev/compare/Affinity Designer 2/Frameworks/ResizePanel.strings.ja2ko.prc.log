@@ -50,18 +50,8 @@
 < > "603.title" = "バイキュービック";
 < > "eGq-1O-StD.title" = "プレースホルダー";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1004"; */
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "235"; */
-> < /* Class = "NSTextFieldCell"; title = "Units:"; ObjectID = "1024"; */
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1011"; */
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "1010"; */
 > > "1004.title" = "취소";
 > > "1010.ibShadowedToolTip" = "너비";
 > > "1011.ibShadowedToolTip" = "높이";
 > > "1024.title" = "단위:";
 > > "235.title" = "크기:";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "1004"; */
-> > /* Class = "NSTextFieldCell"; title = "단위:"; ObjectID = "1024"; */
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "235"; */
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "1010"; */
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1011"; */
