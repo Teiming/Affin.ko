@@ -88,15 +88,6 @@
 < > "w2B-Md-0BA.title" = "ユーザースケール:";
 < > "xIn-39-M8k.title" = "キャンセル";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xIn-39-M8k"; */
-> < /* Class = "NSButtonCell"; title = "Done"; ObjectID = "H7S-Kq-meK"; */
-> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "O0a-0B-DeR"; */
-> < /* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "LuR-GI-Z85"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5ni-m7-3Tf"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9Up-kQ-27c"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Yxw-bx-Cy8"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aED-9K-gWc"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rax-DG-ZCb"; */
 > > "5ni-m7-3Tf.title" = "텍스트 셀";
 > > "9Up-kQ-27c.title" = "텍스트 셀";
 > > "H7S-Kq-meK.title" = "완료";
@@ -106,12 +97,3 @@
 > > "aED-9K-gWc.title" = "텍스트 셀";
 > > "rax-DG-ZCb.title" = "텍스트 셀";
 > > "xIn-39-M8k.title" = "취소";
-> > /* Class = "NSButtonCell"; title = "완료"; ObjectID = "H7S-Kq-meK"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "xIn-39-M8k"; */
-> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "O0a-0B-DeR"; */
-> > /* Class = "NSTextFieldCell"; placeholderString = "이름"; ObjectID = "LuR-GI-Z85"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "5ni-m7-3Tf"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "9Up-kQ-27c"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Yxw-bx-Cy8"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aED-9K-gWc"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "rax-DG-ZCb"; */
