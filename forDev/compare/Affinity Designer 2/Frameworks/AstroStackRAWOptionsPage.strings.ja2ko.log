@@ -1,12 +1,4 @@
-4,25c4,6
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,15c2,4
 < 12c12
 < 15c15
 < 18c18
@@ -25,13 +17,13 @@
 > 11,12c11,12
 > 17,18c17,18
 > 41,42c41,42
-27d7
+17d5
 < < "VA9-2p-Kcr.title" = "FITS Bayer pattern:";
-29,31d8
+19,21d6
 < < "ZQY-V2-gws.title" = "Daylight";
 < < "d8W-VO-zZG.title" = "Demosaic Method:";
 < < "diy-ws-lqd.title" = "Master Flat";
-33,44c10,18
+23,34c8,16
 < < "wXW-ED-eEc.title" = "Bilinear";
 < > "1Bk-c8-6gQ.title" = "ホワイトバランス:";
 < > "BU4-Aw-W9o.title" = "減算ブラックレベル";
