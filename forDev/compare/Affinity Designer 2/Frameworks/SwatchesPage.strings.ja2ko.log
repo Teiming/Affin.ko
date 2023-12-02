@@ -1,4 +1,4 @@
-84,250c84,166
+84,148c84,100
 < ---
 < ---
 < ---
@@ -64,7 +64,25 @@
 < 168c168
 < 171c171
 < 174c174
-< 177c177
+---
+> 101,102c101,102
+> 110,111c110,111
+> 113,114c113,114
+> 116,117c116,117
+> 119,120c119,120
+> 122,123c122,123
+> 125,126c125,126
+> 137,138c137,138
+> 143,144c143,144
+> 146,147c146,147
+> 149,150c149,150
+> 155,156c155,156
+> 161,162c161,162
+> 167,168c167,168
+> 17,18c17,18
+> 170,171c170,171
+> 173,174c173,174
+150,163c102,111
 < 180c180
 < 183c183
 < 186c186
@@ -79,10 +97,22 @@
 < 21c21
 < 228c228
 < 231c231
-< 234c234
+---
+> 179,180c179,180
+> 182,183c182,183
+> 191,192c191,192
+> 197,198c197,198
+> 2,3c2,3
+> 20,21c20,21
+> 203,204c203,204
+> 206,207c206,207
+> 209,210c209,210
+> 215,216c215,216
+165c113
 < 237c237
-< 240c240
-< 243c243
+---
+> 236,237c236,237
+168,215c116,145
 < 246c246
 < 249c249
 < 24c24
@@ -131,74 +161,7 @@
 < 378c378
 < 381c381
 < 384c384
-< 387c387
-< 390c390
-< 396c396
-< 399c399
-< 39c39
-< 3c3
-< 402c402
-< 405c405
-< 411c411
-< 414c414
-< 420c420
-< 426c426
-< 429c429
-< 42c42
-< 432c432
-< 435c435
-< 45c45
-< 48c48
-< 51c51
-< 54c54
-< 57c57
-< 60c60
-< 63c63
-< 66c66
-< 69c69
-< 72c72
-< 75c75
-< 78c78
-< 81c81
-< 84c84
-< 87c87
-< 90c90
-< 93c93
-< 96c96
-< 99c99
 ---
-> 101,102c101,102
-> 110,111c110,111
-> 113,114c113,114
-> 116,117c116,117
-> 119,120c119,120
-> 122,123c122,123
-> 125,126c125,126
-> 137,138c137,138
-> 143,144c143,144
-> 146,147c146,147
-> 149,150c149,150
-> 155,156c155,156
-> 161,162c161,162
-> 167,168c167,168
-> 17,18c17,18
-> 170,171c170,171
-> 173,174c173,174
-> 176c176
-> 179,180c179,180
-> 182,183c182,183
-> 191,192c191,192
-> 197,198c197,198
-> 2,3c2,3
-> 20,21c20,21
-> 203,204c203,204
-> 206,207c206,207
-> 209,210c209,210
-> 215,216c215,216
-> 233c233
-> 236,237c236,237
-> 239c239
-> 242c242
 > 248,249c248,249
 > 26,27c26,27
 > 260,261c260,261
@@ -218,30 +181,65 @@
 > 32,33c32,33
 > 326,327c326,327
 > 332,333c332,333
-> 335c335
+> 336c336
 > 338,339c338,339
 > 341,342c341,342
-> 347c347
+> 348c348
 > 35,36c35,36
 > 356,357c356,357
 > 362,363c362,363
 > 365,366c365,366
-> 371c371
+> 372c372
 > 38,39c38,39
 > 383,384c383,384
-> 386c386
+217,223c147,150
+< 390c390
+< 396c396
+< 399c399
+< 39c39
+< 3c3
+< 402c402
+< 405c405
+---
 > 395,396c395,396
 > 398,399c398,399
 > 401,402c401,402
 > 404,405c404,405
-> 410c410
-> 41c41
+225,228c152
+< 414c414
+< 420c420
+< 426c426
+< 429c429
+---
 > 428,429c428,429
+230,235c154,157
+< 432c432
+< 435c435
+< 45c45
+< 48c48
+< 51c51
+< 54c54
+---
 > 434,435c434,435
 > 44,45c44,45
 > 50,51c50,51
 > 53,54c53,54
-> 56c56
+237,250c159,166
+< 60c60
+< 63c63
+< 66c66
+< 69c69
+< 72c72
+< 75c75
+< 78c78
+< 81c81
+< 84c84
+< 87c87
+< 90c90
+< 93c93
+< 96c96
+< 99c99
+---
 > 59,60c59,60
 > 68,69c68,69
 > 71,72c71,72
@@ -252,91 +250,77 @@
 > 98,99c98,99
 252d167
 < < "0XQ-Dp-i9p.title" = "Delete Palette…";
-260d174
-< < "4fX-75-WPj.title" = "Create Color Chord";
-262d175
+262d176
 < < "57i-1K-Kew.title" = "Gray/8";
-265d177
-< < "6y5-C0-TmG.title" = "Create Color Chord";
-267,268d178
+267,268d180
 < < "8o6-B1-OFg.title" = "Gray/16";
 < < "90B-4q-FDG.title" = "Accented Analogic";
-271d180
+271d182
 < < "ABL-iB-lXt.title" = "Uninstall Pack…";
-273d181
+273d183
 < < "AvM-iu-PI5.title" = "Accented Analogic";
-277,278d184
+277,278d186
 < < "DKN-2I-wQS.title" = "Linked on This Device";
 < < "DU5-ep-6C2.title" = "Gray/8";
-281d186
+281d188
 < < "Ebi-Ti-lcE.title" = "Shared with a Team";
-288,289d192
+288,289d194
 < < "Gp9-sN-I78.title" = "Gray/8";
 < < "HFx-hi-kfL.title" = "Rename Palette…";
-291d193
+291d195
 < < "HYw-IY-jyY.title" = "Tetradic";
-295d196
+295d198
 < < "ID1-UI-EuY.title" = "Link Palette";
-297d197
+297d199
 < < "IhS-jO-2Z2.title" = "Spot";
-299d198
+299d200
 < < "JQh-fB-Ibz.title" = "Overprint";
-303d201
-< < "KdP-pp-jb0.title" = "Delete Color";
-306d203
+306d206
 < < "MZi-Fh-Y6i.title" = "Synced to My Devices";
-312d208
+312d211
 < < "QWj-b5-7DW.title" = "Show Sync Status…";
-314,316d209
+314,315d212
 < < "UdG-ak-nUF.title" = "Tetradic";
 < < "V1H-S2-b5e.title" = "Uninstall Pack…";
-< < "VTD-CS-DWs.title" = "Create Color Chord";
-318,320d210
-< < "Xur-q2-nZs.title" = "Create Color Chord";
-< < "Xwd-QQ-yzz.title" = "Add Global Color…";
+320d216
 < < "YfU-LA-zcW.title" = "Sync Palette";
-322d211
+322d217
 < < "Z6t-pG-W7u.title" = "Duplicate Palette";
-326,328d214
+326,328d220
 < < "aGu-j9-PHV.title" = "Add Document Palette…";
 < < "ao2-6k-vMe.title" = "Just This App";
 < < "bWt-dV-n4z.title" = "Gray/16";
-330d215
+330d221
 < < "dWJ-U2-sg7.title" = "Triadic";
-333d217
+333d223
 < < "dux-4X-fFF.title" = "Add Application Palette…";
-337,338d220
+337,338d226
 < < "fce-Od-utk.title" = "Delete Palette…";
 < < "fho-5H-kLP.title" = "Sync Palette";
-343,344d224
+343,344d230
 < < "grV-iS-ie9.title" = "Add System Palette…";
 < < "gwh-jU-MUm.title" = "Duplicate Palette";
-346d225
+346d231
 < < "hww-Pz-dO4.title" = "Gray/16";
-348d226
-< < "iEs-Vi-9xL.title" = "Color";
-351,354d228
+351d235
 < < "jBU-5w-P9P.title" = "Shared with a Team";
-< < "kv0-wp-vcR.title" = "Add Registration Color";
+353,354d236
 < < "m1k-Ok-hHi.title" = "Rename Global Color…";
 < < "myK-2X-pCg.title" = "Gray/16";
-356d229
+356d237
 < < "opK-hS-ii0.title" = "Add Application Palette…";
-359,361d231
-< < "sKG-cB-TFY.title" = "Add Global Color…";
+360,361d240
 < < "scn-NV-XDi.title" = "Rename Spot…";
 < < "tIl-VM-c2B.title" = "Rename Palette…";
-363,364d232
-< < "u4k-yG-i9v.title" = "Color";
+364d242
 < < "uvZ-5z-z3z.title" = "Add System Palette…";
-369,372d236
-< < "wun-qU-pjK.title" = "Add Registration Color";
+370,372d247
 < < "x1p-gJ-zni.title" = "Add Document Palette…";
 < < "x3w-7z-z1B.title" = "Triadic";
 < < "xhp-L0-xgZ.title" = "Gray/8";
-374d237
+374d248
 < < "z8O-nQ-v5e.title" = "Rename Fill…";
-376,500c239,476
+376,500c250,476
 < > "0N8-TS-1oH.title" = "中";
 < > "0XQ-Dp-i9p.title" = "パレットを削除…";
 < > "21.title" = "不透明度:";
@@ -465,8 +449,6 @@
 ---
 > < /* Class = "NSMenu"; title = "Appearance"; ObjectID = "2Jc-dm-TB8"; */
 > < /* Class = "NSMenu"; title = "Appearance"; ObjectID = "aGG-Cg-LNV"; */
-> < /* Class = "NSMenu"; title = "Create Colour Chord"; ObjectID = "4fX-75-WPj"; */
-> < /* Class = "NSMenu"; title = "Create Colour Chord"; ObjectID = "VTD-CS-DWs"; */
 > < /* Class = "NSMenu"; title = "Create Palette From Document"; ObjectID = "g7B-r3-Cg9"; */
 > < /* Class = "NSMenu"; title = "Create Palette From Document"; ObjectID = "wHc-ZK-bFu"; */
 > < /* Class = "NSMenu"; title = "Import Palette…"; ObjectID = "HqM-yS-mXn"; */
@@ -477,10 +459,6 @@
 > < /* Class = "NSMenu"; title = "Set as Default for"; ObjectID = "zBa-kZ-oWO"; */
 > < /* Class = "NSMenu"; title = "Sort"; ObjectID = "G7c-Su-VAk"; */
 > < /* Class = "NSMenu"; title = "Sort"; ObjectID = "qB1-h4-Gbp"; */
-> < /* Class = "NSMenuItem"; title = "Add Global Colour…"; ObjectID = "Xwd-QQ-yzz"; */
-> < /* Class = "NSMenuItem"; title = "Add Global Colour…"; ObjectID = "sKG-cB-TFY"; */
-> < /* Class = "NSMenuItem"; title = "Add Registration Colour"; ObjectID = "kv0-wp-vcR"; */
-> < /* Class = "NSMenuItem"; title = "Add Registration Colour"; ObjectID = "wun-qU-pjK"; */
 > < /* Class = "NSMenuItem"; title = "Alphabetical"; ObjectID = "EqU-Y7-uib"; */
 > < /* Class = "NSMenuItem"; title = "Alphabetical"; ObjectID = "WXs-sS-Iwu"; */
 > < /* Class = "NSMenuItem"; title = "Analogous"; ObjectID = "Gad-hH-GjM"; */
@@ -499,17 +477,12 @@
 > < /* Class = "NSMenuItem"; title = "As System Palette"; ObjectID = "Pns-NM-7z8"; */
 > < /* Class = "NSMenuItem"; title = "As System Palette"; ObjectID = "a3f-B0-2oj"; */
 > < /* Class = "NSMenuItem"; title = "As System Palette"; ObjectID = "fce-6n-TGk"; */
-> < /* Class = "NSMenuItem"; title = "Colour"; ObjectID = "iEs-Vi-9xL"; */
-> < /* Class = "NSMenuItem"; title = "Colour"; ObjectID = "u4k-yG-i9v"; */
 > < /* Class = "NSMenuItem"; title = "Complementary"; ObjectID = "CX9-2x-YHJ"; */
 > < /* Class = "NSMenuItem"; title = "Complementary"; ObjectID = "K4N-2d-5Wg"; */
-> < /* Class = "NSMenuItem"; title = "Create Colour Chord"; ObjectID = "6y5-C0-TmG"; */
-> < /* Class = "NSMenuItem"; title = "Create Colour Chord"; ObjectID = "Xur-q2-nZs"; */
 > < /* Class = "NSMenuItem"; title = "Create Palette From Document"; ObjectID = "4jC-c4-oW2"; */
 > < /* Class = "NSMenuItem"; title = "Create Palette From Document"; ObjectID = "EIW-6h-C59"; */
 > < /* Class = "NSMenuItem"; title = "Create Palette From Image…"; ObjectID = "GTV-TK-xt0"; */
 > < /* Class = "NSMenuItem"; title = "Create Palette From Image…"; ObjectID = "gM0-jT-4bl"; */
-> < /* Class = "NSMenuItem"; title = "Delete Colour"; ObjectID = "KdP-pp-jb0"; */
 > < /* Class = "NSMenuItem"; title = "Delete Fill"; ObjectID = "702-F3-BkM"; */
 > < /* Class = "NSMenuItem"; title = "Edit Fill…"; ObjectID = "CMJ-rh-fXD"; */
 > < /* Class = "NSMenuItem"; title = "Edit Fill…"; ObjectID = "epK-Z2-CCi"; */
@@ -554,9 +527,11 @@
 > > "48.title" = "최근 사용 항목:";
 > > "4Sv-Gb-VDR.title" = "시스템 팔레트로";
 > > "4VJ-6L-UfV.title" = "사각형";
+> > "4fX-75-WPj.title" = "색상 코드 생성";
 > > "4jC-c4-oW2.title" = "문서로부터 팔레트 생성";
 > > "5Zj-aB-NkD.title" = "기본값으로 설정하기";
 > > "6xI-Di-Hf3.title" = "문서 팔레트로";
+> > "6y5-C0-TmG.title" = "색상 코드 생성";
 > > "702-F3-BkM.title" = "칠 지우기";
 > > "939-qT-dCy.title" = "정렬";
 > > "A9w-Bc-myK.title" = "기본값으로 설정하기";
@@ -581,6 +556,7 @@
 > > "JfY-3x-waS.title" = "셰이드";
 > > "Jxa-b6-x9h.title" = "응용프로그램 팔레트로";
 > > "K4N-2d-5Wg.title" = "보색";
+> > "KdP-pp-jb0.title" = "색상 지우기";
 > > "Knk-tr-AH2.title" = "외관";
 > > "MQJ-dV-vvh.title" = "문서 팔레트로";
 > > "NUe-XC-0vt.title" = "팔레트 내보내기…";
@@ -589,7 +565,10 @@
 > > "Ptr-ML-QHs.title" = "팔레트 들여오기…";
 > > "QBi-QN-Dqc.title" = "문서 팔레트로";
 > > "QbD-w5-wlR.title" = "톤";
+> > "VTD-CS-DWs.title" = "색상 코드 생성";
 > > "WXs-sS-Iwu.title" = "알파벳순";
+> > "Xur-q2-nZs.title" = "색상 코드 생성";
+> > "Xwd-QQ-yzz.title" = "전역 색상 추가…";
 > > "YwF-wG-KCG.title" = "중간";
 > > "ZlQ-xm-HbQ.title" = "응용프로그램 팔레트로";
 > > "a3f-B0-2oj.title" = "시스템 팔레트로";
@@ -606,20 +585,23 @@
 > > "gqB-ZJ-32I.title" = "크게";
 > > "hHD-rJ-o1m.title" = "복사";
 > > "iCK-Uq-5L0.title" = "팔레트 내보내기…";
+> > "iEs-Vi-9xL.title" = "색상";
 > > "iPH-Af-1hV.title" = "틴트";
 > > "inX-wr-RKe.title" = "작게";
+> > "kv0-wp-vcR.title" = "등록 색상을 추가";
 > > "nxC-Kq-Onv.title" = "응용프로그램 팔레트로";
 > > "pDz-xh-gwR.title" = "문서 팔레트로";
 > > "qB1-h4-Gbp.title" = "정렬";
+> > "sKG-cB-TFY.title" = "전역 색상 추가…";
 > > "txL-Ca-Sml.title" = "유사색";
+> > "u4k-yG-i9v.title" = "색상";
 > > "vk6-Qx-5wZ.title" = "팔레트 들여오기…";
 > > "vuM-wB-qTj.title" = "팔레트 들여오기…";
 > > "wE5-DI-w9d.title" = "톤";
 > > "wHc-ZK-bFu.title" = "문서로부터 팔레트 생성";
+> > "wun-qU-pjK.title" = "등록 색상을 추가";
 > > "yM2-Cv-TP5.title" = "기본값 지우기";
 > > "zBa-kZ-oWO.title" = "기본값으로 설정하기";
-> > /* Class = "NSMenu"; title = "색상 코드 생성"; ObjectID = "4fX-75-WPj"; */
-> > /* Class = "NSMenu"; title = "색상 코드 생성"; ObjectID = "VTD-CS-DWs"; */
 > > /* Class = "NSMenu"; title = "외관"; ObjectID = "2Jc-dm-TB8"; */
 > > /* Class = "NSMenu"; title = "정렬"; ObjectID = "G7c-Su-VAk"; */
 > > /* Class = "NSMenu"; title = "외관"; ObjectID = "aGG-Cg-LNV"; */
@@ -637,16 +619,9 @@
 > > /* Class = "NSMenuItem"; title = "칠 편집…"; ObjectID = "epK-Z2-CCi"; */
 > > /* Class = "NSMenuItem"; title = "톤"; ObjectID = "QbD-w5-wlR"; */
 > > /* Class = "NSMenuItem"; title = "톤"; ObjectID = "wE5-DI-w9d"; */
-> > /* Class = "NSMenuItem"; title = "색상 코드 생성"; ObjectID = "6y5-C0-TmG"; */
-> > /* Class = "NSMenuItem"; title = "색상 코드 생성"; ObjectID = "Xur-q2-nZs"; */
-> > /* Class = "NSMenuItem"; title = "전역 색상 추가…"; ObjectID = "Xwd-QQ-yzz"; */
-> > /* Class = "NSMenuItem"; title = "전역 색상 추가…"; ObjectID = "sKG-cB-TFY"; */
 > > /* Class = "NSMenuItem"; title = "분할 보색"; ObjectID = "dYw-Xq-gLf"; */
 > > /* Class = "NSMenuItem"; title = "분할 보색"; ObjectID = "fvX-tM-iab"; */
-> > /* Class = "NSMenuItem"; title = "등록 색상을 추가"; ObjectID = "kv0-wp-vcR"; */
-> > /* Class = "NSMenuItem"; title = "등록 색상을 추가"; ObjectID = "wun-qU-pjK"; */
 > > /* Class = "NSMenuItem"; title = "전역 만들기"; ObjectID = "IDB-lr-5hd"; */
-> > /* Class = "NSMenuItem"; title = "색상 지우기"; ObjectID = "KdP-pp-jb0"; */
 > > /* Class = "NSMenuItem"; title = "문서 팔레트로"; ObjectID = "6xI-Di-Hf3"; */
 > > /* Class = "NSMenuItem"; title = "문서 팔레트로"; ObjectID = "MQJ-dV-vvh"; */
 > > /* Class = "NSMenuItem"; title = "문서 팔레트로"; ObjectID = "QBi-QN-Dqc"; */
@@ -665,10 +640,8 @@
 > > /* Class = "NSMenuItem"; title = "외관"; ObjectID = "dg4-EJ-yMJ"; */
 > > /* Class = "NSMenuItem"; title = "크게"; ObjectID = "gqB-ZJ-32I"; */
 > > /* Class = "NSMenuItem"; title = "복사"; ObjectID = "hHD-rJ-o1m"; */
-> > /* Class = "NSMenuItem"; title = "색상"; ObjectID = "iEs-Vi-9xL"; */
 > > /* Class = "NSMenuItem"; title = "틴트"; ObjectID = "iPH-Af-1hV"; */
 > > /* Class = "NSMenuItem"; title = "작게"; ObjectID = "inX-wr-RKe"; */
-> > /* Class = "NSMenuItem"; title = "색상"; ObjectID = "u4k-yG-i9v"; */
 > > /* Class = "NSMenuItem"; title = "기본값 지우기"; ObjectID = "AoK-tK-t3z"; */
 > > /* Class = "NSMenuItem"; title = "기본값 지우기"; ObjectID = "Iqb-gq-vyA"; */
 > > /* Class = "NSMenuItem"; title = "시스템 팔레트로"; ObjectID = "4Sv-Gb-VDR"; */
