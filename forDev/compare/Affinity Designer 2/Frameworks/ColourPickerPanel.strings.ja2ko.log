@@ -1,0 +1,49 @@
+2,14c2,8
+< 102c102
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 27c27
+< 3c3
+< 60c60
+< 75c75
+< 99c99
+< 9c9
+< < "1.title" = "Color Chooser";
+---
+> 11,12c11,12
+> 17,18c17,18
+> 20,21c20,21
+> 23,24c23,24
+> 26,27c26,27
+> 59,60c59,60
+> 74,75c74,75
+16d9
+< < "41.title" = "CMYK Sliders";
+18d10
+< < "43.title" = "HSL Color Wheel";
+24,37c16,36
+< < "rwX-e2-yFU.title" = "32-bit:";
+< < "uA3-ry-hvL.title" = "Relative to View";
+< > "1.title" = "色の選択";
+< > "351.title" = "閉じる";
+< > "41.title" = "CMYKスライダー";
+< > "42.title" = "RGBスライダー";
+< > "43.title" = "HSLカラーホイール";
+< > "44.title" = "HSLスライダー";
+< > "45.title" = "色相";
+< > "46.title" = "明るさ";
+< > "47.title" = "彩度";
+< > "6IY-3g-LNZ.title" = "強度:";
+< > "rwX-e2-yFU.title" = "32ビット:";
+< > "uA3-ry-hvL.title" = "ビューへの相対";
+---
+> > "351.title" = "닫기";
+> > "42.title" = "RGB 슬라이더";
+> > "44.title" = "HSL 슬라이더";
+> > "45.title" = "색채";
+> > "46.title" = "밝기";
+> > "47.title" = "채도";
+> > "6IY-3g-LNZ.title" = "세기:";
