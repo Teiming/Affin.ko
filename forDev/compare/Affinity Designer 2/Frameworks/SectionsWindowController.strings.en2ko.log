@@ -1,12 +1,12 @@
+---
+---
 14,15c14,15
-< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "LoM-m0-t8w"; */
-< "LoM-m0-t8w.title" = "Close";
----
-> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "LoM-m0-t8w"; */
-> "LoM-m0-t8w.title" = "닫기";
 62,63c62,63
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yPy-6q-Z1N"; */
+< "LoM-m0-t8w.title" = "Close";
 < "yPy-6q-Z1N.title" = "Text Cell";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "yPy-6q-Z1N"; */
+< /* Class = "NSButtonCell"; title = "Close"; ObjectID = "LoM-m0-t8w"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yPy-6q-Z1N"; */
+> "LoM-m0-t8w.title" = "닫기";
 > "yPy-6q-Z1N.title" = "텍스트 셀";
+> /* Class = "NSButtonCell"; title = "닫기"; ObjectID = "LoM-m0-t8w"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "yPy-6q-Z1N"; */
