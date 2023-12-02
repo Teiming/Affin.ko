@@ -1,18 +1,18 @@
-8,9c8,9
-< /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "GAx-pU-l13"; */
-< "GAx-pU-l13.title" = "Position:";
 ---
-> /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "GAx-pU-l13"; */
-> "GAx-pU-l13.title" = "위치:";
+---
+---
 11,12c11,12
-< /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Gi2-ff-WrC"; */
-< "Gi2-ff-WrC.title" = "Delete";
----
-> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Gi2-ff-WrC"; */
-> "Gi2-ff-WrC.title" = "지우기";
 17,18c17,18
-< /* Class = "NSTextFieldCell"; title = "Align:"; ObjectID = "bZd-aw-6vA"; */
+8,9c8,9
+< "GAx-pU-l13.title" = "Position:";
+< "Gi2-ff-WrC.title" = "Delete";
 < "bZd-aw-6vA.title" = "Align:";
----
-> /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "bZd-aw-6vA"; */
+< /* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Gi2-ff-WrC"; */
+< /* Class = "NSTextFieldCell"; title = "Align:"; ObjectID = "bZd-aw-6vA"; */
+< /* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "GAx-pU-l13"; */
+> "GAx-pU-l13.title" = "위치:";
+> "Gi2-ff-WrC.title" = "지우기";
 > "bZd-aw-6vA.title" = "정렬:";
+> /* Class = "NSButtonCell"; title = "지우기"; ObjectID = "Gi2-ff-WrC"; */
+> /* Class = "NSTextFieldCell"; title = "위치:"; ObjectID = "GAx-pU-l13"; */
+> /* Class = "NSTextFieldCell"; title = "정렬:"; ObjectID = "bZd-aw-6vA"; */
