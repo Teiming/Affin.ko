@@ -141,19 +141,6 @@
 < > "vvd-Mc-aDm.title" = "セクション";
 < > "yw4-4s-bDS.title" = "アイテム";
 ---
-> < /* Class = "NSMenu"; title = "Character Style"; ObjectID = "1MW-WI-78P"; */
-> < /* Class = "NSMenu"; title = "Character Style"; ObjectID = "ilz-Jj-15N"; */
-> < /* Class = "NSMenuItem"; title = "Character Style"; ObjectID = "UEL-ci-yh5"; */
-> < /* Class = "NSMenuItem"; title = "Character Style"; ObjectID = "aGJ-PI-49W"; */
-> < /* Class = "NSMenuItem"; title = "Document"; ObjectID = "lPU-vR-qQQ"; */
-> < /* Class = "NSMenuItem"; title = "Item"; ObjectID = "6vd-WJ-Xg0"; */
-> < /* Class = "NSMenuItem"; title = "Item"; ObjectID = "LJs-YQ-WL2"; */
-> < /* Class = "NSMenuItem"; title = "Item"; ObjectID = "s8V-EU-umx"; */
-> < /* Class = "NSMenuItem"; title = "Item"; ObjectID = "yw4-4s-bDS"; */
-> < /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "NKF-E3-HvB"; */
-> < /* Class = "NSMenuItem"; title = "Page"; ObjectID = "CfL-8d-gZp"; */
-> < /* Class = "NSMenuItem"; title = "Selection"; ObjectID = "BZZ-pL-zdI"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6Ei-t2-QjV"; */
 > > "1MW-WI-78P.title" = "문자 스타일";
 > > "6Ei-t2-QjV.title" = "텍스트 셀";
 > > "6vd-WJ-Xg0.title" = "항목";
@@ -167,16 +154,3 @@
 > > "lPU-vR-qQQ.title" = "문서";
 > > "s8V-EU-umx.title" = "항목";
 > > "yw4-4s-bDS.title" = "항목";
-> > /* Class = "NSMenu"; title = "문자 스타일"; ObjectID = "1MW-WI-78P"; */
-> > /* Class = "NSMenu"; title = "문자 스타일"; ObjectID = "ilz-Jj-15N"; */
-> > /* Class = "NSMenuItem"; title = "선택 항목"; ObjectID = "BZZ-pL-zdI"; */
-> > /* Class = "NSMenuItem"; title = "문자 스타일"; ObjectID = "UEL-ci-yh5"; */
-> > /* Class = "NSMenuItem"; title = "문자 스타일"; ObjectID = "aGJ-PI-49W"; */
-> > /* Class = "NSMenuItem"; title = "항목"; ObjectID = "6vd-WJ-Xg0"; */
-> > /* Class = "NSMenuItem"; title = "항목"; ObjectID = "LJs-YQ-WL2"; */
-> > /* Class = "NSMenuItem"; title = "정규"; ObjectID = "NKF-E3-HvB"; */
-> > /* Class = "NSMenuItem"; title = "문서"; ObjectID = "lPU-vR-qQQ"; */
-> > /* Class = "NSMenuItem"; title = "항목"; ObjectID = "s8V-EU-umx"; */
-> > /* Class = "NSMenuItem"; title = "항목"; ObjectID = "yw4-4s-bDS"; */
-> > /* Class = "NSMenuItem"; title = "페이지"; ObjectID = "CfL-8d-gZp"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "6Ei-t2-QjV"; */
