@@ -1,0 +1,16 @@
+---
+11,12c11,12
+17,18c17,18
+41,42c41,42
+< "UQ4-jh-JCY.title" = "Camera";
+< "YlV-6h-Hyf.title" = "Default";
+< "nhq-0u-ePo.title" = "Monochrome";
+< /* Class = "NSMenuItem"; title = "Camera"; ObjectID = "UQ4-jh-JCY"; */
+< /* Class = "NSMenuItem"; title = "Default"; ObjectID = "YlV-6h-Hyf"; */
+< /* Class = "NSMenuItem"; title = "Monochrome"; ObjectID = "nhq-0u-ePo"; */
+> "UQ4-jh-JCY.title" = "카메라";
+> "YlV-6h-Hyf.title" = "기본값";
+> "nhq-0u-ePo.title" = "단색";
+> /* Class = "NSMenuItem"; title = "단색"; ObjectID = "nhq-0u-ePo"; */
+> /* Class = "NSMenuItem"; title = "카메라"; ObjectID = "UQ4-jh-JCY"; */
+> /* Class = "NSMenuItem"; title = "기본값"; ObjectID = "YlV-6h-Hyf"; */
