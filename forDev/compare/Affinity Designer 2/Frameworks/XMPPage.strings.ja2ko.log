@@ -1,66 +1,4 @@
-15,157c15,28
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,82c2,15
 < 102c102
 < 105c105
 < 108c108
@@ -157,7 +95,7 @@
 > 248,249c248,249
 > 74,75c74,75
 > 95,96c95,96
-160,174d30
+85,99d17
 < < "4mS-29-r0g.title" = "Aperture";
 < < "568-Ze-21J.title" = "Exp. Prog";
 < < "5LK-Ce-q68.title" = "Source";
@@ -173,13 +111,13 @@
 < < "CyE-Vi-WZz.title" = "Exp. Bias";
 < < "En2-h8-dex.title" = "Date Shot";
 < < "FZi-P6-zI0.title" = "Genre";
-176,180d31
+101,105d18
 < < "Jd1-XC-k4f.title" = "ISO Country Code";
 < < "Kk9-vS-AmD.headerCell.title" = "Value";
 < < "KkJ-so-EnC.ibShadowedToolTip" = "Multiple scenes may be separated by semicolons or commas";
 < < "L2J-hq-h0E.title" = "City";
 < < "MbJ-xd-lam.title" = "Author Title";
-182,189d32
+107,114d19
 < < "O6l-50-X6W.ibShadowedToolTip" = "Multiple subject codes may be separated by semicolons or commas";
 < < "OGF-m7-mUv.ibShadowedToolTip" = "The original owner of the copyright; this could be an agency, a member of an agency or an individual";
 < < "RlX-21-5sG.title" = "Region";
@@ -188,10 +126,10 @@
 < < "UDo-Jp-JNe.title" = "Subject Codes";
 < < "VK8-Vd-cGE.title" = "IPTC (Contact)";
 < < "VfJ-Z7-2aJ.title" = "More Perms URL";
-191,192d33
+116,117d20
 < < "Wv7-ya-gSe.title" = "Statement";
 < < "XWy-5g-TYg.title" = "Attribution Name";
-194,211c35,36
+119,136c22,23
 < < "aEa-An-HmT.ibShadowedToolTip" = "Multiple values may be separated by a comma";
 < < "ade-8o-Obn.title" = "Country";
 < < "cZD-P6-HFD.title" = "Detail";
@@ -213,21 +151,21 @@
 ---
 > < "aKN-lm-LmI.title" = "Text Cell";
 > < "k2Y-So-DSV.title" = "Text Cell";
-213,216d37
+138,141d24
 < < "qXi-bZ-siV.title" = "IPTC (Image)";
 < < "rfL-QQ-Wue.title" = "Instructions";
 < < "sJf-rL-110.title" = "Keywords";
 < < "sza-Df-rCA.label" = "Raw";
-218d38
+143d25
 < < "txW-DQ-8tt.title" = "Metering";
-220,221d39
+145,146d26
 < < "uTp-pb-x6c.label" = "IPTC (Contact)";
 < < "us8-Mt-xFf.title" = "Email";
-223d40
+148d27
 < < "wzH-n8-2Le.ibShadowedToolTip" = "The creator's preferred name to use when attributing this work";
-225d41
+150d28
 < < "yoM-w9-cvz.ibShadowedToolTip" = "Multiple authors may be separated by semicolons";
-227,304c43,84
+152,229c30,71
 < < "zL1-dx-245.label" = "IPTC (Image)";
 < < "zYN-F4-rtm.title" = "Scenes";
 < > "0Fn-Al-RRf.ibShadowedToolTip" = "複数のキーワードはセミコロンまたはカンマで区切ることができます";
