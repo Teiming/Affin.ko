@@ -1,0 +1,16 @@
+2,3c2,3
+< 27c27
+< 30c30
+---
+> 26,27c26,27
+> 29,30c29,30
+6,7c6,11
+< > "ApO-yk-Hha.title" = "ベースライングリッドを表示";
+< > "cCb-qc-Tsc.title" = "しきい値の表示:";
+---
+> < /* Class = "NSButtonCell"; title = "Show Baseline Grids"; ObjectID = "ApO-yk-Hha"; */
+> < /* Class = "NSTextFieldCell"; title = "Display Threshold:"; ObjectID = "cCb-qc-Tsc"; */
+> > "ApO-yk-Hha.title" = "기준선 격자 보기";
+> > "cCb-qc-Tsc.title" = "역치 표시:";
+> > /* Class = "NSButtonCell"; title = "기준선 격자 보기"; ObjectID = "ApO-yk-Hha"; */
+> > /* Class = "NSTextFieldCell"; title = "역치 표시:"; ObjectID = "cCb-qc-Tsc"; */
