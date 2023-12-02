@@ -18,12 +18,6 @@
 < > "414.title" = "循環";
 < > "49.title" = "半径";
 ---
-> < /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "26"; */
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "374"; */
-> < /* Class = "NSTextFieldCell"; title = "Radius"; ObjectID = "49"; */
 > > "26.title" = "적용";
 > > "374.title" = "취소";
 > > "49.title" = "반지름";
-> > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "374"; */
-> > /* Class = "NSTextFieldCell"; title = "반지름"; ObjectID = "49"; */
