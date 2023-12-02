@@ -1,40 +1,40 @@
-3c3
-< "1.title" = "Deform";
 ---
-> "1.title" = "変形";
-6c6
-< "12.title" = "Master";
 ---
-> "12.title" = "マスター";
-9c9
-< "26.title" = "Apply";
 ---
-> "26.title" = "適用";
+---
+---
+---
+---
+---
+---
+---
 15c15
-< "413.title" = "Rigid";
----
-> "413.title" = "剛体";
 18c18
-< "414.title" = "Similarity";
----
-> "414.title" = "類似";
 21c21
-< "417.title" = "Linear Constraints";
----
-> "417.title" = "線形制約";
 24c24
-< "421.title" = "Cancel";
----
-> "421.title" = "キャンセル";
 27c27
-< "J5Q-3N-3zE.ibShadowedToolTip" = "Split view";
----
-> "J5Q-3N-3zE.ibShadowedToolTip" = "分割表示";
 30c30
-< "R1r-Vu-qc5.ibShadowedToolTip" = "No split view";
----
-> "R1r-Vu-qc5.ibShadowedToolTip" = "分割表示なし";
 33c33
+3c3
+6c6
+9c9
+< "1.title" = "Deform";
+< "12.title" = "Master";
+< "26.title" = "Apply";
+< "413.title" = "Rigid";
+< "414.title" = "Similarity";
+< "417.title" = "Linear Constraints";
+< "421.title" = "Cancel";
+< "J5Q-3N-3zE.ibShadowedToolTip" = "Split view";
+< "R1r-Vu-qc5.ibShadowedToolTip" = "No split view";
 < "VNT-Qb-zna.ibShadowedToolTip" = "Mirror view";
----
+> "1.title" = "変形";
+> "12.title" = "マスター";
+> "26.title" = "適用";
+> "413.title" = "剛体";
+> "414.title" = "類似";
+> "417.title" = "線形制約";
+> "421.title" = "キャンセル";
+> "J5Q-3N-3zE.ibShadowedToolTip" = "分割表示";
+> "R1r-Vu-qc5.ibShadowedToolTip" = "分割表示なし";
 > "VNT-Qb-zna.ibShadowedToolTip" = "ミラー表示";
