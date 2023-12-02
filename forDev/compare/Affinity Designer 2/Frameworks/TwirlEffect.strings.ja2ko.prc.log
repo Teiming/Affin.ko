@@ -1,0 +1,36 @@
+2,9c2,9
+< 12c12
+< 15c15
+< 18c18
+< 21c21
+< 24c24
+< 3c3
+< 6c6
+< 9c9
+---
+> 11,12c11,12
+> 14,15c14,15
+> 17,18c17,18
+> 2,3c2,3
+> 20,21c20,21
+> 23,24c23,24
+> 5,6c5,6
+> 8,9c8,9
+18,25c18,41
+< > "0kA-UE-M3n.ibShadowedToolTip" = "ミラー表示";
+< > "1.title" = "渦巻き";
+< > "12.title" = "角度";
+< > "26.title" = "適用";
+< > "409.title" = "キャンセル";
+< > "88.title" = "半径";
+< > "ZSb-J6-CFB.ibShadowedToolTip" = "分割表示なし";
+< > "bsA-EH-3aR.ibShadowedToolTip" = "分割表示";
+---
+> > "0kA-UE-M3n.ibShadowedToolTip" = "거울 보기";
+> > "1.title" = "소용돌이";
+> > "12.title" = "각도";
+> > "26.title" = "적용";
+> > "409.title" = "취소";
+> > "88.title" = "반지름";
+> > "ZSb-J6-CFB.ibShadowedToolTip" = "분할 보기 해제";
+> > "bsA-EH-3aR.ibShadowedToolTip" = "분할 보기";
