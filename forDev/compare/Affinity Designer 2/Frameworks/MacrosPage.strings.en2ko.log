@@ -1,6 +1,12 @@
-59,60c59,60
-< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "ube-kc-Yz7"; */
-< "ube-kc-Yz7.title" = "Rename...";
 ---
-> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "ube-kc-Yz7"; */
+---
+26,27c26,27
+98,99c98,99
+< "Mdu-4o-Kg0.title" = "Rename Category…";
+< "ube-kc-Yz7.title" = "Rename...";
+< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "Mdu-4o-Kg0"; */
+< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "ube-kc-Yz7"; */
+> "Mdu-4o-Kg0.title" = "범주 이름 변경…";
 > "ube-kc-Yz7.title" = "이름 변경...";
+> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "Mdu-4o-Kg0"; */
+> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "ube-kc-Yz7"; */
