@@ -43,12 +43,12 @@
 > > "226.title" = "취소";
 > > "26.title" = "적용";
 > > "90u-L0-6Rg.title" = "반전";
-> > "Fl0-nZ-ahO.ibShadowedToolTip" = "분할 뷰 모드";
-> > "qcQ-lD-v4y.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> > "wCl-n6-vg1.ibShadowedToolTip" = "거울 뷰 모드";
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "qcQ-lD-v4y"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "Fl0-nZ-ahO"; */
-> > /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "wCl-n6-vg1"; */
+> > "Fl0-nZ-ahO.ibShadowedToolTip" = "분할 보기";
+> > "qcQ-lD-v4y.ibShadowedToolTip" = "분할 보기 해제";
+> > "wCl-n6-vg1.ibShadowedToolTip" = "거울 보기";
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "qcQ-lD-v4y"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "Fl0-nZ-ahO"; */
+> > /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "wCl-n6-vg1"; */
 > > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "226"; */
 > > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > > /* Class = "NSButtonCell"; title = "반전"; ObjectID = "90u-L0-6Rg"; */
