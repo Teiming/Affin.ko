@@ -1,33 +1,4 @@
-13,83c13,24
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,43c2,13
 < 102c102
 < 108c108
 < 111c111
@@ -83,7 +54,7 @@
 > 68,69c68,69
 > 71,72c71,72
 > 77,78c77,78
-85,91d25
+45,51d14
 < < "6dS-g1-dGG.title" = "Box";
 < < "8nP-0Q-3Ik.title" = "Box";
 < < "APk-w8-O4B.title" = "Include spread mid points";
@@ -91,18 +62,18 @@
 < < "Czw-0X-gXK.title" = "Include bounding box mid points";
 < < "DRD-gS-VkX.title" = "Snap to spread";
 < < "DvF-Qe-cnh.title" = "Snap to baseline grid";
-95,96d28
+55,56d17
 < < "H2f-oN-T9O.title" = "Box";
 < < "Irf-l7-s1Q.ibShadowedToolTip" = "Show which objects in the document are currently in the Snapping Candidate list with a purple outline";
-99,103d30
+59,63d19
 < < "L3W-Sl-jsj.title" = "Show snapping candidates";
 < < "LyH-9N-TzJ.title" = "Box";
 < < "P61-cl-MpC.title" = "Immediate layers";
 < < "Qqa-hm-uHk.title" = "Snap to shape key points";
 < < "RxJ-TW-bcA.title" = "Immediate layers and children";
-106d32
+66d21
 < < "cUG-AP-k4n.ibShadowedToolTip" = "The maximum number of objects that will be held in the snapping candidate list";
-108,114d33
+68,74d22
 < < "csu-yE-1qt.title" = "Snap to object bounding boxes";
 < < "e1f-UT-w5P.title" = "Include margin mid points";
 < < "e4c-3f-g8b.title" = "Only snap to visible objects";
@@ -110,13 +81,13 @@
 < < "fjG-ij-72k.title" = "Snap to object geometry";
 < < "iAa-Xq-hV8.title" = "Snap to gaps and sizes";
 < < "j8f-hG-HbF.ibShadowedToolTip" = "If set, only objects that are currently visible can be snapped to";
-116d34
+76d23
 < < "pb6-c1-z4O.ibShadowedToolTip" = "Select a Snapping options preset, or configure your own settings";
-118,120d35
+78,80d24
 < < "rsm-Hh-Gqs.ibShadowedToolTip" = "The candidate options determine which objects in your document can be snapped to";
 < < "uo3-7W-8P8.title" = "Box";
 < < "urp-Jd-iPG.title" = "Enable snapping";
-122,164c37,72
+82,124c26,61
 < < "wJs-nd-UsG.ibShadowedToolTip" = "Snapping tolerance is the distance in screen pixels between objects where a snap will be made";
 < < "xOk-il-8cZ.title" = "Box";
 < > "1Tw-ds-gDv.title" = "候補リスト";
