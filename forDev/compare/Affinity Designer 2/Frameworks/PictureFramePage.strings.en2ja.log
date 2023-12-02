@@ -1,44 +1,44 @@
-3c3
-< "1ip-cP-h9u.title" = "None";
 ---
-> "1ip-cP-h9u.title" = "なし";
-6c6
-< "6F3-ov-81E.title" = "Done";
 ---
-> "6F3-ov-81E.title" = "完了";
-9c9
-< "6tR-vm-RIN.title" = "Cancel";
 ---
-> "6tR-vm-RIN.title" = "キャンセル";
+---
+---
+---
+---
+---
+---
+---
+---
 12c12
-< "bLV-yc-rks.title" = "The picture will not be scaled.";
----
-> "bLV-yc-rks.title" = "ピクチャはスケーリングされません。";
 15c15
-< "bwd-ix-Zug.title" = "Scale to Min Fit";
----
-> "bwd-ix-Zug.title" = "最小フィットに合わせてスケーリング";
 18c18
-< "df2-Jd-GRp.title" = "The picture will be scaled to fill the frame. Its aspect ratio will be maintained, but it may be cropped.";
----
-> "df2-Jd-GRp.title" = "ピクチャはフレームを埋めるようにスケーリングされます。縦横比は維持されますが、切り抜きが行われる場合があります。";
 21c21
-< "h0w-jE-3zN.title" = "The picture will be stretched to fill the frame. Its aspect ratio may not be maintained.";
----
-> "h0w-jE-3zN.title" = "ピクチャはフレームを埋めるために引き伸ばされます。ピクチャの縦横比は維持されません。";
 24c24
-< "ixu-aw-AuW.title" = "Stretch to Fit";
----
-> "ixu-aw-AuW.title" = "サイズに合わせてストレッチ";
 27c27
-< "u5K-aZ-y2N.title" = "Anchor";
----
-> "u5K-aZ-y2N.title" = "アンカー";
 30c30
-< "vDJ-ql-dek.title" = "The picture will be scaled so its aspect ratio is maintained. It may not completely fill the frame.";
----
-> "vDJ-ql-dek.title" = "ピクチャは縦横比を維持してスケーリングされます。フレームが完全には埋められない場合があります。";
 33c33
+3c3
+6c6
+9c9
+< "1ip-cP-h9u.title" = "None";
+< "6F3-ov-81E.title" = "Done";
+< "6tR-vm-RIN.title" = "Cancel";
+< "bLV-yc-rks.title" = "The picture will not be scaled.";
+< "bwd-ix-Zug.title" = "Scale to Min Fit";
+< "df2-Jd-GRp.title" = "The picture will be scaled to fill the frame. Its aspect ratio will be maintained, but it may be cropped.";
+< "h0w-jE-3zN.title" = "The picture will be stretched to fill the frame. Its aspect ratio may not be maintained.";
+< "ixu-aw-AuW.title" = "Stretch to Fit";
+< "u5K-aZ-y2N.title" = "Anchor";
+< "vDJ-ql-dek.title" = "The picture will be scaled so its aspect ratio is maintained. It may not completely fill the frame.";
 < "yj7-Uo-WT4.title" = "Scale to Max Fit";
----
+> "1ip-cP-h9u.title" = "なし";
+> "6F3-ov-81E.title" = "完了";
+> "6tR-vm-RIN.title" = "キャンセル";
+> "bLV-yc-rks.title" = "ピクチャはスケーリングされません。";
+> "bwd-ix-Zug.title" = "最小フィットに合わせてスケーリング";
+> "df2-Jd-GRp.title" = "ピクチャはフレームを埋めるようにスケーリングされます。縦横比は維持されますが、切り抜きが行われる場合があります。";
+> "h0w-jE-3zN.title" = "ピクチャはフレームを埋めるために引き伸ばされます。ピクチャの縦横比は維持されません。";
+> "ixu-aw-AuW.title" = "サイズに合わせてストレッチ";
+> "u5K-aZ-y2N.title" = "アンカー";
+> "vDJ-ql-dek.title" = "ピクチャは縦横比を維持してスケーリングされます。フレームが完全には埋められない場合があります。";
 > "yj7-Uo-WT4.title" = "最大フィットに合わせてスケーリング";
