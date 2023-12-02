@@ -132,18 +132,6 @@
 < > "wJs-nd-UsG.ibShadowedToolTip" = "スナップ許容範囲とは、スナップするオブジェクト間の距離(スクリーンピクセル単位)です";
 < > "xOk-il-8cZ.title" = "四角形";
 ---
-> < /* Class = "NSButtonCell"; title = "Force pixel alignment"; ObjectID = "3T9-TS-9ti"; */
-> < /* Class = "NSButtonCell"; title = "Move by whole pixels"; ObjectID = "bGQ-a9-3br"; */
-> < /* Class = "NSButtonCell"; title = "Snap to grid"; ObjectID = "lZL-z7-XwY"; */
-> < /* Class = "NSButtonCell"; title = "Snap to guides"; ObjectID = "chn-GC-rSI"; */
-> < /* Class = "NSButtonCell"; title = "Snap to margin"; ObjectID = "Gkl-N0-P3Q"; */
-> < /* Class = "NSMenuItem"; title = "All layers"; ObjectID = "vDT-Wp-5Xc"; */
-> < /* Class = "NSMenuItem"; title = "Create preset"; ObjectID = "Gsz-Qc-N1v"; */
-> < /* Class = "NSMenuItem"; title = "Delete preset"; ObjectID = "JG4-X2-RoC"; */
-> < /* Class = "NSMenuItem"; title = "Rename preset"; ObjectID = "quf-Cj-L5F"; */
-> < /* Class = "NSTextFieldCell"; title = "Candidates:"; ObjectID = "SlC-Yd-G0i"; */
-> < /* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "JdA-f5-0s4"; */
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "EyH-4n-zr8"; */
 > > "3T9-TS-9ti.title" = "강제 픽셀 정렬";
 > > "EyH-4n-zr8.title" = "미리 설정:";
 > > "Gkl-N0-P3Q.title" = "여백선에 스냅";
@@ -156,15 +144,3 @@
 > > "lZL-z7-XwY.title" = "격자선에 스냅";
 > > "quf-Cj-L5F.title" = "미리 설정 이름 변경";
 > > "vDT-Wp-5Xc.title" = "모든 레이어";
-> > /* Class = "NSButtonCell"; title = "강제 픽셀 정렬"; ObjectID = "3T9-TS-9ti"; */
-> > /* Class = "NSButtonCell"; title = "픽셀 단위로 이동"; ObjectID = "bGQ-a9-3br"; */
-> > /* Class = "NSButtonCell"; title = "여백선에 스냅"; ObjectID = "Gkl-N0-P3Q"; */
-> > /* Class = "NSButtonCell"; title = "안내선에 스냅"; ObjectID = "chn-GC-rSI"; */
-> > /* Class = "NSButtonCell"; title = "격자선에 스냅"; ObjectID = "lZL-z7-XwY"; */
-> > /* Class = "NSMenuItem"; title = "미리 설정 이름 변경"; ObjectID = "quf-Cj-L5F"; */
-> > /* Class = "NSMenuItem"; title = "미리 설정 생성"; ObjectID = "Gsz-Qc-N1v"; */
-> > /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "JG4-X2-RoC"; */
-> > /* Class = "NSMenuItem"; title = "모든 레이어"; ObjectID = "vDT-Wp-5Xc"; */
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "EyH-4n-zr8"; */
-> > /* Class = "NSTextFieldCell"; title = "최대:"; ObjectID = "JdA-f5-0s4"; */
-> > /* Class = "NSTextFieldCell"; title = "후보:"; ObjectID = "SlC-Yd-G0i"; */
