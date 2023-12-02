@@ -1,12 +1,12 @@
+---
+---
 11,12c11,12
-< /* Class = "NSMenuItem"; title = "Large"; ObjectID = "N6l-mn-R8s"; */
-< "N6l-mn-R8s.title" = "Large";
----
-> /* Class = "NSMenuItem"; title = "크게"; ObjectID = "N6l-mn-R8s"; */
-> "N6l-mn-R8s.title" = "크게";
 17,18c17,18
-< /* Class = "NSMenuItem"; title = "Small"; ObjectID = "ucQ-yA-Gtc"; */
+< "N6l-mn-R8s.title" = "Large";
 < "ucQ-yA-Gtc.title" = "Small";
----
-> /* Class = "NSMenuItem"; title = "작게"; ObjectID = "ucQ-yA-Gtc"; */
+< /* Class = "NSMenuItem"; title = "Large"; ObjectID = "N6l-mn-R8s"; */
+< /* Class = "NSMenuItem"; title = "Small"; ObjectID = "ucQ-yA-Gtc"; */
+> "N6l-mn-R8s.title" = "크게";
 > "ucQ-yA-Gtc.title" = "작게";
+> /* Class = "NSMenuItem"; title = "크게"; ObjectID = "N6l-mn-R8s"; */
+> /* Class = "NSMenuItem"; title = "작게"; ObjectID = "ucQ-yA-Gtc"; */

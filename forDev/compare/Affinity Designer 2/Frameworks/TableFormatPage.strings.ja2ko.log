@@ -1,38 +1,37 @@
-1,13c1,2
-< 3c3
-< < "1rD-uz-m9F.title" = "Save Formats as Default";
+3,17c3,4
 < ---
-< > "1rD-uz-m9F.title" = "フォーマットをデフォルトとして保存";
-< 6c6
-< < "62u-fY-gMF.title" = "Create New Format";
 < ---
-< > "62u-fY-gMF.title" = "新規フォーマットを作成";
-< 9c9
-< < "MqV-ga-Q1j.title" = "Add Format from Selection";
 < ---
-< > "MqV-ga-Q1j.title" = "選択範囲からフォーマットを追加";
+< ---
+< ---
 < 12c12
+< 15c15
+< 18c18
+< 21c21
+< 3c3
+< 6c6
+< 9c9
+< < "1rD-uz-m9F.title" = "Save Formats as Default";
+< < "62u-fY-gMF.title" = "Create New Format";
+< < "MqV-ga-Q1j.title" = "Add Format from Selection";
 ---
 > 11,12c11,12
-> < /* Class = "NSMenuItem"; title = "Large"; ObjectID = "N6l-mn-R8s"; */
-16,21c5,8
-< > "N6l-mn-R8s.title" = "大";
-< 15c15
-< < "sCM-vu-e9E.title" = "Show Names";
-< ---
-< > "sCM-vu-e9E.title" = "名前を表示";
-< 18c18
----
-> > /* Class = "NSMenuItem"; title = "크게"; ObjectID = "N6l-mn-R8s"; */
-> > "N6l-mn-R8s.title" = "크게";
 > 17,18c17,18
-> < /* Class = "NSMenuItem"; title = "Small"; ObjectID = "ucQ-yA-Gtc"; */
-24,28c11,12
-< > "ucQ-yA-Gtc.title" = "小";
-< 21c21
+19d5
+< < "sCM-vu-e9E.title" = "Show Names";
+21,28c7,12
 < < "w0u-1q-oUb.title" = "Import Formats...";
-< ---
+< > "1rD-uz-m9F.title" = "フォーマットをデフォルトとして保存";
+< > "62u-fY-gMF.title" = "新規フォーマットを作成";
+< > "MqV-ga-Q1j.title" = "選択範囲からフォーマットを追加";
+< > "N6l-mn-R8s.title" = "大";
+< > "sCM-vu-e9E.title" = "名前を表示";
+< > "ucQ-yA-Gtc.title" = "小";
 < > "w0u-1q-oUb.title" = "フォーマットをインポート...";
 ---
-> > /* Class = "NSMenuItem"; title = "작게"; ObjectID = "ucQ-yA-Gtc"; */
+> < /* Class = "NSMenuItem"; title = "Large"; ObjectID = "N6l-mn-R8s"; */
+> < /* Class = "NSMenuItem"; title = "Small"; ObjectID = "ucQ-yA-Gtc"; */
+> > "N6l-mn-R8s.title" = "크게";
 > > "ucQ-yA-Gtc.title" = "작게";
+> > /* Class = "NSMenuItem"; title = "크게"; ObjectID = "N6l-mn-R8s"; */
+> > /* Class = "NSMenuItem"; title = "작게"; ObjectID = "ucQ-yA-Gtc"; */
