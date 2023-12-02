@@ -1,6 +1,4 @@
-13,28c13,24
-< ---
-< ---
+2,15c2,13
 < 12c12
 < 15c15
 < 21c21
@@ -28,11 +26,11 @@
 > 53,54c53,54
 > 59c59
 > 8,9c8,9
-35d30
+22d19
 < < "Kt5-5V-bIX.title" = "Pressure Flyout";
-37d31
+24d20
 < < "SlI-1O-rcg.title" = "phase";
-42,56c36,70
+29,43c25,59
 < < "zYl-Kr-eof.title" = "Miter:";
 < > "53.title" = "オブジェクトとともにスケーリング";
 < > "57.title" = "線端:";
@@ -62,7 +60,7 @@
 > < /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "95"; */
 > < /* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "8"; */
 > > "53.title" = "오브젝트와 함께 배율";
-> > "57.title" = "단면:";
+> > "57.title" = "끝단:";
 > > "59.title" = "결합:";
 > > "8.title" = "너비:";
 > > "95.title" = "스타일:";
@@ -75,7 +73,7 @@
 > > /* Class = "NSButtonCell"; title = "특성..."; ObjectID = "uKr-ld-ZRB"; */
 > > /* Class = "NSButtonCell"; title = "오브젝트와 함께 배율"; ObjectID = "53"; */
 > > /* Class = "NSTextFieldCell"; title = "끝:"; ObjectID = "BdQ-iz-r1Z"; */
-> > /* Class = "NSTextFieldCell"; title = "단면:"; ObjectID = "57"; */
+> > /* Class = "NSTextFieldCell"; title = "끝단:"; ObjectID = "57"; */
 > > /* Class = "NSTextFieldCell"; title = "결합:"; ObjectID = "59"; */
 > > /* Class = "NSTextFieldCell"; title = "너비:"; ObjectID = "8"; */
 > > /* Class = "NSTextFieldCell"; title = "시작:"; ObjectID = "Kzv-xK-MFT"; */
