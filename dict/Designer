@@ -52,19 +52,19 @@ s/\"After\";/\"이후\";/
 s/\"Alerts\";/\"알림\";/
 s/\"Align Bottom Edges\";/\"아래쪽 정렬\";/
 s/\"Align Bottom\";/\"아래쪽 정렬\";/
-s/\"Align Centre\";/\"가로 가운데 정렬\";/
-s/\"Align Horizontal Centres\";/\"가로 가운데 정렬\";/
+s/\"Align Center\";/\"가로 가운데 정렬\";/
+s/\"Align Horizontal Centers\";/\"가로 가운데 정렬\";/
 s/\"Align Left Edges\";/\"왼쪽 정렬\";/
 s/\"Align Left\";/\"왼쪽 정렬\";/
 s/\"Align Middle\";/\"세로 가운데 정렬\";/
 s/\"Align Right Edges\";/\"오른쪽 정렬\";/
 s/\"Align Right\";/\"오른쪽 정렬\";/
-s/\"Align Stroke to Centre\";/\"선을 중앙에 정렬\";/
+s/\"Align Stroke to Center\";/\"선을 중앙에 정렬\";/
 s/\"Align Stroke to Inside\";/\"선을 안쪽에 정렬\";/
 s/\"Align Stroke to Outside\";/\"선을 바깥쪽에 정렬\";/
 s/\"Align Top Edges\";/\"위쪽 정렬\";/
 s/\"Align Top\";/\"위쪽 정렬\";/
-s/\"Align Vertical Centres\";/\"세로 가운데 정렬\";/
+s/\"Align Vertical Centers\";/\"세로 가운데 정렬\";/
 s/\"Align to:\";/\"정렬 대상:\";/
 s/\"Align:\";/\"정렬:\";/
 s/\"Align\";/\"정렬하기\";/
@@ -192,9 +192,9 @@ s/\"Brush Item Context Menu\";/\"브러시 항목 상황별 메뉴\";/
 s/\"Brush Width:\";/\"브러시 너비:\";/
 s/\"Brush\";/\"브러시\";/
 s/\"Brushes\";/\"브러시\";/
-s/\"Butt Cap\";/\"뭉툭한 단면\";/
+s/\"Butt Cap\";/\"짧은 끝단\";/
 s/\"Button\";/\"버튼\";/
-s/\"Callout Ellipse Tool\";/\"외치기 타원 도구\";/
+s/\"Callout Ellipse Tool\";/\"말풍선 타원 도구\";/
 s/\"Camera\";/\"카메라\";/
 s/\"Cancel\";/\"취소\";/
 s/\"Candidate list\";/\"후보 목록\";/
@@ -207,13 +207,13 @@ s/\"Cannot Import\";/\"들여올 수 없음\";/
 s/\"Cannot Print\";/\"인쇄할 수 없음\";/
 s/\"Cannot Share\";/\"공유할 수 없음\";/
 s/\"Cannot Tone Map\";/\"톤 매핑할 수 없음\";/
-s/\"Cap:\";/\"단면:\";/
-s/\"Capitalisation\";/\"대문자화\";/
+s/\"Cap:\";/\"끝단:\";/
+s/\"Capitalization\";/\"대문자화\";/
 s/\"Categories\";/\"범주\";/
 s/\"Cell Size\";/\"셀 크기\";/
+s/\"Center\";/\"가운데\";/
 s/\"Centimetres:\";/\"센티미터:\";/
 s/\"Centimetres\";/\"센티미터\";/
-s/\"Centre\";/\"가운데\";/
 s/\"Channel Mixer\";/\"채널 혼합\";/
 s/\"Channel\";/\"채널\";/
 s/\"Channels\";/\"채널\";/
@@ -244,6 +244,7 @@ s/\"Clone Brush Tool\";/\"복제 브러시 도구\";/
 s/\"Clone Brush\";/\"복제 브러시\";/
 s/\"Clone brush tool\";/\"복제 브러시 도구\";/
 s/\"Clone\";/\"복제\";/
+s/\"Close All\";/\"모두 닫기\";/
 s/\"Close Curve\";/\"곡선 닫기\";/
 s/\"Close pie\";/\"파이 닫기\";/
 s/\"Close the document?\";/\"문서를 닫겠습니까?\";/
@@ -341,6 +342,7 @@ s/\"Dash:\";/\"줄표:\";/
 s/\"Dashed Objects\";/\"점선 오브젝트\";/
 s/\"Date shot\";/\"찍은 날짜\";/
 s/\"Decimal Places for Unit Types:\";/\"단위 종류별 소수점 위치:\";/
+s/\"Decorations\";/\"장식\";/
 s/\"Decrease\";/\"줄이기\";/
 s/\"Default OS\";/\"macOS 기본값\";/
 s/\"Default\";/\"기본값\";/
@@ -386,12 +388,12 @@ s/\"Display Threshold:\";/\"역치 표시:\";/
 s/\"Distort\";/\"왜곡\";/
 s/\"Distortion\";/\"왜곡\";/
 s/\"Distribute Bottom Edges\";/\"아래쪽 분배\";/
-s/\"Distribute Horizontal Centres\";/\"가로 가운데 분배\";/
+s/\"Distribute Horizontal Centers\";/\"가로 가운데 분배\";/
 s/\"Distribute Horizontally\";/\"가로 분배\";/
 s/\"Distribute Left Edges\";/\"왼쪽 분배\";/
 s/\"Distribute Right Edges\";/\"오른쪽 분배\";/
 s/\"Distribute Top Edges\";/\"위쪽 분배\";/
-s/\"Distribute Vertical Centres\";/\"세로 가운데 분배\";/
+s/\"Distribute Vertical Centers\";/\"세로 가운데 분배\";/
 s/\"Distribute Vertically\";/\"세로 분배\";/
 s/\"Distribute\";/\"분배\";/
 s/\"Divide toolbar button\";/\"분할 툴바 버튼\";/
@@ -485,7 +487,6 @@ s/\"Factory Reset\";/\"기본값 재설정\";/
 s/\"Failed to open TIFF file\";/\"Tiff 파일을 열지 못했습니다.\";/
 s/\"Favourites\";/\"즐겨찾기\";/
 s/\"Feather…\";/\"깃털…\";/
-s/\"Featured Work/\"주목할 작품/
 s/\"Feet:\";/\"피트:\";/
 s/\"Feet\";/\"피트\";/
 s/\"Figure Dash\";/\"숫자 줄표\";/
@@ -659,7 +660,7 @@ s/\"Item\";/\"항목\";/
 s/\"Join Curves\";/\"곡선 잇기\";/
 s/\"Join:\";/\"결합:\";/
 s/\"Justify All\";/\"양쪽 균등 정렬\";/
-s/\"Justify Centre\";/\"가운데 균등 정렬\";/
+s/\"Justify Center\";/\"가운데 균등 정렬\";/
 s/\"Justify Left\";/\"왼쪽 균등 정렬\";/
 s/\"Justify Right\";/\"오른쪽 균등 정렬\";/
 s/\"Justify\";/\"맞춤\";/
@@ -717,6 +718,7 @@ s/\"Lock\/Unlock\";/\"잠금\/잠금 풀기\";/
 s/\"Look Up "%@"\";/\""%@" 찾기\";/
 s/\"Loosen More\";/\"더욱 넓게\";/
 s/\"Loosen\";/\"넓게\";/
+s/\"Lorem Ipsum\";/\"채우기 텍스트\";/
 s/\"Low Frequency\";/\"저주파수\";/
 s/\"Lower Baseline\";/\"기준선 내리기\";/
 s/\"Luminosity Jitter:\";/\"명도 일그러짐:\";/
@@ -808,7 +810,6 @@ s/\"New Adjustment Layer\";/\"신규 조정 레이어\";/
 s/\"New Adjustment\";/\"신규 조정\";/
 s/\"New Document From Snapshot\";/\"스냅샷으로부터 신규 문서\";/
 s/\"New Document\";/\"신규 문서\";/
-s/\"New From Clipboard\";/\"클립보드에서 신규\";/
 s/\"New Image Brush\";/\"신규 이미지 브러시\";/
 s/\"New Layer\";/\"신규 레이어\";/
 s/\"New Pixel Layer\";/\"신규 픽셀 레이어\";/
@@ -817,6 +818,7 @@ s/\"New Solid Brush\";/\"신규 단일 브러시\";/
 s/\"New Square Brush\";/\"신규 사각형 브러시\";/
 s/\"New Textured Image Brush\";/\"신규 질감 이미지 브러시\";/
 s/\"New View\";/\"신규 뷰\";/
+s/\"New from Clipboard\";/\"클립보드에서 신규\";/
 s/\"New layer\";/\"신규 레이어\";/
 s/\"New...\";/\"신규...\";/
 s/\"New\";/\"신규\";/
@@ -987,8 +989,8 @@ s/\"Reapply Base Styles\";/\"기본 스타일 다시 적용\";/
 s/\"Reapply Text Styles\";/\"텍스트 스타일 다시 적용\";/
 s/\"Recent:\";/\"최근 사용 항목:\";/
 s/\"Recent\";/\"최근 사용 항목\";/
-s/\"ReColor Adjustment\";/\"재색상 조정\";/
-s/\"ReColor\";/\"재색상\";/
+s/\"Recolor Adjustment\";/\"재색상 조정\";/
+s/\"Recolor\";/\"재색상\";/
 s/\"Rectangle Tool\";/\"직사각형 도구\";/
 s/\"Rectangle\";/\"직사각형\";/
 s/\"Rectangular Marquee Tool\";/\"직사각형 천막 도구\";/
@@ -1070,7 +1072,7 @@ s/\"Rotate\";/\"회전\";/
 s/\"Rotation Jitter:\";/\"회전 일그러짐:\";/
 s/\"Rotation:\";/\"회전:\";/
 s/\"Rotation\";/\"회전\";/
-s/\"Round Cap\";/\"둥근 단면\";/
+s/\"Round Cap\";/\"둥근 끝단\";/
 s/\"Round Join\";/\"둥근 결합\";/
 s/\"Rounded Rectangle Tool\";/\"둥근 직사각형 도구\";/
 s/\"Rounded Rectangle\";/\"둥근 직사각형\";/
@@ -1084,7 +1086,7 @@ s/\"Saturation Jitter:\";/\"채도 일그러짐:\";/
 s/\"Saturation\";/\"채도\";/
 s/\"Save As Package…\";/\"패키지로 저장…\";/
 s/\"Save As…\";/\"다른 이름으로 저장…\";/
-s/\"Save History With Document\";/\"문서와 함께 편집 기록 저장\";/
+s/\"Save History with Document\";/\"문서와 함께 편집 기록 저장\";/
 s/\"Save Mesh\";/\"그물 저장\";/
 s/\"Save Preset\";/\"미리 설정 저장\";/
 s/\"Save Profile\";/\"프로파일 저장\";/
@@ -1145,7 +1147,7 @@ s/\"Set Texture\";/\"질감 설정\";/
 s/\"Set as Default for\";/\"기본값으로 설정하기\";/
 s/\"Set current selection\";/\"지금 선택 항목 설정\";/
 s/\"Set current text selection\";/\"지금 텍스트 선택 항목 설정\";/
-s/\"Set line cap style\";/\"선 단면 스타일 설정\";/
+s/\"Set line cap style\";/\"선 끝단 스타일 설정\";/
 s/\"Set line style scale\";/\"선 스타일 배율 설정\";/
 s/\"Set the main grid line Color\";/\"주 격자 선 색상 설정\";/
 s/\"Set the main grid line opacity\";/\"주 격자 선 불투명도 설정\";/
@@ -1182,7 +1184,7 @@ s/\"Show Margins\";/\"여백선 보기\";/
 s/\"Show Paragraph\";/\"문단 보기\";/
 s/\"Show Pixel Selection\";/\"픽셀 선택 항목 보기\";/
 s/\"Show Right Studio\";/\"오른쪽 작업실 보기\";/
-s/\"Show Rotation Centre\";/\"회전 중심 보기\";/
+s/\"Show Rotation Center\";/\"회전 중심 보기\";/
 s/\"Show Rulers\";/\"눈금자 보기\";/
 s/\"Show Samples\";/\"샘플 보기\";/
 s/\"Show Text Styles\";/\"텍스트 스타일 보기\";/
@@ -1248,6 +1250,7 @@ s/\"Spacing:\";/\"간격:\";/
 s/\"Spacing\";/\"간격\";/
 s/\"Speed\";/\"빠르기\";/
 s/\"Spelling Options…\";/\"철자 설정…\";/
+s/\"Spelling:\";/\"철자:\";/
 s/\"Spelling\";/\"철자\";/
 s/\"Split Complementary\";/\"분할 보색\";/
 s/\"Split Toning\";/\"분할 색조\";/
@@ -1256,7 +1259,7 @@ s/\"Split view\";/\"분할 보기\";/
 s/\"Split\";/\"분할\";/
 s/\"Spread Margin\";/\"스프레드 여백\";/
 s/\"Spread Setup…\";/\"스프레드 설정…\";/
-s/\"Square Cap\";/\"사각 단면\";/
+s/\"Square Cap\";/\"사각 끝단\";/
 s/\"Square\";/\"사각형\";/
 s/\"Stabiliser\";/\"안정 장치\";/
 s/\"Standard Deviation\";/\"표준 편차\";/

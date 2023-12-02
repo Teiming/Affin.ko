@@ -486,7 +486,6 @@ s/\"Factory Reset\";/\"기본값 재설정\";/
 s/\"Failed to open TIFF file\";/\"Tiff 파일을 열지 못했습니다.\";/
 s/\"Favourites\";/\"즐겨찾기\";/
 s/\"Feather…\";/\"깃털…\";/
-s/\"Featured Work/g>주목할 작품/
 s/\"Feet:\";/\"피트:\";/
 s/\"Feet\";/\"피트\";/
 s/\"Figure Dash\";/\"숫자 줄표\";/
@@ -1511,4 +1510,3 @@ s/\"|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an
 s/\"|DRAG| to move selection.\";/\"|DRAG|해서 선택 항목을 움직입니다.\";/
 s/\"|DRAG| to pan view.\";/\"|DRAG|해서 초점이동합니다.\";/
 s/\"|DRAG| to resize columns.\";/\"|DRAG|해서 행의 크기를 조절합니다.\";/
-s/"asdf";/"4567";/

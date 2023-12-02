@@ -9,18 +9,18 @@ ENG=$(printf $RAWENG | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
 KOR=$(printf $RAWKOR | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
 
 # 결과 생성
-result=$(printf "s/$ENG\";/$KOR\";/")
+result=$(echo "s/\\\"$ENG\\\";/\\\"$KOR\\\";/")
 
 # 사전 등록
 cd ~/Affin.ko/dict/
-printf ${result} >>Designer
-printf ${result} >>Photo
-printf ${result} >>Publisher
+echo ${result} >>Designer
+echo ${result} >>Photo
+echo ${result} >>Publisher
 
 # 사전 정렬
-cat ./Designer | sort | uniq >DictionaryDesigner.temp && mv DictionaryDesigner.temp DictionaryDesigner
-cat ./Photo | sort | uniq >DictionaryPhoto.temp && mv DictionaryPhoto.temp DictionaryPhoto
-cat ./Publisher | sort | uniq >DictionaryPublisher.temp && mv DictionaryPublisher.temp DictionaryPublisher
+cat ./Designer | sort | uniq >./Designer.temp && mv ./Designer.temp ./Designer
+cat ./Photo | sort | uniq >Photo.temp && mv Photo.temp Photo
+cat ./Publisher | sort | uniq >Publisher.temp && mv Publisher.temp Publisher
 diff3 ./Designer ./Photo ./Publisher >./diff3.log
 
 # printf "주의할 특수문자 &" >>DictionaryDiff
