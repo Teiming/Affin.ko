@@ -1,4 +1,4 @@
-21,84c21,40
+21,73c21,36
 < ---
 < ---
 < ---
@@ -52,17 +52,6 @@
 < 42c42
 < 45c45
 < 54c54
-< 57c57
-< 69c69
-< 6c6
-< 72c72
-< 75c75
-< 81c81
-< 84c84
-< 93c93
-< 96c96
-< 99c99
-< 9c9
 ---
 > 101,102c101,102
 > 122,123c122,123
@@ -80,9 +69,20 @@
 > 44,45c44,45
 > 5,6c5,6
 > 53,54c53,54
-> 56c56
+75,77c38
+< 69c69
+< 6c6
+< 72c72
+---
 > 71,72c71,72
-> 74c74
+79,84c40
+< 81c81
+< 84c84
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+---
 > 95,96c95,96
 86d41
 < < "1ga-mW-VNe.ibShadowedToolTip" = "Remove Preset";
@@ -92,35 +92,33 @@
 < < "9kt-xY-TsL.title" = "There are currently no documents in your most recent files list.";
 93d44
 < < "CpN-3H-sdT.ibShadowedToolTip" = "Add New Preset";
-97,98d47
-< < "Gbj-n2-cJh.title" = "Color Profile:";
+98d48
 < < "HBs-hy-AU6.title" = "Table View Cell";
-100,103d48
-< < "IAh-vb-wdO.title" = "Color Format:";
+101,103d50
 < < "J1X-s1-yxP.title" = "There are currently no templates. Please add folders containing your templates.";
 < < "Jc6-kB-Rh8.title" = "Image Placement:";
 < < "Mcw-Z1-zF2.ibShadowedToolTip" = "Reset Preset";
-105d49
+105d51
 < < "R17-Lw-Da2.title" = "Actual size zoom:";
-107,108d50
+107,108d52
 < < "RdM-Rf-rdQ.title" = "Arrange:";
 < < "Ri7-eE-Y1L.title" = "Show on Startup";
-110,113c52
+110,113c54
 < < "bcZ-KI-gwi.ibShadowedToolTip" = "Link margins";
 < < "beW-e3-qtO.title" = "Readout Units:";
 < < "cek-2O-Ju5.title" = "Default master";
 < < "fkN-rR-WGU.ibShadowedToolTip" = "New Category";
 ---
 > < "hFX-yV-7Do.title" = "Text Cell";
-116d54
+116d56
 < < "jAB-4Q-EBm.ibShadowedToolTip" = "Save Preset As…";
-118d55
+118d57
 < < "qld-bR-qxM.ibShadowedToolTip" = "Rename Preset";
-120,122d56
+120,122d58
 < < "sPu-sF-xg9.title" = "Use Drawing Scale";
 < < "t2k-sh-QMC.title" = "Facing pages";
 < < "uRX-dK-fru.title" = "Height:";
-125,168c59,116
+125,168c61,116
 < < "xo2-kf-KHc.ibShadowedToolTip" = "Save and Overwrite Current Preset";
 < < "yVe-wM-ke4.ibShadowedToolTip" = "Link bleed";
 < > "0QC-GR-1Xc.title" = "透明な背景";
@@ -172,8 +170,6 @@
 > < /* Class = "NSButtonCell"; title = "Transparent Background"; ObjectID = "0QC-GR-1Xc"; */
 > < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "5QV-bF-Zpg"; */
 > < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "vqo-xn-azk"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour Format:"; ObjectID = "IAh-vb-wdO"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour Profile:"; ObjectID = "Gbj-n2-cJh"; */
 > < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "F9s-LX-GdF"; */
 > < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "OV8-BF-uDO"; */
 > < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "GOP-oj-ZXI"; */
@@ -193,7 +189,9 @@
 > > "F0z-JX-Cv5.title" = "신규 문서";
 > > "F9s-LX-GdF.title" = "왼쪽:";
 > > "GOP-oj-ZXI.title" = "오른쪽:";
+> > "Gbj-n2-cJh.title" = "색상 프로파일:";
 > > "I9X-bc-RyQ.title" = "여백 포함";
+> > "IAh-vb-wdO.title" = "색상 포맷";
 > > "OV8-BF-uDO.title" = "왼쪽:";
 > > "RYz-qY-pZz.title" = "너비:";
 > > "YEQ-mb-kmg.title" = "위쪽:";
@@ -208,8 +206,6 @@
 > > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "qiB-6m-Wgc"; */
 > > /* Class = "NSButtonCell"; title = "투명한 배경"; ObjectID = "0QC-GR-1Xc"; */
 > > /* Class = "NSButtonCell"; title = "아트보드 생성"; ObjectID = "hHp-Ni-tlc"; */
-> > /* Class = "NSTextFieldCell"; title = "색상 포맷"; ObjectID = "IAh-vb-wdO"; */
-> > /* Class = "NSTextFieldCell"; title = "색상 프로파일:"; ObjectID = "Gbj-n2-cJh"; */
 > > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "9lU-3l-FJC"; */
 > > /* Class = "NSTextFieldCell"; title = "개시:"; ObjectID = "ATj-go-sqU"; */
 > > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "F9s-LX-GdF"; */
