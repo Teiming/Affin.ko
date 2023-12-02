@@ -1,94 +1,4 @@
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 101,102c101,102
 107,108c107,108
 113,114c113,114
@@ -98,7 +8,7 @@
 131,132c131,132
 137,138c137,138
 14,15c14,15
-140c140
+141c141
 143,144c143,144
 146,147c146,147
 149,150c149,150
@@ -247,6 +157,7 @@
 < "839.title" = "Blend mode:";
 < "857.title" = "Blend mode:";
 < "911.title" = "Inside";
+< "912.title" = "Center";
 < "913.title" = "Outside";
 < "914.title" = "Alignment:";
 < "924.title" = "Depth:";
@@ -278,7 +189,6 @@
 < /* Class = "NSButtonCell"; title = "Remove Profile"; ObjectID = "1378"; */
 < /* Class = "NSButtonCell"; title = "Remove Profile"; ObjectID = "Hu6-F0-5qY"; */
 < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "ENj-RY-fSm"; */
-< /* Class = "NSMenuItem"; title = "Centre"; ObjectID = "912"; */
 < /* Class = "NSMenuItem"; title = "Conical"; ObjectID = "1318"; */
 < /* Class = "NSMenuItem"; title = "Conical"; ObjectID = "1333"; */
 < /* Class = "NSMenuItem"; title = "Contour"; ObjectID = "1092"; */
@@ -420,6 +330,7 @@
 > "839.title" = "혼합 모드:";
 > "857.title" = "혼합 모드:";
 > "911.title" = "안으로";
+> "912.title" = "가운데";
 > "913.title" = "바깥";
 > "914.title" = "정렬:";
 > "924.title" = "깊이:";
@@ -465,7 +376,6 @@
 > /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "1332"; */
 > /* Class = "NSMenuItem"; title = "원뿔형"; ObjectID = "1333"; */
 > /* Class = "NSMenuItem"; title = "안으로"; ObjectID = "911"; */
-> /* Class = "NSMenuItem"; title = "가운데"; ObjectID = "912"; */
 > /* Class = "NSMenuItem"; title = "그레이디언트"; ObjectID = "1119"; */
 > /* Class = "NSTabViewItem"; label = "등고선"; ObjectID = "1257"; */
 > /* Class = "NSTabViewItem"; label = "그레이디언트"; ObjectID = "1100"; */

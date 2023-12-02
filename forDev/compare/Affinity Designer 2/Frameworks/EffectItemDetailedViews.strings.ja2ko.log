@@ -1,29 +1,4 @@
-92,121c92,96
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,6c2,6
 < 102c102
 < 108c108
 < 114c114
@@ -35,10 +10,14 @@
 > 113,114c113,114
 > 119,120c119,120
 > 125,126c125,126
-123,171c98,129
+8,9c8,10
 < 132c132
 < 138c138
-< 141c141
+---
+> 131,132c131,132
+> 137,138c137,138
+> 14,15c14,15
+11,56c12,39
 < 144c144
 < 147c147
 < 150c150
@@ -86,10 +65,6 @@
 < 276c276
 < 279c279
 ---
-> 131,132c131,132
-> 137,138c137,138
-> 14,15c14,15
-> 140c140
 > 143,144c143,144
 > 146,147c146,147
 > 149,150c149,150
@@ -118,7 +93,7 @@
 > 266,267c266,267
 > 275,276c275,276
 > 278,279c278,279
-173,181c131,139
+58,66c41,49
 < 282c282
 < 285c285
 < 288c288
@@ -138,7 +113,7 @@
 > 302,303c302,303
 > 305,306c305,306
 > 308,309c308,309
-183,190c141,148
+68,75c51,58
 < 312c312
 < 315c315
 < 318c318
@@ -156,7 +131,7 @@
 > 323,324c323,324
 > 326,327c326,327
 > 329,330c329,330
-192,212c150,162
+77,97c60,72
 < 339c339
 < 33c33
 < 342c342
@@ -192,7 +167,7 @@
 > 383,384c383,384
 > 386,387c386,387
 > 389,390c389,390
-214,219c164,170
+99,104c74,80
 < 45c45
 < 48c48
 < 51c51
@@ -207,7 +182,7 @@
 > 53,54c53,54
 > 56,57c56,57
 > 59,60c59,60
-221,224c172,174
+106,109c82,84
 < 66c66
 < 69c69
 < 6c6
@@ -216,7 +191,7 @@
 > 65,66c65,66
 > 68,69c68,69
 > 71,72c71,72
-226,229c176,179
+111,114c86,89
 < 78c78
 < 81c81
 < 84c84
@@ -226,52 +201,50 @@
 > 80,81c80,81
 > 83,84c83,84
 > 86,87c86,87
-231,233c181,182
+116,118c91,92
 < 93c93
 < 96c96
 < < "1007.title" = "Highlight:";
 ---
 > 92,93c92,93
 > 95,96c95,96
-236,237d184
+121,122d94
 < < "1083.title" = "Fill knocks out shadow";
 < < "1091.title" = "Solid color";
-240d186
+125d96
 < < "1099.label" = "Solid color";
-246,250d191
+131,135d101
 < < "1154.title" = "Gradient:";
 < < "1165.title" = "Scale X:";
 < < "1171.title" = "Scale Y:";
 < < "1180.title" = "Offset Y:";
 < < "1181.title" = "Offset X:";
-254,258d194
+139,143d104
 < < "1242.title" = "Offset Y:";
 < < "1243.title" = "Offset X:";
 < < "1244.title" = "Scale Y:";
 < < "1245.title" = "Scale X:";
 < < "1246.title" = "Gradient:";
-260d195
+145d105
 < < "1275.title" = "Gradient:";
-309d243
+194d153
 < < "7Xc-9F-TTE.title" = "Specular:";
-316d249
-< < "912.title" = "Center";
-325d257
+210d168
 < < "944.title" = "Pillow";
-329,330d260
+214,215d171
 < < "978.title" = "Azimuth:";
 < < "982.title" = "Elevation:";
-336d265
+221d176
 < < "JRt-w1-ys5.title" = "Shininess:";
-338d266
+223d177
 < < "TfO-jF-PQ8.title" = "Ambient:";
-340,341d267
+225,226d178
 < < "b17-xr-WVH.title" = "Ambient light color:";
 < < "bXO-sD-Upv.title" = "Specular color:";
-344,345d269
+229,230d180
 < < "gNU-iI-0DP.title" = "Elevation:";
 < < "i6m-A5-rN7.title" = "Azimuth:";
-349,464c273,528
+234,349c184,438
 < > "1007.title" = "ハイライト:";
 < > "1009.title" = "シャドウ:";
 < > "1052.title" = "プロファイル:";
@@ -397,7 +370,6 @@
 > < /* Class = "NSButtonCell"; title = "Remove Profile"; ObjectID = "1378"; */
 > < /* Class = "NSButtonCell"; title = "Remove Profile"; ObjectID = "Hu6-F0-5qY"; */
 > < /* Class = "NSButtonCell"; title = "Remove"; ObjectID = "ENj-RY-fSm"; */
-> < /* Class = "NSMenuItem"; title = "Centre"; ObjectID = "912"; */
 > < /* Class = "NSMenuItem"; title = "Conical"; ObjectID = "1318"; */
 > < /* Class = "NSMenuItem"; title = "Conical"; ObjectID = "1333"; */
 > < /* Class = "NSMenuItem"; title = "Contour"; ObjectID = "1092"; */
@@ -539,6 +511,7 @@
 > > "839.title" = "혼합 모드:";
 > > "857.title" = "혼합 모드:";
 > > "911.title" = "안으로";
+> > "912.title" = "가운데";
 > > "913.title" = "바깥";
 > > "914.title" = "정렬:";
 > > "924.title" = "깊이:";
@@ -584,7 +557,6 @@
 > > /* Class = "NSMenuItem"; title = "타원형"; ObjectID = "1332"; */
 > > /* Class = "NSMenuItem"; title = "원뿔형"; ObjectID = "1333"; */
 > > /* Class = "NSMenuItem"; title = "안으로"; ObjectID = "911"; */
-> > /* Class = "NSMenuItem"; title = "가운데"; ObjectID = "912"; */
 > > /* Class = "NSMenuItem"; title = "그레이디언트"; ObjectID = "1119"; */
 > > /* Class = "NSTabViewItem"; label = "등고선"; ObjectID = "1257"; */
 > > /* Class = "NSTabViewItem"; label = "그레이디언트"; ObjectID = "1100"; */
