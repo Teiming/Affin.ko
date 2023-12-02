@@ -45,12 +45,12 @@
 > "26.title" = "적용";
 > "279.title" = "양";
 > "F6P-6d-fJt.title" = "단색";
-> "OHR-BD-XbM.ibShadowedToolTip" = "거울 뷰 모드";
-> "e7W-Ry-HF6.ibShadowedToolTip" = "분할 뷰 모드";
-> "eXT-WI-6gM.ibShadowedToolTip" = "분할 뷰 모드 해제";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "eXT-WI-6gM"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "OHR-BD-XbM"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "e7W-Ry-HF6"; */
+> "OHR-BD-XbM.ibShadowedToolTip" = "거울 보기";
+> "e7W-Ry-HF6.ibShadowedToolTip" = "분할 보기";
+> "eXT-WI-6gM.ibShadowedToolTip" = "분할 보기 해제";
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "eXT-WI-6gM"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "OHR-BD-XbM"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "e7W-Ry-HF6"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "236"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > /* Class = "NSButtonCell"; title = "단색"; ObjectID = "F6P-6d-fJt"; */
