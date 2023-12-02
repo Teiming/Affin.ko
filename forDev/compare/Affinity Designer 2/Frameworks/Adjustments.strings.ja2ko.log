@@ -1,75 +1,4 @@
-61,157c61,68
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
-< ---
+2,27c2,9
 < 102c102
 < 105c105
 < 108c108
@@ -105,7 +34,7 @@
 > 131,132c131,132
 > 14,15c14,15
 > 170,171c170,171
-159,212c70,101
+29,66c11,34
 < 183c183
 < 186c186
 < 189c189
@@ -144,7 +73,32 @@
 < 300c300
 < 309c309
 < 30c30
-< 312c312
+---
+> 182,183c182,183
+> 185,186c185,186
+> 188,189c188,189
+> 191,192c191,192
+> 194,195c194,195
+> 197,198c197,198
+> 2,3c2,3
+> 20,21c20,21
+> 200,204c200,201
+> 206,207c203,204
+> 208a206,208
+> 215,216c215,216
+> 224,225c224,225
+> 23,24c23,24
+> 233,234c233,234
+> 248,249c248,249
+> 254,255c254,255
+> 257,258c257,258
+> 26,27c26,27
+> 263,264c263,264
+> 266,267c266,267
+> 275,276c275,276
+> 29,30c29,30
+> 296,297c296,297
+68,82c36,42
 < 315c315
 < 318c318
 < 321c321
@@ -161,31 +115,6 @@
 < 357c357
 < 360c360
 ---
-> 182,183c182,183
-> 185,186c185,186
-> 188,189c188,189
-> 191,192c191,192
-> 194,195c194,195
-> 197,198c197,198
-> 2,3c2,3
-> 20,21c20,21
-> 200,201c200,201
-> 203,204c203,204
-> 206,207c206,207
-> 215,216c215,216
-> 224,225c224,225
-> 23,24c23,24
-> 233,234c233,234
-> 248,249c248,249
-> 254,255c254,255
-> 257,258c257,258
-> 26,27c26,27
-> 263,264c263,264
-> 266,267c266,267
-> 275,276c275,276
-> 29,30c29,30
-> 296,297c296,297
-> 312c312
 > 314,315c314,315
 > 32,33c32,33
 > 326,327c326,327
@@ -193,7 +122,7 @@
 > 353,354c353,354
 > 356,357c356,357
 > 359,360c359,360
-214,261c103,119
+84,122c44,57
 < 366c366
 < 372c372
 < 375c375
@@ -233,15 +162,6 @@
 < 63c63
 < 66c66
 < 69c69
-< 6c6
-< 72c72
-< 75c75
-< 78c78
-< 84c84
-< 87c87
-< 93c93
-< 96c96
-< 99c99
 ---
 > 374c374
 > 389,390c389,390
@@ -257,31 +177,41 @@
 > 56,57c56,57
 > 59,60c59,60
 > 62,63c62,63
+124,131c59,61
+< 72c72
+< 75c75
+< 78c78
+< 84c84
+< 87c87
+< 93c93
+< 96c96
+< 99c99
+---
 > 74,75c74,75
 > 77,78c77,78
 > 83,84c83,84
-264d121
+132a63
+> < 
+134d64
 < < "1WF-2W-ULi.title" = "Flip Y";
-266d122
+136d65
 < < "3CG-uC-GYk.title" = "Cyan / Red";
-268d123
-< < "590.label" = "Recolor";
-272d126
+142d70
 < < "594.label" = "Black & White";
-278d131
+148d75
 < < "601.label" = "Brightness Contrast";
-280,283d132
+150,153d76
 < < "603.label" = "Posterize";
 < < "632.title" = "Posterize Levels";
 < < "646.title" = "Black Level";
 < < "647.title" = "White Level";
-287,289d135
+157,159d79
 < < "676.title" = "Hue Shift";
 < < "677.title" = "Saturation Shift";
 < < "678.title" = "Luminosity Shift";
-292d137
+162d81
 < < "6jJ-PQ-8Ca.title" = "Name: Identity";
-294,300d138
+164,170d82
 < < "728.title" = "Picker";
 < < "747.title" = "Channel 1";
 < < "748.title" = "Output Channel";
@@ -289,10 +219,10 @@
 < < "750.title" = "Channel 3";
 < < "751.title" = "Channel 4";
 < < "752.title" = "Channel 5";
-304,305d141
+174,175d85
 < < "776.title" = "Cyan";
 < < "777.title" = "Magenta";
-307,319c143
+177,189c87
 < < "779.title" = "Picker";
 < < "7nu-4L-dOa.title" = "Infer LUT...";
 < < "807.title" = "Proof Profile";
@@ -308,61 +238,59 @@
 < < "843.title" = "Relative";
 ---
 > < "795.title" = "Text Cell";
-321,322d144
+191,192d88
 < < "845.title" = "Magenta";
 < < "846.title" = "Cyan";
-332d153
+202d97
 < < "8hA-4B-coG.title" = "Optical Density";
-335,336d155
+205,206d99
 < < "9RA-HT-1XM.title" = "Yellow / Blue";
 < < "9RO-PE-ML7.title" = "Reverse";
-340d158
+210d102
 < < "Cfb-eQ-cro.title" = "Gamut Check";
-343,344d160
+213,214d104
 < < "F1B-dz-CQs.title" = "Gradient Button";
 < < "FJM-Pj-tnJ.title" = "Gradient Button";
-346,347d161
+216,217d105
 < < "FoF-YT-wWz.ibShadowedToolTip" = "Add Sublayer";
 < < "HIH-aE-9Eo.title" = "Gray";
-349,350d162
+219,220d106
 < < "LlY-sL-U4J.ibShadowedToolTip" = "Blend Ranges";
 < < "O12-p4-fyI.title" = "Load LUT...";
-353,355d164
+223,225d108
 < < "SH0-gC-ICh.title" = "Highlights";
 < < "Sb9-DD-2IB.title" = "Shadows Saturation";
 < < "TVa-re-wzI.title" = "Gray";
-357,361d165
+227,231d109
 < < "UkO-WQ-xJ5.title" = "Highlights Hue";
 < < "VFD-A2-Zod.title" = "Highlights Saturation";
 < < "Vsw-rn-QZ3.title" = "Destination Color Space";
 < < "WnX-s3-B66.title" = "Relative Colorimetric";
 < < "XoO-je-JcW.title" = "Perceptual";
-367,371d170
+237,241d114
 < < "bxX-lF-8q5.title" = "Output Black Level";
 < < "cGF-og-2F8.label" = "Normals";
 < < "drP-OV-Mcv.title" = "Gray";
 < < "eQ2-oY-KP7.title" = "Output White Level";
 < < "eUo-tN-iyd.title" = "Midtones";
-374,376d172
+244,246d116
 < < "hos-YN-gtv.title" = "Highlights";
 < < "k1c-fl-J8O.title" = "Black point compensation";
 < < "lCK-kn-dKy.title" = "Rendering Intent:";
-379,383c175
+249d118
 < < "nha-He-6bH.title" = "Filter Color";
-< < "nqj-md-AI2.title" = "Scale";
+251,253d119
 < < "obx-gE-SeM.title" = "Shadows Hue";
 < < "qQx-GQ-OaB.title" = "Source Color Space";
 < < "rFB-oR-aTd.title" = "Picker";
----
-> < "nqj-md-AI2.title" = "Scale";
-385,387d176
+255,257d120
 < < "uL2-2o-JPy.title" = "Picker";
 < < "vPj-ZK-Njl.title" = "Preserve Luminosity";
 < < "wKK-kf-WaA.title" = "Absolute Colorimetric";
-389,390d177
+259,260d121
 < < "wy3-gN-FZL.title" = "Flip X";
 < < "yVn-Z4-xoE.title" = "Magenta / Green";
-392,524c179,348
+262,394c123,294
 < < "yn3-80-URj.title" = "Mid Point:";
 < < "zfr-Cf-YQD.title" = "Preserve luminosity";
 < > "1268.title" = "線形";
@@ -553,9 +481,11 @@
 > < /* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "778"; */
 > < /* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "844"; */
 > < /* Class = "NSWindow"; title = "Adjustments"; ObjectID = "90"; */
+> > 
 > > "1268.title" = "선형";
 > > "29s-xQ-82u.title" = "그림자";
 > > "548-M9-evq.label" = "분할 색조";
+> > "590.label" = "재색상";
 > > "591.label" = "색상 선택";
 > > "592.label" = "그레이디언트 맵";
 > > "593.label" = "미리보기";
