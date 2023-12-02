@@ -29,15 +29,7 @@
 < > "cTL-4a-86p.title" = "複製";
 < > "tWF-xK-yQw.title" = "表ビューセル";
 ---
-> < /* Class = "NSButton"; ibShadowedToolTip = "Remove Layer"; ObjectID = "c4c-FG-eib"; */
-> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "Y9C-cY-t7h"; */
-> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "cTL-4a-86p"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aGA-1U-QDO"; */
 > > "Y9C-cY-t7h.title" = "지우기";
 > > "aGA-1U-QDO.title" = "텍스트 셀";
 > > "c4c-FG-eib.ibShadowedToolTip" = "레이어 지우기";
 > > "cTL-4a-86p.title" = "복제";
-> > /* Class = "NSButton"; ibShadowedToolTip = "레이어 지우기"; ObjectID = "c4c-FG-eib"; */
-> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "cTL-4a-86p"; */
-> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "Y9C-cY-t7h"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "aGA-1U-QDO"; */
