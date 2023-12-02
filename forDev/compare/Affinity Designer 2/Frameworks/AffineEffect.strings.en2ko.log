@@ -34,13 +34,13 @@
 > "26.title" = "적용";
 > "4SU-nT-unv.title" = "거울";
 > "FZ0-pO-Bs4.title" = "회전";
-> "G3Z-nm-9QV.ibShadowedToolTip" = "분할 뷰 모드";
-> "e39-iF-vKm.ibShadowedToolTip" = "거울 뷰 모드";
-> "fcB-eh-JFV.ibShadowedToolTip" = "분할 뷰 모드 해제";
+> "G3Z-nm-9QV.ibShadowedToolTip" = "분할 보기";
+> "e39-iF-vKm.ibShadowedToolTip" = "거울 보기";
+> "fcB-eh-JFV.ibShadowedToolTip" = "분할 보기 해제";
 > "g1b-Hn-BaR.title" = "반복";
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드 해제"; ObjectID = "fcB-eh-JFV"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "분할 뷰 모드"; ObjectID = "G3Z-nm-9QV"; */
-> /* Class = "NSButton"; ibShadowedToolTip = "거울 뷰 모드"; ObjectID = "e39-iF-vKm"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기 해제"; ObjectID = "fcB-eh-JFV"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "분할 보기"; ObjectID = "G3Z-nm-9QV"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "거울 보기"; ObjectID = "e39-iF-vKm"; */
 > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "210"; */
 > /* Class = "NSButtonCell"; title = "적용"; ObjectID = "26"; */
 > /* Class = "NSMenuItem"; title = "거울"; ObjectID = "4SU-nT-unv"; */
