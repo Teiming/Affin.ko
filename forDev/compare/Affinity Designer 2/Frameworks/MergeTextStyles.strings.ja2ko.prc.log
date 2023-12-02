@@ -62,14 +62,6 @@
 < > "rcW-Dp-Nj7.title" = "段落をチェック";
 < > "xvE-lU-BE7.title" = "インポートされたテキストスタイル";
 ---
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2GK-yg-Hiw"; */
-> < /* Class = "NSTableColumn"; headerCell.title = "Rename To"; ObjectID = "jrw-3t-oyr"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Lhl-3w-miQ"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MEG-4f-a4D"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UqM-Ye-I8b"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YpL-Os-qLm"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eQ3-Fj-QfF"; */
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iha-za-VVP"; */
 > > "2GK-yg-Hiw.title" = "취소";
 > > "Lhl-3w-miQ.title" = "텍스트 셀";
 > > "MEG-4f-a4D.title" = "텍스트 셀";
@@ -78,11 +70,3 @@
 > > "eQ3-Fj-QfF.title" = "텍스트 셀";
 > > "iha-za-VVP.title" = "텍스트 셀";
 > > "jrw-3t-oyr.headerCell.title" = "이름 변경...";
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "2GK-yg-Hiw"; */
-> > /* Class = "NSTableColumn"; headerCell.title = "이름 변경..."; ObjectID = "jrw-3t-oyr"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "Lhl-3w-miQ"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "MEG-4f-a4D"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "UqM-Ye-I8b"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "YpL-Os-qLm"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "eQ3-Fj-QfF"; */
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "iha-za-VVP"; */
