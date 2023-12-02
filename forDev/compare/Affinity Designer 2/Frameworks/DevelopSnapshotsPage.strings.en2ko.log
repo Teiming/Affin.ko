@@ -1,18 +1,18 @@
-5,6c5,6
-< /* Class = "NSButton"; ibShadowedToolTip = "Add Snapshot"; ObjectID = "19T-NU-2II"; */
-< "19T-NU-2II.ibShadowedToolTip" = "Add Snapshot";
 ---
-> /* Class = "NSButton"; ibShadowedToolTip = "스냅샷 추가"; ObjectID = "19T-NU-2II"; */
-> "19T-NU-2II.ibShadowedToolTip" = "스냅샷 추가";
-8,9c8,9
-< /* Class = "NSButton"; ibShadowedToolTip = "Delete Snapshot"; ObjectID = "7rv-br-DZr"; */
-< "7rv-br-DZr.ibShadowedToolTip" = "Delete Snapshot";
 ---
-> /* Class = "NSButton"; ibShadowedToolTip = "스냅샷 지우기"; ObjectID = "7rv-br-DZr"; */
-> "7rv-br-DZr.ibShadowedToolTip" = "스냅샷 지우기";
+---
 11,12c11,12
-< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FBP-D9-DAR"; */
+5,6c5,6
+8,9c8,9
+< "19T-NU-2II.ibShadowedToolTip" = "Add Snapshot";
+< "7rv-br-DZr.ibShadowedToolTip" = "Delete Snapshot";
 < "FBP-D9-DAR.title" = "Text Cell";
----
-> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "FBP-D9-DAR"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Add Snapshot"; ObjectID = "19T-NU-2II"; */
+< /* Class = "NSButton"; ibShadowedToolTip = "Delete Snapshot"; ObjectID = "7rv-br-DZr"; */
+< /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FBP-D9-DAR"; */
+> "19T-NU-2II.ibShadowedToolTip" = "스냅샷 추가";
+> "7rv-br-DZr.ibShadowedToolTip" = "스냅샷 지우기";
 > "FBP-D9-DAR.title" = "텍스트 셀";
+> /* Class = "NSButton"; ibShadowedToolTip = "스냅샷 추가"; ObjectID = "19T-NU-2II"; */
+> /* Class = "NSButton"; ibShadowedToolTip = "스냅샷 지우기"; ObjectID = "7rv-br-DZr"; */
+> /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "FBP-D9-DAR"; */
