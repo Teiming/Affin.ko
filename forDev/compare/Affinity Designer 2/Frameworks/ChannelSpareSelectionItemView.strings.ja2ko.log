@@ -1,58 +1,52 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSTextFieldCell"; title = "Channel"; ObjectID = "6"; */
-4,5c5,8
-< > "6.title" = "チャンネル";
-< 6c6
----
-> > /* Class = "NSTextFieldCell"; title = "채널"; ObjectID = "6"; */
-> > "6.title" = "채널";
-> 5,6c5,6
-> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "5lv-Yu-niR"; */
-8,21c11,14
-< > "5lv-Yu-niR.title" = "複製";
-< 9c9
-< < "7Ae-GT-4RB.title" = "Add To Pixel Selection";
+6,18c6,10
 < ---
-< > "7Ae-GT-4RB.title" = "ピクセル選択範囲に加算";
+< ---
+< ---
+< ---
 < 12c12
-< < "9cI-h0-caV.title" = "Intersect With Pixel Selection";
-< ---
-< > "9cI-h0-caV.title" = "ピクセル選択範囲と交差";
 < 15c15
-< < "GhK-ZA-nQW.title" = "Load To Pixel Selection";
-< ---
-< > "GhK-ZA-nQW.title" = "ピクセル選択範囲に読み込み";
 < 18c18
----
-> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "5lv-Yu-niR"; */
-> > "5lv-Yu-niR.title" = "복제";
-> 17,18c17,18
-> < /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "U01-Cj-fqJ"; */
-24,29c17,20
-< > "U01-Cj-fqJ.title" = "名前を変更";
 < 21c21
-< < "enU-GO-Qs0.title" = "Subtract From Pixel Selection";
-< ---
-< > "enU-GO-Qs0.title" = "ピクセル選択範囲から減算";
 < 24c24
----
-> > /* Class = "NSMenuItem"; title = "이름 변경"; ObjectID = "U01-Cj-fqJ"; */
-> > "U01-Cj-fqJ.title" = "이름 변경";
-> 23,24c23,24
-> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "jpq-u9-zJu"; */
-32,33c23,26
-< > "jpq-u9-zJu.title" = "削除";
 < 27c27
+< 3c3
+< 6c6
+< 9c9
 ---
-> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "jpq-u9-zJu"; */
-> > "jpq-u9-zJu.title" = "지우기";
+> 17,18c17,18
+> 2,3c2,3
+> 23,24c23,24
 > 26,27c26,27
-> < /* Class = "NSButton"; ibShadowedToolTip = "Delete"; ObjectID = "xm5-5f-Lrj"; */
-36c29,30
+> 5,6c5,6
+21,23d12
+< < "7Ae-GT-4RB.title" = "Add To Pixel Selection";
+< < "9cI-h0-caV.title" = "Intersect With Pixel Selection";
+< < "GhK-ZA-nQW.title" = "Load To Pixel Selection";
+25d13
+< < "enU-GO-Qs0.title" = "Subtract From Pixel Selection";
+28,36c16,30
+< > "5lv-Yu-niR.title" = "複製";
+< > "6.title" = "チャンネル";
+< > "7Ae-GT-4RB.title" = "ピクセル選択範囲に加算";
+< > "9cI-h0-caV.title" = "ピクセル選択範囲と交差";
+< > "GhK-ZA-nQW.title" = "ピクセル選択範囲に読み込み";
+< > "U01-Cj-fqJ.title" = "名前を変更";
+< > "enU-GO-Qs0.title" = "ピクセル選択範囲から減算";
+< > "jpq-u9-zJu.title" = "削除";
 < > "xm5-5f-Lrj.ibShadowedToolTip" = "削除";
 ---
-> > /* Class = "NSButton"; ibShadowedToolTip = "지우기"; ObjectID = "xm5-5f-Lrj"; */
+> < /* Class = "NSButton"; ibShadowedToolTip = "Delete"; ObjectID = "xm5-5f-Lrj"; */
+> < /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "jpq-u9-zJu"; */
+> < /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "5lv-Yu-niR"; */
+> < /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "U01-Cj-fqJ"; */
+> < /* Class = "NSTextFieldCell"; title = "Channel"; ObjectID = "6"; */
+> > "5lv-Yu-niR.title" = "복제";
+> > "6.title" = "채널";
+> > "U01-Cj-fqJ.title" = "이름 변경";
+> > "jpq-u9-zJu.title" = "지우기";
 > > "xm5-5f-Lrj.ibShadowedToolTip" = "지우기";
+> > /* Class = "NSButton"; ibShadowedToolTip = "지우기"; ObjectID = "xm5-5f-Lrj"; */
+> > /* Class = "NSMenuItem"; title = "이름 변경"; ObjectID = "U01-Cj-fqJ"; */
+> > /* Class = "NSMenuItem"; title = "복제"; ObjectID = "5lv-Yu-niR"; */
+> > /* Class = "NSMenuItem"; title = "지우기"; ObjectID = "jpq-u9-zJu"; */
+> > /* Class = "NSTextFieldCell"; title = "채널"; ObjectID = "6"; */
