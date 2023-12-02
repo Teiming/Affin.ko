@@ -1,4 +1,4 @@
-20,69c20,38
+20,43c20,25
 < ---
 < ---
 < ---
@@ -23,8 +23,14 @@
 < 132c132
 < 135c135
 < 138c138
-< 141c141
-< 144c144
+---
+> 11,12c11,12
+> 119,120c119,120
+> 128,129c128,129
+> 131,132c131,132
+> 134,135c134,135
+> 137,138c137,138
+46,54c28,29
 < 147c147
 < 156c156
 < 15c15
@@ -34,8 +40,10 @@
 < 30c30
 < 36c36
 < 39c39
-< 3c3
-< 42c42
+---
+> 161,162c161,162
+> 20,21c20,21
+57,68c32,38
 < 45c45
 < 48c48
 < 54c54
@@ -48,20 +56,7 @@
 < 93c93
 < 96c96
 < 99c99
-< < "0JH-MY-Wpc.title" = "Color:";
 ---
-> 11,12c11,12
-> 119,120c119,120
-> 128,129c128,129
-> 131,132c131,132
-> 134,135c134,135
-> 137,138c137,138
-> 140c140
-> 143c143
-> 161,162c161,162
-> 20,21c20,21
-> 2c2
-> 41c41
 > 5,6c5,6
 > 68,69c68,69
 > 83,84c83,84
@@ -69,31 +64,29 @@
 > 89,90c89,90
 > 95,96c95,96
 > 98,99c98,99
-72d40
+72d41
 < < "3Ia-w8-evj.title" = "Gray/8";
-74,82d41
+74,77d42
 < < "6bH-f5-6JO.title" = "Vertically";
 < < "8as-9P-5g7.title" = "Item 3";
 < < "9gY-Pj-GuJ.title" = "Prefer Embedded";
 < < "Afb-TN-TK6.title" = "Item 1";
-< < "CPZ-gV-lcj.title" = "Color Format:";
+79,82d43
 < < "F0z-JX-Cv5.title" = "Document Setup";
 < < "FwX-1B-jTC.title" = "Arrange:";
 < < "Ho3-hS-NCa.title" = "Image Placement Policy:";
 < < "LVV-Vn-DPx.title" = "Gray/16";
-87d45
+87d47
 < < "Rr4-iF-uQ4.title" = "Horizontally";
-90d47
+90d49
 < < "TqF-bq-caN.ibShadowedToolTip" = "Set the bleed color";
-92,93d48
+92,93d50
 < < "dY7-gT-8N7.title" = "iPhone, iPad Mini (Retina)";
 < < "de7-vU-0Oe.title" = "Facing pages";
-98,101d52
-< < "mqP-St-PnE.title" = "Color Profile:";
-< < "n5O-5H-Szw.label" = "Color";
+100,101d56
 < < "o8O-MA-S7F.title" = "Prefer Linked";
 < < "rVx-la-rFZ.title" = "Item 2";
-103,136c54,106
+103,136c58,106
 < > "0JH-MY-Wpc.title" = "カラー:";
 < > "1UO-bj-1Ct.title" = "ボタン";
 < > "3Bx-1A-7DX.title" = "ドキュメント単位:";
@@ -136,21 +129,19 @@
 > < /* Class = "NSMenuItem"; title = "Left"; ObjectID = "Rwr-K9-EZe"; */
 > < /* Class = "NSMenuItem"; title = "Right"; ObjectID = "y41-Pp-Cr8"; */
 > < /* Class = "NSTabViewItem"; label = "Bleed"; ObjectID = "m8g-i7-Vfm"; */
-> < /* Class = "NSTabViewItem"; label = "Colour"; ObjectID = "n5O-5H-Szw"; */
 > < /* Class = "NSTabViewItem"; label = "Layout"; ObjectID = "khw-5N-Xyt"; */
 > < /* Class = "NSTextFieldCell"; title = "'Actual Size' Zoom:"; ObjectID = "TG6-DZ-wQy"; */
 > < /* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "hM3-57-U7X"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour Format:"; ObjectID = "CPZ-gV-lcj"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour Profile:"; ObjectID = "mqP-St-PnE"; */
-> < /* Class = "NSTextFieldCell"; title = "Colour:"; ObjectID = "0JH-MY-Wpc"; */
 > < /* Class = "NSTextFieldCell"; title = "Document Units:"; ObjectID = "3Bx-1A-7DX"; */
 > < /* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "NmL-8u-DKg"; */
 > < /* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "QxF-N8-EzW"; */
 > < /* Class = "NSTextFieldCell"; title = "Start on:"; ObjectID = "RCb-3h-oZx"; */
 > < /* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "5yD-eB-mwR"; */
+> > "0JH-MY-Wpc.title" = "색상:";
 > > "1UO-bj-1Ct.title" = "버튼";
 > > "3Bx-1A-7DX.title" = "문서 단위:";
 > > "5yD-eB-mwR.title" = "위쪽:";
+> > "CPZ-gV-lcj.title" = "색상 포맷";
 > > "NmL-8u-DKg.title" = "왼쪽:";
 > > "QbK-of-2ht.title" = "취소";
 > > "QxF-N8-EzW.title" = "오른쪽:";
@@ -162,6 +153,8 @@
 > > "hM3-57-U7X.title" = "아래쪽";
 > > "khw-5N-Xyt.label" = "구조";
 > > "m8g-i7-Vfm.label" = "도련";
+> > "mqP-St-PnE.title" = "색상 프로파일:";
+> > "n5O-5H-Szw.label" = "색상";
 > > "y41-Pp-Cr8.title" = "오른쪽";
 > > /* Class = "NSButtonCell"; title = "버튼"; ObjectID = "1UO-bj-1Ct"; */
 > > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "QbK-of-2ht"; */
@@ -171,12 +164,8 @@
 > > /* Class = "NSMenuItem"; title = "오른쪽"; ObjectID = "y41-Pp-Cr8"; */
 > > /* Class = "NSTabViewItem"; label = "구조"; ObjectID = "khw-5N-Xyt"; */
 > > /* Class = "NSTabViewItem"; label = "도련"; ObjectID = "m8g-i7-Vfm"; */
-> > /* Class = "NSTabViewItem"; label = "색상"; ObjectID = "n5O-5H-Szw"; */
 > > /* Class = "NSTextFieldCell"; title = "'실제 크기' 맞추기:"; ObjectID = "TG6-DZ-wQy"; */
-> > /* Class = "NSTextFieldCell"; title = "색상 포맷"; ObjectID = "CPZ-gV-lcj"; */
 > > /* Class = "NSTextFieldCell"; title = "문서 단위:"; ObjectID = "3Bx-1A-7DX"; */
-> > /* Class = "NSTextFieldCell"; title = "색상 프로파일:"; ObjectID = "mqP-St-PnE"; */
-> > /* Class = "NSTextFieldCell"; title = "색상:"; ObjectID = "0JH-MY-Wpc"; */
 > > /* Class = "NSTextFieldCell"; title = "위쪽:"; ObjectID = "5yD-eB-mwR"; */
 > > /* Class = "NSTextFieldCell"; title = "왼쪽:"; ObjectID = "NmL-8u-DKg"; */
 > > /* Class = "NSTextFieldCell"; title = "개시:"; ObjectID = "RCb-3h-oZx"; */
