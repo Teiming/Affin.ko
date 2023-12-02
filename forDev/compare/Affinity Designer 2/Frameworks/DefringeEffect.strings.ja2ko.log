@@ -1,8 +1,4 @@
-8,23c8,14
-< ---
-< ---
-< ---
-< ---
+2,13c2,8
 < 12c12
 < 15c15
 < 18c18
@@ -23,13 +19,13 @@
 > 32,33c32,33
 > 5,6c5,6
 > 8,9c8,9
-26d16
+16d10
 < < "153.title" = "Fringe Color";
-29d18
+19d12
 < < "223.title" = "Edge Brightness Threshold";
-32d20
+22d14
 < < "xh2-MS-6Nc.title" = "Also Remove Complementary Hue";
-34,44c22,42
+24,34c16,36
 < > "1.title" = "フリンジ除去";
 < > "146.title" = "キャンセル";
 < > "147.title" = "適用";
