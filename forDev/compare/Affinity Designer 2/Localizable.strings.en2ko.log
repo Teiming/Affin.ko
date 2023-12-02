@@ -64,6 +64,7 @@
 ---
 ---
 ---
+---
 101c101
 107c107
 110c110
@@ -121,6 +122,7 @@
 62c62
 65c65
 68c68
+71c71
 77c77
 80c80
 83c83
@@ -141,6 +143,7 @@
 < "Channels [Accelerator key]" = "Channels";
 < "Character [Accelerator key]" = "Character";
 < "Clear Mask [Liquify toolbar]" = "Clear Mask";
+< "Colour [Accelerator key]" = "Color";
 < "Constraints [Accelerator key]" = "Constraints";
 < "Cycle View Mode [Accelerator key]" = "Cycle View Mode";
 < "Develop Persona [Develop Persona]" = "Develop Persona";
@@ -207,8 +210,9 @@
 > "Channels [Accelerator key]" = "채널";
 > "Character [Accelerator key]" = "문자";
 > "Clear Mask [Liquify toolbar]" = "마스크 해제";
+> "Colour [Accelerator key]" = "색상";
 > "Constraints [Accelerator key]" = "제약";
-> "Cycle View Mode [Accelerator key]" = "뷰 모드 순환";
+> "Cycle View Mode [Accelerator key]" = "보기 순환";
 > "Develop Persona [Develop Persona]" = "현상 페르소나";
 > "Develop [Develop tool context toolbar]" = "현상";
 > "Develop [Persona Name]" = "현상";
