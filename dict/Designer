@@ -582,6 +582,7 @@ s/\"Hide Selection while Dragging\";/\"드래그할 때 선택 항목 가리기\
 s/\"Hide Studio\";/\"작업실 가리기\";/
 s/\"Hide\";/\"가리기\";/
 s/\"High Frequency\";/\"고주파수\";/
+s/\"Highlight:\";/\"하이라이트:\";/
 s/\"Hiragana\";/\"히라가나\";/
 s/\"His\";/\"기록\";/
 s/\"Histogram\";/\"히스토그램\";/
@@ -867,9 +868,9 @@ s/\"Out:\";/\"바깥:\";/
 s/\"Outer Glow\";/\"외부 광채\";/
 s/\"Outer Shadow\";/\"외부 그림자\";/
 s/\"Outer\";/\"외부\";/
-s/\"Outline view mode\";/\"외형 보기\";/
-s/\"Outline\";/\"외형\";/
-s/\"Outline…\";/\"외형…\";/
+s/\"Outline view mode\";/\"아웃라인 보기\";/
+s/\"Outline\";/\"아웃라인\";/
+s/\"Outline…\";/\"아웃라인…\";/
 s/\"Output Angle\";/\"출력 각도\";/
 s/\"Output Profile\";/\"프로파일 출력\";/
 s/\"Output\";/\"출력\";/

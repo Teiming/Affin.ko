@@ -19,11 +19,11 @@ s/\"Add Adjustment Preset\";/\"조정 미리 설정 추가\";/
 s/\"Add Application Palette\";/\"응용프로그램 팔레트 추가\";/
 s/\"Add Artistic Text\";/\"에술 텍스트 추가\";/
 s/\"Add Chord to Swatch\";/\"견본에 코드 추가\";/
-s/\"Add Colour to Swatch\";/\"견본에 색상 추가\";/
+s/\"Add Color to Swatch\";/\"견본에 색상 추가\";/
 s/\"Add Crop Preset\";/\"크롭 미리 설정 추가\";/
 s/\"Add Document Palette\";/\"문서 팔레트 추가\";/
 s/\"Add Document Snapshot\";/\"문서 스냅샷 추가\";/
-s/\"Add Global Colour…\";/\"전역 색상 추가…\";/
+s/\"Add Global Color…\";/\"전역 색상 추가…\";/
 s/\"Add Gradient Overlay\";/\"그라디언트 오버레이 추가\";/
 s/\"Add Layer\";/\"레이어 추가\";/
 s/\"Add New Category...\";/\"신규 범주 추가...\";/
@@ -33,7 +33,7 @@ s/\"Add Pages\";/\"페이지 추가\";/
 s/\"Add Pixel Layer\";/\"픽셀 레이어 추가\";/
 s/\"Add Preset\";/\"미리 설정 추가\";/
 s/\"Add Preset…\";/\"미리 설정 추가…\";/
-s/\"Add Registration Colour\";/\"등록 색상을 추가\";/
+s/\"Add Registration Color\";/\"등록 색상을 추가\";/
 s/\"Add Round\";/\"둥근 브러시 추가\";/
 s/\"Add Snapshot\";/\"스냅샷 추가\";/
 s/\"Add Style from Selection\";/\"선택 항목에서 스타일 추가\";/
@@ -90,7 +90,7 @@ s/\"Angle too close to second axis angle\";/\"두 번째 축 각도와 너무 �
 s/\"Angle:\";/\"각도:\";/
 s/\"Angle\";/\"각도\";/
 s/\"Appearance\";/\"외관\";/
-s/\"Apple Colour Picker...\";/\"Apple 색상 선택기...\";/
+s/\"Apple Color Picker...\";/\"Apple 색상 선택기...\";/
 s/\"Application is about to close.\";/\"응용프로그램을 닫습니다.\";/
 s/\"Apply to Selection\";/\"선택 항목에 적용\";/
 s/\"Apply\";/\"적용\";/
@@ -113,7 +113,7 @@ s/\"Assistant Manager…\";/\"손쉬운 사용 관리자…\";/
 s/\"Assistant Options\";/\"손쉬운 사용 설정\";/
 s/\"Assistant\";/\"손쉬운 사용\";/
 s/\"Author\";/\"저자\";/
-s/\"Auto Colours\";/\"자동 색상\";/
+s/\"Auto Colors\";/\"자동 색상\";/
 s/\"Auto Contrast\";/\"자동 대비\";/
 s/\"Auto Distribute\";/\"자동 분배\";/
 s/\"Auto Levels\";/\"자동 레벨\";/
@@ -256,17 +256,17 @@ s/\"Cloud\";/\"구름\";/
 s/\"Clr\";/\"색상\";/
 s/\"Cog Tool\";/\"톱니 도구\";/
 s/\"Cog\";/\"톱니\";/
-s/\"Colour Balance\";/\"색상 밸런스\";/
-s/\"Colour Format:\";/\"색상 포맷\";/
-s/\"Colour Format\";/\"색상 포맷\";/
-s/\"Colour Overlay\";/\"색상 오버레이\";/
-s/\"Colour Picker Tool\";/\"색상 선택기 도구\";/
-s/\"Colour Profile:\";/\"색상 프로파일:\";/
-s/\"Colour Range\";/\"색상 범위\";/
-s/\"Colour Space:\";/\"색공간:\";/
-s/\"Colour:\";/\"색상:\";/
-s/\"Colour\";/\"색상\";/
-s/\"Colours\";/\"색상\";/
+s/\"Color Balance\";/\"색상 밸런스\";/
+s/\"Color Format:\";/\"색상 포맷\";/
+s/\"Color Format\";/\"색상 포맷\";/
+s/\"Color Overlay\";/\"색상 오버레이\";/
+s/\"Color Picker Tool\";/\"색상 선택기 도구\";/
+s/\"Color Profile:\";/\"색상 프로파일:\";/
+s/\"Color Range\";/\"색상 범위\";/
+s/\"Color Space:\";/\"색공간:\";/
+s/\"Color:\";/\"색상:\";/
+s/\"Color\";/\"색상\";/
+s/\"Colors\";/\"색상\";/
 s/\"Column Guides\";/\"열 안내선\";/
 s/\"Column Marquee Tool\";/\"열 천막 도구\";/
 s/\"Columns:\";/\"행:\";/
@@ -299,7 +299,7 @@ s/\"Convert to Text Frame\";/\"텍스트 액자로 전환\";/
 s/\"Convert to Text Path\";/\"텍스트 경로로 전환\";/
 s/\"Convert:\";/\"변환:\";/
 s/\"Convert\";/\"전환\";/
-s/\"Copy Colour to Clipboard as Hex\";/\"Hex로 색상 복사\";/
+s/\"Copy Color to Clipboard as Hex\";/\"Hex로 색상 복사\";/
 s/\"Copy\";/\"복사\";/
 s/\"Copyright\";/\"저작권\";/
 s/\"Corner Tool\";/\"꼭짓점 도구\";/
@@ -309,7 +309,7 @@ s/\"Corners:\";/\"꼭짓점:\";/
 s/\"Cosine\";/\"코사인\";/
 s/\"Create Artboard\";/\"아트보드 생성\";/
 s/\"Create Character Style\";/\"문자 스타일 생성\";/
-s/\"Create Colour Chord\";/\"색상 코드 생성\";/
+s/\"Create Color Chord\";/\"색상 코드 생성\";/
 s/\"Create Compound\";/\"결합 생성\";/
 s/\"Create New Category\";/\"신규 범주 생성\";/
 s/\"Create Palette From Document\";/\"문서로부터 팔레트 생성\";/
@@ -352,7 +352,7 @@ s/\"Delete %1\";/\"%1 지우기\";/
 s/\"Delete Brush\";/\"브러시 지우기\";/
 s/\"Delete Category\";/\"범주 지우기\";/
 s/\"Delete Character Style\";/\"문자 스타일 지우기\";/
-s/\"Delete Colour\";/\"색상 지우기\";/
+s/\"Delete Color\";/\"색상 지우기\";/
 s/\"Delete Fill\";/\"칠 지우기\";/
 s/\"Delete Overlay\";/\"오버레이 지우기\";/
 s/\"Delete Palette\";/\"팔레트 지우기\";/
@@ -493,8 +493,8 @@ s/\"Figure Dash\";/\"숫자 줄표\";/
 s/\"File Update\";/\"파일 업데이트\";/
 s/\"File format:\";/\"파일 포맷:\";/
 s/\"File\";/\"파일\";/
-s/\"Fill &amp; Stroke Colour\";/\"칠 및 선 색상\";/
-s/\"Fill Colour\";/\"칠 색상\";/
+s/\"Fill &amp; Stroke Color\";/\"칠 및 선 색상\";/
+s/\"Fill Color\";/\"칠 색상\";/
 s/\"Fill Mode\";/\"칠 모드\";/
 s/\"Fill Opacity:\";/\"칠 불투명도:\";/
 s/\"Fill Tool\";/\"칠 도구\";/
@@ -581,6 +581,7 @@ s/\"Hide Selection while Dragging\";/\"드래그할 때 선택 항목 가리기\
 s/\"Hide Studio\";/\"작업실 가리기\";/
 s/\"Hide\";/\"가리기\";/
 s/\"High Frequency\";/\"고주파수\";/
+s/\"Highlight:\";/\"하이라이트:\";/
 s/\"Hiragana\";/\"히라가나\";/
 s/\"His\";/\"기록\";/
 s/\"Histogram\";/\"히스토그램\";/
@@ -676,7 +677,7 @@ s/\"Large Thumbnails\";/\"큰 마중그림\";/
 s/\"Large\";/\"크게\";/
 s/\"Largest\";/\"가장 크게\";/
 s/\"Last Selected\";/\"마지막 선택 항목\";/
-s/\"Layer Colour:\";/\"레이어 색상:\";/
+s/\"Layer Color:\";/\"레이어 색상:\";/
 s/\"Layer Effects\";/\"레이어 효과\";/
 s/\"Layer Effects…\";/\"레이어 효과…\";/
 s/\"Layer Name:\";/\"레이어 이름:\";/
@@ -865,9 +866,9 @@ s/\"Out:\";/\"바깥:\";/
 s/\"Outer Glow\";/\"외부 광채\";/
 s/\"Outer Shadow\";/\"외부 그림자\";/
 s/\"Outer\";/\"외부\";/
-s/\"Outline view mode\";/\"외형 뷰 모드\";/
-s/\"Outline\";/\"외형\";/
-s/\"Outline…\";/\"외형…\";/
+s/\"Outline view mode\";/\"아웃라인 뷰 모드\";/
+s/\"Outline\";/\"아웃라인\";/
+s/\"Outline…\";/\"아웃라인…\";/
 s/\"Output Angle\";/\"출력 각도\";/
 s/\"Output Profile\";/\"프로파일 출력\";/
 s/\"Output\";/\"출력\";/
@@ -1127,9 +1128,9 @@ s/\"Select Object\";/\"오브젝트 선택\";/
 s/\"Select Previous\";/\"이전 항목 선택\";/
 s/\"Select Reds\";/\"빨강 선택\";/
 s/\"Select Same Name\";/\"이름으로 동일 선택\";/
-s/\"Select Same Tag Colour\";/\"태그 색상으로 동일 선택\";/
+s/\"Select Same Tag Color\";/\"태그 색상으로 동일 선택\";/
 s/\"Select Same\";/\"동일 선택\";/
-s/\"Select Sampled Colour…\";/\"표본 색상 선택…\";/
+s/\"Select Sampled Color…\";/\"표본 색상 선택…\";/
 s/\"Select Shadows\";/\"그림자 선택\";/
 s/\"Select Transparency Range\";/\"투명 범위 선택\";/
 s/\"Select object\";/\"오브젝트 선택\";/
@@ -1137,7 +1138,7 @@ s/\"Select same\";/\"동일 선택\";/
 s/\"Select\";/\"선택\";/
 s/\"Selection Marquee\";/\"선택 항목 천막\";/
 s/\"Selection\";/\"선택 항목\";/
-s/\"Selective Colour\";/\"색상 선택\";/
+s/\"Selective Color\";/\"색상 선택\";/
 s/\"Send To Back\";/\"맨 뒤로 보내기\";/
 s/\"Send to Back\";/\"맨 뒤로 보내기\";/
 s/\"Separate curves\";/\"곡선 분리\";/
@@ -1280,7 +1281,7 @@ s/\"Stock Disclaimer\";/\"재고 면책사항\";/
 s/\"Stock\";/\"재고\";/
 s/\"Strength:\";/\"세기:\";/
 s/\"Strikeout\";/\"취소선\";/
-s/\"Stroke Colour\";/\"선 색상\";/
+s/\"Stroke Color\";/\"선 색상\";/
 s/\"Stroke Weight\";/\"선 두께\";/
 s/\"Stroke:\";/\"선:\";/
 s/\"Stroke\";/\"선\";/
@@ -1320,7 +1321,7 @@ s/\"Synchronise defaults from selection\";/\"선택 항목에서 기본값 동�
 s/\"Synchronise from Selection\";/\"선택 항목에서 기본값 동기화\";/
 s/\"Tab\";/\"탭\";/
 s/\"Tables\";/\"표\";/
-s/\"Tag Colour\";/\"태그 색상\";/
+s/\"Tag Color\";/\"태그 색상\";/
 s/\"Tail Offset:\";/\"꼬리 편차:\";/
 s/\"Tail position:\";/\"꼬리 위치:\";/
 s/\"Tear Tool\";/\"눈물 도구\";/
@@ -1347,7 +1348,7 @@ s/\"Toggle Adjustment Panel\";/\"조정 패널 켜고 끄기\";/
 s/\"Toggle Assets Panel\";/\"자산 패널 켜고 끄기\";/
 s/\"Toggle Channels Panel\";/\"채널 패널 켜고 끄기\";/
 s/\"Toggle Character Panel\";/\"문자 패널 켜고 끄기\";/
-s/\"Toggle Colour Panel\";/\"색상 패널 켜고 끄기\";/
+s/\"Toggle Color Panel\";/\"색상 패널 켜고 끄기\";/
 s/\"Toggle Export Layers Panel\";/\"내보내기 레이어 패널 켜고 끄기\";/
 s/\"Toggle Fill Context\";/\"칠 상황 켜고 끄기\";/
 s/\"Toggle Full Screen\";/\"전체 화면 시작\";/
