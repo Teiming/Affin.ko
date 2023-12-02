@@ -1,76 +1,68 @@
-1,2c1,3
-< 6c6
-< < "1bf-RW-eYK.headerToolTip" = "Status";
----
-> 2,3c2,3
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0ZH-lP-Vq8"; */
-> < "0ZH-lP-Vq8.title" = "Text Cell";
-4,9c5,8
-< > "1bf-RW-eYK.headerToolTip" = "ステータス";
-< 9c9
-< < "5gx-Ye-T8c.headerCell.title" = "Value";
+7,24c7,13
 < ---
-< > "5gx-Ye-T8c.headerCell.title" = "値";
+< ---
+< ---
+< ---
+< ---
 < 12c12
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "0ZH-lP-Vq8"; */
-> > "0ZH-lP-Vq8.title" = "텍스트 셀";
-> 11,12c11,12
-> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "6q2-YF-dgq"; */
-12,14c11,15
-< > "6q2-YF-dgq.headerCell.title" = "名前";
 < 15c15
-< < "8Nz-4p-Hua.ibShadowedToolTip" = "Value";
----
-> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "6q2-YF-dgq"; */
-> > "6q2-YF-dgq.headerCell.title" = "이름";
-> 17,18c17,18
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HNx-Cc-jqb"; */
-> < "HNx-Cc-jqb.title" = "Text Cell";
-16,18c17,21
-< > "8Nz-4p-Hua.ibShadowedToolTip" = "値";
 < 24c24
-< < "SmX-bn-5Zo.headerCell.title" = "Ch.";
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "HNx-Cc-jqb"; */
-> > "HNx-Cc-jqb.title" = "텍스트 셀";
-> 20,21c20,21
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JXD-sZ-XEE"; */
-> < "JXD-sZ-XEE.title" = "Text Cell";
-20,25c23,26
-< > "SmX-bn-5Zo.headerCell.title" = "章";
 < 27c27
-< < "SmX-bn-5Zo.headerToolTip" = "Chapter Number";
-< ---
-< > "SmX-bn-5Zo.headerToolTip" = "章番号";
 < 30c30
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "JXD-sZ-XEE"; */
-> > "JXD-sZ-XEE.title" = "텍스트 셀";
-> 29,30c29,30
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XHc-xD-lCf"; */
-28,29c29,32
-< > "XHc-xD-lCf.title" = "テキストセル";
 < 33c33
----
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "XHc-xD-lCf"; */
-> > "XHc-xD-lCf.title" = "텍스트 셀";
-> 32,33c32,33
-> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eZb-vX-YcJ"; */
-32,44c35,36
-< > "eZb-vX-YcJ.title" = "テキストセル";
 < 36c36
-< < "evS-A7-fUG.ibShadowedToolTip" = "Source Page";
-< ---
-< > "evS-A7-fUG.ibShadowedToolTip" = "ソースページ";
 < 39c39
-< < "nwx-Rj-ne2.ibShadowedToolTip" = "Target Name";
-< ---
-< > "nwx-Rj-ne2.ibShadowedToolTip" = "ターゲット名";
 < 42c42
+< 6c6
+< 9c9
+< < "1bf-RW-eYK.headerToolTip" = "Status";
+< < "5gx-Ye-T8c.headerCell.title" = "Value";
+---
+> 11,12c11,12
+> 17,18c17,18
+> 2,3c2,3
+> 20,21c20,21
+> 29,30c29,30
+> 32,33c32,33
+> < "0ZH-lP-Vq8.title" = "Text Cell";
+26,28c15,16
+< < "8Nz-4p-Hua.ibShadowedToolTip" = "Value";
+< < "SmX-bn-5Zo.headerCell.title" = "Ch.";
+< < "SmX-bn-5Zo.headerToolTip" = "Chapter Number";
+---
+> < "HNx-Cc-jqb.title" = "Text Cell";
+> < "JXD-sZ-XEE.title" = "Text Cell";
+31,44c19,36
+< < "evS-A7-fUG.ibShadowedToolTip" = "Source Page";
+< < "nwx-Rj-ne2.ibShadowedToolTip" = "Target Name";
 < < "oUT-B7-eUV.ibShadowedToolTip" = "Current Chapter";
-< ---
+< > "1bf-RW-eYK.headerToolTip" = "ステータス";
+< > "5gx-Ye-T8c.headerCell.title" = "値";
+< > "6q2-YF-dgq.headerCell.title" = "名前";
+< > "8Nz-4p-Hua.ibShadowedToolTip" = "値";
+< > "SmX-bn-5Zo.headerCell.title" = "章";
+< > "SmX-bn-5Zo.headerToolTip" = "章番号";
+< > "XHc-xD-lCf.title" = "テキストセル";
+< > "eZb-vX-YcJ.title" = "テキストセル";
+< > "evS-A7-fUG.ibShadowedToolTip" = "ソースページ";
+< > "nwx-Rj-ne2.ibShadowedToolTip" = "ターゲット名";
 < > "oUT-B7-eUV.ibShadowedToolTip" = "現在の章";
 ---
-> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "eZb-vX-YcJ"; */
+> < /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "6q2-YF-dgq"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0ZH-lP-Vq8"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HNx-Cc-jqb"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JXD-sZ-XEE"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XHc-xD-lCf"; */
+> < /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eZb-vX-YcJ"; */
+> > "0ZH-lP-Vq8.title" = "텍스트 셀";
+> > "6q2-YF-dgq.headerCell.title" = "이름";
+> > "HNx-Cc-jqb.title" = "텍스트 셀";
+> > "JXD-sZ-XEE.title" = "텍스트 셀";
+> > "XHc-xD-lCf.title" = "텍스트 셀";
 > > "eZb-vX-YcJ.title" = "텍스트 셀";
+> > /* Class = "NSTableColumn"; headerCell.title = "이름"; ObjectID = "6q2-YF-dgq"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "0ZH-lP-Vq8"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "HNx-Cc-jqb"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "JXD-sZ-XEE"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "XHc-xD-lCf"; */
+> > /* Class = "NSTextFieldCell"; title = "텍스트 셀"; ObjectID = "eZb-vX-YcJ"; */
