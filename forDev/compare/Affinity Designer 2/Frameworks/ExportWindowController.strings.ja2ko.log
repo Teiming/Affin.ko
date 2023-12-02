@@ -1,794 +1,731 @@
-1c1,2
-< 3c3
----
-> 2,3c2,3
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "0S5-58-zLj"; */
-4,13c5,8
-< > "0S5-58-zLj.title" = "プリセット:";
-< 6c6
-< < "0aX-9g-Xds.title" = "Lanczos 3 (non-separable)";
+51,296c51,100
 < ---
-< > "0aX-9g-Xds.title" = "Lanczos 3(分離不可)";
-< 9c9
-< < "0mi-5c-YiD.title" = "Lossless";
 < ---
-< > "0mi-5c-YiD.title" = "ロスレス";
-< 12c12
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "0S5-58-zLj"; */
-> > "0S5-58-zLj.title" = "미리 설정:";
-> 11,12c11,12
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "1MV-3Z-Ocj"; */
-16,17c11,14
-< > "1MV-3Z-Ocj.title" = "サイズ:";
-< 15c15
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "1MV-3Z-Ocj"; */
-> > "1MV-3Z-Ocj.title" = "크기:";
-> 14,15c14,15
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1Ug-YR-P59"; */
-20,25c17,20
-< > "1Ug-YR-P59.ibShadowedToolTip" = "高さ";
-< 21c21
-< < "2ZT-xE-qVw.title" = "Resample:";
 < ---
-< > "2ZT-xE-qVw.title" = "リサンプル:";
-< 27c27
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1Ug-YR-P59"; */
-> > "1Ug-YR-P59.ibShadowedToolTip" = "높이";
-> 26,27c26,27
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "3Lg-U5-qTt"; */
-28,37c23,26
-< > "3Lg-U5-qTt.title" = "サイズ:";
-< 36c36
-< < "3gB-rh-xOD.title" = "Lanczos 3 (non-separable)";
 < ---
-< > "3gB-rh-xOD.title" = "Lanczos 3(分離不可)";
-< 39c39
-< < "43z-cX-RVL.title" = "Include bleed";
 < ---
-< > "43z-cX-RVL.title" = "裁ち落としを含める";
-< 42c42
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "3Lg-U5-qTt"; */
-> > "3Lg-U5-qTt.title" = "크기:";
-> 41,42c41,42
-> < /* Class = "NSButtonCell"; title = "Export"; ObjectID = "4CW-jQ-Ups"; */
-40,53c29,32
-< > "4CW-jQ-Ups.title" = "書き出し";
-< 45c45
-< < "4R5-eA-6s6.title" = "Nearest Neighbor";
 < ---
-< > "4R5-eA-6s6.title" = "ニアレストネイバー";
-< 48c48
-< < "4US-Qu-zPd.title" = "WARNING! The JPEG format supports images with a maximum dimension of 65500 pixels. Your output will be scaled to fit.";
 < ---
-< > "4US-Qu-zPd.title" = "警告! JPEG形式でサポートされる画像の最大寸法は65500ピクセルです。これに合わせて出力がスケーリングされます。";
-< 51c51
-< < "4Xe-SR-0iV.title" = "Resample:";
 < ---
-< > "4Xe-SR-0iV.title" = "リサンプル:";
-< 54c54
----
-> > /* Class = "NSButtonCell"; title = "내보내기"; ObjectID = "4CW-jQ-Ups"; */
-> > "4CW-jQ-Ups.title" = "내보내기";
-> 53,54c53,54
-> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4dn-A0-5ju"; */
-56,65c35,38
-< > "4dn-A0-5ju.title" = "キャンセル";
-< 57c57
-< < "4jJ-u0-xr2.title" = "Bilinear";
 < ---
-< > "4jJ-u0-xr2.title" = "バイリニア";
-< 60c60
-< < "5X3-cA-DEz.title" = "(Some areas will be rasterized)";
 < ---
-< > "5X3-cA-DEz.title" = "(一部の領域はラスタライズされます)";
-< 63c63
----
-> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "4dn-A0-5ju"; */
-> > "4dn-A0-5ju.title" = "취소";
-> 62,63c62,63
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "5gb-TB-fyd"; */
-68,73c41,44
-< > "5gb-TB-fyd.title" = "プリセット:";
-< 66c66
-< < "5ww-qO-RJR.title" = "Raster DPI:";
 < ---
-< > "5ww-qO-RJR.title" = "ラスターDPI:";
-< 72c72
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "5gb-TB-fyd"; */
-> > "5gb-TB-fyd.title" = "미리 설정:";
-> 71,72c71,72
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "6bF-6P-NRh"; */
-76,85c47,50
-< > "6bF-6P-NRh.ibShadowedToolTip" = "幅";
-< 75c75
-< < "7Kr-Lv-ZYj.title" = "Bilinear";
 < ---
-< > "7Kr-Lv-ZYj.title" = "バイリニア";
-< 78c78
-< < "7nv-6l-X2B.title" = "Preview export when complete";
 < ---
-< > "7nv-6l-X2B.title" = "完了時に書き出しをプレビュー";
-< 81c81
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "6bF-6P-NRh"; */
-> > "6bF-6P-NRh.ibShadowedToolTip" = "너비";
-> 80,81c80,81
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "7q7-9F-XIa"; */
-88,97c53,56
-< > "7q7-9F-XIa.ibShadowedToolTip" = "幅";
-< 87c87
-< < "7wL-66-lu2.title" = "Resample:";
 < ---
-< > "7wL-66-lu2.title" = "リサンプル:";
-< 93c93
-< < "8PI-f2-xLp.title" = "(Some areas will be rasterized)";
 < ---
-< > "8PI-f2-xLp.title" = "(一部の領域はラスタライズされます)";
-< 96c96
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "7q7-9F-XIa"; */
-> > "7q7-9F-XIa.ibShadowedToolTip" = "너비";
-> 95,96c95,96
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "9eI-FX-6em"; */
-100,117c59,62
-< > "9eI-FX-6em.ibShadowedToolTip" = "幅";
-< 99c99
-< < "A8a-Km-Qmp.title" = "Bilinear";
 < ---
-< > "A8a-Km-Qmp.title" = "バイリニア";
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
+< ---
 < 102c102
-< < "AMi-7B-l9c.title" = "Nearest Neighbor";
-< ---
-< > "AMi-7B-l9c.title" = "ニアレストネイバー";
 < 108c108
-< < "BN4-ak-ikV.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "BN4-ak-ikV.title" = "Lanczos 3(分離不可)";
 < 114c114
-< < "Blp-xn-ZMm.title" = "WARNING! The PNG format supports images with a maximum dimension of 32767 pixels. Your output will be scaled to fit.";
-< ---
-< > "Blp-xn-ZMm.title" = "警告! PNG形式でサポートされる画像の最大寸法は32767ピクセルです。これに合わせて出力がスケーリングされます。";
 < 117c117
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "9eI-FX-6em"; */
-> > "9eI-FX-6em.ibShadowedToolTip" = "너비";
-> 116,117c116,117
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "CBF-du-Pvv"; */
-120,121c65,68
-< > "CBF-du-Pvv.title" = "サイズ:";
 < 123c123
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "CBF-du-Pvv"; */
-> > "CBF-du-Pvv.title" = "크기:";
-> 122,123c122,123
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "CeC-uM-pm9"; */
-124,125c71,74
-< > "CeC-uM-pm9.title" = "プリセット:";
 < 129c129
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "CeC-uM-pm9"; */
-> > "CeC-uM-pm9.title" = "미리 설정:";
-> 128,129c128,129
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Cpf-xP-Xcc"; */
-128,141c77,80
-< > "Cpf-xP-Xcc.title" = "サイズ:";
+< 12c12
 < 132c132
-< < "DQB-7t-QW3.title" = "Bicubic";
-< ---
-< > "DQB-7t-QW3.title" = "バイキュービック";
 < 135c135
-< < "DQl-dz-4uf.title" = "Lanczos 3 (separable)";
-< ---
-< > "DQl-dz-4uf.title" = "Lanczos 3(分離可能)";
 < 138c138
-< < "Des-GD-Pgd.title" = "Nearest Neighbor";
-< ---
-< > "Des-GD-Pgd.title" = "ニアレストネイバー";
 < 141c141
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Cpf-xP-Xcc"; */
-> > "Cpf-xP-Xcc.title" = "크기:";
-> 140,141c140,141
-> < /* Class = "NSWindow"; title = "Export"; ObjectID = "F0z-JX-Cv5"; */
-144,153c83,86
-< > "F0z-JX-Cv5.title" = "書き出し";
 < 144c144
-< < "FKc-W8-srJ.title" = "Bilinear";
-< ---
-< > "FKc-W8-srJ.title" = "バイリニア";
 < 147c147
-< < "FtO-s2-BgX.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "FtO-s2-BgX.title" = "Lanczos 3(分離不可)";
 < 156c156
----
-> > /* Class = "NSWindow"; title = "내보내기"; ObjectID = "F0z-JX-Cv5"; */
-> > "F0z-JX-Cv5.title" = "내보내기";
-> 155,156c155,156
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "GU4-OA-5av"; */
-156,169c89,92
-< > "GU4-OA-5av.ibShadowedToolTip" = "高さ";
 < 159c159
-< < "HF0-oR-fLu.title" = "Bicubic";
-< ---
-< > "HF0-oR-fLu.title" = "バイキュービック";
+< 15c15
 < 162c162
-< < "HJf-Ky-WoV.title" = "Resample:";
-< ---
-< > "HJf-Ky-WoV.title" = "リサンプル:";
 < 165c165
-< < "HaK-KR-DOk.title" = "Lanczos 3 (separable)";
-< ---
-< > "HaK-KR-DOk.title" = "Lanczos 3(分離可能)";
 < 168c168
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "GU4-OA-5av"; */
-> > "GU4-OA-5av.ibShadowedToolTip" = "높이";
-> 167,168c167,168
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "HaK-RJ-RTB"; */
-172,173c95,98
-< > "HaK-RJ-RTB.ibShadowedToolTip" = "高さ";
 < 171c171
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "HaK-RJ-RTB"; */
-> > "HaK-RJ-RTB.ibShadowedToolTip" = "높이";
-> 170,171c170,171
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "Hwn-dn-OwM"; */
-176,181c101,104
-< > "Hwn-dn-OwM.ibShadowedToolTip" = "高さ";
 < 174c174
-< < "Jib-Vc-i15.title" = "With bleed";
-< ---
-< > "Jib-Vc-i15.title" = "裁ち落としあり";
 < 177c177
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "Hwn-dn-OwM"; */
-> > "Hwn-dn-OwM.ibShadowedToolTip" = "높이";
-> 176,177c176,177
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "Jso-uC-vCH"; */
-184,185c107,110
-< > "Jso-uC-vCH.ibShadowedToolTip" = "高さ";
 < 180c180
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "Jso-uC-vCH"; */
-> > "Jso-uC-vCH.ibShadowedToolTip" = "높이";
-> 179,180c179,180
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "Jub-VO-6lq"; */
-188,189c113,116
-< > "Jub-VO-6lq.title" = "プリセット:";
 < 207c207
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "Jub-VO-6lq"; */
-> > "Jub-VO-6lq.title" = "미리 설정:";
-> 206,207c206,207
-> < /* Class = "NSTextFieldCell"; title = "Estimated File Size:"; ObjectID = "Lkh-uo-tM1"; */
-192,193c119,122
-< > "Lkh-uo-tM1.title" = "推定ファイルサイズ:";
 < 210c210
----
-> > /* Class = "NSTextFieldCell"; title = "예상 파일 크기:"; ObjectID = "Lkh-uo-tM1"; */
-> > "Lkh-uo-tM1.title" = "예상 파일 크기:";
-> 209,210c209,210
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "ME7-0X-gFP"; */
-196,197c125,128
-< > "ME7-0X-gFP.title" = "プリセット:";
 < 213c213
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "ME7-0X-gFP"; */
-> > "ME7-0X-gFP.title" = "미리 설정:";
-> 212,213c212,213
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "MpB-xl-2TA"; */
-200,201c131,134
-< > "MpB-xl-2TA.ibShadowedToolTip" = "幅";
 < 219c219
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "MpB-xl-2TA"; */
-> > "MpB-xl-2TA.ibShadowedToolTip" = "너비";
-> 218,219c218,219
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "NEw-3S-wGS"; */
-204,217c137,140
-< > "NEw-3S-wGS.ibShadowedToolTip" = "幅";
+< 21c21
 < 222c222
-< < "NKX-3g-qSr.title" = "Bicubic";
-< ---
-< > "NKX-3g-qSr.title" = "バイキュービック";
 < 225c225
-< < "Nb8-5K-PFV.title" = "Bicubic";
-< ---
-< > "Nb8-5K-PFV.title" = "バイキュービック";
 < 228c228
-< < "NfT-7C-ADR.title" = "Bilinear";
-< ---
-< > "NfT-7C-ADR.title" = "バイリニア";
 < 231c231
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "NEw-3S-wGS"; */
-> > "NEw-3S-wGS.ibShadowedToolTip" = "너비";
-> 230,231c230,231
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "O6l-bQ-uko"; */
-220,253c143,146
-< > "O6l-bQ-uko.title" = "プリセット:";
 < 234c234
-< < "ODv-EB-pTg.title" = "Lanczos 3 (separable)";
-< ---
-< > "ODv-EB-pTg.title" = "Lanczos 3(分離可)";
 < 237c237
-< < "OLw-I8-BQu.title" = "Lanczos 3 (separable)";
-< ---
-< > "OLw-I8-BQu.title" = "Lanczos 3(分離可能)";
 < 240c240
-< < "OTC-nk-k13.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "OTC-nk-k13.title" = "Lanczos 3(分離不可)";
 < 243c243
-< < "OtV-jY-L7x.title" = "Calculating";
-< ---
-< > "OtV-jY-L7x.title" = "計算中";
 < 246c246
-< < "P5F-L5-uXQ.title" = "Generating Preview…";
-< ---
-< > "P5F-L5-uXQ.title" = "プレビューを生成中…";
 < 249c249
-< < "PGY-fz-9fG.title" = "Lanczos 3 (separable)";
-< ---
-< > "PGY-fz-9fG.title" = "Lanczos 3(分離可能)";
 < 255c255
-< < "Pz4-iL-btF.title" = "Nearest Neighbor";
-< ---
-< > "Pz4-iL-btF.title" = "ニアレストネイバー";
 < 258c258
-< < "QXz-HP-TSt.title" = "Lanczos 3 (separable)";
-< ---
-< > "QXz-HP-TSt.title" = "Lanczos 3(分離可能)";
 < 261c261
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "O6l-bQ-uko"; */
-> > "O6l-bQ-uko.title" = "미리 설정:";
-> 260,261c260,261
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Qc9-WO-EMP"; */
-256,257c149,152
-< > "Qc9-WO-EMP.title" = "サイズ:";
 < 264c264
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Qc9-WO-EMP"; */
-> > "Qc9-WO-EMP.title" = "크기:";
-> 263,264c263,264
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "Qxg-Wk-LvO"; */
-260,289c155,158
-< > "Qxg-Wk-LvO.ibShadowedToolTip" = "幅";
 < 267c267
-< < "R3G-DU-LRh.title" = "Resample:";
-< ---
-< > "R3G-DU-LRh.title" = "リサンプル:";
 < 270c270
-< < "Ren-3Z-pDd.title" = "Bilinear";
-< ---
-< > "Ren-3Z-pDd.title" = "バイリニア";
 < 273c273
-< < "SWO-6w-lrE.title" = "Bicubic";
-< ---
-< > "SWO-6w-lrE.title" = "バイキュービック";
 < 276c276
-< < "TV7-mB-1Vh.title" = "Lanczos 3 (separable)";
-< ---
-< > "TV7-mB-1Vh.title" = "Lanczos 3(分離可能)";
 < 279c279
-< < "Trp-sW-YY0.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "Trp-sW-YY0.title" = "Lanczos 3(分離不可)";
+< 27c27
 < 282c282
-< < "UI9-7S-QPu.title" = "Resample:";
-< ---
-< > "UI9-7S-QPu.title" = "リサンプル:";
 < 285c285
-< < "UYp-60-tR3.title" = "Nearest Neighbor";
-< ---
-< > "UYp-60-tR3.title" = "ニアレストネイバー";
 < 288c288
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "Qxg-Wk-LvO"; */
-> > "Qxg-Wk-LvO.ibShadowedToolTip" = "너비";
-> 287,288c287,288
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "VEW-yY-G9H"; */
-292,305c161,164
-< > "VEW-yY-G9H.title" = "プリセット:";
 < 291c291
-< < "Vf6-uA-2cW.title" = "With bleed";
-< ---
-< > "Vf6-uA-2cW.title" = "裁ち落としあり";
 < 294c294
-< < "Vs1-1Z-P72.title" = "Don't export layers hidden by Export Persona";
-< ---
-< > "Vs1-1Z-P72.title" = "書き出しペルソナで非表示にしたレイヤーを書き出ししない";
 < 300c300
-< < "Wfs-ig-0oq.title" = "With bleed";
-< ---
-< > "Wfs-ig-0oq.title" = "裁ち落としあり";
 < 303c303
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "VEW-yY-G9H"; */
-> > "VEW-yY-G9H.title" = "미리 설정:";
-> 302,303c302,303
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "Wqm-6w-aCh"; */
-308,317c167,170
-< > "Wqm-6w-aCh.title" = "プリセット:";
 < 306c306
-< < "X9b-GF-6nQ.title" = "Bicubic";
-< ---
-< > "X9b-GF-6nQ.title" = "バイキュービック";
 < 309c309
-< < "XbJ-G7-EF3.title" = "Nearest Neighbor";
-< ---
-< > "XbJ-G7-EF3.title" = "ニアレストネイバー";
 < 315c315
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "Wqm-6w-aCh"; */
-> > "Wqm-6w-aCh.title" = "미리 설정:";
-> 314,315c314,315
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Xys-eA-wTT"; */
-320,325c173,176
-< > "Xys-eA-wTT.title" = "サイズ:";
 < 318c318
-< < "Y2a-7f-goU.title" = "Bicubic";
-< ---
-< > "Y2a-7f-goU.title" = "バイキュービック";
 < 321c321
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Xys-eA-wTT"; */
-> > "Xys-eA-wTT.title" = "크기:";
-> 320,321c320,321
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Y6v-en-VhB"; */
-328,337c179,182
-< > "Y6v-en-VhB.title" = "サイズ:";
 < 324c324
-< < "Yga-QI-ILJ.title" = "OtherViews";
-< ---
-< > "Yga-QI-ILJ.title" = "その他のビュー";
 < 327c327
-< < "Ymq-Os-7my.title" = "Export text as curves for font independence";
-< ---
-< > "Ymq-Os-7my.title" = "フォントを非依存にするためにテキストをカーブとして書き出し";
 < 330c330
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Y6v-en-VhB"; */
-> > "Y6v-en-VhB.title" = "크기:";
-> 329,330c329,330
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "ZD0-tT-mzm"; */
-340,349c185,188
-< > "ZD0-tT-mzm.ibShadowedToolTip" = "高さ";
 < 354c354
-< < "Zsr-ag-BTM.title" = "Nearest Neighbor";
-< ---
-< > "Zsr-ag-BTM.title" = "ニアレストネイバー";
 < 357c357
-< < "ajL-jA-XKX.title" = "(Some areas will be rasterised)";
-< ---
-< > "ajL-jA-XKX.title" = "(一部の領域はラスタライズされます)";
 < 360c360
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "ZD0-tT-mzm"; */
-> > "ZD0-tT-mzm.ibShadowedToolTip" = "높이";
-> 359,360c359,360
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "be6-uF-6jW"; */
-352,353c191,194
-< > "be6-uF-6jW.title" = "プリセット:";
 < 363c363
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "be6-uF-6jW"; */
-> > "be6-uF-6jW.title" = "미리 설정:";
-> 362,363c362,363
-> < /* Class = "NSTextFieldCell"; title = "Area:"; ObjectID = "c7r-Kn-eYI"; */
-356,369c197,200
-< > "c7r-Kn-eYI.title" = "領域:";
 < 366c366
-< < "cPB-vC-AsG.title" = "Bilinear";
-< ---
-< > "cPB-vC-AsG.title" = "バイリニア";
 < 369c369
-< < "cTy-50-edS.title" = "Bilinear";
-< ---
-< > "cTy-50-edS.title" = "バイリニア";
+< 36c36
 < 372c372
-< < "cew-ry-GXp.title" = "Lanczos 3 (separable)";
-< ---
-< > "cew-ry-GXp.title" = "Lanczos 3(分離可能)";
 < 378c378
----
-> > /* Class = "NSTextFieldCell"; title = "영역:"; ObjectID = "c7r-Kn-eYI"; */
-> > "c7r-Kn-eYI.title" = "영역:";
-> 377,378c377,378
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "dGE-I9-Bpo"; */
-372,373c203,206
-< > "dGE-I9-Bpo.ibShadowedToolTip" = "幅";
 < 381c381
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "dGE-I9-Bpo"; */
-> > "dGE-I9-Bpo.ibShadowedToolTip" = "너비";
-> 380,381c380,381
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "e81-lX-y35"; */
-376,405c209,212
-< > "e81-lX-y35.ibShadowedToolTip" = "高さ";
 < 387c387
-< < "eWB-oR-PA4.title" = "Lanczos 3 (separable)";
-< ---
-< > "eWB-oR-PA4.title" = "Lanczos 3(分離可能)";
 < 390c390
-< < "ezs-dq-h6D.title" = "With bleed";
-< ---
-< > "ezs-dq-h6D.title" = "裁ち落としあり";
 < 393c393
-< < "fY1-7R-Giy.title" = "Resample:";
-< ---
-< > "fY1-7R-Giy.title" = "リサンプル:";
 < 396c396
-< < "fYs-74-yXg.title" = "Bilinear";
-< ---
-< > "fYs-74-yXg.title" = "バイリニア";
 < 399c399
-< < "fb1-QL-S7z.title" = "Include bleed";
-< ---
-< > "fb1-QL-S7z.title" = "裁ち落としを含める";
+< 39c39
+< 3c3
 < 402c402
-< < "fpt-80-ER6.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "fpt-80-ER6.title" = "Lanczos 3(分離不可)";
 < 405c405
-< < "gQn-hn-LMp.title" = "Pages:";
-< ---
-< > "gQn-hn-LMp.title" = "ページ数:";
 < 408c408
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "e81-lX-y35"; */
-> > "e81-lX-y35.ibShadowedToolTip" = "높이";
-> 407,408c407,408
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "gVs-UY-Ooz"; */
-408,409c215,218
-< > "gVs-UY-Ooz.title" = "プリセット:";
+< 42c42
 < 432c432
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "gVs-UY-Ooz"; */
-> > "gVs-UY-Ooz.title" = "미리 설정:";
-> 431,432c431,432
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "gic-hL-0Xx"; */
-412,417c221,224
-< > "gic-hL-0Xx.title" = "プリセット:";
 < 435c435
-< < "hdF-j5-yix.title" = "Bicubic";
-< ---
-< > "hdF-j5-yix.title" = "バイキュービック";
 < 438c438
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "gic-hL-0Xx"; */
-> > "gic-hL-0Xx.title" = "미리 설정:";
-> 437,438c437,438
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "hfh-b5-i3T"; */
-420,457c227,230
-< > "hfh-b5-i3T.title" = "プリセット:";
 < 441c441
-< < "hgx-S4-PRo.title" = "Quality:";
-< ---
-< > "hgx-S4-PRo.title" = "品質:";
 < 444c444
-< < "i64-7g-fKx.title" = "Include bleed";
-< ---
-< > "i64-7g-fKx.title" = "裁ち落としを含める";
 < 447c447
-< < "i6f-Qa-WbM.title" = "Bicubic";
-< ---
-< > "i6f-Qa-WbM.title" = "バイキュービック";
 < 453c453
-< < "j4F-4R-AXO.title" = "Nearest Neighbor";
-< ---
-< > "j4F-4R-AXO.title" = "ニアレストネイバー";
 < 456c456
-< < "jMN-2s-aid.title" = "Bicubic";
-< ---
-< > "jMN-2s-aid.title" = "バイキュービック";
+< 45c45
 < 462c462
-< < "kbu-h2-8Js.title" = "Nearest Neighbor";
-< ---
-< > "kbu-h2-8Js.title" = "ニアレストネイバー";
 < 465c465
-< < "lvz-La-Kag.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "lvz-La-Kag.title" = "Lanczos 3(分離不可)";
 < 468c468
-< < "lyo-qv-ji1.title" = "(Some areas will be rasterized)";
-< ---
-< > "lyo-qv-ji1.title" = "(一部の領域はラスタライズされます)";
 < 471c471
-< < "mTe-h1-m33.title" = "PostScript level:";
-< ---
-< > "mTe-h1-m33.title" = "PostScriptレベル:";
 < 474c474
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "hfh-b5-i3T"; */
-> > "hfh-b5-i3T.title" = "미리 설정:";
-> 473,474c473,474
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "mda-oW-sll"; */
-460,465c233,236
-< > "mda-oW-sll.title" = "サイズ:";
 < 477c477
-< < "mh4-hT-5Fz.title" = "Nearest Neighbor";
-< ---
-< > "mh4-hT-5Fz.title" = "ニアレストネイバー";
 < 480c480
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "mda-oW-sll"; */
-> > "mda-oW-sll.title" = "크기:";
-> 479,480c479,480
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "nA2-zH-ZfO"; */
-468,473c239,242
-< > "nA2-zH-ZfO.ibShadowedToolTip" = "幅";
 < 486c486
-< < "nm3-zK-uqz.title" = "Lanczos 3 (separable)";
-< ---
-< > "nm3-zK-uqz.title" = "Lanczos 3(分離可能)";
 < 489c489
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "nA2-zH-ZfO"; */
-> > "nA2-zH-ZfO.ibShadowedToolTip" = "너비";
-> 488,489c488,489
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "oDp-TL-hV9"; */
-476,481c245,248
-< > "oDp-TL-hV9.ibShadowedToolTip" = "幅";
+< 48c48
 < 492c492
-< < "oZa-VM-FyU.title" = "Quality:";
-< ---
-< > "oZa-VM-FyU.title" = "品質:";
 < 495c495
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "oDp-TL-hV9"; */
-> > "oDp-TL-hV9.ibShadowedToolTip" = "너비";
-> 494,495c494,495
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "oa0-WO-QC9"; */
-484,489c251,254
-< > "oa0-WO-QC9.ibShadowedToolTip" = "高さ";
 < 498c498
-< < "of8-cv-yPb.title" = "Raster DPI:";
-< ---
-< > "of8-cv-yPb.title" = "ラスターDPI:";
 < 501c501
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "oa0-WO-QC9"; */
-> > "oa0-WO-QC9.ibShadowedToolTip" = "높이";
-> 500,501c500,501
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "pls-Wg-qGw"; */
-492,497c257,260
-< > "pls-Wg-qGw.ibShadowedToolTip" = "高さ";
+< 51c51
 < 525c525
-< < "qf0-Ft-sdk.title" = "Bilinear";
-< ---
-< > "qf0-Ft-sdk.title" = "バイリニア";
 < 531c531
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "pls-Wg-qGw"; */
-> > "pls-Wg-qGw.ibShadowedToolTip" = "높이";
-> 530,531c530,531
-> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "qtR-S3-gT9"; */
-500,505c263,266
-< > "qtR-S3-gT9.ibShadowedToolTip" = "幅";
 < 537c537
-< < "rhm-jD-wRG.title" = "Raster DPI:";
-< ---
-< > "rhm-jD-wRG.title" = "ラスターDPI:";
 < 540c540
----
-> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "qtR-S3-gT9"; */
-> > "qtR-S3-gT9.ibShadowedToolTip" = "너비";
-> 539,540c539,540
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "rtP-FH-chB"; */
-508,509c269,272
-< > "rtP-FH-chB.title" = "プリセット:";
 < 543c543
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "rtP-FH-chB"; */
-> > "rtP-FH-chB.title" = "미리 설정:";
-> 542,543c542,543
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "s8u-Dq-Cg8"; */
-512,525c275,278
-< > "s8u-Dq-Cg8.title" = "プリセット:";
 < 546c546
-< < "saO-rV-K0v.title" = "Resample:";
-< ---
-< > "saO-rV-K0v.title" = "リサンプル:";
 < 549c549
-< < "sse-lI-3er.title" = "Resample:";
-< ---
-< > "sse-lI-3er.title" = "リサンプル:";
+< 54c54
 < 552c552
-< < "t95-kr-GID.title" = "Save Affinity layers";
-< ---
-< > "t95-kr-GID.title" = "Affinityレイヤーを保存";
 < 555c555
----
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "s8u-Dq-Cg8"; */
-> > "s8u-Dq-Cg8.title" = "미리 설정:";
-> 554,555c554,555
-> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "tc4-cf-SOL"; */
-528,537c281,284
-< > "tc4-cf-SOL.ibShadowedToolTip" = "高さ";
 < 558c558
-< < "tc4-mv-c9t.title" = "With bleed";
-< ---
-< > "tc4-mv-c9t.title" = "裁ち落としあり";
 < 561c561
-< < "u6N-uv-7uS.title" = "Resample:";
-< ---
-< > "u6N-uv-7uS.title" = "リサンプル:";
 < 567c567
----
-> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "tc4-cf-SOL"; */
-> > "tc4-cf-SOL.ibShadowedToolTip" = "높이";
-> 566,567c566,567
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "uVG-uv-Iu0"; */
-540,549c287,290
-< > "uVG-uv-Iu0.title" = "サイズ:";
 < 570c570
-< < "ufj-4O-lRk.title" = "Bicubic";
-< ---
-< > "ufj-4O-lRk.title" = "バイキュービック";
 < 573c573
-< < "vFS-yM-Tdx.title" = "With bleed";
-< ---
-< > "vFS-yM-Tdx.title" = "裁ち落としあり";
 < 576c576
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "uVG-uv-Iu0"; */
-> > "uVG-uv-Iu0.title" = "크기:";
-> 575,576c575,576
-> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "vod-D7-zgN"; */
-552,585c293,296
-< > "vod-D7-zgN.title" = "サイズ:";
 < 579c579
-< < "wDN-Ea-WbL.title" = "Nearest Neighbor";
-< ---
-< > "wDN-Ea-WbL.title" = "ニアレストネイバー";
+< 57c57
 < 582c582
-< < "wH3-97-ShG.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "wH3-97-ShG.title" = "Lanczos 3(分離不可)";
 < 588c588
-< < "wPV-9I-L50.title" = "Lanczos 3 (separable)";
-< ---
-< > "wPV-9I-L50.title" = "Lanczos 3(分離可能)";
 < 591c591
-< < "x3X-mb-Tdb.title" = "Bilinear";
-< ---
-< > "x3X-mb-Tdb.title" = "バイリニア";
 < 594c594
-< < "xV7-xB-xTW.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "xV7-xB-xTW.title" = "Lanczos 3(分離不可)";
 < 597c597
-< < "xfH-o9-Wb1.title" = "Lanczos 3 (non-separable)";
-< ---
-< > "xfH-o9-Wb1.title" = "Lanczos 3(分離不可)";
 < 600c600
-< < "yra-HS-Mbf.title" = "Quality:";
-< ---
-< > "yra-HS-Mbf.title" = "品質:";
 < 603c603
-< < "yub-E2-60N.title" = "Raster DPI:";
-< ---
-< > "yub-E2-60N.title" = "ラスターDPI:";
 < 609c609
----
-> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "vod-D7-zgN"; */
-> > "vod-D7-zgN.title" = "크기:";
-> 608,609c608,609
-> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "zKc-6k-h8S"; */
-588,592c299,300
-< > "zKc-6k-h8S.title" = "プリセット:";
+< 60c60
 < 612c612
+< 63c63
+< 66c66
+< 6c6
+< 72c72
+< 75c75
+< 78c78
+< 81c81
+< 87c87
+< 93c93
+< 96c96
+< 99c99
+< 9c9
+---
+> 11,12c11,12
+> 116,117c116,117
+> 122,123c122,123
+> 128,129c128,129
+> 14,15c14,15
+> 140,141c140,141
+> 155,156c155,156
+> 167,168c167,168
+> 170,171c170,171
+> 176,177c176,177
+> 179,180c179,180
+> 2,3c2,3
+> 206,207c206,207
+> 209,210c209,210
+> 212,213c212,213
+> 218,219c218,219
+> 230,231c230,231
+> 26,27c26,27
+> 260,261c260,261
+> 263,264c263,264
+> 287,288c287,288
+> 302,303c302,303
+> 314,315c314,315
+> 320,321c320,321
+> 329,330c329,330
+> 359,360c359,360
+> 362,363c362,363
+> 377,378c377,378
+> 380,381c380,381
+> 407,408c407,408
+> 41,42c41,42
+> 431,432c431,432
+> 437,438c437,438
+> 473,474c473,474
+> 479,480c479,480
+> 488,489c488,489
+> 494,495c494,495
+> 500,501c500,501
+> 53,54c53,54
+> 530,531c530,531
+> 539,540c539,540
+> 542,543c542,543
+> 554,555c554,555
+> 566,567c566,567
+> 575,576c575,576
+> 608,609c608,609
+> 62,63c62,63
+> 71,72c71,72
+> 80,81c80,81
+> 95,96c95,96
+298,299d101
+< < "0aX-9g-Xds.title" = "Lanczos 3 (non-separable)";
+< < "0mi-5c-YiD.title" = "Lossless";
+302d103
+< < "2ZT-xE-qVw.title" = "Resample:";
+304,305d104
+< < "3gB-rh-xOD.title" = "Lanczos 3 (non-separable)";
+< < "43z-cX-RVL.title" = "Include bleed";
+307,309d105
+< < "4R5-eA-6s6.title" = "Nearest Neighbor";
+< < "4US-Qu-zPd.title" = "WARNING! The JPEG format supports images with a maximum dimension of 65500 pixels. Your output will be scaled to fit.";
+< < "4Xe-SR-0iV.title" = "Resample:";
+311,312d106
+< < "4jJ-u0-xr2.title" = "Bilinear";
+< < "5X3-cA-DEz.title" = "(Some areas will be rasterized)";
+314d107
+< < "5ww-qO-RJR.title" = "Raster DPI:";
+316,317d108
+< < "7Kr-Lv-ZYj.title" = "Bilinear";
+< < "7nv-6l-X2B.title" = "Preview export when complete";
+319,320d109
+< < "7wL-66-lu2.title" = "Resample:";
+< < "8PI-f2-xLp.title" = "(Some areas will be rasterized)";
+322,325d110
+< < "A8a-Km-Qmp.title" = "Bilinear";
+< < "AMi-7B-l9c.title" = "Nearest Neighbor";
+< < "BN4-ak-ikV.title" = "Lanczos 3 (non-separable)";
+< < "Blp-xn-ZMm.title" = "WARNING! The PNG format supports images with a maximum dimension of 32767 pixels. Your output will be scaled to fit.";
+329,331d113
+< < "DQB-7t-QW3.title" = "Bicubic";
+< < "DQl-dz-4uf.title" = "Lanczos 3 (separable)";
+< < "Des-GD-Pgd.title" = "Nearest Neighbor";
+333,334d114
+< < "FKc-W8-srJ.title" = "Bilinear";
+< < "FtO-s2-BgX.title" = "Lanczos 3 (non-separable)";
+336,338d115
+< < "HF0-oR-fLu.title" = "Bicubic";
+< < "HJf-Ky-WoV.title" = "Resample:";
+< < "HaK-KR-DOk.title" = "Lanczos 3 (separable)";
+341d117
+< < "Jib-Vc-i15.title" = "With bleed";
+348,350d123
+< < "NKX-3g-qSr.title" = "Bicubic";
+< < "Nb8-5K-PFV.title" = "Bicubic";
+< < "NfT-7C-ADR.title" = "Bilinear";
+352,359d124
+< < "ODv-EB-pTg.title" = "Lanczos 3 (separable)";
+< < "OLw-I8-BQu.title" = "Lanczos 3 (separable)";
+< < "OTC-nk-k13.title" = "Lanczos 3 (non-separable)";
+< < "OtV-jY-L7x.title" = "Calculating";
+< < "P5F-L5-uXQ.title" = "Generating Preview…";
+< < "PGY-fz-9fG.title" = "Lanczos 3 (separable)";
+< < "Pz4-iL-btF.title" = "Nearest Neighbor";
+< < "QXz-HP-TSt.title" = "Lanczos 3 (separable)";
+362,368d126
+< < "R3G-DU-LRh.title" = "Resample:";
+< < "Ren-3Z-pDd.title" = "Bilinear";
+< < "SWO-6w-lrE.title" = "Bicubic";
+< < "TV7-mB-1Vh.title" = "Lanczos 3 (separable)";
+< < "Trp-sW-YY0.title" = "Lanczos 3 (non-separable)";
+< < "UI9-7S-QPu.title" = "Resample:";
+< < "UYp-60-tR3.title" = "Nearest Neighbor";
+370,372d127
+< < "Vf6-uA-2cW.title" = "With bleed";
+< < "Vs1-1Z-P72.title" = "Don't export layers hidden by Export Persona";
+< < "Wfs-ig-0oq.title" = "With bleed";
+374,375d128
+< < "X9b-GF-6nQ.title" = "Bicubic";
+< < "XbJ-G7-EF3.title" = "Nearest Neighbor";
+377d129
+< < "Y2a-7f-goU.title" = "Bicubic";
+379,380d130
+< < "Yga-QI-ILJ.title" = "OtherViews";
+< < "Ymq-Os-7my.title" = "Export text as curves for font independence";
+382,383d131
+< < "Zsr-ag-BTM.title" = "Nearest Neighbor";
+< < "ajL-jA-XKX.title" = "(Some areas will be rasterized)";
+386,388d133
+< < "cPB-vC-AsG.title" = "Bilinear";
+< < "cTy-50-edS.title" = "Bilinear";
+< < "cew-ry-GXp.title" = "Lanczos 3 (separable)";
+391,397d135
+< < "eWB-oR-PA4.title" = "Lanczos 3 (separable)";
+< < "ezs-dq-h6D.title" = "With bleed";
+< < "fY1-7R-Giy.title" = "Resample:";
+< < "fYs-74-yXg.title" = "Bilinear";
+< < "fb1-QL-S7z.title" = "Include bleed";
+< < "fpt-80-ER6.title" = "Lanczos 3 (non-separable)";
+< < "gQn-hn-LMp.title" = "Pages:";
+400d137
+< < "hdF-j5-yix.title" = "Bicubic";
+402,410d138
+< < "hgx-S4-PRo.title" = "Quality:";
+< < "i64-7g-fKx.title" = "Include bleed";
+< < "i6f-Qa-WbM.title" = "Bicubic";
+< < "j4F-4R-AXO.title" = "Nearest Neighbor";
+< < "jMN-2s-aid.title" = "Bicubic";
+< < "kbu-h2-8Js.title" = "Nearest Neighbor";
+< < "lvz-La-Kag.title" = "Lanczos 3 (non-separable)";
+< < "lyo-qv-ji1.title" = "(Some areas will be rasterized)";
+< < "mTe-h1-m33.title" = "PostScript level:";
+412d139
+< < "mh4-hT-5Fz.title" = "Nearest Neighbor";
+414d140
+< < "nm3-zK-uqz.title" = "Lanczos 3 (separable)";
+416d141
+< < "oZa-VM-FyU.title" = "Quality:";
+418d142
+< < "of8-cv-yPb.title" = "Raster DPI:";
+420d143
+< < "qf0-Ft-sdk.title" = "Bilinear";
+422d144
+< < "rhm-jD-wRG.title" = "Raster DPI:";
+425,427d146
+< < "saO-rV-K0v.title" = "Resample:";
+< < "sse-lI-3er.title" = "Resample:";
+< < "t95-kr-GID.title" = "Save Affinity layers";
+429,430d147
+< < "tc4-mv-c9t.title" = "With bleed";
+< < "u6N-uv-7uS.title" = "Resample:";
+432,433d148
+< < "ufj-4O-lRk.title" = "Bicubic";
+< < "vFS-yM-Tdx.title" = "With bleed";
+435,442d149
+< < "wDN-Ea-WbL.title" = "Nearest Neighbor";
+< < "wH3-97-ShG.title" = "Lanczos 3 (non-separable)";
+< < "wPV-9I-L50.title" = "Lanczos 3 (separable)";
+< < "x3X-mb-Tdb.title" = "Bilinear";
+< < "xV7-xB-xTW.title" = "Lanczos 3 (non-separable)";
+< < "xfH-o9-Wb1.title" = "Lanczos 3 (non-separable)";
+< < "yra-HS-Mbf.title" = "Quality:";
+< < "yub-E2-60N.title" = "Raster DPI:";
+444,592c151,300
 < < "zST-Qq-Xoq.title" = "Resample:";
-< ---
+< > "0S5-58-zLj.title" = "プリセット:";
+< > "0aX-9g-Xds.title" = "Lanczos 3(分離不可)";
+< > "0mi-5c-YiD.title" = "ロスレス";
+< > "1MV-3Z-Ocj.title" = "サイズ:";
+< > "1Ug-YR-P59.ibShadowedToolTip" = "高さ";
+< > "2ZT-xE-qVw.title" = "リサンプル:";
+< > "3Lg-U5-qTt.title" = "サイズ:";
+< > "3gB-rh-xOD.title" = "Lanczos 3(分離不可)";
+< > "43z-cX-RVL.title" = "裁ち落としを含める";
+< > "4CW-jQ-Ups.title" = "書き出し";
+< > "4R5-eA-6s6.title" = "ニアレストネイバー";
+< > "4US-Qu-zPd.title" = "警告! JPEG形式でサポートされる画像の最大寸法は65500ピクセルです。これに合わせて出力がスケーリングされます。";
+< > "4Xe-SR-0iV.title" = "リサンプル:";
+< > "4dn-A0-5ju.title" = "キャンセル";
+< > "4jJ-u0-xr2.title" = "バイリニア";
+< > "5X3-cA-DEz.title" = "(一部の領域はラスタライズされます)";
+< > "5gb-TB-fyd.title" = "プリセット:";
+< > "5ww-qO-RJR.title" = "ラスターDPI:";
+< > "6bF-6P-NRh.ibShadowedToolTip" = "幅";
+< > "7Kr-Lv-ZYj.title" = "バイリニア";
+< > "7nv-6l-X2B.title" = "完了時に書き出しをプレビュー";
+< > "7q7-9F-XIa.ibShadowedToolTip" = "幅";
+< > "7wL-66-lu2.title" = "リサンプル:";
+< > "8PI-f2-xLp.title" = "(一部の領域はラスタライズされます)";
+< > "9eI-FX-6em.ibShadowedToolTip" = "幅";
+< > "A8a-Km-Qmp.title" = "バイリニア";
+< > "AMi-7B-l9c.title" = "ニアレストネイバー";
+< > "BN4-ak-ikV.title" = "Lanczos 3(分離不可)";
+< > "Blp-xn-ZMm.title" = "警告! PNG形式でサポートされる画像の最大寸法は32767ピクセルです。これに合わせて出力がスケーリングされます。";
+< > "CBF-du-Pvv.title" = "サイズ:";
+< > "CeC-uM-pm9.title" = "プリセット:";
+< > "Cpf-xP-Xcc.title" = "サイズ:";
+< > "DQB-7t-QW3.title" = "バイキュービック";
+< > "DQl-dz-4uf.title" = "Lanczos 3(分離可能)";
+< > "Des-GD-Pgd.title" = "ニアレストネイバー";
+< > "F0z-JX-Cv5.title" = "書き出し";
+< > "FKc-W8-srJ.title" = "バイリニア";
+< > "FtO-s2-BgX.title" = "Lanczos 3(分離不可)";
+< > "GU4-OA-5av.ibShadowedToolTip" = "高さ";
+< > "HF0-oR-fLu.title" = "バイキュービック";
+< > "HJf-Ky-WoV.title" = "リサンプル:";
+< > "HaK-KR-DOk.title" = "Lanczos 3(分離可能)";
+< > "HaK-RJ-RTB.ibShadowedToolTip" = "高さ";
+< > "Hwn-dn-OwM.ibShadowedToolTip" = "高さ";
+< > "Jib-Vc-i15.title" = "裁ち落としあり";
+< > "Jso-uC-vCH.ibShadowedToolTip" = "高さ";
+< > "Jub-VO-6lq.title" = "プリセット:";
+< > "Lkh-uo-tM1.title" = "推定ファイルサイズ:";
+< > "ME7-0X-gFP.title" = "プリセット:";
+< > "MpB-xl-2TA.ibShadowedToolTip" = "幅";
+< > "NEw-3S-wGS.ibShadowedToolTip" = "幅";
+< > "NKX-3g-qSr.title" = "バイキュービック";
+< > "Nb8-5K-PFV.title" = "バイキュービック";
+< > "NfT-7C-ADR.title" = "バイリニア";
+< > "O6l-bQ-uko.title" = "プリセット:";
+< > "ODv-EB-pTg.title" = "Lanczos 3(分離可)";
+< > "OLw-I8-BQu.title" = "Lanczos 3(分離可能)";
+< > "OTC-nk-k13.title" = "Lanczos 3(分離不可)";
+< > "OtV-jY-L7x.title" = "計算中";
+< > "P5F-L5-uXQ.title" = "プレビューを生成中…";
+< > "PGY-fz-9fG.title" = "Lanczos 3(分離可能)";
+< > "Pz4-iL-btF.title" = "ニアレストネイバー";
+< > "QXz-HP-TSt.title" = "Lanczos 3(分離可能)";
+< > "Qc9-WO-EMP.title" = "サイズ:";
+< > "Qxg-Wk-LvO.ibShadowedToolTip" = "幅";
+< > "R3G-DU-LRh.title" = "リサンプル:";
+< > "Ren-3Z-pDd.title" = "バイリニア";
+< > "SWO-6w-lrE.title" = "バイキュービック";
+< > "TV7-mB-1Vh.title" = "Lanczos 3(分離可能)";
+< > "Trp-sW-YY0.title" = "Lanczos 3(分離不可)";
+< > "UI9-7S-QPu.title" = "リサンプル:";
+< > "UYp-60-tR3.title" = "ニアレストネイバー";
+< > "VEW-yY-G9H.title" = "プリセット:";
+< > "Vf6-uA-2cW.title" = "裁ち落としあり";
+< > "Vs1-1Z-P72.title" = "書き出しペルソナで非表示にしたレイヤーを書き出ししない";
+< > "Wfs-ig-0oq.title" = "裁ち落としあり";
+< > "Wqm-6w-aCh.title" = "プリセット:";
+< > "X9b-GF-6nQ.title" = "バイキュービック";
+< > "XbJ-G7-EF3.title" = "ニアレストネイバー";
+< > "Xys-eA-wTT.title" = "サイズ:";
+< > "Y2a-7f-goU.title" = "バイキュービック";
+< > "Y6v-en-VhB.title" = "サイズ:";
+< > "Yga-QI-ILJ.title" = "その他のビュー";
+< > "Ymq-Os-7my.title" = "フォントを非依存にするためにテキストをカーブとして書き出し";
+< > "ZD0-tT-mzm.ibShadowedToolTip" = "高さ";
+< > "Zsr-ag-BTM.title" = "ニアレストネイバー";
+< > "ajL-jA-XKX.title" = "(一部の領域はラスタライズされます)";
+< > "be6-uF-6jW.title" = "プリセット:";
+< > "c7r-Kn-eYI.title" = "領域:";
+< > "cPB-vC-AsG.title" = "バイリニア";
+< > "cTy-50-edS.title" = "バイリニア";
+< > "cew-ry-GXp.title" = "Lanczos 3(分離可能)";
+< > "dGE-I9-Bpo.ibShadowedToolTip" = "幅";
+< > "e81-lX-y35.ibShadowedToolTip" = "高さ";
+< > "eWB-oR-PA4.title" = "Lanczos 3(分離可能)";
+< > "ezs-dq-h6D.title" = "裁ち落としあり";
+< > "fY1-7R-Giy.title" = "リサンプル:";
+< > "fYs-74-yXg.title" = "バイリニア";
+< > "fb1-QL-S7z.title" = "裁ち落としを含める";
+< > "fpt-80-ER6.title" = "Lanczos 3(分離不可)";
+< > "gQn-hn-LMp.title" = "ページ数:";
+< > "gVs-UY-Ooz.title" = "プリセット:";
+< > "gic-hL-0Xx.title" = "プリセット:";
+< > "hdF-j5-yix.title" = "バイキュービック";
+< > "hfh-b5-i3T.title" = "プリセット:";
+< > "hgx-S4-PRo.title" = "品質:";
+< > "i64-7g-fKx.title" = "裁ち落としを含める";
+< > "i6f-Qa-WbM.title" = "バイキュービック";
+< > "j4F-4R-AXO.title" = "ニアレストネイバー";
+< > "jMN-2s-aid.title" = "バイキュービック";
+< > "kbu-h2-8Js.title" = "ニアレストネイバー";
+< > "lvz-La-Kag.title" = "Lanczos 3(分離不可)";
+< > "lyo-qv-ji1.title" = "(一部の領域はラスタライズされます)";
+< > "mTe-h1-m33.title" = "PostScriptレベル:";
+< > "mda-oW-sll.title" = "サイズ:";
+< > "mh4-hT-5Fz.title" = "ニアレストネイバー";
+< > "nA2-zH-ZfO.ibShadowedToolTip" = "幅";
+< > "nm3-zK-uqz.title" = "Lanczos 3(分離可能)";
+< > "oDp-TL-hV9.ibShadowedToolTip" = "幅";
+< > "oZa-VM-FyU.title" = "品質:";
+< > "oa0-WO-QC9.ibShadowedToolTip" = "高さ";
+< > "of8-cv-yPb.title" = "ラスターDPI:";
+< > "pls-Wg-qGw.ibShadowedToolTip" = "高さ";
+< > "qf0-Ft-sdk.title" = "バイリニア";
+< > "qtR-S3-gT9.ibShadowedToolTip" = "幅";
+< > "rhm-jD-wRG.title" = "ラスターDPI:";
+< > "rtP-FH-chB.title" = "プリセット:";
+< > "s8u-Dq-Cg8.title" = "プリセット:";
+< > "saO-rV-K0v.title" = "リサンプル:";
+< > "sse-lI-3er.title" = "リサンプル:";
+< > "t95-kr-GID.title" = "Affinityレイヤーを保存";
+< > "tc4-cf-SOL.ibShadowedToolTip" = "高さ";
+< > "tc4-mv-c9t.title" = "裁ち落としあり";
+< > "u6N-uv-7uS.title" = "リサンプル:";
+< > "uVG-uv-Iu0.title" = "サイズ:";
+< > "ufj-4O-lRk.title" = "バイキュービック";
+< > "vFS-yM-Tdx.title" = "裁ち落としあり";
+< > "vod-D7-zgN.title" = "サイズ:";
+< > "wDN-Ea-WbL.title" = "ニアレストネイバー";
+< > "wH3-97-ShG.title" = "Lanczos 3(分離不可)";
+< > "wPV-9I-L50.title" = "Lanczos 3(分離可能)";
+< > "x3X-mb-Tdb.title" = "バイリニア";
+< > "xV7-xB-xTW.title" = "Lanczos 3(分離不可)";
+< > "xfH-o9-Wb1.title" = "Lanczos 3(分離不可)";
+< > "yra-HS-Mbf.title" = "品質:";
+< > "yub-E2-60N.title" = "ラスターDPI:";
+< > "zKc-6k-h8S.title" = "プリセット:";
 < > "zST-Qq-Xoq.title" = "リサンプル:";
 ---
-> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "zKc-6k-h8S"; */
+> < /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4dn-A0-5ju"; */
+> < /* Class = "NSButtonCell"; title = "Export"; ObjectID = "4CW-jQ-Ups"; */
+> < /* Class = "NSTextFieldCell"; title = "Area:"; ObjectID = "c7r-Kn-eYI"; */
+> < /* Class = "NSTextFieldCell"; title = "Estimated File Size:"; ObjectID = "Lkh-uo-tM1"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "0S5-58-zLj"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "5gb-TB-fyd"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "CeC-uM-pm9"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "Jub-VO-6lq"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "ME7-0X-gFP"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "O6l-bQ-uko"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "VEW-yY-G9H"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "Wqm-6w-aCh"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "be6-uF-6jW"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "gVs-UY-Ooz"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "gic-hL-0Xx"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "hfh-b5-i3T"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "rtP-FH-chB"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "s8u-Dq-Cg8"; */
+> < /* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "zKc-6k-h8S"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "1MV-3Z-Ocj"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "3Lg-U5-qTt"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "CBF-du-Pvv"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Cpf-xP-Xcc"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Qc9-WO-EMP"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Xys-eA-wTT"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "Y6v-en-VhB"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "mda-oW-sll"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "uVG-uv-Iu0"; */
+> < /* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "vod-D7-zgN"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "1Ug-YR-P59"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "GU4-OA-5av"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "HaK-RJ-RTB"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "Hwn-dn-OwM"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "Jso-uC-vCH"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "ZD0-tT-mzm"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "e81-lX-y35"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "oa0-WO-QC9"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "pls-Wg-qGw"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Height"; ObjectID = "tc4-cf-SOL"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "6bF-6P-NRh"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "7q7-9F-XIa"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "9eI-FX-6em"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "MpB-xl-2TA"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "NEw-3S-wGS"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "Qxg-Wk-LvO"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "dGE-I9-Bpo"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "nA2-zH-ZfO"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "oDp-TL-hV9"; */
+> < /* Class = "NSView"; ibShadowedToolTip = "Width"; ObjectID = "qtR-S3-gT9"; */
+> < /* Class = "NSWindow"; title = "Export"; ObjectID = "F0z-JX-Cv5"; */
+> > "0S5-58-zLj.title" = "미리 설정:";
+> > "1MV-3Z-Ocj.title" = "크기:";
+> > "1Ug-YR-P59.ibShadowedToolTip" = "높이";
+> > "3Lg-U5-qTt.title" = "크기:";
+> > "4CW-jQ-Ups.title" = "내보내기";
+> > "4dn-A0-5ju.title" = "취소";
+> > "5gb-TB-fyd.title" = "미리 설정:";
+> > "6bF-6P-NRh.ibShadowedToolTip" = "너비";
+> > "7q7-9F-XIa.ibShadowedToolTip" = "너비";
+> > "9eI-FX-6em.ibShadowedToolTip" = "너비";
+> > "CBF-du-Pvv.title" = "크기:";
+> > "CeC-uM-pm9.title" = "미리 설정:";
+> > "Cpf-xP-Xcc.title" = "크기:";
+> > "F0z-JX-Cv5.title" = "내보내기";
+> > "GU4-OA-5av.ibShadowedToolTip" = "높이";
+> > "HaK-RJ-RTB.ibShadowedToolTip" = "높이";
+> > "Hwn-dn-OwM.ibShadowedToolTip" = "높이";
+> > "Jso-uC-vCH.ibShadowedToolTip" = "높이";
+> > "Jub-VO-6lq.title" = "미리 설정:";
+> > "Lkh-uo-tM1.title" = "예상 파일 크기:";
+> > "ME7-0X-gFP.title" = "미리 설정:";
+> > "MpB-xl-2TA.ibShadowedToolTip" = "너비";
+> > "NEw-3S-wGS.ibShadowedToolTip" = "너비";
+> > "O6l-bQ-uko.title" = "미리 설정:";
+> > "Qc9-WO-EMP.title" = "크기:";
+> > "Qxg-Wk-LvO.ibShadowedToolTip" = "너비";
+> > "VEW-yY-G9H.title" = "미리 설정:";
+> > "Wqm-6w-aCh.title" = "미리 설정:";
+> > "Xys-eA-wTT.title" = "크기:";
+> > "Y6v-en-VhB.title" = "크기:";
+> > "ZD0-tT-mzm.ibShadowedToolTip" = "높이";
+> > "be6-uF-6jW.title" = "미리 설정:";
+> > "c7r-Kn-eYI.title" = "영역:";
+> > "dGE-I9-Bpo.ibShadowedToolTip" = "너비";
+> > "e81-lX-y35.ibShadowedToolTip" = "높이";
+> > "gVs-UY-Ooz.title" = "미리 설정:";
+> > "gic-hL-0Xx.title" = "미리 설정:";
+> > "hfh-b5-i3T.title" = "미리 설정:";
+> > "mda-oW-sll.title" = "크기:";
+> > "nA2-zH-ZfO.ibShadowedToolTip" = "너비";
+> > "oDp-TL-hV9.ibShadowedToolTip" = "너비";
+> > "oa0-WO-QC9.ibShadowedToolTip" = "높이";
+> > "pls-Wg-qGw.ibShadowedToolTip" = "높이";
+> > "qtR-S3-gT9.ibShadowedToolTip" = "너비";
+> > "rtP-FH-chB.title" = "미리 설정:";
+> > "s8u-Dq-Cg8.title" = "미리 설정:";
+> > "tc4-cf-SOL.ibShadowedToolTip" = "높이";
+> > "uVG-uv-Iu0.title" = "크기:";
+> > "vod-D7-zgN.title" = "크기:";
 > > "zKc-6k-h8S.title" = "미리 설정:";
+> > /* Class = "NSButtonCell"; title = "취소"; ObjectID = "4dn-A0-5ju"; */
+> > /* Class = "NSButtonCell"; title = "내보내기"; ObjectID = "4CW-jQ-Ups"; */
+> > /* Class = "NSTextFieldCell"; title = "예상 파일 크기:"; ObjectID = "Lkh-uo-tM1"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "0S5-58-zLj"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "5gb-TB-fyd"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "CeC-uM-pm9"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "Jub-VO-6lq"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "ME7-0X-gFP"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "O6l-bQ-uko"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "VEW-yY-G9H"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "Wqm-6w-aCh"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "be6-uF-6jW"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "gVs-UY-Ooz"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "gic-hL-0Xx"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "hfh-b5-i3T"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "rtP-FH-chB"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "s8u-Dq-Cg8"; */
+> > /* Class = "NSTextFieldCell"; title = "미리 설정:"; ObjectID = "zKc-6k-h8S"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "1MV-3Z-Ocj"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "3Lg-U5-qTt"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "CBF-du-Pvv"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Cpf-xP-Xcc"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Qc9-WO-EMP"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Xys-eA-wTT"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "Y6v-en-VhB"; */
+> > /* Class = "NSTextFieldCell"; title = "영역:"; ObjectID = "c7r-Kn-eYI"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "mda-oW-sll"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "uVG-uv-Iu0"; */
+> > /* Class = "NSTextFieldCell"; title = "크기:"; ObjectID = "vod-D7-zgN"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "1Ug-YR-P59"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "6bF-6P-NRh"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "7q7-9F-XIa"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "9eI-FX-6em"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "GU4-OA-5av"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "HaK-RJ-RTB"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "Hwn-dn-OwM"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "Jso-uC-vCH"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "MpB-xl-2TA"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "NEw-3S-wGS"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "Qxg-Wk-LvO"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "ZD0-tT-mzm"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "dGE-I9-Bpo"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "e81-lX-y35"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "nA2-zH-ZfO"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "oDp-TL-hV9"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "oa0-WO-QC9"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "pls-Wg-qGw"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "너비"; ObjectID = "qtR-S3-gT9"; */
+> > /* Class = "NSView"; ibShadowedToolTip = "높이"; ObjectID = "tc4-cf-SOL"; */
+> > /* Class = "NSWindow"; title = "내보내기"; ObjectID = "F0z-JX-Cv5"; */
