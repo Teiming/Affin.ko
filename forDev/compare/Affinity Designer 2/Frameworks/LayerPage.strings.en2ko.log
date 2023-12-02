@@ -126,10 +126,10 @@
 338,339c338,339
 341,342c341,342
 344,345c344,345
-347c347
+348c348
 350,351c350,351
 365,366c365,366
-374c374
+375c375
 38,39c38,39
 383,384c383,384
 389c389
@@ -225,8 +225,10 @@
 < "XUo-8X-01p.ibShadowedToolTip" = "Edit All Layers";
 < "Xco-Zy-yQ3.title" = "Cut";
 < "Xgf-2p-THS.title" = "Delete";
+< "Y3K-9B-l09.title" = "Select Same Tag Color";
 < "Yck-jy-C1r.title" = "Ungroup";
 < "a8r-CN-E4L.title" = "Medium Thumbnails";
+< "afm-gE-ZSx.title" = "Select Same Tag Color";
 < "bYy-Pn-5XB.title" = "Delete";
 < "cHP-BL-cl5.title" = "Copy";
 < "cSJ-AW-6yE.title" = "Group";
@@ -348,8 +350,6 @@
 < /* Class = "NSMenuItem"; title = "Rasterise…"; ObjectID = "yVL-aF-prU"; */
 < /* Class = "NSMenuItem"; title = "Select Same Name"; ObjectID = "nei-8E-Af9"; */
 < /* Class = "NSMenuItem"; title = "Select Same Name"; ObjectID = "y2c-A2-ur8"; */
-< /* Class = "NSMenuItem"; title = "Select Same Tag Colour"; ObjectID = "Y3K-9B-l09"; */
-< /* Class = "NSMenuItem"; title = "Select Same Tag Colour"; ObjectID = "afm-gE-ZSx"; */
 < /* Class = "NSMenuItem"; title = "Small Thumbnails"; ObjectID = "qku-VS-zQE"; */
 < /* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "Yck-jy-C1r"; */
 < /* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "jh8-cp-7GQ"; */
@@ -399,8 +399,10 @@
 > "XUo-8X-01p.ibShadowedToolTip" = "모든 레이어 편집";
 > "Xco-Zy-yQ3.title" = "오려두기";
 > "Xgf-2p-THS.title" = "지우기";
+> "Y3K-9B-l09.title" = "태그 색상으로 동일 선택";
 > "Yck-jy-C1r.title" = "그룹 풀기";
 > "a8r-CN-E4L.title" = "중간 마중그림";
+> "afm-gE-ZSx.title" = "태그 색상으로 동일 선택";
 > "bYy-Pn-5XB.title" = "지우기";
 > "cHP-BL-cl5.title" = "복사";
 > "cSJ-AW-6yE.title" = "그룹";
@@ -466,8 +468,6 @@
 > /* Class = "NSMenuItem"; title = "기타 가리기"; ObjectID = "kyq-FK-yaO"; */
 > /* Class = "NSMenuItem"; title = "자동 스크롤"; ObjectID = "wWS-Et-8qg"; */
 > /* Class = "NSMenuItem"; title = "신규 레이어"; ObjectID = "yNQ-sy-CPz"; */
-> /* Class = "NSMenuItem"; title = "태그 색상으로 동일 선택"; ObjectID = "Y3K-9B-l09"; */
-> /* Class = "NSMenuItem"; title = "태그 색상으로 동일 선택"; ObjectID = "afm-gE-ZSx"; */
 > /* Class = "NSMenuItem"; title = "중간 마중그림"; ObjectID = "a8r-CN-E4L"; */
 > /* Class = "NSMenuItem"; title = "작은 마중그림"; ObjectID = "qku-VS-zQE"; */
 > /* Class = "NSMenuItem"; title = "잠금"; ObjectID = "0ei-lO-DFN"; */

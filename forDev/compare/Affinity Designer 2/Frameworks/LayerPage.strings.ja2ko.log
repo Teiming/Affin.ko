@@ -1,4 +1,4 @@
-93,425c93,184
+93,302c93,128
 < ---
 < ---
 < ---
@@ -209,7 +209,44 @@
 < 33c33
 < 342c342
 < 345c345
-< 348c348
+---
+> 101,102c101,102
+> 11,12c11,12
+> 137,138c137,138
+> 14,15c14,15
+> 149,150c149,150
+> 155,156c155,156
+> 167,168c167,168
+> 17,18c17,18
+> 188,189c188,189
+> 194,195c194,195
+> 20,21c20,21
+> 206,207c206,207
+> 209,210c209,210
+> 212,213c212,213
+> 218,219c218,219
+> 236,237c236,237
+> 239,240c239,240
+> 242c242
+> 254,255c254,255
+> 26,27c26,27
+> 266,267c266,267
+> 269,270c269,270
+> 275,276c275,276
+> 278,279c278,279
+> 281,282c281,282
+> 284,285c284,285
+> 290,291c290,291
+> 305,306c305,306
+> 308c308
+> 311,312c311,312
+> 317c317
+> 32,33c32,33
+> 332,333c332,333
+> 338,339c338,339
+> 341,342c341,342
+> 344,345c344,345
+304,311c130,131
 < 351c351
 < 357c357
 < 360c360
@@ -218,7 +255,10 @@
 < 369c369
 < 36c36
 < 372c372
-< 375c375
+---
+> 350,351c350,351
+> 365,366c365,366
+313,425c133,184
 < 378c378
 < 381c381
 < 384c384
@@ -333,46 +373,6 @@
 < 9c9
 < < "0N1-K6-tCa.title" = "Mask to Below";
 ---
-> 101,102c101,102
-> 11,12c11,12
-> 137,138c137,138
-> 14,15c14,15
-> 149,150c149,150
-> 155,156c155,156
-> 167,168c167,168
-> 17,18c17,18
-> 188,189c188,189
-> 194,195c194,195
-> 20,21c20,21
-> 206,207c206,207
-> 209,210c209,210
-> 212,213c212,213
-> 218,219c218,219
-> 236,237c236,237
-> 239,240c239,240
-> 242c242
-> 254,255c254,255
-> 26,27c26,27
-> 266,267c266,267
-> 269,270c269,270
-> 275,276c275,276
-> 278,279c278,279
-> 281,282c281,282
-> 284,285c284,285
-> 290,291c290,291
-> 305,306c305,306
-> 308c308
-> 311,312c311,312
-> 317c317
-> 32,33c32,33
-> 332,333c332,333
-> 338,339c338,339
-> 341,342c341,342
-> 344,345c344,345
-> 347c347
-> 350,351c350,351
-> 365,366c365,366
-> 374c374
 > 38,39c38,39
 > 383,384c383,384
 > 389c389
@@ -520,62 +520,60 @@
 < < "W5X-AA-7Fa.title" = "Checkerboard";
 535d224
 < < "XUK-pB-oQF.title" = "Lens Blur…";
-539d227
-< < "Y3K-9B-l09.title" = "Select Same Tag Color";
-541,543d228
+541,543d229
 < < "ZU9-TJ-4oq.title" = "Preflight Comment";
 < < "ZUW-uh-KrE.title" = "Halftone…";
 < < "Zcx-kR-NPS.title" = "Unsharp Mask…";
-545,549d229
+545,546d230
 < < "ac1-Ze-KJK.title" = "Brightness and Contrast…";
 < < "aey-y9-0vT.title" = "Liquify…";
-< < "afm-gE-ZSx.title" = "Select Same Tag Color";
+548,549d231
 < < "aos-pW-97h.title" = "Hue Range Mask…";
 < < "asZ-KS-OcW.title" = "Bend - Vertical";
-551,554d230
+551,554d232
 < < "brq-16-CzO.title" = "Fish Eye";
 < < "buw-mG-r1d.title" = "Rasterize…";
 < < "bvX-0g-T0d.title" = "Expand Selection";
 < < "bwh-Yp-RYg.title" = "Color Tag Placeholder";
-557d232
+557d234
 < < "cbF-6M-ptW.title" = "Gaussian Blur…";
-559d233
+559d235
 < < "cwG-4t-ZTf.title" = "Lens Distortion…";
-561,563d234
+561,563d236
 < < "dS5-17-jOa.title" = "Collapse Selection";
 < < "dUN-TC-4vJ.title" = "Mask to Below";
 < < "ddz-dY-viZ.title" = "Bilateral Blur…";
-565d235
+565d237
 < < "e8N-Q7-x1a.title" = "Band-pass Mask…";
-567d236
+567d238
 < < "eoK-JN-x1T.title" = "Pinch / Punch…";
-573d241
+573d243
 < < "gQ1-KW-jqe.title" = "Shadows / Highlights…";
-577,580d244
+577,580d246
 < < "h08-4P-cH9.title" = "Black and White…";
 < < "hVz-GL-fp2.title" = "Add Noise…";
 < < "hXM-wT-lvW.title" = "Clarity…";
 < < "hXl-nq-0KU.title" = "Rasterize & Trim…";
-584,589d247
+584,589d249
 < < "k42-lm-Vm6.title" = "White Balance…";
 < < "k50-gt-XVh.title" = "Edit Mask";
 < < "kKF-TC-oUu.title" = "Thumbnail Background";
 < < "kKi-A3-6Ez.title" = "Collapse All Parents";
 < < "kRS-W8-hiQ.title" = "Thumbnail Background";
 < < "kbJ-4i-Zlx.title" = "Shadows / Highlights…";
-592d249
+592d251
 < < "kuE-O3-tq1.title" = "Release";
-594d250
+594d252
 < < "l07-FM-57g.title" = "Rasterize…";
-596,597d251
+596,597d253
 < < "lG0-Rq-P1m.title" = "Exclude from Snapping";
 < < "lI6-0K-5TZ.title" = "Color Tag Placeholder";
-599,600d252
+599,600d254
 < < "mB8-og-JfM.title" = "Soft Proof…";
 < < "nGZ-NG-6rt.title" = "Defringe…";
-602d253
+602d255
 < < "o1n-fa-ddw.title" = "Properties…";
-604,610d254
+604,610d256
 < < "osk-jW-QfR.title" = "Lighting…";
 < < "pBT-rj-VoI.title" = "Set…";
 < < "pP0-hd-tRt.title" = "Median Blur…";
@@ -583,28 +581,28 @@
 < < "q4r-H9-jh3.title" = "Show Others";
 < < "qIz-6Z-1Rf.title" = "Rasterize to Mask";
 < < "qLl-aR-Cpr.title" = "High Pass…";
-613,616d256
+613,616d258
 < < "qu9-LW-YUs.title" = "Edit Linked";
 < < "rBJ-Jn-KIP.title" = "Split Toning…";
 < < "rlM-FF-7kH.title" = "Edit Detached";
 < < "rwH-Nj-DNG.title" = "Motion Blur…";
-618,619d257
+618,619d259
 < < "s5G-yy-TDC.title" = "Rasterize…";
 < < "t2c-nC-q3r.title" = "Compound Mask";
-621d258
+621d260
 < < "twh-QL-F1w.title" = "Exclude from Snapping";
-624d260
+624d262
 < < "vPF-yq-KPV.title" = "Arc - Horizontal";
-626d261
+626d263
 < < "voD-GH-rjs.title" = "Recolor…";
-628,629d262
+628,629d264
 < < "waR-HC-mI3.title" = "Box Blur…";
 < < "wmA-4c-NbV.title" = "Color Tag Placeholder";
-631d263
+631d265
 < < "yHq-E4-VYE.title" = "Show Group Thumbnails";
-634d265
+634d267
 < < "yVL-aF-prU.title" = "Rasterize…";
-636,848c267,532
+636,848c269,532
 < < "zNn-wW-jQH.title" = "Diffuse Glow…";
 < > "0N1-K6-tCa.title" = "下のレイヤーにマスクを使用";
 < > "0ei-lO-DFN.title" = "ロック";
@@ -903,8 +901,6 @@
 > < /* Class = "NSMenuItem"; title = "Rasterise…"; ObjectID = "yVL-aF-prU"; */
 > < /* Class = "NSMenuItem"; title = "Select Same Name"; ObjectID = "nei-8E-Af9"; */
 > < /* Class = "NSMenuItem"; title = "Select Same Name"; ObjectID = "y2c-A2-ur8"; */
-> < /* Class = "NSMenuItem"; title = "Select Same Tag Colour"; ObjectID = "Y3K-9B-l09"; */
-> < /* Class = "NSMenuItem"; title = "Select Same Tag Colour"; ObjectID = "afm-gE-ZSx"; */
 > < /* Class = "NSMenuItem"; title = "Small Thumbnails"; ObjectID = "qku-VS-zQE"; */
 > < /* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "Yck-jy-C1r"; */
 > < /* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "jh8-cp-7GQ"; */
@@ -954,8 +950,10 @@
 > > "XUo-8X-01p.ibShadowedToolTip" = "모든 레이어 편집";
 > > "Xco-Zy-yQ3.title" = "오려두기";
 > > "Xgf-2p-THS.title" = "지우기";
+> > "Y3K-9B-l09.title" = "태그 색상으로 동일 선택";
 > > "Yck-jy-C1r.title" = "그룹 풀기";
 > > "a8r-CN-E4L.title" = "중간 마중그림";
+> > "afm-gE-ZSx.title" = "태그 색상으로 동일 선택";
 > > "bYy-Pn-5XB.title" = "지우기";
 > > "cHP-BL-cl5.title" = "복사";
 > > "cSJ-AW-6yE.title" = "그룹";
@@ -1021,8 +1019,6 @@
 > > /* Class = "NSMenuItem"; title = "기타 가리기"; ObjectID = "kyq-FK-yaO"; */
 > > /* Class = "NSMenuItem"; title = "자동 스크롤"; ObjectID = "wWS-Et-8qg"; */
 > > /* Class = "NSMenuItem"; title = "신규 레이어"; ObjectID = "yNQ-sy-CPz"; */
-> > /* Class = "NSMenuItem"; title = "태그 색상으로 동일 선택"; ObjectID = "Y3K-9B-l09"; */
-> > /* Class = "NSMenuItem"; title = "태그 색상으로 동일 선택"; ObjectID = "afm-gE-ZSx"; */
 > > /* Class = "NSMenuItem"; title = "중간 마중그림"; ObjectID = "a8r-CN-E4L"; */
 > > /* Class = "NSMenuItem"; title = "작은 마중그림"; ObjectID = "qku-VS-zQE"; */
 > > /* Class = "NSMenuItem"; title = "잠금"; ObjectID = "0ei-lO-DFN"; */
