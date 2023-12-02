@@ -1,104 +1,104 @@
-5c5
-< "Black" = "Black";
 ---
-> "Black" = "검정";
-8c8
-< "Black 95%" = "Black 95%";
 ---
-> "Black 95%" = "검정 95%";
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 11c11
-< "Black 90%" = "Black 90%";
----
-> "Black 90%" = "검정 90%";
 14c14
-< "Black 85%" = "Black 85%";
----
-> "Black 85%" = "검정 85%";
 17c17
-< "Black 80%" = "Black 80%";
----
-> "Black 80%" = "검정 80%";
 20c20
-< "Black 75%" = "Black 75%";
----
-> "Black 75%" = "검정 75%";
 23c23
-< "Black 70%" = "Black 70%";
----
-> "Black 70%" = "검정 70%";
 26c26
-< "Black 65%" = "Black 65%";
----
-> "Black 65%" = "검정 65%";
 29c29
-< "Black 60%" = "Black 60%";
----
-> "Black 60%" = "검정 60%";
 32c32
-< "Black 55%" = "Black 55%";
----
-> "Black 55%" = "검정 55%";
 35c35
-< "Black 50%" = "Black 50%";
----
-> "Black 50%" = "검정 50%";
 38c38
-< "Black 45%" = "Black 45%";
----
-> "Black 45%" = "검정 45%";
 41c41
-< "Black 40%" = "Black 40%";
----
-> "Black 40%" = "검정 40%";
 44c44
-< "Black 35%" = "Black 35%";
----
-> "Black 35%" = "검정 35%";
 47c47
-< "Black 30%" = "Black 30%";
----
-> "Black 30%" = "검정 30%";
 50c50
-< "Black 25%" = "Black 25%";
----
-> "Black 25%" = "검정 25%";
-53c53
-< "Black 20%" = "Black 20%";
----
-> "Black 20%" = "검정 20%";
-56c56
-< "Black 15%" = "Black 15%";
----
-> "Black 15%" = "검정 15%";
-59c59
-< "Black 10%" = "Black 10%";
----
-> "Black 10%" = "검정 10%";
-62c62
-< "Black 5%" = "Black 5%";
----
-> "Black 5%" = "검정 5%";
-65c65
-< "White" = "White";
----
-> "White" = "하양";
 530c530
-< "Gradients" = "Gradients";
----
-> "Gradients" = "그레이디언트";
 533c533
-< "Black to white" = "Black to white";
----
-> "Black to white" = "검정에서 하양";
 536c536
-< "White to black" = "White to black";
----
-> "White to black" = "하양에서 검정";
 539c539
-< "Black to transparent" = "Black to transparent";
----
-> "Black to transparent" = "검정에서 투명";
+53c53
 542c542
+56c56
+59c59
+5c5
+62c62
+65c65
+8c8
+< "Black 10%" = "Black 10%";
+< "Black 15%" = "Black 15%";
+< "Black 20%" = "Black 20%";
+< "Black 25%" = "Black 25%";
+< "Black 30%" = "Black 30%";
+< "Black 35%" = "Black 35%";
+< "Black 40%" = "Black 40%";
+< "Black 45%" = "Black 45%";
+< "Black 5%" = "Black 5%";
+< "Black 50%" = "Black 50%";
+< "Black 55%" = "Black 55%";
+< "Black 60%" = "Black 60%";
+< "Black 65%" = "Black 65%";
+< "Black 70%" = "Black 70%";
+< "Black 75%" = "Black 75%";
+< "Black 80%" = "Black 80%";
+< "Black 85%" = "Black 85%";
+< "Black 90%" = "Black 90%";
+< "Black 95%" = "Black 95%";
+< "Black to transparent" = "Black to transparent";
+< "Black to white" = "Black to white";
+< "Black" = "Black";
+< "Gradients" = "Gradients";
+< "White to black" = "White to black";
 < "White to transparent" = "White to transparent";
----
+< "White" = "White";
+> "Black 10%" = "검정 10%";
+> "Black 15%" = "검정 15%";
+> "Black 20%" = "검정 20%";
+> "Black 25%" = "검정 25%";
+> "Black 30%" = "검정 30%";
+> "Black 35%" = "검정 35%";
+> "Black 40%" = "검정 40%";
+> "Black 45%" = "검정 45%";
+> "Black 5%" = "검정 5%";
+> "Black 50%" = "검정 50%";
+> "Black 55%" = "검정 55%";
+> "Black 60%" = "검정 60%";
+> "Black 65%" = "검정 65%";
+> "Black 70%" = "검정 70%";
+> "Black 75%" = "검정 75%";
+> "Black 80%" = "검정 80%";
+> "Black 85%" = "검정 85%";
+> "Black 90%" = "검정 90%";
+> "Black 95%" = "검정 95%";
+> "Black to transparent" = "검정에서 투명";
+> "Black to white" = "검정에서 하양";
+> "Black" = "검정";
+> "Gradients" = "그레이디언트";
+> "White to black" = "하양에서 검정";
 > "White to transparent" = "하양에서 투명";
+> "White" = "하양";
