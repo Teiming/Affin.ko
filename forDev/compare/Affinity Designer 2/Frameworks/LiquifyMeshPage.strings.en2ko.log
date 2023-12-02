@@ -1,22 +1,22 @@
-8,9c8,9
-< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "BEH-jt-cGN"; */
-< "BEH-jt-cGN.title" = "Apply";
 ---
-> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "BEH-jt-cGN"; */
-> "BEH-jt-cGN.title" = "적용";
+---
+---
+---
 11,12c11,12
-< /* Class = "NSButtonCell"; title = "Reset Mesh"; ObjectID = "CyN-53-rlB"; */
-< "CyN-53-rlB.title" = "Reset Mesh";
----
-> /* Class = "NSButtonCell"; title = "그물 재설정"; ObjectID = "CyN-53-rlB"; */
-> "CyN-53-rlB.title" = "그물 재설정";
 20,21c20,21
-< /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "OEZ-2y-poa"; */
-< "OEZ-2y-poa.title" = "Opacity";
----
-> /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "OEZ-2y-poa"; */
-> "OEZ-2y-poa.title" = "불투명도";
 29c29
+8,9c8,9
+< "BEH-jt-cGN.title" = "Apply";
+< "CyN-53-rlB.title" = "Reset Mesh";
+< "OEZ-2y-poa.title" = "Opacity";
+< /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "BEH-jt-cGN"; */
+< /* Class = "NSButtonCell"; title = "Reset Mesh"; ObjectID = "CyN-53-rlB"; */
 < /* Class = "NSTextFieldCell"; title = "Colour"; ObjectID = "dLt-Fp-rZu"; */
----
+< /* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "OEZ-2y-poa"; */
+> "BEH-jt-cGN.title" = "적용";
+> "CyN-53-rlB.title" = "그물 재설정";
+> "OEZ-2y-poa.title" = "불투명도";
+> /* Class = "NSButtonCell"; title = "그물 재설정"; ObjectID = "CyN-53-rlB"; */
+> /* Class = "NSButtonCell"; title = "적용"; ObjectID = "BEH-jt-cGN"; */
 > /* Class = "NSTextFieldCell"; title = "색상"; ObjectID = "dLt-Fp-rZu"; */
+> /* Class = "NSTextFieldCell"; title = "불투명도"; ObjectID = "OEZ-2y-poa"; */
