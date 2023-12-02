@@ -1,66 +1,66 @@
-5,6c5,6
-< /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "683"; */
-< "683.title" = "User Defined";
 ---
-> /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "683"; */
-> "683.title" = "사용자 정의";
-8,9c8,9
-< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "684"; */
-< "684.title" = "Standard";
 ---
-> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "684"; */
-> "684.title" = "표준";
+---
+---
+---
+---
+---
+---
+---
+---
+---
 11,12c11,12
-< /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "685"; */
-< "685.title" = "Categories";
----
-> /* Class = "NSMenuItem"; title = "범주"; ObjectID = "685"; */
-> "685.title" = "범주";
 14,15c14,15
-< /* Class = "NSMenuItem"; title = "Create New Category"; ObjectID = "0xZ-ca-7WO"; */
-< "0xZ-ca-7WO.title" = "Create New Category";
----
-> /* Class = "NSMenuItem"; title = "신규 범주 생성"; ObjectID = "0xZ-ca-7WO"; */
-> "0xZ-ca-7WO.title" = "신규 범주 생성";
 17,18c17,18
-< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "29x-ZG-4UJ"; */
-< "29x-ZG-4UJ.title" = "Rename Category…";
----
-> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "29x-ZG-4UJ"; */
-> "29x-ZG-4UJ.title" = "범주 이름 변경…";
 20,21c20,21
-< /* Class = "NSMenuItem"; title = "Import Presets…"; ObjectID = "6wi-GB-u1Y"; */
-< "6wi-GB-u1Y.title" = "Import Presets…";
----
-> /* Class = "NSMenuItem"; title = "미리 설정 들여오기…"; ObjectID = "6wi-GB-u1Y"; */
-> "6wi-GB-u1Y.title" = "미리 설정 들여오기…";
 23,24c23,24
-< /* Class = "NSMenuItem"; title = "Delete Preset"; ObjectID = "8Mu-k9-rUv"; */
-< "8Mu-k9-rUv.title" = "Delete Preset";
----
-> /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "8Mu-k9-rUv"; */
-> "8Mu-k9-rUv.title" = "미리 설정 지우기";
 29,30c29,30
-< /* Class = "NSMenuItem"; title = "Delete Category"; ObjectID = "FMS-rv-LVv"; */
-< "FMS-rv-LVv.title" = "Delete Category";
----
-> /* Class = "NSMenuItem"; title = "범주 지우기"; ObjectID = "FMS-rv-LVv"; */
-> "FMS-rv-LVv.title" = "범주 지우기";
 35,36c35,36
-< /* Class = "NSMenu"; title = "Brush Item Context Menu"; ObjectID = "gLd-p3-n9l"; */
-< "gLd-p3-n9l.title" = "Brush Item Context Menu";
----
-> /* Class = "NSMenu"; title = "브러시 항목 상황별 메뉴"; ObjectID = "gLd-p3-n9l"; */
-> "gLd-p3-n9l.title" = "브러시 항목 상황별 메뉴";
 38,39c38,39
-< /* Class = "NSMenuItem"; title = "Rename Preset…"; ObjectID = "rBF-Fx-fJ3"; */
-< "rBF-Fx-fJ3.title" = "Rename Preset…";
----
-> /* Class = "NSMenuItem"; title = "미리 설정 이름 변경…"; ObjectID = "rBF-Fx-fJ3"; */
-> "rBF-Fx-fJ3.title" = "미리 설정 이름 변경…";
 44,45c44,45
-< /* Class = "NSMenuItem"; title = "Add Preset"; ObjectID = "rjh-yd-yX0"; */
+5,6c5,6
+8,9c8,9
+< "0xZ-ca-7WO.title" = "Create New Category";
+< "29x-ZG-4UJ.title" = "Rename Category…";
+< "683.title" = "User Defined";
+< "684.title" = "Standard";
+< "685.title" = "Categories";
+< "6wi-GB-u1Y.title" = "Import Presets…";
+< "8Mu-k9-rUv.title" = "Delete Preset";
+< "FMS-rv-LVv.title" = "Delete Category";
+< "gLd-p3-n9l.title" = "Brush Item Context Menu";
+< "rBF-Fx-fJ3.title" = "Rename Preset…";
 < "rjh-yd-yX0.title" = "Add Preset";
----
-> /* Class = "NSMenuItem"; title = "미리 설정 추가"; ObjectID = "rjh-yd-yX0"; */
+< /* Class = "NSMenu"; title = "Brush Item Context Menu"; ObjectID = "gLd-p3-n9l"; */
+< /* Class = "NSMenuItem"; title = "Add Preset"; ObjectID = "rjh-yd-yX0"; */
+< /* Class = "NSMenuItem"; title = "Categories"; ObjectID = "685"; */
+< /* Class = "NSMenuItem"; title = "Create New Category"; ObjectID = "0xZ-ca-7WO"; */
+< /* Class = "NSMenuItem"; title = "Delete Category"; ObjectID = "FMS-rv-LVv"; */
+< /* Class = "NSMenuItem"; title = "Delete Preset"; ObjectID = "8Mu-k9-rUv"; */
+< /* Class = "NSMenuItem"; title = "Import Presets…"; ObjectID = "6wi-GB-u1Y"; */
+< /* Class = "NSMenuItem"; title = "Rename Category…"; ObjectID = "29x-ZG-4UJ"; */
+< /* Class = "NSMenuItem"; title = "Rename Preset…"; ObjectID = "rBF-Fx-fJ3"; */
+< /* Class = "NSMenuItem"; title = "Standard"; ObjectID = "684"; */
+< /* Class = "NSMenuItem"; title = "User Defined"; ObjectID = "683"; */
+> "0xZ-ca-7WO.title" = "신규 범주 생성";
+> "29x-ZG-4UJ.title" = "범주 이름 변경…";
+> "683.title" = "사용자 정의";
+> "684.title" = "표준";
+> "685.title" = "범주";
+> "6wi-GB-u1Y.title" = "미리 설정 들여오기…";
+> "8Mu-k9-rUv.title" = "미리 설정 지우기";
+> "FMS-rv-LVv.title" = "범주 지우기";
+> "gLd-p3-n9l.title" = "브러시 항목 상황별 메뉴";
+> "rBF-Fx-fJ3.title" = "미리 설정 이름 변경…";
 > "rjh-yd-yX0.title" = "미리 설정 추가";
+> /* Class = "NSMenu"; title = "브러시 항목 상황별 메뉴"; ObjectID = "gLd-p3-n9l"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 이름 변경…"; ObjectID = "rBF-Fx-fJ3"; */
+> /* Class = "NSMenuItem"; title = "신규 범주 생성"; ObjectID = "0xZ-ca-7WO"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 추가"; ObjectID = "rjh-yd-yX0"; */
+> /* Class = "NSMenuItem"; title = "범주 이름 변경…"; ObjectID = "29x-ZG-4UJ"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 지우기"; ObjectID = "8Mu-k9-rUv"; */
+> /* Class = "NSMenuItem"; title = "미리 설정 들여오기…"; ObjectID = "6wi-GB-u1Y"; */
+> /* Class = "NSMenuItem"; title = "범주 지우기"; ObjectID = "FMS-rv-LVv"; */
+> /* Class = "NSMenuItem"; title = "표준"; ObjectID = "684"; */
+> /* Class = "NSMenuItem"; title = "범주"; ObjectID = "685"; */
+> /* Class = "NSMenuItem"; title = "사용자 정의"; ObjectID = "683"; */
