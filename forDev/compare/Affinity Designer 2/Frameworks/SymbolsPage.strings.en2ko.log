@@ -1,12 +1,12 @@
-2,3c2,3
-< /* Class = "NSTextFieldCell"; title = "Sync:"; ObjectID = "0Im-nP-iL3"; */
-< "0Im-nP-iL3.title" = "Sync:";
 ---
-> /* Class = "NSTextFieldCell"; title = "동기화:"; ObjectID = "0Im-nP-iL3"; */
-> "0Im-nP-iL3.title" = "동기화:";
+---
 14,15c14,15
-< /* Class = "NSButtonCell"; title = "Create"; ObjectID = "jfz-7p-kHo"; */
+2,3c2,3
+< "0Im-nP-iL3.title" = "Sync:";
 < "jfz-7p-kHo.title" = "Create";
----
-> /* Class = "NSButtonCell"; title = "생성"; ObjectID = "jfz-7p-kHo"; */
+< /* Class = "NSButtonCell"; title = "Create"; ObjectID = "jfz-7p-kHo"; */
+< /* Class = "NSTextFieldCell"; title = "Sync:"; ObjectID = "0Im-nP-iL3"; */
+> "0Im-nP-iL3.title" = "동기화:";
 > "jfz-7p-kHo.title" = "생성";
+> /* Class = "NSButtonCell"; title = "생성"; ObjectID = "jfz-7p-kHo"; */
+> /* Class = "NSTextFieldCell"; title = "동기화:"; ObjectID = "0Im-nP-iL3"; */
