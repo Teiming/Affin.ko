@@ -15,9 +15,5 @@
 < > "146.title" = "スタイルを削除";
 < > "OUb-nR-qsi.title" = "同期ステータスを表示…";
 ---
-> < /* Class = "NSMenuItem"; title = "Delete Style"; ObjectID = "146"; */
-> < /* Class = "NSTextFieldCell"; title = "Style"; ObjectID = "106"; */
 > > "106.title" = "스타일";
 > > "146.title" = "스타일 지우기";
-> > /* Class = "NSMenuItem"; title = "스타일 지우기"; ObjectID = "146"; */
-> > /* Class = "NSTextFieldCell"; title = "스타일"; ObjectID = "106"; */
