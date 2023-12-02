@@ -1,12 +1,12 @@
-2,3c2,3
-< /* Class = "NSButtonCell"; title = "Create"; ObjectID = "8x1-Vm-8YL"; */
-< "8x1-Vm-8YL.title" = "Create";
 ---
-> /* Class = "NSButtonCell"; title = "생성"; ObjectID = "8x1-Vm-8YL"; */
-> "8x1-Vm-8YL.title" = "생성";
+---
 17,18c17,18
-< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "OwC-8G-793"; */
+2,3c2,3
+< "8x1-Vm-8YL.title" = "Create";
 < "OwC-8G-793.title" = "Cancel";
----
-> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "OwC-8G-793"; */
+< /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "OwC-8G-793"; */
+< /* Class = "NSButtonCell"; title = "Create"; ObjectID = "8x1-Vm-8YL"; */
+> "8x1-Vm-8YL.title" = "생성";
 > "OwC-8G-793.title" = "취소";
+> /* Class = "NSButtonCell"; title = "생성"; ObjectID = "8x1-Vm-8YL"; */
+> /* Class = "NSButtonCell"; title = "취소"; ObjectID = "OwC-8G-793"; */
