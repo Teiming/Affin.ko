@@ -41,7 +41,7 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   diff "${APPNAME}"/"${NAME}".en2ja.log "${APPNAME}"/"${NAME}".en2ko.log >./"${APPNAME}"/"${NAME}".ja2ko.pre.log
   cat ./"${APPNAME}"/"${NAME}".ja2ko.pre.log | sed '/ObjectID/d' >./"${APPNAME}"/"${NAME}".ja2ko.log
   rm ./"${APPNAME}"/"${NAME}".ja2ko.pre.log
-  echo " (로그 종료)"
+  printf " (로그 종료)"
   git add .
   git commit -m "${APPVERS} ${APPNAME} ${NAME} Updated"
 done
@@ -56,7 +56,7 @@ for ((i = 1; i <= ${FILECOUNTF}; i++)); do
   diff "${APPNAME}"/Frameworks/"${NAME}".en2ja.log "${APPNAME}"/Frameworks/"${NAME}".en2ko.log >./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.pre.log
   cat ./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.pre.log | sed '/ObjectID/d' >./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.log
   rm ./"${APPNAME}"/Frameworks/"${NAME}".ja2ko.pre.log
-  echo " (로그 종료)"
+  printf " (로그 종료)"
   git add .
   git commit -m "${APPVERS} ${APPNAME} ${NAME} Updated"
 done

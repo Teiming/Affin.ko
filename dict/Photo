@@ -53,19 +53,19 @@ s/\"After\";/\"이후\";/
 s/\"Alerts\";/\"알림\";/
 s/\"Align Bottom Edges\";/\"아래쪽 정렬\";/
 s/\"Align Bottom\";/\"아래쪽 정렬\";/
-s/\"Align Centre\";/\"가로 가운데 정렬\";/
-s/\"Align Horizontal Centres\";/\"가로 가운데 정렬\";/
+s/\"Align Center\";/\"가로 가운데 정렬\";/
+s/\"Align Horizontal Centers\";/\"가로 가운데 정렬\";/
 s/\"Align Left Edges\";/\"왼쪽 정렬\";/
 s/\"Align Left\";/\"왼쪽 정렬\";/
 s/\"Align Middle\";/\"세로 가운데 정렬\";/
 s/\"Align Right Edges\";/\"오른쪽 정렬\";/
 s/\"Align Right\";/\"오른쪽 정렬\";/
-s/\"Align Stroke to Centre\";/\"선을 중앙에 정렬\";/
+s/\"Align Stroke to Center\";/\"선을 중앙에 정렬\";/
 s/\"Align Stroke to Inside\";/\"선을 안쪽에 정렬\";/
 s/\"Align Stroke to Outside\";/\"선을 바깥쪽에 정렬\";/
 s/\"Align Top Edges\";/\"위쪽 정렬\";/
 s/\"Align Top\";/\"위쪽 정렬\";/
-s/\"Align Vertical Centres\";/\"세로 가운데 정렬\";/
+s/\"Align Vertical Centers\";/\"세로 가운데 정렬\";/
 s/\"Align to:\";/\"정렬 대상:\";/
 s/\"Align:\";/\"정렬:\";/
 s/\"Align\";/\"정렬하기\";/
@@ -134,10 +134,12 @@ s/\"Before \/ After\";/\"이전 \/ 이후\";/
 s/\"Before\";/\"이전\";/
 s/\"Behind\";/\"뒤로\";/
 s/\"Benchmark\";/\"벤치마크\";/
+s/\"Bevel Join\";/\"사선 이음\";/
 s/\"Bevel \/ Emboss\";/\"음각 \/ 양각\";/
 s/\"Big\";/\"큰\";/
 s/\"Bigger\";/\"크게\";/
 s/\"Bilateral Blur\";/\"양방향 흐림\";/
+s/\"Bitmap\";/\"비트맵\";/
 s/\"Black 10%\";/\"검정 10%\";/
 s/\"Black 15%\";/\"검정 15%\";/
 s/\"Black 20%\";/\"검정 20%\";/
@@ -198,7 +200,7 @@ s/\"Brushes\";/\"브러시\";/
 s/\"Business Card\";/\"명함\";/
 s/\"Butt Cap\";/\"뭉툭한 단면\";/
 s/\"Button\";/\"버튼\";/
-s/\"Callout Ellipse Tool\";/\"외치기 타원 도구\";/
+s/\"Callout Ellipse Tool\";/\"말풍선 타원 도구\";/
 s/\"Camera\";/\"카메라\";/
 s/\"Cancel\";/\"취소\";/
 s/\"Candidate list\";/\"후보 목록\";/
@@ -215,9 +217,9 @@ s/\"Cap:\";/\"단면:\";/
 s/\"Capitalisation\";/\"대문자화\";/
 s/\"Categories\";/\"범주\";/
 s/\"Cell Size\";/\"셀 크기\";/
+s/\"Center\";/\"가운데\";/
 s/\"Centimeters:\";/\"센티미터:\";/
 s/\"Centimeters\";/\"센티미터\";/
-s/\"Centre\";/\"가운데\";/
 s/\"Channel Mixer\";/\"채널 혼합\";/
 s/\"Channel\";/\"채널\";/
 s/\"Channels\";/\"채널\";/
@@ -344,6 +346,7 @@ s/\"Darken\";/\"어둡게\";/
 s/\"Dash Line Style\";/\"줄표 선 스타일\";/
 s/\"Dash:\";/\"줄표:\";/
 s/\"Dashed Objects\";/\"점선 오브젝트\";/
+s/\"Date added\";/\"추가된 날짜\";/
 s/\"Date shot\";/\"찍은 날짜\";/
 s/\"Decimal Places for Unit Types:\";/\"단위 종류별 소수점 위치:\";/
 s/\"Decrease\";/\"줄이기\";/
@@ -392,12 +395,12 @@ s/\"Distance\";/\"거리\";/
 s/\"Distort\";/\"왜곡\";/
 s/\"Distortion\";/\"왜곡\";/
 s/\"Distribute Bottom Edges\";/\"아래쪽 분배\";/
-s/\"Distribute Horizontal Centres\";/\"가로 가운데 분배\";/
+s/\"Distribute Horizontal Centers\";/\"가로 가운데 분배\";/
 s/\"Distribute Horizontally\";/\"가로 분배\";/
 s/\"Distribute Left Edges\";/\"왼쪽 분배\";/
 s/\"Distribute Right Edges\";/\"오른쪽 분배\";/
 s/\"Distribute Top Edges\";/\"위쪽 분배\";/
-s/\"Distribute Vertical Centres\";/\"세로 가운데 분배\";/
+s/\"Distribute Vertical Centers\";/\"세로 가운데 분배\";/
 s/\"Distribute Vertically\";/\"세로 분배\";/
 s/\"Distribute\";/\"분배\";/
 s/\"Divide toolbar button\";/\"분할 툴바 버튼\";/
@@ -419,6 +422,8 @@ s/\"Donut\";/\"도넛\";/
 s/\"Drag\";/\"드래그\";/
 s/\"Draw Persona\";/\"그리기 페르소나\";/
 s/\"Draw behind fill\";/\"칠 뒤에 그리기\";/
+s/\"Draw stroke behind\";/\"뒤쪽으로 선 그리기\";/
+s/\"Draw stroke in front\";/\"앞쪽으로 선 그리기\";/
 s/\"Draw\";/\"그리기\";/
 s/\"Drawing\";/\"그리기\";/
 s/\"Duplicate Brush\";/\"브러시 복제\";/
@@ -445,8 +450,8 @@ s/\"Emboss\";/\"양각\";/
 s/\"Emphasis\";/\"강조\";/
 s/\"En Dash\";/\"반각 줄표\";/
 s/\"En Space\";/\"반각 공백\";/
-s/\"Enable Snapping\";/\"스내핑 유효화\";/
 s/\"Enable Transform Origin\";/\"변형 원점을 유효화\";/
+s/\"Enable snapping\";/\"스내핑 유효화\";/
 s/\"Enable\";/\"유효화\";/
 s/\"Enabled\";/\"유효한\";/
 s/\"End angle:\";/\"종료 각도:\";/
@@ -620,6 +625,7 @@ s/\"Import\";/\"들여오기\";/
 s/\"Importing...\";/\"들여오는 중...\";/
 s/\"In Place\";/\"제자리에\";/
 s/\"In:\";/\"안:\";/
+s/\"Inches:\";/\"인치:\";/
 s/\"Inches\";/\"인치\";/
 s/\"Include Margins\";/\"여백 포함\";/
 s/\"Increase indent\";/\"들여쓰기 늘리기\";/
@@ -666,14 +672,14 @@ s/\"Isometric\";/\"등각투상\";/
 s/\"Italic\";/\"기울임\";/
 s/\"Item\";/\"항목\";/
 s/\"Join Curves\";/\"곡선 잇기\";/
-s/\"Join:\";/\"결합:\";/
+s/\"Join:\";/\"이음:\";/
 s/\"Justify All\";/\"양쪽 균등 정렬\";/
-s/\"Justify Centre\";/\"가운데 균등 정렬\";/
+s/\"Justify Center\";/\"가운데 균등 정렬\";/
 s/\"Justify Left\";/\"왼쪽 균등 정렬\";/
 s/\"Justify Right\";/\"오른쪽 균등 정렬\";/
 s/\"Justify\";/\"맞춤\";/
-s/\"Keyboard Shortcuts\";/\"키보드 단축키\";/
 s/\"Keyboards\";/\"키보드\";/
+s/\"Knife Tool\";/\"칼 도구\";/
 s/\"Label\";/\"라벨\";/
 s/\"Language:\";/\"언어:\";/
 s/\"Language\";/\"언어\";/
@@ -780,8 +786,8 @@ s/\"Minimize\";/\"최소화\";/
 s/\"Mirror view\";/\"거울 뷰 모드\";/
 s/\"Mirror\";/\"거울\";/
 s/\"Miscellaneous\";/\"기타\";/
-s/\"Mitre Join\";/\"짜임 결합\";/
-s/\"Mitre:\";/\"짜임:\";/
+s/\"Miter Join\";/\"연귀 결합\";/
+s/\"Miter:\";/\"연귀:\";/
 s/\"Mode:\";/\"모드:\";/
 s/\"Mode\";/\"모드\";/
 s/\"Modified\";/\"변경\";/
@@ -929,8 +935,6 @@ s/\"Pixel format:\";/\"픽셀 포맷:\";/
 s/\"Pixel view mode\";/\"픽셀 뷰 모드\";/
 s/\"Pixel\";/\"픽셀\";/
 s/\"Pixels (Retina)\";/\"픽셀 (레티나)\";/
-s/\"Pixels: -\";/\"픽셀: -\";/
-s/\"Pixels: 0\";/\"픽셀: 0\";/
 s/\"Pixels:\";/\"픽셀:\";/
 s/\"Pixels\";/\"픽셀\";/
 s/\"Place Image Tool\";/\"이미지 배치 도구\";/
@@ -1072,10 +1076,10 @@ s/\"Right\";/\"오른쪽\";/
 s/\"Rope length\";/\"밧줄 길이\";/
 s/\"Rope mode - The brush is dragged as though it is attached with a rope. Useful for smooth, slow sections with sharp corners\";/\"밧줄 모드 - 밧줄에 붙어있는 것처럼 브러시를 드래그합니다. 뾰족한 꼭짓점을 매끄럽게 그릴 때 유용합니다.\";/
 s/\"Rope stabiliser\";/\"밧줄 안정 장치\";/
-s/\"Rotate 90° Anticlockwise\";/\"반시계방향으로 90° 회전\";/
 s/\"Rotate 90° Clockwise\";/\"시계방향으로 90° 회전\";/
-s/\"Rotate Anticlockwise\";/\"반시계방향으로 회전\";/
+s/\"Rotate 90° Counter-clockwise\";/\"반시계방향으로 90° 회전\";/
 s/\"Rotate Clockwise\";/\"시계방향으로 회전\";/
+s/\"Rotate Counter-clockwise\";/\"반시계방향으로 회전\";/
 s/\"Rotate Left\";/\"왼쪽으로 회전\";/
 s/\"Rotate Right\";/\"오른쪽으로 회전\";/
 s/\"Rotate gradient\";/\"그라디언트 회전\";/
@@ -1083,8 +1087,8 @@ s/\"Rotate\";/\"회전\";/
 s/\"Rotation Jitter:\";/\"회전 일그러짐:\";/
 s/\"Rotation:\";/\"회전:\";/
 s/\"Rotation\";/\"회전\";/
-s/\"Round Cap\";/\"둥근 단면\";/
-s/\"Round Join\";/\"둥근 결합\";/
+s/\"Round Cap\";/\"둥근 끝점\";/
+s/\"Round Join\";/\"둥근 이음\";/
 s/\"Rounded Rectangle Tool\";/\"둥근 직사각형 도구\";/
 s/\"Rounded Rectangle\";/\"둥근 직사각형\";/
 s/\"Rounded\";/\"둥근\";/
@@ -1163,8 +1167,6 @@ s/\"Set line cap style\";/\"선 단면 스타일 설정\";/
 s/\"Set line style scale\";/\"선 스타일 배율 설정\";/
 s/\"Set the main grid line colour\";/\"주 격자 선 색상 설정\";/
 s/\"Set the main grid line opacity\";/\"주 격자 선 불투명도 설정\";/
-s/\"Set wet edges "off"\";/\"젖은 모서리 끄기\";/
-s/\"Set wet edges "on"\";/\"젖은 모서리 켜기\";/
 s/\"Shades\";/\"셰이드\";/
 s/\"Shadow:\";/\"그림자:\";/
 s/\"Shadows \/ Highlights\";/\"그림자 \/ 빛\";/
@@ -1174,6 +1176,7 @@ s/\"Shapes\";/\"모양\";/
 s/\"Share\";/\"공유\";/
 s/\"Sharp\";/\"날카롭게\";/
 s/\"Shear\";/\"비틀기\";/
+s/\"Shortcuts\";/\"단축키\";/
 s/\"Show AF Regions\";/\"AF 영역 보기\";/
 s/\"Show Alignment Handles\";/\"정렬 손잡이 보기\";/
 s/\"Show All Text\";/\"모든 텍스트 보기\";/
@@ -1196,7 +1199,7 @@ s/\"Show Margins\";/\"여백선 보기\";/
 s/\"Show Paragraph\";/\"문단 보기\";/
 s/\"Show Pixel Selection\";/\"픽셀 선택 항목 보기\";/
 s/\"Show Right Studio\";/\"오른쪽 작업실 보기\";/
-s/\"Show Rotation Centre\";/\"회전 중심 보기\";/
+s/\"Show Rotation Center\";/\"회전 중심 보기\";/
 s/\"Show Rulers\";/\"눈금자 보기\";/
 s/\"Show Samples\";/\"견본 보기\";/
 s/\"Show Text Styles\";/\"텍스트 스타일 보기\";/
@@ -1207,7 +1210,7 @@ s/\"Show as List\";/\"목록으로 보기\";/
 s/\"Show axis editing handles\";/\"축 편집 손잡이 보기\";/
 s/\"Show brush previews\";/\"브러시 미리보기 보기\";/
 s/\"Show grid\";/\"격자 보기\";/
-s/\"Show this Panel on Startup\";/\"시작할 때 이 패널 보기\";/
+s/\"Show on Startup\";/\"시작할 때 보기\";/
 s/\"Show\";/\"보기\";/
 s/\"Side\";/\"옆쪽\";/
 s/\"Single Strikethrough\";/\"단일 취소선\";/
@@ -1286,6 +1289,7 @@ s/\"Std. Dev.: -\";/\"표준 편차: -\";/
 s/\"Stock Disclaimer\";/\"재고 면책사항\";/
 s/\"Stock\";/\"재고\";/
 s/\"Strength:\";/\"세기:\";/
+s/\"Stretch\";/\"늘이기\";/
 s/\"Strikeout\";/\"취소선\";/
 s/\"Stroke Color\";/\"선 색상\";/
 s/\"Stroke Weight\";/\"선 두께\";/
@@ -1378,7 +1382,7 @@ s/\"Toggle Tone Map Overlays Panel\";/\"톤 맵 오버레이 패널 켜고 끄�
 s/\"Toggle Tone Map Panel\";/\"톤 맵 패널 켜고 끄기\";/
 s/\"Toggle Tone Map Presets Panel\";/\"톤 맵 미리 설정 패널 켜고 끄기\";/
 s/\"Toggle Transform Panel\";/\"변형 패널 켜고 끄기\";/
-s/\"Toggle UI\";/\"UI 가리기\";/
+s/\"Toggle UI\";/\"UI 켜고 끄기\";/
 s/\"Tolerance\";/\"허용량\";/
 s/\"Tonal Range:\";/\"톤 범위:\";/
 s/\"Tonal Range\";/\"색조 범위\";/
@@ -1437,6 +1441,7 @@ s/\"Use Default\";/\"기준선 재설정\";/
 s/\"Use None\";/\"합자 없음\";/
 s/\"User Defined\";/\"사용자 정의\";/
 s/\"User Forums\";/\"사용자 포럼\";/
+s/\"User Interface\";/\"사용자 인터페이스\";/
 s/\"Valid\";/\"유효\";/
 s/\"Vector Brush Tool\";/\"벡터 브러시 도구\";/
 s/\"Vector Crop Tool\";/\"벡터 크롭 도구\";/
@@ -1463,7 +1468,6 @@ s/\"Vignette\";/\"비네트\";/
 s/\"Voronoi\";/\"보로노이\";/
 s/\"Web\";/\"웹\";/
 s/\"Weekly\";/\"매주\";/
-s/\"Welcome to Affinity Photo\./g>Affinity Photo에 어서오세요\./
 s/\"Welcome...\";/\"환영...\";/
 s/\"Welcome\";/\"환영\";/
 s/\"Wet Edges\";/\"젖은 모서리\";/
@@ -1506,7 +1510,7 @@ s/\"Zoom to Selection\";/\"선택 항목에 맞추기\";/
 s/\"Zoom to Width\";/\"화면 너비에 맞추기\";/
 s/\"Zoom:\";/\"맞추기:\";/
 s/\"Zoom\";/\"맞추기\";/
-s/\"\&lt;Untitled\&gt;\";/\"\&lt;이름 없음\&gt;\";/
+s/\"\<Untitled>\";/\"<제목 없음>\";/
 s/\"\[No Style]\";/\"\[스타일 없음]\";/
 s/\"\[No change]\";/\"\[변화 없음]\";/
 s/\"\[No changes]\";/\"\[변화 없음]\";/
@@ -1518,7 +1522,6 @@ s/\"and warn\";/\"경고\";/
 s/\"background\";/\"배경\";/
 s/\"below\";/\"아래\";/
 s/\"dash\";/\"줄표\";/
-s/\"kB\";/\"KB\";/
 s/\"n\/a\";/\"없음\";/
 s/\"|CLICK| to set the destination.\";/\"|CLICK|해서 목표를 설정합니다.\";/
 s/\"|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an empty area to deselect selection.\";/\"|DRAG|해서 선택 항목을 움직입니다. |CLICK|해서 다른 오브젝트를 선택합니다. 빈 곳을 |CLICK|해서 선택 해제합니다.\";/
