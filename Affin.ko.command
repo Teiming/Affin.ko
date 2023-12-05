@@ -1,3 +1,5 @@
+DICPATH=~/Affin.ko/.affin.ko.dictionary
+
 printf "→ 번역할 프로그램을 선택합니다.\n"
 printf "1: Affinity Designer 2\n"
 printf "2: Affinity Photo 2\n"
@@ -7,15 +9,12 @@ read APP
 case ${APP} in
 1)
   APPNAME=Affinity\ Designer\ 2
-  DICPATH=~/Affin\.ko/dict/Designer
   ;;
 2)
   APPNAME=Affinity\ Photo\ 2
-  DICPATH=~/Affin\.ko/dict/Photo
   ;;
 3)
   APPNAME=Affinity\ Publisher\ 2
-  DICPATH=~/Affin\.ko/dict/Publisher
   ;;
 *)
   echo "알 수 없는 프로그램입니다. 1, 2, 3(으)로만 입력해주세요."
