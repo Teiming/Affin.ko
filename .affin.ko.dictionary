@@ -12,6 +12,7 @@ s/\"8 bit\";/\"8 비트\";/
 s/\"About…\";/\"Affinity Designer에 관하여…\";/
 s/\"Absolute sizes\";/\"절대 크기\";/
 s/\"Action:\";/\"행동:\";/
+s/\"Account\";/\"계정\";/
 s/\"Actual Size\";/\"실제 크기\";/
 s/\"Add %1\";/\"%1 추가\";/
 s/\"Add (Compound)\";/\"추가 (결합)\";/
@@ -83,6 +84,7 @@ s/\"Always Show Selection in Layers Panel \";/\"레이어 패널에서 선택 �
 s/\"Always show brush crosshair\";/\"브러시 십자선 항상 보기\";/
 s/\"Amount\";/\"양\";/
 s/\"Analogous\";/\"유사색\";/
+s/\"Anchor\";/\"닻\";/
 s/\"Angle too close to first and second axis angle\";/\"첫 번째 및 두 번째 축 각도와 너무 가깝습니다.\";/
 s/\"Angle too close to first axis angle\";/\"첫 번째 축 각도와 너무 가깝습니다.\";/
 s/\"Angle too close to second axis angle\";/\"두 번째 축 각도와 너무 가깝습니다.\";/
@@ -606,6 +608,7 @@ s/\"Home\";/\"홈\";/
 s/\"Horizontal axis:\";/\"가로 축:\";/
 s/\"Horizontal\";/\"가로\";/
 s/\"Hue\";/\"색채\";/
+s/\"Hyperlink\";/\"하이퍼링크\";/
 s/\"ICC profile:\";/\"ICC 프로파일:\";/
 s/\"Icon Only\";/\"아이콘만\";/
 s/\"Icon and Text\";/\"아이콘과 텍스트\";/
@@ -633,6 +636,7 @@ s/\"Inches\";/\"인치\";/
 s/\"Include Margins\";/\"여백 포함\";/
 s/\"Increase indent\";/\"들여쓰기 늘리기\";/
 s/\"Increase\";/\"늘리기\";/
+s/\"Index\";/\"인덱스\";/
 s/\"Info\";/\"정보\";/
 s/\"Inks\";/\"잉크\";/
 s/\"Inner Glow\";/\"내부 광채\";/
@@ -990,8 +994,10 @@ s/\"Protect Alpha\";/\"알파 보호\";/
 s/\"Protect hue\";/\"색조 보호\";/
 s/\"Pull\";/\"당기기\";/
 s/\"Purple\";/\"보라\";/
+s/\"Quick FX\";/\"빠른 FX\";/
 s/\"Quick Mask\";/\"빠른 마스크\";/
 s/\"Quit\";/\"Affinity Designer 종료\";/
+s/\"RAW Options\";/\"RAW 옵션\";/
 s/\"RGB Hex Sliders\";/\"RGB Hex 슬라이더\";/
 s/\"RGB Sliders\";/\"RGB 슬라이더\";/
 s/\"Radial\";/\"방사형\";/
@@ -1344,6 +1350,7 @@ s/\"Tear\";/\"눈물\";/
 s/\"Temperature\";/\"온도\";/
 s/\"Test\";/\"테스트\";/
 s/\"Text Cell\";/\"텍스트 셀\";/
+s/\"Text Frame\";/\"텍스트 액자\";/
 s/\"Text Styles\";/\"텍스트 스타일\";/
 s/\"Text Wrap\";/\"줄바꿈\";/
 s/\"Text:\";/\"텍스트:\";/
@@ -1391,6 +1398,8 @@ s/\"Toggle UI\";/\"UI 켜고 끄기\";/
 s/\"Tolerance\";/\"허용량\";/
 s/\"Tonal Range:\";/\"톤 범위:\";/
 s/\"Tonal Range\";/\"색조 범위\";/
+s/\"Tone Map Presets\";/\"톤 맵 미리설정\";/
+s/\"Tone Map\";/\"톤 맵\";/
 s/\"Tone Mapping Persona\";/\"톤 맵핑 페르소나\";/
 s/\"Tone Mapping\";/\"톤 맵핑\";/
 s/\"Tone\";/\"톤\";/
