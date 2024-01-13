@@ -9,8 +9,8 @@ Affinity 시리즈 한글화 프로젝트 `시즌 2`
 
 ## 빠른 목차
 
-1. [Affin.ko 설치](#affinity-프로그램-설치)
-1. [Affin.ko 실행](#affinity-프로그램-실행)
+1. [Affin.ko 설치](#affinko-설치)
+1. [Affin.ko 실행](#affinko-실행)
 1. [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6)
 
 ## 준비하기
