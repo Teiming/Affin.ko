@@ -1,23 +1,22 @@
 DICPATH=~/Affin.ko/.affin.ko.dictionary
 
-printf "→ 번역할 프로그램을 선택합니다.\n"
-printf "1: Affinity Designer 2\n"
-printf "2: Affinity Photo 2\n"
-printf "3: Affinity Publisher 2\n"
-read APP
-
-case ${APP} in
-1)
+case $1 in
+"Designer")
   APPNAME=Affinity\ Designer\ 2
   ;;
-2)
+"Photo")
   APPNAME=Affinity\ Photo\ 2
   ;;
-3)
+"Publisher")
   APPNAME=Affinity\ Publisher\ 2
   ;;
 *)
-  echo "알 수 없는 프로그램입니다. 1, 2, 3(으)로만 입력해주세요."
+  echo "사용법:"
+  echo "  Affin-ko application_name"
+  echo "예시:"
+  echo "  Affin-ko Designer"
+  echo "  Affin-ko Photo"
+  echo "  Affin-ko Publisher"
   exit
   ;;
 esac

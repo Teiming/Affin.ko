@@ -7,6 +7,12 @@ Affinity 시리즈 한글화 프로젝트 `시즌 2`
 > 일본식 한자 표기는 지양하고 있습니다.
 > 마땅히 대체할 단어가 없다면 최대한 원문 그대로 표기하고 있습니다.
 
+## 빠른 목차
+
+[Affin.ko 설치](#affinity-프로그램-설치)
+[Affin.ko 실행](#affinity-프로그램-실행)
+[카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6)
+
 ## 준비하기
 
 ### Affinity 프로그램 설치
@@ -30,15 +36,15 @@ Affin.ko을 당신의 Mac으로 복제합니다. `Terminal`을 실행하고 다�
 ```sh
 cd ~/
 git clone https://github.com/Teiming/Affin.ko.git
-chmod +x ~/Affin.ko/Affin.ko.command
+chmod +x ~/Affin.ko/Affin-ko
 ```
 
 ## Affin.ko 실행
 
-`Affin.ko.command`를 실행합니다. 또는 아래 명령어를 입력합니다.
+`Affin-ko`를 실행합니다. 또는 아래 명령어를 입력합니다.
 
 ```sh
-~/Affin.ko/Affin.ko.command
+~/Affin.ko/Affin-ko
 ```
 
 이 과정이 끝나면, Affinity 설정에서 한국어를 선택할 수 있습니다.
@@ -70,11 +76,9 @@ git 저장소에서 최신 번역 자료를 가져옵니다. 이미 최신이라
 Already up to date.
 ```
 
-## 업데이트
+## 업데이트 및 피드백
 
-Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요.
-또는 Affinity가 업데이트될 경우 번역이 해제됩니다. 새롭게 번역할 때에는 `Affin.ko.command`를 다시 실행해주세요.
-
-## Feedback
+1. Affin.ko는 완성된 프로젝트가 아닙니다. 번역은 완전하지 않아서 추가 또는 수정될 수 있습니다. 새로운 번역에 맞게 Affinity 시리즈를 다시 번역해주세요.
+1. Affinity가 새로운 버전으로 업데이트될 경우 번역이 해제됩니다. 새롭게 번역할 때에는 `Affin-ko`를 다시 실행해주세요.
 
 [카카오톡 오픈채팅방](https://open.kakao.com/o/gmcERP6)에서 새로운 번역을 제안하고, 틀린 번역을 고칠 수 있습니다. Affin.ko를 이용하면서 궁금한 점을 질문해도 좋습니다.
