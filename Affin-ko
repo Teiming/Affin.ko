@@ -22,6 +22,11 @@ case $1 in
 esac
 
 echo "→ App 위치 변경"
+ls /Applications/ | grep "${APPNAME}"
+if [[ $? -eq 1 ]]; then
+  mkdir ~/Applications/
+  sudo mv /Applications/"${APPNAME}".app ~/Applications/
+fi
 
 echo "→ ko.lproj 폴더를 생성합니다."
 mkdir ~/Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
