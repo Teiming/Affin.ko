@@ -12,11 +12,11 @@ case $1 in
   ;;
 *)
   echo "사용법:"
-  echo "  Affin-ko application_name"
+  echo "\tAffin-ko application_name"
   echo "예시:"
-  echo "  Affin-ko Designer"
-  echo "  Affin-ko Photo"
-  echo "  Affin-ko Publisher"
+  echo "\tAffin-ko Designer"
+  echo "\tAffin-ko Photo"
+  echo "\tAffin-ko Publisher"
   exit
   ;;
 esac
