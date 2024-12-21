@@ -42,6 +42,8 @@ s/\"Add System Palette\";/\"시스템 팔레트 추가\";/
 s/\"Add brush Overlay\";/\"브러시 오버레이 추가\";/
 s/\"Add for constraining\";/\"제약 대상에 추가\";/
 s/\"Add for snapping\";/\"스내핑 대상에 추가\";/
+s/\"Add new captured state\";/\"신규 저장된 상태 추가\";/
+s/\"Add new query\";/\"신규 질의 추가\";/
 s/\"Add to Swatches…\";/\"견본에 추가…\";/
 s/\"Add\";/\"추가\";/
 s/\"Adjustment brush\";/\"조정 브러시\";/
@@ -95,6 +97,8 @@ s/\"Apple Color Picker...\";/\"Apple 색상 선택기...\";/
 s/\"Application is about to close.\";/\"응용프로그램을 닫습니다.\";/
 s/\"Apply to Selection\";/\"선택 항목에 적용\";/
 s/\"Apply\";/\"적용\";/
+s/\"Arc - Horizontal\";/\"가로 활꼴\";/
+s/\"Arc - Vertical\";/\"세로 활꼴\";/
 s/\"Area:\";/\"영역:\";/
 s/\"Arrange\";/\"순서\";/
 s/\"Arrow Tool\";/\"화살표 도구\";/
@@ -216,6 +220,7 @@ s/\"Cannot Share\";/\"공유할 수 없음\";/
 s/\"Cannot Tone Map\";/\"톤 매핑할 수 없음\";/
 s/\"Cap:\";/\"끝단:\";/
 s/\"Capitalization\";/\"대문자화\";/
+s/\"Captured States\";/\"저장된 상태\";/
 s/\"Categories\";/\"범주\";/
 s/\"Cell Size\";/\"셀 크기\";/
 s/\"Center\";/\"가운데\";/
@@ -253,6 +258,7 @@ s/\"Clone brush tool\";/\"복제 브러시 도구\";/
 s/\"Clone\";/\"복제\";/
 s/\"Close All\";/\"모두 닫기\";/
 s/\"Close Curve\";/\"곡선 닫기\";/
+s/\"Close Panel Group\";/\"패널 그룹 닫기\";/
 s/\"Close pie\";/\"파이 닫기\";/
 s/\"Close the document?\";/\"문서를 닫겠습니까?\";/
 s/\"Close\";/\"닫기\";/
@@ -280,8 +286,8 @@ s/\"Combine toolbar button\";/\"배타적논리합 툴바 버튼\";/
 s/\"Combine\";/\"배타적논리합\";/
 s/\"Commercial\";/\"상업용\";/
 s/\"Complementary\";/\"보색\";/
-s/\"Confirm Delete\";/\"삭제 확인\";/
-s/\"Confirm\";/\"확인\";/
+s/\"Confirm Delete\";/\"지우기 확정\";/
+s/\"Confirm\";/\"확정\";/
 s/\"Conical\";/\"원뿔형\";/
 s/\"Connect\";/\"접속\";/
 s/\"Constrain\";/\"제약\";/
@@ -290,7 +296,7 @@ s/\"Constraints\";/\"제약\";/
 s/\"Context:\";/\"상황:\";/
 s/\"Context\";/\"문단\";/
 s/\"Continuous\";/\"연속\";/
-s/\"Contour Tool\";/\"윤곽 도구\";/
+s/\"Contour Tool\";/\"등고선 도구\";/
 s/\"Contour\";/\"등고선\";/
 s/\"Contrast Negate\";/\"대비 부정\";/
 s/\"Contrast\";/\"대비\";/
@@ -372,6 +378,7 @@ s/\"Delete Style\";/\"스타일 지우기\";/
 s/\"Delete Unused Styles\";/\"미사용된 스타일 지우기\";/
 s/\"Delete preset\";/\"미리 설정 지우기\";/
 s/\"Delete selected slice\";/\"선택된 슬라이스 지우기\";/
+s/\"Delete state\";/\"상태 지우기\";/
 s/\"Delete\";/\"지우기\";/
 s/\"Depth:\";/\"깊이:\";/
 s/\"Depth\";/\"깊이\";/
@@ -413,6 +420,7 @@ s/\"Divide\";/\"분할\";/
 s/\"Divisions:\";/\"구획:\";/
 s/\"Do not add\";/\"추가하지 않음\";/
 s/\"Dock Tools\";/\"도구 고정\";/
+s/\"Document Info\";/\"문서 정보\";/
 s/\"Document Setup…\";/\"문서 설정…\";/
 s/\"Document Units:\";/\"문서 단위:\";/
 s/\"Document\";/\"문서\";/
@@ -465,6 +473,7 @@ s/\"Enhance\";/\"개선\";/
 s/\"Enhancement\";/\"개선\";/
 s/\"Enter a name for the snapshot\";/\"스냅샷 이름을 입력합니다.\";/
 s/\"Entropy\";/\"엔트로피\";/
+s/\"Equal\";/\"같은\";/
 s/\"Equations\";/\"수식\";/
 s/\"Erase Brush Tool\";/\"지우기 브러시 도구\";/
 s/\"Erase\";/\"지우기\";/
@@ -567,6 +576,8 @@ s/\"Gradients\";/\"그레이디언트\";/
 s/\"Gray\";/\"회색\";/
 s/\"Grays\";/\"회색\";/
 s/\"Grayscale\";/\"그레이스케일\";/
+s/\"Greater (or Equal)\";/\"크거나 같은\";/
+s/\"Greater\";/\"큰\";/
 s/\"Green Channel\";/\"초록 채널\";/
 s/\"Green\";/\"초록\";/
 s/\"Grid and Axis Manager…\";/\"격자 및 축 관리자…\";/
@@ -719,6 +730,9 @@ s/\"Length\";/\"길이\";/
 s/\"Lens Filter\";/\"렌즈 필터\";/
 s/\"Lens Profile\";/\"렌즈 프로파일\";/
 s/\"Lens\";/\"렌즈\";/
+s/\"Less (or Equal)\";/\"작거나 같은\";/
+s/\"Less\";/\"작은\";/
+s/\"Lessons\";/\"수업\";/
 s/\"Level:\";/\"레벨:\";/
 s/\"Levels\";/\"레벨\";/
 s/\"Library Persona\";/\"보관함 페르소나\";/
@@ -775,6 +789,8 @@ s/\"Maximum\";/\"최대\";/
 s/\"Mean: %1\";/\"평균: %1\";/
 s/\"Mean:\";/\"평균:\";/
 s/\"Mean\";/\"평균\";/
+s/\"Measure Tool\";/\"측정 도구\";/
+s/\"Measure\";/\"측정\";/
 s/\"Media Browser…\";/\"미디어 브라우저…\";/
 s/\"MediaBox\";/\"미디어 상자\";/
 s/\"Median: %1\";/\"중앙값: %1\";/
@@ -847,6 +863,7 @@ s/\"New Solid Brush\";/\"신규 단일 브러시\";/
 s/\"New Square Brush\";/\"신규 사각형 브러시\";/
 s/\"New Textured Image Brush\";/\"신규 질감 이미지 브러시\";/
 s/\"New View\";/\"신규 뷰\";/
+s/\"New from Clipboard\";/\"클립보드에서 신규\";/
 s/\"New layer\";/\"신규 레이어\";/
 s/\"New...\";/\"신규...\";/
 s/\"New\";/\"신규\";/
@@ -968,6 +985,7 @@ s/\"Polygon Marquee Tool\";/\"다각형 천막 도구\";/
 s/\"Portrait\";/\"세로 방향\";/
 s/\"Position:\";/\"위치:\";/
 s/\"Posterise\";/\"포스터화\";/
+s/\"Posterize…\";/\"포스터라이즈…\";/
 s/\"Precise Bigger\";/\"조금씩 크게\";/
 s/\"Precise Decrease\";/\"조금씩 줄이기\";/
 s/\"Precise Increase\";/\"조금씩 늘리기\";/
@@ -998,8 +1016,10 @@ s/\"Properties...\";/\"속성...\";/
 s/\"Proportional\";/\"비례수(량)\";/
 s/\"Protect Alpha\";/\"알파 보호\";/
 s/\"Protect hue\";/\"색조 보호\";/
+s/\"Publisher Persona\";/\"Publisher 페르소나\";/
 s/\"Pull\";/\"당기기\";/
 s/\"Purple\";/\"보라\";/
+s/\"Queries\";/\"질의\";/
 s/\"Quick FX\";/\"빠른 FX\";/
 s/\"Quick Mask\";/\"빠른 마스크\";/
 s/\"Quit\";/\"Affinity Designer 종료\";/
@@ -1013,15 +1033,16 @@ s/\"Rainbow\";/\"무지개\";/
 s/\"Raise Baseline\";/\"기준선 올리기\";/
 s/\"Random\";/\"무작위\";/
 s/\"Raster Menu\";/\"래스터 메뉴\";/
-s/\"Rasterise To Mask\";/\"마스크 래스터화\";/
-s/\"Rasterise to Mask\";/\"마스크 래스터화\";/
-s/\"Rasterise…\";/\"래스터화…\";/
+s/\"Rasterize To Mask\";/\"마스크 래스터화\";/
+s/\"Rasterize to Mask\";/\"마스크 래스터화\";/
+s/\"Rasterize…\";/\"래스터화…\";/
 s/\"Reapply Base Styles\";/\"기본 스타일 다시 적용\";/
 s/\"Reapply Text Styles\";/\"텍스트 스타일 다시 적용\";/
 s/\"Recent:\";/\"최근 사용 항목:\";/
 s/\"Recent\";/\"최근 사용 항목\";/
 s/\"Recolor Adjustment\";/\"재색상 조정\";/
 s/\"Recolor\";/\"재색상\";/
+s/\"Recolor…\";/\"재색상…\";/
 s/\"Rectangle Tool\";/\"직사각형 도구\";/
 s/\"Rectangle\";/\"직사각형\";/
 s/\"Rectangular Marquee Tool\";/\"직사각형 천막 도구\";/
@@ -1043,6 +1064,7 @@ s/\"Remove\";/\"지우기\";/
 s/\"Rename Brush…\";/\"브러시 이름 변경…\";/
 s/\"Rename Category\";/\"범주 이름 변경\";/
 s/\"Rename Category…\";/\"범주 이름 변경…\";/
+s/\"Rename Layer…\";/\"레이어 이름 변경…\";/
 s/\"Rename Palette...\";/\"팔레트 이름 변경...\";/
 s/\"Rename Preset...\";/\"미리 설정 이름 변경...\";/
 s/\"Rename Preset…\";/\"미리 설정 이름 변경…\";/
@@ -1141,16 +1163,21 @@ s/\"Scale:\";/\"배율:\";/
 s/\"Scale\";/\"배율\";/
 s/\"Scatter X:\";/\"가로 흩어짐:\";/
 s/\"Scatter Y:\";/\"세로 흩어짐:\";/
+s/\"Scope:\";/\"범위:\";/
+s/\"Scope\";/\"범위\";/
 s/\"Second axis\";/\"두 번째 축\";/
 s/\"Segment Tool\";/\"활꼴 도구\";/
 s/\"Segment\";/\"활꼴\";/
 s/\"Select All\";/\"전체 선택\";/
 s/\"Select Blues\";/\"파랑 선택\";/
+s/\"Select Bottom\";/\"아래쪽 선택\";/
 s/\"Select Greens\";/\"초록 선택\";/
+s/\"Select Hidden Objects\";/\"가려진 오브젝트 선택\";/
 s/\"Select Highlights\";/\"빛 선택\";/
 s/\"Select Midtones\";/\"중간 선택\";/
 s/\"Select Next\";/\"다음 항목 선택\";/
 s/\"Select Object\";/\"오브젝트 선택\";/
+s/\"Select Parent\";/\"부모 선택\";/
 s/\"Select Previous\";/\"이전 항목 선택\";/
 s/\"Select Reds\";/\"빨강 선택\";/
 s/\"Select Same Name\";/\"이름으로 동일 선택\";/
@@ -1158,6 +1185,7 @@ s/\"Select Same Tag Color\";/\"태그 색상으로 동일 선택\";/
 s/\"Select Same\";/\"동일 선택\";/
 s/\"Select Sampled Color…\";/\"표본 색상 선택…\";/
 s/\"Select Shadows\";/\"그림자 선택\";/
+s/\"Select Top\";/\"위쪽 선택\";/
 s/\"Select Transparency Range\";/\"투명 범위 선택\";/
 s/\"Select object\";/\"오브젝트 선택\";/
 s/\"Select same\";/\"동일 선택\";/
@@ -1213,6 +1241,7 @@ s/\"Show Left Studio\";/\"왼쪽 작업실 보기\";/
 s/\"Show Map Scale\";/\"지도 배율 보기\";/
 s/\"Show Margins\";/\"여백선 보기\";/
 s/\"Show Paragraph\";/\"문단 보기\";/
+s/\"Show Pixel Grid\";/\"픽셀 격자선 보기\";/
 s/\"Show Pixel Selection\";/\"픽셀 선택 항목 보기\";/
 s/\"Show Right Studio\";/\"오른쪽 작업실 보기\";/
 s/\"Show Rotation Center\";/\"회전 중심 보기\";/
@@ -1225,7 +1254,7 @@ s/\"Show Typography\";/\"타이포그래피 보기\";/
 s/\"Show as List\";/\"목록으로 보기\";/
 s/\"Show axis editing handles\";/\"축 편집 손잡이 보기\";/
 s/\"Show brush previews\";/\"브러시 미리보기 보기\";/
-s/\"Show grid\";/\"격자 보기\";/
+s/\"Show grid\";/\"격자선 보기\";/
 s/\"Show on Startup\";/\"시작할 때 보기\";/
 s/\"Show\";/\"보기\";/
 s/\"Side\";/\"옆쪽\";/
@@ -1291,6 +1320,7 @@ s/\"Split view\";/\"분할 보기\";/
 s/\"Split\";/\"분할\";/
 s/\"Spread Margin\";/\"스프레드 여백\";/
 s/\"Spread Setup…\";/\"스프레드 설정…\";/
+s/\"Spread\";/\"스프레드\";/
 s/\"Square Cap\";/\"사각 끝단\";/
 s/\"Square\";/\"사각형\";/
 s/\"Stabiliser\";/\"안정 장치\";/
@@ -1302,6 +1332,7 @@ s/\"Star\";/\"별\";/
 s/\"Start angle:\";/\"시작 각도:\";/
 s/\"Start on:\";/\"개시:\";/
 s/\"Start:\";/\"시작:\";/
+s/\"States\";/\"상태\";/
 s/\"Std. Dev.: %1\";/\"표준 편차: %1\";/
 s/\"Std. Dev.: -\";/\"표준 편차: -\";/
 s/\"Stock Disclaimer\";/\"재고 면책사항\";/
@@ -1355,6 +1386,7 @@ s/\"Tail position:\";/\"꼬리 위치:\";/
 s/\"Tear Tool\";/\"눈물 도구\";/
 s/\"Tear\";/\"눈물\";/
 s/\"Temperature\";/\"온도\";/
+s/\"Templates\";/\"템플릿\";/
 s/\"Test\";/\"테스트\";/
 s/\"Text Cell\";/\"텍스트 셀\";/
 s/\"Text Frame\";/\"텍스트 액자\";/
@@ -1431,6 +1463,7 @@ s/\"Transparent\";/\"투명\";/
 s/\"Triangle Tool\";/\"삼각형 도구\";/
 s/\"Tutorial...\";/\"튜토리얼...\";/
 s/\"Twirl\";/\"소용돌이\";/
+s/\"Twist\";/\"트위스트\";/
 s/\"Type:\";/\"종류:\";/
 s/\"Typography\";/\"타이포그래피\";/
 s/\"UI Style:\";/\"UI 스타일:\";/
@@ -1487,13 +1520,16 @@ s/\"View Tutorials\";/\"튜토리얼 보기\";/
 s/\"View\";/\"뷰\";/
 s/\"Views\";/\"뷰\";/
 s/\"Vignette\";/\"비네트\";/
+s/\"Visit Affinity Spotlight\";/\"Affinity Spotlight 방문\";/
 s/\"Voronoi\";/\"보로노이\";/
+s/\"Warp Group\";/\"왜곡 그룹\";/
 s/\"Web\";/\"웹\";/
 s/\"Weekly\";/\"매주\";/
 s/\"Welcome...\";/\"환영...\";/
 s/\"Welcome\";/\"환영\";/
 s/\"Wet Edges\";/\"젖은 모서리\";/
 s/\"Wet edges:\";/\"젖은 모서리:\";/
+s/\"What's New\";/\"새로운 기능\";/
 s/\"Wheel\";/\"휠\";/
 s/\"White Balance\";/\"화이트 밸런스\";/
 s/\"White to black\";/\"하양에서 검정\";/
