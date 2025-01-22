@@ -44,7 +44,7 @@ chmod +x ~/Affin.ko/Affin-ko
 `Affin-ko`를 실행합니다. 또는 아래 명령어를 입력합니다.
 
 ```sh
-~/Affin.ko/Affin-ko {xxx}
+~/Affin.ko/Affin-ko {application_name}
 ```
 
 예시는 다음과 같습니다.
