@@ -44,7 +44,15 @@ chmod +x ~/Affin.ko/Affin-ko
 `Affin-ko`를 실행합니다. 또는 아래 명령어를 입력합니다.
 
 ```sh
-~/Affin.ko/Affin-ko
+~/Affin.ko/Affin-ko {xxx}
+```
+
+예시는 다음과 같습니다.
+
+```sh
+~/Affin.ko/Affin-ko Designer
+~/Affin.ko/Affin-ko Photo
+~/Affin.ko/Affin-ko Publisher
 ```
 
 이 과정이 끝나면, Affinity 설정에서 한국어를 선택할 수 있습니다.
