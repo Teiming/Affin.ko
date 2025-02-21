@@ -1,3 +1,4 @@
+
 s/\" \[Locked]\";/\" \[잠금]\";/
 s/\" \[Modified]\";/\" \[변경]\";/
 s/\"%1 |CLICK|+|TERTIARY| to preserve frame formatting.\";/\"%1 |CLICK|+|TERTIARY|해서 액자 포맷을 유지합니다.\";/
@@ -9,6 +10,7 @@ s/\"16 bit\";/\"16 비트\";/
 s/\"2:1 Isometric\";/\"2:1 등각투상\";/
 s/\"32-bit Preview\";/\"32-비트 미리보기\";/
 s/\"8 bit\";/\"8 비트\";/
+s/\"About Designer\";/\"Designer에 관하여\";/
 s/\"Absolute sizes\";/\"절대 크기\";/
 s/\"Account\";/\"계정\";/
 s/\"Action:\";/\"행동:\";/
@@ -85,7 +87,7 @@ s/\"Always Show Selection in Layers Panel \";/\"레이어 패널에서 선택 �
 s/\"Always show brush crosshair\";/\"브러시 십자선 항상 보기\";/
 s/\"Amount\";/\"양\";/
 s/\"Analogous\";/\"유사색\";/
-s/\"Anchor\";/\"닻\";/
+s/\"Anchor\";/\"앵커\";/
 s/\"Angle too close to first and second axis angle\";/\"첫 번째 및 두 번째 축 각도와 너무 가깝습니다.\";/
 s/\"Angle too close to first axis angle\";/\"첫 번째 축 각도와 너무 가깝습니다.\";/
 s/\"Angle too close to second axis angle\";/\"두 번째 축 각도와 너무 가깝습니다.\";/
@@ -363,6 +365,7 @@ s/\"Default\";/\"기본값\";/
 s/\"Defaults\";/\"기본값\";/
 s/\"Degrees:\";/\"각도:\";/
 s/\"Delete %1\";/\"%1 지우기\";/
+s/\"Delete Anchor\";/\"앵커 지우기\";/
 s/\"Delete Brush\";/\"브러시 지우기\";/
 s/\"Delete Category\";/\"범주 지우기\";/
 s/\"Delete Character Style\";/\"문자 스타일 지우기\";/
@@ -385,7 +388,6 @@ s/\"Desaturate\";/\"채도 낮추기\";/
 s/\"Deselect All\";/\"모두 선택 해제\";/
 s/\"Deselect\";/\"선택 해제\";/
 s/\"Designer Persona\";/\"디자이너 페르소나\";/
-s/\"Designer\";/\"디자이너\";/
 s/\"Detach and Delete All Styles\";/\"모든 스타일 벗기고 지우기\";/
 s/\"Details\";/\"세부사항\";/
 s/\"Detect\";/\"감지\";/
@@ -801,8 +803,9 @@ s/\"Merge All Windows\";/\"모든 윈도우 통합\";/
 s/\"Merge Down\";/\"아래 항목 통합\";/
 s/\"Merge Selected\";/\"선택 항목 통합\";/
 s/\"Merge Visible\";/\"보이는 항목 통합\";/
-s/\"Merge curves\";/\"곡선 통합\";/
+s/\"Merge Curves\";/\"곡선 통합\";/
 s/\"Merge\";/\"통합\";/
+s/\"Math\";/\"수학\";/
 s/\"Mesh\";/\"그물\";/
 s/\"Messages\";/\"메시지\";/
 s/\"Meters:\";/\"미터:\";/
@@ -1194,7 +1197,7 @@ s/\"Selection\";/\"선택 항목\";/
 s/\"Selective Color\";/\"색상 선택\";/
 s/\"Send To Back\";/\"맨 뒤로 보내기\";/
 s/\"Send to Back\";/\"맨 뒤로 보내기\";/
-s/\"Separate curves\";/\"곡선 분리\";/
+s/\"Separate Curves\";/\"곡선 분리\";/
 s/\"Separated Mode\";/\"분리 모드\";/
 s/\"Services\";/\"서비스\";/
 s/\"Set Fill None\";/\"칠 없음\";/
@@ -1202,6 +1205,7 @@ s/\"Set Fill to 50% Gray\";/\"50% 회색으로 칠\";/
 s/\"Set Fill to Black and White\";/\"흑백으로 칠\";/
 s/\"Set No Character Style\";/\"문자 스타일 벗기기\";/
 s/\"Set No Paragraph Style\";/\"문단 스타일 벗기기\";/
+s/\"Set Selection Box\";/\"선택 항목 상자 설정\";/
 s/\"Set Texture\";/\"질감 설정\";/
 s/\"Set as Default for\";/\"기본값으로 설정하기\";/
 s/\"Set current selection\";/\"지금 선택 항목 설정\";/
@@ -1378,6 +1382,7 @@ s/\"Synchronise Defaults\";/\"기본값 동기화\";/
 s/\"Synchronise defaults from selection\";/\"선택 항목에서 기본값 동기화\";/
 s/\"Synchronise from Selection\";/\"선택 항목에서 기본값 동기화\";/
 s/\"Tab\";/\"탭\";/
+s/\"Table\";/\"표\";/
 s/\"Tables\";/\"표\";/
 s/\"Tag Color\";/\"태그 색상\";/
 s/\"Tail Offset:\";/\"꼬리 편차:\";/
@@ -1587,3 +1592,4 @@ s/\"|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an
 s/\"|DRAG| to move selection.\";/\"|DRAG|해서 선택 항목을 움직입니다.\";/
 s/\"|DRAG| to pan view.\";/\"|DRAG|해서 초점이동합니다.\";/
 s/\"|DRAG| to resize columns.\";/\"|DRAG|해서 행의 크기를 조절합니다.\";/
+s/\"Convert to Image Resource\";/\"이미지 리소스로 변환\";/

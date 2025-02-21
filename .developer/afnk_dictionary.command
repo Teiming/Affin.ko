@@ -9,19 +9,13 @@ ENG=$(echo ${RAWENG} | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
 KOR=$(echo ${RAWKOR} | sed -e "s/ \/ / \\\\\/ /" | sed -e "s/\[/\\\[/")
 
 # 결과 생성
-result=$(echo "s/\\\"${ENG}\\\";/\\\"${KOR}\\\";/")
-
-# 사전 등록
-cd ~/Affin.ko/dict/
-echo ${result} >>Designer
-echo ${result} >>Photo
-echo ${result} >>Publisher
+echo "s/\\\"${ENG}\\\";/\\\"${KOR}\\\";/" >>~/Affin.ko/.affin.ko.dictionary
 
 # 사전 정렬
-cat ./Designer | sort | uniq >./Designer.temp && mv ./Designer.temp ./Designer
-cat ./Photo | sort | uniq >Photo.temp && mv Photo.temp Photo
-cat ./Publisher | sort | uniq >Publisher.temp && mv Publisher.temp Publisher
-diff3 ./Designer ./Photo ./Publisher >./diff3.log
+# cat ./Designer | sort | uniq >./Designer.temp && mv ./Designer.temp ./Designer
+# cat ./Photo | sort | uniq >Photo.temp && mv Photo.temp Photo
+# cat ./Publisher | sort | uniq >Publisher.temp && mv Publisher.temp Publisher
+# diff3 ./Designer ./Photo ./Publisher >./diff3.log
 
 # Sync to github
 cd ~/Affin.ko
