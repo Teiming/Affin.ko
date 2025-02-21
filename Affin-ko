@@ -60,7 +60,7 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   sudo printf "총 ${FILECOUNT}개 파일 중에서 ${i}번째 파일을 변환합니다.\n→ 파일 이름: ${FILENAME}"
   sudo iconv -f UTF-16LE -t UTF-8 "${ENGPATH}${FILENAME}" >"${KORPATH}${FILENAME}.temp"
   sudo sed -f "${DICPATH}" "${KORPATH}${FILENAME}.temp" >"${KORPATH}${FILENAME}"
-  printf " (완료)\n"
+  # printf " (완료)\n"
 done
 
 ENGFPATH=~/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/en-US.lproj/
@@ -71,5 +71,5 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   sudo printf "총 ${FILECOUNT}개 파일 중에서 ${i}번째 파일을 변환합니다.\n→ 파일 이름: ${FILENAME}"
   sudo iconv -f UTF-16LE -t UTF-8 "${ENGFPATH}${FILENAME}" >"${KORFPATH}${FILENAME}.temp"
   sudo sed -f "${DICPATH}" "${KORFPATH}${FILENAME}.temp" >"${KORFPATH}${FILENAME}"
-  printf " (완료)\n"
+  # printf " (완료)\n"
 done
