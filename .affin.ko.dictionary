@@ -308,6 +308,7 @@ s/\"Convert Object to Artboard\";/\"오브젝트를 아트보드로 변환\";/
 s/\"Convert To Curves\";/\"곡선으로 변환\";/
 s/\"Convert to Curves\";/\"곡선으로 변환\";/
 s/\"Convert to Donut\";/\"도넛으로 변환\";/
+s/\"Convert to Image Resource\";/\"이미지 리소스로 변환\";/
 s/\"Convert to Text Frame\";/\"텍스트 액자로 변환\";/
 s/\"Convert to Text Path\";/\"텍스트 경로로 변환\";/
 s/\"Convert:\";/\"변환:\";/
@@ -320,6 +321,7 @@ s/\"Corner:\";/\"꼭짓점:\";/
 s/\"Corner\";/\"꼭짓점\";/
 s/\"Corners:\";/\"꼭짓점:\";/
 s/\"Cosine\";/\"코사인\";/
+s/\"Crash\";/\"충돌\";/
 s/\"Create Artboard\";/\"아트보드 생성\";/
 s/\"Create Character Style\";/\"문자 스타일 생성\";/
 s/\"Create Color Chord\";/\"색상 코드 생성\";/
@@ -666,6 +668,7 @@ s/\"Inner\";/\"내부\";/
 s/\"Insert Artboard\";/\"아트보드 삽입\";/
 s/\"Insert Behind\";/\"뒤로 삽입\";/
 s/\"Insert Character\";/\"문자 삽입\";/
+s/\"Insert Endnote\";/\"각주 삽입\";/
 s/\"Insert Filler Text\";/\"Lorem Ipsum\";/
 s/\"Insert Inside\";/\"안으로 삽입\";/
 s/\"Insert Special Character\";/\"특수문자삽입\";/
@@ -718,7 +721,6 @@ s/\"Layer Name:\";/\"레이어 이름:\";/
 s/\"Layer\";/\"레이어\";/
 s/\"Layers\";/\"레이어\";/
 s/\"Layout Persona\";/\"구조 페르소나\";/
-s/\"Persona\";/\"페르소나\";/
 s/\"Layout\";/\"구조\";/
 s/\"Learn Spelling\";/\"철자 학습\";/
 s/\"Left Bleed:\";/\"왼쪽 도련:\";/
@@ -783,9 +785,10 @@ s/\"Marquees\";/\"천막\";/
 s/\"Mask All\";/\"모두 마스크\";/
 s/\"Mask Layer\";/\"마스크 레이어\";/
 s/\"Mask\";/\"마스크\";/
+s/\"Math\";/\"수학\";/
 s/\"Max:\";/\"최대:\";/
 s/\"Maximum height\";/\"최대 높이\";/
-s/\"Maximum width\";/\"최대 두께\";/
+s/\"Maximum width\";/\"최대 너비\";/
 s/\"Maximum:\";/\"최대:\";/
 s/\"Maximum\";/\"최대\";/
 s/\"Mean: %1\";/\"평균: %1\";/
@@ -801,12 +804,11 @@ s/\"Median\";/\"중앙값\";/
 s/\"Medium Thumbnails\";/\"중간 썸네일\";/
 s/\"Medium\";/\"중간\";/
 s/\"Merge All Windows\";/\"모든 윈도우 통합\";/
+s/\"Merge Curves\";/\"곡선 통합\";/
 s/\"Merge Down\";/\"아래 항목 통합\";/
 s/\"Merge Selected\";/\"선택 항목 통합\";/
 s/\"Merge Visible\";/\"보이는 항목 통합\";/
-s/\"Merge Curves\";/\"곡선 통합\";/
 s/\"Merge\";/\"통합\";/
-s/\"Math\";/\"수학\";/
 s/\"Mesh\";/\"그물\";/
 s/\"Messages\";/\"메시지\";/
 s/\"Meters:\";/\"미터:\";/
@@ -1171,7 +1173,6 @@ s/\"Scope\";/\"범위\";/
 s/\"Second axis\";/\"두 번째 축\";/
 s/\"Segment Tool\";/\"활꼴 도구\";/
 s/\"Segment\";/\"활꼴\";/
-s/\"Tags\";/\"태그\";/
 s/\"Select All\";/\"전체 선택\";/
 s/\"Select Blues\";/\"파랑 선택\";/
 s/\"Select Bottom\";/\"아래쪽 선택\";/
@@ -1347,6 +1348,8 @@ s/\"Stretch\";/\"늘이기\";/
 s/\"Strikeout\";/\"취소선\";/
 s/\"Stroke Color\";/\"선 색상\";/
 s/\"Stroke Weight\";/\"선 두께\";/
+s/\"Stroke Width Tool\";/\"선 너비 도구\";/
+s/\"Stroke Width\";/\"선 너비\";/
 s/\"Stroke:\";/\"선:\";/
 s/\"Stroke\";/\"선\";/
 s/\"Stroked Objects\";/\"선이 있는 오브젝트\";/
@@ -1372,9 +1375,9 @@ s/\"Swap arrow head with tail\";/\"화살표 머리를 꼬리와 교대\";/
 s/\"Swap\";/\"교대\";/
 s/\"Swatches\";/\"견본\";/
 s/\"Switch to Next View\";/\"다음 뷰로 전환\";/
+s/\"Symbol\";/\"상징\";/
 s/\"Symbols Studio\";/\"상징 작업실\";/
 s/\"Symbols\";/\"상징\";/
-s/\"Symbol\";/\"상징\";/
 s/\"Symmetry\";/\"대칭\";/
 s/\"Sync After\";/\"이후 항목 동기화\";/
 s/\"Sync Before\";/\"이전 항목 동기화\";/
@@ -1388,6 +1391,7 @@ s/\"Tab\";/\"탭\";/
 s/\"Table\";/\"표\";/
 s/\"Tables\";/\"표\";/
 s/\"Tag Color\";/\"태그 색상\";/
+s/\"Tags\";/\"태그\";/
 s/\"Tail Offset:\";/\"꼬리 편차:\";/
 s/\"Tail position:\";/\"꼬리 위치:\";/
 s/\"Tear Tool\";/\"눈물 도구\";/
@@ -1567,8 +1571,8 @@ s/\"Yards:\";/\"야드:\";/
 s/\"Yards\";/\"야드\";/
 s/\"Yellow\";/\"노랑\";/
 s/\"Yes\";/\"예\";/
-s/\"Zero Width Space\";/\"폭 없는 공백\";/
-s/\"Zero-Width Space\";/\"폭 없는 공백\";/
+s/\"Zero Width Space\";/\"너비 없는 공백\";/
+s/\"Zero-Width Space\";/\"너비 없는 공백\";/
 s/\"Zoom In\";/\"확대\";/
 s/\"Zoom Out\";/\"축소\";/
 s/\"Zoom Tool\";/\"맞추기 도구\";/
@@ -1595,6 +1599,3 @@ s/\"|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an
 s/\"|DRAG| to move selection.\";/\"|DRAG|해서 선택 항목을 움직입니다.\";/
 s/\"|DRAG| to pan view.\";/\"|DRAG|해서 초점이동합니다.\";/
 s/\"|DRAG| to resize columns.\";/\"|DRAG|해서 행의 크기를 조절합니다.\";/
-s/\"Convert to Image Resource\";/\"이미지 리소스로 변환\";/
-s/\"Insert Endnote\";/\"각주 삽입\";/
-s/\"Crash\";/\"충돌\";/
