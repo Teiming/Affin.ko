@@ -303,15 +303,15 @@ s/\"Contrast Negate\";/\"대비 부정\";/
 s/\"Contrast\";/\"대비\";/
 s/\"Controller:\";/\"제어기:\";/
 s/\"Controls\";/\"조작\";/
-s/\"Convert Artboard to Object\";/\"아트보드를 오브젝트로 전환\";/
-s/\"Convert Object to Artboard\";/\"오브젝트를 아트보드로 전환\";/
-s/\"Convert To Curves\";/\"곡선으로 전환\";/
-s/\"Convert to Curves\";/\"곡선으로 전환\";/
-s/\"Convert to Donut\";/\"도넛으로 전환\";/
-s/\"Convert to Text Frame\";/\"텍스트 액자로 전환\";/
-s/\"Convert to Text Path\";/\"텍스트 경로로 전환\";/
+s/\"Convert Artboard to Object\";/\"아트보드를 오브젝트로 변환\";/
+s/\"Convert Object to Artboard\";/\"오브젝트를 아트보드로 변환\";/
+s/\"Convert To Curves\";/\"곡선으로 변환\";/
+s/\"Convert to Curves\";/\"곡선으로 변환\";/
+s/\"Convert to Donut\";/\"도넛으로 변환\";/
+s/\"Convert to Text Frame\";/\"텍스트 액자로 변환\";/
+s/\"Convert to Text Path\";/\"텍스트 경로로 변환\";/
 s/\"Convert:\";/\"변환:\";/
-s/\"Convert\";/\"전환\";/
+s/\"Convert\";/\"변환\";/
 s/\"Copy Color to Clipboard as Hex\";/\"Hex로 색상 복사\";/
 s/\"Copy\";/\"복사\";/
 s/\"Copyright\";/\"저작권\";/
@@ -1593,3 +1593,4 @@ s/\"|DRAG| to move selection.\";/\"|DRAG|해서 선택 항목을 움직입니다
 s/\"|DRAG| to pan view.\";/\"|DRAG|해서 초점이동합니다.\";/
 s/\"|DRAG| to resize columns.\";/\"|DRAG|해서 행의 크기를 조절합니다.\";/
 s/\"Convert to Image Resource\";/\"이미지 리소스로 변환\";/
+s/\"Insert Endnote\";/\"각주 삽입\";/
