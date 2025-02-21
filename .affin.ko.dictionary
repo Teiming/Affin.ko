@@ -718,6 +718,7 @@ s/\"Layer Name:\";/\"레이어 이름:\";/
 s/\"Layer\";/\"레이어\";/
 s/\"Layers\";/\"레이어\";/
 s/\"Layout Persona\";/\"구조 페르소나\";/
+s/\"Persona\";/\"페르소나\";/
 s/\"Layout\";/\"구조\";/
 s/\"Learn Spelling\";/\"철자 학습\";/
 s/\"Left Bleed:\";/\"왼쪽 도련:\";/
@@ -1170,6 +1171,7 @@ s/\"Scope\";/\"범위\";/
 s/\"Second axis\";/\"두 번째 축\";/
 s/\"Segment Tool\";/\"활꼴 도구\";/
 s/\"Segment\";/\"활꼴\";/
+s/\"Tags\";/\"태그\";/
 s/\"Select All\";/\"전체 선택\";/
 s/\"Select Blues\";/\"파랑 선택\";/
 s/\"Select Bottom\";/\"아래쪽 선택\";/
@@ -1372,6 +1374,7 @@ s/\"Swatches\";/\"견본\";/
 s/\"Switch to Next View\";/\"다음 뷰로 전환\";/
 s/\"Symbols Studio\";/\"상징 작업실\";/
 s/\"Symbols\";/\"상징\";/
+s/\"Symbol\";/\"상징\";/
 s/\"Symmetry\";/\"대칭\";/
 s/\"Sync After\";/\"이후 항목 동기화\";/
 s/\"Sync Before\";/\"이전 항목 동기화\";/
@@ -1594,3 +1597,4 @@ s/\"|DRAG| to pan view.\";/\"|DRAG|해서 초점이동합니다.\";/
 s/\"|DRAG| to resize columns.\";/\"|DRAG|해서 행의 크기를 조절합니다.\";/
 s/\"Convert to Image Resource\";/\"이미지 리소스로 변환\";/
 s/\"Insert Endnote\";/\"각주 삽입\";/
+s/\"Crash\";/\"충돌\";/
