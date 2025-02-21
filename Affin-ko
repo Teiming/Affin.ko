@@ -36,8 +36,16 @@ fi
 # echo "각주) No such file or directory : <정상>입니다."
 
 printf "\n→ ko.lproj 폴더를 생성합니다.\n"
-mkdir ~/Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
-mkdir ~/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+
+test -d ~/Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
+if [[ $? -eq 1 ]]; then
+  mkdir ~/Applications/"${APPNAME}".app/Contents/Resources/ko.lproj
+fi
+
+test -d ~/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+if [[ $? -eq 1 ]]; then
+  mkdir ~/Applications/"${APPNAME}".app/Contents/Frameworks/libcocoaui.framework/Versions/A/Resources/ko.lproj
+fi
 # echo "각주) File exists : <정상>입니다."
 
 printf "\n→ Check Update\n"
