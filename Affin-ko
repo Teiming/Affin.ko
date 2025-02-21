@@ -22,10 +22,17 @@ case $1 in
 esac
 
 printf "\n→ App 위치 변경\n"
-if [[ $(test -d ~/Applications) -eq false ]]; then
+
+test -d ~/Applications
+if [[ $? -eq 1 ]]; then
   mkdir ~/Applications
 fi
-sudo mv /Applications/"${APPNAME}".app ~/Applications/
+
+test -d ~/Applications/"${APPNAME}".app
+if [[ $? -eq 1 ]]; then
+  sudo mv /Applications/"${APPNAME}".app ~/Applications/
+fi
+# sudo mv /Applications/"${APPNAME}".app ~/Applications/
 # echo "각주) No such file or directory : <정상>입니다."
 
 printf "\n→ ko.lproj 폴더를 생성합니다.\n"
