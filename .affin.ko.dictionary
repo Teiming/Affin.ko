@@ -1341,8 +1341,8 @@ s/\"Start:\";/\"시작:\";/
 s/\"States\";/\"상태\";/
 s/\"Std. Dev.: %1\";/\"표준 편차: %1\";/
 s/\"Std. Dev.: -\";/\"표준 편차: -\";/
-s/\"Stock Disclaimer\";/\"재고 면책사항\";/
-s/\"Stock\";/\"재고\";/
+s/\"Stock Disclaimer\";/\"스톡 면책사항\";/
+s/\"Stock\";/\"스톡\";/
 s/\"Strength:\";/\"세기:\";/
 s/\"Stretch\";/\"늘이기\";/
 s/\"Strikeout\";/\"취소선\";/
@@ -1435,7 +1435,7 @@ s/\"Toggle Paragraph Panel\";/\"문단 패널 켜고 끄기\";/
 s/\"Toggle Slices Panel\";/\"슬라이스 패널 켜고 끄기\";/
 s/\"Toggle Snapping\";/\"스내핑 켜고 끄기\";/
 s/\"Toggle Snapshots Panel\";/\"스냅샷 패널 켜고 끄기\";/
-s/\"Toggle Stock Panel\";/\"재고 패널 켜고 끄기\";/
+s/\"Toggle Stock Panel\";/\"스톡 패널 켜고 끄기\";/
 s/\"Toggle Stroke Panel\";/\"선 패널 켜고 끄기\";/
 s/\"Toggle Swatches Panel\";/\"견본 패널 켜고 끄기\";/
 s/\"Toggle Symbol Panel\";/\"상징 패널 켜고 끄기\";/
