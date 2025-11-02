@@ -1599,3 +1599,4 @@ s/\"|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an
 s/\"|DRAG| to move selection.\";/\"|DRAG|해서 선택 항목을 움직입니다.\";/
 s/\"|DRAG| to pan view.\";/\"|DRAG|해서 초점이동합니다.\";/
 s/\"|DRAG| to resize columns.\";/\"|DRAG|해서 행의 크기를 조절합니다.\";/
+s/\"Hatches\";/\"해치\";/
