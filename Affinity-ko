@@ -1,6 +1,9 @@
 #!/bin/zsh
 DICTIONARY=~/Affin.ko/.affin.ko.dictionary
 
+echo "→ Affinity.app을 종료합니다."
+pkill -f "Affinity"
+
 echo "→ ko.lproj 폴더를 생성합니다."
 
 test -d /Applications/Affinity.app/Contents/Resources/ko.lproj
