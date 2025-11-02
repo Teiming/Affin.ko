@@ -21,8 +21,8 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   diff "${NAME}".en2ja.log "${NAME}".en2ko.log >./"${NAME}".ja2ko.pre.log
   cat ./"${NAME}".ja2ko.pre.log | sed '/ObjectID/d' >./"${NAME}".ja2ko.log
   rm ./"${NAME}".ja2ko.pre.log
-  # git add .
-  # git commit -m "${APPVERS} ${NAME} Updated"
+  git add .
+  git commit -m "${APPVERS} ${NAME} Updated"
 done
 
 FILECOUNT=$(ls -a "${JAPFPATH}" | grep "i" | sed -n "=" | tail -n "1")
@@ -37,7 +37,7 @@ for ((i = 1; i <= ${FILECOUNT}; i++)); do
   diff ./Frameworks/"${NAME}".en2ja.log ./Frameworks/"${NAME}".en2ko.log > ./Frameworks/"${NAME}".ja2ko.pre.log
   cat ./Frameworks/"${NAME}".ja2ko.pre.log | sed '/ObjectID/d' > ./Frameworks/"${NAME}".ja2ko.log
   rm ./Frameworks/"${NAME}".ja2ko.pre.log
-  # git add .
-  # git commit -m "${APPVERS} ${NAME} Updated"
+  git add .
+  git commit -m "${APPVERS} ${NAME} Updated"
 done
 # git push
