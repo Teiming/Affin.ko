@@ -133,6 +133,7 @@ s/\"Background Erase Brush Tool\";/\"배경 지우기 브러시 도구\";/
 s/\"Background\";/\"배경\";/
 s/\"Balance\";/\"밸런스\";/
 s/\"Base\";/\"기본\";/
+s/\"Baseline Grid\";/\"기준선 격자\";/
 s/\"Baseline\";/\"기준선\";/
 s/\"Basic\";/\"기본\";/
 s/\"Beam\";/\"빔\";/
@@ -297,6 +298,7 @@ s/\"Connect\";/\"접속\";/
 s/\"Constrain\";/\"제약\";/
 s/\"Constrained Objects\";/\"제약받는 오브젝트\";/
 s/\"Constraints\";/\"제약\";/
+s/\"Container Layer\";/\"컨테이너 레이어\";/
 s/\"Context:\";/\"상황:\";/
 s/\"Context\";/\"문단\";/
 s/\"Continuous\";/\"연속\";/
@@ -306,7 +308,6 @@ s/\"Contrast Negate\";/\"대비 부정\";/
 s/\"Contrast\";/\"대비\";/
 s/\"Controller:\";/\"제어기:\";/
 s/\"Controls\";/\"조작\";/
-s/\"Container Layer\";/\"컨테이너 레이어\";/
 s/\"Convert Artboard to Object\";/\"아트보드를 오브젝트로 변환\";/
 s/\"Convert Object to Artboard\";/\"오브젝트를 아트보드로 변환\";/
 s/\"Convert To Curves\";/\"곡선으로 변환\";/
@@ -632,6 +633,7 @@ s/\"Horizontal axis:\";/\"가로 축:\";/
 s/\"Horizontal\";/\"가로\";/
 s/\"Hue\";/\"색채\";/
 s/\"Hyperlink\";/\"하이퍼링크\";/
+s/\"Hyperlinks\";/\"하이퍼링크\";/
 s/\"ICC profile:\";/\"ICC 프로파일:\";/
 s/\"Icon Only\";/\"아이콘만\";/
 s/\"Icon and Text\";/\"아이콘과 텍스트\";/
@@ -756,7 +758,6 @@ s/\"Line Width\";/\"선 너비\";/
 s/\"Linear\";/\"선형\";/
 s/\"Link the grid Colors\";/\"격자 색상 연결\";/
 s/\"Links\";/\"연결\";/
-s/\"Hyperlinks\";/\"하이퍼링크\";/
 s/\"Liquify Persona\";/\"액화 페르소나\";/
 s/\"Liquify\";/\"액화\";/
 s/\"Load Mesh\";/\"그물 불러오기\";/
@@ -900,8 +901,8 @@ s/\"Normal\";/\"정규\";/
 s/\"Number of Columns:\";/\"열 개수:\";/
 s/\"Number\";/\"숫자\";/
 s/\"Nvg\";/\"네비게이터\";/
-s/\"Oblique\";/\"사투상\";/
 s/\"Objects\";/\"오브젝트\";/
+s/\"Oblique\";/\"사투상\";/
 s/\"Offset Tool\";/\"편차 도구\";/
 s/\"Offset:\";/\"편차:\";/
 s/\"Offset\";/\"편차\";/
@@ -977,10 +978,11 @@ s/\"Picas\";/\"파이카\";/
 s/\"Pie Tool\";/\"파이 도구\";/
 s/\"Pie\/Donut\";/\"파이\/도넛\";/
 s/\"Pixel Align\";/\"픽셀 정렬\";/
+s/\"Pixel Grid\";/\"픽셀 격자\";/
+s/\"Pixel Layer\";/\"픽셀 레이어\";/
 s/\"Pixel Objects\";/\"픽셀 오브젝트\";/
 s/\"Pixel Persona\";/\"픽셀 페르소나\";/
 s/\"Pixel Size\";/\"픽셀 크기\";/
-s/\"Pixel Layer\";/\"픽셀 레이어\";/
 s/\"Pixel Tool\";/\"픽셀 도구\";/
 s/\"Pixel format:\";/\"픽셀 포맷:\";/
 s/\"Pixel view mode\";/\"픽셀 보기\";/
@@ -1023,6 +1025,7 @@ s/\"Presets\";/\"미리 설정\";/
 s/\"Press Ready\";/\"프레스품질\";/
 s/\"Pressure:\";/\"압력:\";/
 s/\"Pressure\";/\"압력\";/
+s/\"Preview Mode\";/\"미리보기 모드\";/
 s/\"Previous\";/\"이전\";/
 s/\"Print\";/\"인쇄\";/
 s/\"Profile:\";/\"프로파일:\";/
@@ -1149,6 +1152,7 @@ s/\"Rounded Rectangle\";/\"둥근 직사각형\";/
 s/\"Rounded\";/\"둥근\";/
 s/\"Row Marquee Tool\";/\"행 천막 도구\";/
 s/\"Rows:\";/\"열:\";/
+s/\"Rulers\";/\"눈금자\";/
 s/\"Salmon\";/\"연어\";/
 s/\"Samples\";/\"견본\";/
 s/\"Satellite\";/\"위성\";/
@@ -1255,14 +1259,14 @@ s/\"Show Column Guides\";/\"열 안내선 보기\";/
 s/\"Show Compass\";/\"나침반 보기\";/
 s/\"Show Context Toolbar\";/\"상황별 툴바 보기\";/
 s/\"Show Glyph Browser\";/\"글리프 브라우저 보기\";/
-s/\"Show Grid\";/\"격자선 보기\";/
+s/\"Show Grid\";/\"격자 보기\";/
 s/\"Show Guides\";/\"안내선 보기\";/
 s/\"Show Hierarchical\";/\"계층 보기\";/
 s/\"Show Left Studio\";/\"왼쪽 작업실 보기\";/
 s/\"Show Map Scale\";/\"지도 배율 보기\";/
 s/\"Show Margins\";/\"여백선 보기\";/
 s/\"Show Paragraph\";/\"문단 보기\";/
-s/\"Show Pixel Grid\";/\"픽셀 격자선 보기\";/
+s/\"Show Pixel Grid\";/\"픽셀 격자 보기\";/
 s/\"Show Pixel Selection\";/\"픽셀 선택 항목 보기\";/
 s/\"Show Right Studio\";/\"오른쪽 작업실 보기\";/
 s/\"Show Rotation Center\";/\"회전 중심 보기\";/
@@ -1303,11 +1307,11 @@ s/\"Smooth Curve\";/\"곡선 매끄럽게\";/
 s/\"Smooth\";/\"매끄럽게\";/
 s/\"Snap all selected nodes when dragging\";/\"드래그할 때 모든 선택 마디에 스냅\";/
 s/\"Snap all when dragging\";/\"드래그할 때 모두 스냅\";/
-s/\"Snap to grid\";/\"격자에 스냅\";/
 s/\"Snap to baseline grid\";/\"기준선 격자에 스냅\";/
+s/\"Snap to grid\";/\"격자에 스냅\";/
 s/\"Snap to guides\";/\"안내선에 스냅\";/
-s/\"Snap to spread\";/\"스프레드에 스냅\";/
 s/\"Snap to margin\";/\"여백선에 스냅\";/
+s/\"Snap to spread\";/\"스프레드에 스냅\";/
 s/\"Snap:\";/\"스냅:\";/
 s/\"Snap:\";/\"스냅\";/
 s/\"Snapping Manager…\";/\"스내핑 관리자…\";/
@@ -1336,10 +1340,10 @@ s/\"Spelling Options…\";/\"철자 설정…\";/
 s/\"Spelling:\";/\"철자:\";/
 s/\"Spelling\";/\"철자\";/
 s/\"Split Complementary\";/\"분할 보색\";/
+s/\"Split Curve\";/\"곡선 분할하기\";/
 s/\"Split Toning\";/\"분할 색조\";/
 s/\"Split View\";/\"분할 보기\";/
 s/\"Split view\";/\"분할 보기\";/
-s/\"Split Curve\";/\"곡선 분할하기\";/
 s/\"Split\";/\"분할\";/
 s/\"Spread Margin\";/\"스프레드 여백\";/
 s/\"Spread Setup…\";/\"스프레드 설정…\";/
@@ -1584,6 +1588,7 @@ s/\"Window size\";/\"윈도우 크기\";/
 s/\"Window:\";/\"윈도우:\";/
 s/\"Window\";/\"윈도우\";/
 s/\"Wireframe\";/\"와이어프레임\";/
+s/\"Word Count\";/\"단어 카운트\";/
 s/\"Would you like to save this document?\";/\"문서를 저장하시겠습니까?\";/
 s/\"X Offset\";/\"X 편차\";/
 s/\"X Position\";/\"X 위치\";/
