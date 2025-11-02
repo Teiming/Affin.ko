@@ -113,7 +113,7 @@ s/\"As Application Palette\";/\"응용프로그램 팔레트로\";/
 s/\"As Document Palette\";/\"문서 팔레트로\";/
 s/\"As System Palette\";/\"시스템 팔레트로\";/
 s/\"Aspect ratio:\";/\"종횡비:\";/
-s/\"Assets\";/\"자산\";/
+s/\"Assets\";/\"에셋\";/
 s/\"Assign\";/\"할당\";/
 s/\"Assistant Manager…\";/\"손쉬운 사용 관리자…\";/
 s/\"Assistant Options\";/\"손쉬운 사용 설정\";/
@@ -211,7 +211,7 @@ s/\"Camera\";/\"카메라\";/
 s/\"Cancel\";/\"취소\";/
 s/\"Candidate list\";/\"후보 목록\";/
 s/\"Candidates:\";/\"후보:\";/
-s/\"Cannot Create Assets\";/\"자산을 생성할 수 없음\";/
+s/\"Cannot Create Assets\";/\"에셋을 생성할 수 없음\";/
 s/\"Cannot Create Document\";/\"문서를 생성할 수 없음\";/
 s/\"Cannot Develop\";/\"현상할 수 없음\";/
 s/\"Cannot Export\";/\"내보낼 수 없음\";/
@@ -306,6 +306,7 @@ s/\"Contrast Negate\";/\"대비 부정\";/
 s/\"Contrast\";/\"대비\";/
 s/\"Controller:\";/\"제어기:\";/
 s/\"Controls\";/\"조작\";/
+s/\"Container Layer\";/\"컨테이너 레이어\";/
 s/\"Convert Artboard to Object\";/\"아트보드를 오브젝트로 변환\";/
 s/\"Convert Object to Artboard\";/\"오브젝트를 아트보드로 변환\";/
 s/\"Convert To Curves\";/\"곡선으로 변환\";/
@@ -754,6 +755,8 @@ s/\"Line Break\";/\"줄바꿈\";/
 s/\"Line Width\";/\"선 너비\";/
 s/\"Linear\";/\"선형\";/
 s/\"Link the grid Colors\";/\"격자 색상 연결\";/
+s/\"Links\";/\"연결\";/
+s/\"Hyperlinks\";/\"하이퍼링크\";/
 s/\"Liquify Persona\";/\"액화 페르소나\";/
 s/\"Liquify\";/\"액화\";/
 s/\"Load Mesh\";/\"그물 불러오기\";/
@@ -788,6 +791,7 @@ s/\"Marquees\";/\"천막\";/
 s/\"Mask All\";/\"모두 마스크\";/
 s/\"Mask Layer\";/\"마스크 레이어\";/
 s/\"Mask\";/\"마스크\";/
+s/\"Master Page\";/\"마스터 페이지\";/
 s/\"Math\";/\"수학\";/
 s/\"Maths\";/\"수학\";/
 s/\"Max:\";/\"최대:\";/
@@ -897,6 +901,7 @@ s/\"Number of Columns:\";/\"열 개수:\";/
 s/\"Number\";/\"숫자\";/
 s/\"Nvg\";/\"네비게이터\";/
 s/\"Oblique\";/\"사투상\";/
+s/\"Objects\";/\"오브젝트\";/
 s/\"Offset Tool\";/\"편차 도구\";/
 s/\"Offset:\";/\"편차:\";/
 s/\"Offset\";/\"편차\";/
@@ -975,6 +980,7 @@ s/\"Pixel Align\";/\"픽셀 정렬\";/
 s/\"Pixel Objects\";/\"픽셀 오브젝트\";/
 s/\"Pixel Persona\";/\"픽셀 페르소나\";/
 s/\"Pixel Size\";/\"픽셀 크기\";/
+s/\"Pixel Layer\";/\"픽셀 레이어\";/
 s/\"Pixel Tool\";/\"픽셀 도구\";/
 s/\"Pixel format:\";/\"픽셀 포맷:\";/
 s/\"Pixel view mode\";/\"픽셀 보기\";/
@@ -1297,8 +1303,10 @@ s/\"Smooth Curve\";/\"곡선 매끄럽게\";/
 s/\"Smooth\";/\"매끄럽게\";/
 s/\"Snap all selected nodes when dragging\";/\"드래그할 때 모든 선택 마디에 스냅\";/
 s/\"Snap all when dragging\";/\"드래그할 때 모두 스냅\";/
-s/\"Snap to grid\";/\"격자선에 스냅\";/
+s/\"Snap to grid\";/\"격자에 스냅\";/
+s/\"Snap to baseline grid\";/\"기준선 격자에 스냅\";/
 s/\"Snap to guides\";/\"안내선에 스냅\";/
+s/\"Snap to spread\";/\"스프레드에 스냅\";/
 s/\"Snap to margin\";/\"여백선에 스냅\";/
 s/\"Snap:\";/\"스냅:\";/
 s/\"Snap:\";/\"스냅\";/
@@ -1331,6 +1339,7 @@ s/\"Split Complementary\";/\"분할 보색\";/
 s/\"Split Toning\";/\"분할 색조\";/
 s/\"Split View\";/\"분할 보기\";/
 s/\"Split view\";/\"분할 보기\";/
+s/\"Split Curve\";/\"곡선 분할하기\";/
 s/\"Split\";/\"분할\";/
 s/\"Spread Margin\";/\"스프레드 여백\";/
 s/\"Spread Setup…\";/\"스프레드 설정…\";/
@@ -1358,12 +1367,14 @@ s/\"Stroke Color\";/\"선 색상\";/
 s/\"Stroke Weight\";/\"선 두께\";/
 s/\"Stroke Width Tool\";/\"선 너비 도구\";/
 s/\"Stroke Width\";/\"선 너비\";/
+s/\"Stroke width\";/\"선 너비\";/
 s/\"Stroke:\";/\"선:\";/
 s/\"Stroke\";/\"선\";/
 s/\"Stroked Objects\";/\"선이 있는 오브젝트\";/
 s/\"Strong\";/\"강하게\";/
 s/\"Studio Presets\";/\"작업실 미리 설정\";/
 s/\"Studio\";/\"작업실\";/
+s/\"Studios\";/\"작업실\";/
 s/\"Sty\";/\"스타일\";/
 s/\"Style:\";/\"스타일:\";/
 s/\"Style\";/\"스타일\";/
@@ -1430,7 +1441,7 @@ s/\"To Fit\";/\"맞추기\";/
 s/\"To Front\";/\"앞으로\";/
 s/\"Toggle 32-bit Preview Panel\";/\"32-비트 미리보기 패널 켜고 끄기\";/
 s/\"Toggle Adjustment Panel\";/\"조정 패널 켜고 끄기\";/
-s/\"Toggle Assets Panel\";/\"자산 패널 켜고 끄기\";/
+s/\"Toggle Assets Panel\";/\"에셋 패널 켜고 끄기\";/
 s/\"Toggle Channels Panel\";/\"채널 패널 켜고 끄기\";/
 s/\"Toggle Character Panel\";/\"문자 패널 켜고 끄기\";/
 s/\"Toggle Color Panel\";/\"색상 패널 켜고 끄기\";/
@@ -1528,6 +1539,7 @@ s/\"Vector Erase Brush Tool\";/\"벡터 지우기 브러시 도구\";/
 s/\"Vector Layers\";/\"벡터 레이어\";/
 s/\"Vector Menu\";/\"벡터 메뉴\";/
 s/\"Vector Persona\";/\"벡터 페르소나\";/
+s/\"Vector view mode\";/\"벡터 뷰 모드\";/
 s/\"Vector\";/\"벡터\";/
 s/\"Velocity (Inverse)\";/\"속도 (뒤집힌)\";/
 s/\"Velocity\";/\"속도\";/
