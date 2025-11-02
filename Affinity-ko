@@ -15,7 +15,7 @@ fi
 
 echo "→ Check Update"
 cd ~/Affin.ko/
-# git pull
+git pull
 
 ENGPATH=/Applications/Affinity.app/Contents/Resources/en-US.lproj/
 KORPATH=/Applications/Affinity.app/Contents/Resources/ko.lproj/
