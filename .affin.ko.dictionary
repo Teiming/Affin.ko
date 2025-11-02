@@ -27,6 +27,7 @@ s/\"Add Document Palette\";/\"문서 팔레트 추가\";/
 s/\"Add Document Snapshot\";/\"문서 스냅샷 추가\";/
 s/\"Add Global Color…\";/\"전역 색상 추가…\";/
 s/\"Add Gradient Overlay\";/\"그레이디언트 오버레이 추가\";/
+s/\"Add Hyperlink\";/\"하이퍼링크 추가\";/
 s/\"Add Layer\";/\"레이어 추가\";/
 s/\"Add New Category...\";/\"신규 범주 추가...\";/
 s/\"Add New Category…\";/\"신규 범주 추가…\";/
@@ -34,7 +35,6 @@ s/\"Add Page\";/\"페이지 추가\";/
 s/\"Add Pages\";/\"페이지 추가\";/
 s/\"Add Pixel Layer\";/\"픽셀 레이어 추가\";/
 s/\"Add Preset\";/\"미리 설정 추가\";/
-s/\"Add Preset…\";/\"미리 설정 추가…\";/
 s/\"Add Registration Color\";/\"등록 색상을 추가\";/
 s/\"Add Round\";/\"둥근 브러시 추가\";/
 s/\"Add Snapshot\";/\"스냅샷 추가\";/
@@ -103,12 +103,12 @@ s/\"Arc - Vertical\";/\"세로 활꼴\";/
 s/\"Area:\";/\"영역:\";/
 s/\"Arrange\";/\"순서\";/
 s/\"Arrow Tool\";/\"화살표 도구\";/
-s/\"Art Text\";/\"예술 텍스트\";/
+s/\"Art Text\";/\"아트 텍스트\";/
 s/\"Artboard Tool\";/\"아트보드 도구\";/
 s/\"Artboard:\";/\"아트보드:\";/
 s/\"Artboard\";/\"아트보드\";/
 s/\"Artboards\";/\"아트보드\";/
-s/\"Artistic Text Tool\";/\"예술 텍스트 도구\";/
+s/\"Artistic Text Tool\";/\"아트 텍스트 도구\";/
 s/\"As Application Palette\";/\"응용프로그램 팔레트로\";/
 s/\"As Document Palette\";/\"문서 팔레트로\";/
 s/\"As System Palette\";/\"시스템 팔레트로\";/
@@ -219,6 +219,7 @@ s/\"Cannot Import\";/\"들여올 수 없음\";/
 s/\"Cannot Print\";/\"인쇄할 수 없음\";/
 s/\"Cannot Share\";/\"공유할 수 없음\";/
 s/\"Cannot Tone Map\";/\"톤 매핑할 수 없음\";/
+s/\"Canva Account\";/\"Canva 계정\";/
 s/\"Cap:\";/\"끝단:\";/
 s/\"Capitalization\";/\"대문자화\";/
 s/\"Captured States\";/\"저장된 상태\";/
@@ -237,6 +238,7 @@ s/\"Check Spelling While Typing\";/\"작성하는 동안 철자 확인\";/
 s/\"Check Spelling\";/\"철자 확인\";/
 s/\"Check for Updates\";/\"업데이트 확인\";/
 s/\"Check for updates:\";/\"업데이트 확인:\";/
+s/\"Checkerboard\";/\"체커보드\";/
 s/\"Choose the flow of the brush\";/\"브러시 흐름을 선택합니다\";/
 s/\"Choose the hardness of the brush\";/\"브러시 굳기를 선택합니다\";/
 s/\"Choose the height of the marquee\";/\"천막의 높이를 선택합니다\";/
@@ -272,6 +274,7 @@ s/\"Cog\";/\"톱니\";/
 s/\"Color Balance\";/\"색상 밸런스\";/
 s/\"Color Format:\";/\"색상 포맷\";/
 s/\"Color Format\";/\"색상 포맷\";/
+s/\"Color Grading:\";/\"색상 그레이딩\";/
 s/\"Color Overlay\";/\"색상 오버레이\";/
 s/\"Color Picker Tool\";/\"색상 선택기 도구\";/
 s/\"Color Profile:\";/\"색상 프로파일:\";/
@@ -358,6 +361,7 @@ s/\"Dash Line Style\";/\"줄표 선 스타일\";/
 s/\"Dash:\";/\"줄표:\";/
 s/\"Dashed Objects\";/\"점선 오브젝트\";/
 s/\"Date added\";/\"추가된 날짜\";/
+s/\"Date and Time\";/\"날짜와 시간\";/
 s/\"Date shot\";/\"찍은 날짜\";/
 s/\"Decimal Places for Unit Types:\";/\"단위 종류별 소수점 위치:\";/
 s/\"Decorations\";/\"장식\";/
@@ -505,7 +509,6 @@ s/\"Export preset\";/\"내보내기 미리 설정\";/
 s/\"Export presets\";/\"내보내기 미리 설정\";/
 s/\"Export\";/\"내보내기\";/
 s/\"Exportable\";/\"내보낼 수 있음\";/
-s/\"Export…\";/\"내보내기…\";/
 s/\"Exposure:\";/\"노출:\";/
 s/\"Exposure\";/\"노출\";/
 s/\"Factor\";/\"요소\";/
@@ -588,6 +591,7 @@ s/\"Grid and Axis…\";/\"격자 및 축…\";/
 s/\"Grid lines:\";/\"격자 선:\";/
 s/\"Grid setup\";/\"격자 설정\";/
 s/\"Grid type:\";/\"격자 종류:\";/
+s/\"Grid\";/\"격자\";/
 s/\"Group\";/\"그룹\";/
 s/\"Groups\";/\"그룹\";/
 s/\"Grow \/ Shrink…\";/\"팽창 \/ 수축…\";/
@@ -600,6 +604,7 @@ s/\"Hairline\";/\"헤어라인\";/
 s/\"Hangul\";/\"한글\";/
 s/\"Hardness:\";/\"굳기:\";/
 s/\"Hardness\";/\"굳기\";/
+s/\"Hatches\";/\"해치\";/
 s/\"Head Offset:\";/\"머리 편차:\";/
 s/\"Head Offset\";/\"머리 편차\";/
 s/\"Heart Tool\";/\"하트 도구\";/
@@ -637,7 +642,6 @@ s/\"Ignore\";/\"무시\";/
 s/\"Image\";/\"이미지\";/
 s/\"Images\";/\"이미지\";/
 s/\"Import Brushes\";/\"브러시 들여오기\";/
-s/\"Import Brushes…\";/\"브러시 들여오기…\";/
 s/\"Import Failed\";/\"실패한 들여오기\";/
 s/\"Import Palette…\";/\"팔레트 들여오기…\";/
 s/\"Import Presets…\";/\"미리 설정 들여오기…\";/
@@ -648,6 +652,7 @@ s/\"Import\";/\"들여오기\";/
 s/\"Importing...\";/\"들여오는 중...\";/
 s/\"In Place\";/\"제자리에\";/
 s/\"In:\";/\"안:\";/
+s/\"In\";/\"안\";/
 s/\"Inches:\";/\"인치:\";/
 s/\"Inches\";/\"인치\";/
 s/\"Include Margins\";/\"여백 포함\";/
@@ -716,12 +721,11 @@ s/\"Last Selected\";/\"마지막 선택 항목\";/
 s/\"Last Used\";/\"최근 사용된\";/
 s/\"Layer Color:\";/\"레이어 색상:\";/
 s/\"Layer Effects\";/\"레이어 효과\";/
-s/\"Layer Effects…\";/\"레이어 효과…\";/
 s/\"Layer Name:\";/\"레이어 이름:\";/
 s/\"Layer\";/\"레이어\";/
 s/\"Layers\";/\"레이어\";/
-s/\"Layout Persona\";/\"구조 페르소나\";/
-s/\"Layout\";/\"구조\";/
+s/\"Layout Persona\";/\"레이아웃 페르소나\";/
+s/\"Layout\";/\"레이아웃\";/
 s/\"Learn Spelling\";/\"철자 학습\";/
 s/\"Left Bleed:\";/\"왼쪽 도련:\";/
 s/\"Left Margin:\";/\"왼쪽 여백\";/
@@ -779,13 +783,13 @@ s/\"Manage Studio Presets…\";/\"작업실 미리 설정 관리…\";/
 s/\"Maps\";/\"지도\";/
 s/\"Margin\";/\"여백\";/
 s/\"Margins\";/\"여백\";/
-s/\"Margins…\";/\"여백…\";/
 s/\"Marquee\";/\"천막\";/
 s/\"Marquees\";/\"천막\";/
 s/\"Mask All\";/\"모두 마스크\";/
 s/\"Mask Layer\";/\"마스크 레이어\";/
 s/\"Mask\";/\"마스크\";/
 s/\"Math\";/\"수학\";/
+s/\"Maths\";/\"수학\";/
 s/\"Max:\";/\"최대:\";/
 s/\"Maximum height\";/\"최대 높이\";/
 s/\"Maximum width\";/\"최대 너비\";/
@@ -848,8 +852,8 @@ s/\"Move to Back\";/\"맨 뒤로 보내기\";/
 s/\"Move to Front\";/\"맨 앞으로 가져오기\";/
 s/\"Move to Next View Point\";/\"다음 뷰 포인트로 이동\";/
 s/\"Move to Previous View Point\";/\"이전 뷰 포인트로 이동\";/
+s/\"Move\";/\"이동\";/
 s/\"My Account\";/\"내 계정\";/
-s/\"My Account…\";/\"내 계정…\";/
 s/\"Name\";/\"이름\";/
 s/\"Navigator\";/\"네비게이터\";/
 s/\"Negate\";/\"부정\";/
@@ -860,6 +864,7 @@ s/\"New Adjustment\";/\"신규 조정\";/
 s/\"New Document From Snapshot\";/\"스냅샷으로부터 신규 문서\";/
 s/\"New Document\";/\"신규 문서\";/
 s/\"New From Clipboard\";/\"클립보드에서 신규\";/
+s/\"New Group\";/\"신규 그룹\";/
 s/\"New Image Brush\";/\"신규 이미지 브러시\";/
 s/\"New Layer\";/\"신규 레이어\";/
 s/\"New Pixel Layer\";/\"신규 픽셀 레이어\";/
@@ -873,11 +878,12 @@ s/\"New layer\";/\"신규 레이어\";/
 s/\"New...\";/\"신규...\";/
 s/\"New\";/\"신규\";/
 s/\"News\";/\"뉴스\";/
-s/\"New…\";/\"신규…\";/
+s/\"Next\";/\"다음\";/
 s/\"No Camera Data\";/\"카메라 데이터 없음\";/
 s/\"No Line Style\";/\"선 스타일 없음\";/
 s/\"No Selection\";/\"선택 항목 없음\";/
 s/\"No Snapshot\";/\"스냅샷 없음\";/
+s/\"No Thumbnails\";/\"썸네일 없음\";/
 s/\"No split view\";/\"분할 보기 해제\";/
 s/\"No\";/\"아니오\";/
 s/\"Node Tool\";/\"마디 도구\";/
@@ -888,6 +894,7 @@ s/\"Non-Breaking Space\";/\"줄 바꿈 없는 공백\";/
 s/\"None\";/\"없음\";/
 s/\"Normal\";/\"정규\";/
 s/\"Number of Columns:\";/\"열 개수:\";/
+s/\"Number\";/\"숫자\";/
 s/\"Nvg\";/\"네비게이터\";/
 s/\"Oblique\";/\"사투상\";/
 s/\"Offset Tool\";/\"편차 도구\";/
@@ -903,19 +910,18 @@ s/\"Opaque Objects\";/\"불투명 오브젝트\";/
 s/\"Open Curves\";/\"열린 곡선\";/
 s/\"Open Recent\";/\"최근 사용 열기\";/
 s/\"Open\";/\"열기\";/
-s/\"Open…\";/\"열기…\";/
 s/\"Options\";/\"설정\";/
 s/\"Orange\";/\"주황\";/
 s/\"Order:\";/\"순서:\";/
 s/\"Order\";/\"순서\";/
 s/\"Ordinal\";/\"서수\";/
 s/\"Out:\";/\"바깥:\";/
+s/\"Out\";/\"바깥\";/
 s/\"Outer Glow\";/\"외부 광채\";/
 s/\"Outer Shadow\";/\"외부 그림자\";/
 s/\"Outer\";/\"외부\";/
 s/\"Outline view mode\";/\"아웃라인 보기\";/
 s/\"Outline\";/\"아웃라인\";/
-s/\"Outline…\";/\"아웃라인…\";/
 s/\"Output Angle\";/\"출력 각도\";/
 s/\"Output Profile\";/\"프로파일 출력\";/
 s/\"Output\";/\"출력\";/
@@ -927,11 +933,14 @@ s/\"Overlay Erase Tool\";/\"오버레이 지우기 도구\";/
 s/\"Overlay Paint Tool\";/\"오버레이 페인트 도구\";/
 s/\"Overlay\";/\"오버레이\";/
 s/\"Page Height:\";/\"페이지 높이:\";/
+s/\"Page Number\";/\"페이지 번호\";/
 s/\"Page Preset:\";/\"페이지 미리 설정:\";/
 s/\"Page Width:\";/\"페이지 너비:\";/
 s/\"Page:\";/\"페이지:\";/
 s/\"Page\";/\"페이지\";/
+s/\"Pages\";/\"페이지\";/
 s/\"Paint Brush Tool\";/\"페인트 브러시 도구\";/
+s/\"Panels\";/\"패널\";/
 s/\"Panorama Persona\";/\"파노라마 페르소나\";/
 s/\"Panorama\";/\"파노라마\";/
 s/\"Paragraph Leading\";/\"줄 간격\";/
@@ -998,7 +1007,6 @@ s/\"Precise Lower Baseline\";/\"기준선 조금씩 낮추기\";/
 s/\"Precise Raise Baseline\";/\"기준선 조금씩 올리기\";/
 s/\"Precise Smaller\";/\"조금씩 작게\";/
 s/\"Preferences\";/\"환경설정\";/
-s/\"Preferences…\";/\"환경설정…\";/
 s/\"Preserve alpha\";/\"알파 유지\";/
 s/\"Preserve aspect ratio\";/\"종횡비 유지\";/
 s/\"Preserve layer FX\";/\"레이어 효과 유지\";/
@@ -1009,8 +1017,8 @@ s/\"Presets\";/\"미리 설정\";/
 s/\"Press Ready\";/\"프레스품질\";/
 s/\"Pressure:\";/\"압력:\";/
 s/\"Pressure\";/\"압력\";/
+s/\"Previous\";/\"이전\";/
 s/\"Print\";/\"인쇄\";/
-s/\"Print…\";/\"인쇄…\";/
 s/\"Profile:\";/\"프로파일:\";/
 s/\"Profile\";/\"프로파일\";/
 s/\"Profiles\";/\"프로파일\";/
@@ -1040,14 +1048,13 @@ s/\"Random\";/\"무작위\";/
 s/\"Raster Menu\";/\"래스터 메뉴\";/
 s/\"Rasterize To Mask\";/\"마스크 래스터화\";/
 s/\"Rasterize to Mask\";/\"마스크 래스터화\";/
-s/\"Rasterize…\";/\"래스터화…\";/
+s/\"Rasterize\";/\"래스터화\";/
 s/\"Reapply Base Styles\";/\"기본 스타일 다시 적용\";/
 s/\"Reapply Text Styles\";/\"텍스트 스타일 다시 적용\";/
 s/\"Recent:\";/\"최근 사용 항목:\";/
 s/\"Recent\";/\"최근 사용 항목\";/
 s/\"Recolor Adjustment\";/\"재색상 조정\";/
 s/\"Recolor\";/\"재색상\";/
-s/\"Recolor…\";/\"재색상…\";/
 s/\"Rectangle Tool\";/\"직사각형 도구\";/
 s/\"Rectangle\";/\"직사각형\";/
 s/\"Rectangular Marquee Tool\";/\"직사각형 천막 도구\";/
@@ -1068,7 +1075,6 @@ s/\"Remove Profile\";/\"프로파일 지우기\";/
 s/\"Remove\";/\"지우기\";/
 s/\"Rename Brush…\";/\"브러시 이름 변경…\";/
 s/\"Rename Category\";/\"범주 이름 변경\";/
-s/\"Rename Category…\";/\"범주 이름 변경…\";/
 s/\"Rename Layer…\";/\"레이어 이름 변경…\";/
 s/\"Rename Palette...\";/\"팔레트 이름 변경...\";/
 s/\"Rename Preset...\";/\"미리 설정 이름 변경...\";/
@@ -1170,6 +1176,7 @@ s/\"Scatter X:\";/\"가로 흩어짐:\";/
 s/\"Scatter Y:\";/\"세로 흩어짐:\";/
 s/\"Scope:\";/\"범위:\";/
 s/\"Scope\";/\"범위\";/
+s/\"Search\";/\"찾기\";/
 s/\"Second axis\";/\"두 번째 축\";/
 s/\"Segment Tool\";/\"활꼴 도구\";/
 s/\"Segment\";/\"활꼴\";/
@@ -1198,6 +1205,7 @@ s/\"Select\";/\"선택\";/
 s/\"Selection Marquee\";/\"선택 항목 천막\";/
 s/\"Selection\";/\"선택 항목\";/
 s/\"Selective Color\";/\"색상 선택\";/
+s/\"Send Feedback…\";/\"피드백 보내기…\";/
 s/\"Send To Back\";/\"맨 뒤로 보내기\";/
 s/\"Send to Back\";/\"맨 뒤로 보내기\";/
 s/\"Separate Curves\";/\"곡선 분리\";/
@@ -1224,7 +1232,8 @@ s/\"Shadows\";/\"그림자\";/
 s/\"Shape\";/\"모양\";/
 s/\"Shapes\";/\"모양\";/
 s/\"Share\";/\"공유\";/
-s/\"Sharp\";/\"날카롭게\";/
+s/\"Sharp\";/\"날카로운\";/
+s/\"Sharpen\";/\"날카롭게\";/
 s/\"Shear\";/\"비틀기\";/
 s/\"Shortcuts\";/\"단축키\";/
 s/\"Show AF Regions\";/\"AF 영역 보기\";/
@@ -1274,6 +1283,7 @@ s/\"Size:\";/\"크기:\";/
 s/\"Size\";/\"크기\";/
 s/\"Slice Selection Tool\";/\"슬라이스 선택 도구\";/
 s/\"Slice Tool\";/\"슬라이스 도구\";/
+s/\"Slice\";/\"슬라이스\";/
 s/\"Slices\";/\"슬라이스\";/
 s/\"Slider\";/\"슬라이더\";/
 s/\"Sliders\";/\"슬라이더\";/
@@ -1285,7 +1295,6 @@ s/\"Smallest\";/\"가장 작게\";/
 s/\"Smart\";/\"스마트\";/
 s/\"Smooth Curve\";/\"곡선 매끄럽게\";/
 s/\"Smooth\";/\"매끄럽게\";/
-s/\"Smooth…\";/\"매끄럽게…\";/
 s/\"Snap all selected nodes when dragging\";/\"드래그할 때 모든 선택 마디에 스냅\";/
 s/\"Snap all when dragging\";/\"드래그할 때 모두 스냅\";/
 s/\"Snap to grid\";/\"격자선에 스냅\";/
@@ -1297,7 +1306,6 @@ s/\"Snapping Manager…\";/\"스내핑 관리자…\";/
 s/\"Snapping Options\";/\"스내핑 설정\";/
 s/\"Snapping axis setup\";/\"스내핑 축 설정\";/
 s/\"Snapping\";/\"스내핑\";/
-s/\"Snapping…\";/\"스내핑…\";/
 s/\"Snapshot\";/\"스냅샷\";/
 s/\"Snapshots Studio\";/\"스냅샷 작업실\";/
 s/\"Snapshots\";/\"스냅샷\";/
@@ -1399,7 +1407,7 @@ s/\"Tear\";/\"눈물\";/
 s/\"Temperature\";/\"온도\";/
 s/\"Templates\";/\"템플릿\";/
 s/\"Test\";/\"테스트\";/
-s/\"Text Cell\";/\"텍스트 셀\";/
+s/\"Text Flow\";/\"텍스트 흐름\";/
 s/\"Text Frame\";/\"텍스트 액자\";/
 s/\"Text Styles\";/\"텍스트 스타일\";/
 s/\"Text Wrap\";/\"줄바꿈\";/
@@ -1416,6 +1424,10 @@ s/\"Tilt\";/\"기울임 Tilt\";/
 s/\"Tint\";/\"틴트\";/
 s/\"Tints\";/\"틴트\";/
 s/\"Title\";/\"타이틀\";/
+s/\"To Art Text\";/\"아트 텍스트로\";/
+s/\"To Back\";/\"뒤로\";/
+s/\"To Fit\";/\"맞추기\";/
+s/\"To Front\";/\"앞으로\";/
 s/\"Toggle 32-bit Preview Panel\";/\"32-비트 미리보기 패널 켜고 끄기\";/
 s/\"Toggle Adjustment Panel\";/\"조정 패널 켜고 끄기\";/
 s/\"Toggle Assets Panel\";/\"자산 패널 켜고 끄기\";/
@@ -1455,6 +1467,7 @@ s/\"Tone Mapping\";/\"톤 맵핑\";/
 s/\"Tone\";/\"톤\";/
 s/\"Tones\";/\"톤\";/
 s/\"Tool Handle Size:\";/\"도구 손잡이 크기:\";/
+s/\"Toolbar\";/\"도구막대\";/
 s/\"Tools\";/\"도구\";/
 s/\"Top Bleed:\";/\"위쪽 도련:\";/
 s/\"Top Margin:\";/\"위쪽 여백:\";/
@@ -1497,9 +1510,10 @@ s/\"Unlock\";/\"잠금 풀기\";/
 s/\"Unstroked Objects\";/\"선이 없는 오브젝트\";/
 s/\"Untitled\";/\"이름 없음\";/
 s/\"Up axis\";/\"위쪽 축\";/
-s/\"Update "%@"\";/\""%@"를 갱신\";/
+s/\"Update "%@"\";/\""%@"를 업데이트\";/
 s/\"Update Character Style\";/\"문자 스타일 업데이트\";/
 s/\"Update Paragraph Style\";/\"문단 스타일 업데이트\";/
+s/\"Update\";/\"업데이트\";/
 s/\"Use All\";/\"모두 합자\";/
 s/\"Use Current Location\";/\"지금 위치 사용\";/
 s/\"Use Default\";/\"기준선 재설정\";/
@@ -1531,6 +1545,7 @@ s/\"View Tutorials\";/\"튜토리얼 보기\";/
 s/\"View\";/\"뷰\";/
 s/\"Views\";/\"뷰\";/
 s/\"Vignette\";/\"비네트\";/
+s/\"Visible\";/\"보이는\";/
 s/\"Visit Affinity Spotlight\";/\"Affinity Spotlight 방문\";/
 s/\"Voronoi\";/\"보로노이\";/
 s/\"Warp Group\";/\"왜곡 그룹\";/
@@ -1599,4 +1614,3 @@ s/\"|DRAG| to move selection. |CLICK| another object to select it. |CLICK| on an
 s/\"|DRAG| to move selection.\";/\"|DRAG|해서 선택 항목을 움직입니다.\";/
 s/\"|DRAG| to pan view.\";/\"|DRAG|해서 초점이동합니다.\";/
 s/\"|DRAG| to resize columns.\";/\"|DRAG|해서 행의 크기를 조절합니다.\";/
-s/\"Hatches\";/\"해치\";/
