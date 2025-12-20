@@ -278,14 +278,14 @@ s/\"Cog Tool\";/\"톱니 도구\";/
 s/\"Cog\";/\"톱니\";/
 s/\"Color Balance\";/\"색상 밸런스\";/
 s/\"Color Format:\";/\"색상 포맷\";/
-s/\"Color Format\";/\"색상 포맷\";/
 s/\"Color Grading:\";/\"색상 그레이딩\";/
 s/\"Color Overlay\";/\"색상 오버레이\";/
 s/\"Color Picker Tool\";/\"색상 선택기 도구\";/
 s/\"Color Picker\";/\"색상 선택기\";/
-s/\"Color Profile:\";/\"색상 프로파일:\";/
 s/\"Color Range\";/\"색상 범위\";/
 s/\"Color Space:\";/\"색공간:\";/
+s/\"Color format\";/\"색상 포맷\";/
+s/\"Color profile\";/\"색상 프로파일\";/
 s/\"Color:\";/\"색상:\";/
 s/\"Color\";/\"색상\";/
 s/\"Colors\";/\"색상\";/
@@ -336,10 +336,12 @@ s/\"Create Artboard\";/\"아트보드 생성\";/
 s/\"Create Character Style\";/\"문자 스타일 생성\";/
 s/\"Create Color Chord\";/\"색상 코드 생성\";/
 s/\"Create Compound\";/\"결합 생성\";/
+s/\"Create Document\";/\"문서 생성\";/
 s/\"Create New Category\";/\"신규 범주 생성\";/
 s/\"Create Palette From Document\";/\"문서로부터 팔레트 생성\";/
 s/\"Create Palette From Image…\";/\"이미지로부터 팔레트 생성…\";/
 s/\"Create Paragraph Style\";/\"문단 스타일 생성\";/
+s/\"Create Preset\";/\"미리 설정 생성\";/
 s/\"Create Preset…\";/\"미리 설정 생성…\";/
 s/\"Create Slice from the currently selected object\";/\"지금 선택된 오브젝트로부터 슬라이스 생성\";/
 s/\"Create Slice\";/\"슬라이스 생성\";/
@@ -435,8 +437,8 @@ s/\"Divisions:\";/\"구획:\";/
 s/\"Do not add\";/\"추가하지 않음\";/
 s/\"Dock Tools\";/\"도구 고정\";/
 s/\"Document Info\";/\"문서 정보\";/
-s/\"Document Setup…\";/\"문서 설정…\";/
-s/\"Document Units:\";/\"문서 단위:\";/
+s/\"Document Settings\";/\"문서 설정\";/
+s/\"Document units\";/\"문서 단위\";/
 s/\"Document\";/\"문서\";/
 s/\"Don't Save\";/\"저장하지 않음\";/
 s/\"Don't export layers hidden by Export persona\";/\"내보내기 페르소나에서 숨긴 레이어는 꺼내지 않음.\";/
@@ -523,7 +525,7 @@ s/\"Exposure\";/\"노출\";/
 s/\"Factor\";/\"요소\";/
 s/\"Factory Reset\";/\"기본값 재설정\";/
 s/\"Failed to open TIFF file\";/\"Tiff 파일을 열지 못했습니다.\";/
-s/\"Favourites\";/\"즐겨찾기\";/
+s/\"Favorites\";/\"즐겨찾기\";/
 s/\"Feather…\";/\"깃털…\";/
 s/\"Feet:\";/\"피트:\";/
 s/\"Feet\";/\"피트\";/
@@ -561,6 +563,7 @@ s/\"Flow Jitter:\";/\"흐름 일그러짐:\";/
 s/\"Flow:\";/\"흐름:\";/
 s/\"Focus\";/\"초점\";/
 s/\"Fold\";/\"접기\";/
+s/\"Folders\";/\"폴더\";/
 s/\"Font:\";/\"서체:\";/
 s/\"Font\";/\"서체\";/
 s/\"Force Pixel Alignment\";/\"강제 픽셀 정렬\";/
@@ -641,6 +644,7 @@ s/\"Hole radius:\";/\"구멍 반지름:\";/
 s/\"Home\";/\"홈\";/
 s/\"Horizontal axis:\";/\"가로 축:\";/
 s/\"Horizontal\";/\"가로\";/
+s/\"Horizontally\";/\"가로로\";/
 s/\"Hue\";/\"색채\";/
 s/\"Hyperlink\";/\"하이퍼링크\";/
 s/\"Hyperlinks\";/\"하이퍼링크\";/
@@ -724,6 +728,7 @@ s/\"Justify\";/\"맞춤\";/
 s/\"Keyboards\";/\"키보드\";/
 s/\"Knife Tool\";/\"칼 도구\";/
 s/\"Label\";/\"라벨\";/
+s/\"Landscape\";/\"가로 방향\";/
 s/\"Language:\";/\"언어:\";/
 s/\"Language\";/\"언어\";/
 s/\"Large Icons\";/\"큰 아이콘\";/
@@ -740,6 +745,7 @@ s/\"Layers\";/\"레이어\";/
 s/\"Layout Persona\";/\"레이아웃 페르소나\";/
 s/\"Layout\";/\"레이아웃\";/
 s/\"Learn Spelling\";/\"철자 학습\";/
+s/\"Learn\";/\"배우기\";/
 s/\"Left Bleed:\";/\"왼쪽 도련:\";/
 s/\"Left Margin:\";/\"왼쪽 여백\";/
 s/\"Left curve:\";/\"왼쪽 곡선:\";/
@@ -870,7 +876,10 @@ s/\"Move to Front\";/\"맨 앞으로 가져오기\";/
 s/\"Move to Next View Point\";/\"다음 뷰 포인트로 이동\";/
 s/\"Move to Previous View Point\";/\"이전 뷰 포인트로 이동\";/
 s/\"Move\";/\"이동\";/
+s/\"Multi-page\";/\"다중 페이지\";/
 s/\"My Account\";/\"내 계정\";/
+s/\"My Templates\";/\"내 템플릿\";/
+s/\"My presets\";/\"내 미리 설정\";/
 s/\"Name\";/\"이름\";/
 s/\"Navigator\";/\"네비게이터\";/
 s/\"Negate\";/\"부정\";/
@@ -949,10 +958,10 @@ s/\"Overlap\";/\"덮기\";/
 s/\"Overlay Erase Tool\";/\"오버레이 지우기 도구\";/
 s/\"Overlay Paint Tool\";/\"오버레이 페인트 도구\";/
 s/\"Overlay\";/\"오버레이\";/
-s/\"Page Height:\";/\"페이지 높이:\";/
 s/\"Page Number\";/\"페이지 번호\";/
 s/\"Page Preset:\";/\"페이지 미리 설정:\";/
-s/\"Page Width:\";/\"페이지 너비:\";/
+s/\"Page height\";/\"페이지 높이\";/
+s/\"Page width\";/\"페이지 너비\";/
 s/\"Page:\";/\"페이지:\";/
 s/\"Page\";/\"페이지\";/
 s/\"Pages\";/\"페이지\";/
@@ -1031,7 +1040,7 @@ s/\"Preserve alpha\";/\"알파 유지\";/
 s/\"Preserve aspect ratio\";/\"종횡비 유지\";/
 s/\"Preserve layer FX\";/\"레이어 효과 유지\";/
 s/\"Preset manager\";/\"미리 설정 관리자\";/
-s/\"Preset name:\";/\"Enter a name for the preset\";/
+s/\"Preset orientation\";/\"미리 설정 방향\";/
 s/\"Preset:\";/\"미리 설정:\";/
 s/\"Presets\";/\"미리 설정\";/
 s/\"Press Ready\";/\"프레스품질\";/
@@ -1074,8 +1083,10 @@ s/\"Rasterize to Mask\";/\"마스크 래스터화\";/
 s/\"Rasterize\";/\"래스터화\";/
 s/\"Reapply Base Styles\";/\"기본 스타일 다시 적용\";/
 s/\"Reapply Text Styles\";/\"텍스트 스타일 다시 적용\";/
+s/\"Recent Documents\";/\"최근 문서\";/
 s/\"Recent:\";/\"최근 사용 항목:\";/
 s/\"Recent\";/\"최근 사용 항목\";/
+s/\"Recents\";/\"최근\";/
 s/\"Recolor Adjustment\";/\"재색상 조정\";/
 s/\"Recolor\";/\"재색상\";/
 s/\"Rectangle Tool\";/\"직사각형 도구\";/
@@ -1202,6 +1213,7 @@ s/\"Scope:\";/\"범위:\";/
 s/\"Scope\";/\"범위\";/
 s/\"Search\";/\"찾기\";/
 s/\"Second axis\";/\"두 번째 축\";/
+s/\"See more…\";/\"더보기…\";/
 s/\"Segment Tool\";/\"활꼴 도구\";/
 s/\"Segment\";/\"활꼴\";/
 s/\"Select All\";/\"전체 선택\";/
@@ -1493,7 +1505,7 @@ s/\"Toggle UI\";/\"UI 켜고 끄기\";/
 s/\"Tolerance\";/\"허용량\";/
 s/\"Tonal Range:\";/\"톤 범위:\";/
 s/\"Tonal Range\";/\"색조 범위\";/
-s/\"Tone Map Presets\";/\"톤 맵 미리설정\";/
+s/\"Tone Map Presets\";/\"톤 맵 미리 설정\";/
 s/\"Tone Map\";/\"톤 맵\";/
 s/\"Tone Mapping Persona\";/\"톤 맵핑 페르소나\";/
 s/\"Tone Mapping\";/\"톤 맵핑\";/
@@ -1571,6 +1583,7 @@ s/\"Vertical Alignment\";/\"세로 정렬\";/
 s/\"Vertical Scale\";/\"세로 배율\";/
 s/\"Vertical axis:\";/\"세로 축:\";/
 s/\"Vertical\";/\"세로\";/
+s/\"Vertically\";/\"세로로\";/
 s/\"Vibrance\";/\"활기\";/
 s/\"Video Tutorials\";/\"영상 튜토리얼\";/
 s/\"View Mode\";/\"보기\";/
