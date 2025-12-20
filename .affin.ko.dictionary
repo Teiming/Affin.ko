@@ -541,6 +541,8 @@ s/\"Final\";/\"마지막\";/
 s/\"Find in Layers Page\";/\"레이어 페이지에서 찾기\";/
 s/\"Find in Layers Panel\";/\"레이어 패널에서 찾기\";/
 s/\"Find in Slice Page\";/\"슬라이스 페이지에서 찾기\";/
+s/\"Find\";/\"찾기\";/
+s/\"Find…\";/\"찾기…\";/
 s/\"First Selected\";/\"처음 선택 항목\";/
 s/\"First axis\";/\"첫 번째 축\";/
 s/\"Fit to plane\";/\"평면에 맞춤\";/
@@ -756,6 +758,7 @@ s/\"Lightness\";/\"밝기\";/
 s/\"Line Break\";/\"줄바꿈\";/
 s/\"Line Width\";/\"선 너비\";/
 s/\"Linear\";/\"선형\";/
+s/\"Expand\";/\"확장\";/
 s/\"Link the grid Colors\";/\"격자 색상 연결\";/
 s/\"Links\";/\"연결\";/
 s/\"Liquify Persona\";/\"액화 페르소나\";/
@@ -880,7 +883,6 @@ s/\"New Textured Image Brush\";/\"신규 질감 이미지 브러시\";/
 s/\"New View\";/\"신규 뷰\";/
 s/\"New from Clipboard\";/\"클립보드에서 신규\";/
 s/\"New layer\";/\"신규 레이어\";/
-s/\"New...\";/\"신규...\";/
 s/\"New\";/\"신규\";/
 s/\"News\";/\"뉴스\";/
 s/\"Next\";/\"다음\";/
@@ -1041,6 +1043,7 @@ s/\"Protect hue\";/\"색조 보호\";/
 s/\"Publisher Persona\";/\"Publisher 페르소나\";/
 s/\"Pull\";/\"당기기\";/
 s/\"Purple\";/\"보라\";/
+s/\"Quality:\";/\"퀄리티:\";/
 s/\"Queries\";/\"질의\";/
 s/\"Quick FX\";/\"빠른 FX\";/
 s/\"Quick Mask\";/\"빠른 마스크\";/
@@ -1515,6 +1518,7 @@ s/\"Undo\";/\"실행 취소\";/
 s/\"Unfilled Objects\";/\"칠이 없는 오브젝트\";/
 s/\"Ungroup All\";/\"모든 그룹 풀기\";/
 s/\"Ungroup\";/\"그룹 풀기\";/
+s/\"Lines:\";/\"선:\";/
 s/\"Unignore Spelling "%@"\";/\"철자 "%@"를 무시하지 않기\";/
 s/\"Union toolbar button\";/\"유니온(사라지는 기능) 툴바 버튼\";/
 s/\"Union\";/\"유니온(사라지는 기능)\";/
