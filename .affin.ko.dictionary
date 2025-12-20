@@ -10,8 +10,10 @@ s/\"16 bit\";/\"16 비트\";/
 s/\"2:1 Isometric\";/\"2:1 등각투상\";/
 s/\"32-bit Preview\";/\"32-비트 미리보기\";/
 s/\"8 bit\";/\"8 비트\";/
+s/\"Abbreviation\";/\"줄임말\";/
 s/\"About Designer\";/\"Designer에 관하여\";/
 s/\"Absolute sizes\";/\"절대 크기\";/
+s/\"Accented analogic\";/\"강조 유사색";/
 s/\"Account\";/\"계정\";/
 s/\"Action:\";/\"행동:\";/
 s/\"Actual Size\";/\"실제 크기\";/
@@ -207,7 +209,8 @@ s/\"Brushes\";/\"브러시\";/
 s/\"Business Card\";/\"명함\";/
 s/\"Butt Cap\";/\"짧은 끝단\";/
 s/\"Button\";/\"버튼\";/
-s/\"Callout Ellipse Tool\";/\"말풍선 타원 도구\";/
+s/\"Callout Ellipse Tool\";/\"타원 말풍선 도구\";/
+s/\"Callout Rounded Rectangle Tool\";/\"둥근 직사각형 말풍선 도구\";/
 s/\"Camera\";/\"카메라\";/
 s/\"Cancel\";/\"취소\";/
 s/\"Candidate list\";/\"후보 목록\";/
@@ -224,6 +227,7 @@ s/\"Canva Account\";/\"Canva 계정\";/
 s/\"Cap:\";/\"끝단:\";/
 s/\"Capitalization\";/\"대문자화\";/
 s/\"Captured States\";/\"저장된 상태\";/
+s/\"Cat Tool\";/\"고양이 도구\";/
 s/\"Categories\";/\"범주\";/
 s/\"Cell Size\";/\"셀 크기\";/
 s/\"Center\";/\"가운데\";/
@@ -278,6 +282,7 @@ s/\"Color Format\";/\"색상 포맷\";/
 s/\"Color Grading:\";/\"색상 그레이딩\";/
 s/\"Color Overlay\";/\"색상 오버레이\";/
 s/\"Color Picker Tool\";/\"색상 선택기 도구\";/
+s/\"Color Picker\";/\"색상 선택기\";/
 s/\"Color Profile:\";/\"색상 프로파일:\";/
 s/\"Color Range\";/\"색상 범위\";/
 s/\"Color Space:\";/\"색공간:\";/
@@ -441,6 +446,7 @@ s/\"Don't set wet edges\";/\"젖은 모서리 설정하지 않음\";/
 s/\"Done\";/\"완료\";/
 s/\"Donut Tool\";/\"도넛 도구\";/
 s/\"Donut\";/\"도넛\";/
+s/\"Double Star Tool\";/\"이중별 도구\";/
 s/\"Drag\";/\"드래그\";/
 s/\"Draw Persona\";/\"그리기 페르소나\";/
 s/\"Draw behind fill\";/\"칠 뒤에 그리기\";/
@@ -493,6 +499,7 @@ s/\"Exclude From Snapping\";/\"스내핑에서 제외\";/
 s/\"Exclusion\";/\"제외\";/
 s/\"Expand Stroke\";/\"선 펼치기\";/
 s/\"Expand stroke\";/\"선 펼치기\";/
+s/\"Expand\";/\"확장\";/
 s/\"Export As Template…\";/\"템플릿으로 내보내기…\";/
 s/\"Export Brushes…\";/\"브러시 내보내기…\";/
 s/\"Export LUT\";/\"LUT 내보내기\";/
@@ -534,6 +541,7 @@ s/\"Fill style:\";/\"칠 스타일:\";/
 s/\"Fill:\";/\"칠:\";/
 s/\"Fill\";/\"칠\";/
 s/\"Filled Objects\";/\"칠이 있는 오브젝트\";/
+s/\"Filler Text\";/\"채우기 텍스트\";/
 s/\"Filter the visible presets\";/\"볼 수 있는 미리 설정 필터\";/
 s/\"Filter:\";/\"필터:\";/
 s/\"Filters\";/\"필터\";/
@@ -758,7 +766,7 @@ s/\"Lightness\";/\"밝기\";/
 s/\"Line Break\";/\"줄바꿈\";/
 s/\"Line Width\";/\"선 너비\";/
 s/\"Linear\";/\"선형\";/
-s/\"Expand\";/\"확장\";/
+s/\"Lines:\";/\"선:\";/
 s/\"Link the grid Colors\";/\"격자 색상 연결\";/
 s/\"Links\";/\"연결\";/
 s/\"Liquify Persona\";/\"액화 페르소나\";/
@@ -779,6 +787,7 @@ s/\"Lower Case\";/\"소문자화\";/
 s/\"Luminosity Jitter:\";/\"명도 일그러짐:\";/
 s/\"Luminosity\";/\"휘도\";/
 s/\"Lyr\";/\"레이어\";/
+s/\"Machine Learning Models\";/\"기계학습 모델\";/
 s/\"Macro\";/\"매크로\";/
 s/\"MainMenu\";/\"메인메뉴\";/
 s/\"Maintain fill aspect ratio\";/\"칠 종횡비 유지\";/
@@ -958,6 +967,7 @@ s/\"Paste Inside\";/\"안으로 붙이기\";/
 s/\"Paste Style\";/\"스타일 붙이기\";/
 s/\"Paste Without Format\";/\"포맷 없이 붙이기\";/
 s/\"Paste\";/\"붙이기\";/
+s/\"Path Brushes\";/\"경로 브러시\";/
 s/\"Path Text\";/\"경로 텍스트\";/
 s/\"Path:\";/\"경로:\";/
 s/\"Pen Tool\";/\"펜 도구\";/
@@ -1043,6 +1053,7 @@ s/\"Protect hue\";/\"색조 보호\";/
 s/\"Publisher Persona\";/\"Publisher 페르소나\";/
 s/\"Pull\";/\"당기기\";/
 s/\"Purple\";/\"보라\";/
+s/\"QR Code Tool\";/\"QR코드 도구\";/
 s/\"Quality:\";/\"퀄리티:\";/
 s/\"Queries\";/\"질의\";/
 s/\"Quick FX\";/\"빠른 FX\";/
@@ -1342,10 +1353,12 @@ s/\"Speed\";/\"빠르기\";/
 s/\"Spelling Options…\";/\"철자 설정…\";/
 s/\"Spelling:\";/\"철자:\";/
 s/\"Spelling\";/\"철자\";/
+s/\"Spiral Tool\";/\"나선 도구\";/
 s/\"Split Complementary\";/\"분할 보색\";/
 s/\"Split Curve\";/\"곡선 분할하기\";/
 s/\"Split Toning\";/\"분할 색조\";/
 s/\"Split View\";/\"분할 보기\";/
+s/\"Split complementary\";/\"분할 보색";/
 s/\"Split view\";/\"분할 보기\";/
 s/\"Split\";/\"분할\";/
 s/\"Spread Margin\";/\"스프레드 여백\";/
@@ -1367,6 +1380,7 @@ s/\"Std. Dev.: %1\";/\"표준 편차: %1\";/
 s/\"Std. Dev.: -\";/\"표준 편차: -\";/
 s/\"Stock Disclaimer\";/\"스톡 면책사항\";/
 s/\"Stock\";/\"스톡\";/
+s/\"Straight\";/\"곧은\";/
 s/\"Strength:\";/\"세기:\";/
 s/\"Stretch\";/\"늘이기\";/
 s/\"Strikeout\";/\"취소선\";/
@@ -1425,6 +1439,7 @@ s/\"Tear\";/\"눈물\";/
 s/\"Temperature\";/\"온도\";/
 s/\"Templates\";/\"템플릿\";/
 s/\"Test\";/\"테스트\";/
+s/\"Tetradic\";/\"사색 조화";/
 s/\"Text Flow\";/\"텍스트 흐름\";/
 s/\"Text Frame\";/\"텍스트 액자\";/
 s/\"Text Styles\";/\"텍스트 스타일\";/
@@ -1502,6 +1517,7 @@ s/\"Transparent Background\";/\"투명한 배경\";/
 s/\"Transparent Objects\";/\"투명 오브젝트\";/
 s/\"Transparent background\";/\"투명한 배경\";/
 s/\"Transparent\";/\"투명\";/
+s/\"Triadic\";/\"삼색 조화";/
 s/\"Triangle Tool\";/\"삼각형 도구\";/
 s/\"Tutorial...\";/\"튜토리얼...\";/
 s/\"Twirl\";/\"소용돌이\";/
@@ -1518,7 +1534,6 @@ s/\"Undo\";/\"실행 취소\";/
 s/\"Unfilled Objects\";/\"칠이 없는 오브젝트\";/
 s/\"Ungroup All\";/\"모든 그룹 풀기\";/
 s/\"Ungroup\";/\"그룹 풀기\";/
-s/\"Lines:\";/\"선:\";/
 s/\"Unignore Spelling "%@"\";/\"철자 "%@"를 무시하지 않기\";/
 s/\"Union toolbar button\";/\"유니온(사라지는 기능) 툴바 버튼\";/
 s/\"Union\";/\"유니온(사라지는 기능)\";/
