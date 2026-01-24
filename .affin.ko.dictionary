@@ -18,13 +18,14 @@ s/\"32-bit Preview\";/\"32-비트 미리보기\";/
 s/\"8 bit\";/\"8 비트\";/
 s/\"Abbreviation\";/\"줄임말\";/
 s/\"About Designer\";/\"Designer에 관하여\";/
+s/\"About…\";/\"Affinity에 관하여\";/
 s/\"Absolute sizes\";/\"절대 크기\";/
 s/\"Accented analogic\";/\"강조 유사색";/
 s/\"Account\";/\"계정\";/
 s/\"Action:\";/\"행동:\";/
 s/\"Actual Size\";/\"실제 크기\";/
 s/\"Add %1\";/\"%1 추가\";/
-s/\"Add (Compound)\";/\"추가 (결합)\";/
+s/\"Add (Compound)\";/\"추가 (복합)\";/
 s/\"Add Adjustment Preset\";/\"조정 미리 설정 추가\";/
 s/\"Add Application Palette\";/\"응용프로그램 팔레트 추가\";/
 s/\"Add Artistic Text\";/\"에술 텍스트 추가\";/
@@ -228,7 +229,7 @@ s/\"Cannot Create Document\";/\"문서를 생성할 수 없음\";/
 s/\"Cannot Develop\";/\"현상할 수 없음\";/
 s/\"Cannot Export\";/\"내보낼 수 없음\";/
 s/\"Cannot Import\";/\"들여올 수 없음\";/
-s/\"Cannot Print\";/\"인쇄할 수 없음\";/
+s/\"Cannot Print\";/\"프린트할 수 없음\";/
 s/\"Cannot Share\";/\"공유할 수 없음\";/
 s/\"Cannot Tone Map\";/\"톤 매핑할 수 없음\";/
 s/\"Canva Account\";/\"Canva 계정\";/
@@ -267,7 +268,7 @@ s/\"Clear Mask\";/\"마스크 해제\";/
 s/\"Clear Menu\";/\"메뉴 지우기\";/
 s/\"Clear selection\";/\"선택 해제\";/
 s/\"Click\";/\"클릭\";/
-s/\"Clip to Canvas\";/\"캔버스에 클립\";/
+s/\"Clip Canvas\";/\"캔버스 클립\";/
 s/\"Clipping Alarms\";/\"클리핑 알람\";/
 s/\"Clone Brush Tool\";/\"복제 브러시 도구\";/
 s/\"Clone Brush\";/\"복제 브러시\";/
@@ -333,6 +334,7 @@ s/\"Convert to Text Path\";/\"텍스트 경로로 변환\";/
 s/\"Convert:\";/\"변환:\";/
 s/\"Convert\";/\"변환\";/
 s/\"Copy Color to Clipboard as Hex\";/\"Hex로 색상 복사\";/
+s/\"Copy Merged\";/\"결합부분 복사\";/
 s/\"Copy\";/\"복사\";/
 s/\"Copyright\";/\"저작권\";/
 s/\"Corner Tool\";/\"꼭짓점 도구\";/
@@ -344,7 +346,7 @@ s/\"Crash\";/\"충돌\";/
 s/\"Create Artboard\";/\"아트보드 생성\";/
 s/\"Create Character Style\";/\"문자 스타일 생성\";/
 s/\"Create Color Chord\";/\"색상 코드 생성\";/
-s/\"Create Compound\";/\"결합 생성\";/
+s/\"Create Compound\";/\"복합 생성\";/
 s/\"Create Document\";/\"문서 생성\";/
 s/\"Create New Category\";/\"신규 범주 생성\";/
 s/\"Create Palette From Document\";/\"문서로부터 팔레트 생성\";/
@@ -381,6 +383,7 @@ s/\"Dashed Objects\";/\"점선 오브젝트\";/
 s/\"Date added\";/\"추가된 날짜\";/
 s/\"Date and Time\";/\"날짜와 시간\";/
 s/\"Date shot\";/\"찍은 날짜\";/
+s/\"Deactivate License…\";/\"라이센스 비활성화…\";/
 s/\"Decimal Places for Unit Types:\";/\"단위 종류별 소수점 위치:\";/
 s/\"Decorations\";/\"장식\";/
 s/\"Decrease\";/\"줄이기\";/
@@ -446,6 +449,7 @@ s/\"Divisions:\";/\"구획:\";/
 s/\"Do not add\";/\"추가하지 않음\";/
 s/\"Dock Tools\";/\"도구 고정\";/
 s/\"Document Info\";/\"문서 정보\";/
+s/\"Document Metadata…\";/\"문서 메타데이터…\";/
 s/\"Document Settings\";/\"문서 설정\";/
 s/\"Document units\";/\"문서 단위\";/
 s/\"Document\";/\"문서\";/
@@ -672,6 +676,7 @@ s/\"Ignore\";/\"무시\";/
 s/\"Image\";/\"이미지\";/
 s/\"Images\";/\"이미지\";/
 s/\"Import Brushes\";/\"브러시 들여오기\";/
+s/\"Import Content\";/\"콘텐츠 들여오기\";/
 s/\"Import Failed\";/\"실패한 들여오기\";/
 s/\"Import Palette…\";/\"팔레트 들여오기…\";/
 s/\"Import Presets…\";/\"미리 설정 들여오기…\";/
@@ -700,6 +705,7 @@ s/\"Inner Shadow\";/\"내부 그림자\";/
 s/\"Inner offset:\";/\"내부 편차:\";/
 s/\"Inner radius:\";/\"내부 반지름:\";/
 s/\"Inner\";/\"내부\";/
+s/\"Inpaint\";/\"인페인트\";/
 s/\"Insert Artboard\";/\"아트보드 삽입\";/
 s/\"Insert Behind\";/\"뒤로 삽입\";/
 s/\"Insert Character\";/\"문자 삽입\";/
@@ -720,7 +726,7 @@ s/\"Inside\";/\"안으로\";/
 s/\"Intensity:\";/\"세기:\";/
 s/\"Interactive\";/\"상호작용\";/
 s/\"Intermediate angles:\";/\"사이 각도:\";/
-s/\"Intersect (Compound)\";/\"교차 (결합)\";/
+s/\"Intersect (Compound)\";/\"교차 (복합)\";/
 s/\"Intersect toolbar button\";/\"교차 툴바 버튼\";/
 s/\"Intersect\";/\"교차\";/
 s/\"Invert Mask\";/\"마스크 반전\";/
@@ -787,6 +793,7 @@ s/\"Line Width\";/\"선 너비\";/
 s/\"Linear\";/\"선형\";/
 s/\"Lines:\";/\"선:\";/
 s/\"Link the grid Colors\";/\"격자 색상 연결\";/
+s/\"Linked\";/\"연결된\";/
 s/\"Links\";/\"연결\";/
 s/\"Liquify Persona\";/\"액화 페르소나\";/
 s/\"Liquify\";/\"액화\";/
@@ -842,12 +849,12 @@ s/\"Median: -\";/\"중앙값: -\";/
 s/\"Median\";/\"중앙값\";/
 s/\"Medium Thumbnails\";/\"중간 썸네일\";/
 s/\"Medium\";/\"중간\";/
-s/\"Merge All Windows\";/\"모든 윈도우 통합\";/
-s/\"Merge Curves\";/\"곡선 통합\";/
-s/\"Merge Down\";/\"아래 항목 통합\";/
-s/\"Merge Selected\";/\"선택 항목 통합\";/
-s/\"Merge Visible\";/\"보이는 항목 통합\";/
-s/\"Merge\";/\"통합\";/
+s/\"Merge All Windows\";/\"모든 윈도우 결합\";/
+s/\"Merge Curves\";/\"곡선 결합\";/
+s/\"Merge Down\";/\"아래 항목 결합\";/
+s/\"Merge Selected\";/\"선택 항목 결합\";/
+s/\"Merge Visible\";/\"보이는 항목 결합\";/
+s/\"Merge\";/\"결합\";/
 s/\"Mesh\";/\"그물\";/
 s/\"Messages\";/\"메시지\";/
 s/\"Meters:\";/\"미터:\";/
@@ -904,6 +911,7 @@ s/\"New Document\";/\"신규 문서\";/
 s/\"New From Clipboard\";/\"클립보드에서 신규\";/
 s/\"New Group\";/\"신규 그룹\";/
 s/\"New Image Brush\";/\"신규 이미지 브러시\";/
+s/\"New Image Process\";/\"신규 이미지 프로세스\";/
 s/\"New Layer\";/\"신규 레이어\";/
 s/\"New Pixel Layer\";/\"신규 픽셀 레이어\";/
 s/\"New Round Brush\";/\"신규 둥근 브러시\";/
@@ -912,9 +920,12 @@ s/\"New Square Brush\";/\"신규 사각형 브러시\";/
 s/\"New Textured Image Brush\";/\"신규 질감 이미지 브러시\";/
 s/\"New View\";/\"신규 뷰\";/
 s/\"New from Clipboard\";/\"클립보드에서 신규\";/
+s/\"New from Favorites…\";/\"즐겨찾기로부터 신규…\";/
+s/\"New from Last Preset…\";/\"마지막 미리 설정으로부터 신규…\";/
 s/\"New layer\";/\"신규 레이어\";/
 s/\"New\";/\"신규\";/
 s/\"News\";/\"뉴스\";/
+s/\"New…\";/\"신규…\";/
 s/\"Next\";/\"다음\";/
 s/\"No Camera Data\";/\"카메라 데이터 없음\";/
 s/\"No Line Style\";/\"선 스타일 없음\";/
@@ -983,13 +994,13 @@ s/\"Paint Brush Tool\";/\"페인트 브러시 도구\";/
 s/\"Panels\";/\"패널\";/
 s/\"Panorama Persona\";/\"파노라마 페르소나\";/
 s/\"Panorama\";/\"파노라마\";/
+s/\"Panorama…\";/\"파노라마…\";/
 s/\"Paragraph Leading\";/\"줄 간격\";/
 s/\"Paragraph\";/\"문단\";/
 s/\"Parallel perspective\";/\"평행투시\";/
 s/\"Paste FX\";/\"효과 붙이기\";/
 s/\"Paste Inside\";/\"안으로 붙이기\";/
 s/\"Paste Style\";/\"스타일 붙이기\";/
-s/\"Paste Without Format\";/\"포맷 없이 붙이기\";/
 s/\"Paste\";/\"붙이기\";/
 s/\"Path Brushes\";/\"경로 브러시\";/
 s/\"Path Text\";/\"경로 텍스트\";/
@@ -1007,6 +1018,7 @@ s/\"Percentile: 0\";/\"백분율: 0\";/
 s/\"Performance\";/\"성능\";/
 s/\"Persona\";/\"페르소나\";/
 s/\"Personas\";/\"페르소나\";/
+s/\"Perspective\";/\"관점\";/
 s/\"Photo Persona\";/\"사진 페르소나\";/
 s/\"Photo\";/\"사진\";/
 s/\"Picas:\";/\"파이카:\";/
@@ -1028,6 +1040,7 @@ s/\"Pixels:\";/\"픽셀:\";/
 s/\"Pixels\";/\"픽셀\";/
 s/\"Place Image Tool\";/\"이미지 배치 도구\";/
 s/\"Place Image\";/\"이미지 배치\";/
+s/\"Placement Policy\";/\"배치 정책\";/
 s/\"Place…\";/\"배치…\";/
 s/\"Plane editing options\";/\"평면 편집 설정\";/
 s/\"Plane perpendicular axis:\";/\"평면 직교 축:\";/
@@ -1051,6 +1064,7 @@ s/\"Precise Lower Baseline\";/\"기준선 조금씩 낮추기\";/
 s/\"Precise Raise Baseline\";/\"기준선 조금씩 올리기\";/
 s/\"Precise Smaller\";/\"조금씩 작게\";/
 s/\"Preferences\";/\"환경설정\";/
+s/\"Preferences…\";/\"환경설정…\";/
 s/\"Preserve alpha\";/\"알파 유지\";/
 s/\"Preserve aspect ratio\";/\"종횡비 유지\";/
 s/\"Preserve layer FX\";/\"레이어 효과 유지\";/
@@ -1063,7 +1077,8 @@ s/\"Pressure:\";/\"압력:\";/
 s/\"Pressure\";/\"압력\";/
 s/\"Preview Mode\";/\"미리보기 모드\";/
 s/\"Previous\";/\"이전\";/
-s/\"Print\";/\"인쇄\";/
+s/\"Print\";/\"프린트\";/
+s/\"Print…\";/\"프린트…\";/
 s/\"Profile:\";/\"프로파일:\";/
 s/\"Profile\";/\"프로파일\";/
 s/\"Profiles\";/\"프로파일\";/
@@ -1116,7 +1131,7 @@ s/\"Redo %@\";/\"%@ 다시 실행\";/
 s/\"Redo\";/\"다시 실행\";/
 s/\"Refine Edges…\";/\"모서리 다듬기…\";/
 s/\"Reflect\";/\"반사\";/
-s/\"Release Compound\";/\"결합 해제\";/
+s/\"Release Compound\";/\"복합 해제\";/
 s/\"Remove All Guides\";/\"모든 안내선 지우기\";/
 s/\"Remove Default for\";/\"기본값 지우기\";/
 s/\"Remove Layer\";/\"레이어 지우기\";/
@@ -1194,12 +1209,13 @@ s/\"Row Marquee Tool\";/\"행 천막 도구\";/
 s/\"Rows:\";/\"열:\";/
 s/\"Rulers\";/\"눈금자\";/
 s/\"Salmon\";/\"연어\";/
+s/\"Same\";/\"동일\";/
 s/\"Samples\";/\"견본\";/
 s/\"Satellite\";/\"위성\";/
 s/\"Saturate\";/\"채도\";/
 s/\"Saturation Jitter:\";/\"채도 일그러짐:\";/
 s/\"Saturation\";/\"채도\";/
-s/\"Save As Package…\";/\"패키지로 저장…\";/
+s/\"Save As Package...\";/\"패키지로 저장...\";/
 s/\"Save As…\";/\"다른 이름으로 저장…\";/
 s/\"Save History with Document\";/\"문서와 함께 편집 기록 저장\";/
 s/\"Save Mesh\";/\"그물 저장\";/
@@ -1430,7 +1446,7 @@ s/\"Styles\";/\"스타일\";/
 s/\"Sub Brushes\";/\"보조 브러시\";/
 s/\"Subdivision lines:\";/\"보조구획 선:\";/
 s/\"Subscript\";/\"아랫첨자\";/
-s/\"Subtract (Compound)\";/\"제거 (결합)\";/
+s/\"Subtract (Compound)\";/\"제거 (복합)\";/
 s/\"Subtract toolbar button\";/\"제거 툴바 버튼\";/
 s/\"Subtract\";/\"제거\";/
 s/\"Summary\";/\"요약\";/
@@ -1476,7 +1492,7 @@ s/\"Text:\";/\"텍스트:\";/
 s/\"Text\";/\"텍스트\";/
 s/\"Texture Line Style\";/\"질감 선 스타일\";/
 s/\"Texture\";/\"질감\";/
-s/\"Third party licenses\";/\"서드파티 자격\";/
+s/\"Third party licenses\";/\"서드파티 라이센스\";/
 s/\"Threshold\";/\"역치\";/
 s/\"Tight\";/\"좁은\";/
 s/\"Tighten More\";/\"더욱 좁게\";/
@@ -1555,6 +1571,7 @@ s/\"Typography\";/\"타이포그래피\";/
 s/\"UI Style:\";/\"UI 스타일:\";/
 s/\"Unable to import style. Incompatible file.\";/\"스타일을 들여올 수 없습니다. 호환되지 않는 파일입니다.\";/
 s/\"Unable to import style.\";/\"스타일을 들여올 수 없습니다.\";/
+s/\"Unclip Canvas\";/\"캔버스 클립해제\";/
 s/\"Undashed Objects\";/\"점선 없는 오브젝트\";/
 s/\"Underline\";/\"밑줄\";/
 s/\"Undo %@\";/\"%@ 실행 취소\";/
@@ -1636,13 +1653,14 @@ s/\"Window size\";/\"윈도우 크기\";/
 s/\"Window:\";/\"윈도우:\";/
 s/\"Window\";/\"윈도우\";/
 s/\"Wireframe\";/\"와이어프레임\";/
+s/\"Without Format\";/\"포맷 없이\";/
 s/\"Word Count\";/\"단어 카운트\";/
 s/\"Would you like to save this document?\";/\"문서를 저장하시겠습니까?\";/
 s/\"X Offset\";/\"X 편차\";/
 s/\"X Position\";/\"X 위치\";/
 s/\"X-ray\";/\"엑스레이\";/
 s/\"Xfm\";/\"변형\";/
-s/\"Xor (Compound)\";/\"배타적논리합 (결합)\";/
+s/\"Xor (Compound)\";/\"배타적논리합 (복합)\";/
 s/\"Xor toolbar button\";/\"배타적논리합 툴바 버튼\";/
 s/\"Xor\";/\"배타적논리합\";/
 s/\"Y Offset\";/\"Y 편차\";/
@@ -1665,7 +1683,7 @@ s/\"\<Untitled>\";/\"<제목 없음>\";/
 s/\"\[No Style]\";/\"\[스타일 없음]\";/
 s/\"\[No change]\";/\"\[변화 없음]\";/
 s/\"\[No changes]\";/\"\[변화 없음]\";/
-s/\"\[Same Style]\";/\"\[같은 스타일]\";/
+s/\"\[Same Style]\";/\"\[동일 스타일]\";/
 s/\"\[replace]\";/\"\[교체]\";/
 s/\"\[user]\";/\"\[사용자]\";/
 s/\"above\";/\"위\";/
