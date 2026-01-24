@@ -7,6 +7,12 @@ s/\"%@ has been modified.\";/\"%@이(가) 변경되었습니다.\";/
 s/\"'%1' selected. \";/\"'%1' 선택함. \";/
 s/\"'Actual Size' Zoom:\";/\"'실제 크기' 맞추기:\";/
 s/\"16 bit\";/\"16 비트\";/
+s/\"1cm Isometric Cube\";/\"1cm 등각투상 정육면체\";/
+s/\"1cm Square with 1mm Divisions\";/\"1mm 분할된 1cm 정사각형\";/
+s/\"1cm Square\";/\"1cm 정사각형\";/
+s/\"1cm Triangular with 1mm Divisions\";/\"1mm 분할된 1cm 정삼각형\";/
+s/\"1cm Triangular with 2mm Divisions\";/\"2mm 분할된 1cm 정삼각형\";/
+s/\"1cm Triangular\";/\"1cm 정삼각형\";/
 s/\"2:1 Isometric\";/\"2:1 등각투상\";/
 s/\"32-bit Preview\";/\"32-비트 미리보기\";/
 s/\"8 bit\";/\"8 비트\";/
@@ -120,6 +126,7 @@ s/\"Assign\";/\"할당\";/
 s/\"Assistant Manager…\";/\"손쉬운 사용 관리자…\";/
 s/\"Assistant Options\";/\"손쉬운 사용 설정\";/
 s/\"Assistant\";/\"손쉬운 사용\";/
+s/\"Astrophotography Stack Persona\";/\"천체사진 스택 페르소나\";/
 s/\"Author\";/\"저자\";/
 s/\"Auto Colors\";/\"자동 색상\";/
 s/\"Auto Contrast\";/\"자동 대비\";/
@@ -206,6 +213,7 @@ s/\"Brush Item Context Menu\";/\"브러시 항목 상황별 메뉴\";/
 s/\"Brush Width:\";/\"브러시 너비:\";/
 s/\"Brush\";/\"브러시\";/
 s/\"Brushes\";/\"브러시\";/
+s/\"Bullet\";/\"총알\";/
 s/\"Business Card\";/\"명함\";/
 s/\"Butt Cap\";/\"짧은 끝단\";/
 s/\"Button\";/\"버튼\";/
@@ -224,6 +232,7 @@ s/\"Cannot Print\";/\"인쇄할 수 없음\";/
 s/\"Cannot Share\";/\"공유할 수 없음\";/
 s/\"Cannot Tone Map\";/\"톤 매핑할 수 없음\";/
 s/\"Canva Account\";/\"Canva 계정\";/
+s/\"Canvas…\";/\"캔버스…\";/
 s/\"Cap:\";/\"끝단:\";/
 s/\"Capitalization\";/\"대문자화\";/
 s/\"Captured States\";/\"저장된 상태\";/
@@ -440,6 +449,7 @@ s/\"Document Info\";/\"문서 정보\";/
 s/\"Document Settings\";/\"문서 설정\";/
 s/\"Document units\";/\"문서 단위\";/
 s/\"Document\";/\"문서\";/
+s/\"Document…\";/\"문서…\";/
 s/\"Don't Save\";/\"저장하지 않음\";/
 s/\"Don't export layers hidden by Export persona\";/\"내보내기 페르소나에서 숨긴 레이어는 꺼내지 않음.\";/
 s/\"Don't restore\";/\"복원하지 않음\";/
@@ -524,6 +534,8 @@ s/\"Exposure:\";/\"노출:\";/
 s/\"Exposure\";/\"노출\";/
 s/\"Factor\";/\"요소\";/
 s/\"Factory Reset\";/\"기본값 재설정\";/
+s/\"Fade %@…\";/\"%@를 페이드…\";/
+s/\"Fade…\";/\"페이드…\";/
 s/\"Failed to open TIFF file\";/\"Tiff 파일을 열지 못했습니다.\";/
 s/\"Favorites\";/\"즐겨찾기\";/
 s/\"Feather…\";/\"깃털…\";/
@@ -594,6 +606,7 @@ s/\"Gradient Map\";/\"그레이디언트 맵\";/
 s/\"Gradient Overlay\";/\"그레이디언트 오버레이\";/
 s/\"Gradient\";/\"그레이디언트\";/
 s/\"Gradients\";/\"그레이디언트\";/
+s/\"Graph paper\";/\"그래프 용지\";/
 s/\"Gray\";/\"회색\";/
 s/\"Grays\";/\"회색\";/
 s/\"Grayscale\";/\"그레이스케일\";/
@@ -795,7 +808,6 @@ s/\"Luminosity\";/\"휘도\";/
 s/\"Lyr\";/\"레이어\";/
 s/\"Machine Learning Models\";/\"기계학습 모델\";/
 s/\"Macro\";/\"매크로\";/
-s/\"MainMenu\";/\"메인메뉴\";/
 s/\"Maintain fill aspect ratio\";/\"칠 종횡비 유지\";/
 s/\"Make Copy\";/\"복사\";/
 s/\"Make Global\";/\"전역 만들기\";/
@@ -936,6 +948,7 @@ s/\"Opaque Objects\";/\"불투명 오브젝트\";/
 s/\"Open Curves\";/\"열린 곡선\";/
 s/\"Open Recent\";/\"최근 사용 열기\";/
 s/\"Open\";/\"열기\";/
+s/\"Open…\";/\"열기…\";/
 s/\"Options\";/\"설정\";/
 s/\"Orange\";/\"주황\";/
 s/\"Order:\";/\"순서:\";/
@@ -948,6 +961,7 @@ s/\"Outer Shadow\";/\"외부 그림자\";/
 s/\"Outer\";/\"외부\";/
 s/\"Outline view mode\";/\"아웃라인 보기\";/
 s/\"Outline\";/\"아웃라인\";/
+s/\"Outline…\";/\"아웃라인…\";/
 s/\"Output Angle\";/\"출력 각도\";/
 s/\"Output Profile\";/\"프로파일 출력\";/
 s/\"Output\";/\"출력\";/
@@ -971,6 +985,7 @@ s/\"Panorama Persona\";/\"파노라마 페르소나\";/
 s/\"Panorama\";/\"파노라마\";/
 s/\"Paragraph Leading\";/\"줄 간격\";/
 s/\"Paragraph\";/\"문단\";/
+s/\"Parallel perspective\";/\"평행투시\";/
 s/\"Paste FX\";/\"효과 붙이기\";/
 s/\"Paste Inside\";/\"안으로 붙이기\";/
 s/\"Paste Style\";/\"스타일 붙이기\";/
@@ -1427,6 +1442,7 @@ s/\"Swap arrow head with tail\";/\"화살표 머리를 꼬리와 교대\";/
 s/\"Swap\";/\"교대\";/
 s/\"Swatches\";/\"견본\";/
 s/\"Switch to Next View\";/\"다음 뷰로 전환\";/
+s/\"Switch to Previous View\";/\"이전 뷰로 전환\";/
 s/\"Symbol\";/\"상징\";/
 s/\"Symbols Studio\";/\"상징 작업실\";/
 s/\"Symbols\";/\"상징\";/
