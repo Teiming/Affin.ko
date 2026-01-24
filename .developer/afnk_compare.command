@@ -1,5 +1,5 @@
 #!/bin/zsh
-APPVERS=3.0.0
+APPVERS=3.0.3
 
 ENGPATH=/Applications/Affinity.app/Contents/Resources/en-US.lproj/
 JAPPATH=/Applications/Affinity.app/Contents/Resources/ja.lproj/
