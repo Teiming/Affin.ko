@@ -215,7 +215,7 @@ s/\"Brush Item Context Menu\";/\"브러시 항목 상황별 메뉴\";/
 s/\"Brush Width:\";/\"브러시 너비:\";/
 s/\"Brush\";/\"브러시\";/
 s/\"Brushes\";/\"브러시\";/
-s/\"Bullet\";/\"총알\";/
+s/\"Bullet\";/\"점\";/
 s/\"Burn\";/\"번\";/
 s/\"Business Card\";/\"명함\";/
 s/\"Butt Cap\";/\"짧은 끝단\";/
@@ -799,6 +799,7 @@ s/\"Linked\";/\"연결된\";/
 s/\"Links\";/\"연결\";/
 s/\"Liquify Persona\";/\"액화 페르소나\";/
 s/\"Liquify\";/\"액화\";/
+s/\"List\";/\"목록\";/
 s/\"Load Mesh\";/\"그물 불러오기\";/
 s/\"Load\";/\"불러오기\";/
 s/\"Location\";/\"위치\";/
@@ -810,8 +811,8 @@ s/\"Loosen More\";/\"더욱 넓게\";/
 s/\"Loosen\";/\"넓게\";/
 s/\"Lorem Ipsum\";/\"채우기 텍스트\";/
 s/\"Low Frequency\";/\"저주파수\";/
-s/\"Lower Baseline\";/\"기준선 내리기\";/
 s/\"Lower Case\";/\"소문자화\";/
+s/\"Lower\";/\"더 낮게\";/
 s/\"Luminosity Jitter:\";/\"명도 일그러짐:\";/
 s/\"Luminosity\";/\"휘도\";/
 s/\"Lyr\";/\"레이어\";/
@@ -1063,8 +1064,8 @@ s/\"Posterize…\";/\"포스터라이즈…\";/
 s/\"Precise Bigger\";/\"조금씩 크게\";/
 s/\"Precise Decrease\";/\"조금씩 줄이기\";/
 s/\"Precise Increase\";/\"조금씩 늘리기\";/
-s/\"Precise Lower Baseline\";/\"기준선 조금씩 낮추기\";/
-s/\"Precise Raise Baseline\";/\"기준선 조금씩 올리기\";/
+s/\"Precise Lower\";/\"조금씩 더 낮게\";/
+s/\"Precise Raise\";/\"조금씩 더 높게\";/
 s/\"Precise Smaller\";/\"조금씩 작게\";/
 s/\"Preferences\";/\"환경설정\";/
 s/\"Preferences…\";/\"환경설정…\";/
@@ -1108,7 +1109,7 @@ s/\"Radial\";/\"방사형\";/
 s/\"Radius:\";/\"반지름:\";/
 s/\"Radius\";/\"반지름\";/
 s/\"Rainbow\";/\"무지개\";/
-s/\"Raise Baseline\";/\"기준선 올리기\";/
+s/\"Raise\";/\"더 높게\";/
 s/\"Random\";/\"무작위\";/
 s/\"Raster Menu\";/\"래스터 메뉴\";/
 s/\"Rasterize To Mask\";/\"마스크 래스터화\";/
