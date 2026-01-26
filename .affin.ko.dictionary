@@ -86,6 +86,7 @@ s/\"Alignment:\";/\"정렬:\";/
 s/\"Alignment\";/\"정렬\";/
 s/\"All Caps\";/\"모두 대문자\";/
 s/\"All Channels\";/\"모든 채널\";/
+s/\"All Tools\";/\"모든 도구\";/
 s/\"All layers\";/\"모든 레이어\";/
 s/\"All\";/\"모두\";/
 s/\"Alpha Range\";/\"알파 범위\";/
@@ -1162,6 +1163,7 @@ s/\"Reset Mesh\";/\"그물 재설정\";/
 s/\"Reset Rotation\";/\"회전 재설정\";/
 s/\"Reset Selection Box\";/\"선택 항목 상자 재설정\";/
 s/\"Reset Studio\";/\"작업실 재설정\";/
+s/\"Reset Tools\";/\"도구 재설정\";/
 s/\"Reset\";/\"재설정\";/
 s/\"Resource Manager...\";/\"자원 관리자...\";/
 s/\"Restore Master Presets\";/\"주 미리 설정 복원\";/
@@ -1475,6 +1477,7 @@ s/\"Synchronise Defaults\";/\"기본값 동기화\";/
 s/\"Synchronise defaults from selection\";/\"선택 항목에서 기본값 동기화\";/
 s/\"Synchronise from Selection\";/\"선택 항목에서 기본값 동기화\";/
 s/\"Tab\";/\"탭\";/
+s/\"Table Tool\";/\"표 도구\";/
 s/\"Table\";/\"표\";/
 s/\"Tables\";/\"표\";/
 s/\"Tag Color\";/\"태그 색상\";/
@@ -1603,6 +1606,7 @@ s/\"Use None\";/\"합자 없음\";/
 s/\"User Defined\";/\"사용자 정의\";/
 s/\"User Forums\";/\"사용자 포럼\";/
 s/\"User Interface\";/\"사용자 인터페이스\";/
+s/\"Utility\";/\"유틸리티\";/
 s/\"Valid\";/\"유효\";/
 s/\"Vector Brush Tool\";/\"벡터 브러시 도구\";/
 s/\"Vector Crop Tool\";/\"벡터 크롭 도구\";/
