@@ -25,6 +25,10 @@ Affin.ko은 Affinity.app을 번역합니다. Affinity.app이 없다면 번역할
 
 설치한 후에는 제대로 설치된 것인지 확인을 위해 한 번 실행해주시기 바랍니다.
 
+## Terminal 권한 설정
+
+시스템 설정 → 개인정보 보호 및 보안 → 전체 디스크 접근 권한 → Terminal.app 허용
+
 ## git 설치
 
 > git을 처음 이용하시는 경우, 설치부터 해야합니다. macOS의 `Terminal`을 실행하고 다음 명령어를 입력합니다.
